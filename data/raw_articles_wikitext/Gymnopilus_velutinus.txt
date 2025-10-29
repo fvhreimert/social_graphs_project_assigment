@@ -1,0 +1,34 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image =
+| image_caption = 
+| taxon = Gymnopilus velutinus
+| authority = ([[Tom Petch|Petch]]) [[Rolf Singer|Singer]]
+| synonyms = 
+}}
+{{mycomorphbox
+| name = Gymnopilus velutinus
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=}}
+'''''Gymnopilus velutinus''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]].
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==External links==
+*''[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=131542 Gymnopilus velutinus]'' at [[Index Fungorum]]
+
+{{Taxonbar|from=Q5625039}}
+
+[[Category:Gymnopilus|velutinus]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

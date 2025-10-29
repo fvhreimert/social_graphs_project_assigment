@@ -1,0 +1,249 @@
+{{Short description|Fungus in the family Russulaceae from North Africa, northern Asia, Europe, and North America}}
+{{Speciesbox
+| image = Lactarius torminosus (cropped).jpg
+| genus = Lactarius
+| species = torminosus
+| authority = ([[Jacob Christian Schäffer|Schaeff.]]) [[Samuel Frederick Gray|Gray]] (1821)
+| synonyms_ref = <ref name="urlFungorum synonymy"/>
+| synonyms = {{hidden begin|title = List}} 
+* ''Agaricus torminosus'' <small>Schaeff. (1774)</small>
+* ''Galorrheus torminosus'' <small>(Schaeff.) [[Paul Kummer|P.Kumm.]] (1871)</small>
+* ''Lactifluus torminosus'' <small>(Schaeff.) [[Otto Kuntze|Kuntze]] (1891)</small>
+* ''Agaricus intermedius'' <small>sensu Krombholz (1887)</small>
+* ''Lactarius intermedius'' <small>sensu Krombholz (1887)</small>
+* ''Agaricus cilicioides'' <small>Fr. (1821)</small>
+* ''Lactarius cilicioides'' <small>(Fr.) Fr. (1838)</small>
+* ''Galorrheus cilicioides'' <small>(Fr.) P. Kumm. (1871)</small>
+* ''Lactarius torminosus'' var. ''cilicioides'' <small>(Fr.) Quél. (1886)</small>
+* ''Lactifluus cilicioides'' <small>(Fr.) Kuntze (1891)</small>
+* ''Lactarius torminosus'' subsp. ''cilicioides'' <small>(Fr.) Konrad & Maubl. (1935)</small>
+* ''Lactarius intermedius'' <small>Krombh. ex Berk. & Broome (1881)</small>
+* ''Lactarius cilicioides'' var. ''albus'' <small>Peck (1885)</small>
+* ''Lactarius cilicioides'' subsp. ''intermedius'' <small>Krombh. ex Sacc. (1887)</small>
+* ''Lactifluus intermedius'' <small>Krombh. ex Kuntze (1891)</small>
+* ''Lactarius citriolens'' var. ''intermedius'' <small>(Krombh. ex Kuntze) Krieglst. (1999)</small>
+* ''Lactarius torminosus'' f. ''albida'' <small>Killerm. (1933)</small>
+* ''Lactarius torminosus var. gracillimus'' <small>J.E. Lange (1938)</small>
+* ''Lactarius torminosus'' var. ''gracillimus'' <small>J.E. Lange (1940)</small>
+* ''Lactarius torminosus'' var. ''typicus'' <small>Kühner & Romagn. (1953)</small>
+* ''Lactarius torminosus'' var. ''sublateritius'' <small>[[Robert Kühner|Kühner]] & [[Henri Romagnesi|Romagn.]] (1954)</small>
+* ''Lactarius nordmanensis'' <small>A.H. Sm. (1960)</small>
+* ''Lactarius torminosus'' var. ''nordmanensis'' <small>(A.H. Sm.) Hesler & A.H. Sm. (1979)</small>
+{{hidden end}}
+}}
+{{mycomorphbox
+| name = ''Lactarius torminosus''
+| whichGills = decurrent
+| capShape = convex
+| capShape2 = depressed
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = cream
+| sporePrintColor2 = yellow
+| howEdible = poisonous
+}}
+
+'''''Lactarius torminosus''''', commonly known as the '''woolly milkcap''' or the '''bearded milkcap''', is a large species of [[agaric]] [[fungus]]. It was first described scientifically by [[Jacob Christian Schäffer]] in 1774 as an ''[[Agaricus]]'', and later transferred to the genus ''[[Lactarius (fungus)|Lactarius]]'' in 1821 by [[Samuel Frederick Gray]]. ''L.&nbsp;torminosus'' officially became the [[type species]] of ''Lactarius'' in 2011 after [[molecular phylogenetic|molecular]] studies prompted the [[Taxonomy (biology)|taxonomic]] reshuffling of species between several [[Russulaceae]] genera.
+
+The [[pileus (mycology)|caps]] are convex with a central depression, and attain a diameter of up to {{convert|10|cm|abbr=on|frac=4}}. A blend of pink and [[ochre]] hues, the cap sometimes has concentric zones of alternating lighter and darker shades. The edge of the cap is rolled inward, and shaggy when young. On the underside of the cap are narrow flesh-colored [[lamella (mycology)|gills]] that are crowded closely together. The cylindrical [[stipe (mycology)|stem]] is a pale flesh color with a delicately downy surface and brittle [[trama (mycology)|flesh]]; it is up to {{convert|8|cm|in|abbr=on|frac=2}} long and {{convert|0.6|–|2|cm|abbr=on|frac=4}} thick. When cut or injured, the fruit bodies ooze a bitter white [[latex]] that does not change color upon exposure to air. The [[Variety (botany)|variety]] ''nordmanensis'', in contrast, has latex that changes from white to yellow. Similar species like ''[[Lactarius pubescens|L.&nbsp;pubescens]]'' or ''[[Lactarius villosus|L.&nbsp;villosus]]'' differ in [[morphology (biology)|morphology]] and coloration, as well as microscopic characteristics like [[spore]] shape and size.
+
+A common and widely distributed species, ''L.&nbsp;torminosus'' [[mushroom]]s form on the ground singly or in groups in [[mixed forest]]s of both the Old World and North America. A [[mycorrhiza]]l species, it associates with various trees, most commonly [[birch]]. The species is highly irritating to the digestive system when eaten raw. The toxins, also responsible for the strongly bitter or acrid taste, are destroyed by cooking. It is valued for its peppery flavor and eaten in Russia and Finland. Studies have identified several chemicals present in the mushrooms, including [[ergosterol]] and [[Derivative (chemistry)|derivatives]] thereof, and the pungent-tasting [[velleral]].
+
+==Taxonomy==
+German naturalist [[Jacob Christian Schäffer]] was the first to describe the species, placing it in the genus ''Agaricus'' in 1774.<ref name="Schäffer1774"/> Seven years later in 1781, [[Jean Baptiste François Pierre Bulliard|Jean Bulliard]] described a species he called ''Agaricus necator'' and illustrated it in the first volume of his ''Herbier de la France'';<ref name=Bulliard1781/> this name and the synonym ''Lactarius necator'', resulting from [[Christian Hendrik Persoon]]'s 1800 transfer<ref name=Persoon1800/> to ''Lactarius'', are both considered to refer to ''L.&nbsp;torminosus''.<ref name="urlMycoBank: Lactarius necator"/> [[Otto Kuntze]], for his part chose to put it in ''Lactifluus'',<ref name=Kuntze1898/> while [[Paul Kummer]] thought ''Galorrheus''<ref name=Kummer1871/> was the appropriate placement; until the recent resurrection of ''Lactifluus'', both genera had been long considered to be unnecessary segregates of ''Lactarius''.<ref name=Buyck2010/> According to [[Index Fungorum]],<ref name="urlFungorum synonymy"/> another synonym is [[Samuel Frederick Gray]]'s<ref name=Gray1821/> ''Lactarius necans''. Gray also gave the species its modern name when he transferred it to ''Lactarius'' in his 1821 ''Natural Arrangement of British Plants''.<ref name="urlFungorum synonymy"/><ref name=Gray1821/>
+
+According to [[Lexemuel Ray Hesler|Hesler]] and [[Alexander H. Smith|Smith]]'s 1979 [[biological classification|classification]] of the genus ''[[Lactarius (fungus)|Lactarius]]'', ''L.&nbsp;torminosus'' belongs to [[subgenus]] ''Piperites'', [[section (botany)|section]] ''Piperites'' (in which it is the [[type species]]), subsection ''Piperites''. Species in this subsection are characterized by having latex that does not turn yellow after exposure to air, and/or that does not stain the cut surface of the mushroom surface yellow.<ref>Hesler and Smith (1979), [http://quod.lib.umich.edu/f/fung1tc/AAC3719.0001.001/249?rgn=full+text;view=image p. 237.]</ref> A 2004 [[phylogenetic]] analysis of European ''Lactarius'' species concluded that ''L.&nbsp;torminosus'' falls into a [[clade|group]] that includes ''[[lactarius torminosulus|L.&nbsp;torminosulus]]'', and that these two species are [[sister group|closely related]] to a group that includes ''[[Lactarius tesquorum|L.&nbsp;tesquorum]]'', ''[[Lactarius scoticus|L.&nbsp;scoticus]]'', and ''[[Lactarius pubescens|L.&nbsp;pubescens]]''.<ref name=Nuytinck2004/>
+
+A multi-gene [[molecular phylogenetics|molecular]] analysis published in 2008 demonstrated that species then distributed in the genera ''Lactarius'' and ''[[Russula]]'' actually consisted of four distinct [[lineage (evolution)|lineages]].<ref name=Buyck2008/> The subsequent reorganization of [[Russulaceae]] species—a [[Taxonomy (biology)|taxonomic]] change needed to make ''Russula'' and ''Lactarius'' [[monophyletic]]—required that a new type species be defined for ''Lactarius'', since the previous type, ''[[Lactarius piperatus|L.&nbsp;piperatus]]'', belonged to the clade that will be transferred to genus ''[[Lactifluus]]''. A proposal to [[conserved name|conserve]] ''Lactarius'' with ''L.&nbsp;torminosus'' as the type was accepted by the Nomenclatural Committee for Fungi<ref name=Norvell2011/> and passed at the 2011 [[International Botanical Congress]].<ref name=Barrie2011/> The change minimizes "taxonomic disruption", allowing most of the common and well-known ''Lactarius'' species to retain their names.<ref name=Buyck2010/>
+
+=== Etymology ===
+The [[specific name (botany)|specific epithet]] ''torminosus'' means "tormenting" or "causing colic", in reference to the gastrointestinal distress associated with consuming the raw mushroom.<ref name="Roody2003" /> Early English [[common name|vernacular]] names were Gray's "bellyach milk-stool" (1821),<ref name="Gray1821" /> and [[James Edward Smith (botanist)|James Edward Smith]]'s "bearded pepper agaric" (1824).<ref name="Smith1824" /> More recent common names include "shaggy milkcap",<ref name="Dickinson1982" /> "powderpuff milkcap",<ref name="McKnight1987" /> "pink-fringed milkcap",<ref name="Arora1991" /> "bearded milkcap",<ref name="Arora1986" /> and the [[British Mycological Society]]-recommended "woolly milkcap".<ref name="BMS" />
+
+==Description==
+
+
+The [[pileus (mycology)|cap]] is initially convex, but as it matures the center forms a depression and the outer edges rise until it assumes the shape of a shallow funnel; its final width is typically between {{convert|2|and|12|cm|abbr=on|frac=4}}.<ref name=Ammirati1985/> The cap margin is strongly curled inward; when young, it is [[Trichome#Plant trichomes|tomentose]] (covered with a thick matting of hairs), forming a [[veil (botany)|veil]]-like structure that partly covers up the gills.<ref name=Arora1986/> This tomentum diminishes with age. The cap surface is at first similarly tomentose, but eventually, the hairs wear off, leaving the surface more or less smooth.<ref name=Ammirati1985/> The surface starts off somewhat sticky with clear concentric rings of darker shade (a ''[[zonate]]'' pattern); these rings, especially the outer ones, usually fade in maturity.<ref name=McKnight1987/> The cap color is pinkish-orange to pale dull pink, becoming orange to whitish toward the margin as the pink gradually fades. The white to flesh-colored [[trama (mycology)|flesh]] is firm and brittle, but becomes flaccid in age. The [[latex]] that is produced when the mushroom tissue is cut or injured is white to cream, and does not change color with prolonged exposure to air, nor does it stain the gills. It has an acrid taste, with a slight to pungent odor.<ref name=Ammirati1985/>
+{{multiple image|caption_align=center|header_align=center
+| align = right
+| direction = vertical
+| header =
+| width = 220
+| image1 = Lactarius torminosus (3).JPG
+| caption1 = The cap surface is typically zonate (marked by concentric colored bands) in young specimens.
+| image2 = Lactarius torminosus 041031w.jpg
+| caption2 = Zonation is less prominent in mature mushrooms.
+}}
+The [[lamella (mycology)|gills]] are [[decurrent|subdecurrent]] (running only a small way down the length of the stem), close to crowded together, narrow, and sometimes forked near the [[stipe (mycology)|stem]]. Their color is whitish, becoming pink-tinged, turning pale tan with age. The adult stem is {{convert|1.5–8|cm|abbr=on|frac=2}} long, {{convert|0.6–2|cm|abbr=on|frac=4}} thick, fragile, more or less equal in width throughout, and cylindrical or narrowed at the base. Its surface is dry, and either smooth to [[Pruinescence|pruinose]] (covered with a very fine whitish powder on the surface). The color ranges from pale light pink to yellowish-tinged or slightly pinkish-orange to orange-white, sometimes spotted. The interior of the stem is firm, beige white, and filled with a soft pith, but it eventually becomes hollow.<ref name=Ammirati1985/> Occasionally, white [[mycelium]] is visible at the base of the stem where it meets the ground.<ref name="Bessette pp. 257-8">Bessette ''et al''. (2009), pp. 257–58.</ref>
+
+The fruit body [[Morphogenesis|formation]] of ''L.&nbsp;torminosus'' is pileostipitocarpic. In this type of development, the [[hymenium]] forms early on the underside of the cap and upper stem of the mushroom [[primordium]]. As the cap enlarges, the margin, made of flaring filamentous [[hypha]]e that grow outward and downward, tends to curve inward, eventually forming a flap of tissue roughly parallel to the stem surface. As further development takes place, these hyphae make contact with and adhere to the hymenial surface of the stem, covering [[basidia]] and macrocystidia (very long [[cystidia]]) already present. The junction between the two tissues produces a cavity that provides some temporary protection to the basidia, although they are already fertile when the cap margin starts to grow.<ref name=Watling1985/>
+
+===Microscopic characteristics===
+The [[spore print]] of ''L.&nbsp;torminosus'' is cream to pale yellow, and the spores 8–10.2 by 5.8–6.6&nbsp;[[μm]], roughly spherical to broadly elliptical in side view, and [[hyaline]] (translucent). Only the ornamentation on their surface is [[amyloid (mycology)|amyloid]]; it is partially reticulate (network-like) with interrupted ridges roughly 0.5–0.7&nbsp;μm high, and a few isolated warts. Spores have a conspicuous [[wikt:apiculus|apiculus]], demarcating where it was once attached to the basidia via the [[sterigma]]. The basidia are four-spored, hyaline and club-shaped to cylindrical, measuring 30–47.7 by 7.3–8.2&nbsp;μm.<ref name=Ammirati1985/>
+
+[[cystidium|Pleurocystidia]] are present only in the form of macrocystidia embedded and originating in the hymenium and just below it, they reach 40.3–80.0 by 5.1–9.5&nbsp;μm. Macrocystidia are abundant in the hymenium. Characterized by their spindle-shaped to [[wikt:ventricose|ventricose]] (swollen on one side) form that gradually tapers in width, they have [[granule (cell biology)|granular]] hyaline contents. Gill edge cystidia (cheilocystidia) are smaller: 30–52 by 4.5–8.0&nbsp;μm. The [[cap cuticle]] is made of gelatinized, interwoven hyphae arranged more or less parallel to the cap surface (a form known as ''ixocutis''); the thin-walled, threadlike hyphae of this layer are 2.5–7.3&nbsp;μm wide.<ref name=Ammirati1985/>
+
+===Variety ''nordmanensis''===
+''Lactarius nordmanensis'' was described by Alexander Smith in 1960 to account for a North American species closely resembling ''L.&nbsp;torminosus'' in appearance, but with a slightly larger range of spore sizes (9–11 by 6.5–8&nbsp;μm). In contrast to the unchanging latex of ''L.&nbsp;torminosus'', ''L.&nbsp;nordmanensis'' has whitish latex that slowly changes to pale yellow upon exposure to air; the latex also stains mushroom tissues and paper yellow.<ref name=Smith1960/> Hesler and Smith reduced ''L.&nbsp;nordmanensis'' to the status of a [[variety (botany)|variety]] under ''L.&nbsp;torminosus'' in 1979.<ref name="S&H pp.277-8"/> ''Lactarius torminosus'' var. ''nordmanensis'' has been recorded from [[California]],<ref name=Methven1985/> [[Idaho]], [[Michigan]], and [[Wisconsin]] in the United States, [[Quebec]] in Canada, and Switzerland. The variety resembles ''[[Lactarius pubescens]]'' var. ''betulae'', but differs in its longer pleurocystidia, larger spores with slightly different spore ornamentation, and strongly burning acrid taste.<ref name="S&H pp.277-8">Hesler and Smith (1979), [http://quod.lib.umich.edu/f/fung1tc/aac3719.0001.001/289?view=image&size=100 pp. 277–78.]</ref> The [[holotype]] specimen of ''L.&nbsp;torminosus'' var. ''nordmanensis'' was collected by Smith in 1956 near [[Nordman, Idaho]].<ref name="urlLactarius nordmanensis; Russulaceae - UofM Herbarium Fungus Collection Database"/>
+
+===Similar species===
+{{multiple image|caption_align=center|header_align=center
+| align = right
+| width1 = {{#expr: (150 * 2398 / 1800) round 0}}
+| image1 = Lactarius pubescens a1.jpg
+| caption1 = ''[[Lactarius pubescens]]''
+| image2 = Lactarius mairei 29113.jpg
+| width2 = {{#expr: (150 * 1418 / 782) round 0}}
+| caption2 = ''[[Lactarius mairei]]''
+}}
+
+
+The woolly cap margin, pinkish tones in the cap, acrid latex, and association with birch are reliable field characteristics to help identify ''L.&nbsp;torminosus''.<ref name=Arora1986/> However, there are several hairy ''Lactarius'' species with which it is often confused, and sometimes examination of microscopic characteristics is necessary to distinguish between them. The closely related ''[[Lactarius torminosulus|L.&nbsp;torminosulus]]'' is a dwarf version of ''L.&nbsp;torminosus'', an [[arctic]] species associated with the birches ''[[Betula nana]]'' or ''[[Betula glandulosa|B.&nbsp;glandulosa]]''.<ref name=Knudsen1994/> Immature fruit bodies of ''[[Lactarius scrobiculatus|L.&nbsp;scrobiculatus]]'' resemble ''L.&nbsp;torminosus'', but they have a white latex that soon turns yellow upon exposure to air, and their stems have shiny depressed spots. The caps of the poorly known species ''[[Lactarius cilicioides|L.&nbsp;cilicioides]]'' are not zonate, and its spores are smaller. ''L.&nbsp;pubescens'' is physically quite similar, but can be distinguished by its paler color and smaller spores (6.0–7.5 by 5.0–6.5&nbsp;μm).<ref name=Ammirati1985/> ''[[Lactarius controversus|L.&nbsp;controversus]]'' has a cap margin that is not as hairy, whitish to cream-colored gills, and larger spores measuring 7.5–10 by 6–7.5&nbsp;μm.<ref name=Evenson1997/> ''[[Lactarius mairei|L.&nbsp;mairei]]'' has a coloration similar to ''L.&nbsp;torminosus'', but is rarer and typically found associated with oak trees on [[calcareous]] soil.<ref name=Roberts2011/> Known only from [[North Carolina]] and western Canada,<ref>Bessette ''et al''. (2009), p. 249.</ref> ''[[Lactarius subtorminosus|L.&nbsp;subtorminosus]]'' was named for its similarity to ''L.&nbsp;torminosus''. It can be distinguished by its mild-tasting latex and smaller, roughly spherical spores measuring 5.5–7 by 5.5–6.5&nbsp;μm.<ref name=Coker1918/><ref>Hesler and Smith (1979), [http://quod.lib.umich.edu/f/fung1tc/aac3719.0001.001/239?page=root;size=100;view=image p. 227.]</ref> In North America, [[Lactarius psammicola|''L.&nbsp;psammicola'']] grows with eastern hardwoods and ''[[Lactarius subvillosus|L.&nbsp;subvillosus]]'' appears in [[tanoak]]-[[madrone]] woodland.<ref name="Arora1986" />
+
+== Distribution and habitat ==
+''Lactarius torminosus'' is found in northern [[temperate]] and [[boreal ecosystem|boreal]] climates, penetrating sometimes into [[subarctic]] regions. It has been recorded from North Africa, northern Asia,<ref name="Roberts2011" /> Europe, and is common in North America, where it sometimes grows with [[aspen]] (''Populus'' species).<ref name="Arora1986" /> The North American distribution extends north into the [[Yukon]] and [[Alaska]] and south to Mexico.<ref name="Schalkwijk-Barendsen1991" /><ref name="Guzman1973" />
+
+==Ecology==
+
+
+''Lactarius torminosus'' is a [[mycorrhiza]]l species, and as such plays an important role in facilitating nutrient and water uptake by trees. It grows in association with birch (''[[Betula]]'') and hemlock (''[[Tsuga]]'') in [[mixed forest]]s. It is also known to grow in urban settings when birch trees are nearby.<ref name="Ammirati1985" /> A field study in Scotland concluded that the species is more likely to be present in older than in younger birch woodlands.<ref name="Watling1981" /> Fruit bodies grow on the ground, scattered or grouped together. They are a component of the diet of the [[red squirrel]],<ref name="Groenwall1984" /> and serve as breeding sites for some fungus-feeding flies in the [[Drosophilidae]] and [[Mycetophilidae]] families.<ref name="Shorrocks1980" /> ''Lactarius torminosus'' mushrooms may be [[parasitized]] by the [[Mold (fungus)|mold]] ''[[Hypomyces lithuanicus]]'', which produces a cream-ochre to cinnamon-colored granular or velvety growth of mycelium on the surfaces of the gills and causes them to be deformed.<ref name="Rogerson1994" />
+
+==Toxicity==
+{{quote box|width=25%|bgcolor=#c6dbf7|align=right|quote="Its taste is biting, worse than Cayenne pepper&nbsp;... Unless he possessed a stomach built for the purpose, the man who touched such food as this would have a singularly bad time before him."|salign=right|source=[[Jean-Henri Fabre]]<ref name=Fabre2001/>}}
+
+The intensely peppery taste of the raw mushroom can blister the tongue if sampled in excess.<ref name=Arora1991/> Some authors have reported the species as outright poisonous,<ref name=Roody2003/><ref name=Groves1979/> or causing "mild to fatal [[gastroenteritis]]".<ref name="Elvin-Lewis2003"/> In a 1930 publication, Hans Steidle reported that although the mushroom was not toxic to "unicellular and cold-blooded organisms" when ingested, the liquid extract and the pressed juice of the fruit bodies, when injected under the skin of a frog, resulted in disturbed breathing, [[paralysis]], and eventually death.<ref name=Steidle1930/> Symptoms that are typically experienced after consuming raw mushrooms include [[nausea]], [[vomiting]], and severe [[diarrhea]] starting about one hour after ingestion. This combination can lead to [[dehydration]], [[muscle spasm]]s, and [[circulatory collapse]]. The gastroenteritis will usually resolve without treatment in a couple of days.<ref name=Reichl2011/>
+
+== Uses ==
+Despite the reports of toxicity, ''L.&nbsp;torminosus'' mushrooms are prepared in Finland, Russia, and other northern and eastern European countries by [[parboiling]], soaking in brine for several days, or pickling, after which they are valued for their peppery taste. Mushrooms are harvested for commercial sale in Finland.<ref name="Vetelainen2008" /> The nutrient composition of Finnish specimens has been analyzed and found to contain the following components (as a percentage of [[dry matter|dry weight]]): [[protein]], 17.20%; [[phosphorus]], 0.46%; [[calcium]], 0.12%; [[magnesium]], 0.09%; [[potassium]], 2.97%; [[sodium]] 0.01%.<ref name="Groenwall1984" />
+
+==Chemistry==
+
+
+The compound thought to be responsible for the toxicity of raw ''L.&nbsp;torminosus'' is the pungent-tasting [[velleral]] present at a concentration of 0.16&nbsp;mg/g mushroom. Velleral is a [[chemical decomposition|breakdown]] product of [[Stearic acid|stearyl]]-velutinal. Broken lactifers—specialized hyphal cells that produce the mushroom's latex—leak the precursor chemicals whose breakdown products act as the defensive agents toxic to humans, effectively deterring certain vertebrates that might consume the mushroom.<ref name=Camazine1984/> The lactarane-type [[sesquiterpene]] [[lactone]] 15-hydroxyblennin&nbsp;A is one of several sesquiterpenes produced by the species. Other lactaranes are found in various ''Lactarius'' species, such as blennin&nbsp;A in ''[[Lactarius deliciosus|L.&nbsp;deliciosus]]'' and ''[[Lactarius blennius|L.&nbsp;blennius]]'', and lactarorufin&nbsp;N in ''[[Lactarius rufus]]''.<ref name=Widen1979/> Fungal sesquiterpenes are commonly produced as toxins to [[host plant resistance|defend against predation]], and as a result some have chemical properties that may have applications in [[medicinal chemistry]].<ref name=Abraham2001/>
+
+Fruit bodies of ''L. torminosus'' contain a number of [[sterol]]s, of which [[ergosterol]] (a component of fungal cell walls) is the most predominant at 60.5% of all sterols, followed by its [[Derivative (chemistry)|derivatives]] and ergosta-5/7-dien-3-ol (17.0%), ergost-7-en-3-ol (13.7%) and ergosta-7-22-dien-3-ol (8.3%).<ref name=Cerri1981/> Researchers have identified 28 [[volatility (chemistry)|volatile]] compounds that contribute to the odor of the mushroom. Many of these are [[Alcohol (chemistry)|alcohol]]s and [[carbonyl]] compounds with eight carbon atoms; the predominant volatile compound (about 90%) is [[1-octen-3-one]],<ref name=Pyysalo1976/> an [[aroma compound|odorant]] common in mushrooms.<ref name="urlCotton"/>
+
+==See also==
+{{Portal|Fungi}}
+* [[List of deadly fungi]]
+* [[List of Lactarius species|List of ''Lactarius'' species]]
+{{Clear}}
+
+==References==
+{{Reflist|colwidth=30em|refs=
+<ref name=Abraham2001>{{cite journal |author=Abraham W-R. |title=Bioactive sesquiterpenes produced by fungi: are they useful for humans as well? |journal=Current Medicinal Chemistry |year=2001 |volume=8 |issue=6 |pages=583–606 |pmid=11281843 |doi=10.2174/0929867013373147}}</ref>
+
+<ref name=Ammirati1985>{{Cite book |vauthors=Ammirati JF, Traquair JA, Horgen PA |title=Poisonous Mushrooms of Canada: Including other Inedible Fungi |publisher=Fitzhenry & Whiteside in cooperation with Agriculture Canada and the Canadian Government Publishing Centre, Supply and Services Canada |location=Markham, Ontario |year=1985 |pages=275–76 |isbn=978-0-88902-977-4 |url=https://books.google.com/books?id=nhWbsGB7z4cC&pg=PA275}}</ref>
+
+<ref name=Arora1986>{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/73/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=73 |orig-date=1979}}</ref>
+
+<ref name=Arora1991>{{Cite book|author=Arora D. |title=All that the Rain Promises and More: A Hip Pocket Guide to Western Mushrooms |publisher=Ten Speed Press |location=Berkeley, California |year=1991 |page=19 |isbn=978-0-89815-388-0 |url=https://books.google.com/books?id=87ct90d4B9gC&pg=PA19}}</ref>
+
+<ref name=Barrie2011>{{cite journal |author=Barrie FR. |year=2011 |title=Report of the General Committee: 11 |journal=Taxon |volume=60 |issue=4 |pages=1211–14 |doi=10.1002/tax.604026 |doi-access=free |bibcode=2011Taxon..60.1211B }}</ref>
+
+<ref name=BMS>{{cite web |url=http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |title=List of recommended English Names for Fungi in the UK |publisher=[[British Mycological Society]] |year=2003 |url-status=dead |archive-url=https://web.archive.org/web/20110716083053/http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |archive-date=2011-07-16 }}</ref>
+
+<ref name=Bulliard1781>{{Cite book |author=Bulliard JBF. |year=1781 |title=Herbier de la France |trans-title=Guide to the Herbs of France |volume=1 |location=Paris, France |publisher=Chez l'auteur, Didot, Debure, Belin |pages=1–48, plate 28 |url=https://archive.org/stream/herbierdelafranc148bull#page/28/mode/2up |language=fr}}</ref>
+
+<ref name=Buyck2008>{{cite journal |vauthors=Buyck B, Hofstetter V, Eberhardt U, Verbeken A, Kauff F |year=2008 |title=Walking the thin line between ''Lactarius'' and ''Russula'': the dilemma of ''Russula'' sect. ''Ochricompactae'' |journal=Fungal Diversity |volume=28 |pages=15–40 |url=http://www.fungaldiversity.org/fdp/sfdp/28-2.pdf }}</ref>
+
+<ref name=Buyck2010>{{cite journal |vauthors=Buyck B, Hofstetter V, Verbeken A, Walleyn R |title=Proposal 1919: To conserve ''Lactarius'' nom. cons. (Basidiomycota) with a conserved type |journal=Taxon |year=2010 |volume=59 |issue=1 |pages=295–96 |doi=10.1002/tax.591031 |doi-access=free }}</ref>
+
+<ref name=Camazine1984>{{cite journal |vauthors=Camazine S, ((Lupo TL Jr)) |year=1984 |title=Labile toxic compounds of the Lactarii: the role of the laticiferous hyphae as a storage depot for precursors of pungent dialdehydes |journal=Mycologia |volume=76 |issue=2 |pages=355–58 |jstor=3793113 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0076/002/0355.htm |doi=10.2307/3793113|url-access=subscription }}</ref>
+
+<ref name=Cerri1981>{{cite journal |vauthors=Cerri R, de Simone F, Senatore F |year=1981 |title=Sterols from three ''Lactarius'' species |journal=Biochemical Systematics and Ecology |volume=9 |issue=4 |pages=247–48 |doi=10.1016/0305-1978(81)90002-8 |bibcode=1981BioSE...9..247C }}</ref>
+
+<ref name=Coker1918>{{cite journal |author=Coker WC. |title=Lactarias of North Carolina |journal=Journal of the Elisha Mitchell Scientific Society |year=1918 |volume=34 |issue=1–2 |pages=1–62 (see p. 18) |url=https://www.biodiversitylibrary.org/page/9560048}}</ref>
+
+<ref name=Dickinson1982>{{Cite book |title=VNR Color Dictionary of Mushrooms |vauthors=Dickinson C, Lucas J |year=1982 |publisher=Van Nostrand Reinhold |location=New York |isbn=978-0-442-21998-7 |page=104}}</ref>
+
+<ref name="Elvin-Lewis2003">{{Cite book |vauthors=Elvin-Lewis MP, Lewis WH |title=Medical Botany: Plants Affecting Human Health |publisher=John Wiley & Sons |location=Chichester, UK |year=2003 |page=61 |isbn=978-0-471-62882-8 |url=https://books.google.com/books?id=ipQmSriMF9sC&pg=PA61}}</ref>
+
+<ref name=Evenson1997>{{Cite book |title=Mushrooms of Colorado and the Southern Rocky Mountains |author=Evenson VS. |year=1997 |publisher=Westcliffe Publishers |location=Englewood, Colorado |isbn=978-1-56579-192-3 |page=77 |url=https://books.google.com/books?id=EAeDeyqZLq0C&pg=PA77}}</ref>
+
+<ref name=Fabre2001>{{cite book |translator=Fabre J-H, de Mattos AT |title=The Life of the Fly: With Which are Interspersed Some Chapters of Autobiography |year=2001 |publisher=Freedonia Books |location=Amsterdam, the Netherlands |orig-year=1913 |isbn=978-1-58963-026-0 |page=144 |url=http://www.gutenberg.org/catalog/world/readfile?fk_files=1452286&pageno=144}}</ref>
+
+<ref name=Gray1821>{{Cite book |title=A Natural Arrangement of British Plants |author=Gray SF. |year=1821 |page=623 |publisher=Baldwin, Cradock, and Joy |location=London, UK |url=https://books.google.com/books?id=g-EYAAAAYAAJ&pg=PA623}}</ref>
+
+<ref name=Groenwall1984>{{cite journal |vauthors=Grönwall O, Pehrson Å |year=1984 |title=Nutrient contents in fungi as a primary food of the red squirrel ''Sciurus vulgaris'' L. |journal=Oecologia (Berlin) |volume=64 |issue=2 |pages=230–31 |jstor=4217450 |doi=10.1007/BF00376875 |pmid=28312343 |bibcode=1984Oecol..64..230G |s2cid=28125328 }}</ref>
+
+<ref name=Groves1979>{{Cite book |author=Groves JW. |title=Edible and Poisonous Mushrooms of Canada |edition=revised |publisher=Research Branch, Agriculture Canada |location=Ottawa, Canada |year=1979 |pages=[https://archive.org/details/ediblepoisonousm00grov/page/57 57–58] |isbn=978-0-660-10136-1 |url=https://archive.org/details/ediblepoisonousm00grov/page/57 }}</ref>
+
+<ref name=Guzman1973>{{cite journal |author=Guzmán G. |year=1973 |title=Some distributional relationships between Mexican and United States mycofloras |journal=Mycologia |pmid=4773309 |volume=65 |issue=6 |pages=1319–30 |jstor=3758146 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0065/006/1319.htm |doi=10.2307/3758146|url-access=subscription }}</ref>
+
+<ref name=McKnight1987>{{cite book |vauthors=McKnight VB, McKnight KH |title=A Field Guide to Mushrooms: North America |url=https://archive.org/details/fieldguidetomush00mckn_960 |url-access=registration |series=Peterson Field Guides |publisher=Houghton Mifflin |location=Boston, Massachusetts |year=1987 |page=[https://archive.org/details/fieldguidetomush00mckn_960/page/n355 337] |isbn=978-0-395-91090-0}}</ref>
+
+<ref name=Methven1985>{{cite journal |author=Methven AS. |title=New and interesting species of ''Lactarius'' from California |journal=Mycologia |year=1985 |volume=77 |issue=3 |pages=472–82 |jstor=3793204 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0077/003/0472.htm |doi=10.2307/3793204|url-access=subscription }}</ref>
+
+<ref name=Norvell2011>{{cite journal |author=Norvell LL. |year=2011 |title=Report of the Nomenclature Committee for Fungi: 16 |journal=Taxon |volume=60 |issue=1 |pages=223–26 |doi=10.1002/tax.601023 |doi-access=free |bibcode=2011Taxon..60..223N }}</ref>
+
+<ref name=Nuytinck2004>{{cite journal |vauthors=Nuytinck J, Verbeken A, Rinaldi AC, Leonardi M, Pacioni G, Comandini O |year=2004 |title=Characterization of ''Lactarius tesquorum'' ectomycorrhizae on ''Cistus'' sp. and molecular phylogeny of related European ''Lactarius'' taxa |journal=Mycologia |volume=96 |issue=2 |pages=272–82 |pmid=21148854 |jstor=3762063 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0096/002/0272.htm |doi=10.2307/3762063|url-access=subscription }}</ref>
+
+<ref name=Knudsen1994>{{cite journal |vauthors=Knudsen H, Borgen T |year=1994 |title=The ''Lactarius torminosus''-group in Greenland |journal=Mycologia Helvetica |volume=2 |pages=49–56}}</ref>
+
+<ref name=Kummer1871>{{Cite book |author=Kummer P. |title=Der Führer in die Pilzkunde |year=1871 |page=125 |publisher=E. Luppe Staude |location=Zerbst, Germany |language=de |url=https://www.biodiversitylibrary.org/page/34209694}}</ref>
+
+<ref name=Kuntze1898>{{Cite book |title=Revisio generum plantarum |volume=3 |author=Kuntze O. |year=1898 |page=489 |publisher=Arthur Felix |location=Leipzig, Germany |language=la |url=https://www.biodiversitylibrary.org/page/3706}}</ref>
+
+<ref name=Persoon1800>{{Cite book|title=Observationes mycologicae seu Descriptiones tam novorum, quam notabilium fungorum |author=Persoon Christian Hendrik |year=1799 |publisher=Gesnerus, Usterius & Wolfius |location=Leipzig, Germany |page=42 |language=la |url=http://gallica.bnf.fr/ark:/12148/bpt6k973699/f54.image.r=persoon.langEN}}</ref>
+
+<ref name=Pyysalo1976>{{cite journal |author=Pyysalo H. |title=Identification of volatile compounds in seven edible fresh mushrooms |journal=Acta Chemica Scandinavica B |year=1976 |volume=30 |issue=3 |pages=235–44 |url=http://actachemscand.org/pdf/acta_vol_30b_p0235-0244.pdf |doi=10.3891/acta.chem.scand.30b-0235 |doi-access=free }}</ref>
+
+<ref name=Reichl2011>{{cite book |vauthors=Reichl FX, Ritter L |title=Illustrated Handbook of Toxicology |year=2011 |publisher=Thieme |location=Stuttgart, Germany |page=296 |isbn=978-3-13-149591-4 |url=https://books.google.com/books?id=9hHACrSGgyIC&pg=PT296}}</ref>
+
+<ref name=Roberts2011>{{cite book |vauthors=Roberts P, Evans S |title=The Book of Fungi |year=2011 |publisher=University of Chicago Press |location=Chicago, Illinois |page=193 |isbn=978-0-226-72117-0}}</ref>
+
+<ref name=Rogerson1994>{{cite journal |vauthors=Rogerson CT, Samuels GJ |year=1994 |title=Agaricolous species of ''Hypomyces'' |jstor=3760597 |journal=Mycologia |volume=86 |issue=6 |pages=839–66 |doi=10.2307/3760597 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0086/006/0839.htm|url-access=subscription }}</ref>
+
+<ref name=Roody2003>{{Cite book|author=Roody WC. |title=Mushrooms of West Virginia and the Central Appalachians |publisher=University Press of Kentucky |location=Lexington, Kentucky |year=2003 |page=107 |isbn=978-0-8131-9039-6 |url=https://books.google.com/books?id=5HGMPEiy4ykC&pg=PA107}}</ref>
+
+<ref name="Schäffer1774">{{Cite book |author=Schäffer JC. |title=Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur icones |trans-title=The Fungi that Grow in Bavaria and the Palatine, around Ratisbon |volume=4 |year=1774 |publisher=Apud J.J. Palmium |location=Erlangen, Germany |pages=7–8 |language=la, de |url=https://archive.org/stream/fungorumquiinbav34schf#page/6/mode/2up}}</ref>
+
+<ref name="Schalkwijk-Barendsen1991">{{Cite book |author=Schalkwijk-Barendsen HME. |title=Mushrooms of Western Canada |publisher=Lone Pine Publishing |location=Edmonton, Canada |year=1991 |page=[https://archive.org/details/mushroomsofweste0000scha/page/215 215] |isbn=978-0-919433-47-2 |url=https://archive.org/details/mushroomsofweste0000scha/page/215 }}</ref>
+
+<ref name=Shorrocks1980>{{cite journal |vauthors=Shorrocks B, Charlesworth P |title=The distribution and abundance of the British fungal-breeding ''Drosophila'' |journal=Ecological Entomology |year=1980 |volume=5 |issue=1 |pages=61–78 |doi=10.1111/j.1365-2311.1980.tb01124.x|bibcode=1980EcoEn...5...61S |s2cid=85392656 }}</ref>
+
+<ref name=Smith1824>{{cite book |author=Smith JE. |title=The English Flora |year=1824 |volume=5 |publisher=Longman, Hurst, Rees, Orme, Brown, and Green |location=London, UK |page=24 |url=https://www.biodiversitylibrary.org/page/6100576}}</ref>
+
+<ref name=Smith1960>{{cite journal |author=Smith AH. |year=1960 |title=Studies of ''Lactarius'' – II. The N.A. species of sections ''Scrobiculus'', ''Crocei'', ''Theiogali'' and ''Vellus'' |jstor=2805123 |journal=Brittonia |volume=12 |issue=4 |pages=306–50 | doi = 10.2307/2805123 |s2cid=1928365 }}</ref>
+
+<ref name=Steidle1930>{{cite journal |author=Steidle H. |year=1930 |title=Beiträge zur Toxikologie der höheren Pilze. I. Mitteilung: ''Lactarius torminosus'' (Birkenreizker, Giftreizker) |trans-title=Contributions to the toxicology of the higher mushrooms. 1st note: ''Lactarius torminosus'' |journal=Archiv für Experimentelle Pathologie und Pharmakologie |volume=151 |issue=3–4 |pages=232–252 |doi=10.1007/BF01862466 |s2cid=31744331 |language=de}}</ref>
+
+<ref name=Watling1981>{{cite book |author=Watling R. |chapter=Relationships between macromycetes and the development of higher plant communities |veditors=Wicklow DT, Carroll GC |title=The Fungal Community: Its Organization and Role in the Ecosystem |year=1981 |pages=427–58 |publisher=Marcel Dekker |location=New York |isbn=978-0-8247-6956-7}}</ref>
+
+<ref name=Watling1985>{{cite journal |author=Watling R. |title=Hymenial surfaces in developing agaric primordia |journal=Botanical Journal of the Linnean Society |year=1985 |volume=91 |issue=1–2 |pages=273–93 |doi=10.1111/j.1095-8339.1985.tb01150.x}}</ref>
+
+<ref name=Widen1979>{{cite journal |vauthors=Widen KG, Seppa EL |year=1979 |title=15-Hydroxyblennin A, a new lactarane-type sesquiterpene lactone isolated from ''Lactarius torminosus'' |journal=Phytochemistry |volume=18 |issue=7 |pages=1226–27 |doi=10.1016/0031-9422(79)80144-2|bibcode=1979PChem..18.1226W }}</ref>
+
+<ref name="urlCotton">{{cite web |author=Cotton S |title=1-Octen-3-ol |url=http://www.chm.bris.ac.uk/motm/octenol/octenolh.htm |work=Molecule of the Month |publisher=University of Bristol, School of Chemistry |access-date=2012-04-29}}</ref>
+
+<ref name="urlFungorum synonymy">{{Cite web |title=Species synonymy: ''Lactarius torminosus'' (Schaeff.) Gray |url=http://www.indexfungorum.org/Names/SynSpecies.asp?RecordID=228133 |publisher=[[Index Fungorum]]. [[CAB International]] |access-date=2012-03-14 |url-status=dead |archive-url=https://web.archive.org/web/20121007222358/http://www.indexfungorum.org/Names/SynSpecies.asp?RecordID=228133 |archive-date=2012-10-07 }}</ref>
+
+<ref name="urlLactarius nordmanensis; Russulaceae - UofM Herbarium Fungus Collection Database">{{Cite web|url=http://quod.lib.umich.edu/cgi/i/image/image-idx?id=S-HERB5IC-X-MICH5267%5DMICH5267.TIF |title=''Lactarius nordmanensis''; Russulaceae (MICH5267) |publisher=University of Michigan |work=Herbarium Fungus Collection Database |access-date=2012-04-22}}</ref>
+
+<ref name="urlMycoBank: Lactarius necator">{{Cite web|url=http://www.mycobank.org/Biolomics.aspx?Table=Mycobank&MycoBankNr_=355713 |title=''Lactarius necator'' (Bull.) Pers. 1800 |publisher=[[MycoBank]]. International Mycological Association |access-date=2012-04-22}}</ref>
+
+<ref name=Vetelainen2008>{{cite report |vauthors=Veteläinen M, Huldén M, Pehu T |title=State of Plant Genetic Resources for Food and Agriculture in Finland. Second Finnish National Report |work=Country Report on the State of Plant Genetic Resources for Food and Agriculture |date=2008-11-06 |publisher=Ministry of Agriculture and Forestry |location=Sastamala, Finland |page=14 |url=http://www.fao.org/docrep/013/i1500e/Finland.pdf }}</ref>
+
+}}
+
+==Cited texts==
+{{Commons category}}
+
+* {{Cite book |vauthors=Bessette AR, Bessette AE, Harris DB |title=Milk Mushrooms of North America: A Field Guide to the Genus ''Lactarius'' |publisher=Syracuse University Press |location=Syracuse, New York |year=2009 |isbn=978-0-8156-3229-0}}
+* {{Cite book|title=North American Species of ''Lactarius'' |vauthors=Hesler LR, Smith AH |year=1979 |publisher=The University of Michigan Press |location=Ann Arbor, Michigan |isbn=978-0-472-08440-1}}
+
+{{Taxonbar|from=Q865540}}
+{{Featured article}}
+
+{{DEFAULTSORT:Lactarius torminosus}}
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1774]]
+[[Category:Fungi of Africa]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Lactarius|torminosus]]
+[[Category:Poisonous fungi]]
+[[Category:Taxa named by Jacob Christian Schäffer]]
+[[Category:Fungus species]]

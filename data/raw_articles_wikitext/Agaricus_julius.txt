@@ -1,0 +1,45 @@
+{{Short description|Species of fungus}}
+
+{{Speciesbox
+| image = Agaricus julius.jpg
+| genus = Agaricus
+| species = julius
+| authority = [[Richard W. Kerrigan|Kerrigan]]<ref name=kerrigan16/>
+}}
+{{ mycomorphbox
+| name            = ''Agaricus julius''
+| hymeniumType    = gills
+| capShape        = convex
+| whichGills      = free
+| stipeCharacter  = ring
+| sporePrintColor = brown
+| sporePrintColor2 = blackish-brown
+| ecologicalType  = saprotrophic
+| howEdible       = choice
+}}
+
+'''''Agaricus julius''''', commonly known as '''the emperor''' or '''the prince''', is a [[Basidiomycota|basidiomycete]] fungus of the genus ''[[Agaricus]]'', closely related to ''[[Agaricus augustus]]''.
+
+== Taxonomy ==
+''Agaricus julius'' was first described by American mycologist Richard W. Kerrigan in 2016.<ref>{{IndexFungorum|802562}}</ref>
+
+== Description ==
+The cap is {{cvt|5–15|cm}} wide, sometimes larger. The appearance of this mushroom is very similar to the store-bought [[Agaricus bisporus|portabello mushroom]]. It stains slightly yellow where damaged or nicked. The cap is light brown with a scaled pattern. When young, it has a cottony veil covering the gills. The mushroom can become quite large as the cap opens. The gills are initially pinkish-gray to pink when young, then turning brown at maturity; crowded; not attached to the [[Stipe (mycology)|stipe]]. The stipe is {{cvt|2–3|cm}} wide, and {{cvt|5-15|cm}} long. The stalk is usually shaggy when young, becoming smooth at maturity, curved with a larger bulbous base. Once the cap opens it leaves a thin yellowish to light brown [[Annulus (mycology)|skirt-like ring]] on the stipe. When mature, the stalk can turn darker above the ring. The cap flesh can stain yellow in fresh specimens where nicked or handled. It has a very distinct cherry-almond smell. The spore color is chocolate brown.<ref>{{cite web |title=Agaricus julius |last1=Kuo |first1=Michael |year=2018 |url=https://www.mushroomexpert.com/agaricus_julius.html |access-date=12 March 2025 |website=MushroomExpert.Com}}</ref>
+
+== In culture ==
+In March 2025, with the signing of bill HB25-1091,<ref>{{Cite web|url=https://leg.colorado.gov/bills/hb25-1091|title=Designation of State Mushroom}}</ref> ''A. julius'' became the [[List of U.S. state mushrooms|state mushroom]] of [[Colorado]].
+
+== References ==
+
+{{Reflist|refs=
+<ref name=kerrigan16>{{cite book |author-link=Richard W. Kerrigan |last=Kerrigan |first=Richard W. |year=2016 |title=Agaricus of North America (Memoirs of The New York Botanical Garden Volume 114) |publisher=NYBG Press |location=Bronx, New York, USA}}</ref>
+}}
+
+{{Taxonbar|from=Q107472733}}
+
+[[Category:Agaricus|julius]]
+[[Category:Edible fungi]]
+[[Category:Fungi of the United States]]
+[[Category:Fungi of Canada]]
+[[Category:Fungi described in 2016]]
+[[Category:Fungus species]]

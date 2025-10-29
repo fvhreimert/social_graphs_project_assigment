@@ -1,0 +1,55 @@
+{{Short description|Species of fungus}}
+{{no footnotes|date=October 2025}}
+{{Speciesbox
+| image = Gymnopilus luteoviridis.jpg
+| image_caption = 
+| taxon = Gymnopilus luteoviridis
+| authority = [[Harry D. Thiers|Thiers]] (1959)
+}}
+{{mycomorphbox
+| name = Gymnopilus luteoviridis
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=ring
+| ecologicalType=saprotrophic
+| sporePrintColor=yellow-orange
+| howEdible=psychoactive
+}}
+
+'''''Gymnopilus luteoviridis''''' is a widely distributed [[mushroom]]-forming [[fungus]] of the [[Eastern United States]] that contains the [[hallucinogen]]s [[psilocybin]] and [[psilocin]].
+
+==Description==
+*'''[[Pileus (mycology)|Pileus]]''': 2.5-4&nbsp;cm in diameter, moderately thick (4–5&nbsp;mm), convex to subconic with an incurved margin when young, becoming nearly flat. Straw yellow to  mustard yellow, smooth, conspicuously fibrillose, with pale [[wikt:fulvous|fulvous]] scales along the margin and becoming olivaceous towards the center of the cap, flesh the same color as the surface. Staining greenish where injured.
+*'''Gills''': Adnate to adnexed with a  short decurrent tooth, thin, close to subdistant, cream buff to dark yellow, becoming rusty brown with age, edges the same color as the gill face.
+*'''[[Spore print]]''': Rusty brown.
+*'''[[Stipe (mycology)|Stipe]]''': 4–6&nbsp;cm x 0.3—0.5&nbsp;cm, tapering slightly at the apex, stuffed to hollow, surface dry, [[glabrousness (botany)|glabrous]], vertically striate, yellowish buff, staining greenish when handled or in age, the partial veil sometimes forms a faint fibrillose annular zone near the apex.
+*'''Taste''': Bitter.
+*'''Odor''': Not distinctive.
+*'''Microscopic features''': Spores 5.5—7 x 4—5 [[μm]] ellipsoid in face view, [[dextrinoid]], wrinkled-rough, no germ pore. Pleurocystidia present, cheilocystidia present. Pileocystidia and caulocystidia none. [[Clamp connection]]s are present.
+*'''Bruising''': The base and stipe will bruise blue or green.
+
+==Habitat and formation==
+''Gymnopilus luteoviridis'' is found growing gregarious to cespitose on oak stumps and hardwoods from August to November. It is widely distributed in eastern North America.
+
+==See also==
+{{Portal|Fungi}}
+* [[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+*{{cite book | first=Paul | last=Stamets | year=1996 | title=Psilocybin Mushrooms of the World | publisher=Ten Speed Press | location=Berkeley | isbn=0-9610798-0-0}}
+* Hesler, L. R. (1969). ''North American species of'' Gymnopilus. New York: Hafner. 117 pp.
+* {{Cite journal |last=Thiers |first=Harry D. |year=1959 |title=The Agaric Flora of Texas. III. New taxa of brown- and black-spored agarics |journal=[[Mycologia]] |volume=51 |issue=4 |pages=529–540 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0051/004/0529.htm |doi=10.2307/3756141|jstor=3756141 |url-access=subscription }}
+
+{{Hallucinogenic mushrooms}}
+{{Taxonbar|from=Q5624853}}
+
+[[Category:Gymnopilus|luteoviridis]]
+[[Category:Entheogens]]
+[[Category:Psychoactive fungi]]
+[[Category:Psychedelic tryptamine carriers]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1959]]
+[[Category:Taxa named by Lexemuel Ray Hesler]]
+[[Category:Fungus species]]

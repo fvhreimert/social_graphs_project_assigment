@@ -1,0 +1,52 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image =
+| genus = Psilocybe
+| species = graveolens
+| authority = [[Charles Horton Peck|Peck]]
+}}
+{{mycomorphbox
+| name = ''Psilocybe graveolens''
+| whichGills = adnexed
+| capShape = convex
+| capShape2=umbonate
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=saprotrophic
+| sporePrintColor=purple-brown
+| howEdible=psychoactive
+}}
+
+'''''Psilocybe graveolens''''' is an extremely rare [[psilocybin mushroom]] which has [[psilocybin]] and [[psilocin]] as main active compounds, discovered in the salt marshes or "meadows" of [[Hackensack, New Jersey]]. This mushroom is known for its strong and persistent odor.
+
+It is in the section ''Zapotecorum'' of the genus ''[[Psilocybe]]'', other members of this section include ''[[Psilocybe muliercula]]'', ''[[Psilocybe angustipleurocystidiata]]'', ''[[Psilocybe aucklandii]]'', ''[[Psilocybe collybioides]]'', ''[[Psilocybe kumaenorum]]'', ''[[Psilocybe zapotecorum]]'', ''[[Psilocybe pintonii]]'', ''[[Psilocybe subcaerulipes]]'', ''[[Psilocybe moseri]]'', ''[[Psilocybe zapotecoantillarum]]'', ''[[Psilocybe zapotecocaribaea]]'', and ''[[Psilocybe antioquiensis]]''.<ref name="Guzman2012">{{cite journal |last=Guzmán |first=Gastón |authorlink=Gastón Guzmán  |title= New Taxonomical and Ethnomycological Observations on Psilocybe S.S. From Mexico, Africa and Spain |journal=Acta Botanica Mexicana |year=2012 |volume=100 |pages=79–106 |doi=10.21829/abm100.2012.32 |url=http://dialnet.unirioja.es/descarga/articulo/3988750.pdf|doi-access=free }}</ref><ref name="Ramirez-Cruz2013">{{cite journal |last1=Ramírez-Cruz |first1=Virginia |last2=Guzmán |first2=Gastón
+|last3= Villalobos-Arámbula |first3=Alma Rosa |last4=Rodríguez |first4=Aarón |last5=Matheny |first5=Brandon |last6= Sánchez-García |first6=Marisol |last7=Guzmán-Dávalos |first7=Laura |title=Phylogenetic inference and trait evolution of the psychedelic mushroom genus ''Psilocybe'' sensu lato (Agaricales)|journal=Botany |year=2013 |volume=91 |issue=9 |pages=573–591 |doi=10.1139/cjb-2013-0070|bibcode=2013Botan..91..573R |doi-access= }}</ref>
+
+==Etymology==
+The species name means “strongly smelling”: Latin gravis “heavy” and olens participle present of olere “smell”.
+
+== Description ==
+*'''Cap''': (1)2 — 3(4) cm in diameter, [[wikt:convex|convex]] to [[subumbonate]], [[wikt:umbonate|umbonate]] or with a slight depression, glabrous, even to slightly [[striate]] at the margin, [[hygrophanous]], brownish to orange brownish, fading to golden yellow to whitish, sometimes with a dark green hue. Flesh whitish to pallid brownish, with a strong unfavorable odor.
+*'''Gills''': [[Adnexed]], close, yellowish brown to chocolate brown, edges sometimes lighter.
+*'''Spore Print''': Dark purple brown.
+*'''Stipe''': (2)4 – 6&nbsp;cm x 2 – 5&nbsp;mm, equal or slightly expanding at the base to [[subulbous]], white to brownish, with dark greenish or [[violaceous]] tones. stuffed to hollow, [[fibrillose]], with a soon disappearing evanescent [[Annulus (mycology)|annulus]], [[rhizomorphic]] strands attached to the base. 
+*'''Taste''': [[Farinaceous]]
+*'''Odor''': [[Farinaceous]] 
+*'''Microscopic features''': Spores (7)7.5 — 9.5(10.5) [[μm]] x (3.7)4.5 — 5.2(6) [[μm]], [[pleurocystidia]] and [[cheilocystidia]] present. [[Basidia]] 4-spored.
+
+==Distribution and habitat==
+''Psilocybe  graveolens'' is found growing [[wikt:cespitose|cespitose]] to [[gregarious]] on rich loam of salt marshes or "meadows" in [[Hackensack, New Jersey]], in November.
+
+==References==
+{{Reflist}}
+
+{{Hallucinogenic mushrooms}}
+{{Taxonbar|from=Q7255879}}
+
+[[Category:Entheogens]]
+[[Category:Psychoactive fungi]]
+[[Category:Psilocybe|graveolens]]
+[[Category:Psychedelic tryptamine carriers]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]
+[[Category:Taxa named by Charles Horton Peck]]

@@ -1,0 +1,43 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Bjerkandera fumosa G4 (2).JPG
+| genus = Bjerkandera
+| species = fumosa
+| authority = ([[Pers.]]) [[P.Karst.]] (1879)
+| synonyms = *''Boletus fumosus'' <small>Pers. (1801)</small>
+}}
+
+'''''Bjerkandera fumosa''''', the '''big smoky bracket''',<ref name="jarvis-2020">{{cite book |last1=Jarvis |first1=Peter J. |title=The Pelagic Dictionary of Natural History of the British Isles |date=2020 |publisher=Pelagic |location=Exeter |isbn=9781784271947}}</ref> is a species of [[polypore|poroid]] fungus in the family [[Phanerochaetaceae]].
+
+==Taxonomy==
+It was first [[species description|described]] to science as ''Boletus fumosus'' by [[Christiaan Hendrik Persoon]] in 1801.<ref name="Persoon 1801"/> [[Petter Adolf Karsten]] transferred the species to the genus ''[[Bjerkandera]]'' in 1879.<ref name="Karsten 1879"/>
+
+==Description==
+The form of ''Bjerkandera fumosa'' [[basidiocarp|fruit bodies]] ranges from effused-reflexed (spread out over the substrate and turned back at the margin to form a [[pileus (mycology)|cap]]) or cap-like, but attached directly to the substrate without a [[stipe (mycology)|stipe]]. These caps can be solitary or closely overlapping, and are often fused with neighbouring caps. The caps typically measure {{convert|5|–|10|cm|in|abbr=on}} wide by {{convert|2|cm|in|abbr=on|1}} wide, and a [[buff (colour)|buff]]-coloured upper surface with a texture ranging from finely hairy (tomentose) to smooth. The pores on the cap underside are circular to angular, numbering 2–5 per millimetre.<ref name="Ryvarden 2014"/>
+
+''Bjerkandera fumosa'' has a monomitic [[hypha]]l system, containing only generative hyphae. The [[basidia]] are club-shaped, measuring 20–22&nbsp;[[micrometre|μm]]. [[Basidiospore|Spores]] have the shape of short cylinders, and measure 5.5–7 by 2.5–3.5&nbsp;μm. They are smooth, [[hyaline]], and do not react with [[Melzer's reagent]].<ref name="Ryvarden 2014"/>
+
+==Habitat and distribution==
+''Bjerkandera fumosa'' causes a [[Wood-decay fungus#White rot|white rot]] in various [[hardwood]] species. It has a [[Circumboreal Region|circumboreal]] distribution in the [[Northern Hemisphere]].<ref name="Ryvarden 2014"/>
+
+==References==
+{{Reflist|refs=
+
+<ref name="Karsten 1879">{{cite journal |author=Karsten, P.A. |year=1879 |title=Symbolae ad mycologiam Fennicam. VI |journal=Meddelanden Af Societas Pro Fauna et Flora Fennica |volume=5 |pages=15–46 |language=Latin |url=https://www.biodiversitylibrary.org/page/3768926}}</ref>
+
+<ref name="Persoon 1801">{{cite book |author=Persoon, C.H. |year=1801 |title=Synopsis methodica fungorum |location= Göttingen |publisher=Apud Henricvm Dieterich |page=530 |language=Latin |url=http://bibdigital.rjb.csic.es/ing/Libro.php?Libro=3136&Pagina=292}}</ref>
+
+<ref name="Ryvarden 2014">{{cite book |author1=Ryvarden, Leif |author2=Melo, Ireneia |title=Poroid Fungi of Europe |year=2014 |series=Synopsis Fungorum |volume=31 |publisher=Fungiflora |location=Oslo, Norway |isbn=978-8290724462 |pages=116–117}}</ref>
+
+}}
+
+{{Taxonbar|from=Q10659008}}
+
+[[Category:Phanerochaetaceae]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungal plant pathogens and diseases]]
+[[Category:Fungi described in 1801]]
+[[Category:Taxa named by Christiaan Hendrik Persoon]]
+[[Category:Fungus species]]

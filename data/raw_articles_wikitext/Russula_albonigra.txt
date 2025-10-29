@@ -1,0 +1,47 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Russula albonigra1.jpg
+| genus = Russula
+| species = albonigra
+| authority = ([[Krombh.]]) [[Elias Magnus Fries|Fr.]], 1874
+| synonyms = 
+}}
+{{mycomorphbox
+| name = ''Russula albonigra''
+| whichGills =  decurrent
+| capShape = convex
+| capShape2 = infundibuliform
+| hymeniumType = gills
+| stipeCharacter = bare
+| sporePrintColor = white
+| ecologicalType = mycorrhizal
+| howEdible = caution
+}}
+
+'''''Russula albonigra''''', commonly known as the '''blackening russula''',<ref name="Arora2nd"/> is a  member of the genus ''[[Russula]]'', all of which are collectively known as '''brittlegills'''. Its consumption is recommended against.
+
+==Taxonomy==
+First described by the mycologist [[Julius Vincenz von Krombholz]] in 1838, its [[specific name (botany)|specific epithet]] comes from [[Latin]] ''albus'' and ''niger'', which mean ''white'' and ''black''.
+
+==Description==
+The [[pileus (mycology)|cap]] is up to {{Convert|20|cm|frac=2}} wide, convex to infundibuliform, whitish then blackening, and sometimes viscous.<ref name="Arora2nd">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/89/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=89 |orig-date=1979}}</ref> The [[stipe (mycology)|stipe]] is up to {{Convert|13|cm|abbr=on|frac=4}} long,<ref name="Arora2nd" /> dusky, or white above, pale grey-ochreous towards the base. The [[Lamella (mycology)|gills]] are [[decurrent]], crowded, thick, unequal, connected by veins, dusky whitish or yellowish. The [[trama (mycology)|flesh]] is white, turns black or sooty. The taste is somewhat bitter and unpleasant to mild.<ref>{{cite book | title = Synopsis of the British Basidiomycetes |pages= 281}}</ref>
+
+==Habitat and distribution==
+It grows under [[Dicotyledon|hardwood]] and [[conifer]] trees in North America, being found in such places as the [[Pacific Northwest]].<ref name="Arora2nd" />
+
+==Uses==
+It may be possible to eat if cooked thoroughly, but is of little interest and resembles a [[Mushroom poisoning|poisonous]] species.<ref name="Arora2nd" />
+
+==See also==
+*[[List of Russula species|List of ''Russula'' species]]
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q1796464}}
+
+[[Category:Russula|albonigra]]
+[[Category:Fungus species]]
+
+
+{{Russulales-stub}}

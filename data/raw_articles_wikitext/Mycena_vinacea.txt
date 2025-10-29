@@ -1,0 +1,38 @@
+{{Short description|Species of fungus}}
+{{Speciesbox 
+| image = Unidentified Fungi 5994.jpg
+| image_caption = 
+| genus = Mycena
+| species = vinacea
+| authority = [[John Burton Cleland|Cleland]]
+| synonyms =
+}}
+{{mycomorphbox 
+| name = ''Mycena vinacea''
+| hymeniumType = gills
+| capShape = conical
+| whichGills = adnate
+| stipeCharacter = bare
+| sporePrintColor = white
+| ecologicalType = saprotrophic
+| howEdible = unknown
+}}
+
+'''''Mycena vinacea''''' is a species of [[mushroom]] in the family [[Mycenaceae]]. Found in Australia, it was [[species description|first described]] scientifically by [[John Burton Cleland]] in 1931.<ref name=Cleland1931/>
+
+==References==
+{{Reflist|refs=
+
+<ref name=Cleland1931>{{cite journal |title=Australian fungi: notes and descriptions. No. 8 |year=1931 |author=Cleland JB. |journal=Transactions and Proceedings of the Royal Society of South Australia |volume=55 |pages=152–60}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|281748}}
+
+{{Taxonbar|from=Q5229677}}
+
+[[Category:Mycena|vinacea]]
+[[Category:Fungi of Australia]]
+[[Category:Taxa named by John Burton Cleland]]
+[[Category:Fungus species]]

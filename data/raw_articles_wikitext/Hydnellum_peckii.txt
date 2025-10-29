@@ -1,0 +1,189 @@
+{{Short description|Species of fungus}}
+{{Redirect|Devil's tooth|the mountain in Idaho, United States|Devils Tooth (Idaho)}}
+{{Featured article}}
+{{Speciesbox
+| image = Hydnellum peckii2.jpg
+| image_alt = 
+| image_caption = Bleeding tooth fungus
+| status = 
+| status_system = 
+| status_ref = 
+| genus = Hydnellum
+| species = peckii
+| authority = [[Howard James Banker|Banker]] (1912)
+| synonyms = 
+*''Hydnum peckii'' <small>(Banker) [[Pier Andrea Saccardo|Sacc.]] (1925)</small>
+*''Calodon peckii'' <small>(Banker) [[Wally Snell|Snell]] & [[Esther Amelia Dick|E.A.Dick]] (1956)</small>
+| synonyms_ref = <ref name="urlMycoBank: Hydnellum peckii"/>
+}}
+{{Mycomorphbox
+| name = ''Hydnellum peckii''
+| hymeniumType = teeth
+| capShape = depressed
+| capShape2 = convex
+| whichGills = NA
+| stipeCharacter = NA
+| sporePrintColor = brown
+| ecologicalType = mycorrhizal
+| howEdible = inedible
+}}
+
+'''''Hydnellum peckii''''' is a [[fungus]] in the genus ''[[Hydnellum]]'' of the family [[Bankeraceae]]. The unusual appearance of the young fruit bodies has earned the species several descriptive [[common name]]s, including '''strawberries and cream''', the '''bleeding Hydnellum''', the '''bleeding tooth fungus''', the '''red-juice tooth''', and the '''Devil's tooth'''.
+
+The [[basidiocarp|fruit bodies]] typically have a funnel-shaped [[Pileus (mycology)|cap]] with a white edge, although the shape can vary greatly. Young, moist fruit bodies can "bleed" bright red [[guttation]] droplets. Although the fruit bodies are readily identifiable when young, they become brown and nondescript with age. It is a [[hydnoid fungi|hydnoid]] species, producing [[spore]]s on the surface of vertical spines or tooth-like projections that hang from the undersurface of the fruit bodies.
+
+The species is found in North America, Europe, and was recently discovered in Iran (2008) and Korea (2010). It is [[mycorrhiza]]l, forming [[mutualism (biology)|mutually beneficial]] relationships with a variety of [[conifer]]ous trees, growing on the ground singly, scattered, or in fused masses. They are considered inedible, but the guttation droplets contain [[atromentin]], a [[pigment]] with [[anticoagulant]] properties similar to [[heparin]].
+
+==Taxonomy==
+
+The species was first [[species description|described scientifically]] by American mycologist [[Howard James Banker]] in 1913.<ref name=Banker1913/> Italian [[Pier Andrea Saccardo]] placed the species in the genus ''[[Hydnum]]'' in 1925,<ref name=Saccardo1925/> while [[Walter Henry Snell]] and [[Esther Amelia Dick]] placed it in ''Calodon'' in 1956;<ref name=Snell1956/> ''Hydnum peckii'' (Banker) Sacc. and ''Calodon peckii'' Snell & E.A. Dick are [[synonym (biology)|synonyms]] of ''Hydnellum peckii''.<ref name="urlMycoBank: Hydnellum peckii"/>
+
+The fungus is classified in the stirps (species thought to be descendants of a common ancestor) ''Diabolum'' of the genus ''Hydnellum'', a grouping of similar species with the following shared characteristics: [[trama (mycology)|flesh]] that is marked with concentric lines that form alternating pale and darker zones ([[wikt:zonate|zonate]]); an extremely peppery taste; a sweetish odor; spores that are [[wikt:ellipsoid|ellipsoid]], and not [[Amyloid (mycology)|amyloid]] (that is, not absorbing [[iodine]] when [[Chemical tests in mushroom identification|stained]] with [[Melzer's reagent]]), acyanophilous (not staining with the reagent [[methyl blue|Cotton Blue]]), and covered with tubercules; the presence of [[clamp connection]]s in the [[hypha]]e.<ref name=Hall1972/>
+
+=== Etymology ===
+The [[specific name (botany)|specific eponym]] honors mycologist [[Charles Horton Peck]].<ref name=Evenson/>  The fungus is known in the [[common name|vernacular]] by several names, including "strawberries and cream", the "bleeding Hydnellum",<ref name=Arora1986/> the "red-juice tooth", "Peck's hydnum",<ref name=Sept2006/> the "bleeding tooth fungus",<ref name="urlBarron"/> and the "devil's tooth".<ref name="urlRogers Mushrooms"/>
+
+==Description==
+As in all mushroom-producing fungi, the fruit bodies ([[Sporocarp (fungus)|sporocarps]]) are the reproductive structures that are produced from fungal [[mycelium]] when the appropriate environmental conditions of temperature, humidity and nutrient availability are met. ''Hydnellum peckii'' is a [[stipitate hydnoid fungus]], meaning that it has a [[pileus (mycology)|cap]] atop a [[stipe (mycology)|stipe]] (stem), and a form resembling a ''[[Hydnum]]''—characterized by a teeth-like [[hymenium]], rather than [[lamellae (mycology)|gills]] or pores on the underside of the cap. Fruit bodies growing closely together often appear to fuse together (this is called "confluence"). They can reach a height of up to {{convert|10.5|cm|4=1|abbr=on|frac=8}}.<ref name=Hall1972/> Fresh fruit bodies exude a striking, thick red fluid when they are moist,<ref name=Banker1913/> present even in young specimens, which are lumplike in appearance.<ref>{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=232–233|language=en}}</ref>
+
+
+
+The cap's surface is convex to flattened, more or less uneven and sometimes slightly depressed in the center. It is usually densely covered with "hairs" that give it a texture similar to felt or velvet; these hairs are sloughed off in age, leaving the caps of mature specimens smooth.<ref name=Hall1972/> Its shape varies from somewhat round to irregular, {{convert|4 to 10|cm|1|abbr=on|frac=8}}, or even as much as {{convert|20|cm|1|abbr=on|frac=8}} wide as a result of confluence. The cap is initially whitish, but later turns slightly brownish, with irregular dark-brown to nearly black blotches where it is bruised. In maturity, the surface is fibrous and tough, scaly and jagged, grayish brown in the upper part of the cap, and somewhat woody. The [[trama (mycology)|flesh]] is a pale pinkish brown.<ref name=Ellis1990/> The [[spore print]] is brown.<ref>{{Cite web|title=Hydnellum peckii, Devil's Tooth, identification|url=https://www.first-nature.com/fungi/hydnellum-peckii.php|access-date=2019-12-13|website=www.first-nature.com}}</ref>
+
+The spines are slender, cylindrical and tapering ([[wiktionary:terete|terete]]), less than {{convert|5|mm|abbr=on|frac=8}} long, and become shorter closer to the cap edge. They are crowded together, with typically between three and five teeth per square millimeter.<ref name=Banker1913/> Pinkish white initially, they age to a grayish brown.<ref name=Evenson/> The stem is thick, very short, and often deformed. It becomes bulbous where it penetrates the ground, and may root into the soil for several centimeters. Although it may reach up to {{convert|5|cm|1|abbr=on|frac=8}} in total length, and is {{convert|1 to 3|cm|1|abbr=on|frac=8}} wide, only about {{convert|0.1 to 1|cm|1|abbr=on|frac=16}} appear above ground. The upper part is covered with the same teeth found on the underside of the cap, whereas the lower part is hairy and often encases debris from the [[forest floor]].<ref name=Orr1979/> The odor of the fruit body has been described as "mild to disagreeable",<ref name=Evenson/> or, as Banker suggested in his original description, similar to [[hickory]] nuts.<ref name=Banker1913/>
+
+===Microscopic features===
+]]
+
+In [[spore print|deposit]], the [[basidiospore|spores]] appear brown. Viewing them with a [[Light microscopy#Optical microscopy|light microscope]] reveals finer details of their structure: they are roughly spherical but end abruptly in a small point, their surfaces are covered with small, wart-like nodules, and their size is between 5.0–5.3 by 4.0–4.7&nbsp;[[μm]]. The spores are [[inamyloid]], meaning they do not absorb [[iodine]] when [[Chemical tests in mushroom identification|stained]] with [[Melzer's reagent]].<ref name=Hall1972/>
+
+''Hydnellum peckii'''s cells (the [[hypha]]e) also present various characters useful for its characterization. The hyphae that form the cap are [[hyaline]] (translucent), smooth, thin-walled, and 3–4&nbsp;μm thick. They collapse when dry, but may be readily revived with a weak (2%) solution of [[potassium hydroxide]]. Those in the cap form an intricate tangle with a tendency to run longitudinally. They are divided into cellular compartments ([[septum|septa]]) and have [[clamp connection]]s—short branches connecting one cell to the previous cell to allow passage of the products of nuclear division.<ref name=Banker1913/> The [[basidia]], the spore-bearing cells in the hymenium, are club-shaped, four-spored, and measure 35–40 by 4.7–6&nbsp;μm.<ref name=Hall1972/>
+
+===Similar species===
+
+''[[Hydnellum diabolus]]'' (the species epithet is given the neuter ''diabolum'' in some publications)<ref name=Hall1972/><ref name=Tylutki1987II/> has a very similar appearance, so much so that some consider it and ''H.&nbsp;peckii'' to be synonymous; ''H.&nbsp;diabolus'' is said to have a sweetish pungent odor that is lacking in ''H.&nbsp;peckii''.<ref name=Miller2006/> The differences between the two species are amplified in mature specimens: ''H.&nbsp;diabolus'' has an irregularly thickened stem, while the stem of ''H.&nbsp;peckii'' is thickened by a "definite spongy layer". Additionally, old specimens of ''H.&nbsp;peckii'' have a smooth cap, while ''H.&nbsp;diabolus'' is [[tomentose]].<ref name=Hall1972/> The related species ''[[Hydnellum pineticola|H.&nbsp;pineticola]]'' also exudes pink droplets of liquid when young and moist. Commonly found growing under conifers in northeastern North America, ''H.&nbsp;pineticola'' tastes "unpleasant", but not acrid.<ref name=Arora1986/> Fruit bodies tend to grow singly, rather than in fused clusters, and, unlike ''H.&nbsp;peckii'', they do not have bulbous stems.<ref name=Harrison1987/>
+
+[[Molecular phylogenetics|Molecular analysis]] based on the sequences of the [[internal transcribed spacer]] DNA of several ''Hydnellum'' species placed ''H.&nbsp;peckii'' as most closely related to ''[[Hydnellum ferrugineum|H.&nbsp;ferrugineum]]'' and ''[[Hydnellum spongiosipes|H.&nbsp;spongiosipes]]''.<ref name="Parfitt2007" />
+
+''[[Abortiporus biennis]]'' has no teeth but produces red droplets from exposed pores.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=213}}</ref>
+
+==Ecology==
+
+''Hydnellum peckii'' is a [[mycorrhiza]]l fungus, and as such establishes a [[Mutualism (biology)|mutualistic]] relationship with the roots of certain trees (referred to as "hosts"), in which the fungus exchanges [[mineral]]s and [[amino acids]] extracted from the soil for [[Carbon fixation|fixed carbon]] from the host. The subterranean hyphae of the fungus grow a sheath of tissue around the [[wikt:rootlet|rootlets]] of a broad range of tree species, in an intimate association that is especially beneficial to the host (termed ectomycorrhizal), as the fungus produces [[enzyme]]s that [[Mineralization (biology)|mineralize]] organic compounds and facilitate the transfer of nutrients to the tree.<ref name=Nasholm1998/>
+
+The ectomycorrhizal structures of ''H.&nbsp;peckii'' are among a few in the [[Bankeraceae]] that have been studied in detail. They are characterized by a plectenchymatous mantle—a layer of tissue made of hyphae tightly arranged in a parallel orientation, or palisade, and which rarely branch or overlap each other. These hyphae, along with adhering mineral soil particles, are embedded in a gelatinous matrix. The hyphae of the ectomycorrhizae can become [[chlamydospore]]s, an adaptation that helps the fungus tolerate unfavorable conditions. Chlamydospores of ''H.&nbsp;peckii'' have a peculiar structure—markedly distinct from those of other Bankeraceae—with thick, smooth inner walls and an outer wall that is split radially into warts. The most striking characteristic of the ectomycorrhizae as a whole is the way the black outer layers of older sections are shed, giving a "carbonized appearance".<ref name=Agerer1993/> The majority of the underground biomass of the fungus is concentrated near the surface,<ref name=Vinichuk2003/> most likely as "mycelial mats"—dense clusters of ectomycorrhizae and mycelium.<ref name=Linde2009/> The mycelium is also known to extend far beyond the site of the fruit bodies, as far as {{convert|337|cm|ft|1|abbr=on|frac=2}} away.<ref name=Linde2009/>
+
+[[Molecular phylogenetics|Molecular]] techniques have been developed to help with conservation efforts of stipitate hydnoid fungi, including ''H.&nbsp;peckii''. While the distribution of the fungus has traditionally been determined by counting the fruit bodies, this method has a major drawback in that fruit bodies are not produced consistently every year, and the absence of fruit bodies is not an indication of the absence of its mycelium in the soil.<ref name=Cairney2005/> More modern techniques using the [[polymerase chain reaction]] to assess the presence of the fungal [[DNA]] in the soil have helped alleviate the issues in monitoring the presence and distribution of fungi mycelia.<ref name=Linde2008/>
+
+==Habitat and distribution==
+, Finland.]]
+The fruit bodies of ''Hydnellum peckii'' are found growing solitary, scattered, or clustered together on the ground under [[conifer]]s, often among mosses and pine needle litter. ''H.&nbsp;peckii'' is a "late-stage" fungus that, in boreal forests dominated by [[jack pine]], typically begins associating with more mature hosts once the [[canopy (biology)|canopy]] has closed.<ref name=Visser1995/> A preference for [[montane|mountainous]] or [[subalpine]] ecosystems has been noted.<ref name=Evenson/>
+
+The fungus has a wide distribution in North America, and is particularly common in the [[Pacific Northwest]];<ref name=Bessette2001/> its range extends north to [[Alaska]] and east to [[North Carolina]].<ref name=Sept2006/> In the [[Puget Sound]] area of the U.S. state of [[Washington (U.S. state)|Washington]], it is found in association with [[Douglas-fir]], [[fir]], and [[Tsuga|hemlock]].<ref name=Hall1972/> Along the [[Oregon Coast]] it has been collected under [[lodgepole pine]].<ref name=Orr1979/> In addition to North America, the mushroom is widespread in Europe, and its presence has been documented in Italy,<ref name=Papetti2006/> Germany,<ref name=Doll1979/> and Scotland.<ref name=Newton2002/> The species is common in the latter location, but becoming increasingly rare in several European countries, such as Norway,<ref name=Gulden1992/> The Netherlands,<ref name=Arnolds1989/> and the Czech Republic.<ref name=Hrouda1999/> Increased pollution in central Europe has been suggested as one possible factor in the mushroom's decline there.<ref name=Newton2002/> Reports from Iran in 2008<ref name=Asef2008/> and Korea in 2010<ref name=Han2010/> were the first outside Europe and North America.
+
+==Uses==
+Fruit bodies of ''H.&nbsp;peckii'' have been described as resembling "Danish pastry topped with strawberry jam".<ref name=Arora1986/> ''Hydnellum'' species are not known to be [[mushroom poisoning|poisonous]],<ref name=Ammirati1985/> but they are not particularly edible due to their foul taste.<ref name=Arora1986/> This acrid taste persists even in dried specimens.<ref name=Bessette2001/>
+
+The fruit bodies of this and other ''Hydnellum'' species are prized by [[mushroom dye]]rs.<ref name=Arora1991/> The colors may range from beige when no [[mordant]] is used, to various shades of blue or green depending on the mordant added.<ref name=Bessette2001/>
+
+==Chemistry==
+
+Screening of an extract of ''Hydnellum peckii'' revealed the presence of an effective [[anticoagulant]], named [[atromentin]] (2,5-dihydroxy-3,6-bis(4-[[phenol|hydroxyphenyl]])-[[1,4-Benzoquinone|1,4-benzoquinone]]), and similar in [[biological activity]] to the well-known anticoagulant [[heparin]].<ref name=Khanna1965/> Atromentin also possesses antibacterial activity, inhibiting the enzyme [[enoyl-acyl carrier protein reductase]] (essential for the [[Fatty acid metabolism#Synthesis|biosynthesis]] of [[fatty acid]]s) in the bacteria ''[[Streptococcus pneumoniae]]''.<ref name=Zheng2006/>
+
+''Hydnellum peckii'' can [[bioaccumulation|bioaccumulate]] the metal [[caesium]]. In one Swedish [[field study]], as much as 9% of the total caesium of the topmost {{convert|10|cm|in|1|abbr=on|frac=8}} of soil was found in the fungal mycelium.<ref name=Vinichuk2003/> In general, ectomycorrhizal fungi, which grow most prolifically in the upper organic horizons of the soil or at the interface between the organic and mineral layers, are involved in the retention and cycling of [[caesium-137]] in organic-rich forest soils.<ref name=Ruhm1998/>
+{{Clear}}
+
+==References==
+
+{{Reflist|colwidth=30em|refs=
+
+<ref name=Agerer1993>{{cite journal |author=Agerer R. |year= 1993 |title=Ectomycorrhizae of ''Hydnellum peckii'' on Norway Spruce and their chlamydospores |journal=Mycologia |volume=85 |issue= 1|pages=74–83 |doi=10.2307/3760481 |jstor= 3760481}}</ref>
+
+<ref name=Ammirati1985>{{cite book |title=Poisonous Mushrooms of Canada|vauthors=Ammirati J, Traquair JA, Horgen PA |year=1985 |publisher=Fitzhenry & Whiteside in cooperation with Agriculture Canada |location=Markham, Ontario |isbn=978-0-88902-977-4 |page=18}}</ref>
+
+<ref name=Arnolds1989>{{cite journal |author=Arnolds E. |year=1989 |title=Former and present distribution of stipitate hydnaceous fungi (Basidiomycetes) in the Netherlands |journal=Nova Hedwigia |volume=48 |issue=1–2 |pages=107–42}}</ref>
+
+<ref name=Arora1986>{{cite book |author=Arora D. |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/627/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |year=1986 |orig-date=1979 |edition=2nd |pages=627}}</ref>
+
+<ref name=Arora1991>{{cite book |author=Arora D. |title=All that the Rain Promises and More: a Hip Pocket Guide to Western Mushrooms |publisher=Ten Speed Press |location=Berkeley, CA |year=1991 |page=206 |isbn=978-0-89815-388-0 |url=https://books.google.com/books?id=87ct90d4B9gC&q=Hydnellum+peckii&pg=PA206 |access-date=2010-10-05}}</ref>
+
+<ref name=Asef2008>{{cite journal |author=Asef MR. |year=2008 |title=''Hydnellum peckii'', a new ectomycorrhizea for Iran |journal=Rostaniha |volume=9 |issue=2 |page=115 |issn=1608-4306}}</ref>
+
+<ref name=Banker1913>{{cite journal |author=Banker HJ. |year=1913 |title=Type studies in the Hydnaceae: V. The genus ''Hydnellum'' |journal=Mycologia |volume=5 |issue=4 |pages=194–205 |doi=10.2307/3753385 |jstor=3753385}}</ref>
+
+<ref name=Bessette2001>{{cite book |vauthors=Bessette A, Bessette AR |title=The Rainbow Beneath my Feet: a Mushroom Dyer's Field Guide |publisher=Syracuse University Press |location=Syracuse |year=2001 |page=118 |isbn=978-0-8156-0680-2 |url=https://books.google.com/books?id=1WbvR2PwKcIC&q=Hydnellum+peckii&pg=PA118 |access-date=2010-10-07}}</ref>
+
+<ref name=Cairney2005>{{cite journal |author=Cairney JWG. |year=2005 |title=Basidiomycete mycelia in forest soils: dimensions, dynamics and roles in nutrient distribution |journal=Mycological Research |volume=109 |issue=1 |pages=7–20 |doi=10.1017/S0953756204001753|pmid=15736859 }}</ref>
+
+<ref name=Doll1979>{{cite journal |author=Doll R. |year=1979 |title=Distribution of the stipitate Hydnaceae and the appearance of ''Hericium creolophus'', ''Cirrhatus spongipellis'', ''Pachyodon'' and ''Sistotrema confluens'' in Mecklenburg, East Germany |journal=Feddes Repertorium |volume=90 |issue=1–2 |pages=103–120 |doi=10.1002/fedr.19790900107 |issn= 0014-8962|language=de}}</ref>
+
+<ref name=Ellis1990>{{cite book |vauthors=Ellis JB, Ellis MB |title=Fungi without Gills (Hymenomycetes and Gasteromycetes): an Identification Handbook |publisher=Chapman and Hall |location=London |year=1990 |page=106 |isbn=978-0-412-36970-4|url=https://books.google.com/books?id=vowdIZ7GqD4C&q=Hydnellum+peckii&pg=PA106 |access-date=2010-01-10}}</ref>
+
+<ref name=Evenson>{{cite book |title=Mushrooms of Colorado and the Southern Rocky Mountains |author=Evenson VS. |year=1997 |publisher=Westcliffe Publishers |isbn=978-1-56579-192-3 |page=168 |url=https://books.google.com/books?id=EAeDeyqZLq0C&q=Hydnellum+peckii&pg=PA168 |access-date=2010-01-10}}</ref>
+
+<ref name=Gulden1992>{{cite journal |vauthors=Gulden G, Hanssen EW |year=1992 |title=Distribution and ecology of stipitate hydnaceous fungi in Norway, with special reference to the question of decline |journal=Sommerfeltia |volume=13 |pages=1–58 |doi=10.2478/som-1992-0001 |s2cid=236991359 |issn=0800-6865|url=http://www.nhm.uio.no/forskning-samlinger/forskning/publikasjoner/sommerfeltia/sm_abstr.htm |access-date=2010-01-11 |format=Abstract|doi-access=free }}</ref>
+
+<ref name=Hall1972>{{cite journal |vauthors=Hall D, [[Daniel Elliot Stuntz|Stuntz DE]] |year=1972 |title=Pileate Hydnaceae of the Puget Sound area III. Brown-spored genus: ''Hydnellum'' |journal=Mycologia |volume=64|issue=3 |pages=560–90 |doi=10.2307/3757873 |jstor=3757873}}</ref>
+
+<ref name=Han2010>{{cite journal |vauthors=Han SK, Oh SH, Kim HJ |title=Eight unrecorded fungi identified at the Korea National Arboretum |journal=Mycobiology |volume=38 |issue=2 |pages=81–88 |year=2010 |doi=10.4489/MYCO.2010.38.2.081|pmid=23956632 |pmc=3741570 }}</ref>
+
+<ref name=Harrison1987>{{cite journal |vauthors=Harrison KA, Grund DW |title=Preliminary keys to the terrestrial stipitate hydnums of North America |journal=Mycotaxon |volume=28 |issue=2 |year=1987 |pages=419–26 |url=http://www.cybertruffle.org.uk/cyberliber/59575/0028/002/0419.htm |access-date=2010-10-10 |archive-url=https://web.archive.org/web/20181030072445/http://www.cybertruffle.org.uk/cyberliber/59575/0028/002/0419.htm |archive-date=2018-10-30 |url-status=dead }}</ref>
+
+<ref name=Hrouda1999>{{cite journal |author=Hrouda P. |year=1999 |title=Hydnaceous fungi of the Czech Republic and Slovakia |journal=Czech Mycology |volume=51 |issue=2–3 |pages=99–155 |issn=0009-0476}}</ref>
+
+<ref name=Khanna1965>{{cite journal |vauthors=Khanna JM, Malone MH, Euler KL, Brady LR |year=1965 |title= Atromentin – anticoagulant from '' Hydnellum diabolus'' |journal=Journal of Pharmaceutical Sciences |volume=54 |issue=7 |pages=1016–20 |pmid=5862512 |doi=10.1002/jps.2600540714 |bibcode=1965JPhmS..54.1016K }}</ref>
+
+<ref name=Linde2008>{{cite journal |vauthors=van der Linde S, Alexander I, Anderson IC |year=2008 |title=A PCR-based method for detecting the mycelia of stipitate hydnoid fungi in soil |journal=Journal of Microbiological Methods |volume=75 |issue=1 |pages=40–46|doi=10.1016/j.mimet.2008.04.010 |pmid= 18586344}}</ref>
+
+<ref name=Linde2009>{{cite journal |vauthors=van der Linde S, Alexander IJ, Anderson IC |year=2009 |title=Spatial distribution of sporocarps of stipitate hydnoid fungi and their belowground mycelium |journal=FEMS Microbiology Ecology |volume=69 |issue=3 |pages=344–52 |doi=10.1111/j.1574-6941.2009.00716.x |pmid=19558589|doi-access=free |bibcode=2009FEMME..69..344V }}</ref>
+
+<ref name=Miller2006>{{cite book |vauthors=Miller HR, Miller OK |title=North American Mushrooms: a Field Guide to Edible and Inedible Fungi |publisher=Falcon Guide |location=Guilford, CN |year=2006 |page=405 |isbn=978-0-7627-3109-1 |url=https://books.google.com/books?id=zjvXkLpqsEgC&q=Hydnellum+peckii&pg=PA405 |access-date=2010-01-10 }}{{Dead link|date=August 2024 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+<ref name=Nasholm1998>{{cite journal |vauthors=Näsholm T, Ekblad A, Nordin A, Giesler R, Högberg M, Högberg P |year=1998 |title=Boreal forest plants take up organic nitrogen |journal=[[Nature (journal)|Nature]] |volume=392 |issue=6679 |pages=914–16 |doi= 10.1038/31921|bibcode=1998Natur.392..914N |s2cid=205001566 }}</ref>
+
+<ref name=Newton2002>{{cite journal |vauthors=Newton AC, Holden E, Davy LM, Ward SD, Fleming LV, Watling R |year=2002 |title= Status and distribution of stipitate hydnoid fungi in Scottish coniferous forests |journal=Biological Conservation |volume=107 |issue=2 |pages=181–92 |doi=10.1016/S0006-3207(02)00060-5 |bibcode=2002BCons.107..181N }}</ref>
+
+<ref name=Orr1979>{{cite book |vauthors=Orr DB, Orr RT |title=Mushrooms of Western North America |publisher=University of California Press |location=Berkeley, CA |year=1979 |page=56 |isbn=978-0-520-03656-7}}</ref>
+
+<ref name=Papetti2006>{{cite journal |vauthors=Papetti C, Chiari M, Restelli V |year=2006 |title=Notes on the mycoflora of Brescia |journal=Bollettino del Circolo Micologico G. Carini |volume=52 |pages=3–8 |issn=1122-5262 |language=it}}</ref>
+
+<ref name=Parfitt2007>{{cite journal |vauthors=Parfitt D, Ainsworth AM, Simpsom D, Rogers HJ, Boddy L |title=Molecular and morphological discrimination of stipitate hydnoids in the genera ''Hydnellum'' and ''Phellodon'' |year=2007 |journal=Mycological Research |volume=111 |issue=7 |pages=761–77 |doi=10.1016/j.mycres.2007.05.003 |pmid=17681224}}</ref>
+
+<ref name=Ruhm1998>{{cite journal |vauthors=Rühm W, Steiner M, Kammerer L, Hiersche L, Wirth E |title=Estimating future radiocaesium contamination of fungi on the basis of behavior patterns derived from past instance of contamination |year=1998 |journal=Journal of Environmental Radioactivity |volume=39 |issue=2 |pages=129–47 |doi=10.1016/S0265-931X(97)00055-6 |bibcode=1998JEnvR..39..129R }}</ref>
+
+<ref name=Saccardo1925>{{cite journal |vauthors=Saccardo PA, Trotter A |year=1925 |title=Supplementum Universale, Pars X. Basidiomycetae |journal=Sylloge Fungorum |volume=23 |page=470 |language=la}}</ref>
+
+<ref name=Sept2006>{{cite book |author=Sept JD. |title=Common Mushrooms of the Northwest: Alaska, Western Canada & the Northwestern United States |publisher=Calypso Publishing |location=Sechelt, BC, Canada |year=2006 |page=68 |isbn=978-0-9739819-0-2}}</ref>
+
+<ref name=Snell1956>{{cite journal |vauthors=Snell WA, Dick EA, Jackson HA, Taussig M |year=1956 |title=Notes on the pileate hydnums. III |journal=Lloydia |volume=19 |issue=3 |pages=163–75}}</ref>
+
+<ref name=Tylutki1987II>{{cite book |title=Mushrooms of Idaho and the Pacific Northwest Vol. 2 Non-gilled hymenomycetes |author=Tylukti EE. |year=1987 |publisher=The [[University of Idaho Press]] |location=Moscow, Idaho |pages=158–59 |isbn= 978-0-89301-097-3}}</ref>
+
+<ref name="urlBarron">{{cite web |url=http://www.uoguelph.ca/~gbarron/MISCE2002/hpeckii.htm |title=''Hydnellum peckii'' |author=Barron G. |publisher=University of Guelph |work=George Barron's Website on Fungi |date=May 2002 |access-date=2010-10-05 |url-status=dead |archive-url=https://web.archive.org/web/20110606234046/http://www.uoguelph.ca/~gbarron/MISCE2002/hpeckii.htm |archive-date=2011-06-06 }}</ref>
+
+<ref name="urlMycoBank: Hydnellum peckii">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=414442 |title=''Hydnellum peckii'' Banker 1913 |publisher=International Mycological Association |work=MycoBank |access-date=2010-10-04}}</ref>
+
+<ref name="urlRogers Mushrooms">{{cite web|url=http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6119~gid~~source~gallerydefault.asp |title=''Hydnellum peckii'' |author=Phillips R |work=Roger's Mushrooms |access-date=2010-01-11 |url-status=dead |archive-url=https://web.archive.org/web/20101231035245/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6119~gid~~source~gallerydefault.asp |archive-date=2010-12-31 }}</ref>
+
+<ref name=Vinichuk2003>{{cite journal |vauthors=Vinichuk MM, Johanson KJ, Taylor AF |year=2003 |title=<sup>137</sup>Cs in the fungal compartment of Swedish forest soils |journal=Science of the Total Environment |volume=323 |issue=1–3 |pages=243–51 |doi=10.1016/j.scitotenv.2003.10.009 |pmid=15081731|bibcode=2004ScTEn.323..243V }}</ref>
+
+<ref name=Visser1995>{{cite journal |author=Visser S. |year=1995 |title=Ectomycorrhizal fungal succession in jack pine stands following wildfire |journal=New Phytologist |volume=129 |issue=3 |pages=389–401 |doi= 10.1111/j.1469-8137.1995.tb04309.x |jstor=2558393|s2cid=85061542 |doi-access=free |bibcode=1995NewPh.129..389V }}</ref>
+
+<ref name=Zheng2006>{{cite journal |vauthors=Zheng CJ, Sohn MJ, Kim WG |year=2006 |title=Atromentin and leucomelone, the first inhibitors specific to enoyl-ACP reductase (FabK) of ''Streptococcus pneumoniae'' |journal=Journal of Antibiotics |volume=59 |issue=12 |pages=808–12 |doi=10.1038/ja.2006.108 |pmid=17323650|doi-access=free }}</ref>
+
+}}
+
+==External links==
+* {{Commons category-inline|italic=on}}
+
+{{Taxonbar|from=Q1908340}}
+
+[[Category:Inedible fungi]]
+[[Category:Hydnellum|peckii]]
+[[Category:Fungi described in 1912]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Western Asia]]
+[[Category:Fungus species]]
+[[Category:Fungi used for fiber dyes]]

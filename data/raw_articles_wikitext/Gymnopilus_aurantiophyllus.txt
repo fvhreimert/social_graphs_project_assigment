@@ -1,0 +1,48 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Gymnopilus aurantiophyllus 298317.jpg
+| image_caption = in [[San Bruno, California]], USA
+| taxon = Gymnopilus aurantiophyllus
+| authority = [[Lexemuel Ray Hesler|Hesler]] (1969)
+}}
+{{mycomorphbox
+| name = ''Gymnopilus aurantiophyllus''
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType = gills
+| stipeCharacter = cortina
+| ecologicalType = saprotrophic
+| sporePrintColor = brown
+| howEdible = inedible
+}}
+
+'''''Gymnopilus aurantiophyllus''''' is a species of [[mushroom]]-forming saprotrophic  [[fungus]] in the family [[Hymenogastraceae]].
+
+==Description==
+The [[pileus (mycology)|cap]] is {{convert|4|to|8|cm|in|1|abbr=on}} in diameter.<ref name="Hesler 1969"/> The caps are a bright yellow orange or [[ochre]].<ref name=":0" /> (Part of the binomial name comes from ''[[List of Latin and Greek words commonly used in systematic names|aurantius]]'' which is Latin for, more or less, orange.) The gills are "narrowly attached with a distinct notch."<ref name=":0">{{Cite book |last1=Siegel |first1=Noah |url=https://books.google.com/books?id=jFumDAAAQBAJ&dq=%22Gymnopilus+aurantiophyllus%22&pg=PA133 |title=Mushrooms of the Redwood Coast: A Comprehensive Guide to the Fungi of Coastal Northern California |last2=Schwarz |first2=Christian |date=2016-08-09 |publisher=Clarkson Potter/Ten Speed |isbn=978-1-60774-817-5 |pages=133 |language=en}}</ref> ''Gymnopilus aurantiophyllus'' has a distinctly bitter taste and is not recommended for eating.<ref name=":0" />
+
+==Habitat and distribution==
+''Gymnopilus aurantiophyllus'' has been found growing in clumps on sawdust, in [[Oregon]], in November.<ref name="Hesler 1969"/> It is found in pine forests and on decaying lignin-rich substrates like wood chips or old stumps.<ref name=":0" /> Distribution of this species appears to be primarily the Pacific coast of North America, and it seems to be most frequently observed in the months of December and January.<ref>{{Cite web |title=Gymnopilus aurantiophyllus |url=https://www.inaturalist.org/taxa/540875-Gymnopilus-aurantiophyllus |access-date=2024-01-24 |website=iNaturalist |language=en}}</ref>
+
+==See also==
+{{Portal|Fungi}}
+* [[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Hesler 1969">{{cite book |last1=Hesler |first1=L.R. |title=North American Species of ''Gymnopilus'' |series=Mycologia Memoir Series |issue=3 |publisher=Lubrecht & Cramer |location=Knoxville, Tennessee |year=1969 |pages=59–60 |isbn=0-945345-39-9}}</ref>
+
+}}
+
+{{Taxonbar|from=Q5624720}}
+
+[[Category:Gymnopilus|aurantiophyllus]]
+[[Category:Fungi described in 1969]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Lexemuel Ray Hesler]]
+[[Category:Fungus species]]
+
+
+{{Hymenogastraceae-stub}}

@@ -1,0 +1,72 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{Speciesbox
+|image = Pestalotiopsis microspora (Speg.) G.C. Zhao & N. Li (517923).jpg
+|image_caption = [[Conidia]] of ''Pestalotiopsis microspora''
+|image_alt = [[Conidia]] of Pestalotiopsis microspora
+|genus = Pestalotiopsis
+|species = microspora
+|authority = ([[Carlo Luigi Spegazzini|Speg.]]) [[G.C. Zhao]] & [[N. Li]]
+|synonyms =
+*''Pestalotia dichaeta'' <small>[[Carlo Luigi Spegazzini|Speg.]]</small>
+*''Pestalotia micheneri'' <small>[[Emil Frederick Guba|Guba]]</small>
+*''Pestalotia microspora'' <small>[[Carlo Luigi Spegazzini|Speg.]]</small>
+*''Pestalotiopsis dichaeta'' <small>([[Carlo Luigi Spegazzini|Speg.]]) [[René Léopold Steyaert|Steyaert]]</small>
+}}
+{{mycomorphbox 
+| name = ''Pestalotiopsis microspora''
+| hymeniumType=NA
+| capShape = NA
+| whichGills = NA
+| stipeCharacter=NA
+| sporePrintColor=blackish-brown
+| ecologicalType=parasitic
+| howEdible=unknown
+}}
+{{stack end}}
+
+'''''Pestalotiopsis microspora''''' is a species of [[endophyte|endophytic]] [[fungus]] capable of breaking down and [[Anaerobic digestion|digesting]] [[polyurethane]].<ref>
+{{cite journal
+|author1=Jonathan R. Russell |author2=Jeffrey Huang |author3=Pria Anand |author4=Kaury Kucera |author5=Amanda G. Sandoval |author6=Kathleen W. Dantzler |author7=DaShawn Hickman |author8=Justin Jee |author9=Farrah M. Kimovec |author10=David Koppstein |author11=Daniel H. Marks |author12=Paul A. Mittermiller |author13=Salvador Joel Núñez |author14=Marina Santiago |author15=Maria A. Townes |author16=Michael Vishnevetsky |author17=Neely E. Williams |author18=Mario Percy Núñez Vargas |author19=Lori-Ann Boulanger |author20=Carol Bascom-Slack |author21=Scott A. Strobel  |name-list-style=amp | date = 15 July 2011
+| title = Biodegradation of Polyester Polyurethane by Endophytic Fungi
+| journal = Applied and Environmental Microbiology
+| volume = 77
+| issue = 17
+| pages = 6076–6084
+| issn = 1098-5336
+| pmid = 21764951
+| url= | doi=10.1128/AEM.00521-11
+| pmc=3165411
+|bibcode=2011ApEnM..77.6076R }}</ref> Originally identified in 1880  in fallen foliage of [[Hedera helix|common ivy]] (''Hedera helix'') in [[Buenos Aires]],<ref>{{cite book |title=Sylloge fungorum omnium hucusque cognitorum |author=Saccardo, Pier Andrea |ol=7025165M |volume=3 |page=789 |language=Latin |url=https://archive.org/stream/syllogefungorumo03sacc#page/788/mode/2up/search/pestalozzia+microspora |publisher=Patavii, sumptibus auctoris |date=1882–1931 }}</ref> it also causes [[leaf spot]] in [[Hypericum patulum|''Hypericum'' 'Hidcote']] (''Hypericum patulum'') shrubs in [[Japan]].<ref>{{cite journal |title=First Report of Pestalotiopsis microspora Causing Leaf Spot of Hidcote (Hypericum patulum) in Japan |first1=M. |last1=Zhang |first2=H.Y. |last2=Wu |first3=T. |last3=Tsukiboshi |first4=I. |last4=Okabe |doi=10.1094/PDIS-94-8-1064B |journal=Plant Disease | date=August 2010 |volume=94 |issue=8 |page=1064|pmid=30743469 |doi-access= |bibcode=2010PlDis..94.1064Z}}</ref>
+
+However, its polyurethane degradation activity was discovered only in the 2010s in two distinct ''P. microspora'' strains isolated from plant stems in the [[Yasuni National Park|Yasuni National Forest]] within the [[Ecuador]]ian [[Amazon rainforest]] by a group of student researchers led by molecular [[biochemistry]] professor [[Scott Strobel]] as part of [[Yale University]]'s annual Rainforest Expedition and Laboratory. It is the first fungus species found to be able to subsist on polyurethane in [[anaerobic organism|anaerobic]] conditions. This makes the fungus a potential candidate for [[bioremediation]] projects involving large quantities of [[plastic]].<ref>{{cite web |last1=Anderson |first1=Stacey |date=December 15, 2014 |title=The Plastic-Eating Fungi That Could Solve Our Garbage Problem |url=http://www.newsweek.com/2014/12/26/plastic-eating-fungi-could-solve-our-garbage-problem-291694.html |website=[[Newsweek]] |access-date=2015-10-26}}</ref>
+
+''Pestalotiopsis microspora'' was originally [[species description|described]] from Buenos Aires, Argentina in 1880 by mycologist [[Carlo Luigi Spegazzini]], who named it ''Pestalotia microspora''.<ref>{{cite journal |last=Spegazzini |first=C.L. |year=1880 |title=Fungi argentini. Pugillus secundus (Continuacion). |journal=Anales de la Sociedad Científica Argentina |volume=10 |pages=5–33 |language=Latin |url=https://www.biodiversitylibrary.org/page/32326211}}</ref>
+
+In 1996 [[Julie C. Lee]] first isolated [[torreyanic acid]], a dimeric [[quinone]], from ''P. microspora'', and noted that the species is likely the cause of the decline of [[Torreya taxifolia|Florida torreya]] (''Torreya taxifolia''), an endangered species of a tree that is related to the [[paclitaxel]]-producing yew tree ''[[Taxus brevifolia]]''.<ref name="one">{{cite journal | author=Lee, Julie C.|title=Torreyanic Acid: A Selectively Cytotoxic Quinone Dimer from the Endophytic Fungus ''Pestalotiopsis microspora''.|journal=The Journal of Organic Chemistry|volume=61|pages=3232–3233|year=1996 | doi=10.1021/jo960471x | issue=10|display-authors=etal}}</ref>
+
+==See also==
+*[[Plastivore]]
+*''[[Aspergillus tubingensis]]'', another fungus that can digest polyurethane
+*''[[Ideonella sakaiensis]]'', a bacterium capable of breaking down [[Polyethylene terephthalate|PET]]
+*''[[Galleria mellonella]]'', a caterpillar that can digest [[polyethylene]]
+*{{Portal-inline|Fungi}}
+
+==References==
+{{Reflist}}
+
+== External links ==
+*{{Wikispecies-inline|Pestalotiopsis microspora|''Pestalotiopsis microspora''}}
+*[http://www.speciesfungorum.org/Names/GSDSpecies.asp?RecordID=437946 Index Fungorum]
+*[http://nt.ars-grin.gov/fungaldatabases/new_allView.cfm?whichone=all&thisName=Pestalotiopsis%20microspora&organismtype=Fungus&fromAllCount=yes USDA ARS Fungal Database]{{Dead link|date=November 2019 |bot=InternetArchiveBot |fix-attempted=yes }}
+*[http://bryanpenprase.org/wp-content/uploads/2016/05/Plastic-Eating-Fungi-Other-Wonders-Discovered-by-Yale-Undergraduate_Scott-Strobel-.pdf Summary notes]
+
+*[https://news.stanford.edu/stories/2015/09/worms-digest-plastics-092915#:~:text=Plastic%20for%20dinner&text=Within%2024%20hours%2C%20they%20excreted,use%20as%20soil%20for%20crops Newspaper clipping] from Stanford Report
+
+{{Taxonbar|from=Q141442}}
+
+[[Category:Pestalotiopsis|microspora]]
+[[Category:Bioremediation]]
+[[Category:Fungi described in 1880]]
+[[Category:Plastivores]]
+[[Category:Fungus species]]

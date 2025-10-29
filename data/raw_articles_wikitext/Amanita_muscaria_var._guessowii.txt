@@ -1,0 +1,78 @@
+{{short description|Variety of fungi}}
+{{DISPLAYTITLE:''Amanita muscaria'' var. ''guessowii''}}
+{{Infraspeciesbox
+| image         = Amanita muscaria var. formosa pic 1.jpg
+| image_caption = A mature specimen under a [[northern white pine]] tree in [[Michigan]], U.S.
+| genus         = Amanita
+| species       = chrysoblema
+| varietas      = yellow-orange
+| authority     = Veselý <!-- R. Veselý, 1933 -->
+}}
+{{Mycomorphbox
+| name            = Amanita chrysoblema yellow-orange variant
+| whichGills      = free
+| capShape        = flat
+| capShape2       = convex
+| hymeniumType    = gills
+| stipeCharacter  = ring and volva
+| ecologicalType  = mycorrhizal
+| sporePrintColor = white
+| howEdible       = poisonous
+| howEdible2      = psychoactive
+}}
+
+'''''Amanita muscaria'' var. ''guessowii''''', commonly known as the '''American yellow fly agaric''', is a [[basidiomycete]] fungus of the genus ''[[Amanita]]''. It is one of several [[Variety (botany)|varieties]] of the poisonous and psychoactive ''[[Amanita muscaria|A.&nbsp;muscaria]]'' (fly agaric).
+
+==Description==
+===Cap===
+The [[pileus (mycology)|cap]] is {{Convert|6-18|cm|frac=4}} wide, globose then convex, flattening in age.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=535}}</ref> It is bright yellow or yellow-orange, usually more orange or reddish orange towards the center, and fading to pale yellow.<ref name="audu" /> The [[volva (mycology)|volva]] is distributed over the cap as cream to pale tan warts; it is otherwise smooth and sticky when wet. The margin becomes slightly striate in age. The mild-smelling flesh<ref name="audu" /> is white and it does not stain when cut or injured.
+
+===Gills===
+The [[lamella (mycology)|gills]] are free to narrowly [[wikt:adnate|adnate]], [[wikt:subcrowded|subcrowded]] to crowded, cream to pale cream, truncate, unevenly distributed, of diverse lengths, and plentiful.
+
+===Spores===
+American yellow fly agaric [[spore]]s are white in deposit, broadly ellipsoid to ellipsoid (infrequently [[wikt:subglobose|subglobose]] or elongate) and [[wikt:inamyloid|inamyloid]]. The spores are (7.0) 8.7–12.2 (14.8) x (5.9) 6.5–8.2 (9.5) [[μm]]. The [[spore print]] is white.<ref name="audu" />
+
+===Stipe===
+The [[stipe (mycology)|stipe]] is 7–16 cm long and 1–3&nbsp;cm thick,<ref name="audu" /> more or less equal or narrowing upwards and slightly flaring at the apex. It is white to yellowish cream, densely stuffed with a pith, the skirt-like ring is membranous, persistent, the lower stipe and upper bulb are decorated with tufts of volval material<ref name="audu" /> that are bright pale yellow to cream or sordid cream.
+
+===Microscopic features===
+Clamps are present at bases of the [[basidia]].
+
+==Distribution and habitat==
+American yellow fly agaric is found growing solitary or [[wiktionary:gregarious|gregariously]], it is [[mycorrhiza]]l with [[conifers]] mostly but also [[deciduous trees]] as well, it is found often in the fall but sometimes in the spring, common in the northeast, from eastern Canada to North Carolina, northwest Florida, and west to Michigan.<ref>{{Cite web | url=http://www.shroomery.org/10224/Hunting-Fly-Agarics-in-North-America |title = Shroomery - Hunting Fly Agarics in North America}}</ref>
+
+==Toxicity==
+{{Main|Amanita muscaria#Toxicity|l1 = ''Amanita muscaria'' § Toxicity}}
+''Amanita muscaria'' is in general [[Mushroom poisoning|poisonous]]<span data-darkreader-inline-color="">, and historically was considered deadly, although possibly in error.<ref>{{cite web |title=Mushroom poisoning syndromes |url=http://www.namyco.org/toxicology/poison_syndromes.html |url-status=live |archive-url=https://web.archive.org/web/20090404122352/http://www.namyco.org/toxicology/poison_syndromes.html |archive-date=4 April 2009 |access-date=2009-03-22 |work=North American Mycological Association (NAMA) website |publisher=NAMA}}</ref></span> U<span data-darkreader-inline-color="">nless consumed to the same deadly extent applying to any poisonous mushroom, it will probably only produce [[nausea]] and/or vomiting,<ref name="Arora">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/228/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=894 |orig-date=1979}}</ref> but medical treatment may be required.<ref name="Tupalska-Wilczyńska">{{cite journal |last1=Tupalska-Wilczyńska |first1=Krystyna |last2=Ignatowicz |first2=Roman |last3=Poziemski |first3=Andrzej |last4=Wójcik |first4=Halina |last5=Wilczyński |first5=Grzegorz |year=1996 |title=Zatrucia muchomorami plamistym i czerwonym—patogeneza, objawy, leczenie |trans-title=Poisoning with spotted and red mushrooms—pathogenesis, symptoms, treatment |journal=Wiadomosci Lekarskie |language=pl |volume=49 |issue=1–6 |pages=66–71 |pmid=9173659}}</ref> It contains the toxins [[ibotenic acid]] and [[muscimol]] and likely others.<ref name="Arora" /></span>
+
+==Psychoactivity==
+{{Main articles|Muscimol mushroom}}
+
+Ibotenic acid and muscimol are both psychoactive constituents which can cause effects such as [[hallucination]]s, [[Synesthesia|synaesthesia]], [[euphoria]], [[dysphoria]] and [[retrograde amnesia]]. The effects of muscimol and ibotenic acid most closely resemble that of any GABAergic compound but with a dissociative effect taking place in low to mid doses which are followed by delirium and vivid hallucinations at high doses.
+
+Ibotenic acid is mostly broken down into the body to muscimol, but what remains of the ibotenic acid is believed<ref>{{cite journal |last1=Stebelska |first1=Katarzyna |title=Fungal Hallucinogens Psilocin, Ibotenic Acid, and Muscimol |url=https://journals.lww.com/drug-monitoring/Abstract/2013/08000/Fungal_Hallucinogens_Psilocin,_Ibotenic_Acid,_and.2.aspx#ContentAccessOptions |journal=Therapeutic Drug Monitoring |year=2013 |volume=35 |issue=4 |pages=420–442 |doi=10.1097/FTD.0b013e31828741a5 |pmid=23851905 |s2cid=44494685 |access-date=4 March 2023|url-access=subscription }}</ref> to cause the majority of dysphoric effects of consuming ''A. muscaria'' mushrooms. Ibotenic acid is also a scientifically important [[neurotoxin]] used in lab research as a brain-lesioning agent in mice.<ref>{{Cite journal |last1=Becker |first1=A |last2=Grecksch |first2=G |last3=Bernstein |first3=HG |last4=Höllt |first4=V |last5=Bogerts |first5=B |year=1999 |title=Social behaviour in rats lesioned with ibotenic acid in the hippocampus: quantitative and qualitative analysis |journal=Psychopharmacology |volume=144 |issue=4 |pages=333–8 |doi=10.1007/s002130051015 |pmid=10435405 |s2cid=25172395}}</ref><ref>{{Cite journal |last1=Isacson |first1=O |last2=Brundin |first2=P |last3=Kelly |first3=PA |last4=Gage |first4=FH |last5=Björklund |first5=A |year=1984 |title=Functional neuronal replacement by grafted striatal neurones in the ibotenic acid-lesioned rat striatum |journal=Nature |volume=311 |issue=5985 |pages=458–60 |bibcode=1984Natur.311..458I |doi=10.1038/311458a0 |pmid=6482962 |s2cid=4342937}}</ref>
+
+As with other wild-growing mushrooms, the ratio of ibotenic acid to muscimol depends on countless external factors such as season, age, and habitat. Percentages vary between specimens.{{Citation needed|date=March 2025}}
+
+==Gallery==
+<gallery mode="packed" heights="180px">
+File:Amanita muscaria DWC 7656.jpg|Lone specimen
+File:Amanita muscaria var. formosa pic 2.jpg|Yellow group
+File:Amanita muscaria var. formosa pic 3.jpg|Orange group
+</gallery>
+
+==See also==
+* [[Amanita muscaria var. formosa|''Amanita muscaria'' var. ''formosa'']]
+
+==References==
+{{Reflist}}
+
+==External links==
+* http://www.amanitaceae.org/?Amanita+chrysoblema+yellow-orange+variant
+
+{{Taxonbar|from=Q585041}}
+
+[[Category:Amanita|chrysoblema yellow-orange variant]]
+[[Category:Fungi described in 1933]]
+[[Category:Fungi of North America]]

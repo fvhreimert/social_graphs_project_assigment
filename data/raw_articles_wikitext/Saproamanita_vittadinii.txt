@@ -1,0 +1,43 @@
+{{Short description|Species of fungus in the family Amanitaceae}}
+{{stack begin}}
+{{Species box
+| image = Amanita_vittadini.jpg
+| image_caption = ''Amanita vittadinii'' in grass in Italy
+| taxon = Saproamanita vittadinii
+| authority = ([[Giuseppe L. Moretti|Moretti]]) Redhead, Vizzini, Drehmel & Contu (2016)
+| synonyms_ref = <ref name=IndexFungorum>{{cite web |url=http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=816367|title=Synonymy: ''Saproamanita vittadinii'' |work=Species Fungorum |accessdate=2017-05-31}}</ref>
+| synonyms = * ''Agaricus vittadinii'' <small>Moretti</small><br>
+* ''Aspidella vittadinii'' <small>(Moretti) [[Jean-Edouard Gilbert|E.-J.Gilbert]]</small>
+* ''Lepidella vittadinii'' <small>(Moretti) E.-J. Gilbert</small>
+}}
+{{mycomorphbox
+| name = ''Saproamanita vittadinii''
+| whichGills = free
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=volva
+| ecologicalType=saprotrophic
+| sporePrintColor=white
+|howEdible=caution
+}}
+{{stack end}}
+
+'''''Saproamanita vittadinii''''', commonly known as the '''Vittadini's lepidella''', is a European [[saprophyte]] mushroom classified in the genus ''[[Saproamanita]]''. Unlike some ''Amanitas'', this species is known to occur without accompanying woody plant symbionts.<ref name=Tulloss>From R. E. Tulloss' website - [http://www.eticomm.net/~ret/amanita/species/vittadin.html 'Amanita vittadinii (Moretti) Vitt. "Vittadini's Lepidella"'] {{Webarchive|url=https://web.archive.org/web/20110716104347/http://www.eticomm.net/~ret/amanita/species/vittadin.html |date=2011-07-16 }}.</ref> It has a general aspect somewhat between ''[[Macrolepiota]]'' and ''[[Armillaria]]'', but it is characterized by a pure white colour overall (whilst those genera are brownish) and by the [[:wikt:squamous|squamous]] (scaly) covering of [[pileus (mycology)|cap]] and [[stipe (mycology)|stipe]].<ref name="José Cuesta and Jorge Jimenez">(Translated from Spanish to English)[http://translate.google.co.in/translate?hl=en&sl=es&u=http://www.amanitacesarea.com/amanita-vittadinii.html&ei=slQCTb6KN4_MrQe8x4GRDw&sa=X&oi=translate&ct=result&resnum=4&ved=0CDIQ7gEwAzgU&prev=/search%3Fq%3Damanita%2Bvittadini%26start%3D20%26hl%3Den%26client%3Dfirefox-a%26sa%3DN%26rls%3Dorg.mozilla:en-US:official%26prmd%3Div Amanita vittadinii(Moretti)at www.amanitacesarea.com (by José Cuesta and Jorge Jiménez)].</ref><ref name=Vizzini2017>{{cite journal |vauthors=Vizzini A, Redhead SA, Dovana F |title=Epitypification of ''Agaricus vittadinii'' (Basidiomycota, Amanitaceae)|journal=Phytotaxa |volume=326 | issue = 3   |pages=230–234|year=2017 |doi=10.11646/phytotaxa.326.3.8}}</ref>
+
+In 2019, amateur [[mycologist]] Denis Pouclet experimentally ate {{Convert|30|g}}, fresh weight, of ''S.&nbsp;vittadinii'' from France without reported adverse symptoms.<ref>{{cite journal |vauthors=Pouclet D |year=2020 |title=''Saproamanita vittadinii'' (Moretti) Redhead, Vizzini, Drehmel & Contu (2016) = ''Amanita vittadinii'' (Moretti) Vittad. 1826. Récoltée dans le Maine-et-Loire (49) |journal=Cahiers Mycologiques Nantais |volume=32 |issue=juin 2020 |pages=25–28}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://pringlelab.botany.wisc.edu/pubs/The%20genus%20Amanita%20should%20not%20be%20split.pdf The genus Amanita should not be split]
+
+{{Taxonbar|from1=Q30327546|from2=Q922092}}
+
+[[Category:Amanitaceae]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi described in 1826]]
+[[Category:Fungus species]]
+
+
+{{Amanitaceae-stub}}

@@ -1,0 +1,89 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Thelephora.terrestris.-.lindsey.jpg
+| image_alt =
+| image_caption =
+| status = G5
+| status_system = TNC
+| status_ref = <ref name=NS>{{cite NatureServe |id=2.911985 |title=''Thelephora terrestris'' |access-date=24 May 2025}}</ref>
+| genus = Thelephora
+| species = terrestris
+| authority = [[Jakob Friedrich Ehrhart|Ehrh.]] (1787)
+}}
+
+'''''Thelephora terrestris''''', commonly known as the '''common fiber vase'''<ref name="Audubon1981" /> or '''earthfan fungus'''<ref name="Petrzik2015" /> is an inedible species of [[fungus]] in the [[Basidiomycota]] phylum.<ref name =Radulovic2005 />
+
+==Taxonomy==
+This fungus was first described by [[Jakob Friedrich Ehrhart]] in 1787.<ref>{{Cite web|title=Mycobank: ''Thelephora terrestris''|url=https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/193195|access-date=2021-02-19|website=Mycobank}}</ref><ref name = Burt1914 />
+
+== Description ==
+''Thelephora terrestris'' is present year round, though is mostly seen July to December.<ref name="Audubon1981" /> As the [[basidiome]] forms, it starts off lighter in colour then turns to a darker shade of brown as it ages.<ref name="Lopez-Gutierrez2018" /> A stipe may not be present, if there is one, it is usually very short.<ref name="Audubon1981" /> Sometimes the fungus is grown in large colonies.<ref name="Ellis1990" /> The shape is described as a fan and can grow up to {{Convert|6|cm|frac=4}} wide.<ref name="Ellis1990" /> It has been described to have a moldy earth-like smell.<ref name="Audubon1981" />
+
+{{Mycomorphbox
+| name = ''{{PAGENAME}}''{{italic title}}
+| hymeniumType = smooth
+| capShape = no
+| whichGills = NA
+| stipeCharacter = bare
+| sporePrintColor = purple-brown
+| ecologicalType = mycorrhizal
+| howEdible = inedible
+}}
+
+The [[hyphae]] of mycorrhizal forms walls  that becomes thicker as it ages, while in earlier stages may be spiney.<ref name="Agerer2018" /> When mating, the hyphae forms [[clamp connection]]s<ref name="Lopez-Gutierrez2018" /> The [[spores]] are purple-brown colour,<ref name="Audubon1981" /> ellipsoid or angular shape.<ref name="Ellis1990" />
+
+The edibility of this fungus is unknown, but it is considered too tough to be worthwhile.<ref name=":0">{{Cite book |last1=Davis |first1=R. Michael |title=Field Guide to Mushrooms of Western North America |last2=Sommer |first2=Robert |last3=Menge |first3=John A. |publisher=[[University of California Press]] |year=2012 |isbn=978-0-520-95360-4 |location=Berkeley |pages=310–311 |oclc=797915861}}</ref>
+
+=== Similar species ===
+''[[Thelephora palmata]]'' is comparatively stinky and less widely distributed.<ref name=":0" /><ref>{{cite book |last1=Trudell |first1=Steve |url=https://books.google.com/books?id=WevHvt6Tr8kC |title=Mushrooms of the Pacific Northwest |last2=Ammirati |first2=Joe |publisher=Timber Press |year=2009 |isbn=978-0-88192-935-5 |series=Timber Press Field Guides |location=Portland, OR |pages=253 |language=en}}</ref> ''[[Thelephora vialis|T.&nbsp;vialis]]'' is more robust; ''[[Cotylidia diaphana]]'' and ''[[Podoscypha petalodes]]'' are similar; ''[[Hydnellum]]'' can appear similar but has teeth below.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=210}}</ref>
+
+== Habitat and ecology ==
+Throughout North America<ref name= Audubon1981 /> and Europe<ref name = Burt1914 /> ''Thelephora terrestris'' can be found in soil. It is commonly found in sandy soils under pine trees, on roots<ref name= Audubon1981 /> and twigs.<ref name = Ellis1990 />
+
+This [[ectomycorrhiza]]l fungus forms a [[symbiotic]] relationship known as [[mycorrhizae]], especially with ''[[Pinus]]'' species.<ref name= Lopez-Gutierrez2018 /> It is commonly found in pine forests<ref name = "Moeller2016" /> as well as [[plant nursery]] soils world wide.<ref name= Smith2002 /> This fungus is known to get water and nutrients from far away<ref name = Hilszczafiska2008 /> and being capable of growing in both low [[fertile|fertility]] and high fertility soils.<ref name = Petrzik2015 />
+ 
+It is a dominant mycorrhizal fungus,<ref name= Smith2002 /> re-establishes quickly after disturbances such as forest fire, and is considered stress tolerant.<ref name = Vesela2019 />
+
+Outside of the ''Pinus'' genus, it is also capable of forming mycorrizha with other trees such as [[alder]], [[birch]], [[oak]], [[beech]], and [[Populus|poplar]].<ref name = Petrzik2015 />
+
+''Thelephora terrestris'' virus 1 (TtV1), which is a [[mycovirus]], can infect this fungus.<ref name = Petrzik2015 />
+
+==Physiology==
+
+The full life cycle can be reproduced and studied in a laboratory, both ectomycorrhizal form and mushroom form.<ref name = Birraux1981 />
+
+Due to the [[mycotoxin]]s that the fungi produces, it protects pinus trees from root [[pathogen]] ''[[Phytophthora cinnamomi]]''.<ref name= Smith2002 />
+
+==References==
+{{Reflist | 30em | refs = 
+
+<ref name = Agerer2018 >{{cite journal |last1=Agerer |first1=R. |last2=Weiss |first2=M. |title=Studies on Ectomycorrhizae. XX. Mycorrhizae Formed by on Norway Spruce |journal=Mycologia |date=29 August 2018 |volume=81 |issue=3 |pages=444–453 |doi=10.1080/00275514.1989.12025766}}</ref>
+
+<ref name= Audubon1981>{{cite book |title=National Audubon Society field guide to North American mushrooms |year = 1981| isbn=0-394-51992-2 |page=413 |publisher=Knopf}}</ref>
+
+<ref name = Birraux1981>{{cite journal |last1=Birraux |first1=D. |last2=Fries |first2=N. |title=Germination of basidiospores |journal=Canadian Journal of Botany |date=November 1981 |volume=59 |issue=11 |pages=2062–2064 |doi=10.1139/b81-267}}</ref>
+
+<ref name = Burt1914>{{cite journal |last1=Burt |first1=Edward Angus |title=The Thelephoraceae of North America. I |journal=Annals of the Missouri Botanical Garden |date=May 1914 |volume=1 |issue=2 |pages=185–227 |doi=10.2307/2989992|jstor=2989992 |bibcode=1914AnMBG...1..185B |url=https://www.biodiversitylibrary.org/part/15917 }}</ref>
+
+<ref name = Ellis1990>{{cite book |last1=Ellis |first1=Martin B. |last2=Ellis |first2=J. Pamela |title=Fungi without gills (hymenomycetes and gasteromycetes) : an identification handbook |date=1990 |publisher=Chapman and Hall |location=Britain |isbn=0-412-36970-2 |edition=1st}}</ref>
+
+<ref name = Hilszczafiska2008> {{cite journal |last1=Hilszczańska |first1=Dorota |last2=Małecka |first2=Monika |last3=Sierota |first3=Zbigniew |title=Changes in nitrogen level and mycorrhizal structure of Scots pine seedlings inoculated with Thelephora terrestris |journal=Annals of Forest Science |date=January 2008 |volume=65 |issue=4 |pages=409 |doi=10.1051/forest:2008020|bibcode=2008AnFSc..65..409H |s2cid=21922463 |url=https://hal.archives-ouvertes.fr/hal-00883391/file/hal-00883391.pdf }}</ref>
+
+<ref name= Lopez-Gutierrez2018> {{cite journal |last1=López-Gutiérrez |first1=Araceli |last2=Perez-Moreno |first2=Jesus |last3=Hernández-Santiago |first3=Faustino |last4=Uscanga-Mortera |first4=Ebandro |last5=García-Esteva |first5=Antonio |last6=Cetina-Alcalá |first6=Victor Manuel |last7=Cardoso-Villanueva |first7=María del Rosario |last8=Xoconostle-Cázares |first8=Beatriz |title=Nutrient mobilization, growth and field survival of <em>Pinus pringlei</em> inoculated with three ectomycorrhizal mushrooms |journal=Botanical Sciences |date=19 June 2018 |volume=96 |issue=2 |pages=286 |doi=10.17129/botsci.1239|doi-access=free |bibcode=2018BotSc..96..286L }}</ref>
+
+<ref name = Moeller2016>{{cite journal |last1=Moeller |first1=Holly V. |last2=Peay |first2=Kabir G. |title=Competition-function tradeoffs in ectomycorrhizal fungi |journal=PeerJ |date=27 July 2016 |volume=4 |article-number=e2270 |doi=10.7717/peerj.2270|pmid=27547573 |pmc=4974999 |doi-access=free }}</ref>
+
+<ref name = Petrzik2015> {{cite journal |last1=Petrzik |first1=Karel |last2=Sarkisova |first2=Tatiana |last3=Starý |first3=Josef |last4=Koloniuk |first4=Igor |last5=Hrabáková |first5=Lenka |last6=Kubešová |first6=Olga |title=Molecular characterization of a new monopartite dsRNA mycovirus from mycorrhizal Thelephora terrestris (Ehrh.) and its detection in soil oribatid mites (Acari: Oribatida) |journal=Virology |date=February 2016 |volume=489 |pages=12–19 |doi=10.1016/j.virol.2015.11.009|pmid=26700067 |doi-access=free }}</ref>
+
+<ref name =Radulovic2005>{{cite journal |last1=Radulović |first1=Niko |last2=Quang |first2=Dang Ngoc |last3=Hashimoto |first3=Toshihiro |last4=Nukada |first4=Makiko |last5=Tanaka |first5=Masami |last6=Asakawa |first6=Yoshinori |title=Pregnane-Type Steroids from the Inedible Mushroom Thelephora terrestris |journal=Chemical & Pharmaceutical Bulletin |date=2005 |volume=53 |issue=3 |pages=309–312 |doi=10.1248/cpb.53.309|pmid=15744104 |doi-access=free }}</ref>
+
+<ref name= Smith2002>{{cite book|last1=Smith |first1=Sally E |last2=Read |first2=David J |title=Mycorrhizal Symbiosis |publisher=Academic Press |date=2002 |issue=2 |pages=470–489 |doi=10.1016/B978-012652840-4/50018-8}}</ref>
+
+<ref name = Vesela2019 >{{cite journal |last1=Veselá |first1=Petra |last2=Vašutová |first2=Martina |last3=Edwards-Jonášová |first3=Magda |last4=Cudlín |first4=Pavel |title=Soil Fungal Community in Norway Spruce Forests under Bark Beetle Attack |journal=Forests |date=29 January 2019 |volume=10 |issue=2 |pages=109 |doi=10.3390/f10020109|doi-access=free |bibcode=2019Fore...10..109V }}</ref>
+}}
+
+{{Taxonbar|from=Q1816880}}
+
+[[Category:Thelephora|Terrestris]]
+[[Category:Taxa named by Jakob Friedrich Ehrhart]]
+[[Category:Fungus species]]

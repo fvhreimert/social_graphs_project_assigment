@@ -1,0 +1,77 @@
+{{Short description|Species of fungus}}
+{{Use New Zealand English|date=January 2024}}
+{{Use dmy dates|date=January 2024}}{{stack begin}}
+{{Speciesbox
+| image = Mycena cystidiosa 14367.jpg
+| image_caption = In [[New South Wales]], Australia
+| genus = Mycena
+| species = cystidiosa
+| authority = ([[G.Stev.]]) [[E.Horak]] (1971)
+| synonyms_ref = <ref name="NZFUNGI - Mycena cystidiosa"/>
+| synonyms = *''Fayodia cystidiosa'' <small>G.Stev. (1964)</small><br>
+*''Mycena metuloidifera'' <small>[[Rolf Singer|Singer]] (1969)</small>
+*''Mycena hispida'' <small>Grgur. & A.A.Holland (1982)</small>
+}}
+{{mycomorphbox
+| name = ''Mycena cystidiosa''
+| hymeniumType=gills
+| capShape = conical
+| whichGills = adnate
+| stipeCharacter = bare
+| sporePrintColor = white
+| ecologicalType = saprotrophic
+| howEdible = unknown
+}}
+{{stack end}}
+
+'''''Mycena cystidiosa''''' is a species of [[mushroom]] in the family [[Mycenaceae]]. Described as new to science in 1964, it is known only from New Zealand and Australia. The [[basidiocarp|fruit bodies]] have a broadly conical small white [[pileus (mycology)|cap]] up to {{convert|12|mm|in|1|abbr=on}} wide, with distantly spaced [[cream (color)|cream]]-coloured [[lamella (mycology)|gills]] on the underside. The [[stipe (mycology)|stipe]] is particularly long, up to {{convert|20|cm|in|0|abbr=on}}, with an abundant covering of white hairs at the base. The species is known for its abundant [[rhizomorph]]s—long, root-like extensions of [[mycelia]].
+
+==Taxonomy==
+The species was originally [[species description|described]] by [[Greta Stevenson]] in 1964 as ''Fayodia cystidiosa''. She found the [[type (biology)|type specimen]] growing in leaf litter at the [[Wellington Botanic Garden]] in June, 1949.<ref name="Stevenson 1964"/> It was transferred to the genus ''[[Mycena]]'' by [[Egon Horak]] in a 1971 publication.<ref name="Horak 1971"/>
+
+The fungus is [[classification (biology)|classified]] in the [[section (biology)|section]] ''Metuloidiferae'' of the genus ''[[Mycena]]''.<ref name="Robich 2005"/>
+
+==Description==
+[[image:Mycena cystidiosa 15153.jpg|thumb|left|The cap is light brown with a dark brown umbo, and has indistinct radial grooves.]]
+The [[pileus (mycology)|cap]] is {{convert|6|–|12|mm|in|abbr=on}} in diameter, and light brown with dark brown [[umbo (mycology)|umbo]]. It is indistinctly grooved and fluted with a somewhat velvety texture; the margin is paler and frilled. The [[trama (mycology)|flesh]] is white beneath the [[umbo (mycology)|umbo]], [[fawn (color)|fawn]] above the gills. The [[lamella (mycology)|gills]] are [[wikt:adnexed|adnexed]], [[cream (colour)|cream]]-coloured, some with dull pink stains. They are moderately distantly spaced apart, and covered with [[cystidia]]. The [[stipe (mycology)|stipe]] is {{convert|6|–|8|cm|in|abbr=on}} long by {{convert|1|–|2|mm|in|2|abbr=on}} thick, although Australian specimens have been reported to grow as long as {{convert|20|cm|in|abbr=on}}.<ref name="Fuhrer 2005"/> It is cream-coloured above and brown below, with a smooth surface. The stipe is hollow, brittle, and covered densely with white hairs at the base.<ref name="Stevenson 1964"/> Extending from the stipe base are numerous lengthy white [[rhizomorph]]s that can be up to {{convert|30|cm|in|abbr=on}} long, and terminated by a small cap or knob. The rhizomorphs of are organized as linear strands of [[mycelia]] that are differentiated into an inner portion containing large diameter 'vessel' [[hypha]]e, and an outer cortex of narrow, thick-walled hyphae. The cap at the end of the strand bears strongly resembles the developing cap of immature fruit bodies.<ref name="Cairney 1991"/>
+
+The [[spore]]s are 9–10 by 7 [[micrometre|μm]], [[amyloid (mycology)|amyloid]], thick-walled, with an inner wall resembling the mesh of a sieve. Although the spore surface is smooth, it appears rough because of the irregular shape of the inner wall. The type collection also contained half-sized spores, leading Stevenson to suggest that there may be two- and four-spored [[basidia]]. Cheilocystidia and pleurocystidia ([[cystidia]] on the edge and face, respectively, of the gills) are 25–40 by 8–13&nbsp;μm, very abundant, thick-walled, and stain weakly amyloid in [[Melzer's reagent]].<ref name="Stevenson 1964"/>
+
+==Habitat and distribution==
+''Mycena cystidiosa'' is a [[saprobic]] fungus—meaning it obtains nutrients by breaking down decomposing plant organic matter. Although the mushrooms are usually found on fallen leaves, it also grows on wood, utilising the small branch litter common to eucalypt forests. The species may contain the [[enzyme]]s necessary for decomposing [[lignocellulosic biomass]].<ref name="Gates 2011"/> It is found in New Zealand, southwestern Australia,<ref name="urlGBIF Portal"/> and [[Tasmania]].<ref name="Ratkowsky 2009"/> Australian mycologist [[Bruce Fuhrer]] calls it "possibly our tallest ''Mycena''".<ref name="Fuhrer 2005"/> The mushrooms generally fruit from April to June.<ref name="Gates 2011"/> In a study of post-fire [[Secondary succession|succession]] in a ''[[Eucalyptus regnans]]'' forest, researchers found that ''M.&nbsp;cystidiosa'' appeared in the third of three phases of recolonization, more than seven years after the burn. Other mycenas often found in this "mature" phase include ''[[Mycena austrofilopes|M.&nbsp;austrofilopes]]'', ''[[Mycena austrororida|M.&nbsp;austrororida]]'', and ''[[Mycena interrupta|M.&nbsp;interrupta]]''.<ref name="McMullan-Fisher 2002"/>
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Ratkowsky 2009">{{cite journal |vauthors=Ratkowsjy DA, Gates GM |title=Macrofungi in early stages of forest regeneration in Tasmania's southern forests |journal=Tasforests |year=2009 |volume=18 |pages=55–66 |url=http://www.forestrytas.com.au/assets/0000/0685/Ratkowsky.pdf |access-date=2014-12-17 |archive-date=2015-09-24 |archive-url=https://web.archive.org/web/20150924014605/http://www.forestrytas.com.au/assets/0000/0685/Ratkowsky.pdf |url-status=live }}</ref>
+
+<ref name="Cairney 1991">{{cite journal  |vauthors=Cairney JW, Chambers SM |title=Structure of the capitate aerial organs of ''Mycena cystidiosa'' |journal=Mycological Research |year=1991 |volume=95 |issue=9 |pages=1065–69 |doi=10.1016/S0953-7562(09)80547-9}}</ref>
+
+<ref name="Fuhrer 2005">{{cite book |author=Fuhrer B. |title=Field Guide to Fungi |publisher=Bloomings Books Pty Ltd |year=2005 |page=131 |isbn=1-876473-51-7}}</ref>
+
+<ref name="Gates 2011">{{cite journal |vauthors=Gates GM, Mohammed C, Wardlaw T, Davidson NJ, Ratkowsky DA |title=Diversity and phenology of the macrofungal assemblages supported by litter in a tall, wet ''Eucalyptus obliqua'' forest in southern Tasmania, Australia |journal=Fungal Ecology |year=2011 |volume=4 |pages=68–75 |doi=10.1016/j.funeco.2010.08.001}}</ref>
+
+<ref name="Horak 1971">{{cite journal |title=A contribution towards the revision of the Agaricales (Fungi) from New Zealand |journal=New Zealand Journal of Botany |year=1971 |author=Horak E. |volume=9 |issue=3 |pages=403–62 |doi=10.1080/0028825x.1971.10430193 |doi-access=free }}</ref>
+
+<ref name="McMullan-Fisher 2002">{{cite book |author1=McMullan-Fisher SJ |author2=May TW |author3=Keane PJ |year=2002 |title=Fungal Succession |chapter=The macrofungal community and fire in a Mountain Ash forest in southern Australia |editor=Hyde KD, Jones EB |pages=57–76 |publisher=Fungal Diversity Press |location=Hong Kong |url=http://www.fungaldiversity.org/fdp/sfdp/FD_10_57-76.pdf |access-date=2014-12-17 |archive-date=2014-12-17 |archive-url=https://web.archive.org/web/20141217085416/http://www.fungaldiversity.org/fdp/sfdp/FD_10_57-76.pdf |url-status=live }}</ref>
+
+<ref name="Robich 2005">{{cite journal |vauthors=Robich G, Miersch J, Karasch P |title=''Mycena haushoferi'', a new species of section ''Intermediae'' from Germany |journal=Mycological Progress |year=2005 |volume=4 |issue=3 |pages=257–64 |doi=10.1007/s11557-006-0129-1|s2cid=42474133 }}</ref>
+
+<ref name="Stevenson 1964">{{cite journal |author=Stevenson G. |title=The Agaricales of New Zealand. V. Tricholomataceae |journal=Kew Bulletin |year=1964 |volume=19 |issue=1 |pages=1–59 |jstor=4108283 |doi=10.2307/4108283}}</ref>
+
+<ref name="urlGBIF Portal">{{cite web |url=http://data.gbif.org/species/15081853/ |title=''Mycena cystidiosa'' G. Stev. |publisher=Global Biodiversity Information Facility |access-date=2011-02-09 |archive-date=2016-03-04 |archive-url=https://web.archive.org/web/20160304050330/http://data.gbif.org/species/15081853/ |url-status=live }}</ref>
+
+<ref name="NZFUNGI - Mycena cystidiosa">{{cite web |url=https://biotanz.landcareresearch.co.nz/scientific-names/1cb19445-36b9-11d5-9548-00d0592d548c |title=''Mycena cystidiosa'' (G. Stev.) E. Horak 1971 |publisher=[[Landcare Research]] |work=NZFUNGI - New Zealand Fungi (and Bacteria) |access-date=2022-06-03}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|317976}}
+*[https://biotanz.landcareresearch.co.nz/scientific-names/1cb19445-36b9-11d5-9548-00d0592d548c Manaaki Whenua - Landcare Research] Macro- and microscopic images
+
+{{Taxonbar|from=Q10590942}}
+
+[[Category:Mycena|cystidiosa]]
+[[Category:Fungi described in 1964]]
+[[Category:Fungi of New Zealand]]
+[[Category:Fungus species]]

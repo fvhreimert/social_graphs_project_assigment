@@ -1,0 +1,71 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{Speciesbox
+| image = Amanita_sp._2010-10-31.jpg
+| image_caption = 
+| genus = Amanita
+| species = citrina
+| authority = ([[Jacob Christian Schäffer|Schaeff.]]) [[Christian Hendrik Persoon|Pers.]], 1797
+| synonyms = ''Amanita mappa'' <small>([[August Batsch|Batsch]]) Bertill.</small>
+}}
+{{Mycomorphbox
+| name = Amanita citrina
+| whichGills = free
+| capShape = flat
+| hymeniumType = gills
+| stipeCharacter = ring and volva
+| ecologicalType = mycorrhizal
+| sporePrintColor = white
+| howEdible = poisonous
+| howEdible2 = psychoactive
+}}
+{{stack end}}
+
+'''''Amanita citrina''''' ([[Synonym (taxonomy)|synonym]] ''Amanita mappa''), commonly known as the '''false death cap''' or '''citron amanita''',<ref name=NGSWG>{{NGSWG}}</ref> is a [[Basidiomycota|basidiomycotic]] [[mushroom]], one of many in the genus ''[[Amanita]]''. It grows in silicate soil in the summer and autumn months. It bears a pale yellow or sometimes white cap, with white stem, ring and volva. It is an inedible mushroom due to its toxicity, but is more pertinently often confused for the lethal [[death cap]].
+
+==Description==
+
+This mushroom has a fleshy pale yellow, or sometimes white, [[Pileus (mycology)|cap]] from {{convert|4|–|10|cm|frac=2|abbr=off}} across, covered in irregular patches. The [[gill]]s and flesh are white. There is a large [[Volva (mycology)|volva]] at the base of the {{convert|6|–|8|cm|frac=2|abbr=on}} tall stem, which has a clear ring.
+
+The mushroom has a smell of [[rapeseed]] or [[potato]].<ref name="Ultimatemush" />
+
+=== Similar species ===
+It is often confused with the related ''[[Amanita phalloides]]'', the death cap, hence the common name.<ref name="Ultimatemush">{{cite book| author = P. Jordan & S. Wheeler | year = 2001 | title = The Ultimate Mushroom Book | publisher = Hermes House }}</ref>
+
+==Distribution and habitat==
+The false death cap is found in [[deciduous]] and [[coniferous]] woodlands in autumn in [[Europe]].<ref name = "Ultimatemush"/> It is also found in [[North American]] oak and pine forests.
+
+==Toxicity==
+This mushroom contains the [[alpha-amanitin]] toxin,{{citation needed|date=October 2022}} but possibly in small enough amounts that would not cause adverse effects unless ingested at high quantity.{{Citation needed|date=September 2017}} It also contains the toxin [[bufotenin]].<ref name="Miller2006">{{cite book |last=Miller Jr. |first=Orson K. |url= |title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi |last2=Miller |first2=Hope H. |publisher=[[FalconGuide]] |year=2006 |isbn=978-0-7627-3109-1 |location=Guilford, CN |pages=36}}</ref> Although it is considered inedible, the biggest danger with this species is its marked similarity to the death cap.<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=27}}</ref> For further more information about DMT found in Amanita citrina see external link about the study made.
+
+==Gallery==
+<gallery>
+File:Amanita citrina3.jpg|A closer view of an emergent specimen
+File:Amanita.citrina.-.lindsey.jpg|''A. citrina'' from Commanster, Belgium
+File:Amanita.citrina2.-.lindsey.jpg|Closer view of gills and ring of a specimen from Commanster, Belgium
+File:Amanita citrina 1.jpg| ''A. citrina'' at the 12-th countrywide mushroom exhibition 2008, Žofín, Prague, Czech Republic
+File:Amanita citrina 2010 G1.jpg|''A. citrina'' in [[Ukraine]] (Co-ordinates:{{coord|49|19|20.03|N|28|33|29.20|E}})
+</gallery>
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Amanita species|List of ''Amanita'' species]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+* [http://www.mushroomexpert.com/amanita_citrina.html Amanita citrina] on Mushroomexpert.com
+* [https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-0028-1100193] Bufotenine, bufotenine–N–oxide, serotonin, N–methyl–serotonin, 5–methoxy–N,N–dimethyltryptamine, and N,N–dimethyltryptamine were identified chro–matographically in sporocarp extracts of A. citrina and, with the exception of N,N–dimethyltryptamine, in similar extracts of A. porphyria. Surface cultures of A. citrina were found to be capable of biosynthesizing bufotenine, small quantities of the alkaloid being detected in the mycelium and the culture medium.
+
+{{Amanitas}}
+{{Hallucinogenic mushrooms}}
+{{Taxonbar|from=Q935729}}
+
+[[Category:Amanita|citrina]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi described in 1797]]
+[[Category:Inedible fungi]]
+[[Category:Fungus species]]

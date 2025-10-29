@@ -1,0 +1,36 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+|image=Amanita proxima Dumée 512034 2014-11-29.jpg
+| taxon = Amanita proxima
+| authority =Dumée 1916
+|synonyms =
+}}
+{{mycomorphbox
+ | name            = ''Amanita proxima''
+ | capShape2 = flat
+ | whichGills      = free
+ | capShape        = convex
+ | hymeniumType    = gills
+ | stipeCharacter  = ring and volva
+ | ecologicalType  = mycorrhizal
+ | sporePrintColor = white
+ | howEdible = poisonous
+}}
+
+'''''Amanita proxima''''' is a [[species]] of [[Amanita]] from France, Italy, and Spain. It is poisonous.<ref>{{cite web|url=http://www.amanitaceae.org/?Amanita%20proxima|title= Amanita proxima in Amanitaceae}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{commonscat-inline|italic=1}}
+* {{wikispecies-inline|Amanita proxima|''Amanita proxima''}}
+
+{{Amanitas}}
+{{Taxonbar|from=Q3613611}}
+
+[[Category:Amanita|proxima]]
+[[Category:Fungus species]]
+
+
+{{Amanitaceae-stub}}

@@ -1,0 +1,69 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Amanita velosa 79748 Santa Cruz.jpg
+| genus = Amanita
+| species = velosa
+| authority = ([[Charles Horton Peck|Peck]]) [[Curtis Gates Lloyd|Lloyd]] (1898)
+| synonyms_ref = <ref name="urlMycoBank: Amanita velosa"/>
+| synonyms = ''Amanitopsis velosa'' <small>Peck (1895)</small>
+}}
+{{mycomorphbox 
+| name = ''Amanita velosa''
+| whichGills = free 
+| capShape = convex 
+| hymeniumType=gills
+| stipeCharacter=volva
+| ecologicalType=mycorrhizal
+| sporePrintColor=white
+| howEdible=choice
+| howEdible2=caution
+}}
+
+'''''Amanita velosa''''', commonly known as the '''springtime amanita''',<ref name=arora>{{Cite book |last=Arora |first=D. |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/286/mode/2up |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |orig-date=1979 |edition=2nd |pages=286–287}}</ref> or '''bittersweet orange ringless amanita'''<ref name=tulloss>Tulloss RE. (2005). [http://pluto.njcc.com/~ret/amanita/species/velosa.html ''Amanita velosa'' (Peck) Lloyd.] {{webarchive|url=https://web.archive.org/web/20070205060646/http://pluto.njcc.com/~ret/amanita/species/velosa.html |date=2007-02-05 }} ''Tulloss ''Amanita'' website''.</ref><ref name=NGSWG>{{NGSWG}}</ref> is a species of [[agaric]] found in [[California]], as well as southern [[Oregon]] and [[Baja California]]. Although a prized [[edible mushroom]], it bears similarities to some deadly [[Mushroom poisoning|poisonous]] species.
+
+==Description==
+It is part of ''[[Amanita]]'' section ''Vaginatae'', and like other species in this group, it is characterized by its lack of an [[annulus (mycology)|annulus]], [[wikt:striate|striate]] [[pileus (mycology)|pileus]] margin, thick [[universal veil]] remnants comprising the veil, [[Volva (mycology)|volva]], and pileus patches, [[inamyloid]] spores, and lack of  characteristic ''Amanita'' toxins such as [[amatoxins]] and [[ibotenic acid]].<ref name=tulloss/><ref name=jenkins>Jenkins DT. (1986). ''Amanita'' of North America. {{ISBN|0-916422-55-0}}</ref> It is distinguished from other species in section ''Vaginatae'' by its lack of any kind of [[umbo (mycology)|umbo]] on its pileus, its short pileus [[wikt:striae|striae]], and its distinct pale orange to pale salmon coloration when young. Its coloration can become more brownish with age and entirely white specimens are occasionally seen as well.<ref name=tulloss/> Like many other ''Amanita'', the gills are white, but occasionally have a distinct pinkish or orangish tint.<ref name=tulloss/><ref name=jenkins/> In older specimens, the odor can become pungent and fishy.<ref name=arora/><ref name=rich>Rich R. (2002). [http://www.rrich.com/msamavelo.html "Amanita velosa".] ''Robert's Wild Mushroom Cookbook'' (website).</ref>
+
+The cap is 5–15&nbsp;cm wide, convex then plane, with an orange-pink or salmon-like color; it usually has a white universal veil patch.<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=80–81|oclc=797915861}}</ref> The gills are adnexed to free, close and white (or pinkish with age).<ref name=":0" /> The stalk is 5–15&nbsp;cm long, and 1–3&nbsp;cm wide.<ref name=":0" /> The volva is white, saclike and sheathes the stalk base.<ref name=":0" /> The spores are white, smooth, elliptical, and inamyloid.<ref name=":0" />
+
+{{gallery|mode=packed
+|Amanita velosa.jpg|''A. velosa'' specimens
+}}
+
+=== Similar species ===
+The deadly ''[[Amanita ocreata|A. ocreata]]'' and occasionally ''[[Amanita phalloides|A.&nbsp;phalloides]]'' are found in the same habitat at the same time of year as ''A.&nbsp;velosa'', and can often be found in close proximity. ''A.&nbsp;ocreata'' and ''A.&nbsp;phalloides'' have thin universal veil remnants, a sac-like volva, an annulus, a non-striate pileus margin, and a pileus that is a different color than ''A.&nbsp;velosa''.<ref name="arora" /><ref name="mykoweb" /> These differences can fade as the [[fruiting body]] ages, making it important to collect only specimens that have all of their identifying characteristics intact.<ref name=":1">Street C. (2004). [http://www.codehappy.net/site.cgi?ac=1&aid=112 So which mushroom is edible?] {{webarchive|url=https://web.archive.org/web/20070212054854/http://www.codehappy.net/site.cgi?ac=1&aid=112|date=2007-02-12}} ''Codehappy.net'' (website).</ref> ''[[Amanita calyptratoides|A.&nbsp;calyptratoides]]'' is very similar.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=540}}</ref>
+
+==Distribution and habitat==
+''A. velosa'' is a late-season mushroom in its range of occurrence, being primarily found in the coastal regions of [[California]], [[Oregon]], and [[Baja California]],<ref name="tulloss" /> from midwinter up until the end of the California [[Wet season|rainy season]]. Its favored habitat is the [[ecotone]] between [[oak]] (particularly [[coast live oak]]) woodlands and open grassland, living in an [[ectomycorrhizal]] relationship with young oak trees.<ref name="arora" /><ref name="jenkins" /><ref name="mykoweb">Wood M, Stevens F. (2004). [http://www.mykoweb.com/CAF/species/Amanita_velosa.html ''Amanita velosa''.] ''MykoWeb'' (website).</ref>
+
+The species is also reported to have been found in association with [[aspen]] and [[conifer]]s in the [[Sierra Nevada]],<ref name="arora" /> with one report of it being found growing with [[spruce]] in the eastern United States' [[Great Smoky Mountains National Park]].<ref name="jenkins" />
+
+==Edibility==
+
+It is considered to be an outstanding [[Edible mushroom|edible]] species with a distinctively sweet or nutty flavor,<ref name=arora/><ref name=rich/> but great caution must be exercised to properly identify it due to its similarity to deadly species.<ref name=":1" />
+
+==References==
+{{Reflist|2|refs=
+
+<ref name="urlMycoBank: Amanita velosa">{{cite web |title=''Amanita velosa'' (Peck) Lloyd 1898 |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=20487 |publisher=[[MycoBank]]. International Myclogical Association |access-date=2011-10-16}}</ref>
+
+}}
+
+==External links==
+{{Commons category}}
+* [http://www.bayareamushrooms.org/mushroommonth/amanita_velosa.html ''Amanita velosa'']
+* [https://web.archive.org/web/20070207125044/http://mushroomobserver.org/observer/show_name/362 Mushroom Observer: ''Amanita velosa'']
+
+{{Amanitas}}
+{{Taxonbar|from=Q4033868}}
+
+[[Category:Amanita|velosa]]
+[[Category:Edible fungi]]
+[[Category:Fungi of California]]
+[[Category:Fungi of Oregon]]
+[[Category:Fungi of Mexico]]
+[[Category:Fungi described in 1895]]
+[[Category:Taxa named by Charles Horton Peck]]
+[[Category:Fungi without expected TNC conservation status]]
+[[Category:Fungus species]]
+[[Category:Edible fungi of California]]

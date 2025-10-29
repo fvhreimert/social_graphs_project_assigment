@@ -1,0 +1,119 @@
+{{short description|Species of stinkhorn fungus}}
+{{Speciesbox
+| image = Mutinus elegans (DG 9911 Type).jpg
+| genus = Mutinus
+| species = elegans
+| authority = ([[Jean Pierre François Camille Montagne|Mont.]]) [[Eduard Fischer (mycologist)|E.Fisch.]] (1888)
+| synonyms = 
+* ''Caromyxa elegans'' <small>Mont. (1856)</small><ref name="Mont. 1856">Mont., Sylloge generum specierumque plantarum cryptogamarum: 281 (1856)</ref>
+* ''Caryomyxa elegans'' <small>Mont. (1856)</small><ref name="Mont. 1856">Mont., Sylloge generum specierumque plantarum cryptogamarum: 281 (1856)</ref>
+* ''Corynites elegans'' <small>Mont. (1856)</small><ref name="Mont. 1856">Mont., Sylloge generum specierumque plantarum cryptogamarum: 281 (1856)</ref>
+}}
+{{mycomorphbox
+| name = ''Mutinus elegans''
+| hymeniumType = gleba
+| capShape = no
+| stipeCharacter = bare
+| sporePrintColor = olive
+| ecologicalType = saprotrophic
+| howEdible =caution
+}}
+
+'''''Mutinus elegans''''', commonly known as the '''elegant stinkhorn''',<ref name=NGSWG>{{NGSWG}}</ref> the '''dog stinkhorn''', the '''headless stinkhorn''', or the '''devil's dipstick''', is a species of [[fungus]] in the [[Phallaceae]] (stinkhorn) family. The [[basidiocarp|fruit body]] begins its development in an "egg" form, resembling somewhat a [[puffball]] partially submerged in the ground. As the fungus matures, a slender orange to pink colored stalk emerges that tapers evenly to a pointed tip. The stalk is covered with a foul-smelling slimy green [[gleba|spore mass]] on the upper third of its length. Flies and other insects feed upon the slime which contains the [[basidiospore|spores]], assisting in their dispersal.
+
+A [[saprobic]] species, it is typically found growing on the ground singly or in small groups on woody debris or [[leaf litter]], during summer and autumn in Japan, Europe, and eastern North America. Due to their repellent odor, mature specimens are not generally considered [[edible mushroom|edible]], although there are reports of the immature "eggs" being consumed. In the laboratory, ''Mutinus elegans'' has been shown to inhibit the growth of several [[microorganism]]s that can be [[pathogen]]ic to humans.
+
+== Taxonomy ==
+''Mutinus elegans'' was first described by [[British people|British]] missionary [[John Banister (naturalist)|John Banister]] in 1679 who chronicled the natural history of [[Virginia]]; this early report is thought to be the first account of a fungus in North America.<ref name="Petersen 2001"/> It was first characterized scientifically by French scientist [[Jean Pierre François Camille Montagne]] in 1856, who called it ''Corynites elegans''.<ref name="Montage 1856"/>
+
+The [[genus]] name ''Mutinus'' refers to the Roman phallic deity [[Mutunus Tutunus]], one of the ''[[di&nbsp;indigetes]]'' placated by Roman brides.<ref name="Arora 1986" /> The species is [[common name|commonly]] known variously as the "elegant stinkhorn",<ref name="urlRogers" /> the "headless stinkhorn",<ref name="Hemmes 2002" /> the "dog stinkhorn",<ref name="urlEmberger" /> or the "devil's dipstick".<ref name="Arora 1986" /> The [[specific name (botany)|specific epithet]] ''elegans'' is derived from the [[Latin]] word meaning "graceful" or "elegant".<ref name="Roody 2003" />
+
+== Description ==
+
+The young [[fruiting bodies]] are initially white and spherical or egg-shaped, partially submerged in the ground, with dimensions of {{convert|2|to|3|cm|abbr=on|frac=4}} by {{convert|1|to|2|cm|abbr=on|frac=4}}. As the fruit body matures, the egg ruptures and the spongy spore-bearing stalk emerges; fully grown, it may be from {{convert|1|to|15|cm|abbr=on|frac=4}} long and {{convert|1.5|to|2|cm|abbr=on|frac=4}} thick.<ref name="Smith 1951"/> The stalk is hollow and strongly wrinkled overall; its shape is cylindrical below, but it gradually tapers to a narrow apex with a small opening at the tip. The upper half of the stalk is bright red to reddish orange, and the color gradually loses intensity transforming into pinkish white below. The stalk may be straight, or slightly curved.<ref name="urlKuo"/> A gelatinous greenish-brown [[gleba]] covers the upper third of the stalk in newly emerged specimens.<ref name="Hemmes 2002"/> The remains of the "egg" forms a [[volva (mycology)|volva]] around the base of the stalk.<ref name="Smith 1951"/> The odor of the gleba is foul; one author describes it as "sickly sweet or metallic".<ref name="Foy 1991"/> The [[basidiospore|spores]] are a greenish-brown color.<ref name="Hemmes 2002"/> Fruit bodies are attached to the [[substrate (biology)|substrate]] by whitish [[rhizomorph]]s that resemble plant roots.<ref name="Roody 2003"/> American mycologist [[Alexander H. Smith]] noted that the eggs are often slow to open, sometimes taking up to two weeks before the stalk expands.<ref name="Smith 1951"/>
+
+The spores are 4–7 by 2–3&nbsp;[[μm]], oblong-elliptical, smooth, and embedded in the gleba.<ref name="Roody 2003"/> A 1982 study revealed that spores of species in the family [[Phallaceae]], including ''Mutinus elegans'', have a [[Hilum (biology)|hilar]] scar (0.2–0.3&nbsp;μm diameter) that is observable with [[scanning electron microscopy]]. The [[hilum (biology)|hilar]] scar is a circular indentation at one end of the spore, and it most likely results during the separation of the attachment of the spore to the [[sterigma]] of the [[basidium]].<ref name="Burk 1982"/>
+
+{{gallery|mode=packed
+|Mutinus elegans 45276 crop.jpg|Specimen from Florida, US
+|Beetles feeding on stinkhorn fungus.jpg|Beetles feeding on a specimen in Virginia
+}}
+
+
+=== Similar species ===
+
+The "dog stinkhorn" (''[[Mutinus caninus]]'') is less common,<ref name="Arora 1986" /> smaller, has a distinct oval or spindle-shaped tip on a slender stem and lacks the bright coloring of ''M.&nbsp;elegans''; it has less of the stalk covered by gleba.<ref name="Hall 2003"/> The portion of the stalk below the spore mass is pitted in ''M.&nbsp;caninus'', compared to "pebbly" in ''M.&nbsp;elegans''.<ref name="Hall 2003"/> ''[[Mutinus bambusinus]]'' is similar in size and shape, except it does not have a distinct color demarcation between the upper and lower parts of the stalk; instead, the entire stem shows red pigments. The stalk of ''[[Mutinus ravenelii|M.&nbsp;ravenelii]]'' is less tapered than ''M.&nbsp;elegans'', and it has a clearly differentiated swollen head.<ref name=":02">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=119}}</ref>
+
+The normally pinkish ''[[Phallus rubicundus]]'' and the orangish [[Phallus rugulosus|''P.&nbsp;rugulosus'']] both have conical caps.<ref name=":02" />
+
+== Habitat and distribution ==
+''Mutinus elegans'' is [[saprobic]]—deriving nutrients by breaking down dead or dying organic matter. It is commonly found in gardens and farm areas enriched with manure,<ref name="Hemmes 2002"/> near well-decayed stumps and logs, and in wood chips.<ref name="Roody 2003"/> A Japanese publication mentioned its occurrence in [[Takatsuki]] and [[Osaka-fu]], where it fruited in November and December on the ground along paths or in open spaces, under or near [[bamboo]] (''Phyllostachys bambusoides'') and [[hardwood]]s such as the [[sawtooth oak]], the ''[[Japanese Zelkova]]'', and the ''[[Camphor tree]]''.<ref name="Guez 2000"/>
+
+This common species has been collected in eastern North America,<ref name="Arora 1986"/> in the area extending from [[Quebec]] to [[Florida]] and west to the [[Great Lakes]],<ref name="Foy 1991"/> Iowa,<ref name="Martin 1929"/> Colorado, and Texas.<ref name="Metzler 1992"/>
+In Europe, it has been reported from Netherlands<ref name="Dam 2004"/> and in Asia, it has been collected in Japan.<ref name="Guez 2000"/>
+
+== Uses ==
+
+The immature egg-forms of ''M. elegans'' are edible,<ref name="Arora 1986" /> but "not recommended".<ref name="urlRogers" /> One field guides notes that the eggs of the stinkhorn fungi "taste like the seasonings that are added to them."<ref name="Miller 2006" /> The fetid odor of mature specimens would probably be repellent to most, although they are not considered poisonous.<ref name="Hall 2003" />
+
+=== Antibiotic activity ===
+A study of 32 [[basidiomycete]] mushrooms showed that ''Mutinus elegans'' was the only species to show [[antibiotic]] (both [[antibacterial]] and [[antifungal]]) activity against all six microorganisms tested, namely, the human pathogenic bacterias ''[[Bacillus cereus]]'', ''[[Bacillus subtilis]]'', ''[[Staphylococcus aureus]]'', ''[[Escherichia coli]]'', ''[[Salmonella typhimurium]]'' and the yeast ''[[Candida albicans]]''.<ref name="Bianco Coletto 1998-99" /><ref name="Bianco Coletto 2005" />
+
+== References ==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Arora 1986">{{cite book |author=Arora D |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=Ten Speed Press |location=Berkeley, California |year=1986 |page=[https://archive.org/details/mushroomsdemysti00aror_0/page/771 771] |isbn=978-0-89815-169-5 |url-access=registration |url=https://archive.org/details/mushroomsdemysti00aror_0/page/771 }}</ref>
+
+<ref name="Bianco Coletto 1998-99">{{cite journal |vauthors=Bianco Coletto MA, Lelli P |year=1998–99 |title=Antibiotic activity in Basidiomycetes. XII. Antibacterial and antifungal activity of 32 new strains |journal=Allionia (Turin) |volume=36 |pages=89–92}}</ref>
+
+<ref name="Bianco Coletto 2005">{{cite journal |author=Bianco Coletto MAB. |year=2006 |title=Antibiotic activity in Basidiomycetes. XIV. Antibacterial and antifungal activity of some new recently isolated strains |journal=Allionia (Turin) |volume=40 |pages=33–7}}</ref>
+
+<ref name="Burk 1982">{{cite journal |vauthors=Burk WR, Flegler SL, Hess WM |year=1982 |title=Ultrastructural studies of Clathraceae and Phallaceae (Gasteromycetes) spores  |journal=Mycologia |volume=74 |issue=1 |pages=166–68 |jstor=3792646 |doi=10.2307/3792646}}</ref>
+
+<ref name="Dam 2004">{{cite journal |vauthors=Dam M, Dam N |year=2004 |title=''Mutinus elegans'' re-encountered after 15 years |journal=Coolia |volume=47 |issue=4 |pages=218 |language=nl}}</ref>
+
+<ref name="Foy 1991">{{cite book |vauthors=Foy N, Phillips R, Kibby G |title=Mushrooms of North America |publisher=Little, Brown |location=Boston, Massachusetts |year=1991 |page=289 |isbn=978-0-316-70613-1}}</ref>
+
+<ref name="Guez 2000">{{cite journal |vauthors=Guez D, Nagasawa E |year=2000 |title=''Mutinus elegans'' (Gasteromycetes, Phallaceae) new to Japan |journal=Nippon Kingakukai Kaiho |volume=41 |pages=75–8 |language=ja}}</ref>
+
+<ref name="Hall 2003">{{cite book |author=Hall IR. |title=Edible and Poisonous Mushrooms of the World |publisher=Timber Press |location=Portland, Oregon |year=2003 |page=249 |isbn=978-0-88192-586-9}}</ref>
+
+<ref name="Hemmes 2002">{{cite book |vauthors=Hemmes DE, Desjardin D |title=Mushrooms of Hawai'i: An Identification Guide |publisher=Ten Speed Press |location=Berkeley, California |year=2002 |page=41 |isbn=978-1-58008-339-3 |url=https://books.google.com/books?id=xbEC2PrmZZkC&pg=PA41}}</ref>
+
+<ref name="Martin 1929">{{cite journal |author=Martin GW. |year=1929 |title=Notes on Iowa Fungi—1928 |journal=Proceedings of the Iowa Academy of Sciences |volume=36 |pages=127–30}}</ref>
+
+<ref name="Metzler 1992">{{cite book |author=Metzler S&V. |title=Texas Mushrooms: A Field Guide |publisher=University of Texas Press |location=Austin, Texas |year=1992 |page=308 |isbn=978-0-292-75126-2}}</ref>
+
+<ref name="Miller 2006">{{cite book |vauthors=Miller HR, Miller OK |title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi |publisher=Falcon Guide |location=Guilford, Connecticut |year=2006 |page=476 |isbn=978-0-7627-3109-1 |url=https://books.google.com/books?id=zjvXkLpqsEgC&pg=PA476}}</ref>
+
+<ref name="Montage 1856">{{cite book |title=Sylloge generum specierumque cryptogamarum |author=Montage JFC. |year=1856 |page=281 |language=la}}</ref>
+
+<ref name="Petersen 2001">{{cite book |title=New World Botany: Columbus to Darwin |author=Petersen RH. |year=2001 |publisher=Koeltz Scientific Books |isbn=978-3-904144-75-9 |page=208 |url=https://books.google.com/books?id=lVCckHdmljkC&pg=PA208}}</ref>
+
+<ref name="Roody 2003">{{cite book |author=Roody WC. |title=Mushrooms of West Virginia and the Central Appalachians |publisher=University Press of Kentucky |location=Lexington, Kentucky |year=2003 |page=414 |isbn=978-0-8131-9039-6|url=https://books.google.com/books?id=5HGMPEiy4ykC&pg=PA414}}</ref>
+
+<ref name="Smith 1951">{{cite book |title=Puffballs and their Allies in Michigan |author=Smith AH. |year=1951 |publisher=University of Michigan Press |location=Ann Arbor, Michigan |page=31}}</ref>
+
+<ref name="urlEmberger">{{cite web |author=Emberger G. |title=''Mutinus elegans'' |url=http://www.messiah.edu/Oakes/fungi_on_wood/stinkhorn/species%20pages/Mutinus%20elegans.htm |work=Fungi Growing on Wood |publisher=[[Messiah College]] |year=2008 |access-date=2009-10-02}}</ref>
+
+<ref name="urlKuo">{{cite web |author= Kuo M|title=''Mutinus elegans'', ''M.&nbsp;caninus'', & ''M.&nbsp;ravenelii'' |url=http://www.mushroomexpert.com/mutinus_elegans.html |work=MushroomExpert.com |year=2006 |access-date=2009-10-02}}</ref>
+
+<ref name="urlRogers">{{cite web |author=Phillips R |title=''Mutinus elegans'' |url=http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6471.asp |work=Roger's Mushrooms |publisher=Rogers Plants |access-date=2009-10-13 |archive-url=https://web.archive.org/web/20080518065715/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6471.asp |archive-date=2008-05-18 |url-status=dead }}</ref>
+
+}}
+
+== External links ==
+* {{IndexFungorum|223153}}
+* [https://www.plantpath.cornell.edu/PhotoLab/TimeLapse2/DogStinkhorn_credits1_FC.html Time lapse video of growing fruit body] Cornell University, Department of Plant Pathology Photo Lab
+* [https://web.archive.org/web/20110727091812/http://www.momyco.org/images/L01390404.JPG Image of spores] Missouri Mycological Society
+* [http://www.mycobank.org/BioloMICS.aspx?TableKey=14682616000000067&Rec=353502&Fields=All ''Caromyxa elegans'' at mycobank.org]
+
+{{good article}}
+{{Taxonbar|from=Q918611}}
+
+[[Category:Phallales]]
+[[Category:Fungi described in 1856]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]

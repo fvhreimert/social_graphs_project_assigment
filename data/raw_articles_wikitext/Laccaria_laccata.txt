@@ -1,0 +1,72 @@
+{{Speciesbox
+| image = Lacc.lacc.jpg
+| genus = Laccaria
+| species = laccata
+| authority = ([[Giovanni Antonio Scopoli|Scop.]]) [[Mordecai Cubitt Cooke|Cooke]]
+}}
+{{mycomorphbox 
+| name=Laccaria laccata
+| whichGills=adnate 
+| whichGills2=decurrent 
+| capShape=convex 
+| capShape2=flat
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=mycorrhizal
+| sporePrintColor=white
+| howEdible=edible
+|howEdible2=caution
+}}
+
+'''''Laccaria laccata''''', commonly known as the '''deceiver''', '''lackluster laccaria''',<ref name="Arora2nd" /> or '''waxy laccaria''', is a species of fungus. It is a small but highly variable mushroom (hence 'deceiver'), and can look quite washed out, colorless and drab, but when younger it often assumes red, pinkish brown, and orange tones. It has white spores.
+
+Found throughout North America and Europe, the species is often considered by mushroom collectors to be a 'mushroom [[weed]]' because of its abundance and plain stature. The cap is [[Edible mushroom|edible]].
+
+== Taxonomy ==
+
+The deceiver was first described by [[County of Tyrol|Tyrol]]ian naturalist [[Giovanni Antonio Scopoli]] in 1772 as ''Agaricus laccatus'',<ref>{{cite book | author = Scopoli, Giovanni Antonio | year = 1772 | title = Flora Carniolica| url = https://archive.org/details/floracarniolica00scopgoog |edition=2 |page=[https://archive.org/details/floracarniolica00scopgoog/page/n461 444]| publisher = [Vindobonae] impensis Ioannis Pavli Kravss }}</ref> before being given its current binomial name by [[Mordecai Cubitt Cooke]] in 1884. The [[specific name (botany)|specific epithet]] is derived from the [[Latin]] adjective ''laccatus'' 'varnished' or 'shining'.<ref name="nilper">{{cite book |vauthors=Nilson S, Persson O| year = 1977 | title = Fungi of Northern Europe 2: Gill-Fungi | publisher = Penguin|isbn=0-14-063006-6|page=36}}</ref> ''Clitocybe laccata'' is an old alternative name. Var. ''pallidifolia'', described by [[Charles Horton Peck]], is the most common variety found in North America.
+
+It is the [[type species]] of the [[cosmopolitan distribution|cosmopolitan]] mushroom genus ''Laccaria''; where their relations lie among the gilled mushrooms is unclear, but they are currently classified in the family [[Hydnangiaceae]].
+
+The deceiver gets its [[common name]] from its variable appearance. Other names include lacklustre laccaria, and, by the [[Zapotec people]], ''Beshia ladhi biinii'' (also the name of other members of ''[[Laccaria]]'').<ref name="Garibay07" />
+
+== Description ==
+
+The deceiver is a small mushroom with a [[Pileus (mycology)|cap]] measuring {{convert|2-6|cm|round=0.5|abbr=on}} in diameter, convex when young and later flattening or even depressed in the center. It can be various shades of salmon pink, brick-red, or shades of orange or brown when moist or young, and duller and paler when dry. The fibrous [[Stipe (mycology)|stipe]] is {{convert|2–10|cm|round=0.5|abbr=on}} high and {{convert|3–10|mm|round=0.5|abbr=on}} wide. The irregular [[Lamella (mycology)|gills]] are widely spaced and decurrent or adnexed, and of similar color to the cap, though whiten with spores as the mushroom matures. The [[spore print]] is white, and the round spiny [[basidiospore|spores]] are 7–10&nbsp;[[μm]] in diameter. The [[trama (mycology)|flesh]] is thin and has little taste.<ref name="Phillips06">{{cite book| author = Roger Phillips | year = 2006 | title = Mushrooms | publisher = Pan MacMillan | isbn = 0-330-44237-6|page=102}}</ref><ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=136–137|oclc=797915861}}</ref>
+
+{{gallery|mode=packed
+|Laccaria laccata G4 (3).JPG|Cap
+|Laccaria laccata (4501591685).jpg|Caps
+|Laccaria laccata G4 (1).JPG|Gills and stipe
+|Laccaria laccata (29119117746).jpg| Gills
+|Laccaria laccata 463280263.jpg|Spores
+|Illustrations of British Fungi (Hymenomycetes), to serve as an atlas to the "Handbook of British Fungi" (Pl. 139) (6055652565).jpg|Illustration
+}}
+
+=== Similar species ===
+Formerly considered a subspecies by French mycologist [[René Maire]], the close deceiver (''[[Laccaria proxima|L.&nbsp;proxima]]'') is a European relative with a fine scaly cap and found in wetter habitats.<ref name="Lamaison05">{{cite book |title=The Great Encyclopedia of Mushrooms |last=Lamaison |first=Jean-Louis |author2=Polese, Jean-Marie  |year=2005 |publisher=Könemann |isbn=3-8331-1239-5|page=83}}</ref> Microscopically, its spores are narrower and more oval-shaped.
+
+In California, what was thought to be ''L.&nbsp;laccata'' under [[eucalyptus]] has turned out to be the Australian species ''[[Laccaria fraterna|L.&nbsp;fraterna]]''.<ref>{{Cite web|url=http://www.mykoweb.com/CAF/species/Laccaria_fraterna.html|title=California Fungi: Laccaria fraterna}}</ref> Other similar species include ''[[Laccaria amethysteo-occidentalis|L.&nbsp;amethysteo-occidentalis]]'' and ''[[Laccaria bicolor|L.&nbsp;bicolor]]''.<ref name=":0" />
+
+== Distribution and habitat ==
+''Laccaria laccata'' is found in scattered troops in wooded areas, and on [[heathland]] often in poor [[soil]]. It is very common in all of the northern [[temperate]] zones, but tends to favor cool weather. It is [[mycorrhiza]]l with several types of [[tree]]s, including members of the [[Pinaceae]] (Pines), [[Fagaceae]] (Beech), and [[Betulaceae]] (Birch). It is found across Europe and North America,<ref name="Arora2nd">{{Cite book |last=Arora |first=David |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/172/mode/2up |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |orig-date=1979 |edition=2nd |pages=172}}</ref> south into Mexico and Costa Rica. ''Laccaria'' species are mycorrhizal, and thought by some to be [[pioneer species]].
+The roots of ''[[Corylus avellana]]'' (Hazel) are also used as a host for the fungus in Great Britain.<ref>{{cite journal |last1=Harley |first1=J.L. |last2=Harley |first2=E.L. |title=A checklist of mycorrhiza in the British flora. |journal=New Phytologist |date=1987 |volume=105 |pages=1–102 |doi=10.1111/j.1469-8137.1987.tb00674.x|doi-access=free }}</ref>
+
+== Edibility ==
+Although small, the deceiver is edible and mild-tasting.<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=69}}</ref> The tough stalks are usually not eaten.<ref name=":0" /> It is one of many mushrooms traditionally eaten by the [[Zapotec people]] of [[Oaxaca]] in Mexico.<ref name="Garibay07">{{cite journal |vauthors=Garibay-Orijel R, Caballero J, Estrada-Torres A, Cifuentes J |year=2007|title=Understanding cultural significance, the edible mushrooms case |journal=Journal of Ethnobiology and Ethnomedicine |volume=3 |issue=4 |article-number= 4|doi=10.1186/1746-4269-3-4 |pmid=17217539 |pmc=1779767 |doi-access=free }}</ref> However, it is important to distinguish it from potentially lethal small brown mushrooms.<ref name="Arora2nd" />
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{Commons category-inline}}
+* [https://web.archive.org/web/20090317211451/http://www.fieldmuseum.org/research_collections/botany/botany_sites/fungi/species/L.laccata/mushroom.html ''Laccaria laccata'' var. ''laccata''] at the [[Field Museum of Natural History]] website
+
+{{Taxonbar|from=Q597340}}
+
+[[Category:Edible fungi]]
+[[Category:Laccaria|laccata]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Giovanni Antonio Scopoli]]
+[[Category:Fungus species]]

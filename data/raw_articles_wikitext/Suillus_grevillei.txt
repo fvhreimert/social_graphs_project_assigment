@@ -1,0 +1,105 @@
+{{Short description|Species of fungus}}
+{{Speciesbox 
+| image = Suill.grev.jpg
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{cite iucn |last1=Dahlberg |first1=A. |year=2019 |title=''Suillus grevillei'' |volume=2019 |errata=2022 |article-number=e.T122090805A223016083 |doi=10.2305/IUCN.UK.2019-3.RLTS.T122090805A223016083.en |access-date=23 May 2025}}</ref>
+| status2 = G5
+| status2_system = TNC
+| status2_ref = <ref name=NS>{{cite NatureServe |id=2.883670 |title=''Suillus grevillei'' |access-date=22 May 2025}}</ref>
+| genus = Suillus
+| species = grevillei
+| authority = ([[Johann Friedrich Klotzsch|Klotzsch]]) [[Rolf Singer|Singer]], 1945
+| synonyms = 
+* ''Boletinus grevillei'' (Klotzsch) Pomerl., 1980
+* ''Boletopsis elegans'' (Schumach.) Henn., 1898
+* ''Boletus annularius'' Bolton, 1792
+* ''Boletus clintonianus'' Peck, 1872
+* ''Boletus cortinatus'' Pers., 1801
+* ''Boletus elegans'' Schumach., 1803
+* ''Boletus elegans'' var. ''aureus'' Fr., 1838
+* ''Boletus elegans'' var. ''cyanescens'' Velen., 1939
+* ''Boletus grevillei'' Klotzsch, 1832
+* ''Cricunopus elegans'' (Schumach.) P. Karst., 1882
+* ''Ixocomus elegans'' (Schumach.) Singer, 1938
+* ''Ixocomus elegans'' f. ''badius'' Singer, 1938
+* ''Ixocomus elegans'' f. ''elegans'' (Schumach.) Singer, 1938
+* ''Ixocomus elegans'' f. ''griseoloporus'' Singer, 1938
+* ''Ixocomus flavus'' var. ''elegans'' (Schumach.) Quél., 1888
+* ''Ixocomus grevillei'' (Klotzsch) Vassilkov, 1955
+* ''Suillus clintonianus'' (Peck) Kuntze, 1898	
+* ''Suillus elegans'' (Schumach.) Snell, 1944
+* ''Suillus grevillei'' f. ''badius'' (Singer) Singer, 1965
+* ''Suillus grevillei'' var. ''badius'' Singer	
+* ''Suillus grevillei'' var. ''clintonianus'' (Peck) Singer, 1951
+* ''Suillus grevillei'' var. ''grevillei'' (Klotzsch) Singer, 1945
+* ''Suillus grevillei'' f. ''grevillei'' (Klotzsch) Singer, 1945
+* ''Suillus grevillei'' var. ''proximus'' (A.H. Sm. & Thiers) W. Klofac, 2013
+* ''Suillus proximus'' A.H. Sm. & Thiers, 1964
+* ''Viscipellis elegans'' (Schumach.) Quél., 1886
+* ''Viscipellis flava'' var. ''elegans'' (Schumach.) Quél., 1886
+}}
+{{mycomorphbox 
+| name = ''Suillus grevillei''
+| ecologicalType = mycorrhizal
+| capShape = convex
+| whichGills       = adnate
+| hymeniumType = pores
+| stipeCharacter = ring
+| sporePrintColor = ochre
+| howEdible = edible
+}}
+
+'''''Suillus grevillei'''''<u>,</u> commonly known as '''tamarack jack''',<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/497/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |page=497 |orig-date=1979}}</ref> '''Greville's bolete''', or '''larch bolete''', is a [[mycorrhiza]]l mushroom with a tight, brilliantly coloured cap, shiny and wet looking with its mucous slime layer. The [[hymenium]] easily separates from the [[trama (mycology)|flesh]] of the cap, with a central [[stipe (mycology)|stalk]] that is quite slender. The species has a [[annulus (mycology)|ring]] or a tight-fitting annular zone.
+
+==Etymology==
+The [[specific epithet]] is derived from [[Robert Kaye Greville]].<ref>[http://natura.provincia.cuneo.it/funghi/scheda.jsp?id=418 natura.provincia.cuneo.it (In italian)], accessed 5 August 2008</ref>
+
+==Description==
+''Suillus grevillei'' is a mushroom with a 5&ndash;10&nbsp;cm (2&ndash;4 in) [[pileus (mycology)|cap]] colored from citrus yellow to burnt orange,<ref name="tfb">{{Cite book |last=Francis-Baker |first=Tiffany |title=Concise Foraging Guide |date=2021 |publisher=[[Bloomsbury Publishing|Bloomsbury]] |isbn=978-1-4729-8474-6 |series=[[The Wildlife Trusts]] |location=London |page=182}}</ref> that is at first hemispherical, then bell-shaped, and finally flattened. It has a sticky [[Plant cuticle|skin]], often with [[Veil (mycology)|veil]] remnants on the edge,<ref name=":0">{{cite book |last1=Trudell |first1=Steve |url=https://books.google.com/books?id=WevHvt6Tr8kC&pg=PA223 |title=Mushrooms of the Pacific Northwest |last2=Ammirati |first2=Joe |publisher=Timber Press |year=2009 |isbn=978-0-88192-935-5 |series=Timber Press Field Guides |location=Portland, OR |page=223}}</ref> short tubes of yellow (possibly staining brownish)<ref name=":0" /> which descend down to the bottom of its cylindrical stalk (6&ndash;10 x 1–2&nbsp;cm), which is yellowish above the [[Annulus (mycology)|ring]] area with streaks of reddish brown below.<ref name=":0" /> The flesh is yellow, staining brown.<ref name=":0" />
+
+The thin meat has consistency at first but then quickly becomes soft. It has an odor reminiscent of rumpled ''[[Pelargonium]]'' geranium leaves.{{citation needed|date=May 2025}}
+
+==Habitat and distribution==
+It grows only under [[larch]] trees.<ref name="Arora1986" /> Widespread in North America and Europe (July–November).<ref name="tfb" /> In Asia, it has been recorded from Taiwan.<ref name="Yeh 1980"/>
+
+==Edibility==
+
+''Suillus grevillei'' can be cooked as an [[edible mushroom]], though one without culinary  interest, if the slimy cuticle is removed from the cap.<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |publisher=Firefly Books |year=2010 |isbn=978-1-55407-651-2 |location=Buffalo, NY |page=286}}</ref><ref name="tfb"/>
+
+==Chemistry==
+The fungus produces grevillin which is characteristic of this fungus. The genetic and enzymatic basis for [[atromentin]], the precursor to various pulvinic acid-type pigments, has been characterized (an atromentin synthetase by the name, GreA). A cosmid library (31 249 bp in total) has been made from the genome. The estimated gene density based on the cosmid library is 1 per 3900 bp of genomic DNA. The genome has a GC content of 49.8%.{{citation needed|date=May 2025}}
+
+==See also==
+*[[List of North American boletes]]
+*[[Larch bolete]], other species of fungi associated with larch
+
+==References==
+{{Reflist|refs=
+
+<ref name="Yeh 1980">{{cite journal |author=Yeh K-W, Chen Z-C. |title=The boletes of Taiwan |journal=Taiwania |year=1980 |volume=25 |issue=1 |pages=166–184 |url=http://tai2.ntu.edu.tw/taiwania/pdf/tai.1980.25.166.pdf}}</ref>
+
+}}
+
+===Works in French===
+* Régis Courtecuisse, Bernard Duhem : ''Guide des champignons de France et d'Europe'' (Delachaux & Niestlé, 1994-2000).
+* Marcel Bon : ''Champignons de France et d'Europe occidentale'' (Flammarion, 2004)
+* Dr Ewaldt Gerhardt : ''Guide Vigot des champignons'' (Vigot, 1999) - {{ISBN|2-7114-1413-2}}
+* Roger Phillips : ''Les champignons'' (Solar, 1981) - {{ISBN|2-263-00640-0}}
+* Thomas Laessoe, [[Anna Del Conte]] : ''L'Encyclopédie des champignons'' (Bordas, 1996) - {{ISBN|2-04-027177-5}}
+* Peter Jordan, Steven Wheeler : ''Larousse saveurs - Les champignons'' (Larousse, 1996) - {{ISBN|2-03-516003-0}}
+* G. Becker, Dr L. Giacomoni, J Nicot, S. Pautot, G. Redeuihl, G. Branchu, D. Hartog, A. Herubel, H. Marxmuller, U. Millot et C. Schaeffner : ''Le guide des hampignons'' (Reader's Digest, 1982) - {{ISBN|2-7098-0031-4}}
+* Henri Romagnesi : ''Petit atlas des champignons'' (Bordas, 1970) - {{ISBN|2-04-007940-8}}
+
+==External links==
+* {{Commons-inline|Suillus grevillei|italic=on}}
+* Baura G, Szaro TM, Bruns TD. 1992. [https://web.archive.org/web/20080512033924/http://plantbio.berkeley.edu/~bruns/papers/bruns1992c.html ''Gastrosuillus laricinius'' is a recent derivative of ''Suillus grevillei'': molecular evidence.] ''[[Mycologia]]'' 84(4): 592–597.
+
+{{Taxonbar|from=Q833108}}
+
+[[Category:Suillus|grevillei]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1945]]
+[[Category:Fungus species]]

@@ -1,0 +1,47 @@
+{{Speciesbox 
+| image = Lycoperdon curtisii 98116.jpg
+| image_caption = 
+| genus = Lycoperdon
+| species = curtisii
+| authority = [[Miles Joseph Berkeley|Berk.]] (1873)
+| synonyms_ref =<ref name="urlFungorum synonymy: Lycoperdon curtisii"/>
+| synonyms = *''Lycoperdon curtisii'' <small>Berk. (1859)</small>
+*''Vascellum curtisii'' <small>(Berk.) [[Hanns Kreisel|Kreisel]] (1963)</small>
+}}
+{{mycomorphbox 
+| name = ''Lycoperdon curtisii''
+| whichGills = no 
+| capShape = no 
+| hymeniumType = gleba
+| stipeCharacter = NA
+| ecologicalType = saprotrophic
+| sporePrintColor = olive
+}}
+
+'''''Lycoperdon curtisii''''' is a type of [[puffball]] mushroom in the genus ''[[Lycoperdon]]''. It was first [[species description|described]] scientifically in 1859 by [[Miles Joseph Berkeley]]. ''Vascellum curtisii'', published by [[Hanns Kreisel]] in 1963, is a [[synonym (taxonomy)|synonym]].<ref name="urlMycoBank: Vascellum curtisii"/> Its fruit bodies (puffballs) have been recorded growing in [[fairy ring]]s.<ref name=Terashima2004>{{cite journal |vauthors=Terashima Y, Fukiharu T, Fujiie A |year=2004 |title=Morphology and comparative ecology of the fairy ring fungi, ''Vascellum curtisii'' and ''Bovista dermoxantha'', on turf of bentgrass, bluegrass, and Zoysiagrass |journal=Mycoscience |volume=45 |issue=4 |pages=251–60 |doi=10.1007/s10267-004-0183-y|s2cid=84981546 |doi-access=free }}</ref> It is nonpoisonous.<ref name="Miller 2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuides]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=449|author-link=Orson K. Miller Jr.}}</ref>
+
+==References==
+{{Reflist|refs=
+
+<ref name="urlFungorum synonymy: Lycoperdon curtisii">{{cite web |url=http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=221192 |title=''Lycoperdon curtisii'' Berk. |publisher=Species Fungorum. CAB International |accessdate=2014-07-13}}</ref>
+
+<ref name="urlMycoBank: Vascellum curtisii">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=340862 |title=''Vascellum curtisii'' (Berk.) Kreisel 1963  |publisher=International Mycological Association |work=MycoBank |accessdate=2010-08-12}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|221192}}
+
+{{Taxonbar|from=Q1616693}}
+
+{{Clear}}
+
+[[Category:Fungi found in fairy rings]]
+[[Category:Puffballs]]
+[[Category:Fungi described in 1859]]
+[[Category:Taxa named by Miles Joseph Berkeley]]
+[[Category:Lycoperdon|curtisii]]
+[[Category:Fungus species]]
+
+
+{{Agaricaceae-stub}}

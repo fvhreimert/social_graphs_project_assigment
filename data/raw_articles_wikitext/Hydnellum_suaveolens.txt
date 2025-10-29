@@ -1,0 +1,42 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Hydnellum suaveolens 51703.jpg
+| genus = Hydnellum
+| species = suaveolens
+| authority = ([[Scop.]]) [[Petter Karsten|P.Karst.]] (1879)
+| synonyms = *''Hydnum suaveolens'' <small>Scop. (1772)</small>
+}}
+{{Mycomorphbox
+| name = ''{{PAGENAME}}''{{italic title}}
+| hymeniumType = teeth
+| capShape = flat
+| whichGills = decurrent
+| stipeCharacter = bare
+| sporePrintColor = brown
+| ecologicalType = mycorrhizal
+| howEdible = inedible 
+}}
+'''''Hydnellum suaveolens''''', commonly known as the '''fragrant hydnellum mushroom''',<ref name="Arora 1986" /> is a species of [[fungus]]. It has a funnel-shaped [[Pileus (mycology)|cap]] that is typically between {{convert|5–15|cm|round=0.5|abbr=on}} in diameter. As its name suggests, it has a strong odor of [[anise]] or [[peppermint]].<ref name="Arora 1986"/>
+
+The species is often found beneath [[conifer]]s and is inedible.<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |publisher=Firefly Books |year=2010 |isbn=978-1-55407-651-2 |location=Buffalo, NY |page=323}}</ref> Gas chromatographic-mass spectral analysis of diethyl ether extracts from fresh specimens of this fungi showed {{Nowrap|[[p-anisaldehyde]]}} and coumarin to comprise 30% and 62% respectively of the volatile odor compounds present.<ref>{{cite journal | last1 = Wood | first1 = William F. | last2 = DeShazer | first2 = D. A.  | last3 = Largent | first3 = D. L.  | year = 1988 | title = The Identity and Metabolic Fate of Volatiles Responsible for the Odor of Hydnellum suaveolens | journal = Mycologia | volume = 80 | pages = 252-255 | doi=10.1080/00275514.1988.12025530}}</ref>
+
+==References==
+{{Reflist|refs=
+
+<ref name="Arora 1986">{{Cite book |last=Arora |first=David |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/624/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, California |year=1986 |orig-date=1979 |edition=2nd |pages=624}}</ref>
+
+}}
+
+==External links==
+*[https://web.archive.org/web/20080517112658/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6124~gid~.asp Roger's Mushrooms] Description
+
+{{Taxonbar|from=Q2511436}}
+
+[[Category:Fungi described in 1772]]
+[[Category:Fungi of North America]]
+[[Category:Inedible fungi]]
+[[Category:Hydnellum|suaveolens]]
+[[Category:Fungus species]]
+
+
+{{Agaricomycetes-stub}}

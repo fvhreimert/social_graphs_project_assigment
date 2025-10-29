@@ -1,0 +1,67 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = 2012-09-05 Boletus dupainii Boud 312265.jpg
+| status = NT
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{cite iucn |last1=Perini |first1=C. |last2=Gonçalves |first2=S.C. |year=2019 |title=''Rubroboletus dupainii'' |volume=2019 |article-number=e.T70402507A70402516 |doi=10.2305/IUCN.UK.2019-3.RLTS.T70402507A70402516.en |access-date=24 June 2025}}</ref>
+| genus = Rubroboletus
+| species = dupainii
+| authority = ([[Boud.]]) Kuan Zhao & Zhu L.Yang (2014)
+| synonyms_ref = <ref name="urlFungorum synonymy: Rubroboletus dupainii"/>
+| synonyms = *''Boletus dupainii'' <small>[[Boud.]] (1902)</small>
+*''Tubiporus dupainii'' <small>(Boud.) [[René Maire|Maire]] (1937)<ref name="Maire 1937"/></small>
+}}
+{{mycomorphbox
+| name = ''Rubroboletus dupainii''
+| whichGills = adnate
+|sporePrintColor = olive-brown
+| capShape = convex
+| hymeniumType = pores
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| howEdible = unknown
+}}
+
+'''''Rubroboletus dupainii''''', commonly known as '''Dupain's bolete''', is a [[bolete]] fungus of the genus ''[[Rubroboletus]]''. It is native to Europe, where it is [[threatened species|threatened]], and [[Regional Red List|red listed]] in six countries.<ref name="Dahlberg 2006"/> It also occurs in North America, although it is rare there.<ref name="Bessette 2007"/> It was first recorded from [[North Carolina]], and then from [[Iowa]] in 2009.<ref name="Both 2009"/> It was reported from [[Belize]] in 2007, growing under ''[[Quercus peduncularis]]'' - a species of [[oak tree]].<ref name="Ortiz-Santana 2007"/>
+
+The bolete was first [[species description|described]] scientifically by French mycologist [[Jean Louis Émile Boudier]] in 1902.<ref name="Boudier 1902"/> It was transferred to the new genus ''[[Rubroboletus]]'' in 2014 along with several other allied reddish colored, blue-staining bolete species.<ref name="Zhao 2014"/> [[Phylogenetic]]ally, ''R. dupainii'' is the sister species of ''[[Rubroboletus lupinus]]''.<ref name="Loizides 2019"/>
+
+==See also==
+*[[List of North American boletes]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Bessette 2007">{{cite book |vauthors=Bessette AE, Roody WC |title=Mushrooms of the Southeastern United States |url=https://books.google.com/books?id=IB1Gv3jZMmAC&pg=PA213 |year=2007 |publisher=Syracuse University Press |location=Syracuse, New York |isbn=978-0-8156-3112-5 |page=213}}</ref>
+
+<ref name="Both 2009">{{cite journal |author=Both EE. |title=The second record of the European species, ''Boletus dupainii'', in North America |journal=Bulletin of the Buffalo Society of Natural Sciences |year=2009 |volume=38 |pages=1–4 |url=http://www.timberhilloaksavanna.com/SecondRecordofEuropeanSpecies.pdf |archive-url=https://web.archive.org/web/20100331105830/http://www.timberhilloaksavanna.com/SecondRecordofEuropeanSpecies.pdf |archive-date=2010-03-31 }}</ref>
+
+<ref name="Boudier 1902">{{cite journal |author=Boudier JLÉ. |title=Champignons nouveaux de France |journal=Bulletin de la Société Mycologique de France |year=1902 |volume=18 |pages=137–46 |language=French |url=https://www.biodiversitylibrary.org/page/34217690}}</ref>
+
+<ref name="Dahlberg 2006">{{cite book |vauthors=Dahlberg A, Croneborg H |title=The 33 Threatened Fungi in Europe |url=https://books.google.com/books?id=6mAfxSiGB9MC&pg=PA40 |year=2006 |publisher=Council of Europe |isbn=978-92-871-5928-1 |page=40}}</ref>
+
+<ref name="Loizides 2019">{{cite journal |title=Present status and future of boletoid fungi (Boletaceae) on the island of Cyprus: cryptic and threatened diversity unraveled by 10-year study. |vauthors=Loizides M, Bellanger JM, Assyov B, Moreau PA, Richard F |journal=Fungal Ecology |volume=41 |issue=13 |pages=65–81 |year=2019 |doi=10.1016/j.funeco.2019.03.008 }}</ref>
+
+<ref name="Maire 1937">{{cite journal |author=Maire R. |title=Fungi Catalaunici: Series altera. Contributions a l'étude de la flore mycologique de la Catalogne |journal=Publicacions del Instituto Botánico Barcelona |year=1937 |volume=3 |issue=4 |page=46 |language=French}}</ref>
+
+<ref name="Ortiz-Santana 2007">{{cite journal |vauthors=Ortiz-Santana B, Lodge DJ, Baroni TJ, Both EE |year=2007 |title=Boletes from Belize and the Dominican Republic |journal=Fungal Diversity |volume=27 |pages=247–416 |url=http://www.nrs.fs.fed.us/pubs/jrnl/2007/nrs_2007_ortiz-santana_001.pdf}} {{open access}}</ref>
+
+<ref name="urlFungorum synonymy: Rubroboletus dupainii">{{cite web |title=GSD Species Synonymy: ''Rubroboletus dupainii'' (Boud.) Kuan Zhao & Zhu L. Yang|url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=809237 |publisher=Species Fungorum. CAB International |access-date=2015-06-20}}</ref>
+
+<ref name="Zhao 2014">{{cite journal |vauthors=Zhao K, Wu G, Yang ZL |title=A new genus, ''Rubroboletus'', to accommodate ''Boletus sinicus'' and its allies |journal=Phytotaxa |volume=188 |issue=2 |pages=61–77 |doi=10.11646/phytotaxa.188.2.1}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|228023}}
+
+{{Taxonbar|from1=Q81797377|from2=Q3641722}}
+
+[[Category:Rubroboletus|dupainii]]
+[[Category:Fungi described in 1902]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]
+
+
+{{Boletales-stub}}

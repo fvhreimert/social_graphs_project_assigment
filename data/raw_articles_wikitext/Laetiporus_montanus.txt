@@ -1,0 +1,43 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Laetiporus montanus 237227.jpg
+| image_caption = In [[Carinthia]], Austria
+| genus = Laetiporus
+| species = montanus
+| authority = Cerný ex Tomsovský & Jankovský (2009)
+}}
+
+'''''Laetiporus montanus''''' is a species of [[polypore]] fungus in the family [[Fomitopsidaceae]]. It is found in mountainous areas of central Europe and in China, where it grows on [[conifer]]s.
+
+==Taxonomy==
+''Laetiporus montanus'' was first described as new to science by Czech mycologist Karel Černý in 1989.<ref name="Černý 1989"/> However, the publication did not include a [[Latin]] description of the species, nor did it indicate the [[type (biology)|type]], so the name was [[validly published name (botany)|invalid]] according to [[International Code of Nomenclature for algae, fungi, and plants|nomenclatural rules]]. Michal Tomšovský and Libor Jankovský published the species validly in 2009. Although the fruit body of ''L.&nbsp;montanus'' is [[morphology (biology)|morphological]]ly indistinguishable from the widespread ''[[Laetiporus sulphureus|L.&nbsp;sulphureus]]'', it is distinct genetically.<ref name="Tomsovský 2009"/>
+
+==Description==
+[[Basidiocarp|Fruitbodies]] consist of overlapping fan-shaped caps up to {{convert|30|cm|in|abbr=on}} wide  and {{convert|1|–|3|cm|in|1|abbr=on}} thick. The upper surface of the fruit body is bright orange before fading to light brownish in age. The pores on the cap underside are initially bright yellow, but fade to pale tan. Pores are small, measuring 1 to 4 per millimetre. [[Basidiospore|Spores]] are egg-shaped, [[hyaline]] (translucent), and measure 6.0–8.0&nbsp;[[micrometre|μm]]. It has larger [[basidiospore|spores]] than other European ''[[Laetiporus]]'' species; for example, spores of ''L.&nbsp;sulphureus'' typically do not exceed 7.0&nbsp;μm in length.<ref name="Tomsovský 2009"/>
+
+==Habitat, distribution, and ecology==
+Like all ''Laetiporus'' species, ''L.&nbsp;montanus'' causes a [[wood-decay fungus#Brown rot|brown rot]] in its [[host (biology)|host]] trees. It grows on mature [[conifer]]s, particularly ''[[Picea abies]]'' and ''[[Larix decidua]]''. In Europe, the fungus has been recorded from the Czech Republic, Slovakia, and Austria.<ref name="Tomsovský 2009"/> In 2010, it was reported from the [[Inner Mongolia Autonomous Region]], the first record from China.<ref name="Qin 2010"/> The actual distribution of the fungus is not well known; the authors suspect that it may have a wider distribution, including Switzerland and adjacent mountainous countries. It is restricted to elevations above {{convert|1100|m|abbr=on}}.<ref name="Tomsovský 2009"/>
+
+Insects known to rear their young in the fruit bodies of ''L.&nbsp;montanus'' include the [[Diptera]]n species ''[[Ula bolitophila]]'' and ''[[Spelobia parapusio]]''.<ref name="Ševčík 2003"/>
+
+==References==
+{{Reflist|refs=
+
+<ref name="Černý 1989">{{cite book |author=Černý, K. |title=Parazitické dřevokazné houby |year=1989 |publisher=Ministerstvo lesního a vodního hospodářství a dřevozpracujícího průmyslu ČSR ve Státním zemědělském nakl. |location=Prague |isbn=978-8020900906 |language=Czech |pages=45–47}}</ref>
+
+<ref name="Tomsovský 2009">{{cite journal |author1=Tomsovský, M. |author2=Jankovský, L. |title=Validation and typification of ''Laetiporus montanus'' |journal=Mycotaxon |year=2008 |volume=106 |pages=289–295 |url=http://www.cybertruffle.org.uk/cyberliber/59575/0106/0289.htm}}</ref>
+
+<ref name="Qin 2010">{{cite journal |author1=Qin, W. |author2=Zhou, L. |author3=Li, G. |title=内蒙古根河市多孔菌调查(英文) |trans-title=Polypores from Genhe City in Inner Mongolia |journal=Journal of Fungal Research |year=2010 |volume=8 |issue=3 |pages=125–130 |issn=1672-3538 |language=Chinese}}</ref>
+
+<ref name="Ševčík 2003">{{cite journal |author=Ševčík, J. |title=Insects associated with wood-decaying fungi in the Czech and Slovak republics: a review of present knowledge |journal=Acta Facultatis Rerum Naturalium Universitas. Ostraviensis Biologica–Ecologica |year=2003 |volume=9 |pages=159–165}}</ref>
+
+}}
+
+{{Taxonbar|from=Q22285582}}
+
+[[Category:Fungi described in 2009]]
+[[Category:Fungi of China]]
+[[Category:Fungi of Europe]]
+[[Category:Fungal plant pathogens and diseases]]
+[[Category:Laetiporus|montanus]]
+[[Category:Fungus species]]

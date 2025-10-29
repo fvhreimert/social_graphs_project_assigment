@@ -1,0 +1,52 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Gymnopilus liquiritiae (Pers.) P. Karst 829404.jpg
+| image_caption =
+| taxon = Gymnopilus liquiritiae
+| authority = (([[Christiaan Hendrik Persoon|Persoon]]: [[Elias Magnus Fries|Fries]]) [[Petter Adolf Karsten|Karsten]])
+}}
+{{mycomorphbox
+| name = ''Gymnopilus liquiritiae''
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=saprotrophic
+| sporePrintColor=yellow-orange
+| howEdible=inedible}}
+
+'''''Gymnopilus liquiritiae''''' is a mushroom in the [[family (biology)|family]] [[Hymenogastraceae]].  The mushroom is widely distributed and grows in dense clusters on dead [[conifer]] wood. It has a rusty orange [[spore print]], a bitter taste, and does not contain the [[hallucinogen]] [[psilocybin]].<ref name=Stamets1996>{{cite book | first=Paul | last=Stamets | year=1996 | title=Psilocybin Mushrooms of the World | publisher=Ten Speed Press | location=Berkeley | isbn=0-9610798-0-0}}
+</ref>  One of its key distinguishing features is the lack of [[partial veil]].
+
+==Description==
+*'''Cap''': 2–8&nbsp;cm in diameter; initially convex, becoming nearly plane to nearly [[wikt:umbonate|umbonate]] in age, dry, smooth, rusty brown to orange color, margin even, at length striatulate (with marked by small lines, grooves or ridges), cracking slightly in age, flesh pale yellow to pale orange.
+*'''Gills''': Close to crowded; broad, edges fimbriate, yellowish or pale orange, eventually orange; sometimes with reddish brown spots.
+*'''Spore print''': Rusty orange.
+*'''Stipe''': 3–7&nbsp;cm long; 3—8 mm thick; more or less equal, or tapering in either direction; sometimes slightly, even to off-center; smooth or finely fibrous; whitish to pale orange; yellowish or rusty colored [[mycelium]] at the base of the stalk. No partial veil.
+*'''Taste''': Bitter
+*'''Odor''': Mild or sometimes like raw potatoes
+*'''Microscopic features''': Spores 7—8.5 x 4—5.5 [[μm]], elliptical; pleurocystidia (inconspicuous), cheilocystidia, pileocystidia and caulocystidia present.<ref name="urlGymnopilus key">{{cite web |url=http://www.svims.ca/council/Gymnol.htm |title=A Trial Key to GYMNOPILUS in the Pacific Northwest |access-date=2008-11-20 |url-status=dead |archive-url=https://web.archive.org/web/20080926050734/http://www.svims.ca/council/Gymnol.htm |archive-date=2008-09-26 }}</ref>
+
+==Habitat and formation==
+''Gymnopilus liquiritiae'' is a widely distributed wood rotting mushroom, subcaespitose on conifer, seems to prefer dead hardwood in the southern regions.
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.indexfungorum.org/Names/SynSpecies.asp?RecordID=415197 Index Fungorum] {{Webarchive|url=https://web.archive.org/web/20110610173349/http://www.indexfungorum.org/Names/SynSpecies.asp?RecordID=415197 |date=2011-06-10 }} Synonyms
+*[http://www.mushroomexpert.com/gymnopilus_liquiritiae.html Mushroom Expert - ''Gymnopilus liquiritiae'']
+*[http://www.mushroomthejournal.com/greatlakesdata/Taxa/Gymnoliqui148.html ''Gymnopilus liquiritiae'' information]
+*[https://web.archive.org/web/20100624095315/http://pnwfungi.wsu.edu/programs/searchFungusResultDetail.asp?fungusID=1659 Pacific Northwest Fungi Database]
+
+{{Taxonbar|from=Q4138591}}
+
+{{DEFAULTSORT:Gymnopilus liquiritiae}}
+[[Category:Gymnopilus|liquiritiae]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]

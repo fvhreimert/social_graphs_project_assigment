@@ -1,0 +1,40 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Gegwants.kudjip 2017.jpg
+| image_caption =
+| genus = Boletus
+| species = manicus
+| authority = [[Roger Heim|R. Heim]]
+| synonyms =
+}}
+{{mycomorphbox
+| name = ''Boletus manicus''
+| whichGills = adnate
+| capShape = convex
+| hymeniumType=pores
+| stipeCharacter=bare
+| ecologicalType=mycorrhizal
+| sporePrintColor=
+| howEdible=psychoactive
+}}
+
+'''''Boletus manicus''''' is a species of [[fungus]] in the family [[Boletaceae]] of [[mushroom]]s. Found in the Wahgi valley [[Papua New Guinea]], it was first described by French mycologist [[Roger Heim]] in 1963.<ref>{{cite journal |author=Heim R. |year=1963 |title=Diagnoses latines des especes de champignons ou, nonda associes a la folie du komugl tai et du ndaadl |journal=Revue de Mycologie |volume=28 |issue=3–4 |pages=277–83|language=French }}</ref> Heim singled out this mushroom largely because of its similar appearance to ''[[Rubroboletus satanas]]''.<ref>{{Cite journal|last=Heim|first=Roger|date=1972|title=Mushroom madness in the kuma|journal=Human Biology in Oceania|volume=1| issue=3 |pages=170–178}}</ref> In the [[Wahgi language]] it is called ''gegwantsyi ngimbl''. The word ''ngimbl'' in the south Wahgi dialect means pain, which describes the intense bitterness of the mushroom.
+
+It has been reported that ''B. manicus'' may be a [[hallucinogenic mushroom]].<ref name="Thomas2003">{{cite journal |author=Thomas B.|year=2003 |title=''Boletus manicus'' Heim |journal= Journal of Psychoactive Drugs|volume=35 |issue=3 |pages=393–4 |pmid=14621139 |doi=10.1080/02791072.2003.10400024 |s2cid=31327216 }}</ref><ref name="Thomas2000">{{cite journal | vauthors = Thomas B | title = Psychoactive card XIII: Boletus manicus | journal = Eleusis: Journal of Psychoactive Plants and Compounds | volume = 4 | issue = | pages = 167–174 | date = 2000 | url = https://scholar.google.com/scholar?cluster=4440227476399835497 | archive-url = https://archive.org/details/eleusis-vol4-2000/page/167/mode/1up | archive-date = 31 July 2022 }}</ref> However, this topic is controversial, and available findings are mixed.<ref name="Thomas2000" /> ''B. manicus'' is known to contain trace amounts of three unidentified [[indole|indolic]] compounds.<ref name="Thomas2003" /><ref name="Thomas2000" /> These were detected by [[Albert Hofmann]], but the quantities were too low to allow for chemical analysis and identification.<ref name="Thomas2003" /><ref name="Arora2008" /> The indolic compounds would need to be extremely [[potency (pharmacology)|potent]], on par with [[LSD]], to account for the claimed hallucinogenic effects of ''B. manicus''.<ref name="Thomas2003" /><ref name="Thomas2000" /><ref name="Arora2008" /> The hypothesis that these indolic compounds are indeed highly potent hallucinogens has been treated both seriously, for instance by Heim, and critiqued and discounted, for instance by [[Jonathan Ott]].<ref name="Thomas2003" /><ref name="Thomas2000" /> Other [[bolete]]s besides ''B. manicus'' have also been reported to be hallucinogenic mushrooms, such as boletes in the [[Yunnan]] province in [[China]].<ref name="Guzmán2015">{{cite journal | vauthors = Guzmán G | title = New Studies on Hallucinogenic Mushrooms: History, Diversity, and Applications in Psychiatry | journal = Int J Med Mushrooms | volume = 17 | issue = 11 | pages = 1019–1029 | date = 2015 | pmid = 26853956 | doi = 10.1615/intjmedmushrooms.v17.i11.10 | url = }}</ref><ref name="Arora2008">{{cite journal | last=Arora | first=David | title=Notes on Economic Mushrooms. Xiao Ren Ren: The “Little People” of Yunnan | journal=Economic Botany | publisher=New York Botanical Garden Press | volume=62 | issue=3 | year=2008 | issn=00130001 | jstor=40390492 | pages=540–544 | url=https://i.warosu.org/data/sci/img/0147/14/1659226200674553.pdf | access-date=18 February 2025}}</ref><ref name="Stijve1997">{{cite journal | vauthors = Stijve T | title = Hallucinogenic bolets in China? | journal = Eleusis: Journal of Psychoactive Plants and Compounds | volume = 7 | issue = | page = 33 | date = 1997 | url = https://scholar.google.com/scholar?cluster=174646629054294067}}</ref>
+
+==See also==
+* [[Hallucinogenic bolete mushroom]]
+* [[List of Boletus species|List of ''Boletus'' species]]
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q8010122}}
+
+[[Category:Boletus|manicus]]
+[[Category:Fungi of New Guinea]]
+[[Category:Fungi described in 1963]]
+[[Category:Fungus species]]
+
+
+{{Boletales-stub}}

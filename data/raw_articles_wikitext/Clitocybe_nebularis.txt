@@ -1,0 +1,71 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Nevelzwam (nebularis) tussen afgevallen beukenblad (d.j.b.) 01.jpg
+| genus = Clitocybe
+| species = nebularis
+| authority = ([[August Batsch|Batsch]]), [[Paul Kummer|P.Kumm.]] (1871)
+| synonyms_ref = <ref name="urlMycoBank: Clitocybe nebularis"/>
+| synonyms = ''Agaricus nebularis'' <small>Batsch (1789)</small><br />
+''Gymnopus nebularis'' <small>(Batsch) [[Samuel Frederick Gray|Gray]] (1821)</small><br />
+''Omphalia nebularis'' <small>(Batsch) [[Quél.]] (1886)</small><br />
+''Lepista lollbackis'' <small>(Fr.) [[Harri Harmaja|Harmaja]] (1974)</small>
+}}
+{{mycomorphbox
+| name = ''Clitocybe nebularis''
+| whichGills = decurrent
+| capShape = convex
+| capShape2 = flat
+| hymeniumType = gills
+| stipeCharacter = bare
+| sporePrintColor = cream
+| ecologicalType = saprotrophic
+| howEdible = edible
+}}
+
+'''''Clitocybe nebularis''''' or '''''Lepista nebularis''''', commonly known as the '''clouded agaric''', '''cloudy clitocybe''',<ref name=Arora1986>{{Cite book |last=Arora |first=David |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/159/mode/2up |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |orig-date=1979 |edition=2nd |pages=159–160}}</ref> or '''cloud funnel''', is an abundant [[Lamella (mycology)|gilled]] fungus which appears both in [[conifer]]-dominated forests and [[Deciduous|broad-leaved]] woodland in Europe and North America. Appearing in [[United Kingdom|Britain]] from mid to late autumn, it is [[edible mushroom|edible]], but may cause gastrointestinal issues.
+
+==Taxonomy==
+The species was first described and named as ''Agaricus nebularis'' in 1789 by [[August Johann Georg Karl Batsch]]. It was later placed in the genus ''[[Clitocybe]]'' in 1871 by [[Paul Kummer]] as ''Clitocybe nebularis''. After much consideration by many mycologists, over some years, when it was placed for periods in both ''[[Lepista]]'', and ''[[Gymnopus]]'', it was placed back in ''Clitocybe'' with the [[specific name (botany)|specific epithet]], and 1871 accreditation it retains today.
+
+''Clitocybe nebularis'' var. ''alba'' Bataille (1911), differs only in having a milk white cap, and is very rare.<ref name="Phillips">{{Cite web|title=Rogers Mushrooms|url=http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~5799~source~gallerychooserresult.asp|archive-url=https://web.archive.org/web/20160304000746/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~5799~source~gallerychooserresult.asp|archive-date=2016-03-04|access-date=2011-11-17}}</ref>
+
+==Description==
+The [[pileus (mycology)|cap]] of the mushroom is {{convert|5–25|cm|frac=2}} in diameter, [[wikt:convex|convex]] with an incurved margin, becoming plane to depressed in shape. Cap colours are generally greyish to light brownish-grey, and often covered in a whitish bloom when young. The surface of the cap is usually dry to moist, and radially fibrillose. The [[Lamella (mycology)|gills]] are pale, adnate to short-decurrent, close and usually forked.<ref name=":1">{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=93}}</ref> The [[Stipe (mycology)|stem]] measures {{convert|5-10|cm|abbr=on|frac=8}} long and 2–4&nbsp;cm wide;<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=150–151|oclc=797915861}}</ref> it is stout, swollen towards the base, becomes hollow with age, and is easily broken. It is usually somewhat lighter than the cap.<ref name=Phillips/> The flesh is white, and very thick. It usually has a foul-smelling [[odour]], which has been described as slightly farinaceous to spicy, or rancid.<ref>{{cite web |url=http://www.mykoweb.com/CAF/species/Clitocybe_nebularis.html |title=California Fungi: Clitocybe nebularis |accessdate=2008-01-11 }}</ref><ref name=":1" />
+
+The spores are yellow and elliptical.<ref name=":0" /> The [[spore print]] is light yellowish.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=498}}</ref>
+
+=== Similar species ===
+The species can resemble ''[[Clitocybe robusta|C.&nbsp;robusta]]'' which has a more solid white cap, ''[[Clitocybe irina|C.&nbsp;irina]]'' which has a pinkish spore print, ''[[Ampulloclitocybe clavipes]]'', and ''[[Harmajaea harperi]]''.<ref name="audu" />
+
+It may also be confused with the poisonous ''[[Entoloma sinuatum]]'' both in Europe or North America, though this species has pink sinuate gills.<ref name="Haas69">{{cite book|author=Haas H|title=The Young Specialist looks at Fungi|publisher=Burke|year=1969|isbn=0-222-79409-7|pages=128}}</ref> It also resembles ''[[Leucopaxillus albissimus]]'' and ''[[Tricholoma saponaceum]]''.<ref name=":0" /> ''[[Leucopaxillus giganteus]]'' is also similar in stature, but is whiter.<ref name=":1" /> ''[[Infundibulicybe geotropa]]'' has a pale brown cap.<ref name=":1" />
+
+== Ecology ==
+This species is host to the parasitic gilled mushroom ''[[Volvariella surrecta]]'', which is found on older specimens.
+
+==Edibility==
+The species is edible but even a small portion can cause [[gastrointestinal disturbances]] for some people.<ref name="Miller 2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=187|author-link=Orson K. Miller Jr.}}</ref>
+
+==Gallery==
+<gallery>
+File:Cluded Agaric pileus.JPG|The pileus or cap
+File:Clouded Agaric Gills.JPG|Detail of the gills
+File:Clouded Agaric underside.JPG|The gills and cut stipe (stalk)
+File:Hexenring Nebelgrauer Trichterling.JPG|Specimen growing in a [[fairy ring]] formation
+Nevelzwam ( nebularis) (d.j.b.) 02.jpg|Close up of the top of a fully grown specimen
+File:Nevelzwam ( nebularis) (d.j.b.) 14-12-2023. (d.j.b).jpg|A rained-out specimen in decay
+</gallery>
+
+==References==
+{{Commons category}}
+{{Reflist|refs=
+<ref name="urlMycoBank: Clitocybe nebularis">{{cite web |title=''Clitocybe nebularis'' (Batsch) P. Kumm. 1871 |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=164796 |publisher=[[MycoBank]]. International Mycological Association |accessdate=2011-10-26}}</ref>
+}}
+{{Taxonbar|from=Q757125}}
+
+[[Category:Clitocybe|nebularis]]
+[[Category:Edible fungi]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1789]]
+[[Category:Taxa named by August Batsch]]
+[[Category:Fungus species]]

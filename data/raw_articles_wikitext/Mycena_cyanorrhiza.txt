@@ -1,0 +1,48 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+|image = Mycena_cyanorrhiza3.jpg
+|image_caption =
+|genus = Mycena
+|species = cyanorrhiza
+|authority = Quel.
+}}
+{{mycomorphbox 
+| name = Mycena cyanorrhiza
+| hymeniumType=gills
+| capShape = conical
+| whichGills = adnate
+| stipeCharacter=bare
+| sporePrintColor=white
+| ecologicalType=saprotrophic
+| howEdible=unknown
+}}
+'''''Mycena cyanorrhiza''''' is a small white mushroom which has blue colors.  Unlike hallucinogenic mushrooms, the blue color is not related to psilocin polymerization.{{Citation needed|date=October 2022}} It grows in forests on wood and has a white spore print.<ref>{{Cite journal |last1=Perry |first1=Brian A. |last2=Keller |first2=Harold W. |last3=Forrester |first3=Edward D. |last4=Stone |first4=Billy G. |title=A NEW CORTICOLOUS SPECIES OF ''MYCENA'' SECT. ''VISCIPELLES'' (BASIDIOMYCOTA: AGARICALES) FROM THE BARK OF a LIVING AMERICAN ELM TREE IN TEXAS, U.S.A. |date=2020 |journal=Journal of the Botanical Research Institute of Texas |volume=14 |issue=2 |pages=167–185 |doi=10.17348/jbrit.v14.i2.1000 |jstor=27007053 |s2cid=230608108 |issn=1934-5259|doi-access=free }}</ref>
+
+==Gallery==
+<gallery perrow="4">
+Image:Mycena cyanorrhiza1.jpg|''Mycena cyanorrhiza''
+Image:Mycena cyanorrhiza2.jpg|''Mycena cyanorrhiza''
+Image:Mycena cyanorrhiza3.jpg|''Mycena cyanorrhiza''
+Image:Mycena cyanorrhiza4.jpg|''Mycena cyanorrhiza''
+Image:Mycena cyanorrhiza6.jpg|''Mycena cyanorrhiza''
+Image:Mycena cyanorrhiza8.jpg|''Mycena cyanorrhiza''
+Image:M c7.jpg|''Mycena cyanorrhiza''
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://web.archive.org/web/20070429213721/http://home.online.no/~araronse/Mycenakey/cyanorrhiza.htm Mycena cyanorrhiza description and photo]
+
+{{Hallucinogenic mushrooms}}
+{{Taxonbar|from=Q5840157}}
+
+[[Category:Mycena|cyanorrhiza]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Lucien Quélet]]
+[[Category:Fungus species]]
+
+
+{{agaricales-stub}}

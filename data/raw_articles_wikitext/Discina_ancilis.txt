@@ -1,0 +1,65 @@
+{{Short description|Species of fungus}}
+{{more citations needed|date=October 2014}}
+{{Speciesbox
+| image = Discina perlata 95195.jpg
+| image_caption = Fruit bodies found in eastern Shasta-Trinity National Forest, Siskiyou Co., California
+| image_alt = Fruit bodies of ''Discina perlata'' found in [[Eastern Shasta-Trinity National Forest]], [[Siskiyou Co.]], [[California]]
+| genus = Discina (fungus)
+| species = ancilis 
+| authority = (Pers.) Sacc. (1889)
+| synonyms_ref = 
+| synonyms = {{hidden begin|title = List}} 
+*''Peziza ancilis'' <small>Pers. (1822)</small>
+*''Aleuria ancilis'' <small>(Pers.) Gillet (1879)</small>
+*''Acetabula ancilis'' <small>(Pers.) Lambotte (1880)</small>
+*''Helvella ancilis'' <small>(Pers.) Quél. (1886)</small>
+*''Gyromitra ancilis'' <small>(Pers.) Kreisel (1984)</small>
+*''Peziza perlata'' <small>[[Elias Magnus Fries|Fr.]] (1822)</small>
+*''Discina perlata'' <small>(Fr.) Fr. (1849)</small>
+*''Peziza repanda'' var. ''perlata'' <small>(Fr.) Quél. (1886)</small>
+*''Gyromitra perlata'' <small>(Fr.) Harmaja (1969)</small>
+{{hidden end}}
+}}
+{{mycomorphbox 
+| name = ''Discina ancilis''
+| hymeniumType=smooth
+| capShape = umbilicate
+| whichGills =decurrent
+| stipeCharacter=bare
+| sporePrintColor=brown
+| ecologicalType=saprotrophic
+| howEdible= caution
+| howEdible2=edible
+}}
+
+'''''Discina ancilis''''', commonly known as '''pig's ears'''<ref>{{cite web|url= https://inaturalist.nz/taxa/950530-Gyromitra-ancilis |title= Pig's Ears (Gyromitra ancilis) |access-date=2021-05-21 |work= Ninaturalist.nz }}</ref><ref>{{cite web|url= https://eol.org/pages/189085 |title= Discina ancilis (Pers.) Sacc. 1889 |access-date=2021-05-21 |work= EOL }}</ref><ref>{{cite web|url= https://eol.org/pages/47393865 |title= Discina perlata |access-date=2021-05-21 |work= EOL }}</ref> is a brown to tannish, wrinkled, cup- or ear-shaped [[fungus]], sometimes with short, stout [[Stipe (mycology)|stalk]].
+
+== Taxonomy ==
+The [[spore]]s of ''D.&nbsp;ancilis'' are quite similar to those of mushrooms in the genus ''[[Gyromitra]]'', so some [[mycologist]]s classify it there.{{Citation needed|date=July 2025}}
+
+== Description ==
+The cup measures {{convert|2–10|cm|abbr=off|frac=4}} wide,<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=404–405|oclc=797915861}}</ref> with a disc-like, whitish exterior, and a dark brown to tan interior. The cup is often wrinkled to convoluted, with the edges turned downward. The flesh is brittle.<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/798/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, California |pages=798–99 |orig-date=1979}}</ref> The stipe (when present) is up to {{convert|1|cm|abbr=on|frac=8}} long and 3&nbsp;cm thick; it is whitish to brownish in color.<ref name="Arora1986" />
+
+=== Microscopic characteristics ===
+The spores are 25–35 x 11–16&nbsp;[[μm]], spindle shaped, minutely roughened, with a large central oil drop and two smaller ones at each end.<ref name="Arora1986" />
+
+=== Similar species ===
+''[[Disciotis venosa]]'' is more deeply veined, and has smooth spores; it is typically found in deciduous woods.  Other similar species of ''[[Discina (fungus)|Discina]]'' must be differentiated microscopically. ''[[Peziza repanda]]'' is also similar.<ref name=":0" /> In the [[Pacific Northwest]], ''D.&nbsp;leucoxantha'' and ''D.&nbsp;olympiana'' are similar.<ref name=":1">{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=289|language=en}}</ref> It also resembles ''[[Gyromitra melaleucoides]]''.<ref name="Arora1986" />
+
+== Distribution and habitat ==
+It is found singularly or in groups, on [[humus]] or rotten wood in [[conifer]]ous areas; near melting snowbanks in western mountains. It is found in temperate areas of North America.<ref name=":1" /> It comes into fruiting from May–July.
+
+== Edibility ==
+It is considered [[Edible mushroom|edible]] by some authors,<ref name="Miller 2006">{{cite book |last1=Miller Jr. |first1=Orson K. |title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi |last2=Miller |first2=Hope H. |publisher=[[FalconGuides]] |year=2006 |isbn=978-0-7627-3109-1 |location=Guilford, CN |pages=506 |author-link=Orson K. Miller Jr.}}</ref> but not others;<ref>{{cite book |last=Phillips |first=Roger |url=https://archive.org/details/mushroomsotherfu0000phil |title=Mushrooms and Other Fungi of North America |publisher=Firefly Books |year=2010 |isbn=978-1-55407-651-2 |location=Buffalo, NY |page=[https://archive.org/details/mushroomsotherfu0000phil/page/364 364] |url-access=registration}}</ref> it can be confused with other potentially toxic species.<ref name="Miller 2006" /> It should be cooked before consumption.<ref name=":0" />
+
+== References ==
+{{Reflist}}
+
+*  [[Gary Lincoff|Lincoff, GH]] ''National Audubon Society Field Guide to North American Mushrooms.'' Chanticleer Press, Inc.  1981 p.&nbsp;331 {{ISBN|978-0-394-51992-0}}
+
+{{Taxonbar|from1=Q61944831|from2=Q12951523|from3=Q54366342}}
+
+[[Category:Discinaceae]]
+[[Category:Fungus species]]
+[[Category:Taxa named by Christiaan Hendrik Persoon]]
+{{Pezizomycetes-stub}}

@@ -1,0 +1,51 @@
+{{Speciesbox
+| image = Geastrum coronatum Pers 711777.jpg
+| image_caption =Geastrum coronatum
+| genus = Geastrum
+| species = coronatum
+| authority = [[Christian Hendrik Persoon|Pers.]] 1801
+| synonyms = *''G. limbatum'' <small>Fr.</small>
+}}
+{{mycomorphbox 
+| capShape =no 
+| hymeniumType=gleba
+| whichGills=NA
+| stipeCharacter=NA
+| ecologicalType=saprotrophic 
+| sporePrintColor=brown 
+| howEdible=inedible 
+}}
+
+'''''Geastrum coronatum''''' is an inedible species of [[mushroom]]<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=338}}</ref> belonging to the genus ''[[Geastrum]]'', or earthstar fungi. [[Christian Hendrik Persoon]] published the first [[species description|description]] of ''Geastrum coronatum'' in 1801.<ref>{{cite book |author=Persoon CH. |year=1801 |title=Synopsis Methodica Fungorum (Göttingen) |volume=1 |pages=132–133}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Commons category-inline|Geastrum coronatum}}
+*{{Index Fungorum|153463}}
+*[http://www.speciesfungorum.org/Names/GSDspecies.asp?RecordID=153463 SF]  Species Fungorum
+*[https://eol.org/search?q=Geastrum+coronatum EoL] Encyclopedia of Life
+*[https://www.gbif.org/search?q=Geastrum%20coronatum GBIF]
+*[https://www.catalogueoflife.org/col/?taxonKey=6JZ92 CoL]{{Dead link|date=August 2025 |bot=InternetArchiveBot |fix-attempted=yes }} Catalogue of Life
+*[https://www.biodiversitylibrary.org/name/Geastrum_coronatum_Pers%24_1801 BHL] Bibliography of Geastrum coronatum at BHL
+*[https://www.biolib.cz/en/taxon/id303784/ BioLib] Taxonomy, description and photos
+*[https://www.first-nature.com/fungi/geastrum-coronatum.php FirstNature] Description and photos
+*[https://www.nahuby.sk/atlas-hub/Geastrum-coronatum/hviezdovka-tmava/hvezdovka-tuhova/ID1376 nahuby.sk]  Photos, map of distribution in Slovakia (in Slovak) 
+*[http://www.mykologie.net/index.php/houby/podle-morfologie/gasteromycetes/item/2370-geastrum-coronatum mykologie.net] Photo (in Czech) 
+*[http://www.mykologie.eu/druh.php?taxon=geastrum_coronatum mykologie.eu] Several photos (in Czech)
+*[https://www.houbareni.cz/houba/hvezdovka_tuhova?hlist=0 houbareni.cz] Description and several photos (in Czech) 
+*[https://www.grzyby.pl/gatunki/Geastrum_coronatum.htm grzyby.pl] Description and several photos (in Polish) 
+*[https://mushroomobserver.org/observer/observation_search?pattern=Geastrum+coronatum Mushroom Observer] Photos
+
+{{Taxonbar|from=Q5223629}}
+
+[[Category:Geastrum|coronatum]]
+[[Category:Fungi described in 1801]]
+[[Category:Fungi of Europe]]
+[[Category:Inedible fungi]]
+[[Category:Taxa named by Christiaan Hendrik Persoon]]
+[[Category:Fungus species]]
+
+
+{{Geastrales-stub}}

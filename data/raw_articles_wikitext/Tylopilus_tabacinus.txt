@@ -1,0 +1,88 @@
+{{Short description|Species of fungus}}
+{{good article}}
+{{stack begin}}
+{{speciesbox
+| image = Tylopilus tabacinus 107775.jpg
+| image_caption =
+| taxon = Tylopilus tabacinus
+| authority = ([[Charles Horton Peck|Peck]]) [[Rolf Singer|Singer]] (1944)
+| synonyms_ref = <ref name="urlMycoBank: Tylopilus tabacinus"/>
+| synonyms = ''Boletus tabacinus'' <small>Peck (1896)</small><br>
+''Ceriomyces tabacinus'' <small>(Peck) [[William Alphonso Murrill|Murrill]] (1909)</small>
+}}
+{{mycomorphbox
+| name = ''Tylopilus tabacinus''
+| hymeniumType=pores
+| capShape = convex
+| capShape2 = flat
+| whichGills = adnate
+| stipeCharacter=bare
+| sporePrintColor=pinkish-brown
+| sporePrintColor2=reddish-brown
+| ecologicalType=mycorrhizal
+| howEdible=unknown
+}}
+{{stack end}}
+'''''Tylopilus tabacinus''''' is a species of [[bolete]] fungus in the family [[Boletaceae]]. It is characterized by a [[tawny (color)|tawny]]-brown [[pileus (mycology)|cap]] measuring up to {{convert|17.5|cm|in|abbr=on}} in diameter, and a reticulated [[stipe (mycology)|stem]] up to {{convert|16.5|cm|in|abbr=on}} long by {{convert|6|cm|in|abbr=on}} thick. A characteristic microscopic feature is the distinctive crystalline substance encrusted on the [[hypha]]e on the surface of the cap. The species is known from the eastern United States from [[Florida]] north to [[Rhode Island]], and west to [[Mississippi]], and from eastern Mexico. It is a [[mycorrhiza]]l species, and associates with [[oak]] and [[beech]] trees.
+
+==Taxonomy==
+The species was first described by American mycologist [[Charles Horton Peck]] in 1896 under the name ''Boletus tabacinus''.<ref name=Peck1896/> Peck collected the [[type (biology)|type]] specimens in [[ultisols|red clay]] on the bank of a roadside ditch in [[Alabama]].<ref name=Murrill1945/> [[William Alphonso Murrill]] transferred the species to his then newly described genus ''Ceriomyces'' in 1909;<ref name=Murrill1909/> this genus has since been subsumed into ''Boletus''.<ref name=Kirk2008/>  [[Rolf Singer]] moved the species to ''[[Tylopilus]]'' in 1944.<ref name=Singer1944/> Although Singer considered ''B.&nbsp;tabacinus'' to be the same species as ''[[Boletus pisciodorus]]'', this opinion was contested by [[William Alphonso Murrill]], who, after examining the type specimens of both species, considered them to be distinct. Murrill's conclusion was later corroborated by [[Alexander H. Smith]] and [[Harry D. Thiers]] in the 1971 [[monograph]] of boletes.<ref name=Smith1971/> In 1945, Singer defined the [[variety (botany)|varieties]] ''amarus'' and ''dubius'' that he collected in [[Florida]].<ref name=Singer1945/>
+
+==Description==
+
+The [[pileus (mycology)|caps]] of the fruit body initially have a rounded shape, but later become broadly convex and eventually flattened in age; they reach dimensions of {{convert|4.5|–|17.5|cm|in|abbr=on}} wide. The color ranges from yellowish brown to orangish brown to tobacco brown. The cap surface is dry with a somewhat velvet-like texture, although in larger specimens the surface is areolate (divided into small areas by cracks). The cap margin is even and wavy.<ref name=Bessette2001/>
+
+The tubes on the underside of the cap (comprising the [[hymenium]]) are dark brown to cinnamon-brown. The angular to circular pores are lighter in color than the tubes and number about 1–2 pores per millimeter, while the tubes are up to {{convert|1.4|cm|in|abbr=on}} long. The pore surface is depressed around the stem. The cap [[trama (mycology)|flesh]] is white, but typically stains purplish [[buff (color)|buff]] or pinkish buff when cut. The [[stipe (mycology)|stipe]] typically measures {{convert|4|–|16.5|cm|in|abbr=on}} by {{convert|2.5|–|6|cm|in|1|abbr=on}} thick. When young, it is bulbous, but matures to become more or less equal in width throughout. Its color is roughly the same as the cap, although it tends to be slightly darker in the upper portion, where it is reticulate (covered with a net-like patterns of ridges). The odor of the mushroom has been described variously as "not distinctive, fruity, fishy, or pungent", while the taste is indistinct to slightly bitter. The [[edible mushroom|edibility]] of the mushroom is unknown.<ref name=Bessette2001/> The variety ''amarus'' is similar in appearance, but has bitter-tasting flesh, while variety ''dubius'' has a lighter colored-cap and less distinctive reticulations on the apex of the stem.<ref name=Singer1945/>
+
+Fruit bodies produce a [[spore print]] ranging in color from pinkish brown to reddish brown. The spores measure 10–17 by 3.5–4.5&nbsp;μm, and are fusoid (somewhat spindle-shaped) to elliptical.<ref name=Bessette2001/>  Spores have a smooth surface, and a [[plage (mycology)|plage]] (a depressed area where the spore was once attached to the [[basidium]] via the [[sterigma]]).<ref name=Wolfe1981/> The spore walls are thin, up to 0.2&nbsp;μm.<ref name=Smith1971/> They are pale yellow to cream green in a solution of [[potassium hydroxide]], pale yellow-rust in [[Melzer's reagent]], and blue in [[Methyl blue]];<ref name=Wolfe1981/> without [[staining|stain]], they appear hyaline to pale yellow.<ref name=Bessette2001/> The [[pileipellis|cap cuticle]] is an interwoven trichodermium—a cellular arrangement whereby the [[hypha]]e are of roughly equal length and arranged perpendicularly to the surface.  The terminal (end) cells of the trichodermium are 6.5–11.5&nbsp;μm in diameter, and roughly equal in width throughout their length. They are encrusted with a crystalline substance, a feature that is uncommon in the Boletaceae. The hyphae of the tubes are 5.0–13.0&nbsp;μm in diameter. [[Clamp connection]]s are absent from the hyphae.<ref name=Wolfe1981/>
+
+The basidia (spore-bearing cells) of ''T.&nbsp;tabacinus'' are club-shaped and measure 23.5–37.0 by 8.5–13.0&nbsp;μm. The pleurocystidia ([[cystidia]] found on the inner surface of the tubes) are 45.0–60.0 by 6.5–12.5&nbsp;μm, lanceolate (lance-shaped) to narrowly fusoid-ventricose (enlarged in the middle and somewhat spindle-shaped). Cheilocystidia (cystidia on the outer edges of the tubes) are absent. The caulocystidia (cystidia on the stem) form the reticulations on the stem; they are usually club-shaped and measure 21.0–40.5 by 6.5–10.5&nbsp;μm.<ref name=Wolfe1981/>
+
+===Similar species===
+''[[Boletus pisciodorus]]'' is similar in form to ''Tylopilus tabacinus''. Unlike, ''T.&nbsp;tabacinus'' however, ''B.&nbsp;pisciodorus'' has spores that are hyaline in mass, and dark yellowish brown rather than hyaline when viewed with a light microscope. Further, ''B.&nbsp;pisciodorus'' has a fishy odor that is apparent in both fresh and dried specimens.<ref name=Murrill1945/>
+
+==Habitat and distribution==
+''Tylopilus tabacinus'' forms ectomycorrhizal associations with [[oak]]s,<ref name=Trappe1962/> and fruit bodies are usually found solitarily, scattered, or in groups on sandy soil under oaks or in mixed oak-pine woods from July to September.<ref name=Bessette2001/> In the United States, the mushroom is distributed from [[Florida]] north to [[Rhode Island]], and west to [[Mississippi]]. It has also been collected from a montane [[cloud forest]] of [[Mexican Beech]] (''Fagus grandifolia'' var. ''mexicana'') in the state of [[Hidalgo (state)|Hidalgo, Mexico]].<ref name=RodriguezRamirez2010/> The occurrence of the mushroom is "occasional to fairly common".<ref name=Bessette2001/> The varieties ''amarus'' and ''dubius'' are rare, known only from their [[type locality (biology)|original collection locations]] in [[Gainesville, Florida]].<ref name=Singer1945/>
+
+==See also==
+*[[List of North American boletes]]
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=Bessette2001>{{cite book |title=Boletes of North America |vauthors=Bessette AE, Roody WC, Bessette AR |year=2000 |publisher=Syracuse University Press |location=Syracuse, New York |pages=272–3 |isbn=978-0-8156-0588-1}}</ref>
+
+<ref name=Kirk2008>{{cite book |vauthors=Kirk PM, Cannon PF, Minter DW, Stalpers JA |title=Dictionary of the Fungi |url=https://archive.org/details/dictionaryfungit00kirk |url-access=limited |edition=10th |publisher=CABI |location=Wallingford, UK |year=2008 |page=[https://archive.org/details/dictionaryfungit00kirk/page/n138 128] |isbn=978-0-85199-826-8}}</ref>
+
+<ref name=Murrill1909>{{cite journal |author=Murrill WA. |title=The Boletaceae of North America: II |journal=Mycologia |year=1909 |volume=1 |issue=4 |pages=140–58 |jstor=3753125 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0001/004/0140.htm |doi=10.2307/3753125|url-access=subscription }}</ref>
+
+<ref name=Murrill1945>{{cite journal |author=Murrill WA. |title=''Boletus tabacinus'' Peck |journal=Mycologia |year=1945 |volume=37 |issue=6 |page=794 |jstor=3755139 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0037/006/0794.htm}}</ref>
+
+<ref name=Peck1896>{{cite journal |author=Peck CH. |title=New species of fungi |journal=Bulletin of the Torrey Botanical Club |year=1896 |volume=23 |issue=10 |pages=411–20 |doi=10.2307/2477789 |jstor=2477789}}</ref>
+
+<ref name=RodriguezRamirez2010>{{cite journal |vauthors=Rodríguez-Ramírez EC, Moreno CH |title=Bolete diversity in two relict forests of the Mexican beech (''Fagus grandifolia'' var. ''mexicana''; Fagaceae) |journal=American Journal of Botany |year=2010 |volume=97 |issue=5 |pages=893–8 |doi=10.3732/ajb.0900284 |pmid=21622453}}</ref>
+
+<ref name=Singer1944>{{cite journal |author=Singer R. |title=New genera of fungi. I |journal=Mycologia |year=1944 |volume=36 |issue=4 |pages=358–68 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0036/004/0358.htm |doi=10.2307/3754752|jstor=3754752 |url-access=subscription }}</ref>
+
+<ref name=Singer1945>{{cite journal |author=Singer R. |title=New Boletaceae from Florida (a preliminary communication) |journal=Mycologia |year=1945 |volume=37 |issue=6 |pages=797–9 |jstor=3755143 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0037/006/0797.htm |doi=10.2307/3755143|url-access=subscription }}</ref>
+
+<ref name=Smith1971>{{cite book |vauthors=Smith AH, Thiers HD |year=1971 |title=The Boletes of Michigan |location=Ann Arbor, Michigan |publisher=University of Michigan Press |pages=124–5 |url=http://quod.lib.umich.edu/f/fung1tc/AGK0838.0001.001/132?rgn=full+text;view=image}}</ref>
+
+<ref name=Trappe1962>{{cite journal |author=Trappe JM. |title=Fungus associates of ectotrophic mycorrhizae |journal=Botanical Review |year=1962 |volume=28 |issue=4 |pages=538–606 |jstor=4353659 |doi=10.1007/BF02868758|s2cid=42698903 }}</ref>
+
+<ref name="urlMycoBank: Tylopilus tabacinus">{{cite web |title=''Tylopilus tabacinus'' (Peck) Singer 1944 |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=291665 |publisher=[[MycoBank]]. International Mycological Association |access-date=2011-10-09}}</ref>
+
+<ref name=Wolfe1981>{{cite journal |author=Wolfe CB Jr. |title=Type studies in ''Tylopilus''. 1. Taxa described by Charles H. Peck |journal=Sydowia |year=1981 |volume=34 |pages=199–213 |issn=0082-0598}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|291665}}
+
+{{Taxonbar|from=Q4051901}}
+
+[[Category:Tylopilus|tabacinus]]
+[[Category:Fungi described in 1896]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Charles Horton Peck]]
+[[Category:Fungus species]]

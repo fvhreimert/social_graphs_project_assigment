@@ -1,0 +1,39 @@
+{{Short description|Species of fungus}}
+{{Taxobox
+| image = Limacella guttata 271887.jpg
+| image_caption =
+| regnum = [[Fungi]]
+| divisio = [[Basidiomycota]]
+| classis = [[Agaricomycetes]]
+| ordo = [[Agaricales]]
+| familia = [[Amanitaceae]]
+| genus = ''[[Limacella]]''
+| species = '''''L. guttata'''''
+| binomial_authority = ([[Pers.]]) [[Paul Konrad|Konrad]] & [[Maubl.]] (1949)
+| binomial = ''Limacella guttata''
+| synonyms_ref = 
+| synonyms = *''Agaricus guttatus'' <small>Pers. (1793)</small>
+}}
+
+'''''Limacella guttata''''' is a [[mushroom]]-forming [[fungus]] in the family [[Amanitaceae]]. ''Limacella guttata'' is found in Europe and North America, where it grows in damp woodlands typically dominated by [[deciduous]] plants such as [[Fraxinus|ash]], [[beech]], and [[elm]]. The [[botanical name|specific epithet]] ''guttata'' is derived from [[Latin]], meaning "with droplets".<ref name="Pacioni 1981"/>
+
+==References==
+{{Reflist|refs=
+
+<ref name="Pacioni 1981">{{cite book |author=Pacioni G. |title=Simon & Schuster's Guide to Mushrooms |url=https://books.google.com/books?id=LydcGycgWZ0C&pg=PA17 |year=1981 |publisher=Simon and Schuster |isbn=978-0-671-42849-5 |page=17}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|414594}}
+
+{{Taxonbar|from=Q10476906}}
+
+[[Category:Amanitaceae]]
+[[Category:Fungi described in 1793]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]
+
+
+{{Amanitaceae-stub}}

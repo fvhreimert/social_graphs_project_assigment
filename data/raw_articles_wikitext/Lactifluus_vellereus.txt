@@ -1,0 +1,69 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Lactarius vellereus.jpg
+| genus = Lactifluus
+| species = vellereus
+| authority = ([[Elias Magnus Fries|Fr.]]) [[Otto Kuntze|Kuntze]] (1891)
+| synonyms_ref = <ref name="urlMycoBank"/>
+| synonyms =''Agaricus vellereus'' <small>Fr. (1821)</small><br>
+''Lactarius vellereus'' <small>([[Elias Magnus Fries|Fr.]]) Fr. (1838)</small><br>
+''Lactarius vellereus'' var. ''vellereus'' <small>(1838)</small><br>
+''Galorrheus vellereus'' <small>(Fr.) [[P.Kumm.]] (1871)</small>
+}}
+{{mycomorphbox
+| name = ''Lactifluus vellereus''
+| whichGills = decurrent
+| capShape = depressed
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=mycorrhizal
+| sporePrintColor=white
+| howEdible=inedible
+}}
+
+'''''Lactifluus vellereus''''' (formerly '''''Lactarius vellereus'''''), commonly known as the '''fleecy milk-cap''', is a quite large [[fungus]] in the genus ''[[Lactifluus]]''. It is one of the two most common [[milk-cap]]s found with [[beech|beech trees]], with the other being ''[[Lactarius subdulcis]]''.
+
+==Taxonomy and systematics==
+''Lactifluus vellereus'' is one of a handful of north temperate milk caps that belong to the genus ''Lactifluus'' which has been separated from ''[[Lactarius (fungus)|Lactarius]]'' on [[phylogenetics|phylogenetic]] grounds.<ref name="verbeken2013"/> Its closest species is ''[[Lactifluus bertillonii|L. bertillonii]]'', with which it forms a rather isolated [[clade]] in the genus.<ref name="verbeken2013"/>
+
+==Description==
+Like other mushrooms in the family [[Russulaceae]], the ''L.&nbsp;vellereus'' [[basidiocarp|fruit body]] has crumbly, rather than fibrous, [[trama (mycology)|flesh]], and when this is broken the fungus exudes a milky [[latex]]. The mature [[Pileus (mycology)|caps]] are white to cream, funnel-shaped, and up to {{convert|30|cm|in|abbr=on}} in diameter. It has firm flesh, and a [[Stipe (mycology)|stipe]] which is shorter than the fruit body is wide. The [[Lamella (mycology)|gills]] are fairly distant (quite far apart), [[decurrent]], and narrow, and have brown specks from the drying milk.<ref name="T.Laessoe"/> The [[spore print]] is white in colour.<ref name="Phillips06"/>
+
+''[[Lactifluus bertillonii]]'' is closely related and very similar, but has hotter milk.<ref name="Phillips06"/> Another similar, but phylogenetically distant species is ''[[Lactarius controversus]]'', distinguishable mainly by its white gills and lack of rosy markings on the upper cap.
+
+==Distribution and habitat==
+
+The mushroom is found in [[deciduous]] woods, from late summer to early winter.<ref name="Phillips06"/> It is found in [[Great Britain|Britain]] and [[Europe]].
+
+==Edibility==
+The milk tastes mild on its own, but hot when tasted with the flesh.<ref name="Phillips06"/> It is considered inedible because of its peppery taste.
+
+==See also==
+*[[List of Lactifluus species|List of ''Lactifluus'' species]]
+
+==References==
+{{Reflist|refs=
+
+<!--unused<ref name="Arora2nd">{{cite book |author=Arora D. |year=1986 |title=Mushrooms Demystified |publisher=Ten Speed Press |isbn=0-89815-169-4 |url-access=registration |url=https://archive.org/details/mushroomsdemysti00aror_0 }}</ref>-->
+
+<ref name="Phillips06">{{cite book | author = Roger Phillips | year = 2006  | title = Mushrooms | publisher = Pan MacMillan | isbn = 0-330-44237-6}}</ref>
+
+<ref name="T.Laessoe">{{cite book | author = Laessoe T. | year = 1998 | title = Mushrooms (flexi bound) | publisher = Dorling Kindersley | isbn = 0-7513-1070-0}}</ref>
+
+<ref name="urlMycoBank">{{cite web |title=MycoBank: ''Lactifluus vellereus'' |url=http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=411776&Fields=All |publisher=International Mycological Association |work=MycoBank |access-date=2014-10-28}}</ref>
+
+<ref name="verbeken2013">{{Cite journal |author=Verbeken A, Nuytinck J. |title=Not every milkcap is a ''Lactarius'' |journal=Scripta Botanica Belgica |volume=51 |year=2013 |pages=162–168 |url=http://fungi.fr/Html/VerbekenNuytinckLactarius.pdf
+}}</ref>
+
+}}
+
+*{{Commons-inline}}
+
+{{Taxonbar|from=Q1349054}}
+
+[[Category:Lactifluus|vellereus]]
+[[Category:Inedible fungi]]
+[[Category:Fungi described in 1821]]
+[[Category:Fungi of Europe]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]

@@ -1,0 +1,256 @@
+{{Short description|Genus of fungi}}
+{{For|the coral genus|Cantharellus (coral)}}
+{{Use dmy dates|date=October 2023}}{{Automatic taxobox
+|image=2007-07-14 Cantharellus cibarius.jpg
+|image_caption=''[[Cantharellus cibarius]]''
+|taxon=Cantharellus
+|authority=[[Michel Adanson|Adans.]] ex [[Elias Magnus Fries|Fr.]]
+|type_species=''[[Cantharellus cibarius]]''
+|type_species_authority=Fr.
+}}
+{{mycomorphbox
+|name= Cantharellus 
+|whichGills=decurrent
+|capShape=infundibuliform
+|hymeniumType=ridges
+|stipeCharacter=bare
+|ecologicalType=mycorrhizal
+|sporePrintColor=yellow
+|howEdible=choice
+|howEdible2=edible}}
+
+'''''Cantharellus''''' is a [[genus]] of mushrooms, commonly known as '''chanterelles''' ({{IPAc-en|ˌ|ʃ|æ|n|t|ə|ˈ|r|ɛ|l}}), [[Chanterelle|a&nbsp;name]] which can also refer to the type species, ''[[Cantharellus cibarius]]''. They are [[mycorrhiza]]l fungi, meaning they form [[symbiotic]] associations with [[plant]]s. Chanterelles may resemble a number of other species, some of which are [[Mushroom poisoning|poisonous]].
+
+The name comes from the [[Greek language|Greek]] word ''[[kantharos]]'' ('tankard, cup'). Chanterelles are one of the most recognized and harvested groups of [[edible mushroom]]s.
+
+{{cladogram|align=right|title=
+|clade=
+{{clade
+|style=font-size:75%;line-height:75%
+|label1=
+|1={{clade
+    |1={{clade
+           |1={{clade
+                 |1=''[[Cantharellus appalachiensis|C. appalachiensis]]''
+                 |2=''[[Cantharellus minor|C. minor]]''
+                 }}
+           |2=''[[Cantharellus cinnabarinus|C. cinnabarinus]]''
+           }}
+    |2={{clade
+           |1={{clade
+                 |1={{clade
+                       |1={{clade
+                             |1={{clade
+                                   |1=''[[Cantharellus subalbidus|C. subalbidus]]''
+                                   |2=''[[Cantharellus cibarius|C. cibarius]]''
+                                   }}
+                             |2=''[[Cantharellus cascadensis|C. cascadensis]]''
+                             }}
+                       |2=''[[Cantharellus formosus|C. formosus]]''
+                       }}
+                 |2=''[[Cantharellus persicinus|C. persicinus]]''
+                 }}
+           |2=''[[Cantharellus lateritius|C. lateritius]]''
+           }}
+   }}
+}}
+|caption=[[Phylogenetics|Phylogenetic]] relationships of some ''Cantharellus'' species based on [[ribosomal RNA]] sequences.<ref name=mon06/>
+}}
+
+== Description ==
+Mushrooms in the genus are generally shaped like cups or trumpets. The hue is mostly yellow, with the [[Lamella (mycology)|gills]] sometimes pinkish.<ref>{{Cite web | vauthors = Kuo M |date=2015 |title=Chanterelles and Trumpets: Cantharellus and Craterellus |url=https://www.mushroomexpert.com/cantharellaceae.html |access-date=2023-10-30 |website=MushroomExpert.com}}</ref>
+
+=== Similar species ===
+ ridged [[hymenium]] ("false gills") on the underside of the [[Pileus (mycology)|cap]] of ''Cantharellus cibarius'']]
+
+The false chanterelle (''[[Hygrophoropsis aurantiaca]]'') has finer, more orange gills and a darker cap. It is sometimes regarded as [[Mushroom poisoning|poisonous]].<ref>{{cite book |title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi |vauthors=Miller HR, ((Miller OK Jr)) |author-link2=Orson K. Miller Jr. |publisher=[[FalconGuides]] |year=2006 |isbn=978-0-7627-3109-1 |location=Guilford, Connecticut |page=332}}</ref><ref>{{cite book |author=Jordan M. |title=The Encyclopedia of Fungi of Britain and Europe |publisher=Frances Lincoln |year=2004 |isbn=978-0-7112-2378-3 |location=London, United Kingdom |page=334}}</ref>
+
+The very similar jack-o'-lantern mushroom (''[[Omphalotus olearius]]'') and its sister species (''[[Omphalotus olivascens]]'') are very poisonous, though not lethal. They have true gills (unlike chanterelles) which are thinner, have distinct crowns, and generally do not reach up to the edge. Additionally, the jack-o-lantern mushroom is [[bioluminescent]] and grows on wood – possibly buried – whereas ''Cantharellus'' species grow on the ground.
+
+Species in the genera ''[[Craterellus]]'', ''[[Gomphus (fungus)|Gomphus]]'', and ''[[Polyozellus]]'' may also look like chanterelles.{{Citation needed|date=October 2023}}
+
+== Taxonomy ==
+
+The genus ''Cantharellus'' is large and has a complex [[Taxonomy (biology)|taxonomic]] history. ''[[Index Fungorum]]'' lists over 500 scientific names that have been applied to the genus, although the number of currently valid names is less than 100.<ref name="pilz03" /> In addition to [[Synonym (taxonomy)|synonymy]], many species have been moved into other genera such as ''[[Afrocantharellus]]'',<ref name="Tibuhwa 2012" /> ''[[Arrhenia]]'', ''Craterellus'', ''Gomphus'', ''[[Hygrophoropsis]]'', and ''[[Pseudocraterellus]]''. [[Molecular phylogenetic]] analyses are providing new information about relationships between chanterelle populations.
+The genus has been divided into eight subgenera ''[[Cantharellus subg. Afrocantharellus|Afrocantharellus]]'' Eyssart. & Buyck, [[Cantharellus subg. Cantharellus|''Cantharellus'']] Adans. ex Fr., [[Cantharellus subg. Cinnabarinus|''Cinnabarinus'']] Buyck & V. Hofst., [[Cantharellus subg. Magni|''Magni'']] T. Cao & H.S. Yuan, [[Cantharellus subg. Parvocantharellus|''Parvocantharellus'']] Eyssart. & Buyck, [[Cantharellus subg. Pseudocantharellus|''Pseudocantharellus'']] Eyssart. & Buyck, and [[Cantharellus subg. Rubrini|''Rubrini'']] Eyssart. & Buyck.<ref>{{cite journal | vauthors = Zhang YZ, Qin HZ, Chen ZH, Lin WF, Liang ZQ, Jiang S, Zeng NK | title = Updated taxonomy of Chinese ''Cantharellus'' subgenera ''Afrocantharellus'' and ''Magni'' (Hydnaceae, Cantharellales): Three new taxa and amended descriptions of one previous species | journal = Frontiers in Microbiology | volume = 14 | article-number = 1109831 | date = 2023-03-17 | pmid = 37007503 | pmc = 10064096 | doi = 10.3389/fmicb.2023.1109831 | doi-access = free }}</ref>
+
+{{clade
+       |1={{clade|1={{clade
+         |1={{clade
+           |1={{clade
+             |1={{clade
+             |1=''[[Cantharellus subg. Rubrini|Rubrini]]'' Eyssart. & Buyck.
+             |2=''[[Cantharellus subg. Cantharellus|Cantharellus]]'' Adans. ex Fr.
+             }}
+             |2=''[[Cantharellus subg. Pseudocantharellus|Pseudocantharellus]]'' Eyssart. & Buyck
+           }}
+           |label2=
+           |2= {{clade
+             |1=''[[Cantharellus subg. Parvocantharellus|Parvocantharellus]]'' Eyssart. & Buyck
+             |2=''[[Cantharellus subg. Cinnabarinus|Cinnabarinus]]'' Buyck & V. Hofst.
+             }}
+            }}}}
+       |2={{clade
+             |1=''[[Cantharellus subg. Afrocantharellus|Afrocantharellus]]'' Eyssart. & Buyck
+             |2=''[[Cantharellus subg. Magni|Magni]]'' T. Cao & H.S. Yuan
+             }}              
+   }}|style1=font-size:90%|label1=Cantharellus }}
+
+=== Selected species ===
+{{Columns-list|colwidth=35em|
+* ''[[Cantharellus afrocibarius|C. afrocibarius]]'' – Africa<ref name="Buyck 2013"/>
+* ''[[Cantharellus altipes|C. altipes]]'' – southeastern United States<ref name=buyckFD/>
+* ''[[Cantharellus amazonensis|C. amazonensis]]'' – South America
+* ''[[Cantharellus amethysteus|C. amethysteus]]'' – Europe
+* ''[[Cantharellus anzutake|C. anzutake]]'' – Japan, Korea
+* ''[[Cantharellus appalachiensis|C. appalachiensis]]'' – eastern North America, China<ref name=shao11/>
+* ''[[Cantharellus aurantioconspicuus|C. aurantioconspicuus]]'' – Brazil<ref name="Wartchow 2012"/>
+* ''[[Cantharellus californicus|C. californicus]]'' – the oak chanterelle
+* ''[[Cantharellus cascadensis|C. cascadensis]]'' – the Pacific Northwest of North America
+* ''[[Cantharellus cibarioides|C. cibarioides]]'' – Africa<ref name="Buyck 2014"/>
+* ''[[Cantharellus cibarius|C. cibarius]]'' – golden chanterelle, Europe
+* ''[[Cantharellus chicagoensis|C. chicagoensis]]'' - [[Chicago, United States]]
+* ''[[Cantharellus cinereus|C. cinereus]]'' – the ashen chanterelle
+* ''[[Cantharellus cinnabarinus|C. cinnabarinus]]''- red chantrelle
+* ''[[Cantharellus coccolobae|C. coccolobae]]'' – the Caribbean, the Bahamas, and Florida
+* ''[[Cantharellus concinnus|C. concinnus]]'' – the Australian chanterelle
+* ''[[Cantharellus congolensis|C. congolensis]]'' - Africa<ref name="Tibuhwa 2012"/>
+* ''[[Cantharellus eccentricus|C. eccentricus]]'' – New Caledonia<ref name="Buyck 2014"/>
+* ''[[Cantharellus densifolius|C. densifolius]]''<ref name="Tibuhwa 2012"/>
+* ''[[Cantharellus elegans|C. elegans]]''
+* ''[[Cantharellus flavus|C. flavus]]'' - midwestern and southern United States<ref name=foltz2012/>
+* ''[[Cantharellus floridulus|C. floridulus]]''<ref name="Tibuhwa 2012"/>
+* ''[[Cantharellus formosus|C. formosus]]'' –  [[California]] and the [[Pacific Northwest]] of [[North America]]
+* ''[[Cantharellus friesii|C. friesii]]'' – the orange chanterelle
+* ''[[Cantharellus garnierii|C. garnierii]]''<ref name="Tibuhwa 2012"/>
+* ''[[Cantharellus gracilis|C. gracilis]]'' – Africa
+* ''[[Cantharellus guyanensis|C. guyanensis]]'' – South America
+* ''[[Cantharellus humidicolus|C. humidicolus]]'' – Africa
+* ''[[Cantharellus incrassatus|C. incrassatus]]'' – Malaysia<ref name="Buyck 2014"/>
+* ''[[Cantharellus isabellinus|C. isabellinus]]''<ref name="Tibuhwa 2012"/>
+* ''[[Cantharellus lateritius|C. lateritius]]'' – the smooth chanterelle
+* ''[[Cantharellus lewisii|C. lewisii]]'' – southeastern United States<ref name=buyckFD/>
+* ''[[Cantharellus lilacinus|C. lilacinus]]'' – Australia
+* ''[[Cantharellus luteopunctatus|C. luteopunctatus]]'' – Africa
+* ''[[Cantharellus minor|C. minor]]''
+* ''[[Cantharellus miomboensis|C. miomboensis]]'' – Africa
+* ''[[Cantharellus neocaledonicus|C. neocaledonicus]]'' – [[New Caledonia]]<ref name="Buyck 2014"/>
+* ''[[Cantharellus pallens|C. pallens]]'' - frosted chanterelle
+* ''[[Cantharellus persicinus|C. persicinus]]'' – the peach chanterelle
+* ''[[Cantharellus phasmatis|C. phasmatis]]'' - the ghost chanterelle, midwestern United States<ref name=foltz2012/>
+* ''[[Cantharellus pleurotoides|C. pleurotoides]]'' – Guyana<ref name=Henkel2006/>
+* ''[[Cantharellus pseudocibarius|C. pseudocibarius]]''<ref name="Tibuhwa 2012"/>
+* ''[[Cantharellus pseudoformosus|C. pseudoformosus]]'' – found with [[Cedrus deodara|deodar cedar]] in [[India]]<ref name=kumari11/>
+* ''[[Cantharellus protectus|C. protectus]]'' – South America
+* ''[[Cantharellus quercophilus|C. quercophilus]]'' – southeastern United States<ref name=buyck10/>
+* ''[[Cantharellus rhodophyllus|C. rhodophyllus]]''<ref name="Tibuhwa 2012"/>
+* ''[[Cantharellus roseocanus|C. roseocanus]]''
+* ''[[Cantharellus ruber|C. ruber]]''<ref name="Tibuhwa 2012"/>
+* ''[[Cantharellus spectaculus|C. spectaculus]]'' - the spectacular chanterelle, midwestern United States<ref name=foltz2012/>
+* ''[[Cantharellus subalbidus|C. subalbidus]]'' – western North America
+* ''[[Cantharellus sublaevis|C. sublaevis]]'' – Africa<ref name="Buyck 2014"/>
+* ''[[Cantharellus subpruinosus|C. subpruinosus]]'' – Europe
+* ''[[Cantharellus tabernensis|C. tabernensis]]'' – southeastern United States<ref name=feibelman/> and Mexico<ref name="MontoyaEtAl2021"/>
+* ''[[Cantharellus tanzanicus|C. tanzanicus]]'' – Africa
+* ''[[Cantharellus tenuithrix|C. tenuithrix]]'' – southeastern United States<ref name=buyckFD/>
+* ''[[Cantharellus texensis|C. texensis]]'' – southeastern United States<ref name=buyck11/>
+* ''[[Cantharellus tomentosus|C. tomentosus]]''<ref name="Tibuhwa 2012"/>
+* ''[[Cantharellus vaginatus|C. vaginatus]]'' – China<ref name=shao11/>
+* ''[[Cantharellus zangii|C. zangii]]'' – China<ref name=Tian2012/>
+}}
+
+=== Etymology ===
+The name comes from the [[Greek language|Greek]] κάνθαρος, ''[[kantharos]]'' 'tankard, cup'.<ref name="pilz03" /><ref>{{cite web | url = http://dictionary.reference.com/browse/chanterelle | title = Chanterelle | work = dictionary.com }}</ref>
+
+==Distribution and habitat==
+''Cantharellus'' species are found throughout the world in association with [[mycorrhiza]]l host plants, including [[Africa]], [[Europe]], [[Asia]], [[North America]], [[South America]], and [[Australia]].
+
+== Ecology ==
+Chanterelles are associated with either [[conifer]]s or [[hardwood]] trees, depending on species. They are often found with [[Quercus|oak]]s in [[California]],<ref name=arora79/> [[Texas]].<ref name=metz92/> and Mexico.<ref name="MontoyaEtAl2021"/> In [[Scotland]], chanterelles grow in mixed forests of [[silver birch]] and [[Scots pine]], especially when the forest has plenty of moist, [[moss]]y undergrowth. In [[Fife]] they are common under [[beech]]. They are usually (but not always) found in the same places as wild [[Vaccinium|blueberries]]. In [[Spain]] they associate with [[sweet chestnut]]. They are abundant after from late July through [[autumn]]. In the coastal forests of Washington and British Columbia, they are often found in damp, mossy riparian zones in the vicinity of [[western hemlock]].
+
+==Uses==
+Many species of chanterelles contain [[antioxidant]] [[carotenoid]]s, such as [[beta-carotene]] in ''C.&nbsp;cibarius'' and ''C.&nbsp;minor'', and [[canthaxanthin]] in ''C.&nbsp;cinnabarinus'' and ''C.&nbsp;friesii''.  They also contain significant amounts of [[vitamin&nbsp;D]].<ref name="pilz03" />
+
+Their mycorrhizal nature makes the species very difficult to [[fungiculture|cultivate]].
+
+=== Culinary ===
+{{More citations needed|section|date=October 2023}}
+
+
+Chanterelles in general go well with [[egg (food)|eggs]], [[curry]], [[chicken]], [[pork]], [[fish]], [[beef]] and [[veal]], can be used as toppings on [[pizza]]s, be [[stewed]], [[marinated]], [[sauteed]], or used as filling for stuffed [[crêpe]]s. Of course these are just examples; chanterelles are versatile and can be added as an ingredient to most dishes.
+
+In [[European cuisine]], chanterelles are often served with [[venison]]. A traditional method of preparing these mushrooms is sauteed and then used to make [[scrambled eggs]].
+
+In Polish tradition, chanterelles are used for making creamy sauces that top chicken.
+
+Many mushroom enthusiasts just like chanterelles sauteed in butter, with a pinch of salt, a clove of fresh crushed garlic, and some whipping cream.  This recipe is said to bring out the subtle flavor of the chanterelle without masking it with other aromas.  This recipe has the added benefit of retaining flavor even after being stored frozen.
+
+It is a feature of [[Viennese cuisine]].<ref name=phil65/>
+
+==== Preparation and storage ====
+
+
+Since the mushrooms hold a lot of [[water]], they are often prepared using a "dry sauté" method: after cleaning, the mushrooms are sliced and put in a covered pan over high heat with no oil or butter.  The mushrooms then release much of their water, which can be allowed to boil off or be poured off and used as a stock.  Many people often cook the mushrooms with butter because it "sweetens" them.
+
+Chanterelles can also be [[pickled]] in [[brine]].  Salted water is brought to a boil and pickling spices such as [[peppercorn]]s, [[mustard seed]]s, and [[thyme]] are added.  The mushrooms are then cooked in this solution for 5–10 minutes before being transferred to [[sterilization (microbiology)|sterilized]] bottles along with some of the liquid.  Sliced [[garlic]] and [[dill]] can be added to the bottles for extra flavor.  The remaining liquid forms an excellent [[stock (food)|stock]] for making [[soup]].  When pickled in this way, chanterelles can last from six to twelve months.
+
+Another storage technique is [[drying (food)|drying]]. Mushrooms can be dried with gentle heat in an oven at temperatures of {{convert|65|°C|°F|round=5|abbr=on}} or less. [[Freeze drying|A&nbsp;vacuum process]] is also practical on large orders. A few hours before final preparation, put dry mushrooms in water which they absorb for returning to nearly original size. Mushrooms can then be used as fresh and will last indefinitely as dry.  
+
+Fresh chanterelles can generally be stored up to ten days in a [[refrigerator]].
+
+== References ==
+{{Reflist|refs=
+<ref name="Buyck 2014">{{cite journal |author=Buyck B. |title=Exploring the diversity of "smooth chanterelles" (''Cantharellus'', Cantharellales) |journal=Cryptogamie, Mycologie |year=2014 |volume=35 |issue=1 |pages=23–40 |doi=10.7872/crym.v35.iss1.2014.23|s2cid=85649542 }}</ref>
+
+<ref name=mon06>{{cite journal | vauthors = Moncalvo JM, Nilsson RH, Koster B, Dunham SM, Bernauer T, Matheny PB, Porter TM, Margaritescu S, Weiss M, Garnica S, Danell E, Langer G, Langer E, Larsson E, Larsson KH, Vilgalys R | display-authors = 6 | title = The cantharelloid clade: dealing with incongruent gene trees and phylogenetic reconstruction methods | journal = Mycologia | volume = 98 | issue = 6 | pages = 937–948 | year = 2006 | pmid = 17486970 | doi = 10.3852/mycologia.98.6.937 }}</ref>
+
+<ref name=phil65>{{cite book | vauthors = Philpot R |title=Viennese Cookery|year=1965 |pages=139–140|publisher=Hodder & Staughton |location=London }}</ref>
+
+<ref name=arora79>{{cite book| vauthors = Arora D |author-link=David Arora|title=Mushrooms Demystified|publisher=[[Ten Speed Press]]|year=1979|isbn=0-89815-009-4 }}</ref>
+
+<ref name=metz92>{{cite book| vauthors = Metzler S |title=Texas Mushrooms: A Field Guide|publisher=[[University of Texas Press]]|edition = 1st |year=1992|isbn=0-292-75125-7 }}</ref>
+
+<ref name=pilz03>{{cite book |title=Ecology, and management of commercially harvested chanterelle mushrooms. Gen. Tech. Rep. PNW-GTR-576 |vauthors=Pilz D, Norvell L, Danell E, Molina R |date=March 2003 |publisher=Department of Agriculture, Forest Service, Pacific Northwest Research Station|location=Portland, OR |url=http://www.fs.fed.us/pnw/pubs/pnw_gtr576.pdf|access-date=2011-03-25}}</ref>
+
+<ref name=buyck11>{{cite journal | vauthors = Buyck B, Cruaud C, Couloux A, Hofstetter V | title = Cantharellus texensis sp. nov. from Texas, a southern lookalike of C. cinnabarinus revealed by tef-1 sequence data | journal = Mycologia | volume = 103 | issue = 5 | pages = 1037–1046 | date = Sep–Oct 2011 | pmid = 21558500 | doi = 10.3852/10-261 | s2cid = 29384238 }}</ref>
+
+<ref name=buyck10>{{cite journal| vauthors = Buyck B, Lewis DP, Eyssartier G, Hofstetter V |title=''Cantharellus quercophilus'' sp. nov. and its comparison to other small, yellow or brown American chanterelles|journal=Cryptogamie, Mycologie|date= March 2010 |volume=31|issue=1|pages=17–33}}</ref>
+
+<ref name="Buyck 2013">{{cite journal |vauthors=Buyck B, Kauff F, Cruaud C, Hofstetter V |title=Molecular evidence for novel ''Cantharellus'' (Cantharellales, Basidiomycota) from tropical African miombo woodland and a key to all tropical African chanterelles |journal=Fungal Diversity |year=2013 |volume=58 |issue=1 |pages=281–98 |doi=10.1007/s13225-012-0215-4|s2cid=14535505 }}</ref>
+
+<ref name=Henkel2006>{{cite journal | vauthors = Henkel TW, Aime MC, Mehl H, Miller SL | title = Cantharellus pleurotoides, a new and unusual basidiomycete from Guyana | journal = Mycological Research | volume = 110 | issue = Pt 12 | pages = 1409–1412 | date = December 2006 | pmid = 17123813 | doi = 10.1016/j.mycres.2006.09.010 }}</ref>
+
+<ref name=kumari11>{{cite journal|title=''Cantharellus pseudoformosus'', a new species associated with ''Cedrus deodara'' from India| vauthors = Kumari D, Reddy MS, Upadhyay RC |doi=10.1007/s10267-010-0080-5| date = March 2011 |journal=Mycoscience |volume=52 |issue=2 |pages=147–151 |s2cid=86722305 |doi-access=free }}</ref>
+
+<ref name=buyckFD>{{cite journal|title=The contribution of ''tef-1'' sequences to species delimitation in the ''Cantharellus cibarius'' complex in the southeastern USA| vauthors = Buyck B, Hofstetter V |journal=Fungal Diversity|volume=49|issue=1|pages=35–46|doi=10.1007/s13225-011-0095-z| date = July 2011 |s2cid=23603456}}</ref>
+
+<ref name=shao11>{{cite journal|title=''Cantharellus'' in southwestern China: a new species and a new record| vauthors = Shao SC, Tian XF, Liu PG |journal=Mycotaxon|volume=116|date=April–June 2011|pages=437–446|doi=10.5248/116.437|doi-access=free}}</ref>
+
+<ref name=feibelman>{{cite journal|title=''Cantharellus Tabernensis'': A New Species from the Southeastern United States| vauthors = Feibelman TP, Bennett JW, Cibula WG |journal=Mycologia|volume=88|issue=2|date=Mar–Apr 1996|pages=295–301|jstor=3760934 |doi=10.2307/3760934 }}</ref>
+
+<ref name=foltz2012>{{cite journal | vauthors = Foltz MJ, Perez KE, Volk TJ | title = Molecular phylogeny and morphology reveal three new species of Cantharellus within 20 m of one another in western Wisconsin, USA | journal = Mycologia | volume = 105 | issue = 2 | pages = 447–461 | date = October 2012 | pmid = 23080022 | doi = 10.3852/12-181 | s2cid = 2218602 | url = https://zenodo.org/record/894427 }}</ref>
+
+<ref name="MontoyaEtAl2021">{{cite journal | vauthors = Montoya L, Herrera M, Bandala VM, Ramos A | title = Two new species and a new record of yellow ''Cantharellus'' from tropical ''Quercus'' forests in eastern Mexico with the proposal of a new name for the replacement of ''Craterellus confluens'' | journal = MycoKeys | issue = 80 | pages = 91–114 | date = 2021-05-20 | pmid = 34084073 | pmc = 8159916 | doi = 10.3897/mycokeys.80.61443 | publisher = Pensoft Publishers | doi-access = free }}</ref>
+
+<ref name=Tian2012>{{cite journal |vauthors=Tian XF, Buyck B, Shao SC, Liu PG, Fang Y |title=''Cantharellus zangii'', a new subalpine basidiomycete from southwestern China |journal=Mycotaxon |year=2012 |volume=120 |pages=99–103 |doi=10.5248/120.99|doi-access=free }}</ref>
+
+<ref name="Tibuhwa 2012">{{cite journal | vauthors = Tibuhwa DD, Saviæ S, Tibell L, Kivaisi AK | title = Afrocantharellus gen. stat. nov. is part of a rich diversity of African Cantharellaceae | journal = IMA Fungus | volume = 3 | issue = 1 | pages = 25–38 | date = June 2012 | pmid = 23155498 | pmc = 3399100 | doi = 10.5598/imafungus.2012.03.01.04 }}</ref>
+
+<ref name="Wartchow 2012">{{cite journal |vauthors=Wartchow F, Buyck B, Maia LC |title=''Cantharellus aurantioconspicuus'' (Cantharellales), a new species from Pernambuco, Brazil |journal=Nova Hedwigia |year=2012 |volume=94 |issue=1–2 |pages=129–37 |doi=10.1127/0029-5035/2012/0094-0129}}</ref>
+
+}}
+
+== External links ==
+{{Commons category|Cantharellus}}
+* {{cite web | vauthors = Freedman L | publisher = The Mycological Society of San Francisco | work = A MykoWeb | url = http://www.mykoweb.com/cookbook/chanterelle.html | title = Chanterelle Recipes | access-date = 28 July 2003 }}
+* {{cite web | work = The Montara Mountain Native Plant Pages | vauthors = Kozak C | date = 13 May 1998 | url =   http://plants.montara.com/mushrooms/MListPages/MFamPages/cantharella.html | title = Info on family Cantharellaceae | access-date = 28 July 2003 }}
+* {{cite web | title = Cantharellus | url = https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Undef&id=36065&lvl=3&keep=1&srchmode=1&unlock | work = NBCI taxonomy Browser | publisher = U.S. National Library of Medicine | access-date = 28 July 2003 }}
+
+{{Fungi classification|state=collapsed}}
+{{Non-timber forest products}}
+{{Taxonbar|from=Q922335}}
+{{Authority control}}
+
+[[Category:Cantharellus| ]]
+[[Category:Agaricomycetes genera]]
+[[Category:Edible fungi]]

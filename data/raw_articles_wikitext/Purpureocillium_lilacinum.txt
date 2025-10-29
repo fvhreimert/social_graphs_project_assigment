@@ -1,0 +1,120 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Paecilomyces lilacinus.jpg
+| image_caption = Divergent phialides and long, tangled chains of elliptical conidia borne from more complex fruiting structures characteristic of ''Purpureocillium lilacinum''; magnification 460X.
+| genus = Purpureocillium
+| species = lilacinum
+| authority = (Thom) Luangsa-ard, Hou- braken, Hywel-Jones & Samson (2011)
+| synonyms_ref = <ref name="urlMycoBank: Paecilomyces lilacinus"/>
+| synonyms = ''Paecillium'' <small>Luangsa-ard, Hywel-Jones & Samson [[nomen provisorium|nom. prov.]] (2007)<ref name=LuangsaArd2007/></small><br>
+''Penicillium lilacinum'' <small>Thom (1910)</small><br>
+''Penicillium amethystinum'' <small>Wehmer (1923)</small><br>
+''Spicaria rubidopurpurea'' <small>Aoki (1941)</small>
+''Paecilomyces lilacinus'' <small>([[Charles Thom|Thom]]) Samson (1974)</small>
+}}
+
+'''''Purpureocillium lilacinum''''' is a species of filamentous [[fungus]] in the family [[Ophiocordycipitaceae]].<ref name="Spatafora2015">{{cite journal|author=Spatafora|display-authors=etal|year=2015|title=New 1F1N Species Combinations in ''Ophiocordycipitaceae'' (''Hypocreales'')|journal=IMA Fungus|volume=6|issue=2|pages=357–362|doi=10.5598/imafungus.2015.06.02.07|pmid=26734546|pmc=4681259}}</ref> It has been isolated from a wide range of habitats, including cultivated and uncultivated [[soil]]s, [[forest]]s, [[grassland]], [[desert]]s, [[estuary|estuarine]] sediments and sewage sludge, and insects. It has also been found in [[nematode]] eggs, and occasionally from females of root-knot and cyst nematodes. In addition, it has frequently been detected in the [[rhizosphere]] of many crops. The species can grow at a wide range of temperatures – from {{convert|8|to|38|C|F}} for a few isolates, with optimal growth in the range {{cvt|26|to|30|C|F}}. It also has a wide [[pH]] tolerance and can grow on a variety of substrates.<ref name=Samson1974/><ref name=Anderson1995/> ''P.&nbsp;lilacinum'' has shown promising results for use as a [[Biological pest control|biocontrol agent]] to control the growth of destructive [[root-knot nematodes]].
+
+==Taxonomy and phylogeny==
+The species was originally described by American mycologist [[Charles Thom]] in 1910, under  than name ''Penicillium lilacinum''.<ref name=Thom1910/> Taxonomic synonyms include ''Penicillium amethystinum'' Wehmer and ''Spicaria rubidopurpurea'' Aoki.<ref name="urlMycoBank: Paecilomyces lilacinus"/> In 1974, Robert A. Samson transferred the species to ''[[Paecilomyces]]''.<ref name=Samson1974/> Publications in the 2000s (decade) indicated that the genus ''Paecilomyces'' was not [[monophyletic]],<ref name=Inglis2006/> and that close relatives were ''Paecilomyces nostocoides'', ''Isaria takamizusanensis'' and ''Nomuraea atypicola''.<ref name=Sung2007/> The new genus ''Purpureocillium'' was created to hold the taxon. The generic name refers to the purple conidia produced by the fungus.<ref name=LuangsArd2011>{{cite journal |vauthors=Luangsa-Ard J, Houbraken J, van Doorn T, Hong SB, Borman AM, Hywel-Jones NL, Samson RA |title=''Purpureocillium'', a new genus for the medically important ''Paecilomyces lilacinus'' |journal=FEMS Microbiology Letters |year=2011 |volume=321 |issue=2 |pages=141–9 |doi=10.1111/j.1574-6968.2011.02322.x |pmid=21631575|doi-access=free }}</ref>
+
+==Description==
+''Purpureocillium lilacinum'' forms a dense [[mycelium]] which gives rise to [[conidium|conidiophores]]. These bear [[phialides]] from the ends of which spores are formed in long chains. Spores germinate when suitable moisture and nutrients are available. Colonies on malt agar grow rather fast, attaining a diameter of 5–7&nbsp;cm within 14&nbsp;days at {{convert|25|C|F}}, consisting of a basal felt with a [[wikt:floccose|floccose]] overgrowth of aerial [[mycelium]]; at first white, but when sporulating changing to various shades of [[wine (color)|vinaceous]]. The reverse side is sometimes uncolored but usually in vinaceous shades. The vegetative [[hypha]]e are smooth-walled, [[hyaline]], and 2.5–4.0&nbsp;[[micrometre|μm]] wide. Conidiophores arising from submerged hyphae, 400–600&nbsp;μm in length, or arising from aerial hyphae and half as long. Phialides consisting of a swollen basal part, tapering into a thin distinct neck. [[Conidium|Conidia]] are in divergent chains, ellipsoid to [[wikt:fusiform|fusiform]] in shape, and smooth walled to slightly roughened. [[Chlamydospore]]s are absent.<ref name=Samson1974/>
+
+==Life cycles==
+
+''Purpureocillium lilacinum'' is highly adaptable in its life strategy: depending on the availability of nutrients in the surrounding microenvironments it may be [[Entomopathogenic fungus|entomopathogenic]],<ref name=Rombach1986/><ref name=Marti2006/><ref name=Fiedler2007/> [[mycoparasitic]],<ref name=Gupta1993/> [[saprophytic]],<ref name=TigranoMilani1995/> as well as [[Nematophagous fungus|nematophagous]].
+
+==Human pathogenicity==
+''Purpureocillium lilacinum'' is an infrequent cause of human disease.<ref name=Saberhagen1997/><ref name=Westenfeld1996/> Most reported cases involve patients with compromised [[immune system]]s, indwelling foreign devices, or [[intraocular lens]] implants.<ref name=ODay1977/><ref name=Pettit1980/> Research of the last decade suggests it may be an emerging pathogen of both immunocompromised<ref name=Safdar2002/> as well as immunocompetent adults.<ref>[https://www.cdc.gov/ncidod/EID/vol9no9/02-0654.htm Carey J, D’Amico R, Sutton DA, Rinaldi MG. Paecilomyces lilacinus vaginitis in an immunocompetent patient. Emerg Infect Dis &#91;serial online&#93; 2003 Sep]</ref>
+It is one of the most common species causing [[hyalohyphomycosis]] along with ''[[Paecilomyces variotii]]''.<ref name=LuangsArd2011/>
+
+==Biocontrol agent==
+'', shown here.]]
+Plant-parasitic nematodes cause significant economic losses to a wide variety of crops. Chemical control is a widely used option for plant-parasitic nematode management. However, chemical nematicides are now being reappraised in respect of [[environmental hazard]], high costs, limited availability in many developing countries or their diminished effectiveness following repeated applications.
+
+=== Control of plant-parasitic nematodes ===
+''Purpureocillium lilacinum'' was first observed in association with nematode eggs in 1966<ref name=Lysek1966/> and the fungus was subsequently found parasitising the eggs of ''[[Meloidogyne incognita]]'' in [[Peru]].<ref name=Jatala1979/> It has now been isolated from many cyst and root-knot nematodes and from soil in many locations.<ref name="S1991">{{cite book| last =Stirling |first =GR | title =Biological Control of Plant Parasitic Nematodes |publisher =CABI Publishing | year =1991 | location =UK | pages =282 }}</ref><ref name=Stirling1991/> Several successful field trials using ''P.&nbsp;lilacinum'' against pest nematodes were conducted in Peru.<ref name=Jatala1979/> The Peruvian isolate was then sent to nematologists in 46 countries for testing, as part of the International Meloidogyne project, resulting in many more [[field trial]]s on a range of crops in many soil types and climates.<ref name=Jatala1986/> Field trials, glasshouse trials and in vitro testing of ''P.&nbsp;lilacinum'' continues and more isolates have been collected from soil, nematodes and occasionally from insects. Isolates vary in their pathogenicity to plant-parasitic nematodes. Some isolates are aggressive parasites while others, though morphologically indistinguishable, are less or non-pathogenic. Sometimes isolates that looked promising ''in vitro'' or in glasshouse trials have failed to provide control in the field.<ref name=Gomes1991/>
+
+=== Enzymes ===
+Many [[enzyme]]s produced by ''P. lilacinum'' have been studied. A basic [[serine protease]] with biological activity against ''[[Meloidogyne hapla]]'' eggs has been identified.<ref name=Bonants1995/> One strain of ''P.&nbsp;lilacinum'' has been shown to produce [[protease]]s and a [[chitinase]], enzymes that could weaken a nematode egg shell so as to enable a narrow infection peg to push through.<ref name=Khan2004/>
+
+=== Egg infection ===
+Before infecting a nematode egg, ''P.&nbsp;lilacinum'' flattens against the egg surface and becomes closely [[wikt:appressed|appressed]] to it. ''P.&nbsp;lilacinum'' produces simple [[appressoria]] anywhere on the nematode egg shell either after a few [[hyphae]] grow along the egg surface, or after a network of hyphae form on the egg. The presence of appressoria appears to indicate that the egg is, or is about to be, infected. In either case, the appressorium appears the same, as a simple swelling at the end of a [[hypha]], closely appressed to the eggshell. Adhesion between the appressorium and nematode egg surface must be strong enough to withstand the opposing force produced by the extending tip of a penetration hypha.<ref name=Money1998/> When the hypha has penetrated the egg, it rapidly destroys the juvenile within, before growing out of the now empty egg shell to produce [[conidiophores]] and to grow towards adjacent eggs.
+
+==Mycotoxins==
+Paecilotoxin is a mycotoxin isolated from the fungus.<ref name=Mikami1989/> Its significance is unknown. Khan et al. (2003) tested one strain of ''P. lilacinum'' for the production of paecilotoxin and were unable to show toxin production in that strain, suggesting that toxin synthesis may vary among isolates.<ref name=Khan2003/><ref name=Park2004/>
+
+==References==
+
+{{Reflist|colwidth=30em|refs=
+
+<ref name=Anderson1995>{{cite book |vauthors=Anderson TH, Domsch KH, Gams W |title=Compendium of Soil Fungi |publisher=Lubrecht & Cramer Ltd |year=1995 |isbn=978-3-9803083-8-0}}</ref>
+
+<ref name=Bonants1995>{{cite journal |author1=Bonants PJM |author2=Fitters PFL |author3=Thijs H |author4=den Belder E |author5=Waalwijk C |author6=Henfling JWDM. |title=A basic serine protease from ''Paecilomyces lilacinus'' with biological activity against ''Meloidogyne hapla'' eggs |journal=Microbiology |volume=141 |issue=Pt 4 |pages=775–84 |year=1995 |doi=10.1099/13500872-141-4-775 |pmid=7773385|doi-access=free }}</ref>
+
+<ref name=Fiedler2007>{{cite journal |vauthors=Fiedler Ż, Sosnowska D |title=Nematophagous fungus ''Paecilomyces lilacinus'' (Thom) Samson is also a biological agent for control of greenhouse insects and mite pests |journal=BioControl |year=2007 |volume=52 |issue=4 |pages=547–8 |doi=10.1007/s10526-006-9052-2|s2cid=39116161 }}</ref>
+
+<ref name=Gomes1991>{{cite journal |vauthors=((Gomes Carniero RMD)), Cayrol J |title=Relationship between inoculum density of the nematophagous fungus ''Paecilomyces lilacinus'' and control of ''Meloidogyne arenaria'' on tomato |journal=Revue de Nématologie |volume=14 |issue=4 |pages=629–34 |year=1991}}</ref>
+
+<ref name=Gupta1993>{{cite journal |vauthors=Gupta SC, Leathers TD, Wicklow DT |year=1993 |title=Hydrolytic enzymes secreted by ''Paecilomyces lilacinus'' cultured on sclerotia of ''Aspergillus flavus'' |journal=Applied Microbiology and Biotechnology |volume=39 |issue=1 |pages=99–103 |url=http://ddr.nal.usda.gov/bitstream/10113/25102/1/IND20389834.pdf |hdl=10113/25102 |doi=10.1007/bf00166856 |s2cid=20548355 |access-date=2018-07-23 |archive-url=https://web.archive.org/web/20120425091526/http://ddr.nal.usda.gov/bitstream/10113/25102/1/IND20389834.pdf |archive-date=2012-04-25 |url-status=dead }}</ref>
+
+<ref name=Jatala1979>{{cite journal |vauthors=Jatala P, Kaltenbach R, Bocangel M |title=Biological control of ''Meloidogyne incognita'' acrita and ''Globodera pallida'' on potatoes |journal=Journal of Nematology |volume=11 | pages=303 |year=1979}}</ref>
+
+<ref name=Jatala1986>{{cite journal |author=Jatala P. |title=Biological control of plant-parasitic nematodes |journal=Annual Review of Phytopathology |volume=24 |pages=453–89 |year=1986 |doi=10.1146/annurev.py.24.090186.002321}}</ref>
+
+<ref name=Inglis2006>{{cite journal |vauthors=Inglis PW, Tigano MS |title=Identification and taxonomy of some entomopathogenic ''Paecilomyces'' spp. (Ascomycota) isolates using rDNA-ITS Sequences |journal=Genetics and Molecular Biology |year=2006 |volume=29 |issue=1 |pages=132–6 |doi= 10.1590/s1415-47572006000100025|url=http://www.scielo.br/pdf/gmb/v29n1/28182.pdf |doi-access=free }}</ref>
+
+<ref name=Khan2003>{{cite journal |vauthors=Khan A, Williams K, Nevalainen H |title=Testing the nematophagous biological control strain ''Paecilomyces lilacinus'' 251 for paecilotoxin production |journal=FEMS Microbiology Letters |year=2003 |volume=227 |issue=1 |pages=107–11 |doi=10.1016/S0378-1097(03)00654-2 |pmid=14568155 |doi-access=free |hdl=1959.4/unsworks_79759 |hdl-access=free }}</ref>
+
+<ref name=Khan2004>{{cite journal |vauthors=Khan A, Williams KL, Nevalainen HK |title=Effects of ''Paecilomyces lilacinus'' protease and chitinase on the eggshell structures and hatching of ''Meloidogyne javanica'' juveniles |journal=Biological Control |volume=31 |issue=3 |pages=346–52 |year=2004 |doi=10.1016/j.biocontrol.2004.07.011|hdl=1959.4/unsworks_79782 |hdl-access=free }}</ref>
+
+<ref name=LuangsaArd2007>{{cite book |veditors=Domsch KH, Gams W, Anderson TH |title=Compendium of Soil Fungi |edition=2nd |year=2007 |publisher=Lubrecht & Cramer Ltd |page=322 |isbn=978-3-9803083-8-0}}</ref>
+
+<ref name=Lysek1966>{{cite journal |author=Lysek H. |title=Study of biology of geohelminths. II. The importance of some soil microorganisms for the viability of geohelminth eggs in the soil |journal=Acta Universitatis Palackianae Olomucensis |volume=40 |pages=83–90 |year=1996}}</ref>
+
+<ref name=Marti2006>{{cite journal |vauthors=Marti GA, Lastra CC, Pelizza SA, García JJ |title=Isolation of ''Paecilomyces lilacinus'' (Thom) Samson (Ascomycota: Hypocreales) from the Chagas disease vector, ''Triatoma infestans'' Klug (Hemiptera: Reduviidae) in an endemic area in Argentina |journal=Mycopathologia |volume=162 |issue=5 |pages=369–72 |year=2006 |pmid=17123036 |doi=10.1007/s11046-006-0072-3|hdl=11336/81093 |s2cid=25132425 |hdl-access=free }}</ref>
+
+<ref name=Mikami1989>{{cite journal |vauthors=Mikami Y, Yazawa K, Fukushima K, Arai T, Udagawa S, Samson RA |title=Paecilotoxin production in clinical or terrestrial isolates of ''Paecilomyces lilacinus'' strains |journal=Mycopathologia |volume=108 |issue=3 |pages=195–9 |pmid=2615806 |doi=10.1007/BF00436225 |date=December 1989|s2cid=681219 }}</ref>
+
+<ref name=Money1998>{{cite book |author= Money NP. |chapter= Mechanics of invasive fungal growth and the significance of turgor in plant infection |title= Molecular genetics of host-specific toxins in plant disease |publisher=Kluwer Academic Publishers |year=1998 |location= Netherlands |pages=261–71 }}</ref>
+
+<ref name=ODay1977>{{cite journal |author=O'Day DM |title=Fungal endophthalmitis caused by ''Paecilomyces lilacinus'' after intraocular lens implantation |journal=American Journal of Ophthalmology |volume=83 |issue=1 |pages=130–1 |year=1977 |pmid=299984 |doi= 10.1016/0002-9394(77)90206-9}}</ref>
+
+<ref name=Park2004>{{cite journal |vauthors=Park JO, Hargreaves JR, McConville EJ, Stirling GR, Ghisalberti EL |title=Production of leucinostatins and nematicidal activity of Australian isolates of ''Paecilomyces lilacinus'' (Thom) Samson |journal=Letters in Applied Microbiology |year=2004 |volume=38 |issue=4 |pages=271–6 |pmid=15214724 |doi=10.1111/j.1472-765X.2004.01488.x |s2cid=38406684 |doi-access= }}</ref>
+
+<ref name=Pettit1980>{{cite journal |vauthors=Pettit TH, Olson RJ, Foos RY, Martin WJ |title=Fungal endophthalmitis following intraocular lens implantation. A surgical epidemic |journal=Archives of Ophthalmology |volume=98 |issue=6 |pages=1025–39 |year=1980 |pmid=7190003 |doi=10.1001/archopht.1980.01020031015002}}</ref>
+
+<ref name=Rombach1986>{{cite journal |vauthors=Rombach MC, Aguda RM, Shepard BM, Roberts DW |year=1986 |title=Infection of rice brown planthopper, ''Nilaparvata lugens'' (Homoptera: Delphacidae), by field application of entomopathogenic hyphomycetes (Deuteromycotina) |journal=Environmental Entomology |volume=15 |issue=5 |pages=1070–3 |issn=0046-225X | doi=10.1093/ee/15.5.1070 }}</ref>
+
+<ref name=Saberhagen1997>{{cite journal |vauthors=Saberhagen C, Klotz SA, Bartholomew W, Drews D, Dixon A |title=Infection due to ''Paecilomyces lilacinus'': a challenging clinical identification |journal=Clinical Infectious Diseases |volume=25 |issue=6 |pages=1411–3 |year=1997 |pmid=9431388 |doi=10.1086/516136|doi-access=free }}</ref>
+
+<ref name=Safdar2002>{{cite journal |author=Safdar A. |title=Progressive cutaneous hyalohyphomycosis due to ''Paecilomyces lilacinus'': rapid response to treatment with caspofungin and itraconazole |journal=Clinical Infectious Diseases |volume=34 |issue=10 |pages=1415–7 |year=2002 |pmid=11981740 |doi=10.1086/340260 |doi-access=free }}</ref>
+
+<ref name=Samson1974>{{cite journal |author=Samson RA. |title=''Paecilomyces'' and some allied hyphomycetes |journal=Studies in Mycology |volume=6 |page=58 |year=1974 }}</ref>
+
+<ref name=Stirling1991>{{cite journal|vauthors=Stirling GR, West LM |title=Fungal parasites of root-knot nematode eggs from tropical and sub-tropical regions of Australia |journal=Australasian Plant Pathology |volume=20 |issue=4 |pages=149–54 |year=1991 |doi=10.1071/APP9910149|s2cid=34778287 }}</ref>
+
+<ref name=Sung2007>{{cite journal |vauthors=Sung GH, Hywel-Jones NL, Sung JM, Luangsa-ard JJ, Shrestha B, Spatafora JW |title=Phylogenetic classification of ''Cordyceps'' and the clavicipitaceous fungi |journal=Studies in Mycology |year=2007 |volume=57 |issue=1 |pages=5–59 |doi=10.3114/sim.2007.57.01 |pmid=18490993 |pmc=2104736}}</ref>
+
+<ref name=Thom1910>{{cite journal |author=Thom C. |year=1910 |journal=Bulletin of the Bureau of Animal Industry US Department of Agriculture |volume=118 |page=73}}</ref>
+
+<ref name=TigranoMilani1995>{{cite journal |vauthors=Tigrano-Milani MS, Carneiro RG, de Faria MR, Frazão HS, McCoy CW |year=1995 |title=Isozyme characterization and pathogenicity of ''Paecilomyces fumosoroseus'' and ''P. lilacinus'' to ''Diabrotica speciosa'' (Coleoptera: Chrysomelidae) and ''Meloidogyne javanica'' (Nematoda: Tylenchidae) |journal=Biological Control |volume=5 |issue=3 |pages=378–82 |doi=10.1006/bcon.1995.1044}}</ref>
+
+<ref name="urlMycoBank: Paecilomyces lilacinus">{{cite web |title=''Paecilomyces lilacinus'' (Thom) Samson 1974 |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=319114 |publisher=International Mycological Association |work=MycoBank |access-date=2011-07-17}}</ref>
+
+<ref name=Westenfeld1996>{{cite journal |vauthors=Westenfeld F, Alston WK, Winn WC |title=Complicated soft tissue infection with prepatellar bursitis caused by ''Paecilomyces lilacinus'' in an immunocompetent host: case report and review |journal=Journal of Clinical Microbiology |volume=34 |issue=6 |pages=1559–62 |year=1996 |pmid=8735119 |pmc=229063 |doi= 10.1128/JCM.34.6.1559-1562.1996}}</ref>
+}}
+
+== External links==
+* {{commonscat inline}}
+* {{wikispecies inline|Ophiocordycipitaceae}}
+{{taxonbar|from=Q55724157}}
+
+[[Category:Ophiocordycipitaceae]]
+[[Category:Biopesticides]]
+[[Category:Biotechnology]]
+[[Category:Biological pest control]]
+[[Category:Fungi described in 1910]]
+[[Category:Taxa named by Charles Thom]]
+[[Category:Fungus species]]

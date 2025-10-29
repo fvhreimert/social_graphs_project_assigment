@@ -1,0 +1,82 @@
+{{Short description|Species of fungus in the family Marasmiaceae}}
+{{Speciesbox 
+| image = Pleurocybella 050919low.jpg
+| image_caption = 
+| genus = Pleurocybella
+| species = porrigens
+| authority = ([[Christian Hendrik Persoon|Pers.]]) [[Rolf Singer|Singer]] (1947)<ref name=sing47/>
+}}
+{{mycomorphbox
+| name = ''Pleurocybella porrigens''
+| hymeniumType= gills
+| capShape = infundibuliform
+| stipeCharacter = bare
+| whichGills = decurrent
+| sporePrintColor = white
+| ecologicalType= saprotrophic
+| howEdible = caution
+| howEdible2 = deadly
+}}
+
+'''''Pleurocybella porrigens''''', also known as the '''angel wing''', is a species of [[fungus]] in the family [[Phyllotopsidaceae]]. It medium-sized fruit bodies are whitish and fan-shaped. It is a [[wood-decay fungus]] on [[conifer]] wood and is widespread in [[temperate]] forests of the [[Northern Hemisphere]].
+
+== Taxonomy ==
+Synonyms for the species include ''Pleurotus porrigens'', ''Phyllotus porrigens'', ''Dendrosarcus porrigens'', ''Pleurotellus porrigens'', and ''[[Nothopanus]] porrigens''.
+
+== Description ==
+The mushroom species is distinguished by its fruit bodies, pure white when young and sometimes yellowing with age.<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/135/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=135–136 |orig-date=1979}}</ref> The cap is about {{Convert|4-9|cm|frac=4}} wide, shaped like a petal or a [[Hand fan|fan]].<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=419}}</ref><ref name="Arora1986" /> The [[Stipe (mycology)|stipe]] is either very short or completely absent, and the flesh has a faint but pleasant smell.<ref>{{Cite book|title=The pocket guide to wild mushrooms : helpful tips for mushrooming in the field|last=Holmberg, Pelle.|date=2013|publisher=Skyhorse|others=Marklund, Hans, 1937-, Hedström, Ellen.|isbn=9781620877319|location=New York|oclc=816030405}}</ref> The [[Lamella (mycology)|gills]] are crowded, and decurrent if a stipe is present.<ref name="Arora1986" /> The [[trama (mycology)|flesh]] is thin and fragile compared to the oyster mushrooms (''[[Pleurotus]]'' ssp.).<ref name="amm09" /> The [[spore print]] is white.<ref name="audu" />
+
+== Distribution and habitat ==
+The species is widespread in [[temperate]] forests of the [[Northern Hemisphere]].<ref name="Kirk2008" /> In North America, it can be found from August to November.<ref name="audu" /><ref>{{Cite web |title=Seasonal Chart for Edible Mushrooms |url=https://www.centraloregonmushroomclub.com/Mushroom-Seasons.htm?m=102&s=866 |access-date=2024-03-31 |website=Central Oregon Mushroom Club |archive-date=2024-03-31 |archive-url=https://web.archive.org/web/20240331075937/https://www.centraloregonmushroomclub.com/Mushroom-Seasons.htm?m=102&s=866 |url-status=dead }}</ref> It is a white-rot [[wood-decay fungus]] on [[conifer]] wood, particularly hemlock (genus ''[[Tsuga]]'').<ref name="amm09" /> 
+
+==Potential toxicity==
+
+
+''P.&nbsp;porrigens'' was once generally regarded as [[edible mushroom|edible]],<ref name="Miller 2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=141|author-link1=Orson K. Miller Jr.}}</ref> though bland.<ref name="Arora1986" /> As of 2011, it is a suspect in two outbreaks in Japan involving fatal [[encephalopathy]]. Most victims had preexisting [[kidney]] disorders.<ref name=beugpleuro/><ref name=sav06/><ref name=gej05/>
+
+The first incident occurred in September and October 2004<ref name=kato2004/> across nine prefectures in Japan, documenting the sickening of 59 people and the eventual death of 17.<ref name=beugpleuro/>  Most of those who died had preexisting liver problems and the average age of those affected was 70.<ref name=beugpleuro/>  Death occurred between 13 and 29 days after the onset of symptoms, which occurred at most three weeks after consumption of the species.<ref name=kato2004/>
+
+The second incident occurred in 2009, when a 65-year-old man who had been on [[hemodialysis]] died from acute encephalopathy after eating ''P.&nbsp;porrigens''.<ref name=beugpleuro/>
+
+The mechanism of action for the toxicity of ''P.&nbsp;porrigens'' has not been definitively established,<ref name=beugpleuro/> but several possibilities have been suggested.  It has been demonstrated that ''P.&nbsp;porrigens'' contains an unusual [[amino acid]] which is toxic to the brain cells of rats in cell culture studies,<ref name=beugpleuro/><ref name=acie/> but it has not yet been possible to definitively determine that this was the cause of the fatal encephalopathies.<ref name=beugpleuro/>  Other mechanisms have been suggested for ''P.&nbsp;porrigens''<nowiki/>'s apparent toxicity, including the possibility that the fungus may contain toxic levels of [[cyanide]] salts.<ref name=jhs/>
+
+==See also==
+{{Portal|fungi}}
+*[[List of deadly fungi]]
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=gej05>{{cite journal |journal=Kidney International |year=2005 |volume=68 |issue=1 |pages=188–192 |doi=10.1111/j.1523-1755.2005.00393.x |title=A novel type of encephalopathy associated with mushroom Sugihiratake ingestion in patients with chronic kidney diseases |author=Fumitake Gejyo |author2=Noriyuki Homma |author3=Noboru Higuchi|author4=Ken Ataka |author5=Tomoko Teramura|author6=Bassam Alchi |author7=Yukio Suzuki|author8=Schinichi Nishi |author9=Ichiei Narita |pmid=15954908|doi-access=free }}</ref>
+
+<ref name=amm09>{{cite book |vauthors=Trudell S, Ammirati J |title=Mushrooms of the Pacific Northwest |url=https://archive.org/details/mushroomspacific00trud_400 |url-access=limited |series=Timber Press Field Guides |publisher=Timber Press |location=Portland, Oregon |year=2009 |page=[https://archive.org/details/mushroomspacific00trud_400/page/n243 137] |isbn=978-0881929355}}</ref>
+
+<ref name=sing47>{{cite journal |author=Singer R. |authorlink=Rolf Singer |title=New genera of fungi. III |journal=Mycologia |volume=39 |issue=1 |pages=77–89 |year=1947 |jstor=3755289 |doi=10.2307/3755289 |pmid=20283546}}</ref>
+
+<ref name=Kirk2008>{{cite book |vauthors=Kirk PM, Cannon PF, Minter DW, Stalpers JA |title=Dictionary of the Fungi |edition=10th |publisher=CAB International |location=Wallingford, UK |year=2008 |page=548 |isbn=9780851998268}}</ref>
+
+<ref name=beugpleuro>{{Cite web |url=http://www.namyco.org/publications/mcilvainea/v20/pleurocybella_toxin.html |author=Michael W. Beug |title=''Pleurocybella porrigens'' toxin unmasked? |publisher=McIlvainea, Journal of American Amateur Mycology |accessdate=June 1, 2011}}</ref>
+
+<ref name=kato2004>{{Cite journal |vauthors=Kato T, Kawanami T, Shimizu H, Kurokawa K, Sato H, Nakajima K, Nomoto T, Seta T, Kamei T, Yoshino H, Sasagawa I, Ito M, Karasawa S, Kimura H, Suzuki Y, Degawa N, Tagawa A, Ataka K, Ando S, Omae T, Shikama Y |title=An outbreak of encephalopathy after eating autumn mushroom (Sugihiratake; ''Pleurocybella porrigens'') in patients with renal failure: A clinical analysis of ten cases in Yamagata, Japan  |journal=No to Shinkei = Brain and Nerve |volume=56 |issue=12 |pages=999–1007 |year=2004 |pmid=15729876}}</ref>
+
+<ref name=sav06>{{cite journal| title=New Syndromes in Mushroom Poisoning| vauthors=Saviuc P, Danel V |journal=Toxicological Reviews |volume=25 |issue=3 |year=2006 |pages=199–209 |pmid=17192123 |doi=10.2165/00139709-200625030-00004| s2cid=24320633 }}</ref>
+
+<ref name=jhs>{{cite journal |title=Determination of cyanide and thiocyanate in Sugihiratake mushroom using HPLC method with fluorometric detection |journal=Journal of Health Science |vauthors=Akiyama H, Toshihko T, Shinobu S, Yoshiaki A, Kazunari K, ((Yoshiko S-K)), Tamio M |volume=52 |issue=1 |pages=73–77 |url=http://jhs.pharm.or.jp/data/52%281%29/52_073.pdf |doi=10.1248/jhs.52.73 |year=2006 |doi-access=free }}{{Dead link|date=July 2025 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+<ref name=acie>{{Cite journal |vauthors=Wakimoto T, Asakawa T, Akahoshi S, Suzuki T, Nagai K, Kawagishi H, Kan T |doi=10.1002/anie.201004646 |title=Proof of the existence of an unstable amino acid: pleurocybellaziridine in ''Pleurocybella porrigens'' |journal=Angewandte Chemie International Edition |volume=50 |issue=5 |pages=1168–1170 |year=2011 |pmid=21268219}}</ref>
+
+}}
+
+==External links==
+{{Commons category|Pleurocybella porrigens}}
+*{{IndexFungorum|289763}}
+*{{MycoBank|289763}}
+
+{{Taxonbar|from=Q2450117}}
+
+[[Category:Fungi described in 1796]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]
+[[Category:Agaricales]]

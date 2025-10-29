@@ -1,0 +1,45 @@
+{{short description|Species of fungus}}
+{{Speciesbox
+| image = 2009-09-25 Hericium coralloides (Scop.) Pers 58068 crop.jpg
+| taxon = Hericium coralloides
+| authority = (Scop.) Pers.
+}}
+{{mycomorphbox
+| name = ''Hericium coralloides''
+| capShape = no
+| hymeniumType = teeth
+| stipeCharacter = NA
+| ecologicalType = saprotrophic
+| sporePrintColor = white
+| howEdible = edible
+| whichGills = NA
+}}
+
+'''''Hericium coralloides''''' is a [[saprotroph]]ic fungus, commonly known as '''coral tooth fungus'''<ref>{{Cite book |last=Woehrel |first=Mary L. |url=https://books.google.com/books?id=96K8DwAAQBAJ&pg=PA590& |title=Mushrooms of the Georgia Piedmont and Southern Appalachians: A Reference |last2=Light |first2=William H. |date=2017-11-01 |publisher=University of Georgia Press |isbn=978-0-8203-5003-5 |language=en}}</ref> or '''comb coral mushroom'''.<ref>{{Cite book |last=Russell |first=Bill |url=https://books.google.com/books?id=0YowDwAAQBAJ&pg=PT134&dq |title=Field Guide to Wild Mushrooms of Pennsylvania and the Mid-Atlantic: Revised and Expanded Edition |date=2017-08-01 |publisher=Penn State Press |isbn=978-0-271-08028-4 |language=en}}</ref>
+
+== Description ==
+The fruiting body is {{Convert|4-18|cm|frac=4}} across, whitish, and heavily branched and toothed. Both the flesh and the [[spore print]] are white.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=162}}</ref>
+
+=== Similar species ===
+It resembles ''[[Hericium abietis]]'' and ''[[Hericium erinaceus|H. erinaceus]]''.<ref name="audu" />
+
+== Distribution and habitat ==
+It is found throughout North America, Eurasia and Australia, growing on dead [[hardwood]] trees. It can be found from July to October in the east and November to March in the west.<ref name="audu" />
+
+== Uses ==
+The species is edible and good<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=327}}</ref> when young, but as it ages the branches and hanging spines become brittle and turn a light shade of yellowish brown.
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q1318085}}
+
+[[Category:Edible fungi]]
+[[Category:Fungal plant pathogens and diseases]]
+[[Category:Fungi described in 1772]]
+[[Category:Russulales]]
+[[Category:Fungi of Europe]]
+[[Category:Fungus species]]
+
+
+{{Russulales-stub}}

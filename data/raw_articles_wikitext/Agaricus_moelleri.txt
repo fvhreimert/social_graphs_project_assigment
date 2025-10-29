@@ -1,0 +1,59 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Agar.moell.jpg
+| genus = Agaricus
+| species = moelleri
+| authority = [[Solomon P. Wasser|Wasser]] (1976)
+| synonyms = ''Agaricus placomyces'' <small>[[Charles Horton Peck|Peck]] (1878)</small><br>
+''Agaricus meleagris'' <small>[[Emil J. Imbach|Imbach]] (1946)</small><br>
+''Agaricus praeclaresquamosus'' <small>Freeman (1979)</small>
+}}
+{{Mycomorphbox
+| name = ''Agaricus moelleri''
+| whichGills = free
+| capShape = flat
+| hymeniumType = gills
+| stipeCharacter = ring
+| ecologicalType = saprotrophic
+| sporePrintColor = brown
+| howEdible = poisonous
+}}
+
+'''''Agaricus moelleri''''', commonly known as the '''inky mushroom''',<ref name=Phillips06>{{cite book | author = Roger Phillips | year = 2006  | title = Mushrooms | publisher = Pan MacMillan | isbn = 0-330-44237-6}}</ref> or '''dark scaled mushroom''',<ref name=T.Laessoe>{{cite book | author = Thomas Laessoe | year = 1998 | title = Mushrooms (flexi bound) | publisher = Dorling Kindersley | isbn = 0-7513-1070-0}}</ref> is a large species of fungus in the genus ''[[Agaricus]]''.<ref name=T.Laessoe/> It appears occasionally in most kinds of woodland, during late summer, in northern [[temperate zones]].
+
+==Taxonomy==
+For many years ''Agaricus moelleri'' was erroneously accredited with the binomial ''Agaricus placomyces'' by some British authors. The [[specific name (botany)|epithet]] ''placomyces''  was in fact given to a North American species of ''Agaricus'' by [[Charles Horton Peck]] in 1878 (now known as ''Agaricus praeclaresquamosus'' A.E.Freeman 1979).<ref>{{Cite web|date=2011-07-20|title=Basidiomycota Checklist-Online - Species Page|url=http://www.basidiochecklist.info/DisplayResults.asp?intGBNum=40287|access-date=2021-10-13|archive-url=https://web.archive.org/web/20110720010711/http://www.basidiochecklist.info/DisplayResults.asp?intGBNum=40287|archive-date=2011-07-20}}</ref> The current binomial ''Agaricus moelleri'' was published in 1976 by the Ukrainian mycologist [[Solomon P. Wasser]].<ref name=Wasser1976>{{cite journal |author=Wasser SP. |title=Species nova e genere ''Agaricus'' L. ex Fr. emnd. Karst. |journal=Novosti Sistematiki Nizshikh Rastenii |year=1976 |volume=13 |pages=77–9}}</ref>
+
+==Description==
+The [[Pileus (mycology)|cap]] has a greyish-brown patch in the centre and cold grey-brown scaling on the surrounding off-white background. It is {{convert|5 to 9|cm|frac=8}} in diameter, and yellows when bruised. It is ovate when young, flattening later.<ref name=Phillips06/> The [[Stipe (mycology)|stem]] has a drooping [[annulus (mycology)|ring]] and stains yellow very easily when bruised, this colour then changes to brown over time. The stem [[trama (mycology)|flesh]] bruises yellow only faintly, and is more noticeable in the base. The [[Lamella (mycology)|gills]] are crowded, and free, as is typical for an ''Agaricus''. They are pink on young specimens, but brown to black on older fruit bodies. The flesh is white and does not change colour on cutting. It smells like ink, iodoform, phenol, sweat, or mouldy straw. The [[Basidiospore|spores]] are 4–6 x 3–4&nbsp;[[μm]] and are elliptical.<ref name=":0">{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=190–191}}</ref>
+
+===Similar species===
+
+''[[Agaricus hondensis]]'' is similar, with a pinkish tint and firmer flesh.<ref name=":0" />
+
+A similar species occurring in North America, ''Agaricus praeclaresquamosus'' A.E. Freeman 1979 (flat-top agaricus) can grow up to 25&nbsp;cm wide; it is a possible synonym.<ref name=Arora2nd>{{Cite book |last=Arora |first=David |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/329/mode/2up |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |orig-date=1979 |edition=2nd |pages=329}}</ref>
+
+The rare ''[[Agaricus phaeolepidotus]]'' also has the iodoform, or ink smell, but has browner cap scales, and stains yellow less readily.<ref name=T.Laessoe/>
+
+==Distribution and habitat==
+''Agaricus moelleri'' is found in the [[temperate zones]] of the [[Northern Hemisphere]], including parts of North America,<ref name="Asef 2020">{{cite book |author=Asef M.R. |title=Field guide of Mushrooms of Iran |publisher=Iran-Shanasi Press |location=Tehran|year=2020|page=360 |isbn=9786008351429}}</ref> Europe (including Britain), and Asia. It grows in mixed forests and woods. It is widespread, but can be locally rare, and favors rich [[alkali soil|alkaline]] woodland, or parkland.<ref name=T.Laessoe/>
+
+==Toxicity==
+In the same fashion as the yellow stainer (''[[Agaricus xanthodermus]]''), ''Agaricus moelleri'' can produce [[gastrointestinal disease|gastrointestinal]] symptoms for some people but not others, when ingested.<ref name=T.Laessoe/> It is considered toxic.<ref name=":0" />
+
+==See also==
+*[[List of Agaricus species|List of ''Agaricus'' species]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.english-country-garden.com/fungus/inky-mushroom.htm English Country Garden]
+
+{{Taxonbar|from=Q1614842}}
+
+[[Category:Agaricus|moelleri]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1976]]
+[[Category:Fungus species]]

@@ -1,0 +1,46 @@
+{{Short description|Species of fungus}}
+{{Speciesbox 
+| image = Mycena rosea, Rosy Bonnet, UKB.jpg
+| image_caption = 
+| genus = Mycena
+| species = rosea
+| authority = ([[Heinrich Christian Friedrich Schumacher|Schumach.]]) Gramberg
+| synonyms = ''Agaricus roseus'' <small>Schumach.</small><br>
+''Mycena pura'' f. ''rosea'' <small>(Schumach.) J.E. Lange</small><br>
+''Mycena pura'' var. ''rosea'' <small>(Schumach.) J.E. Lange</small>
+}}
+{{mycomorphbox 
+| name = Mycena rosea
+| hymeniumType = gills
+| capShape = conical
+| whichGills = adnate
+| stipeCharacter = bare
+| sporePrintColor = white
+| ecologicalType = saprotrophic
+| howEdible = poisonous
+}}
+
+'''''Mycena rosea''''', commonly known as the '''rosy bonnet''',<ref>{{cite web |url=http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |title=Recommended English Names for Fungi in the UK |publisher=[[British Mycological Society]] |url-status=dead |archive-url=https://web.archive.org/web/20110716083053/http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |archive-date=2011-07-16 }}</ref> is a species of bioluminescent [[mushroom]] in the family [[Mycenaceae]]. First named ''Agaricus roseus'' in 1803 by Danish botanist  [[Heinrich Christian Friedrich Schumacher]], it was given its present name in 1912 by Gramberg.
+
+==Description==
+The [[pileus (mycology)|cap]] initially has a convex shape before flattening; its diameter may reach up to {{convert|6|cm|in|1|abbr=on}}.<ref name=Jordan2004>{{cite book |author=Jordan M. |title=The Encyclopedia of Fungi of Britain and Europe |publisher=Frances Lincoln |location=London |year=2004 |page=171 |isbn=0-7112-2378-5|url=https://books.google.com/books?id=bFMfytLn3bEC&q=Mycena+rosea&pg=PA171 |access-date=2009-09-26}}</ref>
+
+===Similar species===
+''Mycena sororius'' is a closely related species that has been reliably distinguished from ''M.&nbsp;rosea'' by the [[electrophoresis|electrophoretic migration]] of [[isozyme]]s, as well as having larger spores&mdash;7.5&ndash;8.5 to 10 by 4.8&ndash;5.5&nbsp;[[micrometre|μm]], compared to 6.5&ndash;9 by 4.5&ndash;5&nbsp;μm for ''M.&nbsp;rosea''.<ref>{{cite journal |vauthors=Perreau Bertrand J, BoisselierDubayle MC, Lambourdiere J |year=1996 |title=''Mycena sororia'' sp nov, close to ''M.&nbsp;rosea'' Gramberg (Basidiomycotina)|journal=Mycotaxon |volume=60 |pages=263–73}}</ref>
+
+==Bioactive compounds==
+The fruit bodies of ''Mycena rosea'' contain two red [[alkaloid]] [[pigment]]s that are unique to this species. Named mycenarubin A, and mycenarubin B, these chemicals are related to the so-called [[damirone]]s that are found in [[marine sponge]]s.<ref>{{cite journal |vauthors=Peters S, Spiteller P |year=2007|title=Mycenarubins A and B, red pyrroloquinoline alkaloids from the mushroom ''Mycena rosea'' |journal=Journal of Organic Chemistry |volume= 2007|issue=10 |pages=1571–76 |doi=10.1002/ejoc.200600826}}</ref>
+
+==See also==
+*[[List of bioluminescent fungi]]
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q1757505}}
+
+[[Category:Bioluminescent fungi]]
+[[Category:Mycena|rosea]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi described in 1903]]
+[[Category:Fungus species]]

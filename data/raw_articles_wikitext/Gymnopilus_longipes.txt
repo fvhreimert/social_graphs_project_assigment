@@ -1,0 +1,40 @@
+{{Short description|Species of fungus}}
+{{single source|date=October 2025}}
+{{no footnotes|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption =
+| taxon = Gymnopilus longipes
+| authority = [[Laura Guzmán Dávalos|Guzm.-Dáv.]] & [[Gaston Guzman|Guzmán]]
+| synonyms =
+}}
+{{mycomorphbox
+| name = Gymnopilus longipes
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+
+'''''Gymnopilus longipes''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]].
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==External links==
+*''[https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=131311 Gymnopilus longipes]'' at [[Index Fungorum]]
+
+{{Taxonbar|from=Q5624849}}
+
+{{DEFAULTSORT:Gymnopilus longipes}}
+[[Category:Gymnopilus|longipes]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

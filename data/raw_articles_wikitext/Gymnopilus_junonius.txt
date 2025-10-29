@@ -1,0 +1,94 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Gymnopilus junonius-02.jpg
+| image_caption = 
+| taxon = Gymnopilus junonius
+| authority = ([[Elias Magnus Fries|Fr.]]) [[P.D.Orton]] (1960)
+| range_map = Gymnopilus junonius.png
+| range_map_caption = Approximate range of ''Gymnopilus junonius''
+| synonyms = {{plainlist|
+*''Agaricus aureus'' <small>[[Bull.]] (1782)</small>
+*''Agaricus junonius'' <small>Fr. (1821)</small>
+*''Lepiota aurea'' <small>[[Samuel Frederick Gray|Gray]] (1821)</small>
+*''Pholiota junonia'' <small>(Fr.) [[P.Karst.]] (1879)</small>
+*''Pholiota grandis'' <small>[[Carleton Rea|Rea]] (1903)</small>
+*''Pholiota spectabilis'' var. ''junonia'' <small>(Fr.) [[J.E.Lange]] (1940)</small>
+*''Gymnopilus spectabilis'' var. ''junonius'' <small>(Fr.) [[Robert Kühner|Kühner]] & [[Romagn.]] (1953)</small>
+  }}
+}}
+{{mycomorphbox
+| name = ''Gymnopilus junonius''
+| whichGills = adnate
+| capShape = convex
+| hymeniumType = gills
+| stipeCharacter = ring
+| ecologicalType = saprotrophic
+| sporePrintColor = reddish-brown
+| howEdible = inedible
+}}
+
+'''''Gymnopilus junonius''''' is a type of [[mushroom]]-forming [[fungus]] in the family [[Hymenogastraceae]]. Commonly known as the '''spectacular rustgill''', this large orange mushroom is typically found growing on tree stumps, logs, or tree bases. It is found in Europe, [[Australasia]] and South America. It is inedible and contains some [[neurotoxin]]s.
+
+==Description==
+The [[pileus (mycology)|cap]] ranges from {{Cvt|5-30|cm|round=0.5}} across, bun-shaped at first,<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=651}}</ref> then is convex to flat;<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=245–246|oclc=797915861}}</ref> it is bright yellow-orange in younger specimens and orange-brown or reddish brown in older ones, with a dry scaly surface. The [[trama (mycology)|flesh]] is yellow, the odor mild and taste bitter.<ref name=":0" /> The [[stipe (mycology)|stem]] is {{Cvt|5-25|cm|round=0.5}} long, 1–5 cm thick, and often narrows near the base.<ref name=":0" /> The frail [[annulus (mycology)|ring]] is dusted with rusty orange [[Basidiospore|spores]], and the gill attachment to the stem is [[Adnate gills|adnate]] to [[Decurrent gills|sub-decurrent]].<ref name=":0" /> It stains red with [[KOH test|KOH]] and turns green when cooked. The [[spore print]] is rusty brown.<ref name="audu" />
+
+Unlike psychoactive relatives in the ''[[Psilocybe]]'' genus, ''G.&nbsp;junonius'' lacks psilocybin and does not stain blue, but smaller specimens occasionally exhibit bruising.<ref name="Thorn Malloch Saar Lamoureux pp. 293–315">{{cite journal | last1=Thorn | first1=R. Greg | last2=Malloch | first2=David W. | last3=Saar | first3=Irja | last4=Lamoureux | first4=Yves | last5=Nagasawa | first5=Eiji | last6=Redhead | first6=Scott A. | last7=Margaritescu | first7=Simona | last8=Moncalvo | first8=Jean-Marc | title=New species in the Gymnopilus junonius group (Basidiomycota: Agaricales) | journal=Botany | publisher=Canadian Science Publishing | date=2020-04-24 | volume=98 | issue=6 | issn=1916-2790 | doi=10.1139/cjb-2020-0006 | pages=293–315| doi-access= }}</ref> This mushroom usually grows in clusters from several to several dozen individuals, but sometimes grows solitary. It is inedible due to its bitter taste.<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/410/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=410–411 |orig-date=1979}}</ref>
+
+{{gallery|mode=packed
+|Gymnopilus junonius.jpg|Wild specimen
+}}
+
+===Similar species===
+This mushroom is often mistaken for ''[[Gymnopilus ventricosus]]'',<ref name="Arora1986" /> which also contains no [[psilocybin]], and [[Gymnopilus luteus|''G.&nbsp;luteus'']] and [[Gymnopilus subspectabilis|''G.&nbsp;subspectabilis'']], which do.<ref name=":1">{{Cite web |date=2020 |title=New species in the ''Gymnopilus junonius'' group (Basidiomycota: Agaricales) |url=https://tspace.library.utoronto.ca/bitstream/1807/100286/1/cjb-2020-0006.pdf |access-date=2022-03-28}}</ref>{{Page needed|date=June 2025}} It also resembles ''[[Armillaria mellea]]'' and ''[[Omphalotus olivascens]]''.<ref name=":0" />
+
+==Distribution and habitat==
+''Gymnopilus junonius'' is found in Europe, [[Australasia]] and South America.<ref>{{Cite web |url=https://nature.mdc.mo.gov/discover-nature/field-guide/big-laughing-gym-big-laughing-jim |title=Big Laughing Jim/Scientific Name: Gymnopilus junonius (formerly G. spectabilis) |work=Missouri Department of Conservation (nature.mdc.mo.gov) |access-date=2020-09-27 |archive-date=2021-01-04 |archive-url=https://web.archive.org/web/20210104064059/https://nature.mdc.mo.gov/discover-nature/field-guide/big-laughing-gym-big-laughing-jim |url-status=live }}</ref><ref>{{Cite web |url=https://www.knau.org/post/earth-notes-laughing-jim-mushroom |title=Earth Notes: The Laughing Jim Mushroom |work=www.knau.org |date=31 January 2018 |access-date=2020-09-27 |archive-date=2021-01-04 |archive-url=https://web.archive.org/web/20210104064102/https://www.knau.org/post/earth-notes-laughing-jim-mushroom |url-status=live }}</ref><ref>{{Cite web |url=https://www.first-nature.com/fungi/gymnopilus-junonius.php |title=Gymnopilus junonius (Fr.) P. D. Orton - Spectacular Rustgill |work=www.first-nature.com |access-date=2020-09-27 |archive-date=2021-01-04 |archive-url=https://web.archive.org/web/20210104064100/https://www.first-nature.com/fungi/gymnopilus-junonius.php |url-status=live }}</ref>  It grows in dense clusters on stumps and logs of hardwoods and conifers.  This mushroom is most common in moist, lowland wooded areas near rivers.
+
+This species does not occur in North America, with similar mushrooms often being misidentified.<ref name=":1" />
+
+==Biochemistry==
+This mushroom contains bis-noryangonin and [[hispidin]], which are structurally related to [[pyrone|alpha-pyrones]] found in [[kava]].<ref name="Hatfield1969"/> It also contains [[neurotoxin]]s known as oligoisoprenoids,<ref name="Shirahama1993"/> such as gymnopilin.
+
+==See also==
+{{Portal|Fungi}}
+* [[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist|refs=
+<ref name="Hatfield1969">{{cite journal |last1=Hatfield |first1=G.M. |last2=Brady |first2=L.R. |year= 1969 |title=Occurrence of bis-noryangonin in ''Gymnopilus spectabilis'' |journal=Journal of Pharmaceutical Sciences |volume=58 |issue=10 |pages=1298–1299 |doi=10.1002/jps.2600581039 |pmid=5388695}}</ref>
+<ref name="Shirahama1993">{{cite journal |last1=Tanaka |first1=Masayasu |last2=Hashimoto |first2=Kimiko |last3=Okunoa |first3=Toshikatsu |last4=Shirahama |first4=Haruhisa |year= 1993 |title=Neurotoxic oligoisoprenoids of the hallucinogenic mushroom, ''Gymnopilus spectabilis'' |journal=Phytochemistry |volume=34 |issue=3 |pages=661–664 |doi=10.1016/0031-9422(93)85335-O|bibcode=1993PChem..34..661T }}</ref>
+}}
+
+*C.J. Alexopolous, Charles W. Mims, M. Blackwell  et al., ''Introductory Mycology, 4th ed.'' (John Wiley and Sons, Hoboken NJ, 2004)  {{ISBN|0-471-52229-5}}
+
+==External links==
+*{{Commons-inline|italic=1}}
+* [http://botit.botany.wisc.edu/toms_fungi/apr2005.html Tom Volk's Fungi of the Month - ''Gymnopilus spectabilis'']
+* [http://www.mushroomexpert.com/gymnopilus_junonius.html Mushroom Expert - ''Gymnopilus junonius'']
+*  {{Cite journal 
+| doi = 10.2307/3761920 
+| last1 = Guzmán-Dávalos | first1 = Laura 
+| last2 = Mueller | first2 = Gregory M. 
+| last3 = Cifuentes | first3 = Joaquín 
+| last4 = Miller | first4 = Andrew N. 
+| last5 = Santerre | first5 = Anne 
+| title = Traditional infrageneric classification of ''Gymnopilus'' is not supported by ribosomal DNA sequence data 
+| journal = Mycologia 
+| volume = 95 
+| issue = 6 
+| pages = 1204–1214 
+|date=Nov–Dec 2003
+| pmid = 21149021
+| jstor = 3761920
+| url = http://www.mycologia.org/cgi/reprint/95/6/1204.pdf
+}}
+
+{{Taxonbar|from=Q1830008}}
+
+[[Category:Gymnopilus|junonius]]
+[[Category:Fungi described in 1821]]
+[[Category:Fungi of New Zealand]]
+[[Category:Fungi of Europe]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Inedible fungi]]
+[[Category:Fungus species]]

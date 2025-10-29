@@ -1,0 +1,43 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Buchenwaldbecherling Peziza arvernensis.JPG
+| taxon = Peziza arvernensis
+| authority = [[Jean Louis Émile Boudier|Boud.]] (1879)
+| synonyms_ref = <ref name=":0" />
+| synonyms = ''Peziza sylvestris''
+}}
+
+'''''Peziza arvernensis''''', commonly known as the '''boring brown cup fungus''' or '''fairy tub''',<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/821/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, California |pages=821 |orig-date=1979}}</ref> is a species of [[apothecia]]l [[fungus]] belonging to the family [[Pezizaceae]]. The [[ascocarp]]s appear as cups, growing up to {{convert|8|cm|abbr=on|frac=8}} across.<ref name="Arora1986" /> Their exterior is pale tan and the interior is brown.<ref name=":0">{{cite book |last1=Trudell |first1=Steve |url=https://books.google.com/books?id=WevHvt6Tr8kC |title=Mushrooms of the Pacific Northwest |last2=Ammirati |first2=Joe |publisher=Timber Press |year=2009 |isbn=978-0-88192-935-5 |series=Timber Press Field Guides |location=Portland, OR |pages=290–291 |language=en}}</ref> ''[[Peziza vesiculosa]]'' and [[Peziza violacea|''P.&nbsp;violacea'']] are similar, young specimens of the latter having a violet hue.<ref name=":0" />
+
+This species often appears in small groups on soil in [[broad-leaved]] [[woodland]], especially with [[beech]]. It is widespread in Europe with a few records from North and South America. 
+
+==References==
+{{Reflist}}
+
+==Further reading==
+*{{cite book | last = Jordan | first = Michael | authorlink = Michael Jordan (mycologist) | title = The Encyclopedia of Fungi of Britain and Europe | publisher = [[Frances Lincoln Publishers]] | date = 2004 | page = 45 | isbn = 978-0-7112-2379-0}}
+
+==External links==
+{{Mycomorphbox
+| name = ''{{PAGENAME}}''{{italic title}}
+| hymeniumType = smooth
+| capShape = NA
+| whichGills = no
+| stipeCharacter = NA
+| ecologicalType = saprotrophic
+| howEdible = unknown
+}}
+*{{IndexFungorum|243601}}
+*[http://data.gbif.org/species/5259318/ ''Peziza arvernensis''] at [[GBIF]]
+
+{{Taxonbar|from=Q6665413}}
+
+[[Category:Pezizaceae]]
+[[Category:Fungi described in 1879]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of South America]]
+[[Category:Taxa named by Jean Louis Émile Boudier]]
+[[Category:Fungus species]]
+
+
+{{Pezizomycetes-stub}}

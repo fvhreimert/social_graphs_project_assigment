@@ -1,0 +1,49 @@
+{{Short description|Species of fungus}}
+{{single source|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption =
+| taxon = Gymnopilus earlei
+| authority = [[William Murrill|Murrill]]
+| synonyms =
+}}
+{{mycomorphbox
+| name = Gymnopilus earlei
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+
+'''''Gymnopilus earlei''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]].
+
+==Description==
+The [[pileus (mycology)|cap]] is {{convert|3|to|10|cm|in|1}} in diameter.<ref name="isbn0-945345-39-9">{{cite book |author=Hesler LR. |title=North American Species of ''Gymnopilus'' (Mycologia Memoir Series: No 3) |publisher=Lubrecht & Cramer Ltd |location=Knoxville, Tennessee |year=1969 |page=83 |isbn=0-945345-39-9}}</ref>
+
+==Habitat and distribution==
+''Gymnopilus earlei'' has been found on coconut logs in Jamaica, during October to November.<ref name="isbn0-945345-39-9"/>
+
+==See also==
+{{Portal|Fungi}}
+[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*''[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=229681 Gymnopilus earlei]'' at [[Index Fungorum]]
+
+{{Taxonbar|from=Q15636115}}
+
+{{DEFAULTSORT:Gymnopilus earlei}}
+[[Category:Gymnopilus|earlei]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by William Alphonso Murrill]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

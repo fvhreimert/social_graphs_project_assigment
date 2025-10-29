@@ -1,0 +1,46 @@
+{{short description|Species of mushroom}}
+{{Speciesbox
+| image = Gymnopilus fulgens 492278.jpg
+| image_caption = ''Gymnopilus fulgens'' in NSG Heiliges Meer, Recke, Nordrhein-Westfalen, Germany
+| taxon = Gymnopilus fulgens
+| authority = (J. Favre & Maire) [[Rolf Singer|Singer]]
+| synonyms = 
+}}
+{{mycomorphbox
+| name = ''Gymnopilus fulgens''
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+
+'''''Gymnopilus fulgens''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]]. It was given its current name by mycologist [[Rolf Singer]] in 1951.<ref>{{cite journal |author=Singer R. |year=1951 |title=The Agaricales in modern taxonomy |journal=Lilloa |volume=22 |page=561}}</ref>
+
+==Description==
+The [[pileus (mycology)|cap]] is {{convert|0.5|to|2.5|cm|in|1}} in diameter.<ref name="isbn0-945345-39-9">{{cite book |author=Hesler LR. |title=North American Species of ''Gymnopilus'' (Mycologia Memoir Series: No 3) |publisher=Lubrecht & Cramer Ltd |location=Knoxville, Tennessee |year=1969 |pages=63–64 |isbn=0-945345-39-9}}</ref>
+
+==Habitat and distribution==
+''Gymnopilus fulgens'' grows among moss, on peaty soil, charred [[sphagnum]], or burned-over soil. In the United States, it has been collected in [[Michigan]], but it has also been found in Europe. It fruits from June to September.<ref name="isbn0-945345-39-9"/>
+
+==See also==
+{{Portal|Fungi}}
+[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*''[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=298035 Gymnopilus fulgens]'' at [[Index Fungorum]]
+
+{{Taxonbar|from=Q5624802}}
+
+[[Category:Gymnopilus|fulgens]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

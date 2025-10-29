@@ -1,0 +1,58 @@
+{{Short description|Family of fungi}}
+{{Speciesbox
+| image = Phaeolepiota aurea 10866-83fabfaacdf92ca2ba5a395f175754a4.jpg
+| image_caption = ''Phaeolepiota aurea''
+| taxon = Phaeolepiota aurea
+| parent_authority = Maire ex Konrad & Maubl. (1928)
+| authority = (Matt.) Maire (1928)
+| synonyms = ''Cystoderma aureum''
+}}
+
+{{mycomorphbox
+| name = ''Phaeolepiota aurea''
+| whichGills = free
+| capShape = flat
+| capShape2 = convex
+| hymeniumType=gills
+| stipeCharacter=ring
+| ecologicalType=mycorrhizal
+| sporePrintColor=reddish-brown
+| howEdible=caution
+}}
+
+'''''Phaeolepiota''''' is a [[genus]] of fungi in the family [[Squamanitaceae]]. The genus is [[monotypic]], containing the single species '''''Phaeolepiota aurea'''''. Commonly known as '''Alaskan gold''',<ref name=":1">Arora, David (February 1, 1991). ''All that the Rain Promises and More: A Hip Pocket Guide to Western Mushrooms''. p. 139. {{ISBN|9780898153880}}.</ref> '''Alaska gold''',<ref name=":2">Siegel, Noah; Schwarz, Christian (September 1, 2024). ''Mushrooms of Cascadia: A Comprehensive Guide to Fungi of the Pacific Northwest''. Humboldt County, CA: Backcountry Press. p. 62. {{ISBN|9781941624197}}.</ref> '''golden bootleg''' or '''golden cap''', ''P.&nbsp;aurea'' is an [[agaric]] (gilled mushroom) found throughout North America and Eurasia – often in groups and next to [[Urtica|nettles]]. 
+
+==Taxonomy==
+Recent [[molecular phylogenetics]] research shows that ''Phaeolepiota'' is closely related to and may need to be merged into the genus ''[[Cystoderma]]''.<ref name="Liu2021" /><ref name="Saar2022" />
+
+==Description==
+The mushroom is large and golden, and its stem has a skirt-like [[Annulus (mycology)|ring]].<ref name=":0">{{cite book |last1=Trudell |first1=Steve |url=https://books.google.com/books?id=WevHvt6Tr8kC |title=Mushrooms of the Pacific Northwest |last2=Ammirati |first2=Joe |publisher=Timber Press |year=2009 |isbn=978-0-88192-935-5 |series=Timber Press Field Guides |location=Portland, OR |pages=185}}</ref> The cap is up to {{Convert|20|cm|frac=2}} wide and the stem up to 20&nbsp;cm long. It has a mild smell.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=584}}</ref> The spores are brown,<ref name=":0" /> producing a tannish [[spore print]].<ref name="audu" />
+
+=== Similar species ===
+It can resemble ''[[Cystoderma fallax]]'', ''[[Cystoderma granosum|C.&nbsp;granosum]]'', ''[[Gymnopilus spectabilis]]'', and ''[[Agrocybe praecox]]''.<ref name="audu" />
+
+==Distribution and habitat==
+It is found throughout North America and Eurasia – often in groups<ref name=":0" /> and next to [[Urtica|nettles]].<ref>{{cite book |author=Phillips R |title=Mushrooms and Other Fungi of North America |publisher=Firefly Books |year=2005 |isbn=978-1-55407-115-9 |page=320}}</ref> 
+
+==Edibility==
+The fruit bodies have been considered [[Edible mushroom|edible]] and are eaten in Russia and China.<ref name="Boa2004" /> It is not, however, recommended for consumption as it is known to cause [[gastrointestinal upset]].<ref name="Miller 2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=260|author-link=Orson K. Miller Jr.}}</ref><ref name=":2" /><ref name=":1" /> Studies have shown that this fungus contains unacceptable amounts of both [[cadmium]] and [[cyanide]] compounds. Cooking reduces the concentration of the cyanide compounds present, which may be the reason why it has been consumed in some countries.<ref>[http://www.mushroomthejournal.com/bestof/Paureatext.html Phaeolepiota aurea] ''mushroomthejournal.com'' {{webarchive|url=https://web.archive.org/web/20080828005706/http://www.mushroomthejournal.com/bestof/Paureatext.html |date=2008-08-28 }}</ref>
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=Liu2021>{{cite journal |vauthors=Liu JW, Ge ZW, Horak E, Vizzini A, Halling RE, Pan CL, Yang ZL |year=2021 |title=Squamanitaceae and three new species of ''Squamanita'' parasitic on ''Amanita'' basidiomes |journal=IMA Fungus |volume=12 |issue=1 |page=4 |doi=10.1186/s43008-021-00057-z|pmid=33658081 |pmc=7927255 |doi-access=free }}</ref>
+
+<ref name=Saar2022>{{cite journal |vauthors=Saar I, Thorn RG, Nagasawa E, Henkel TW, Cooper JA  |title=A phylogenetic overview of ''Squamanita'', with descriptions of nine new species and four new combinations |journal=Mycologia |year=2022 |volume=114 |issue=4 |pages=769–797 |doi=10.1080/00275514.2022.2059639|pmid=35695889 |s2cid=249623155 |url=https://figshare.com/articles/dataset/A_phylogenetic_overview_of_i_Squamanita_i_with_descriptions_of_nine_new_species_and_four_new_combinations/20060684 |url-access=subscription }}</ref>
+
+<ref name=Boa2004>{{cite book |author=Boa ER |title=Wild Edible Fungi: A Global Overview Of Their Use And Importance To People (Non-Wood Forest Products) |publisher=Food & Agriculture Organization of the UN |year=2004 |isbn=978-92-5-105157-3}}</ref>
+}}
+
+==External links==
+* {{Commons category-inline|Phaeolepiota aurea}}
+
+{{taxonbar |from=Q370221}}
+
+[[Category:Monotypic Basidiomycota genera]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of Asia]]

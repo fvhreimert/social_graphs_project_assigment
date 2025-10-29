@@ -1,0 +1,82 @@
+{{Speciesbox
+| image = Xerocomellus chrysenteron28.jpg
+| genus = Xerocomellus
+| species = chrysenteron
+| authority = ([[Jean Baptiste François Pierre Bulliard|Bull.]]) Šutara (2008)
+| synonyms = ''Boletus chrysenteron'' <small>Bull. (1789)</small><br>
+''Xerocomus chrysenteron'' <small>[[Lucien Quélet|Quél.]]</small><br>
+''Boletus pascuus'' <small>([[Christian Hendrik Persoon|Pers.]]) [[Julius Vincenz von Krombholz|Krombh.]]</small>
+}}
+{{mycomorphbox 
+| name = ''Xerocomellus chrysenteron''
+| capShape = convex 
+| capShape2 = flat
+| hymeniumType = pores
+| stipeCharacter = bare
+| sporePrintColor = olive-brown
+| howEdible = edible
+| whichGills = no
+| ecologicalType = mycorrhizal
+}}
+
+'''''Xerocomellus chrysenteron''''', formerly known as '''''Boletus chrysenteron''''' or '''''Xerocomus chrysenteron''''' and commonly known as the '''red cracking bolete''',<ref name="Phillips06">{{cite book |author=Roger Phillips |title=Mushrooms |publisher=Pan MacMillan |year=2006 |isbn=0-330-44237-6}}</ref> is a species of fungus in the family [[Boletaceae]]. The small mushroom has tubes and pores instead of [[lamella (mycology)|gills]] beneath their [[Pileus (mycology)|caps]]. It is [[edible mushroom|edible]] but not choice.
+
+==Taxonomy==
+This mushroom was first described and named as ''Boletus communis'' in 1789 by the eminent French  botanist [[Jean Baptiste Francois Pierre Bulliard]]. Two years later, in 1791, it was given the [[botanical name|specific epithet]] ''chrysenteron'' by the same author, the species name coming from the [[Ancient Greek]] words ''khrysos'' "gold" and ''enteron'' "innards".<ref name="Nilper 1977">{{cite book |author=Nilson S, Persson O. |year=1977 |title=Fungi of Northern Europe 1: Larger Fungi (Excluding Gill-Fungi) |publisher=Penguin |location=Harmondsworth, UK |isbn=0-14-063005-8 |pages=106–07}}</ref> In 1888, [[Lucien Quelet]] placed it in the new genus ''Xerocomus'', retaining the ''chrysenteron'' epithet. This binomial was generally accepted until 1985 when [[Marcel Bon]] decided to resurrect the former specific epithet ''communis'', which resulted in the binomial ''Xerocomus communis''. While it recently resided back in the genus ''Boletus'', as [https://web.archive.org/web/20110720010621/http://www.basidiochecklist.info/DisplayResults.asp?intGBNum=13558 ''B.&nbsp;chrysenteron''] Bull., recent [[phylogenetic]] analysis supports its placement as the [[type species]] of the new genus ''[[Xerocomellus]]'', described by Šutara in 2008.<ref name="Šutara 2008">{{cite journal |author=Šutara J. |title=''Xerocomus'' s. l. in the light of the present state of knowledge |journal=Czech Mycology  |year=2008 |volume=60 |issue=1 |pages=29–62 |doi=10.33585/cmy.60104 |url=http://web.natur.cuni.cz/cvsm/CM60104F.pdf}}</ref>
+
+==Description==
+Young specimens often have a dark, dry surface, and [[tomentose]] [[Pileus (mycology)|caps]]. When fully expanded, the brownish cap<ref name=":2">{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=215}}</ref> ranges from {{Cvt|4 to 10|cm|frac=4}} in diameter with very little substance and thin flesh that turns a blue color when slightly cut or bruised.<ref name="first">{{cite web|url=http://www.first-nature.com/fungi/id_guide/boletales/xerocomus_chrysenteron.htm |title=Xerocomus chrysenteron |access-date=2007-12-12 |work=First Nature |url-status=dead |archive-url=https://web.archive.org/web/20071026124356/http://www.first-nature.com/fungi/id_guide/Boletales/xerocomus_chrysenteron.htm |archive-date=October 26, 2007 }}</ref> The caps mature to convex and plane in old age.<ref name="mykoweb">{{cite web |url=http://www.mykoweb.com/CAF/species/Boletus_chrysenteron.html |title=''Xerocomus chrysenteron'' |access-date=2007-12-12 |author=Michael Wood & Fred Stevens |date=1996–2007 |work=The Fungi of California |archive-date=2012-06-26 |archive-url=https://web.archive.org/web/20120626011213/http://www.mykoweb.com/CAF/species/Boletus_chrysenteron.html |url-status=dead }}</ref> Cracks in the mature cap reveal a thin layer of light red flesh below the skin.<ref name="first"/>
+
+The 1 to 2&nbsp;cm-diameter [[Stipe (mycology)|stems]] have no [[annulus (mycology)|ring]], are mostly<ref name=":2" /> bright yellow and the lower part is covered in coral-red [[fibril]]s and has a constant elliptical to fusiform diameter throughout its length of 4 to 13&nbsp;cm.<ref name="mykoweb" /><ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=320|oclc=797915861}}</ref><ref name="Arora1986" /> The cream-colored stem flesh turns blue when cut. The species has large, yellow, angular pores,<ref name="T.Laessoe">{{cite book | author = Thomas Laessoe | year = 1998 | title = Mushrooms (flexi bound) | publisher = Dorling Kindersley | isbn = 0-7513-1070-0}}</ref> and produces an olive brown [[spore print]].<ref name="first" />
+
+=== Similar species ===
+''Xerocomellus chrysenteron'' cannot be identified with certainty without the aid of a microscope, as many intermediate forms occur between it and other taxa, in particular, some forms of ''[[Boletus pruinatus]]'' and ''[[Hortiboletus rubellus]]''. ''[[Boletus porosporus|B.&nbsp;porosporus]]'' is also similar to this species, but it is easily separated on account of the whitish under layer and truncate (chopped off) spores.<ref name="Gruppo">{{cite web |author=G. Bresadola |date=2005-05-02 |title=Xerocomus chrysenteron |url=http://www.mtsn.tn.it/bresadola/gallery.asp?code=30&lang=eng |url-status=dead |archive-url=https://web.archive.org/web/20110606005854/http://www.mtsn.tn.it/bresadola/gallery.asp?code=30&lang=eng |archive-date=June 6, 2011 |access-date=2007-12-12 |work=Gruppo Micologico «G. Bresadola»}}</ref> This species is also easily confused with ''B.&nbsp;cisalpinus'',<ref name=":1" /> ''[[Boletus declivitatum|B.&nbsp;declivitatum]]'',<ref name="Phillips06" /> ''[[Boletus dryophilus|B. dryophilus]]'', ''[[Aureoboletus mirabilis|B. mirabilis]]'',<ref name=":0" /> ''[[Boletus truncatus|B. truncatus]]'',<ref name=":2" /> and [[Xerocomellus zelleri|''B.&nbsp;zelleri'']].<ref name=":0" /> The caps are similar to ''[[Imleria badia]]'', the bay bolete.<ref name="first" />
+
+== Distribution and habitat ==
+''Xerocomellus chrysenteron'' grows singly or in small groups in [[hardwood]]/[[conifer]] woods from early summer to mid-winter. It is [[mycorrhiza]]l with hardwood trees, often [[beech]] on well-drained soils. It is frequent in parts of the northern [[temperate zones]].<ref name=T.Laessoe/> The species has been recorded in Taiwan.<ref name="Yeh 1980"/> It has been [[introduced species|introduced]] to New Zealand, where it grows in groups under introduced deciduous trees.<ref name="McNabb 1968">{{cite journal |author=McNabb RFR. |title=The Boletaceae of New Zealand |journal=New Zealand Journal of Botany |year=1968 |volume=6 |issue=2 |pages=137–76 (see p.&nbsp;148) |doi=10.1080/0028825X.1968.10429056|doi-access=free }} {{open access}}</ref>
+
+This species may not be as common as once thought, having been often mistaken for the recently recognised ''B.&nbsp;cisalpinus'' Simonini, Ladurner & Peintner.<ref name=":1">{{Cite web|date=2011|title=Species Page|url=http://www.basidiochecklist.info/DisplayResults.asp?intGBNum=42047|url-status=live|archive-url=https://web.archive.org/web/20110720010628/http://www.basidiochecklist.info/DisplayResults.asp?intGBNum=42047|archive-date=2011-07-20|access-date=2021-10-20|website=Basidiomycota Checklist-Online}}</ref>
+
+==Ecology==
+The fruit bodies of ''X.&nbsp;chrysenteron'' are prone to infestation by the bolete eater (''[[Hypomyces chrysospermus]]'').
+
+== Edibility ==
+''Xerocomellus chrysenteron'' is considered [[edible mushroom|edible]] but not desirable due to bland flavor and soft texture.<ref name=Arora1986>{{cite book |author=Arora D. |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/519/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |year=1986 |orig-date=1979 |edition=2nd |pages=519–20}}</ref> The pores are recommended to be removed immediately after mushrooms are picked as they rapidly decay.<ref name="Haas 1969">{{cite book |author=Haas H. |title=The Young Specialist looks at Fungi |year=1969 |page=44|publisher=Burke |location=London, UK |isbn=0-222-79409-7}}</ref> Young fungi are palatable and suitable for drying, but they become slimy when cooked; mature specimens are rather tasteless and decay quickly.
+
+==Gallery==
+<gallery mode=packed heights=150px style="text-align:left">
+Xerocomus_chrysenteron_a1.jpg|Maturing specimens
+Bol.chrys.jpg|Specimens with large yellow pores
+Xerocomellus chrysenteron, Edible fungi in basket 2013 G1.jpg|Picked mushrooms in basket
+Mold boletus chrysenteron rotfussroehrling.jpg|Mold growing on old specimen
+Boletus chrysenteron (Red Cracking Bolete).JPG|Mature picked specimens
+Red Cracking Bolete (Boletus chrysenteron) spore print.JPG|Spore print
+</gallery>
+
+==See also==
+*[[List of North American boletes]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Yeh 1980">{{cite journal |author=Yeh K-W, Chen Z-C. |title=The boletes of Taiwan |journal=Taiwania |year=1980 |volume=25 |issue=1 |pages=166–184 |url=http://tai2.ntu.edu.tw/taiwania/pdf/tai.1980.25.166.pdf |archive-date=2015-11-26 |access-date=2015-11-12 |archive-url=https://web.archive.org/web/20151126053336/http://tai2.ntu.edu.tw/taiwania/pdf/tai.1980.25.166.pdf |url-status=dead }}</ref>
+
+}}
+
+==External links==
+*{{Commons category-inline|italic=on}}
+*{{Wikispecies-inline|''Xerocomellus chrysenteron''}}
+*[http://www.ipet.gr/mushroom/Xerocomus_chrysenteron.html ''Xerocomus chrysenteron'']
+*[https://mushroomobserver.org/observer/show_name/9 About: ''Xerocomus chrysenteron'' (Bull.) Quél.]
+
+{{Taxonbar|from=Q254161}}
+
+[[Category:Boletaceae]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of New Zealand]]
+[[Category:Fungi of North America]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1789]]
+[[Category:Taxa named by Jean Baptiste François Pierre Bulliard]]
+[[Category:Fungus species]]

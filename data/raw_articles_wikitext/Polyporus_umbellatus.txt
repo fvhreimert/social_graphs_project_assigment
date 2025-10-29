@@ -1,0 +1,54 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Polyporus umbellatus.jpg
+| image_caption =
+| genus = Polyporus
+| species = umbellatus
+| authority = ([[Pers.]]) [[Elias Magnus Fries|Fr.]] (1821)
+| synonyms = ''Dendropolyporus umbellatus'' (Pers.) Jülich
+}}
+{{mycomorphbox
+|name = ''Polyporus umbellatus''
+|hymeniumType = pores
+|ecologicalType = saprotrophic
+|sporePrintColor = white
+|howEdible = choice
+}}
+
+'''''Polyporus umbellatus''''' is an [[edible mushroom|edible]] species of mushroom. It is also called  '''umbrella polypore'''.
+
+==Description==
+The fruit body is composed of numerous (sometimes several hundred) caps. They are {{Convert|1–4|cm|frac=4}} across,<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=282}}</ref> deeply umbilicate, light brown, and form the extremities of a strong, many branched stalk. The compound fungus can be up to 40&nbsp;cm in diameter. The pores are decurrent, narrow and whitish.<ref name="audu" /> The stalk is whitish grey, {{Convert|2.5-7|cm|abbr=on|frac=2}},<ref name="audu" /> and originates from a strong, underground, tuber-like nodule. The flesh is white and soft,<ref name="audu" /> hardening with age. The [[spore print]] is white.<ref name="audu" />
+
+{{gallery|mode=packed
+|Polyporus umbellatus01.jpg|The many branched stalks
+|Umbrella Polypore.jpg|Growing in the wild
+|Umbrella Polypore Caps & Pores.jpg|Caps
+}}
+
+=== Similar species ===
+The caps of ''[[Grifola frondosa]]'' are less consistently sized and those of ''[[Armillaria tabescens]]'' have gills.<ref name="audu" />
+
+==Habitat and distribution==
+The species grows on roots of old [[beech]]es or [[oak]].<ref>Kunca V., 2011: Ecology and incidence of Polyporus umbellatus in Slovakia. Czech Mycology 63(1): 39–53. [http://www.czechmycology.org/_cm/CM63104.pdf]</ref> It can be found in eastern North America from May to September.<ref name="audu" />
+
+==Uses==
+It is a choice [[edible mushroom]].<ref>{{Cite web |date=2019-06-25 |title=Polyporus umbellatus |url=https://midwestmycology.org/polyporus-umbellatus/ |access-date=2022-11-09 |website=Midwest American Mycological Information |language=en-US}}</ref>
+
+===Bioactive compounds===
+''Polyporus umbellatus''  may contain bioactive compounds with immunostimulating, anticancer, anti-inflammatory, and hepatoprotective properties.<ref name="pmid20673883">{{cite journal|vauthors=Li X, Xu W, Chen J | title=Polysaccharide purified from Polyporus umbellatus (Per) Fr induces the activation and maturation of murine bone-derived dendritic cells via toll-like receptor 4. | journal=Cell Immunol | year= 2010 | volume= 265 | issue= 1 | pages= 50–6 | pmid=20673883 | doi=10.1016/j.cellimm.2010.07.002 }}</ref><ref name="pmid20458671">{{cite journal|vauthors=Zhao YY, Chao X, Zhang Y, Lin RC, Sun WJ | title=Cytotoxic Steroids from Polyporus umbellatus. | journal=Planta Med | year= 2010 | volume=  76| issue=  15| pages=  1755–8| pmid=20458671 | doi=10.1055/s-0030-1249926 | bibcode=2010PlMed..76.1755Z }}</ref><ref name="pmid18439824">{{cite journal|vauthors=Sun Y, Yasukawa K | title=New anti-inflammatory ergostane-type ecdysteroids from the sclerotium of Polyporus umbellatus. | journal=Bioorg Med Chem Lett | year= 2008 | volume= 18 | issue= 11 | pages= 3417–20 | pmid=18439824 | doi=10.1016/j.bmcl.2008.04.008 }}</ref><ref name="pmid17666835">{{cite journal|vauthors=Zhou WW, Lin WH, Guo SX | title=Two new polyporusterones isolated from the sclerotia of Polyporus umbellatus. | journal=Chem Pharm Bull | year= 2007 | volume= 55 | issue= 8 | pages= 1148–50 | pmid=17666835 | doi=10.1248/cpb.55.1148| doi-access=free }}</ref><ref name="pmid8030616">{{cite journal|vauthors=You JS, Hau DM, Chen KT, Huang HF | title=Combined effects of chuling (Polyporus umbellatus) extract and mitomycin C on experimental liver cancer. | journal=Am J Chin Med | year= 1994 | volume= 22 | issue= 1 | pages= 19–28 | pmid=8030616 | doi=10.1142/S0192415X94000048}}</ref><ref name="pmid1576664">{{cite journal|vauthors=Ohsawa T, Yukawa M, Takao C, Murayama M, Bando H | title=Studies on constituents of fruit body of Polyporus umbellatus and their cytotoxic activity. | journal=Chem Pharm Bull | year= 1992 | volume= 40 | issue= 1 | pages= 143–7 | pmid=1576664 | doi=10.1248/cpb.40.143| url=https://www.jstage.jst.go.jp/article/cpb1958/40/1/40_1_143/_pdf | doi-access=free }}</ref><ref name="pmid1773459">{{cite journal|vauthors=Zhang YH, Liu YL, Yan SC | title=[Effect of Polyporus umbellatus polysaccharide on function of macrophages in the peritoneal cavities of mice with liver lesions] | journal=Zhong Xi Yi Jie He Za Zhi | year= 1991 | volume= 11 | issue= 4 | pages= 225–6, 198 | pmid=1773459 }}</ref><ref name="pmid3195347">{{cite journal|vauthors=Lin YF, Wu GL | title=[Protective effect of Polyporus umbellatus polysaccharide on toxic hepatitis in mice] | journal=Zhongguo Yao Li Xue Bao | year= 1988 | volume= 9 | issue= 4 | pages= 345–8 | pmid=3195347 }}</ref> 
+
+The [[Sclerotium|sclerotia]] stage of the fungal life cycle (a compact mass of hardened fungal [[mycelium]] containing food reserves) is the one used in Chinese medicine, and a 79.74 Mb reference genome was sequenced to better understand its formation.<ref>{{Cite journal |last1=Chi |first1=Li |last2=Liu |first2=Tianrui |last3=Hua |first3=Zhongyi |last4=Han |first4=Pengjie |last5=Jiao |first5=Honghong |last6=Yuan |first6=Yuan |date=2025-03-17 |title=Genome sequencing highlights the fungal sclerotium formation of medicinal fungi Polyporus umbellatus |journal=BMC Genomic Data |volume=26 |issue=1 |pages=17 |doi=10.1186/s12863-025-01311-8 |doi-access=free |issn=2730-6844 |pmc=11912782 |pmid=40091026}}</ref>
+
+==References==
+{{Reflist|2}}
+
+{{Taxonbar|from=Q675252}}
+
+[[Category:Polyporus|umbellatus]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi described in 1821]]
+[[Category:Fungus species]]
+
+
+{{Polyporales-stub}}

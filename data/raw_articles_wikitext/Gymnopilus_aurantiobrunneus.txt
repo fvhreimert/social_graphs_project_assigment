@@ -1,0 +1,35 @@
+{{Short description|Species of fungus}}
+{{unreferenced|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption =
+| taxon = Gymnopilus aurantiobrunneus
+| authority = Z.S.Bi (1986)
+}}
+{{mycomorphbox
+| name = Gymnopilus aurantiobrunneus
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+
+'''''Gymnopilus aurantiobrunneus''''' is a species of [[mushroom]]-forming [[fungus]] in the family [[Hymenogastraceae]]. It is found in China.
+
+==See also==
+{{Portal|Fungi}}
+* [[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+{{Taxonbar|from=Q5624724}}
+
+[[Category:Gymnopilus|aurantiobrunneus]]
+[[Category:Fungi of China]]
+[[Category:Fungi described in 1986]]
+[[Category:Fungus species]]
+
+
+{{Hymenogastraceae-stub}}

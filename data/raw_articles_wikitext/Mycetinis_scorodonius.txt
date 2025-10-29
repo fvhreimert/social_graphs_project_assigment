@@ -1,0 +1,95 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Mycetinis scorodonius 334947.jpg
+| genus = Mycetinis
+| species = scorodonius
+| authority = ([[Elias Magnus Fries|Fr.]]) A.W. Wilson & Desjardin, 2005
+| synonyms = {{species list
+|Agaricus scorodonius |Fr., 1815
+|Marasmius scorodonius |(Fr.) Fr., 1826
+|Chamaeceras scorodenius |(Fr.) Kuntze, 1898
+|Gymnopus scorodonius |(Fr.) J.L. Mata & R.H. Petersen, 2004
+|Mycetinis scorodonius var. scorodonius|(Fr.) A.W. Wilson & Desjardin, 2005
+}}
+| synonyms_ref = <ref name=SF/>
+}}
+{{mycomorphbox 
+| name = ''Mycetinis scorodonius''
+| whichGills = adnate
+| whichGills2 = adnexed
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=saprotrophic
+| sporePrintColor=white
+| howEdible=edible }}
+
+'''''Mycetinis scorodonius''''' ([[synonym (taxonomy)|syn]]. '''''Marasmius scorodonius''''') is one of the garlic-scented mushrooms formerly in the genus ''[[Marasmius]]'', having a beige [[pileus (mycology)|cap]] of up to 3&nbsp;cm and a tough slender [[stipe (botany)|stipe]].
+
+== Taxonomy ==
+This species was originally documented as ''Agaricus scorodonius'' by [[Elias Magnus Fries|Fries]] in 1815 and in 1836 the same author established its long-standing designation ''Marasmius scorodonius''. However following a 2005 paper it was decided to separate a group of garlic-smelling species, including this one, off into genus ''[[Mycetinis]]''.<ref name="Antonín" /><ref name="SF" />
+
+'''''Mycetinis virgultorum''''' is (according to [[Species Fungorum]]) a closely related species,<ref name="SFvirgultorum" /> or (according to Antonín and Noordeloos) a variety within the same species. In the latter classification, the two forms are called ''M.&nbsp;scorodonius'' var. ''scorodonius'' and ''M.&nbsp;scorodonius'' var. ''virgultorum''. The ''virgultorum'' form has smaller fruiting bodies, a scaly dull stem, and smaller spores.<ref name="Antonín" />
+
+An infra-species-level taxon, ''Marasmius scorodonius'' forma ''diminutivus'' was described in 2017 by Petersen et al.  This form is smaller, growing only to a cap diameter of 1&nbsp;cm, and it has only been found in urban environments in [[Washington state]].<ref name="Petersen 2017" />
+
+{{gallery|mode=packed
+|Mycetinis scorodonius f. diminutivus (10.3897-mycokeys.24.12846) Figure 78.jpg|''M. scorodonius'' f. ''diminutivus''
+}}
+
+=== Etymology ===
+The [[botanical name|species epithet]] is a Latin adjectival form of the Greek word for garlic, ''scorodon'' (σκόροδον).<ref name="Liddell" />
+
+== Description ==
+The species can be described as follows:<ref name=Antonín/><ref name=Courtecuisse/><ref name="FungaNordica"/><ref name=Moser/> 
+*The cap is red brown (or sometimes beige to ochre) and is [[hygrophanous]], drying to a paler colour. It is sometimes slightly wrinkled and grows to 1–3&nbsp;cm in diameter.
+*The gills are white and fairly crowded, and the attachment to the stem varies from [[Lamella (mycology)|adnate]] to almost free. The spore powder is white. 
+*The stem can grow to 6&nbsp;cm tall but is only up to 2&nbsp;mm in diameter. It is bald and pale at the apex, reddish brown lower down, and dark brown or blackish at the base.  
+*The smell and taste are strongly of garlic.
+*The spores are roughly ellipsoid and measure 7–11&nbsp;[[μm]] x 3–5&nbsp;μm.
+*The [[cheilocystidia]] (on the gill edge) are of the "broom cell" type, that is, they are club-shaped with a number of finger-like protuberances.
+
+==Ecology and distribution==
+
+This mushroom is found from summer to late autumn especially on conifer needles, but also on sticks and other debris, on bark of conifers and deciduous trees, and on grasses and other plants. While usually a [[saprophyte]], it has also been reported as a parasite of grass.<ref name=Antonín/><ref name="FungaNordica"/>
+
+It is fairly common in northern and central Europe, present in the remainder of Europe, and reported from eastern North America,<ref name=Kuo/> North Africa and Asia, including Israel.<ref name=Antonín/><ref name=Courtecuisse/>
+
+
+==Edibility==
+
+The taste of ''M. scorodonius'' is often described as nasty or unpleasant.<ref name=Antonín/><ref name=Eyssartier/> Although edible, it is too small to be substantial.<ref name="Miller 2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=197|author-link=Orson K. Miller Jr.}}</ref> It can be used to add a garlic flavour to dishes.<ref name=Moser/><ref name=LearnYourLand/>
+
+==References==
+{{Reflist|refs=
+
+<ref name=Antonín>{{cite book |author1=Antonín, V. |author2=Noordeloos, M. E. |title=A monograph of marasmioid and collybioid fungi in Europe |publisher=IHW Verlag |location=Berchtesgaden, DE |year=2010 |pages=400–404 |isbn=978-3-930167-72-2 }}</ref>
+
+<ref name=Courtecuisse>{{cite book |author1=Courtecuisse, R. |author2=Duhem, B. |title=Champignons de France et d'Europe |language=French |publisher=Delachaux et Niestlé |year=2013 |page=254 |isbn=978-2-603-02038-8 }} Also available in English.</ref>
+
+<ref name=Eyssartier>{{cite book |author1=Eyssartier, G. |author2=Roux, P. |title=Le guide des champignons France et Europe |language=French |publisher=Belin |year=2013 |page=418 |isbn=978-2-7011-8289-6 }}</ref>
+
+<ref name=FungaNordica>{{cite book |editor-first1=H. |editor-last1=Knudsen |editor-first2=J. |editor-last2=Vesterholt |title=Funga Nordica Agaricoid, boletoid, clavarioid, cyphelloid and gasteroid genera |publisher=Nordsvamp |location=Copenhagen |year=2018 |page=361 |isbn=978-87-983961-3-0 }}</ref>
+
+<ref name=Kuo>{{cite web |url=https://www.mushroomexpert.com/mycetinis_scorodonius.html |last=Kuo |first=M. |title=''Mycetinis scorodonius'' page |work=MushroomExpert.Com |access-date=2017-10-26 }}</ref>
+
+<ref name=LearnYourLand>{{cite web |url=https://learnyourland.com/mycetinis-scorodonius-the-wild-mushroom-that-tastes-like-garlic/ |last=Haritan |first=Adam |title=''Mycetinis scorodonius'' page |work=learnyourland.com |access-date=2017-10-26 }}</ref>
+
+<ref name=Liddell>{{cite book |last1=Liddell |first1=Henry George |author-link1=Henry Liddell |last2=Scott |first2=Robert |author-link2=Robert Scott (philologist) |title=A Greek-English Lexicon |publisher=Oxford University Press |url=http://perseus.uchicago.edu/cgi-bin/philologic/getobject.pl?c.68:6:105.LSJ |access-date=2018-10-18}}</ref>
+
+<ref name=Moser>{{cite book |last1=Moser |first1=Meinhard |author-link1=Meinhard Michael Moser |title=Keys to Agarics and Boleti (Polyporales, Boletales, Agaricales, Russulales) |publisher=Roger Phillips |location=London |year=1983 |page=166 |isbn=0-9508486-0-3 }}</ref>
+
+<ref name="Petersen 2017">{{cite journal |vauthors=Petersen RH, Hughes KW |title=An investigation on ''Mycetinis'' (Euagarics, Basidiomycota) |journal=MycoKeys |year=2017 |volume=26 |pages=1–138 |doi=10.3897/mycokeys.24.12846 |doi-access=free }}</ref>
+
+<ref name=SF>{{cite web |url=http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=501417 |title=''Mycetinis scorodonius'' page |work=Species Fungorum |publisher=Royal Botanic Gardens Kew |access-date=2018-10-27}}</ref>
+
+<ref name=SFvirgultorum>{{cite web |url=http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=553208 |title=''Mycetinis virgultorum'' page |work=Species Fungorum |publisher=Royal Botanic Gardens Kew |access-date=2018-10-27}}</ref>
+
+}}
+
+{{Taxonbar|from=Q939086}}
+
+[[Category:Mycetinis|scorodonius]]
+[[Category:Fungi of Europe]]
+[[Category:Edible fungi]]
+[[Category:Fungus species]]

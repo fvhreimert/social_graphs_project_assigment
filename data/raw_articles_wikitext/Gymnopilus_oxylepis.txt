@@ -1,0 +1,42 @@
+{{Short description|Species of fungus}}
+{{single source|date=October 2024}}
+{{no footnotes|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption =
+| taxon = Gymnopilus oxylepis
+| authority = ([[Miles Joseph Berkeley|Berk.]] & [[Christopher Edmund Broome|Broome]]) [[Rolf Singer|Singer]]
+| synonyms =
+}}
+{{mycomorphbox
+| name = Gymnopilus oxylepis
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+
+'''''Gymnopilus oxylepis''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]].
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==External links==
+*''[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=298046 Gymnopilus oxylepis]'' at [[Index Fungorum]]
+
+{{Taxonbar|from=Q5624914}}
+
+{{DEFAULTSORT:Gymnopilus oxylepis}}
+[[Category:Gymnopilus|oxylepis]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Miles Joseph Berkeley]]
+[[Category:Taxa named by Christopher Edmund Broome]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

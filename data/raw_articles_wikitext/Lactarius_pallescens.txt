@@ -1,0 +1,50 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Lactarius_pallescens_Alan.JPG
+| image_caption =
+| genus = Lactarius
+| species = pallescens
+| authority = Hesler & A.H. Sm.  (1979)
+| synonyms_ref = 
+}}
+{{mycomorphbox
+| name = ''Lactarius pallescens''
+| whichGills = subdecurrent
+| capShape = flat
+| capShape2 = depressed
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=mycorrhizal
+| sporePrintColor=white
+| howEdible=unknown}}
+
+'''''Lactarius pallescens'''''  is a Western North American "milk-cap" mushroom, of which the milk turns violet when the flesh is damaged.  The fungi generally identified as ''L. pallescens'' are part of a [[species complex|complex]] of closely related species and varieties which have a peppery taste and are difficult to delimit definitively.<ref name="Mykoweb">Wood, Miichael (2013 January). ''Lactarius pallescens''.  On the ''MykoWeb.com'' Web site: [http://www.mykoweb.com/CAF/species/Lactarius_pallescens.html]
+</ref>
+
+The gray-brown cap ranges from 3 to 10 cm in width, with a mucilaginous surface,<ref name=":1">{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=58}}</ref> whitish flesh and white [[latex]]. The [[Lamella (mycology)|gills]] are whitish and sometimes slightly decurrent.<ref name=":1" /> The viscid [[Stipe (mycology)|stalk]] ranges from 3 to 8 cm long and 1 to 2 cm wide. The spores are pale yellow to orange, elliptical, and bumpy. The flesh of the mushroom stains lilac.<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=95|oclc=797915861}}</ref> In age, reddish stains develop.<ref name=":1" />
+
+==Distribution==
+''Lactarius pallescens'' is found on the [[West Coast of the United States]]. In the [[Pacific Northwest]], it can be found in [[conifer]] forests.<ref name=":1" />
+
+==Related species==
+''[[Lactarius uvidus]]'' (a close relative)<ref name=":0" /><ref name=":1" /> and ''Lactarius californiensis'' are similar.
+
+
+
+==See also==
+*[[List of Lactarius species|List of ''Lactarius'' species]]
+
+==References==
+{{Reflist}}
+
+== External links ==
+
+*[http://www.mykoweb.com/CAF/species/Lactarius_pallescens.html Lactarius pallescens at Mykoweb]
+*[https://mushroomobserver.org/name/map/201 Distribution Map]
+{{Taxonbar|from=Q3212366}}
+
+[[Category:Lactarius|pallescens]]
+[[Category:Fungi described in 1979]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Alexander H. Smith]]
+[[Category:Fungus species]]

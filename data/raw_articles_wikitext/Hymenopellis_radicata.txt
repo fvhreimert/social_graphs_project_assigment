@@ -1,0 +1,42 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Xerula.radicata3.-.lindsey.jpg
+| taxon = Hymenopellis radicata
+| authority = (Relhan) Dörfelt
+| synonyms = 
+* ''Xerula radicata''
+* ''Oudemansiella radicata''
+}}
+{{mycomorphbox
+| name =''Hymenopellis radicata''
+| capShape =flat
+| capShape2 =umbonate
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=saprotrophic
+| sporePrintColor=white
+| howEdible=edible
+}}
+
+'''''Hymenopellis radicata''''', commonly known as the '''deep root mushroom''', '''beech rooter''',<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/219/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=219-220 |orig-date=1979}}</ref> or the '''rooting shank''', is a widespread [[agaric]] readily identified by its deeply rooted stalk ([[stipe (mycology)|stipe]]).
+
+== Description ==
+The [[pileus (mycology)|cap]] is medium to large, flat, grayish or yellowish brown and streaked, with a central hump and between {{Convert|2.5 and 12|cm|frac=4}} wide.<ref name="Arora1986" /> The surface of the cap is sticky or slimy when moist, with the underside displaying wide white gills, or [[Lamella (mycology)|lamellae]]. The brittle [[stipe (mycology)|stalk]] tapers at both ends and is nearly white above to brown below the soil.<ref>McKnight, Kent H. and McKnight, Vera B.(1987) ''A Field Guide to Mushrooms North America''. New York, NY: Houston Mifflin Company</ref>
+
+The stem grows into a long deeply rooting tap root until it touches a piece of wood. This may grow up to 25&nbsp;cm in length in some specimens.<ref>{{Cite book|title=Mushrooms and Fungi|last=Kibby|first=Geoffrey|date=2004-04-20|publisher=Chrysalis Children's Books|isbn=9781903954805|location=London|language=English}}</ref><ref name="Arora1986" />
+
+=== Similar species ===
+It is similar to ''[[Oudemansiella longipes]]''.<ref name="Arora1986" />
+
+== Uses ==
+The caps are reportedly edible.'''<ref name="Arora1986" />'''
+
+== References ==
+{{Reflist}}
+
+{{Taxonbar|from1=Q54371194|from2=Q1550286}}
+
+[[Category:Physalacriaceae]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]

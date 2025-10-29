@@ -1,0 +1,60 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Boletus floridanus 236116.jpg
+| taxon = Exsudoporus floridanus
+| authority = ([[Rolf Singer|Singer]]) Vizzini, Simonini & Gelardi (2014)
+| synonyms = * ''Boletus frostii'' subsp. ''floridanus'' <small>Singer (1945)</small>
+* ''Boletus floridanus'' <small>(Singer) Murrill (1948)</small>
+* ''Suillellus floridanus'' <small>(Singer) Murrill (1948)</small>
+* ''Butyriboletus floridanus'' <small>(Singer) G. Wu, Kuan Zhao & Zhu L. Yang (2016)</small>
+* ''Exsudoporus floridanus'' <small>(Singer) G. Wu, Kuan Zhao & Zhu L. Yang (2016)</small>
+}}
+{{mycomorphbox
+| name = ''Exsudoporus floridanus''
+| hymeniumType = pores
+| capShape = convex
+| capShape2 = flat
+| whichGills = adnate
+| stipeCharacter = bare
+| sporePrintColor = olive-brown
+| ecologicalType = mycorrhizal
+| howEdible = edible
+}}
+
+'''''Exsudoporus floridanus''''' is a species of edible [[bolete]] mushroom in the family [[Boletaceae]]. In 1945, American mycologist [[Rolf Singer]] described a species he found in [[Florida]] during his 1942–3 tenure of a [[List of Guggenheim Fellowships awarded in 1942|Guggenheim Memorial Fellowship]].<ref name="Singer 1945"/> He originally described it as a [[subspecies]] of the eastern North American species ''[[Boletus frostii]]'', but later considered it worthy of distinct species status in a 1947 publication.<ref name="Singer 1947"/> Based on morphological and phylogenetic data, Vizzini and colleagues transferred this species to a newly described genus ''[[Exsudoporus]]'' in 2014.<ref name="Vizzini 2014"/>
+Due to lack of sufficient sequences, Wu et al. (2016) were reluctant to accept ''Exsudoporus'' and considered it a synonym of ''[[Butyriboletus]]'', so they proposed a new combination ''Butyriboletus floridanus''.<ref>{{Cite journal|last1=Wu|first1=Gang|last2=Li|first2=Yan-Chun|last3=Zhu|first3=Xue-Tai|last4=Zhao|first4=Kuan|last5=Han|first5=Li-Hong|last6=Cui|first6=Yang-Yang|last7=Li|first7=Fang|last8=Xu|first8=Jian-Ping|last9=Yang|first9=Zhu L.|date=November 2016|title=One hundred noteworthy boletes from China|url=http://link.springer.com/10.1007/s13225-016-0375-8|journal=Fungal Diversity|language=en|volume=81|issue=1|pages=25–188|doi=10.1007/s13225-016-0375-8|s2cid=22506275|issn=1560-2745|url-access=subscription}}</ref> However, following phylogenetic and morphological analyses clearly resolved ''Exsudoporus'' as a monophyletic, homogenous and independent genus that is sister to ''Butyriboletus''. <ref name="Loizides 2019"/><ref name=Alona2022/>
+
+''Exsudoporus floridanus'' differs from ''Exsudoporus frostii'' in having a lighter cap color<ref>Specifically, "Corinthian red" in the subspecies compared with "jasper red", "nopal red" or "carmine" in the typical form, using [[Robert Ridgway|Ridgway]] color standards.</ref> and in the texture of the cap surface: the subspecies is [[tomentose]] (covered with dense, short, soft, matted hairs) or [[wikt:velutinous|velutinous]] (like velvet), compared to the relatively smooth surface of ''E.&nbsp;frostii''. Singer notes that although the physical characteristics between the two taxa may be blurred and are hard to define, the area of origin is a reliable indicator of subspecies status. ''E.&nbsp;floridanus'' is found on shaded lawns and [[scrubland]] in open oak stands in non-[[tropical]] regions of Florida, typically on grassy or sandy soil. It grows under or near several oak species, including [[Chapman oak]] (''Quercus chapmanii''), [[Quercus laurifolia|swamp laurel oak]] (''Q.&nbsp;laurifolia''), and [[southern live oak]] (''Q.&nbsp;virginiana''), and it fruits between May and October.<ref name="Singer 1947"/>
+
+== Edibility ==
+''Exsudoporus floridanus'' is said to be edible but bitter, tasting slightly acidic, akin to [[Lemon|lemons]]. It is known to cause [[gastric upset]] in some who consume it.<ref>{{Cite web |date=2015-07-24 |title=Exsudoporus floridanus |url=https://boletes.wpamushroomclub.org/product/boletus-floridanus/ |access-date=2022-10-25 |website=The Bolete Filter |language=en-US}}</ref>
+
+
+==See also==
+*[[List of North American boletes]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Singer 1945">{{cite journal |author=Singer R. |year=1945 |title=New Boletaceae from Florida (a preliminary communication) |journal=Mycologia |volume=37 |issue=6 |pages=797–9 |jstor=3755143 |doi=10.2307/3755143 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0037/006/0797.htm|url-access=subscription }}</ref>
+
+<ref name="Singer 1947">{{cite journal |author=Singer R. |year=1947 |title=The Boletoideae of Florida with notes on extralimital species III |journal=American Midland Naturalist |volume=37 |issue=1 |pages=77–8 |jstor=2421647 | doi = 10.2307/2421647}}</ref>
+
+<ref name="Vizzini 2014">{{cite journal |author=Vizzini A. |title=Nomenclatural novelties |journal=Index Fungorum |issue=183 |date=August 22, 2014 |page=1 |url=http://www.indexfungorum.org/Publications/Index%20Fungorum%20no.183.pdf}}</ref>
+
+<ref name="Loizides 2019">{{cite journal |title=Present status and future of boletoid fungi (Boletaceae) on the island of Cyprus: cryptic and threatened diversity unraveled by 10-year study. |vauthors=Loizides M, Bellanger JM, Assyov B, Moreau PA, Richard F |journal=Fungal Ecology |volume=41 |issue=13 |pages=65–81 |year=2019 |doi=10.1016/j.funeco.2019.03.008 |s2cid=181958289 }}</ref>
+
+<ref name=Alona2022>{{cite journal |vauthors=Biketova AY, Gelardi M, Smith ME, Simonini G, Healy RA, Taneyama Y, Vasquez G, Kovács Á, Nagy LG, Wasser SP, Peintner U, Nevo E, Bunyard BA, Vizzini A|date=2022 |title=Reappraisal of the Genus ''Exsudoporus (Boletaceae)'' Worldwide Based on Multi-Gene Phylogeny, Morphology and Biogeography, and Insights on ''Amoenoboletus'' |journal=Journal of Fungi |volume=8 |issue=2 |pages=2–25 |doi=10.3390/jof8020101 |pmid=35205856 |pmc=8874676 |doi-access=free }}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|284574}}
+
+{{Taxonbar|from=Q41712559}}
+
+[[Category:Boletaceae]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1948]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]

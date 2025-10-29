@@ -1,0 +1,201 @@
+{{short description|Species of edible fungus of the family Hydnaceae distributed in Europe}}
+{{for|the other species named Hedgehog mushroom|Hericium erinaceus}}
+{{featured article}}
+{{Speciesbox
+| image = Hedgehog fungi2.jpg
+| genus = Hydnum
+| species = repandum
+| authority = [[Carl Linnaeus|L.]] (1753)<ref name="Linnaeus 1753"/>
+| synonyms_ref = <ref name="urlMycoBank: Hydnum repandum"/>
+| synonyms =
+* ''Hydnum flavidum'' <small>[[Schaeff.]] (1774)<ref name="Schaeffer 1774"/></small>
+* ''Hypothele repanda'' <small>(L.) [[Jean-Jacques Paulet|Paulet]] (1812)</small>
+* ''Dentinum repandum'' <small>(L.) [[Samuel Frederick Gray|Gray]] (1821)<ref name="Gray 1821"/></small>
+* ''Tyrodon repandus'' <small>(L.) [[P.Karst.]] (1881)<ref name="Karsten 1881"/></small>
+* ''Sarcodon repandus'' <small>(L.) [[Quél.]] (1886)<ref name="Quélet 1886"/></small>
+}}
+{{mycomorphbox
+| name = ''Hydnum repandum''
+| whichGills = decurrent
+| capShape = depressed
+| hymeniumType = teeth
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = white
+| sporePrintColor2 = cream
+| howEdible = choice
+}}
+
+'''''Hydnum repandum''''', commonly known as the '''sweet tooth''', '''pig's trotter''',<ref name="Arora 1986"/> '''wood hedgehog''' or '''hedgehog mushroom''', is a [[basidiomycete]] fungus of the family [[Hydnaceae]]. First [[species description|described]] by [[Carl Linnaeus]] in 1753, it is the [[type species]] of the genus ''[[Hydnum]]''. The fungus produces [[fruit bodies]] (mushrooms) that are characterized by their [[Basidiospore|spore]]-bearing structures—in the form of spines rather than [[lamella (mycology)|gills]]—which hang down from the underside of the [[pileus (mycology)|cap]]. The cap is dry, colored yellow to light orange to brown, and often develops an irregular shape, especially when it has grown closely crowded with adjacent fruit bodies. The [[mushroom tissue]] is white with a pleasant odor and a spicy or bitter taste. All parts of the mushroom stain orange with age or when bruised.
+
+A [[mycorrhiza]]l fungus, ''Hydnum repandum'' is broadly distributed in Europe<ref name="Swenie Baroni Matheny pp. 35–72">{{cite journal | last1=Swenie | first1=Rachel A. | last2=Baroni | first2=Timothy J. | last3=Matheny | first3=P. Brandon | title=Six new species and reports of Hydnum (Cantharellales) from eastern North America | journal=MycoKeys | publisher=Pensoft Publishers | date=2018-11-30 | issue=42 | issn=1314-4049 | doi=10.3897/mycokeys.42.27369 | pages=35–72| pmid=30564052 | pmc=6286385 | doi-access=free }}</ref> where it fruits singly or in close groups in [[coniferous]] or [[deciduous]] woodland.<ref name="Nature">{{cite journal | title=Multilocus phylogenetic analyses reveal unexpected abundant diversity and significant disjunct distribution pattern of the Hedgehog Mushrooms ( Hydnum L.) - Scientific Reports | journal=Scientific Reports | date=6 May 2016 | volume=6 | issue=1 | article-number=25586 | doi=10.1038/srep25586 | last1=Feng | first1=Bang | last2=Wang | first2=Xiang-Hua | last3=Ratkowsky | first3=David | last4=Gates | first4=Genevieve | last5=Lee | first5=Su See | last6=Grebenc | first6=Tine | last7=Yang | first7=Zhu L. | pmid=27151256 | pmc=4858670 | bibcode=2016NatSR...625586F }}</ref><ref name="Wildflowers, wild orchids, fungi, wildlife; nature books, reserves">{{cite web | title=Hydnum repandum, Wood Hedgehog mushroom | website=Wildflowers, wild orchids, fungi, wildlife; nature books, reserves | url=https://www.first-nature.com/fungi/hydnum-repandum.php | access-date=2019-11-18}}</ref>  This is a choice [[edible mushroom|edible]] species, although mature specimens can develop a bitter taste. It has no poisonous lookalikes.
+
+== Taxonomy ==
+First officially [[species description|described]] by [[Carl Linnaeus]] in his 1753 ''[[Species Plantarum]]'', ''Hydnum repandum'' was [[sanctioned name|sanctioned]] by Swedish mycologist [[Elias Fries]] in 1821.<ref name="Fries 1821"/> The species has been shuffled among several genera: ''Hypothele'' by French naturalist [[Jean-Jacques Paulet]] in 1812; ''Dentinum'' by British botanist [[Samuel Frederick Gray]] in 1821; ''Tyrodon'' by Finnish mycologist [[Petter Karsten]] in 1881; ''[[Sarcodon]]'' by French naturalist [[Lucien Quélet]] in 1886.<ref name="urlMycoBank: Hydnum repandum"/> After a 1977 [[binomial nomenclature|nomenclatural]] proposal by American mycologist [[Ron Petersen|Ronald H. Petersen]]<ref name="Petersen 1977"/> was accepted, ''Hydnum repandum'' became the official [[type species]] of the genus ''Hydnum''. Previously, supporting arguments for making ''H.&nbsp;repandum'' the type were made by Dutch taxonomist [[Marinus Anton Donk]] (1958)<ref name="Donk 1958"/> and Petersen (1973),<ref name="Petersen 1973"/> while Czech mycologist [[Zdeněk Pouzar]] (1958)<ref name="Pouzar 1958"/> and Canadian mycologist [[Kenneth A. Harrison|Kenneth Harrison]] (1971) thought that ''[[Sarcodon imbricatus|H.&nbsp;imbricatum]]'' should be the type.<ref name="Harrison 1971"/>
+
+Several [[form (botany)|forms]] and [[variety (botany)|varieties]] of ''H.&nbsp;repandum'' have been described. Forms ''albidum'' and ''rufescens'', found in Russia, were published by T.L. Nikolajeva in 1961;<ref name="Nikolajeva 1961"/> the latter [[taxon]] is [[synonym (biology)|synonymous]] with ''[[Hydnum rufescens|H.&nbsp;rufescens]]''.<ref name="urlMycoBank: Hydnum repandum f. rufescens "/> Form ''amarum'', published from Slovenia by Zlata Stropnik, Bogdan Tratnik and Garbrijel Seljak in 1988,<ref name="Stropnik 1988"/> is illegitimate as per article 36.1 of the [[International Code of Nomenclature for algae, fungi, and plants]], as it was not given a sufficiently comprehensive description. French botanist [[Jean-Baptiste Barla]] described ''H.&nbsp;repandum'' var. ''rufescens'' in 1859.<ref name="Barla 1859"/> English naturalist [[Carleton Rea]] described the white-fruit bodied version as a variety—''H.&nbsp;repandum'' var. ''album''—in 1922.<ref name="Rea 1922"/>
+
+[[Molecular phylogenetics|Molecular]] studies have shown that the current [[species concept]] for ''H.&nbsp;repandum'' needed revision as there was a poor overlap between [[morphology (biology)|morphological]] and molecular species concepts. A 2009 [[phylogenetic]] analysis of European specimens, based on [[internal transcribed spacer]] and 5.8S DNA sequences, indicated that ''H.&nbsp;repandum'' specimens form two distinct [[clade]]s, whose only consistent morphological distinction is cap size. These genetic differences foreshadowed the presence of undescribed [[cryptic species]], and that the taxon may currently be undergoing intensive [[speciation]].<ref name="Grebenc 2009"/> A comprehensive genetic study published in 2016 of members of the genus worldwide found that there are at least four species in the broad concept of ''H.&nbsp;repandum'': two species from southern China, one from Europe and eastern North America, and ''H.&nbsp;repandum'' itself from Europe and northern (and alpine southwestern) China and Japan. Although it is missing from Central America, genetic material has been recovered from Venezuela from the tree ''[[Pakaraimaea|Pakaraimaea dipterocarpacea]]'', suggesting it somehow migrated there and had changed hosts.<ref name=feng16/>
+
+The [[botanical name|specific epithet]] ''repandum'' means "bent back", referring to the wavy cap margin. The varietal epithet ''album'' means "white as an egg".<ref name="Roody 2003"/> ''Hydnum repandum'' has been given several [[common name|vernacular names]]: "sweet tooth",<ref name="Phillips 2005"/> "yellow tooth fungus",<ref name="Schalkwijk-Barendsen 1991"/> "wood urchin",<ref name="Pegler 1997"/> "spreading hedgehog",<ref name="McKnight 1987"/> "hedgehog mushroom", or "pig's trotter".<ref name="Arora 1986"/> The variety ''album'' is known as "white wood".<ref name="Roody 2003"/>
+
+== Description ==
+
+
+The orange-, yellow- or tan-colored [[Pileus (mycology)|pileus]] (cap) is up to {{convert|17|cm|frac=2}} wide, although specimens measuring {{convert|25|cm|abbr=on|sigfig=1}} have been documented. It is generally somewhat irregular in shape (possibly being convex or concave at maturity), with a wavy margin that is rolled inward when young.<ref name="Arora 1986"/> Caps grow in a distorted shape when [[fruit bodies]] are closely clustered.<ref name="Laessoe 2002"/> The cap surface is generally dry and smooth, although mature specimens may show cracking.<ref name="Arora 1986"/> Viewed from above, the caps of mature specimens resemble somewhat those of chanterelles.<ref name="urlHydnum"/> The [[trama (mycology)|flesh]] is thick, white, firm, brittle, and bruises yellow to orange-brown. The underside is densely covered with small, slender whitish spines measuring {{convert|2–7|mm|frac=16|abbr=on}} long.<ref name="Arora 1986"/> These spines sometimes run down at least one side of the [[stipe (mycology)|stipe]].<ref name="Pegler 1997"/> The stipe, typically {{convert|3–10|cm|frac=2|abbr=on}} long and {{convert|1–3|cm|frac=4|abbr=on}} thick, is either white or the same color as the cap, and is sometimes off-center.<ref name="Arora 1986"/> It is easy to overlook the mushrooms when they are situated amongst [[agaric|gilled mushrooms]] and [[bolete]]s, because the cap and stipe are fairly nondescript and the mushrooms must be turned over to reveal their spines.<ref name="Abel 1993"/> The pure white variety of this species, ''H.&nbsp;repandum'' var. ''album'', is smaller than the main variety, with a cap measuring {{convert|2–7|cm|frac=2|abbr=on}} wide and a stipe that is {{convert|1–3|cm|frac=4|abbr=on}} long.<ref name="Roody 2003"/>
+
+The [[spore print]] is pale [[cream (colour)|cream]]. The [[basidiospore]]s are smooth, thin-walled and [[hyaline]] (translucent), roughly spherical to broadly egg-shaped, and measure 5.5–7.5 by 4.5–5.5&nbsp;[[μm]]. They usually contain a single, large [[refractive]] oil droplet. The [[basidia]] (spore-bearing cells) are club-shaped, four-spored, and measure 30–45 by 6–10&nbsp;μm. The [[cap cuticle]] is a trichodermium (where the outermost [[hypha]]e emerge roughly parallel, like hairs, perpendicular to the cap surface) of narrow, club-shaped cells that are 2.5–4&nbsp;μm wide. Underneath this tissue is the subhymenial layer of interwoven hyphae measuring 10–20&nbsp;μm in diameter. The spine tissue is made of narrow (2–5&nbsp;μm diameter), thin-walled hyphae with [[clamp connection]]s.<ref name="Pegler 1997"/>
+
+
+=== Chemistry ===
+Both ''H.&nbsp;repandum'' and the variety ''album'' contain the [[epoxide|diepoxide]] compound [[repandiol]] (2''R'',3''R'',8''R'',9''R'')-4,6-decadiyne-2,3:8,9-diepoxy-1,10-diol), which is under laboratory research to determine its possible effects.<ref name="Takahashi 1992" /> The [[volatile organic compound]]s responsible for the fruity aroma of the mushroom include eight-[[carbon]] derivatives, such as [[1-octen-3-ol]], (''E'')-2-octenol, and (''E'')-[[1,3-octadiene]].<ref name="Fons 2003" />
+
+European studies conducted after the 1986 [[Chernobyl disaster]] showed that the fruit bodies have a high rate of [[bioaccumulation|accumulation]] of the radioactive isotope [[caesium]].<ref name="Stachowiak 2012" />
+
+=== Similar species ===
+North American lookalikes include the white hedgehog (''[[Hydnum albidum]]'') and the giant hedgehog (''[[Hydnum albomagnum|H.&nbsp;albomagnum]]''). ''H.&nbsp;albidum'' has a white to pale yellowish grey fruit body that bruises yellow to orange. ''H.&nbsp;albomagnum'' is large and paler than ''H.&nbsp;repandum''.<ref name="Roberts 2011" /> ''[[Hydnum umbilicatum]]'' is smaller, with caps measuring {{convert|3–5|cm|frac=2|abbr=on}} in diameter, and thinner stipes that are {{convert|0.5–1|cm|frac=4|abbr=on}} wide.<ref name="Davis 2012" /> Its caps are umbilicate (with a navel-like cavity), sometimes with a hole in the center of the cap,<ref name="Laessoe 2002" /> unlike the flattened or slightly depressed caps of ''H.&nbsp;repandum''.<ref name="Roody 2003" /> Microscopically, ''H.&nbsp;umbilicatum'' has spores that are larger and more elliptical than those of ''H.&nbsp;repandum'', measuring 7.5–9 by 6–7.5&nbsp;μm.<ref name="urlHydnum" /> A European lookalike, ''[[Hydnum rufescens|H.&nbsp;rufescens]]'', is also smaller than ''H.&nbsp;repandum'', and has a deeper [[apricot (color)|apricot]] to orange color.<ref name="Sterry 2009" /> ''[[Hydnum ellipsosporum]]'', described as a new species from Germany in 2004, differs from ''H.&nbsp;repandum'' by the shape and length of its spores, which are [[ellipsoid]] and measure 9–11 by 6–7.5&nbsp;μm. Compared to ''H.&nbsp;repandum'', it has smaller fruit bodies, with cap diameters ranging from {{convert|3 to 5|cm|frac=2|abbr=on}} wide.<ref name="Ostrow 2004" />
+
+== Habitat and distribution ==
+, Germany]]
+
+''H. repandum'' is a [[mycorrhiza]]l fungus.<ref name="Laessoe 2002"/> The fruit bodies grow singly, scattered, or in groups on the ground or in [[leaf litter]] in both [[conifer]]ous and [[deciduous forest]]s.<ref name="Arora 1986"/><ref name="Sterry 2009"/> They can also grow in [[fairy ring]]s.<ref name="Dickinson 1982"/> Fruiting occurs from summer to autumn.<ref name="Phillips 2005"/> The species is widely distributed in Europe,<ref name="Swenie Baroni Matheny pp. 35–72"/> and is one of the most common of the tooth fungi.<ref name="Arora 1986"/> In Europe, it has been listed as a [[vulnerable species]] in the [[Red Data List]]s of the [[Netherlands]], [[Belgium]], and [[Germany]]; [[Sweden]] lists it as being of [[Least Concern]].<ref name="Arnolds 2010"/> ''H. repandum'' does not occur in Canada, but two related species do: ''[[Hydnum washingtonianum|H.&nbsp;washingtonianum]]'' and ''[[Hydnum subolympicum|H.&nbsp;subolympicum]]''.<ref name="Niskanen Liimatainen Nuytinck Kirk 2018 pp. 890–918">{{cite journal | last1=Niskanen | first1=Tuula | last2=Liimatainen | first2=Kare | last3=Nuytinck | first3=Jorinde | last4=Kirk | first4=Paul | last5=Ibarguren | first5=Ibai Olariaga | last6=Garibay-Orijel | first6=Roberto | last7=Norvell | first7=Lorelei | last8=Huhtinen | first8=Seppo | last9=Kytövuori | first9=Ilkka | last10=Ruotsalainen | first10=Juhani | last11=Niemelä | first11=Tuomo | last12=Ammirati | first12=Joseph F. | last13=Tedersoo | first13=Leho | title=Identifying and naming the currently known diversity of the genus ''Hydnum'', with an emphasis on European and North American taxa | journal=Mycologia | publisher=Informa UK Limited | volume=110 | issue=5 | date=2018-09-03 | issn=0027-5514 | doi=10.1080/00275514.2018.1477004 | pages=890–918| pmid=30215579 }}</ref>
+
+== Uses ==
+{{nutritionalvalue
+| name=''Hydnum repandum'', dried<ref name="Ayaz 2011">Nutritional values are based on [[food chemistry|chemical analysis]] of specimens collected from the
+East [[Black Sea region]] in Turkey. Source: {{cite journal |vauthors=Ayaz FA, Torun H, Özel A, Col M, Duran C, Sesli E, Colak A |year=2011 |title=Nutritional value of edible wild mushrooms collected from Black Sea region (Turkey) |journal=Turkish Journal of Biochemistry |volume=36 |issue=3 |pages=213–21 |url=http://www.turkjbiochem.com/2011/213-221.pdf |access-date=2013-09-09 |archive-date=2017-08-11 |archive-url=https://web.archive.org/web/20170811022211/http://turkjbiochem.com/2011/213-221.pdf }}</ref>
+| kJ=1431
+| protein=19.7 g
+| fat=4.3 g
+| carbs=56.1 g
+| iron_mg=38
+| calcium_mg=600
+| magnesium_mg=230
+| manganese_mg=23.2
+| sodium_mg =31.9
+| copper_mg=38.9
+| potassium_mg=2.89
+| vitC_mg=1.1
+| zinc_mg=5.72
+| source_usda=1
+}}
+=== Nutrition ===
+Dried ''H. repandum'' is 56% [[carbohydrate]]s, 4% [[fat]], and 20% [[protein (nutrient)|protein]]. In a 100 gram reference amount, several [[mineral (nutrient)|dietary minerals]] are high in content, especially [[copper]] and [[manganese]]. Major [[fatty acid]]s include [[palmitic acid]] (16%), [[stearic acid]] (1%), [[oleic acid]] (26%), [[linoleic acid]] (48%), and [[linolenic acid]] (20%). [[plant sterol|Mycosterol]] is present.<ref name="Kalač 2009"/>
+
+===Culinary===
+
+''H. repandum'' is considered to be a good [[edible mushroom]], having a sweet, nutty taste and a crunchy texture. Some consider it to be the culinary equivalent of the [[chanterelle]].<ref name="Ammirati 1987"/> Author Michael Kuo rates it as "great", noting that there are no [[mushroom poisoning|poisonous]] lookalikes and that ''H.&nbsp;repandum'' mushrooms are unlikely to be infested with maggots.
+
+Delicately brushing the cap and stipe of specimens immediately after harvest will help prevent soil from getting lodged between the teeth. ''H.&nbsp;repandum'' mushrooms can be cooked by [[pickling]],<ref name="Mabey 2007"/> [[simmering]] in milk or [[stock (food)|stock]], and [[sautéeing]], which creates a "tender, meaty texture and a mild flavor."<ref name="Kuo 2007"/> The mushroom tissue absorbs liquids well and assumes the flavors of added ingredients.<ref name="Kuo 2007"/> The firm texture of the cooked mushroom makes it suitable for freezing. Its natural flavor is reportedly similar to the peppery taste of [[watercress]],<ref name="Abel 1993"/> or [[oyster]]s.<ref name="Sept 2006"/> Older specimens may have a bitter taste, but boiling can remove the bitterness.<ref name="Mabey 2007"/> Specimens found under conifers can taste "unpleasantly strong".<ref name="Courtecuisse 1999"/> The form ''amarum'', locally common in Slovakia, is reportedly inedible because its fruit body has a bitter taste at all developmental stages.<ref name="Stropnik 1988"/>
+
+''Hydnum repandum'' is frequently sold with chanterelles in Italy, and in France, it is one of the officially recognized edible species sold in markets.<ref name="Dickinson 1982"/> In Europe, it is usually sold under its French name ''pied-de-mouton'' (sheep's foot).<ref name="Roberts 2011"/> ''H.&nbsp;repandum'' mushrooms are also used as a food source by the [[red squirrel]] (''Sciurus vulgaris'').<ref name="Grönwall 1984"/>
+
+== References ==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Abel 1993">{{cite book |vauthors=Abel D, Horn B, Kay R |title=A Guide to Kansas Mushrooms |publisher=University Press of Kansas |location=Lawrence, Kansas |year=1993 |pages=203–04 |isbn=978-0-7006-0571-2}}</ref>
+
+<ref name="Ammirati 1987">{{cite book |vauthors=Ammirati JF, McKenny M, Stuntz DE |title=The New Savory Wild Mushroom |publisher=University of Washington Press |location=Seattle, Washington |year=1987 |page=173 |isbn=978-0-295-96480-5}}</ref>
+
+<ref name="Arnolds 2010">{{cite journal |author=Arnolds E. |title=The fate of hydnoid fungi in The Netherlands and Northwestern Europe |journal=Fungal Ecology |year=2010 |volume=3 |issue=2 |pages=81–88 |doi=10.1016/j.funeco.2009.05.005|bibcode=2010FunE....3...81A }}</ref>
+
+<ref name="Arora 1986">{{cite book |author=Arora D. |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/618/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, California |year=1986 |orig-date=1979 |edition=2nd |pages=618–19}}</ref>
+
+<ref name="Barla 1859">{{cite book |author=Barla J-B. |title=Les Champignons de la Province de Nice |year=1859 |publisher=Canis Frères |location=Nice, France |page=81 |language=fr}}</ref>
+
+<ref name="Courtecuisse 1999">{{cite book |author= Courtecuisse R. |title=Mushrooms of Britain and Europe |year=1999 |series=Collins Wildlife Trust guides |publisher=Harpercollins |location=London |page= 325|isbn=978-0-00-220012-7}}</ref>
+
+<ref name="Davis 2012">{{cite book |vauthors=Davis RM, Sommer R, Menge JA |title=Field Guide to Mushrooms of Western North America |year=2012 |publisher=University of California Press |location=Berkeley, California |isbn=978-0-520-95360-4 |page=283}}</ref>
+
+<ref name="Dickinson 1982">{{cite book |title=VNR Color Dictionary of Mushrooms |vauthors=Dickinson C, Lucas J |year=1982 |publisher=Van Nostrand Reinhold |location=New York, New York |isbn=978-0-442-21998-7 |page=46}}</ref>
+
+<ref name="Donk 1958">{{cite journal |author=Donk MA. |title=Typification of the name ''Hydnum'' (Fungi) |journal=Taxon |year=1958 |volume=7 |issue=4 |pages=96–97 |jstor=1217430 |doi=10.2307/1217430 |bibcode=1958Taxon...7...96D }}</ref>
+
+<ref name=feng16>{{cite journal | title=Multilocus phylogenetic analyses reveal unexpected abundant diversity and significant disjunct distribution pattern of the Hedgehog Mushrooms (''Hydnum'' L.) | journal=Scientific Reports | volume=6 | article-number =25586 | vauthors=Feng B, Wang XH, Ratkowsky D, Gates G, Lee SS, Grebenc T, Yang ZL | doi=10.1038/srep25586 | pmid=27151256 | pmc=4858670 | year=2016| bibcode=2016NatSR...625586F }}</ref>
+
+<ref name="Fons 2003">{{cite journal |vauthors=Fons F, Rapior S, Eyssartier G, Bessiere JM |title=Les substances volatiles dans les genres ''Cantharellus'', ''Craterellus'' et ''Hydnum'' |trans-title=Volatile compounds in the ''Cantharellus'', ''Craterellus'' and ''Hydnum'' genera |journal=Cryptogamie. Mycologie |year=2003 |volume=24 |issue=4 |pages=367–76 |language=fr}}</ref>
+
+<ref name="Fries 1821">{{cite book |author=Fries EM. |title=Systema Mycologicum |publisher=Ex Officina Berlingiana |location=Lundin, Sweden |volume=1 |year=1821 |page=397 |language=la |url=https://www.biodiversitylibrary.org/page/4338537}}</ref>
+
+<ref name="Gray 1821">{{cite book |author=Gray SF. |title=A Natural Arrangement of British Plants |year=1821 |volume=1 |publisher=Baldwin, Cradock and Joy |location=London, UK |page=650 |url=https://www.biodiversitylibrary.org/page/30087352}}</ref>
+
+<ref name="Grebenc 2009">{{cite journal |vauthors=Grebenc T, Martín MP, Kraigher H |title=Ribosomal ITS diversity among the European species of the genus ''Hydnum'' (Hydnaceae) |journal=Anales del Jardín Botánico de Madrid |year=2009 |volume=66 |issue=S1 |pages=121–32 |doi=10.3989/ajbm.2221|bibcode=2009AJBM...66S.121G |citeseerx=10.1.1.626.4325 }}</ref>
+
+<ref name="Grönwall 1984">{{cite journal |vauthors=Grönwall O, Pehrson Å |title=Nutrient content in fungi as a primary food of the red squirrel ''Sciurus vulgaris'' L |journal=Oecologia |year=1984 |volume=64 |issue=2 |pages=230–31 |doi=10.1007/BF00376875|pmid=28312343 |bibcode=1984Oecol..64..230G |s2cid=28125328 }}</ref>
+
+<ref name="Harrison 1971">{{cite journal |author=Harrison KA. |title=''Dentinum'' SF Gray or ''Hydnum'' L ex Fries |journal=Mycologia |year=1971 |volume=63 |issue=5 |pages=1067–69 |doi=10.2307/3757911 |jstor=3757911 }}</ref>
+
+<ref name="Kalač 2009">{{cite journal |author=Kalač P. |title=Chemical composition and nutritional value of European species of wild growing mushrooms: A review |journal=Food Chemistry |year=2009 |volume=113 |issue=1 |pages=9–16 |doi=10.1016/j.foodchem.2008.07.077}}</ref>
+
+<ref name="Karsten 1881">{{cite journal |author=Karsten PA. |title=Enumeratio Hydnearum Fr. Fennicarum, systemate novo dispositarum |journal=Revue Mycologique Toulouse |year=1881 |volume=3 |issue=9 |pages=19–21 |language=la |url=https://www.biodiversitylibrary.org/page/11599314}}</ref>
+
+<ref name="Kuo 2007">{{cite book |author=Kuo M. |title=100 Edible Mushrooms |publisher=The University of Michigan Press |location=Ann Arbor, Michigan |year=2007 |pages=[https://archive.org/details/100ediblemushroo00kuom/page/104 104–06] |isbn=978-0-472-03126-9 |url=https://archive.org/details/100ediblemushroo00kuom/page/104 }}</ref>
+
+<ref name="Laessoe 2002">{{cite book |vauthors=Laessoe T, Lincoff G |year=2002 |title=Mushrooms |location=London |publisher=Dorling Kindersley Adult |edition=2nd |series=Smithsonian Handbooks |isbn=978-0-7894-8986-9 |page=238}}</ref>
+
+<ref name="Linnaeus 1753">{{cite book |author=Linnaeus C. |title=Species Plantarum |year=1753 |volume=2 |location=Stockholm, Sweden |publisher=Impensis Laurentii Salvii |page=1178 |language=la |url=https://www.biodiversitylibrary.org/page/359199}}</ref>
+
+<ref name="Mabey 2007">{{cite book |author=Mabey R. |title=Food for Free |publisher=Collins |location=London, UK | year=2007 |pages=196–97 |isbn=978-0-00-724768-4}}</ref>
+
+<ref name="McKnight 1987">{{cite book |vauthors=McKnight VB, McKnight KH |title=A Field Guide to Mushrooms: North America |series=Peterson Field Guides |publisher=Houghton Mifflin |location=Boston, Massachusetts |year=1987 |page=90 |isbn=978-0-395-91090-0 |url=https://books.google.com/books?id=kSdA3V7Z9WcC&pg=PA90}}</ref>
+
+<ref name="Nikolajeva 1961">{{cite journal |author=Nikolajeva TL. |title=Flora plantarum cryptogamarum URSS. Fungi. Familia Hydnaceae |journal=Flora Plantarum Cryptogamarum URSS |year=1961 |volume=6 |issue=2 |pages=1–432 [306] }}</ref>
+
+<ref name="Ostrow 2004">{{cite journal |vauthors=Ostrow H, Beenkin L |title=''Hydnum ellipsosporum'' spec. nov. (Basidiomycetes, Cantharellales) – ein Doppelganger von ''Hydnum rufescens'' Fr. |trans-title=''Hydnum ellipsosporum'' spec. nov (Basidiomycetes, Cantharellales) – a double of ''Hydnum rufescens'' Fr. |journal=Zeitschrift für Mykologie |year=2004 |volume=70 |issue=2 |pages=137–56 |url=http://www.dgfm-ev.de/sites/default/files/ZM702137Ostrow.pdf |language=de |access-date=2015-10-07 |archive-url=https://web.archive.org/web/20160701205035/http://www.dgfm-ev.de/sites/default/files/ZM702137Ostrow.pdf |archive-date=2016-07-01 }}</ref>
+
+<ref name="Pegler 1997">{{cite book |vauthors=Pegler DN, Roberts PJ, Spooner BM |title=British Chanterelles and Tooth Fungi |year=1997 |publisher=Royal Botanic Gardens |location=Kew, UK |isbn=978-1-900347-15-0 |pages=40–41}}</ref>
+
+<ref name="Petersen 1973">{{cite journal |author=Petersen RH. |title=The typification of ''Hydnum'' L. ex Fries |journal=Taxon |volume=22 |issue=1 |pages=99–104 |jstor=1218039|year=1973 |doi=10.2307/1218039 |bibcode=1973Taxon..22...99P }}</ref>
+
+<ref name="Petersen 1977">{{cite journal |author=Petersen RH. |title=The typification of ''Hydnum'' Linn. per Fries: Time for stability |journal=Taxon |year=1977 |volume=26 |issue=1 |pages=144–46 |jstor=1220228 |doi=10.2307/1220228 |bibcode=1977Taxon..26..144P }}</ref>
+
+<ref name="Phillips 2005">{{cite book |author=Phillips R. |title=Mushrooms and Other Fungi of North America |publisher=Firefly Books |location=Buffalo, New York |year=2005 |page=320 |isbn=978-1-55407-115-9}}</ref>
+
+<ref name="Pouzar 1958">{{cite journal |author=Pouzar Z. |title=Typification of the Genus ''Hydnum'' (Hymenomycetes) |journal=Taxon |year=1958 |volume=7 |issue=3 |pages=79–80 |jstor=1217522 |doi=10.2307/1217522 |bibcode=1958Taxon...7...79P }}</ref>
+
+<ref name="Quélet 1886">{{cite book |author=Quélet L. |title=Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium |publisher=Octave Dion |location=Paris |year=1886 |page=189 |language=la |url=https://www.biodiversitylibrary.org/page/32653225}}</ref>
+
+<ref name="Rea 1922">{{cite book |author=Rea C. |title=British Basidiomycetae: A Handbook to the Larger British Fungi |year=1922 |publisher=Cambridge University Press |location=Cambridge, UK |page=630 |url=https://www.biodiversitylibrary.org/page/32190492}}</ref>
+
+<ref name="Roberts 2011">{{cite book |vauthors=Roberts P, Evans S |title=The Book of Fungi |year=2011 |publisher=University of Chicago Press |location=Chicago, Illinois |page=471 |isbn=978-0-226-72117-0}}</ref>
+
+<ref name="Roody 2003">{{cite book |author=Roody WC |title=Mushrooms of West Virginia and the Central Appalachians |publisher=University Press of Kentucky |location=Lexington, Kentucky |year=2003 |page=398 |isbn=978-0-8131-9039-6}}</ref>
+
+<ref name="Schaeffer 1774">{{cite book |author=Schaffer JC. |title=Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones |year=1774 |volume=4 | publisher=Apud J.J. Palmium |location=Regensburg, Germany |page=99, plate 318 |language=la |url=https://www.biodiversitylibrary.org/page/3887581}}</ref>
+
+<ref name="Schalkwijk-Barendsen 1991">{{cite book |author=Schalkwijk-Barendsen HME. |title=Mushrooms of Western Canada |publisher=Lone Pine Publishing |location=Edmonton, Canada |year=1991 |pages=[https://archive.org/details/mushroomsofweste0000scha/page/368 368–69] |isbn=978-0-919433-47-2 |url=https://archive.org/details/mushroomsofweste0000scha/page/368 }}</ref>
+
+<ref name="Sept 2006">{{cite book |author=Sept JD. |title=Common Mushrooms of the Northwest: Alaska, Western Canada & the Northwestern United States |publisher=Calypso Publishing |location=Sechelt, British Columbia |year=2006 |page=67 |isbn=978-0-9739819-0-2}}</ref>
+
+<ref name="Stachowiak 2012">{{cite journal |vauthors=Stachowiak B, Reguła J |title=Health-promoting potential of edible macromycetes under special consideration of polysaccharides: A review |journal=European Food Research and Technology |year=2012 |volume=234 |issue=3 |pages=369–80 |doi=10.1007/s00217-011-1656-9|s2cid=83986546 }}</ref>
+
+<ref name="Sterry 2009">{{cite book |vauthors=Sterry P, Hughes B |title=Complete Guide to British Mushrooms and Toadstools |publisher=Collins |location=London, UK |year=2009 |isbn=978-0-00-723224-6 |page=300}}</ref>
+
+<ref name="Stropnik 1988">{{cite book |vauthors=Stropnik Z, Tratnik B, Seljak G |title=Naše Gobje Bogastvo |year=1988 |publisher=Mladinska Knjiga |location=Ljubljana  |language=sl}}</ref>
+
+<ref name="Takahashi 1992">{{cite journal |vauthors=Takahashi A, Endo T, Nozoe S |title=Repandiol, a new cytotoxic diepoxide from the mushrooms ''Hydnum repandum'' and ''H. repandum'' var. ''album'' |journal=Chemical & Pharmaceutical Bulletin |year=1992 |volume=40 |issue=12 |pages=3181–84 |pmid=1294319 |doi=10.1248/cpb.40.3181|doi-access=free }}</ref>
+
+<ref name="urlHydnum">{{cite web |author=Kuo M. |url=http://www.mushroomexpert.com/hydnum_repandum.html |title=''Hydnum repandum'' |publisher=MushroomExpert.Com |date=August 2003 |access-date=8 September 2013}}</ref>
+
+<ref name="urlMycoBank: Hydnum repandum">{{cite web |title=''Hydnum repandum'' L. 1753 |url=http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=73711&Fields=All |publisher=[[MycoBank]]. International Mycological Association |access-date=28 September 2012}}</ref>
+
+<ref name="urlMycoBank: Hydnum repandum f. rufescens ">{{cite web |title=''Hydnum repandum'' f. ''rufescens'' (Pers.) Nikol., Flora plantarum cryptogamarum URSS. Fungi. Familia Hydnaceae, 6(2): 305, 1961 |url=http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=103617&Fields=All |publisher=MycoBank. International Mycological Association |access-date=7 September 2013}}</ref>
+}}
+
+=== Cited literature ===
+* {{cite book |author=Dugan FM |title=Conspectus of World Ethnomycology |year=2011 |publisher=American Phytopathological Society|location=St. Paul, Minnesota |isbn=978-0-89054-395-5}}
+
+== External links==
+* {{Commons category-inline|italic=on}}
+* {{Wikispecies-inline}}
+
+{{Taxonbar|from=Q13684}}
+
+{{DEFAULTSORT:Hydnum Repandum}}
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1753]]
+[[Category:Fungi of Europe]]
+[[Category:Fungal taxa named by Carl Linnaeus]]
+[[Category:Hydnum|repandum]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]

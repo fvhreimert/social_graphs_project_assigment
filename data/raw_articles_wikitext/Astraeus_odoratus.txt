@@ -1,0 +1,64 @@
+{{Short description|Species of fungus}}
+{{speciesbox
+| image =
+| image_caption =
+| genus = Astraeus (fungus)
+| species = odoratus
+| authority = Phosri, [[Roy Watling|Watling]], M.P.Martín & Whalley (2004)
+| synonyms_ref = <ref name=Phosri2007/>
+| synonyms = ''Astraeus thailandicus'' <small>Petcharat (2003)<ref name=Petcharat2003/></small>
+}}
+{{mycomorphbox
+| name = ''Astraeus odoratus''
+| capShape = no
+| hymeniumType = gleba
+| ecologicalType = mycorrhizal
+| sporePrintColor = brown
+| howEdible = caution
+}}
+
+'''''Astraeus odoratus''''' ({{langx|th|เห็ดเผาะหนัง}}; ''Het pho nang'' เห็ดเผาะหนัง, ''Het pho'' เห็ดเผาะ, or ''Het nang'' เห็ดหนัง, the latter meaning "skin mushroom") is a species of [[Astraeus (fungus)|false earthstar]] in the family [[Diplocystaceae]]. Described as a new species in 2004, it was originally found in the [[Thai highlands]] growing in sandy or [[laterite]]-rich soil in dry lowland [[dipterocarp]] forests.<ref name=Phosri2004/> The species is found in [[Southeast Asia]].<ref name=Phosri2007/>
+
+==Description==
+[[Sporocarp (fungi)|Fruit bodies]] begin as brownish spheres or flattened spheres, partially submerged in the earth. The outer tissue layer, the [[exoperidium]], splits open in a star-like fashion into 3–9 rays. The rays are [[hygroscopic]], spreading out when moist and curling inward when dry. The fully expanded fruit body measures up to {{convert|65|mm|in}} in diameter. Fresh fruit bodies have an odor similar to moist soil.<ref name=Phosri2004/>
+
+The spores are spherical, covered with spines, and measure 7.5–15.2&nbsp;[[micrometre|μm]]. The ornamentation of the spines on the surface is less dense than that of the similar ''[[Astraeus hygrometricus]]''.<ref name=Phosri2004/>
+
+==Habitat and distribution==
+ are set on fire by local farmers during the hot dry season from February to April in an attempt to increase the yield of the false earthstar.]]
+''Astraeus odoratus'' it is found in the dry lowland [[dipterocarp]] forests of Thailand. The fungus fruits during the rainy season in May and June, in sandy or [[laterite]]-rich soil.<ref name=Phosri2004/> It is associated with [[Alder]], [[Chestnut]], ''[[Eucalyptus]]'' and [[Douglas-fir]].<ref name=Sysouphanthong2010/>
+
+In Thailand, it is commonly believed that forest fires stimulate the growth of mushrooms, including ''A.&nbsp;odoratus'', and fires are set intentionally to increase the yield of fruit bodies. Although the mushrooms may be easier to find and collect on the [[forest floor|litter]]-free ground of burnt forest, there is no evidence that burning increases yield, while it does decrease the biodiversity and yield of other edible mushroom-producing fungi.<ref name=Sysouphanthong2010/>
+{{Clear}}
+
+==Uses==
+Since they cannot be cultivated commercially, these mushrooms fetch a high price on the market.<ref name=Sysouphanthong2010/>
+
+Young fruit bodies are collected from the wild and sold in the markets of [[Thailand]]. Thai people eat the blanched mushroom with ''[[nam phrik]]'' (Thai chilli pastes) or ''[[nam chim]]'' (dipping sauces), or cooked in curry and also only boiled in water with [[fish sauce]] and [[palm sugar]].<ref name=Petcharat2003/>
+
+==See also==
+*''[[Astraeus asiaticus]]''
+
+==References==
+{{Reflist|refs=
+
+<ref name=Petcharat2003>{{cite journal |author=Petcharat V. |year=2003 |title=Edible ''Astraeus'' (Basidiomycota) from Thailand |journal=Nordic Journal of Botany |volume=23 |issue=4 |pages=499–503 |doi=10.1111/j.1756-1051.2003.tb00423.x}}</ref>
+
+<ref name=Phosri2004>{{cite journal |vauthors=Phosri C, Watling R, Martín MP, Whalley AJ |year=2004|title=The genus ''Astraeus'' in Thailand |journal=Mycotaxon |volume=89 |issue=2 |pages=453–63 |url=http://www.cybertruffle.org.uk/cyberliber/59575/0089/002/0453.htm}}</ref>
+
+<ref name=Phosri2007>{{cite journal |vauthors=Phosri C, Martín MP, Sihanonth P, Whalley AJ, Watling R |title=Molecular study of the genus ''Astraeus'' |journal=Mycological Research |volume=111 |issue=3 |pages=275–86 |year=2007 |pmid=17360168 |doi=10.1016/j.mycres.2007.01.004}}</ref>
+
+<ref name=Sysouphanthong2010>{{cite journal |vauthors=Sysouphanthong P, Thongkantha S, Zhao R, Soytong K, Hyde KD |title=Mushroom diversity in sustainable shade tea forest and the effect of fire damage |journal=Biodiversity and Conservation |year=2010 |volume=19 |issue=5 |pages=1401–15 |doi=10.1007/s10531-009-9769-1|s2cid=28440904 }}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|488422}}
+
+{{Taxonbar|from=Q15643796}}
+
+{{DEFAULTSORT:Astraeus Odoratus}}
+[[Category:Boletales]]
+[[Category:Fungi described in 2004]]
+[[Category:Fungi of Asia]]
+[[Category:Fungus species]]

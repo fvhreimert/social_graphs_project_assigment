@@ -1,0 +1,74 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Pholiota aurivella 56647.jpg
+| image_caption = 
+| taxon = Pholiota adiposa
+| authority = ([[Batsch]]) [[P.Kumm.]] (1871)
+| synonyms_ref = <ref name="urlFungorum synonymy: Pholiota adiposa"/>
+| synonyms = 
+*''Agaricus adiposus'' <small>Batsch (1786)</small>
+*''Dryophila adiposa'' <small>(Batsch) [[Quél.]] (1886)</small>
+*''Hypodendrum adiposum'' <small>(Batsch) [[Overh.]] (1932)</small>
+}}'''''Pholiota adiposa''''' is a slimy, scaly, yellow-brown mushroom. It is found in North America and Eurasia. It grows parasitically or saprotrophically, most often on beech species, fruiting in bunches between August and November. Several compounds produced by this mushroom, for example methyl gallate, are of interest for their medicinal properties.
+
+== Taxonomy ==
+It was originally [[species description|described]] by German naturalist [[August Batsch]] in 1786 as a species of ''[[Agaricus]]''.<ref name="Batsch 1786" /> [[Paul Kummer]] transferred it to the genus ''[[Pholiota]]'' in 1871.<ref name="Kummer 1871" />
+
+The name ''adiposa'' comes from the slimy, oily appearance of the cap.
+
+== Description ==
+The mushroom is fasciculate, meaning it grows in bunches. The cap is up to {{Convert|9.5|cm|frac=4}} wide, yellow to orangish<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |page=676}}</ref> with dark, concentrically arranged scales.<ref name=":0">{{Cite journal |last=Holec |first=Jan |date=1998 |title=The Taxonomy of Pholiota aurivella and Pholiota adiposa - a return to Batsch and Fries |url=http://www.czechmycology.org/_cm/CM50306.pdf |journal=Czech Mycology |volume=50 |issue=3 |pages=201–222|doi=10.33585/cmy.50306 }}</ref> The [[Lamella (mycology)|gills]] are crowded and yellow to brown colored.<ref name=":0" /> The [[Stipe (mycology)|stipe]] is up to {{Convert|12|cm|abbr=on|frac=4}} long,<ref name="audu" /> cylindrical, and broadening slightly at the base.<ref name=":0" /> The [[spore print]] is brown.<ref name="audu" />
+
+The [[spore]]s are ovoid to ellipsoid, smooth, brown colored, and around 7.5–9.5 x 5–6.3&nbsp;μm in size.<ref name=":0" /> These spores are carried on cylindrical or clavate [[Basidium|basidia]] with 4 [[sterigma]]ta, however occasionally only 2–3 are present.<ref name=":0" /> ''P.&nbsp;adiposa'' has [[Cystidium|chrysocystidia]] (25–56 x 7.5–11&nbsp;μm) and [[cheilocystidia]] (20–50 x 5–17&nbsp;μm).<ref name=":0" /> Cheilocystidia of ''P.&nbsp;adiposa'' can be fusiform, cylindrical, clavate, lageniform, or obovoid.<ref name=":0" /> All tissues of this fungus have [[clamp connection]]s.<ref name=":0" />
+
+=== Similar species ===
+Microscopy is needed to reliably identify the species.<ref name="audu" />
+
+''P. adiposa'' and two closely related species, [[Pholiota aurivella|''P.&nbsp;aurivella'']] and [[Pholiota limonella|''P.&nbsp;limonella'']]'','' are sometimes referred to as the ''P.&nbsp;adiposa'' complex.<ref name=":1">{{Cite journal |last1=Lee |first1=Jun Won |last2=Park |first2=Myung Soo |last3=Park |first3=Ji-Hyun |last4=Cho |first4=Yoonhee |last5=Kim |first5=Changmu |last6=Kim |first6=Chang Sun |last7=Jo |first7=Jong Won |last8=Lim |first8=Young Woon |date=2020-11-01 |title=Taxonomic Study of the Genus Pholiota (Strophariaceae, Basidiomycota) in Korea |journal=Mycobiology |volume=48 |issue=6 |pages=476–483 |doi=10.1080/12298093.2020.1831427 |issn=1229-8093 |pmc=7717605 |pmid=33312014}}</ref> These species are morphologically very similar, but can be distinguished based on the spore size or substrate the fungus is growing on.<ref name=":1" />
+
+''[[Pholiota squarrosoides]]'' is similar when young.<ref name="audu" />
+
+== Distribution and habitat ==
+
+''P. adiposa'' has been documented in North America, Europe, and Asia.<ref name=":0" /><ref name=":8">{{Cite journal |last1=Rong |first1=Chengbo |last2=Song |first2=Shuang |last3=Yang |first3=Li |last4=Pan |first4=Xuejiao |last5=Liu |first5=Yu |last6=Wang |first6=Shouxian |date=2021-10-22 |title=Breeding of a high-yield strain for commercial cultivation by crossing Pholiota adiposa |url=http://www.scielo.br/j/cagro/a/yNKmY7h8bxGcQNbYnTNRC6H/?lang=en |journal=Ciência e Agrotecnologia |language=en |volume=45 |article-number=e010921 |doi=10.1590/1413-7054202145010921 |issn=1413-7054|doi-access=free }}</ref> It can grow parasitically on live stems of trees, or as a [[Saprotrophic nutrition|saprotroph]] on dead wood.<ref name=":0" /> Substrates can be various beech species, poplar, and willow trees.<ref name=":0" /><ref name=":8" /> Fruitification occurs between August and November, most commonly between September and October.<ref name=":0" /> ''P.&nbsp;adiposa'' grows above ground, as opposed to fungi which prefer buried wood. It can grow in temperature ranges between 10-30&nbsp;°C, with an optimal temperature of 25&nbsp;°C.<ref name=":2">{{Cite journal |last1=Wang |first1=Zhan Bin |last2=Xu |first2=Hong Yun |last3=Li |first3=De Hai |last4=Wang |first4=Jing Jie |date=2012-05-14 |title=The Biological Characteristics and its Sequence Analysis of &lt;i&gt;Pholiota adiposa&lt;/i&gt; |url= |journal=Advanced Materials Research |language=en-US |volume=518-523 |pages=5371–5375 |doi=10.4028/www.scientific.net/amr.518-523.5371 |s2cid=83612540 |issn=1662-8985}}</ref> Mycelial growth is severely suppressed below 5&nbsp;°C or above 35&nbsp;°C. In growth media.<ref name=":2" /> ''P.&nbsp;adiposa'' can grow in a pH of 5-9, growing the best at a pH of 6.<ref name=":2" />
+
+== Edibility ==
+It is edible, and regularly consumed in many parts of Asia.{{Citation needed|date=April 2025}}
+
+== Bioactive compounds ==
+''P. adiposa'' produces many bioactive compounds that are of interest for potential medicinal properties. These include [[methyl gallate]],<ref name=":3">{{Cite journal |last1=Wang |first1=Chang Rong |last2=Zhou |first2=Rong |last3=Ng |first3=Tzi Bun |last4=Wong |first4=Jack Ho |last5=Qiao |first5=Wen Tao |last6=Liu |first6=Fang |date=2014-03-01 |title=First report on isolation of methyl gallate with antioxidant, anti-HIV-1 and HIV-1 enzyme inhibitory activities from a mushroom (Pholiota adiposa) |url=https://www.sciencedirect.com/science/article/pii/S1382668914000258 |journal=Environmental Toxicology and Pharmacology |language=en |volume=37 |issue=2 |pages=626–637 |doi=10.1016/j.etap.2014.01.023 |pmid=24572641 |issn=1382-6689|url-access=subscription |doi-access=free }}</ref> [[Angiotensin-converting enzyme|Angiotensin 1-converting Enzyme]] (ACE) inhibitory peptide,<ref>{{Cite journal |last1=Kyo-Chul |first1=Koo |last2=Dae-Hyoung |first2=Lee |last3=Jae-Ho |first3=Kim |last4=Hyung-Eun |first4=Yu |last5=Jeong-Sik |first5=Park |last6=Jong-Soo |first6=Lee |date=2006 |title=Production and Characterization of Antihypertensive Angiotensin I-Converting Enzyme Inhibitor from Pholiota adiposa |url=https://koreascience.kr/article/JAKO200626813062280.page |journal=Journal of Microbiology and Biotechnology |volume=16 |issue=5 |pages=757–763 |issn=1017-7825}}</ref> and various polysaccharides with antitumor and antioxidant properties.<ref name=":4">{{Cite journal |last1=Deng |first1=Peng |last2=Zhang |first2=Guquan |last3=Zhou |first3=Bo |last4=Lin |first4=Rongshan |last5=Jia |first5=Le |last6=Fan |first6=Keming |last7=Liu |first7=Xiaonan |last8=Wang |first8=Guoyi |last9=Wang |first9=Li |last10=Zhang |first10=Jianjun |date=2011-01-01 |title=Extraction and in vitro antioxidant activity of intracellular polysaccharide by Pholiota adiposa SX-02 |url=https://www.sciencedirect.com/science/article/pii/S1389172310002574 |journal=Journal of Bioscience and Bioengineering |language=en |volume=111 |issue=1 |pages=50–54 |doi=10.1016/j.jbiosc.2010.08.004 |pmid=20801714 |issn=1389-1723|url-access=subscription }}</ref><ref name=":5">{{Cite journal |last1=Gharibzahedi |first1=Seyed Mohammad Taghi |last2=Marti-Quijal |first2=Francisco J. |last3=Barba |first3=Francisco J. |last4=Altintas |first4=Zeynep |date=2022-03-31 |title=Current emerging trends in antitumor activities of polysaccharides extracted by microwave- and ultrasound-assisted methods |url=https://www.sciencedirect.com/science/article/pii/S0141813022001039 |journal=International Journal of Biological Macromolecules |language=en |volume=202 |pages=494–507 |doi=10.1016/j.ijbiomac.2022.01.088 |pmid=35045346 |issn=0141-8130|url-access=subscription }}</ref><ref name=":6">{{Cite journal |last1=Yang |first1=Zhongwei |last2=Liu |first2=Zijing |last3=Zhu |first3=Junmo |last4=Xu |first4=Jie |last5=Pu |first5=Youwei |last6=Bao |first6=Yixi |date=2022-12-31 |title=Green synthesis and characterization of gold nanoparticles from Pholiota adiposa and their anticancer effects on hepatic carcinoma |journal=Drug Delivery |language=en |volume=29 |issue=1 |pages=997–1006 |doi=10.1080/10717544.2022.2056664 |issn=1071-7544 |pmc=8982465 |pmid=35363110}}</ref><ref name=":7">{{Cite journal |last1=Zhou |first1=Jiao |last2=Gong |first2=Jinhua |last3=Chai |first3=Yangyang |last4=Li |first4=Dehai |last5=Zhou |first5=Cong |last6=Sun |first6=Changyan |last7=Regenstein |first7=Joe M. |date=August 2022 |title=Structural analysis and in vitro antitumor effect of polysaccharides from Pholiota adiposa |url=https://link.springer.com/10.1007/s10719-022-10065-9 |journal=Glycoconjugate Journal |language=en |volume=39 |issue=4 |pages=513–523 |doi=10.1007/s10719-022-10065-9 |pmid=35675021 |s2cid=249465066 |issn=0282-0080|url-access=subscription }}</ref> The purported health benefits of this fungus has generated interest in improving the yields of commercially cultivated ''P. adiposa''.<ref name=":8" />
+
+
+
+=== Methyl gallate ===
+''P. adiposa'' is the first fungus from which methyl gallate has been extracted.<ref name=":3" /> Methyl gallate has been studied for its antioxidant and related {{nowrap|[[HIV-1]]}} treatment properties. Antioxidants isolated from natural sources are desired due to their generally low cytotoxicity. Methyl Gallate was shown to preferentially scavenge superoxide (O<sup>2-</sup>) ions, which have been hypothesized to be involved in [[Long terminal repeat|HIV-LTR]] activation.<ref name=":3" />
+
+=== Polysaccharides ===
+Various [[polysaccharide]]s isolated from ''P. adiposa'' have been shown to have anti tumor effects in mice. One dubbed SPAP2-1 interfered with the cell cycle and induced apoptosis in [[HeLa]] cells.<ref name=":7" /> Another called PAP-1a was combined with gold [[nanoparticle]]s, increasing the [[macrophage]] count in mice.<ref name=":6" /> Other polysaccharides have been isolated which exhibit antioxidant effects.<ref name=":4" /> An overview of the literature on ''P. adiposa'' polysaccharides has suggested their antitumor abilities are closely tied to their antioxidant abilities.<ref name=":5" />
+
+== See also ==
+*[[List of Pholiota species|List of ''Pholiota'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Batsch 1786">{{cite book |author=Batsch AJGK. |title=Elenchus fungorum. Continuatio prima |year=1786 |page=147 |language=Latin, German |url=http://caliban.mpiz-koeln.mpg.de/batsch/elenchus2/high/IMG_5462.html}}</ref>
+
+<ref name="Kummer 1871">{{cite book |author=Kummer P. |title=Der Führer in die Pilzkunde |year=1871 |publisher=C.&nbsp;Luppe |location=Zerbst |page=83 |language=German |url=https://www.biodiversitylibrary.org/page/34209652}}</ref>
+
+<!--<ref name="Noordeloos 1999">{{cite book |vauthors=Noordeloos ME, Kuyper TW, Vellinga EC |title=Flora Agaricina Neerlandica  |url=https://books.google.com/books?id=ablJJike0eYC&pg=PA85 |year=1999 |publisher=CRC Press |isbn=978-90-5410-493-3 |page=85}}</ref>  -->
+
+<ref name="urlFungorum synonymy: Pholiota adiposa">{{cite web |url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=235773 |title=GSD Species Synonymy: ''Pholiota adiposa'' (Batsch) P. Kumm. |publisher=Species Fungorum. CAB International |access-date=2016-01-10}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|235773}}
+
+{{Taxonbar|from=Q10671550}}
+
+[[Category:Strophariaceae]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi described in 1786]]
+[[Category:Taxa named by August Batsch]]
+[[Category:Fungus species]]

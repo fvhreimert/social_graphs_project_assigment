@@ -1,0 +1,41 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Astraeus koreanus.jpg
+| image_caption =
+| genus = Astraeus (fungus)
+| species = koreanus
+| authority = ([[V.J.Stanek]]) [[Hanns Kreisel|Kreisel]] (1976)
+| synonyms_ref = <ref name="urlMycoBank:Astraeus koreanus"/>
+| synonyms = ''Astraeus hygrometricus'' var. ''koreanus'' <small>V.J.Stanek (1958)</small>
+}}
+{{mycomorphbox
+| name = ''Astraeus koreanus''
+| capShape = no
+| hymeniumType = gleba
+| ecologicalType = mycorrhizal
+| sporePrintColor = brown
+| howEdible = inedible
+}}
+
+'''''Astraeus koreanus''''' is a species of [[Astraeus (fungus)|false earthstar]] in the family [[Diplocystaceae]]. Described as a new species in 1976, it is found in Korea.<ref name=Kreisel1976/> The species was originally named as a variety ''koreanus'' of ''[[Astraeus hygrometricus]]'' in 1958.<ref name=Pilat1958/>
+
+==References==
+{{Reflist|refs=
+
+<ref name=Kreisel1976>{{cite journal |author=Kreisel H. |year=1976 |title=Gasteromyzeten aus Nepal II |journal=Feddes Repertorium |volume=87 |issue=1–2 |pages=83–107 |language=German |doi=10.1002/fedr.19760870106}}</ref>
+
+<ref name=Pilat1958>{{cite book |author=Pilát A. |title=Flora ČSR: Gasteromycetes, Houby-Břichatky (Gasteromycetes-Puffballs) |year=1958 |publisher=Nakladatelstvi Československé Akademie Ved |location=Prague |pages=632, 819 |language=Czech}}</ref>
+
+<ref name="urlMycoBank:Astraeus koreanus">{{cite web |title=''Astraeus koreanus'' (V.J. Stanek) Kreisel 1976 |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=309298 |publisher=[[MycoBank]]. International Mycological Association |accessdate=2011-09-01}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|488422}}
+
+{{Taxonbar|from=Q4811188}}
+
+[[Category:Boletales]]
+[[Category:Fungi described in 1958]]
+[[Category:Fungi of Asia]]
+[[Category:Fungus species]]

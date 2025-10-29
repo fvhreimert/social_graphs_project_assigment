@@ -1,0 +1,64 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Agasil0big.jpg
+| image_caption =  
+| taxon = Agaricus silvaticus
+| authority = [[Jacob Christian Schäffer|Schaeff.]] 1774
+}}
+{{mycomorphbox
+| name = Agaricus silvaticus
+| hymeniumType = gills
+| capShape = flat
+| stipeCharacter = ring
+| sporePrintColor = brown
+| howEdible = caution
+| ecologicalType = saprotrophic
+| whichGills = NA
+}}
+
+
+
+'''''Agaricus silvaticus''''' (or '''''Agaricus sylvaticus'''''), otherwise known as the '''scaly wood mushroom''', '''blushing wood mushroom''', or '''pinewood mushroom''', is a species of mushroom often found in groups in coniferous forests from early summer, or September through to November in Europe, North Africa and North America.
+
+== Naming ==
+
+The species name ''sylvaticus'' (or ''silvaticus'') means "of the woods".  Both spellings are found in the literature, but [[Species Fungorum]] gives ''sylvaticus'' as the current name and so that version should be preferred.<ref name="FN" /><ref name="SF" />
+
+This well-known species was first validly described under the current name, ''Agaricus silvaticus'', in 1774 by the early mycologist [[Jacob Christian Schäffer]].<ref name="SF" />  At that time most [[Lamella (mycology)|gilled mushrooms]] were all grouped under the genus ''[[Agaricus]]'', but later were allocated to new genera which reflected their different characteristics.  Now ''Agaricus'' has a much more restricted meaning, being the genus of the common cultivated mushrooms of Europe and America, but ''A. sylvaticus'' belongs to that group and has kept the same name during all that time.<ref name="Schaeffer" />
+
+==Description==
+The greyish-brown cap is hemispherical when young, but later flattens out,{{Citation needed|date=January 2025}} growing up to {{Convert|10|cm|frac=4}} in diameter.<ref name="tfb">{{Cite book |last=Francis-Baker |first=Tiffany |title=Concise Foraging Guide |date=2021 |publisher=[[Bloomsbury Publishing|Bloomsbury]] |isbn=978-1-4729-8474-6 |series=[[The Wildlife Trusts]] |location=London |pages=160}}</ref> It is covered with broad scales. The gills are grey when young and become much darker with age. The spores are chocolate brown. The stem is brownish, often with a hanging [[Annulus (mycology)|ring]] and a small bulb at the base.<ref name="Garnweidner" /> The flesh is white with a mild taste, turning reddish when cut.<ref name="tfb" />
+
+=== Similar species ===
+''Agaricus haemorrhoidarius'' is normally considered a synonym, but has also been defined as a separate species, distinguished by its flesh which immediately turns red when cut. ''[[Agaricus phaeolepidotus]]'' is distinguished by a stem which yellows (in addition to turning pink) when cut. The cap background is browner than ''A.&nbsp;silvaticus'' and its smell suggests iodine or ink. ''[[Tricholoma vaccinum]]'' looks similar from above but has no ring and develops reddish-brown gills.
+
+Some lookalikes cause gastric upset.<ref name="Miller 2006">{{cite book|last=Miller Jr.|first=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=277|author-link=Orson K. Miller Jr.}}</ref>
+
+==Uses==
+The species is edible cooked,<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |publisher=Firefly Books |year=2010 |isbn=978-1-55407-651-2 |location=Buffalo, NY |page=220}}</ref><ref name="tfb" /> but resembles inedible mushrooms.<ref name="Miller 2006" />
+
+==See also==
+* [[List of Agaricus species|List of ''Agaricus'' species]]
+
+==References==
+{{Reflist|refs=
+<ref name=FN>{{cite book |editor-first1=H. |editor-last1=Knudsen |editor-first2=J. |editor-last2=Vesterholt |title=Funga Nordica Agaricoid, boletoid and cyphelloid genera |publisher=Nordsvamp |location=Copenhagen |year=2008 |page=525 |isbn=978-87-983961-3-0}}</ref>
+<ref name=Garnweidner>E. Garnweidner. ''Mushrooms and Toadstools of Britain and Europe''. Collins. 1994.</ref>
+
+<ref name=Schaeffer>{{cite book |first1=Jacob Christian |last1=Schäffer |title=Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur icones, nativis coloribus expressae. |publisher=J.J. Palmium |location=Erlangen |year=1800 |url=https://www.biodiversitylibrary.org/bibliography/3884#/summary }}  The book covers all sorts of mushrooms, but they are all assigned to the genus ''Agaricus''.</ref>
+
+<ref name=SF>{{cite web |url=http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=490442 |title=''Species Fungorum'' ''Agaricus sylvaticus'' page|work=Index Fungorum|publisher=Royal Botanic Gardens Kew |access-date=2017-01-01}}</ref>
+}}
+
+==External links==
+{{Commons category}}
+*{{IndexFungorum|244265}}
+*{{MycoBank|244265}}
+
+{{Taxonbar|from=Q1097213}}
+
+[[Category:Agaricus|silvaticus]]
+[[Category:Fungi of Europe]]
+[[Category:Fungus species]]
+[[Category:Fungi described in 1774]]
+[[Category:Taxa named by Jacob Christian Schäffer]]

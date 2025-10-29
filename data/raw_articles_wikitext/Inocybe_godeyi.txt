@@ -1,0 +1,65 @@
+{{Short description|Species of fungus}}
+{{Good article}}
+{{Speciesbox
+| image = Inocybe godeyi 71610.jpg
+| image_caption = 
+| genus = Inocybe
+| species = godeyi
+| authority = [[Claude Casimir Gillet|Gillet]] 1874
+| synonyms_ref = <ref name="species"/>
+| synonyms = *''Inocybe rubescens'' <small>Gillet 1883</small>
+*''Agaricus trinii'' var. ''rubescens'' <small>(Gillet) [[Narcisse Théophile Patouillard|Pat.]] 1884</small>
+*''Inocybe godeyi'' var. ''rufescens'' <small>[[Mordecai Cubitt Cooke|Cooke]] 1909</small>
+*''Inocybe boltonii'' <small>[[Roger Heim|R.Heim]] 1931</small>
+*''Inocybe boltoni'' <small>R.Heim 1931</small>
+*''Inocybe rickenii'' <small>R.Heim 1931</small>
+*''Astrosporina boltonii'' <small>(R.Heim) [[A.Pearson]] 1943</small>
+}}
+
+'''''Inocybe godeyi''''' is a species of [[Inocybaceae]] fungus found in Europe. The species produces [[mushroom]]s with cone-shaped [[pileus (mycology)|caps]] up to {{convert|5|cm|in|abbr=on|sigfig=1}} in diameter. The caps are cream, becoming browner, but they bruise red. The [[stipe (mycology)|stem]] is up to {{convert|6|cm|in|abbr=on|sigfig=1}} long, and has a "bulb" at the base. The white [[trama (mycology)|flesh]] has a strong smell and an [[wikt:acrid|acrid]] taste. The mushrooms can be found on forest floors in autumn months; the species forms an [[ectomycorrhizal]] relationship to surrounding trees, favouring [[beech]]. ''I.&nbsp;godeyi'' is known to be [[poisonous mushroom|poisonous]], containing [[muscarine]] compounds, and consumption of the mushrooms can lead to [[SLUDGE syndrome]]. The species is sometimes mistaken for the deadly ''[[Inocybe erubescens|I.&nbsp;erubescens]]''.
+
+First described by [[Claude Casimir Gillet]], the species retains the name which it was first given, but has a number of [[synonym (taxonomy)|taxonomic synonyms]]. Its [[botanical name|specific name]] honours [[Louis-Luc Godey]]. Within the genus ''[[Inocybe]]'', it has been [[classification (biology)|classified]] in a number of ways, but appears to form part of a [[clade]] (that is, a group sharing a common ancestor) with species including ''[[Inocybe abietis|I.&nbsp;abietis]]'', ''[[Inocybe corydalina|I.&nbsp;corydalina]]'', ''[[Inocybe agglutinata|I.&nbsp;agglutinata]]'' and ''[[Inocybe pudica|I.&nbsp;pudica]]''.
+
+==Taxonomy and phylogeny==
+''Inocybe godeyi'' was first [[Species description|described]], and given its current name, by French [[botanist]] and [[mycologist]] [[Claude Casimir Gillet]] in his 1874 work ''Les Hyménomycètes ou description de tous les champignons (fungi) qui croissent en France''.<ref>{{cite web |url= http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=189598|title= ''Inocybe godeyi''|publisher= [[Index Fungorum]]|access-date=11 July 2011}}</ref> The [[Botanical name|specific name]] honours the French mycologist [[Louis-Luc Godey]].<ref>{{cite book |title=British Basidiomycetaceae: a Handbook to the Larger British Fungi |author=Rea, Carleton |author-link=Carleton Rea |year=1922 |publisher=[[Cambridge University Press]]|page=198}}</ref> British mycologist [[Mordecai Cubitt Cooke]] described a [[variety (botany)|variety]] of the species, ''Inocybe godeyi'' var. ''rufescens'', in a 1909 issue of the ''[[Transactions of the British Mycological Society]]''. However, the name is now considered [[Synonym (taxonomy)|synonymous]] with ''Inocybe godeyi''. A number of other names are recognised as synonymous. Gillet's own ''Inocybe rubescens'', described in an 1883 issue of ''Revue Mycologique'', is no longer seen as a separate [[taxon]]. The same is true of [[Narcisse Théophile Patouillard]]'s 1884 description of ''I.&nbsp;rubescens'' as a variety of "''Agaricus trinii''", ''Agaricus trinii'' var. ''rubescens''. Other synonyms include [[Roger Heim]]'s 1931 ''Inocybe rickenii'' and ''Inocybe boltonii''.<ref name="species">{{cite web |url= http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=189598|title= ''Inocybe godeyi'' synonymy|publisher= Species Fungorum|access-date=11 July 2011}}</ref>
+
+Within the genus ''Inocybe'', ''I.&nbsp;godeyi'' has been classified in a number of ways. In 1986, mycologist Thom Kuyper placed the species in the [[supersection]] ''Marginatae'' ([[subgenus]] ''Inocybe''), along with species including ''[[Inocybe abietis|I.&nbsp;abietis]]'', ''[[Inocybe calospora|I.&nbsp;calospora]]'' and ''[[Inocybe praetervisa|I.&nbsp;praetervisa]]''. [[Rolf Singer]] considers ''Marginatae'' a [[Section (botany)|section]] in subgenus ''Inocybe'', but he placed ''I.&nbsp;godeyi'' in the section ''Geophyllinae'' (in the [[subgenus]] ''Inocibium'') along with species including ''[[Inocybe agglutinata|I.&nbsp;agglutinata]]'' and ''[[Inocybe pudica|I.&nbsp;pudica]]''. A 2002 [[phylogenetic]] study found that Singer's ''Geophyllinae'' is probably [[monophyletic]] (that is, the taxa all come from a common, recent ancestor) and suggested that ''I.&nbsp;godeyi'' forms a [[clade]] with species including ''I.&nbsp;abietis'', ''[[Inocybe corydalina|I.&nbsp;corydalina]]'', ''I.&nbsp;agglutinata'' and ''I.&nbsp;pudica''. All species in the clade were "smooth-spored Inocybes with [[wiktionary:metuloid|metuloid]] [[Hymenium|hymenial]] cystidia", but there were other species that fit that description, such as ''[[Inocybe lacera|I.&nbsp;lacera]]'', that were shown not to be a part of the clade.<ref name="Matheny">{{cite journal |author1=Matheny, P. Brandon |author2=Liu, Yajuan J. |author3=Ammirati, Joseph F. |author4=Hall, Benjamin D. |year= 2002|title= Using RPB1 sequences to improve phylogenetic inference among mushrooms (''Inocybe'', Agaricales)|journal= American Journal of Botany|volume= 89|issue= 4|pages= 688–98 |jstor=4131413 |doi=10.3732/ajb.89.4.688 |pmid=21665669|doi-access=free }}</ref>
+
+==Description==
+{{mycomorphbox
+| name             = ''Inocybe godeyi''
+| whichGills       = adnexed
+| capShape         = conical
+| hymeniumType     = gills
+| ecologicalType   = mycorrhizal
+| sporePrintColor  = reddish-brown
+| howEdible        = poisonous
+}}
+''Inocybe godeyi'' produces [[mushroom]]s each of which features a [[pileus (mycology)|cap]] of {{convert|2|to|5|cm|in|sigfig=1|abbr=on}} across. The cap is initially cone-shaped, but expands outward, and flattens somewhat. In younger mushrooms, it is a cream colour, but as the fruit bodies mature, it changes to an [[ochre]] to [[tan (color)|tan]] colour; however, the cap can sometimes become entirely red, the colour it turns when bruised. The cap surface of younger specimens is smooth and silky.<ref name="Phillips"/> The surface of older caps becomes increasingly fibrous, and cracks often develop, beginning at the cap margin and moving towards the centre. There is usually a small [[umbo (mycology)|umbo]].<ref name="Sterry">{{cite book |title= Complete Guide to British Mushrooms & Toadstools |author1=Sterry, Paul |author2=Hughes, Barry |year=2009 |publisher=[[HarperCollins]] |isbn=978-0-00-723224-6 |page=192}}</ref> The [[stipe (mycology)|stem]] attaches to the center of the cap, and measures {{convert|40|to|60|mm|in|sigfig=1|abbr=on}} by {{convert|3|to|8|mm|in|sigfig=1|abbr=on}}. Towards the base, the stem surface is covered in fine grains, and at the very base, there is an obviously defined "bulb". In colour, the stem is an off-white, becoming redder as the mushroom ages. The [[trama (mycology)|flesh]] is white, but gradually turns red when it is exposed. The [[lamella (mycology)|gills]] begin as an off-white, but become gradually the colour of [[cinnamon]].<ref name="Phillips">{{cite book |title= Mushrooms and Other Fungi of Great Britain and Europe|author= Phillips, Roger|year= 1981|publisher= [[Pan Books]]|location= London|isbn= 0-330-26441-9|page=148}}</ref> They are adnexed, which means that only part of the depth of the gills attaches to the stem, and crowded.<ref name="Sterry"/>
+
+===Microscopic features===
+''Inocybe godeyi'' leaves a [[Snuff (tobacco)|snuff]]-brown [[spore print]], while the individual [[spore]]s themselves are smooth and [[almond]]-shaped. The spores measure 9 to 11.5 by 5.5 to 7&nbsp;[[micrometre]]s.<ref name="Phillips"/> Each [[basidium]] bares four spores.<ref name="Jordan"/> Both the cheilocystidia ([[cystidia]] found on the edges of the gills) and the pleurocystidia (cystidia found on the faces of the gills) are [[Spindle (textiles)|spindle]]- or [[bottle]]-shaped, with some kind of encrustation at the tip. They have thick [[cell wall]]s.<ref name="Phillips"/>
+
+===Similar species===
+It is sometimes mistaken for the deadly ''[[Inocybe erubescens]]''.<ref name="Pegler"/> The rarer ''I.&nbsp;erubescens'', like ''I.&nbsp;godeyi'', bruises red, though it is lighter in colour to begin with. The most distinguishing feature is that ''I.&nbsp;erubescens'' lacks a bulbous base.<ref name="Kibby">{{cite book |title=Mushrooms and Toadstools of Britain and Northern Europe |last=Kibby |first=Geoffrey |year=2003 |publisher=[[Hamlyn (publishers)|Hamlyn]] |isbn=978-0-7537-1865-0 |page=97}}</ref>
+
+==Edibility==
+''Inocybe godeyi'' flesh has a strong smell, which has been variously described as "unpleasant",<ref name="Phillips"/> "earthy or mealy",<ref name="Pegler">{{cite book |title= Mushrooms and Toadstools|last= Pegler|first= David N.|year= 1983|publisher= Mitchell Beazley Publishing|location= London|isbn= 0-85533-500-9|page= 98}}</ref> and "not distinctive".<ref name="Jordan"/> The flesh has an acrid taste. The mushrooms are known to be poisonous,<ref name="Phillips"/> containing toxic compounds of [[muscarine]].<ref name="Kibby"/> Consumption of the mushroom could lead to a number of physiological effects, including: [[salivation]], [[lacrimation]], [[urination]], [[defecation]], [[gastrointestinal problem]]s and [[emesis]] (vomiting); this array of symptoms is also known by the acronym [[SLUDGE syndrome|SLUDGE]].<ref name="Hall">{{cite book |title= Edible and Poisonous Mushrooms of the World|last= Hall|first= Ian Robert|author2= Buchanan, Peter K.|author3= Stephenson, Steven L.|author4= Yun, Wang|author5= Cole, Anthony L. J.|year= 2003|publisher= [[Timber Press]]|isbn= 978-0-88192-586-9|pages= 108–9}}</ref> Other potential effects include a drop in [[blood pressure]], [[sweating]] and death due to [[respiratory failure]].<ref name="Hall"/>
+
+==Distribution and habitat==
+''Inocybe godeyi'' can be found in Europe.<ref name="Phillips"/> It is found in deciduous woodland on the ground,<ref name="Kibby"/> particularly on [[chalk|chalky soil]].<ref name="Phillips"/> The species is [[ectomycorrhizal]],<ref>{{cite journal |author1=Tedersoo, Leho |author2=Pellet, Prune |author3=Kõljalg, Urmas |author4=Selosse, Marc-André |year= 2007|title= Parallel evolutionary paths to mycoheterotrophy in understorey Ericaceae and Orchidaceae: ecological evidence for mixotrophy in Pyroleae|journal= Oecologia|volume= 151|issue= 2|pages= 206–17 |jstor=40210520 |doi= 10.1007/s00442-006-0581-2 |pmid= 17089139|bibcode=2007Oecol.151..206T |s2cid=12529846 }}</ref> favouring [[beech]].<ref name="Phillips"/> Mushrooms are encountered in the autumn months of August to November,<ref name="Phillips"/><ref name="Pegler"/> solitarily or in "trooping groups". While the mushrooms can be locally common,<ref name="Jordan">{{cite book |title=The Encyclopedia of Fungi of Britain and Europe |author=Jordan, Michael |author-link=Michael Jordan (mycologist) |year=2004 |publisher=[[Frances Lincoln]] |isbn=978-0-7112-2378-3 |page=291}}</ref> the species is typically uncommon.<ref name="Phillips"/><ref name="Kibby"/>
+
+==See also==
+*[[List of Inocybe species|List of ''Inocybe'' species]]
+
+==References==
+{{Reflist|2}}
+
+{{Taxonbar|from=Q3914313}}
+
+[[Category:Inocybe|godeyi]]
+[[Category:Fungi described in 1874]]
+[[Category:Fungi of Europe]]
+[[Category:Poisonous fungi]]
+[[Category:Taxa named by Claude Casimir Gillet]]
+[[Category:Fungus species]]

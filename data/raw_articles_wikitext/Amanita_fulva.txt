@@ -1,0 +1,66 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{Speciesbox
+| image = amanita fulva lowpx.jpg
+| genus = Amanita
+| species = fulva
+| authority = ([[Jacob Christian Schäffer|Schaeff.]]) [[Louis Secretan|Secr.]]
+| synonyms_ref = <ref name=IndexFungorum>{{cite web |url=http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=212682 |title=Synonymy: ''Amanita fulva'' |publisher=CAB International |work=Species Fungorum |access-date=2011-10-07}}</ref>
+| synonyms = * ''Agaricus fulvus'' <small>[[Jacob Christian Schäffer|Schäff.]]</small><br/>
+* ''Amanita vaginata'' var. ''fulva'' <small>([[Elias Magnus Fries|Fr.]]) [[Claude Casimir Gillet|Gillet]]</small>
+* ''Amanitopsis fulva'' (Fr.) <small>[[Worthington George Smith|W.G. Sm.]]</small>
+}}
+{{mycomorphbox 
+| name = ''Amanita fulva''
+| whichGills = free 
+| capShape = umbonate 
+| hymeniumType=gills
+| stipeCharacter=volva
+| ecologicalType=mycorrhizal
+| sporePrintColor=white
+| howEdible=edible
+| howEdible2=caution
+}}
+{{stack end}}
+
+'''''Amanita fulva''''', commonly called the '''tawny grisette''' or the '''orange-brown ringless amanita''',<ref name=NGSWG>{{NGSWG}}</ref> is a [[basidiomycete]] mushroom of the genus ''[[Amanita]]''. It is found frequently in deciduous and [[conifer]]ous forests of Europe, and possibly North America.
+
+==Taxonomy==
+''Amanita fulva'' was first described by [[Jacob Christian Schäffer]] in 1774.<ref name="IndexFungorum" /> Historically, both the tawny grisette and the grisette (''[[Amanita vaginata|A.&nbsp;vaginata]]'') were placed in the genus ''[[Amanitopsis]]'' due to their lack of a ring, unlike other ''[[Amanita]]'' species. However this distinction is now seen as insufficient to warrant a separate genus. Today, ''A.&nbsp;fulva'' and similar ringless species of ''Amanita'' are placed in the section ''[[List of Amanita species#Section Vaginatae|Vaginatae]]'' ss according to the classification of [[Cornelis Bas|Bas]].<ref name="Fraiture" />
+
+==Description==
+
+The [[Pileus (mycology)|cap]] is orange-brown, paler towards the margin, and darker (even very dark brown) in the center, up to {{Convert|10|cm|abbr=off|frac=2}} in diameter. It develops an [[Umbo (mycology)|umbo]] when expanded, and has a strongly striated margin. Its surface is smooth, slightly sticky and slippery when moist and glistens; later it may dry.<ref name=Rogers>{{cite web |publisher=Rogers Plants Ltd | title=''Amanita fulva'' at Rogers Mushrooms. | url=http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~5539.asp |access-date=2011-10-07}}</ref> The [[Lamella (mycology)|gills]] are free, close, and broad. The [[Trama (mycology)|flesh]] is white to cream. The [[Stipe (mycology)|stem]] or stipe is white and smooth or powdery, sometimes tinged with orange-brown and with very fine hairs. It is slender, ringless, hollow and quite fragile, tapering towards the top; up to 15&nbsp;cm tall and 1–1.5&nbsp;cm in thickness.<ref name=FirstNature>{{cite web | url = http://www.first-nature.com/fungi/amanita-fulva.php | title = ''Amanita fulva'', Tawny Grisette, identification guide | publisher = First Nature |access-date=2011-10-07}}</ref> The [[universal veil]] which initially encapsulates the fruiting body is torn and develops into a white, sack-like [[Volva (mycology)|volva]] with characteristic rusty-brown blemishes. The cap is usually free of volval remnants. Infrequently, roughly polygonal pieces of the veil may remain on the surface.<ref name=Amanitaceae>{{cite web | url = http://www.amanitaceae.org/index.php?Amanita%20fulva | title = ''Amanita fulva''|work=Amanitaceae.org |access-date=2016-08-05}}</ref>
+
+The spores are white, 9&nbsp;×&nbsp;12&nbsp;[[μm]] or (9.0-) 10.0–12.5 (-19.3) x (8.2-) 9.3–12.0 (-15.5)&nbsp;μm in size, globose; [[nonamyloid]].<ref>Rodham E. Tulloss-Amanita fulva (Schaeff.) Fr. http://pluto.njcc.com/~ret/amanita/species/fulva.html {{Webarchive|url=https://web.archive.org/web/20060106193252/http://pluto.njcc.com/~ret/amanita/species/fulva.html |date=2006-01-06 }}</ref>
+
+{{gallery|mode=packed
+|Amanita fulva - UK.JPG|Emergent specimen
+|Amanita fulva.jpg|Immature specimen
+|Amanita fulva 060820w.jpg|Mature specimens
+}}
+
+==Distribution and habitat==
+''Amanita fulva'', distributed throughout Europe, occurs in a variety of forests. It is generally found with [[oak]] (''Quercus''), [[birch]] (''Betula''), [[spruce]] (''Picea''), [[pine]] (''Pinus''), [[chestnut]] (''Castanea'') and [[alder]] (''Alnus''), with which it forms [[mycorrhiza]]e. It is often found with birch in Scandinavia, while collections from southern Europe are usually from forests of oak, chestnut and pine.<ref name=Fraiture>{{cite journal | author = Fraiture A.  | year = 1993 | title = Les Amanitopsis d'Europe | journal = Opera Botanica Belgica | language = fr | publisher = Jardin Botanique Nationale de Belgique | pages = 75–8 | isbn = 90-72619-09-9 | issn = 0775-9592}}</ref> It grows in acidic soils and fruits from summer to late autumn (May to November in the UK). It is a common to scarce fungus,<ref name=C&D1995>{{cite book | author = Régis Courtecuisse and Bernard Duhem  | year = 1995 | title = Mushrooms & Toadstools of Britain and Europe | publisher = Harper Collins | pages = 274–75 | isbn = 0-00-220025-2}}</ref> and is very common in Britain.<ref name=Jordan>{{cite book |author=Jordan M. |title=The Encyclopedia of Fungi of Britain and Europe |publisher=David & Charles |location=London |year=1995 |page=197 |isbn=0-7153-0129-2}}</ref><ref name=Asturnatura>[http://translate.googleusercontent.com/translate_c?hl=en&sl=es&u=http://www.asturnatura.com/distribucion/amanita-fulva.html&prev=/search%3Fq%3DAmanita%2Bfulva%26start%3D70%26hl%3Den%26client%3Dfirefox-a%26sa%3DN%26rls%3Dorg.mozilla:en-US:official%26biw%3D1280%26bih%3D618%26prmdo%3D1%26prmd%3Di&rurl=translate.google.co.in&usg=ALkJrhiWz-zUvUBM1v8stnbJqRDnqCGq4w Amanita Fulva: Distribution and populations], asturnatura.com, translated from [http://www.asturnatura.com/distribucion/amanita-fulva.html the original]</ref>
+
+''Amanita fulva'' is considered to be widely distributed in North America in deciduous and coniferous forests, although collections could possibly be of a different, yet undescribed species.<ref name=autogenerated2>Kuo, M. (2002, September). Amanita fulva. Retrieved from the MushroomExpert.Com Web site: http://www.mushroomexpert.com/amanita_fulva.html</ref> In addition, the name ''Amanita fulva'' has in the past been misapplied to other North American taxa, such as ''[[Amanita amerifulva|A. amerifulva]]'' and others.<ref name=Amanitaceae/>
+
+==Edibility==
+''Amanita fulva'' is one of the few good edible species in its genus. Though this particular species is considered edible, it must be identified with care as other members of the genus ''Amanita'' are [[Mushroom poisoning|poisonous]] and some are deadly. For this reason, consuming ''A.&nbsp;fulva'' can be dangerous and is not recommended.<ref name=C&D1995/><ref name=Jordan/><ref name="mushrooms of NA">{{cite book| first=Roger| last=Phillips| title=Mushrooms and Other Fungi of North America| year=2010| isbn=978-1-55407-651-2| publisher=Firefly Books| url-access=registration| url=https://archive.org/details/mushroomsotherfu0000phil}}</ref> It is potentially toxic when raw and suitable for consumption only after cooking.<ref name=Legrandlivre>{{cite book| first=Gérard| last= Houdou| title=Le grand livre des champignons| language=fr | page=16 | year=2004 | isbn=2-84494-270-9| publisher=Editions de Borée}}</ref><ref name=RCHandbook>{{cite book| first=Wright| last= John| title=Mushrooms: River Cottage Handbook | page=68 | year=2007 | isbn=978-0-7475-8932-7| publisher=Bloomsbury Publishing}}</ref><ref name="tfb">{{Cite book |last=Francis-Baker |first=Tiffany |title=Concise Foraging Guide |date=2021 |publisher=[[Bloomsbury Publishing|Bloomsbury]] |isbn=978-1-4729-8474-6 |series=[[The Wildlife Trusts]] |location=London |pages=145}}</ref>
+
+==See also==
+{{Commons}}
+*[[List of Amanita species|List of ''Amanita'' species]]
+
+==References==
+{{Reflist|colwidth=30em}}
+
+{{Amanitas}}
+{{Taxonbar|from=Q301792}}
+
+[[Category:Amanita|fulva]]
+[[Category:Edible fungi]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Jacob Christian Schäffer]]
+[[Category:Fungus species]]

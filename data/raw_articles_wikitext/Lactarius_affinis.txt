@@ -1,0 +1,80 @@
+{{short description|Species of mushroom}}
+{{Speciesbox
+| image = Lactarius affinis 475616.jpg
+| genus = Lactarius
+| species = affinis
+| authority = [[Charles Horton Peck|Peck]] (1872)
+| synonyms_ref = <ref name="urlMycoBank: Lactarius affinis"/>
+| synonyms = *''Lactifluus affinis'' <small>(Peck) [[Otto Kuntze|Kuntze]] (1891)<ref name="Kuntze 1898"/></small>
+}}
+{{mycomorphbox
+| name = ''Lactarius affinis''
+| whichGills = decurrent
+| capShape = depressed
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = white
+| howEdible = inedible
+}}
+
+'''''Lactarius affinis''''', commonly known as the '''kindred milk cap''', is a species of [[milk-cap]] mushroom in the family [[Russulaceae]]. It is found northeastern North America, where it fruits in the summer and fall, and is common in the [[Great Lakes]] region. Its [[basidiocarp|fruit bodies]] have medium to large, slimy dull yellow or brownish [[pileus (mycology)|caps]]. Although not considered [[poisonous mushroom|poisonous]], it is unpalatable because of its highly acrid taste.
+
+==Taxonomy and classification==
+
+The species was first named by American mycologist [[Charles Horton Peck]] in 1873, based on specimens he found growing in a pasture in the [[Catskill Mountains]] in October. He noted that the species was similar in appearance to ''[[Lactarius insulus]]'', "from which it differs only in the entire absence of zones or bands, and in having the spores white, instead of yellow ... But for the color of the spores, I should not have separated it from ''L.&nbsp;insulus''."<ref name="Peck 1873"/>
+
+The species is [[classification (biology)|classified]] in [[section (biology)|section]] ''Triviales'' of the [[subgenus]] ''Russularia'' of the genus ''[[Lactarius (fungus)|Lactarius]]''. Species in this section typically have sticky or tacky caps and stems, with [[hypha]]e on the cap cuticle usually 1–3&nbsp;[[micrometre|μm]] wide. Other species in ''Triviales'' (stirps ''Trivialis'') include ''[[Lactarius midlandensis|L.&nbsp;midlandensis]]'', ''[[Lactarius vinaceopallidus|L.&nbsp;vinaceopallidus]]'', ''[[Lactarius trivialis|L.&nbsp;trivialis]]'', ''[[Lactarius pallidus|L.&nbsp;pallidus]]'', and ''[[Lactarius limacinus|L.&nbsp;limacinus]]''.<ref>Hesler and Smith, 1979, p. 413.</ref>
+
+''Lactarius affinis'' is [[common name|commonly]] known as the "kindred milk cap".<ref name="McKnight 1987"/>
+
+==Description==
+The [[pileus (mycology)|cap]] is {{convert|5|–|11|cm|abbr=on}} wide, initially convex, becoming broadly convex then shallowly depressed at the center with age. The surface of the cap is sticky to slimy when it is fresh, smooth, pale ochre-yellow to pale ochre or pale pinkish cinnamon, lighter toward the edge. The [[lamella (mycology)|gills]] are attached to slightly decurrent, close, broad, sometimes forked near the stem, white to cream. The [[stipe (mycology)|stalk]] in {{convert|3|–|8|cm|in|abbr=on}} long by {{convert|1.2|–|2|cm|1|abbr=on}} thick, nearly equal, becoming hollow with age, smooth, sticky when fresh, white or sometimes brownish. The [[trama (mycology)|flesh]] is white, and does not have any distinctive odor; taste acrid. The [[latex]] is white on exposure, unchanging, not staining tissues; taste acrid. The [[spore print]] is white.<ref name="Bessette 2009"/> Although not considered poisonous, it is unpalatable because of its highly acrid taste<ref name="Miller 2006"/> and considered inedible by some authors.<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |orig-year=2005 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=118}}</ref>
+
+===Microscopic characteristics===
+The [[spore]]s are 8–10.5 by 7–8&nbsp;[[micrometre|μm]], broadly ellipsoid, ornamented with warts and ridges that sometimes form a partial reticulum, prominences up to 1&nbsp;μm high, [[hyaline]] (translucent), and [[amyloid (mycology)|amyloid]]. The [[basidia]], the spore-bearing cells, are 45–52 by 8–10&nbsp;μm, and four-spored.<ref>Hesler and Smith, 1979, pp. 419–22.</ref>
+
+===Similar species===
+Similar species include ''[[Lactarius depressus]]'', ''[[Lactarius midlanensis|L.&nbsp;midlandensis]]'', and ''[[Lactarius pseudoaffinis|L.&nbsp;pseudoaffinis]]''.<ref name="Bessette 2009"/> ''[[Russula laurocerasi]]'' has a somewhat similar cap and could be confused with this species, but it does not have latex, and smells somewhat like almonds or [[maraschino cherries]].<ref name="urlRussula laurocerasi (MushroomExpert.Com)"/>
+
+===Varieties===
+''Lactarius affinis'' var. ''viridilactis''
+
+==Habitat and distribution==
+Fruit bodies of ''Lactarius affinis'' are found scattered or in groups on the ground in conifer or hardwood forests from July to October. They are distributed in eastern Canada south to [[New York (state)|New York]], west to [[Michigan]]. It has also reported from western Canada. Its frequency of occurrence is occasional.<ref name="Bessette 2009"/> It is common in the [[Great Lakes]] area.<ref name="McKnight 1987"/>
+
+==See also==
+*[[List of Lactarius species|List of ''Lactarius'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Bessette 2009">{{cite book |vauthors=Bessette AR, Bessette A, Harris DM |title=Milk Mushrooms of North America: A Field Guide to the Genus ''Lactarius'' |publisher=Syracuse University Press |location=Syracuse |year=2009 |pages=141–42 |isbn=978-0-8156-3229-0}}</ref>
+
+<ref name="Kuntze 1898">{{cite book |author=Kuntze O. |title=Revisio generum plantarum |year=1898 |volume=2 |publisher=A.&nbsp;Felix |location=Leipzig, Germany |page=856 |language=la |url=https://www.biodiversitylibrary.org/page/4278}}</ref>
+
+<ref name="McKnight 1987">{{cite book |vauthors=McKnight VB, McKnight KH |title=A Field Guide to Mushrooms: North America |publisher=Houghton Mifflin |location=Boston |year=1987 |page=326 |isbn=0-395-91090-0 |url=https://books.google.com/books?id=kSdA3V7Z9WcC&pg=PA326}}</ref>
+
+<ref name="Miller 2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=98}}</ref>
+
+<ref name="Peck 1873">{{cite journal |author=Peck CH. |year=1873 |title=Report of the Botanist (1869) |journal=Annual Report on the New York State Museum of Natural History |volume=23 |page=116 |url=https://www.biodiversitylibrary.org/item/51191#184}}</ref>
+
+<ref name="urlMycoBank: Lactarius affinis">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=216596 |title=''Lactarius affinis'' Peck 1873 |publisher=International Mycological Association |work=MycoBank |access-date=2010-07-12}}</ref>
+
+<ref name="urlRussula laurocerasi (MushroomExpert.Com)">{{cite web |url=http://www.mushroomexpert.com/russula_laurocerasi.html |title=''Russula laurocerasi'' |author=Kuo M |work=MushroomExpert.Com |access-date=2010-07-12}}</ref>
+
+}}
+
+===Sources===
+*{{cite book |title=North American Species of ''Lactarius'' |vauthors=Hesler LR, Smith AH |year=1979 |publisher=The University of Michigan Press |location=Michigan |isbn=0-472-08440-2}}
+
+==External links==
+*{{IndexFungorum|216596}}
+
+{{Taxonbar|from=Q6468916}}
+
+[[Category:Lactarius|affinis]]
+[[Category:Fungi described in 1872]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Charles Horton Peck]]
+[[Category:Fungus species]]

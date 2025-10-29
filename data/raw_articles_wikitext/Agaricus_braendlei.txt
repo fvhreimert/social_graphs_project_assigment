@@ -1,0 +1,45 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = 
+| genus = Agaricus
+| species = braendlei
+| authority = [[L.A. Parra]] & [[M.M. Gómez]]<ref name=GBIF>{{GBIF|title=''Agaricus braendlei'' L.A.Parra & M.M.Gómez |id=10923949 |access-date=13 April 2025}}</ref>
+| synonyms = {{collapsible list|{{species list
+  |Agaricus argenteus |Braendle ex Peck
+  |Agaricus argenteus subsp. annetteae |Kerrigan
+  |Agaricus argenteus var. annetteae |(Kerrigan) Blanco-Dios
+  |Agaricus braendlei subsp. annetteae |(Kerrigan) Kerrigan
+}}}}
+| synonyms_ref = <ref name=GBIF/>
+}}
+{{Mycomorphbox
+| name = ''Agaricus braendlei''
+| whichGills = free
+| capShape = convex
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = saprotrophic
+| sporePrintColor = brown
+| howEdible = choice
+}}
+
+'''''Agaricus braendlei''''' is a species of mushroom in the family [[Agaricaceae]]. It is found in [[North America]], and closely related to ''[[Agaricus campestris|A.&nbsp;campestris]]''.<ref>L.A. Parra & M.M. Gómez (2019). Micologia e Vegetazione Mediterranea 33 (2): 75</ref> Both species are popular edibles characterized by white, slightly furry caps, bright pink gills which turn to chocolate brown as the spore mature, and no staining reaction when bruised or scratched.{{cn|date=April 2025}} Like most ''Agaricus'' species, this species has a ring on the stalk and no volva.{{cn|date=April 2025}}
+
+== Taxonomy ==
+For a long time, it was thought that ''Agaricus campestris'' occurred in North America. However, Richard Kerrigan researched North American ''Agaricus'' species and found that ''A. campestris'' likely does not occur in North America. Instead, several different species, including ''A. braendlei'', occur in North America.<ref>{{Cite web |date=2023-03-14 |title=Meadow Mushroom: Identification, Foraging, and Cooking Guide - Mushroom Appreciation |url=https://www.mushroom-appreciation.com/meadow-mushroom.html |access-date=2025-08-19 |website=www.mushroom-appreciation.com |language=en-US}}</ref>
+
+== References ==
+{{Reflist}}
+
+== Further reading ==
+{{refbegin}}
+*{{cite book |last1=Kerrigan |first1=Richard |title=Agaricus of North America |date=2016 |publisher=NYBG Press |location=Bronx, New York |isbn=978-0-89327-536-5 |pages=270-271,278-281 |edition=First}}
+*{{cite web |last1=Cassidy |first1=Chris |title=Mushroom Observer: Observation 390876: Agaricus braendlei L.A. Parra & M.M. Gómez |url=https://mushroomobserver.org/390876 |website=Mushroom Observer |publisher=Mushroom Observer, Inc. |access-date=13 April 2025}}
+{{refend}}
+
+{{Taxonbar|from1=Q107471158|from2=Q108544996|from3=Q108544954}}
+
+[[Category:Agaricus|braendlei]]
+
+
+{{Agaricaceae-stub}}

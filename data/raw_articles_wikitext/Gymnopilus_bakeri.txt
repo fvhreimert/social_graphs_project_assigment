@@ -1,0 +1,39 @@
+{{Short description|Species of fungus}}
+{{single source|date=October 2025}}
+{{no footnotes|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption =
+| taxon = Gymnopilus bakeri
+| authority = [[Richard William George Dennis|Dennis]]
+| synonyms =
+}}
+{{mycomorphbox
+| name = Gymnopilus bakeri
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+
+'''''Gymnopilus bakeri''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]].
+
+==See also==
+{{Portal|Fungi}}
+* [[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==External links==
+*[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=314781 Index Fungorum]
+
+{{Taxonbar|from=Q5624733}}
+
+{{DEFAULTSORT:Gymnopilus bakeri}}
+[[Category:Gymnopilus|bakeri]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

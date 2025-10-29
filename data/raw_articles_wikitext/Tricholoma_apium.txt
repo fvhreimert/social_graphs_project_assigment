@@ -1,0 +1,40 @@
+{{Short description|Species of fungus}}
+{{Species box
+| image = Tricholoma apium 62001.jpg
+| image_caption =
+| status_system = IUCN3.1
+| status = VU
+| status_ref = <ref name=iucn/>
+| taxon = Tricholoma apium
+| authority = [[Jul.Schäff.]] (1925)
+| synonyms_ref = <ref name="urlMycoBank: Tricholoma apium"/>
+| synonyms =
+*''Tricholoma helviodor'' <small>[[Albert Pilát|Pilát]] & [[Mirko Svrček|Svrček]] (1946)</small>
+*''Tricholoma vaccinoides'' <small>Pilát (1971)</small>
+}}
+
+'''''Tricholoma apium''''' is a [[mushroom]] of the [[agaric]] genus ''[[Tricholoma]]'' that is found in Europe. It is classified as [[vulnerable species|vulnerable]] in the [[IUCN Red List of Threatened Species]].<ref name=iucn/>
+
+==See also==
+*[[List of North American Tricholoma|List of North American ''Tricholoma'']]
+*[[List of Tricholoma species|List of ''Tricholoma'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name=iucn>{{cite journal |author=Brandrud T.-E. |title=''Tricholoma apium'' |journal=The IUCN Red List of Threatened Species |year=2015 |issue=2015 |doi=10.2305/IUCN.UK.2015-4.RLTS.T79515478A79515482.en |doi-access=free }}</ref>
+
+<ref name="urlMycoBank: Tricholoma apium">{{cite web |title=''Tricholoma apium'' Jul. Schäff. :65, 1925 |url=http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=168580&Fields=All |publisher=[[MycoBank]]. International Mycological Association |accessdate=2013-03-23}}</ref>
+
+}}
+
+{{Taxonbar|from=Q12955614}}
+
+[[Category:Tricholoma|apium]]
+[[Category:Fungi described in 1925]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]
+
+
+{{Tricholomataceae-stub}}

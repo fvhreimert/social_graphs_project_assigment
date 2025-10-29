@@ -1,0 +1,67 @@
+{{DISPLAYTITLE:''Inocybe corydalina'' var. ''corydalina''}}
+{{Taxobox
+| name = ''Inocybe corydalina'' var. ''corydalina''
+| image = Inocybe corydalina 246850.jpg
+| image_caption = ''Inocybe corydalina var. corydalina''
+| regnum = [[Fungi]]
+| divisio = [[Basidiomycota]]
+| classis = [[Agaricomycetes]]
+| ordo = [[Agaricales]]
+| familia = [[Cortinariaceae]]
+| genus = ''[[Inocybe]]''
+| species = ''[[Inocybe corydalina|I. corydalina]]''
+| varietas = '''''I. c. var. corydalina'''''
+| trinomial = ''Inocybe corydalina var. corydalina''
+| trinomial_authority = Quélet (1872)
+}}
+{{Mycomorphbox
+| name = ''Inocybe corydalina'' var. ''corydalina''
+| whichGills = adnate
+| capShape = conical
+| capShape2 = convex
+| hymeniumType= gills
+| stipeCharacter= bare
+| ecologicalType=mycorrhizal
+| sporePrintColor=brown
+| howEdible=psychoactive
+}}
+
+'''''Inocybe corydalina var. corydalina''''', commonly known as the '''greenflush fibrecap''', is a member of the [[Inocybe|genus ''Inocybe'']] which is widely distributed in temperate forests.  It is a small [[mycorrhizal]] mushroom which contains a small amount of the hallucinogen [[psilocybin]].
+
+==Description==
+*'''Cap''':  3.5–5&nbsp;cm diameter, buff to brown, often with greenish tones, [[conic]] to [[wiktionary:convex|convex]] or plane in age, with or without an umbo, with appressed [[wikt:fibrillose|fibrillose]] [[wikt:squamules|squamules]] on the cap which are more frequent towards the center, and an incurved margin.  The center of the cap is darker brown to greenish, sometimes black and the flesh is white.
+*'''Gills''': [[wikt:adnate|adnate]] and very numerous, pale cream brown to grayish buff.
+*'''Spores''': Smooth and lemon shaped, measuring 8 x 5.5 micrometres, dull brown, often with a bluish-grayish stem base.
+*'''Stipe''': 2.5–10&nbsp;cm long, 4 to 6&nbsp;mm thick, and is equal width for the whole length, sometimes with some swelling at the base.  The upper part of the stem is smooth and the lower part is fibrillose.  Has a cortinate partial veil which soon disappears.
+*'''Taste''':
+*'''Odor''': Aromatic.
+*'''Microscopic features''': Pleurocystidia 33-70 by 9-21 micrometers, clavate cylindrical.  Cheilocystidia are not common and look like pleurocystidia.
+
+==Distribution and habitat==
+''Inocybe corydalina var. corydalina'' is widespread across Europe and the British Isles.  It usually fruits in the fall under deciduous trees but can also be found under conifers.
+
+==Edibility==
+Gurevich and Nezoiminogo reported that this mushroom contains the mycotoxin [[muscarine]] but no psilocybin; other researchers have been unable to confirm this result. Chemical analysis by Stijve and Kuyper shows that it contains 0.032% psilocybin, a very low concentration.
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Inocybe species]]
+*[[List of Psilocybin mushrooms]]
+
+==References==
+*{{Cite book | first=Paul | last=Stamets | year=1996 | title=Psilocybin Mushrooms of the World | publisher=Ten Speed Press | location=Berkeley | isbn=0-9610798-0-0}}
+
+==External links==
+*[http://www.stridvall.se/fungi/gallery/Inocybe/SV09_118 Inocybe corydalina var. corydalina picture]
+*[https://mushroomobserver.org/observer/observation_search?pattern=Inocybe+corydalina Inocybe corydalina pictures]
+
+{{Hallucinogenic mushrooms}}
+{{Taxonbar|from=Q3915707}}
+
+{{DEFAULTSORT:Inocybe corydalina Var. Corydalina}}
+[[Category:Psychoactive fungi]]
+[[Category:Psychedelic tryptamine carriers]]
+[[Category:Inocybe|corydalina var. corydalina, Inocybe]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Lucien Quélet]]

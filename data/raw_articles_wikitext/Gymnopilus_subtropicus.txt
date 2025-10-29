@@ -1,0 +1,71 @@
+{{Short description|Species of fungus}}
+{{no footnotes|date=October 2025}}
+{{original research|date=October 2025}}
+{{Speciesbox
+| image = Gymnopilus_subtropicus.jpg
+| image_caption =
+| taxon = Gymnopilus subtropicus
+| authority = [[Lexemuel Ray Hesler|Hesler]] (1969)
+| synonyms =
+
+}}
+
+{{mycomorphbox
+| name = Gymnopilus subtropicus
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+
+| sporePrintColor=
+
+| howEdible=}}
+
+'''''Gymnopilus subtropicus''''' is a species of [[agaric]] fungus in the family [[Hymenogastraceae]].
+
+==Taxonomy and Phylogeny==
+
+The scientific name for this species is ''Gymnopilus subtropicus''. It was first described by mycologist Lexemuel Ray Hesler in his 1969 monograph "North American Species of ''Gymnopilus'', with the type collections made by Harry D. Thiers near Biloxi, Mississippi in 1959 (Hesler, 1969).
+
+This species is classified in the genus ''Gymnopilus'' in the family Hymenogastraceae (Matheny et al., 2015). The genus Gymnopilus was established in 1879 by the Finnish mycologist Petter Adolf Karsten (1834-1917). Karsten proposed the name in his book "Bidrag till Kännedom om Finlands Hattsvampar" (Contributions to the Knowledge of Finland's Gilled Fungi) (Karsten,1879). Gymnopilus fungi are a diverse group of saprobic mushrooms that typically grow on wood (Hesler, 1969). They are characterized by their rusty brown spore prints, yellow to orange gills, and, when present, a typically cobwebby and ephemeral partial veil.
+
+Gymnopilus subtropicus' closest relatives are other members of the genus Gymnopilus, although it has not yet been included in molecular phylogenetic studies.
+
+==Morphology==
+
+G. subtropicus produces medium-sized mushrooms with yellow, fibrillose caps 1.4-4.5 cm broad. The gills are crowded, broad, adnate-decurrent. The stipe is 3.5-4 cm long by 3-5 mm thick, enlarged at the base, and yellowish above and brownish below. It has a cobweb-like partial veil when young, often remaining on the stipe, forming a ring.
+
+Microscopically, it has ellipsoid spores measuring 5.5-7 x 4-4.5 μm that are dextrinoid. Gymnopilus subtropicus can be identified by several distinctive features including yellow cap scales, dextrinoid spores, interwoven cap tissue, and caulocystidia.
+
+==Similar Species==
+
+It is similar to G. lepidotus and G. pacificus but differs microscopically. Identifying Gymnopilus species is known to be challenging, even for experts.
+
+==Ecology==
+
+G. subtropicus grows on oak and palm logs in subtropical forests across Florida, Mississippi, Louisiana, and Hawaii, fruiting from March to August (Hesler 1969).
+==Human Uses and Relevance==
+
+Some Gymnopilus species have psychoactive properties, but the biochemistry of G. subtropicus is unknown. It contributes to decomposition in its native ecosystems.
+
+==References==
+
+Hesler, L.R. (1969). ''North American species of Gymnopilus. Mycologia Memoir No. 3.'' J. Cramer: NY. 117 pp.
+
+Karsten P.A. (1879) ''Bidrag till Kännedom om Finlands Hattsvampar.'' Helsingfors.
+
+Matheny, P.B. et al. (2015). Two new genera of Agaricales. ''Systematics and Biodiversity.'' '''13'''(1), 28–41.
+
+Strauss, D. et al. (2022). Taxonomy, phylogenetics of psychedelic mushrooms. ''Frontiers in Forests and Global Change,'' 5, 1–9.
+
+{{Taxonbar|from=Q5625010}}
+
+[[Category:Gymnopilus|subtropicus]]
+[[Category:Fungi of North America]]
+
+[[Category:Taxa named by Lexemuel Ray Hesler]]
+[[Category:Fungi described in 1969]]
+[[Category:Fungus species]]
+{{Hymenogastraceae-stub}}

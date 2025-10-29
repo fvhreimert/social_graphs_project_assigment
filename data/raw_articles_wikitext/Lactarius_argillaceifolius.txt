@@ -1,0 +1,113 @@
+{{Short description|Species of fungus}}
+{{good article}}
+{{Speciesbox
+| image = Lactarius argillaceifolius 48673.jpg
+| image_caption = ''Lactarius argillaceifolius'' var. ''argillaceifolius''
+| image2 = Lactarius argillaceifolius var. megacarpus 34450.jpg
+| image2_caption = ''Lactarius argillaceifolius'' var. ''megacarpus''
+| genus = Lactarius
+| species = argillaceifolius
+| authority = [[Lexemuel Ray Hesler|Hesler]] & [[Alexander H. Smith|A.H.Sm.]] (1979)
+| subdivision_ranks = Varieties
+| subdivision = *var. ''dissimilis'' <small>Hesler & A.H.Sm. (1979)</small>
+*var. ''megacarpus'' <small>Hesler & A.H.Sm. (1979)</small>
+}}
+{{Mycomorphbox
+| name = ''Lactarius argillaceifolius''
+| whichGills = decurrent
+| capShape = depressed
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = white
+| howEdible = unknown
+| howEdible2 = poisonous
+| sporePrintColor2 = buff
+}}
+
+'''''Lactarius argillaceifolius''''' is a species of [[fungus]] in the family [[Russulaceae]]. The mushrooms have convex to flattened drab [[lilac (color)|lilac]]-colored [[pileus (mycology)|caps]] that are up to {{convert|18|cm|abbr=on}} wide. The cream-colored [[lamella (mycology)|gills]] are closely spaced together and extend slightly down the length of the [[stipe (mycology)|stem]], which is up to {{convert|9|cm|abbr=on}} long by {{convert|3.5|cm|1|abbr=on}} thick. The mushroom produces an off-white [[latex]] when injured that stains the tissue brownish.
+
+The [[variety (biology)|variety]] ''megacarpus'', with caps up to {{convert|27|cm|abbr=on}} wide, occurs under [[coast live oak]] and [[tanoak]] in the [[Pacific Coast]] states and [[Baja California]]. Variety ''dissimilis'', described on the basis of a single specimen from [[South Carolina]], differs from the main form in the microscopic structure of the [[cap cuticle]]. The European species [[Lactarius trivialis|''L.''&nbsp;''trivialis'']] is similar, but can be distinguished by differences in habitat and color differences in the gills, cap, and latex.
+
+''L.&nbsp;argillaceifolius'' is found in eastern North America and has also been found in pine plantations in Brazil, where it is probably an [[introduced species]]. Its edibility is unknown but is possibly [[Mushroom poisoning|poisonous]].
+
+==Taxonomy==
+The species was first described by American mycologists [[Lexemuel Ray Hesler]] and [[Alexander H. Smith]] in their 1979 [[monograph]] on the North American species of ''Lactarius''.<ref name=Hesler1979/> The [[type specimen]]—collected by Smith from [[Oak Grove, Livingston County, Michigan]], in July 1972—is housed at the [[University of Michigan Herbarium]].<ref name="urlUofMichHerb"/> Hesler and Smith simultaneously published the [[variety (botany)|varieties]] ''dissimilis'' and ''megacarpus'', collected from [[South Carolina]] and [[California]], respectively.<ref name=Hesler1979/> The variety ''megacarpus'' is [[common name|commonly]] known as the "vulgar milkcap".<ref name=Arora1986/>
+
+Smith and Hesler classified ''L.&nbsp;argillaceifolius'' in [[subgenus]] ''Tristes'', in stirps ''Argillaceifolius''. This grouping of related species, which includes ''[[Lactarius fumaecolor|L.&nbsp;fumaecolor]]'', is characterized by the gelatinous cuticle of the stem.<ref>Hesler and Smith (1979, [http://quod.lib.umich.edu/f/fung1tc/aac3719.0001.001/376?page=root;rgn=mainheader;sid=c9eed00f57eb4cae87faf520e74fdb71;size=100;view=image;rgn1=citation;q1=aac3719 p.&nbsp;364]).</ref>
+
+==Description==
+{{multiple image
+| direction         = vertical
+| width             = 200
+| image1            = Lactarius argillaceifolius var. megacarpus 65964.jpg
+| caption1          = Var. ''megacarpus'' underside
+| image2            = Lactarius argillaceifolius var. megacarpus 37918.jpg
+| caption2          = An old specimenof var. ''megacarpus'' with brown stains on the gills
+}}
+
+The [[pileus (mycology)|cap]] is {{convert|4–20|cm|abbr=on}} wide, and initially convex to broadly convex before flattening out with a depressed center. The cap margin is curved inward, and often remains that way into maturity. The cap surface is covered with fine soft hairs when young, but later becomes smooth; it is slimy and sticky when wet. The color of the cap ranges from [[lilac (color)|lilac]]-brown when young, fading to lilac-[[tan (color)|tan]] or pale lilac-gray and eventually to pale tan or pinkish-[[buff (color)|buff]] at the center. The [[lamella (mycology)|gills]] are attached to slightly decurrent (extending somewhat down the length of the stem), broad, and closely packed together. They are [[cream (color)|cream]]-colored when young, and later develop pinkish tones near the margin. In maturity, they become flushed with brownish-orange. The color stains buff to olive-brown to dark brown when bruised.<ref name=Bessette2009/><ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=93–94|oclc=797915861}}</ref>
+
+The [[stipe (mycology)|stem]] is {{convert|3–15|cm|abbr=on}} long by {{convert|1–5|cm|1|abbr=on}} thick, and nearly equal in width throughout or tapering downward.<ref name=":0" /><ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=172}}</ref> Its surface may be slimy or dry, depending on the moisture in the environment. It is whitish, but in age becomes spotted with brownish stains. The [[trama (mycology)|flesh]] is firm, and white to buff. Its odor is not distinctive, while its taste is mild or slowly becomes slightly acrid. The [[latex]] is creamy-white on initial exposure, and stains the gills grayish-brown to dark brown or olive-brown; its taste is mild or slowly becomes slightly acrid.<ref name=Bessette2009/> Older fruit bodies tend to have less abundant and weaker-tasting latex.<ref name=Hesler1979/> The [[spore print]] is yellowish<ref name="audu" /> to pinkish-buff. The edibility of ''L.&nbsp;argillaceifolius'' is unknown.<ref name=Bessette2009/> The cap surface will turn yellow to orange when a drop of dilute [[potassium hydroxide]] is applied.<ref name=Guevara1987/>
+
+===Microscopic characteristics===
+
+
+The [[spore]]s are roughly spherical to broadly elliptical, and measure 7–11 by 7–8&nbsp;[[μm]]. They are ornamented with warts and ridges that sometimes form a partial [[wikt:reticulum|reticulum]] (a pattern of interconnected ridges), with prominences up to 1&nbsp;μm high. The spore are [[hyaline]] (translucent) and [[amyloid (mycology)|amyloid]], meaning that they will absorb [[iodine]] when [[staining|stained]] with [[Melzer's reagent]]. The [[pileipellis|cap cuticle]] of young specimens is made of a tissue type known an ixotrichoderm, which contains gelatinized [[hypha]]e of different lengths arranged in roughly parallel fashion. As the mushroom matures, the cap cuticle gradually becomes an ixolattice—characterized by branching, entangled, gelatinous hyphae.<ref name=Bessette2009/> The [[basidia]] (the spore-bearing cells) are four-spored, and measure 45–52 by 9–10.5&nbsp;μm. The [[wikt:pleurocystidium|pleurocystidia]] ([[cystidia]] on the gill face) are abundant, and relatively long—between 60 and 140&nbsp;μm long by 6–14&nbsp;μm thick. The [[wikt:cheilocystidium|cheilocystidia]] (cystidia on the gill edge) measure 32–67 by 6–9&nbsp;μm.<ref name=Hesler1979/>
+
+===Varieties===
+''Lactarius argillaceifolius'' var. ''dissimilis'', a variety reported from South Carolina, is nearly identical in appearance, but it has white latex that tastes bitter then acrid. The structure of the [[pileipellis|cap cuticle]] differs from the nominate variety in that it has dextrinoid (staining yellowish or reddish brown with Meltzer's reagent) incrustations on the hyphae.<ref name=Hesler1979/> The variety ''megacarpus'' has a larger cap, up to {{convert|27|cm|in|abbr=on}} wide with flesh that is up to {{convert|3|cm|in|abbr=on}} thick, and white and unchanging latex with an acrid taste. Its stem measures {{convert|16|to|20|cm|in|abbr=on}} long by {{convert|4|to|5|cm|in|abbr=on}} wide near the top.<ref name=Hesler1979/> Microscopically, the spores of var. ''megacarpus'' are more reticulate than the nominate variety.<ref name=Bessette2009/>
+
+''Lactarius argillaceifolius'' var. ''megacarpus,'' commonly known as the vulgar milk cap, is a [[Variety (botany)|variety]] reported from [[Oregon]], [[California]], and [[Baja California]]. It has been known to grow under [[Quercus agrifolia|coast live oak]] and [[Notholithocarpus|tanoak]] trees. Its [[latex]] is off-white, and stains fungal tissue brown to brownish, and its spore print is whitish to buff.<ref>{{Cite web |title=Lactarius argillaceifolius var. megacarpus (MushroomExpert.Com) |url=http://www.mushroomexpert.com/lactarius_argillaceifolius_megacarpus.html |access-date=2023-09-07 |website=www.mushroomexpert.com}}</ref> Its edibility is unknown, but it may be [[Mushroom poisoning|poisonous]].<ref name="Arora1986" />
+
+===Similar species===
+
+
+''[[Lactarius trivialis]]'' is a European species that is similar in appearance to ''L.&nbsp;argillaceifolius'', and they are often confused for each other.<ref name=McKnight1987/> ''L.&nbsp;trivialis'' can be distinguished by gills that stain brown when exposed to the latex, and a preference for growing in conifer- and birch-rich boreal and subalpine forests.<ref name="urlKuo"/> Variety ''megacarpus'' may be confused with ''[[Lactarius pallescens|L.&nbsp;pallescens]]'', a smaller paler-colored species with latex that stains gills lilac rather than brown.<ref name="urlCalifornisFungi"/>
+
+Additionally, ''[[Lactarius hibbardiae|L. hibbardiae]]'' has a zonate cap, ''[[Lactarius kauffmanii|L.&nbsp;kauffmanii]]'' has a tan to gray pileus, and ''[[Lactarius uvidus|L.&nbsp;uvidus]]'' stains purple.<ref name="audu" />
+
+==Habitat and distribution==
+Like all ''[[Lactarius]]'' species, ''L.&nbsp;argillaceifolius'' is [[mycorrhiza]]l. The fruit bodies of ''Lactarius argillaceifolius'' grow scattered or in groups on the ground under hardwoods, especially [[oak]], from July to October. It is often one of the first mycorrhizal mushrooms to fruit in forests dominated by oak and hickory.<ref name="urlKuo"/> The fruit bodies are slow to develop and are long-lasting.<ref name=Hesler1979/> The species is found from eastern Canada south to [[Florida]], and west to [[Minnesota]] and [[Texas]].<ref name=Bessette2009/> It is common in northeast Mexico.<ref name=Guevara1987/> The mushroom has also been reported from southern Brazil (state of [[Santa Catarina (state)|Santa Catarina]]) growing in association with pine (''[[Pinus elliottii]]'') plantations, where it has probably been [[introduced species|introduced]] with pine seedlings brought by settlers.<ref name=Giachini2000/> ''L.&nbsp;argillaceifolius'' var. ''megacarpus'' has been collected from [[Baja California]],<ref name=Candusso1994/> California, Oregon, and Washington,<ref name=Bessette2009/> where it grows in association with [[coast live oak]] and [[tanoak]].<ref name="urlKuo"/>
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Lactarius species|List of ''Lactarius'' species]]
+
+==References==
+{{Reflist|colwidth=30em|refs=
+<ref name=Arora1986>{{cite book |author=Arora D. |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/76/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, California |year=1986 |orig-date=1979 |edition=2nd |pages= 76–77}}</ref>
+
+
+<ref name=Bessette2009>{{cite book |vauthors=Bessette AR, Bessette A, Harris DM |title=Milk Mushrooms of North America: A Field Guide to the Genus ''Lactarius'' |publisher=Syracuse University Press |location=Syracuse, New York |year=2009 |pages=148–9 |isbn=978-0-8156-3229-0}}</ref>
+
+<ref name=Candusso1994>{{cite journal |vauthors=Candusso M, Gennari A, Ayala N |year=1994 |title=Agaricales of Baja California - Mexico |journal=Mycotaxon |volume=50 |pages=175–88 |url=http://www.cybertruffle.org.uk/cyberliber/59575/0050/0175.htm}}</ref>
+
+<ref name=Giachini2000>{{cite journal |doi=10.2307/3761484 |vauthors=Giachina AJ, Oliviera VL, Castellano MA, Trappe JM |year=2000 |title=Ectomycorrhizal fungi in ''Eucalyptus'' and ''Pinus'' plantations in southern Brazil |journal=Mycologia |volume=92 |issue=6 |pages=1166–77 |jstor=3761484}}</ref>
+
+<ref name=Guevara1987>{{cite journal |vauthors=Guevara G, Garcia J, Castillo J, Miller OK |year=1987 |title=New records of ''Lactarius'' in Mexico |journal=Mycotaxon |volume=30 |pages=157–76 |url=http://www.cybertruffle.org.uk/cyberliber/59575/0030/0157.htm}}</ref>
+
+<ref name=Hesler1979>{{cite book |title=North American Species of ''Lactarius'' |vauthors=Hesler LR, Smith AH |year=1979 |publisher=The University of Michigan Press |location=Michigan |isbn=0-472-08440-2 |pages=366–71 |url=http://quod.lib.umich.edu/cgi/t/text/pageviewer-idx?c=fung1tc;cc=fung1tc;sid=c9eed00f57eb4cae87faf520e74fdb71;q1=aac3719;op2=And;op3=And;rgn=mainheader;rgn1=citation;rgn2=author;rgn3=author;idno=AAC3719.0001.001;view=image;seq=00000378}}</ref>
+
+<ref name=McKnight1987>{{cite book |vauthors=McKnight VB, McKnight KH |title=A Field Guide to Mushrooms: North America | series=Peterson Field Guides |publisher=Houghton Mifflin |location=Boston, Massachusetts |year=1987 |page=339 |isbn=0-395-91090-0}}</ref>
+
+<ref name="urlUofMichHerb">{{cite web |title=''Lactarius argillaceifolius''; Russulaceae (MICH11107) |url=http://quod.lib.umich.edu/h/herb4ic/x-mich11107/mich11107.tif |publisher=University of Michigan Herbarium |work=Fungus and Lichen Type Collection |access-date=2011-06-07}}</ref>
+
+<ref name="urlCalifornisFungi">{{cite web |title=''Lactarius argillaceifolius'' var. '' megacarpus'' Hesler & Smith |url=http://www.mykoweb.com/CAF/species/Lactarius_argillaceifolius.html |vauthors=Wood M, Stevens F |publisher=MycoWeb |work=California Fungi |access-date=2011-06-07}}</ref>
+
+<ref name="urlKuo">{{cite web |title=''Lactarius argillaceifolius'' |author=Kuo M. |date=February 2011 |work=MushroomExpert.Com |url=http://www.mushroomexpert.com/lactarius_argillaceifolius.html |access-date=2011-06-06}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|116069}}
+
+{{Taxonbar|from=Q3280891}}
+
+[[Category:Lactarius|argillaceifolius]]
+[[Category:Fungi described in 1979]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of South America]]
+[[Category:Taxa named by Alexander H. Smith]]
+[[Category:Taxa named by Lexemuel Ray Hesler]]
+[[Category:Fungus species]]

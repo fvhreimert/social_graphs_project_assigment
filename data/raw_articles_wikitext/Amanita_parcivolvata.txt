@@ -1,0 +1,63 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Amanita parcivolvata 45933.jpg
+| taxon = Amanita parcivolvata
+| authority = [[J.E.Gilbert]] (1941)
+| synonyms_ref = <ref name="urlMycoBank: Amanita parcivolvata"/>
+| synonyms = {{Specieslist
+ |Amanitopsis parcivolvata|[[Charles Horton Peck|Peck]] (1900)
+ |Vaginata parcivolvata|(Peck) [[William Alphonso Murrill|Murrill]] (1913)
+ }}
+}}
+{{mycomorphbox
+| name = ''Amanita parcivolvata''
+| whichGills       = free
+| capShape         =  ovate
+| capShape2    = flat
+| hymeniumType     = gills
+| stipeCharacter   = bare
+| ecologicalType   = mycorrhizal
+| sporePrintColor  = white
+| sporePrintColor2 = 
+| howEdible        = edible
+}}
+
+'''''Amanita parcivolvata''''' also known as '''ringless false fly amanita''',<ref name=NGSWG>{{NGSWG}}</ref> is a [[fungus]] that produces [[basidiocarp|fruit bodies]] ranging from {{convert|3|–|12|cm|abbr=off|frac=2}} in width and height.
+
+==Taxonomy==
+This ''Amanita'' is in the subgenus ''Amanita'' and in the section ''Amanita''. It was first described by [[Charles Horton Peck]] in 1900 as ''Amanitopsis parcivolvata''.  [[William Alphonso Murrill|Murrill]] the placed it in the now defunct genus, ''Vaginata, ''in 1910, comparing it to the local specimens of ''[[Amanita vaginata|Vaginata plumbea]]'' in [[Blacksburg, Virginia]] and finding it distinct.<ref>{{cite book |last=New York Botanical Garden |title=''Mycologia, Volume V'' |publisher=Mycological Society of America |year=1913 |editor-last=Murrill |page=83}}</ref> However, it was not formally described in literature until 1913. J.&nbsp;E. Gilbert placed in the genus ''Amanita'' in 1941, where it remained.
+
+==Description==
+
+'''Cap''': The [[pileus (mycology)|pileus]] is bright red ranging from  {{convert|3|–|12|cm|abbr=off|frac=2}} in diameter with warts which range in color from pale yellow to white. With rain, these can wash off, giving it a somewhat similar appearance to an ''[[Amanita]]'' in ''[[Amanita jacksonii|section Caesareae]]'' from a distance, especially if all but the cap is covered by [[detritus]].
+
+'''Gills''': The [[lamellae (mycology)|lamellae]] are white to pale yellow, closely spaced, free from the stipe, and sometimes with a serrated margin.
+
+'''Stipe''':  {{convert|3|–|12|cm|abbr=on|frac=2}} in length and about {{convert|1.5|cm|in|abbr=on|frac=2}} in width, with pale yellow to white powdery volval remnants all along the [[stipe (mycology)|stipe]]. The volva, if it even may be called that, is rather undeveloped as compared to other members of ''[[Amanita]]''.
+
+'''Microscopic features''': According to Rod Tulloss, the spores of ''Amanita parcivolvata'' measure (8.4-) 9.1-11.5 (-12.6) X (5.6-) 6.3-7.9 (-8.0)&nbsp;[[micrometre|μm]], are [[inamyloid]], and the [[basidium|basidia]] rarely have [[clamp connection|clamps]] at bases.<ref>{{cite web |url= http://www.eticomm.net/~ret/species/Amanita/parcivol.html |title= Amanita parcivolvata |last1= Tulloss |first1= Rod |accessdate= December 25, 2011 }}{{Dead link|date=October 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+'''Chemical reactions''': With [[potassium hydroxide|KOH]], the red color of the cap quickly fades to an orange, then yellow color.
+
+===Similar species===
+It vaguely resembles ''[[Amanita muscaria|A. muscaria]]''. It is differentiated, however, by its lack of an [[annulus (mycology)|annulus]], by the [[volva (mycology)|volval]] deposits on its stipe/base, and by its pileal striations. It occasionally lacks a stipe bulb entirely, instead just tapering to a point in the ground with powdery volval deposits on its surface.{{Citation needed|date=December 2023}}
+
+==Distribution and habitat==
+It is occasional to common in the [[Southeastern United States]],<ref>{{cite book |last=Bessette |first=Alan R. |title=Mushrooms of the Southeastern United States |author2=William Roody |author3=Areleen Bessette |author4=Dail Dunway |publisher=[[Syracuse University Press]] |year=2007 |isbn=978-0-8156-3112-5}}</ref> occurring primarily in ''[[Quercus]]'' forests though it has been observed in forests with a mix of [[conifers]] and [[oak]]s.<ref>{{cite web |last1=Kuo |first1=Michael |date=March 2008 |title=Amanita parcivolvata |url=http://www.mushroomexpert.com/Amanita_parcivolvata.html |accessdate=December 25, 2011}}</ref>
+
+==References==
+{{Reflist|refs=
+
+<ref name="urlMycoBank: Amanita parcivolvata">{{cite web |title=''Amanita parcivolvata'' (Peck) J.E. Gilbert 1941 |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=307630 |publisher=[[MycoBank]]. International Mycological Association |accessdate=2011-12-24}}</ref>
+
+}}
+
+==External links==
+*[https://mushroomobserver.org/observer/observation_search?pattern=Amanita+parcivolvata Observations] on [[Mushroom Observer]]
+{{Amanitas}}
+{{Taxonbar|from=Q4033859}}
+
+[[Category:Amanita|parcivolvata]]
+[[Category:Fungi described in 1900]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]

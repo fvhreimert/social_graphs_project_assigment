@@ -1,0 +1,34 @@
+{{Short description|Stinkhorn fungus from Brazil}}
+{{Speciesbox
+| image = 
+| image_caption = 
+| genus = Phallus
+| species = pygmaeus
+| authority = Baseia
+}}
+{{mycomorphbox 
+| name = ''Phallus pygmaeus''
+| whichGills = no
+| capShape = no
+| hymeniumType=smooth
+| stipeCharacter=volva
+| ecologicalType=saprotrophic
+| sporePrintColor=olive
+| howEdible=unknown
+}}
+
+'''''Phallus pygmaeus''''' is a species of [[stinkhorn]] mushroom. It was found growing on rotten wood in the State of [[Pernambuco]], Brazil, and first reported in 2003. The fruiting bodies, which are otherwise similar in appearance to the well-known ''[[Phallus impudicus]]'', do not typically grow more than {{convert|1|cm|in|1|abbr=on}} long.<ref>{{cite journal |vauthors=Baseia I, Gilbertoni TB, Maia LC |year=2003 |title=''Phallus pygmaeus'', a new minute species from a Brazilian tropical rain forest |journal=Mycotaxon |volume=85  |pages=77–79 |url=http://www.cybertruffle.org.uk/cyberliber/59575/0085/0077.htm |accessdate=2010-03-28}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IndexFungorum|373611}}
+
+{{Taxonbar|from=Q7180346}}
+
+[[Category:Phallales]]
+[[Category:Fungus species]]
+
+
+{{Phallales-stub}}

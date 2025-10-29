@@ -1,0 +1,83 @@
+{{Short description|Species of fungus}}
+{{good article}}
+{{stack begin}}
+{{Speciesbox
+| image = Boletus subluridellus 49713.jpg
+| image_caption = From [[Strouds Run State Park]], [[Athens, Ohio|Athens]], [[Ohio]]
+| taxon = Boletus subluridellus
+| authority = [[A.H.Sm.]] & [[Harry D. Thiers|Thiers]] (1971)
+}}
+{{Mycomorphbox
+| name = ''Boletus subluridellus''
+| whichGills = adnate
+| capShape = convex
+| hymeniumType = pores
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = olive-brown
+| howEdible = unknown
+}}
+{{stack end}}
+
+'''''Boletus subluridellus''''' is a species of [[bolete]] fungus in the family [[Boletaceae]]. Described as new to science in 1971 by American mycologists, the bolete is found in the eastern United States and Canada. It grows on the ground in [[coniferous forest|coniferous]] and [[mixed forest]]s in a [[mycorrhiza]]l association with [[deciduous]] trees, especially [[oak]]. The [[basidiocarp|fruit bodies]] ([[mushroom]]s) have orangish-red, broadly convex [[pileus (mycology)|caps]] that are up to {{convert|10|cm|in|abbr=on}} in diameter, with small, dark reddish pores on the underside. The pale yellow [[stipe (mycology)|stipe]] measures {{convert|4|–|9|cm|in|abbr=on}} long by {{convert|1.5|–|2.3|cm|in|1|abbr=on}} thick. All parts of the fruit body will quickly stain blue when injured or touched.
+
+==Taxonomy==
+
+The species was described by American mycologists [[Alexander H. Smith]] and [[Harry D. Thiers]] in their 1971 [[monograph]] on the bolete fungi of [[Michigan]].<ref name="Smith 1971"/> The [[type (biology)|type]] collection was made by Smith on a golf course near [[Ypsilanti, Michigan]] in September 1961; it is kept at the [[University of Michigan]] herbarium.<ref name="UMich herbarium"/>
+
+''Boletus subluridellus'' is [[classification (biology)|classified]] in the [[section (botany)|section]] ''Luridi'' of the genus ''Boletus''. Section ''Luridi'' is characterized by boletes that immediately turn blue with cutting or bruising, narrow pores that are usually red, and the occasional presence of toxins in the fruit bodies. According to the scheme proposed by Smith and Thiers, the form of the dermatocystidia ([[cystidia]] on the [[cap cuticle]]) is important to species delimitation in section ''Luridi''. In a 1993 study, however, Roland Treu found no major consistent microscopic differences between ''B.&nbsp;subluridellus'', ''[[Boletus rufocinnamomeus|B.&nbsp;rufocinnamomeus]]'', and ''[[Boletus roseobadius|B.&nbsp;roseobadius]]''.<ref name="Treu 1993"/>
+
+The [[botanical name|specific epithet]] ''subluridellus'' refers to its similarity to ''[[Boletus luridellus]]''. ''Luridellus'' means "drab yellow to dirty brown".<ref name="Roody 2003"/>
+
+==Description==
+
+[[Basidiocarp|Fruit bodies]] of ''Boletus subluridellus'' have convex [[pileus (mycology)|caps]] that measure {{convert|5|–|10|cm|in|0|abbr=on}} in diameter. The cap surface is dry and slightly sticky, with a somewhat velvety texture. Its color is reddish to reddish-brown to orange-red. The flesh is bright yellow before staining blue where it has been cut. It has no discernible odor, and a slightly metallic taste. On the cap underside, the tubes comprising the pore surface are {{convert|6|–|9|mm|in|abbr=on}} long. Near to where the cap attaches to the stipe, they are either unattached, or slightly depressed. The dark reddish pores are small and round, numbering about 2–3 pores per mm. The stipe measures {{convert|4|–|9|cm|in|abbr=on}} long by {{convert|1.5|–|2.3|cm|in|1|abbr=on}} thick. It is solid (i.e., not hollow or stuffed with a pith), and roughly the same width throughout its length. The stipe color is pale yellow, grading to reddish in the base, where it has pressed-down yellow hairs. All parts of the fruit body (cap surface, flesh, pores, and stipe) will quickly stain blue when injured or touched.<ref name="Smith 1971"/>
+
+The [[spore print]] is olive-brown.<ref name="Bessette 2000"/> [[Spore]]s are somewhat fuse-shaped in face view, and inequilateral in profile view. They have a smooth surface, a tiny apical pore, and dimensions of 11–15 by 4–5.5&nbsp;[[micrometre|μm]], with walls about 0.2&nbsp;μm thick. The [[basidia]] (spore-bearing cells) are club-shaped, four-spored, and measure 8–12&nbsp;μm thick. Pleurocystidia (on the tube walls) are 28–42 by 6–11&nbsp;μm with a 3–μm neck, whereas the cheilocystidia (on the pore edges) are narrowly club-shaped and slightly smaller, measuring 26–38 by 4–8&nbsp;μm. Pleurocystidia tend to not protrude further than sporulating basidia. The cap cuticle comprises a 150&nbsp;μm-thick layer of narrow hyphae measuring 3–5&nbsp;μm more or less arranged in a trichodermium (wherein the outermost hyphae emerge roughly parallel, like hairs, perpendicular to the cap surface). These hyphae stain red when mounted in [[Melzer's reagent]] and yellow in [[potassium hydroxide]]. [[Clamp connection]]s are absent from the hyphae.<ref name="Smith 1971"/>
+
+===Similar species===
+
+''[[Boletus roseolateritius]]'', known from [[Mississippi]], has a cap that changes color according to its age: it is initially dark reddish to orangish, later reddish brown at maturity, fading to brownish orange or brownish pink with dull yellow tints, and finally turning dull dingy yellow in age. Its pale yellow stipe lacks the reddish coloration and the hairs found on the base of ''B.&nbsp;subluridellus''. Microscopically, it has smaller spores, measuring 8.5–12 by 3.5–4.5&nbsp;μm.<ref name="Bessette 2003"/> ''[[Boletus rufocinnamomeus]]'' is also similar in appearance, but can be distinguished by its yellow stipe that is dotted with orange-cinnamon to brownish dots.<ref name="Bessette 2000"/> ''[[Boletus flammans]]'', another blue-bruising lookalike found in the southeastern United States, grows under [[conifer]]s. It has a reddish stipe with fine reticulations on its upper half.<ref name="Bessette 2007"/>
+
+==Habitat and distribution==
+
+''Boletus subluridellus'' is a [[mycorrhiza]]l fungus, and grows in association with [[deciduous]] trees, especially [[oak]] (genus ''Quercus''). Fruit bodies grow scattered or in groups on the ground in [[deciduous forest|deciduous]] or [[mixed forest]]s, and appear from July to October. An eastern North American species, the mushroom is found from [[New England]] west to the [[Great Lakes]],<ref name="Bessette 2000"/> north to [[Quebec]] in Canada.<ref name="Lamoureux 2005"/>
+
+==See also==
+*[[List of Boletus species|List of ''Boletus'' species]]
+*[[List of North American boletes]]
+
+==References==
+
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Bessette 2000">{{cite book |title=North American Boletes |vauthors=Bessette AE, Roody WC, Bessette AR |year=2000 |publisher=Syracuse University Press |location=Syracuse, New York |isbn=978-0-8156-0588-1}}</ref>
+
+<ref name="Bessette 2003">{{cite journal |vauthors=Bessete AE, Ernst E, Dunaway DL |title=''Boletus roseolateritius'', a new bolete from the southern United States of America |journal=Mycologist |year=2003 |volume=17 |issue=1 |pages=15–16 |doi=10.1017/S0269915X03001058}}</ref>
+
+<ref name="Bessette 2007">{{cite book |vauthors=Bessette AE, Roody WC, Bessette AR |title=Mushrooms of the Southeastern United States  |year=2007  |publisher=[[Syracuse University Press]] |location=Syracuse, New York |isbn=978-0-8156-3112-5 |page=215 |url=https://books.google.com/books?id=IB1Gv3jZMmAC&pg=PA215}}</ref>
+
+<ref name="Lamoureux 2005">{{cite book |vauthors=Lamoureux Y, Sicard M |title=Connaître, Cueillir et Cuisiner les Champignons Sauvages du Québec |year=2005 |publisher=Les Editions Fides |isbn=978-2-7621-2617-4 |page=118 |url=https://books.google.com/books?id=NJ8164vllNIC&pg=PA118 }}</ref>
+
+<ref name="Roody 2003">{{cite book |author=Roody WC. |title=Mushrooms of West Virginia and the Central Appalachians |publisher=University Press of Kentucky |location=Lexington, Kentucky |year=2003 |page=291 |isbn=0-8131-9039-8 |url=https://books.google.com/books?id=5HGMPEiy4ykC&pg=PA291}}</ref>
+
+<ref name="Smith 1971">{{cite book |vauthors=Smith AH, Thiers HD |title=The Boletes of Michigan |year=1971 |publisher=University of Michigan Press |location=Ann Arbor, Michigan |page=349 |url=http://quod.lib.umich.edu/cgi/t/text/pageviewer-idx?c=fung1tc;cc=fung1tc;sid=1daa2cedc76d89d6db5a716695769e2f;rgn=full%20text;idno=AGK0838.0001.001;view=image;seq=00000357}}</ref>
+
+<ref name="Treu 1993">{{cite journal |author=Treu R. |title=Studies on ''Boletus'' section ''Luridi'' |journal=Mycotaxon |year=1993 |volume=47 |pages=367–77|url=http://www.cybertruffle.org.uk/cyberliber/59575/0047/0367.htm}}</ref>
+
+<ref name="UMich herbarium">{{cite web |title=Michigan; Washtenaw; USA; ''Boletus subluridellus''; 1961-09-03; Smith A. H.; Holotype |url=http://quod.lib.umich.edu/f/fung1ic/x-10055/10055 |publisher=University of Michigan Herbarium |access-date=2013-10-24}}</ref>
+
+}}
+
+==External links==
+*{{Commons category-inline|Boletus subluridellus}}
+*{{IndexFungorum|309808}}
+
+{{Taxonbar|from=Q4035283}}
+
+[[Category:Boletus|subluridellus]]
+[[Category:Fungi described in 1971]]
+[[Category:Fungi of the United States]]
+[[Category:Taxa named by Alexander H. Smith]]
+[[Category:Fungi without expected TNC conservation status]]
+[[Category:Fungus species]]

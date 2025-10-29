@@ -1,0 +1,68 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Panaeolus antillarum Mexico.JPG
+| genus = Panaeolus
+| species = antillarum
+| authority = ([[Elias Magnus Fries|Fr.]]) Dennis
+| synonyms = *''Agaricus antillarum''
+*''Agaricus solidipes''
+*''Panaeolus phalaenarum''
+*''Panaeolus sepulchralis''
+*''Psilocybe antillarum''
+}}
+{{mycomorphbox
+| name = ''Panaeolus antillarum''
+| whichGills = adnexed
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=saprotrophic
+| sporePrintColor=black
+| howEdible=edible}}
+
+'''''Panaeolus antillarum''''' is a species of mushroom in the family [[Bolbitiaceae]].
+
+== Description ==
+*'''Cap''': 3 to 6&nbsp;cm, bell-shaped to convex, white to light gray or yellowish. The caps are thick, smooth, often with fine wrinkles and acquire a silver white shiny color in age.
+*'''Gills''': Gray in young specimens, turning black as the spores mature.
+*'''Spore print''': Black.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=611}}</ref>
+*'''Stipe''': 4 to 22&nbsp;cm long and .5 to 2&nbsp;cm thick, solid, sometimes slightly larger at the base.
+*'''Taste''': Fungal.
+*'''Odor''': Fungal.
+*'''Size''': Small to medium.
+*'''Microscopic features''': Spores [[ellipsoid]], 15 - 20 (21) x 10 - 14 x 8 - 10(11) [[micrometre|μm]]. [[Cheilocystidia]] cylindrical to narrowly utriform, colorless, 30 - 45 [[micrometre|μm]]. [[Sulphidia]] clavate, sometimes with a stalk, 25 - 50 [[micrometre|μm]]. Basidia four spored, 30 - 35 micrometers long.<ref name="Gerhardt"/>
+
+<gallery>
+File:Panaeolus antillarum.jpg
+File:Panaeolus.antillarum.Michoacan.jpg
+</gallery>
+
+=== Similar species ===
+It is often mistaken for ''[[Panaeolus semiovatus var. phalaenarum]]'' or ''[[Panaeolus cyanescens]]'', the latter species can be distinguished by the thinner, grayer cap and blue bruising.<ref name="audu" />
+
+==Distribution and habitat==
+It's common and widely distributed. It grows on dung.<ref name="audu" /> It is found from northern North America through Mexico into northern South America.<ref name="Stamets1996">{{cite book |last=Stamets |first=Paul |title=Psilocybin Mushrooms of the World |publisher=Ten Speed Press |year=1996 |isbn=0-9610798-0-0 |location=Berkeley |authorlink=Paul Stamets}}</ref>
+
+== Uses ==
+It is edible but not commonly eaten.{{Citation needed|date=March 2025}}
+
+== See also ==
+{{Portal|Fungi}}
+*[[List of Panaeolus species|List of ''Panaeolus'' species]]
+
+==References==
+{{Reflist|colwidth=30em|refs=
+<ref name="Gerhardt">{{cite book |last1=Gerhardt |first1=Ewald |title=TAXONOMISCHE REVISION DER GATTUNGEN PANAEOLUS UND PANAEOLINA |isbn=3-510-48018-X }}</ref>
+}}
+
+==External links==
+* [https://mushroomobserver.org/4334 Mushroom Observer - Panaeolus antillarum]
+* [https://mushroomobserver.org/721 Mushroom Observer - Panaeolus antillarum]
+* [http://www.mushroomjohn.org/panaeolusantillarum1.htm Mushroom John - Panaeolus antillarum]
+
+{{Taxonbar|from=Q7129778}}
+
+{{DEFAULTSORT:Panaeolus antillarum}}
+[[Category:Panaeolus|antillarum]]
+[[Category:Fungus species]]
+[[Category:Taxa named by Elias Magnus Fries]]

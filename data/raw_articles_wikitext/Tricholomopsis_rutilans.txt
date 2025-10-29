@@ -1,0 +1,61 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Trichol rutilans02 Alberto Vázquez.JPG
+| image_caption = ''Tricholomopsis rutilans''<br> Pine woods, Galicia
+| taxon = Tricholomopsis rutilans
+| authority = (Schaeff. : Fr.) Sing.
+}}
+{{mycomorphbox
+| name = Tricholomopsis rutilans
+| hymeniumType = gills
+| capShape = convex
+| whichGills = adnate
+| stipeCharacter = bare
+| sporePrintColor = cream
+| ecologicalType = saprotrophic
+| howEdible = unpalatable
+}}
+
+'''''Tricholomopsis rutilans''''', commonly known as '''plums and custard''',<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/145/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=145–146 |orig-date=1979}}</ref> or '''red-haired agaric''', is a species of [[Agaricales|gilled mushroom]] found across Europe and North America.
+
+==Description==
+The [[common name]] stems from the plum-red scaled cap and custard-yellow gills. The [[Pileus (mycology)|cap]] is convex, becoming bell-shaped then flattening with age. It is up to {{Convert|12|cm|frac=2}} wide<ref name="tfb">{{Cite book |last=Francis-Baker |first=Tiffany |title=Concise Foraging Guide |date=2021 |publisher=[[Bloomsbury Publishing|Bloomsbury]] |isbn=978-1-4729-8474-6 |series=[[The Wildlife Trusts]] |location=London |pages=143}}</ref> with an incurved margin, densely covered with red to purplish red hairs; with maturity the hairs bunch into small scales and the yellowish color beneath shows through.<ref name=":1">{{cite book |last1=Trudell |first1=Steve |url=https://books.google.com/books?id=WevHvt6Tr8kC&pg=PA115 |title=Mushrooms of the Pacific Northwest |last2=Ammirati |first2=Joe |publisher=Timber Press |year=2009 |isbn=978-0-88192-935-5 |series=Timber Press Field Guides |location=Portland, OR |pages=115}}</ref> A [[KOH test]] produces red on cap surface.{{Citation needed|date=March 2025}}
+
+The [[Lamella (mycology)|gills]] are adnate, yellow, and close<ref name="Arora1986" /> with many short gills. The stem is {{Convert|5-11|cm|abbr=on|frac=4}} tall, {{Conv|8-25|mm|abbr=on|frac=8}} thick<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=421}}</ref> with a red scaly base fading to yellow towards the gills. In age it may be entirely yellow.<ref name="Arora1986" />
+
+The flesh is yellow to cream-coloured and [[spore print]] creamy white.<ref name="audu" /> The spores are cream colored, 5–7 x 3–5&nbsp;[[μm]],<ref name="Arora1986" /> almost globe shaped to broadly ellipsoid, smooth, and clear like glass in KOH.
+
+The [[basidia]] have 4 protrusions, the [[cheilocystidia]] 50–70+ x 20–25&nbsp;μm; shaped like a ball on a stick to sack shaped or swollen-irregular, smooth, thin-walled, clear in KOH. Pleurocystidia scattered, 30-35 x 5–7&nbsp;μm, flask shaped to almost cylindrical, smooth, clear in KOH.
+
+===Similar species===
+A related species, ''[[Tricholomopsis decora]]'', is also found in conifer woods but is golden in colour, much less common and found at higher altitudes.<ref name=":0" /> ''[[Tricholomopsis flammula|T.&nbsp;flammula]]'' is smaller and has a yellower stem.<ref name="audu" /> ''[[Megacollybia fallax]]'' is similar but with a gray-brown cap.<ref name=":0">{{Cite book |last1=Davis |first1=R. Michael |title=Field Guide to Mushrooms of Western North America |last2=Sommer |first2=Robert |last3=Menge |first3=John A. |publisher=[[University of California Press]] |year=2012 |isbn=978-0-520-95360-4 |location=Berkeley |pages=158–159 |oclc=797915861}}</ref> ''[[Gymnopilus luteofolius]]'' grows in clusters and with scales on the cap.<ref name="audu" />
+
+==Distribution and habitat==
+
+
+''Tricholomopsis rutilans'' can be found growing on tree stumps and logs (especially those of spruce) in coniferous woodlands throughout the northern hemisphere, in places as diverse as [[Ireland]], [[Bulgaria]], [[Ukraine]] and northwest Russia, in late summer and autumn (June until November). It has also been found, probably accidentally introduced, in [[Australia]], Aotearoa New Zealand<ref>{{Cite journal |last1=Cooper |first1=Jerry A. |last2=Park |first2=Duckchul |date=2016-12-09 |title=The fungal genus Tricholomopsis (Agaricales) in New Zealand, including Tricholomopsis scabra sp. nov. |url=https://biotaxa.org/Phytotaxa/article/view/phytotaxa.288.1.7 |journal=Phytotaxa |volume=288 |issue=1 |pages=69 |doi=10.11646/phytotaxa.288.1.7 |issn=1179-3163}}</ref> and [[Costa Rica]] on introduced pine trees.
+
+It is [[saprobic]] on the well-decayed wood of conifers, also occasionally reported in woodchips, sawdust, and lignin-rich soil. It grows alone, scattered or gregariously, and is widely distributed in North America.<ref name="audu" />
+
+==Edibility==
+Many older texts list ''T. rutilans'' as apparently able to be eaten after boiling, though not recommended. A couple of more recent books list it as of poor quality, reportedly due to a taste of rotting wood.<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=52}}</ref><ref name=":1" />
+
+==References==
+{{reflist}}
+
+==Further reading==
+*{{cite book | author = Breitenbach J & Kränzlin F | year = 1991 | title = Fungi of Switzerland 3: Boletes & Agarics, 1st Part | isbn = 978-3-85604-230-1}}
+* Fuhrer B. (2005) A Field Guide to Australian Fungi. Bloomings Books. {{ISBN|1-876473-51-7}}
+*{{cite book | author= Brian Spooner | year =1996 | title = Mushrooms and Toadstools | publisher = Collins | isbn = 978-0-00-220007-3}}
+
+==External links==
+{{Commons|Tricholomopsis rutilans}}
+*[http://www.mykoweb.com/CAF/species/Tricholomopsis_rutilans.html Mykoweb page on ''T. rutilans'']
+
+{{Taxonbar|from=Q977364}}
+
+[[Category:Tricholomopsis|rutilans]]
+[[Category:Fungi of Europe]]
+[[Category:Taxa named by Jacob Christian Schäffer]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]

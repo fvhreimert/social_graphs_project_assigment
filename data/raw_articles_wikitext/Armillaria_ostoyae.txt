@@ -1,0 +1,118 @@
+{{Short description|Species of fungus}}
+{{Use dmy dates|date=September 2021}}
+{{Speciesbox
+| image = Armillaria ostoyae.jpg
+| taxon = Armillaria ostoyae
+| authority = (Romagnesi) [[Josef Herink|Herink]] (1973)
+| synonyms = 
+* ''Agaricus congregatus'' <small>Bolton 1791 ''nom. illeg.''</small>
+* ''Armillaria mellea'' var. ''obscura'' <small>Gillet 1874</small>
+* ''Armillariella ostoyae'' <small>Romagn. 1970 ''nom. cons.''</small>
+* ''Armillaria solidipes'' <small>Peck 1900 ''nom. rej.''</small>
+}}
+{{Mycomorphbox
+| name            = ''Armillaria ostoyae''
+| hymeniumType    = gills
+| capShape        = campanulate
+| capShape2       = convex
+| whichGills      = decurrent
+| stipeCharacter  = ring
+| sporePrintColor = white
+| ecologicalType  = parasitic
+| howEdible       = choice
+}}
+
+'''''Armillaria ostoyae''''' (synonym '''''A.&nbsp;solidipes''''') is a pathogenic species of [[fungus]] in the family [[Physalacriaceae]]. It has decurrent [[Lamella (mycology)|gills]] and the stipe has a [[Annulus (mycology)|ring]]. The [[mycelium]] invades the sapwood of trees, and is able to disseminate over great distances under the bark or between trees in the form of black [[rhizomorph]]s ("shoestrings"). In most areas of North America, it can be distinguished from other ''Armillaria'' species by its [[cream]]-brown colors, prominent cap scales, and a well-developed ring.
+
+The species grows and spreads primarily underground, such that the bulk of the organism is not visible from the surface. In the autumn, the subterranean parts of the organism bloom "honey mushrooms" as surface fruits. Low competition for land and nutrients often allow this fungus to grow to huge proportions, and it possibly covers more total geographical area than any other single living organism. It is common on both [[hardwood]] and [[conifer]] wood in forests west of the [[Cascade Range]] in [[Oregon]].
+
+A spatial genetic analysis estimated that an individual specimen growing over {{convert|91|acre|ha}} in northern [[Michigan]] weighs 440 [[ton]]s (4 x 10<sup>5</sup> kg). Another specimen in northeastern Oregon's [[Malheur National Forest]] is possibly the [[largest living organism]] on Earth by mass, area, and volume; it covers {{convert|3.5|sqmi|acre sqkm}} and weighs as much as 35,000 tons (about 31,500 tonnes).
+
+==Taxonomy==
+
+The species was long known as ''Armillaria ostoyae'' Romagn., until a 2008 publication revealed that the species had been described under the earlier name ''Armillaria solidipes'' by [[Charles Horton Peck]] in 1900,<ref name=Peck1900>{{cite journal | title = New species of Fungi | journal = Bulletin of the Torrey Botanical Club | author = Peck, C. H. | year = 1900 | volume = 27 | issue = 12 | pages = 609–613 | jstor = 2477998 | doi = 10.2307/2477998 }}</ref> long before [[Henri Romagnesi]] had described it in 1970.<ref name=Burdsall2008>{{cite journal|title=''Armillaria solidipes'', an older name for the fungus called ''Armillaria ostoyae'' |journal=North American Fungi |year=2008 |author1=Burdsall, H. H. |author2=Volk, T. J. |volume=3 |issue=7 |pages=261–267 |doi=10.2509/naf2008.003.00717 |url=http://www.pnwfungi.org/pdf_files/manuscripts_volume_3/naf20087/naf2008717.pdf |archive-url=https://web.archive.org/web/20110721203201/http://www.pnwfungi.org/pdf_files/manuscripts_volume_3/naf20087/naf2008717.pdf |archive-date=21 July 2011 }}</ref> Subsequently, a proposal to conserve the name ''Armillaria ostoyae'' was published in 2011 and has been approved by the [[Nomenclature Committee for Fungi]].<ref name="Redhead et al 2011">{{cite journal | title = (2033) Proposal to conserve ''Armillariella ostoyae'' (''Armillaria ostoyae'') against ''Agaricus obscurus'', ''Agaricus occultans'', and ''Armillaria solidipes'' (Basidiomycota) | journal = Taxon | year = 2011 |author1=Redhead, S. A. |author2=Bérubé, J. |author3=Cleary, M. R.|author4=Holdenrieder, O.|author5=Hunt, R. S.|author6=Korhonen, K. R.|author7=Marxmüller, H.|author8=Morrison, D. J.| volume = 60 | issue = 6 | pages = 1770–1771| doi = 10.1002/tax.606023 |doi-access=free }}</ref>
+
+In the western United States, it is the most common variant of the [[species complex]] under the name ''[[Armillaria mellea|A. mellea]]''.{{citation needed|date=February 2025}}
+
+==Description==
+
+
+This fungus, like most parasitic fungi, reproduces sexually. The fungi begin life as [[spore]]s, released into the environment by a mature mushroom. There are two mating types for spores (not male and female but similar in effect). Spores can be dispersed by environmental factors such as wind, or they can be redeposited by an animal. Once the spores are in a resting state, the single spore must come in contact with a spore of a complementary mating type and of the same species. If the single spore isolates are from different species, the colonies will not fuse together and they will remain separate. When two isolates of the same species but different mating types fuse together, they soon form coalesced colonies which become dark brown and flat. With this particular fungus it will produce [[mycelial cords]] – the ''shoestrings''<ref name="hf">{{cite web |date=2008 |title=The Malheur National Forest: Location of the world's largest living organism (the ''Humongous Fungus'') |url=https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fsbdev3_033146.pdf |archive-url=https://web.archive.org/web/20190803005438/https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fsbdev3_033146.pdf |archive-date=3 August 2019 |access-date=16 December 2018 |publisher=Forest Service, US Department of Agriculture |vauthors=Schmitt CL, Tatum ML}}</ref> – also known as rhizomorphs.<ref>{{cite journal | last = Korhonen | first = K. | year = 1978 | title = Interfertility and Clonal Size in ''Armillaria mellea'' Complex | journal = Karstenia | volume = 18 | pages = 31–42 | doi = 10.29203/ka.1978.135 | doi-access = free }}</ref> These rhizomorphs allow the fungus to obtain nutrients over distances. These are also the main factors to its pathogenicity.
+
+As the fruiting body continues to grow and obtain nutrients, it forms into a mature mushroom. ''Armillaria ostoyae'' in particular grows wide and thin [[Mushroom#Identification|gills]], radiating decurrently from the stem. The gills leave a white [[spore print]]. Once spore formation is complete, the mature mushroom is able to spread its spores to start a new generation. The stem retains a well-developed [[Annulus (mycology)|ring]].<ref name=":0">{{Cite web |title=Armillaria ostoyae, Dark Honey Fungus |url=https://www.first-nature.com/fungi/armillaria-ostoyae.php |access-date=23 October 2019 |website=first-nature.com}}</ref>
+
+Like several other Armillaria, the mycelium of ''A.&nbsp;ostoyae'' can display [[bioluminescence]], resulting in [[foxfire]].<ref>Rishbeth J. (1986). "Some characteristics of English Armillaria species in culture". Transactions of the British Mycological Society. 86 (2): 213–218. doi:10.1016/S0007-1536(86)80147-4.</ref> 
+
+===Genetics and mass===
+Using [[genotyping]] and [[clone (cell biology)|clonal analysis]], scientists determined that a 2,500-year old specimen of ''Armillaria ostoyae'' in northern [[Michigan]], United States originated from spores of a parent fungus in [[Ontario]], Canada, then grew over [[millennium|millennia]] into the 21st century to a [[mass]] of 440 [[ton]]s (4 x 10<sup>5</sup> kg), making it the equivalent in weight of 3 [[blue whale]]s.<ref name="Anderson">{{citation | last1=Anderson | first1=James B. | last2=Bruhn | first2=Johann N. | last3=Kasimer | first3=Dahlia | last4=Wang | first4=Hao | last5=Rodrigue | first5=Nicolas | last6=Smith | first6=Myron L. | title=Clonal evolution and genome stability in a 2,500-year-old fungal individual | journal=bioRxiv | publisher=Cold Spring Harbor Laboratory | date=26 July 2018 | article-number=377234 | doi=10.1101/377234 |url=https://www.biorxiv.org/content/10.1101/377234v2.full| doi-access=free }}</ref><ref name="daley">{{cite web |author1=Jason Daley |title=This humongous fungus is as massive as three blue whales: A new estimate suggests this mushroom is 2,500 years old and weighs 440 tons |url=https://www.smithsonianmag.com/smart-news/mushroom-massive-three-blue-whales-180970549/ |publisher=Smithsonian.com |access-date=23 September 2019 |date=15 October 2018}}</ref> By comparison of acreage, the Michigan ''A.&nbsp;ostoyae'' covers only 38% of the estimated land area of the Oregon "humongous fungus" at {{convert|3.5|sqmi|sqkm}},<ref name=hf/><ref name=Anderson/><ref name=daley/> ({{convert|2240|acre|ha}} which may weigh as much as 35,000 tons. It is currently the world's largest single living organism.<ref name="patton">{{cite web |author1=Vince Patton |date=12 February 2015 |title=Oregon Humongous Fungus Sets Record As Largest Single Living Organism on Earth (7-minute documentary video) |url=https://www.opb.org/television/programs/ofg/segment/oregon-humongous-fungus/ |access-date=23 September 2019 |publisher=Oregon Field Guide}}</ref><ref>{{Cite web|date=2008|title=The Malheur National Forest Location of the World's Largest Living Organism [The Humongous Fungus]|url=https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fsbdev3_033146.pdf|access-date=1 August 2021|website=fs.usda.gov|archive-url=https://web.archive.org/web/20120324174812/http://www.fs.usda.gov:80/Internet/FSE_DOCUMENTS/fsbdev3_033146.pdf |archive-date=24 March 2012 }}</ref><ref>{{Cite news|title=Oregon Humongous Fungus Sets Record As Largest Single Living Organism On Earth|language=en|work=opb|url=https://www.opb.org/television/programs/oregon-field-guide/article/oregon-humongous-fungus/|access-date=1 August 2021}}</ref> The species possibly covers more total geographical area than any other single living organism.<ref name="hf" /><ref>{{cite web |date=1 December 2010 |title=Biggest living thing |url=http://www.extremescience.com/zoom/index.php/largest-living-thing |publisher=Extreme Science}}</ref><ref>{{Cite web |last=Puiu |first=Tibi |date=6 February 2015 |title=The largest organism in the world |url=http://www.zmescience.com/other/science-abc/largest-organism-world-mushroom/ |access-date=20 February 2015 |website=ZME Science}}</ref>
+
+===Similar species===
+''A. ostoyae'' may be confused with Mottled rot (''[[Pholiota limonella]]''). It has similar mushrooms, but only if mycelial fans are not present.
+
+==Distribution and habitat==
+''Armillaria ostoyae'' is mostly common in the cooler regions of the northern hemisphere. In North America, this fungus is found on host coniferous trees in the forests of [[British Columbia]] and the [[Pacific Northwest]].<ref name=hf/> It also grows in parts of Asia.<ref name=":0" /> While ''Armillaria ostoyae'' is distributed throughout the different biogeoclimatic zones of British Columbia, the root disease causes the greatest problem in the interior parts of the region in the ''Interior Cedar Hemlock'' biogeoclimatic zone.<ref>{{cite journal | last1 = Cruickshank | first1 = M. G. | last2 = Morrison | first2 = D. J. | last3 = Lalumiere | first3 = A. | year = 2009 | title = The Interaction Between Competition in Douglas-fir Plantation and Disease Caused by ''Armillaria ostoyae'' in British Columbia | journal = Forest Ecology and Management| volume = 257 | issue = 2 | pages = 443–452 | doi = 10.1016/j.foreco.2008.09.013 }}</ref> It is both present in the interior where it is more common as well as along the coast.
+
+A mushroom of this type in the [[Malheur National Forest]] in the [[Strawberry Range|Strawberry Mountains]] of eastern Oregon, was found to be the largest fungal colony in the world, spanning an area of {{convert|3.5|sqmi|acre sqkm}}.<ref name=hf/><ref name=patton/> This organism is estimated to be some 8,000 years old<ref name=patton/><ref name=Humongous>{{cite news|last1=Richardson Dodge|first1=Sherri|title=An even more humongous fungus|url=http://www.fs.fed.us/pnw/news/fungus.htm|access-date=2 November 2015|agency=Pacific Northwest Research Station, US Forest Service|date=24 July 2000}}</ref> and may weigh as much as 35,000 tons.<ref name=patton/> If this colony is considered a single organism, it is one of the largest known organisms in the world by area, only knowingly rivalled by a colony of ''[[Posidonia australis]]'' on the Australian seabed that measures {{convert|200|km2|mi2 acre}},  and rivals the aspen grove "[[Pando (tree)|Pando]]" as the known organism with the highest living biomass. Another "humongous fungus" – a specimen of ''[[Armillaria gallica]]'' found at a site near [[Crystal Falls, Michigan]] – covers {{convert|91|acre|sqkm sqmi}}, was found to have originated from a parent fungus in Ontario.<ref name=Anderson/><ref name="penn">{{cite web |author1=Elizabeth Pennisi |author-link=Elizabeth Pennisi |title='Humongous fungus' is almost as big as the Mall of America |url=https://www.science.org/content/article/humongous-fungus-almost-big-mall-america |publisher=Science, American Association for the Advancement of Science |access-date=23 September 2019 |date=10 October 2018}}</ref>
+
+==Pathogenicity==
+This species of fungus is of particular interest to forest managers, as it is highly pathogenic to a number of commercial softwoods, notably [[Douglas-fir]] (''Pseudotsuga menziesii''), true [[fir]]s (''Abies'' spp.), pine trees (''[[Pinus]]''), and [[Western Hemlock]] (''Tsuga heterophylla'').<ref name=patton/> A commonly prescribed treatment is the clear cutting of an infected stand followed by planting the area with species of trees more resistant to the fungus, which includes [[Western redcedar]] (''Thuja plicata'') and deciduous species.
+
+Pathogenicity of the fungus is seen to differ among trees of varying age and location. Younger conifer trees at age 10 and below are more susceptible to infection leading to mortality, while more mature trees have an increased chance of survival; mortality can become rare in trees that have reached 20 years of age.<ref>{{ cite journal | last1 = Morrison | first1 = D. J. | last2 = Pellow | first2 = K. W. | title = Variation in Virulence Among Isolates of ''Armillaria ostoyae'' | journal = Forest Pathology | year = 2002 | volume = 32 | issue = 2 | pages = 99–107 | doi = 10.1046/j.1439-0329.2002.00275.x }}</ref> While mortality among older conifers is less likely to occur, it does happen in forests with dryer climates.<ref>{{ cite book | last1 = Harington | first1 = T. C. | last2 = Wingfield | first2 = M. J. | editor = Richardson, D. M. | year = 2000 | chapter = 19. Diseases and the Ecology of Indigenous and Exotic Pines | title = Ecology and Biogeography of Pinus | page = 386 | publisher = Cambridge University Press | isbn = 978-0-521-78910-3}}</ref>
+
+Pathogenicity of ''Armillaria ostoyae'' appears to be more common in stands in interior regions, but its virulence is seen to be greater near the coast. Although conifers in the coastal regions show a lower rate of mortality from the root disease, the infection rates can be much worse. Despite differences between the two regions in how infections occur, infections are generally established by rhizomorph strands, and pathogenicity is correlated to rhizomorph production.
+
+===Diagnosis===
+A tree is diagnosed with this parasitic fungus when the following characteristics are identified:
+*Resin flow from tree base
+*Crown thinning or changing color to yellow or red
+*Distress crop of cones
+*White mycelial fan under bark
+*Black rhizomorphs penetrating root surfaces
+*Honey-colored mushrooms near base of tree in fall<ref name="hf" />
+*On the east side of the Cascades, affected trees are often in groups or patches; usually single trees on the west side.
+
+Dead and diseased trees usually occur in disease centers, which appear as openings in the canopy. GPS tracking can aid in the monitoring of these areas. However, sometimes distinct centers will be absent and diseased trees are scattered throughout a stand.
+<ref>{{cite web| title = CTD-Root Disease: ''Armillaria'' Root Disease| publisher = Forestry Development| date = 19 March 2009| access-date = 7 December 2010| url = http://www.forestry-dev.org/diseases/ctd/Group/Root/root1_e.html| archive-url = https://web.archive.org/web/20100830062904/http://www.forestry-dev.org/diseases/ctd/Group/Root/root1_e.html| archive-date = 30 August 2010}}</ref>
+
+===Treatment===
+{{More citations needed|section|date=October 2019}}
+''Armillaria'' can remain viable in stumps for 50 years. Chemical treatments do not eradicate the fungus entirely, and they are not cost-effective. The most frequent and effective approach to managing root disease problems is to attempt to control them at final harvest by replanting site-suited tree species that are disease tolerant. In eastern Washington that typically means replacing [[Douglas-fir]] or true fir stands with [[ponderosa pine]], [[western larch]], [[western white pine]], [[lodgepole pine]], [[western red cedar]], [[alder]], or [[spruce]]. Species susceptibility varies somewhat from location to location. All trees in the disease center as well as uninfected trees within {{convert|50|ft|m}} should be cut. No tree from a highly susceptible species should be planted within {{convert|100|ft|m|abbr=on}} of a disease center.
+
+Another fungus, ''[[Hypholoma fasciculare]]'', has been shown in early experiments to competitively exclude ''Armillaria ostoyae'' in both field and laboratory conditions; further experimentation is required to discover whether this treatment works.
+
+Another more expensive alternative to changing species is to remove diseased stumps and trees from the site by pushing them out with a bulldozer. Exposure to air dries the fungus and kills it. Small roots left underground will decay before they can reinfect the new seedlings, so it is not necessary to burn them. After stump removal, any species may be planted. The removal of stumps (stumping) has been used to prevent contact between infected stumps and newer growth resulting in lower infection rates. It is unknown if the lower infection rates will persist as roots of young trees extend closer to the original inoculate from the preceding stand.
+
+The most important control measure after planting is to manage for reduced tree stress. This includes regulating [[species composition]], maintaining biological diversity, and reducing the chances for insect pest buildup. Mixed-species forests are more resistant to insect defoliation, and also slow the spread of species-specific pests such as dwarf mistletoe, which are both predisposing agents for ''Armillaria''.<ref>{{cite web | work = Forest Health Notes | title = ''Armillaria'' Root Rot, Shoestring Root Rot, Honey Mushroom | publisher = Washington State University – Department of Natural Resource Science Extension | access-date = 11 June 2013 | url = http://ext.nrs.wsu.edu/forestryext/foresthealth/notes/armillariarootrot.htm | archive-url = https://web.archive.org/web/20160304082453/http://ext.nrs.wsu.edu/forestryext/foresthealth/notes/armillariarootrot.htm | archive-date = 4 March 2016 }}</ref>
+
+==Uses==
+The species is considered a [[Edible mushroom|choice edible]].<ref name="Miller 2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|page=153|author-link=Orson K. Miller Jr.}}</ref>
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Armillaria species|List of ''Armillaria'' species]]
+*[[List of bioluminescent fungi]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons}}
+*[http://www.abc.net.au/science/news/enviro/EnviroRepublish_828525.htm Humungous Fungus: World's Largest Organism?]
+*[https://news.bbc.co.uk/2/hi/science/nature/869808.stm Fantastic fungus find] at BBC News
+*[http://botit.botany.wisc.edu/toms_fungi/apr2002.html The Humongous Fungus – Ten Years Later] at [[Inoculum (magazine)|Inoculum]] 
+*[https://cdnsciencepub.com/doi/10.1139/b04-078 Early Results from Field Trials Using ''Hypholoma fasciculare'' to Reduce ''Armillaria ostoyae'' Root Disease] in ''[[Canadian Journal of Botany]]'' (2004)
+
+{{Taxonbar|from=Q917989}}
+{{Authority control}}
+
+{{DEFAULTSORT:Armillaria ostoyae}}
+[[Category:Armillaria|ostoyae]]
+[[Category:Bioluminescent fungi]]
+[[Category:Edible fungi]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Natural history of Oregon]]
+[[Category:Natural history of Washington (state)]]
+[[Category:Fungal tree pathogens and diseases]]
+[[Category:Fungi described in 1900]]
+[[Category:Fungus species]]

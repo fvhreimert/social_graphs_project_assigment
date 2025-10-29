@@ -1,0 +1,46 @@
+{{Short description|Species of tooth fungus}}
+{{Use dmy dates|date=April 2025}}
+{{Use Oxford spelling|date=April 2025}}
+{{Speciesbox
+| image =
+| image_caption =
+| taxon = Hydnellum lundellii
+| authority = ([[Maas Geest.]] & [[Nannf.]]) E.Larss., K.H.Larss. & Kõljalg (2019)
+| synonyms = *''Sarcodon lundellii'' {{au|Maas Geest. & Nannf. (1969)}}
+}}
+
+'''''Hydnellum lundellii''''' is a species of [[tooth fungus]] in the family [[Bankeraceae]],<ref name="CoL_6MHHN"/> first described in 1969 and reclassified to its current genus in 2019. The fungus produces woody [[basidiocarp|fruit bodies]] with [[pileus (mycology)|caps]] ranging from yellowish-brown to purplish-brown that can grow up to 9&nbsp;cm across, featuring tooth-like spines on their underside that release [[spore]]s. It forms a [[mycorrhiza]]l relationship with [[spruce]] trees. The species is found exclusively in [[Fennoscandia]].
+
+==Taxonomy==
+
+The fungus was [[species description|described]] as new to science in 1969 by the mycologists [[Rudolph Arnold Maas Geesteranus]] and [[John Axel Nannfeldt]]; the [[type (biology)|type specimen]] was collected in Sweden.<ref name="Maas Geesteranus 1969"/> The [[taxon]] was transferred to ''[[Hydnellum]]'' in 2019 following [[molecular phylogenetics|molecular]] analysis of various [[hydnoid fungi]].<ref name="Larsson et al 2019"/>
+
+==Description==
+
+''Hydnellum lundellii'' produces woody fruit bodies ([[basidiocarp]]s) that may occur singly or clustered, sometimes fused at the base. The cap (or [[pileus (mycology)|pileus]]) can grow up to 9&nbsp;cm across and ranges in colour from yellowish‑brown to reddish or purplish‑brown, often bearing scattered darker scales. On the underside, numerous downward‑pointing spines (up to 4&nbsp;mm long) develop, turning purplish‑brown as they mature; these tooth‑like projections release the spores. The cap surface is scaly toward the centre but becomes smooth or slightly velvety (velutinate) towards the margin, which may remain covered in fine fibres (fibrillose). The [[trama (mycology)|flesh]] (context) is whitish to pale brown, becoming darker close to the base of the stem, and the odour is only faintly farinaceous (reminiscent of fresh meal).<ref name="Ryvarden 2024"/>
+
+The [[stipe (mycology)|stipe]] reaches up to 8&nbsp;cm in height and about 2&nbsp;cm in thickness. It is initially covered in a fine, downy layer (tomentose) that soon sloughs off to leave a smooth surface matching the cap's hue. Under microscopic examination, the cap tissue consists of simple‑septate [[hypha]]e up to 20&nbsp;μm wide. The spores ([[basidiospore]]s) are pale brown, irregular in outline and measure about 5–5.8 by 3.6–4.2&nbsp;[[μm]].<ref name="Ryvarden 2024"/>
+
+==Habitat and distribution==
+
+''Hydnellum lundellii'' is only known to occur in [[Fennoscandia]], where it form [[ectomycorrhiza]]e with ''[[Picea]]'' trees.<ref name="Ryvarden 2024"/>
+
+==References==
+{{Reflist|refs=
+
+<ref name="CoL_6MHHN">{{Catalogue of Life |id=6MHHN |title=''Hydnellum lundellii'' (Maas Geest. & Nannf.) E. Larss., K.H. Larss. & Kõljalg |access-date=21 April 2025}}</ref>
+
+<ref name="Maas Geesteranus 1969">{{cite journal |last1=Maas Geesteranus |first1=R.A. |last2=Nannfeldt |first2=J.A. |title=The genus ''Sarcodon'' in Sweden in the light of recent investigation |journal=Svensk Botanisk Tidskrift |year=1969 |volume=63 |pages=401–440 [421])}}</ref>
+
+<ref name="Larsson et al 2019">{{cite journal |last1=Larsson |first1=Karl-Henrik |last2=Svantesson |first2=Sten |last3=Miscevic |first3=Diana |last4=Kõljalg |first4=Urmas |last5=Larsson |first5=Ellen |title=Reassessment of the generic limits for ''Hydnellum'' and ''Sarcodon'' (Thelephorales, Basidiomycota) |journal=MycoKeys |issue=54 |year=2019 |pmid=31231164 |pmc=6579789 |doi=10.3897/mycokeys.54.35386 |doi-access=free |pages=31–47}}</ref>
+
+<ref name="Ryvarden 2024">{{cite book |last=Ryvarden |first=Leif |year=2024 |title=Hydnoid Genera – A World Synopsis |series=Synopsis Fungorum |volume=50 |publisher=Fungiflora |location=Oslo |url=https://www.fungiflora.no/synopsis-50-hydnoid-genera |page=32}}{{OA}}</ref>
+
+}}
+
+{{Taxonbar |from1=Q107746775 |from2=Q10547990}}
+
+[[Category:Hydnellum|lundellii]]
+[[Category:Fungi described in 1969]]
+[[Category:Fungi of Europe]]
+[[Category:Fungus species]]

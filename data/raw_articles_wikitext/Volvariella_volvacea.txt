@@ -1,0 +1,56 @@
+{{Speciesbox
+| image = StrawMushroom.jpg
+| image_caption = Straw mushrooms, some still veiled, others opened—showing the cap inside
+| genus = Volvariella
+| species = volvacea
+| authority = ([[Jean Baptiste François Pierre Bulliard|Bul.]]) [[Rolf Singer|Singer]] (1951)<ref>{{cite web|url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=307802|title=Species Fungorum - GSD Species|website=www.speciesfungorum.org}}</ref>
+| synonyms = * ''Agaricus volvaceus'' <small>Bull. (1786)</small>
+* ''Amanita virgata'' <small> [[Christian Hendrik Persoon|Pers.]] (1797)</small>
+* ''Vaginata virgata'' <small> [[Samuel Frederick Gray|Gray]] (1821)</small>
+* ''Volvaria volvacea'' <small> [[Paul Kummer|P. Kumm.]] (1871)</small>
+}}
+{{mycomorphbox 
+| name = ''Volvariella volvacea''
+| hymeniumType=gills
+| capShape = conical
+|capShape2=umbonate 
+| whichGills = free 
+| stipeCharacter=volva
+| sporePrintColor=salmon
+| ecologicalType=saprotrophic
+| howEdible=choice
+}}
+
+'''''Volvariella volvacea''''' (also known as '''paddy straw mushroom''' or '''straw mushroom''') is a species of [[edible mushroom]]<ref>{{cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/mushroomsdemysti00aror_0/page/262/mode/2up |title=Mushrooms Demystified |publisher=Ten Speed Press |year=1986 |isbn=978-0-89815-169-5 |location=Berkeley, California |pages=262 |url-access=registration}}</ref> cultivated throughout [[East Asia|East]] and [[Southeast Asia]] and used extensively in [[Asian cuisine]]. They are often available fresh in regions where they are cultivated, but elsewhere are more frequently found canned or dried. Worldwide, straw mushrooms are the third-most-consumed mushroom.<ref name="Straw Mushroom">{{cite web |title=Straw Mushrooms|url=https://www.mssf.org/cookbook/straw.html}}</ref>
+
+== Description ==
+In their button stage, straw mushrooms resemble poisonous [[death cap]]s, but can be distinguished by several mycological features, including their pink [[spore print]] (spore prints of death caps are white). The two mushrooms have different distributions, with the death cap generally not found where the straw mushroom grows natively, but immigrants, particularly those from [[Southeast Asia]] to [[California]] and [[Australia]], have been [[Mushroom poisoning|poisoned]] due to misidentification.<ref name="Money 2004">{{cite book |author=Money NP. |url=https://books.google.com/books?id=1ROa52_3bUwC&pg=PA153 |title=Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists |publisher=Oxford University Press |year=2004 |isbn=978-0-19-517158-7 |page=153}}</ref><ref>{{cite web |last=Gardiner |first=Stephanie |date=3 January 2012 |title=Two die after eating death cap mushrooms |url=https://www.smh.com.au/national/nsw/two-die-after-eating-death-cap-mushrooms-20120104-1pk38.html |website=The Sydney Morning Herald}}</ref>
+
+== Uses ==
+Straw mushrooms are grown on rice straw beds and are most commonly picked when immature (often labelled "unpeeled"), during their button or egg phase, and before the veil ruptures.<ref>{{cite book|url=https://books.google.com/books?id=0luzyrBPARgC&q=straw+mushrooms+veil+ruptures&pg=PA120|title=Tropical Mushrooms: Biological Nature and Cultivation Methods|first1=S. T.|last1=Chang|first2=Shu-ting|last2=Chang|first3=T. H.|last3=Quimio|date=9 January 1982|publisher=Chinese University Press|isbn=9789622012646|via=Google Books}}</ref> They are adaptable, taking four to five days to mature, and are most successfully grown in [[Subtropics|subtropical climates]] with high annual rainfall. No record has been found of their [[Fungiculture|cultivation]] before the 19th century.<ref name="Hsiung06">{{cite book |title=The Chinese Kitchen |last=Hsiung |first=Deh-Ta |year=2006 |publisher=Kyle Cathie Ltd. |location=London |isbn=1-85626-702-4|pages=186–87}}</ref>
+
+=== Broth ===
+In the finishing and aging process of making [[dark soy sauce]], the broth of straw mushrooms can be mixed into the soy sauce, which is then exposed to the sun to make mushroom dark soy sauce ({{lang|zh|{{linktext|草|菇|老|抽}}}} ''cǎogū lǎochōu''). The added broth gives this soy sauce a richer flavor than plain dark soy sauce.<ref>{{Cite book|last=Anusasananan|first=Linda Lau|url=https://books.google.com/books?id=DP1fbX0SZncC&dq=mushroom+dark+soy+rich&pg=PA254|title=The Hakka Cookbook: Chinese Soul Food from around the World|date=2012-10-08|publisher=University of California Press|isbn=978-0-520-95344-4|language=en}}</ref>
+
+=== Nutrition ===
+One cup ({{Convert|182|g|abbr=off|disp=or}}) of straw mushrooms is nutritionally dense and provides {{convert|58|kcal|kJ|order=flip|abbr=off}} of [[food energy]], 27.7&nbsp;[[μg]] [[selenium]] (50.36% of [[Dietary_Reference_Intake|RDA]]), 699 mg [[sodium]] (46.60%), 2.6 mg [[iron]] (32.50%), 0.242&nbsp;mg [[copper]] (26.89%), 69&nbsp;μg vitamin B<sub>9</sub> ([[folate]]) (17.25%), 111&nbsp;mg [[phosphorus]] (15.86%), 0.75&nbsp;mg vitamin B<sub>5</sub> ([[pantothenic acid]]) (15.00%), 6.97&nbsp;g [[Protein (nutrient)|protein]] (13.94%), 4.5&nbsp;g total [[dietary fiber]] (11.84%), and 1.22&nbsp;mg [[zinc]] (11.09%).<ref name="Health Benefits Times 2019">{{cite web | title=Straw Mushroom facts and health benefits | website=Health Benefits Times | date=2019-05-30 | url=https://www.healthbenefitstimes.com/straw-mushroom/ | access-date=2019-11-05}}</ref>
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{Wikisource|Coloured figures of English fungi or mushrooms/Volume 1/Tab. 1}}
+* [http://www.mssf.org/cookbook/straw.html Straw Mushroom]
+* http://www.indexfungorum.org/Names/SynSpecies.asp?RecordID=307802 {{Webarchive|url=https://web.archive.org/web/20071010052220/http://www.indexfungorum.org/Names/SynSpecies.asp?RecordID=307802 |date=2007-10-10 }}
+* http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=307802
+* https://doi.org/10.1016/j.jfma.2019.09.008
+{{Commons category-inline}}
+
+{{Taxonbar|from=Q641656}}
+
+[[Category:Pluteaceae]]
+[[Category:Chinese edible mushrooms]]
+[[Category:Fungi described in 1786]]
+[[Category:Fungi in cultivation]]
+[[Category:Fungi of Asia]]
+[[Category:Fungus species]]

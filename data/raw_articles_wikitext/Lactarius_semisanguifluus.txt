@@ -1,0 +1,36 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Lactarius semisanguifluus1597.jpg
+| genus = Lactarius
+| species = semisanguifluus
+| authority = [[Roger Heim|R.Heim]] & Leclair (1950)
+}}
+{{mycomorphbox 
+| name = ''Lactarius semisanguifluus''
+| whichGills = decurrent 
+| capShape = depressed 
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=mycorrhizal
+| sporePrintColor=tan
+| howEdible=choice
+}}
+
+'''''Lactarius semisanguifluus''''' is a species of [[fungus]] in the family [[Russulaceae]].<ref name=Hesler1979>{{cite book |title=North American Species of ''Lactarius'' |last=Hesler LR, Smith AH. |year=1979 |publisher=The University of Michigan Press |location=Michigan |pages=536–37 |isbn=0-472-08440-2}}</ref>
+
+==See also==
+*[[List of Lactarius species|List of ''Lactarius'' species]]
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q513517}}
+
+[[Category:Lactarius|semisanguifluus]]
+[[Category:Fungi described in 1950]]
+[[Category:Fungi of Europe]]
+[[Category:Edible fungi]]
+[[Category:Fungus species]]
+
+
+{{Russulales-stub}}

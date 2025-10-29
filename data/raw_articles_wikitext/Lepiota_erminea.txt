@@ -1,0 +1,42 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Lepiota erminea 588058.jpg
+| genus = Lepiota
+| species = erminea
+| authority = ([[Elias Magnus Fries|Fr.]]) [[P.Kumm.]] (1871)
+| synonyms_ref = <ref name="urlFungorum synonymy: Lepiota erminea"/>
+| synonyms = *''Agaricus ermineus'' <small>Fr. (1821)</small>
+*''Lepiota clypeolaria'' var. ''alba'' <small>Bres. (1881)</small>
+*''Lepiota alba'' <small>([[Bres.]]) [[Sacc.]] (1887)</small>
+*''Mastocephalus ermineus'' <small>(Fr.) [[Otto Kuntze|Kuntze]] (1891)</small>
+*''Lepiota alba'' f. ''silvatica'' <small>[[Marcel Bon|Bon]] (1993)</small>
+}}
+
+'''''Lepiota erminea''''', commonly known as the '''dune dapperling''',<ref name="BMS"/> is a species of [[agaric]] fungus in the family [[Agaricaceae]]. It is found in Europe and North America.
+
+==See also==
+* [[List of Lepiota species|List of ''Lepiota'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="BMS">{{cite web |author=Holden L. |title=English Names for fungi 2014 |url=http://www.britmycolsoc.org.uk/library/english-names/ |publisher=British Mycological Society |accessdate=2016-01-06 |archive-date=2015-09-23 |archive-url=https://web.archive.org/web/20150923194645/http://www.britmycolsoc.org.uk/library/english-names/ |url-status=dead }}</ref>
+
+<ref name="urlFungorum synonymy: Lepiota erminea">{{cite web |title=GSD Species Synonymy: ''Lepiota erminea'' (Fr.) P. Kumm. |url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=239040 |publisher=Species Fungorum. CAB International |accessdate=2016-01-06}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|239040}}
+
+{{Taxonbar|from=Q10716221}}
+
+[[Category:Lepiota|erminea]]
+[[Category:Fungi described in 1821]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]
+
+
+{{Agaricaceae-stub}}

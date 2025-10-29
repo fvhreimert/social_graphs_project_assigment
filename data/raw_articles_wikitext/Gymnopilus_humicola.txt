@@ -1,0 +1,48 @@
+{{short description|Species of mushroom}}
+{{Speciesbox
+| image = Gymnopilus humicola Harding ex Singer 290356.jpg
+| image_caption = ''Gymnopilus humicola'', [[Live Oak, Santa Cruz County, California|Live Oak, California]], United States
+| taxon = Gymnopilus humicola
+| authority = Harding ex [[Rolf Singer|Singer]]
+| synonyms = 
+}}
+{{mycomorphbox
+| name = ''Gymnopilus humicola''
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=inedible
+}}
+
+'''''Gymnopilus humicola''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]].
+
+==Description==
+The [[pileus (mycology)|cap]] is {{convert|1|to|5|cm|in|1}} in diameter.<ref name="isbn0-945345-39-9">{{cite book |author=Hesler LR. |title=North American Species of ''Gymnopilus'' (Mycologia Memoir Series: No 3) |publisher=Lubrecht & Cramer Ltd |location=Knoxville, Tennessee |year=1969 |pages=67–68 |isbn=0-945345-39-9}}</ref> The species is inedible.<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=201}}</ref>
+
+==Habitat and distribution==
+''Gymnopilus humicola'' grows on [[humus]], in both [[coniferous]] and [[deciduous]] woodland. It has been found in the US states of Michigan, Idaho, Tennessee, and Washington. It fruits from June to September.<ref name="isbn0-945345-39-9"/>
+
+==See also==
+{{Portal|Fungi}}
+[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*''[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=331592 Gymnopilus humicola]'' at [[Index Fungorum]]
+
+{{Taxonbar|from=Q5624824}}
+
+{{DEFAULTSORT:Gymnopilus humicola}}
+[[Category:Gymnopilus|humicola]]
+[[Category:Fungi of North America]]
+[[Category:Inedible fungi]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

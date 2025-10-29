@@ -1,0 +1,89 @@
+{{Short description|Species of mushroom}}
+{{Speciesbox
+| image = Pleurotus pulmonarius LC0228.jpg
+| genus = Pleurotus
+| species = pulmonarius
+| authority = ([[Elias Magnus Fries|Fr.]]) [[Lucien Quélet|Quél.]] (1872)
+}}
+{{Mycomorphbox 
+| name = ''Pleurotus pulmonarius''
+| whichGills = decurrent
+| capShape = offset
+| capShape2 = convex
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = saprotrophic
+| sporePrintColor = white
+| howEdible = choice
+}}
+
+'''''Pleurotus pulmonarius''''', commonly known as the '''Indian oyster''', '''Italian oyster''', '''phoenix mushroom''', or the '''lung oyster''', is a mushroom very similar to ''[[Pleurotus ostreatus]]'', the pearl oyster, but with a few noticeable differences. The caps of ''P.'' ''pulmonarius'' are much paler and smaller than ''P.'' ''ostreatus'' and develop more of a stem. ''P. pulmonarius'' also prefers warmer weather than ''P.'' ''ostreatus'' and will appear later in the summer. The taste and cultivation of the two species is generally described as largely the same.<ref name="stamets00"/> Another similar species, [[North America]]'s ''[[Pleurotus populinus]]'', is restricted to growing on aspen and cottonwood.
+
+==Natural habitat==
+''Pleurotus pulmonarius'' is widespread in temperate and subtropical forests throughout the world. In the eastern United States, this species is generally found on [[hardwood]]s while in the west it can also be found on [[conifer]]s.<ref name="stamets00" />
+
+==Taxonomy==
+*1821 First published as ''Agaricus pulmonarius'' by Fr.
+*1975 Disambiguated from ''Pleurotus sajor-caju'' by Pegler
+
+==Description==
+*'''[[Pileus (mycology)|Pileus]]''': 5 — 20+&nbsp;cm, [[Wikt:convex|convex]], becoming broadly convex to flat
+*'''[[Lamella (mycology)|Gills]]''': Whitish; decurrent if stipe is present; small beetles may be present<ref name="amm09" />
+*'''Spore print''': White, greyish, or lilac
+*'''[[Stipe (mycology)|Stipe]]''': If present, short and offset from the center of the cap; bald
+*'''Microscopic features''': Spores white to lavender-gray when dense, more or less cylindrical, 7.5–11 × 3–4 μm.<ref name="stamets00" />
+*'''Odour''': Pleasant, like anise<ref name="amm09" />
+
+==Cultivation==
+''Pleurotus pulmonarius'' is a commonly cultivated oyster mushroom species in [[Europe]] and North America. The most popular species for cultivation are the warm-weather varieties, sometimes mistakenly marketed by spawn manufacturers and cultivators under the name "''Pleurotus sajor-caju''" (Fr.) Singer, which is in fact a separate species, and was returned to the genus ''[[Lentinus]]'' by Pegler (1975), and is now called ''[[Lentinus sajor-caju]]'' (Fr.) Fries.<ref name="stamets00" />
+
+''Pleurotus pulmonarius'' is commercially cultivated in [[New Zealand]],<ref name="LandcareNZ" /> sold as "Oyster mushrooms".<ref name="myotopia">{{cite web|url=http://www.mytopia-mushrooms.com/products.htm|title=Mytopia Mushrooms Products|publisher=Mytopia Mushrooms|location=[[Havelock North, New Zealand]]|access-date=3 February 2012|ref=myotopia}}</ref> The archetypal oyster mushroom, ''[[Pleurotus ostreatus]]'', cannot be imported into New Zealand due to perceived risks to its forestry industry.<ref name="IanRHall" />
+
+The cultivation of ''Pleurotus pulmonarius'' is very similar to how one would cultivate other types of ''Pleurotus'' species, like ''P. ostreatus,'' by transferring mycelium from a petri plate onto grain and then transferring the resulting "grain spawn" after the mycelium colonizes it to substrates of straw, wood chips, sawdust, cardboard, coffee grounds, and other cellulose-based substrates.
+
+==Medical research==
+{{more medical citations needed|section|date=September 2015}}
+Several studies done on animals and ''[[in vitro]]'' suggest ''P. pulmonarius'' and its extracts may have medicinal applications for a wide range of conditions.
+
+A [[polysaccharide]] called β-<small>D</small>-Glucan from ''P. pulmonarius'' reduces sensitivity to pain in mice <ref name="pmid20418177">{{cite journal|author1=Baggio, Cristiane Hatsuko |author2=Freitas, Cristina Setim |author3=Martins, Daniel Fernandes |author4=Mazzardo, Leidiane |author5=Smiderle, Fhernanda Ribeiro |author6=Sassaki, Guilherme Lanzi |author7=Iacomini, Marcello |author8=Marques, Maria Consuelo Andrade |author9=Santos, Adair Roberto Soares |title=Antinociceptive Effects of (1→3),(1→6)-Linked β-Glucan Isolated From ''Pleurotus pulmonarius'' in Models of Acute and Neuropathic Pain in Mice: Evidence for a Role for Glutamatergic Receptors and Cytokine Pathways|journal=The Journal of Pain|date=October 2010|volume=11|issue=10|pages=965–971|pmid=20418177|doi=10.1016/j.jpain.2010.01.005|doi-access=free }}</ref> and could be an "attractive" basis for new [[analgesic]] medications.<ref name="pmid22085751">{{cite journal|author1=Baggio, Cristiane Hatsuko |author2=Freitas, Cristina Setim |author3=Marcon, Rodrigo |author4=Werner, Maria Fernanda de Paula |author5=Rae, Giles Alexander |author6=Smiderle, Fhernanda Ribeiro |author7=Sassaki, Guilherme Lanzi |author8=Iacomini, Marcello |author9=Marques, Maria Consuelo Andrade |author10=Santos, Adair Roberto Soares |name-list-style=amp |title=Antinociception of β-D-glucan from ''Pleurotus pulmonarius'' is possibly related to protein kinase C inhibition|journal=[[International Journal of Biological Macromolecules]]|year=2011|pmid=22085751|doi=10.1016/j.ijbiomac.2011.10.023|volume=50|issue=3|pages=872–7|doi-access=free }}</ref> In a different study on mice, a glucan from ''P. pulmonarius'' showed potent anti-inflammatory and analgesic properties.<ref name="pmid18789924">{{cite journal|last1=Smiderle|first1=Fhernanda R.|last2=Olsen|first2=Lorena M.|last3=Carbonero|first3=Elaine R.|last4=Baggio|first4=Cristiane H.|last5=Freitas|first5=Cristina S.|last6=Marcon|first6=Rodrigo|last7=Santos|first7=Adair R.S.|last8=Gorin|first8=Philip A.J.|last9=Iacomini|first9=Marcello|title=Anti-inflammatory and analgesic properties in a rodent model of a (1→3),(1→6)-linked β-glucan isolated from ''Pleurotus pulmonarius''|journal=European Journal of Pharmacology|date=November 12, 2008|volume=597|issue=1–3|pages=86–91|pmid=18789924|doi=10.1016/j.ejphar.2008.08.028}}</ref> A methanol extract of ''P. pulmonarius'' displayed anti-inflammatory and antitumor activity comparable to the standard reference drugs [[diclofenac]] and [[cisplatin]], respectively.<ref name="ijmm2002">{{cite journal|last1=Jose|first1=Nayana|last2=Ajith|first2=T. A.|last3=Janardhanan|first3=Kainoor K.|title=Antioxidant, Anti-inflammatory, and Antitumor Activities of Culinary-Medicinal Mushroom ''Pleurotus pulmonarius'' (Fr.) Quél. (Agaricomycetideae)|journal=International Journal of Medicinal Mushrooms|year=2002|volume=4|issue=4|pages=329–335|doi=10.1615/intjmedmushr.v4.i4.60}}</ref>
+
+A 2010 study concluded that extracts of ''P. pulmonarius'' may slow the proliferation of cancer cells with high [[galectin-3]] levels, while at the same time [[Downregulation|downregulate]] tumour cell adherence{{snd}}which is directly related to the progression and [[metastasis|spread]] of cancer.<ref name="pmid19830415">{{cite journal|last1=Lavi|first1=Iris|last2=Levinson|first2=Dana|last3=Peri|first3=Irena|last4=Tekoah|first4=Yoram|last5=Hadar|first5=Yitzhak|last6=Schwartz|first6=Betty|title=Chemical characterization, antiproliferative and antiadhesive properties of polysaccharides extracted from ''Pleurotus pulmonarius'' mycelium and fruiting bodies|journal=Applied Microbiology and Biotechnology|date=February 2010|volume=85|issue=6|pages=1977–1990|pmid=19830415|doi=10.1007/s00253-009-2296-x|s2cid=19238232}}</ref> Extracts of ''P. pulmonarius'' added to the diet of mice delayed [[carcinogenesis]], suggesting that these extracts may be useful as an [[adjuvant]] to cancer therapies.<ref name="pmid18771088">{{cite journal|last1=Wasonga|first1=Caralyne G.O.|last2=Okoth|first2=Sheila A.|last3=Mukuria|first3=Joseph C.|last4=Omwandho|first4=Charles O.A.|title=Mushroom polysaccharide extracts delay progression of carcinogenesis in mice|journal=Journal of Experimental Therapeutics and Oncology|year=2008|volume=7|issue=2|pages=147–152|pmid=18771088|url=http://www.lib.ctgu.edu.cn:8080/wxcd/qw/1555.pdf|url-status=dead|archive-url=https://web.archive.org/web/20160303211744/http://www.lib.ctgu.edu.cn:8080/wxcd/qw/1555.pdf|archive-date=2016-03-03}}</ref>
+
+An orally administered hot water extract of ''P. pulmonarius'' had a significant [[antihyperglycemic]] effect, halted the progression of [[diabetes]], and reduced the mortality of [[alloxan]] induced diabetic mice by approximately 50%. It showed a [[synergistic]] effect with the [[antidiabetic drug]] [[glibenclamide]], supporting the possibility of effective combination therapy of glibenclamide and ''P. pulmonarius'' for diabetes.<ref name="pmid18604261">{{cite journal|last1=Badole|first1=Sachin L.|last2=Patel|first2=Naimesh M.|last3=Thakurdesai|first3=Prasad A.|last4=Bodhankar|first4=Subhash L.|title=Interaction of Aqueous Extract of ''Pleurotus pulmonarius'' (Fr.) Quel-Champ. with Glyburide in Alloxan Induced Diabetic Mice|journal=Evidence-Based Complementary and Alternative Medicine|date=June 2008|volume=5|issue=2|pages=159–164|pmid=18604261|doi=10.1093/ecam/nem010|pmc=2396481}}</ref>
+
+''Pleurotus pulmonarius'' may be effective in the treatment of [[hay fever]] by inhibiting the release of [[histamine]]. Powdered ''P. pulmonarius'' mushrooms caused a significant reduction in sneezing and nasal rubbing when fed in water to sensitized mice, although the effect gradually builds up over a matter of weeks. When they were given 500&nbsp;mg/kg a day, a significant effect was observed after two weeks, and it was four weeks before a significant change was observed at 200&nbsp;mg/kg.<ref name="pmid17666820">{{cite journal |author1=Yatsuzuka, Rie |author2=Nakano, Yoshiyuki |author3=Jiang, Shuishi |author4=Ueda, Yuhki |author5=Kishi, Yuko |author6=Suzuki, Yuh |author7=Yokota, Emiko |author8=Rahman, Ashequr |author9=Ono, Rie Kohno, Isato |author10=Kamei, Chiaki |title=Effect of Usuhiratake (''Pleurotus pulmonarius'') on Sneezing and Nasal Rubbing in BALB/c Mice |journal=Biological and Pharmaceutical Bulletin |year=2007 |volume=30 |issue=8 |pages=1557–1560 |pmid=17666820 |doi=10.1248/bpb.30.1557 |issn=1347-5215 |id=[[International Standard Serial Number|Print ISSN]]: [http://www.worldcat.org/issn/0918-6158 0918-6158] |doi-access=free }}</ref>
+
+Extracts of ''P. pulmonarius'' attenuated the development of [[colitis|acute colitis]] in a [[mouse model]], suggesting a possible clinical use in the treatment of colitis.<ref name="pmid19772681">{{cite journal|first1=Iris|last1=Lavi|first2=Dana|last2=Levinson|first3=Irena|last3=Peri|first4=Lili|last4=Nimri|first5=Yitzhak|last5=Hadar|first6=Betty|last6=Schwartz|title=Orally administered glucans from the edible mushroom ''Pleurotus pulmonarius'' reduce acute inflammation in dextran sulfate sodium-induced experimental colitis|journal=British Journal of Nutrition|date=February 2010|volume=103|issue=3|pages=393–402|pmid=19772681|doi=10.1017/S0007114509991760|doi-access=free}}</ref> A further study by the same authors concluded that the extracts also inhibit [[Colon (anatomy)|colon]] [[carcinogenesis|cancer formation]] associated with colitis in mice.<ref name="pmid22187166">{{cite journal|last1=Lavi|first1=Iris|last2=Nimri|first2=Lili|last3=Levinson|first3=Dana|last4=Peri|first4=Irena|last5=Hadar|first5=Yitzhak|last6=Schwartz|first6=Betty|title=Glucans from the edible mushroom ''Pleurotus pulmonarius'' inhibit colitis-associated colon carcinogenesis in mice|journal=Journal of Gastroenterology|date=December 21, 2011|pmid=22187166|doi=10.1007/s00535-011-0514-7|volume=47|issue=5|pages=504–18|s2cid=23013924}}</ref>
+
+Extracts of ''P. pulmonarius'' have [[antimicrobial]] properties and exhibit [[antioxidant]] activity ''in vitro''.<ref name="pmid21808550">{{cite journal|first1=Ch.|last1=Ramesh|first2=Manohar G|last2=Pattar|title=Antimicrobial properties, antioxidant activity and bioactive compounds from six wild edible mushrooms of western ghats of Karnataka, India|journal=Pharmacognosy Research|date=March–April 2010|volume=2|issue=2|pages=107–112|pmid=21808550|doi=10.4103/0974-8490.62953|pmc=3140106 |doi-access=free }}</ref>
+
+==Similar species==
+''Pleurotus ostreatus'' is very similar, as is [[North America]]'s ''[[Pleurotus populinus]]'', which is restricted to growing on aspen and cottonwood (genus ''[[Populus]]'').<ref name="amm09" /> It may resemble a [[Clitocybe]], some of which are poisonous, when growing on the top of wood.<ref name="amm09" />
+
+==See also==
+*[[List of Pleurotus species|List of ''Pleurotus'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="stamets00">{{cite book|last=Stamets|first=Paul|author-link=Paul Stamets|title=Growing gourmet and medicinal mushrooms = [Shokuyo oyobi yakuyo kinoko no sabai]|edition=3rd|year=2000|publisher=[[Ten Speed Press]]|location=[[Berkeley, California|Berkeley, California, USA]]|isbn=978-1-58008-175-7|pages=316–320|chapter=Chapter 21: Growth Parameters for Gourmet and Medicinal Mushroom Species}}</ref>
+
+<ref name=amm09>{{cite book |last1=Trudell |first1=S. |last2=Ammirati |first2=J. |title=Mushrooms of the Pacific Northwest |url=https://archive.org/details/mushroomspacific00trud_400 |url-access=limited |series=Timber Press Field Guides |publisher=Timber Press |location=Portland, Oregon |year=2009 |pages=[https://archive.org/details/mushroomspacific00trud_400/page/n240 134]–5, 137 |isbn=978-0-88192-935-5}}</ref>
+
+<ref name="LandcareNZ">{{cite web|url=http://fungalguide.landcareresearch.co.nz/WebForms/FG_Genus.aspx?Group=Pleurotus&pk=8296|title=Pleurotus|work=Fungal Guide|publisher=[[Landcare Research]]|location=[[New Zealand]]|at=Pleurotus pulmonarius|access-date=26 January 2012|ref=LandcareNZ}}</ref>
+
+<ref name="IanRHall">{{cite journal|last=Hall|first=Ian R.|date=April 2010|title=Growing mushrooms: the commercial reality|journal=Lifestyle Farmer|pages=42–45|location=[[Auckland, New Zealand]]|publisher=[[Rural Press]]|access-date=26 January 2012|url=http://www.trufflesandmushrooms.co.nz/April%20Lifestyle%20Farmer.pdf|quote=... the grey oyster mushroom (Pleurotus ostreatus) cannot be imported into New Zealand because it could pose a risk to our forest industry.|ref=IanRHall}}</ref>
+}}
+
+==External links==
+*{{Commons category-inline}}
+
+{{Taxonbar|from=Q1261868}}
+{{Authority control}}
+
+[[Category:Pleurotaceae]]
+[[Category:Carnivorous fungi]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1821]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]

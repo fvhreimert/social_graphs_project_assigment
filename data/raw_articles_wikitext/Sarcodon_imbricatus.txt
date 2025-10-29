@@ -1,0 +1,82 @@
+{{Speciesbox 
+| image = Habichtspilz-Sarcodon-imbricatus.jpg
+| genus = Sarcodon
+| species = imbricatus
+| authority = ([[Carl Linnaeus|L.]]) [[Petter Adolf Karsten|P.Karst.]] (1881)
+| synonyms = *''Hydnum imbricatum'' <small>L. (1753)</small>
+}}
+{{mycomorphbox
+| name = ''Sarcodon imbricatus''
+| whichGills = adnate
+| capShape = flat
+| hymeniumType = teeth
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = brown
+| howEdible = edible
+| howEdible2 = caution
+}}
+
+'''''Sarcodon imbricatus''''', commonly known as the '''shingled hedgehog''' or '''scaly hedgehog''', is a species of [[tooth fungus]] in the order [[Thelephorales]]. The mushroom has a large, brownish [[pileus (mycology)|cap]] with large brown scales and may reach 30&nbsp;cm (12&nbsp;in) in diameter. On the underside it sports greyish, brittle teeth instead of [[lamella (mycology)|gills]], and has white [[trama (mycology)|flesh]]. Its [[spore print]] is brown.
+
+It ranges throughout Europe and North America, while collections from the British Isles are now assigned to ''[[Sarcodon squamosus]]''. It appears in autumn and is associated with spruce (''[[Picea]]''). The mushroom is [[edible mushroom|edible]], but it may be bitter and possibly causes gastrointestinal upset. 
+
+==Taxonomy==
+The Swedish botanist [[Olof Celsius]] reported in 1732 that ''Sarcodon imbricatus'' occurred in the vicinity of [[Uppsala]], and [[Carl Linnaeus]] wrote of it in his 1737 work ''Flora lapponica''.<ref name=Nilper>{{cite book |last1=Nilson |first1=Sven  |last2=Persson |first2=Olle | year = 1977 | title = Fungi of Northern Europe 1: Larger Fungi (Excluding Gill-Fungi) | publisher = Penguin|isbn=0-14-063005-8|page=76}}</ref> It was one of the species initially described by Linnaeus, as ''Hydnum imbricatum'', in the second volume of his ''[[Species Plantarum]]'' in 1753.<ref>{{cite book | last=Linnaeus | first=C | authorlink=Carl Linnaeus | title=Species Plantarum: Tomus II | publisher=Holmiae. (Laurentii Salvii). | date=1753| page=1178|language=la}}</ref> The [[botanical name|specific epithet]] is the [[Latin]] ''imbricatus'' meaning "tiled" or "with overlapping tiles".<ref>{{cite book | last = Simpson | first = D.P. | title = Cassell's Latin Dictionary | publisher = Cassell Ltd. | date= 1979 | edition = 5 | location = London | page = 883 | isbn = 0-304-52257-0}}</ref> It was then placed in the genus ''[[Sarcodon]]'' by Finnish mycologist [[Petter Adolf Karsten]] in 1881.
+
+For many years, ''S.&nbsp;imbricatus'' was described associated with both spruce and pine, although the latter forms were smaller and noted to be more palatable by mushroom hunters in Norway. Furthermore, the mushroom has been used as a source of pigment and collectors noted that fresh specimens collected under pine yielded [[biological pigment|pigment]], but only old ones collected under spruce. [[Molecular phylogenetics|Molecular analysis]] of the DNA revealed the two forms to be distinct genetically, and thus populations of what had been described as ''S.&nbsp;imbricatus'' were now assigned to ''[[Sarcodon squamosus|S.&nbsp;squamosus]]'', which includes collections in the British Isles and the Netherlands.<ref name=Joh99>{{cite journal |author1=Johanneson H |author2=Ryman S |author3=Lundmark H |author4=Danell E. |year=1999|title=''Sarcodon imbricatus'' and ''S. squamosus'' – two confused species |journal=Mycological Research |volume=103 |issue=11 |pages=1447–52 |doi=10.1017/S0953756299008709}}</ref>
+
+==Description==
+The brownish or buff [[pileus (mycology)|cap]] measures up to {{Convert|15|cm|frac=4}} in diameter and is covered with coarse darker brown scales,<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=216}}</ref> becoming darker and upturned with age.<ref name=":1">{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=234–235|language=en}}</ref> It is funnel-shaped. The underside bears soft, pale grey 'teeth' rather than gills. These are {{Convert|0.5–1.5|cm|abbr=on|frac=8}} long,<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=285–286|oclc=797915861}}</ref> grayish brown (darkening with age),<ref name=":1" /> and brittle. The pale grey or brown [[stipe (mycology)|stipe]] may reach {{convert|10|cm|in|abbr=on|round=0.5}} high and {{convert|4|cm|in|abbr=on|frac=2}} wide,<ref name=":0" /> may be narrower at the base, and is sometimes eccentric.<ref name=Nilper/><ref name=Joh99/><ref name=Haas69>{{cite book | last = Haas |first=Hans | year = 1969 | title = The Young Specialist looks at Fungi |page= 170| publisher = Burke | isbn= 0-222-79409-7}}</ref> The soft [[Trama (mycology)|flesh]] is whitish to tan.<ref name="audu" /> The [[Basidiospore|spores]] are brown.<ref name=":0" />
+
+===Similar species===
+From above, it may be confused with ''[[Strobilomyces strobilaceus]]'' as both have a similar shaggy cap.<ref name="Haas69" /> The bitter and inedible ''[[Sarcodon amarascens]]'' can be distinguished by its bluish-black stripe.<ref name="Zeitl76">{{cite book|last=Zeitlmayr |first=Linus|year=1976|title=Wild Mushrooms:An Illustrated Handbook|publisher=Garden City Press, Hertfordshire|isbn= 0-584-10324-7|page= 106}}</ref> The bitter ''[[Hydnellum scabrosum]]'' (formerly placed in ''Sarcodon'') has a turquoise-tinted base.<ref name="audu" /><ref name=":0" />
+
+<gallery mode="packed" widths="120px" heights="120px">
+File:A short day trip to the near alpine (2200m) area of Mt Baldy E of Little Fort, BC...here be a large assortment of things fungii and smaller??... (28757770376).jpg
+File:Sarcodon imbricatus T64.jpg
+File:Sarcodon imbricatus 95553882.jpg|The "teeth" under the cap
+File:Sarcodon imbricatus T16 (1).jpg
+</gallery>
+
+==Distribution and habitat==
+The species is distributed throughout Europe and North America,<ref name="arora86">{{Cite book |last=Arora |first=David |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/619/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, California |year=1986 |orig-date=1979 |edition=2nd |pages=619–20}}</ref> but collections from the British Isles are now assigned to ''S.&nbsp;squamosus''.<ref name="Phillips06">{{cite book |author=Phillips R |title=Mushrooms |publisher=Pan MacMillan |year=2006 |isbn=0-330-44237-6 |location=London |page=323}}</ref> In Europe, ''S.&nbsp;imbricatus'' fruits from August to October.<ref name="Nilper" /> In North America, it fruits from July to September except on the West Coast, where it appears from September to December.<ref name="audu" />
+
+The species can appear on sandy or chalk soils in [[fairy ring]]s.<ref name="Haas69" /> It grows in association with firs (''[[Abies]]''), especially in hilly or mountainous areas.<ref name="Zeitl76" />  
+
+==Uses==
+===Culinary===
+'' (scaly hedgehog tea)]]
+'']]
+Some sources (in the United States) report that the fungus is [[edible mushroom|edible]] but of poor quality;<ref name="arora86" /><ref name=":1" /> some others consider it edible and delicious.<ref name="Wells 1970" /> It may cause [[gastrointestinal upset]].<ref name=":0" /> The mushrooms can be bitter, especially older specimens. This can be mitigated by submerging them in boiling water.<ref name="Haas69" /> Some suspect that bitter specimens may actually be related species.<ref name="Wells 1970" />
+
+The mushroom can be pickled or dried and used as flavouring.<ref name=Zeitl76/> In [[Bulgaria]], it is collected, dried and finely ground to be used as an aromatic mushroom [[flour]].<ref>{{cite book | author = Z. Angelova | title = Гъбите в България | publisher = Картография ЕООД (Bulgaria) }}</ref>
+
+In [[Korean cuisine|Korea]], [[mushroom tea]] is made from it.
+
+The distinctive spicy aroma of fried younger specimens has made it an expensive delicacy in Japan.{{Citation needed|date=February 2025}}
+
+=== Other uses ===
+Old mushrooms of ''S. imbricatus'' and related species contain blue-green pigments, which are used for [[mushroom dye|dyeing]] wool in Norway.<ref>Rice M, Beebee D. (1980). ''Mushrooms for Color''. Mad River Press : Eureka.</ref>
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Wells 1970">{{cite book |author1=Wells MH |author2=Mitchel DH. |title=Mushrooms of Colorado and Adjacent Areas |publisher=Denver Museum of Natural History |location=Denver, Colorado |page=58}}</ref>
+
+}}
+
+==External links==
+*''[http://www.mushroomexpert.com/sarcodon_imbricatus.html Sarcodon imbricatus]'' at Mushroom Expert
+*{{Commons-inline|italic=on}}
+
+{{Taxonbar|from=Q262105}}
+
+[[Category:Sarcodon|imbricatus]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1753]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungal taxa named by Carl Linnaeus]]
+[[Category:Fungus species]]
+[[Category:Fungi used for fiber dyes]]

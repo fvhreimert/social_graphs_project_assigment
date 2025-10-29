@@ -1,0 +1,53 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Gymnopilus palmicola Murrill 336637.jpg
+| image_caption =
+| genus = Gymnopilus
+| species = palmicola
+| authority = [[William Alphonso Murrill|Murrill]]
+| synonyms =
+}}
+{{Mycomorphbox
+| name = ''Gymnopilus palmicola''
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=inedible
+}}
+
+'''''Gymnopilus palmicola''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]].
+
+==Description==
+The [[pileus (mycology)|cap]] is {{convert|2|to|5|cm|in|1}} in diameter.<ref name="isbn0-945345-39-9">{{cite book |author=Hesler LR. |title=North American Species of ''Gymnopilus'' (Mycologia Memoir Series: No 3) |publisher=Lubrecht & Cramer Ltd |location=Knoxville, Tennessee |year=1969 |pages=26–27 |isbn=0-945345-39-9}}</ref>
+
+This species does not stain blue and therefore probably does not contain hallucinogenic compounds.<ref name=GuzmanDavalos2006/>
+
+==Habitat and distribution==
+''Gymnopilus palmicola'' grows on palm logs and on living orchids. It has been found in [[Cuba]], [[Mexico]], and [[Florida]] between March and September.<ref name="isbn0-945345-39-9"/>
+
+==See also==
+*[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name=GuzmanDavalos2006>{{cite journal |author=Guzmán-Dávalos L. |journal=International Journal of Medicinal Mushrooms |year=2006 |volume=8 |issue=3 |pages=289–293 |issn=1521-9437 |doi=10.1615/intjmedmushr.v8.i3.110 |title=A New Bluing, Probably Hallucinogenic Species of Gymnopilus P. Karst. (Agaricomycetideae) from Mexico}}</ref>
+
+}}
+
+==External links==
+*''[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=216166 Gymnopilus palmicola]'' at [[Index Fungorum]]
+
+{{Taxonbar|from=Q5624916}}
+
+[[Category:Gymnopilus|palmicola]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by William Alphonso Murrill]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

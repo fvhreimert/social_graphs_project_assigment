@@ -1,0 +1,36 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Hydnum rufescens 20070927w.JPG
+| genus = Hydnum
+| species = rufescens
+| authority = [[Pers.]] (1800)
+}}
+
+'''''Hydnum rufescens''''', commonly known as the '''terracotta hedgehog''', is an edible [[Basidiomycota|basidiomycete]] of the family [[Hydnaceae]]. It belongs to the small group of mushrooms often referred to as the [[tooth fungus|tooth fungi]], which produce [[Sporocarp (fungi)|fruit bodies]] whose [[pileus (mycology)|cap]] undersurfaces are covered by [[hymenophore]]s resembling spines or teeth, and not pores or [[lamella (mycology)|gills]].
+
+It is very similar to the more common hedgehog fungus (''[[Hydnum repandum]]''), and was previously sometimes considered a [[variety (botany)|variety]] of that species.  However, the following differences have been noted:<ref>Roger Phillips: ''Mushrooms and other fungi of Great Britain & Europe'' (1981), Pan Books Ltd, London.</ref><ref name="Courtecuisse">Courtecuisse, R. & Duhem, B. (1994) "Guide des champignons de France et d'Europe" Delachaux et Niestlé {{ISBN|2-603-00953-2}}, also available in English.</ref>
+
+*the cap of ''H. rufescens'' is russet rather than beige,
+*the overall dimensions are smaller and more regular in shape, with a central [[Stipe (mycology)|stipe]],
+*the spines are not [[decurrent]], and
+*the [[spore]]s are slightly larger.
+
+Both species are found in European [[coniferous]] and [[deciduous]] forests growing on soil. It is reportedly [[ectomycorrhiza]]l with ''[[Picea abies]]'', ''[[Pinus sylvestris]]'', ''[[Fagus sylvatica]]'' and ''[[Quercus robur]]''.<ref>{{cite web | title=''Hydnum rufescens'' | publisher=The Ecology of Commanster | url=http://popgen.unimaas.nl/~jlindsey/commanster/Mushrooms/Basidio/SuBasidio/Hydnum.rufescens.html | accessdate=September 1, 2008 | archive-url=https://web.archive.org/web/20080509061208/http://popgen.unimaas.nl/~jlindsey/commanster/Mushrooms/Basidio/SuBasidio/Hydnum.rufescens.html | archive-date=May 9, 2008 | url-status=dead }}</ref>
+
+== References ==
+{{Reflist}}
+*[http://www.nifg.org.uk/species/atlas2.htm?item=NBNSYS0000020803 ''Hydnum rufescens''] {{Webarchive|url=https://web.archive.org/web/20160303182828/http://www.nifg.org.uk/species/atlas2.htm?item=NBNSYS0000020803 |date=2016-03-03 }} at Northern Ireland Fungus Group URL accessed 11 June 2007
+
+*{{Commons category-inline|Hydnum rufescens}}
+
+{{Taxonbar|from=Q2475470}}
+
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1800]]
+[[Category:Fungi of Europe]]
+[[Category:Taxa named by Christiaan Hendrik Persoon]]
+[[Category:Hydnum|rufescens]]
+[[Category:Fungus species]]
+
+
+{{Agaricomycetes-stub}}

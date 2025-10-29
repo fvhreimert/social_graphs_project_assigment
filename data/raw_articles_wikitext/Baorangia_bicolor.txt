@@ -1,0 +1,117 @@
+{{Short description|Edible fungus in the genus Baorangia}}
+{{Good article}}
+{{speciesbox
+| image = Boletus bicolor 89542.jpg
+| image_caption = 
+| taxon = Baorangia bicolor
+| authority = ([[Charles Horton Peck|Peck]]) G.Wu & Zhu L.Yang (2015)
+| synonyms_ref = <ref name="urlMycoBank: Boletus bicolor"/>
+| synonyms =
+  {{plainlist|
+*''Boletus bicolor'' <small>Peck (1897)</small>
+*''Ceriomyces bicolor'' <small>(Peck) [[William Alphonso Murrill|Murrill]] (1909)</small>
+*''Boletus rubellus'' subsp. ''bicolor'' <small>(Peck) [[Rolf Singer|Singer]] (1947)</small>
+*''Xerocomus bicolor'' <small>(Peck) Cetto (1987)</small>
+  }}
+}}
+{{mycomorphbox
+| name = ''Baorangia bicolor''
+| whichGills = adnate
+| capShape = convex
+| hymeniumType=pores
+| stipeCharacter=bare
+| ecologicalType=mycorrhizal
+| sporePrintColor=olive
+| howEdible=edible
+| howEdible2=caution
+}}
+
+'''''Baorangia bicolor''''', also known as the '''two-colored bolete''' or '''red and yellow bolete''' after its two-tone coloring scheme, is a species of fungus in the genus ''[[Baorangia]]''.
+
+Its fruit body, the [[mushroom]], is classed as medium or large in size, which helps distinguish it from the many similar appearing species that have a smaller stature. A deep blue/indigo bruising of the pore surface and a less dramatic bruising coloration change in the [[stipe (mycology)|stem]] over a period of several minutes are identifying characteristics that distinguish it from the similar [[mushroom poisoning|poisonous]] species ''[[Boletus sensibilis]]''. There are also nonpoisonous similar species, and two [[Variety (botany)|varieties]], var. ''borealis'' and var. ''subreticulatus''.
+
+''Baorangia bicolor'' inhabits most of eastern North America, primarily east of the [[Rocky Mountains]], and is in season during the summer and fall. It can also be found in China and Nepal. It is an [[edible mushroom]].
+
+== Taxonomy ==
+''Baorangia bicolor'' was originally named in 1807 by the Italian botanist [[Giuseppe Raddi]].<ref name=Raddi1807>{{Harv|Raddi|1807|pages=62–345}}</ref> American mycologist [[Charles Horton Peck]] named a species collected in Sandlake, [[New York (U.S. state)|New York]], in 1870, ''Boletus bicolor''. Although this naming is considered illegitimate due to [http://ibot.sav.sk/icbn/no%20frames/0058Ch5RejoNa53.htm article 53.1] of the [[International Code of Botanical Nomenclature]],<ref name="urlFungorum: Boletus bicolor"/> Peck is still given as the authority in the Bessette ''et al''. (2000) [[monograph]] of North American boletes.<ref name=Bessett2000>{{Harv|Bessette|Roody|Bessette|2000|pages=97–98}}</ref>  ''Boletus bicolor'' (Raddi) is not a [[synonym (biology)|synonym]] of "Boletus bicolor" Peck.<ref name="urlMycoBank: Boletus bicolor"/><ref name="urlMycoBank: Boletus bicolor Raddi">{{cite web |title=''Boletus bicolor'' Raddi, Memorie di Matematica e di Fisica della Società Italiana di Scienze Residente in Modena, 13 (2): 352, t. 5:4, 1807 |url=http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=236233&Fields=All |publisher=[[MycoBank]]. International Mycological Association |access-date=2013-05-09}}</ref>  Peck's ''Boletus bicolor'' describes the Eastern North American species that is the familiar "two-colored bolete", while Raddi's ''Boletus bicolor'' describes a separate European species that is lost to science.<ref name="Snell 1941">{{cite journal |author1=Snell, W.H. |author2=Dick, E.A. |author-link1=Wally Snell |title=Notes on Boletes. VI |journal=Mycologia |year=1941 |volume=33 |issue=1 |pages=23–37 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0033/001/0033.htm |doi=10.2307/3754732 |access-date=2013-05-10 |archive-url=https://web.archive.org/web/20150923222922/http://www.cybertruffle.org.uk/cyberliber/59350/0033/001/0033.htm |archive-date=2015-09-23 |url-status=dead |jstor=3754732 |url-access=subscription }}</ref>  This [[taxonomy (biology)|taxonomic]] conflict has yet to be resolved. In 1909 a species found in Singapore was named ''Boletus bicolor'' by [[George Edward Massee]];<ref name=Massee1909>{{Harv|Massee|1909|pages=9–204}}</ref> this naming is illegitimate and is synonymous with ''Boletochaete bicolor'' according to Singer.<ref name=Singer1986/><ref name="urlMycoBank: Boletus bicolor Massee 1909">{{cite web |title=''Boletus bicolor'' Massee 1909 |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=206292 |publisher=[[MycoBank]]. International Mycological Association |access-date=January 4, 2012}}</ref> Molecular studies found that ''Boletus bicolor'' was not closely related to the [[type (biology)|type species]] of ''Boletus'', ''[[Boletus edulis]]'', and in 2015 Alfredo Vizzini transferred ''Boletus bicolor'' to the genus ''[[Baorangia]]''.<ref name="Nuhn 2013"/><ref name="Wu 2014"/><ref name="Vizzini 2015"/> The original [[botanical name]] for this two-colored bolete was derived from the [[Latin]] words ''bōlētus'', meaning "mushroom",<ref name="boletus">{{Cite web|title=bōlētus|publisher=Perseus Digital Library|url=https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aalphabetic+letter%3DB%3Aentry+group%3D16%3Aentry%3Dboletus|access-date=December 17, 2011}}</ref> and ''bicolor'', meaning "having two colors."<ref name="bicolor">{{Cite web|title=bicolor|publisher=Perseus Digital Library|url=https://www.perseus.tufts.edu/hopper/resolveform?type=exact&lookup=bicolor&lang=la|access-date=December 17, 2011}}</ref>
+
+== Description ==
+
+
+The color of the [[pileus (mycology)|cap]] is light red when young and brick red in maturity.<ref name="mushroomreport"/> The cap is {{convert|4-15|cm|abbr=on|frac=4}} wide, with yellow pores underneath.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=322}}</ref> It is one of several types of boletes that have the unusual reaction of the [[hymenium|pore surface]] producing a dark blue/indigo when injured, although the reaction is slower than with other bluing boletes. When the [[trama (mycology)|flesh]] is exposed it also turns a dark blue, but less dramatically than the pore surface.<ref name="Wernert 1982 p">{{Harv |Wernert|1982| p=}}</ref>
+
+The [[stipe (mycology)|stem]] is {{convert|5-10|cm|abbr=on|frac=4}} long and {{convert|1-3|cm|abbr=on|frac=8}} thick.<ref name="audu" /> The stem coloration is yellow at the apex and a red or rosy red for the lower two thirds. When injured it bruises blue very slowly and may hardly change color at all in some cases. The stem lacks a [[Annulus (mycology)|ring]] and lacks a [[partial veil]].<ref name="Bessette">{{Harv|Bessette|Roody|Bessette|2000|page=97}}</ref>
+
+=== Microscopic characteristics ===
+The [[spore deposit]] is olive-brown.<ref name="audu" /> Viewed with a [[light microscopy|microscope]], the [[basidiospore|spore]]s are slightly oblong to [[ventricose]] in face view; in profile view, the spores are roughly inequilateral to oblong, and have a shallow [[hilum (biology)|suprahilar depression]]. The spores appear nearly [[hyaline]] (translucent) to pale dingy [[ochraceous]] when mounted in [[potassium hydroxide]] solution (KOH), have a smooth surface, and measure 8–12 by 3.5–5&nbsp;[[μm]]. The tube [[trama (mycology)|trama]] is [[wikt:divergent gill trama|divergent]] and gelatinous, originates from a single central strand, not [[amyloid (mycology)|amyloid]], and will often stain yellow-brown when placed in dilute [[potassium hydroxide]] (KOH).<ref name="Hanchett">{{Harv|Smith|Theirs|1971|page=275}}</ref>
+
+=== Chemical tests ===
+Further methods of identification are [[Chemical tests in mushroom identification|chemical tests]]. With the application of [[FeSO4|FeSO<sub>4</sub>]] to the cap cuticle ([[pileipellis]]), it will turn a dark grey, almost black color and with the application of potassium hydroxide or [[NH4OH|NH<sub>4</sub>OH]] it has a negative coloration. The [[context (mycology)|context]] stains a bluish grey to an olive green when FeSO<sub>4</sub> is applied to it, a pale orange to a pale yellow with the application of KOH, and negative with the application of NH<sub>4</sub>OH.<ref name="Bessette"/>
+
+=== Similar species ===
+'']]
+
+There are several similar species and the differences are minute in most cases. ''[[Boletus sensibilis]]'' differs in that it has an immediate bruising reaction and is poisonous, causing stomach upset if ingested, and in some cases a severe allergic reaction.<ref name="Kuo">{{cite web |last=Kuo |first=Michael |year=2003 |title=''Boletus bicolor'' |url=http://www.mushroomexpert.com/boletus_bicolor.html |access-date=October 19, 2011 |work=MushroomExpert.Com Web}}</ref><ref name="Lamoureux">{{cite web |last=Lamoureux |first=Yves |year=2009 |title=Fungus Portraits No.2. Two-colored BoleteBoletus bicolor |url=http://www.mycomontreal.qc.ca/english/portraits_en/BolBic_e.htm |url-status=dead |archive-url=https://web.archive.org/web/20111002014802/http://www.mycomontreal.qc.ca/english/portraits_en/BolBic_e.htm |archive-date=October 2, 2011 |access-date=October 19, 2011 |work=Le Cercle des mycologues de Montréal (CMM) |publisher=Le Mycologue}}</ref> ''[[Boletus miniato-olivaceus|B.&nbsp;miniato-olivaceus]]'' has a full yellow stem and slightly lighter cap coloration. It also has a more immediate bruising reaction and the stem is slightly longer in proportion to the cap.<ref name="Coker">{{Harv|Coker|1974|page=64}}</ref> ''[[Boletus peckii|B.&nbsp;peckii]]'' has a smaller average size, a rose red cap that turns almost brown with age, flesh that is paler in color, and a bitter taste. ''[[Boletus speciosus|B.&nbsp;speciosus]]'' has a fully reticulated stem, more brilliant colors, and very narrow cylindrical spores.<ref name="Coker2">{{Harv|Coker|1974|page=65}}</ref>
+
+''[[Hortiboletus rubellus]]'' subsp. ''rubens'' is almost indistinguishable in appearance.<ref name="Coker" /> ''[[Boletus bicoloroides]]'' is very similar, but has only been found in Michigan and has larger spores. ''B.&nbsp;bicoloroides'' is slightly larger, the cap around {{convert|1|cm|abbr=on|frac=8}} wider and the stem 1&nbsp;cm longer.<ref name="Bessette3">{{Harv|Bessette|Roody|Bessette|2000|page=99}}</ref> ''[[Lanmaoa pallidorosea]]'' quickly stains blue. ''[[Hortiboletus]]'' species are usually smaller.<ref name="audu" />
+
+== Varieties ==
+There are two [[variety (botany)|varieties]] of the two-colored bolete: ''borealis'' and ''subreticulatus''.<ref name="Hanchett2">{{Harv|Smith|Theirs|1971|page=278}}</ref> Both varieties have a very similar habitat to that of the main species, except they appear to be limited to just the North American continent. Both varieties also have a slightly different coloration than that of the two-colored bolete, have deeper pores, and are not as often eaten or used in regional recipes.<ref name="Hanchett" />
+
+=== Variety ''borealis'' ===
+Variety ''borealis'' has a slightly darker color scheme than the main species. The coloration in general is darker; the cap can vary from a bright apple red to a dark brick red with maturity, to almost purple in some instances. The pore surface has a varying coloration of orange red to red and becoming a dull brown red with age. The bruising coloration is a blue green and the spore print is olive brown. The distribution of variety ''borealis'' is relatively small, ranging from [[Michigan]] to the upper [[New England]] states. The similar distribution and coloration to ''[[Boletus carminiporus]]'' has caused the two to be confused.<ref name="Hanchett" /> New molecular evidence shows that ''borealis'' is not closely related to ''Baorangia bicolor'' var. ''bicolor''.<ref name="Nuhn 2013" />
+
+=== Variety ''subreticulatus'' ===
+Variety ''subreticulatus'', like variety ''borealis'', has a generally darker coloration than the two-colored bolete, but varies much more than either. When fresh the coloration of the cap varies from a rose red, red, rose pink, dark red, and purple red. With age it changes to a cinnamon red or a rusty rose color, with yellowing toward the margin. The pore surface is similar to that of the main species&ndash;yellow when fresh and with age changing to a dull ochre yellow; the bruising coloration is blue but is much lighter and sometimes not appearing to stain when bruised at all. The spore print is olive brown.<ref name="Hanchett" /> The distribution of variety ''subreticulatus'' is very similar to the distribution of the two-colored bolete in North America, and appears north to eastern Canada and south to Florida, and west to Wisconsin.<ref name="Hanchett" />
+
+== Distribution and habitat ==
+The two-colored bolete is distributed from southeastern Canada and the [[Great Lakes Region]], primarily east of the Rocky Mountains, as far south as the Florida peninsula, and out to the [[Midwest]] as far as [[Wisconsin]]. It is commonly found in [[deciduous]] woodland and usually grows under or close to [[broad-leaved tree]]s, especially [[oak]].<ref name="Wernert 1982 p" /> It can be found in isolation and in groups or clusters, primarily during June through October.<ref name="Bessette2">{{Harv|Bessette|Roody|Bessette|2000|page=98}}</ref> It is also found in China and [[Nepal]].<ref name="Christensen">{{Harv|Christensen|Bhattarai|Devkota|Larsen|2008}}</ref> This unusual distribution is part of the [[Grayan disjunction]], a phenomenon characterized by a species living in one continent or island and then also on the other side of the world with no specimens of the species living in between the specific habitats. The Grayan disjunction is not uncommon among fungi.<ref name="Vasilyeva">{{Harv|Vasilyeva|Stephenson|2010|page=284}}</ref>
+
+== Edibility ==
+The two-colored bolete is an [[edible mushroom]], although some may have an allergic reaction after ingestion that results in stomach upset.<ref name=Roger>{{cite web|url=http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~5608.asp |last=Phillips |first=Roger |publisher=RogersMushrooms |title=Boletus bicolor |access-date=October 24, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20111106110228/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~5608.asp |archive-date=November 6, 2011 }}</ref> The mushroom has a very mild to no taste.<ref name="New Jersey Mycological">{{Cite web|title=Boletus bicolor|publisher=New Jersey Mycological Association|url=http://www.njmyco.org/mushpages/Boletus_bicolor.html|access-date=October 20, 2011|archive-date=December 14, 2013|archive-url=https://web.archive.org/web/20131214081925/http://www.njmyco.org/mushpages/Boletus_bicolor.html|url-status=dead}}</ref> It can be cooked several ways and the varying color of the cap can be used to determine if the mushroom is ready to be eaten. Less mature caps are lighter red and are often larva infested and/or soft fleshed. Mature, safe-to-eat caps have a dark brick red color.<ref name="mushroomreport">{{cite web |last=Report |first=Mushroom |title=Boletus bicolor |url=http://www.silysavg.com/naturespickings/mushroomreport/two_colored_bolete.html |url-status=dead |access-date=October 24, 2011 |publisher=Mushroom Report |archive-date=April 25, 2012 |archive-url=https://web.archive.org/web/20120425124535/http://www.silysavg.com/naturespickings/mushroomreport/two_colored_bolete.html }}</ref> Drying the two-colored bolete is a good method for storage. It is important to note the time it takes to bruise when identifying the species for consumption; the mushroom should take several minutes to bruise compared to the instant bruising of the poisonous ''B.&nbsp;sensibilis''.<ref name="Roger"/>
+
+It is one of the most used mushrooms of over 200 species of edible mushrooms used in Nepal.<ref name="Christensen" /> 
+
+== See also ==
+{{Portal|Fungi}}
+*[[List of North American boletes]]
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Nuhn 2013">{{cite journal |vauthors=Nuhn ME, Binder M, Taylor AF, Halling RE, Hibbett DS |title=Phylogenetic overview of the Boletineae |journal=Fungal Biology |year=2013 |volume=117 |issue=7–8 |pages=479–511 |doi=10.1016/j.funbio.2013.04.008 |pmid=23931115}}</ref>
+
+<ref name="urlFungorum: Boletus bicolor">{{cite web |title=''Boletus bicolor'' Peck |url=http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=210894 |publisher=[[Index Fungorum]]. CAB International |access-date=2012-03-25}}</ref>
+
+<ref name="urlMycoBank: Boletus bicolor">{{cite web |title=''Boletus bicolor'' Peck, Annual Report on the New York State Museum of Natural History, 24: 78, 1872 |url=http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=81819&Fields=All |publisher=[[MycoBank]]. International Mycological Association |access-date=2013-05-08}}</ref>
+
+<ref name=Singer1986>{{cite book |author=Singer R. |title=The Agaricales in Modern Taxonomy |edition=4th |publisher=Koeltz Scientific Books|location=Königstein im Taunus, Germany |year=1986 |page=796 |isbn=3-87429-254-1}}</ref>
+
+<ref name="Vizzini 2015">{{cite journal |author=Vizzini A. |title=Nomenclatural novelties |journal=Index Fungorum |year=2015 |issue=235 |page=1 |issn=2049-2375 |url=http://www.indexfungorum.org/Publications/Index%20Fungorum%20no.235.pdf}}</ref>
+
+<ref name="Wu 2014">{{cite journal |vauthors=Wu G, Feng B, Xu J, Zhu XT, Li YC, Zeng NK, Hosen MI, Yang ZL |title=Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae |journal=Fungal Diversity |volume=69 |issue=1 |pages=93–115 |doi=10.1007/s13225-014-0283-8|year=2014 |s2cid=15652037 }}</ref>
+
+}}
+
+==Bibliography==
+* {{Cite book |last1=Bessette |first1=Alan |last2=Roody |first2=William |last3=Bessette |first3=Arleen |title=North American Boletes: A Color Guide to the Fleshy Pored Mushrooms |edition=1st |publisher=Syracuse University Press |location=Syracuse, NY |url=https://books.google.com/books?id=geiwy6Jf_ZcC&pg=PA97 |isbn=0-8156-0588-9 |date=April 2000 }}
+* {{Cite journal |last1=Christensen |first1=Morten |last2=Bhattarai |first2=Sanjeeb |last3=Devkota |first3=Shiva |last4=Larsen |first4=Helle |title=Collection and Use of Wild Edible Fungi in Nepal |volume=62 |issue=1 |pages=12–23 |journal=Economic Botany |year=2008 |doi=10.1007/s12231-007-9000-9 |bibcode=2008EcBot..62...12C |s2cid=6985365 }}
+* {{Cite book |last1=Coker |first1=William |last2=Beers |first2=Alma |title=The Boleti of North Carolina |edition=reprint |publisher=Courier Dover Publications |location=New York, NY |year=1974 |orig-year=1943 |url=https://books.google.com/books?id=A3E9EwWpoBgC&pg=PA64 |isbn=0-486-20377-8 |ref=CITEREFCoker1974}}
+* {{Cite journal |last=Massee |first=GE. |title=Fungi exotici, IX |journal=Bulletin of Miscellaneous Informations of the Royal Botanical Gardens Kew |volume=1909 |issue=5 |year=1909 |pages=204–9 (see p. 205) |url=https://www.biodiversitylibrary.org/page/11627038|doi=10.2307/4113287 |jstor=4113287 }}
+* {{Cite journal |last=Raddi |first=G.F. |title=Delle specie nuove di Funghi ritrovatanei contorni di Firenze |journal=Atti della Societá dei Naturalisti e Matematici di Modena |year=1807 |volume=13 |pages=345–62 |language=it }}
+* {{Cite book |last1=Smith |first1=Alexander H. |last2=Theirs |first2=Harry D. |title=The Boletes of Michigan |location=Ann Arbor, Michigan |publisher=University of Michigan Library |year=1971 |url=https://archive.org/details/boletesofmichiga0000smit |isbn=0-472-85590-5 |url-access=registration }}
+* {{Cite journal|last1=Vasilyeva |first1=Larissa |last2=Stephenson |first2=Steven |title=Biogeographical patterns in pyrenomycetous fungi and their taxonomy. 1. The Grayan disjunction |journal=Mycotaxon |year=2010 |volume=114 |pages=281–303 |doi=10.5248/114.281 |doi-access=free }}
+* {{Cite book |last=Wernert |first=Susan J. |title=Reader's Digest North American Wildlife |publisher=Reader's Digest Association |year=1982 |location=Pleasantville, NY |isbn=0-89577-102-0 }}
+
+== External links ==
+* {{Commons category inline|italic=on}}
+* [https://www.youtube.com/watch?v=72MMnQ9WOMU YouTube Video:Foraging, ''Boletus sensibilis'' and ''Boletus bicolor''] by Bill Yule, Connecticut Valley Mycological Society
+
+{{Taxonbar|from1=Q55185726|from2=Q4094244}}
+
+{{DEFAULTSORT:Boletus Bicolor}}
+[[Category:Boletaceae]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1807]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]

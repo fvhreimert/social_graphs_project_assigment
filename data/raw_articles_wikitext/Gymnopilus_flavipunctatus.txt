@@ -1,0 +1,40 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image =
+| image_caption =
+| taxon = Gymnopilus flavipunctatus
+| authority = ([[Carlo Luigi Spegazzini|Speg.]]) [[Rolf Singer|Singer]]
+| synonyms =
+}}
+{{mycomorphbox
+| name = Gymnopilus flavipunctatus
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+
+'''''Gymnopilus flavipunctatus''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]].<ref>{{Cite book |url=https://books.google.com/books?id=Zl18W-5zfLIC |title=Lilloa: revista de botánica |date=1950 |publisher=El Instituto |pages=222 |language=es, en}}</ref>
+
+==See also==
+{{Portal|Fungi}}
+* [[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+== References ==
+{{Reflist}}
+
+==External links==
+*''[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=298033 Gymnopilus flavipunctatus]'' at [[Index Fungorum]]
+
+{{Taxonbar|from=Q5624799}}
+
+{{DEFAULTSORT:Gymnopilus flavipunctatus}}
+[[Category:Gymnopilus|flavipunctatus]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

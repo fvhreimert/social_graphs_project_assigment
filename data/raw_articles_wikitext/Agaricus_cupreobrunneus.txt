@@ -1,0 +1,64 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = cupreobrunneus.jpg
+| image_caption = A collection from [[Union City, California]]
+| genus = Agaricus
+| species = cupreobrunneus
+| authority = ([[Julius Schäffer|Jul.Schäffer]] & Steer ex F.H.Møller) [[Albert Pilát|Pilát]] (1951)
+| synonyms_ref = <ref name="urlMycoBank: Agaricus cupreobrunneus"/>
+| synonyms = ''Psalliota campestris'' var. ''cupreobrunnea'' <small>Jul.Schäff. & Steer (1939)</small><br>
+''Psalliota campestris'' var. ''cupreobrunnea'' <small>Jul.Schäff. & Steer ex F.H.Møller (1949)</small><br>
+''Psalliota cupreobrunnea'' <small>Jul.Schäff. & Steer ex F.H.Møller (1950)</small>
+}}
+{{mycomorphbox
+| name = ''Agaricus cupreobrunneus''
+| whichGills = free
+| capShape = convex
+| hymeniumType = gills
+| stipeCharacter = ring
+| sporePrintColor = blackish-brown
+| ecologicalType = saprotrophic
+| howEdible = choice
+}}
+
+'''''Agaricus cupreobrunneus''''', commonly known as the copper mushrooom<ref>{{Cite web |url=https://www.britmycolsoc.org.uk/field_mycology/english-names |title=Archived copy |access-date=2024-01-25 |archive-date=2022-11-03 |archive-url=https://web.archive.org/web/20221103000333/https://www.britmycolsoc.org.uk/field_mycology/english-names |url-status=dead }}</ref> or '''brown field mushroom''', is an [[edible mushroom]] of the genus ''[[Agaricus]]''.
+
+== Description ==
+The brown cap is {{Convert|3-10|cm|abbr=off|frac=2}} wide with flattened reddish-brown fibrils.<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=225–226|oclc=797915861}}</ref> The white stalk is {{Convert|2-7|cm|abbr=on|frac=2}} tall and 1–2 cm wide.<ref name=":0" /> The [[Basidiospore|spores]] are dark brown, elliptical, and smooth.<ref name=":0" />
+
+=== Similar species ===
+''A. cupreobrunneus'' is similar in general appearance to a number of other ''Agaricus'' species, especially to ''A.&nbsp;campestris''.<ref name="MW" />  It also bears strong similarities to ''[[Agaricus argenteus|A.&nbsp;argenteus]]'', ''[[Agaricus augustus|A.&nbsp;augustus]]'', ''[[Agaricus hondensis|A.&nbsp;hondensis]]'', ''[[Agaricus porphyrocephalus|A.&nbsp;porphyrocephalus]]'', and ''[[Agaricus rutilescens|A.&nbsp;rutilescens]]''.<ref name=":0" /><ref name="Arora1986" /> The only potential lookalikes of ''A.&nbsp;cupreobrunneus'' that are [[poisonous mushroom|poisonous]] are yellow- or red-staining, or occur in much different habitats.<ref name="MW" />
+
+== Distribution and habitat ==
+''Agaricus cupreobrunneus'' tends to fruit in disturbed areas and grassy places, such as lawns, pastures, and roadsides.<ref name="MW"/> It can fruit by itself, gregariously, or in [[fairy ring]]s.<ref name=Arora1986/>
+
+==Edibility==
+''A. cupreobrunneus'' is [[edible mushroom|edible]] and good. Its taste is comparable to that of ''[[Agaricus campestris|A.&nbsp;campestris]]'', but it is comparatively lacking in texture.<ref name=Arora1986/> ''A.&nbsp;cupreobrunneus'' is not currently cultivated on a widespread basis, but is commonly eaten by collectors in the areas in which it grows.
+
+It does not contain the carcinogen [[agaritine]], which appears in many other members of the genus ''[[Agaricus]]''.<ref name=Stijve/>
+
+==See also==
+*[[List of Agaricus species|List of ''Agaricus'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="MW">{{cite web |url=http://www.mykoweb.com/CAF/species/Agaricus_cupreo-brunneus.html |title=California Fungi—''Agaricus cupreo-brunneus'' |author=Wood M, Stevens F |accessdate=2011-04-15 |publisher=MykoWeb |archiveurl=https://web.archive.org/web/20110514041055/http://www.mykoweb.com/CAF/species/Agaricus_cupreo-brunneus.html |archivedate=2011-05-14 |url-status=dead }}</ref>
+
+<ref name=Arora1986>{{cite book |author=Arora D. |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/319/mode/2up |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |orig-date=1979 |edition=2nd |pages=319}}</ref>
+
+<ref name="urlMycoBank: Agaricus cupreobrunneus">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=292257 |title=''Agaricus cupreobrunneus'' (Jul. Schäff. & Steer ex F.H. Møller) Pilát 1951 |format=International Mycological Association |work=MycoBank |accessdate=2011-04-16}}</ref>
+
+<ref name=Stijve>{{cite journal|author=Stijve, Pittet|year=2000|title= Absence of agaritine in Pleurotus species and in other cultivated and wild-growing mushrooms not belonging to the genus Agaricus.|journal=Deutsche Lebensmittel-Rundschau|volume=96|issue=7|pages=251–254}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|292257}}
+
+{{Taxonbar|from=Q4672758}}
+
+[[Category:Agaricus|cupreobrunneus]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1939]]
+[[Category:Fungus species]]

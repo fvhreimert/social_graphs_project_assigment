@@ -1,0 +1,47 @@
+{{Short description|Species of fungus}}
+{{Speciesbox 
+| image = Boletus_rubriceps_Arizona.jpg
+| genus = Boletus
+| species = rubriceps
+| authority = [[D.Arora]] & J.L.Frank (2014)
+}}
+{{mycomorphbox
+| name = ''Boletus rubriceps''
+| whichGills = adnate
+| capShape = convex
+| hymeniumType=pores
+| stipeCharacter=bare
+| ecologicalType=mycorrhizal
+| sporePrintColor=olive-brown
+| howEdible=choice
+}}
+
+'''''Boletus rubriceps''''' is a species of [[bolete]] fungus in the family [[Boletaceae]]. Although it was officially described as new to science in 2014, the bolete had previously been reported as either ''[[Boletus edulis]]'' or ''[[Boletus pinophilus|B.&nbsp;pinophilus]]''. [[Molecular phylogenetics|Molecular]] analysis showed that it was sufficiently different from other [[morphology (biology)|morphologically]] similar ''[[Boletus]]'' species to warrant designation as a distinct species. It is found in the southwestern United States and southern [[Rocky Mountains]], where it associates with [[spruce]], [[pine]], and sometimes [[fir]]. The [[basidiocarp|fruit bodies]] are [[edible mushroom|edible]] and highly sought after; they are often sold in [[farmer's market]]s of [[Arizona]], [[New Mexico]], and [[Colorado]], and are used in some restaurants. The [[botanical name|specific epithet]] refers to the reddish color of the [[pileus (mycology)|caps]] ([[Latin]] ''ruber'' = "red"; ''caput'' = "head" or "cap"). [[Common name]]s given to the bolete include "Ruby Porcini",<ref name="iNaturalist"/> "Rocky Mountain red-capped king bolete” or “Rocky Mountain red".<ref name="Arora 2014"/>
+
+==See also==
+*[[List of Boletus species|List of ''Boletus'' species]]
+*[[List of North American boletes]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Arora 2014">{{cite journal |author=Arora D, Frank J. |title=''Boletus rubriceps'', a new species of porcini from the southwestern USA |journal=North American Fungi |year=2014 |volume=9 |issue=6 |pages=1–11 |doi=10.2509/naf2014.009.006 |url=https://www.pnwfungi.org/index.php/pnwfungi/article/view/1267|doi-access=free }} {{open access}}</ref>
+
+<ref name="iNaturalist">{{cite web |url=https://www.inaturalist.org/taxa/499696-Boletus-rubriceps |title="Ruby Porcini (''Boletus rubriceps'')" }}</ref>
+
+}}
+
+==External links==
+*{{Mycobank|804254}}
+
+{{Taxonbar|from=Q18210305}}
+
+[[Category:Boletus|rubriceps]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 2014]]
+[[Category:Fungi of the United States]]
+[[Category:Fungi without expected TNC conservation status]]
+[[Category:Fungus species]]
+
+
+{{Boletales-stub}}

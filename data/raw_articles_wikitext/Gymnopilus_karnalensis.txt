@@ -1,0 +1,40 @@
+{{Short description|Species of fungus}}
+{{single source|date=October 2025}}
+{{no footnotes|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption =
+| taxon = Gymnopilus karnalensis
+| authority = S.M. Kulk.
+| synonyms =
+}}
+{{mycomorphbox
+| name = Gymnopilus karnalensis
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+
+'''''Gymnopilus karnalensis''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]].
+
+==See also==
+{{Portal|Fungi}}
+[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==External links==
+*''[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=133233 Gymnopilus karnalensis]'' at [[Index Fungorum]]
+
+{{Taxonbar|from=Q10763389}}
+
+{{DEFAULTSORT:Gymnopilus karnalensis}}
+[[Category:Gymnopilus|karnalensis]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

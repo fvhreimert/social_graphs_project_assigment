@@ -1,0 +1,89 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Gymnopilus aeruginosus.jpg
+| image_caption = ''Gymnopilus aeruginosus'' growing from a pile of wood mulch
+| taxon = Gymnopilus aeruginosus
+| authority = ([[Charles Horton Peck|Peck]]) [[Rolf Singer|Singer]] (1951)
+| synonyms = *''Pholiota aeruginosa'' {{small|Peck (1890)}}
+}}
+{{mycomorphbox
+| name = ''Gymnopilus aeruginosus''
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType = gills
+| stipeCharacter = ring
+| ecologicalType = saprotrophic
+| sporePrintColor = yellow-orange
+| howEdible = psychoactive
+}}
+
+'''''Gymnopilus aeruginosus''''', also known as the '''magic blue gym''', is a [[mushroom]]-forming [[fungus]]. It has a rusty orange [[spore print]] and a bitter taste. Growing in clusters on dead wood, it is widely distributed and common in the [[Pacific Northwest]]. It contains the psychedelic chemical [[psilocybin]].
+
+== Taxonomy ==
+The species was given its current name by mycologist [[Rolf Singer]] in 1951.<ref>{{cite book |last1=Singer |first1=R. |year=1951 |title=The Agaricales in Modern Taxonomy |series=Lilloa |volume=22 |page=560}}</ref>
+
+The [[botanical name|specific epithet]] ''aeruginosus'' refers to the bluish staining caused by [[psilocin]] polymerization.
+
+==Description==
+The [[pileus (mycology)|cap]] is {{Convert|5–15|cm|frac=4}} across, convex<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/409/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=409 |orig-date=1979}}</ref> with an incurved margin and expands to broadly convex to almost plane in age. The top is dry, fibrillose, and scaly, often with a blueish-green tinge when young. The color is variable, often with various bluish-green, pink, or [[wine (color)|vinaceous]] patches. The cap is sometimes cracked in age. The flesh is pallid to whitish, sometimes turning buff or pinkish-buff in age. The scales are tawny or reddish becoming dark brown.
+
+The [[Lamella (mycology)|gills]] are close or crowded, and broad. They are buff to yellow-orange or ochre, and [[wikt:adnexed|adnexed]] to [[wikt:adnate|adnate]]. They are at first slightly [[Lamella (mycology)|decurrent]], often seceding. The edges are even to slightly rough. The [[spore print]] is rusty to rusty-orange or rusty-cinnamon.<ref name="Arora1986" />
+
+The stipe is 5–12&nbsp;cm long and 1–1.5&nbsp;cm thick, its width generally equal.<ref name="Arora1986" /> It is covered with [[wikt:appressed|appressed]] fibrils, soon disappearing. It is smooth, dry, dusted with rusty orange spores and has a cottony, scanty, yellowish, partially fibrillose veil that leaves an evanescent zone of hairs near the apex of the stipe. It is colored much like the cap;<ref name="Arora1986" /> it is flesh whitish, tinged greenish or bluish-green, becoming yellowish or pinkish-brown when dry. It is solid but becomes hollow and is sometimes striated.
+
+The [[Basidiospore|spores]] are 6–9&nbsp;[[μm]] by 3.5–4.5&nbsp;μm and have no [[germ pore]]. They are roughened and elliptical. [[Pleurocystidia]] are rare and [[clamp connection]]s are present. The [[basidia]] each have four spores.
+
+=== Similar species ===
+''Gymnopilus harmoge'' is a possible synonym and ''[[Gymnopilus punctifolius|G.&nbsp;punctifolius]]'' is a similar color, but with a bald cap and no veil.<ref name="Arora1986" />
+
+==Habitat and formation==
+
+''Gymnopilus aeruginosus'' grows gregariously to cespitosely on stumps, logs, and woodchip mulch/sawdust on hardwood and conifers. It grows in spring, fall, and winter, and is common in the [[Pacific Northwest]]. It also grows in some of the southern states of the United States, such as [[Tennessee]], and [[Georgia (U.S. state)|Georgia]]. It is also found in [[Japan]] and [[Korea]].<ref>[https://www.gbif.org/species/2533711 Occurrences of ''Gymnopilus aeruginosus''], Global Biodiversity Information Facility</ref>
+
+== Psychoactivity ==
+The species is [[Psilocybin mushroom|psychoactive]], apparently containing the hallucinogenic drugs [[psilocybin]] and psilocin.<ref name="Arora1986" />
+
+==See also==
+{{Portal|Fungi}}
+* [[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+*{{cite book | first=Paul | last=Stamets | year=1996 | title=Psilocybin Mushrooms of the World | publisher=Ten Speed Press | location=Berkeley | isbn=978-0898158397}}
+
+==External links==
+* [https://web.archive.org/web/20071023102823/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~5973~gid~.asp Rogers Mushrooms - Gymnopilus aeruginosus]
+*  {{Cite journal 
+| doi = 10.2307/3761920 
+| last1 = Guzmán-Dávalos | first1 = Laura 
+| last2 = Mueller | first2 = Gregory M. 
+| last3 = Cifuentes | first3 = Joaquín 
+| last4 = Miller | first4 = Andrew N. 
+| last5 = Santerre | first5 = Anne 
+| title = Traditional infrageneric classification of ''Gymnopilu''s is not supported by ribosomal DNA sequence data 
+| journal = Mycologia 
+| volume = 95 
+| issue = 6 
+| pages = 1204–1214 
+|date=Nov–Dec 2003
+| pmid = 21149021
+| jstor = 3761920
+| url = http://www.mycologia.org/cgi/reprint/95/6/1204.pdf <!-- alternate URL: http://files.shroomery.org/attachments/7243261-PHYLOGENYOFGYMNOPILUSWITHDNADATA.pdf -->
+| url-access = subscription 
+}}
+
+{{Hallucinogenic mushrooms}}
+{{Taxonbar|from=Q4387845}}
+
+[[Category:Gymnopilus|aeruginosus]]
+[[Category:Entheogens]]
+[[Category:Inedible fungi]]
+[[Category:Psychoactive fungi]]
+[[Category:Psychedelic tryptamine carriers]]
+[[Category:Fungi described in 1890]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Charles Horton Peck]]
+[[Category:Fungus species]]

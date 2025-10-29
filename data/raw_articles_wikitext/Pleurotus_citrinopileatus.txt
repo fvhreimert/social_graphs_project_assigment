@@ -1,0 +1,70 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Pleurotus citrinopileatus at Chatama's home.jpg
+| genus = Pleurotus
+| species = citrinopileatus
+| authority = [[Rolf Singer|Singer]] (1943)<ref name=singer>{{cite journal |last=Singer |first=R. |year=1943 |title=Das System der Agaricales. III |journal=Annals of Mycology |volume=41 |pages=1–189}}</ref>
+| synonyms = *''[[Pleurotus cornucopiae]]'' subsp. ''citrinopileatus'' <small>(Singer) O.Hilber (1993)</small><br/>
+*''Pleurotus cornucopiae'' var. ''citrinopileatus'' <small>(Singer) Ohira (1987)</small>
+}}
+{{mycomorphbox
+| name = ''Pleurotus citrinopileatus''
+| whichGills = decurrent
+| capShape = flat
+| capShape2 = depressed
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = saprotrophic
+| sporePrintColor = pink
+| howEdible = edible
+| howEdible2 = choice
+}}
+
+'''''Pleurotus citrinopileatus''''', the '''golden oyster mushroom''' (''tamogitake'' in [[Japanese language|Japanese]]), is a species of [[Agaricales|gilled]] fungus. Native to [[Russian Far East|eastern Russia]], northern [[China]], and [[Japan]], the species produces an [[edible mushroom]].
+
+==Taxonomy==
+''Pleurotus citrinopileatus'' is very closely related to ''[[Pleurotus cornucopiae|P.&nbsp;cornucopiae]]'' of Europe, with some authors considering them to be at the rank of [[subspecies]].<ref name="ohira">{{cite journal |last1=Ohira |first1=Ikuo |date=1990 |title=A revision of the taxonomic status of ''Pleurotus citrinopileatus'' |url=https://agriknowledge.affrc.go.jp/RN/2010470967 |journal=Reports of the Tottori Mycological Institute |volume=28 |pages=143–150}}</ref>
+
+==Description==
+The [[Basidiocarp|fruiting bodies]] grow in clusters of bright yellow to golden brown [[Pileus (mycology)|cap]]s with a velvety, dry surface texture. The caps are {{convert|2-10|cm|frac=4|abbr=off}} wide.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=413}}</ref> The flesh is thin and white, with a mild scent<ref name="audu" /> and flavour. The [[Stipe (mycology)|stem]]s are cylindrical, white in color, often curved or bent, and about {{convert|2–5|cm|frac=4|abbr=on}} long and {{convert|2–8|mm|frac=16|abbr=on}} in diameter. The [[Lamella (mycology)|gill]]s are white, closely spaced, and run down the stem. The [[spore]]s are cylindrical or elliptical in shape, smooth, hyaline, amyloid, and measure 6–9 by 2–3.5 [[micrometre]]s.<ref name="ohira" /><ref name="parmasto">{{cite journal| journal=[[British Mycological Society|Mycologist]]| volume=1| issue=3|date=July 1987| pages=106–107| doi=10.1016/S0269-915X(87)80076-9| title=''Pleurotus citrinopileatus'', one of the favourites| first=Erast| last=Parmasto}}</ref> The [[spore print]] is light pink.<ref name="audu" />
+
+==Ecology==
+Like other oyster mushrooms, the species is a [[wood-decay fungus]]. In the wild, it most commonly decays [[hardwood]]s such as [[elm]].<ref name=ohira/><ref name=parmasto/> The first recorded observation of naturalized golden oysters in the United States occurred in 2012 on [[Mushroom Observer]], perhaps a decade after the cultivation of the species began in North America, and they have been found growing on [[oak]], [[elm]], [[beech]], and other hardwoods.{{Citation needed|date=March 2025}}
+
+Naturalized golden oysters have been found in many states including: [[Delaware]], [[Illinois]], [[Iowa]], [[Maryland]], [[Massachusetts]], [[Michigan]], [[Minnesota]], [[New York (state)|New York]], [[Ohio]], [[Pennsylvania]], and [[Wisconsin]]. Their vigorous range expansion is comparable to invasive species. In a 2018 population genomics study comparing naturalized wild isolates with commercial strains, two of the commercial isolates showed high similarity to all of the wild isolates, representing possible source strains of the wild populations.<ref> {{cite thesis |last= Bruce|first= Andrea L.|date= 2018|title= Population genomic insights into the establishment of non-native golden oyster mushrooms (Pleurotus citrinopileatus) in the United States|type= Thesis|chapter= |publisher= University of Wisconsin, La Crosse|docket= |oclc= |url= http://digital.library.wisc.edu/1793/79004}} </ref> The study also found highly similar wild isolates collected from geographically distant locations, in some cases over {{convert|800|mi||order=flip}} apart. This is strong evidence to suggest that the same cultivated strain has been {{nowrap|re-introduced}} many times over in various parts of the U.S., as opposed to a single introduction event and subsequent spread.
+
+The mushroom is also naturalized in several African countries: [[Cameroon]],<ref>Tsigain, F. T. et al. (2022). Enzymatic Activities, Characteristics of Wood-Decay and Wood Substrate Specificity within Genera of Some Wood-Rotting Basidiomycetes from Cameroon and Tropical Africa. European Journal of Biology and Biotechnology, 3(1), 11-23.</ref> [[Tanzania]],<ref>Kidukuli, A.W., Mbwambo, Z.H., Malebo, H.M., Mgina, C.A. and Mihale, M.J., 2010. It has also been found in Sweden. In vivo antiviral activity, protease inhibition and brine shrimp lethality of selected Tanzanian wild edible mushrooms. Journal of Applied Biosciences, 31, pp.1887-1894.</ref> [[Kenya]],<ref>Musieba, F., S. Okoth and R.K. Mibey, 2011. First record of the occurrence of Pleurotus citrinopileatus Singer on new hosts in Kenya. Agric. Biol. J. North Am., 2: 1304-1309.</ref> [[Burundi]],<ref>V. Nteziryayo, D.D. Tibuhwa, R. Muvunyi, T. Masharabu: Characterization and domestication of wild edible mushrooms from selected indigenous forests in Burundi. Tanzan. J. Sci., 45 (2019), pp. 417-430.</ref> and [[Nigeria]].<ref>{{cite journal | url=http://doi.org/10.15580/GJAS.2018.7.050918068 | doi=10.15580/GJAS.2018.7.050918068 | title=Identification and Evaluation of Nutrient Compositions of Two Wild Edible Mushrooms in Oduoha-Emohua Forest, Rivers State | date=2018 | last1=Chukunda | first1=F. A. | last2=Nnadi | first2=P. C. | journal=Greener Journal of Agricultural Sciences | volume=8 | issue=7 | pages=138–144 }}</ref> It also occurs in the wild in some Asian countries outside its native territory: in [[Yemen]],<ref>{{cite journal | url=https://doi.org/10.1002/fedr.200811175 | doi=10.1002/fedr.200811175 | title=Further Basidiomycetes from Yemen | date=2008 | last1=Kreisel | first1=H. | last2=Al-Fatimi | first2=M. | journal=Feddes Repertorium | volume=119 | issue=5–6 | pages=463–483 | url-access=subscription }}</ref> [[Korea]],<ref>Kimn H, Song MJ. Analysis of traditional knowledge for wild edible mushrooms consumed by residents living in Jirisan National Park (Korea). J Ethnopharmacol, 2014; 153:90–7.</ref> and [[India]].<ref>Dar, A.H.; Wani, A.H.; Bhat, M.Y.; Sheikh, A.R.; Talie, M.D. Conspectus of Traditional Ethnomycological Insights Pertaining to Wild Mushrooms of South Kashmir, India. Phytomed. Plus 2023, 3, 100477.</ref>
+
+==Uses==
+Golden oyster mushrooms are cultivated commercially, usually on a medium of grain, straw, or sawdust.<ref name=stamets>{{cite book| first=Paul| last=Stamets| title=Growing gourmet and medicinal mushrooms| publisher=Ten Speed Press| year=2000| isbn=1-58008-175-4| pages=274–289}}</ref>  Alternative substrates are [[pomace]] from [[Grape|grapes]] and [[Olive|olives]].<ref>{{Cite journal |last1=Tian |first1=Xiaoying |last2=Thorne |first2=James L. |last3=Moore |first3=J. Bernadette |date=2023-01-14 |title=Ergothioneine: an underrecognised dietary micronutrient required for healthy ageing? |url=https://pmc.ncbi.nlm.nih.gov/articles/PMC9816654/table/tbl1/?report=objectonly |journal=The British Journal of Nutrition |volume=129 |issue=1 |pages=104–114 |doi=10.1017/S0007114522003592 |issn=1475-2662 |pmc=9816654 |pmid=38018890}}</ref> ''Pleurotus'' species are some of the most commonly cultivated mushrooms, particularly in China, due to their ease of cultivation and their ability to convert 100&nbsp;g of organic refuse into 50-70&nbsp;g of fresh mushrooms.<ref name=chang>{{cite book| title=Mushrooms: cultivation, nutritional value, medicinal effect, and environmental impact| first1=Shu-ting| chapter=''Pleurotus'' — A Mushroom of Broad Adaptability| last1=Chang| first2=Philip G.| last2=Miles| publisher=CRC Press| year=2004| pages=315–325| url=https://books.google.com/books?id=XO4EGzpp1M0C| isbn=978-0-8493-1043-0| edition=2nd}}</ref>
+
+In far eastern Russia, it is called ''iI'mak'', is one of the most popular wild [[edible mushroom]]s.<ref name="parmasto" />
+
+=== Chemistry ===
+''Pleurotus citrinopileatus'' mushrooms are a source of [[antioxidant]]s.<ref>{{cite journal |last1=Lee |first1=Yu-Ling |last2=Huang |first2=Gi-Wei |last3=Liang |first3=Zeng-Chin |last4=Mau |first4=Jeng-Leun |title=Antioxidant properties of three extracts from ''Pleurotus citrinopileatus'' |journal=LWT - Food Science and Technology |date=June 2007 |volume=40 |issue=5 |pages=823–833 |doi=10.1016/j.lwt.2006.04.002 }}</ref>  Extracts have been studied for their [[anti-diabetic medication|antihyperglycemic]] properties, decreasing [[blood sugar]] levels in [[Diabetes mellitus|diabetic]] [[laboratory rat|rat]]s.<ref>{{cite journal |last1=Hu |first1=Shu-Hui |last2=Wang |first2=Jinn-Chyi |last3=Lien |first3=Juang-Lin |last4=Liaw |first4=Ean-Tun |last5=Lee |first5=Min-Yen |title=Antihyperglycemic effect of polysaccharide from fermented broth of ''Pleurotus citrinopileatus'' |journal=Applied Microbiology and Biotechnology |date=March 2006 |volume=70 |issue=1 |pages=107–113 |doi=10.1007/s00253-005-0043-5 |pmid=16001252 }}</ref>  They have also been studied as a source of [[lipid-lowering drugs]].<ref>{{cite journal |last1=Hu |first1=Shu Hui |last2=Liang |first2=Zeng Chin |last3=Chia |first3=Yi Chen |last4=Lien |first4=Juang Lin |last5=Chen |first5=Ker Shaw |last6=Lee |first6=Min Yen |last7=Wang |first7=Jinn Chyi |title=Antihyperlipidemic and Antioxidant Effects of Extracts from ''Pleurotus citrinopileatus'' |journal=Journal of Agricultural and Food Chemistry |date=March 2006 |volume=54 |issue=6 |pages=2103–2110 |doi=10.1021/jf052890d |pmid=16536582 |bibcode=2006JAFC...54.2103H }}</ref>
+
+In one study, among 11 other commonly cultivated or foraged mushroom species, ''P.&nbsp;citrinopileatus'' contained the second highest amount of the antioxidant and amino acid [[ergothioneine]] at 3.94&nbsp;mg per gram of dry weight, and fourth highest in [[glutathione]] at 1.39&nbsp;mg per gram of dry weight. Both compounds had their highest concentrations in the pileus tissue. It had the highest amount of ergothioneine among the other [[saprotrophs]] within the group.<ref>{{cite journal |last1=Kalaras |first1=Michael D. |last2=Richie |first2=John P. |last3=Calcagnotto |first3=Ana |last4=Beelman |first4=Robert B. |date=October 2017 |title=Mushrooms: A rich source of the antioxidants ergothioneine and glutathione |url=https://downloads.regulations.gov/HHS-OASH-2022-0005-0292/attachment_4.pdf |journal=Food Chemistry |volume=233 |pages=429–433 |doi=10.1016/j.foodchem.2017.04.109 |pmid=28530594}}</ref>
+
+==See also==
+*[[List of Pleurotus species|List of ''Pleurotus'' species]]
+*[[Ergothioneine]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Commons category-inline|Pleurotus citrinopileatus|''Pleurotus citrinopileatus''}}
+* [https://mushroomobserver.org/observer/index_observation?q=3oP8 ''Pleurotus citrinopileatus''] at [[Mushroom Observer]]
+* [https://www.inaturalist.org/observations?place_id=any&subview=map&taxon_id=504060 "Pleurotus citrinopileatus"] at [[iNaturalist]]
+
+{{Taxonbar|from=Q206502}}
+{{Authority control}}
+
+[[Category:Pleurotaceae]]
+[[Category:Fungi described in 1943]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of China]]
+[[Category:Fungi in cultivation]]
+[[Category:Edible fungi]]
+[[Category:Carnivorous fungi]]
+[[Category:Fungus species]]

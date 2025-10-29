@@ -1,0 +1,40 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+|image = 2014-04-04 Amanita flavella E.-J. Gilbert & Cleland 540502.jpg
+|taxon = Amanita flavella
+|authority = [[E.-J.Gilbert]] & [[John Burton Cleland|Cleland]] (1941)
+}}
+{{mycomorphbox
+|name=''Amanita flavella''
+|whichGills=free
+|capShape=convex
+|capShape2=flat
+|hymeniumType=gills
+|stipeCharacter=ring and volva
+|ecologicalType=mycorrhizal
+|sporePrintColor=white
+|howEdible=unknown
+}}
+
+'''''Amanita flavella''''' is a species of [[mycorrhiza]]l fungus from family [[Amanitaceae]]. It has a convex lemon-yellow coloured [[pileus (mycology)|cap]] up to {{convert|9|cm|abbr=off|frac=2}} in diameter.<ref name=qldfungi>{{cite web|url=http://qldfungi.org.au/garden-fungi/garden-fungi-what-is-that-fungus-in-my-garden/garden-fungi-amanita-flavella|title=Garden Fungi – ''Amanita flavella''|accessdate=December 26, 2012}}</ref> They can also be yellowish-orange coloured and have crowded pale-yellow [[lamella (mycology)|gill]]s.<ref name="amanitaceae">{{cite web |title=Amanita flavella E.-J. Gilbert & Cleland |url=http://www.amanitaceae.org/content/uploaded/legacy/flavella.html |accessdate=December 26, 2012 |publisher=Amanitaceae.org}}</ref> The yellowish-white [[stipe (mycology)|stipe]] is central and 9&nbsp;cm tall; it is slightly [[bulbous]], and enclosed into a [[volva (mycology)|volva]]. The yellowish-white [[Annulus (mycology)|ring]] is flared,<ref name="qldfungi" /> [[ample]], and [[Biological membrane|membranous]]. The spores are 8.5–10&nbsp;[[micrometre|μm]] long and 6–6.5&nbsp;μm wide, white, [[amyloid (mycology)|amyloid]], and [[ellipsoid]]. The species is similar in appearance to ''[[Amanita flavoconia|A.&nbsp;flavoconia]]'' and ''[[Amanita flavipes|A.&nbsp;flavipes]]''.<ref name=amanitaceae/>
+
+It can be found in [[New South Wales]] and [[Queensland]] [[Australia]].<ref name="amanitaceae" /> 
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Amanita species|List of ''Amanita'' species]]
+
+==References==
+{{Reflist}}
+{{Amanitas}}
+{{Taxonbar|from=Q4739871}}
+
+[[Category:Amanita|flavella]]
+[[Category:Fungi described in 1941]]
+[[Category:Fungi of Australia]]
+[[Category:Poisonous fungi]]
+[[Category:Taxa named by John Burton Cleland]]
+[[Category:Fungus species]]
+
+
+{{Amanitaceae-stub}}

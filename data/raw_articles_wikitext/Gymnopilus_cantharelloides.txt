@@ -1,0 +1,39 @@
+{{Short description|Species of fungus}}
+{{single source|date=October 2025}}
+{{no footnotes|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption =
+| taxon = Gymnopilus cantharelloides
+| authority = Camboni & Migl.
+| synonyms =
+}}
+{{mycomorphbox
+| name = Gymnopilus cantharelloides
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+
+'''''Gymnopilus cantharelloides''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]].
+
+==See also==
+{{Portal|Fungi}}
+[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==External links==
+*[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=357213 Index Fungorum]
+
+{{Taxonbar|from=Q5624747}}
+
+{{DEFAULTSORT:Gymnopilus cantharelloides}}
+[[Category:Gymnopilus|cantharelloides]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

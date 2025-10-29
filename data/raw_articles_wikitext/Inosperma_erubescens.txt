@@ -1,0 +1,60 @@
+{{Italic title}}
+{{Speciesbox 
+| name = Red-staining Inocybe 
+| image = 2010-04-27 Inocybe erubescens.jpg
+| genus = Inosperma
+| species = erubescens
+| authority = ([[Axel Gudbrand Blytt|A.Blytt]]) Matheny & Esteve-Rav. (1905)
+| synonyms = *''Inocybe erubescens'' <small>A. Blytt, 1905</small>
+*''Inocybe patouillardii'' <small>[[Giacomo Bresadola|Bres.]] (1905)</small>
+}}
+{{Mycomorphbox
+| name = ''Inosperma erubescens''
+| whichGills = adnate
+| capShape = campanulate
+| capShape2 = conical
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = brown
+|howEdible=poisonous
+| howEdible2 = deadly
+}}
+
+'''''Inosperma erubescens''''' (formerly ''Inocybe erubescens'', also formerly named '''''I.&nbsp;patouillardii'''''), and also commonly known as the '''deadly fibrecap''', '''brick-red tear mushroom''' or '''red-staining Inocybe''', is a poisonous [[basidiomycete]] [[fungus]], one of many in the original genus ''[[Inocybe]]'' and one of the few known to have caused death. It is found growing in small groups on leaf litter in association with [[beech]]. All mushroom guidebooks as well as [[mushroom hunters]] advise that the entire [[Inocybaceae]] should be avoided for consumption. The [[basidiocarp|fruit bodies]] (''i.e.'', the [[mushrooms]]) appear in spring and summer; the bell-shaped [[Pileus (mycology)|caps]] are generally pale pinkish in colour with red stains, which can also be seen on the [[stipe (mycology)|stipe]] and [[Lamella (mycology)|gill]]s.
+
+==Taxonomy and naming==
+The red-staining inocybe was first [[species description|described]] by Norwegian naturalist [[Axel Gudbrand Blytt]] in 1904 as ''Inocybe erubescens''. However, it was widely known for many years as ''I.&nbsp;patouillardii'', as named by Italian mycologist [[Giacomo Bresadola]] in 1905 in honour of the French botanist [[Narcisse Théophile Patouillard]]. However, the former name takes [[Principle of Priority|priority]] due to age.
+
+A 2019 multigene phylogenetic study by Matheny and colleagues found that ''I. erubescens'' and its relatives in the subgenus ''Inosperma'' were only distantly related to the other members of the genus ''[[Inocybe]]''. ''[[Inosperma]]'' was raised to genus rank and the species became ''Inosperma erubescens''.<ref>{{cite journal |doi=10.1080/00275514.2019.1668906|title=Genera of Inocybaceae: New skin for the old ceremony|year=2020|last1=Matheny|first1=P. Brandon|last2=Hobbs|first2=Alicia M.|last3=Esteve-Raventós|first3=Fernando|journal=Mycologia|volume=112|issue=1|pages=83–120|pmid=31846596|s2cid=209407151|url=https://figshare.com/articles/dataset/Genera_of_Inocybaceae_New_skin_for_the_old_ceremony/11388705 |url-access=subscription}}</ref>
+
+==Description==
+The [[pileus (mycology)|cap]] is hemispherical before flattening out and can reach 8&nbsp;cm (3.4&nbsp;in) in diameter. It is variable in colour, initially white though becoming yellow or brownish with age, and stained with pink-white and red marks or lines. The edge of the cap is often irregular with split edges and rough texture. The adnexed [[lamella (mycology)|gills]] are reddish-pink. The [[stipe (mycology)|stipe]], dark red-pink, is thin with no [[annulus (mycology)|ring]]. The [[trama (mycology)|flesh]] is initially yellowish, later dark pink. The colour tends to fade in direct sunlight. It may be mistaken for ''[[Calocybe gambosa]]'', though the latter does not stain red, ''[[Agaricus]]'' species or ''[[Cortinarius caperatus]]''.<ref name="Zeitl76">{{cite book|last=Zeitlmayr | first= Linus |year=1976|title=Wild Mushrooms:An Illustrated Handbook|publisher=Garden City Press, Hertfordshire|isbn=0-584-10324-7|page=77}}</ref>
+
+==Distribution and habitat==
+It is commonest in [[beech]] woods and chalky soils, but grows in other broad-leaved woodland as well. It mainly grows on leaf litter usually during the spring and summer seasons. It is found in southern Europe and has been recorded from eastern [[Anatolia]] in Turkey.<ref name=Dem04>{{cite journal|vauthors=Demirel K, Uzun Y, Kaya A |year=2004 |title=Some Poisonous Fungi of East Anatolia |journal=Turkish Journal of Botany |volume=28 |pages=215–19 |url=http://journals.tubitak.gov.tr/botany/issues/bot-04-28-1-2/bot-28-1-2-23-0207-2.pdf |access-date=2008-02-08 |url-status=dead |archive-url=https://web.archive.org/web/20050505044124/http://journals.tubitak.gov.tr/botany/issues/bot-04-28-1-2/bot-28-1-2-23-0207-2.pdf |archive-date=2005-05-05 }}</ref> In Israel, ''I. erubescens'' grows under Palestine oak (''[[Quercus calliprinos]]'') and pines, with mushrooms still appearing in periods of little or no rain as they are mycorrhizal.<ref name="Lurie09">{{cite journal|last=Lurie|first=Yael|date=2009|title=Mushroom poisoning from species of genus Inocybe (fiber head|journal=Clinical Toxicology |volume=47|issue=6|pages=562–65 | doi=10.1080/15563650903008448|pmid=19566380|s2cid=205902282}}</ref>
+
+==Toxicity==
+''Inocybe erubescens'' contains a possibly fatal dose of the toxin [[muscarine]].<ref name ="Benjamin95">Benjamin DR. (1995). ''Mushrooms, Poisons and Panaceas: A Handbook for Naturalists, Mycologists, and Physicians''. W H Freeman & Co. {{ISBN|0-7167-2649-1}}</ref> One fatality was recorded in [[Surrey]] in southern England in 1937.<ref>{{cite book |title=Poisonous Fungi |last=Ramsbottom |first=John |year=1945 |publisher=Penguin |location=London |page=28}}</ref> In Israel, it is confused with edible mushrooms of the genus ''[[Tricholoma]]'', particularly ''[[Tricholoma terreum]]'' which grows in similar habitat.<ref name="Lurie09"/>
+
+High dose [[intramuscular injection]]s of [[atropine]] or [[diphenhydramine]] serve as an antidote to ''Inocybe'' poisoning.
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Inocybe species|List of ''Inocybe'' species]]
+*[[List of deadly fungi]]
+
+==References==
+{{Commons category}}
+{{Reflist}}
+* {{cite book | last = North| first = Pamela | year = 1967 | title = Poisonous Plants and Fungi in colour | publisher = Blandford Press & Pharmacological Society of Great Britain }}
+*[http://www.emedicine.com/ped/topic2863.htm Toxicity, Mushrooms - Muscarine]
+
+{{Taxonbar|from=Q198722}}
+
+[[Category:Poisonous fungi]]
+[[Category:Inosperma|erubescens, Inosperma]]
+[[Category:Deadly fungi]]
+[[Category:Fungi described in 1905]]
+[[Category:Fungi of Europe]]
+[[Category:Fungus species]]

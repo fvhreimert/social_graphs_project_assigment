@@ -1,0 +1,56 @@
+{{Short description|Species of fungus}}
+{{speciesbox
+| image = Astraeus pteridis 70869.jpg
+| image_caption =
+| genus = Astraeus (fungus)
+| species = pteridis
+| authority = ([[Cornelius Lott Shear|Shear]]) [[Sanford Myron Zeller|Zeller]] (1948)
+| synonyms_ref = <ref name="urlMycoBank"/>
+| synonyms = ''Scleroderma pteridis'' <small>Shear (1902)</small>
+}}
+{{mycomorphbox
+| name = ''Astraeus pteridis''
+| capShape = no
+| hymeniumType = gleba
+| whichGills = NA
+| stipeCharacter = NA
+| ecologicalType = mycorrhizal
+| sporePrintColor = brown
+| howEdible = inedible
+}}
+
+'''''Astraeus pteridis''''', commonly known as the '''giant hygroscopic earthstar''',<ref name=Arora1986>{{Cite book |last=Arora |first=David |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/706/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, California |year=1986 |orig-date=1979 |edition=2nd |pages=706}}</ref> is a species of [[Astraeus (fungus)|false earthstar]] in the family [[Diplocystaceae]]. It is found in North America.
+
+== Taxonomy ==
+The species was described by American mycologist [[Cornelius Lott Shear]] in 1902 under the name ''Scleroderma pteridis''.<ref name="Shear1902" /> [[Sanford Myron Zeller]] transferred it to ''[[Astraeus (fungus)|Astraeus]]'' in 1948.<ref name="Zeller1948" />
+
+== Description ==
+''A. pteridis'' reaches {{Convert|5 to 15|cm|frac=4}} or more when expanded, and often has a more pronounced [[areolate]] pattern on the inner surface of the rays.<ref name=Arora1986/> Like other [[Astraeus (fungus)|''Astraeus'']] species, it is [[hygroscopic]], with rays expanding in humid conditions and closing in arid conditions. It is not typically considered edible.<ref name=Arora1986/>
+
+It closely resembles the European [[Astraeus hygrometricus|''A.&nbsp;hygrometricus'']], but is larger.<ref name=Arora1986/> Within ''Astraeus'', ''A.&nbsp;pteridis'' is most closely related to ''[[Astraeus morganii|A.&nbsp;morganii]].''
+
+== Distribution ==
+A molecular [[phylogenetic]] study from 2013 resulted in the application of the name ''A.&nbsp;pteridis'' to the larger ''Astraeus'' found in the [[Pacific Northwest]] region of North America. ''A.&nbsp;pteridis'' has also been found in the [[Canary Islands]], [[Madeira]], and [[Argentina]], which share historical connections to [[Lusitania]]. It may be widely distributed or have been [[Species translocation|translocated]].<ref>{{Cite journal|last1=Phosri|first1=Cherdchai|last2=Martín|first2=María P.|last3=Watling|first3=Roy|date=Dec 2013|title=Astraeus: hidden dimensions|journal=IMA Fungus|volume=4|issue=2|pages=347–356|doi=10.5598/imafungus.2013.04.02.13|issn=2210-6340|pmc=3905946|pmid=24563840}}</ref>
+
+==References==
+{{Reflist|refs=
+
+<ref name=Shear1902>{{cite journal |author=Shear CL. |title=Mycological notes and new species |journal=Bulletin of the Torrey Botanical Club |year=1902 |volume=29 |issue=7 |pages=449–57|doi=10.2307/2478544 |jstor=2478544 |url=https://www.biodiversitylibrary.org/part/246264 }}</ref>
+
+<ref name="urlMycoBank">{{cite web |title=''Astraeus pteridis'' (Shear) Zeller 1948 |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=284461 |publisher=[[MycoBank]]. International Mycological Association |access-date=2011-08-30}}</ref>
+
+<ref name=Zeller1948>{{cite journal |author=Zeller SM. |year=1948 |title=Notes on certain Gasteromycetes, including two new orders |journal=Mycologia |volume=40 |issue=6 |pages=639–68 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0040/006/0639.htm |doi=10.2307/3755316 |pmid=18102856|jstor=3755316 |url-access=subscription }}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|355939}}
+
+{{Taxonbar|from=Q4811186}}
+
+{{DEFAULTSORT:Astraeus Pteridis}}
+[[Category:Boletales]]
+[[Category:Fungi described in 1902]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Macaronesia]]
+[[Category:Fungus species]]

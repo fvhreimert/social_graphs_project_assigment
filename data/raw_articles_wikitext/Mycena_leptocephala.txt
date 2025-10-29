@@ -1,0 +1,136 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{Speciesbox
+| image = Mycena epipterygia - Lindsey 9a.jpg
+| image_caption =
+| genus = Mycena
+| species = leptocephala
+| authority = ([[Christian Hendrik Persoon|Pers.]]) [[Claude-Casimir Gillet|Gillet]]
+| synonyms_ref = <ref name="urlMycoBank"/>
+| synonyms = 
+''Agaricus leptocephalus'' <small>Pers. (1800)</small><br>
+''Agaricus alcalinus'' subsp. ''leptocephalus'' <small>(Pers.) Pers. (1821)</small><br>
+''Mycena alcalina'' var. ''chlorinella'' <small>[[Jakob Emanuel Lange|J.E.Lange]] (1914)</small><br>
+''Mycena chlorinella'' <small>(J.E.Lange) [[Rolf Singer|Singer]] (1936)</small>
+}}
+{{mycomorphbox
+| name = ''Mycena leptocephala''
+| hymeniumType=gills
+| capShape = conical
+| whichGills = adnate
+| stipeCharacter=bare
+| sporePrintColor=white
+| ecologicalType=saprotrophic
+| howEdible=unknown
+}}
+{{stack end}}
+
+'''''Mycena leptocephala''''', commonly known as the '''nitrous bonnet''', is a species of [[fungus]] in the family [[Mycenaceae]]. The mushrooms have conical grayish [[pileus (mycology)|caps]] that reach up to {{convert|3|cm|in|abbr=on}} in diameter, and thin fragile [[stipe (mycology)|stems]] up to  {{convert|5|cm|in|abbr=on}} long. The [[lamella (mycology)|gills]] are gray and distantly spaced. The [[spore]]s are elliptical, typically measure 7–10 by 4–6&nbsp;[[μm]], and are white in [[spore print|deposit]]. When viewed under a [[light microscopy|light microscope]], the gills have abundant spindle-shaped [[cystidia]] on the gill edges, but few on the gill faces. Similar species include ''[[Mycena alcalina]]'', ''[[Mycena austera|M.&nbsp;austera]]'', and ''[[Mycena brevipes|M.&nbsp;brevipes]]''.
+
+The mushroom is found in North America, Asia, and Europe where it grows singly or in groups on [[Needle (botany)#Morphology|conifer needles]], [[conifer cone|cones]] and sticks on the [[forest floor]]. It has a distinctive odor of bleach; the [[edible mushroom|edibility]] is unknown.
+
+==Taxonomy==
+The species was first called ''Agaricus leptocephalus'' by [[Christian Hendrik Persoon]] in 1800,<ref name=Persoon1800/> and was transferred to the genus ''[[Mycena]]'' in 1876 by French mycologist [[Claude-Casimir Gillet]].<ref name=Gillet1874/> [[Synonym (taxonomy)|Synonyms]] include ''Agaricus alcalinus'' var. ''leptocephalus'' (Fries, 1821),<ref name=Fries1821/> ''Mycena alcaline'' var. ''chlorinella'' (J.E. Lange, 1914),<ref name=Lange1914/> and ''Mycena chlorinella'' (Singer, 1936).<ref name=Singer1936/> The latter was reduced to synonym in a 1980 publication by Dutch ''Mycena'' specialist [[Rudolph Arnold Maas Geesteranus|Maas Geesteranus]].<ref name=MaasGeesteranus1980/>
+
+''Mycena leptocephala'' is [[classification (biology)|classified]] in the [[section (biology)|section]] ''Fragilipedes'' of the genus ''[[Mycena]]'', along with other similar-looking mushrooms, such as ''[[Mycena aetites|M.&nbsp;aetites]]'', ''[[Mycena austera|M.&nbsp;austera]]'', ''[[Mycena parca|M.&nbsp;parca]]'', and ''[[Mycena aronsenii|M.&nbsp;aronsenii]]''. Some of these have a nitrous smell similar to ''M.&nbsp;leptocephala''.<ref name=urlAronsen/>
+
+=== Etymology ===
+The [[specific name (botany)|specific epithet]] ''leptocephala'' is derived from the Greek λεπτος ''leptos'', "thin" and κεφαλη ''kephale'', "head",<ref name=Rea1922/> and refers to the delicate cap.<ref name=Smith1908/> The mushroom is [[common name|commonly]] known as the "nitrous bonnet".<ref name=BMS/>
+
+==Description==
+[[image:Mycena spec. - Lindsey 7b.jpg|thumb|left|The distantly-spaced, pallid gills have an ascending-adnate attachment to the stem, and one or two tiers of interspersed lamellulae.]]
+The [[Pileus (mycology)|cap]] is {{convert|1|–|3|cm|in|1|abbr=on}} in diameter, and initially a fat conical shape with the margin pressed close to the stem. As the cap expands, it becomes broadly conic to convex, sometimes broadly bell-shaped, and sometimes convex with a flaring margin.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=431}}</ref> The cap surface has a whitish sheen because of its [[wikt:pruinose|pruinose]] coating. The coating gradually sloughs off, leaving the surface smooth and moist. The cap shows radial grooves that outline the position of the gills underneath. Its color is initially dusky brownish-gray to blackish (after the pruinose coating has sloughed off), soon fading from dark to light gray and finally ashy-gray. The [[trama (mycology)|flesh]] is thin and fragile, grayish, and has a slightly sour ([[wikt:acidulous|acidulous]]) taste, and a weakly alkaline odor that strengthens in intensity if the flesh is crushed. Its [[edible mushroom|edibility]] is unknown,<ref name="OriadeRueda2010" /> but it is too small to be of interest.<ref name=":0" />
+
+The [[lamella (mycology)|gills]] are narrow, equal in width throughout, ascending-adnate (the gills attach at much less than a right angle, appearing to curve upward toward stem) and toothed. They are subdistantly spaced, with 18–27 gills reaching the stem, and one or two tiers of lamellulae (short gills that do not extend fully from the cap edge to the stem) interspersed between them. The color of the gills is pallid or [[cinereous]], with pallid and even edges.
+
+The [[stipe (mycology)|stem]] is {{convert|3|–|8|cm|abbr=on|round=0.5}} long,<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=177–178|oclc=797915861}}</ref> 1–2&nbsp;mm thick, equal in width throughout, hollow, and very fragile. It is usually bluish-black initially (darker than the cap) but gradually turns sordid brownish-gray, and finally fades to pallid or cinereous. The surface is densely white-pruinose overall, but soon polished and translucent when the pruinose coating wears off. The stem base is nearly smooth to rather densely white-[[wikt:strigose|strigose]].<ref name="Smith p.241-44">Smith, pp. 241–44.</ref> The species has a distinctive [[bleach]]-like odor.<ref name="Arora1986" /> The [[spore print]] is white.<ref name="audu" />
+
+===Microscopic characteristics===
+[[image:Mycena leptocephala 62192.jpg|thumb|150px|left|The spores are broadly ellipsoid.]]
+The [[spore]]s are broadly [[wikt:ellipsoid|ellipsoid]], [[amyloid (mycology)|amyloid]] (meaning they will adsorb iodine when [[staining|stained]] with [[Melzer's reagent]]), and measure 7–10 by 4–6&nbsp;[[μm]].<ref name="Smith p.241-44"/> The [[basidia]] (the spore-bearing cells) are usually four-spored, although two- and three-spored forms have been found on which the spores measure 11–14 by 6–6.5&nbsp;μm or 8–10 by 3.5–4.5&nbsp;μm, respectively.<ref name=Smith1935/> The pleurocystidia ([[cystidia]] on the face of a gill) are scattered, rare or absent, 30–44 by 9–13&nbsp;μm, variable in shape, [[wikt:fusoid|fusoid]]-[[wikt:ventricose|ventricose]] to club-shaped, with some having a forked apex. The pleurocystidia that are club-shaped occasionally have two or three finger-like prolongations. The cheilocystidia (cystidia on the gill edge) are numerous, and similar in [[morphology (biology)|morphology]] to the pleurocystidia. The flesh of the gill is [[wikt:homogenous|homogenous]], composed of enlarged [[hypha]]e that stain [[wine (color)|vinaceous]]-brown in iodine. The flesh of the cap has a well-differentiated [[wikt:pellicle|pellicle]], the cells of which bear numerous rodlike prolongations. The hypoderm (a layer of tissue immediately below the pellicle) is well-formed, while the remaining tissue is [[wikt:floccose|floccose]]; all but the pellicle are vinaceous-brown in iodine stain.<ref name="Smith p.241-44"/>
+
+===Similar species===
+[[image:Mycena alcalina 28811.jpg|thumb|160px|right|''M. alcalina'' is a lookalike species.]]
+The "stump fairy helmet" ''[[Mycena alcalina]]'' is a common species that is similar in appearance and odor to ''M.&nbsp;leptocephala''. However, it grows on conifer wood and rarely on the ground. Microscopically, it has numerous cystidia on the gill edges.<ref name="urlKuo"/> Although ''M.&nbsp;leptocephala'' usually has a weaker alkaline odor and a more fragile stem, the strength of the odor of ''M.&nbsp;alcalina'' is also quite variable,<ref name=McKnight1987/> so differences in odor cannot be used as the sole distinguishing characteristic. ''[[Mycena austera|M.&nbsp;austera]]'', described from southern Norway in 1994, differs from ''M.&nbsp;leptocephala'' by the lack of a nitrous odor, and differently shaped cheilocystidia and terminal cells of the cortical layer of the stem.<ref name=Arosen1994/> [[Alexander H. Smith]] considers ''[[Mycena brevipes|M.&nbsp;brevipes]]'' close to ''M.&nbsp;leptocephala'', but the former mushroom has a short stem up to {{convert|3.5|cm|in|abbr=on}} long, typically grows singly, and lacks an odor.<ref name=Smith1937/>
+
+Other similar species include ''M. stipata'' and ''M. capillaripes''.<ref name=":0" />
+
+==Habitat and distribution==
+''Mycena leptocephala'' is a [[saprobic]] species,<ref name=Meulder2002/> meaning it derives nutrients from the breakdown of organic matter. Fruit bodies are found growing scattered to [[wikt:gregarious|gregarious]] on fallen sticks and on needle carpets under conifers, and are rather common during early summer and again in the autumn.<ref name="Smith p.241-44"/> Fruit bodies may be infected by the bonnet mold ''[[Spinellus fusiger]]''.<ref name=Jing2008/>
+
+In North America, the fungus is found in Canada ([[British Columbia]],<ref name=Davidson1930/> [[Manitoba]], [[Nova Scotia]]), to [[Washington (U.S. state)|Washington]] and south to [[California]] and [[North Carolina]].<ref name="Smith p.241-44"/> In South America, the mushroom has been collected in Venezuela.<ref name=Dennis1961/> It also grows in the [[Archipelago of the Recherche]], off the southern coast of [[Western Australia]].<ref name=Willis1952/> In Europe, it is known from Britain,<ref name=Smith1908/> Finland, The Netherlands,<ref name=Meulder2002/> Norway,<ref name=urlAronsen/> and Spain<ref name=Barcelona1978/> It has also been found in various locations in Asia: the [[Vindhya Range]] of India;<ref name=Dehariya2010/> the Gwangneung Forest Museum in the [[Korea National Arboretum]];<ref name=Han2010/> and the alpine zone of [[Changbai Mountain Nature Reserve]], [[Jilin Province]], China.<ref name=Fan2010/> The fungus is also known from Arctic and Alpine regions such as Iceland, Greenland, and the [[Murmansk]] region.<ref name=Kalamees2006/>
+
+==Footnotes==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=Arosen1994>{{cite journal |author=Aronsen A. |title=2 new Mycenas of section ''Fragilipedes'' from southern Norway |journal=Persoonia |year=1994 |volume=15 |issue=4 |pages=531–35 |issn=0031-5850}}</ref>
+
+<ref name=Arora1986>{{cite book |author=Arora D. |title=Mushrooms Demystified: a Comprehensive Guide to the Fleshy Fungi |publisher=Ten Speed Press |location=Berkeley, CA |year=1986 |page=234 |isbn=0-89815-169-4|url= https://books.google.com/books?id=86tM01VsFG0C&q=Mycena+leptocephala&pg=PA234|access-date=2009-09-26}}</ref>
+
+<ref name=Barcelona1978>{{cite journal |title=Els fongs de Catalunya occidental segons les prospeccions recents. II. |trans-title=The fungi of occidental Catalonia after recent prospections. II |vauthors=Llimona X, Blanco MN, Dueñas M, Gorris M, Gràcia E, Hoyo P, Llistosella J, Marti J, Martín MP, Muntañola-Cvetkovic M, Quadrada R, Rocabruna A, Salcedo I, Sierra D, Tabarés M, Vila J |journal=Acta Botanica Barcinonensia |year=1978 |volume=46 |pages= 5–29 |language=pt |url=https://books.google.com/books?id=cDAS6AOB9bYC&pg=PA20}}</ref>
+
+<ref name=BMS>{{cite web |url=http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |title=Recommended English Names for Fungi in the UK |publisher=[[British Mycological Society]] |url-status=dead |archive-url=https://web.archive.org/web/20110716083053/http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |archive-date=2011-07-16 }}</ref>
+
+<ref name=Davidson1930>{{cite journal |author=Davidson JE. |title=Notes on the Agaricaceae of Vancouver (B.C.) District: I |journal=Mycologia |year=1930 |volume=22 |issue=2 |pages=80–93 |jstor=3753736 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0022/002/0080.htm |doi=10.2307/3753736|url-access=subscription }}</ref>
+
+<ref name=Dehariya2010>{{cite journal |vauthors=Deharita P, Choubey A, Wagay JA, Vyas D |year=2010 |title=Wild mushrooms of Pantheria Forest of Sagar |journal=Journal of Mycology and Plant Pathology |volume=40 |issue=2 |pages=179–86 |issn=0971-9393}}</ref>
+
+<ref name=Dennis1961>{{cite journal |author=Dennis RWG. |title=Fungi venezuelani: IV. Agaricales |journal=Kew Bulletin |year=1961 |volume=15 |issue=1 |pages=67–156 |jstor=4115784 |doi=10.2307/4115784}}</ref>
+
+<ref name=Fan2010>{{cite journal |vauthors=Fan YG, Tolgor B |title=Checklist of macrofungi collected from different forests in Changbai Mountain (I): Alpine Zone |journal=Journal of Fungal Research |year=2010 |volume=8 |issue=1 |pages=32–34, 47 |issn=1672-3538 |language=zh}}</ref>
+
+<ref name=Fries1821>{{cite book |title=Systema Mycologicum |volume=1 |author=Fries EM. |year=1821 |publisher=Mauritius |page=143 |url=https://books.google.com/books?id=Qj8-AAAAcAAJ&pg=PA143}}</ref>
+
+<ref name=Gillet1874>{{cite book |title=Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France |last=Gillet CC. |year=1874 |publisher=Alençon |location=France |page=267 |url=https://www.biodiversitylibrary.org/page/32614624 |language=fr}}</ref>
+
+<ref name=Han2010>{{cite journal |vauthors=Han SK, Oh SH, Kim HJ |title=Eight unrecorded higher fungi identified at the Korea National Arboretum |journal=Mycobiology |year=2010 |volume=38 |issue=2 |pages=81–8 |doi=10.4489/MYCO.2010.38.2.081 |pmid=23956632 |pmc=3741570}}</ref>
+
+<ref name=Jing2008>{{cite journal |vauthors=Jing M, Tolgor B |title=Observation of morphology of ''Spinellus fusiger'' |journal=Journal of Fungal Research |volume=6 |issue=1 |pages=4–6 }}</ref>
+
+<ref name=Kalamees2006>{{cite journal |vauthors=Kalamees K, Raitviir A |title=Macromycetes on Ainovy islands (Murmansk region, Russia) |journal=Arctic and Alpine Mycology|location=Sixth International Symposium on Arcto-Alpine Mycology (ISAM 6) |publisher=Museum Tusculanum Press |date=11–12 August 2000  |volume=6 |pages=139–47 |isbn=9788763512770 |url=https://books.google.com/books?id=5OxJHNY6PGcC&pg=PA139}}</ref>
+
+<ref name=Lange1914>{{cite journal |author=Lange JE. |year=1914 |title=Studies in the Agarics of Denmark. Part I. ''Mycena'' |journal=Dansk Botanisk Arkiv |volume=1 |issue=5 |pages=1–40}}</ref>
+
+<ref name=MaasGeesteranus1980>{{cite journal |author=Maas Geesteranus RA. |title=Studies in Mycenas 1–4 |year=1980 |journal=Proceedings of the Koninklijke Nederlandse Akademie van Wetenschappen Series C Biological and Medical Sciences |volume=83 |issue=2 |pages=167–74 |issn=0023-3374}}</ref>
+
+<ref name=McKnight1987>{{cite book |vauthors=McKnight VB, McKnight KH |title=A Field Guide to Mushrooms: North America |publisher=Houghton Mifflin |location=Boston |year=1987 |page=171 |isbn=0-395-91090-0 |url=https://books.google.com/books?id=kSdA3V7Z9WcC&pg=PA171}}</ref>
+
+<ref name=Meulder2002>{{cite journal |author=Meulder H de. |year=2002 |title=Experimenteel onderzoek naar de successie van paddestoelen op dood hout (9de vervolg) |trans-title=Experimental investigation into the succession of fungi on dead wood (9th. continuation) |journal=AMK Mededelingen |issue=1 |pages=2–10 |language=nl |issn=0771-9884}}</ref>
+
+<ref name=OriadeRueda2010>{{cite journal |vauthors=Oria-de-Rueda JA, Hernández-Rodríguez M, Martin-Pinto P, Pando V, Olaizola J |title=Could artificial reforestations provide as much production and diversity of fungal species as natural forest stands in marginal Mediterranean areas? |journal=Forest Ecology and Management |year=2010 |volume=260 |issue=2 |pages=171–80 |doi=10.1016/j.foreco.2010.04.009}}</ref>
+
+<ref name=Persoon1800>{{cite book |title=Icones et Descriptiones Fungorum Minus Cognitorum |volume=2 |author= Persoon CH. |year=1800 |publisher=Breitkopf-Haerteliani |location=Leipzig, Germany |pages=27–60 |language=la}}</ref>
+
+<ref name=Rea1922>{{cite book |title=British Basidiomycetae: A Handbook to the Larger British Fungi |last=Rea C. |year=1922 |publisher=Cambridge University Press |location=Cambridge, UK |page=387 |url=https://books.google.com/books?id=4tg8AAAAIAAJ&pg=PA387}}</ref>
+
+<ref name=Singer1936>{{cite journal |author=Singer R. |year=1936 |title=Bemerkungen über einige Basidiomyceten |journal=Annales Mycologici |volume=34 |pages=423–34 |language=de}}</ref>
+
+<ref name=Smith1908>{{cite book |author=Smith GW. |title=Synopsis of the British Basidiomycetes: a descriptive catalogue of the drawings and specimens in the department of Botany, British Museum |year=1908 |publisher=William Clowes and Sons |location=London |page=76 |isbn=9780543913883 |url=https://books.google.com/books?id=-j3L-uNC5QsC&pg=PA76}}</ref>
+
+<ref name=Smith1935>{{cite journal |author=Smith AH. |year=1935 |title=Studies in the genus ''Mycena''. I |journal=American Journal of Botany |volume=22 |issue=10 |pages=858–77 |jstor=2435962 |doi=10.2307/2435962}}</ref>
+
+<ref name=Smith1937>{{cite journal |author=Smith AH. |year=1937 |title=Studies in the Genus ''Mycena''. IV |journal=Mycologia |volume=29 |issue=3 |pages=338–54 |jstor=3754294 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0029/003/0338.htm |doi=10.2307/3754294|url-access=subscription }}</ref>
+
+<ref name=urlAronsen>{{cite web |url=http://home.online.no/~araronse/Mycenakey/leptocephala.htm |title=''Mycena leptocephala'' (Pers.) Gillet |author=Aronsen A |work=A key to the Mycenas of Norway |access-date=2010-10-03 |archive-url=https://web.archive.org/web/20100114192126/http://home.online.no/~araronse/Mycenakey/leptocephala.htm |archive-date=2010-01-14 |url-status=dead }}</ref>
+
+<ref name="urlKuo">{{cite web |url=http://www.mushroomexpert.com/mycena_leptocephala.html |title=''Mycena leptocephala'' |author=Kuo M |work=MushroomExpert.Com |date=December 2010 |access-date=2011-07-13}}</ref>
+
+<ref name="urlMycoBank">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=179400 |title=''Mycena leptocephala'' (Pers.) Gillet 1876 |publisher=International Mycological Association |work=MycoBank |access-date=2010-06-02}}</ref>
+
+<ref name=Willis1952>{{cite report |contribution=Land Flora |author=Willis JH. |title=Expedition to the Archipelago of the Recherche, Western Australia |year=1952–54 |series=Australian Geographical Society reports |publisher=Australian Geographical Society |page=31}}</ref>
+
+}}
+
+===Cited text===
+*{{cite book |title=North American species of ''Mycena'' |last=Smith AH. |year=1947 |location=Ann Arbor|publisher=University of Michigan Press}}
+
+{{Good article}}
+{{Taxonbar|from=Q2565841}}
+
+[[Category:Mycena|leptocephala]]
+[[Category:Fungi described in 1800]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Venezuela]]
+[[Category:Taxa named by Christiaan Hendrik Persoon]]
+[[Category:Fungus species]]

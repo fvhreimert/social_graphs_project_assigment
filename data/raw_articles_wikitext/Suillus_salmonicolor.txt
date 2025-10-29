@@ -1,0 +1,193 @@
+{{Short description|Species of fungus in the family Suillaceae}}
+{{stack begin}}
+{{Speciesbox
+| image = Suillus salmonicolor 167330.jpg
+| genus = Suillus
+| species = salmonicolor
+| authority = ([[Charles Christopher Frost|Frost]]) [[Roy Halling|Halling]] (1983)
+| synonyms_ref = <ref name="urlMycoBank: Suillus salmonicolor" /><ref name=Halling1983 /><ref name=Reid2000 />
+| synonyms = ''Boletus salmonicolor'' <small>Frost (1874)</small><br />
+''Boletus subluteus'' <small>[[Charles Horton Peck|Peck]] (1887)<ref name=Peck1887 /></small><br />
+''Ixocomus subluteus'' <small>(Peck) [[Édouard-Jean Gilbert|E.-J.Gilbert]] (1931)<ref name="urlMycoBank: Ixocomus subluteus" /></small><br />
+''Suillus subluteus'' <small>(Peck) [[Wally Snell|Snell]] (1944)<ref name=Slipp1944 /></small><br />
+''Suillus cothurnatus'' <small>[[Rolf Singer|Singer]] (1945)<ref name=Singer1945 /></small><br />
+''Boletus luteus'' var. ''cothurnatus'' <small>(Singer) [[William Alphonso Murrill|Murrill]] (1948)<ref name=Murrill1948 /></small><br />
+''Suillus pinorigidus'' <small>Snell & [[Esther A. Dick|Dick]] (1956)<ref name=Snell1956 /></small>
+}}
+{{mycomorphbox
+| name = ''Suillus salmonicolor''
+| whichGills = adnate
+| whichGills2 = decurrent
+| capShape = convex
+| capShape2= flat
+| hymeniumType=pores
+| stipeCharacter=bare
+| ecologicalType=mycorrhizal
+| sporePrintColor=brown
+| howEdible=edible
+}}
+{{stack end}}
+
+'''''Suillus salmonicolor''''', commonly known as the '''Slippery Jill''', is a [[fungus]] in the [[family (biology)|family]] [[Suillaceae]] of the [[order (biology)|order]] [[Boletales]]. First described as a member of the genus ''[[Boletus]]'' in 1874, the [[species]] acquired several [[synonym (biology)|synonyms]], including ''Suillus pinorigidus'' and ''Suillus subluteus'', before it was assigned its current [[binomial name]] in 1983. It has not been determined with certainty whether ''S.&nbsp;salmonicolor'' is distinct from the species ''[[Suillus cothurnatus|S.&nbsp;cothurnatus]]'', described by [[Rolf Singer]] in 1945.
+
+The mushroom's dingy yellow to brownish [[pileus (mycology)|cap]] is rounded to flattened in shape, slimy when wet, and grows up to {{convert|8|cm|abbr=on|frac=2}} wide. The small pores on the underside of the cap are yellow before becoming olive-brown. The [[stipe (mycology)|stem]] is up to {{convert|10|cm|abbr=on|frac=4}} long and {{convert|1.6|cm|in|1|abbr=on|frac=4}} thick and is covered with reddish-brown glandular dots. Young specimens are covered with a grayish, slimy [[partial veil]] that later ruptures and leaves a sheathlike [[annulus (mycology)|ring]] on the stem. Other similar ''[[Suillus]]'' species include ''[[Suillus acidus|S.&nbsp;acidus]]'', ''[[Suillus subalutaceus|S.&nbsp;subalutaceus]]'', and ''[[Suillus intermedius|S.&nbsp;intermedius]]''.
+
+''S.&nbsp;salmonicolor'' is a [[mycorrhiza]]l fungus—meaning it forms a [[symbiosis|symbiotic]] association with the [[root]]s of plants such that both organisms benefit from the exchange of nutrients. This symbiosis occurs with various species of [[pine]], and the [[basidiocarp|fruit bodies]] (or [[mushroom]]s) of the fungus appear scattered or in groups on the ground near the trees. The fungus is found in North America, [[Hawaii]], Asia, the Caribbean, South Africa, [[Flora of Australia|Australia]] and Central America. It has been [[introduced species|introduced]] to several of those locations via transplanted trees. Although the mushroom is generally considered [[edible mushroom|edible]]—especially if the slimy [[pileipellis|cap cuticle]] and partial veil are first peeled off—opinions about flavor vary.
+
+==Taxonomy==
+The species was first [[species description|described]] scientifically by American mycologist [[Charles Christopher Frost]] in 1874 as ''Boletus salmonicolor'', based on specimens he collected in the [[New England]] area of the United States.<ref name="Frost1874" /> In a 1983 publication, mycologist [[Roy Halling]] declared ''Boletus subluteus'' (described by [[Charles Horton Peck]] in 1887;<ref name="Peck1887" /> ''Ixocomus subluteus'' is a later combination based on this name)<ref name="urlMycoBank: Ixocomus subluteus" /> and ''Suillus pinorigidus'' (described by [[Wally Snell]] and Esther A. Dick in 1956)<ref name="Snell1956" /> to be [[synonym (taxonomy)|synonymous]]. Halling also reexamined Frost's [[type (biology)|type]] specimen of ''B.&nbsp;salmonicolor'', and considered the [[taxon]] better placed in ''Suillus'' because of its glutinous cap, dotted stem, and [[annulus (mycology)|ring]]; he formally transferred it to that genus, resulting in the combination ''Suillus salmonicolor''.<ref name="Halling1983" /> The [[specific name (botany)|specific epithet]] ''salmonicolor'' is a [[Latin]] color term meaning "pink with a dash of yellow".<ref name="Stearn2004" /> The mushroom is [[common name|commonly]] known as the "slippery Jill".<ref name="Boletes NAm, pp.250-1">Bessette ''et al.'' (2000), pp. 250–1.</ref>
+{{cladogram|title=
+|clade=
+{{clade
+|style=font-size:75%;line-height:75%
+|label1=
+|1={{clade
+    |1={{clade
+       |1={{clade
+          |1={{clade
+             |1=''[[Suillus americanus|S. americanus]]''
+             |2=''[[Suillus sibiricus|S. sibiricus]]''
+             }}
+          |2=''[[Suillus umbonatus|S. umbonatus]]''
+          }}
+       |2={{clade
+           |1=''[[Suillus intermedius|S. intermedius]]''
+           |2=''[[Suillus subalutaceus|S. subalutaceus]]''
+           }}
+       }}
+    |2={{clade
+       |1={{clade
+          |1=''[[Suillus cothurnatus|S. cothurnatus]]''
+          |2='''''S. salmonicolor'''''
+          }}
+       |2=''[[Suillus subaureus|S. subaureus]]''
+       }}
+   }}
+}}
+|caption=Phylogenetic relationships of ''S.&nbsp;salmonicolor'' (as ''S.&nbsp;subluteus'') and related species based on [[internal transcribed spacer|ITS]] sequences.<ref name=Kretzer1996 /><ref name=Kretzer1997 />
+}}
+In a 1986 publication on ''Suillus'' [[Taxonomy (biology)|taxonomy]] and [[binomial nomenclature|nomenclature]], {{nowrap|Mary E. Palm}} and {{nowrap|Elwin L. Stewart}} further discussed the synonymy of ''S.&nbsp;salmonicolor'', ''S.&nbsp;subluteus'', and ''S.&nbsp;pinorigidus''. They noted that [[basidiocarp|fruit bodies]] of ''S.&nbsp;subluteus'' collected in Minnesota did not have the strong salmon colors considered characteristic of ''S.&nbsp;salmonicolor'', as well as collections that had been named ''S.&nbsp;pinorigidus''; this is a [[morphology (biology)|morphological]] difference that could be sufficient to consider ''S.&nbsp;subluteus'' a distinct species. They explained that although the microscopic characteristics of the three taxa do not differ significantly, this is not unusual for ''Suillus'' and cannot be used as the sole proof of [[conspecificity]]. Palm and Stewart concluded that a study of specimens from various areas of their geographical ranges would be needed to fully resolve the taxonomy of these related species.<ref name=Palm1986 />
+
+There is some disagreement in the literature about whether ''[[Suillus cothurnatus]]'' represents a different species from ''S.&nbsp;salmonicolor''. The online mycological taxonomy database [[MycoBank]] lists them as synonyms,<ref name="urlMycoBank: Suillus salmonicolor" /> contrary to [[Index Fungorum]].<ref name="urlFungorum synonymy" /> In their 2000 [[monograph]] of North American boletes, [[Alan Bessette]] and colleagues list the two taxa separately, noting that the range of ''S.&nbsp;cothurnatus'' is difficult to determine because of confusion with ''S.&nbsp;salmonicolor''.<ref>Bessette ''et al.'' (2000), p. 234.</ref> In a [[molecular phylogenetics|molecular]] analyses of ''Suillus'' [[phylogeny]], based on the [[internal transcribed spacer]], ''S.&nbsp;salmonicolor'' (as ''S.&nbsp;subluteus'') and ''S.&nbsp;intermedius'' clustered together very closely, indicating a high degree of [[genetic similarity]].<ref name=Kretzer1996 /><ref name=Kretzer1997 /> These analyses were based on comparing the [[nucleic acid sequence|sequence]] differences in a single region of [[ribosomal DNA]]; more recent molecular analyses typically combine the analysis of several genes to increase the validity of inferences drawn.<ref name=Wang2009 />
+
+==Description==
+
+The [[pileus (mycology)|cap]] of ''S.&nbsp;salmonicolor'' is bluntly rounded or convex to nearly flattened, reaching a diameter of {{convert|3-8|cm|abbr=on|frac=2}}.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=304}}</ref> The cap surface is sticky to slimy when moist, but becomes shiny when dry. The cap color is variable, ranging from dingy yellow to yellowish-orange to [[ochraceous]]-[[salmon (color)|salmon]], cinnamon-brown or olive-brown to yellow-brown. The [[trama (mycology)|flesh]] is pale orange-yellow to orange-[[buff (color)|buff]] or orange, and does not stain when exposed to air. The odor and taste are not distinctive. The pore surface on the underside of the cap is yellow to dingy yellow, or yellowish orange to salmon, darkening to brownish with age; it also does not stain when bruised. The pores are circular to angular and {{convert|8|–|10|mm|abbr=on|frac=16}} deep, with 1–2 found per mm.<ref name="audu" />
+
+The [[stipe (mycology)|stem]] is {{convert|2.5|–|10|cm|abbr=on|frac=4}} long, {{convert|6|–|16|mm|abbr=on|frac=8}} thick,<ref name="audu" /> and either equal in width throughout or slightly enlarged in the lower portion. It is whitish to yellowish or pinkish-ochre, and has reddish-brown to dark brown glandular dots and smears on the surface. Glandular dots are made of clumps of [[pigment]]ed cells, and, unlike [[wikt:reticulation|reticulation]] or scabers (small visible tufts of fibers that occur on the stems of other ''Suillus'' species), can be rubbed off with handling. The [[trama (mycology)|flesh]] is ochraceous to yellowish, often salmon-orange at the base of the stem. The [[partial veil]] that protects the developing gills is initially thick, baggy, and rubbery. It often has a conspicuously thickened cottony roll of tissue at its base, and sometimes flares outward from the stem on the lower portion. It forms a gelatinous [[annulus (mycology)|ring]] on the upper to middle part of the stem. The [[spore print]] is cinnamon-brown to brown.<ref name="Boletes NAm, pp.250-1" /> The surface of the cap, when applied with a drop of dilute [[potassium hydroxide]] (KOH) or [[ammonium hydroxide|ammonia solution]] (chemical reagents commonly used for [[Chemical tests in mushroom identification|mushroom identification]]), will first turn a fleeting pink color, then dark red as the flesh collapses.<ref name="Baroni1970" />
+
+The [[spore]]s are smooth, roughly [[ellipsoid]] in shape, inequilateral when viewed in profile, and measure 7.6–10 by 3–3.4&nbsp;[[μm]]. They appear [[hyaline]] (translucent) to yellowish in a dilute solution of KOH, and cinnamon to pale [[ochre|ochraceous]] when [[staining|stained]] with [[Melzer's reagent]]. The [[basidia]] are somewhat collapsed, hyaline, and 5–6&nbsp;μm thick. The [[cystidia]] are scattered, sometimes arranged in clusters (especially on the gill edge), usually with an ochraceous-brown content, but occasionally hyaline. They are club-shaped to somewhat cylindric and measure 34–60 by 10–13&nbsp;μm. The [[pileipellis|cuticle]] of the cap is an ixotrichodermium—a cellular arrangement where the outermost hyphae are gelatinous and emerge roughly parallel, like hairs, perpendicular to the cap surface. These hyphae are hyaline and narrowly cylindric, measuring 1.4–3&nbsp;μm in diameter. The stem surface is made of scattered bundles of caulocystidia (cystidia on the stem) that are brown or sometimes hyaline in KOH, club-shaped to [[subcylindrical]] bundles interspersed among hyaline cells. These bundles are underlain by a layer of gelatinous, hyaline, vertically oriented and parallel hyphae that are shaped like narrow cylinders. [[Clamp connection]]s are absent from the hyphae.<ref name=Halling1983 />
+
+===Similar species===
+{{multiple image|caption_align=center|header_align=center
+| align = right
+| image1 = Suillus acidus 110096.jpg
+| width1 = {{#expr: (140 * 800 / 600) round 0}}
+| caption1 = ''Suillus acidus''
+| image2 = Suillus acidus 56776.jpg
+| width2 = {{#expr: (140 * 2272 / 1704) round 0}}
+| caption2 = ''Suillus intermedius''
+}}
+''[[Suillus intermedius]]'', found in northeastern and northern North America,<ref name="urlKuo" /> is similar in appearance to ''S.&nbsp;salmonicolor''. It may be distinguished by a lighter-colored cap, cream to yellowish or pale ochraceous flesh, and a ring that is neither as thick nor as wide as ''S.&nbsp;salmonicolor''.<ref name=Roody2003 /> It is also larger, with a cap diameter of up to {{convert|16|cm|in|abbr=on}}, and its pore surface sometimes slowly stains reddish-brown when bruised.<ref>Bessette ''et al.'' (2000), pp. 240–1.</ref> Although it has not been definitively established whether ''[[Suillus cothurnatus|S.&nbsp;cothurnatus]]'' is a distinct species, several characteristics have been reported to differentiate it from ''S.&nbsp;salmonicolor'': a thinner, less rubbery veil that usually lacks a thickened cottony roll at the base; glandular dots on the stem that consist of bundles of [[septum|multiseptate]] hyphae in a parallel arrangement ending in an even row of large, sterile cystidia (60–140&nbsp;μm long) that resemble basidia; and small hyaline cystidia shaped like swollen bottles with narrowed bases.<ref>Bessette ''et al.'' (2000), pp. 233–4.</ref> Other ''Suillus'' species with which ''S.&nbsp;salmonicolor'' might be confused include ''[[Suillus acidus|S.&nbsp;acidus]]'' and ''[[Suillus subalutaceus|S.&nbsp;subalutaceus]]''. Both of these species have a less well-developed partial veil, and their flesh is a duller tone lacking yellow-orange tints.<ref name=Sicard2005>Sicard and Lamoureux (2005), [https://books.google.com/books?id=NJ8164vllNIC&pg=PA140 p. 140.]</ref>
+
+==Ecology, habitat and distribution==
+''Suillus salmonicolor'' occurs in a [[mycorrhiza]]l association with various species of ''[[pine|Pinus]]''. This is a [[Mutualism (biology)|mutualistic]] relationship in which the subterranean fungal [[mycelium|mycelia]] creates a protective sheath around the rootlets of the tree and a network of hyphae (the [[Hartig net]]) that penetrates between the tree's epidermal and cortical cells. This association helps the plant absorb water and [[dietary mineral|mineral]] nutrients; in exchange, the fungus receives a supply of [[carbohydrate]]s produced by the plant's [[photosynthesis]]. Two-, three-, and five-needled pines have all been recorded to associate with ''S.&nbsp;salmonicolor''. In North America, where it fruits from August to October,<ref name="audu" /> the fungus has been found growing with ''[[Pinus banksiana|P.&nbsp;banksiana]]'', ''[[Pinus palustris|P.&nbsp;palustris]]'', ''[[Pinus resinosa|P.&nbsp;resinosa]]'', ''[[Pinus rigida|P.&nbsp;rigida]]'', ''[[Pinus strobus|P.&nbsp;strobus]]'' and ''[[Pinus taeda|P.&nbsp;taeda]]''. In [[Kamchatka]] (in the Russian Far East) it has been found in association with ''[[Pinus pumila|P.&nbsp;pumila]]'', in the [[Philippines]] with ''[[Pinus kesiya|P.&nbsp;kesiya]]'',<ref name=Reid2000 /> and in southern India with ''[[Pinus patula|P.&nbsp;patula]]''.<ref name=Natarajan1983 /> The northern limit of its North American range is eastern Canada ([[Quebec]]),<ref name=Sicard2005 /> and the southern limit is [[Nuevo León]]<ref name=Garcia1981 /> and near [[Nabogame]] in [[Temósachi Municipality]], [[Chihuahua (state)|Chihuahua]], Mexico.<ref name=Laferriere1992 />
+
+''Suillus salmonicolor'' has been collected from the [[Dominican Republic]] in the Caribbean,<ref name=OrtizSantana2007 /> Japan,<ref name=Murata1976 /> Taiwan,<ref name=Hongo1985 /> and from [[Mpumalanga]], South Africa. Because there are no native ''Pinus'' species in South Africa, the fungus is assumed to be an exotic species that has been [[introduced species|introduced]] via [[pine plantation]]s.<ref name=Reid2000 /> It has also been introduced to Australia, where it is known from a single collection made in a plantation of [[Caribbean pine]] (''Pinus caribaea'') in [[Queensland]],<ref name=Leonard2010 /> and has been found growing with Caribbean pine in [[Belize]].<ref name=Kropp2001 /> It is found in Hawaii under [[Slash Pine]] (''Pinus elliotii''), including lawns where those trees are used in [[landscaping]].<ref name=Hemmes2002 /> ''S.&nbsp;salmonicolor'' is one of several ectomycorrhizal species that have "traveled the thousands of kilometers from a mainland to Hawaii in the roots and soil of introduced seedlings."<ref name=Vellinga2009 />
+
+== Edibility ==
+The mushroom is [[edible mushroom|edible]], but removal of the slimy cap cuticle and partial veil before thoroughly cooking is recommended to avoid possible [[gastroenteritis]];<ref name="Bessette2001" /> similarly, the 1992 field guide ''Edible Wild Mushrooms of North America'' recommends the removal of the tube layer before preparation, as it can become slimy during cooking.<ref name="Bessette1992" /> Opinions about the quality of the mushroom vary. According to the book ''Boletes of North America'', it is "very good" with a "lemony" flavor.<ref name="Boletes NAm, pp.250-1" /> A Canadian field guide is more cautious in its assessment, and suggests that one would have to be brave to consume a mushroom with such a sticky veil.<ref>"Il faudrait une bonne dose of courage pour passer outre l'aspect assez repoussant que présente le voile partiel très gluant de ce champignon." Sicard and Lamoureux (2005), [https://books.google.com/books?id=NJ8164vllNIC&pg=PA140 p. 140.]</ref> Mycologist [[David Arora]], in his ''[[Mushrooms Demystified]]'', opines that it is not worth eating.<ref name="Arora1986" /> The mushroom serves as a habitat for [[larva]]e of [[fungivore|mycophagous]] insects such as the [[Muscidae|muscid fly]] ''[[Mydaea discimana]]'' and the [[scuttle fly]] ''[[Megaselia lutea]]''.<ref name="Bruns1984" />
+
+== See also ==
+*[[List of North American boletes]]
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=Arora1986>{{cite book |author=Arora D. |year=1986 |title=Mushrooms Demystified: a Comprehensive Guide to the Fleshy Fungi |publisher=Ten Speed Press |location=Berkeley, California |page=[https://archive.org/details/mushroomsdemysti00aror_0/page/500 500] |isbn=978-0-89815-169-5 |url-access=registration |url=https://archive.org/details/mushroomsdemysti00aror_0/page/500 }}</ref>
+
+<ref name=Baroni1970>{{cite journal |author=Baroni TJ. |year=1970 |title=Chemical spot-test reactions: boletes |journal=Mycologia |volume=70 |issue=5 |pages=1064–76 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0070/005/1064.htm |jstor=3759138 |doi=10.2307/3759138|url-access=subscription }}</ref>
+
+<ref name=Bessette1992>{{cite book |vauthors=Bessette A, Fischer DH |year=1992 |title=Edible Wild Mushrooms of North America: a Field-to-Kitchen Guide |publisher=University of Texas Press |location=Austin, Texas |page=106 |isbn=978-0-292-72080-0 |url=https://books.google.com/books?id=zsJN7NZutTAC&pg=PA106}}</ref>
+
+<ref name=Bessette2001>{{cite book |vauthors=Bessette AR, Bessette AE, Neill WJ |title=Mushrooms of Cape Cod and the National Seashore |year=2001 |publisher=Syracuse University Press |location=Syracuse, New York |page=[https://archive.org/details/mushroomsofcapec0000bess/page/43 43] |isbn=978-0-8156-0687-1 |url=https://archive.org/details/mushroomsofcapec0000bess|url-access=registration }}</ref>
+
+<ref name=Bruns1984>{{cite book |author=Bruns T. |year=1984 |chapter=Insect mycophagy in the Boletales: fungivore diversity and the mushroom habitat |veditors=Blackwell M, Wheeler Q |title=Fungus–Insect Relationships: Perspectives in Ecology and Evolution |publisher=Columbia University Press |location=New York City |pages=91–129 (see pp.&nbsp;120 and 122) |isbn=978-0-231-05695-3 |chapter-url=https://books.google.com/books?id=McUWyL0wsh8C&pg=PA122}}</ref>
+
+<ref name=Frost1874>{{cite journal |author=Frost CC. |year=1874 |title=Catalogue of boleti of New England, with descriptions of new species |journal=Bulletin of the Buffalo Society of Natural Sciences |volume=2 |pages=100–5 |url=https://www.biodiversitylibrary.org/page/5000695}}</ref>
+
+<ref name=Garcia1981>{{cite journal |vauthors=García J, Castillo J |year=1981 |title=Species of Boletaceae and Gomphidiaceae fungi known in Nuevo León Mexico |journal=Boletín de la Sociedad Mexicana de Micologia |volume=15 |pages=121–98 |language=es |issn=0085-6223}}</ref>
+
+<ref name=Halling1983>{{cite journal |author=Halling RE. |year=1984 |title=Boletes described by Charles C. Frost |journal=Mycologia |volume=75 |issue=1 |pages=70–2 |jstor=3761543 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0075/001/0070.htm |doi=10.2307/3792925|url-access=subscription }}</ref>
+
+<ref name=Hemmes2002>{{cite book |vauthors=Hemmes DE, Desjardin D |title=Mushrooms of Hawai'i: An Identification Guide |publisher=Ten Speed Press |location=Berkeley, California |year=2002 |page=106 |isbn=978-1-58008-339-3}}</ref>
+
+<ref name=Hongo1985>{{cite journal |vauthors=Hongo T, ((Chen Z-C)) |year=1985 |script-title=ja:台湾新産菌蕈類 |trans-title=New records of Agaricales from Taiwan |journal=Memoirs of the Faculty of Education, Shiga University. Natural Science |volume=35 |pages=35–8 |language=ja |issn=0488-6291}}</ref>
+
+<ref name=Kretzer1996>{{cite journal |vauthors=Kretzer A, Li Y, Szaro T, Bruns TD |year=1996 |title=Internal transcribed spacer sequences from 38 recognized species of ''Suillus'' sensu lato: Phylogenetic and taxonomic implications |journal=Mycologia |volume=88 |issue=5 |pages=776–85 |jstor=3760972 |doi=10.2307/3760972}}</ref>
+
+<ref name=Kretzer1997>{{cite journal |vauthors=Kretzer A, Bruns TD |year=1997 |title=Molecular revisitation of the genus ''Gastrosuillus'' |journal=Mycologia |volume=89 |issue=6 |pages=586–89 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0089/004/0586.htm |jstor=3760995 | doi = 10.2307/3760995|url-access=subscription }}</ref>
+
+<ref name=Kropp2001>{{cite journal |author=Kropp BR. |year=2001 |title=Familiar faces in unfamiliar places: Mycorrhizal fungi associated with Caribbean pine |journal=Mycologist |volume=15 |issue=3 |pages=137–40 |doi=10.1016/S0269-915X(01)80039-2 }}</ref>
+
+<ref name="urlKuo">{{cite web |url=http://www.mushroomexpert.com/suillus_intermedius.html |title=''Suillus intermedius'' |work=MushroomExpert.Com |date=December 2007 |author=Kuo M. |access-date=2011-03-01}}</ref>
+
+<ref name=Laferriere1992>{{cite journal |vauthors=Laferrière JE, Gilbertson RL |year=1992 |title=Fungi of Nabogame, Chihuahua, Mexico |journal=Mycotaxon |volume=44 |issue=1 |pages=73–87 |url=http://www.cybertruffle.org.uk/cyberliber/59575/0044/001/0073.htm}}</ref>
+
+<ref name=Leonard2010>{{cite journal |vauthors=Leonard P, Batchelor D |year=2010 |title=Slippery jack and how to find him. A field key to ''Suillus'' species in Australia and New Zealand |journal=Fungimap Newsletter |volume=41 |pages=4–8 |url=http://www.rbg.vic.gov.au/__data/assets/pdf_file/0019/12925/Fungimap_NL_41_text.pdf |url-status=dead |archive-url=https://web.archive.org/web/20110303172319/http://www.rbg.vic.gov.au/__data/assets/pdf_file/0019/12925/Fungimap_NL_41_text.pdf |archive-date=2011-03-03 }}</ref>
+
+<ref name=Murata1976>{{cite journal |title=The boletes of Hokkaido Japan. Part 1. ''Suillus'' |journal=Nippon Kingakukai Kaiho |author=Murata Y. |year=1976 |volume=17 |issue=2 |pages=149–58 |issn=0029-0289}}</ref>
+
+<ref name=Murrill1948>{{cite journal |author=Murrill WA. |year=1948 |title=Florida boletes |journal=Lloydia |volume=11 |pages=21–35}}</ref>
+
+<ref name=Natarajan1983>{{cite journal |vauthors=Natarajan K, Raman N |year=1983 |title=South Indian Agaricales. 20. Some mycorrhizal species |journal=Kavaka |volume=11 |pages=59–66 |issn=0379-5179}}</ref>
+
+<ref name=OrtizSantana2007>{{cite journal |vauthors=Ortiz-Santana B, Jean Lodge D, Baroni TJ, Both EE |year=2007 |title=Boletes from Belize and the Dominican Republic |journal=Fungal Diversity |volume=27 |pages=247–416 (see p.&nbsp;405) |url=http://www.fungaldiversity.org/fdp/sfdp/27_15.pdf }}</ref>
+
+<ref name=Palm1986>{{cite journal |vauthors=Palm ME, Stewart EL |year=1986 |title=Typification and nomenclature of selected ''Suillus'' species |journal=Mycologia |volume=78 |issue=3 |pages=325–33 |jstor=3793035 |doi=10.2307/3793035}}</ref>
+
+<ref name=Peck1887>{{cite journal |author=Peck CH. |year=1887 |title=Descriptions of New York species of viscid Boleti |journal=Bulletin of the New York State Museum |volume=1 |issue=2 |pages=57–66 |url=http://purl.org/net/nysl/nysdocs/4714860}}</ref>
+
+<ref name=Reid2000>{{cite journal |vauthors=Reid DA, Eicker A |year=2000 |title=South African fungi 11. ''Suillus salmonicolor'' – A bolete new to South Africa |journal=Mycotaxon |volume=74 |issue=1 |pages=77–81 |url=http://www.cybertruffle.org.uk/cyberliber/59575/0074/001/0077.htm}}</ref>
+
+<ref name=Roody2003>{{cite book |author=Roody WC. |title=Mushrooms of West Virginia and the Central Appalachians |publisher=University Press of Kentucky |location=Lexington, Kentucky |year=2003 |page=286 |isbn=978-0-8131-9039-6 |url=https://books.google.com/books?id=5HGMPEiy4ykC&pg=PA286}}</ref>
+
+<ref name=Singer1945>{{cite journal |author=Singer R. |year=1945 |title=The Boletineae of Florida with notes on extralimital species. II. The Boletaceae (Gyroporoideae) |journal=Farlowia |volume=2 |issue=2 |pages=223–303}}</ref>
+
+<ref name=Slipp1944>{{cite journal |vauthors=Slipp AW, Snell W |year=1944 |title=Taxonomic-ecologic studies of the Boletaceae in northern Idaho and adjacent Washington |journal=Lloydia |volume=7 |pages=1–66}}</ref>
+
+<ref name=Snell1956>{{cite journal |vauthors=Snell WH, Dick EA |year=1956 |title=Notes on boletes: IX |journal=Mycologia |volume=48 |issue=2 |pages=302–10 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0048/002/0302.htm |jstor=3755478 |doi=10.2307/3755478|url-access=subscription }}</ref>
+
+<ref name=Stearn2004>{{cite book |author=Stearn WT. |title=Botanical Latin |edition=4th |publisher=Timber Press |location=Portland, Oregon |year=2004 |page=242 |isbn=978-0-88192-627-9 |url=https://books.google.com/books?id=w0hZvTFJUioC&pg=PA242}}</ref>
+
+<ref name="urlFungorum synonymy">{{cite web |url=http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=291271 |title=Species Fungorum–Species synonymy: ''Suillus cothurnatus'' Singer |work=Species Fungorum  |publisher=[[CAB International]] |access-date=2011-03-01}}</ref>
+
+<ref name="urlMycoBank: Ixocomus subluteus">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=254930 |title=''Ixocomus subluteus'' (Peck) E.-J. Gilbert 1931 |work=MycoBank  |publisher=International Mycological Association |access-date=2011-03-01}}</ref>
+
+<ref name="urlMycoBank: Suillus salmonicolor">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=109257 |title=''Suillus salmonicolor'' (Frost) Halling 1983 |work=MycoBank  |publisher=International Mycological Association |access-date=2011-03-01}}</ref>
+
+<ref name=Vellinga2009>{{cite journal |vauthors=Vellinga EC, Wolfe BE, Pringle A |year=2009 |title=Global patterns of ectomycorrhizal introductions |journal=New Phytologist |volume=181 |pages=960–73 |doi=10.1111/j.1469-8137.2008.02728.x |pmid=19170899 |issue=4 |doi-access=free |bibcode=2009NewPh.181..960V }}</ref>
+
+<ref name=Wang2009>{{cite journal |vauthors=Wang H, Xu Z, Gao L, Hao B |title=A fungal phylogeny based on 82 complete genomes using the composition vector method |journal=BMC Evolutionary Biology |volume=9 |article-number=195 |year=2009 |issue=1 |pmid=19664262 |doi=10.1186/1471-2148-9-195 |pmc=3087519 |doi-access=free |bibcode=2009BMCEE...9..195W }}</ref>
+
+}}
+
+===Literature cited===
+*{{cite book |vauthors=Bessette AE, Roody WC, Bessette AR |year=2000 |title=Boletes of North America: A Color Guide to the Fleshy Pored Mushrooms |publisher=Syracuse University Press |location=Syracuse, New York |isbn=978-0-8156-0588-1}}
+*{{cite book |title=Connaître, Cueillir et Cuisiner: Les Champignons Sauvages du Québec |trans-title=Knowing, Picking and Cooking: The Wild Mushrooms of Quebec |vauthors=Sicard M, Lamoureux Y |year=2005 |publisher=Éditions Fides |location=Saint-Laurent, Québec |isbn=978-2-7621-2617-4 |language=fr}}
+
+==External links==
+*{{Commons-inline}}
+*{{IndexFungorum|109257}}
+
+{{Featured article}}
+{{Taxonbar|from=Q4284128}}
+
+[[Category:Suillus|salmonicolor]]
+[[Category:Fungi described in 1874]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Africa]]
+[[Category:Fungi of Central America]]
+[[Category:Edible fungi]]
+[[Category:Fungus species]]

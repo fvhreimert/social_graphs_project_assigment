@@ -1,0 +1,74 @@
+{{speciesbox
+| image = Copelandia_cyanescens.jpg
+| image_caption = ''Panaeolus cyanescens''
+| taxon = Panaeolus cyanescens
+| authority =  ([[Miles Joseph Berkeley|Berk.]] & [[Christopher Edmund Broome|Broome]]) [[Sacc.]]
+| range_map = Panaeolus-cyanescens-range-map.png
+| range_map_caption = Range of ''Panaeolus cyanescens''
+| synonyms = ''Agaricus cyanescens''<br/>''Copelandia anomala''<br/>''Copelandia cyanescens''<br/>''Copelandia papilonacea''<br/>''Copelandia westii''
+}}
+{{mycomorphbox
+| name = ''Panaeolus cyanescens''
+| whichGills = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=saprotrophic
+| sporePrintColor=black
+| howEdible=psychoactive}}
+
+'''''Panaeolus cyanescens''''', commonly known as the '''blue-staining panaeolus''',<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/358/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=358 |orig-date=1979}}</ref>{{efn|It is also known under the [[common name]]s of Blauender Düngerling, blue meanies, faleaitu (Samoan), falter-düngerling, Hawaiian copelandia, jambur, jamur, pulouaitu (Samoan), taepovi (Samoan), tenkech (Chol).<ref>{{cite encyclopedia | last=Rätsch | first=Christian | date=25 April 2005 | article=Panaeolus cyanescens Berkeley et Broome | encyclopedia=The Encyclopedia of psychoactive plants: Ethnopharmacology and its applications | publication-place=Rochester, Vermont | publisher=[[Park Street Press]] | isbn=978-0-89281-978-2 | article-url=https://doctorlib.info/herbal/encyclopedia-psychoactive-plants-ethnopharmacology/129.html | access-date=6 September 2024}}</ref>}} is a [[Psilocybin mushroom|psychoactive mushroom]] in the [[Bolbitiaceae]] family. When cultivated for their psychedelic properties, they may be referred to as '''Pan Cyan.'''
+
+== Description ==
+The cap is {{Convert|1.5–4|cm|frac=4}} across, dry, at first hemispheric, expanding to campanulate or convex,<ref name="Arora1986" /> with an incurved margin when young. Young caps start out light brown and fade to off-white or light gray at maturity, sometimes with yellowish or brownish tones.  Often developing cracks in dry weather, slightly [[hygrophanous]], turning greenish or blue where damaged.<ref name="Arora1986" />
+
+The gills are broadly [[wikt:adnate|adnate]] to [[wikt:adnexed|adnexed]],<ref name="Arora1986" /> close, starting out gray and turning black as the spores mature. The gill faces have a mottled appearance and the edges are white. The [[spore print]] is black.<ref name="Arora1986" />
+
+The stipe is 6–12&nbsp;cm long by 2 to 4&nbsp;mm thick, equal to slightly enlarged at the base,<ref name="Arora1986" /> [[wikt:pruinose|pruinose]], colored like the cap, staining somewhat blue where bruised.
+
+The taste and odor are farinaceous.
+
+=== Microscopic features ===
+The spores are jet black, 12–15 x 7–11&nbsp;[[μm]], smooth, opaque, elliptical.  With a germ pore.
+
+Basidia 4 spored, pleurocystidia fusoid-ventricose, cheilocystidia 12 x 4&nbsp;μm.
+
+=== Similar species ===
+It is similar to ''[[Panaeolus tropicalis]]''.<ref name="Arora1986" />
+
+== Distribution and habitat ==
+''Panaeolus cyanescens'' is a [[wikt:coprophilous|coprophilous]] (dung-inhabiting) species which occurs in both the [[Neotropics]] and [[Paleotropics]].  It has been found<ref>{{Cite journal |author=Gastón Guzmán  |author-link=Gastón Guzmán |author2=John W. Allen |author3=Jochen Gartz|date=1998|title=A worldwide geographical distribution of the neurotropic fungi, an analysis and discussion|url=http://www.museocivico.rovereto.tn.it/UploadDocs/104_art09-Guzman%20&%20C.pdf|journal=Annali del Museo Civico di Rovereto|issue=14|pages=189–280}} (on Fondazione Museo Civico di Rovereto)</ref> in [[Vietnam]], [[Africa]] (including [[South Africa]], 
+[[Mauritius]], [[Madagascar]] and [[Democratic Republic of the Congo]]), [[Australia]], [[Belize]], the Caribbean ([[Bermuda]], [[Grenada]], [[Barbados]] [[Jamaica]], [[Trinidad]], and [[Puerto Rico]]), [[Costa Rica]], [[India]], [[Malaysia]], [[Indonesia]], [[Sri Lanka]], [[Cambodia]], [[Thailand]], [[Japan]], [[Mexico]], [[Oceania]] ([[Fiji]] and [[Samoa]]), the [[Philippines]], [[South America]] ([[Bolivia]], [[Brazil]], [[Paraguay]], [[Colombia]], [[Venezuela]], and [[Ecuador]]), [[South Korea]], and the United States ([[California]], [[Hawaii]], [[Louisiana]], [[Mississippi]], [[Alabama]], [[Florida]], [[Tennessee]], [[Texas]], [[Kentucky]], [[Virginia]], [[Georgia (U.S. state)|Georgia]],  and [[North Carolina]]).
+
+== Psychoactive properties ==
+Laussmann & Meier-Giebing (2010) reported the presence of [[psilocybin]] at ~2.5% and [[psilocin]] at ~1.194% from 25 samples seized by the German government, which makes modern commercially cultivated strains of this fungus the most potent [[hallucinogenic mushroom]]s ever described in published academic research.<ref>{{Cite journal |last1=Laussmann |first1=Tim |last2=Meier-Giebing |first2=Sigrid |date=2010-02-25 |title=Forensic analysis of hallucinogenic mushrooms and khat (Catha edulis Forsk) using cation-exchange liquid chromatography |journal=Forensic Science International |volume=195 |issue=1–3 |pages=160–164 |doi=10.1016/j.forsciint.2009.12.013 |pmid=20047807}}</ref>  Other researchers have documented a significant presence of [[serotonin]] and urea in this species as well as the possibly [[psychotropic]] [[indole alkaloid]] [[baeocystin]].<ref>{{Cite journal |last1=Stijve |first1=T. |last2=Kuyper |first2=Th. |date=October 1985 |title=Occurrence of Psilocybin in Various Higher Fungi from Several European Countries |journal=Planta Medica |volume=51 |issue=5 |pages=385–387 |doi=10.1055/s-2007-969526|pmid=17342589 }}</ref><ref>Stijve, Tjakko. “Psilocin, psilocybin, serotonin and urea in Panaeolus cyanescens from various origin.” Persoonia 15 (1992): 117-121.</ref>
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Panaeolus species|List of ''Panaeolus'' species]]
+
+==References==
+'''Footnotes'''
+{{notelist}}
+
+'''Citations'''
+{{Reflist}}
+
+==Bibliography==
+*{{cite book | first=Paul | last=Stamets | year=1996 | title=Psilocybin Mushrooms of the World | publisher=Ten Speed Press | location=Berkeley | isbn=0-9610798-0-0}}
+
+==External links==
+* [http://www.shroomery.org/11347/Panaeolus-cyanescens Panaeolus cyanescens cultivation]
+* [https://gordotek.org/easypancyantek/ New simple method (TEK) for growing Panaeolus cyanescens (aka Copelandia cyanescens, Hawaiians, blue meanies, Pans and Pan cyans)]
+
+{{Hallucinogenic mushrooms}}
+{{Taxonbar|from=Q2406982}}
+
+[[Category:Panaeolus|cyanescens]]
+[[Category:Psychoactive fungi]]
+[[Category:Psychedelic tryptamine carriers]]
+[[Category:Fungi of Oceania]]
+[[Category:Taxa named by Christopher Edmund Broome]]
+[[Category:Fungi without expected TNC conservation status]]
+[[Category:Fungus species]]
+[[Category:Taxa named by Miles Joseph Berkeley]]

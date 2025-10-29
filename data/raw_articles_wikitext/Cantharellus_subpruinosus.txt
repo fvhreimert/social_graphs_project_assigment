@@ -1,0 +1,55 @@
+{{Short description|Species of mushroom-forming fungus}}
+{{Use dmy dates|date=April 2025}}
+{{Use Oxford spelling|date=April 2025}}
+{{Speciesbox
+| image = Cantharellus subpruinosus 313196.jpg
+| taxon = Cantharellus subpruinosus
+| authority = Eyssart. & Buyck (2000)
+}}
+{{mycomorphbox
+| name= ''Cantharellus subpruinosus''
+| whichGills = decurrent
+| capShape = infundibuliform
+| hymeniumType = ridges
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = buff
+| howEdible = edible
+}}
+
+'''''Cantharellus subpruinosus''''' is a species of [[edible mushroom]]-forming [[fungus]] in the family [[Cantharellaceae]]. A European species, it was originally described from France in 2000, where it was found growing in moss in mixed [[deciduous]] and [[spruce]] woodland.
+
+==Description==
+
+The [[pileus (mycology)|cap]] of ''Cantharellus subpruinosus'' ranges from 20 to 70&nbsp;mm in diameter. Initially convex, it flattens out with age and may become slightly depressed at the centre. The surface of the cap is smooth and has a silky to velvety texture, initially covered by a distinctive white powdery coating known as pruina, which makes young specimens appear almost white. As the fungus matures, the cap transitions to a vibrant orange hue, often becoming marked with [[ochre]] stains when bruised or handled. Its edge is distinctly wavy to lobed and retains remnants of the pruina even at maturity, gradually turning a rust-like shade.<ref name="Eyssartier 2000"/>
+
+The underside features pronounced, decurrent folds (ridges that run down the [[stipe (mycology)|stipe]]), which share the same general colouration as the cap and similarly stain yellow to orangey-ochre when touched. The stipe measures 20 to 70&nbsp;mm tall and 10 to 30&nbsp;mm thick, sometimes broadening slightly towards the top. Initially solid, the stipe gradually develops a hollow area towards its base, and its shape can vary from somewhat spindle-like to cylindrical-clavate (club-shaped). Typically, the stipe is slightly paler than or the same colour as the cap and likewise stains ochre upon handling.<ref name="Eyssartier 2000"/>
+
+Internally, the [[trama (mycology)|flesh]] of the stem is whitish, contrasting with the orange flesh beneath the cap's outer layer. The fungus has a mild taste and emits a pleasant, fruity aroma reminiscent of [[apricot]]s. Microscopically, the [[basidiospore|spores]] of ''C.&nbsp;subpruinosus'' are elliptical, occasionally kidney-shaped when viewed from the side, smooth, and transparent ([[hyaline]]), measuring roughly 7.5–8.5 by 4–5&nbsp;μm. The [[basidia]]—the spore-producing cells—are elongated and club-shaped, typically bearing five to six spores each.<ref name="Eyssartier 2000"/>
+
+==Taxonomy==
+
+''Cantharellus subpruinosus'' was first described as a distinct species by Guillaume Eyssartier and Bart Buyck in 2001, based on specimens collected in the [[Haute-Savoie]] department of France. The species was recognised as new due to several unique [[morphology (biology)|morphological]] characteristics, particularly its distinctively paler, initially pruinose (powdery) cap and the vibrant ochre-orange colouration it acquires with age. Its [[botanical name|epithet]] ''subpruinosus'' refers directly to the subtle white powdery coating (pruina) that partially covers its cap when young.<ref name="Eyssartier 2000"/>
+
+This species differs from closely related relatives, such as ''[[Cantharellus cibarius]]'' var. ''atlanticus'', by its distinctly paler stalk, lighter gill folds, and the characteristic pale yellow to ochre-orange flesh. According to the author, these morphological distinctions justified its description as a separate species rather than a [[variety (botany)|variety]] or [[form (botany)|form]] of a previously known chanterelle.<ref name="Eyssartier 2000"/>
+
+==Habitat and distribution==
+
+''Cantharellus subpruinosus'' grows in mossy, forested habitats, typically within mixed [[woodland]]s dominated by [[broad-leaved tree]]s and [[spruce]] (''Picea'' species). It can be found growing singly or in clusters on the forest floor. At the time of its original description, its known geographical distribution was known to be centred in Europe, specifically described from the Haute-Savoie region in France. Its preferred habitat includes shaded, humid environments with abundant [[leaf litter]], providing optimal conditions for its growth and development.<ref name="Eyssartier 2000"/> A report of unusual fungal species found in Cyprus included a population of ''Cantharellus'' that were suggested to be ''C.&nbsp;subpruinosus''.<ref name="Kyriakou et al. 2009"/>
+
+==References==
+{{Reflist|refs=
+
+<ref name="Eyssartier 2000">{{cite journal |last1=Eyssartier |first1=G. |last2=Buyck |first2=B. |title=Le genre ''Cantharellus'' en Europe. Nomenclature et taxonomie |trans-title=The genus ''Cantharellus'' in Europe. Nomenclature and taxonomy |journal=Bulletin de la Société Mycologique de France |year=2000 |volume=116 |issue=2 |pages=91–137 [129] |language=fr}}</ref>
+
+<ref name="Kyriakou et al. 2009">{{cite journal |last1=Kyriakou |first1=Thomas |last2=Loizides |first2=Michael |last3=Tziakouris |first3=Andreas |title=Rarities and oddities from Cyprus |journal=Field Mycology | volume=10 |issue=3 |year=2009 |doi=10.1016/S1468-1641(10)60600-7 |pages=94–98}}</ref>
+
+}}
+
+{{Taxonbar|from=Q10441848}}
+
+[[Category:Cantharellus|subpruinosus]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 2000]]
+[[Category:Fungi of Europe]]
+[[Category:Fungus species]]

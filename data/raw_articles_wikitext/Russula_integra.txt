@@ -1,0 +1,75 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Russula integra (2).jpg
+| genus = Russula
+| species = integra
+| authority = ([[Carl Linnaeus|L.]]) [[Elias Magnus Fries|Fr.]]
+| synonyms = {{hidden begin|title = List}} 
+* ''Agaricus alutaceus'' var. ''substypticus'' <small>Pers. (1801)</small>
+* ''Agaricus integer'' <small>L. (1753)</small>
+* ''Amanita rubra'' var. ''integer'' <small>(L.) Lam. (1783)</small>
+* ''Amanita integra'' <small>(L.) Roussel (1796)</small>
+* ''Russula adulterina'' <small>(Fr.) Peck (1888)</small>
+* ''Russula alutacea'' f. ''grisella'' <small>Singer (1932)</small>
+* ''Russula alutacea'' subsp. ''integra'' <small>(L.) Singer (1932)</small>
+* ''Russula alutacea'' f. ''pseudo-olivascens'' <small>Singer (1932)</small>
+* ''Russula alutacea'' f. ''purpurella'' <small>Singer (1932)</small>
+* ''Russula fusca'' var. ''oreas'' <small>(Romagn.) Bidaud (1996)</small>
+* ''Russula fusca'' f. ''pseudo-olivascens'' <small>(Singer) Bidaud (1996)</small>
+* ''Russula fusca'' f. ''purpurella'' <small>(Singer) Bidaud (1996)</small>
+* ''Russula gilva'' var. ''lutea'' <small>(P. Karst.) J.E. Lange (1940)</small>
+* ''Russula polychroma'' sensu NCL (1960) <small>Rayner (1985)</small>
+* ''Russula phlyctidospora'' <small>(Romagn.) Bon (1986)</small>
+* ''Russula rubrotincta'' <small>(Peck) Burl. (1915)</small>
+* ''Russula substiptica'' <small>(Pers.) Mussat (1901)</small>
+* ''Russula trimbachii'' f. ''gigas'' <small>(Romagn.) P.-A. Moreau, Carteret & Francini (1999)</small>
+* ''Russulina integra'' <small>(L.) J. Schröt. (1889)</small>
+{{hidden end}}
+}}
+{{Mycomorphbox
+| name = ''{{PAGENAME}}''{{italic title}}
+| hymeniumType = gills
+| capShape = convex
+| capShape2 = depressed
+| whichGills = adnate
+| whichGills2 = free
+| stipeCharacter = bare
+| sporePrintColor = yellow
+| sporePrintColor2 = ochre
+| ecologicalType = mycorrhizal
+| howEdible = edible
+| howEdible2 = caution
+}}
+
+'''''Russula integra''''', [[common name|commonly known]] as the '''entire russula''', is a [[species]] of [[mushroom]]. The fungus stems from the huge genus of ''[[Russula]]''. It is found in [[conifer]] forests across Europe and throughout North America.
+
+The fruiting body is mildly flavoured with a slight cashew-like taste and dense flesh. It is edible when cooked thoroughly and is popular in parts of Europe.
+
+==Description==
+The [[pileus (mycology)|cap]] is almost shaped like a sphere at first, and soon becomes flattened or depressed; it is {{Convert|6-12|cm|abbr=on}} broad.<ref name="museum">{{cite book|last=New York State Museum|url=https://books.google.com/books?id=2ncVAAAAYAAJ&q=russula+integra&pg=RA2-PA93|title=Bulletin of the New York State Museum, Issues 112-117|publisher=The University|year=1907|pages=93}}</ref><ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=110|oclc=797915861}}</ref> The [[cuticle]] is shiny, varies in color, but is usually brown and tinged with violet, purple, yellow, or green. The [[gill (mycology)|gills]] are thick, widely spaced, easily crumbled into small pieces, white at first and then turns bright yellow eventually. The [[stipe (mycology)|stipe]] is thick and white, but stains yellow or [[russet (color)|russet]] with age; it measures {{Convert|5-12|cm|abbr=on}} long and {{Convert|2-3|cm|abbr=on}} thick.<ref name="museum" /><ref name=":0" /> The [[flesh (mycology)|flesh]] is white, very firm, and has a mild flavor.<ref name="Great">{{cite book | last = Polese | first = Jean-Nari |author2=Lamaison, Jean Louis  | title = The Great Encyclopedia of Mushrooms | publisher = Chanterelle Translations, London | year = 1999 | pages = 43 | isbn = 3-8290-1728-6 }}</ref> The [[spore print]] is yellow-[[ochre]], broadly [[Ellipse|elliptical]], and has [[amyloid]] warts.<ref name="comprehensive">{{cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/101/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=Ten Speed Press |year=1986 |isbn=978-0-89815-169-5 |location=Berkeley, CA |pages=101}}</ref>
+
+=== Similar species ===
+''[[Russula mustelina]]'' is similar, with a brown cap, white stalk, yellow spores, and firm flesh.<ref name=":0" />
+
+==Habitat and distribution==
+The species is widely distributed and can commonly be found scattered under [[conifer]]s.<ref name="comprehensive"/> It can commonly be found in [[spruce]] forests or [[fir]] forests in the mountains.<ref name="Great"/> The species is rare in [[New York (state)|New York]] and can be found there in August.<ref name="museum" />
+==Edibility==
+The species has a crunchy [[Surface texture|texture]] and tastes nutty. It is popular to eat in [[Northern Europe|Northern]]<ref name="Great"/> and [[Central Europe]]. In [[Romanian language|Romanian]], the mushroom is called ''pâinişoară'' ("little bread") due to its edibility and perceived taste and texture.<ref>[http://dexonline.ro/search.php?lexemId=40420 DEX Online]</ref> According to [[David Arora]], the species is good when it is young. There are similar-looking species with unknown edibility.<ref name="comprehensive"/>
+
+According to an 1878 study, [[Mushroom poisoning|poisoning]] from this species used to be frequent, but is now rare. The study concluded that long cooking gets rid of its toxic properties, but that rapid culinary processes such as roasting do not.<ref>{{cite book | last = Multiple authors | title = Cyclopædia of the practice of medicine, Volume 17 | publisher = W. Wood and Company | year = 1878 | pages = 941 | url = https://books.google.com/books?id=Y5Mai6k5nC8C&q=russula+integra&pg=PA941 }}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Commons category-inline}}
+
+{{Taxonbar|from=Q901119|from2=Q80648}}
+
+[[Category:Russula|integra]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Edible fungi]]
+[[Category:Fungus species]]
+[[Category:Fungal taxa named by Carl Linnaeus]]
+[[Category:Fungi described in 1753]]

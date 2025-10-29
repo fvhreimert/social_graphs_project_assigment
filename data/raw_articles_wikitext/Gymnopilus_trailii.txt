@@ -1,0 +1,36 @@
+{{Short description|Species of fungus}}
+{{single source|date=October 2025}}
+{{no footnotes|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption = 
+| taxon = Gymnopilus trailii
+| authority = ([[Miles Joseph Berkeley|Berk.]] & [[Mordecai Cubitt Cooke|Cooke]]) [[Rolf Singer|Singer]]
+| synonyms = 
+}}
+{{mycomorphbox
+| name = Gymnopilus trailii
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=}}
+'''''Gymnopilus trailii''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]].
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==External links==
+*''[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=331599 Gymnopilus trailii]'' at [[Index Fungorum]]
+
+{{Taxonbar|from=Q5625027}}
+
+[[Category:Gymnopilus|trailii]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

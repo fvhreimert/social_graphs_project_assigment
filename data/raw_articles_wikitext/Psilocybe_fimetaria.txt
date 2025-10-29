@@ -1,0 +1,81 @@
+{{Short description|Species of fungus}}
+{{More citations needed|date=November 2014}}
+{{Speciesbox
+| image = FimeteriA.jpg
+| genus = Psilocybe
+| species = fimetaria
+| authority = ([[P.D. Orton]]) [[Roy Watling|Watling]] (1967)
+| synonyms_ref = <ref name="urlFungorum synonymy: Psilocybe fimetaria"/>
+| synonyms = *''Stropharia fimetaria'' <small>P.D.Orton (1964)</small>
+}}
+{{mycomorphbox 
+| name = ''Psilocybe fimetaria''
+| whichGills = adnexed 
+| whichGills2 = free
+| capShape = convex
+| capShape2 = umbonate
+| hymeniumType = gills
+| stipeCharacter = cortina
+| ecologicalType = saprotrophic
+| sporePrintColor = blackish-brown
+| sporePrintColor2 = purple
+| howEdible = psychoactive
+}}
+
+'''''Psilocybe fimetaria''''' is a dung-loving mushroom in the genus ''[[Psilocybe]]''. Along with ''[[Psilocybe fuscofulva]]'', it is one of two ''Psilocybe'' mushroom species that has been found to contain no detectable levels of the psychoactive [[tryptamine]]s [[psilocin]], [[psilocybin]], or others. In the case of ''Psilocybe fimetaria'', this may be due to some individual specimens having a very low concentration, or the species actually being a pair of morphologically similar species.<ref>{{cite journal|doi=10.3390/ijms232214068 |doi-access=free |title=Extensive Collection of Psychotropic Mushrooms with Determination of Their Tryptamine Alkaloids |date=2022 |last1=Gotvaldová |first1=Klára |last2=Borovička |first2=Jan |last3=Hájková |first3=Kateřina |last4=Cihlářová |first4=Petra |last5=Rockefeller |first5=Alan |last6=Kuchař |first6=Martin |journal=International Journal of Molecular Sciences |volume=23 |issue=22 |article-number=14068 |pmid=36430546 |pmc=9693126 }}</ref>
+
+==Etymology==
+*From the Latin word 'fime', meaning dung, and the standard Latin suffix '-arius', meaning engaged-in or structured.
+
+==Description==
+
+*'''Cap''': 1.5 — 3.5&nbsp;cm in diameter, papillate to convex, becoming umbonate to broadly convex in age. Surface even to translucent-striate near the margin, viscid when moist from a thick separable gelatinous pellicle. Often velar remnants on surface, typically around the margin. Pale reddish brown to [[ochraceous]], [[hygrophanous]], fading in drying to yellowish olive to ochraceous buff. Flesh whitish to honey colored.
+*'''Gills''': [[Adnation|Adnexed]], free or sinuate. Close, interleaving and [[ventricose]]. Whitish clay at first, eventually dark reddish brown with olivaceous hue, white fimbriate.
+*'''Spore Print''': Dark purple-brown, (9.5)12.5 — 15(16) x 6.5 — 9.5 [[μm]],  ovoid in front view, ellipsoid in side view, thick walled with a broad germ pore.
+*'''Stipe''': 2 – 9&nbsp;cm long by (0.5)2 – 4&nbsp;mm thick. Cylindrical, flexuous, equal but sometimes slightly swollen at the base. Whitish at first, soon discolouring yellow to yellowish brown from handling, reddish brown or honey brown in age, sometimes with distinctive blue tones at the base. Surface covered with whitish fibrils towards the apex, with an apical evanescent fibrillose [[Annulus (mycology)|annulus]] that develops from a thickly cortinate partial veil.
+*'''Odor''': [[Farinaceous]]
+*'''Taste''': [[Farinaceous]]
+*'''Microscopic features''': [[Basidia]] 4-spored. [[Pleurocystidia]] absent. [[Cheilocystidia]] (15)20 — 30(35) by (4)6 — 8(9) [[μm]], [[ventricose]]-[[wikt:fusiform|fusiform]] or lageniform with a narrow neck, often flexuous, 4 — 15 by 0.5 — 1.5 [[μm]], occasionally branched.
+
+
+
+==Habitat and distribution==
+''P. fimetaria'' is found growing solitary to gregariously on horse or cow dung, in grassy areas, from September to November. [[Psilocybe semilanceata]] may be an indicator species for ''P. fimetaria'', as they favour similar grasses, soil types and climatic conditions. It is widely distributed but not very common.
+
+It has been recorded in [[Great Britain]], [[Iceland]] and much of mainland [[Europe]]. Despite what much of the literature states, there have not been confirmed recordings of ''P. fimetaria'' in [[Asia]] or the [[Americas]].
+
+==Similar species==
+''P. fimetaria'' is [[phylogenetically]] a close relative of ''[[Psilocybe liniformans]]''. Not only do they often grow in the same habitat, but they are macroscopically similar. The best way to differentiate the species by testing for the presence of separable gelatinous threads running along the bottom edge of the gills. This feature would indicate ''P. liniformans''.
+
+''[[Deconica coprophila]]'' can also appear similar but can be distinguished by its adnate or subdecurrent gill attachment, less-dense gill spacing and its cap being a deeper red colour.
+
+==Gallery==
+<gallery>
+File:P. fimetaria various stages of development.jpg|''P. fimetaria'' at various stages of development 
+File:Two P. fimetaria dung in heather.jpg|Two ''P. fimetaria'' on dung amongst heather
+File:Single P. fimetaria with sharp papilla.jpg|Single ''P.fimetaria'' with sharp papilla
+File:Two P. fimetaria with P. papilionaceus behind.jpg|Two ''P. fimetaria'' with ''[[Panaeolus papilionaceus]]'' behind
+File:Psilocybe fimetaria spores 1000x.jpg| ''P. fimetaria'' spores 1000x
+</gallery>
+
+==References==
+{{Reflist|refs=
+
+<ref name="urlFungorum synonymy: Psilocybe fimetaria">{{cite web |title=GSD Species Synonymy: ''Psilocybe fimetaria'' (P.D. Orton) Watling |url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=337844 |publisher=Species Fungorum. CAB International |access-date=2014-11-30}}</ref>
+
+}}
+
+==External links==
+*[http://mycologie.catalogne.free.fr/ImagesPagePhotooctobre2007/Psilocybe_fimetaria.jpg Psilocybe fimetaria image]
+* [http://myco-cheype.chez-alice.fr/images/Agaricomycetes/Psilocybe_fimetaria.jpg Psilocybe fimetaria image]
+
+{{Hallucinogenic mushrooms}}
+{{Taxonbar|from=Q7255873}}
+
+[[Category:Entheogens]]
+[[Category:Psychoactive fungi]]
+[[Category:Psilocybe|fimetaria]]
+[[Category:Psychedelic tryptamine carriers]]
+[[Category:Coprophagous organisms]]
+[[Category:Fungus species]]
+[[Category:Taxa named by Peter Orton]]

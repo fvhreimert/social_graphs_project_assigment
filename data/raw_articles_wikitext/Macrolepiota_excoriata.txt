@@ -1,0 +1,32 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Gomba.jpg
+| genus = Macrolepiota
+| species = excoriata
+| authority = ([[Schaeff.]]) Wasser (1978)
+| synonyms = *''Agaricus excoriatus'' <small>Schaeff. (1774)</small>
+}}
+
+'''''Macrolepiota excoriata''''' is a [[mushroom]] in the family [[Agaricaceae]].
+
+==Description==
+The height is {{convert|5|to|15|cm|in|abbr=on}}. The color of the mushroom is white to cream. The [[pileus (mycology)|cap]] is convex to shield shaped,<ref name="Roger">{{cite web | url = http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6382~gid~~source~gallerydefault.asp | title = Macrolepiota excoriata | accessdate = 2010-06-05 | work = Roger's Mushrooms}}</ref> is arched over<!--edges curled under?--> with a raised center, {{convert|6|to|10|cm|in|abbr=on}} in diameter, has a brownish center, and has [[ochre]] yellow to pale brown scales. The [[gill (mycology)|gills]] are white to cream. The [[stipe (mycology)|stipe]] is smooth, cylindrical, has a bulbous base, and has a [[annulus (mycology)|ring]].<ref name="Education" /> The [[spore]]s are smooth, [[hyaline]], and [[ellipsoid]].<ref name="Association">{{cite web | url = http://www.webalice.it/mondellix/Funghi%20M.htm | title = Mushroom EXCOR (Schaeff. Br) Wasser Bubbola minore Smaller bells | accessdate = 2010-06-05 | work = Mycological Association Bresadola Messina Group |language=it}}</ref> The [[spore print]] is white, cream, or yellowish.<ref name="Roger" />  The ring is whitish to white.<ref name="Memento" /> The [[flesh (mycology)|flesh]] is white, [[fibrous]], and does not change color.<ref>{{cite web | url = http://tachenon.com/Fiches/lepiote12.html | title = Parasol mushroom excoriated or small parasol | accessdate = 2010-06-05 |language=fr| work = Tachenon}}</ref> The mushroom is [[saprophytic]].<ref name="Education" /> It is listed as a [[vulnerable species]]. The threat to this species is over-growing of ungrazed and unmowed meadows.<ref>{{cite web | url = http://www.nationalredlist.org/site.aspx?species=21445&pageid=116 | title = Macrolepiota excoriata | accessdate = 2010-06-05 | work = National Red Lists | archive-date = 2011-07-26 | archive-url = https://web.archive.org/web/20110726023901/http://www.nationalredlist.org/site.aspx?species=21445&pageid=116 | url-status = dead }}</ref> The species is similar to ''[[Macrolepiota procera]]'', although the latter is bigger.<ref name="La" />
+
+==Edibility==
+The flesh is white, tender, and has a pleasant taste, best when it is consumed while it is young.<ref name="Education">{{cite web | url = https://www.agraria.org/funghi/lepiotaexcoriata.htm | title = Mushroom EXCOR (Schaeff.: Fr.) Was. Atlante dei funghi - Funghi commestibili e velenosi Atlas of fungi - edible and poisonous mushrooms | accessdate = 2010-06-05 | work = Agriculture Education Online|language=it}}</ref> The flesh tastes like [[hazelnut]].<ref name="Association" /> The odor of the species is weak. The mushroom is similar to numerous toxic species so harvesting them is problematic. It has been advised by the website Memento des champignons (Memento of Fungus) to not collect specimens by roadsides.<ref name="Memento">{{cite web | url = http://mycorance.free.fr/valchamp/champi197.htm| title = Common Name: Parasol mushroom excoriated | language=fr| accessdate = 2010-06-05 | work = Memento des champignons}}</ref> The collection period for the mushroom is from mid-summer to late autumn.<ref name="Memento" />
+
+==Habitat==
+The mushroom can be found in [[North America]] and [[Europe]] and can be found on the ground, in fields, in lawns, or on roadsides.<ref name="Roger" /> The species is common in [[Guernsey]], even though most books say that it is rare in Guernsey.<ref name="La">{{cite web | url = http://www.guernsey.net/~cdavid/botany/files/macrolepiota%20excoriata/ | title = Macrolepiota excoriata | accessdate = 2010-06-05 | work = La Société Guernesiaise}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q2567074}}
+
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1774]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Agaricaceae]]
+[[Category:Taxa named by Jacob Christian Schäffer]]
+[[Category:Fungus species]]

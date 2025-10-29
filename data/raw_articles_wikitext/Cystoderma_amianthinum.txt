@@ -1,0 +1,49 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{Speciesbox
+| image = Amiant-Körnchenschirmling Cystoderma amianthinum.jpg
+| taxon = Cystoderma amianthinum
+| authority = [[Giovanni Antonio Scopoli|(Scop.)]]  [[Victor Fayod|Fayod]] (1889)
+| synonyms = *''Agaricus amianthinus'' <small>Scop. (1772)</small>
+}}
+{{mycomorphbox
+| name = ''Cystoderma amianthinum''
+| whichGills = adnexed
+| capShape = convex
+| capShape2 = umbonate
+| hymeniumType = gills
+| ecologicalType = saprotrophic
+| stipeCharacter = ring
+| sporePrintColor = white
+| howEdible = caution
+}}
+{{stack end}}
+
+'''''Cystoderma amianthinum''''', commonly called the '''common powdercap''',<ref>Siegel, Noah; Schwarz, Christian (September 1, 2024). ''Mushrooms of Cascadia: A Comprehensive Guide to Fungi of the Pacific Northwest''. Humboldt County, CA: Backcountry Press. p. 65. {{ISBN|9781941624197}}.</ref> '''saffron parasol''', the '''saffron powder-cap''', or the '''earthy powder-cap''', is a small orange-ochre, or yellowish-brown, gilled [[mushroom]]. It grows in damp mossy grassland, in [[coniferous forest]] clearings, or on wooded [[Heath (habitat)|heaths]]. It is probably the most common of the small genus ''[[Cystoderma]]''. It is not recommended for consumption due to its resemblance to [[Mushroom poisoning|poisonous]] species.
+
+==Taxonomy==
+''Cystoderma amianthinum'' was first noted by the Italian-Austrian naturalist [[Giovanni Antonio Scopoli]], who called it ''Agaricus amianthinus'' in 1772. The present generic name ''Cystoderma'' was erected by Swiss mycologist [[Victor Fayod]] in 1889, and is roughly translated as 'blistered skin', and is probably a reference to the appearance of the [[cap cuticle|pellicle]] (cap skin).{{citation needed|date=May 2025}}
+
+==Description==
+The [[Pileus (mycology)|cap]] is between {{convert|1|and|5|cm|in|round=0.5|abbr=on}} in diameter,<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=580}}</ref> convex to bell-shaped, and later flat with a slight depression around a low umbo (central boss). It is dry and powdery, often with a shaggy or fringed margin (appendiculate), and is saffron-yellow or orange-ochre. The [[Stipe (mycology)|stem]] is cylindrical, and has a flaky-granular sheath beneath a fleeting, powdery [[Annulus (mycology)|ring]]. The [[Lamella (mycology)|gills]] are white initially, and become creamy later. They are adnexed (narrowly attached to the stem), and initially quite crowded.<ref name=H&R1992>{{cite book| author = Helmut and Renate Grunert  | year = 1992 | title = Field Guide to MUSHROOMS of Britain and Europe | publisher = The Crowood Press Ltd | isbn = 1-85223-592-6| edition = English }}</ref> The [[spore print]] is white.<ref name=Phillips06>{{cite book | author = Roger Phillips | year = 2006  | title = Mushrooms | publisher = Pan MacMillan | isbn = 0-330-44237-6|page=138}}</ref> The [[trama (mycology)|flesh]] is thin and yellowish, with an odor that is unpleasant or resembles husked corn.<ref name=":0">{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=78}}</ref>
+
+A very similar form with a markedly radially wrinkled cap, has been separated by some authors, and given the binomial ''Cystoderma rugoso-reticulatum''.<ref name=H&R1992/> Some forms have a whitish yellow cap.<ref name=":0" />
+
+''[[Cystodermella granulosa]]'' and ''[[Cystodermella cinnabarina]]'' are both redder as a rule, and have adnate gills (broadly attached to the stem).<ref name=Phillips06/>
+
+==Distribution and habitat==
+''Cystoderma amianthinum'' is widespread in Europe and North America, and common in northern [[temperate]] zones. It occurs in mossy woodland, on heaths, amongst grass or bracken, and sometimes with willow.<ref name=T.Laessoe>{{cite book | author = Thomas Laessoe | year = 1998 | title = Mushrooms (flexi bound) | publisher = Dorling Kindersley | isbn = 0-7513-1070-0}}</ref> It is often found on acidic soils.<ref name=C&D1995>{{cite book | author = Regis Courtecuisse and Bernard Duhem  | year = 1995 | title = Mushrooms and Toadstools of Britain and Europe | publisher = Harper Collins | isbn = 0-00-220025-2}}</ref>
+
+==Edibility==
+Eating is not advised as the deadly toxic ''[[Lepiota castanea]]'' is a lookalike.<ref>{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=133–134|oclc=797915861}}</ref><ref>{{cite book|last=Phillips|first=Roger|url=https://archive.org/details/mushroomsotherfu0000phil|title=Mushrooms and Other Fungi of North America|publisher=Firefly Books|year=2010|isbn=978-1-55407-651-2|location=Buffalo, NY|page=[https://archive.org/details/mushroomsotherfu0000phil/page/40 40]|url-access=registration}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q470766}}
+
+[[Category:Agaricaceae]]
+[[Category:Fungi described in 1772]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]

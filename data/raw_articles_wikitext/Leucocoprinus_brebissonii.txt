@@ -1,0 +1,65 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Leucocoprinus_brebissonii.jpg
+| image_caption = Leucocoprinus brebissonii from Florence, Oregon, USA
+| image2 = Leucocoprinus_brebissonii-1.jpg
+| image2_caption = Cap detail
+| genus = Leucocoprinus
+| species = brebissonii
+| authority = ([[Louis-Luc Godey|Godey]]) [[Marcel Locquin|Locq.]] (1943)
+| synonyms_ref = 
+| synonyms = ''Lepiota brebissonii'' <small>[[Louis-Luc Godey|Godey]] (1874)</small><br>
+''Leucocoprinus otsuensis''<small> [[Tsuguo Hongo|Hongo]] (1953)</small><br>
+''Lepiota otsuensis''<small> [[Tsuguo Hongo|Hongo]]</small>
+}}
+{{Mycomorphbox
+| name = ''{{PAGENAME}}''{{italic title}}
+| hymeniumType = gills
+| capShape = campanulate
+| whichGills = free
+| stipeCharacter = ring
+| sporePrintColor = white
+| ecologicalType = saprotrophic
+| howEdible = unknown
+| capShape2 = flat
+}}
+
+'''''Leucocoprinus brebissonii''''', commonly known as the '''gray-eyed dapperling''',<ref>Siegel, Noah; Schwarz, Christian (September 1, 2024). ''Mushrooms of Cascadia: A Comprehensive Guide to Fungi of the Pacific Northwest''. Humboldt County, CA: Backcountry Press. p.&nbsp;67. {{ISBN|978-1-941624-19-7}}</ref> is a species of [[mushroom]] producing [[fungus]] in the family [[Agaricaceae]].<ref>{{Cite web |title=Species fungorum - Leucocoprinus brebissonii (Godey) Locq., Bull. mens. Soc. linn. Soc. Bot. Lyon 12: 95 (1943) |url=http://www.speciesfungorum.org/Names/GSDSpecies.asp?RecordID=287721 |access-date=2022-07-19 |website=www.speciesfungorum.org}}</ref><ref>{{Cite web |title=Mycobank Database - Leucocoprinus brebissonii |url=https://www.mycobank.org/page/Name%20details%20page/name/Leucocoprinus%20brebissonii}}</ref> It is also known as the '''skullcap dapperling''' due to its distinctive pattern on the cap. This mushroom was only thought to be found in Europe but it has since been observed in the [[Pacific Northwest]]<ref>{{cite book |last1=Trudell |first1=Steve |title=Mushrooms of the Pacific Northwest |last2=Ammirati |first2=Joe |publisher=[[Timber Press]] |year=2009 |isbn=978-0-88192-935-5 |location=Portland, OR |page=77}}</ref> and may also be found in Asia.
+== Taxonomy ==
+Its description by the French mycologist [[Louis-Luc Godey]], who classified it as ''Lepiota brebissoni,'' was first published in 1874.''<ref name=":3">{{Cite book |last=Gillet |first=Claude-Casimir |url=https://gallica.bnf.fr/ark:/12148/bpt6k6434815f |title=Les hyménomycètes, ou Description de tous les champignons (fungi) qui croissent en France, avec l'indication de leurs propriétés utiles ou vénéneuses / par C.-C. Gillet... |date=1874 |pages=64 |language=FR |via=gallica.bnf.fr}}</ref>'' It was later reclassified as ''Leucocoprinus brebissonii'' in 1943 by the French mycologist [[Marcel Locquin]].<ref>{{Cite journal |last=Locquin |first=Marcel |date=1943 |title=Étudie du développement des spores du genre Leucocoprinus Pat, (Troisième Partie) suivie de la description d'une espèce nouvelle et d'une espèce critique |url=https://www.persee.fr/doc/linly_0366-1326_1943_num_12_6_9747 |journal=Publications de la Société Linnéenne de Lyon |volume=12 |issue=6 |page=95 |doi=10.3406/linly.1943.9747}}</ref>
+
+In 1953 the Japanese mycologist [[Tsuguo Hongo]] documented a species from [[Ōtsu]], Japan which he classified as ''Leucocoprinus otsuensis'' having previously classified it as ''Lepiota otsuensis''. Hongo noted that the species was very similar to ''L.&nbsp;brebissonii'' but that it could be distinguished from it by the squamules (scales) on the cap.<ref>{{Cite journal |last=Hongo |first=Tsugno |date=March 1953 |title=Larger fungi of the provinces of Omi and Yamashiro |url=http://www.jjbotany.com/pdf/JJB_028_69_75.pdf |journal=The Journal of Japanese Botany |volume=28 |issue=3 |pages=70–72 |via=www.jjbotany.com/}}</ref> These may now be considered synonyms of ''Leucocoprinus brebissonii'' although some sources list ''Lepiota otsuensis'' as the current name.
+
+==Description==
+''Leucocoprinus brebissonii'' is a small, delicate mushroom with thin white [[trama (mycology)|flesh]] that is brittle and prone to splitting at the cap edges.
+
+'''[[Pileus (mycology)|Cap]]:''' 2-3cm wide and starting hemispherical or bulbous before flattening with age with a small dark brownish [[Umbo (mycology)|umbo]] which is often quite shallow. The cap surface can be darker and brownish when young but as it opens the brown colouration breaks up and the surface lightens to white with fine brown scales radiating out from the centre and largely absent towards the edges. Distinct, deep striations or grooves spread from the edges of the cap to around halfway up the surface or almost to the disc. '''[[Lamella (mycology)|Gills:]]''' Free, crowded and white. '''[[Stipe (mycology)|Stem:]]''' 3-7cm tall and 3-6mm thick and roughly equal in thickness across its length or tapering slightly to the base, which can be bulbous but may not be as pronounced as in other ''[[Leucocoprinus]]'' species. The surface is smooth and white but may have a light brownish tint with age. The small, movable stem ring is usually located in the middle or towards the top of the stem however the ring is fragile and often peels away or vanishes. '''[[Spore print]]:''' White. '''[[Basidiospore|Spores:]]''' Ellipsoid to amygdaloid with a [[germ pore]]. Dextrinoid. 8.5-10.5 x 5.5-6.5 μm. '''Smell:''' Indistinct. '''Taste:''' Indistinct.<ref>{{Cite book |last=Buczacki |first=Stefan |title=Collins fungi guide |date=2012 |publisher=Collins |isbn=978-0-00-724290-0 |location=London |oclc=793683235}}</ref><ref name="urlRogers">{{cite web |title=''Leucocoprinus brebissonii'' |author=Phillips, Roger |url=http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6328~gid~~source~gallerydefault.asp |work=Rogers Mushrooms |access-date=2011-05-03 |url-status=dead |archive-url=https://web.archive.org/web/20120823102408/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6328~gid~~source~gallerydefault.asp |archive-date=2012-08-23 }}</ref>''<ref name=":3" />''
+
+==Distribution and habitat==
+''Leucocoprinus brebissonii'' is found in Europe and North America from summer to fall, where it grows in the soil in woods with [[deciduous]] trees.
+
+In 1874 Godey documented ''Lepiota brebissoni'' growing in the [[Cerisy Forest]] of the [[Calvados (department)|Calvados]] region of [[France]] during the summer. He noted that it was solitary and rare.''<ref name=":3" />''
+
+==Edibility==
+Unknown, but suspected to be poisonous.<ref name="urlRogers"/>
+
+==Similar species==
+The species resembles ''Lepiota atrodisca''; the authors of one field guide speculate that ''L. brebissonii'' may have been mistakenly identified as this species, explaining why it was previously overlooked in North America.<ref name="Trudell2009">{{cite book |last1=Trudell |first1=Steve |title=Mushrooms of the Pacific Northwest |last2=Ammirati |first2=Joe |publisher=[[Timber Press]] |year=2009 |isbn=978-0-88192-935-5 |location=Portland, OR |page=77}}</ref>
+
+==References==
+{{Reflist|refs=
+
+}}
+
+==External links==
+*{{IndexFungorum| }}
+*[https://mushroomobserver.org/observer/index_observation?q=4eIb ''Leucocoprinus brebissonii'' observations at Mushroom Observer]
+{{Commons category-inline}}
+
+{{Taxonbar|from=Q6534109}}
+
+[[Category:Fungi described in 1874]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Europe]]
+[[Category:Leucocoprinus]]
+[[Category:Fungus species]]

@@ -1,0 +1,66 @@
+{{Short description|Species of mushroom}}
+{{stack begin}}
+{{Speciesbox
+ | image               = Cortinarius mucosus.jpg
+ | taxon            = Cortinarius mucosus
+ | authority  = ([[Jean Baptiste François Pierre Bulliard|Bull.]]) [[Mordecai Cubitt Cooke|Cooke]] (1867)
+ | synonyms            = *''Agaricus collinitus'' β ''mucosus'' <small>(Bull.) [[Elias Magnus Fries|Fr.]]</small>
+*''Agaricus mucosus'' <small>Bull.</small>
+*''Cortinarius collinitus'' var. ''mucosus'' <small>(Bull.) Fr.</small>
+*''Myxacium mucosum'' <small>(Bull.) [[P.Kumm.]]</small>
+}}
+{{mycomorphbox
+| name = ''Cortinarius mucosus''
+| whichGills = adnexed
+| capShape = conical
+| hymeniumType = gills
+| stipeCharacter = cortina
+| ecologicalType = mycorrhizal
+| sporePrintColor = ochre
+| howEdible = inedible
+}}
+{{stack end}}
+
+'''''Cortinarius mucosus''''', commonly known as the '''orange webcap'''<ref name="urlRogers">{{cite web|url=http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~5419~gid~~source~gallerydefault.asp|title=Roger's Mushrooms – ''Cortinarius mucosus''|access-date=2009-01-19|archive-url=https://web.archive.org/web/20081118014923/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~5419~gid~~source~gallerydefault.asp|archive-date=2008-11-18|url-status=dead}}</ref> or the '''slimy cortinarius''',<ref name=Arora1986>{{Cite book |last=Arora |first=David |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/429/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |year=1986 |orig-date=1979 |edition=2nd |pages=429-30}}</ref> is a species of fungus in the family [[Cortinariaceae]]. In North America, the species is more commonly associated with northern [[conifer]]ous forests.
+
+==Taxonomy==
+Originally [[species description|described]] as ''Agaricus mucosus'' by French mycologist [[Jean Baptiste François Pierre Bulliard|Pierre Bulliard]] in 1792, ''Cortinarius mucosus'' belongs to the subgenus ''Myxacium'' (characterized by the presence of a viscid to glutinous outer veil and stipe), section ''Myxacium'' (distinguished by the presence of [[clamp connection]]s), according to the infrageneric classification of the genus ''[[Cortinarius]]'' proposed by Moser in Singer (1986).<ref name="isbn3-87429-254-1">{{cite book |author=Singer, Rolf |title=The Agaricales in modern taxonomy |publisher=Koeltz Scientific Books |location=Koenigstein |year=1986 |isbn=3-87429-254-1 }}</ref><ref name=Seidl2000>Seidl MT. (2000). Phylogenetic relationships within ''Cortinarius'' subgenus ''Myxacium'', sections ''Defibulati'' and ''Myaxcium''. ''[[Mycologia]]'' '''92'''(6): 1091–1102.</ref>
+
+The [[specific name (botany)|specific epithet]] is derived from the [[Latin language|Latin]] word ''mucosus'', meaning mucus.<ref>{{cite web |url=http://www.etymonline.com/index.php?l=m&p=23 |title=Online Etymology Dictionary |access-date=2009-01-20}}</ref>
+
+==Description==
+The species has a sticky brown to orange [[Pileus (mycology)|cap]], {{convert|4 to 10|cm|frac=4}} in diameter, that is darker towards the center and with a rolled-in margin.<ref name="urlRogers"/> Similar to most species in the genus ''[[Cortinarius]]'', young specimens have a cortina, a cobweb-like [[Annulus (mycology)|annulus]] that protects the developing [[Lamella (mycology)|gills]]. The gills are closely spaced, have an [[Lamella (mycology)|adnexed]] attachment to the [[stipe (mycology)|stipe]], and are pale yellowish at first, becoming rusty brown as the [[spores]] mature.<ref name=Arora1986/> The slimy stipe, {{convert|5 to 15|cm|frac=4|abbr=on}} long by {{convert|1.5 to 2.5|cm|frac=4|abbr=on}} thick,<ref name="urlRogers"/> is whitish until the spores mature and begin falling. The [[spore print]] is rust- to ochre-colored.<ref name="urlRogers"/> Both the odor and the taste of the mushroom are undistinguished.<ref name="isbn0-7153-0129-2"/>
+
+The spores have a rough surface, and an elliptical shape, with dimensions of 12–14 x 5.5–6.5&nbsp;[[μm]]. The [[basidia]] are {{nowrap|4-spored}}, and [[cystidia]] are not present on the edge of the gills.<ref name="isbn0-7153-0129-2">{{cite book |author=Jordan, Michael |title=The encyclopedia of fungi of Britain and Europe |publisher=David & Charles |location=Newton Abbot |year=1995 |page=271 |isbn=0-7153-0129-2 |url = https://books.google.com/books?id=bFMfytLn3bEC&q=Cortinarius+mucosus&pg=PA271}}</ref>
+
+{{gallery|mode=packed
+|P1050690 Cortinarius mucosus.jpg|In youth}}
+
+=== Similar species ===
+''[[Cortinarius vibratilis]]'' has a bitter-tasting cap.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=642}}</ref> ''[[Pholiota velaglutinosa]]'' is usually smaller, with greenish gills.<ref name="audu" />
+
+==Habitat and distribution==
+The species is commonly found under [[birch]] and [[conifer]]ous trees,<ref>[http://www.first-nature.com/fungi/cortinarius-mucosus.php First Nature]</ref> especially pine.<ref name="audu" /> It prefers [[Soil pH|acidic]], sandy soils.<ref name="grzyby">{{cite web |url=http://www.grzyby.pl/gatunki/Cortinarius_mucosus.htm |title=''Cortinarius mucosus'' (zasłonak kleisty) |access-date=2009-01-20}}</ref> It can be found in North America.<ref name="audu" />
+
+== Edibility ==
+Due to the prevalence of [[Mycotoxin|toxins]] and the difficulty of positive identification, consumption of any ''Cortinarius'' species is generally not recommended.<ref name="urlRogers"/><ref name=Arora1986/><ref name="isbn0-7153-0129-2"/> Specimens of ''C.&nbsp;mucosus'' collected from northern [[Poland]] were found to [[bioaccumulate]] higher concentrations of the toxic element [[mercury (element)|mercury]] than the surrounding soil.<ref>Falandysz J, Kawano M, Swieczkowski A, Brzostowski A, Dadej M. (2003). Total mercury in wild-grown higher mushrooms and underlying soil from Wdzydze Landscape Park, Northern Poland. ''Food Chemistry'' '''81'''(1): 21–26.</ref>
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Cortinarius species|List of ''Cortinarius'' species]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://web.archive.org/web/20071106122948/http://morelmushroomhunting.com/cortinarius_mucosus.htm Photos and description]
+
+{{Taxonbar|from1=Q1593907|from2=Q59455747}}
+
+[[Category:Cortinarius|mucosus]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Inedible fungi]]
+[[Category:Fungi described in 1867]]
+[[Category:Taxa named by Jean Baptiste François Pierre Bulliard]]
+[[Category:Fungus species]]

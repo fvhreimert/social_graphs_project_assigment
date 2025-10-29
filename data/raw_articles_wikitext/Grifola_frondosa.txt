@@ -1,0 +1,88 @@
+{{Redirect|Ram's Head|the shoe|pigache|locations with that name|Ram Head (disambiguation){{!}}Ram Head|the military skill badge|Ram's Head Device|the head of the male animal|sheep}}
+{{Speciesbox
+| name = Maitake
+| image = Grifola frondosa (29715305790).jpg
+| image2 = Hen of the Woods (22602103527).jpg
+| taxon = Grifola frondosa
+| authority = ([[Dicks.]]) [[Samuel Frederick Gray|Gray]] (1821)
+| synonyms = *''Boletus frondosus'' <small>Dicks. (1785)</small>
+* ''Polyporus frondosus'' <small>[[Elias Magnus Fries|Fr.]]</small><ref>McIlvaine, Charles; Robert K. Macadam; and Robert L. Shaffer. 1973. ''One Thousand American Fungi''. Dover Publications. New York. 729 pp. (''Polyporus frondosus'', pp. 482-483 & Plate CXXVIII.)</ref>
+}}
+{{mycomorphbox
+| name = ''Grifola frondosa''
+| whichGills = decurrent
+| capShape = offset
+| capShape2 = no
+| hymeniumType = pores
+| stipeCharacter = bare
+| ecologicalType = parasitic
+| sporePrintColor = white
+| howEdible = choice
+| howEdible2 = allergenic
+}}
+'''''Grifola frondosa''''', also known as '''hen-of-the-woods''', '''sheep's head''',<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/564/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=564-65 |orig-date=1979}}</ref> '''ram's head''', or {{nihongo3|"dancing mushroom"|舞茸|'''maitake'''}} in [[Japanese language|Japanese]], is a [[polypore]] mushroom that grows at the base of trees, particularly old growth [[oak]]s or [[maple]]s. It is native to China, Europe, and North America.
+
+It is an [[edible mushroom]] long used in [[East Asian cuisine]] and studied for its potential [[health]] benefits, though no high-quality clinical evidence supports its medicinal use.
+
+==Description==
+Like the [[sulphur shelf]] mushroom, ''G. frondosa'' is a [[perennial]] fungus that often grows in the same place for several years in succession.
+
+''G. frondosa'' grows from an underground [[tuber]]-like structure known as a [[sclerotium]], about the size of a [[potato]].<ref name="Arora1986" /> The fruiting body, individually up to {{Convert|10|cm|frac=4}} across but whole clumps up to {{convert|50|cm|abbr=on}},<ref name="tfb">{{Cite book |last=Francis-Baker |first=Tiffany |title=Concise Foraging Guide |date=2021 |publisher=[[Bloomsbury Publishing|Bloomsbury]] |isbn=978-1-4729-8474-6 |series=[[The Wildlife Trusts]] |location=London |pages=124}}</ref> rarely {{convert|150|cm|in|abbr=on|-1}}, is a cluster consisting of multiple grayish-brown [[Pileus (mycology)|cap]]s which are often curled or spoon-shaped, with wavy margins and {{convert|2-10|cm|in|frac=2|abbr=on}} broad.<ref name="Phillips">{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |publisher=Firefly Books |year=2010 |isbn=978-1-55407-651-2 |location=Buffalo, NY |page=300}}</ref> The undersurface of each cap bears about one to three pores per millimeter, with the tubes rarely deeper than {{convert|3|mm|in|frac=32|abbr=on}}.<ref name=Phillips/> The cream-coloured [[Stipe (mycology)|stipe]] (stalk) has a branchy structure<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=263}}</ref> and becomes tough as the mushroom matures.{{citation needed|date=December 2019}}<ref>{{Cite book |last=McIlvaine |first=Charles |title=One Thousand American Fungi |last2=Macadam |first2=Robert |publisher=Dover Publications, Inc |year=1973 |isbn=0486227820 |location=New York |pages=483 |language=en}}</ref>
+
+In [[Japan]], the {{Transliteration|ja|maitake}} can grow to more than {{convert|100|lb|kg|abbr=off|order=flip}}.
+
+<gallery mode="packed" widths="100px" heights="100px">
+File:Klapperschwamm.jpg
+File:Maitake mushroom.jpg|Close-up
+File:Grifola frondosa cross-section.jpg|Cross-section
+File:Grifola frondosa 2014 G3.jpg|From [[Vinnytsia Raion]], [[Ukraine]]
+</gallery>
+
+===Similar species===
+''G. frondosa'' is a very distinct mushroom except for its cousin, the black staining mushroom, which is similar in taste but rubbery. Edible species which look similar to ''G.&nbsp;frondosa'' include ''[[Meripilus sumstinei]]'' (which stains black), ''[[Sparassis|Sparassis spathulata]]''<ref>{{cite book |last=Meuninck |first=Jim |title=Foraging Mushrooms Oregon: Finding, Identifying, and Preparing Edible Wild Mushrooms |date=2017 |publisher=[[Falcon Guides]] |isbn=978-1-4930-2669-2 |page=114}}</ref> and ''[[Laetiporus sulphureus]]'', another edible [[bracket fungus]] that is commonly called [[chicken of the woods]] or "sulphur shelf". ''[[Polyporus umbellatus]]'' has distinct roundish caps.<ref name="audu" />
+
+==Distribution and habitat==
+It is native to [[China]], Europe (August to October),<ref name="tfb" /> and eastern North America<ref>{{Cite book |last1=Meuninck |first1=Jim |url=https://books.google.com/books?id=ldXRCQAAQBAJ&pg=PA14 |title=Jim Meuninck - Basic Illustrated Edible and Medicinal Mushrooms, pp. 13-14, Rowman & Littlefield, 1 Jun 2015 |date=2015-06-01 |publisher=Rowman & Littlefield |isbn=9781493014682 |access-date=27 April 2017}}</ref> (from September to October).<ref name="audu" />
+
+It occurs most prolifically in eastern North America, but has been found as far west as [[Idaho]].<ref name="Arora1986" />
+
+==Uses==
+The species is a choice [[edible mushroom]],<ref name="Miller 2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuides]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=420|author-link=Orson K. Miller Jr.}}</ref> especially the young caps when [[slow cooked]], although some may be allergic to it.<ref name="Arora1986" /> The softer caps must be thoroughly cooked.<ref name="Phillips" /> It can also be pickled.<ref name="Arora1986" />
+
+Maitake has been consumed for centuries in China and Japan<ref name="drugs">{{cite web |date=2 September 2019 |title=Maitake, ''Grifola frondosa'' |url=https://www.drugs.com/npp/maitake.html |access-date=19 December 2019 |publisher=Drugs.com}}</ref> where it is one of the major culinary mushrooms.{{citation needed|date=December 2019}} The mushroom is used in many Japanese dishes, such as ''[[nabemono]]''.{{citation needed|date=December 2019}}
+
+<gallery mode="packed" widths="160px" heights="160px">
+File:Maitake Mushroom Tempura 2021 Grifola frondosa 舞茸の天ぷら.jpg|Maitake [[tempura]]
+File:Maitake rice (4348648458).jpg|In ''[[takikomi gohan]]''
+File:Maitake soba noodle (5539374215).jpg|With [[soba]] noodles
+</gallery>
+
+=== Research ===
+Although under [[basic research|laboratory]] and preliminary [[clinical research]] for many years, particularly for the possible biological effects of its [[polysaccharide]]s, there are no [[evidence-based medicine|completed, high-quality Phase III clinical studies]] for the species {{as of|2019|lc=y}}.<ref name="drugs" /><ref name="msk">{{cite web |date=2019 |title=Maitake |url=https://www.mskcc.org/cancer-care/integrative-medicine/herbs/maitake |access-date=19 December 2019 |publisher=Memorial Sloan Kettering Cancer Center}}</ref>
+
+There are reviews of D-faction extracted from Maitake, including completed Phase I/II [[clinical trial]] demonstrating that "Treatment with sulfated polysaccharide obtained from Grifola frondosa (S-GFB) resulted in apoptosis of HepG2 cells", and "In a phase I/II trial of breast cancer survivors, Grifola frondosa extract acted as an immunomodulator." Same trial has concluded: "There appears to be no “maximum dose”, only “optimal dose” depending on the immunologic endpoint."[https://pmc.ncbi.nlm.nih.gov/articles/PMC3751581/]
+
+== See also ==
+* [[Medicinal fungi]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Commons category-inline}}
+
+{{Medicinal herbs & fungi}}
+{{Taxonbar|from=Q1165686}}
+{{Authority control}}
+
+[[Category:Edible fungi]]
+[[Category:Experimental cancer treatments]]
+[[Category:Fungi in cultivation]]
+[[Category:Fungi described in 1785]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Medicinal fungi]]
+[[Category:Meripilaceae]]
+[[Category:Taxa named by James Dickson (botanist)]]
+[[Category:Fungus species]]
+[[Category:Fungi used for fiber dyes]]

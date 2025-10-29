@@ -1,0 +1,88 @@
+{{Short description|Species of fungus}}
+{{Use dmy dates|date=January 2025}}
+{{Speciesbox
+| image = Boletus rubripes.jpg
+| image_caption =
+| taxon = Caloboletus rubripes
+| authority = (Thiers) Vizzini
+| synonyms_ref =
+| synonyms = *''Boletus rubripes'' <small>Thiers (1965)</small>
+}}
+{{Mycomorphbox
+| name = ''Caloboletus rubripes''
+| capShape = convex
+| hymeniumType = pores
+| whichGills = adnate
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = olive-brown
+| howEdible = inedible
+}}
+
+'''''Caloboletus rubripes''''', commonly known as the '''red-stemmed bitter bolete'''<ref name="Arora 1986"/> or the '''red-stipe bolete''', is a species of fungus in the family [[Boletaceae]]. It was known as ''Boletus rubripes'' until 2014.
+
+The [[Basidiocarp|fruit bodies]] (mushrooms) are robust, with [[pileus (mycology)|caps]] up to {{convert|18|cm|abbr=on|frac=2}} in diameter, atop thick [[stipe (mycology)|stipes]] {{convert|5-12|cm|abbr=on|frac=4}} long. The [[trama (mycology)|flesh]] has a very strong bluing reaction when cut or damaged. It can be differentiated from similar [[bolete]]s by its cap color and non-reticulate stipe.
+
+It forms [[mycorrhiza]]l relationships, primarily with [[conifer]]s. The mushrooms are non-toxic, but are so bitter as to be inedible.
+
+==Taxonomy==
+The species was first [[species description|described]] scientifically by American mycologist [[Harry D. Thiers]] in 1965, based on collections he made in [[Jackson Demonstration State Forest|Jackson State Forest]], [[Mendocino County]], [[California]], in late October 1962.<ref name="Thiers 1965"/> It is [[common name|commonly]] known as the "red-stipe bolete"<ref name="Tylutki II 1987"/> or the red-stemmed bitter bolete.<ref name="Arora 1986"/> It was transferred to ''[[Caloboletus]]'' by Italian mycologist Alfredo Vizzini in 2014,<ref name="Vizzini 2014"/> following recent [[molecular phylogenetics|molecular]] studies that outlined a new [[phylogenetic]] framework for the Boletaceae.<ref name="Nuhn 2013"/><ref name="Wu 2014"/>
+
+==Description==
+
+
+The [[pileus (mycology)|cap]] is convex to cushion-shaped, before flattening out in maturity, attaining diameters of {{convert|4–20|cm|abbr=on|frac=8}}.<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=325|oclc=797915861}}</ref> The cap margin is rolled or curved inward and remains that way until maturity. Its surface is dry, with a velvet-like to slightly hairy texture. It often develops cracks in age. The cap color is variable, ranging from buff to olive-buff to olive-brown; it stains brown when bruised or injured. The [[trama (mycology)|flesh]] is whitish to pale yellow, and will quickly turn blue when cut or exposed to air. The odor of the fruit body ranges from indistinct to unpleasant, and its taste is bitter. The pore surface on the underside of the cap is initially yellow before turning olive-yellow in age; it instantly turns blue when bruised. The angular pores number about 1–3 per millimeter and the tubes comprising the [[hymenophore]] are {{convert|8–16|mm|1|abbr=on|frac=8}} long.
+
+The [[stipe (mycology)|stem]] measures {{convert|5–15|cm|abbr=on|frac=8}} long by {{convert|2–5|cm|1|abbr=on|frac=8}} wide, and either nearly equal in width throughout, clavate,<ref name=":0" /> or tapered slightly towards either end. The stem is solid (i.e., not hollow), and has a dry surface with slight longitudinal grooves. Its color is pinkish-red to purple-red except for a yellow region near the top and yellow [[mycelium]] at the base. The stem lacks reticulation or a [[annulus (mycology)|ring]].<ref name="Bessette 2000" />
+
+''Caloboletus rubripes'' produces an olive-brown [[spore print]]. The [[Basidiospore|spores]] are somewhat spindle-shaped to somewhat cylindrical, smooth, and measure 12–18 by 4–5&nbsp;[[μm]].<ref name="Bessette 2000"/> The [[basidia]] (spore-bearing cells) are club shaped, four-spored, and measure 26–30 by 7–13&nbsp;μm. There are no [[clamp connection]]s in the hyphae.<ref name="Thiers 1965"/>
+
+===Similar species===
+Somewhat similar in appearance is ''[[Caloboletus calopus]]'', which also has a red and yellow stipe, and a dry tan-colored cap. Unlike ''C.&nbsp;rubripes'', it has a finely reticulate stipe.<ref name="Davis 2012"/> ''[[Boletus coniferarum]]'' is distinguished from ''C.&nbsp;rubripes'' by its stem reticulation and by the absence of red coloration.<ref name="Tylutki II 1987"/> Other similar species include ''[[Boletus edulis]]''<ref name=":0" /> and ''B. smithii''.<ref>{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=218–219}}</ref>
+
+==Habitat and distribution==
+The fruit bodies grow on the ground singly, scattered, or in clusters. They are usually found in [[conifer]]ous forests, but also in association with [[oak]].<ref name="Bessette 2000"/> Found in North America, the distribution includes the [[Pacific Northwest]] region of the US (including [[Idaho]]),<ref name="Smith 1975"/> the southwestern US, and Mexico. They are particularly common in [[New Mexico]] and [[Colorado]].<ref name="Bessette 2000"/> Fruit bodies typically appear in the summer and fall.<ref name="Arora 1986"/> [[Alexander H. Smith|Alexander Smith]] has noted that they often appear with ''C.&nbsp;coniferarum'' and ''C.&nbsp;calopus''.<ref name="Smith 1975"/>
+
+==Uses==
+The mushrooms are [[edible mushroom|inedible]] owing to the bitter taste.<ref name="Bessette 2000" /> They are used in [[mushroom dye]]ing to produce beige, light brown or light golden brown colors, depending on the [[mordant]] used.<ref name="Bessette 2001" />
+
+==See also==
+{{Portal|Fungi}}
+*[[List of North American boletes]]
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Arora 1986">{{cite book |author=Arora D. |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/524/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, California |year=1986 |orig-date=1979 |edition=2nd |pages=524}}</ref>
+
+<ref name="Bessette 2000">{{cite book |title=North American Boletes |vauthors=Bessette AE, Roody WC, Bessette AR |year=2000 |publisher=Syracuse University Press |location=Syracuse, New York |isbn=978-0-8156-0588-1 |pages=153–4}}</ref>
+
+<ref name="Bessette 2001">{{cite book |vauthors=Bessette A, Bessette AR |title=The Rainbow Beneath my Feet: A Mushroom Dyer's Field Guide |publisher=Syracuse University Press |location=Syracuse, New York |year=2001 |pages=41–2 |isbn=0-8156-0680-X |url=https://books.google.com/books?id=1WbvR2PwKcIC&pg=PA49}}</ref>
+
+<ref name="Davis 2012">{{cite book |vauthors=Davis RM, Sommer R, Menge JA |title=Field Guide to Mushrooms of Western North America |year=2012 |publisher=University of California Press |isbn=978-0-520-95360-4 |page=325 |url=https://books.google.com/books?id=obp7jddvjt4C&pg=PA325}}</ref>
+
+<ref name="Nuhn 2013">{{cite journal |vauthors=Nuhn ME, Binder M, Taylor AF, Halling RE, Hibbett DS |title=Phylogenetic overview of the Boletineae |journal=Fungal Biology |year=2013 |volume=117 |issue=7–8 |pages=479–511 |doi=10.1016/j.funbio.2013.04.008 |pmid=23931115}}</ref>
+
+<ref name="Smith 1975">{{cite book |author=Smith AH |title=A Field Guide to Western Mushrooms |publisher=University of Michigan Press |location=Ann Arbor, Michigan |year=1975 |page=84 |isbn=0-472-85599-9}}</ref>
+
+<ref name="Thiers 1965">{{cite journal |author=Thiers HD |title=California boletes. I |journal=Mycologia |year=1965 |volume=57 |issue=4 |pages=524–34 |jstor=3756729 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0057/004/0524.htm |doi=10.2307/3756729|url-access=subscription }}</ref>
+
+<ref name="Tylutki II 1987">{{cite book |author=Tylukti EE |title=Mushrooms of Idaho and the Pacific Northwest. Vol. 2. Non-gilled Hymenomycetes |year=1987 |publisher=The University of Idaho Press |location=Moscow, Idaho |pages=29–30 |isbn=0-89301-097-9}}</ref>
+
+<ref name="Vizzini 2014">{{cite journal |author=Vizzini A. |title=Nomenclatural novelties |journal=Index Fungorum |issue=146 |date=10 June 2014 |issn=2049-2375 |pages=1–2 |url=http://www.indexfungorum.org/Publications/Index%20Fungorum%20no.146.pdf}}</ref>
+
+<ref name="Wu 2014">{{cite journal |vauthors=Wu G, Feng B, Xu J, Zhu XT, Li YC, Zeng NK, Hosen MI, Yang ZL |title=Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae |journal=Fungal Diversity |year=2014 |volume=69 |issue=1 |pages=93–115 |doi=10.1007/s13225-014-0283-8|s2cid=15652037 }}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|550552}}
+
+{{Taxonbar|from=Q41632318}}
+
+[[Category:Caloboletus|rubripes]]
+[[Category:Fungi described in 1965]]
+[[Category:Fungi of North America]]
+[[Category:Inedible fungi]]
+[[Category:Fungus species]]
+[[Category:Taxa named by Harry Delbert Thiers]]

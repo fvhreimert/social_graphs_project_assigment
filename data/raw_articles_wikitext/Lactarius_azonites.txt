@@ -1,0 +1,19 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = 2012-10-09 Lactarius azonites (Bull.) Fr 270575.jpg
+| genus = Lactarius
+| species = azonites
+| authority = (Bull.) Fr., 1838
+}}
+
+'''''Lactarius azonites''''' is a species of [[fungus]] belonging to the family [[Russulaceae]].<ref name="Mycobank">{{cite web |title=Lactarius_azonites |url=https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/356888 |website=www.mycobank.org |access-date=24 January 2021}}</ref>
+
+It is native to [[Europe]] and [[Northern America]].<ref name="GBIF">{{cite web |title=Lactarius azonites (Bull.) Fr. |url=https://www.gbif.org/species/5248589 |website=www.gbif.org |access-date=24 January 2021 |language=en}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q1470866}}
+
+[[Category:Lactarius|azonites]]
+[[Category:Fungus species]]

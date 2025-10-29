@@ -1,0 +1,40 @@
+{{Short description|Species of fungus}}
+{{single source|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption =
+| genus = Gymnopilus
+| species = aromaticus
+| authority = [[William Alphonso Murrill|Murrill]]
+| synonyms =
+}}
+{{Mycomorphbox
+| name = ''Gymnopilus aromaticus''
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=}}
+
+'''''Gymnopilus aromaticus''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]]. It was first described by American mycologist [[William Alphonso Murrill|Murrill]] in 1917.<ref>{{cite journal |author=Murrill WA. |year=1917 |title=''Gymnopilus'' |journal=North American Flora |volume=10 |pages= 193–215}}</ref>
+
+==See also==
+* [[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=239842 Index Fungorum]
+
+{{Taxonbar|from=Q5624722}}
+
+[[Category:Gymnopilus|aromaticus]]
+[[Category:Taxa named by William Alphonso Murrill]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

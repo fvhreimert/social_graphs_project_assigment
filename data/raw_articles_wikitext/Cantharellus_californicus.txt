@@ -1,0 +1,68 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Cantharellus californicus 81770.jpg
+| genus = Cantharellus
+| species = californicus
+| authority = [[David Arora|Arora]] & Dunham (2008)<ref name=AroraDunham/>
+}}
+{{mycomorphbox 
+| name= ''Cantharellus californicus''
+| whichGills=decurrent 
+| capShape=infundibuliform 
+| hymeniumType=ridges
+| stipeCharacter=bare
+| ecologicalType=mycorrhizal
+| sporePrintColor=yellow
+| sporePrintColor2=
+| howEdible=choice
+}}
+
+'''''Cantharellus californicus''''', also called the '''California golden chanterelle''',<ref name=":1">{{Cite web |title=California AB261 {{!}} 2023-2024 {{!}} Regular Session |url=https://legiscan.com/CA/text/AB261/id/2653093 |access-date=2023-12-11 |website=LegiScan |language=en}}</ref> '''mud puppy''', or '''oak chanterelle''', is a [[fungus]] native to [[California]], United States.<ref name=kuo09/> It is a member of the genus ''[[Cantharellus]]'' along with other popular edible [[chanterelle]]s. It is generally similar in appearance to ''[[Cantharellus cibarius|C.&nbsp;cibarius]]'' and ''[[Cantharellus formosus|C.&nbsp;formosus]]'' except for its large size at maturity.
+
+==Description==
+
+
+The [[pileus (mycology)|pileus]] (cap) of ''C.&nbsp;californicus'' is {{convert|5|–|30|cm|in|round=0.5}} wide,<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=270–272|oclc=797915861}}</ref> exceptionally {{convert|50|cm|in|abbr=on}}, and yellow-orange in color (although adhering leaf litter may cause a mottled color); it may become brownish with age. The [[hymenium]] is folded into [[decurrent]] ridges (false gills) and cross-veins, which deepen with age. The color of these ridges is usually similar to the cap but paler. The [[stipe (mycology)|stipe]] (stem) is {{convert|2-10|cm|abbr=on|frac=4}} long and {{convert|1-4|cm|abbr=on|frac=4}} wide,<ref name=":0" /> with coloration similar to the hymenium.<ref name=AroraDunham/> The [[Basidiospore|spores]] are creamy yellow, elliptical, and smooth.<ref name=":0" />
+
+individual specimens up to {{convert|2|kg|lb}} are reported, making it the largest-known species of chanterelle.<ref name="AroraDunham" />  Their unusual size is due in part to their capacity for [[indeterminate growth]], making ''C.&nbsp;californicus'' specimens actively grow for far longer than most other mushrooms.<ref name="BAMS" />
+
+=== Similar species ===
+Several other species of chanterelle may be found in western North America:
+*''[[Cantharellus cascadensis|C. cascadensis]]''<ref name=":0" /> – bright yellow fading to white in center of cap, associated with conifers
+*''[[Cantharellus cibarius|C. cibarius]]'' var. ''roseocanus''<ref name=":0" /> – false gills tend to be as dark or darker than cap
+*''[[Cantharellus formosus|C. formosus]]''<ref name=":0" /> – smaller size, narrower stem, associated with conifers
+*''[[Cantharellus subalbidus|C. subalbidus]]'' – whitish overall color
+
+Additionally, ''[[Hygrophoropsis aurantiaca]]'', ''[[Chroogomphus|Chroogomphus tomentosus]]'', and species in the genera ''[[Craterellus]]'', ''[[Gomphus (fungus)|Gomphus]]'', ''[[Omphalotus]]'', and ''[[Polyozellus]]'' may have a somewhat similar appearance to ''C.&nbsp;californicus''. ''[[Omphalotus olivascens]]'', the western jack-o'-lantern mushroom, is poisonous and has been mistaken for chanterelles.
+
+==Distribution and habitat==
+''Cantharellus californicus'' forms a [[mycorrhizal]] association with [[Quercus|oak]]s, particularly [[Quercus agrifolia|coast live oak]] in the [[California oak woodland|woodland]]s of [[Coastal California]]. It has also been found in association with [[Quercus wislizeni|interior live oak]], [[Quercus kelloggii|California black oak]], [[Quercus chrysolepis|canyon live oak]], [[Lithocarpus densiflorus|tanoak]], and possibly [[Arbutus menziesii|Pacific madrone]] and [[Arctostaphylos|manzanita]].<ref name=AroraDunham/> ''C.&nbsp;californicus'' is a popular wild edible in the [[San Francisco Bay Area]], and is most common between November and April.<ref name=AroraDunham/><ref name=perry08/>
+
+==In culture==
+It became the official state mushroom of California in 2024.<ref>{{Cite web |date=2023-12-23 |title=Meet the Golden Chanterelle, CA's new official state mushroom starting 2024 |url=https://abc7news.com/california-state-mushroom-golden-chanterelle-cantharellus-californicus-largest-in-the-world/14219460/ |access-date=2024-03-09 |website=ABC7 San Francisco |language=en}}</ref>
+
+==References==  
+{{Reflist|refs=
+
+<ref name=AroraDunham>{{citation |author-link=David Arora |last1=Arora |first1=D. |first2=S. M. |last2=Dunham |year=2008 |url=http://www.davidarora.com/uploads/arora_dunham_chanterelles.pdf |title=A New, Commercially Valuable Chanterelle Species, ''Cantharellus californicus sp. nov.'', Associated with Live Oak in California, USA |periodical=Economic Botany |volume=62 |issue=3 |pages=376–391 |doi=10.1007/s12231-008-9042-7 |bibcode=2008EcBot..62..376A |s2cid=19220345 |access-date=2010-09-12 |archive-date=2018-12-22 |archive-url=https://web.archive.org/web/20181222203750/http://www.davidarora.com/uploads/arora_dunham_chanterelles.pdf |url-status=dead }}</ref>
+
+<ref name=kuo09>{{citation |last=Kuo |first=M. |date=February 2009 |url=http://www.mushroomexpert.com/cantharellus_californicus.html |title=''Cantharellus californicus'' |publisher=MushroomExpert.com |accessdate=13 September 2010}}</ref>
+
+<ref name=perry08>{{citation |last=Perry |first=B. A. |date=December 2008 |url=http://www.mykoweb.com/articles/OldFriendNewName.html |title=An Old Friend Gets a New Name |periodical=Mycena News |publisher=[[Mycological Society of San Francisco]] |accessdate=13 September 2010}}</ref>
+
+<ref name=BAMS>{{citation |last=Viess |first=Debbie |url=http://www.bayareamushrooms.org/mushroommonth/chanterelle.html |title=Cantharellus californicus: California's Giant, Oak-Loving Golden Chanterelle |publisher=Bay Area Mycological Society |accessdate=8 May 2011}}</ref>
+
+}}
+
+==External links==
+*{{Commons category-inline}}
+
+{{Taxonbar|from=Q2936589}}
+
+[[Category:Cantharellus|californicus]]
+[[Category:Edible fungi of California]]
+[[Category:Fungi described in 2008]]
+[[Category:Fungi without expected TNC conservation status]]
+[[Category:Fungus species]]
+[[Category:Mycorrhizal associates of oaks]]
+[[Category:Symbols of California]]

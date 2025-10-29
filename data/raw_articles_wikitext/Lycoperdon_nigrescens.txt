@@ -1,0 +1,52 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Lycoperdon nigrescens - Lindsey.jpg
+| image_caption = A similar species. ''L.&nbsp;nigrescens'' is darker between the spines.
+| genus = Lycoperdon
+| species = nigrescens
+| authority = [[Göran Wahlenberg|Wahlenb.]] (1794)
+| synonyms_ref = 
+| synonyms = ''Lycoperdon foetidum'' <small>Bonord.</small>
+}}
+{{mycomorphbox
+| name = ''Lycoperdon nigrescens''
+| whichGills = no
+| capShape = no
+| hymeniumType = gleba
+| stipeCharacter = NA
+| ecologicalType = saprotrophic
+| sporePrintColor = olive
+| howEdible = unknown
+}}
+
+'''''Lycoperdon nigrescens''''', with the synonym '''''Lycoperdon foetidum''''', commonly known as the '''dusky puffball''',<ref name="Phillips 2013"/> is a type of [[puffball]] mushroom in the genus ''[[Lycoperdon]]''. It was first [[species description|described]] scientifically in 1794 by the Swedish naturalist [[Göran Wahlenberg]].<ref name="urlMycoBank: Lycoperdon nigrescens"/>
+
+The fruit body grows up to {{Convert|6|cm|frac=4}} tall and {{Convert|4|cm|abbr=on|frac=4}} wide.<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/692/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, California |pages=692-93 |orig-date=1979}}</ref> The caps are shaped somewhat like pears, with spines ranging in brightness, which later break off.<ref name=":0">{{cite book |last1=Trudell |first1=Steve |url=https://books.google.com/books?id=WevHvt6Tr8kC |title=Mushrooms of the Pacific Northwest |last2=Ammirati |first2=Joe |publisher=Timber Press |year=2009 |isbn=978-0-88192-935-5 |series=Timber Press Field Guides |location=Portland, OR |pages=269 |language=en}}</ref> The surface is dark between the spines. The stipe has thin strands coming from its base.<ref name=":0" /> Visually similar to other species when young, it grows increasingly darker with age and lacks the pronounced stipe that old ''[[Lycoperdon perlatum]]'' specimens attain.<ref name="Matchmaker" />
+
+It appears from summer to fall in both [[conifer]] and [[hardwood]] forests, in addition to alpine areas.<ref name=":0" /> Its edibility is unknown, but related puffballs are edible in youth, when still firm and white inside.<ref name="Arora1986" />
+
+==References==
+{{Reflist|refs=
+
+<ref name="Phillips 2013">{{cite book |author=Phillips R. |title=Mushrooms: A Comprehensive Guide to Mushroom Identification |url=https://books.google.com/books?id=nRKwAAAAQBAJ&pg=PA330 |year=2013 |publisher=Pan Macmillan |isbn=978-1-4472-6402-6 |page=330}}</ref>
+
+<ref name="urlMycoBank: Lycoperdon nigrescens">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=218442 |title=''Lycoperdon nigrescens'' Wahlenb. 1794 |publisher=MycoBank. International Mycological Association |accessdate=2014-07-13}}</ref>
+
+<ref name="Matchmaker">{{cite web |url=http://s158336089.onlinehome.us/Ian/MatchMaker231HD.htm |title="Matchmaker Mushroom Identification"  |year=2019}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|218442}}
+
+{{Taxonbar|from1=Q1614935|from2=Q81185542}}
+
+[[Category:Fungi described in 1794]]
+[[Category:Fungi of Europe]]
+[[Category:Puffballs]]
+[[Category:Lycoperdon|nigrescens]]
+[[Category:Taxa named by Göran Wahlenberg]]
+[[Category:Fungus species]]
+
+
+{{Agaricaceae-stub}}

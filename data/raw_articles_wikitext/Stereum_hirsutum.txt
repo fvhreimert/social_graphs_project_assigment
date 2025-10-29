@@ -1,0 +1,64 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Striegeliger Schichtpilz-Stereum hirsutum-20191216-RM-150832.jpg
+| genus = Stereum
+| species = hirsutum
+| authority = ([[Willd.]]) [[Pers.]] (1800)
+| synonyms = ''Helvella acaulis'' <small>Pers. (1778)</small><br />
+''Auricularia reflexa'' <small>Bull. (1786)</small><br />
+''Thelephora hirsuta'' <small>Willd. (1787)</small><br />
+''Boletus auriformis'' <small>Bolton (1788)</small><br />
+''Auricularia aurantiaca'' <small>Schumach. (1803)</small><br />
+''Thelephora reflexa'' <small>(Bull.) Lam. & DC. (1805)</small><br />
+''Stereum hirsutum var. cristulatum'' <small>Quél. (1872)</small><br />
+''Stereum reflexum'' <small>(Bull.) Sacc. (1916)</small>
+}}{{Mycomorphbox
+| name = ''{{PAGENAME}}''{{italic title}}
+| hymeniumType = smooth
+| capShape = offset
+| whichGills = decurrent
+| stipeCharacter = NA
+| sporePrintColor = white
+| ecologicalType = saprotrophic
+| howEdible = inedible
+| ecologicalType2 = parasitic
+| capShape2 = no
+}}
+'''''Stereum hirsutum''''', commonly known as the '''false turkey tail''',<ref>Thomas J. Volk. 2016 |[http://botit.botany.wisc.edu/toms_fungi/nov2000.html Tom Volk's Fungus of the Month for November 2000.]</ref> '''hairy stereum''',<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/605/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=605–607 |orig-date=1979}}</ref> or '''hairy curtain crust''',<ref>{{cite journal |last1=Grass |first1=Josephine |last2=Pabst |first2=Martin |last3=Kolarich |first3=Daniel |last4=Pöltl |first4=Gerald |last5=Léonard |first5=Renaud |last6=Brecker |first6=Lothar |last7=Altmann |first7=Friedrich |title=Discovery and Structural Characterization of Fucosylated Oligomannosidic -Glycans in Mushrooms |journal=Journal of Biological Chemistry |date=25 February 2011 |volume=286 |issue=8 |pages=5977–5984 |doi=10.1074/jbc.M110.191304 |pmid=21169363 |pmc=3057827 |doi-access=free }}</ref> is a species of fungus and a [[plant pathogen]] that infects coniferous and deciduous trees.
+
+==Description==
+
+The fuzzy orangish fruiting bodies typically form in multiple brackets on dead wood.<ref name="Arora1986" /> The [[Pileus (mycology)|cap]] is {{Convert|1–5|cm|frac=8}} wide,<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=311–312|oclc=797915861}}</ref> sometimes fused to form wider shelves.<ref name="Arora1986" /> The flesh is thin and tough.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=166}}</ref> The spores and [[spore print]] are white.<ref name=":0" /><ref name="audu" />
+
+It is inedible.<ref name=":0" />
+
+=== Similar species ===
+Similar species include ''[[Stereum rameale]]'', ''[[Stereum ostrea|S.&nbsp;ostrea]]'', and ''[[Trametes versicolor]]''.<ref name=":0" /><ref name="audu" />
+
+==Habitat and distribution==
+Its [[Substrate (biology)|substrates]] include dead limbs and trunks of both hardwoods and [[conifer]]s.<ref>USDA. 2009 [http://nt.ars-grin.gov/fungaldatabases/new_allView.cfm?whichone=Nomenclature&thisName=Stereum%20hirsutum&fromallCount=true&organismtype=Fungus USDA Fungal Database: ''Stereum hirsutum database'']{{Dead link|date=June 2018 |bot=InternetArchiveBot |fix-attempted=no }}</ref>
+
+It is found throughout North America.<ref name="audu" />
+
+==Ecology==
+It is a [[plant pathogen]] infecting [[peach]] trees. ''S.&nbsp;hirsutum'' is itself parasitised by species such as the fungus ''[[Tremella aurantia]]''.<ref>C. Michael Hogan.[http://globaltwitcher.auderis.se/artspec_information.asp?thingid=50127 ''Witch's Butter: Tremella mesenterica'', GlobalTwitcher.com, ed; N. Stromberg] {{Webarchive|url=https://web.archive.org/web/20120921064833/http://globaltwitcher.auderis.se/artspec_information.asp?thingid=50127 |date=2012-09-21 }} 2009</ref><ref>Species Fungorum. 2009. [http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=189826 Synonymy: ''Stereum hirsutum'']</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Commons-inline|Stereum hirsutum|''Stereum hirsutum''}}
+
+{{Taxonbar|from=Q557377}}
+
+[[Category:Fungal tree pathogens and diseases]]
+[[Category:Stone fruit tree diseases]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi described in 1787]]
+[[Category:Inedible fungi]]
+[[Category:Stereaceae]]
+[[Category:Fungus species]]
+
+
+{{Russulales-stub}}
+{{fungus-tree-disease-stub}}

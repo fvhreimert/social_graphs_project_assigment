@@ -1,0 +1,40 @@
+{{Short description|Species of fungus}}
+{{more citations needed|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption = 
+| taxon = Gymnopilus sphagnicola
+| authority = ([[Charles Horton Peck|Peck]]) [[William Alphonso Murrill|Murrill]]
+| synonyms = 
+}}
+{{mycomorphbox
+| name = Gymnopilus sphagnicola
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=}}
+'''''Gymnopilus sphagnicola''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]]. It was given its current name by American mycologist [[William Alphonso Murrill|Murrill]] in 1917.<ref>{{cite journal |author=Murrill WA. |year=1917 |title=''Gymnopilus'' |journal=North American Flora |volume=10 |pages= 193–215}}</ref>
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+
+{{Reflist}}
+
+==External links==
+*''[https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=502463 Gymnopilus sphagnicola]'' at [[Index Fungorum]]
+
+{{Taxonbar|from=Q5624980}}
+
+[[Category:Gymnopilus|sphagnicola]]
+[[Category:Taxa named by Charles Horton Peck]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

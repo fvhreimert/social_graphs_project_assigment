@@ -1,0 +1,68 @@
+{{Short description|Species of bolete fungus}}
+{{Use dmy dates|date=April 2025}}
+{{Use Oxford spelling|date=April 2025}}
+{{Speciesbox 
+| image = Leccinum vulpinum 517473.jpg
+| taxon = Leccinum vulpinum
+| authority = [[Roy Watling|Watling]] (1961)
+| synonyms_ref = <ref name="urlFungorum synonymy: Leccinum vulpinum"/>
+| synonyms = 
+*''Leccinum aurantiacum'' var. ''vulpinum'' {{au|(Watling) Pilát (1966)}}
+*''Krombholziella vulpina'' {{au|(Watling) Šutara (1982)}}<ref name="Šutara 1982"/>
+*''Boletus vulpinus'' {{au|(Watling) Hlaváček (1990)}}
+}}
+
+'''''Leccinum vulpinum''''', commonly known as the '''foxy bolete''',<ref name="urlRecommended English Names for Fungi - Scottish Fungi"/> is a species of [[edible mushroom]]-forming [[fungus]] found in Europe. It is characterized by its muted fox-red [[pileus (mycology)|cap]] with cocoa-brown tints, [[cream (color)|cream]]-coloured pore surface, and stout [[stipe (mycology)|stipe]] covered with scales that darken from whitish to dark brown with age. This [[bolete]] is distinguished from its close relatives by its consistent association with conifers (especially Scots pine), subdued brown-reddish cap lacking vivid yellow-orange tones, and relatively narrow spores. Originally described by [[Roy Watling]] in 1961 from Scotland, it has since been recorded across several European countries including Poland, Portugal, Macedonia, and Montenegro.
+
+==Taxonomy==
+
+''Leccinum vulpinum'' was erected by [[Roy Watling]] in his 1961 revision of British [[bolete]] species. It falls within the genus ''[[Leccinum]]'', and is part of the ''[[Leccinum aurantiacum]]–[[Leccinum testaceoscabrum]]'' species complex. It is distinguished from its close relatives by its consistent association with [[conifer]]s (especially [[Scots pine]]), its subdued brown‑reddish cap lacking any vivid yellow‑orange tones, and its relatively narrow spores.<ref name="Watling 1961"/>
+
+==Description==
+
+The fruit bodies ([[basidiocarp]]s) have a cap ([[pileus (mycology)|pileus]]) measuring 30–90&nbsp;mm in diameter. The cap is convex at first, later broadly convex, with a dry surface covered in fine, woolly fibrils that are darkest at the centre. Its colour is a muted fox‑red with a cocoa‑brown tint, maturing to a deeper burnt [[sienna]]; bruising may produce a purplish‑sienna hue. On the cap underside, the pore surface beneath is pale [[cream (color)|cream]], with small, round pores that may faintly bruise [[lilac (color)|lilac]]. The tubes are 3–11&nbsp;mm long and are adnate (broadly attached) to scarcely free from the stipe.<ref name="Watling 1961"/>
+
+The [[stipe (mycology)|stipe]] is 85–135&nbsp;mm long and 13–22&nbsp;mm wide (up to 28&nbsp;mm at the base), stout and stuffed. It is pallid overall, slightly swollen towards the base, and bears fine scales that change from whitish to reddish‑brown and finally to dark brown or chocolate. The stipe base often bruises blue‑green.<ref name="Watling 1961"/>
+
+[[trama (mycology)|Flesh]] throughout is white and may remain unchanging in the cap; when it does stain, changes are very slow—first to a pale pink or wine tint in the stipe apex, then to a blue‑green in the cortex at the base, and ultimately to a patchy steel‑blue. The odour is mild and pleasant, and the taste is gentle and not distinctive.<ref name="Watling 1961"/>
+
+Microscopic features include spindle‑shaped (subfusiform) smooth [[spore]]s, about 12–16.5 by 3–4&nbsp;μm (brown [[spore print|in mass]]), four‑spored basidia 16.5–20 by 8–10&nbsp;μm, and ventricose to fusiform [[cystidia]] measuring 30–35 by 10–13.5&nbsp;μm (with a 2–3&nbsp;μm‑wide neck).<ref name="Watling 1961"/>
+
+==Habitat and distribution==
+
+''Leccinum vulpinum'' is [[mycorrhiza]]l with Scots pine (''[[Pinus sylvestris]]''). It was originally recorded from dry, upland pine woods in [[Inverness-shire]], Scotland. Specimens were found among bilberry (''[[Vaccinium myrtillus]]'') beneath mature pines in the [[Rothiemurchus Forest|Rothiemurchus]] area and [[Cairngorms National Park]], with known collections dating from 1957 to 1960.<ref name="Watling 1961"/> An [[edible mushroom|edible]] species, it grows in [[mycorrhiza]]l association with species of [[pine]] and [[bearberry]].<ref name="Gry 2014"/> The fungus is known to have a broader European distribution and has been recorded from several additional countries, including Poland,<ref name="Kotowski et al. 2019"/> Portugal,<ref name="Reis et al. 2016"/> Macedonia,<ref name="Karadelev et al. 2007"/> and Montenegro.<ref name="Kasom & Karadelev 2012"/>
+
+==See also==
+*[[List of Leccinum species|List of ''Leccinum'' species]]
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Gry 2014">{{cite book |last1=Gry |first1=J. |last2=Andersson |first2=C. |title=Mushrooms Traded as Food. Vol II sec 2: Nordic risk assessments and background on edible mushrooms, suitable for commercial marketing and background lists for industry, trade and food inspection. Risk assessments of mushrooms on the four guidance lists. |url=https://books.google.com/books?id=487-AwAAQBAJ&pg=PA277 |year=2014 |publisher=Nordic Council of Ministers| isbn=978-92-893-2705-3 |page=277}}</ref>
+
+<ref name="Karadelev et al. 2007">{{cite journal |last1=Karadelev |first1=Mitko |last2=Rusevska |first2=Katerina |last3=Spasikova |first3=Sofche |year=2007 |title=The Family Boletaceae s.l. (Excluding ''Boletus'') in the Republic of Macedonia |journal=Turkish Journal of Botany |volume=31 |issue=6 |pages=539–550 |url=https://journals.tubitak.gov.tr/cgi/viewcontent.cgi?article=2031&context=botany}}</ref>
+
+<ref name="Kasom & Karadelev 2012">{{cite journal |last1=Kasom |first1=Gordana |last2=Karadelev |first2=Mitko |title=The family Boletaceae s.l. (excluding ''Boletus'') in Montenegro |journal=Turkish Journal of Botany |year=2012 |doi=10.3906/bot-1011-36 |doi-access=free |url=https://journals.tubitak.gov.tr/cgi/viewcontent.cgi?article=1748&context=botany |pages=566–579}}</ref>
+
+<ref name="Kotowski et al. 2019">{{cite journal |last1=Kotowski |first1=Marcin Andrzej |last2=Pietras |first2=Marcin |last3=Łuczaj |first3=Łukasz |title=Extreme levels of mycophilia documented in Mazovia, a region of Poland |journal=Journal of Ethnobiology and Ethnomedicine |volume=15 |issue=1 |year=2019 |pmid=30755235 |pmc=6371552 |doi=10.1186/s13002-019-0291-6 |doi-access=free |pages=1–19}}</ref>
+
+<ref name="urlRecommended English Names for Fungi - Scottish Fungi">{{cite web |title=Recommended English Names for Fungi |website=Scottish Fungi |date=19 January 2010 |url=https://sites.google.com/site/scottishfungi/education/recommended-english-names-for-fungi | access-date=22 April 2025}}</ref>
+
+<ref name="Reis et al. 2016">{{cite journal |last1=Reis |first1=Filipa |last2=Barros |first2=Lillian |last3=Martins |first3=Anabela |last4=Vasconcelos |first4=M. |last5=Morales |first5=Patricia |last6=Ferreira |first6=Isabel |title=''Leccinum molle'' (Bon) Bon and ''Leccinum vulpinum'' Watling: The First Study of Their Nutritional and Antioxidant Potential |journal=Molecules |volume=21 |issue=2 |year=2016 |pmid=26907239 |pmc=6272890 |doi=10.3390/molecules21020246 |doi-access=free |page=e246}}</ref>
+
+<ref name="Šutara 1982">{{cite journal |author=Šutara J. |title=Nomenclatural problems concerning the generic name ''Krombholziella'' R. Maire |journal=Ceská Mykologie |year=1982 |volume=36 |issue=2 |pages=77–84|doi=10.33585/cmy.36203 }}</ref>
+
+<ref name="urlFungorum synonymy: Leccinum vulpinum">{{cite web |title=GSD Species Synonymy: ''Leccinum vulpinum'' Watling |url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=333057 |publisher=Species Fungorum. CAB International |access-date=2015-05-01}}</ref>
+
+<ref name="Watling 1961">{{cite journal |last=Watling |first=R. |title=Notes on British boleti |journal=Transactions of the Botanical Society of Edinburgh |year=1961 |volume=39 |issue=2 |pages=196–205 |doi=10.1080/13594866109441700}}</ref>
+
+}}
+
+{{Taxonbar|from=Q610344}}
+
+[[Category:Leccinum|vulpinum]]
+[[Category:Fungi described in 1961]]
+[[Category:Fungi of Europe]]
+[[Category:Edible fungi]]
+[[Category:Taxa named by Roy Watling]]
+[[Category:Fungus species]]

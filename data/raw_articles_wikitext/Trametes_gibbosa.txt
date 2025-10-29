@@ -1,0 +1,78 @@
+{{Short description|Species of mushroom}}
+{{Speciesbox
+| image = Trametes gibbosa JPG1.jpg
+| genus = Trametes
+| species = gibbosa
+| authority = ([[Pers.]]) [[Elias Magnus Fries|Fr.]] (1836)
+| synonyms = 
+''Agarico-suber scalptum''<br /><small>Paulet 1793</small><br />
+''Bulliardia virescens''<br /><small>Lázaro Ibiza 1916</small><br />
+''Daedalea gibbosa''<br /><small>(Pers.) Pers. 1801</small><br />
+''Daedalea virescens''<br /><small>(Lázaro Ibiza) Sacc. & Trotter 1925</small><br />
+''Lenzites gibbosa''<br /><small>(Pers.) Hemmi 1939</small><br />
+''Merulius gibbosus''<br /><small>Pers. 1795</small><br />
+''Polyporus gibbosus''<br /><small>  (Pers.) P. Kumm. 1871</small><br />
+''Polystictus kalchbrenneri''<br /><small>  (Fr.) Cooke 1886</small><br />
+''Pseudotrametes gibbosa''<br /><small>  (Pers.) Bondartsev & Singer 1944</small><br />
+''Pseudotrametes gibbosa''<br />forma ''tenuis'' <small>  (Pilát) anon. ined.</small><br />
+''Trametes crenulata''<br /><small>  Berk. 1854</small><br />
+''Trametes gibbosa'' var. ''tenuis''<br /><small>  (Pilát) anon. ined.</small><br />
+''Trametes gibbosa'' forma ''tenuis'' <small>  Pilát 1940</small><br />
+''Trametes kalchbrenneri''<br /><small>  Fr. 1868</small><br />
+''Trametes nigrescens''<br /><small>  Lázaro Ibiza 1916</small>
+}}
+{{Mycomorphbox
+| name            = Trametes gibbosa
+| hymeniumType    = pores
+| capShape        = offset
+| whichGills      = decurrent
+| stipeCharacter  = NA
+| sporePrintColor = white
+| sporePrintColor2 = cream
+| ecologicalType  = saprotrophic
+| howEdible       = inedible
+}}
+
+'''''Trametes gibbosa''''', commonly known as the '''lumpy bracket''', is a [[polypore]] mushroom that causes [[white rot]]. It is found on [[beech]] stumps and the dead wood of other hardwood species. Fruit bodies are 8–15&nbsp;cm in diameter and semicircular in shape. The upper surface is usually gray or white, but may be greenish in older specimens due to [[algal]] growth. Elongated pores are located on the under-surface. The [[fruiting bodies]] are frequently attacked by boring beetle larvae.
+
+== Description ==
+''Trametes gibbosa'' grows as a [[shelf mushroom]] and can can reach sizes of up to 20&nbsp;cm wide. As the common name suggests, the upper surface is lumpy/uneven and velvety. Sometimes magnification may be needed to see the hairs. This upper surface is white/creamy when young, but often develops greyer tints as well as green from [[algae]] settling into the hairs. The pore surface is of similar white and cream colors, also developing grayer tints in age. There are about 1–3 pores per mm that are elongated and can sometimes look maze-like or even gill-like in atypical specimens.<ref name=":0">{{Cite book |url=http://dx.doi.org/10.7560/322727 |title=Polypores and Similar Fungi of Eastern and Central North America |date=2021 |publisher=University of Texas Press |isbn=978-1-4773-2273-4}}</ref>
+
+The flesh is woody and has no distinct taste.
+
+The [[spore print]], which may be hard to obtain, is white. The [[spore]]s are 4–5.5 x 2–2.5&nbsp;[[μm]], elliptic to cylindrical, smooth, [[hyaline]], and [[inamyloid]]. The [[hypha]]l system is [[trimitic]], with [[clamp connection]]s.<ref name=":0" />
+
+=== Similar species ===
+The genus ''[[Trametes]]'' can be separated from other [[polypore]]s by the hairy and lumpy caps, the fan to kidney shape, the elongated pores, and their relative thinness. Some ''Trametes'' (especially ''[[Trametes versicolor]]'', the turkey tail) can look similar to certain ''[[Stereum]]s,'' but a specimen of ''Stereum'' will never have pores on the undersurface, instead they are smooth underneath.
+
+''[[Trametes aesculi]]'' is quite similar, but the pores are more variably circular or maze-like rather than mostly elongated. Additionally ''T. aesculi'' loses its [[tomentose]] upper surface on maturity and becomes smooth. Confusion between the two species can be settled under a microscope: the spores of ''T. aesculi'' has bigger spores, 5–7&nbsp;μm in length.<ref name=":0"/>
+
+''[[Trametes elegans]]'' is similar but is not found in North America or Europe.
+
+Whitish or grey specimens of ''[[Trametes lactinea]]'' can seem similar, but will have round or angular pores, rather than elongated.
+
+==Distribution and habitat==
+''T. gibbosa'' is [[saprobic]] on dead [[hardwood]]s and is known from Eurasia and North America, in the [[Pacific Northwest]] and east of the [[Great Plains]].
+
+It grows year round.<ref name=":0" />
+
+==See also==
+*[[List of Trametes species|List of ''Trametes'' species]]
+
+==References==
+{{Commons|Trametes gibbosa}}
+{{Reflist}}
+
+{{Taxonbar|from=Q472142}}
+
+[[Category:Fungal tree pathogens and diseases]]
+[[Category:Polyporaceae]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi described in 1836]]
+[[Category:Taxa named by Christiaan Hendrik Persoon]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungi described in 1795]]
+[[Category:Fungus species]]
+
+
+{{Polyporales-stub}}

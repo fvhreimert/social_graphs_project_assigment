@@ -1,0 +1,47 @@
+{{Short description|Species of fungus}}
+{{more citations needed|date=October 2025}}
+{{Speciesbox
+| image = Gymnopilus_picreus.jpg
+| image_caption =
+| genus = Gymnopilus
+| species = picreus
+| authority = ([[Christian Hendrik Persoon|Pers.]]) [[Petter Karsten|P. Karst.]]
+| synonyms =
+}}
+{{Mycomorphbox
+| name = ''Gymnopilus picreus''
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+
+'''''Gymnopilus picreus''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]].
+
+==Description==
+The [[pileus (mycology)|cap]] is {{convert|1|to|2|cm|in|1}} in diameter.<ref name="isbn0-945345-39-9">{{cite book |author=Hesler LR. |title=North American Species of ''Gymnopilus'' (Mycologia Memoir Series: No 3) |publisher=Lubrecht & Cramer Ltd |location=Knoxville, Tennessee |year=1969 |pages=76–77 |isbn=0-945345-39-9}}</ref>
+
+==Habitat and distribution==
+''Gymnopilus picreus'' grows on [[conifer]] wood and sometimes on [[hardwood]]. It has been found in the northern United States, Canada, and Europe; fruiting in summer and autumn.<ref name="isbn0-945345-39-9"/>
+
+==See also==
+*[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*''[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=438400 Gymnopilus picreus]'' at [[Index Fungorum]]
+
+{{Taxonbar|from=Q5624939}}
+
+[[Category:Gymnopilus|picreus]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

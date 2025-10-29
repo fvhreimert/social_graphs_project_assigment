@@ -1,0 +1,84 @@
+{{Short description|Umber-brown puffball, a fungus}}
+{{Multiple issues|
+{{Lead too short|date=August 2024}}
+{{how-to|date=August 2024}}
+}}
+{{Speciesbox
+| image = Lycoperdon umbrinum.JPG
+| image_caption = ''Lycoperdon umbrinum'', found in Gåla (Norway) in late August
+| genus = Lycoperdon
+| species = umbrinum
+| authority = [[Christiaan Hendrik Persoon|Pers.]] (1801)
+| synonyms = {{plainlist|
+*''Lycoperdon gemmatum'' var. ''molle'' <small>De Toni & Fischer (1888)</small>
+*''Lycoperdon gemmatum'' var. ''furfuraceum'' Fr. <small>Lundae(1829)</small>
+*''Lycoperdon gemmatum'' var. ''furfuraceum'' (Fr.) <small>J. Kickx f. Flandres(1867)</small>}}
+| synonyms_ref = <ref>Kew Mycology (2015). "Species Fungorum". Species Fungorum.</ref>
+}}
+{{mycomorphbox
+| name = ''Lycoperdon umbrinum''
+| whichGills = no
+| capShape = no
+| hymeniumType = gleba
+| stipeCharacter = NA
+| ecologicalType = saprotrophic
+| sporePrintColor = olive
+| howEdible = edible
+}}
+
+'''''Lycoperdon umbrinum''''', commonly known as the '''umber-brown puffball''', is a type of [[Puffball]] mushroom in the genus ''[[Lycoperdon]]''. It is a saprophyte, and grows mainly in coniferous forests. It is found in China,<ref name="Zhishu 1993"/> Europe,<ref name="Jordan 2004"/> Africa,<ref name=":0">{{Cite journal |last1=Marais |first1=L. J. |last2=Kotzé |first2=J. M. |date=1977-03-01 |title=Notes on Ectotrophic Mycorrhizae of ''Pinus patula'' in South Africa |url=http://dx.doi.org/10.1080/00382167.1977.9629436 |journal=South African Forestry Journal |volume=100 |issue=1 |pages=61–71 |doi=10.1080/00382167.1977.9629436 |bibcode=1977SAfFJ.100...61M |issn=0038-2167|url-access=subscription }}</ref> and North America.<ref name="Miller 2006"/>
+
+==Description==
+This species has a [[basidiocarp|fruit body]] that is shaped like a [[Top (toy)|top]], with a short, partly buried [[stipe (mycology)|stipe]]. It is {{convert|2|to|5|cm|in|1|abbr=on}} tall and {{convert|1|to|4|cm|in|1|abbr=on}} broad. It is approximately the size of a golf ball but may grow to be as big as a tennis ball. ''Lycoperdon umbrinum'' is very similar to ''[[Lycoperdon molle]]''.<ref>{{Cite web |last=Kew Mycology |date=2015 |title=Species Fungorum |url=https://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=271483 |website=Species Fungorum}}</ref> Key differences include that the spines on ''L. umbrinum'' are sparser and that the spores of ''L. molle'' are much larger.<ref name=":1">{{Cite web |title=Lycoperdon umbrinum (MushroomExpert.Com) |url=http://www.mushroomexpert.com/lycoperdon_umbrinum.html |access-date=2023-05-06 |website=www.mushroomexpert.com}}</ref> The spores of ''L. umbrinum'' are spherical and either smooth or ornamented<ref>{{Cite journal |last1=Cortez |first1=VG |last2=Baseia |first2=IG |last3=Silveira |first3=RMB |date=2013 |title=Gasteroid mycobiota of Rio Grande do Sul, Brazil: Lycoperdon and Vascellum |journal=Mycosphere |volume=4 |issue=4 |pages=745–758 |doi=10.5943/mycosphere/4/4/11 |issn=2077-7019|doi-access=free }}</ref> with spines. In the [[KOH test]], the spores appear olive-yellow.<ref name=":1" />
+
+The fruit body is initially pale brown then reddish to blackish brown, and the outer wall has slender, persistent spines up to 1&nbsp;mm long. [[Spore]]s are roughly spherical, 3.5–5.5&nbsp;μm in diameter, with fine warts and a [[Pedicel (botany)|pedicel]] that is 0.5–15&nbsp;μm long. It is uncommon and found mostly in [[coniferous]] woods on sandy soils.<ref name="Ellis 1990" />
+
+The species is considered [[Edible mushroom|edible]],<ref name="Miller 2006" /> though caution must be exercised due to a possibility of confusion with the toxic [[Scleroderma (fungus)|earth ball]] or deadly ''[[Amanita]].''<ref>{{Cite book |title=Edible and poisonous mushrooms of the world |date=2003 |publisher=Crop & Food Research |others=Ian R. Hall, New Zealand Institute for Crop & Food Research Limited |isbn=0-478-10835-4 |location=Christchurch, N.Z. |oclc=55624760}}</ref><ref>{{Cite journal |last1=Freisen |first1=M. |last2=Pringle |first2=A. |last3=Callan |first3=B. |last4=Leathern |first4=A. |date=2005 |title=Amanita phalloides heads north. |journal=Journal of Toxicology: Clinical Toxicology |volume=43 |issue=6 |pages=761–762 |via=Google Scholar}}</ref>
+
+== Ecology and habitat ==
+This fungus is [[Saprotrophic nutrition|saprophytic]], commonly growing in forests and under conifers.<ref name=":1" /> It has also been seen growing in poor quality soil in hardwood and conifer areas.<ref name=":2">{{Cite journal |last1=Arias |first1=F.G. |last2=Gallegos |first2=R. H. |last3=Sánchez |first3=J.E. |date=2014 |title=Ethnomycology in the "Tacaná Volcano Biosphere Reserve," Chiapas, Mexico |journal=Proceedings of 8th International Conference on Mushroom Biology and Mushroom Products (ICMBMP8), New Delhi, India, 19–22 November 2014. |volume=1 & 2 |pages=98–107 |via=ICAR- Directorate of Mushroom Research.}}</ref> It has been observed growing by itself, dispersed, or many together.<ref name=":1" />
+
+The fruiting period is from June through September.<ref name=":2" /> Unlike [[agaric]]s which have gills that hold spores, when conditions are right, L. umbrinum will become dry and burst to release their spores.<ref name=":3">{{Cite journal |last=Diaz |first=James H. |date=March 2018 |title=A Puff of Spores |journal=Wilderness & Environmental Medicine |volume=29 |issue=1 |pages=119–122 |doi=10.1016/j.wem.2017.08.004 |pmid=28964695 |issn=1080-6032|doi-access=free }}</ref>
+
+Interestingly, ''Lycoperdon umbrinum'' likely has a [[mycorrhiza]]l relationship with ''[[Pinus patula]].''<ref name=":0" /> One study investigated this relationship and found these species were often growing near each other. Additionally, there were development of branched and finger-like mycorrhizae underneath the ''L. umbrinum'' fruiting bodies.<ref name=":0" /> This study was done in South Africa where it is common that coniferous plants grown on large scale have this mutualism (and ''L. umbrinum'' is one of them).
+
+== Edibility and medicinal uses ==
+''Lycoperdon umbrinum'' is edible and has been found to have some medicinal purposes.<ref name=":2" /> This mushroom has historically been used by the [[Mam people|Mam]] ethnic group in Mexico. They call it “wutz anim” or “dead’s eye” which they use to keep away the evil eye. They typically prepare it by boiling and eat it by itself or with other plants. This group also uses it against [[asthma]] (creating a powder mixed with other plants) and additional uses that seem to overlap with the uses of [[baby powder]]. In some parts of the country, there is a mushroom gathering tradition (where these mushrooms are used for food, medicine, religious purposes, or for selling) that the whole family is a part of.<ref name=":2" />
+
+In the lab, ''L. umbrinum'' has been found to have significant [[Antibiotic|antibacterial]] properties<ref name=":4">{{Cite journal |last1=Ogbole |first1=O. O. |last2=Adebayo-Tayo |first2=B. C. |last3=Salawu |first3=K. M. |last4=Okoli |first4=V. C. |date=March 2017 |title=Molecular Identification and Antimicrobial Activity of Endophytic Fungi Aspergillus tamarii (Trichomaceae) |url=https://uilspace.unilorin.edu.ng/handle/20.500.12484/2952 |language=en}}</ref> and potentially [[antimicrobial]] properties.<ref name=":5">{{Cite journal |last1=Ogbole |first1=Omonike Oluyemisi |last2=Adebisi |first2=Ponmile |last3=Segun |first3=Peter Adekunle |date=2019-10-07 |title=Medicinal mushrooms with methicillin resistant ''Staphylococcus aureus'' (MRSA) inhibitory activity |url=http://dx.doi.org/10.4314/jpb.v16i1.5 |journal=Journal of Pharmacy & Bioresources |volume=16 |issue=1 |pages=41 |doi=10.4314/jpb.v16i1.5 |s2cid=208585448 |issn=0189-8442|url-access=subscription }}</ref> It was found that ''Aspergillus tamarii'' (an [[Endophyte|endophytic]] fungus) is associated with ''L. umbrinum'' through a [[Mutualism (biology)|mutualistic]] relation.<ref name=":4" /> ''A. tamarii'', extracted from ''L. umbrinum'', has significant antibacterial properties specifically on ''[[Salmonella]] typhi, [[Staphylococcus aureus]], [[Bacillus subtilis]],'' and ''[[Escherichia coli]].'' <ref name=":4" /> ''L. umbrinum'' was also found to have antimicrobial activities against [[Methicillin-resistant Staphylococcus aureus|methicillin resistant ''Staphylococcus aureus'' (MRSA)]].<ref name=":5" /> ''Lycoperdon umbrinum'' and ''[[Trametes versicolor]]'' were found to inhibit the MRSA growth to the greatest degree (compared to the other fungi in the study) indicating that these species could hold a new source of antimicrobial properties to fight MRSA.<ref name=":5" />
+
+Although it may have helpful antibacterial and antimibrobial properties, spore inhalation should be avoided. Inhalation of ''Lycoperdon'' spp. could cause [[lycoperdonosis]], a reaction to inhalation or ingestion of puffball spores which can lead to unpleasant symptoms.<ref name=":3" />  
+
+== Nutrients ==
+''Lycoperdon umbrinum'' contains [[tocopherol]]s with α- and β- isoforms and has high ash content (indicating it has minerals important for nutrition).<ref>{{Cite journal |last1=Pereira |first1=Eliana |last2=Barros |first2=Lillian |last3=Martins |first3=Anabela |last4=Ferreira |first4=Isabel C.F.R. |date=January 2012 |title=Towards chemical and nutritional inventory of Portuguese wild edible mushrooms in different habitats |url=http://dx.doi.org/10.1016/j.foodchem.2011.07.057 |journal=Food Chemistry |volume=130 |issue=2 |pages=394–403 |doi=10.1016/j.foodchem.2011.07.057 |hdl=10198/6235 |issn=0308-8146|hdl-access=free |url-access=subscription }}</ref>
+
+==References==
+{{Reflist|refs=
+
+<ref name="Ellis 1990">{{cite book |vauthors=Ellis JB, Ellis MB |title=Fungi without Gills (Hymenomycetes and Gasteromycetes): An Identification Handbook |publisher=[[Chapman and Hall]] |location=London, UK |year=1990 |page=239 |isbn=0-412-36970-2}}</ref>
+
+<ref name="Jordan 2004">{{cite book |author=Jordan M. |title=The Encyclopedia of Fungi of Britain and Europe |publisher=[[Frances Lincoln Publishers]] |location=London, UK |year=2004 |page=358 |isbn=0-7112-2378-5 |url=https://books.google.com/books?id=bFMfytLn3bEC&pg=PA358}}</ref>
+
+<ref name="Miller 2006">{{cite book |vauthors=Miller HR, Miller OK |author2-link=Orson K. Miller Jr. |title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi |publisher=[[FalconGuides]] |location=Guilford, Connecticut |year=2006 |page=455 |isbn=978-0-7627-3109-1}}</ref>
+
+<ref name="Zhishu 1993">{{cite book |vauthors=Zhishu B, Zheng G, Taihui L |title=The Macrofungus Flora of China's Guangdong Province (Chinese University Press) |publisher=[[Columbia University Press]] |location=New York |year=1993 |page=692 |isbn=962-201-556-5}}</ref>
+
+}}
+
+==External links==
+{{Portal|Fungi}}
+
+*[http://www.mykoweb.com/CAF/species/Lycoperdon_umbrinum.html California Fungi]
+{{Commons category|Lycoperdon umbrinum|position=left}}
+
+{{Taxonbar|from=Q995618}}
+
+[[Category:Edible fungi]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Puffballs]]
+[[Category:Fungi described in 1801]]
+[[Category:Taxa named by Christiaan Hendrik Persoon]]
+[[Category:Lycoperdon|umbrinum]]
+[[Category:Fungus species]]

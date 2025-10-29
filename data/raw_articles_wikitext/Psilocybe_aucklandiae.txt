@@ -1,0 +1,58 @@
+{{Short description|Species of fungus in the family Hymenogastraceae}}
+{{Speciesbox
+| image = Psilocybe aucklandiae in Radiata pine forest.jpg
+| taxon = Psilocybe aucklandiae
+| authority = [[Gastón Guzmán|Guzmán]], King and Bandala (1991)
+}}
+
+'''''Psilocybe aucklandiae''''' is a species of [[agaric]] fungus in the family [[Hymenogastraceae]]. The species is known from the [[Auckland Region]] of [[New Zealand]], where it grows from clay soils in exotic pine plantations and native forests.<ref name=":0">Johnston P, Buchanan PK. The genus Psilocybe (Agaricales) in New Zealand. ''New Zealand Journal of Botany'' 1995;33(3):379-388. {{Cite journal|last1=Johnston|first1=Peter R.|last2=Buchanan|first2=Peter K.|year=1995|title=The genus ''Psilocybe''(Agaricales) in New Zealand|journal=New Zealand Journal of Botany|volume=33|issue=3|pages=379–388|doi=10.1080/0028825X.1995.10412964|bibcode=1995NZJB...33..379J }}</ref> It is [[Phylogenetics|phylogenetically]] similar to or almost the same as ''[[Psilocybe zapotecorum]]'' from [[Mexico]] and [[South America]]. As a blueing member of the genus ''Psilocybe'' it contains the psychoactive compounds [[psilocin]] and [[psilocybin]].<ref name="Ramirez-Cruz2013">{{cite journal|last1=Ramírez-Cruz|first1=Virginia|last2=Guzmán|first2=Gastón|last3=Villalobos-Arámbula|first3=Alma Rosa|last4=Rodríguez|first4=Aarón|last5=Matheny|first5=Brandon|last6=Sánchez-García|first6=Marisol|last7=Guzmán-Dávalos|first7=Laura|year=2013|title=Phylogenetic inference and trait evolution of the psychedelic mushroom genus ''Psilocybe'' sensu lato (Agaricales)|journal=Botany|volume=91|issue=9|pages=573–591|doi=10.1139/cjb-2013-0070|bibcode=2013Botan..91..573R |doi-access=}}</ref>
+
+== Taxonomy ==
+''Psilocybe aucklandiae'' was officially described in 1991 by [[Gastón Guzmán]], Chris King and Victor Bandala in 'A new species of ''Psilocybe'' of section ''Zapotecorum'' from New Zealand.' The name is feminine; the original orthography is ''aucklandii'' which has a masculine suffix.<ref>{{Cite journal|last1=Segedin|first1=B.P.|last2=Pennycook|first2=S.R.|date=2001|title=A nomenclatural checklist of agarics, boletes, and related secotioid and gasteromycetous fungi recorded from New Zealand.|journal=New Zealand Journal of Botany|volume=39|issue=2|pages=285–348|doi=10.1080/0028825X.2001.9512739 |bibcode=2001NZJB...39..285S |s2cid=85352273 }}</ref>  The [[holotype]] is in New Zealand with accession [https://scd.landcareresearch.co.nz/specimen/PDD_57236 PDD 57236] and was collected in the [[Waitākere Ranges|Waitakere Ranges]]<ref name=":1">{{Cite journal|last1=Johnston|first1=P.R.|last2=Buchanan|first2=P.K.|date=1995|title=The genus Psilocybe (Agaricales) in New Zealand|url=https://www.researchgate.net/publication/233019356|journal=New Zealand Journal of Botany|volume=33|issue=3|pages=379–388|doi=10.1080/0028825X.1995.10412964 |bibcode=1995NZJB...33..379J }}</ref> while the [[Isotype (biology)|isotype]] is in XAL, Mexico. The fungus is named for its limited geographic distribution, being almost entirely restricted to the [[Auckland Region]], which includes the country's largest city of [[Auckland]] and is situated in the upper half of the [[North Island]]. At the time of publication it was known only from this area.<ref name=":1" />{{mycomorphbox
+| name = Psilocybe aucklandiae
+| whichGills = adnate
+| capShape = conical
+| capShape2 = umbonate
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = saprotrophic
+| sporePrintColor = purple-brown
+| howEdible = psychoactive
+}}
+
+== Description ==
+
+The [[Pileus (mycology)|cap]] is 15–55&nbsp;mm diam., broadly [[Cone|conic]], expanding to broadly [[umbonate]] to more or less flattened, with edges becoming slightly upturned and often splitting; dry; lacking [[Partial veil|veil]] remnants; dark brown to yellow-brown, striate (radially lined) to edge, [[hygrophanous]], drying to pale yellow-brown to straw-coloured; staining greenish-blue with damage or age; flesh white. The gills are adnate (broadly attached to the stem), close, greyish yellow-brown, maturing dark violaceous, with a conspicuous pale narrow margin. The [[Stipe (mycology)|stipe]] is 35-100 x 1.5–5&nbsp;mm, cylindric, finely [[Pruinescence|pruinose]] in the upper part and silky-fibrillose near the base, white, yellow or pinkish purple brown, with brownish flesh. [[Partial veil|Veil]] cortinoid and poorly developed, disappearing as caps mature. All parts staining deep greenish-blue or blackish-blue with damage. [[Spore print]] violet brown.<ref name=":1" />
+
+[[Basidiospore|Spores]] measure (6.5-)7-9.5 x 4-5.5 x 3.5-4.5 μm, 8.1 x 4.9 x 4.3 μm average, ovate in face view, elliptic-ovate in side view; brown-walled and smooth, 0.5 μm thick with apical pore; [[Basidium|Basidia]] 20-28 x 4.5-6 μm, cylindric, with 4 spores, clamped; [[Cheilocystidia]] 15-32 x 4-8 μm, ventricose-rostrate (swollen and uneven with a beak), with long, tapering, flexuous and sometimes bifurcate neck (forked in two), transparent, thin-walled, up to 12 μm long; [[Pleurocystidia]] 13-19 x 4.5-6 μm, scattered, similar to cheilocystidia but with shorter neck, up to 4.5 μm.<ref name=":1" />
+
+=== Similar species ===
+''[[Psilocybe zapotecorum]]'' in [[Mexico]] and [[South America]], as noted by Guzman et al. (1991), "''P. aucklandii'' is very similar to ''P. zapotecorum'' R. Heim emend. Guzman, which is common in Mexico and known from South America. The two species are barely distinguishable microscopically, although comparison with published descriptions (Guzman 1983) show that ''P. aucklandii'' may have slightly narrower pleurocystidia and slightly wider spores. Published illustrations ''of P. zapotecorum'' (Guzman 1983) appear to show that ''P. aucklandii'' is a less robust species."<ref name=":1" />
+
+== Distribution and habitat ==
+On soil and litter, especially clay soils, in native forests and Pine plantations, almost always in the wider Auckland Region. Commonly found in the exotic pine plantation of [[Riverhead, New Zealand|Riverhead]].<ref name=":1" /> Has been recorded from Waipoua in Northland, and in [[Australia]] as ''Psilocybe sect. Zapotecorum'', which is likely [[Phylogenetics|phylogenetically]] similar or the same.
+
+Specimens examined for the description: Auckland: Woodhill State Forest, on ground in litter of mixed pine and native forest,  C. C. ''King,'' Jun 1989 [https://scd.landcareresearch.co.nz/specimen/PDD_57236 PDD 57236] (holotype). Waitakere Ranges: Sharps Bush, in litter under ''Leptospermum'' and ''Dacrydium'': PDD 43043; Atkinson Park, Titirangi Beach on soil under ''Leptospermum:'' PDD 49789; Quarry Track, Piha Valley Forest, on litter: PDD 58423. Hunua Ranges: Orere, on ground: PDD 34593; Mangatangi Valley, on rotten wood: PDD 34594.<ref>{{cite journal|last1=Guzman|first1=G|last2=Bandala|first2=VM|last3=King|first3=C.|name-list-style=vanc|year=1991|title=A new species of ''Psilocybe'' of section zapotecorum from New Zealand|journal=Mycological Research|volume=95|issue=4|pages=507–508|doi=10.1016/S0953-7562(09)80856-3}}</ref>
+
+== See also ==
+[[List of psilocybin mushrooms]]
+
+== References ==
+{{Reflist}}
+
+==External links==
+*[https://biotanz.landcareresearch.co.nz/scientific-names/1cb19d94-36b9-11d5-9548-00d0592d548c Landcare Research: Online Fungi Portal] official records of this species
+*[https://scd.landcareresearch.co.nz/Search Landcare Research Systematics Collections Data] collections search
+*[https://mushroomobserver.org/3322 Psilocybe aucklandiae on Mushroom Observer]
+*[https://inaturalist.org/observations?taxon_id=383900 Psilocybe aucklandiae on iNaturalist]
+
+{{Hallucinogenic mushrooms}}
+{{Taxonbar|from=Q7255848}}
+
+[[Category:Entheogens]]
+[[Category:Psychoactive fungi]]
+[[Category:Psilocybe|aucklandii]]
+[[Category:Psychedelic tryptamine carriers]]
+[[Category:Fungi of New Zealand]]
+[[Category:Taxa named by Gastón Guzmán]]
+[[Category:Fungus species]]

@@ -1,0 +1,102 @@
+{{Short description|Species of agaric fungus in the family Hymenogastraceae}}
+{{Speciesbox
+| image = Psilocybe_subaeruginosa_Hamilton_NZ.jpg
+| genus = Psilocybe
+| species = subaeruginosa
+| authority = [[John Burton Cleland|Cleland]] (1927)
+| synonyms_ref = <ref name="Chang1992"/>
+<ref name="NZORPcsS"/>
+| synonyms = *''Psilocybe australiana'' <small>[[Gaston Guzman|Guzmán]] & Watling (1978)</small>
+*''Psilocybe cyanescens'' <small>sensu Segedin, Beevera, P.R. Johnst. & P.K. Buchanan (1991)</small>
+*''Psilocybe eucalypta'' <small>[[Gaston Guzman|Guzmán]] & Watling (1978)</small>
+}}
+{{mycomorphbox
+| name = ''Psilocybe subaeruginosa''
+| whichGills = adnate
+| whichGills2 = adnexed
+| capShape = conical
+| capShape2 = umbonate
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = saprotrophic
+| sporePrintColor = purple-brown
+| howEdible = psychoactive
+}}
+
+'''''Psilocybe subaeruginosa''''' is a species of [[agaric]] fungus in the family [[Hymenogastraceae]]<ref name=":0" /> described in 1927 and known from Australia<ref name="Cleland1927" /> and [[New Zealand]].<ref name="Johnston1995"/><ref>{{Cite journal|last1=Segedin|first1=B.P.|last2=Pennycook|first2=S.R.|date=2001|title=A nomenclatural checklist of agarics, boletes, and related secotioid and gasteromycetous fungi recorded from New Zealand.|journal=New Zealand Journal of Botany|volume=39|issue=2|pages=285–348|doi=10.1080/0028825X.2001.9512739 |bibcode=2001NZJB...39..285S |s2cid=85352273 }}</ref><ref>{{Cite web|last=Cooper|first=J.A.|title=Psilocybe subaeruginosa Cleland (1927)|url=https://biotanz.landcareresearch.co.nz/scientific-names/1cb19da0-36b9-11d5-9548-00d0592d548c|access-date=2 October 2021|website=Landcare Research NZ Fungi Portal|quote="No sequences of material labelled P. subaeruginosa from NZ are the same as Australian material, and none has brown pleurocystidia possibly noted for the lost 'type' (AD Cleland 13251) studied by Guzman. In addition the true identity of Cleland's taxon requires further resolution and appropriate epitypification."}}</ref><ref name=":0">{{Cite web|title=Psilocybe subaeruginosa Cleland|url=https://www.nzor.org.nz/names/977d4c6c-de46-4b0a-a93e-5974a2617895|access-date=2 October 2021|website=New Zealand Organisms Register, NZOR}}</ref> As a blueing member of the genus ''[[Psilocybe]]'' it contains the [[psychoactive]] compounds [[psilocin]] and [[psilocybin]].
+
+==Taxonomy==
+
+''Psilocybe subaeruginosa'' was first [[species description|described]] in 1927 by Australian mycologist [[John Burton Cleland]].<ref name="Cleland1927" /> The species name refers to the colour of the blueing reaction when the [[Mushroom|fruitbodies]] are damaged or handled - the feminine Latin adjective [[wiktionary:aeruginosa|aeruginosa]] describes copper rust, which is verdigris or blue-green.
+
+A [[Type species|type]] collection was not formally designated by Cleland, and the collection examined later by Guzman and Watling and called the type, with distinctive brown cystidia,<ref name="Guzman" /> is missing from Cleland's collections in Adelaide. A formal [[lectotype]] from [[Belair National Park]] Australia has since been designated<ref name="Chang1992" /> (AD 5603/Cleland 13256) but without details of habitat and substrate, making an authentic concept of the species difficult to verify.
+
+A 1992 study comparing the [[morphology (biology)|morphology]] and mating compatibility of ''P. australiana'', ''P. eucalypta'', ''P. subaeruginosa'' and ''[[Psilocybe tasmaniana|P. tasmaniana]]'' suggested the four were [[synonym (biology)|synonymous]] and proposed combining them as ''P. subaeruginosa''.<ref name="Chang1992" /> The idea was rejected by the authors of the later species, [[Gastón Guzmán]] calling the comparisons "confused" and reprinting descriptions the same year.<ref>{{Cite journal|last1=Guzmán|first1=G|last2=Bandala|first2=V.M.|last3=King|first3=C.C.|date=1992|title=Further observations on the genus Psilocybe from New Zealand|url=http://www.cybertruffle.org.uk/cyberliber/59575/0046/index.htm|journal=Mycotaxon|volume=46|pages=161–170|doi=10.5962/p.416332|via=CYBERLIBER}}</ref> Despite this objection the proposal was accepted in 1995, with the exception of ''P. tasmaniana'', which was excluded for having characteristics that did not suit the synonymy, and the specimen examined as ''P. tasmaniana'' being misidentified.<ref name="Johnston1995" />
+
+==Description==
+The [[Pileus (mycology)|cap]] averages 12–50&nbsp;mm in diameter. It is conical to conic-convex with slightly inrolled edges when young, and becomes convex, often slightly upturned, sub-gibbous, or sometimes with a small acute umbo. It is slightly tacky. There may be veil remnants at the margin when young. Coloured yellow-brown to orange-brown, paler towards the margin, which is a little striate, [[hygrophanous]], fading in drying to pallid biscuit brown or pale orange-yellow. The cap stains greenish blue with age or handling and the flesh inside is whitish. The [[Lamella (mycology)|gills]] are moderately close, pale smoky brown when young, violet-brown or brownish [[fuscous]] in age, with narrow pale edges, slightly [[ventricose]], in three series, the middle reaching halfway to the stipe, with an [[Adnate gills|adnate]] or broadly [[adnexed]] attachment and lines sometimes running down the stipe. The [[Stipe (mycology)|stipe]] is 25–70 × 2–3.5(-5)&nbsp;mm, tall and slender, equal or slightly wider towards the cap, finely vertically lined, mealy at the top with fine fibrils below, the base somewhat swollen or becoming a mass of [[mycelium]], hollow inside, [[cartilaginous]], pale whitish streaked with dark greyish brown, staining greenish blue, flesh brownish. A white cortinate [[partial veil]] soon disappears, leaving traces as a raised area around the upper stipe.<ref name="Johnston1995" /><ref name="Cleland1927" />
+
+Taste and odour are [[wikt:farinaceous|farinaceous]] and the spore print is purple brown.<ref name="Cleland1927" /><ref name="Johnston1995" />
+
+The [[cystidia|cheilocystidia]] are 17–29 x 5.5–11, hyaline, fusoid-ventricose, subpyriform or mucronate, often with an elongated neck at the apex which is 2–4.5 [[μm]].  The [[cystidia|pleurocystidia]] measure 22–47 x 6–16 [[μm]] and is shaped like the cheilocystidia and also hyaline. The spores are smooth, subellipsoid, with an apical germ pore, measuring (10) 13.2–14.3 (15.4) x 6.6–7.7 x 6–7.5 [[μm]].<ref name="Guzman" />
+
+<gallery>
+Image:Psilocybe.subaeruginosa.cheilo.1000x.jpg|''Psilocybe subaeruginosa'' cheilocystidia 600x
+Image:Psilocybe.subaeruginosa.pleuro.1000x.jpg|''Psilocybe subaeruginosa'' pleurocystidia 600x
+Image:Psilocybe.subaeruginosa.spores.1000x.jpg|''Psilocybe subaeruginosa'' spores 1000x
+</gallery>
+
+==Distribution and habitat==
+
+''Psilocybe subaeruginosa'' grows solitary to gregarious from wood debris in Australian native forests, pine plantations and is occasionally observed growing on dung.<ref name="Stamets1996"/> It is common in southern parts of [[Australia]]<ref name="Chang1992"/> from April to August.<ref name="Grgurinovic1997"/> The species is also known from Australian native and ''[[Eucalyptus]]'' forests, and famously in New Zealand on wood chip. It is recorded as present in New Zealand, but DNA sequencing of collections so far indicates ''[[Psilocybe allenii|P. allenii]]'' and ''[[Psilocybe cyanescens|P. cyanescens]]'' there<ref>{{Cite web|last=Cooper|first=J.A.|date=March 2021|title=Strophariaceae senu lato in New Zealand - notes on Psilocybe|url=https://inaturalist.nz/journal/cooperj/7456-strophariaceae-sensu-lato-in-nz|access-date=8 October 2021|website=iNaturalist NZ}}</ref> as well as ''P. subaeruginosa''.{{cn|date=May 2023}}
+ hills, Australia.]]
+
+==Alkaloid content==
+[[Psilocybin]] has been isolated from this species in 0.45% yield.<ref name="Picker 1970"/> In the same study, [[psilocin]] was not detectable with the analytical methods used ([[chromatography|chromatographic]] separation and [[UV spectroscopy]]), and was estimated to be present at less than 1% of the psilocybin content.
+
+In an unpublished report, [[psilocybin]] was isolated from this species at between 0.06% to 1.93%, with [[psilocin]] being between 0.0% to 0.17%.<ref>{{Citation|author1=Perkal, Michael|title=Analysis of hallucinogens in psilocybe-type mushrooms [microform] / M. Perkal|publisher=Monash University|language=en}}</ref>
+
+==Similar species==
+Psilocybe subaeruginosa is enthusiastically hunted and bears similarity to a number of other common, sometimes toxic mushrooms that are often mistaken for or hoped to be Psilocybe subaeruginosa. These are not limited to blue, green and brightly coloured, or brown ''[[Cortinarius]]'', the deadly ''[[Galerina marginata]]'' and other ''[[Galerina]]'' species, ''[[Hypholoma]]'', ''[[Inocybe]]'', ''[[Leratiomyces ceres]]'' on wood chip, [[Coprinellus micaceus|''Coprinellus sect. Micacei'']] and [[Pholiota communis|''Pholiota'' ''communis'']]''.''
+
+Genetically similar members of the genus ''[[Psilocybe]]'' include the Northern Hemisphere [[agaric]]s ''[[Psilocybe allenii|P. allenii]], [[Psilocybe azurescens|P. azuresecens]],'' and [[Psilocybe cyanescens|''P. cyanescens'']], and from New Zealand [[Psilocybe makarorae|''P. makarorae'']], the undescribed partially [[secotioid]] wood chip species ''<nowiki/>'Psilocybe subsecotioides''', and the secotioid or pouch-like ''[[Psilocybe weraroa|P. weraroa]]''.
+
+==References==
+{{Reflist|refs=
+
+<ref name="Cleland1927">{{cite journal | last1 = Cleland |first1 = J. | last2 = Burton | first2 = J. | year = 1927 | title = Australian fungi: notes and descriptions—No. 6 | journal = Transactions and Proceedings of the Royal Society of South Australia | volume = 51 |pages = 298–306}}</ref>
+
+<ref name="Chang1992">{{cite journal | doi = 10.1016/S0953-7562(09)81087-3| last1 = Chang | first1 = Yu Shyun | last2 = Mills | first2 = Alan K. | year = 1992 | title = Reexamination of ''Psilocybe subaeruginosa'' and related species with comparative morphology, isozymes and mating compatibility studies |url = http://www.shaman-australis.com/forum/index.php?showtopic=21701&p=223740 | journal = Mycological Research | volume = 96 | issue = 6| pages = 429–441| url-access = subscription }}</ref>
+
+<ref name="Johnston1995">{{cite journal | last1 = Johnston | first1 = P.R. | last2 = Buchanan | first2 = P.K. | year = 1995 |title = The genus ''Psilocybe'' (Agaricales) in New Zealand | journal = New Zealand Journal of Botany | volume = 33 | issue = 3|pages = 379–388 | doi = 10.1080/0028825X.1995.10412964 | bibcode = 1995NZJB...33..379J }}{{open access}}</ref>
+
+<ref name="Stamets1996">{{cite book | first=Paul | last=Stamets |author-link=Paul Stamets | year=1996 | title=Psilocybin Mushrooms of the World | url=https://archive.org/details/psilocybinmushro00stam | url-access=limited | publisher=Ten Speed Press | location=Berkeley | isbn=0-9610798-0-0 |pages=[https://archive.org/details/psilocybinmushro00stam/page/n81 154]–5}}</ref>
+
+<ref name="Guzman">{{cite book | first=Gastón | last=Guzmán |author-link=Gastón Guzmán | year=1983 | title=The Genus Psilocybe | publisher=Nova Hedwigia | isbn=3-7682-5474-7}}</ref>
+
+<ref name="Grgurinovic1997">{{cite book | first=Cheryl |last=Grgurinovic | year=1997 | title=Larger Fungi of South Australia | publisher=Botanic Gardens of Adelaide and State Herbarium and Flora and Fauna of South Australia Handbooks Committee | location=Adelaide | isbn=0-7308-0737-1}}</ref>
+
+<ref name="Picker 1970">{{cite journal | doi = 10.1071/CH9700853 |last1 = Picker | first1 = J. | last2 = Rickards | first2 = R.W. | year = 1970 | title = Occurrence of psychomimetic agent psilocybin in an Australian agaric, ''Psilocybe subaeruginosa'' | journal = Australian Journal of Chemistry | volume = 23 | issue = 4| pages = 853–855| url = http://www.publish.csiro.au/?act=view_file&file_id=CH9700853.pdf | doi-access = free }}</ref>
+
+<ref name="NZORPcsS">{{cite web | title = Psilocybe cyanescens sensu Segedin, Beever, P.R. Johnst. & P.K. Buchanan | url=https://www.nzor.org.nz/names/b3cd36f6-a118-437c-8b6a-f68f1fd458fc | access-date = 8 October 2021 | website = New Zealand Organisms Register, NZOR }}</ref>
+
+}}
+
+==External links==
+*{{Commons category-inline}}
+*Observations of [https://inaturalist.org/observations?place_id=6744&taxon_id=383904 ''Psilocybe subaeruginosa'' in Australia] on iNaturalist
+*Records and information regarding [https://biotanz.landcareresearch.co.nz/scientific-names/1cb19da0-36b9-11d5-9548-00d0592d548c ''Psilocybe subaeruginosa'' in New Zealand] at Landcare Research - Manaaki Whenua
+
+{{Hallucinogenic mushrooms}}
+{{Taxonbar|from=Q3330447}}
+
+[[Category:Entheogens]]
+[[Category:Psychoactive fungi]]
+[[Category:Psilocybe|subaeruginosa]]
+[[Category:Psychedelic tryptamine carriers]]
+[[Category:Fungi described in 1927]]
+[[Category:Fungi of Australia]]
+[[Category:Fungi native to Australia]]
+[[Category:Fungi of New Zealand]]
+[[Category:Taxa named by John Burton Cleland]]
+[[Category:Fungus species]]

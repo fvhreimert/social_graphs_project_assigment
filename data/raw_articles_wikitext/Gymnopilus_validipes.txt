@@ -1,0 +1,61 @@
+{{Short description|Species of fungus}}
+{{more citations needed|date=October 2025}}
+{{Speciesbox
+| image = Gymnopilus validipes (Peck) Hesler 299026.jpg
+| image_caption =
+| taxon = Gymnopilus validipes
+| authority = ([[Charles Horton Peck|Peck]]) [[Lexemuel Ray Hesler|Hesler]]
+| synonyms = '' Cortinarius validipes '' ''Gymnopolis magna''
+}}
+{{mycomorphbox
+| name = ''Gymnopilus validipes''
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=ring
+| ecologicalType=saprotrophic
+| sporePrintColor=yellow-orange
+| howEdible=psychoactive
+}}
+
+'''''Gymnopilus validipes''''' is a mushroom in the family [[Hymenogastraceae]]. It is widely distributed in [[North America]] and [[Europe]].
+
+==Description==
+*'''[[Pileus (mycology)|Pileus]]''': 7.5 — 15 cm, convex to broadly convex, margin deeply incurved at first, becoming revolute with age, dry, fibrillose or with small ochraceous brown scales, pale-yellow or ochraceous buff, flesh soft, whitish, yellowish near the gills. 
+*'''Gills''': Adnate to uncinate, close, thin, yellowish white becoming cinnamon. 
+*'''Spore print''': Orangish brown.
+*'''[[Stipe (mycology)|Stipe]]''': 10 — 13 cm long, 2.5 – 5&nbsp;cm. thick, equal or swelling in the middle, fleshy-fibrous, solid, elastic, fibrillose, [[wikt:concolorous|concolorous]], white within, the cortina leaves only a faint ring on the stalk. The [[specific epithet]] ''validipes'' means "having a robust stalk".
+*'''Taste''': Mild, standing in contrast to closely related bitter-tasting species.
+*'''Odor''': Pleasant.
+*'''Microscopic features''': Spores 8 — 10 X 5 — 6 μm, ellipsoid.
+
+''Gymnopilus validipes'' contains the hallucinogens [[psilocybin]] and [[psilocin]], the former at a concentration of around 0.12%.<ref>[https://books.google.com/books?id=10HiGVo94FUC&dq=%22gymnopilus+spectabilis%22+psilocybin&pg=PA183 Psilocybin Mushrooms of the World]</ref>
+
+==Habitat and formation==
+''Gymnopilus validipes'' is found growing [[wikt:gregarious|gregarious]] (in groups) to [[wikt:cespitose|cespitose]] (in dense clumps) on tree stumps, hardwood logs and debris, widespread in the [[United States]], common from the [[Great Lakes]] and eastward.<ref>[https://gomicromagic.com/ Go Micro Magic]</ref>
+
+==See also==
+{{Portal|Fungi}}
+*[[Psilocybin mushrooms]]
+*[[List of Psilocybin mushrooms]]
+*[[List of Gymnopilus species]]
+
+==References==
+{{Reflist}}
+*{{cite book | first=Paul | last=Stamets | year=1996 | title=Psilocybin Mushrooms of the World | publisher=Ten Speed Press | location=Berkeley | isbn=0-9610798-0-0}}
+* Hesler, L. R. (1969). North American species of Gymnopilus. New York: Hafner. 117 pp.
+
+{{Commons category-inline}}
+
+{{Hallucinogenic mushrooms}}
+{{Taxonbar|from=Q5625033}}
+
+[[Category:Gymnopilus|validipes]]
+[[Category:Entheogens]]
+[[Category:Psychoactive fungi]]
+[[Category:Psychedelic tryptamine carriers]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Europe]]
+[[Category:Taxa named by Charles Horton Peck]]
+[[Category:Fungus species]]

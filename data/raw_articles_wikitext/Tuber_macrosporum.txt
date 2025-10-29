@@ -1,0 +1,51 @@
+{{Short description|Species of truffle fungus}}
+{{Use dmy dates|date=April 2025}}
+{{Use Oxford spelling|date=April 2025}}
+{{Speciesbox
+| image = Tuber macrosporum 486366.jpg
+| image_caption =
+| genus = Tuber
+| species = macrosporum
+| authority = [[Vittad.]] (1831)
+}}
+
+'''''Tuber macrosporum''''', commonly known as the '''smooth black truffle''',<ref name="Hall 2007"/> is a species of edible [[truffle]] in the family [[Tuberaceae]].<ref name="CoL_59HZQ"/> The fungus produces blackish, irregularly shaped underground [[ascocarp|fruiting bodies]] measuring 2–5&nbsp;cm in diameter with a grey-brown to purple-brown interior marked by thick white veins and has an intense garlic-like odour similar to the Italian white truffle. It is distinguished microscopically by its exceptionally large [[ellipsoid]] spores (measuring 40–80 × 30–60 [[micrometre]]s) adorned with a distinctive mesh-like pattern. The species has a patchy distribution across Europe, where it forms beneficial relationships with various trees including [[oak]]s, [[hazel]]s, [[hornbeam]]s, [[willow]]s, [[Tilia|lindens]], [[beech]] and [[Populus|poplars]], preferring moist, well-aerated soils from slightly acidic to alkaline in plains and foothills.
+
+==Taxonomy==
+
+''Tuber macrosporum'' was [[species description|described]] as new to science by Italian mycologist [[Carlo Vittadini]] in 1831,<ref name="Vittadini 1831"/> and remains the accepted name in [[Index Fungorum]]. [[Molecular phylogenetics]] studies based on the [[internal transcribed spacer]] (ITS) and large subunit (LSU) regions of nuclear [[ribosomal DNA]] place it in the Macrosporum [[clade]], a [[lineage (evolution)|lineage]] that also includes the North American species ''[[Tuber canaliculatum]]''. Within ''T.&nbsp;macrosporum'', there are two well-supported subclades that correspond broadly to Italian versus Central and Eastern European specimens, suggesting some geographic genetic structuring.<ref name="Benucci et al. 2016"/>
+
+==Description==
+
+The [[ascomata]] (fruiting bodies) of ''T.&nbsp;macrosporum'' are generally 2–5&nbsp;cm in diameter, occasionally reaching larger sizes. They may be irregularly lobed or nearly round (subglobose), with a blackish peridium bearing scattered, very short flat warts that are reddish-brown when fresh. On sectioning, the [[gleba]] (internal tissue) ranges from grey-brown to lilac or purple-brown at maturity, marked by thick, white, winding veins. Maturation occurs from August through December, peaking in autumn. Microscopically, the [[ascus|asci]] are typically three-spored (rarely one or up to four) and measure about 90–120 × 60–80&nbsp;[[μm]]. Spores are [[ellipsoid]], exceptionally large for truffles (about 40–80 × 30–60&nbsp;μm), and bear a dense reticulate-alveolate ornamentation of closed polygonal meshes about 2–4&nbsp;μm high.<ref name="Hall 2007"/><ref name="Benucci et al. 2016"/> The ascomata have an intense [[garlic]]-like odour similar to the Italian white truffle (''[[Tuber magnatum]]'').<ref name="Bardet 2012"/>
+
+==Habitat and distribution==
+
+''Tuber macrosporum'' has a wide but patchy distribution across Europe. It is common in Serbia, Hungary and Romania, less frequent in Italy, and rare in France and Great Britain, with additional reports from Switzerland, Germany, Ukraine, Croatia, Slovenia, Slovakia, Poland and Turkey. Fruiting bodies have been found as early as June but are most often encountered from September to December. The species favours plain sites through foothills to low mountains, especially on north-facing slopes, floodplains or other moist microhabitats. It grows in soils ranging from slightly acidic to alkaline (pH 5.7–8.2), including [[chernozem]]s, [[luvisol]]s, [[planosol]]s and rendzic [[leptosol]]s, but requires good aeration and consistent moisture—often aided by subsurface water or periodic flooding. Soil textures are typically clay loam, [[loam]] or sandy loam, and compacted horizons with [[gleysol]]s and iron precipitates are common. ''T.&nbsp;macrosporum'' forms [[ectomycorrhiza]]s with a variety of [[host (biology)|hosts]], most frequently [[oak]]s (''Quercus pubescens'', ''Q.&nbsp;robur'', ''Q.&nbsp;petraea'', ''Q.&nbsp;cerris''), [[hazel]] (''Corylus avellana''), [[hornbeam]]s (''Ostrya carpinifolia'', ''Carpinus betulus''), [[willow]]s (''Salix'' spp.), [[Tilia|lindens]] (''Tilia'' spp.), [[beech]] (''Fagus sylvatica'') and poplars (''[[Populus]]'' spp.).<ref name="Benucci et al. 2016"/>
+
+==See also==
+* [[List of Tuber (fungus) species|List of ''Tuber'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Bardet 2012">{{cite book |last1=Riousset |first1=L. |last2=Riousset |first2=G. |last3=Chevalier |first3=G. |last4=Bardet |first4=M.-C. |last5=Riousset |first5=L. |last6=Chevalier |first6=G. |last7=Riousset |first7=G. |last8=Bardet |first8=M.-C. |title=Truffes d'Europe et de Chine |url=https://books.google.com/books?id=doIb-ZLS1LYC&pg=PA110 |year=2012 |publisher=Editions Quae |isbn=978-2-7592-1807-3 |page=110 |language=fr}}</ref>
+
+<ref name="Benucci et al. 2016">{{cite book |last1=Benucci |first1=Gian Maria Niccolò |last2=Csorbai |first2=Andrea Gógán |last3=Falini |first3=Leonardo Baciarelli |last4=Marozzi |first4=Giorgio |last5=Suriano |first5=Edoardo |last6=Sitta |first6=Nicola |last7=Donnini |first7=Domizia |title=True truffle (''Tuber'' spp.) in the world |chapter=Taxonomy, Biology and Ecology of ''Tuber macrosporum'' Vittad. and Tuber mesentericum Vittad. |publisher=Springer International Publishing |publication-place=Cham |volume=47 |year=2016 |isbn=978-3-319-31434-1 |doi=10.1007/978-3-319-31436-5_5  |pages=69–86}}</ref>
+
+<ref name="CoL_59HZQ">{{Catalogue of Life |id=59HZQ |title=''Tuber macrosporum'' Vittad. |access-date=23 April 2025}}</ref>
+
+<ref name="Hall 2007">{{cite book |last1=Hall |first1=I.R. |last2=Brown |first2=G.M. |last3=Zambonelli |first3=A. |title=Taming the Truffle: The History, Lore, and Science of the Ultimate Mushroom |publisher=Timber Press |location=Portland, Oregon |year=2007 |pages=[https://archive.org/details/tamingtrufflehis00hall/page/64 64–67] |isbn=978-0-88192-860-0 |url-access=registration |url=https://archive.org/details/tamingtrufflehis00hall/page/64 }}</ref>
+
+<ref name="Vittadini 1831">{{cite book |last=Vittadini |first=C. |title=Monographia Tuberacearum |year=1831 |location=Milan |page=35 |publisher=Ex Typographia F. Rusconi |url=https://archive.org/stream/monographiatube00vittgoog#page/n46/mode/2up |language=Latin}}</ref>
+
+}}
+
+{{Taxonbar|from=Q4000112}}
+
+[[Category:Tuber (fungus)|macrosporum]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1831]]
+[[Category:Fungi of Europe]]
+[[Category:Truffles (fungi)]]
+[[Category:Fungus species]]

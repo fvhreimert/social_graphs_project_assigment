@@ -1,0 +1,40 @@
+{{Speciesbox
+| image = Agaricus crocodilinus collection.jpg
+| taxon = Agaricus crocodilinus
+| authority = Murrill
+| synonyms = *''Agaricus macrosporus''
+*''Agaricus urinescens''
+}}
+
+'''''Agaricus crocodilinus''''', commonly known as the '''crocodile agaricus'''<ref name=":0">{{Cite book |last1=Siegel |first1=Noah |title=Mushrooms of Cascadia: A Comprehensive Guide to Fungi of the Pacific Northwest |last2=Schwartz |first2=Christian |date=September 1, 2024 |publisher=Backcountry Press |isbn=9781941624197 |location=Humboldt County, California |pages=86}}</ref> or '''macro mushroom''''',''<ref name=":2" /> is a species of mushroom in the family [[Agaricaceae]].
+
+== Taxonomy ==
+''Agaricus crocodilinus'' was first described by [[William Murrill]] in 1912. It got its name because of its warty surface, reminiscent of a crocodile's skin.<ref name=":1">{{Cite web |title=Agaricus crocodilinus (MushroomExpert.Com) |url=https://www.mushroomexpert.com/agaricus_crocodilinus.html |access-date=2025-08-18 |website=www.mushroomexpert.com}}</ref>
+
+== Description ==
+The cap of ''Agaricus crocodilinus'' starts out round, before becoming broadly convex. 5-12 centimeters in diameter when young. However, when fully grown, it is 20-40 centimeters. The stipe is 6-20 centimeters long and 2-4 centimeters wide, with a ring. The gills are free, starting out tannish and later becoming reddish to blackish brown.<ref name=":0" /> It can sometimes be confused with ''[[Agaricus arvensis]]'' and ''[[Agaricus xanthodermus|A. xanthodermus]]''.<ref name=":2">{{Cite web |date=2017-06-27 |title=Macro Mushroom |url=https://www.wildfooduk.com/mushroom-guide/agaricus-macrosporus/ |access-date=2025-08-19 |website=Wild Food UK |language=en-GB}}</ref>
+
+{{Mycomorphbox
+| name = ''Agaricus crocodilinus''{{italic title}}
+| hymeniumType = gills
+| capShape = convex
+| whichGills = free
+| stipeCharacter = ring
+| sporePrintColor = brown
+| howEdible = edible
+}}
+
+== Habitat and ecology ==
+''Agaricus crocodilinus'' often grows in prairies and pastures with a lot of grass.<ref name=":0" /> It is [[Saprotrophic nutrition|saprophytic]].<ref name=":1" />
+
+== Edibility ==
+''Agaricus crocodilinus'' is considered edible and highly regarded.<ref name=":0" /> However, it often contains maggots, even when young, and can be confused with the poisonous yellow stainer (''A. xanthodermus'').<ref name=":2" /> ''A. crocodilinus'' has also been known to accumulate cadmium, even in areas without pollution.<ref>{{Cite journal |last1=Sácký |first1=Jan |last2=Chaloupecká |first2=Anna |last3=Šantrůček |first3=Jiří |last4=Kaňa |first4=Antonín |last5=Leonhardt |first5=Tereza |last6=Borovička |first6=Jan |last7=Kotrba |first7=Pavel |date=2025-07-18 |title=Identification of two metallothioneins in Agaricus crocodilinus reveals gene duplication and domain expansion, a pattern conserved across fungal species |journal=Biometals|doi=10.1007/s10534-025-00721-6 |issn=1572-8773 |pmid=40679729}}</ref>
+
+== References ==
+<references />
+
+{{Taxonbar|from1=Q80983404}}
+
+[[Category:Edible fungi]]
+[[Category:Agaricus|crocodilinus]]
+[[Category:Fungus species]]

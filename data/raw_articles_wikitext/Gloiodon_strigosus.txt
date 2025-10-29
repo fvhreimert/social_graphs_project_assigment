@@ -1,0 +1,22 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = 2016-02-21 Gloiodon strigosus (Sw.) P. Karst 600817.jpg
+| genus = Gloiodon 
+| species = strigosus
+| authority = (Sw.) P.Karst.
+}}
+
+'''''Gloiodon strigosus''''' is a species of [[fungus]] belonging to the family [[Bondarzewiaceae]].<ref name="GBIF">{{cite web |title=Gloiodon strigosus (Sw.) P.Karst. |url=https://www.gbif.org/species/2552039 |website=www.gbif.org |access-date=4 February 2021 |language=en}}</ref>
+
+It is native to Eurasia and America.<ref name="GBIF" />
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q10433340}}
+
+[[Category:Russulales]]
+[[Category:Fungus species]]
+
+
+{{russulales-stub}}

@@ -1,0 +1,144 @@
+{{Short description|Genus of fungi}}
+{{Distinguish|Marasmus}}
+{{stack begin}}
+{{Automatic taxobox
+| image = Marasmius elegans.jpg
+| image_caption = ''[[Marasmius elegans]]''
+| taxon = Marasmius
+| authority = [[Elias Magnus Fries|Fr.]] (1836)
+| type_species = ''[[Marasmius rotula]]''
+| type_species_authority = ([[Scop.]]) Fr. (1838)
+}}
+{{Mycomorphbox
+| name = ''Marasmius''
+| whichGills = adnate
+| capShape = convex
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = saprotrophic
+| sporePrintColor = white
+}}
+{{stack end}}
+
+'''''Marasmius''''' is a [[genus]] of [[mushroom]]-forming [[fungi]] in the family [[Marasmiaceae]].  It contains about 500 [[species]] of [[Agaricales|agarics]],<ref name=Kirk2008/> of which a few, such as ''[[Marasmius oreades]]'', are [[edible mushroom|edible]].  However, most members of this genus are small, unimpressive brown mushrooms.  Their humble appearance contributes to their not being readily distinguishable to non-specialists, and they are therefore seldom collected by [[mushroom hunting|mushroom hunters]].  Several of the species are known to grow in the characteristic [[fairy ring]] pattern.
+
+'']]
+The author of the genus was [[Elias Magnus Fries]],<ref>See record in [http://www.indexfungorum.org/Names/genusrecord.asp?RecordID=18018 Index Fungorum]</ref> who in 1838<ref>[[Elias Magnus Fries|E. M. Fries]]  ''Epicrisis systematis mycologici'' (1838) Uppsala: Typographia Academica</ref> classified white-spored agarics having a tough central [[Stipe (mycology)|stipe]] in this taxon if they were [[Marcescence|marcescent]], i.e. they could dry out but later revive when moistened. For Fries, marcescence&mdash;by contrast with the "[[wikt:putrescent|putrescent]]" (decomposing) nature of most mushrooms&mdash;was an important character for [[classification (biology)|classification]], which he used to separate this group from genus ''[[Collybia]]'' (which has now been split into many newer genera).  The name ''Marasmius'' itself comes from the [[Greek (language)|Greek]] word ''marasmos'', meaning "drying out; withering".  Modern [[mycologist]]s no longer consider the marcescence/putrescence distinction a reliable criterion for [[Taxonomy (biology)|taxonomy]], but Fries's definition of the genus is still roughly applicable.
+
+==Species==
+Below is a list of more prominent species (for a complete list see [[List of Marasmius species|List of ''Marasmius'' species]]).  Note that some well-known former members of ''Marasmius,'' such as ''[[Mycetinis alliaceus|M. alliaceus]]'', have been moved into the new genus ''[[Mycetinis]]''; a few others have been reclassified as ''[[Rhizomarasmius]]'' or ''[[Gloiocephala]]''.  Former ''M. androsaceus'' is now considered to belong to genus ''[[Gymnopus]]''.
+{{Div col|colwidth=22em}}
+*''[[Marasmius amazonicus|M. amazonicus]]''
+*''[[Marasmius anomalus|M. anomalus]]''
+*''[[Marasmius atrocastaneus|M. atrocastaneus]]''
+*''[[Marasmius auklandicus|M. auklandicus]]''
+*''[[Marasmius aurantiobasalis|M. aurantiobasalis]]''
+*''[[Marasmius bambusinus|M. bambusinus]]''
+*''[[Marasmius bellus|M. bellus]]''
+*''[[Marasmius bulliardii|M. bulliardii]]''
+*''[[Marasmius buxi|M. buxi]]'' - box parachute
+*''[[Marasmius caperatus|M. caperatus]]''
+*''[[Marasmius capillaris|M. capillaris]]''
+*''[[Marasmius caricis|M. caricis]]''
+*''[[Marasmius chordalis|M. chordalis]]''
+*''[[Marasmius cladophyllus|M. cladophyllus]]''
+*''[[Marasmius cohaerens|M. cohaerens]]''
+*''[[Marasmius collinus|M. collinus]]''
+*''[[Marasmius corbariensis|M. corbariensis]]''
+*''[[Marasmius crinis-equi|M. crinis-equi]]''
+*''[[Marasmius croceus|M. croceus]]''
+*''[[Marasmius curranii|M. curranii]]''
+*''[[Marasmius curreyi|M. curreyi]]''
+*''[[Marasmius cylindraceocampanulatus|M. cylindraceocampanulatus]]''
+*''[[Marasmius delicatus|M. delicatus]]''
+*''[[Marasmius delectans|M. delectans]]''
+*''[[Marasmius elegans|M. elegans]]'' - velvet parachute
+*''[[Marasmius epiphylloides|M. epiphylloides]]'' - ivy parachute
+*''[[Marasmius epiphyllus|M. epiphyllus]]'' - leaf parachute
+*''[[Marasmius exocarpi|M. exocarpi]]''
+*''[[Marasmius exustoides|M. exustoides]]''
+*''[[Marasmius favrei|M. favrei]]''
+*''[[Marasmius fishii|M. fishii]]''
+*''[[Marasmius fulvoferrugineus|M. fulvoferrugineus]]''
+*''[[Marasmius funalis|M. funalis]]''
+*''[[Marasmius galbinus|M. galbinus]]''
+*''[[Marasmius gelatinosipes|M. gelatinosipes]]''
+*''[[Marasmius graminum|M. graminum]]''
+*''[[Marasmius haematocephalus|M. haematocephalus]]''
+*''[[Marasmius hudsonii|M. hudsonii]]'' - holly parachute
+*''[[Marasmius indopurpureostriatus|M. indopurpureostriatus]]'' <ref>Twilley, Nicola [http://www.newyorker.com/tech/elements/the-year-in-fungi-2015 "The Year in Fungi"], ''[[The New Yorker]]'', New York, 20 December 2015. Retrieved on 21 December 2015.</ref>
+*''[[Marasmius insititius|M. insititius]]''
+*''[[Marasmius kanukaneus|M. kanukaneus]]''
+*''[[Marasmius koae|M. koae]]''
+*''[[Marasmius kroumirensis|M. kroumirensis]]''
+*''[[Marasmius limosus|M. limosus]]''
+*''[[Marasmius masonii|M. masonii]]''
+*''[[Marasmius meridionalis|M. meridionalis]]''
+*''[[Marasmius micraster|M. micraster]]''
+*''[[Marasmius midnapurensis|M. midnapurensis]]''
+*''[[Marasmius minutus|M. minutus]]''
+*''[[Marasmius nigripes|M. nigripes]]''
+*''[[Marasmius oreades|M. oreades]]'' - fairy ring mushroom
+*''[[Marasmius otagensis|M. otagensis]]''
+*''[[Marasmius pallenticeps|M. pallenticeps]]''
+*''[[Marasmius palmivorus|M. palmivorus]]''
+*''[[Mariasmus perforans|M. perforans]]''
+*''[[Marasmius perpusillus|M. perpusillus]]''
+*''[[Marasmius phalaricola|M. phalaricola]]''
+*''[[Marasmius podocarpicola|M. podocarpicola]]''
+*''[[Marasmius prasiosmus|M. prasiosmus]]''
+*''[[Marasmius pulcherripes|M. pulcherripes]]''
+*''[[Marasmius pyrrhocephalus|M. pyrrhocephalus]]''
+*''[[Marasmius pusillissimus|M. pusillissimus]]''
+*''[[Marasmius pusio|M. pusio]]''
+*''[[Marasmius quercophilus|M. quercophilus]]''
+*''[[Marasmius resinosus|M. resinosus]]''
+*''[[Marasmius rhombisporus|M. rhombisporus]]''
+*''[[Marasmius rhopalostylidis|M. rhopalostylidis]]''
+*''[[Marasmius rimuphilus|M. rimuphilus]]''
+*''[[Marasmius rosulatus|M. rosulatus]]''
+*''[[Marasmius rotula|M. rotula]]'' - collared parachute or pinwheel mushroom
+*''[[Marasmius sacchari|M. sacchari]]''
+*''[[Marasmius saccharinus|M. saccharinus]]''
+*''[[Marasmius sasicola|M. sasicola]]''
+*''[[Marasmius semiustus|M. semiustus]]''
+*''[[Marasmius setosus|M. setosus]]''
+*''[[Marasmius siccus|M. siccus]]''
+*''[[Marasmius spaniophyllus|M. spaniophyllus]]''
+*''[[Marasmius splachnoides|M. splachnoides]]''
+*''[[Marasmius subsupinus|M. subsupinus]]''
+*''[[Marasmius stenophyllus|M. stenophyllus]]''
+*''[[Marasmius strictipes|M. strictipes]]'' (edible)<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |url=https://archive.org/details/mushroomsotherfu0000phil |url-access=registration |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=[https://archive.org/details/mushroomsotherfu0000phil/page/73 73]}}</ref>
+*''[[Marasmius sullivantii|M. sullivantii]]''
+*''[[Marasmius tageticolor|M. tageticolor]]''
+*''[[Marasmius tenuiparietalis|M. tenuiparietalis]]''
+*''[[Marasmius tenuissimus|M. tenuissimus]]''
+*''[[Marasmius tinctorius|M. tinctorius]]''
+*''[[Marasmius torquescens|M. torquescens]]''
+*''[[Marasmius unilamellatus|M. unilamellatus]]''
+*''[[Marasmius vagus|M. vagus]]'' - wandering creamsicle
+*''[[Marasmius wettsteinii|M. wettsteinii]]''
+*''[[Marasmius wynneae|M. wynneae]]'' - pearly parachute
+{{div col end}}
+
+==See also==
+* [[List of Marasmiaceae genera]]
+
+==References==
+{{Reflist|refs=
+
+<ref name=Kirk2008>{{cite book |vauthors=Kirk PM, Cannon PF, Minter DW, Stalpers JA |title=Dictionary of the Fungi |url=https://archive.org/details/dictionaryfungit00kirk |url-access=limited |edition=10th |publisher=CABI |location=Wallingford, UK |year=2008 |page=[https://archive.org/details/dictionaryfungit00kirk/page/n411 401] |isbn=978-0-85199-826-8}}</ref>
+
+}}
+
+==External links==
+*{{Wikispecies-inline}}
+*[http://www.mushroomexpert.com/marasmius.html  Genus ''Marasmius'']  at Mushroom Expert.com
+
+{{Taxonbar|from=Q1520016}}
+{{Authority control}}
+
+[[Category:Marasmius| ]]
+[[Category:Agaricales genera]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Bioluminescent fungi]]

@@ -1,0 +1,91 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Lactarius fuliginosus.jpg
+| genus = Lactarius
+| species = fuliginosus
+| authority = ([[Karl von Krapf|Krapf]]) [[Elias Magnus Fries|Fr.]] (1838)
+| synonyms_ref = <ref name="urlMycoBank: Lactarius fuliginosus"/>
+| synonyms =
+  {{plainlist|
+*''Agaricus fuliginosus'' <small>Krapf (1782)</small>
+*''Galorrheus fuliginosus'' <small>(Krapf) [[P.Kumm.]] (1871)</small>
+*''Lactifluus fuliginosus'' <small>(Fr.) [[Otto Kuntze|Kuntze]] (1891)</small>
+  }}
+}}
+
+'''''Lactarius fuliginosus''''', commonly known as the '''sooty milkcap''', is a species of [[fungus]] in the family [[Russulaceae]]. The medium-sized [[basidiocarp|fruit bodies]] have velvety, grayish-brown [[pileus (mycology)|caps]] and crowded [[lamella (mycology)|gills]]. It is found in [[deciduous forest]]s of Asia, Europe, and North America.
+
+==Taxonomy==
+The species was first described by Austrian botanist [[Karl Von Krapf]] in 1782 as ''Agaricus fuliginosus''. [[Elias Magnus Fries]] [[sanctioned name|sanctioned]] this name in his 1821 ''Systema mycologicum'', and later (1838) transferred it to the genus ''[[Lactarius (fungus)|Lactarius]]'' in his ''Epicrisis Systematis Mycologici''.<ref name="Fries 1838"/> Other [[synonym (biology)|synonyms]] include [[Paul Kummer]]'s 1871 ''Galorrheus fuliginosus''<ref name="Kummer 1871"/> and [[Otto Kuntze]]'s 1891 ''Lactifluus fuliginosus''.<ref name="Kuntze 1891"/> [[Paul Konrad]] and [[André Maublanc]]'s [[subspecies]] ''picinus'' is now known as the distinct species ''[[Lactarius (fungus)|L.&nbsp;picinius]]''.<ref>Heilmann-Clausen ''et al''. (2000), p. 242.</ref> ''L.&nbsp;fuliginosus'' [[form (botany)|form]] ''speciosus'', described by [[Jakob Emanuel Lange]] in 1928,<ref name="Lange 1928"/> has been elevated to a distinct species as ''[[Lactarius romagnesii|L.&nbsp;romagnesii]]'', while his form ''albipes'' is now ''[[Lactarius azonites|L.&nbsp;azonites]]''.<ref>Heilmann-Clausen ''et al''. (2000), p. 234.</ref> Fries's 1838 form ''major'' is now ''[[Lactarius lignyotus|L.&nbsp;lignyotus]]''.<ref>Heilmann-Clausen ''et al''. (2000), p. 226.</ref>
+
+''Lactarius fuliginosus'' is [[classification (biology)|classified]] in the [[section (biology)|section]] ''Plinothgali'' of [[subgenus]] ''Plinthogalus'' in the genus ''Lactarius''. Species in this section are characterized by having caps and stipes ranging in colour from [[buff (color)|buff]] to pale brown to grayish-brown and pinkish-staining flesh.<ref>Heilmann-Clausen ''et al''. (2000), p. 27.</ref> [[Molecular phylogenetics|Molecular]] analysis published in 2012 showed that ''L.&nbsp;fuliginosus'' and ''[[Lactarius picinius|L.&nbsp;picinus]]'' are [[sibling species]], and cannot be reliably distinguished using [[morphology (biology)|morphology]] alone. Dirk Stubbe suggests that the geneti  of ''L.&nbsp;fuliginosus'' from ''L.&nbsp;picinus'' was a fairly recent event that involved a [[host switch]] from deciduous to coniferous trees.<ref name="Stubbe 2012"/>
+
+The [[botanical name|specific epithet]] ''fuliginosus'' derives from the [[Latin]] word for "sooty".<ref name="Rea 1922"/> It is [[common name|commonly]] known as the "sooty milkcap".<ref name="urlRecommended English Names for Fungi - Scottish Fungi"/>
+
+==Description==
+
+The [[pileus (mycology)|cap]] is convex to flattened, sometimes with a small central depression, and measures {{convert|4.5|–|12.5|cm|in|abbr=on}} in diameter. The surface of the cap is dry, smooth, and has a velvety texture. It sometimes develops small wrinkles in the center, while the cap margin develops irregular grooves in maturity. Its colour is buff to grayish-brown to dark [[fawn (color)|fawn]], sometimes with darker spots and a lighter margin. The crowded [[lamella (mycology)|gills]] have an [[adnation|adnate]] to slightly [[decurrent]] attachment to the [[stipe (mycology)|stipe]]. They have an olive-buff to pinkish-buff colour, and stain pinkish. The cylindric stipe measures {{convert|4|–|8.5|cm|in|abbr=on}} long by {{convert|1|–|2|cm|in|1|abbr=on}} thick and tapers to the base. Its surface texture is similar to the cap, but is coloured paler, and is whitish near the top. The [[trama (mycology)|flesh]] is whitish, but stains pinkish where injured; it is thick and firm in the cap and stipe. It has no significant odor and a mild to slightly acrid taste. The mushroom's sparse latex is white but dries pinkish, imparting that colour when it stains the gills and flesh.<ref name="H-C pp.244-5">Heilmann-Clausen ''et al''. (2000), pp. 244–5.</ref> ''Lactarius fuliginosus'' is not [[edible mushroom|edible]],<ref name="Ettore 2012"/> and may be somewhat poisonous.<ref name="Chapuis 1980"/>
+
+The [[spore print]] is pinkish buff. The [[spore]]s are spherical to broadly [[ellipsoid]], measuring 7.4–9.2 by 6.6–8.4&nbsp;[[micrometre|μm]]. The spore surface is covered with an almost complete reticulum with narrow ridges up to about 1&nbsp;μm high, and irregular warts that stain [[amyloid (mycology)|amyloid]] with [[Melzer's reagent]]. The [[basidia]] (spore-bearing cells) are somewhat club-shaped, four-spored, and measure 40–55 by 10–12&nbsp;μm. The [[cap cuticle]] is in the form of a trichoepithelium measuring 50–100&nbsp;μm thick comprising cylindric terminal [[hypha]]e measuring 20–45 by 5–8&nbsp;μm.<ref name="H-C pp.244-5"/>
+
+===Similar species===
+''[[Lactarius azonites]]'' is similar in appearance to ''L.&nbsp;fuliginosus'' but can be distinguished by its cap shape with an irregularly scalloped margin, the irregular and often anastomosing gills, the pale to almost whitish stipe, and the thick flesh that quickly turns red with injury. Microscopically, its spores have more regular surface ridges and a more widely meshed reticulum.<ref>Heilmann-Clausen ''et al''. (2000), p. 239.</ref>
+
+==Habitat and distribution==
+''Lactarius fuliginosus'' is [[ectomycorrhiza]]l with deciduous trees.<ref name="Stubbe 2012"/> Its fruit bodies grow on the ground in deciduous forests of Europe and North America. In Asia, it has been recorded from [[Kashmir Valley]] in India,<ref name="Abraham 1985"/> China, and Japan.<ref name="Stubbe 2012"/>
+
+==Chemistry==
+The fruit bodies were noted to have [[insecticide|insecticidal]] properties in a 1990 publication.<ref name="Dowd 1990"/> Later research revealed the presence of a [[stearic acid]] [[ester]] that, upon injury to the mushrooms, coverts to an acrid [[phenol]] compound that [[oxidize]]s to a mixture of [[benzofuran]] and red [[chromene]] [[biological pigment|pigments]].<ref name="Conca 1981"/><ref name="Debernardi 1992"/> This is part of a wound-activated chemical [[Plant defense against herbivory|defense system]] used by the fungus to deter [[mycophagy]].<ref name="Spiteller 2008"/>
+
+==See also==
+*[[List of Lactarius species|List of ''Lactarius'' species]]
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Abraham 1985">{{cite journal |vauthors=Abraham SP, Kaul TN |title=Larger fungi from Kashmir India III |journal=Kavaka |year=1985 |volume=13 |issue=2 |pages=77–86 |issn=0379-5179}}</ref>
+
+<ref name="Chapuis 1980">{{cite journal |author=Chapuis JR. |title=Jahresbericht 1979 des Verbandstoxikologen |trans-title=Annual report 1979 by the toxicologist |journal=Schweizerische Zeitschrift für Pilzkunde |year=1980 |volume=58 |issue=6 |pages=84–90 |language=German}}</ref>
+
+<ref name="Conca 1981">{{cite journal |vauthors=Conca E, De Bernardi M, Fronza G, Girometta MA, Mellerio G, Vidari G, Vita-Finzi P |title=Fungal metabolites 10. New chromenes from ''Lactarius fuliginosus'' Fries and ''Lactarius picinus'' Fries |journal=Tetrahedron Letters |year=1981 |volume=22 |issue=43 |pages=4327–30 |doi=10.1016/S0040-4039(01)82947-6}}</ref>
+
+<ref name="Debernardi 1992">{{cite journal |vauthors=Debernardi M, Vidari G, Finzi PV, Fronza G |title=The chemistry of ''Lactarius fuliginosus'' and ''Lactarius picinus'' |journal=Tetrahedron |year=1992 |volume=48 |issue=35 |pages=7331–44 |doi=10.1016/S0040-4020(01)88270-3}}</ref>
+
+<ref name="Dowd 1990">{{cite journal |vauthors=Dowd PF, Miller OK |title=Insecticidal properties of ''Lactarius fuliginosus'' and ''Lactarius fumosus'' |journal=Entomologia Experimentalis et Applicata |year=1990 |volume=57 |issue=1 |pages=23–28 |doi=10.1111/j.1570-7458.1990.tb01412.x|s2cid=85369383 }}</ref>
+
+<ref name="Ettore 2012">{{cite book |author=Ettore B. |title=Funghi. Conoscere, riconoscere e ricercare tutte le specie di funghi più diffuse |url=https://books.google.com/books?id=0M5h0wBDuaEC&pg=PA121 |year=2012 |publisher=De Agostini |isbn=978-88-418-7695-4 |page=121}}</ref>
+
+<ref name="Fries 1838">{{cite book |author=Fries EM. |title=Epicrisis Systematis Mycologici |year=1838 |publisher=Typographica Academica |location=Uppsala |page=348 |url=http://www.cybertruffle.org.uk/cyberliber/02485/0348.htm |language=Latin}}</ref>
+
+<ref name="Kummer 1871">{{cite book |author=Kummer P. |title=Der Führer in die Pilzkunde |year=1871 |publisher=C.&nbsp;Luppe |location=Zerbst |page=127 |url=https://www.biodiversitylibrary.org/page/34209696 |language=German}}</ref>
+
+<ref name="Kuntze 1891">{{cite book |author=Kuntze O. |title=Revisio generum plantarum |year=1891 |volume=2 |publisher=A.&nbsp;Felix |location=Leipzig |page=856 |url=https://www.biodiversitylibrary.org/page/4278 |language=German}}</ref>
+
+<ref name="Lange 1928">{{cite journal |author=Lange JE. |title=Studies in the agarics of Denmark. Part VII. ''Volvaria'', ''Flammula'', ''Lactarius'' |journal=Dansk Botanisk Arkiv |year=1928 |volume=5 |issue=5 |pages=1–49 (see p.&nbsp;33)}}</ref>
+
+<ref name="Rea 1922">{{cite book |author=Rea C. |title=British Basidiomycetae |url=https://books.google.com/books?id=4tg8AAAAIAAJ&pg=PA492https://archive.org/stream/britishbasidiomy00reaciala |year=1968 |publisher=Cambridge University Press Archive |page=492}}</ref>
+
+<ref name="Spiteller 2008">{{cite journal |author=Spiteller P. |title=Chemical defence strategies of higher fungi |journal=Chemistry: A European Journal |year=2008 |volume=14 |issue=30 |pages=9100–10 |doi=10.1002/chem.200800292 |pmid=18601235}}</ref>
+
+<ref name="Stubbe 2012">{{cite journal |vauthors=Stubbe D, Verbeken A |title=''Lactarius'' subg. ''Plinthogalus'': the European taxa and American varieties of ''L. lignyotus'' re-evaluated |journal=Mycologia |year=2012 |volume=104 |issue=6 |pages=1490–501 |doi=10.3852/12-039|pmid=22684287 |s2cid=5097766 }}</ref>
+
+<ref name="urlMycoBank: Lactarius fuliginosus">{{cite web |url=http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=116400&Fields=All |title=''Lactarius fuliginosus'' (Krapf) Fr., Epicrisis Systematis Mycologici: 348, 1838 |publisher=[[MycoBank]]. International Mycological Association |access-date=2013-05-29}}</ref>
+
+<ref name="urlRecommended English Names for Fungi - Scottish Fungi">{{cite web |url=http://sites.google.com/site/scottishfungi/education/recommended-english-names-for-fungi |title=Recommended English Names for Fungi in the UK-Revised |work=Scottish Fungi |access-date=2013-06-02}}</ref>
+
+}}
+
+===Cited literature===
+*{{cite book |vauthors=Heilmann-Clausen J, Verbeken A, Vesterholt J |title=The Genus ''Lactarius'' |series=Fungi of Northern Europe – Vol. 2 |publisher=Svampetryk |location=Denmark |year=2000 |isbn=87-983581-4-6}}
+
+==External links==
+*{{IndexFungorum|228785}}
+
+{{Taxonbar|from=Q2178027}}
+
+[[Category:Lactarius|fuliginosus]]
+[[Category:Fungi described in 1782]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]

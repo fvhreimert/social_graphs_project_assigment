@@ -1,0 +1,109 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{Speciesbox
+| image = Lactarius deceptivus 50255.jpg
+| genus = Lactarius
+| species = deceptivus
+| authority = ([[Charles Horton Peck|Peck]]) [[Otto Kuntze|Kuntze]] (1891)
+| synonyms_ref = <ref name="urlRussulales News / Lactarius deceptivus"/>
+| synonyms =
+''Lactarius deceptivus'' <small>Peck (1885)</small><br>
+''Lactarius tomentosomarginatus'' <small>[[Lexemuel Ray Hesler|Hesler]] & [[Alexander H. Smith|A.H.Sm.]] (1979)</small>
+}}
+{{Mycomorphbox
+| name = ''Lactifluus deceptivus''
+| whichGills = decurrent
+| capShape = depressed
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = white
+| howEdible = caution
+}}
+{{stack end}}
+
+'''''Lactifluus deceptivus''''' ([[Synonym (taxonomy)|synonym]] '''''Lactarius deceptivus'''''), commonly known as the '''deceiving milkcap''', is a common species of [[fungus]] in the family [[Russulaceae]].
+
+It produces large [[mushroom]]s with funnel-shaped [[pileus (mycology)|caps]] reaching up to {{convert|25|cm|abbr=on|frac=2}} in diameter, on top of hard white [[stipe (mycology)|stems]] that may reach {{convert|4|–|10|cm|abbr=on|frac=4}} long and up to {{convert|3|cm|abbr=on|frac=4}} thick. The [[lamella (mycology)|gills]] are closely spaced together and yellowish-cream in color. When young, the cap is white in all parts, but the depressed center becomes dull brownish in age and breaks up into scales. The edge of the cap has a roll of cottony tissue that collapses as the cap expands. The surface of the stem has a velvety texture, especially near the base. The mushroom exudes a milky white acrid [[latex]] when it is cut or injured. Similar milk-cap species include ''[[Lactifluus piperatus]]'', ''L.&nbsp;pseudodeceptivus'', ''L.&nbsp;caeruleitinctus'', ''L.&nbsp;subvellereus'', ''Lactarius arcuatus'' and ''Lactarius parvulus''.
+
+''Lactifluus deceptivus'' is found throughout eastern North America on the ground in [[conifer]]ous forests near [[Conium|hemlock]] or [[deciduous forest]]s near [[oak]], and in oak-dominated forests of [[Costa Rica]].
+
+==Taxonomy==
+The species was first described in the scientific literature by American mycologist [[Charles Horton Peck]] in 1885.<ref name=Peck1884/> The [[specific name (botany)|specific epithet]] ''deceptivus'' is derived from the [[Latin]] word for "deceptive".<ref name=Schalkwijk-Barendsen1991/> The name may allude to the contrasting appearance of young and old fruit bodies.<ref name=Roody2003/> It is [[common name|commonly]] known as the "deceptive lactarius", the "deceiving lactarius",<ref name=Roody2003/> or the "deceptive milkcap". In the state of [[Puebla]], Mexico, it is known as ''oreja de chivo'', or "kid ear".<ref name=Montoya1996/>
+
+Following the split-off of the [[phylogenetically]] distinct genus ''Lactifluus'' from the other milk-caps in the genus ''[[Lactarius (fungus)|Lactarius]]'',<ref name="Buyck2008"/><ref name="verbeken2013"/> the correct combination for the species is the one made by [[Otto Kuntze]] in 1891,<ref name="urlRussulales News / Lactarius deceptivus"/> ''Lactifluus deceptivus''. Within the genus ''Lactifluus'', ''L.&nbsp;deceptivus'' is [[classification (biology)|classified]] in the [[subgenus]] ''Lactifluus'', [[section (biology)|section]] ''Albati''. Characteristics of species in this section include a white or whitish immature cap that may later turn yellow-brown to cinnamon-color; white to cream-colored [[latex]] that typically has an [[wikt:acrid|acrid]] taste; a velvet-textured stem due to a cuticle made of long narrow, thick-walled hairs. Other species in this section include ''[[Lactifluus vellereus|L.&nbsp;vellereus]]'' (the [[type species]]), ''[[Lactifluus subvellereus|L.&nbsp;subvellereus]]'', and ''[[Lactifluus caeruleitinctus|L.&nbsp;caeruleitinctus]]''.<ref>Hesler and Smith, 1979, p. 191.</ref>
+
+Based on a [[morphology (biology)|morphological]] study published in 2005, ''Lactarius tomentosomarginatus'' is considered [[synonym (taxonomy)|synonymous]] with ''Lactifluus&nbsp;deceptivus''.<ref name=Montoya2005/> ''L.&nbsp;tomentosomarginatus'', described by Hesler and [[Alexander H. Smith|Smith]] in their 1979 monograph of North American milk-caps, was considered by them to be a "satellite species", differing from ''L.&nbsp;deceptivus'' on the basis of smaller [[spore]]s, smaller ornamentations on the surface of the spores, crowded and forked narrow gills, and differences in the micro-structure of the [[pileipellis|cap cuticle]].<ref>Hesler and Smith, 1979, pp. 195–97.</ref>
+
+==Description==
+ in age.]]
+
+The [[pileus (mycology)|cap]] is {{convert|5|-|25.5|cm|abbr=on|frac=4}} in diameter,<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=188}}</ref> initially convex, but becomes funnel-shaped in age. The margin (cap edge) is rolled inwards and cottony when young, concealing the immature [[lamella (mycology)|gills]]. The cap surface is dry, smooth and whitish when young, often with yellowish or brownish stains, but becomes coarsely scaly and darkens to dull brownish-ochre with age. The gills have an adnate<ref name="audu" /> to decurrent attachment to the stem, close to subdistant, white at first then cream to pale ochre. They are {{convert|5|–|65|mm|abbr=on|frac=4}} long and {{convert|1|–|7|mm|frac=16|abbr=on}} deep.<ref name=Ammirati1985/> The [[stipe (mycology)|stem]] is {{convert|3|–|10|cm|abbr=on|frac=4}} long, up to {{convert|3|cm|abbr=on|frac=4}} thick, nearly equal in width throughout or tapered downward.<ref name="audu" /> It is dry, scurfy to nearly smooth and white, staining brown with age.<ref name="Bessette 2009 p.167">Bessette ''et al''., 2009, p. 167.</ref> It is initially stuffed (as if filled with cotton), but later becomes hollow. The [[trama (mycology)|flesh]] is thick and white, and between {{convert|3|and|15|mm|abbr=on|frac=8}} thick. The latex produced by the mushroom is white, and does not change color upon exposure to air, although it stains the mushroom flesh a yellowish-brown color.<ref name=Ammirati1985/>
+
+The odor of the flesh and latex may range from indistinct to pungent or turnip-like in age; the taste is strongly acrid—so much that it may have an anesthetizing effect in the throat.<ref name=Ammirati1985/>
+
+===Microscopic characteristics===
+The [[spore print]], freshly made, is white to whitish; after drying out the spores in mass are pale yellowish. The [[spore]]s are broadly ellipsoid, [[hyaline]] (translucent) and measure 9–13 by 7–9&nbsp;[[micrometre|μm]]. An [[wikt:apiculus|apiculus]] is prominent. The spores are ornamented with warts and spines that do not form a reticulum (a system of raised, net-like ridges) on the surface. The prominences are up to 1.5&nbsp;μm high, and [[amyloid (mycology)|amyloid]], meaning they absorb [[iodine]] when [[staining|stained]] with [[Melzer's reagent]]. The [[basidia]] (spore-bearing cells) are four-spored, and measure 46–58 by 7–9&nbsp;μm. The [[wikt:pleurocystidium|pleurocystidia]] ([[cystidium|cystidia]] found on the face of a gill) are very abundant, roughly club-shaped to [[ventricose]] (swollen in the middle), with apices often tapering; their dimensions are 48–96 x 6–10&nbsp;μm. The [[wikt:cheilocystidium|cheilocystidia]] (cystidia on the edge of the gills) are 40–58 x 5–7&nbsp;μm, and more or less similar in appearance to the pleurocystidia.<ref name="H&S pp. 194-95">Hesler and Smith, 1979, pp. 193–95.</ref> The [[pileipellis|cap cuticle]] is made of a layer of somewhat uplifted hyphae. The stem cuticle is a layer of bent-over hyphae bearing thick-walled, filamentous caulocystidia (cystidia on the stem), and it lacks a gelatinous layer.<ref name="Bessette 2009 p.167"/>
+
+===Similar species===
+The fungus ''[[Lactifluus pseudodeceptivus]]'' is very similar to ''L.&nbsp;deceptivus'' in its external appearance, but it has spore ornamentation that forms a reticulum, and its stem is an [[wikt:ixocutis|ixocutis]] (a gelatinous layer of hyphae lying parallel to the surface). ''[[Lactifluus caeruleitinctus|L.&nbsp;caeruleitinctus]]'' is also similar in appearance, but it has a milky-white stem with blue tints that develops more intense blue coloration after handling, and it lacks a cottony, inrolled margin. Other lookalike species include ''[[Lactarius arcuatus]]'', which has a much smaller cap and smaller spores,<ref>Bessette ''et al''., 2009, p. 148.</ref> and ''[[Lactarius parvulus|Lactarius&nbsp;parvulus]]'', which has a small, [[wikt:zonate|zonate]] cap.<ref>Bessette ''et al''., 2009, p. 217.</ref> ''[[Russula brevipes]]'' and ''[[Russula angustispora|R.&nbsp;angustispora]]'' are also somewhat similar in appearance, but they do not produce latex when cut or injured. ''Lactifluus subvellereus'' var. ''subdistans'' has more widely spaced gills, and an even cap margin. ''[[Lactifluus piperatus]]'' has densely crowded gills, a firm rather than soft and cottony cap margin, and exceedingly acrid latex.<ref name=Roody2003/>
+
+==Habitat and distribution==
+
+
+Like all milk-caps (''Lactarius'' and ''Lactifluus''), ''L.&nbsp;deceptivus'' is [[mycorrhiza]]l, meaning the fungus forms a [[mutualism (biology)|mutualistic]] association with certain trees and shrubs. The subterranean [[mycelium]] of the fungus forms an intimate association with tree roots, enveloping them in a sheath of tissue that allows both organisms to exchange nutrients they would otherwise be unable to obtain. The fruit bodies of the fungus grow solitarily, scattered, or in groups on the ground in [[conifer]] or [[hardwood forest]]s, often under [[oak]] (''Quercus'') or [[Tsuga|hemlock]] (''Tsuga''). Smith has noted a preference for bogs and the edges of woodland pools in hardwood forests, and in oak stands that have an [[understory]] of blueberry bushes (''[[Vaccinium]]'' species).<ref name=Smith1980/> It is widely distributed in eastern North America (appearing from July to September),<ref name="audu" /> and has also been reported from southern<ref name=Ammirati1985/> and western Canada.<ref name=Schalkwijk-Barendsen1991/> It is a fairly common species, and fruits from June to October.<ref name=Ammirati1985/> The mushroom has also been reported from Mexico (in Puebla and in [[Veracruz]]) from oak and pine forests, at altitudes slightly over {{convert|2000|m|mi|sp=us}},<ref name=Montoya1990/> and from [[Costa Rica]], where it is abundant in oak forests.<ref name="urlLactarius deceptivus"/>
+
+==Potential edibility==
+In his original description of the species, Peck reported: "An experiment of its [[Edible mushroom|edible]] qualities was made without any evil consequences."<ref name="Peck1884" /> Thorough cooking removes the bitter taste,<ref name="Bessette 2009 p.167" /> but the mushroom is not highly regarded as an edible,<ref name="Roody2003" /> and as Hesler and Smith have noted, "some of our acquaintances have found it rather undesirable (and indigestible)."<ref name="H&S pp. 194-95" /> Other guides list it as outright inedible.<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |publisher=Firefly Books |year=2010 |isbn=978-1-55407-651-2 |location=Buffalo, NY |page=110 |orig-year=2005}}</ref> The mushroom is sold at traditional markets in Puebla, Mexico.<ref name="Montoya1996" />
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Lactifluus species|List of ''Lactifluus'' species]]
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=Buyck2008>{{cite journal |vauthors=Buyck B, Hofstetter V, Eberhardt U, Verbeken A, Kauff F |year=2008|title=Walking the thin line between ''Russula'' and ''Lactarius'': the dilemma of ''Russula'' subsect. ''Ochricompactae''. |journal=Fungal Diversity |volume=28 |pages=15–40 |url=http://www.fungaldiversity.org/fdp/sfdp/28-2.pdf }}</ref>
+
+<ref name=Ammirati1985>{{cite book |vauthors=Ammirati JF, Traquair JA, Horgen PA |title=Poisonous Mushrooms of Canada: Including other Inedible Fungi |publisher=Fitzhenry & Whiteside in cooperation with Agriculture Canada and the Canadian Government Publishing Centre, Supply and Services Canada |location=Markham, Canada |year=1985 |pages=264–65 |isbn=0-88902-977-6}}</ref>
+
+<ref name=Peck1884>{{cite journal |author=Peck CH. |year=1885 |title=Report of the Botanist (1884) |journal=Annual Report on the New York State Museum of Natural History |volume=38 |page=125 |url=https://www.biodiversitylibrary.org/page/24348645#211 |access-date=2010-07-12}}</ref>
+
+<ref name=Roody2003>{{cite book |author=Roody WC. |title=Mushrooms of West Virginia and the Central Appalachians |publisher=University Press of Kentucky |location=Lexington, Kentucky |year=2003 |page=88 |isbn=0-8131-9039-8|url=https://books.google.com/books?id=5HGMPEiy4ykC&q=Lactarius+deceptivus&pg=PA88 |access-date=2010-07-12}}</ref>
+
+<ref name=Schalkwijk-Barendsen1991>{{cite book |author=Schalkwijk-Barendsen HME. |title=Mushrooms of Western Canada |publisher=Lone Pine Publishing |location=Edmonton, Canada |year=1991 |page=[https://archive.org/details/mushroomsofweste0000scha/page/216 216] |isbn=0-919433-47-2 |url=https://archive.org/details/mushroomsofweste0000scha/page/216 }}</ref>
+
+<ref name=Smith1980>{{cite book |vauthors=Smith AH, Weber NS |title=The Mushroom Hunter's Field Guide |publisher=University of Michigan Press |location=Ann Arbor, Michigan |year=1980 |pages=246–47 |isbn=0-472-85610-3}}</ref>
+
+<ref name=Montoya1990>{{cite journal |vauthors=Montoya L, Guzmán G, Bandala VM |year=1990 |title=New records of ''Lactarius'' from Mexico and discussion of the known species |journal=Mycotaxon |volume=38 |pages=349–95 |url=http://www.cybertruffle.org.uk/cyberliber/59575/0038/0349.htm |access-date=2010-07-12}}</ref>
+
+<ref name=Montoya2005>{{cite journal |vauthors=Montoya L, Bandala VM |year=2005 |title=Revision of ''Lactarius'' from Mexico |journal=Persoonia |volume=18 |issue=4 |pages=471–83}}</ref>
+
+<ref name=Montoya1996>{{cite journal |vauthors=Montoya L, Bandala VM |year=1996 |title=Additional new records on ''Lactarius'' from Mexico |journal=Mycotaxon |volume=57 |pages=425–50 |url=http://www.cybertruffle.org.uk/cyberliber/59575/0057/0425.htm |access-date=2010-07-12}}</ref>
+
+<ref name="urlLactarius deceptivus">{{cite web |url=http://www.nybg.org/bsci/res/hall/deceptiv.html |title=''Lactarius deceptivus'' |publisher=New York Botanical Gardens |work=Macrofungi of Costa Rica |vauthors=Halling RE, Mueller GM |access-date=2010-07-12}}</ref>
+
+<ref name="urlRussulales News / Lactarius deceptivus">{{cite web |url=http://www.mtsn.tn.it/russulales-news/tx_card.asp?index=230 |title=''Lactarius deceptivus'' Peck |author=Buyck B |work=Russulales News |access-date=2014-10-19 |url-status=dead |archive-url=https://web.archive.org/web/20120301210233/http://www.mtsn.tn.it/russulales-news/tx_card.asp?index=230 |archive-date=2012-03-01 }}</ref>
+
+<ref name="verbeken2013">{{Cite journal |vauthors=Verbeken A, Nuytinck J |title=Not every milkcap is a ''Lactarius'' |journal=Scripta Botanica Belgica |volume=51 |year=2013 |pages=162–168 |url=https://fungi.fr/Html/VerbekenNuytinckLactarius.pdf
+}}</ref>
+
+}}
+
+===Cited texts===
+*{{cite book |vauthors=Bessette AR, Bessette A, Harris DM |title=Milk Mushrooms of North America: A Field Guide to the Genus ''Lactarius'' |publisher=Syracuse University Press |location=Syracuse, New York |year=2009 |isbn=978-0-8156-3229-0}}
+*{{cite book |title=North American Species of ''Lactarius'' |vauthors=Hesler LR, Smith AH |year=1979 |publisher=The University of Michigan Press |location=Michigan |isbn=0-472-08440-2}}
+
+==External links==
+*{{IndexFungorum|228626}}
+*{{Mycobank|228626}}
+
+{{good article}}
+{{Taxonbar|from=Q3283620}}
+
+[[Category:Lactifluus|deceptivus]]
+[[Category:Fungi described in 1885]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Central America]]
+[[Category:Taxa named by Charles Horton Peck]]
+[[Category:Fungus species]]

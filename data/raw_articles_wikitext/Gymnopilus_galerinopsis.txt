@@ -1,0 +1,41 @@
+{{Short description|Species of fungus}}
+{{more citations needed|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption =
+| taxon = Gymnopilus galerinopsis
+| authority = [[Laura Guzmán Dávalos|Guzm.-Dáv.]]
+| synonyms =
+}}
+{{mycomorphbox
+| name = Gymnopilus galerinopsis
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+
+'''''Gymnopilus galerinopsis''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]]. It is found in the state of [[Veracruz]], [[Mexico]].<ref name="Gymnopilus galerinopsis">{{cite web |title=''Gymnopilus galerinopsis'' |url=https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/361716 |publisher=MYCOBANK Database |accessdate=2022-02-26}}</ref>
+
+==See also==
+{{Portal|Fungi}}
+[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+==References==
+{{reflist}}
+
+==External links==
+*''[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=361716 Gymnopilus galerinopsis]'' at [[Index Fungorum]]
+
+
+{{Taxonbar|from=Q5624810}}
+
+{{DEFAULTSORT:Gymnopilus galerinopsis}}
+[[Category:Gymnopilus|galerinopsis]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

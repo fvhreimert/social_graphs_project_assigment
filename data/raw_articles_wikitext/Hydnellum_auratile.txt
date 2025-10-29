@@ -1,0 +1,64 @@
+{{Short description|Species of tooth fungus}}
+{{Use dmy dates|date=April 2025}}
+{{Use Oxford spelling|date=April 2025}}
+{{Speciesbox
+| image = Hydnellum auratile 34144.jpg
+| taxon = Hydnellum auratile
+| authority = ([[Britzelm.]]) [[Maas Geest.]] (1959)
+| synonyms_ref = <ref name="urlFungorum synonymy: Hydnellum auratile"/>
+| synonyms = *''Hydnum auratile'' {{au|Britzelm. (1891)}}
+}}
+
+'''''Hydnellum auratile''''' is a [[tooth fungus]] in the family [[Bankeraceae]],<ref name="CoL_3MZDK"/> first described by the German mycologist [[Max Britzelmayr]] in 1891. The fungus produces distinctive orange to orange-brown [[basidiocarp|fruit bodies]] with [[pileus (mycology)|caps]] up to 5&nbsp;cm wide that fade to brown with age. It forms [[ectomycorrhiza]]l associations with both coniferous and deciduous trees, particularly [[Scots pine]] and [[Norway spruce]] on [[calcareous]] soils. Though widely distributed across Europe, parts of Asia, Australia, and North America's [[Pacific Northwest]], ''H.&nbsp;auratile'' is considered [[endangered species|endangered]] in Switzerland.
+
+==Taxonomy==
+
+''Hydnellum auratile'' was first [[species description|described]] as a species of ''[[Hydnum]]'' by German mycologist [[Max Britzelmayr]] in 1891.<ref name="Britzelmayr 1892"/> [[Rudolf Arnold Maas Geesteranus]] transferred it to ''[[Hydnellum]]'' in 1959.<ref name="Maas Geesteranus"/>
+
+==Description==
+
+The [[basidiocarp|fruit bodies]] of ''Hydnellum auratile'' arise on a distinct [[Stipe (mycology)|stipe]] and bear a [[Pileus (mycology)|cap]] up to 5&nbsp;cm wide, occurring either singly or in crowded groups. Young caps are vivid orange to orange-brown, with a smooth to slightly scaly surface that feels velvety to the touch. As they mature, fine radial hairs develop and the centre often sinks slightly, creating a shallow, funnel-shaped profile. Concentric wrinkles may appear toward the margin, and the cap colour fades to a muted brownish tone. The flesh ([[trama (mycology)|context]]) is thin—usually no more than 2&nbsp;mm thick—and mirrors the cap's colour transition from bright orange to pale brown.<ref name="Ryvarden 2024"/>
+
+The [[stipe (mycology)|stipe]] reaches about 4&nbsp;cm in height and 1&nbsp;cm in width, matching the cap in colour and covered in a similar velvety, felt-like layer of hairs. Under the microscope, the fungus is built of [[hypha]]e 2.5–7&nbsp;μm wide, each separated by simple cross-walls ([[septum|septa]]). Its [[spore]]s are roughly spherical (subglobose), measuring 5–6 × 3.5–4.5&nbsp;μm, and are ornamented with tiny wart-like projections (tuberculate).<ref name="Ryvarden 2024"/> [[Spore print|In mass]], the [[basidiospore|spores]] are brown.<ref name="Dickson 2004"/>
+
+The widespread ''[[Hydnellum aurantiacum]]'' is a close lookalike, but can be distinguished by having a white to [[buff (colour)|buff]] cap, dull orange to brown flesh, and white spines.<ref name="Dickson 2004"/>
+
+==Habitat and distribution==
+
+The fungus is widely spread in Europe,<ref name="Dickson 2004"/> and has also been reported from the [[Pacific Northwest]] region of North America.<ref name="Ammirati 2009"/> It is considered [[endangered species|endangered]] in Switzerland.<ref name="Senn-Irlet 2007"/> It forms associations with both coniferous and deciduous trees.<ref name="Ryvarden 2024"/> It predominantly occurs in calcareous forests, often under [[Scots pine]] (''Pinus sylvestris'') and [[Norway spruce]] (''Picea abies'') on soils derived from limestone, chalk or shell-rich substrates, forming [[ectomycorrhiza]]l associations with these trees.<ref name="Hanssen & Gulden 2002"/> The species has a broad—but patchy—distribution across the temperate zone of Europe, with confirmed records from France, Italy, Germany, Austria, Switzerland, the Czech Republic, Slovakia, Denmark, Sweden and Finland.<ref name="Hanssen & Gulden 2002"/> Other regions outside Europe where it is known to occur include India, Japan, Australia.<ref name="Hanssen & Gulden 2002"/>
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Ammirati 2009">{{cite book |last1=Ammirati |first1=J. |last2=Trudell |first2=S. |title=Mushrooms of the Pacific Northwest |url=https://archive.org/details/mushroomspacific00trud_400 |url-access=limited |series=Timber Press Field Guides |publisher=Timber Press |location=Portland, Oregon |year=2009 |page=[https://archive.org/details/mushroomspacific00trud_400/page/n255 231] |isbn=978-0-88192-935-5}}</ref>
+
+<ref name="Britzelmayr 1892">{{cite book |last=Britzelmayr |first=M. |title=Hymenomyceten aus Südbayern 11 (Theil VIII): Polyporei, Hydnei, Thelephorei, Clavariei und Tremellinei |publisher=R. Friedländer & Sohn |location=Berlin |page=14 |language=de}}</ref>
+
+<ref name="CoL_3MZDK">{{Catalogue of Life |id=3MZDK |title=''Hydnellum auratile'' (Britzelm.) Maas Geest. |access-date=23 April 2025}}</ref>
+
+<ref name="Dickson 2004">{{cite journal |last1=Dickson |first1=G. |last2=Emmett |first2=E. |title=''Hydnellum auratile'' at last |journal=Field Mycology |year=2004 |volume=5 |issue=2 |pages=49–51 |doi=10.1016/S1468-1641(10)60249-6 |doi-access=free}}</ref>
+
+<ref name="Hanssen & Gulden 2002">{{cite journal |last1=Hanssen |first1=Even W. |last2=Gulden |first2=Gro |year=2002 |title=''Hydnellum auratile'' (Britzelm.) Maas Geest. – en ny jordboende piggsopp i Norge |trans-title=''Hydnellum auratile'' (Britzelm.) Maas Geest. – a new terrestrial tooth fungus in Norway |journal=Blyttia |volume=60 |pages=191–194}}</ref>
+
+<ref name="Maas Geesteranus">{{cite journal |last=Maas Geesteranus |first=R.A. |title=Sur un ''Hydnellum'' méconnu |journal=Persoonia |year=1959 |volume=1 |issue=1 |pages=111–114 |url=http://www.cybertruffle.org.uk/cyberliber/61056/0001/001/0111.htm |language=fr}}</ref>
+
+<ref name="Ryvarden 2024">{{cite book |last=Ryvarden |first=Leif |year=2024 |title=Hydnoid Genera – A World Synopsis |series=Synopsis Fungorum |volume=50 |publisher=Fungiflora |location=Oslo |url=https://www.fungiflora.no/synopsis-50-hydnoid-genera |page=29}}{{OA}}</ref>
+
+<ref name="Senn-Irlet 2007">{{cite report |last1=Senn-Irlet |first1=B. |last2=Bieri |first2=G. |last3=Egli |first3=S. |title=Lista Rossa Macromiceti. Lista Rossa delle specie minacciate in Svizzera. UV-0718-I |year=2007 |location=Bern |publisher=Ufficio federale dell’ambiente |language=it |url=http://www.bafu.admin.ch/publikationen/publikation/00055/index.html?lang=fr&lang=it}}</ref>
+
+<ref name="urlFungorum synonymy: Hydnellum auratile">{{cite web |title=GSD Species Synonymy: ''Hydnellum auratile'' (Britzelm.) Maas Geest. |url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=332079 |publisher=Species Fungorum. CAB International |access-date=23 April 2025}}</ref>
+
+}}
+
+{{Taxonbar|from=Q10434764}}
+
+[[Category:Hydnellum|auratile]]
+[[Category:Fungi described in 1891]]
+[[Category:Fungi of Australia]]
+[[Category:Fungi of India]]
+[[Category:Fungi of Japan]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Inedible fungi]]
+[[Category:Taxa named by Max Britzelmayr]]
+[[Category:Fungus species]]

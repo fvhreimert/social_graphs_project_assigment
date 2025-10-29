@@ -1,0 +1,53 @@
+{{Short description|Edible mushroom species}}
+{{speciesbox
+| image = Agaricus-urinascens-Dordogne 01.JPG
+| image_caption = At [[Javerlhac-et-la-Chapelle-Saint-Robert]]
+| taxon = Agaricus urinascens
+| authority = ([[Jul.Schäff.]] & [[F.H.Møller]]) [[Rolf Singer|Singer]]
+| synonyms = {{collapsible list|
+{{specieslist
+|Agaricus albertii| Bon
+|Agaricus excellens| F.H.Møller
+|Agaricus macrosporus var. stramineus |(Jul.Schäff. & F.H.Møller) Bon
+|Agaricus schaefferianus |Hlaváček
+|Agaricus stramineosquamulosus| Rauschert
+|Agaricus substramineus|Courtec.
+|Agaricus urinascens var. excellens |(F.H.Møller) Nauta
+|Psalliota arvensis subsp. macrospora| F.H.Møller & Jul.Schäff.
+|Psalliota excellens| F.H.Møller 
+|Psalliota macrospora |(F.H.Møller & Jul.Schäff.) F.H.Møller 
+|Psalliota straminea |Jul.Schäff. & F.H.Møller 
+|Psalliota urinascens |Jul.Schäff. & F.H.Møller 
+|Agaricus macrosporus |(F.H.Møller & Jul.Schäff.) Pilát (Ambiguous)
+|Agaricus stramineus |(Jul.Schäff. & F.H.Møller) Singer (Ambiguous)
+}}
+}}
+| synonyms_ref = <ref name=cat>{{Catalogue of Life 
+     |id=65PST
+     |title=Agaricus urinascens (Jul. Schäff. & F.H. Møller) Singer
+
+     |option=
+     |access-date=16 July 2022
+}}</ref>
+
+}}
+
+'''''Agaricus urinascens''''' (the '''macro mushroom''')<ref>{{Cite web |url=https://www.britmycolsoc.org.uk/field_mycology/english-names |title=Archived copy |access-date=2024-01-25 |archive-date=2022-11-03 |archive-url=https://web.archive.org/web/20221103000333/https://www.britmycolsoc.org.uk/field_mycology/english-names |url-status=dead }}</ref> is a species of fungus in the family [[Agaricaceae]].<ref>{{cite web|title=''Agaricus urinascens''|website=Mycobank|url= https://www.MycoBank.org/MB/292321}}</ref>
+
+The mushroom grows up to {{Convert|30|cm}} wide and {{Convert|12|cm|abbr=on|frac=4}} tall. The [[Pileus (mycology)|cap]] is whitish, domed then becoming convex in age. The gills are whitish, then darken to pink or brownish with age. The flesh is white with an [[almond]] scent.<ref name="tfb">{{Cite book |last=Francis-Baker |first=Tiffany |title=Concise Foraging Guide |date=2021 |publisher=[[Bloomsbury Publishing|Bloomsbury]] |isbn=978-1-4729-8474-6 |series=[[The Wildlife Trusts]] |location=London |pages=158}}</ref>
+
+It can be found in pastures of Europe from June to September.<ref>{{cite book |title=Concise Mushroom Guide |publisher=Bloomsbury Wildlife |year=2019 |ISBN=978-1472963789 |series=The Wildlife Trusts |page=122}}</ref><ref>{{cite book |last1=Buczacki |first1=S. |title=Collins Fungi Guide |last2=Shields |first2=C. |last3=Ovenden |first3=D. |publisher=HarperCollins |year=2012 |ISBN=978-0007242900 |page=46}}</ref> It is [[Edible mushroom|edible]] when cooked and can be dried for preservation.<ref name="tfb" />
+
+==References==
+{{reflist}}
+
+{{Taxonbar|from=Q2249479}}
+
+[[Category:Agaricus|urinascens]]
+[[Category:Edible fungi]]
+[[Category:Fungi of Europe]]
+[[Category:Fungus species]]
+
+
+
+{{Agaricaceae-stub}}

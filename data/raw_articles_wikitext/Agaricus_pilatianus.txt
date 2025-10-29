@@ -1,0 +1,32 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Agaricus pilatianus 060825wa.jpg
+| taxon = Agaricus pilatianus
+| authority = (Bohus) Bohus
+}}
+{{mycomorphbox
+| name = Agaricus pilatianus
+| whichGills =free
+| capShape =convex
+| capShape2=flat
+| hymeniumType=gills
+| stipeCharacter=ring
+| ecologicalType=saprotrophic
+| sporePrintColor=brown
+| sporePrintColor2=
+| howEdible=poisonous
+}}
+
+'''''Agaricus pilatianus (Bohus)''''' is a rare [[species]] of [[poisonous]] [[mushroom]] found in [[Europe]]. It is a white to cream colour that discolours when cut, bruised or damaged. The cap can reach sizes of up to {{convert|12|cm}} and can grow to {{convert|8|cm}} in height.
+
+== External links ==
+* [https://web.archive.org/web/20101230184422/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~5493~gid~~source~gallerydefault.asp Rogers Mushrooms&nbsp;– Agaricus pilatinanus Mushroom]
+
+{{Taxonbar|from=Q80443}}
+
+[[Category:Agaricus|pilatianus]]
+[[Category:Poisonous fungi]]
+[[Category:Fungus species]]
+
+
+{{Agaricaceae-stub}}

@@ -1,0 +1,29 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Peziza spec. - Lindsey 1.jpg
+| taxon = Legaliana badia
+| authority = ([[Christiaan Hendrik Persoon|Pers.]]) Van Vooren, 2020
+| synonyms = * ''Peziza badia'' <small>Pers., 1800</small>
+}}
+
+'''''Legaliana badia''''' is a species of [[apothecia]]l [[fungus]] belonging to the family [[Pezizaceae]]. This is one of the more familiar of the cup fungi of Europe, appearing from August to November as irregular dark brown cups up to {{Convert|8|cm|frac=2}} wide and {{Convert|2|cm|abbr=on|frac=4}} tall,<ref name="tfb">{{Cite book |last=Francis-Baker |first=Tiffany |title=Concise Foraging Guide |date=2021 |publisher=[[Bloomsbury Publishing|Bloomsbury]] |isbn=978-1-4729-8474-6 |series=[[The Wildlife Trusts]] |location=London |pages=104}}</ref> often in small groups, on soil in woodland. The species tends to be seen more frequently on sandy soils and favours bare ground, e.g. at the sides of paths. This is a frequently observed European species with scattered records from many other parts of the world.
+
+Roger Phillips lists the species as inedible,<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=367}}</ref> but Tiffany Francis-Baker says it can be cooked and supplemented with other ingredients.<ref name="tfb" />
+
+==References==
+{{Reflist}}
+
+==Further reading==
+*{{cite book | last = Jordan | first = Michael | authorlink = Michael Jordan (mycologist) | title = The Encyclopedia of Fungi of Britain and Europe | publisher = [[Frances Lincoln Publishers]] | date = 2004 | page = 45 | isbn = 978-0-7112-2379-0}}
+*{{cite book | last = Buczacki | first = Stefan | authorlink = Stefan Buczacki | title = Collins Guide to Mushrooms and Toadstools of Britain and Europe | publisher = [[HarperCollins]] | date = 1992 | page = 217 | isbn = 0-00-219978-5}}
+
+{{Taxonbar|from=Q3412104}}
+
+[[Category:Pezizaceae]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1800]]
+[[Category:Taxa named by Christiaan Hendrik Persoon]]
+[[Category:Fungus species]]
+
+
+{{Pezizomycetes-stub}}

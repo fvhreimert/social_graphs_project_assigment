@@ -1,0 +1,40 @@
+{{Short description|Species of fungus}}
+{{more citations needed|date=October 2025}}
+{{Speciesbox
+| image = 
+| image_caption = 
+| taxon = Gymnopilus intermedius
+| authority = ([[Rolf Singer|Singer]]) Singer (1951)
+| synonyms = *''Pholiota intermedia'' {{Small|Singer (1929)}}
+}}
+{{mycomorphbox
+| name = Gymnopilus intermedius
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+
+'''''Gymnopilus intermedius''''' is a species of [[mushroom]]-forming [[fungus]] in the family [[Hymenogastraceae]]. It was [[species description|described]] by mycologist [[Rolf Singer]] in 1951.<ref>{{cite book |author=Singer R. |year=1951 |title=The Agaricales in Modern Taxonomy |series=Lilloa |volume=22 |page=560}}</ref>
+
+==See also==
+{{Portal|Fungi}}
+* [[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q5624834}}
+
+[[Category:Gymnopilus|intermedius]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Rolf Singer]]
+[[Category:Fungi described in 1929]]
+[[Category:Fungus species]]
+
+
+{{Hymenogastraceae-stub}}

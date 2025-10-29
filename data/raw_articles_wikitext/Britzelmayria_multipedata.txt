@@ -1,0 +1,54 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Britzelmayria_multipedata.jpg
+| genus = Britzelmayria
+| species = multipedata
+| authority = ([[Charles Horton Peck|Peck]]) [[Dieter Wächter|D. Wächt]] & [[Andreas Melzer|A. Melzer]] (2020)
+| synonyms = ''Psathyra multipedata'' <small>[[Charles Horton Peck|Peck]] (1905)</small><br>
+''Astylospora multipedata'' <small>[[William Murrill|Murrill]] (1922)</small><br>
+''Psathyrella multipedata'' <small>[[Alexander H. Smith|A.H. Sm.]] (1941)</small><br>
+''Drosophila multipedata'' <small>[[Robert Kühner|Kühner]] & [[Henri Romagnesi|Romagn.]] (1953)</small><br>
+''Psathyra stipatissima'' <small>[[Jakob Emanuel Lange|J.E.Lange]] (1926)</small><br>
+''Drosophila stipatissima'' <small>[[Henri Romagnesi|Romagn.]] (1970)</small><br>
+''Psathyrella multipedata f. annulata'' <small>[[Ladislav Hagara|Hagara]] (2014)</small>
+| image2 = Psathyrella multipedata 20081109wb.JPG
+}}
+{{Mycomorphbox
+| name = ''{{PAGENAME}}''{{italic title}}
+| hymeniumType = gills
+| capShape = conical
+| whichGills = adnate
+| stipeCharacter = bare
+| sporePrintColor = purple-brown
+| ecologicalType = saprotrophic
+| howEdible = unknown
+| capShape2 = convex
+| whichGills2 = adnexed
+}}
+
+'''''Britzelmayria multipedata''''' is a species of [[mushroom]] producing [[fungus]] in the family [[Psathyrellaceae]].<ref>{{Cite web |title=Species Fungorum - Britzelmayria multipedata (Peck) D. Wächt. & A. Melzer, Mycol. Progr. 19(11): 1213 (2020) |url=http://www.speciesfungorum.org/Names/GSDSpecies.asp?RecordID=831797 |access-date=2022-07-16 |website=www.speciesfungorum.org}}</ref> It is commonly known as the '''clustered brittlestem.'''
+
+== Taxonomy ==
+It was first [[Species description|described]] in 1905 by the American mycologist [[Charles Horton Peck]] who classified it as ''Psathyra multipedata.''<ref>{{Cite web |title=Species Fungorum - Psathyra multipedata Peck, Bull. Torrey bot. Club 32(2): 80 (1905) |url=http://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=182150 |access-date=2022-07-16 |website=www.speciesfungorum.org}}</ref> It was reclassified as ''Psathyrella multipedata'' in 1941 by the American mycologist[[Alexander H. Smith]]<ref>{{Cite web |title=Species Fungorum - Psathyrella multipedata (Peck) A.H. Sm., Contr. Univ. Mich. Herb. 5: 33 (1941) |url=http://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=290048 |access-date=2022-07-16 |website=www.speciesfungorum.org}}</ref> and remained known as such until recently. In 2020 the German mycologists [[Dieter Wächter]] & [[Andreas Melzer (Mycologist)|Andreas Melzer]] reclassified many species in the [[Psathyrellaceae]] family based on [[Phylogenetics|phylogenetic]] analysis and placed this species in the newly created genus ''[[Britzelmayria]]''.<ref name=":0">{{Cite journal |last1=Wächter |first1=Dieter |last2=Melzer |first2=Andreas |date=2020-11-01 |title=Proposal for a subdivision of the family Psathyrellaceae based on a taxon-rich phylogenetic analysis with iterative multigene guide tree |url=https://doi.org/10.1007/s11557-020-01606-3 |journal=Mycological Progress |language=en |volume=19 |issue=11 |pages=1151–1265 |doi=10.1007/s11557-020-01606-3 |bibcode=2020MycPr..19.1151W |issn=1861-8952|url-access=subscription }}</ref>
+
+Many mushroom field guides and websites still refer to this species as ''Psathyrella multipedata.''
+
+== Description ==
+''Britzelmayria multipedata'' is a small brittlestem mushroom with white flesh and a brown cap which is known for growing in dense clusters.
+
+'''Cap:''' 1-3cm. Starts conical before flattening into a convex cap which may become [[campanulate]] or bell shaped with age. The smooth, brown cap becomes paler when dry. '''Gills:''' Adnate or adnexed. Crowded. Light grey or brown with white fringes maturing to dark brown. '''Stem:''' 7-12cm in height with a thickness of 3-6mm tapering slightly towards the cap. It often grows in a wavy fashion with the base fused together with other members of the cluster. '''Spore print:''' Dark purplish brown. '''Spores:''' Ellipsoid and smooth with a germ pore. 6.5-10 x 3.5-4 μm. '''Taste:''' Indistinct and mild. '''Smell:''' Faint and mushroomy.<ref name=":1" /><ref name=":2" />
+
+
+
+== Habitat and distribution ==
+''Britzelmayria multipedata'' is found on soil amongst grass and in open grassy spaces amongst woodland. It is [[Saprotrophic nutrition|saprotrophic]] and grows on buried fallen trees through the late Summer to Autumn. This species is widespread and found occasionally.<ref name=":1">{{Cite book |last=Buczacki |first=Stefan |title=Collins fungi guide |date=2012 |publisher=Collins |isbn=978-0-00-724290-0 |location=London |oclc=793683235}}</ref><ref name=":2">{{Cite web |title=Psathyrella multipedata, Clustered Brittlestem mushroom |url=https://www.first-nature.com/fungi/psathyrella-multipedata.php |access-date=2022-07-16 |website=www.first-nature.com}}</ref>
+
+Observations of this species appear most common in the UK, West Europe and the East Coast of the United States.<ref>{{Cite web |title=Clustered Brittlestem (Britzelmayria multipedata) |url=https://www.inaturalist.org/taxa/1179764-Britzelmayria-multipedata |access-date=2022-07-16 |website=iNaturalist |language=en}}</ref><ref>{{Cite web |title=Mushroom Observer |url=https://mushroomobserver.org/observer/map_observations?q=1nHbp |access-date=2022-07-16 |website=mushroomobserver.org}}</ref>
+
+== References ==
+{{Reflist|refs=}}
+
+{{Taxonbar|from=Q105125651}}
+
+[[Category:Britzelmayria|multipedata]]
+[[Category:Fungus species]]

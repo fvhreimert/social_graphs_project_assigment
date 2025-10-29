@@ -1,0 +1,30 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = 2009-09-29 Xerocomellus pruinatus.jpg
+| genus = Xerocomellus
+| species = pruinatus
+| authority = ([[Elias Magnus Fries|Fr.]] & [[Christopher Theodor Hök|Hök]]) Šutara (2008)
+| synonyms =
+}}
+
+'''''Xerocomellus pruinatus''''', commonly known as the '''matte bolete''' and formerly known as '''''Boletus pruinatus''''' or '''''Xerocomus pruinatus''''', is a mushroom in the family [[Boletaceae]] native to Europe.
+
+It was transferred to the new genus ''[[Xerocomellus]]'' described by Czech mycologist Josef Šutara in 2008.<ref name="Šutara 2008"/>
+
+==References==
+{{Reflist|refs=
+
+<ref name="Šutara 2008">{{cite journal |author=Šutara J. |title=''Xerocomus'' s. l. in the light of the present state of knowledge |journal=Czech Mycology |year=2008 |volume=60 |issue=1 |pages=29–62 |doi=10.33585/cmy.60104 |url=http://web.natur.cuni.cz/cvsm/CM60104F.pdf}}</ref>
+
+}}
+
+{{Taxonbar|from=Q818958}}
+
+[[Category:Boletaceae]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi described in 1835]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]
+
+
+{{Boletales-stub}}

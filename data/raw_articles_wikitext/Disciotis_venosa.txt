@@ -1,0 +1,110 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = 2005-04-23 Disciotis venosa.jpg
+| image_caption = Mature specimen
+| taxon = Disciotis venosa
+| authority = ([[Christian Hendrik Persoon|Pers.]]) [[Boud.]] (1893)
+| synonyms_ref = <ref name="urlFungorum: Peziza venosa"/>
+| synonyms = *''Peziza venosa'' <small>Pers. (1801)</small>
+*''Discina venosa'' <small>(Pers.) [[Elias Magnus Fries|Fr.]] (1822)</small>
+*''Discina venosa'' var. ''rabenhorstii'' <small>[[Sacc.]] (1889)</small>
+*''Disciotis venosa'' f. ''radicans'' <small>Perco (1994)</small>
+}}
+{{Mycomorphbox
+| name = ''{{PAGENAME}}''
+| hymeniumType = smooth
+| capShape = infundibuliform
+| whichGills = NA
+| stipeCharacter = bare
+| stipeCharacter2 = NA
+| sporePrintColor = cream
+| sporePrintColor2 = yellow
+| ecologicalType = saprotrophic
+| howEdible = edible
+| howEdible2 = choice
+}}
+'''''Disciotis venosa''''', commonly known as the '''bleach cup''', '''veiny cup fungus''', or the '''cup morel''' is a species of [[fungus]] in the family [[Morchellaceae]]. Fruiting from April, they are often difficult to locate because of their undistinguished brown color.
+
+Found in North America and Europe, ''D.&nbsp;venosa'' appears to favor banks and slopes and sheltered sites. Although [[edible mushroom|edible]], it may be difficult to identify without microscopy.
+
+==Taxonomy==
+The fungus was first [[species description|described]] as ''Peziza venosa'' by [[Christian Hendrik Persoon]] in 1801, from collections made near [[Klagenfurt]], Austria.<ref name="Persoon 1801" /> [[Jean Louis Émile Boudier]] transferred it to ''[[Disciotis]]'' in 1893.<ref name="Boudier 1893" />
+
+Bruno Perco described the [[Form (botany)|form]] ''Disciotis venosa'' f. ''radicans'' from collections made in Italy.<ref name="Perco 1994" />
+
+The [[botanical name|specific epithet]] ''venosa'', meaning "veined", refers to the veins on the inner cup surface. [[Common name]]s for the species include bleach cup,<ref name="Roberts 2011" /> veiny cup fungus,<ref name="Tylutki 1979" /> and cup morel.<ref name="McKnight 1987" />
+
+==Description==
+
+
+[[Ascocarp|Fruit bodies]] produced by this fungus are cup- or disc-shaped, up to {{convert|20|cm|0|abbr=off}} wide. The interior surface of the cup, the [[hymenium]], is dark brown. It tends to become folded into vein-like markings with age, hence the [[specific name (botany)|specific epithet]] ''venosa''.<ref name="Brown 1980"/><ref name="Seaver 1917"/> The exterior surface is a whitish color, covered with pustules.<ref name="Brown 1980"/> There is a short [[stipe (mycology)|stipe]] that anchors the cup to the ground.<ref name="Kibby 2000"/> Although young fruiting bodies are cup-shaped, when they are {{convert|7 to 8|cm|1|abbr=on|frac=4}} in diameter, the apothecia split and flatten down to lie in the soil. They are very brittle. The fruit bodies have been estimated to have a lifespan of up to 12 weeks.<ref name="Brown 1980"/> The [[trama (mycology)|flesh]] of the fungus has a bleach-like odor when it is broken.<ref name="Kibby 2000"/>
+
+===Microscopic characteristics===
+
+The [[ascospore|spore]] are elliptical and smooth, with dimensions of 21–24 by 12–14&nbsp;[[μm]]. The [[ascus|asci]] (spore-bearing cells), are 370–400 by 18–20&nbsp;μm, while the [[paraphyses]] are stout and club-shaped, with tips up to 12&nbsp;μm wide.<ref name="Tylutki 1979"/>
+
+===Similar species===
+Species that may resemble ''D. venosa'' most notably include several species of genus ''[[Peziza]]'', belonging to the family of true cup fungi (unlike ''D.&nbsp;venosa'' which is actually a [[morel]]). Some poisonous ones are also included. ''Peziza'' species generally lack an odor,<ref name=":0" /> have thinner flesh than ''D.&nbsp;venosa'', and will turn a dark blue color if a drop of [[iodine]] solution is placed on it.<ref name="McKnight 1987"/> Additionally, the tips of asci in ''Peziza'' species will stain blue with iodine, a feature that can be observed with a light microscope.<ref name="Kibby 2000"/>
+
+Another lookalike, the closely related "thick cup" or "pig's ears" ''[[Discina ancilis]]'' (also known as ''Discina perlata'' or ''Gyromitra perlata''), is edible (or at least not poisonous), has an inner cup surface that is comparatively reddish-brown,<ref name=":0">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=34}}</ref> and folded, wrinkled, or sometimes smooth, rather than veined. Its outer cup surface has small tufts of hairs arranged in clumps.<ref name="Beug 2014"/>
+
+==Distribution and habitat==
+''D. venosa'' is found in North America<ref name="Weber 1980" /> (between April and June, especially from the Lower Midwest to New York)<ref name=":0" /> and Europe (including [[Bulgaria]],<ref name="Dimitrova 2011" /> [[Sweden]],<ref name="Ryman 1978" /> [[Spain]],<ref name="Losantos 1981" /> and [[Wales]]).<ref name="Brown 1980" /> It also occurs in Turkey, where it is considered [[critically endangered]].<ref name="Çinar 2014" />
+
+The fungus is typically found growing on the ground among mossy or needle-covered soil around [[conifer]]s; they are often difficult to notice because their brown color typically blends into the background. They have been noted to prefer to grow on banks or slopes rather than flat areas.<ref name="Brown 1980" /> This species is also referred to as a "[[snowbank mushroom]]" because fruit bodies typically appear around the edges of melting snowbanks.<ref name="Arora 1986" /> In Europe, the fungus typically fruits from March to May.<ref name="Kibby 2000" />
+
+==Uses==
+''D. venosa'' is a choice [[edible mushroom]],<ref name="Tylutki 1979" /> although one author notes that only collectors who have the equipment to check its microscopic properties should consider consuming the species, as it may be confused with several other brown cup fungi.<ref name="Weber 1980" /> It may be poisonous unless cooked.<ref name="Arora 1986"/>
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Arora 1986">{{cite book |author=Arora D. |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/796/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, California |year=1986 |orig-date=1979 |edition=2nd |pages=46, 796}}</ref>
+
+
+<ref name="Beug 2014">{{cite book |vauthors=Beug MW, Bessette AE, Bessette AR |title=Ascomycete Fungi of North America: A Mushroom Reference Guide |year=2014 |publisher=University of Texas Press |location=Austin, Texas |isbn=978-0-292-75452-2 |page=141}}</ref>
+
+<ref name="Boudier 1893">{{cite journal |title=Rapport sur les excursions faites par la Société Mycologique de France pendant la session de 1893 |journal=Bulletin de la Société Mycologique de France |year=1893 |volume=9 |issue=2 |language=French |page=111 |url=https://www.biodiversitylibrary.org/page/43633619}}</ref>
+
+<ref name="Brown 1980">{{cite journal |author=Brown RP. |year=1980 |title=Observations of ''Sarcoscypha coccinea'' and ''Disciotis venosa'' in North Wales during 1978–1979 |journal=Bulletin of the British Mycological Society |volume=14 |issue=2 |pages=130–135 |doi=10.1016/S0007-1528(80)80008-3}}</ref>
+
+<ref name="Çinar 2014">{{cite journal |vauthors=Çinar H, Sermenli HB, Işiloğlu M |title=Some critically endangered species From Turkey |journal=Fungal Conservation |year=2014 |issue=4 |pages=26–28 |url=http://www.fungal-conservation.org/newsletter/issue_4_2014_02_28_low_resolution.pdf}}</ref>
+
+<ref name="Dimitrova 2011">{{cite web |author=Dimitrova E. |title= ''Disciotis venosa'' |url= http://e-ecodb.bas.bg/rdb/en/vol1/Disvenos.html |work=Red Data Book of the Republic of Bulgaria. Volume 1. Plants and Fungi. Digital edition |year=2011 |publisher=Joint edition of the Bulgarian Academy of Sciences & Ministry of Environment and Water |accessdate=2015-11-22}}</ref>
+
+<ref name="Kibby 2000">{{cite journal |author=Kibby G. |title=Fungal portraits. No. 4: ''Disciotis venosa'' |journal=Field Mycology |year=2000 |volume=1 |issue=3 |pages=111–112 |doi=10.1016/S1468-1641(10)60057-6|doi-access=free }}</ref>
+
+<ref name="Losantos 1981">{{cite journal |vauthors=Losantos AP, Carretero JC |year=1981 |title=Mycologic notes on Navarra Spain 1. New provincial and peninsular records |journal=Anales del Jardín Botánico de Madrid |volume=38 |issue=1 |pages=19–24 |language=Spanish}}</ref>
+
+<ref name="McKnight 1987">{{cite book |vauthors=McKnight VB, McKnight KH |title=A Field Guide to Mushrooms, North America |publisher=Houghton Mifflin |location=Boston |year=1987 |page=37 |isbn=0-395-91090-0 |url=https://books.google.com/books?id=kSdA3V7Z9WcC&pg=PA37}}</ref>
+
+<ref name="Perco 1994">{{cite journal |author=Perco B. |title=Contributo alla conoscenza del genere ''Disciotis''. Primo ritrovamento della nuova forma ''Disciotis venosa'' (Pers.: Fr.) Boud. fo. ''radicans'' fo. nov. |journal=Rivista di Micologia |year=1994 |volume=37 |issue=1 |pages=53–58 |language=Italian}}</ref>
+
+<ref name="Persoon 1801">{{cite book |author=Persoon CH. |title=Synopsis methodica fungorum |year=1801 |location=Göttingen, Sweden |page=638 |language=Latin |url=https://gallica.bnf.fr/ark:/12148/bpt6k97341x/f675.image}}</ref>
+
+<ref name="Roberts 2011">{{cite book |vauthors=Roberts P, Evans S |title=The Book of Fungi |year=2011 |publisher=University of Chicago Press |location=Chicago, Illinois |page=562 |isbn=978-0-226-72117-0}}</ref>
+
+<ref name="Ryman 1978">{{cite journal |author=Ryman S. |year=1978|title=Swedish Pezizales of spring and early summer |journal=Svensk Botanisk Tidskrift |volume=72 |issue=4 |pages=327–340}}</ref>
+
+<ref name="Seaver 1917">{{cite journal |author=Seaver FJ. |title=Photographs and descriptions of cup-fungi—V. ''Discina venosa'' |journal=Mycologia |year=1917 |volume=9 |issue=2 |pages=53–54 |doi=10.2307/3753343|jstor=3753343 }}</ref>
+
+<ref name="Tylutki 1979">{{cite book |author=Tylutki EE. |title=Mushrooms of Idaho and the Pacific Northwest |publisher=University Press of Idaho |location=Moscow, Idaho |year=1979 |page=35 |isbn=0-89301-062-6}}</ref>
+
+<ref name="Weber 1980">{{cite book |vauthors=Weber NS, Smith AH |title=The Mushroom Hunter's Field Guide |publisher=University of Michigan Press |location=Ann Arbor, Michigan |year=1980 |pages=36–37 |isbn=0-472-85610-3 |url=https://books.google.com/books?id=TYI4f6fqrfkC&pg=RA1-PA37}}</ref>
+
+<ref name="urlFungorum: Peziza venosa">{{cite web |title=Species synonymy: ''Disciotis venosa'' (Pers.) Arnould, Bull. Soc. mycol. Fr. 9: 111 (1893) |url=https://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=102531 |publisher=Species Fungorum. CAB International |accessdate=2014-01-03}}</ref>
+
+}}
+
+{{Morchellaceae}}
+{{Taxonbar|from=Q1553596}}
+
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1801]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of Western Asia]]
+[[Category:Fungi of North America]]
+[[Category:Morchellaceae]]
+[[Category:Snowbank fungi]]
+[[Category:Taxa named by Christiaan Hendrik Persoon]]
+[[Category:Fungus species]]

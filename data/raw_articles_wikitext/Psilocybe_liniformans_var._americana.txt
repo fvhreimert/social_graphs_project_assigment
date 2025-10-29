@@ -1,0 +1,52 @@
+{{Infraspeciesbox
+| image =
+| genus = Psilocybe
+| species = liniformans
+| varietas = americana
+| authority = Guzmán & Stamets
+| synonyms =
+| range_map =
+| range_map_caption =
+}}
+{{mycomorphbox
+| name = Psilocybe liniformans var. americana
+| whichGills = adnexed
+| whichGills2 =
+| capShape = convex
+| capShape2 =
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=saprotrophic
+| sporePrintColor=purple-brown
+| howEdible=psychoactive
+}}
+
+'''''Psilocybe liniformans'' var. ''americana''''',  is a [[psilocybin mushroom]] in the family [[Hymenogastraceae]]. It is in the section Semilanceatae of ''[[Psilocybe]]'' and has [[psilocybin]] as its main active compound.
+
+==Description==
+*The '''cap''' is 1 — 2.5&nbsp;cm [[wikt:convex|convex]] to nearly plane, and is sometimes broadly [[wikt:umbonate|umbonate]] but not [[wikt:papillate|papillate]]. It is smooth, dull grayish brown to slightly [[wiktionary:olivaceus|olivaceus]], more reddish at the center, [[hygrophanous]], and becoming straw brown when dry with the center remaining more brownish. It sometimes has a bluish green tone, or olivacous tones at the margin when young.
+*The '''gills''' are [[adnexed]], subdistant, broad, and dark chocolate brown to purplish brown with age.
+*The '''spores''' are dark purple brown, [[ellipsoid]], and 13 — 14.5 by 7.5 — 8.8(10)[[μm]].
+*The '''stipe''' is 1.4 — 3.0&nbsp;cm by 1 – 2&nbsp;mm, equal, enlarging at the base. It is whitish to very pale brownish, darker below, bruising blue, and finely fibrillose in the lower portion. The partial veil is thin and soon disappears.
+*The '''taste''' is weak to somewhat [[farinaceous]]; The '''odor''' is strongly aromatic to [[farinaceous]].
+*'''Microscopic features''': The [[basidium|basidia]] are 4-spored and [[pleurocystidium|pleurocystidia]] are absent. The [[cheilocystidia]] are 22 — 33 by 5.5 — 9 [[μm]], [[wikt:lageniform|lageniform]] and have an extended neck.
+
+==Habitat and formation==
+''Psilocybe cubensis liniformans'' var. ''americana'' is found scattered to [[wikt:gregarious|gregarious]] in rich pastures or grasslands, fruiting from summer to early winter. It has been collected in [[Washington (U.S. state)|Washington]], [[Oregon]], and [[Michigan]], and has also been reported from [[Chile]] where it fruits in the spring.
+This mushroom is very close to the type variety; the main difference is the lack of a gelatinous layer on the edge of the [[lamella (mycology)|lamella]]e and the [[wikt:terricolous|terricolous]] habitat.
+
+==See also==
+*[[List of Psilocybin mushrooms]]
+
+==References==
+*{{Cite book | first=Paul | last=Stamets | year=1996 | title=Psilocybin Mushrooms of the World | publisher=Ten Speed Press | location=Berkeley | isbn=0-9610798-0-0}}
+
+{{Hallucinogenic mushrooms}}
+{{Taxonbar|from=Q76801}}
+
+{{DEFAULTSORT:Psilocybe liniformans var. americana}}
+[[Category:Entheogens]]
+[[Category:Psychoactive fungi]]
+[[Category:Psilocybe|liniformans var. americana]]
+[[Category:Psychedelic tryptamine carriers]]
+[[Category:Fungi of North America]]

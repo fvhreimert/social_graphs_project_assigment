@@ -1,0 +1,63 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = 2014-05-03 Psathyrella spadicea (Schaeff.) Singer 418747.jpg
+| image_caption = 
+| genus = Psathyrella
+| species = spadicea
+| authority = ([[Schaeff.]]) [[Rolf Singer|Singer]] (1951)
+| synonyms_ref = 
+| synonyms = 
+*''Agaricus spadiceus'' <small>Schaeff. (1783)</small> 
+*''Homophron spadiceum'' <small>(P. Kumm.) Örstadius & E. Larss. (2015)</small>
+}}
+
+'''''Psathyrella spadicea''''' or '''''Homophron spadiceum''''',<ref name=SF/> [[common name|commonly]] known as the '''chestnut brittlestem''',<ref name="BMS"/> is a species of [[agaric]] [[fungus]] in the family [[Psathyrellaceae]].
+
+== Taxonomy ==
+The fungus was originally [[species description|described]] by German mycologist [[Jacob Christian Schäffer]] in 1783 as ''Agaricus spadiceus''. [[Rolf Singer]] transferred it to the [[genus]] ''Psathyrella'' in 1951, in which it was [[classification (biology)|classified]] in the [[section (botany)|section]] ''Spadiceae''.<ref name="Vašutová 2008" />  In 2015 Örstadius & Larsson recreated the genus ''[[Homophron]]'' (a name used at the sub-genus level since 1883)<ref name="SF" /> for a group of psathyrelloid mushrooms with no veil and with light-coloured spores, and ''P. spadicea'' was moved to the new genus.<ref name="Örstadius 2015" /><ref name="Laessoe2019" />
+
+== Description ==
+The brown cap is up to {{Convert|7|cm|frac=4}} wide. The tan to brown gills are very close. The stem is up to 8&nbsp;cm long and 1&nbsp;cm thick. The [[spore print]] is pinkish-brown.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=602}}</ref> Outside of its genus, it can resemble members of ''[[Hebeloma]]''.<ref name="audu" />
+
+== Habitat and distribution ==
+The species can be found near the base of [[hardwood]] trees. In North America, it is found in the [[Pacific Northwest]], northern California, and in the east.<ref name="audu" /> It is also found in Europe.{{Citation needed|date=March 2025}}
+
+== Uses ==
+This mushroom is [[edible mushroom|edible]].<ref name="Boa 2004"/>
+
+==See also==
+*[[List of Psathyrella species|List of ''Psathyrella'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="BMS">{{cite web |url=http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |title=Recommended English Names for Fungi in the UK |publisher=[[British Mycological Society]] |url-status=dead |archive-url=https://web.archive.org/web/20110716083053/http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |archive-date=2011-07-16 }}</ref>
+
+<ref name="Boa 2004">{{cite book |author=Boa ER. |title=Wild Edible Fungi: A Global Overview of Their Use and Importance to People |url=https://books.google.com/books?id=Zd2NlcNZgvcC&pg=PA138 |year=2004 |publisher=Food & Agriculture Organization |isbn=978-92-5-105157-3 |page=138}}</ref>
+
+<ref name="Laessoe2019">{{cite book |first1=H. |last1=Læssøe |first2=Jens |last2=Petersen |title=Fungi of Temperate Europe |publisher=Princeton University Press  |year=2019 |page=578 |isbn=9780691180373 }}</ref>
+
+<ref name="Örstadius 2015">{{cite journal |vauthors=Örstadius L, Ryberg M, Larsson E
+ |title=Molecular phylogenetics and taxonomy in Psathyrellaceae (Agaricales) with focus on psathyrelloid species: introduction of three new genera and 18 new species |journal=Mycological Progress |year=2015 |volume=14 |issue=5  |doi=10.1007/s11557-015-1047-x |s2cid=16637489 |url=https://www.researchgate.net/publication/275017162 |access-date=2021-07-13 }}</ref>
+
+<ref name=SF>{{cite web |url=http://www.indexfungorum.org/names/NamesRecord.asp?RecordID=811631 |title=the ''Homophron spadiceum'' page |work=Species Fungorum |publisher=Royal Botanic Gardens Kew |access-date=2021-07-13 }}</ref>
+
+<ref name="Vašutová 2008">{{cite journal |author=Vašutová M. |title=Taxonomic studies on ''Psathyrella'' sect. ''Spadiceae'' |journal=Czech Mycology |year=2008 |volume=60 |issue=2 |pages=137–71 |doi=10.33585/cmy.60201 |url=https://web.natur.cuni.cz/cvsm/CM60201.pdf}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|304318}}
+
+{{Taxonbar|from=Q10706720}}
+
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1783]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Psathyrellaceae]]
+[[Category:Taxa named by Jacob Christian Schäffer]]
+[[Category:Fungus species]]
+
+
+{{Psathyrellaceae-stub}}

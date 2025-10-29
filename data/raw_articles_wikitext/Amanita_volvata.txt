@@ -1,0 +1,40 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+|image = American Amidella from iNaturalist 141911335.jpg
+|taxon=Amanita volvata
+|authority=([[Charles Horton Peck|Peck]]), Lloyd
+}}
+{{mycomorphbox|name=''Amanita volvata''|whichGills=free|capShape=convex
+|capShape2=flat|hymeniumType=gills|stipeCharacter=volva |ecologicalType=mycorrhizal|sporePrintColor=white|howEdible=unknown}}
+
+'''''Amanita volvata''''', also known as '''volvate amanita'''<ref>{{cite web|url=http://www.mushroomhunter.net/amanita_volvata2.htm|archive-url=https://web.archive.org/web/20210117033828/http://mushroomhunter.net/amanita_volvata2.htm|url-status=dead|archive-date=January 17, 2021|title=Volvate Amanita|date=July 6, 2007|accessdate=December 25, 2012}}</ref><ref name=NGSWG>{{NGSWG}}</ref> is an inedible<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=31}}</ref> white-coloured species of [[fungus|fungi]] from the family [[Amanitaceae]] found in the [[southeastern United States]]. Can be confused with ''[[Amanita ponderosa]]'', but that species is from the [[Iberian Peninsula|Iberian peninsula]]. The species is [[amyloid]] and have saccate [[volva (mycology)|volva]],<ref>{{cite book|url=https://books.google.com/books?id=zjvXkLpqsEgC&q=amanita+volvata&pg=PA29|author=Orson K. Miller, Hope Miller|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|publisher=A Falcon Guide|year=2006|page=29|isbn=978-0-7627-3109-1}}{{Dead link|date=August 2023 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> and elliptic spores.<ref>{{cite web|url=http://www.fungikingdom.net/mycology-education/amanita/amanita-043-001.html|title=Amanita volvata|accessdate=December 25, 2012}}</ref>
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Amanita species|List of ''Amanita'' species]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://www.flickr.com/photos/23521914@N08/2504779857/ Photo of ''Amanita volvata'' on Flickr]
+*[https://mushroomobserver.org/name/show_name/1441 Photos of Amanita volvata]
+*[http://fiddlehead.smugmug.com/keyword/poisonous/91747744_56HyF#!i=91747744&k=56HyF Photo of ''Amanita volvata'' on David Work Mushroom Photography]
+*[https://web.archive.org/web/20210117033828/http://mushroomhunter.net/amanita_volvata2.htm Detailed photos of ''Amanita volvata'' anatomy]
+*{{MycoBank|202755}}
+
+{{Commons category|position=left}}
+
+{{Amanitas}}
+{{Taxonbar|from=Q4739889}}
+
+{{DEFAULTSORT:Amanita volvata}}
+[[Category:Amanita|volvata]]
+[[Category:Fungi of the United States]]
+[[Category:Ecology of the Appalachian Mountains]]
+[[Category:Taxa named by Charles Horton Peck]]
+[[Category:Fungi without expected TNC conservation status]]
+[[Category:Fungus species]]
+
+
+{{Amanitaceae-stub}}

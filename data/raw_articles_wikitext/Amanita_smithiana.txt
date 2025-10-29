@@ -1,0 +1,67 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+ | image           = Amanita smithiana 1403.jpg
+ | status = LC
+ | status_system = IUCN3.1
+ | status_ref = <ref name=IUCN>{{cite iucn |last1=Siegel |first1=N. |year=2021 |title=''Amanita smithiana'' |volume=2021 |article-number=e.T198477559A198489594 |doi=10.2305/IUCN.UK.2021-2.RLTS.T198477559A198489594.en |access-date=21 April 2025}}</ref>
+ | taxon           = Amanita smithiana
+ | authority       = [[Cornelis Bas|Bas]] (1969)
+}}
+{{mycomorphbox
+ | name            = ''Amanita smithiana''
+ | capShape2 = flat
+ | whichGills      = free
+ | capShape        = convex
+ | hymeniumType    = gills
+ | stipeCharacter  = ring and volva
+ | ecologicalType  = mycorrhizal
+ | sporePrintColor = white
+ | howEdible = poisonous
+}}
+
+'''''Amanita smithiana''''', also known as '''Smith's amanita''',<ref name=NGSWG>{{NGSWG}}</ref> is a species of [[agaric]] found on soil in [[conifer]]ous (''[[Abies]]'', ''[[Tsuga]]'', ''[[Pseudotsuga]]'') and broadleaved (''[[Alder|Alnus]]'', ''[[Quercus]]'') woodland in the [[Pacific Northwest]] of North America. It fruits in August and September.
+
+==Description==
+The [[pileus (mycology)|cap]] has a diameter of {{convert|5|–|17|cm|frac=2|abbr=off}} and is white and scaled with remnants of the [[universal veil]]. The [[stipe (mycology)|stipe]] is {{convert|6|–|18|cm|round=0.5|frac=2|abbr=on}} long by {{convert|1|–|3.5|cm|abbr=on|frac=2}} thick, white and similarly scaled, with a [[annulus (mycology)|ring]].<ref name="urlAmanitaceae.org"/> The [[Basidiospore|spore]]s are [[ellipsoid]] to elongated, [[amyloid (mycology)|amyloid]], and measure 11–12.5 by 7–8&nbsp;[[micrometre|μm]].<ref name="Bas 1969"/>
+
+== Taxonomy ==
+''Amanita smithiana'' was [[species description|described]] by Dutch mycologist [[Cornelis Bas]] in 1969. The [[botanical name|specific epithet]] honors mycologist [[Alexander H. Smith]], who collected the [[type (biology)|type]] specimens from [[Washington (state)|Washington]] in 1941.<ref name="Bas 1969" /> It belongs in the [[subgenus]] ''Lepidella''.
+
+== Toxicity ==
+{{cleanup-confusing|date=May 2025}}
+It is responsible for [[mushroom poisoning|poisonings]] in the [[Pacific Northwest]] when mistaken for the [[edible mushroom|edible]] and sought after ''[[Tricholoma murrillianum]]'' (matsutake). It causes initial gastrointestinal symptoms that manifest 1 to 12 hours after eating the mushrooms,<ref name="Greenberg 2005"/> followed by acute [[nephritis]] after a delay of 2–6 days. [[Hemodialysis]] appears to be an effective treatment and most patients recover normal kidney function within several weeks of ingestion.<ref name="Saviuc 2006"/>
+
+It is thought that ''A. smithiana'' toxicity is from chlorocrotylglycine and allenic norleucine.<ref name="Greenberg 2005" />
+
+Several similar species have been implicated in similar cases of poisoning: ''[[Amanita sphaerobulbosa|A.&nbsp;sphaerobulbosa]]'', ''[[Saproamanita thiersii]]'', ''[[Amanita proxima|A.&nbsp;proxima]]'', (Spain) and ''[[Amanita pseudoporphyria|A.&nbsp;pseudoporphyria]]'' (Japan).<ref name="urlAmanitaceae.org"/>
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Amanita species|List of ''Amanita'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Bas 1969">{{cite journal |author=Bas C. |title=Morphology and subdivision of ''Amanita'' and a monograph of its section ''Lepidella'' |journal=Persoonia |year=1969 |volume=5 |issue=3 |pages=285–579 (see p. 418)}}</ref>
+
+<ref name="Greenberg 2005">{{cite book |author=Greenberg, Michael I. |title=Greenberg's Text-atlas of Emergency Medicine |url=https://books.google.com/books?id=tjZttRRH8H8C&pg=PA854 |year=2005 |publisher=Lippincott Williams & Wilkins |isbn=978-0-7817-4586-4 |page=854}}</ref>
+
+<ref name="Saviuc 2006">{{cite journal |author=Saviuc P, Danel V. |year=2006 |title=New Syndromes in Mushroom Poisoning |journal=Toxicological Reviews |volume=25 |issue=3 |pages=199–209 |doi=10.2165/00139709-200625030-00004 |pmid=17192123|s2cid=24320633 }}</ref>
+
+<ref name="urlAmanitaceae.org">{{cite web |title=''Amanita smithiana'' |url=http://www.amanitaceae.org/?Amanita%20smithiana |author=Tulloss RE. |publisher=Amanitaceae.org |access-date=2014-05-06}}</ref>
+
+}}
+
+== External links ==
+{{commons category}}
+
+{{Amanitas}}
+{{Taxonbar|from=Q1947219}}
+
+[[Category:Amanita|smithiana]]
+[[Category:Poisonous fungi]]
+[[Category:Fungi of Canada]]
+[[Category:Fungi of the United States]]
+[[Category:Fungi described in 1969]]
+[[Category:Fungi without expected TNC conservation status]]
+[[Category:Fungus species]]

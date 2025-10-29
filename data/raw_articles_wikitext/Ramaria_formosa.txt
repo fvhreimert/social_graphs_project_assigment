@@ -1,0 +1,84 @@
+{{Speciesbox
+| image = Ramaria formosa2.png
+| taxon = Ramaria formosa
+| authority = ([[Christian Hendrik Persoon|Pers.]]) [[Lucien Quélet|Quél.]] (1888)
+| synonyms_ref = <ref name="urlFungorum synonymy: Ramaria formosa" />
+| synonyms = *''Clavaria formosa'' <small>Pers. (1797)</small>
+*''Merisma formosum'' <small>(Pers.) [[Harald Othmar Lenz|Lenz]] (1831)</small>
+*''Clavaria formosa'' <small>[[Krombh.]] (1841)</small>
+*''Corallium formosum'' <small>(Pers.) [[Gotthold Hahn|G.Hahn]] (1883)</small>
+}}
+{{mycomorphbox 
+| name = ''Ramaria formosa''
+| hymeniumType = smooth
+| capShape = no
+| whichGills = no
+| stipeCharacter = bare
+| sporePrintColor = yellow
+| ecologicalType = mycorrhizal
+| howEdible = poisonous
+}}
+
+'''''Ramaria formosa''''', commonly known as the '''pinkish coral mushroom''',<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/654/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, California |pages=654 |orig-date=1979}}</ref> '''salmon coral''',<ref name="britmycolsoc.org" /><ref name="species.nbnatlas" /> '''beautiful clavaria''', '''handsome clavaria''', '''yellow-tipped-'''<ref name="naturalist.nz" /> or '''pink coral fungus''', is a [[coral fungus]] found in Europe.
+
+It is a pinkish, much-branched coral-shape reaching some {{convert|20|cm|4=0|abbr=on|sigfig=1}} high. It is widely held to be mildly [[poisonous mushroom|poisonous]] if consumed, giving rise to acute gastrointestinal symptoms of nausea, vomiting, diarrhea and colicky pain.
+
+==Taxonomy==
+The fungus was initially [[species description|described]] by [[Christian Hendrik Persoon]] in 1797 as ''Clavaria formosa''.<ref name="Persoon 1797" /> In 1821, [[Elias Magnus Fries]] [[sanctioned name|sanctioned]] the genus name ''[[Clavaria]]'', and treated ''[[Ramaria]]'' as a [[section (botany)|section]] of ''Clavaria''.<ref name="Fries 1821" /> It was placed in its current [[genus]] by French mycologist [[Lucien Quélet]] in 1888.<ref name="Quélet 1888" /> [[Synonym (taxonomy)|Synonyms]] have resulted from transfers of the fungus to the now obsolete genera ''Merisma'' by [[Harald Othmar Lenz]] in 1831,<ref name="Lenz 1831" /> and to ''Corallium'' by [[Gotthold Hahn]] in 1883.<ref name="Hahn 1883" />
+
+The generic name is derived from [[Latin]] ''rāmus'' 'branch', while the [[specific name (botany)|specific epithet]] comes from the [[Latin]] ''formōsus'' 'beautiful'.<ref name="Simpson 1979" /> [[Common name]]s include salmon coral,<ref name="BMS" /> beautiful clavaria, handsome clavaria,<ref name="Hladký 1996" /> yellow-tipped- or pink coral fungus.<ref name="Bresinsky 1990" />  There is some confusion over its classification as there is evidence the binomial name has been applied loosely to any coral fungus fitting the description, and thus the collections from North America are now considered to be a different species.<ref name="Ammirati 1985" /><ref name=":0" />
+
+==Description==
+The [[Basidiocarp|fruit body]] grows to a height of {{convert|30|cm|in|0|abbr=on}} and width of {{convert|15|cm|in|0|abbr=on}};<ref name="Phillips 2006" /> it is a many-branched [[Clavarioid fungi|coral-like structure]], the yellow-tipped pinkish branches arising from a thick base.<ref name="Zeitlmayr 1976" /> The terminal branches are less than {{convert|0.5|cm|abbr=on|frac=4}} in diameter. The flesh is white, with pink in the middle,<ref name="Zeitlmayr 1976" /> or pale orange. It may turn [[Wine color|wine-coloured]] or blackish when bruised.<ref name="Phillips 2006" /> Old specimens fade so the original colour is hard to distinguish. The smell is unpleasant and taste bitter.<ref name="Zeitlmayr 1976" /> 
+
+The [[basidiospore|spores]] have a cylindrical to elliptical shape and measure 8–15 by 4–6&nbsp;[[μm]]. The spore surface features small warts that are arranged in confluent lines. The [[basidia]] (spore-bearing cells) are club-shaped, measuring 40–60 by 7–10&nbsp;μm<ref name="Courtecuisse 1999" />  [[Clamp connection]]s are present in the [[hyphae]].
+
+===Similar species===
+There are several other ''Ramaria'' species with yellow-tipped, salmon-coloured branches, including ''[[Ramaria leptoformosa|R.&nbsp;leptoformosa]]'', ''[[Ramaria neoformosa|R.&nbsp;neoformosa]]'', ''[[Ramaria raveneliana|R.&nbsp;raveneliana]]'' and  ''[[Ramaria rubricarnata|R.&nbsp;rubricarnata]]''. These are distinguished from ''R.&nbsp;formosa'' most reliably using microscopic characteristics.<ref name="Davis 2012" /> One guide recommends that all old coral fungi{{What|reason=What is "old coral" in reference to?|date=July 2024}} should be avoided for consumption.<ref name="Zeitlmayr 1976" />  <!-- Roberts ref covers first 3 species and Davis book covers rubricarnata-->
+
+==Distribution and habitat==
+Fruiting in autumn, ''Ramaria formosa'' is associated with [[beech]] and is found in Europe.<ref name="Nilper 1977" /> In [[Cyprus]], the fungus is thought to form [[mycorrhiza]]l associations with [[golden oak]] (''Quercus alnifolia'').<ref name="Loizides 2011" />
+
+Similar forms collected in North America are considered to represent a different species.<ref name=":0" />
+
+==Toxicity==
+Consumption of the fungus results in acute [[Gastrointestinal disease|gastrointestinal symptoms]] of nausea, vomiting, [[colic]]ky abdominal pain and diarrhea. The [[Mycotoxin|toxins]] responsible are unknown to date. It has been reported as edible if the acrid tips are removed.<ref name="North 1967" />  
+
+==References==
+{{reflist|colwidth=30em|refs=
+<ref name="Ammirati 1985">{{cite book |vauthors=Ammirati JF, Traquair JA, Horgen PA |title=Poisonous Mushrooms of the Northern United States and Canada |url=https://archive.org/details/poisonousmushroo00amma |url-access=limited |year=1985 |publisher=University of Minnesota Press |location=Minneapolis |isbn=978-0-8166-1407-3 |pages=[https://archive.org/details/poisonousmushroo00amma/page/n320 306]–10}}</ref>
+<ref name="BMS">{{cite web |author=Holden L. |url=http://www.britmycolsoc.org.uk/library/english-names/ |title=English Names for fungi 2014 |date=July 2014 |publisher=[[British Mycological Society]] |accessdate=2015-11-18 |archive-date=2015-09-23 |archive-url=https://web.archive.org/web/20150923194645/http://www.britmycolsoc.org.uk/library/english-names/ |url-status=dead }}</ref>
+<ref name="Bresinsky 1990">{{cite book |vauthors=Bresinsky A, Besl H |title=A Colour Atlas of Poisonous Fungi: A Handbook for Pharmacists, Doctors, and Biologists |publisher=Wolfe Publishing |location=Würzburg, Germany |year=1990 |pages=170–71 |isbn=978-0-7234-1576-3}}</ref>
+<ref name="Courtecuisse 1999">{{cite book |author=Courtecuisse R. |title=Mushrooms of Britain and Europe |year=1999 |series=Collins Wildlife Trust Guides |publisher=HarperCollins |location=London, UK |pages=356–57 |isbn=978-0-00-220012-7}}</ref>
+<ref name="Davis 2012">{{cite book |vauthors=Davis RM, Sommer R, Menge JA |title=Field Guide to Mushrooms of Western North America |url=https://books.google.com/books?id=obp7jddvjt4C&pg=PA296 |year=2012 |publisher=University of California Press |isbn=978-0-520-95360-4 |pages=296–97}}</ref>
+<ref name="Fries 1821">{{cite book |author=Fries EM |title=Systema Mycologicum |volume=1 |year=1821 |publisher=Ex Officina Berlingiana |location=Lund, Sweden |page=466 |url=https://books.google.com/books?id=Qj8-AAAAcAAJ&pg=PA466 |language=Latin}}</ref>
+<ref name="Hahn 1883">{{cite book |author=Hahn G. |title=Der Pilzsammler |year=1883 |publisher=Kanitz |location=Gera, Germany |page=72 |language=German}}</ref>
+<ref name="Hladký 1996">{{cite book |author=Hladký J. |title=The Czech and the English Names of Mushrooms |url=https://books.google.com/books?id=k0UnAQAAIAAJ |year=1996 |publisher=Masarykova univerzita v Brně |isbn=978-80-210-1406-0 |page=308}}</ref>
+<ref name="Lenz 1831">{{cite book |author=Lenz HO. |title=Die nützliche und schädliche Schwämme |publisher=Beckersche Buchhandlung |location=Gotha, Germany |language=German |page=95}}</ref>
+<ref name="Loizides 2011">{{cite journal |author=Loizides M. |title=''Quercus Alnifolia'': the indigenous Golden Oak of Cyprus and its fungi |journal=Field Mycology |year=2011 |volume=12 |issue=3 |pages=81–88 |doi=10.1016/j.fldmyc.2011.06.004|doi-access=free}}</ref>
+<ref name="Nilper 1977">{{cite book |vauthors=Nilson S, Persson O |year=1977 |title=Fungi of Northern Europe 1: Larger Fungi (Excluding Gill-Fungi) |publisher=Penguin |isbn=978-0-14-063005-3 |page=64}}</ref>
+<ref name="North 1967">{{cite book |author=North P. |year=1967 |title=Poisonous Plants and Fungi in colour |publisher=Blandford Press & Pharmacological Society of Great Britain |pages=109–10}}</ref>
+<ref name="Persoon 1797">{{cite book |author=Persoon CH. |title=Commentatio de Fungis Clavaeformibus |year=1797 |publisher=Wolf |location=Leipzig, Germany |page=41 |language=Latin |url=http://gallica.bnf.fr/ark:/12148/bpt6k979031/f45.image}}</ref>
+<ref name="Phillips 2006">{{cite book |author=Phillips R. |title=Mushrooms |year=2006 |publisher=Pan MacMillan |location=London, UK |isbn=978-0-330-44237-4 |page=346}}</ref>
+<ref name="Quélet 1888">{{cite book |author=Quélet L. |title=Flore mycologique de la France et des pays limitrophes |year=1888 |publisher=Octave Doin |location=Paris |language=French |page=466 |url=http://gallica.bnf.fr/ark:/12148/bpt6k1654232/f493.image.r=flore+mycologique.langEN}}</ref>
+<ref name="Simpson 1979">{{cite book |author=Simpson DP. |title=Cassell's Latin Dictionary |publisher=Cassell |year=1979 |edition=5 |location=London |page=883 |isbn=978-0-304-52257-6}}</ref>
+<ref name="urlFungorum synonymy: Ramaria formosa">{{cite web |title=GSD Species Synonymy: ''Ramaria formosa'' (Pers.) Quél. |url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=355626 |publisher=Species Fungorum. CAB International |accessdate=18 November 2015}}</ref>
+<ref name="Zeitlmayr 1976">{{cite book |author=Zeitlmayr L. |year=1976 |title=Wild Mushrooms: An Illustrated Handbook |publisher=Garden City Press, Hertfordshire |isbn=978-0-584-10324-3 |page=108}}</ref>
+<ref name=":0">{{Cite book |last1=Franchi |first1=Paolo |title=I FUNGHI CLAVARIOIDI in Italia |last2=Marchetti |first2=Mauro |publisher=Associazione Micologica Bresadola |year=2021 |isbn=978-0-00-001844-1 |location=Trento |language=it}}</ref>
+<ref name="britmycolsoc.org">{{cite web |url= https://www.britmycolsoc.org.uk/library/english-names |title= Ramaria formosa · salmon coral |access-date= 2021-05-21 |work= The British Mycological Society |archive-date= 2022-02-05 |archive-url= https://web.archive.org/web/20220205063207/https://www.britmycolsoc.org.uk/library/english-names |url-status= dead }}</ref>
+<ref name="species.nbnatlas">{{cite web|url= https://species.nbnatlas.org/species/NHMSYS0001496054 |title= Ramaria formosa (Pers.) Quél. – Salmon Coral |access-date=2021-05-21 |work= NBN Atlas}}</ref>
+<ref name="naturalist.nz">{{cite web|url= https://inaturalist.nz/taxa/48770-Ramaria-formosa |title= Yellow-tipped Coral Fungus (Ramaria formosa) |access-date=2021-05-21 |work= Ninaturalist.nz}}</ref>
+}}
+
+==External links==
+*{{Commons category-inline}}
+
+{{Taxonbar|from=Q1257786}}
+
+[[Category:Gomphaceae]]
+[[Category:Poisonous fungi]]
+[[Category:Fungi described in 1797]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]

@@ -1,0 +1,97 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Clavariadelphus ligula 060922b.jpg
+| image_caption =
+| status = G5
+| status_system = TNC
+| status_ref = <ref name=NS>{{cite NatureServe |id=2.973547 |title=''Clavariadelphus ligula'' |access-date=18 April 2025}}</ref>
+| taxon = Clavariadelphus ligula
+| authority = ([[Schaeff.]]) [[Marinus Anton Donk|Donk]] (1933)
+| synonyms_ref = <ref name="urlFungorum synonymy: Clavariadelphus ligula"/>
+| synonyms = *''Clavaria ligula'' <small>Schaeff. (1774)</small>
+*''Clavaria ophioglossoides'' <small>[[August Batsch|Batsch]] (1783)</small>
+}}
+{{Mycomorphbox
+| name = ''{{PAGENAME}}''
+| hymeniumType = smooth
+| capShape = no
+| whichGills = no
+| stipeCharacter = bare
+| sporePrintColor = white
+| ecologicalType = mycorrhizal
+| howEdible = unknown
+}}
+
+'''''Clavariadelphus ligula''''', commonly known as the '''strap coral''', is a [[species]] of [[fungus]] in the family ''[[Gomphaceae]]''. It produces club-shaped [[sporocarp (fungi)|fruit bodies]] with spongy flesh that grow in groups on the forest floor. It is found in Eurasia and North America.
+
+==Taxonomy==
+
+The species was first [[species description|described]] by the German naturalist [[Jacob Christian Schaeffer]] in 1774 as ''Clavaria ligula''.<ref name=Schaeffer1774/> It was first placed in ''[[Clavariadelphus]]'' by [[Marinus Anton Donk]] in 1933.<ref name=Donk1933/> ''Clavaria ophioglossoides'', described by [[August Batsch]] in 1783,<ref name=Batsch1783/> is considered a [[synonym (biology)|synonym]].<ref name="urlMycoBank: Clavaria ophioglossoides"/>
+
+The fungus is [[common name|commonly]] known as the "strap coral".<ref name=Arora1986/> The [[specific name (botany)|specific epithet]] ''ligula'' is derived from the [[Latin]] word for "shoestring".<ref name="Schalkwijk-Barendsen1991"/>
+
+==Description==
+
+The club portion of the fruit body is buff to pale yellow or reddish,<ref name="Arora1986" /> straight, and has stiff hairs at the base. The surface is dull and does not have hairs. It is smooth at first then later becomes somewhat wrinkled. It is club-shaped to spoon-shaped and up to {{convert|12|cm|abbr=on}} tall by {{convert|2|cm|1|abbr=on}} wide at the thickest part. The [[stipe (mycology)|stipe]] is not distinct except for the hairs at the base. The [[trama (mycology)|flesh]] is whitish, and does not change color with bruising. It is somewhat spongy in the upper part, but firm below. The flesh has no odor, and its taste is slightly bitter. The surface tissue turns green upon the application of a solution of [[ferric sulphate]], and yellow with a dilute solution of [[potassium hydroxide]].<ref name=Tylutki1987II/>
+
+The [[spore]]s are pale yellowish orange ("light buff") in [[spore print|deposit]]. Additional features may be discerned using [[light microscopy]]; they are smooth, narrowly [[wikt:ellipsoid|ellipsoid]], and measure 8–15 by 3–6&nbsp;[[μm]]. The [[hypha]]e are monomitic, and [[clamp connection]]s are present. [[Cystidia]] are absent.<ref name=Tylutki1987II/>
+
+One field guide lists the species as edible,<ref name="Miller 2006">{{cite book|last=Miller Jr.|first=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=344|author-link=Orson K. Miller Jr.}}</ref> while others say it is inedible.<ref name="Arora1986" /><ref>{{cite book|last=Phillips|first=Roger|url=https://archive.org/details/mushroomsotherfu0000phil|title=Mushrooms and Other Fungi of North America|publisher=Firefly Books|year=2010|isbn=978-1-55407-651-2|location=Buffalo, NY|page=[https://archive.org/details/mushroomsotherfu0000phil/page/345 345]|url-access=registration}}</ref>
+
+{{gallery|mode=packed
+|Clavariadelphus ligula 47695.jpg|Typical growth habit
+}}
+
+===Similar species===
+''Clavariadelphus sachalinensis'' is macroscopically identical to ''C.&nbsp;ligula'' and can be distinguished only by its larger spores, measuring 16–24 by 4–6&nbsp;[[μm]], and longer basidia.<ref name=Tylutki1987II/> However, intermediate forms are often found, and they may represent the same species.<ref name=Ammirati2009/> ''[[Clavaria flavipes]]'' is another similar species, but in addition to being smaller and more pale yellow than ''C.&nbsp;ligula'', it also has broader spores.<ref name=Petersen1967/>
+
+==Habitat and distribution==
+The fruit bodies of ''C. ligula'' grow gregariously (closely scattered over small areas) on the ground, in [[forest floor|forest duff]]. They are widespread and common in [[coniferous forest]]s, fruiting in the summer and fall.<ref name=Tylutki1987II/>
+
+The species has been collected in the Czech Republic,<ref name=Pilat1959/> in Austria (data [https://www.pilzdaten-austria.eu/#tax/108566 in]), the [[Magadan]] region of the [[Russian Far East]]<ref name=Govorova2000/> as well as the arctic zone of the [[Urals]].<ref name=Shiryaev2006/> It has also been collected in the conifer-dominated forests in [[Kashmir Valley]] in India.<ref name=Beig2008/> In North America, the distribution extends north to Canada.
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=Ammirati2009>{{cite book |vauthors=Ammirati J, Trudell S |title=Mushrooms of the Pacific Northwest |url=https://archive.org/details/mushroomspacific00trud_400 |url-access=limited |series=Timber Press Field Guides |publisher=Timber Press |location=Portland, OR |year=2009 |page=[https://archive.org/details/mushroomspacific00trud_400/page/n236 239] |isbn=978-0-88192-935-5}}</ref>
+
+<ref name=Arora1986>{{cite book |author=Arora D. |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/633/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |year=1986 |orig-date=1979 |edition=2nd |pages=633}}</ref>
+
+<ref name=Batsch1783>{{cite book |title=Elenchus fungorum |trans-title=Discussion of Fungi |author=Batsch AJGK |year=1783 |page=135 |language=la}}</ref>
+
+<ref name=Beig2008>{{cite journal |vauthors=Beig MA, Dar GH, Ganai NA, Khan NA |year=2008 |title=Mycorrhizal biodiversity in Kashmir forests and some new records of macrofungi from J&K state |journal=Applied Biological Research |volume=10 |issue=1/2 |pages=26–30}}</ref>
+
+<ref name=Donk1933>{{cite journal |author=Donk MA |year=1933 |title=Revisie van de Nederlandse Heterobasidiomyceteae (uitgez. Uredinales en Ustilaginales) en Homobasidiomyceteae-Aphyllophraceae: II |journal=Mededelingen van Het Botanisch Museum en Herbarium van de Rijksuniversiteit Utrecht |volume=9 |pages=1–278 |language=nl}}</ref>
+
+<ref name=Govorova2000>{{cite journal |vauthors=Govorova OK, Sazanova NA |year=2000 |title=Clavarioid fungi of Magadan region |journal=Mikologiya i Fitopatologiya |volume=34 |issue=5 |pages=8–10 |language=ru |issn=0026-3648}}</ref>
+
+<ref name=Petersen1967>{{cite journal |vauthors=Petersen RH, Olexia PD |year=1967 |title=Type studies in the clavarioid fungi. I. The taxa described by Charles Horton Peck |journal=Mycologia |volume=59 |issue=5 |pages= 767–802 |jstor=3757192 |doi=10.2307/3757192}}</ref>
+
+<ref name=Pilat1959>{{cite journal |author=Pilat A. |year=1959 |title=Rare species of Clavariaceae collected in Bohemia in 1958  |journal=Ceska Mykol |volume=13 |issue=2 |pages=73–85  |language=cs}}</ref>
+
+<ref name=Schaeffer1774>{{cite book |title=Fungorum qui in Bavaria et Palatinatu Nascuntur Icones |volume=4 |author=Schaeffer JC |year=1774 |page=116 |language=la}}</ref>
+
+<ref name="Schalkwijk-Barendsen1991">{{cite book |author=Schalkwijk-Barendsen HME. |title=Mushrooms of Western Canada |publisher=Lone Pine Publishing |location=Edmonton |year=1991 |page=[https://archive.org/details/mushroomsofweste0000scha/page/361 361] |isbn=0-919433-47-2 |url=https://archive.org/details/mushroomsofweste0000scha/page/361 }}</ref>
+
+<ref name=Shiryaev2006>{{cite journal |author=Shiryaev AG |year=2006 |title=Clavarioid fungi of urals. III. Arctic zone |journal=Mikologiya i Fitopatologiya |volume=40 |issue=4 |pages=294–306 |language=ru}}</ref>
+
+<ref name=Tylutki1987II>{{cite book |title=Mushrooms of Idaho and the Pacific Northwest Vol. 2 Non-gilled hymenomycetes|author=Tylukti EE |year=1987 |publisher=The [[University of Idaho Press]] |location=Moscow, Idaho |isbn= 0-89301-097-9|pages=83–84}}</ref>
+
+<ref name="urlFungorum synonymy: Clavariadelphus ligula">{{cite web |url=http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=451037 |title=''Clavariadelphus ligula'' (Schaeff.) Donk |publisher=CAB International |work=Species Fungorum |access-date=2010-08-23}}</ref>
+
+<ref name="urlMycoBank: Clavaria ophioglossoides">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=491172 |title=''Clavaria ophioglossoides'' Batsch 1783 |publisher=International Mycological Association |work=MycoBank |access-date=2010-08-23}}</ref>
+
+}}
+
+==External links==
+{{Commons category|Clavariadelphus ligula}}
+*{{IndexFungorum|451037}}
+
+{{Taxonbar|from=Q2978650}}
+
+[[Category:Phallales]]
+[[Category:Fungi described in 1774]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Jacob Christian Schäffer]]
+[[Category:Fungus species]]

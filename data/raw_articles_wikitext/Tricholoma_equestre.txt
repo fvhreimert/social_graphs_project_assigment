@@ -1,0 +1,76 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Tricholoma equestre.jpg
+| status = G5
+| status_system = TNC
+| status_ref = <ref name=NS>{{cite NatureServe |id=2.883689 |title=''Tricholoma equestre'' |access-date=24 May 2025}}</ref>
+| taxon = Tricholoma equestre
+| authority = ([[Carl Linnaeus|L.]]) [[Paul Kummer|P.Kumm.]]
+}}
+{{mycomorphbox
+| name = ''Tricholoma equestre''
+| hymeniumType=gills
+| capShape = flat
+| whichGills = adnexed
+| stipeCharacter = bare
+| sporePrintColor = white
+| ecologicalType = mycorrhizal
+| howEdible = caution
+| howEdible2 = poisonous
+}}
+
+'''''Tricholoma equestre''''' or '''''Tricholoma flavovirens''''', commonly known as the '''man on horseback'''<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/179/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=179-180 |orig-date=1979}}</ref> or '''yellow knight''', is a species of [[fungus]] of the genus ''[[Tricholoma]]'' that forms [[ectomycorrhiza]] with pine trees.
+
+It has been treasured as an [[edible mushroom]] worldwide and is especially abundant in [[France]] and [[Centro, Portugal|Central Portugal]]. Although it is regarded as quite tasty, cases of [[mushroom poisoning|poisoning]] from eating the species have been reported from Europe.
+
+==Taxonomy==
+''Tricholoma equestre'' was known to [[Carl Linnaeus]], who officially described it in Volume Two of his ''[[Species Plantarum]]'' in 1753, giving it the name ''Agaricus equestris'',<ref>{{cite book | last=Linnaeus | first=C | authorlink=Carl Linnaeus | title=Species Plantarum: Tomus II | publisher=Holmiae. (Laurentii Salvii). | date=1753| page=1173|language=la}}</ref> predating a description of ''Agaricus flavovirens'' by [[Christian Hendrik Persoon|Persoon]] in 1793. Thus this [[specific name (botany)|specific name]] meaning "of or pertaining to horses" in [[Latin]] takes precedence over ''Tricholoma flavovirens'', the other scientific name by which this mushroom has been known. It was placed in the genus ''[[Tricholoma]]'' by German [[Paul Kummer]] in his 1871 work ''Der Führer in die Pilzkunde''. The generic name derives from the [[Ancient Greek|Greek]] ''trichos''/τριχος 'hair' and ''loma''/λωμα 'hem', 'fringe' or 'border'.<ref name=nilper>{{cite book | last = Nilson|first= Sven |author2=Olle Persson  | year = 1977 | title = Fungi of Northern Europe 2: Gill-Fungi | publisher = Penguin|isbn=0-14-063006-6|page=24}}</ref>
+
+Common names include the ''man-on-horseback'', ''yellow knight'', and ''saddle-shaped tricholoma''.
+
+== Description ==
+The cap ranges from {{convert|5-15|cm|frac=2}} in width and is usually yellow with brownish areas, particularly at the centre.<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|url=https://books.google.com/books?id=obp7jddvjt4C&pg=PT160|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=160–161|oclc=797915861}}</ref> The skin layer covering the cap is sticky and can be peeled off. The yellow stem is 4–10 cm long and 1–2&nbsp;cm wide,<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=488}}</ref> and brownish at the base.<ref name=":0" /> The gills are also yellow and the spores are white,<ref name=":0" /> producing a white [[spore print]].<ref name="audu" />
+
+=== Similar species ===
+It can easily be mistaken for a variety of other members of the genus ''Tricholoma'', such as ''[[Tricholoma auratum|T.&nbsp;auratum]]'', ''[[Tricholoma aestuans|T.&nbsp;aestuans]]'',{{Citation needed|date=June 2021}} ''[[Tricholoma intermedium|T.&nbsp;intermedium]]'', ''[[Tricholoma sejunctum|T.&nbsp;sejunctum]]'', and ''[[Tricholoma sulphureum|T.&nbsp;sulphureum]]''.<ref name=":0" /> Other similar species include ''[[Floccularia albolanaripes]]'' and ''[[Floccularia luteovirens|F.&nbsp;luteovirens]]''.<ref name=":0" />
+
+== Toxicity ==
+This species was for a long time highly regarded as one of the tastier [[Edible mushroom|edible]] species (and by some authors still is)<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |url=https://archive.org/details/mushroomsotherfu0000phil |url-access=registration |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=[https://archive.org/details/mushroomsotherfu0000phil/page/49 49]}}</ref> and was sold in European markets. Medieval French knights allegedly reserved this species for themselves, leaving the lowly bovine bolete (''[[Suillus bovinus]]'') for the peasants.<ref name=Lamaison05>{{cite book |title=The Great Encyclopedia of Mushrooms |last=Lamaison |first=Jean-Louis |author2=Polese, Jean-Marie  |year=2005 |publisher=Könemann |isbn=3-8331-1239-5|page=90}}</ref>
+
+Concern was first raised in southwestern France. People who have been poisoned have all had three or more meals containing ''T.&nbsp;equestre'' within the last two weeks prior to treatment.{{citation needed|date=May 2025}} One to four days after their last meal containing the fungus, the patients reported weakness of the muscles, sometimes accompanied by pain. This weakness progressed for another three to four days accompanied by a feeling of stiffness and darkening of the [[urine]]. Periods of nausea, sweating, reddening of the face were also registered, but there were no fevers.<ref>{{Cite journal|last1=Meister|first1=John|last2=Reddy|first2=Kathleen|date=2002|title=Rhabdomyolysis: An Overview|url=https://www.jstor.org/stable/3522796|journal=The American Journal of Nursing|volume=102|issue=2|pages=75–79|doi=10.1097/00000446-200202000-00028|jstor=3522796|pmid=11953525|issn=0002-936X|url-access=subscription}}</ref>
+
+As yet, there have been no reported cases of poisoning in North America,<ref name="Miller 2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=125}}</ref> and there is speculation that the respective mushrooms may in fact be different species that are very similar in appearance. Molecular research shows that multiple species may have been identified as the synonym ''T.&nbsp;flavovirens'' on the West Coast.<ref>{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=102}}</ref><ref>Piotr Rzymski, Piotr Klimaszyk, "Is the Yellow Knight Mushroom Edible or Not? A Systematic Review and Critical Viewpoints on the Toxicity of Tricholoma equestre" https://onlinelibrary.wiley.com/doi/full/10.1111/1541-4337.12374</ref>
+
+There are reports where patients treated for ''T.&nbsp;equestre'' poisoning have died, likely as a result of the poisoning.<ref name="Bedry">{{cite journal  |vauthors=Bedry R, Baudrimont I, Deffieux G, etal |title=Wild-mushroom intoxication as a cause of rhabdomyolysis |journal=N. Engl. J. Med. |volume=345 |issue=11 |pages=798–802 |year=2001 |pmid=11556299 |doi=10.1056/NEJMoa010581|doi-access=free }}</ref> The poison in this mushroom has remained unknown. The basic mechanism of poisoning is suspected to be [[rhabdomyolysis]], damaging of the cell membrane of skeletal muscle fibres. In this disorder, the oxygen-carrying muscular protein [[myoglobin]] is released and appears in urine, resulting in symptoms such as [[muscle pain]] and brownish coloration of the urine.<ref name=Saviuc2006>{{cite journal |author1=Saviuc, Phillippe |author2=Danel, Vincent |title=New syndromes in mushroom poisoning |journal= Toxicological Reviews|year=2006 |volume=25 |issue=3 |pages=199–209 |pmid=17192123 |doi=10.2165/00139709-200625030-00004|s2cid=24320633 }}</ref>
+
+A 2018 research conducted in Poland with the recruitment of ten healthy volunteers, who ate 300 grams per head (about twice the normal dose) of fried ''T.&nbsp;equestre'' in a single meal, with no reported consequences or alterations.<ref>{{cite journal|title=The Yellow Knight Fights Back: Toxicological, Epidemiological, and Survey Studies Defend Edibility of Tricholoma equestre|journal=Toxins|volume=10|issue=11|pages=468|doi=10.3390/toxins10110468|pmid=30428584|pmc=6267205|year=2018|last1=Klimaszyk|first1=Piotr|last2=Rzymski|first2=Piotr|doi-access=free}}</ref> However, a 2020 systematic review highlights several studies indicating elevated plasma creatine kinase (CK) pro-inflammatory activities, in addition to its effect on other liver function biomarkers, underlining a cause for concern and suggestions "not to harvest and consume this species".<ref>{{cite journal|title=Toxic Potential of Traditionally Consumed Mushroom Species—A Controversial Continuum with Many Unanswered Questions|journal=Toxins|volume=12|issue=10|pages=639|doi=10.3390/toxins12100639|pmid=33023182|pmc=7599650|year=2020|doi-access=free |last1=Nieminen |first1=Petteri |last2=Mustonen |first2=Anne-Mari }}</ref> From the same 2020 study, they registered the same level of plasma CK using different edible mushrooms. For example the same level obtained by ''T.&nbsp;equestre'' was also obtained by ''[[Boletus edulis]]''.
+
+== In culture ==
+It is known as ''Grünling'' in German, ''gąska zielonka'' in Polish, ''míscaro'' in Portuguese and ''canari'' in French.
+
+== See also ==
+{{Portal|Fungi}}
+*[[Pine mushroom]]
+*[[Mushroom hunting]]
+*[[List of deadly fungi]]
+*[[List of North American Tricholoma|List of North American ''Tricholoma'']]
+*[[List of Tricholoma species|List of ''Tricholoma'' species]]
+
+==Footnotes==
+{{Reflist}}
+
+==External links==
+* [http://www.sciencenews.org/articles/20011027/food.asp Food for Thought: Mushrooming Concerns] "Science News Online" article on ''T. flavovirens''  (''T. equestre'').
+* [https://web.archive.org/web/20070311105637/http://www.hc-sc.gc.ca/ahc-asc/media/advisories-avis/2001/2001_115bk_e.html ''Tricholoma equestre'' poisoning] "About Health Canada" article on ''Tricholoma equestre'' poisoning.
+* [https://web.archive.org/web/20060831072112/http://nemf.org/files/lincoff/lookalikes/Recent_mushroom_poisonings.html Recent Poisonings from Edible Mushrooms!] A report on a few new kinds of mushroom poisoning.
+* [https://web.archive.org/web/20060927083356/http://www.slv.se/templates/SLV_Page____10674.aspx Riddarmusseronen kan vara giftig] Swedish article on ''T. flavovirens'' and its toxicity.
+* [https://web.archive.org/web/20061001020129/http://matportalen.no/Saker/1095084193.4 Matportalen: Matsoppen som ble giftsopp] Norwegian article on ''T. equestre''.
+
+{{Taxonbar|from=Q312756}}
+
+[[Category:Tricholoma|equestre]]
+[[Category:Fungi described in 1753]]
+[[Category:Fungi of Europe]]
+[[Category:Poisonous fungi]]
+[[Category:Fungal taxa named by Carl Linnaeus]]
+[[Category:Fungus species]]

@@ -1,0 +1,73 @@
+{{Short description|Species of fungus}}
+{{Use dmy dates|date=December 2023}}
+{{More footnotes needed|date=December 2023}}{{Speciesbox
+| image = Persicina - Copy.JPG
+| image_caption =
+| genus = Amanita
+| species = persicina
+| authority = (Dav.T. Jenkins) Tulloss & Geml (2015)
+}}
+{{Mycomorphbox
+| name = ''Amanita persicina''
+| whichGills = free
+| capShape = flat
+| capShape2 = convex
+| hymeniumType = gills
+| stipeCharacter = ring and volva
+| ecologicalType = mycorrhizal
+| sporePrintColor = white
+| howEdible = poisonous
+| howEdible2 = psychoactive
+}}
+
+'''''Amanita persicina''''', commonly known as the '''peach-colored fly agaric''', is a [[basidiomycete]] [[fungus]] of the genus ''[[Amanita]]'' with a peach-colored center. Until {{Circa|2015}}, the fungus was believed to be a variety of ''[[Amanita muscaria|A.&nbsp;muscaria]]''.
+
+''A. persicina'' is distributed in eastern North America. It is both [[Mushroom poisoning|poisonous]] and [[Psychoactive mushroom|psychoactive]].
+
+==Taxonomy==
+''Amanita persicina'' was formerly treated as a variety of ''[[Amanita muscaria|A.&nbsp;muscaria]]'' (the fly agaric) and it was classified as ''A.&nbsp;muscaria var. persicina''. Recent DNA evidence, however, has indicated that ''A.&nbsp;persicina'' is better treated as a distinct species, and it was elevated to species status in 2015 by Tulloss & Geml.<ref>{{cite web|title=Amanita persicina - Amanitaceae.org - Taxonomy and Morphology of Amanita and Limacella|url=http://www.amanitaceae.org/?Amanita%20persicina|website=www.amanitaceae.org|language=en}}</ref>
+
+==Description==
+
+===Cap===
+The [[pileus (mycology)|cap]] is {{Convert|4–13|cm|abbr=off|frac=2}} wide, hemispheric to convex when young, becoming plano-convex to plano-depressed in age. It is pinkish-melon-colored to peach-orange, sometimes pastel red towards the disc. The cap is slightly [[wikt:appendiculate|appendiculate]]. The [[volva (mycology)|volva]] is distributed over the cap as thin pale yellowish to pale tannish warts; it is otherwise smooth and [[wikt:subviscid|subviscid]], and the margin becomes slightly to moderately striate in age. The flesh is white and does not stain when cut or injured. The flesh has a pleasant taste and odor.
+
+===Gills===
+The [[lamella (mycology)|gills]] are free, crowded, moderately broad, creamy with a pale pinkish tint, and have a very floccose edge. They are abruptly truncate.
+
+===Spores===
+''Amanita persicina'' [[spore]]s are white in deposit, ellipsoid to elongate, infrequently broadly ellipsoid, rarely cylindric, [[wikt:inamyloid|inamyloid]], and are (8.0) 9.4–12.7 (18.0) x (5.5) 6.5–8.5 (11.1) [[micrometre|μm]].
+
+===Stipe===
+The [[stipe (mycology)|stipe]] is 4–10.5&nbsp;cm long, 1–2&nbsp;cm wide, and more or less equal or narrowing upwards and slightly flaring at the apex. It is pale yellow in the superior region, tannish white below, and densely stuffed with a pith. The ring is fragile, white above and yellowish below, and poorly formed or absent. Remnants of the [[universal veil]] on the vasal bulb as concentric rings are fragile or absent.
+
+===Chemistry===
+This species contains variable amounts of the neurotoxic compound [[ibotenic acid]] and the psychoactive compound [[muscimol]].
+
+==Distribution and habitat==
+''A. persicina'' is found growing solitary or [[gregariously]]. It is [[mycorrhiza]]l with conifers (Pine) and deciduous (Oak) trees in North America. It often fruits in the fall, but sometimes in the spring and summer. The fungus is common in the southeast United States, from Texas to Georgia, and north to New Jersey.
+
+==Toxicity==
+''A.&nbsp;persicina'' is both [[Mushroom poisoning|poisonous]] and [[Psychoactive mushroom|psychoactive]] if not properly prepared by [[parboiling]]. Pending further research, it should not be eaten.<ref>{{Cite web |last=Rubel |first=William |last2=Arora |first2=David |date=2008 |title=A Study of Cultural Bias in Field Guide Determinations of Mushroom Edibility Using the Iconic Mushroom, ''Amanita muscaria'', as an Example |url=http://davidarora.com/uploads/rubel_arora_muscaria_revised.pdf |archive-url=https://web.archive.org/web/20170812070229/http://davidarora.com/uploads/rubel_arora_muscaria_revised.pdf |archive-date=2017-08-12 |access-date=2023-12-25 |website=[[New York Botanical Garden]] |pages=223–243 |via=DavidArora.com}}</ref>
+
+==Gallery==
+<gallery>
+Image:Amanitamuscariavarpersicina1.jpg| Two wild specimens 
+Image:amanita muscaria var. persicina.jpg| Close-up of cap
+</gallery>
+
+==References==
+{{Reflist}}
+*Miller, O. K. Jr., D. T. Jenkins and P. Dery. 1986. Mycorrhizal synthesis of ''Amanita muscaria'' var. ''persicina'' with hard pines. ''[[Mycotaxon]]'' '''26''': 165–172.
+*Jenkins, D. T.  1977. A taxonomic and nomenclatural study of the genus ''Amanita'' section ''Amanita'' for North America.  Biblioth. Mycol. 57: 126 pp.
+
+==External links==
+*[http://www.amanitaceae.org/?Amanita+persicina ''Amanita persicina'' page by Rod Tulloss]
+{{Amanitas}}
+{{Taxonbar|from1=Q49633239|from2=Q4739876}}
+
+[[Category:Amanita|persicina]]
+[[Category:Fungi described in 1977]]
+[[Category:Poisonous fungi]]
+[[Category:Psychoactive fungi]]
+[[Category:Fungus species]]

@@ -1,0 +1,80 @@
+{{short description|Species of fungus}}
+{{about|the fungus called 'tuckahoe'|the plant|Peltandra virginica}}
+{{Speciesbox
+| image = Tuckahoe.jpg
+| image_caption = ''Wolfiporia extensa'' [[sclerotium]]
+| taxon = Wolfiporia extensa
+| authority = ([[Charles Horton Peck|Peck]]) [[James Herbert Ginns|Ginns]] (1984)
+| synonyms_ref = <ref name="urlFungorum synonymy: Wolfiporia extensa"/>
+| synonyms = 
+*''Pachyma cocos'' <small>[[Elias Magnus Fries|Fr.]] (1822)</small>
+*''Sclerotium cocos'' <small>[[Schwein.]] (1822)</small>
+*''Daedalea extensa'' <small>Peck (1891)</small>
+*''Poria cocos''<small> [[Frederick Adolph Wolf|F.A.Wolf]] (1922)</small>
+*''Macrohyporia cocos'' <small>(Schwein.) I.Johans. & [[Leif Ryvarden|Ryvarden]] (1979)</small>
+*''Macrohyporia extensa'' <small>(Peck) Ginns & [[J.Lowe]] (1983)</small>
+*''Wolfiporia cocos'' <small>(F.A.Wolf) [[Leif Ryvarden|Ryvarden]] & [[Gilb.]] (1984)</small>
+}}
+{{Mycomorphbox
+| hymeniumType = pores
+| capShape = no
+| whichGills = no
+| stipeCharacter = NA
+| sporePrintColor = white
+| ecologicalType = saprotrophic
+| ecologicalType2 = parasitic
+| howEdible = inedible
+| howEdible2 = edible
+}}
+
+'''''Wolfiporia extensa''''' (''[[Synonym (taxonomy)|syn.]]'' '''''Poria cocos''''' F.A.Wolf), commonly known as '''hoelen''', '''poria''', '''tuckahoe''', '''China root''', '''fu&nbsp;ling''' ({{lang|zh-hant|茯苓}}, [[pīnyīn]]: fúlíng), or '''matsuhodo''', is a species of [[fungus]] in the family [[Polyporaceae]]. It is a [[wood-decay fungus]] but has a subterranean growth habit. It notably develops a large, long-lasting underground [[sclerotium]] resembling a small coconut.
+
+== History ==
+''Compendium of Materia Medica'' is firstly recorded in ''[[Compendium of Materia Medica]]'' by [[Li Shizhen]] around the 16th century, as one of the first books to record Chinese herbs. The book recorded its medicinal application in adverse urination, edema, spleen deficiency and diarrhea. ''W.&nbsp;extensa'' is used extensively as a [[medicinal fungus|medicinal mushroom]] in [[Chinese medicine]].<ref name="Esteban 2009" /> Indications for use in the traditional Chinese medicine include promoting [[urination]], to invigorate the spleen function (i.e., digestive function), and to calm the mind.<ref name="Bensky">Bensky D, Clavey S, Stoger E. (2004) Eastland Press, Inc.  Seattle, 3rd ed. {{ISBN|0939616424}}. p. 267</ref>
+
+== Uses ==
+The tubers were reportedly eaten by some Native American tribes.<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/604/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=604 |orig-date=1979}}</ref>
+
+=== Botanical extract ===
+The species is a source of [[triterpenoid]] compounds, [[pachymic acid]], polysaccharides, choline, and histidine which has been the object of scientific study based upon the mushroom's role in [[traditional Chinese medicine]].<ref name=":0">{{Cite journal |last=Sun |first=Yichun |date=July 2014 |title=Biological activities and potential health benefits of polysaccharides from Poria cocos and their derivatives |url=https://doi.org/10.1016/j.ijbiomac.2014.04.010 |journal=International Journal of Biological Macromolecules |volume=68 |pages=131–134 |doi=10.1016/j.ijbiomac.2014.04.010 |pmid=24751506 |issn=0141-8130|url-access=subscription }}</ref>
+
+=== Medicinal uses ===
+The [[polysaccharides]] of ''W.&nbsp;extensa'' and their derivatives have garnered significant interest due to their wide range of biological activities. These compounds exhibit potent anticancer, anti-inflammatory, antioxidant, and antiviral effects, which indicate their potential for further development as therapy or adjuvant therapy for cancer, immune modulation, and viral diseases.<ref name=":0" /> 
+
+Besides, some polysaccharides have been found to possess [[antidepressant]] effects and have the ability to suppress the proliferation of [[T cell|T]] and {{nowrap|[[B cell]]s}}. Preliminary research indicates a potential for these [[polysaccharide]]s in the development of antidepressant or [[immunosuppressive]] agents in the food and pharmaceutical industries.<ref>{{Cite journal |last1=Zhang |first1=Wuxia |last2=Chen |first2=Lu |last3=Li |first3=Peng |last4=Zhao |first4=Jinzhong |last5=Duan |first5=Jinyou |date=December 2018 |title=Antidepressant and immunosuppressive activities of two polysaccharides from Poria cocos (Schw.) Wolf|journal=International Journal of Biological Macromolecules |volume=120 |issue=Pt B |pages=1696–1704 |doi=10.1016/j.ijbiomac.2018.09.171 |pmid=30267822 |issn=0141-8130}}</ref>
+
+Its main ingredients, [[triterpenoid]] compounds, exhibit significant pharmacological properties such as anti-diabetic and tonic medicine. Particularly, specific components like [[pachymic acid]], {{Nowrap|3-epidehydrotumulosic}} acid, and polyporenic acid&nbsp;C have been shown to significantly increase [[hypoglycemic]] activity, which is traditionally used in treating hyperglycemic disorders like [[diabetes]].<ref>{{Cite journal |last1=Huang |first1=Yu-Chuan |last2=Chang |first2=Wen-Liang |last3=Huang |first3=Su-Fen |last4=Lin |first4=Cheng-Yu |last5=Lin |first5=Hang-Ching |last6=Chang |first6=Tsu-Chung |date=December 2010 |title=Pachymic acid stimulates glucose uptake through enhanced GLUT4 expression and translocation|journal=European Journal of Pharmacology |volume=648 |issue=1–3 |pages=39–49 |doi=10.1016/j.ejphar.2010.08.021 |pmid=20816811 |issn=0014-2999}}</ref>
+
+In addition, triterpenoids from ''W.&nbsp;extensa'' have been also found to demonstrate significant diuretic activity in rats. Specifically, tetracyclic triterpenoids from ''W.&nbsp;extensa'' are aldosterone antagonists that can bind to renal cytoplasmic aldosterone receptors. This action enhances the urinary Na<sup>+</sup>/K<sup>+</sup> ratio in rats and inhibits the Na<sup>+</sup>-K<sup>+</sup> [[ATPase]] in the kidney and erythrocytes, which reduce the reabsorption of crude urine, leading to increased urine excretion, as diuresis application.<ref>{{Cite journal |last1=HU |first1=Gao-Sheng |last2=HUANG |first2=Chong-Gui |last3=ZHANG |first3=Yang |last4=XIAO |first4=Wei |last5=JIA |first5=Jing-Ming |date=April 2017 |title=Accumulation of biomass and four triterpenoids in two-stage cultured Poria cocos mycelia and diuretic activity in rats |url=https://doi.org/10.1016/S1875-5364(17)30043-2 |journal=Chinese Journal of Natural Medicines |volume=15 |issue=4 |pages=265–270 |doi=10.1016/s1875-5364(17)30043-2 |pmid=28527511 |issn=1875-5364|url-access=subscription }}</ref>
+
+A novel immunomodulatory glycoprotein from ''W.&nbsp;extensa'' is demonstrated to be capable of activating murine macrophages, cells that play a crucial role in the body's defense against diseases, such as [[bacterial infections]] and [[tumor cells]] involved in tumor lysis and growth inhibition. This suggests its immunomodulatory effects as a herbal remedy.<ref>{{Cite journal |last1=Chang |first1=Hui-Hsin |last2=Yeh |first2=Chen-Hao |last3=Sheu |first3=Fuu |date=2009-07-22 |title=A Novel Immunomodulatory Protein from Poria cocos Induces Toll-like Receptor 4-Dependent Activation within Mouse Peritoneal Macrophages |url=https://pubs.acs.org/doi/10.1021/jf9011399 |journal=Journal of Agricultural and Food Chemistry |language=en |volume=57 |issue=14 |pages=6129–6139 |doi=10.1021/jf9011399 |pmid=19548679 |bibcode=2009JAFC...57.6129C |issn=0021-8561|url-access=subscription }}</ref>
+
+Modern pharmacological studies suggest multiple neurological benefits associated with the use of ''W.&nbsp;extensa''. For instance, the aqueous extract has been found to improve long-term potentiation in the [[hippocampus]] of rats and ameliorate [[scopolamine]]-induced spatial memory impairment. Furthermore, it is a key ingredient in many [[Traditional Chinese medicine|traditional Chinese medicinal]] formulas used to manage neurodegenerative diseases.<ref>{{Cite journal |last1=Jiang |first1=Xia |last2=Hu |first2=Zhaotun |last3=Qiu |first3=Xiaoyan |last4=Wu |first4=Liming |last5=Zhou |first5=Rong |last6=Yang |first6=Yaoyao |last7=Xiang |first7=Xiaoliang |date=January 2023 |title=Poria cocos (Schw.) Wolf, a Traditional Chinese Edible Medicinal Herb, Promotes Neuronal Differentiation, and the Morphological Maturation of Newborn Neurons in Neural Stem/Progenitor Cells |journal=Molecules |language=en |volume=28 |issue=22 |pages=7480 |doi=10.3390/molecules28227480 |doi-access=free |issn=1420-3049 |pmc=10672746 |pmid=38005201}}</ref>
+
+In Chinese medicine, ''W.&nbsp;extensa'' is commonly used for the treatment of primary [[dysmenorrhea]]. It is known for its clinical efficacy in activating blood circulation to dissipate blood stasis.<ref>{{Cite journal |last1=Sun |first1=Lan |last2=Liu |first2=Lina |last3=Zong |first3=Shaobo |last4=Wang |first4=Zhengzhong |last5=Zhou |first5=Jun |last6=Xu |first6=Zhiliang |last7=Ding |first7=Gang |last8=Xiao |first8=Wei |last9=Kou |first9=Junping |date=September 2016 |title=Traditional Chinese medicine Guizhi Fuling capsule used for therapy of dysmenorrhea via attenuating uterus contraction|journal=Journal of Ethnopharmacology |volume=191 |pages=273–279 |doi=10.1016/j.jep.2016.06.042 |pmid=27340106 |issn=0378-8741}}</ref>
+
+==References==
+{{Reflist|refs=
+
+<!-- <ref name="Cheng 2015">{{cite journal |vauthors=Cheng S, Swanson K, Eliaz I, McClintick JN, Sandusky GE, Sliva D |title=Pachymic acid inhibits growth and induces apoptosis of pancreatic cancer in vitro and in vivo by targeting ER stress |journal=PLOS ONE |year=2015 |volume=10 |issue=4 |page=e0122270 |doi=10.1371/journal.pone.0122270 |pmid=25915041 |pmc=4411097|bibcode=2015PLoSO..1022270C |doi-access=free }} {{open access}}</ref> -->
+
+<ref name="Esteban 2009">{{cite journal |author=Esteban CI. |title=Interés medicinal de ''Poria cocos'' (= ''Wolfiporia extensa'') |trans-title=Medicinal interest of ''Poria cocos'' (= ''Wolfiporia extensa'') |language=Spanish |journal=Revista Iberoamericana de Micología |volume=26 |issue=2 |pages=103–7 |year=2009 |pmid=19631158 |doi=10.1016/S1130-1406(09)70019-1| hdl=10017/7998 |url = http://dialnet.unirioja.es/servlet/oaiart?codigo=3016560|hdl-access=free }}</ref>
+
+<ref name="urlFungorum synonymy: Wolfiporia extensa">{{cite web |title=GSD Species Synonymy: ''Wolfiporia extensa'' (Peck) Ginns |url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=106545 |publisher=Species Fungorum. CAB International |accessdate=2015-08-09}}</ref>
+
+}}
+
+==External links==
+*[http://www.itmonline.org/arts/hoelen.htm Hoelen (Poria)]
+*[http://sci.cancerresearchuk.org/labs/med_mush/med_mush.html Medicinal Mushrooms: Their Therapeutic Properties and Current Medical Usage with Special Emphasis on Cancer Treatments] {{Webarchive|url=https://web.archive.org/web/20090831052918/http://sci.cancerresearchuk.org/labs/med_mush/med_mush.html |date=2009-08-31 }} by [[Cancer Research UK]], 2001
+
+{{Taxonbar|from=Q3115198}}
+
+[[Category:Fungi described in 1891]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of North America]]
+[[Category:Medicinal fungi]]
+[[Category:Polyporaceae]]
+[[Category:Fungi used in traditional Chinese medicine]]
+[[Category:Taxa named by Charles Horton Peck]]
+[[Category:Fungus species]]

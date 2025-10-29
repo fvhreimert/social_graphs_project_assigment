@@ -1,0 +1,97 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{Speciesbox
+| image = Cortinarius cinnamomeus - Lindsey.jpg
+| image_alt = 
+| image_caption = 
+| status = 
+| status_system = 
+| status_ref = 
+| genus = Cortinarius
+| species = cinnamomeus
+| authority = ([[Carl Linnaeus|L.]]) [[Elias Magnus Fries|Fr.]] (1838)
+| synonyms = 
+*''Agaricus cinnamomeus'' <small>L. (1753)</small>
+*''Dermocybe cinnamomea'' <small>(L.) [[Meinhard Michael Moser|M.M.Moser]]</small>
+*''Flammula cinnamomea'' <small>(L.) [[Paul Kummer|P.Kumm.]]</small>
+*''Gomphos cinnamomeus'' <small>(L.) [[Otto Kuntze|Kuntze]]</small>
+| synonyms_ref = <ref name="urlSpecies Fungorum - Species synonymy"/>
+| subdivision_ranks = 
+| subdivision = 
+}}
+{{mycomorphbox
+| name = ''Cortinarius cinnamomeus''
+| whichGills = emarginate
+| capShape = convex
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor =
+| howEdible = caution
+}}
+{{stack end}}
+
+'''''Cortinarius cinnamomeus''''', also known as the '''cinnamon webcap''', is a [[basidiomycete]] mushroom of the genus ''[[Cortinarius]]''. The fungus produces brown [[basidiocarp|fruit bodies]] with [[pileus (mycology)|caps]] up to {{convert|6|cm|abbr=on}} wide and [[stipe (mycology)|stems]] up to {{convert|12|cm|abbr=on}} long. The closely crowded [[lamellae (mycology)|gills]] underside the cap are initially yellow before turning brown.
+
+The species is common in damp places in [[conifer]]ous forests. It is distributed throughout the [[temperate]] zone of the [[Northern Hemisphere]].
+
+==Taxonomy==
+First described by [[Carl Linnaeus]] in 1753 as ''Agaricus cinnamomeus'',<ref name=Linnaeus1753/> the fungus was given its current name by [[Elias Magnus Fries]] in 1838.<ref name=Fries1838/> The names ''Dermocybe cinnamomea'' ([[Meinhard M. Moser|Moser]]), ''Flammula cinnamomea'' ([[Paul Kummer|Kummer]], 1871) and ''Gomphos cinnamomeus'' ([[Otto Kuntze|Kuntze]], 1898) reflect differing approaches over the years to the taxonomy of ''[[Cortinarius]]'' species.<ref name="urlSpecies Fungorum - Species synonymy"/> The mushroom is [[common name|commonly]] known as the "cinnamon webcap".<ref name=EnglishCommonNames/>
+
+==Description==
+The [[pileus (mycology)|cap]] is quite thinly fleshy, {{convert|3–6|cm|frac=4}} in diameter, initially quite spherical, later bluntly convex to bell-shaped, usually with an [[umbo (mycology)|umbo]], and often irregular and bent or wavy towards the margin. The margin is initially curved inward, then straight, sometimes at the margin itself slightly flexuosely rugose or even briefly fimbriate. The cap surface is dry and opaque, fibrillosely squamulose, tomentose, at first vivid yellow ochre to yellow or copper olivaceous,<ref name="Arora">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/228/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=453–454 |orig-date=1979}}</ref> later glabrescent or quite glabrous and when mature brownish olive or light olive, often with a saffron tint at the margin, and with numerous fibrils from the [[universal veil]] when young; later the margin is mostly concolorous.
+
+[[image:Cortinarius.cinnamomeus2.-.lindsey.jpg|thumb|The gills are crowded and have an emarginate attachment to the stem.]]
+
+The [[lamella (mycology)|gills]] are crowded closely together, {{convert|3–5|mm|frac=8}} broad, emarginate (notched), adnate by a tooth. The color is vivid yellow when young, then brownish-olive, rarely with saffron tint, and finally brownish-olive to rusty cinnamon, with denticulate (finely toothed) edge, which is either the same color as the gill or paler. Young specimens have a yellow cortina of fine fibers that extend from the cap to the stem. The [[stipe (mycology)|stem]] is {{convert|8–12|cm|abbr=on|frac=4}} tall and {{convert|0.5–1|cm|abbr=on|frac=4}} wide, cylindrical, often slightly wavy,<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=636}}</ref> solid, then hollow, fibrillose and quite fragile. At first it is almost the same color as the gills, vivid yellow or yellow later with a more or less olive tone, and in some places turning brown. It is covered with fibrils from the [[partial veil|veil]], which forms one or two incomplete, oblique, and usually fugacious zones. The [[trama (mycology)|flesh]] is thin, in the cap pale yellow or yellow with olive tones, a little darker in the stem, yellow to olive, with a faint slightly radishy smell and mild taste.<ref name=Pilat1961/>
+
+The [[basidia]] (spore-bearing cells) are 20–30 by 5–8&nbsp;[[μm]].<ref name="Pilat1961" /> The [[spore]]s are elliptical with a slightly roughened surface, measuring 6–9.5 by 4–5&nbsp;μm and producing a rusty-brown [[spore print]].<ref name="Arora" />
+
+=== Similar species ===
+It resembles ''[[Cortinarius croceus|C.&nbsp;croceus]]'', ''[[Cortinarius gentilis|C.&nbsp;gentilis]]'',<ref name="Arora" /> other members of the subgenus ''[[Dermocybe]]'', as well as some in ''Telamonia''.<ref name="audu" />
+
+==Distribution and habitat==
+[[image:Carex flacca.jpeg|thumb|upright|The fungus forms [[ectomycorrhiza]]-like structures with the sedge ''[[Carex flacca]]''.]]
+
+The fruit bodies of are common in damp places in [[conifer]]ous forests, growing not only in Europe but apparently throughout the [[temperate]] zone of the Northern Hemisphere.<ref name=Pilat1961/> It has also been collected from [[Yunnan Province]], China.<ref name=Wang2006/>
+
+The species colonizes the root systems of the sedges ''[[Carex flacca]]'' and ''[[Carex pilulifera]]'', forming [[ectomycorrhiza]]l-like structures lacking a [[Hartig net]]—a network of [[hypha]]e that penetrate between the epidermal and cortical cells of the root. The structures formed between ''C.&nbsp;cinnamomeus'' and the sedges possess a distinct fungal mantle (85–100&nbsp;μm thick), hyphal infection in epidermal cells, [[rhizomorph]]s and extramatrical hyphae. These ectomycorrhiza-like structures are formed on first-order lateral roots but are [[morphology (biology)|morphologically]] and anatomically distinct from dauciform roots (short swollen hairy lateral roots).<ref name=Harrington2002/>
+
+==Uses==
+The fruit bodies are used in [[mushroom dye]]ing to produce a brown color.<ref name="Bessette2001" />
+
+Although it has been claimed to be [[Edible mushroom|edible]], it can resemble some deadly [[Mushroom poisoning|poisonous]] species.<ref name="Arora" />
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Cortinarius species|List of ''Cortinarius'' species]]
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=Bessette2001>{{cite book |vauthors=Bessette A, Bessette AR |title=The Rainbow Beneath my Feet: a Mushroom Dyer's Field Guide |publisher=Syracuse University Press |location=Syracuse |year=2001 |page=159 |isbn=978-0-8156-0680-2 |url=https://books.google.com/books?id=1WbvR2PwKcIC&q=Cortinarius+cinnamomeus&pg=PA159 |access-date=2010-08-01}}</ref>
+
+<ref name=EnglishCommonNames>{{cite web |url=http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |title=Recommended English Names for Fungi in the UK |publisher=[[British Mycological Society]] |access-date=2012-04-04 |archive-url=https://web.archive.org/web/20110716083053/http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |archive-date=2011-07-16 |url-status=dead }}</ref>
+
+<ref name=Linnaeus1753>{{cite book |title=Species Plantarum |author=Fries EM |year=1753 |page=1173 |language=la}}</ref>
+
+<ref name=Fries1838>{{cite book |title=Epicrisis Systematis Mycologici |author=Fries EM |year=1838 |page=288 |language=la}}</ref>
+
+<ref name=Harrington2002>{{cite journal |doi=10.1017/S0953756202005713 |vauthors=Harrington TJ, Mitchell DT |year=2002 |title=Colonization of root systems of ''Carex flacca'' and ''C. pilulifera'' by ''Cortinarius'' (''Dermocybe'') ''cinnamomeus'' |journal=Mycological Research |volume=106 |issue=4 |pages=452–59}}</ref>
+
+<ref name=Pilat1961>{{cite book |title=Mushrooms and other Fungi |vauthors=Pilat Á, Ušák O |year=1961 |publisher=Peter Nevill |location=London |page=110}}</ref>
+
+<ref name="urlSpecies Fungorum - Species synonymy">{{cite web |url=http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=197182 |title=''Cortinarius cinnamomeus'' (L.) Fr. |publisher=CAB International |work=Index Fungorum |access-date=2010-08-25}}</ref>
+
+<ref name=Wang2006>{{cite journal |vauthors=Wang L, Song DS, Liang JF, Li YC, Zhang Y |year=2006 |title=Macrofungus resources and their utilization in Shangri-La County, Northwest in Yunnan Province |journal=Journal of Plant Resources and Environment |volume=15 |issue=3 |pages=79–80 |language=zh |issn=1004-0978}}</ref>
+
+}}
+
+{{Taxonbar|from=Q1084167}}
+
+[[Category:Cortinarius|cinnamomeus]]
+[[Category:Fungi described in 1753]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungal taxa named by Carl Linnaeus]]
+[[Category:Fungus species]]

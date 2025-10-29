@@ -1,0 +1,28 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Coprinellus_xanthothrix.jpg
+| image_caption =
+| genus = Coprinellus
+| species = xanthothrix
+| authority = ([[Henri Romagnesi|Romagn.]]) Vilgalys, Hopple & Jacq.Johnson
+}}
+
+'''''Coprinellus xanthothrix''''' is a species of [[fungus]] in the family [[Psathyrellaceae]]. This species was isolated from a [[polyphenol]]-polluted site near an olive processing plant in [[Greece]]. Shown to have the enzymes [[laccase]] and [[manganese peroxidase]], the fungus is able to decolorize the recalcitrant polymeric dye R-478.<ref name=Drista2006/> First [[species description|described]] as ''Coprinus xanthothrix'' by the French mycologist [[Henri Romagnesi]] in 1941, it was later transferred to the genus ''[[Coprinellus]]'' in 2001.<ref name=Redhead2001/>
+
+==References==
+{{Reflist|refs=
+
+<ref name=Drista2006>{{cite journal |vauthors=Dritsa V, Rigas F, Natsis K, Marchant R |year=2006|title=Characterization of a fungal strain isolated from a polyphenol polluted site |journal=Bioresource Technology |volume=98 |issue=9 |pages=1741–47 |doi=10.1016/j.biortech.2006.07.025 |pmid=16935498}}</ref>
+
+<ref name=Redhead2001>{{cite journal |vauthors=Redhead SA, Vilgalys R, ((Moncalvo J-M)), Johnson J, Hopple JS Jr |year=2001 |title=''Coprinus'' Pers. and the disposition of ''Coprinus'' species ''sensu lato'' |journal=Taxon |volume=50 |issue=1 |pages=203–241 |doi=10.2307/1224525 |jstor=1224525}}</ref>
+
+}}
+
+{{Taxonbar|from=Q2213161}}
+
+[[Category:Coprinellus|xanthothrix]]
+[[Category:Fungi described in 1941]]
+[[Category:Fungus species]]
+
+
+{{Psathyrellaceae-stub}}

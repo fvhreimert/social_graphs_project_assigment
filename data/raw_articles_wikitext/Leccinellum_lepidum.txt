@@ -1,0 +1,142 @@
+{{Short description|Species of fungus}}
+{{Speciesbox 
+| image = Leccinellum lepidum 490735.jpg
+| genus = Leccinellum
+| species = lepidum
+| authority = (H.Bouchet ex Essette) Bresinsky & Manfr.Binder (2003)
+| synonyms_ref = <ref name="urlFungorum: Leccinellum lepidum"/>
+| synonyms = 
+*''[[Boletus]] lepidus'' <small>H.Bouchet ex Essette (1965)</small>
+*''[[Leccinum]] lepidum'' <small>(H.Bouchet ex Essette) [[Marcel Bon|Bon]] & Contu (1990)</small>
+*''Krombholziella lepida'' <small>(H.Bouchet ex Essette) Bon & Contu (1985) nom. inval. </small>
+*''Krombholziella lepida'' <small>(H.Bouchet ex Essette) Alessio (1985) </small>
+
+}}
+{{mycomorphbox
+|name = ''Leccinellum lepidum''
+|capShape = convex
+|hymeniumType = pores
+|stipeCharacter = bare
+|sporePrintColor = olive-brown
+|ecologicalType = mycorrhizal
+|howEdible = edible
+}}
+
+'''''Leccinellum lepidum''''' is a species of [[bolete]] in the family [[Boletaceae]]. Originally [[species description|described]] as ''Boletus lepidus'' in 1965, the [[fungus]] has gone through controversial [[taxonomy (biology)|taxonomic]] treatments over the years and was subsequently transferred to genus'' Krombholziella'' in 1985, to genus ''[[Leccinum]]'' in 1990, and to genus ''[[Leccinellum]]'' in 2003. It is the sister-species of ''[[Leccinellum corsicum]]'', with which it had been erroneously [[synonym (taxonomy)|synonymised]] by some authors in the past.
+
+Like other species of Boletaceae, it has tubes and pores instead of [[Lamella (mycology)|gills]] in its [[hymenium|hymenial]] (fertile) surface and produces large, fleshy [[basidiocarp|fruit bodies]] up to 20&nbsp;cm across. Fruit bodies have the tendency to stain orange, violaceous grey and eventually blackish brown when handled or when the flesh is exposed to the air.
+
+Native to [[southern Europe]], ''L. lepidum'' is abundantly present throughout the [[Mediterranean basin|Mediterranean]], growing in [[mycorrhizal]] [[symbiosis]] with various species of oak (''[[Quercus]]''), particularly [[evergreen]] members of the ''"Ilex"'' group. Despite its southern distribution, the fungus is notable for its late [[phenology|fruiting]] and tolerance to low temperatures, and is often the only bolete fruiting during the cold winter months.
+
+It is an [[edible mushroom]], though not as highly regarded as sought-after [[bolete]]s of the genus ''[[Boletus]]''.
+
+==Taxonomy and phylogeny==
+
+Originally [[species description|described]] as ''Boletus lepidus'' by H. Essette in 1965,<ref>Essette (1965). Bull. trimest. Soc. mycol. Fr.: pl. 147</ref> ''Leccinellum lepidum'' has been controversially treated by various authors, who placed it in different genera or at times synonymised it with other taxa. In 1985, the species was invalidly recombined into genus ''[[Leccinum]]'' by mycologists [[Marcel Bon]] and Marco Contu, but later in the same year Italian mycologist [[Carlo Luciano Alessio|Carlo Alessio]] transferred it to ''Krombholziella'',<ref>Alessio CL. (1985). Boletus Dill. ex L. (sensu lato): 1-712</ref> a genus that later became a synonym of ''[[Leccinum]]''. Bon recombined it as a [[variety (botany)|variety]] of ''[[Leccinellum crocipodium|Leccinum crocipodium]]'' in 1989,<ref>Bon M. (1989). Novitates - Nouveaux taxons. Documents Mycologiques. 19(75): 55–58.</ref> only to recombine it again with M. Contu as ''Leccinum lepidum'', in 1990.<ref>Quadraccia L, Rossi W. (1984). Novitates - Combinaisons et taxons nouveaux. Documents Mycologiques. 14(56): 27-32.</ref> Heinz Engel and colleagues,<ref name="Engel et al. 1983"/> on the other hand, rejected all previous names and considered the taxon to be a synonym of ''[[Leccinum corsicum]]'', a closely related species associated with ''[[Cistaceae]]'' shrubs.
+
+In 2003, the species was transferred to the newly segregated genus ''[[Leccinellum]]'' by mycologists Andreas Bresinsky and Manfred Binder, together with other yellow-pored taxa formerly placed in ''[[Leccinum]]''.<ref name="Bresinsky 2003"/> Subsequent [[phylogeny|phylogenetic]] and [[chemotaxonomy|chemotaxonomical]] analyses by Binder & Besl<ref name="Binder & Besl 2000"/> and Den Bakker & Noordeloos,<ref name="Den Bakker & Noordeloos 2005"/> questioned the segregation of ''Leccinellum'', but suggested that ''L. lepidum'', ''[[Leccinellum corsicum|L. corsicum]]'' and ''[[Leccinellum crocipodium|L. crocipodium]]'' are probably distinct species. However, the three taxa were initially represented by very few sequences and the inclusive "corsicum/lepidum" clade received high support in preliminary [[phylogenetic tree|phylogenetic]] analyses. In a 2014 paper, Bertolini<ref name="Bertolini 2014"/> controversially abandoned ''Leccinellum'' and placed ''L. lepidum'' in synonymy with ''[[Leccinellum corsicum|L. corsicum]]'' once again, only for the genus to be reinstated in the same year by Wu and colleagues, in a major contribution delineating 22 generic clades in the family [[Boletaceae]].<ref name="Wu 2014"/> The confusion was finally clarified in 2019, when several collections from [[Corsica]], [[Croatia]], [[Cyprus]], [[France]] and [[Greece]] were analysed in an elaborate [[phylogenetic]], [[biogeography|biogeographical]] and [[ecology|ecological]] treatment by M. Loizides and colleagues.<ref name="Loizides 2019"/> In this study, ''[[Leccinellum]]'' was phylogenetically validated, while ''L. lepidum'', ''[[Leccinellum corsicum|L. corsicum]]'' and ''[[Leccinellum crocipodium|L. crocipodium]]'' formed well-supported [[lineage (evolution)|lineages]] within the genus, and were confirmed as distinct species.
+
+===Etymology===
+
+The [[Latin]] epithet ''lèpidus'', meaning "pleasant" or "charming", likely refers to the appearance or culinary qualities of the fungus.
+
+==Description==
+
+===Morphology===
+
+''Leccinellum lepidum'' produces large, fleshy [[basidiocarp|fruit bodies]]. The [[Pileus (mycology)|cap]] is at first hemispherical, gradually becoming convex or convex-flat as the fungus expands, reaching a diameter of {{convert|6|to|20|cm|in|round=0.5|abbr=on}}. The cap cuticle is smooth to somewhat lobed and often with a "hammered" appearance, moderately to strongly viscid in wet weather, ranging in colour from ochraceous yellow to ochraceous brown, chestnut-brown, or in very old specimens blackish brown.<ref name="Lannoy & Estadès 1995"/><ref name="Munoz 2005"/>
+
+
+
+The [[Hymenium|tubes]] are more or less free from the stem, {{convert|1|to|2|cm|in|round=0.5|abbr=on}} long and pale yellow to ochraceous yellow. The pores are small and rounded, concolorous with the tubes, slowly staining rusty-brown and finally greyish brown when handled or with age.<ref name="Courtecuisse 1995"/><ref name="Loizides et al. 2011"/>
+
+The [[Stipe (mycology)|stem]] is {{convert|5|to|15|cm|in|round=0.5|abbr=on}} long by {{convert|2|to|6|cm|in|round=0.5|abbr=on}} wide, usually stout and short-ventricose at first, but gradually becoming longer and clavate to cylindrical, ranging in colour from ochraceous yellow to pale yellow, straw-coloured, or dirty white. Its surface is covered in tiny pustules (scabrosities), concolorous with the stem surface at first, but often staining rusty-brown or grey-brown with age and sometimes coalescing to form an incomplete pseudoreticulum (false net).<ref name="Muñoz Sánchez 1996"/><ref name="Galli 2007"/>
+
+The [[Trama (mycology)|flesh]] is thick and dull yellow to straw-coloured. When cut or exposed to the air it very slowly discoloures orange or violaceous-grey in parts, and after a few hours darkens to greyish-brown or grey-black. The smell is weakly fungoid in young specimens, becoming stronger in old specimens, while the taste is mild to somewhat astringent. The [[spore]]s are tobacco-brown in [[spore print|mass]].<ref name="Galli 2007"/><ref name="Konstantinidis 2009"/>
+
+Under the [[optical microscope|microscope]], the [[spore]]s appear narrowly ellipsoid to fusiform (spinde-shaped) and measure 13.5–22 × 5–6 μm. The [[cap cuticle]] is a trichodermium of septate cylindrical hyphae, often finely incrusted.<ref name="Lannoy & Estadès 2001"/><ref name="Munoz 2005"/>
+
+===Mycorrhiza===
+
+The [[ectomycorrhiza]] formed by ''L. lepidum'' with the [[Quercus ilex|holm oak]] has been described in detail. It is characterised by a [[Hartig net]] devoid of [[haustorium|haustoria]], a [[plectenchyma]]tous outer mantle of warty [[hyphae]] arranged in a ring-like formation, highly differentiated [[mycelial cord|rhizomorphs]] which are rounded in cross-section and connected to the mantle, and a negative reaction to [[Iron(II) sulfate|FeSO<sub>4</sub>]], [[Potassium hydroxide|KOH]] or guaiac.<ref name="Montecchio 2006"/>
+
+===Similar species===
+
+*''[[Leccinellum corsicum]]'' is closely related to ''L. lepidum'', and the two [[taxon (biology)|taxa]] had been previously placed in synonymy by some authors. However, ''L. corsicum'' is a smaller species rarely exceeding {{convert|10|cm|in|round=0.5|abbr=on}} in diameter, is exclusively associated with rockroses (''[[Cistus]]'' species), and has the tendency to stain more reddish when its flesh is exposed to the air.<ref>Rolland L. (1896). Aliquot fungi novi vel critici Galliae praecipue meridionalis. Bulletin de la Société Mycologique de France 12: 1–10.</ref><ref name="Munoz 2005"/><ref name="Loizides 2019"/>
+*''[[Leccinellum crocipodium]]'' is also similar, but typically fruits earlier in the season in association with [[deciduous]] oaks. It produces more slender and elongated fruit bodies, with a cap cuticle that has the tendency to crack extensively at maturity.<ref name="Muñoz Sánchez 1996"/><ref name="Lannoy & Estadès 2001"/><ref name="Galli 2007"/>
+
+==Ecology, phenology and distribution==
+
+ is a common host of ''L. lepidum''.]]
+
+The species is widespread in the [[Mediterranean region]], where it forms [[ectomycorrhizal]] associations with various species of [[oak]]. It is most commonly associated with [[evergreen]] members of the ''"Ilex"'' group, particularly the holm oak (''[[Quercus ilex]]''),<ref name="Richard2005"/><ref name="Galli 2007"/><ref name="Zotti 2013"/><ref name="Sarrionandia & Salcedo 2018"/> but also the golden oak (''[[Quercus alnifolia]]''),<ref name="Loizides 2011"/><ref name="Loizides 2019"/> the kermes oak (''[[Quercus coccifera|Q. coccifera]]'')<ref name="Polemis et al.2012a"/><ref name="Polemis et al.2012b"/> and the Palestine oak (''[[Quercus calliprinos|Q. calliprinos]]'').<ref name="Lewinsohn 2008"/><ref name="Loizides 2019"/> In the western parts of the Mediterranean basin, it is frequently found under the cork oak (''[[Quercus suber|Q. suber]]''), while collections under the [[semi-deciduous]] Portuguese oak (''[[Quercus faginea|Q. faginea]]'') have also been reported.<ref name="Munoz 2005"/><ref>Ortega AC, Lorite J, Salazar C. (2010). Mycorrhizal macrofungi diversity (Agaricomycetes) from Mediterranean ''Quercus'' forests; a compilation for the Iberian Peninsula (Spain and Portugal). Nova Hedwigia 91(1–2): 1 –31.</ref> It is indifferent to the substrate and occurs abundantly on both [[calcareous]] and [[Soil pH|acidic]] soil.
+
+Although a southern species, the fungus is notable for its late [[phenology|fruiting season]] and tolerance to low temperatures. In a 10-year study from the island of [[Cyprus]], ''L. lepidum'' was the most frequently recorded [[bolete]], accounting for over half (61%) of all [[Boletaceae]] collections found during the winter months (December–February).<ref name="Loizides 2019"/>
+
+==Edibility==
+
+''Leccinellum lepidum'' is [[edible mushroom|edible]], though opinions on its culinary value vary. It is generally regarded [[gastronomy|gastronomically]] inferior to other popular [[bolete]]s (such as ''[[Boletus edulis]]'' or ''[[Boletus aereus|B. aereus]]''), while the tendency of its fruit bodies to stain black makes the mushroom unappealing to some people.
+
+==References==
+{{Reflist|refs=
+
+<ref name="Bertolini 2014">{{cite journal |author=Bertolini V |year=2014 |title=Taxa interessanti della flora micologica toscana.|journal=Rivista di Micologia |volume=57 |issue=2 |pages=99–126 }}</ref>
+
+<ref name="Binder & Besl 2000">{{cite journal |author=Binder M, Besl H |year=2000 |title=28S rDNA Sequence Data and Chemotaxonomical Analyses on the Generic Concept of ''Leccinum'' (Boletales) |journal=Mycologia |pages=71–82}}</ref>
+
+<ref name="Bresinsky 2003">{{cite journal |author=Bresinsky A, Besl H. |title=Beiträge zu einer Mykoflora Deutschlands – Schlüssel zur Gattungsbestimmung der Blätter-, Leisten- und Röhrenpilze mit Literaturhinweisen zur Artbestimmung |journal=Regensburger Mykologische Schriften |year=2003 |volume=11 |page=233 |language=German}}</ref>
+
+<ref name="Courtecuisse 1995">{{cite book |vauthors=Courtecuisse R, Duhem B |year=1995 |title=Mushrooms & Toadstools of Britain & Europe |publisher=Harper-Collins |location=London, UK}}</ref>
+
+<ref name="Den Bakker & Noordeloos 2005">{{cite journal |author=Den Bakker HC, Noordeloos ME |year=2005 |title=A revision of European species of ''Leccinum'' Gray and notes on extralimital species. |journal=Persoonia |volume=18 |issue=4 |pages=511–587}}</ref>
+
+<ref name="Engel et al. 1983">{{cite book |vauthors=Engel H, Kriegelsteiner GJ, Dermek A, Watling R |year=1983 |title= Dickröhrlinge: Die Gattung Boletus in Europa. |publisher=Heinz Engel, Weidhausen bei Coburg |location=Weidhausen, Germany}}</ref>
+
+<ref name="urlFungorum: Leccinellum lepidum">{{cite web |title=GSD Species Synonymy: ''Leccinellum lepidum'' (H. Bouchet ex Essette) Bresinsky & Manfr. Binder |url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=486593 |publisher=Species Fungorum. CAB International |access-date=2016-01-26}}</ref>
+
+<ref name="Galli 2007">{{cite book |author=Galli R. |year=2007 |title=I Boleti. Atlante pratico-monographico per la determinazione dei boleti |edition=3rd |publisher=Dalla Natura |location=Milano, Italy |language=Italian}}</ref>
+
+<ref name="Konstantinidis 2009">{{cite book |author=Konstantinidis G. |year=2009 |title=Μανιτάρια – φωτογραφικός οδηγός μανιταροσυλλέκτη |trans-title=Mushrooms, a Photographic Guide for Collectors |publisher=Published by the author |location=Athens, Greece |page=329 |isbn=978-960-93-1450-3 |language=Greek}}</ref>
+
+<ref name="Lannoy & Estadès 1995">{{cite book |vauthors=Lannoy G, Estadès A  |year=1995 |title=Monographie des Leccinum d'Europe|publisher=Fédération Mycologique Dauphiné-Savoie|language=French |pages=1–229 }}</ref>
+
+<ref name="Lannoy & Estadès 2001">{{cite book |vauthors=Lannoy G, Estadès A  |year=2001 |title=Flore mycologique d'Europe. Documents Mycologiques Mémoire Hors série no. 6.|publisher=Association d’Écologie et de Mycologie, Lille|language=French |pages=1–163 }}</ref>
+
+<ref name="Lewinsohn 2008">{{cite book |vauthors=Lewinsohn D  |year=2008 |title= מדריך כרטא לפטריות מאכל ורעל בישראל (A Carta Guide, Edible and Poisonous Mushrooms of Israel)|publisher=Carta|language=Hebrew |pages=1–324 }}</ref>
+
+<ref name="Loizides 2011">{{cite journal |author=Loizides M. |year=2011 |title=''Quercus alnifolia'': The indigenous golden oak of Cyprus and its fungi |journal=Field Mycology |volume=12 |issue=3 |pages=81–88 |doi=10.1016/j.fldmyc.2011.06.004|doi-access=free }}</ref>
+
+<ref name="Loizides et al. 2011">{{cite book |vauthors=Loizides M, Kyriakou T, Tziakouris A |year=2011 |title=Edible & toxic fungi of Cyprus |publisher=Published by the authors |isbn=978-9963-7380-0-7 |language=Greek, English |pages=196–197}}</ref>
+
+<ref name="Loizides 2019">{{cite journal |title=Present status and future of boletoid fungi (Boletaceae) on the island of Cyprus: cryptic and threatened diversity unraveled by 10-year study. |vauthors=Loizides M, Bellanger JM, Assyov B, Moreau PA, Richard F |journal=Fungal Ecology |volume=41 |issue=13 |pages=65–81 |year=2019 |doi=10.1016/j.funeco.2019.03.008 |s2cid=181958289 }}</ref>
+
+<ref name="Montecchio 2006">{{cite journal |title=''Leccinum lepidum'' (H. Bouchet ex Essette) Bon & Contu + ''Quercus ilex'' L. |vauthors=Montecchio L, Rossi SR, Causin R, Grendene A |journal=Descriptions of Ectomycorrhozae |volume=9/10 |pages=53–58 |year=2006 }}</ref>
+
+<ref name="Muñoz Sánchez 1996">{{cite journal |title=Algunas consideraciones sobre ''Leccinum lepidum'' (Bouchet) Quadraccia, ''L. crocipodium'' (Letellier) Watling y ''L. corsicum'' (Rolland) Singer. |vauthors=Muñoz Sánchez JA |journal=Belarra |volume=13|pages=11–18 |year=1996 }}</ref>
+
+<ref name="Munoz 2005">{{cite book |author=Muñoz JA. |year=2005 |title=Fungi Europaei 2: Boletus s.l. |publisher=Edizioni Candusso |location=Italy |isbn=978-88-901057-6-0}}</ref>
+
+<ref name="Polemis et al.2012a">{{cite journal |vauthors=Polemis E, Dimou DM, Tzanoudakis D, Zervakis GI | title = Annotated checklist of Basidiomycota (subclass Agaricomycetidae) from the islands of Naxos and Amorgos (Cyclades, Greece) | journal = Ann Bot Fenn | volume = 49 | issue = 3 | pages = 145–161 | date = 2012 | doi = 10.5735/085.049.0301 | s2cid = 86840326 }}</ref>
+
+<ref name="Polemis et al.2012b">{{cite journal |vauthors=Polemis E, Dimou DM, Tzanoudakis D, Zervakis GI | title = Diversity of Basidiomycota (subclass Agaricomycetidae) in the island of Andros (Cyclades, Greece) | journal = Nova Hedwigia | volume = 95 | issue = 1–2 | pages = 25–58 | date = 2012 | doi = 10.1127/0029-5035/2012/0035 }}</ref>
+
+<ref name="Richard2005">{{cite journal | vauthors = Richard F, Millot S, Gardes M, Selosse MA | title = Diversity and specificity of ectomycorrhizal fungi retrieved from an old-growth Mediterranean forest dominated by ''Quercus ilex'' | journal = The New Phytologist | volume = 166 | issue = 3 | pages = 1011–1023 | date = 2005 | pmid = 15869659 | doi = 10.1111/j.1469-8137.2005.01382.x }} {{open access}}</ref>
+
+<ref name="Sarrionandia & Salcedo 2018">{{cite journal | vauthors = Sarrionandia E, Salcedo I | title = Macrofungal diversity of holm-oak forests at the northern limit of their distribution range in the Iberian Peninsula | journal = Scandinavian Journal of Forest Research | volume = 33 | issue = 1 | pages = 23–31 | date = 2018 | doi = 10.1080/02827581.2017.1335430 | s2cid = 90451640 }}</ref>
+
+<ref name="Wu 2014">{{cite journal |vauthors=Wu G, Feng B, Xu J, Zhu XT, Li YC, Zeng NK, Hosen MI, Yang ZL |title=Molecular phylogenetic analyses redefine seven major clades and reveal 22 new generic clades in the fungal family Boletaceae |journal=Fungal Diversity |volume=69 |issue=1 |pages=93–115 |year=2014 |doi=10.1007/s13225-014-0283-8|s2cid=15652037 }}
+</ref>
+
+<ref name="Zotti 2013">{{cite journal |title=Macrofungi in Mediterranean ''Quercus ilex'' woodlands: relations to vegetation structure, ecological gradients and higher-taxon approach.|vauthors=Zotti M, Pautasso M|journal=Czech Mycol. |volume=65 |issue=2 |pages=193–218 |year=2013 |doi=10.33585/cmy.65205}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|486593}}
+
+{{Taxonbar|from=Q3829324}}
+
+[[Category:Leccinellum|lepidum]]
+[[Category:Fungi described in 1965]]
+[[Category:Fungi of Europe]]
+[[Category:Fungus species]]

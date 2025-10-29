@@ -1,0 +1,65 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Amanita calyptroderma Oakland.JPG
+| image_caption =
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{cite iucn |last1=Siegel |first1=N. |year=2021 |title=''Amanita calyptroderma'' |volume=2021 |article-number=e.T198477424A198486986 |doi=10.2305/IUCN.UK.2021-2.RLTS.T198477424A198486986.en |access-date=21 April 2025}}</ref>
+| genus = Amanita
+| species = calyptroderma
+| authority = G.F. Atk. & V.G. Ballen 1909
+| synonyms = ''Amanita calyptrata''<br/>''Amanita lanei''
+}}
+{{Mycomorphbox
+| name = ''Amanita calyptroderma''
+| whichGills = free
+| capShape = flat
+| capShape2 = convex
+| hymeniumType = gills
+| stipeCharacter = ring and volva
+| ecologicalType = mycorrhizal
+| sporePrintColor = white
+| howEdible = edible
+| howEdible2 = caution
+}}
+
+'''''Amanita calyptroderma''''' also known as '''coccora''', '''coccoli''' or the '''Pacific amanita''',<ref name=NGSWG>{{NGSWG}}</ref> is a white-spored [[mushroom]] that fruits naturally in the [[Sierra Nevada]] and coastal forests of the [[western United States]] during the fall, winter and spring.
+
+==Description==
+This mushroom's cap is about {{Convert|10–25|cm|abbr=off|frac=2}} in diameter, usually orange-brown in color (but sometimes white),<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=67–68|oclc=797915861}}</ref> and partially covered by a thick white patch of [[universal veil]]. It has white, close gills.<ref name=":1">{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=83–84}}</ref> Its cream-colored stalk is about 10–20 cm in length and {{Convert|2–4|cm|abbr=on|frac=4}} in width,<ref name=":0" /> adorned with a [[partial veil]]. It has a partially hollow stem (filled with a stringy white pith), and a large, sacklike [[Volva (mycology)|volva]] at the base of the stalk.<ref name=":0" />
+
+The [[Basidiospore|spores]] of this species, which are white,<ref name=":0" /> do not change color when placed in a solution of [[Melzer's reagent]], and thus are termed [[inamyloid]].<ref name=":1" /> This characteristic in combination with the skirt-like [[Annulus (mycology)|annulus]] and absence of a bulb at the base of the stalk place this mushroom in the [[Section (botany)|section]] ''Caesareae''.
+
+=== Similar species ===
+The deadly poisonous ''[[Amanita phalloides|A.&nbsp;phalloides]]'' is similar in appearance.<ref name=":1" />
+
+''[[Amanita vernicoccora]]'' is a closely related edible species,<ref>{{Cite book |last1=Davis |first1=R. Michael |title=Field Guide to Mushrooms of Western North America |last2=Sommer |first2=Robert |last3=Menge |first3=John A. |publisher=[[University of California Press]] |year=2012 |isbn=978-0-520-95360-4 |location=Berkeley |page=82 |oclc=797915861}}</ref> which fruits in hilly or mountainous areas from late winter to spring. Otherwise similar in appearance, its cap is yellow.<ref name=":0" /> ''[[Amanita caesarea|A.&nbsp;caesarea]]'' is also related and edible.<ref name=":1" />
+
+==Distribution and habitat==
+This mushroom occurs in [[conifer]] forests,<ref name=":1" /> forming [[mycorrhiza]]e with [[madrone]] (''Arbutus menziesii)'' in the southern part of its range (Central California northwards to Washington).  However, in the northern part of its range (Washington to southern Canada), its preferred host is [[Douglas-fir]] ''(Pseudotsuga menziesii'').
+
+
+
+==Edibility==
+Experienced mushroom hunters regard this mushroom as a good [[Edible mushroom|edible]] species,<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |pages=20–21}}</ref> but caution must be exercised when collecting ''A.&nbsp;calyptroderma'' for the table, since it can be confused with other species in the genus.<ref name=":0" /> ''[[Amanita]]'' contains some of the deadliest mushrooms in the world, most notably ''A.&nbsp;phalloides'' and ''[[Amanita ocreata|A.&nbsp;ocreata]]''.
+
+==See also==
+*[[List of Amanita species]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.amanitaceae.org/?Amanita+calyptroderma ''Amanita calyptroderma'' at Amanitaceae.org]
+*[http://www.bayareamushrooms.org/mushroommonth/coccora.html  ''Amanita calyptroderma'' at BayAreaMushrooms.org]
+*[https://www.mykoweb.com/CAF/species/Amanita_calyptroderma.html ''Amanita calyptroderma'' at Mykoweb]
+*[http://www.mushroomexpert.com/amanita_camyptroderma.html  ''Amanita calyptroderma'' at Mushroom Expert]
+
+{{Amanitas}}
+{{Taxonbar|from=Q1947934}}
+
+[[Category:Amanita|calyptroderma]]
+[[Category:Edible fungi]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]
+[[Category:Fungi described in 1909]]

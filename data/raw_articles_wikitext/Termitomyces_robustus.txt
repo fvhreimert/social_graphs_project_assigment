@@ -1,0 +1,23 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = 
+| taxon = Termitomyces robustus
+| authority = ([[Maurice Beeli|Beeli]]) [[R.Heim]] (1951)
+| synonyms = *''Schulzeria robusta'' {{small|Beeli (1927)}}
+}}
+
+'''''Termitomyces robustus''''' is a [[mushroom]] in the genus ''[[Termitomyces]]''. Attempts at cultivation by humans have failed in past trials.
+
+As with all members of the genus ''[[Termitomyces]]'', these fungi are cultivated exclusively by [[Termite|Termite species]].
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q10693385}}
+
+[[Category:Lyophyllaceae]]
+[[Category:Fungi described in 1927]]
+[[Category:Fungus species]]
+
+
+{{Agaricales-stub}}

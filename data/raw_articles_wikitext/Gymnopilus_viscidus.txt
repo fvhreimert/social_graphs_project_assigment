@@ -1,0 +1,39 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image =
+| image_caption = 
+| taxon = Gymnopilus viscidus
+| authority = ([[Charles Horton Peck|Peck]]) [[William Alphonso Murrill|Murrill]]
+| synonyms = 
+}}
+{{mycomorphbox
+| name = Gymnopilus viscidus
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=}}
+'''''Gymnopilus viscidus''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]]. It was given its current name by American mycologist [[William Alphonso Murrill|Murrill]] in 1917.<ref>{{cite journal |author=Murrill WA. |year=1917 |title=''Gymnopilus'' |journal=North American Flora |volume=10 |pages= 193–215}}</ref>
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+
+{{Reflist}}
+
+==External links==
+*''[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=502470 Gymnopilus viscidus]'' at [[Index Fungorum]]
+
+{{Taxonbar|from=Q5625045}}
+
+[[Category:Gymnopilus|viscidus]]
+[[Category:Taxa named by Charles Horton Peck]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

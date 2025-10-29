@@ -1,0 +1,117 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Amanita flavoconia 48569.jpg
+| status = G5
+| status_system = TNC
+| status_ref = <ref name=NS>{{cite NatureServe |id=2.126191 |title=''Amanita flavoconia'' |access-date=17 April 2025}}</ref>
+| genus = Amanita
+| species = flavoconia
+| authority = [[George Francis Atkinson|G.F.Atk.]]
+| synonyms_ref = <ref name="urlMycoBank: Amanita flavoconia"/>
+| synonyms = 1941 ''Amplariella flavoconia'' <small>(G.F.Atk.) [[Jean-Edouard Gilbert|E.-J.Gilbert]]</small><br />
+1948 ''Venenarius flavoconius'' <small>(G.F.Atk.) [[William Alphonso Murrill|Murrill]]</small>
+}}
+{{mycomorphbox
+| name = ''Amanita flavoconia''
+| whichGills = free
+| capShape = flat
+| hymeniumType= gills
+| stipeCharacter= ring and volva
+| ecologicalType=mycorrhizal
+| sporePrintColor=white
+| howEdible=unknown
+}}
+
+'''''Amanita flavoconia''''', commonly known as '''yellow patches''', '''yellow wart''', '''orange amanita''', '''yellow-dust amanita''' or the '''American yellow dust amanita''',<ref name=NGSWG>{{NGSWG}}</ref> is a species of [[mushroom]] in the family [[Amanitaceae]]. It has an orangish-yellow [[pileus (mycology)|cap]] with yellowish-orange patches or warts, a yellowish-orange [[annulus (mycology)|annulus]], and a white to orange stem. Common and widespread throughout eastern North America, it grows on the ground in [[Temperate deciduous forest|broad-leaved]] and [[mixed forest]]s, especially in [[mycorrhiza]]l association with [[Tsuga|hemlock]].
+
+==Taxonomy==
+
+
+''Amanita flavoconia'' was first described by American naturalist [[George Francis Atkinson]] in 1902, based on a specimen he found in woods north of Fall Creek, [[Cayuga Lake]] Basin, New York State.<ref name="Atkinson1902" /> [[Jean-Edouard Gilbert]] placed it in ''Amplariella'', in 1941,<ref name="Gilbert1941" /> while in 1948 [[William Alphonso Murrill]] thought that it belonged best in ''Venenarius'';<ref name="urlMycoBank: Amanita flavoconia" /><ref name="Murrill1948" /> both of these [[segregate (taxonomy)|segregate genera]] have been folded back into ''Amanita''.<ref name="Kirk2008" />
+
+The [[specific name (botany)|specific epithet]] ''flavoconia'' means ''yellowish'' and ''conical''.<ref name="Roody2003" /> Its [[common name]]s include "yellow patches",<ref name="Roody2003" /> "yellow wart",<ref name="McKnight1987" /> "orange Amanita",<ref name="Thomas1990" /> or "yellow-dust Amanita".<ref name="urlCornell Plant Pathology Herbarium" />
+
+==Description==
+
+The [[pileus (mycology)|cap]] is initially [[wikt:ovoid|ovoid]] in shape, but in maturity becomes convex and eventually flattened. Orange to bright yellow-orange in color, it reaches diameters of {{convert|3|to|9|cm|abbr=off|frac=2}}.<ref name="Roody2003" /> Young specimens are covered with [[chrome yellow]] warts that may be easily rubbed off or washed away with rain.
+
+The cap surface is smooth and sticky (viscid) beneath the warts; the edge of the cap is [[wikt:striate|striate]], reflecting the arrangement of the [[lamella (mycology)|gills]] underneath. The [[trama (mycology)|flesh]] is white. The gills are barely free from the stem, and packed close together. They are white or tinged yellow on the edges, and initially covered with a yellowish [[partial veil]]. The [[stipe (mycology)|stem]] is typically {{convert|5.5 to 11.5|cm|abbr=on|frac=2}} long by {{convert|0.7 to 1.4|cm|abbr=on|frac=4}} thick,<ref name=Jenkins1986/> equal or slightly tapered upward from a small rounded bulb at the base. Its color may range from white to yellowish orange, and the surface may be smooth, or covered with small flakes. The base of the stem usually has chrome yellow flakes of [[universal veil]] material adhering loosely to the bulb, or in the soil around the base. The partial veil leaves a skirt-like ring, ([[annulus (mycology)|annulus]]) on the upper stem. The [[spore print]] is white.<ref name=Roody2003/>
+
+Campbell and Petersen published a detailed description of the characteristics of ''A.&nbsp;flavoconia'' grown in culture. In the era prior to the commonplace use of DNA analysis and [[phylogenetics]], cultural characters were often used to help provide additional [[Taxonomy (biology)|taxonomic]] information; they found considerable variability between different isolates.<ref name=Campbell1975/>
+
+Two variants have been reported from [[Colombia]], collected from ''[[Quercus humboldtii]]'' forests: ''A.&nbsp;flavoconia'' var. ''sinapicolor'' and var. ''inquinata''.<ref name=Tulloss1992/>
+
+{{gallery|mode=packed
+|Amanita flavoconia 50403.jpg|Close-up of cap
+}}
+
+===Microscopic features===
+The [[basidiospores|spores]] are elliptical, smooth, and have dimensions of 7–9 by 5–8&nbsp;[[μm]]. They are [[hyaline]] (translucent), and [[amyloid]], meaning that they absorb the iodine stain in [[Melzer's reagent]].<ref name=Roody2003/> The spore-bearing cells, the [[basidia]], are up to 35–43&nbsp;μm long by 4–12&nbsp;μm, and each have four [[sterigmata]], extensions that hold the spores.<ref name=Jenkins1982/> The outer layer, or cuticle of the cap (known technically as the [[pileipellis]]) is made of filamentous interwoven gelatinized [[hypha]]e, with diameters between 3 and 7&nbsp;μm.<ref name=Jenkins1986/>
+
+===Similar species===
+This species has often been confused with ''[[Amanita muscaria|A.&nbsp;muscaria]]'', some subspecies of which are also orange-colored.<ref name="urlCornell Plant Pathology Herbarium" /> It also bears some resemblance to ''[[Amanita frostiana|A.&nbsp;frostiana]]'' and ''[[Amanita favorubescens|A.&nbsp;flavorubescens]]''. One 1982 study concluded that a "large majority" of [[herbarium]] specimens labeled as ''A.&nbsp;frostiana'' were actually ''A.&nbsp;flavoconia''. The use of [[Microscopy|microscopic]] features is necessary to distinguish clearly among the species: ''A.&nbsp;flavoconia'' has elliptic, amyloid spores, while ''A.&nbsp;frostiana'' has round, non-amyloid spores; ''A.&nbsp;muscaria'' has nonamyloid, elliptic spores. In the field, ''A.&nbsp;flavorubescens'' can usually be distinguished by its yellow cap color.<ref name="Jenkins1986" />
+
+==Distribution and habitat==
+
+A common [[mycorrhiza]]l mushroom, ''A. flavoconia'' grows solitarily or in groups on the ground in the summer to the fall, in broad-leaved and mixed woods. Noted for preferring [[Tsuga|hemlock]], it is also associated with high elevation [[red spruce]] forests.<ref name="Roody2003" />
+
+In North America, ''A. flavoconia'' has a wide distribution and has been collected from several locations, including Ontario, Canada;<ref name="Petersen1963" /> the United States<ref name="Jenkins1986" /> (Iowa),<ref name="Martin1926" /> and Mexico.<ref name="Aroche1984" /><ref name="Ayala1988" /> It has been described as "of the most common and widespread species of ''Amanita'' in eastern North America."<ref name="urlAmanita flavoconia G. F. Atk. var. flavoconia" />
+
+==Edibility==
+As the edibility of this species is unknown, it should not be consumed,<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |publisher=Firefly Books |year=2010 |isbn=978-1-55407-651-2 |location=Buffalo, NY |page=31}}</ref> and a number of its relatives are quite poisonous.
+
+==See also==
+{{Portal|Fungi}}
+
+* [[List of Amanita species|List of ''Amanita'' species]]
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=Aroche1984>{{cite journal |vauthors=Aroche RM, Cifuentes J, Lorea F, Fuentes P, Bonavides J, Galicia H, Menendez E, Aguilar O, Valenzuela V |year=1984 |title=Toxic and edible mushrooms in a community of the valley of Mexico 1 |journal=Boletin de la Sociedad Mexicana de Micologia |issue=19 |pages=291–318 |language=es}}</ref>
+
+<ref name=Atkinson1902>{{cite journal |author=Atkinson G.F. |year=1902 |title=Preliminary notes on some new species of fungi |journal=Journal of Mycology |volume=8 |issue= 3|pages=110–19 |doi=10.2307/3752544|jstor=3752544 }}</ref>
+
+<ref name=Ayala1988>{{cite journal |vauthors=Ayala N, Manjarrez I, Guzman G, Thiers HS |year=1988 |title=Fungi from the Baja California peninsula Mexico III. The known species of the genus ''Amanita'' |journal=Revista Mexicana de Micologia |volume=4 |pages=69–74 |language=es}}</ref>
+
+<ref name=Campbell1975>{{cite journal |vauthors=Campbell MP, Petersen RH |year= 1975|title=Cultural characters of certain ''Amanita'' taxa |journal=Mycotaxon |volume=1 |issue=3 |pages=239–58}}</ref>
+
+<ref name=Gilbert1941>{{cite journal |title=Iconographia mycologica, Amanitaceae |journal=Iconographia Mycologica |volume=27 |issue=Suppl. 1 |author =Gilbert E.-J. |pages=203–427}}</ref>
+
+<ref name=Jenkins1982>{{cite journal |author=Jenkins D.Y. |year=1982 |title=A study of ''Amanita'' types .4. Taxa described by Atkinson, G.F. |journal=Mycotaxon |volume=14 |issue=1 |pages=237–46}}</ref>
+
+<ref name=Jenkins1986>{{cite book |author =Jenkins D.B. |title=''Amanita'' of North America |publisher=Mad River Press |location=Eureka, California |year=1986 |page=71 |isbn=978-0-916422-55-4}}</ref>
+
+<ref name=Kirk2008>{{cite book |vauthors =Kirk PM, Cannon PF, Minter DW, Stalpers JA |title=Dictionary of the Fungi |url =https://archive.org/details/dictionaryfungit00kirk |url-access =limited |edition=10th |publisher=CABI |location=Wallingford, UK |year=2008 |pages=[https://archive.org/details/dictionaryfungit00kirk/page/n37 27], 722 |isbn=978-0-85199-826-8}}</ref>
+
+<ref name=Martin1926>{{cite journal |author=Martin G.W. |year=1925–1926 |title=Some Amanitas from eastern Iowa |journal=Proceedings of the Iowa Academy of Science |volume=32 |pages= 205–18}}</ref>
+
+<ref name=McKnight1987>{{cite book |vauthors =McKnight VB, McKnight KH |title=A Field Guide to Mushrooms, North America |url =https://archive.org/details/fieldguidetomush00mckn |url-access =limited |publisher=Houghton Mifflin |location=Boston |year=1987 |page=[https://archive.org/details/fieldguidetomush00mckn/page/n42 24] |isbn=978-0-395-91090-0}} [https://books.google.com/books?id=kSdA3V7Z9WcC&pg=RA1-PA24-IA6&dq=Amanita+flavoconia&lr= Google Books]</ref>
+
+<ref name=Murrill1948>{{cite journal |author =Murrill W.A. |title=Florida Amanitas |journal=Lloydia |year=1948 |volume=11 |pages=99–110}}</ref>
+
+<ref name=Petersen1963>{{cite journal |author =Petersen R.H. |year= 1963 |title=Agarics and Boletes from mid-Ontario |journal=Bulletin of the Torrey Botanical Club |volume=90 |issue=4 |pages=260–64 |doi=10.2307/2483234 |jstor=2483234}}</ref>
+
+<ref name=Roody2003>{{cite book |author =Roody W.C. |title=Mushrooms of West Virginia and the Central Appalachians |publisher=University Press of Kentucky |location=Lexington, Kentucky |year=2003 |page=54 |isbn=978-0-8131-9039-6}} [https://books.google.com/books?id=5HGMPEiy4ykC&pg=PA53&dq=Amanita+flavoconia Google Books]</ref>
+
+<ref name=Thomas1990>{{cite book |vauthors =Thomas JL, Gibbons W, Haynes RH |title=Poisonous plants and venomous animals of Alabama and adjoining states |publisher=University of Alabama Press |location=University |year=1990 |page=28 |isbn=978-0-8173-0442-3}}</ref>
+
+<ref name=Tulloss1992>{{cite journal |vauthors=Tulloss RE, Ovrebo CL, Halling RE |year=1992 |title=Studies on ''Amanita'' Amanitaceae from Andean Colombia |journal=Memoirs of the New York Botanical Garden |volume=66 |pages=1–46}}</ref>
+
+<ref name="urlAmanita flavoconia G. F. Atk. var. flavoconia">{{cite web |url=http://pluto.njcc.com/~ret/amanita/species/flavflav.html |title=''Amanita flavoconia'' G. F. Atk. var. flavoconia |author =Tulloss R.E. |date=21 January 2009|access-date=2009-07-29}}</ref>
+
+<ref name="urlCornell Plant Pathology Herbarium">{{cite web |url=https://www.plantpath.cornell.edu/CUPpages/TypeGall-Aman2.html |title=Cornell Plant Pathology Herbarium |year=2006|access-date=2009-07-29}}</ref>
+
+<ref name="urlMycoBank: Amanita flavoconia">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=206277 |title=''Amanita flavoconia'' G.F. Atk. 1902 |publisher=International Mycological Association |work=MycoBank |access-date=2010-11-11}}</ref>
+
+}}
+
+==External links==
+*{{Commons category-inline}}
+{{Amanitas}}
+{{Taxonbar|from=Q1935987}}
+
+[[Category:Amanita|flavoconia]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1902]]
+[[Category:Fungus species]]

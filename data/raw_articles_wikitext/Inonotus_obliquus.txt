@@ -1,0 +1,101 @@
+{{Short description|Species of fungus}}
+{{Use dmy dates|date=July 2022}}
+{{Speciesbox
+| image = Inonotus obliquus.jpg
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=iucn>{{Cite iucn |title=''Inonotus obliquus'' |author=Vellinga, E.C. |name-list-style=amp |article-number= e.T138329505A138330336 |date=2025 |doi=10.2305/IUCN.UK.2025-1.RLTS.T138329505A138330336.en |access-date=28 October 2025}}</ref>
+| taxon = Inonotus obliquus
+| authority = ([[Ach.]] ex [[Pers.]]) Pilát (1942)
+| synonyms_ref = <ref name="MycoBank">{{cite web |title=''Inonotus obliquus'' (Ach. ex Pers.) Pilát 1942 |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=315905 |publisher=[[MycoBank]]. International Mycological Association |access-date=2011-10-11}}</ref>
+| synonyms = ''Boletus obliquus'' <small>Ach. ex Pers. (1801)</small><br>
+''Polyporus obliquus'' <small>(Ach. ex Pers.) [[Elias Magnus Fries|Fr.]] (1821)</small><br>
+''Physisporus obliquus'' <small>(Ach. ex Pers.) [[Chevall.]] (1826)</small><br>
+''Poria obliqua'' <small>(Ach. ex Pers.) [[P.Karst.]] (1881)</small><br>
+''Fomes obliquus'' <small>(Ach. ex Pers.) [[Mordecai Cubitt Cooke|Cooke]] (1885)</small><br>
+''Phaeoporus obliquus'' <small>(Ach. ex Pers.) [[J.Schröt.]] (1888)</small><br>
+''Mucronoporus obliqua'' <small>(Ach. ex Pers.) Ellis & [[Everh.]] (1889)</small><br>
+''Scindalma obliquum'' <small>(Ach. ex Pers.) [[Otto Kuntze|Kuntze]] (1898)</small><br>
+''Phellinus obliquus'' <small>(Ach. ex Pers.) [[Pat.]] (1900)</small><br>
+''Xanthochrous obliquus'' <small>(Ach. ex Pers.) [[Hubert Bourdot|Bourdot]] & [[Amédée Galzin|Galzin]] (1928)</small><br>
+''Fuscoporia obliqua'' <small>(Ach. ex Pers.) Aoshima (1951)</small>
+}}
+
+'''''Inonotus obliquus''''', commonly called '''chaga''' ({{IPAc-en|ˈ|tʃ|ɑː|ɡ|ə|}}; a [[Latinization (literature)|Latinization]] of the Russian word {{lang|ru|ча́га}}), is a [[fungus]] in the family [[Hymenochaetaceae]]. It is [[Parasitism|parasitic]] on [[birch]] and other trees. The sterile [[Polypore|conk]] is irregularly formed and resembles burnt charcoal. It is not the [[sporocarp (fungi)|fruiting body]] of the fungus, but a [[sclerotium]] or mass of [[mycelium]], mostly black because of a substantial amount of [[melanin]].<ref>{{Cite journal|last1=Babitskaya|first1=VG|last2=Shcherba|first2=VV|last3=Lkonnikova|first3=NV |date=2000|title=Melanin complex of the fungus Inonotus obliquus|journal=Appl Biochem Microbiol|volume=36|issue=4|pages=377–381|doi=10.1007/BF02738046|s2cid=46047121}}</ref><ref>{{cite book |last=Meuninck |first=Jim |title=Foraging Mushrooms Oregon: Finding, Identifying, and Preparing Edible Wild Mushrooms |date=2017 |publisher=[[Falcon Guides]] |isbn=978-1-4930-2669-2 |page=111}}</ref> It is commonly marketed as a [[dietary supplement]] for various health benefits but lacks sufficient [[scientific evidence]] for safety or effectiveness, and quality can vary due to inconsistent processing and labeling.<ref name="opss">{{cite web |title=Mushrooms in dietary supplements |url=https://www.opss.org/article/mushrooms-dietary-supplements |website=Operation Supplement Safety |publisher=Consortium for Health and Military Performance |date=2020-07-29 |access-date=2025-05-19}}</ref>
+
+==Description==
+''Inonotus obliquus'' causes a white [[heart rot]] to develop in the host tree. The chaga spores enter the tree through wounds, particularly poorly healed branch stubs. The white rot decay will spread throughout the [[heartwood]] of the host. During the infection cycle, penetration of the [[sapwood]] occurs only around the sterile exterior [[mycelium]] mass.<ref name="Lee 199–202">{{Cite journal |last1=Lee |first1=Min-Woong |last2=Hur |first2=Hyeon |last3=Chang |first3=Kwang-Choon |last4=Lee |first4=Tae-Soo |last5=Ka |first5=Kang-Hyeon |last6=Jankovsky |first6=L. |date=December 2008 |title=Introduction to Distribution and Ecology of Sterile Conks of Inonotus obliquus |journal=Mycobiology |volume=36 |issue=4 |pages=199–202 |doi=10.4489/MYCO.2008.36.4.199 |issn=1229-8093 |pmc=3755195 |pmid=23997626}}</ref> The chaga fungus will continue to cause decay within the living tree for 10–80+ years. While the tree is alive, only sterile mycelial masses are produced (the black exterior conk). The sexual stage begins after the tree, or some portion of the tree, is killed by the infection. ''I.&nbsp;obliquus'' will begin to produce fertile fruiting bodies underneath the bark. These bodies begin as a whitish mass that turn to brown with time. Since the sexual stage occurs almost entirely under the bark, the fruiting body is rarely seen.<ref>{{Cite web |url=http://www.mushroomexpert.com/inonotus_obliquus.html |title=Inonotus obliquus (MushroomExpert.Com) |last=MushroomExpert.Com |website=mushroomexpert.com |access-date=2017-08-15}}</ref> These fruiting bodies produce [[basidiospore]]s which will spread the infection to other vulnerable trees.
+
+The mycelial [[canker]] is about {{Convert|10-25|cm|frac=2}} wide, while the underlying crust can be {{Convert|5-50|cm|abbr=on|frac=2}} long.<ref name="aud">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=143}}</ref>
+
+=== Chemistry ===
+The black [[sclerotium]] has large concentrations of [[melanin]].<ref>{{Cite journal |last1=Babitskaya |first1=VG |last2=Shcherba |first2=VV |last3=Lkonnikova |first3=NV |last4=Bisko |first4=NA |last5=Mitropolskaya |first5=NY |date=2002 |title=Melanin complex from medicinal mushroom ''Inonotus obliquus'' (Pers: Fr) Pilát (chaga) (Aphyllophoromyceditdeae) |journal=Int J Med Mushrooms |volume=4 |pages=139–145}}</ref><ref>{{Cite journal |last1=Lee |first1=JH |last2=Hyun |first2=CK |date=September 2014 |title=Insulin-sensitizing and beneficial lipid-metabolic effects of the water-soluble melanin complex extracted from ''Inonotus obliquus'' |journal=Phytother Res |volume=28 |issue=9 |pages=1320–1328 |doi=10.1002/ptr.5131 |pmid=24615848 |s2cid=23095628}}</ref> Chaga contains extremely high concentrations of [[oxalate]], 2800–11200&nbsp;mg total oxalates/100 g sclerotium, one of the highest reported in any organism.<ref name="Kikuchi2014">{{Cite journal |last1=Kikuchi |first1=Y |last2=Seta |first2=K |last3=Y |first3=Ogawa |last4=Takayama |first4=T |last5=Nagata |first5=M |last6=Taguchi |first6=T |last7=Yahata |first7=k |display-authors=3 |date=June 2014 |title=Chaga mushroom-induced oxalate nephropathy |journal=Clin Nephrol |volume=81 |issue=6 |pages=440–444 |doi=10.5414/CN107655 |pmid=23149251}}</ref>
+
+=== Similar species ===
+Similar species include ''[[Apiosporina morbosa]]'', ''[[Diplodia tumefaciens]]'', and ''[[Echinodontium tinctorium]]'', as well as species of ''[[Fulvifomes]]'' and ''[[Fomitiporia]]''.<ref name="aud" />
+
+== Distribution and habitat ==
+''Inonotus obliquus'' is found most commonly in the [[Circumboreal Region]] of the Northern Hemisphere, where it is distributed in birch forests.<ref name="Lee 199–202" />
+
+Generally found growing on birch (''[[Betula]]'' spp.) trees, it has also been found on alder (''[[Alnus]]'' spp.), beech (''[[Fagus]]'' spp.) and poplar (''[[Populus]]'' spp.).<ref>{{Cite book |last=Ryvarden L, Gilbertson RL |title=European polypores. Part 1. |publisher=Fungiflora-Fungiflora |year=1993 |location=Oslo |pages=1–387}}</ref>
+
+== Cultivation ==
+Attempts at [[fungiculture|cultivating]] this fungus on [[potato dextrose agar]] and other simulated [[growth medium|media]] resulted in a reduced and markedly different production of metabolites.<ref name="Zheng2007" /><ref name="pmid20532760">{{cite journal |vauthors=Zheng W, Miao K, Liu Y, Zhao Y, Zhang M, Pan S, etal | title=Chemical diversity of biologically active metabolites in the sclerotia of ''Inonotus obliquus'' and submerged culture strategies for up-regulating their production | journal=Applied Microbiology and Biotechnology | year= 2010 | volume= 87 | issue= 4 | pages= 1237–54 | pmid=20532760 | doi=10.1007/s00253-010-2682-4| s2cid=22145043 | doi-access=free }}</ref> Cultivated chaga developed a reduced number of [[phytosterol]]s, particularly [[lanosterol]], an intermediate in the synthesis of [[ergosterol]] and [[lanostane]]-type [[triterpene]]s.<ref name="Zheng2007">{{Cite journal 
+| last1 = Zheng | first1 = W. F. 
+| last2 = Liu | first2 = T. 
+| last3 = Xiang | first3 = X. Y. 
+| last4 = Gu | first4 = Q. 
+| title = Sterol composition in field-grown and cultured mycelia of ''Inonotus obliquus'' 
+| journal = Yao Xue Xue Bao = Acta Pharmaceutica Sinica 
+| volume = 42 
+| issue = 7 
+| pages = 750–756 
+|date=July 2007
+| pmid = 17882960
+}}</ref>
+
+==Uses==
+
+{{mycomorphbox
+| name = Inonotus obliquus
+| capShape = no
+| whichGills = NA
+| hymeniumType = smooth
+| ecologicalType = parasitic
+| howEdible = choice
+| sporePrintColor = 
+| stipeCharacter = NA
+}}
+
+It is commonly marketed as a [[dietary supplement]] for various health benefits but lacks sufficient [[scientific evidence]] for safety or effectiveness, and quality can vary due to inconsistent processing and labeling.<ref name=opss/>
+
+Chaga is traditionally grated into a fine powder and used to brew a beverage resembling [[coffee]] or [[tea]] which tastes strongly of [[Chinese herbal tea]]. However, caution is warranted with chronic use due to the extremely high concentrations of [[oxalates]] in chaga.<ref>{{cite journal |last1= Lee |first1= Sua |last2= Lee |first2= Hua Young |date= 8 May 2020 |title= Development of End Stage Renal Disease after Long-Term Ingestion of Chaga Mushroom: Case Report and Review of Literature |pmc=7234858|pmid=32419395|journal= Journal of Korean Medical Science |volume= 35 |issue=19 |pages=e122 |doi= 10.3346/jkms.2020.35.e122}}</ref>
+
+Hot water extraction is a common preparation. A decoction is created by simmering blocklike pieces of the chaga in numerous quarts of water until the water is reduced and the remaining liquid contains a portion of the chaga's concentrated water-soluble compounds. Such preparations, produced in China and Japan, are exported worldwide.<ref>{{Cite web |title=Yaoxue Xuebao {{!}} YX |url=https://www.yaoxuexuebao-05134870.com/ |access-date=2025-02-15 |website=www.yaoxuexuebao-05134870.com}}</ref> The [[Beta-glucan|β-<small>D</small>-glucans]] may have a content of approximately 35% in a pure extract.<ref>{{Cite journal| last1 = Rhee | first1 = S.Y. | title = A comparative study of analytical methods for alkali-soluble β-glucan in medicinal mushroom, Chaga (Inonotus obliquus)| journal = LWT – Food Science and Technology| volume = 41 | issue = 3 | pages = 545–549| year = 2008 | doi=10.1016/j.lwt.2007.03.028}}</ref> If chaga tea is prepared at home, the chaga chunks can be reused multiple times.
+
+[[Potawatomi|Potawatomi people]] use the fungus, called ''shkitagen'' in their [[Potawatomi language|language]], as a [[Firekeeper|firekeeping]] [[tinder]]. According to Potawatomi biologist [[Robin Wall Kimmerer]], "Once an ember meets ''shkitagen'' it will not go out but smolders slowly in the fungal matrix, holding its heat. Even the smallest spark, so fleeting and easily lost, will be held and nurtured if it lands on a cube of ''shkitagen''."<ref>{{Cite book |last=Kimmerer |first=Robin Wall |title=Braiding sweetgrass |date=2013 |publisher=Milkweed Editions |isbn=978-1-57131-335-5 |edition=1st |location=Minneapolis, Minnesota |chapter=Shkitagen: People of the Seventh Fire}}</ref>
+{{clearleft}}
+
+== Common names ==
+The name ''chaga'' comes from the [[Russian language|Russian]] name of the fungus, {{langx|ru|ча́га|translit=čága|label=none}}, which in turn is borrowed from the word for "mushroom" in [[Komi language|Komi]], {{langx|kv|тшак|translit=tšak|label=none}}, the language of the [[indigenous peoples]] in the [[Kama River|Kama River Basin]], west of the [[Ural Mountains]]. It is also known as the [[wikt:clinker|clinker]] [[polypore]], cinder conk, black mass and birch canker polypore.<ref name="needham">{{cite web |last=Needham |first=Arthur |date=2005-12-16 |title=Clinker Polypore, Chaga |url=http://www.sierrapotomac.org/W_Needham/ClinkerPolypore_Chaga_051216.htm |url-status=dead |archive-url=https://web.archive.org/web/20110909150937/http://sierrapotomac.org/W_Needham/ClinkerPolypore_Chaga_051216.htm |archive-date=9 September 2011 |access-date=10 October 2011}}</ref> In [[England]] and officially in [[Canada]], it is known as the sterile conk trunk rot of [[birch]].<ref>{{Cite web |date=4 August 2015 |title=Sterile conk trunk rot of birch |url=https://tidcf.nrcan.gc.ca/en/diseases/factsheet/1000010 |access-date=15 August 2017 |publisher=Canadian Forest Service, Natural Resources Canada, Government of Canada |language=en}}</ref>
+
+== See also ==
+* [[Herbalism]]
+* [[Medicinal fungi]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commonscatinline}}
+
+{{Medicinal herbs & fungi}}
+{{Taxonbar|from=Q1956937}}
+
+[[Category:Fungi described in 1801]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Inonotus|obliquus]]
+[[Category:Medicinal fungi]]
+[[Category:Fungus species]]

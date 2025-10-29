@@ -1,0 +1,32 @@
+{{more citations needed|date=August 2010}}
+{{Speciesbox
+| image = Leccinum pseudoscabrum 2020 G1.jpg
+| genus = Leccinellum 
+| species = griseum
+| authority = (Quél.) Bresinsky & Manfr. Binder (2003)
+| synonyms = {{hidden begin|title = List}} 
+* ''Boletus leucophaeus''<ref name=Errotari/>
+* ''Boletus pseudoscaber'' <small>Kall.</small><ref name=Errotari/>
+* ''Gyroporus griseus''<ref>Cybernome, [http://www.cybertruffle.org.uk/cgi-bin/nome.pl?organism=212542&glo=eng Gyroporus griseus]</ref>
+* ''Leccinum carpini''<ref name=Errotari>Errotari (Durango's Mycological Association), [http://www.errotari.com/Micologia/especie.php?361 ''Leccinum carpini'']</ref>
+* ''Leccinum griseum'' <small>(Quél.) Singer (1966)</small>
+{{hidden end}}
+}}
+
+'''''Leccinellum griseum''''' is a common, edible mushroom in the [[Boletaceae|bolete]] family.<ref>{{Cite web |title=Species Fungorum - Species synonymy |url=https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=485668 |access-date=2023-11-28 |website=www.speciesfungorum.org}}</ref> It is found below [[hornbeam]], usually in small groups. Young mushrooms with firm flesh are very palatable.
+]]
+
+==Description==
+The cap is convex, usually greyish brown but can be light brown to olive. It grows up to 15&nbsp;cm in diameter. The stem is pale grey, rather long and slender with longitudinal furrows. The flesh is white, slowly turning grey-violet when cut, particularly in the stem, and it has a mild taste.
+
+==References==
+{{Reflist}}
+*E. Garnweidner. ''Mushrooms and Toadstools of Britain and Europe''. Collins. 1994.
+
+{{Taxonbar|from=Q937968}}
+
+[[Category:Leccinellum|griseum]]
+[[Category:Fungi of Europe]]
+[[Category:Edible fungi]]
+[[Category:Fungus species]]
+[[Category:Taxa named by Lucien Quélet]]

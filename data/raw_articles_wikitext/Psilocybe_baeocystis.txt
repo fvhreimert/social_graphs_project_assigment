@@ -1,0 +1,91 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Psilocybe baeocystis Singer & A.H. Sm 373850.jpg
+| genus = Psilocybe
+| species = baeocystis
+| authority = [[Rolf Singer|Singer]] & [[Alexander H. Smith|A.H.Smith]] (1958)
+}}
+{{mycomorphbox
+| name = ''Psilocybe baeocystis''
+| whichGills = adnate
+| whichGills2 = sinuate
+| capShape = convex
+| capShape2 = conical
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = saprotrophic
+| sporePrintColor = purple-brown
+| howEdible = psychoactive
+}}
+
+'''''Psilocybe baeocystis''''' is a [[psilocybin mushroom]] of the family [[Hymenogastraceae]]. It contains the [[hallucinogenic]] compounds [[psilocybin]], [[psilocin]] and [[baeocystin]].
+The species is [[common name|commonly]] known by various names such as bottle caps, knobby tops, blue bells, olive caps, blue Meanies.
+
+==Etymology and history==
+*From the Greek words ''baeo'' (little) and ''kystis'' (bladder)
+*1945 ''P. baeocystis'' is first collected in [[Eugene, Oregon]].<ref name="Singer&Smith1958"/>
+*1958 ''P. baeocystis'' is formally described and published by Singer and Smith.<ref name="Singer&Smith1958"/>
+*1962 [[Psilocin]] is first reported in this species.<ref name="pmid13867140"/>
+*1967-68 [[Baeocystin]]<ref name="pmid6067681"/> and [[norbaeocystin]]<ref name="pmid5684732"/> are discovered and named.
+*1981 Testing again reveals [[psilocybin]], [[psilocin]], [[baeocystin]] and [[norbaeocystin]].<ref name="pmid7194879"/>
+
+==Description==
+*Pileas: The [[pileus (mycology)|cap]] is {{convert|15|-|55|mm|in|1|abbr=on}} in diameter and [[conic]] to obtusely conic to [[wikt:convex|convex]]. The cap margin is turned inwards when young, rarely becoming plane in age, often distinctly rippled, translucent-striate and bruising and aging greenish-bluish about the margin. It is dark olive brown to buff brown in color, occasionally steel blue; when dried it tends toward copper brown in the center. It is [[hygrophanous]], fading to milk white, and viscid when moist from a gelatinous [[Pellicle (mycology)|pellicle]], usually separable. The flesh is thin and bruises blue easily
+*Gills: The [[Lamella (mycology)|gills]] are close with [[Lamella (mycology)|adnate]] to [[Lamella (mycology)|sinuate]] attachment and are grayish to cinnamon brown, with the edges remaining pallid.
+*Spore Print: dark purplish brown
+*Stipe: The [[stipe (mycology)|stipe]] is {{convert|5|-|7|cm|in|1|abbr=on}} long, {{convert|2|-|3|mm|in|1|abbr=on}} thick, and equal to [[wikt:subequal|subequal]]. The color is pallid to brownish with white filaments, while often more yellowish towards the apex. Distinct [[mycelial cord|rhizomorph]]s are found at the base. The stipe is brittle, stuffed with loose fibers, and the [[partial veil]] is [[wikt:evanescent|evanescent]] and rapidly becomes indistinguishable.
+*Taste: [[farinaceous]]
+*Odor: farinaceous
+*Stain: It stains blue easily where damaged. 
+
+===Microscopic features===
+
+''Psilocybe baeocystis'' [[spore]]s are dark purplish brown in deposit, oblong in face view or asymmetric ellipsoid (mango form) in side view,  and are (8.5) 9.5–13.7(17) x (5) 5.5–6.6(7.1) [[μm]].<ref name="Guzman1978"/>
+The [[basidia]] are 4-spored, and [[pleurocystidia]] are absent. The [[cheilocystidia]] are 20–30(40) x 4.5–6(9) [[μm]] and [[wikt:fusoid|fusiod]] with a narrow neck.<ref name="isbn0-89815-839-7"/>
+
+This species closely resembles [[subtropical]] ''[[Psilocybe aztecorum]]'' and ''[[Psilocybe quebecensis]]'', which also have caps that bleach in color to white when dry.<ref name="Guzman1978" />
+
+
+
+==Habitat and distribution==
+''Psilocybe baeocystis'' is solitary to [[wikt:cespitose|cespitose]], and scattered to numerous on ground bark, wood chips, [[peat moss]], decaying conifer mulch, occasionally on lawns, pastures, and rarely in [[coniferous forest]]s. Often found growing under plants like [[rhododendrons]] and rose bushes in mulched garden beds, sometimes growing amongst other ''Psilocybe'' species such as ''[[Psilocybe stuntzii]]'' and ''[[Psilocybe cyanescens]]''. ''Psilocybe baeocystis'' grows from August through December, and rarely as early as the end of June. ''Psilocybe baeocystis'' is a [[hemiboreal]] mushroom, common throughout the [[Pacific Northwest]].
+
+==Biochemistry==
+[[Psilocin]] was first reported in this species in Benedict et al., 1962,<ref name="pmid13867140"/> and a few years later, Leung and Paul would report the related compound [[baeocystin]], isolated from saprophytic culture,<ref name="pmid6067681"/> as well as the [[desmethyl]] metabolite [[norbaeocystin]].<ref name="pmid5684732"/> Beug and Bigwood (1981) also reported on the concentrations of these compounds in ''Psilocybe baeocystis'' using [[High performance liquid chromatography#Reverse Phase chromatography|reverse-phase HPLC]] and [[thin-layer chromatography]].<ref name="pmid7194879"/> Concentration ranges for psychoactive compounds from these studies were reported to be 0.15–0.85% psilocybin, up to 0.59% psilocin, and up to 0.10% baeocystin.
+
+==Classification==
+This mushroom has been placed in the [[section (botany)|section]] ''Aztecorum'' by [[Gaston Guzman]]; other members of the section include ''[[Psilocybe aztecorum var. aztecorum]]'', ''[[Psilocybe aztecorum var. bonetii]]'', ''[[Psilocybe pseudoaztecorum]]'', and ''[[Psilocybe quebecensis]]''.
+
+==References==
+{{Reflist|refs=
+
+<ref name="Singer&Smith1958">{{Cite journal |last1=Singer |first1=R. |last2=Smith |first2=A.H. |year=1958 |title=New species of ''Psilocybe'' |journal=Mycologia |volume=50 |issue=1 |pages=141–142 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0050/001/0141.htm |doi=10.2307/3756045|jstor=3756045 |url-access=subscription }}</ref>
+
+<ref name="pmid13867140">{{cite journal|doi=10.1002/jps.2600510428|vauthors=Benedict RG, Brady LR, Tyler VE |title=Occurrence of psilocin in''Psilocybe baeocystis''|journal=J Pharm Sci|volume=51|issue=4|pages=393–4|date=April 1962|pmid=13867140 |bibcode=1962JPhmS..51R.393B }}</ref>
+
+<ref name="pmid6067681">{{cite journal|doi=10.1002/jps.2600560132|vauthors=Leung AY, Paul AG |title=Baeocystin, a mono-methyl analog of psilocybin from ''Psilocybe baeocystis'' saprophytic culture|journal=J Pharm Sci|volume=56|issue=1|pages=146|date=January 1967|pmid=6067681 |bibcode=1967JPhmS..56..146L }}</ref>
+
+<ref name="pmid5684732">{{cite journal|doi=10.1002/jps.2600571007|vauthors=Leung AY, Paul AG |title=Baeocystin and norbaeocystin: new analogs of psilocybin from ''Psilocybe baeocystis''|journal=J Pharm Sci|volume=57|issue=10|pages=1667–71|date=October 1968|pmid=5684732 |bibcode=1968JPhmS..57.1667L }}</ref>
+
+<ref name="pmid7194879">{{cite journal|doi=10.1016/S0021-9673(00)88741-5|vauthors=Beug MW, Bigwood J |title=Quantitative analysis of psilocybin and psilocin in ''Psilocybe baeocystis'' (Singer and Smith) by high-performance liquid chromatography and by thin-layer chromatography|journal=J. Chromatogr.|volume=207|issue=3|pages=379–85|date=March 1981|pmid=7194879}}</ref>
+
+<ref name="Guzman1978">{{Cite journal |last=Guzmán |first=Gastón |date=Mar–Apr 1978 |title=Variation, distribution, ethnomycological data and relationships of ''Psilocybe aztecorum'', a Mexican hallucinogenic mushroom |journal=Mycologia |volume=70 |issue=2 |pages=385–396 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0070/002/0385.htm |pmid=566852 |jstor=3759037 |doi=10.2307/3759037|url-access=subscription }}</ref>
+
+<ref name="isbn0-89815-839-7">{{cite book|author=Stamets, Paul|title=Psilocybin mushrooms of the world: an identification guide|publisher=Ten Speed Press|location=Berkeley, Calif|year=1996|isbn=0-89815-839-7}}</ref>
+
+}}
+
+==External links==
+* [https://mushroomobserver.org/14088?search_seq=191584 ''Psilocybe baeocystis'' on wood chips]
+* [https://web.archive.org/web/20081017221203/http://www.shroomery.org/9564/Psilocybe-baeocystis Shroomery.org]
+
+{{Hallucinogenic mushrooms}}
+{{Taxonbar|from=Q3330893}}
+
+[[Category:Entheogens]]
+[[Category:Fungi described in 1958]]
+[[Category:Psychoactive fungi]]
+[[Category:Psilocybe|baeocystis]]
+[[Category:Psychedelic tryptamine carriers]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]

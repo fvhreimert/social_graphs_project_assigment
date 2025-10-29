@@ -1,0 +1,87 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Coprinellus_disseminatus_group.jpg
+| image_caption =
+| genus = Coprinellus
+| species = disseminatus
+| authority = ([[Christian Hendrik Persoon|Pers.]]) [[Jakob Emanuel Lange|J.E.Lange]] (1938)
+| synonyms = *''Agaricus disseminatus'' <small>Pers. (1801)</small>
+*''Pseudocoprinus disseminatus'' <small>(Pers.) [[Robert Kühner|Kühner]] (1928)</small>
+*''Coprinus disseminatus'' <small>(Pers.) [[Samuel Frederick Gray|Gray]] (1821)</small>
+}}
+{{mycomorphbox
+| name = ''Coprinellus disseminatus''
+| whichGills = adnate
+| capShape = convex
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = saprotrophic
+| sporePrintColor = black
+| howEdible = edible
+}}
+
+
+'''''Coprinellus disseminatus''''', formerly known as '''''Coprinus disseminatus''''' and [[common name|commonly]] known as the '''fairy inkcap''',<ref name="urlRecommended English Names for Fungi - Scottish Fungi" /><ref name=":0" /> '''fairy bonnet''',<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/352/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=352-53 |orig-date=1979}}</ref> or '''trooping crumble cap''',<ref name="Harris 2014" /> is a species of [[agaric]] fungus in the family [[Psathyrellaceae]]. It can be found around dead wood in Europe and North America.
+
+== Taxonomy ==
+The species was given its current name in 1939 by [[Jakob Emanuel Lange]].<ref name="Lange 1938" />
+
+== Description ==
+''Coprinellus disseminatus'' grows to {{Convert|4|cm|frac=8}} tall. The bell-shaped cap is tannish, becoming gray with age.<ref name="tfb">{{Cite book |last=Francis-Baker |first=Tiffany |title=Concise Foraging Guide |date=2021 |publisher=[[Bloomsbury Publishing|Bloomsbury]] |isbn=978-1-4729-8474-6 |series=[[The Wildlife Trusts]] |location=London |pages=164}}</ref> The [[spore print]] is blackish-brown.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=593}}</ref>
+
+The species has about 143 sexes ([[mating type]]s).<ref name=":0" />
+
+=== Similar species ===
+It is difficult to distinguish from related species or lookalikes in ''[[Tulosesus]]''.<ref name="audu" />
+
+''C.&nbsp;disseminatus'' does not dissolve into black ink (''deliquesce'') in maturity,<ref name="Arora1986" /> unlike most other coprinoid mushrooms.{{Citation needed|date=March 2025}}
+
+== Distribution and habitat ==
+The species grows on dead wood such as rotting stumps and is widespread across Europe.<ref name="tfb" /> It can be found in North America from June to November in the East and October to March near the West Coast.<ref name="audu" />
+
+== Uses ==
+The species is nonpoisonous.<ref name="Miller 2006">{{cite book|last=Miller Jr.|first=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=227|author-link=Orson K. Miller Jr.}}</ref> It can be eaten raw or cooked but does not preserve well.<ref name="tfb" /> It is considered too small to be of value.<ref name="Arora1986" />
+
+==Gallery==
+<gallery widths="150" heights="150">
+File:Coprinellus disseminatus 111.jpg|Coprinus disseminatus; commonly known as "fairy inkcap" or "trooping crumble cap"
+File:Coprinellus_disseminatus_closeup.jpg|Trooping crumble caps closeup
+File:Gills of trooping crumble cap.jpg|[[Lamella (mycology)|Gills]] of trooping crumble cap
+File:Trooping crumble caps.jpg|Trooping crumble caps
+File:New born Trooping crumble caps.jpg|New born Trooping crumble caps
+File:Trooping crumble caps 2.jpg|Trooping crumble caps 
+File:Dead Trooping crumble caps.jpg|Dead Trooping crumble caps
+File:Dying Trooping crumble caps.jpg|Dying trooping crumble cap
+File:Coprinellus disseminatus 112.jpg|Coprinus disseminatus; commonly known as "fairy inkcap" or "trooping crumble cap" in a tree
+File:Coprinellus disseminatus (13099719233).jpg|A close view of trooping crumble cap mushrooms.
+File:Coprinellus disseminatus.(Fairy Bonnets) (41487233071).jpg|A colony of trooping crumble cap mushrooms.
+File:Fairy Inkcaps (24215325558).jpg|New born trooping crumble cap mushrooms.
+File:Coprinellus sp. (Fairy Inkcap) - Flickr - S. Rae.jpg|Trooping crumble cap mushrooms.
+File:Fairy Inkcap, Coprinellus disseminatus, (13100393044).jpg|The Fairy Inkcap, Coprinellus disseminatus, rarely ventures forth alone
+File:Fairy Inkcap, Coprinellus disseminatus (22549640971).jpg|Fairy Inkcap, Coprinellus disseminatus
+File:Fairy Inkcap – Coprinus disseminatus. (33231381950).jpg|New born trooping crumble cap mushrooms.
+File:Fairy Inkcap – Coprinus disseminatus. (35091912740).jpg|Trooping crumble cap mushrooms.
+</gallery>
+
+==References==
+{{reflist|refs=
+<ref name="Harris 2014">{{cite book |author=Harris H. |title=Pocket Guide to Mushrooms |url=https://books.google.com/books?id=bjtuBAAAQBAJ&pg=PA118 |year=2014 |publisher=Bloomsbury Publishing |isbn=978-1-4729-1505-4 |page=118}}</ref>
+<ref name="Lange 1938">{{cite journal |author=Lange JE. |year=1938 |title=Studies in the Agarics of Denmark. Part XII. ''Hebeloma'', ''Naucoria'', ''Tubaria'', ''Galera'', ''Bolbitius'', ''Pluteolus'', ''Crepidotus'', ''Pseudopaxillus'', ''Paxillus'' |journal= Dansk Botanisk Arkiv |volume=9 |issue=6 |page=93}}</ref>
+<ref name="urlRecommended English Names for Fungi - Scottish Fungi">{{cite web |url=http://sites.google.com/site/scottishfungi/education/recommended-english-names-for-fungi |title=Recommended English Names for Fungi in the UK-Revised |work=Scottish Fungi |accessdate=2015-02-24}}</ref>
+<ref name=":0">{{Cite journal|last=Sujal S. Phadke|date=July 2018|title=Sex begets sexes|url=https://www.nature.com/articles/s41559-018-0597-0.epdf|journal=Nature|volume=2|issue=7|pages=1063–1064|doi=10.1038/s41559-018-0597-0|pmid=29942014|s2cid=49410200|url-access=subscription}}</ref>
+}}
+
+==External links==
+* [http://www.mushroomexpert.com/coprinellus_disseminatus.html Mushroom Expert]
+
+{{Taxonbar|from=Q1071819}}
+
+[[Category:Coprinellus|disseminatus]]
+[[Category:Fungi described in 1801]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Christiaan Hendrik Persoon]]
+[[Category:Fungus species]]
+
+
+{{Psathyrellaceae-stub}}

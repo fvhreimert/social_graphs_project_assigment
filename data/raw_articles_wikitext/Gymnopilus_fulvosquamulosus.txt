@@ -1,0 +1,35 @@
+{{short description|Species of mushroom}}
+{{unreferenced|date=October 2025}}
+{{Speciesbox
+| image = Gymnopilus fulvosquamulosus Hesler 800592.jpg
+| image_caption = in [[Tennessee]], USA
+| taxon = Gymnopilus fulvosquamulosus
+| authority = [[Lexemuel Ray Hesler|Hesler]] (1969) 
+}}
+{{mycomorphbox
+| name = Gymnopilus fulvosquamulosus
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+
+'''''Gymnopilus fulvosquamulosus''''' is a species of [[mushroom]]-forming [[fungus]] in the family [[Hymenogastraceae]].
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+{{Taxonbar|from=Q5624809}}
+
+[[Category:Gymnopilus|fulvosquamulosus]]
+[[Category:Fungi described in 1969]]
+[[Category:Taxa named by Lexemuel Ray Hesler]]
+[[Category:Fungus species]]
+
+
+{{Hymenogastraceae-stub}}

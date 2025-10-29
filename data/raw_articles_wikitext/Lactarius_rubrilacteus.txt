@@ -1,0 +1,60 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Lactarius rubrilacteus 126762.jpg
+| image_caption = Cap underside
+| genus = Lactarius
+| species = rubrilacteus
+| authority = [[Lexemuel Ray Hesler|Hesler]] & [[Alexander H. Smith|A.H.Sm.]] (1979)
+}}
+{{mycomorphbox
+| name = ''Lactarius rubrilacteus''
+| whichGills = decurrent
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=mycorrhizal
+| sporePrintColor=cream
+| howEdible=edible
+}}
+
+'''''Lactarius rubrilacteus''''' is a species of [[mushroom]] of the genus ''[[Lactarius]]''.<ref name="rich">{{Cite web|url=http://www.rrich.com/mslactrubri.html|title=''Lactarius rubrilacteus''|accessdate=18 April 2007|last=Rich |first=Robert}}</ref> It is also known as the '''bleeding milkcap'''.<ref name="Arora" /> It is edible but of low interest.
+
+==Description==
+The [[mushroom]] can have either a bluish-green or an orangy-brown hue.<ref name="rog">{{Cite web|url=http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6333~gid~.asp|publisher=RogersMushrooms.com|title=''Lactarius rubrilacteus''|accessdate=18 April 2007|archive-url=https://web.archive.org/web/20070927224308/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6333~gid~.asp|archive-date=27 September 2007|url-status=dead}}</ref><ref name="sci">{{Cite web|url=http://www.pfc.forestry.ca/biodiversity/bcern/description/description-cde15_e.html|accessdate=18 April 2007|title=''Lactarius rubrilacteus'' Hesler & Smith|publisher=British Columbia Ectomycorrhizal Research Network|archive-url=https://web.archive.org/web/20070526150930/http://www.pfc.forestry.ca/biodiversity/bcern/description/description-cde15_e.html|archive-date=26 May 2007|url-status=dead}}</ref> It bruises green, and is more commonly greenish in old, damaged, or unexpanded specimens (e.g. a "button" at the base).<ref name=":0">{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=60}}</ref><ref name="Arora">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/68/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=68-69 |orig-date=1979}}</ref> It has many [[laticifer]]s which appear as a white network across its surface.<ref name="sci" />
+
+The [[pileus (mycology)|cap]] of the mushroom is [[wikt:convex|convex]], sometimes shield-shaped, and {{convert|6-14|cm|frac=4}} across;<ref name="Arora" /> it also has quite an underfolded margin and a depressive disk.<ref name="rog" /> The [[stipe (mycology)|stem]] is coloured like the cap,<ref name="falc">{{Cite book |last=Telander |first=Todd |title=Mushrooms |date=2023 |publisher=Falcon Guides |isbn=978-1-4930-6558-5 |edition=2nd |series=A Falcon Field Guide |location=Essex, CT |pages=2}}</ref> up to 6&nbsp;cm long and 2.5&nbsp;cm thick.<ref name="Arora" />
+
+When sliced or cut, the mushroom [[trama (mycology)|flesh]] will typically release a dark red to purple [[latex]] or milky substance.<ref name="rich" /> The flesh will lose colour when damaged, and is usually [[granular]] or [[brittle]] to the touch.<ref name="rog" /> The fungus exudes a slight odour that is faintly aromatic.<ref name="rog" />
+
+The [[spore]]s are creamy white or yellow and [[ellipsoid]] in shape.<ref name="rog" /><ref name="sci" /> The [[spore print]] is beige.<ref name="Arora" />
+
+
+
+=== Chemical reactivity ===
+*[[Potassium hydroxide]]: When the mushroom comes in contact with potassium hydroxide, most of the mushroom, including the mantle and [[ectomycorrhiza]]e, loses its bluish hue and becomes a dull brown.<ref name="sci" />
+*[[Melzer's reagent]]: Hardly any visible reaction on any part of the mushroom occurs. This particular mushroom appears to have little reactivity to Melzer's Reagent.<ref name="sci" />
+*Sulfovanillin: Most of the mushroom becomes a reddish-brown color, but the oldest [[root]]s of the fungi stay unaltered by contact with sulfovanillin.<ref name="sci" />
+
+=== Similar species ===
+''[[Lactarius deliciosus]]'' is a related species, but its cap differs in appearance.<ref name=":0" /> [[Lactarius sanguifluus|''L.&nbsp;sanguifluus'']] is similar,<ref name=":0" /> perhaps even synonymous,<ref name="Arora" /> and is mycorrhizal with [[pine]] in Europe.<ref name="Arora" /> Additionally, ''[[Lactarius barrowsii|L.&nbsp;barrowsii]]'', ''[[Lactarius paradoxus|L.&nbsp;paradoxus]]'' and ''[[Lactarius subpurpureus|L.&nbsp;subpurpureus]]'' may be similar.<ref name="Arora" />
+
+==Distribution and habitat==
+The mushroom is primarily found in parts of western [[North America]], growing in [[forest]]s and on the ground. The mushroom usually finds cover under [[conifer]] trees, mainly [[Douglas-fir]].<ref name="rog" /> It is widely distributed in these areas between the months of June and October.<ref name="rog" />
+
+==Uses==
+The mushroom is [[Edible mushroom|edible]],<ref name="Miller2006">{{cite book |last=Miller Jr. |first=Orson K. |title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi |last2=Miller |first2=Hope H. |publisher=[[FalconGuide]] |year=2006 |isbn=978-0-7627-3109-1 |location=Guilford, CN |pages=89}}</ref> but has a grainy texture<ref name="Arora" /> and is of little interest.<ref name="falc" />
+
+==See also==
+*[[List of Lactarius species|List of ''Lactarius'' species]]
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q6468953}}
+
+[[Category:Lactarius|rubrilacteus]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1979]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]
+[[Category:Taxa named by Alexander H. Smith]]

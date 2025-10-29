@@ -1,0 +1,92 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = 2010-05-10 Auricularia nigricans (Fr.- Fr.) Birkebak, Looney, & Sánchez-García 202799.jpg
+| image_caption = On a dead broadleaf tree in Bolivia
+| taxon = Auricularia nigricans
+| authority = ([[Elias Magnus Fries|Fr.]]) Birkebak, Looney, & Sánchez-García (2013)
+| synonyms = {{collapsible list|title=<small>Species synonymy</small>
+ | ''Peziza nigrescens'' <small>[[Olof Swartz|Sw.]] (1788)</small>
+ | ''Peziza nigricans'' <small>Sw. (1806)</small>
+ | ''Peziza nigricans'' <small>[[Elias Magnus Fries|Fr.]] (1822)</small>
+ | ''Exidia hispidula'' <small>[[Miles Joseph Berkeley|Berk.]] (1839)</small>
+ | ''Hirneola nigra'' <small>Fr. (1848)</small>
+ | ''Hirneola hispidula'' <small>(Berk.) Berk. (1875)</small>
+ | ''Auricula hispidula'' <small>(Berk.) [[Otto Kuntze|Kuntze]] (1881)</small>
+ | ''Auricula nigra'' <small>(Fr.) Kuntze (1881)</small>
+ | ''Lachnea nigra'' <small>(Fr.) [[Pier Andrea Saccardo|Sacc.]] (1899)</small>
+ | ''Auricularia nigra'' <small>(Fr.) [[Franklin Sumner Earle|Earle]]. (1899)</small>
+ | ''Auricularia nigrescens'' <small>(Sw.) [[William Gilson Farlow|Farlow]] (1905)</small>
+ | ''Auricularia hispidula'' <small>(Berk.) Farlow (1905)</small>
+ | ''Hirneola nigricans'' <small>(Fr.) P.W. Graff (1917)</small>
+ | ''Auricularia polytricha'' <small>(Mont.) Sacc. (1885))</small> sensu auct. amer.
+ }}
+}}
+
+'''''Auricularia nigricans'''''  is a [[species]] of [[fungus]] in the family [[Auriculariaceae]]. [[Basidiocarp]]s (fruitbodies} are gelatinous, ear-like, and grow on dead wood of broadleaf trees. It is found in southern and eastern Asia, North America, South America and the [[Caribbean]].
+
+The name '''''Auricularia polytricha''''', when used by authors from the Americas, is a synonym of ''A. nigricans''.<ref name="Looney2013"/> When used by Asian authors, it likely refers instead to ''[[Auricularia cornea]]''.<ref name="wu2021"/> 
+
+== Taxonomy ==
+The species was first described in 1788 as ''Peziza nigrescens'' by the Swedish botanist [[Olof Swartz]], based on a collection he made from [[Jamaica]]. In a later publication he changed the name to ''Peziza nigricans'', which was accepted by the Swedish mycologist [[Elias Magnus Fries]]. For abstruse nomenclatural reasons, Fries's [[sanctioned name]] takes priority over Swartz's original name.<ref name="Looney2013"/> In his monograph of ''[[Auricularia]]'' species, American mycologist Bernard Lowy rejected the name as being "doubtful" due to the habitat description being "ad terra", preferring to call the species ''Auricularia polytricha''.<ref name="Lowy1952"/> Olof Swartz's original collection still exists, however, enabling the identity of his species to be confirmed.<ref name="Looney2013"/> [[Molecular phylogenetics|Molecular]] research, based on [[cladistic]] analysis of [[DNA sequences]], has shown that ''Auricularia nigricans'' is distinct.<ref name="Looney2013"/><ref name="wu2021"/>
+
+=== ''Auricularia polytricha'' ===
+''Auricularia polytricha'' was originally described as ''Exidia polytricha'' in 1834 in the work ''Voyage aux Indes-Orientales Botanique. Pt. 2. Cryptogamie.'' Although this record of the voyage was by Belanger, Montagne was the person who actually put it the form of a description, hence his author citation. The year 1834 was given in Montagne's later work (''Syll. Crypt. XVIII.'' of 1856).<ref name="Lowy1952"/> There is a protologue in French in the ''Voyage'', with the location "{{lang|fr|Sur le bois mort, dan las Gâtes orientales, prés de Gengy, presqu'ile de l'Inde}}" (On the dead wood, in the [[Eastern Ghats]], near [[Gingee]], [[Presque-isle]] of India).<ref>{{cite web |title=Index Fungorum - Names Record |url=https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=165868 |website=www.indexfungorum.org}}</ref> The combination ''Auricularia polytricha'' appeared in Saccardo's ''Syll. fung. VI'' (1885). This newer protologue gives a longer list of localities:
+
+<blockquote>
+{{lang|la|ad ligna in India orient (Belanger), in Java (Junghuan), in Ceylon, in Mexico, in ins. Cuba Amer. centr (C. Weight), in Brasilia, pr. Concepcion del Uruguay, Waima Novae Zelandiae, Maungaroa, Waitaki, Coromandel, Westland, Ohaeawai, Honkianga, Wellington (Teavers), in Hoew's et Chat's isl., ins. Tahiti.}}
+
+on wood in East India [possibly also understood as a broader [[East Indies]]] (Belanger), in Java (Junghuan), in Ceylon, in Mexico, in the island of Cuba, Central America (C. Weight), in Brazil near [[Concepcion del Uruguay]], [[Waima]] New Zealand, [[Maungaroa]], [[Waitaki]], [[Coromandel Peninsula|Coromandel]], [[Westland, New Zealand|Westland]], [[Ohaeawai]], [[Hokianga]], [[Wellington]] (Teavers), Howe's and Chat's islands [possibly [[Lord Howe Island]] and [[Cat Island, The Bahamas]]?], island of [[Tahiti]].<ref>{{cite web |title=Index Fungorum - Names Record |url=https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=156825 |website=www.indexfungorum.org}}</ref>
+</blockquote>
+
+Lowy's 1952 monograph places the type locality of ''Auricularia polytricha'' in Jamaica instead of the Indian peninsula. It is unclear whether this is his change (possibly through conflating with the type locality of ''A. nigricans'') or by an earlier author.<ref name="Lowy1952"/> The synonymization by Looney specifically specifies ''A. polytricha [[Sensu (taxonomy)|sensu]] auct. amer.'' (in the sense of American authors) without making a judgement on other uses of the name.<ref name="Looney2013"/>  Wu et al. (2021) made an error by disregarding the "sensu" specifier and stating that ''A. polytricha'' was originally described from Jamaica.<ref name="wu2021"/>
+
+The East Asian sense of ''Auricularia polytricha'' started with Patouillard and Olivier (1907), according to Wu et al. (2021).<ref name="wu2021"/> In any case, there is no surviving collection from Belanger, so there is no way to determine whether the 1834 collection is ''A. nigricans'', ''A. cornea'', or a different species altogether.
+
+''Index Fungorum'' search lists the following infraspecific names under ''Auricularia polytricha'':
+{|class=wikitable
+|+Infraspecific names under ''Auricularia polytricha''
+!Name
+!Authority
+!Locality
+|-
+|''A. p.'' f. ''leucochroma'' || (Kobayasi) Kobayasi 1981 || On dead trunk of ''[[Hibiscus glaber]]'': [[Ogasawara-shoto]], Japan
+|-
+|''A. p.'' f. ''polytricha'' || (Mont.) Sacc. 1885 || Same as original
+|-
+|''A. p.'' f. ''tenuis'' || Kobayasi 1942 || Micronesia
+|-
+|''A. p.'' var. ''argentea'' ||  D.Z. Zhao & Chao J. Wang 1991 (nom. inval., Melbourne Art. 40.4) || On dried wood of ''[[Ulmus]]'': [[Hebei]], China
+|-
+|''A. p.'' var. ''polytricha'' || (Mont.) Sacc. 1885 || Same as original
+|}
+
+Although ''Species Fungorum'' synonymize all listed above to ''A. nigricans'', the two names described in East Asia (f. ''leucochroma'' and var. ''argentea'') do not fall into the known range of ''A. nigricans''. Indeed, Wu et al. (2021) found that the collection for ''A. p.'' var. ''argentea'' belongs in ''A. cornea''.<ref name="wu2021"/>
+
+== Description ==
+''Auricularia nigricans'' forms thin, rubbery-gelatinous fruit bodies that are ear-shaped and up to {{convert|60|mm|in|abbr=on}} across and {{convert|4|mm|in|abbr=on}} thick. The fruitbodies occur singly or in clusters. The upper surface is densely [[tomentose]] and ash-grey to yellowish brown. The spore-bearing underside is smooth and pinkish to brown.<ref name="Looney2013"/>
+
+=== Microscopic characters ===
+The microscopic characters are typical of the genus ''[[Auricularia]]''. The [[basidia]] are tubular, laterally septate, 50–75 × 3-6.5&nbsp;[[micrometre|μm]]. The [[spores]] are allantoid (sausage-shaped), 14.5–17 × 5–7&nbsp;μm. The surface hairs are 650–1080&nbsp;μm long.<ref name="Looney2013"/>
+
+=== Similar species ===
+''[[Auricularia cornea]]'' is similar but has much shorter surface hairs 200–400&nbsp;μm long.<ref name="Looney2013"/><ref name="wu2021"/> 
+
+== Habitat and distribution ==
+''Auricularia nigricans'' is a wood-rotting species, typically found on dead attached or fallen wood of broadleaf trees. It is widely distributed in the Americas, from Louisiana and the Caribbean south to Argentina,<ref name="Looney2013"/> but is not currently known elsewhere.<ref name="wu2021"/>
+
+== References ==
+{{Reflist|refs=
+
+<ref name="wu2021">{{cite journal |vauthors= Wu F, Tohtirjap A, Fan L, Zhou L, Alvarenga RL, Gibertoni TB, Dai Y  |date = 2021 |title =Global diversity and updated phylogeny of ''Auricularia'' (Auriculariales, Basidiomycota) |journal=Journal of Fungi |volume=7 |issue = 11 |page = 933 |doi=10.3390/jof7110933|pmid = 34829220 |pmc = 8625027 |doi-access = free }}</ref>
+
+<ref name="Looney2013">{{Cite journal|last=Looney|first=B.|date=2013|title=Systematics of the genus ''Auricularia'' with an emphasis on species from the southeastern United States.|url=http://dx.doi.org/10.2509/naf2013.008.006|journal=North American Fungi|doi=10.2509/naf2013.008.006|doi-broken-date=1 July 2025 |issn=1937-786X|hdl=2376/123928 |url-access=subscription}}</ref>
+
+<ref name="Lowy1952">{{Cite journal|last=Lowy|first=B.|date=1952|title=The genus ''Auricularia'' |journal=Mycologia |volume=44 |issue=5|pages=656–692|doi=10.1080/00275514.1952.12024226}}</ref>
+}}
+
+{{Taxonbar|from=Q81165513}}
+
+[[Category:Auriculariales]]
+[[Category:Fungi of South America]]
+[[Category:Fungi of the Caribbean]]
+[[Category:Fungus species]]

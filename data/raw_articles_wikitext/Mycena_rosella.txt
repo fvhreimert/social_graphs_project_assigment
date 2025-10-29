@@ -1,0 +1,37 @@
+{{Short description|Species of fungus}}
+{{Speciesbox 
+| image = Mycena rosella.jpg
+| image_caption = 
+| genus = Mycena
+| species = rosella
+| authority = ([[Elias Magnus Fries|Fr.]]) [[Paul Kummer|P. Kumm.]]
+| synonyms = ''Agaricus rhodellus'' <small>Fr.</small><br>
+''Agaricus rosellus'' <small>Fr.</small><br>
+''Agaricus roseus'' <small>[[Christian Hendrik Persoon|Pers.]]</small><br>
+''Mycena rosea'' <small>(Pers.) Sacc.</small>
+}}
+{{mycomorphbox 
+| name = Mycena rosella
+| hymeniumType = gills
+| capShape = conical
+| whichGills = adnate
+| stipeCharacter = bare
+| sporePrintColor = white
+| ecologicalType = saprotrophic
+| howEdible = unknown
+}}
+
+'''''Mycena rosella''''', commonly known as the '''pink bonnet''',<ref>{{cite web |url=http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |title=Recommended English Names for Fungi in the UK |publisher=[[British Mycological Society]] |url-status=dead |archiveurl=https://web.archive.org/web/20110716083053/http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |archivedate=2011-07-16 }}</ref> is a species of [[mushroom]] in the family [[Mycenaceae]]. First called ''Agaricus roseus'' by Swedish mycologist [[Elias Magnus Fries]] in 1794, it was assigned its current name in 1871 by German scientist [[Paul Kummer]].<ref name=Kummer1871>{{cite book |title=Der Führer in die Pilzkunde |author=Kummer P.|year=1871 |publisher=Zerbst |page=109}}</ref>
+
+; Microscopic characteristics
+The [[basidiospore|spores]] are [[amyloid]] and have dimensions of 7&ndash;9 by 4&ndash;5&nbsp;[[micrometre|μm]].<ref name=Miller2006>{{cite book |vauthors=Miller HR, Miller OK |title=North American Mushrooms: a Field Guide to Edible and Inedible Fungi |publisher=Falcon Guide |location=Guilford, Conn |year=2006 |page=167 |isbn=0-7627-3109-5 |url=https://books.google.com/books?id=zjvXkLpqsEgC&q=Mycena+rosella&pg=PA167 |accessdate=2009-09-26}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q3496283}}
+
+[[Category:Mycena|rosella]]
+[[Category:Fungi of Europe]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]

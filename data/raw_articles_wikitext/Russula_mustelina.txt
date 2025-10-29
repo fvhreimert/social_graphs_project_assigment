@@ -1,0 +1,44 @@
+{{Short description|Species of mushroom}}
+{{Speciesbox
+| name = Russet brittlegill
+| image = 2007-08-26 Russula mustelina Fr 72640.jpg
+| image2 = Russula mustelina BS13.jpg
+| taxon = Russula mustelina
+| authority = [[Elias Magnus Fries|Fr.]]
+| range_map = Distribution of Russula mustelina.svg
+| range_map_caption = Distribution in Europe (green)
+}}
+
+'''''Russula mustelina''''', commonly known as the '''russet brittlegill''', is a [[basidiomycete]] [[mushroom]] of the [[genus]] ''[[Russula]]'' native to Europe and North America. Swedish mycologist [[Elias Magnus Fries]] described the species in his 1838 book ''Epicrisis Systematis Mycologici seu Synopsis Hymenomycetum''.<ref name="Fries 1838">{{cite book |last=Fries |first=E. M. |year=1838 |title=Epicrisis Systematis Mycologici: Seu Synopsis Hymenomycetum |language=Latin |trans-title=A Critical Study of Mycology: A Synopsis of the Hymenomycetes |publisher=Regiae Academiae Typographia |location=Uppsala, Sweden |volume=1–2 |page=351 |url=http://www.librifungorum.org/Image.asp?Nav=yes&FirstPage=292091&LastPage=292716&NextPage=292455|archive-url=https://web.archive.org/web/20210415235242/http://www.librifungorum.org/Image.asp?Nav=yes&FirstPage=292091&LastPage=292716&NextPage=292455|url-status=usurped|archive-date=April 15, 2021}}</ref>
+
+== Description ==
+
+
+The fruit bodies appear in autumn and can be partly submerged in the soil. The [[pileus (mycology)|cap]] is {{convert|7|–|12|cm|in|1|abbr=on}} wide, occasionally reaching {{convert|16|cm|in|1|abbr=on}}, with a shape ranging from convex (in young specimens) to flattened, sometimes with a shallow central depression. The cap surface is dry and can be slightly sticky when wet. The colour is pale yellow to yellow-brown with wine-coloured cap margin and can be discoloured with wine-coloured splotches with age. The white [[trama (mycology)|flesh]] is {{convert|3|–|10|mm|in|1|abbr=on}} thick under the cap and has a mild taste. The cream [[Lamella (mycology)|gills]] have an attachment to the [[stipe (mycology)|stem]] ranging from [[wikt:adnate|adnate]] to [[wikt:adnexed|adnexed]]. Fruit bodies have almost no odour. The hard white stem measures {{convert|4|–|9|cm|in|abbr=on}} long by {{convert|2|–|3|cm|in|1|abbr=on}} thick, and is roughly the same width throughout its length, although it can be a little thicker near the base. Its surface is dry and smooth.<ref name="Desjardin 2014"/><!-- cites para -->
+
+''Russula mustelina'' produces a yellowish [[spore print]]. The roundish [[spores]] have dimensions of 7.5–10.5 by 6.5–9&nbsp;[[micrometre|μm]], with a reticulate (web-like) and ridged surface marked by occasional warts.<ref name="Desjardin 2014"/> 
+
+''[[Russula basifurcata]]'' is a similar species with smaller fruit bodies associated with oak trees at lower altitudes. The gills are forked near the stem.<ref name="Desjardin 2014"/>
+
+== Ecology ==
+''Russula mustelina'' occurs in coniferous forests above {{cvt|1600|m}} in the [[Sierra Nevada]] and [[Cascade Range]] in western North America.<ref name="Desjardin 2014"/> It is a component of rare [[peat bog]] habitat in the eastern Carpathians in Romania, where it is associated with European spruce (''[[Picea abies]]'').<ref>{{cite journal |last1=Chinan |first1=Vasilică-Claudiu | last2=Mânzu | first2=Ciprian |title=MACROFUNGAL DIVERSITY OF A PEAT BOG FROM DORNA DEPRESSION (EASTERN CARPATHIANS, ROMANIA) |date=2014 |volume=60 |issue=2 |pages=43–52  | journal=  Analele Stiint. Univ. Al. I. Cuza Iasi, Sect. II A. Biol. Veget |url=https://www.researchgate.net/publication/271373258}}</ref> It also grows in the [[Ivory Coast]] where it is picked and eaten.<ref name=oscar19>{{cite journal | doi= 10.30574/wjarr.2019.2.3.0040| title= Proximate composition and nutritional value of three edible mushrooms ectomycorrhizal (''Russula mustelina'', ''Russula delica'' and ''Russula lepida'') from Côte d'Ivoire according to the maturity stages| year= 2019| last1= Jaures| first1= Gbotognon Oscar| last2= Appolinaire| first2= Kouassi Kouamé| last3= Hubert| first3= Konan Kouassi| last4= Jean| first4= Parfait Kouadio Eugène| journal= World Journal of Advanced Research and Reviews| volume= 2| issue= 3| pages= 021–030| doi-access= free}}</ref>
+
+== See also ==
+* [[List of Russula species|List of ''Russula'' species]]
+
+==References==
+{{Reflist | refs=
+
+<ref name="Desjardin 2014">{{cite book |last1=Desjardin |first1= Dennis E. |last2=Wood|first2= Michael G. |last3=Stevens|first3= Frederick A. |title=California Mushrooms: The Comprehensive Identification Guide |year=2014 |location=Portland; London |publisher=Timber Press |page=68 |isbn=978-1-60469-353-9}}</ref>
+
+}}
+
+{{Taxonbar|from=Q352153}}
+
+[[Category:Russula|mustelina]]
+[[Category:Fungi described in 1838]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of Africa]]
+[[Category:Fungus species]]

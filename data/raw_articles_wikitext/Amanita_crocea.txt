@@ -1,0 +1,74 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{Speciesbox
+| name = Saffron ringless amanita
+| image =Amanita_crocea_-_Lindsey.jpg
+| image_caption = ''Amanita crocea'' from Commanster, Belgium
+| genus = Amanita
+| species = crocea
+| authority = (Quél. in Bourd.) Singer ex Singer
+| synonyms_ref = <ref>{{cite web|title=Amanita crocea (Quél.) Singer 1951|url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=115109|publisher=MycoBank|access-date=2004-11-25|archive-date=2024-04-21|archive-url=https://web.archive.org/web/20240421043347/https://www.mycobank.org/page/Name%20details%20page/115109|url-status=live}}</ref>
+| synonyms = * Orange Grisette
+* Amanita vaginata var. crocea Quél. 1898 [LEG; MB456911]
+* Amanitopsis crocea (Quél.) E.-J. Gilbert 1928 [LEG; MB251657]
+}}
+{{mycomorphbox
+| name = ''Amanita crocea''
+| whichGills = free
+| capShape = flat
+| capShape2= convex
+| hymeniumType=gills
+| stipeCharacter=volva
+| ecologicalType=mycorrhizal
+| sporePrintColor=white
+| howEdible=edible
+| howEdible2=caution
+}}
+{{stack end}}
+
+'''''Amanita crocea''''', the '''saffron ringless amanita''',<ref name=NGSWG>{{NGSWG}}</ref> is a species of ''[[Amanita]]'' widely distributed in [[Europe]]. It is edible but not recommended for consumption due to its similarity to [[Mushroom poisoning|poisonous]] species of the genus.
+
+==Description==
+]]
+
+* '''Cap''': The cap is free of rings with the [[Volva (mycology)|volva]] and has a diameter of {{Convert|5–10|cm|abbr=off|frac=2}}, yellow-orange in colour with an apricot tinge at the centre. It expands to become flat or sometimes convex at the [[Umbo (mycology)|umbo]], a  small raised central area.
+* '''Volva''': Thick, white, at least {{Convert|4–10|cm|abbr=on|frac=2}} wide, saffron orange or a little browner than that in colour in the centre when fresh and paler at the margin.
+* '''Gills''': [[Gills]] are free and cream in mass (sometimes with a slight salmon or pinkish reflection, and 2–3± millimetres broad.)
+* '''Stem/stipe''': The stem or stipe is {{Convert|10–15|cm|abbr=on|frac=4}} long and 1–1.5&nbsp;cm in diameter, tapering, decorated with paler [[fibril]]s in a "flame" pattern, with the decoration later becoming orange or brown-orange (darker than the underlying stipe surface) with a membranous sack-like volva at the base.
+*'''Spores''': The white spores measure (8.0-) 9.4 - 11.8 (-18.8) x (7.5-) 8.5 - 11.0 (-16.0) μm.<ref>{{Cite web |url=http://www.njcc.com/~ret/amanita/species/croceas.html |title=Amanita crocea |access-date=2010-11-28 |archive-url=https://web.archive.org/web/20110714185658/http://www.njcc.com/~ret/amanita/species/croceas.html |archive-date=2011-07-14 |url-status=dead }}</ref><ref>http://www.first-nature.com/fungi/id_guide/amanitaceae/amanita_crocea.php {{Webarchive|url=https://web.archive.org/web/20101226055532/http://www.first-nature.com/fungi/id_guide/amanitaceae/amanita_crocea.php |date=2010-12-26 }} Amanita crocea-Pictures, habitat and identification guide.</ref>
+
+=== Similar species ===
+{{multiple image
+| align             = left
+| width             = 100
+| footer            = ''A.&nbsp;fulva'' in [[Bergen]], [[Norway]], and ''A.&nbsp;caesarea'' in [[Piacenza]] mountains
+| image1            = Brf.jpg
+| caption1          = ''[[Amanita fulva]]''
+| image2            = Amanita caesarea.JPG
+| caption2          = ''[[Amanita caesarea]]''
+}}
+
+It is similar to ''[[Amanita fulva]]'' (orange-brown ringless amanita or tawny grisette) and ''[[Amanita caesarea|A. caesarea]]'' (Caesar's mushroom), belonging to the ''Vaginatae'' and ''[[Caesareae]]'' sections of the ''[[Amanita]]'' genus, respectively.
+
+The edible tawny grisette is a [[basidiomycete]] [[mushroom]] located in [[North America]] and [[Europe]].<ref>http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~5539.asp {{Webarchive|url=https://web.archive.org/web/20161221200708/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~5539.asp |date=2016-12-21 }} Rogers mushrooms.</ref> It is easily confused with the '[[death cap]]', though is not as substantial. The structure is relatively flimsy and the hollow stem often breaks, even when handled very gently.<ref>http://www.wildaboutbritain.co.uk/tawny-grisette {{Webarchive|url=https://web.archive.org/web/20110716111904/http://www.wildaboutbritain.co.uk/tawny-grisette|date=2011-07-16}} Tawny Grisette | Wild About Britain.</ref> It has fibres on its stalk usually.<ref>http://www.mushroomthejournal.com/greatlakesdata/Taxa/Amanifulva22.html {{Webarchive|url=https://web.archive.org/web/20110610120826/http://www.mushroomthejournal.com/greatlakesdata/Taxa/Amanifulva22.html |date=2011-06-10 }} Amanita fulva</ref>
+
+The second similar species, the Caesar's mushroom, is the [[type species]] (a species to which the name of a genus is permanently linked) of the ''Caesareae'' section of the genus ''Amanita''. It has a distinctive orange cap, yellow gills and stem. Similar orange-capped species occur in North America and India.<ref>Amanita caesarea. http://alphagamma.150m.com/Amanita_caesarea.html {{Webarchive|url=https://web.archive.org/web/20110707055156/http://alphagamma.150m.com/Amanita_caesarea.html|date=2011-07-07}}</ref><ref>http://www.eticomm.net/~ret/amanita/species/caesarea.html {{Webarchive|url=https://web.archive.org/web/20110716104330/http://www.eticomm.net/~ret/amanita/species/caesarea.html|date=2011-07-16}} by R.E. Tulloss.</ref>
+
+==Ecology==
+The fungi can occur infrequently between July and October in [[mycorrhiza]]l with hardwood trees, particularly birch and beech in clearings. Its odour is sweet-smelling and it has a mildly nutty sweet taste.<ref>{{Cite web |url=http://www.first-nature.com/fungi/id_guide/amanitaceae/amanita_crocea.php |title=Amanita crocea |access-date=2010-11-28 |archive-url=https://web.archive.org/web/20101226055532/http://www.first-nature.com/fungi/id_guide/amanitaceae/amanita_crocea.php |archive-date=2010-12-26 |url-status=dead }}</ref> It has also been reported from Iran.<ref name=bahram>{{cite journal|last=Bahram|first=M|author2=Asef, M. R.|author3= Zarre, Sh.|author4= M. Abbasi|author5= S. Reidl|title=Addition to the knowledge of Amanita (Agaricales, Pluteaceae) from Iran|journal=Rostaniha|year=2006|volume=7|issue=2|pages=107–119|issn=1608-4306}}</ref>
+
+== Uses ==
+While edible, guides advise not to eat it as many similar-looking ''Amanitas'' are very [[Mushroom poisoning|poisonous]].<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=22}}</ref>
+
+==See also==
+*[[List of Amanita species]]
+
+==References==
+{{Reflist|colwidth=30em}}
+{{Amanitas}}
+{{Taxonbar|from=Q1574920}}
+
+[[Category:Amanita|crocea]]
+[[Category:Edible fungi]]
+[[Category:Fungi of Europe]]
+[[Category:Fungus species]]

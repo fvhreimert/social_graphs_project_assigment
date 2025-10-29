@@ -1,0 +1,83 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{Speciesbox
+| image = Lactarius subflammeus 128893.jpg
+| image_caption = Young specimens from [[Point Reyes National Seashore]], [[California]], US
+| genus = Lactarius
+| species = subflammeus
+| authority = [[Lexemuel Ray Hesler|Hesler]] & [[Alexander H. Smith|A.H.Sm.]] (1979)
+}}
+{{mycomorphbox
+| name = ''Lactarius subflammeus''
+| whichGills = adnate
+| whichGills2 = decurrent
+| capShape = convex
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = white
+| howEdible = unknown
+}}
+{{stack end}}
+
+'''''Lactarius subflammeus''''', commonly known as the '''orange milk cap''', is a species of [[fungus]] in the family [[Russulaceae]]. The brightly colored [[basidiocarp|fruit bodies]], which are slimy or sticky, have scarlet [[pileus (mycology)|caps]] when young that soon fade to brilliant orange. The [[stipe (mycology)|stem]]—typically longer than the width of the cap—is also bright orange but the [[lamella (mycology)|gills]] are whitish. The mushroom secretes a whitish [[latex]] when it is cut or injured. It is inedible.
+
+The species is found in western North America in the late summer and fall and is especially common in the [[Pacific Northwest]], where it grows on the ground near [[conifer]]s like [[pine]] and [[spruce]].
+
+==Taxonomy==
+The species was first described by [[Lexemuel Ray Hesler]] and [[Alexander H. Smith]] in their 1979 [[monograph]] of North American species of the genus ''[[Lactarius (fungus)|Lactarius]]'', based on specimens collected from [[Pacific City, Oregon]]. Prior to this description, the species had frequently been confused in the literature with ''[[Lactarius aurantiacus|L.&nbsp;aurantiacus]]''.<ref name="H&S pp 451-52">Hesler & Smith, 1979, pp. 451–52.</ref> The [[specific name (botany)|specific epithet]] ''subflammeus'' means "almost flame color".<ref name=Smith1980/> It is [[classification (biology)|classified]] in the [[section (botany)|section]] ''Russularia'' of the [[subgenus]] ''Russularia'' of ''Lactarius''. Species in this subgenus have small to medium-sized and fragile fruit bodies.<ref>Hesler & Smith, 1979, p. 439.</ref>
+
+''Lactarius subflammeus'' is [[common name|commonly]] known as the "orange milk cap".<ref name=Arora1986/>
+
+==Description==
+The [[pileus (mycology)|cap]] is {{convert|3|–|7|cm|in|abbr=on|frac=4}} wide, convex, eventually becoming shallowly depressed in the center. The margin of the cap is curved inward then arched, with short translucent striations (grooves) at maturity. The cap surface is slimy to sticky, smooth, not [[wikt:zonate|zonate]]. It is [[scarlet (color)|scarlet]] when young, but becomes orange to yellowish-orange and duller when older. The attachment of the [[lamella (mycology)|gills]] to the [[stipe (mycology)|stem]] is [[adnation|adnate]] (squarely attached) to [[decurrent]] (running down the length of the stem); the gills are moderately broad, with spacing close to subdistant (with visible spaces between the gills). They are whitish or colored similar to the cap but paler. The stem is {{convert|4|–|9|cm|abbr=on|frac=4}} long, {{convert|5|–|15|mm|1|abbr=on|frac=4}} thick, and thicker near the base. The smooth stem surface can be either moist or dry depending on the moisture in the environment. It is hollow, fragile, and colored like the cap.
+
+The [[trama (mycology)|flesh]] is thin, fragile, pale pinkish-[[buff (color)|buff]] to dull orangish-buff. The mushroom's odor is not distinctive, and the taste slowly becomes [[wikt:acrid|acrid]]. The [[latex]] is white, and does not change color with continued exposure to air. It does not stain the tissues, and tastes acrid. The [[spore print]] is white.<ref name="Bessette2009" /> The species is considered inedible<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |orig-date=2005 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=120}}</ref> and its consumption is not recommended.<ref name="Smith1980" /><ref name="Arora1986" />
+
+===Microscopic characteristics===
+
+The [[Basidiospore|spores]] are 7.5–9 by 6.5–7.5&nbsp;[[micrometre|μm]], with an [[ellipsoid]] shape. Their surfaces are ornamented with warts and short ridges that do not form a reticulum (a network of raised net-like ridges on the surface), with ridges up to 1.0&nbsp;μm high. The spores are [[hyaline]] (translucent), and [[amyloid (mycology)|amyloid]]—they absorb [[iodine]] when [[staining|stained]] with [[Melzer's reagent]].<ref name=Bessette2009/> The [[basidia]] (spore-bearing cells) are four-spored, and measure 42 by 9&nbsp;μm.<ref name="H&S pp 451-52"/> The [[pileipellis|cap cuticle]] is a modified ixotrichoderm, meaning that the [[hypha]]e are embedded in a slimy or gelatinous layer.<ref name=Bessette2009/>
+
+===Similar species===
+''Lactarius luculentus'' var. ''luculentus'' is similar in appearance, but it has an [[ochre|ochraceous]]-[[tawny (color)|tawny]] to ochraceous-[[buff (color)|buff]] cap and stem, flesh that tastes slightly bitter before slowly turning acrid, white latex that tastes mild to somewhat astringent, and a buff-colored spore print. ''Lactarius luculentus'' var. ''laetus'' is another lookalike, but may be distinguished by a brownish-orange to grayish-orange stem, and mild-tasting latex.
+
+''[[Lactarius substriatus]]'' has white latex that slowly changes color to yellow, and ''[[Lactarius subviscidus|L.&nbsp;subviscidus]]'' has similar overall coloring but white latex that changes to yellow.<ref name="Bessette2009" /> The Californian species ''[[Lactarius cocosiolens|L.&nbsp;cocosiolens]]'' has a sticky orange-brown to caramel-colored cap. It has a mild taste, abundant latex, and as its [[specific name (botany)|specific epithet]] suggests, smells like coconut when it is dry.<ref name="Arora1986" />
+
+==Habitat and distribution==
+Like all species in the genus ''Lactarius'', ''L.&nbsp;subflammeus'' is [[mycorrhiza]]l, forming [[mutualism (biology)|mutualistic]] associations with trees. The fungus and the plant forms structures called ectomycorrhizae, a specialized sheath of [[hypha]]e on the surface of the root from which hyphae extend into the soil and into the outer [[cortex (botany)|cortical]] cells of the root. The fruit bodies of ''L.&nbsp;subflammeus'' grow scattered to grouped under [[conifer]]s or in [[mixed forest|mixed conifer-hardwood forests]] near [[pine]] and [[spruce]], from August to December. The fungus is widely distributed in the [[Pacific Northwest]], where it is very common in conifer forests. The habitat of the [[type locality (biology)|type location]] was coastal [[sand dune]]s under pine.<ref name="H&S pp 451-52" />
+
+U.S. states from which the fungus has been collected include [[Washington (U.S. state)|Washington]], [[Idaho]], [[Oregon]], [[California]], and [[Colorado]].<ref name="Bessette2009" /><ref name="urlLACTARIUS Pacific Northwest" /> The mushroom's range extends north into Canada, where it has been found near [[Victoria, British Columbia]] in coastal forests dominated by [[Douglas-fir]] (''Pseudotsuga menziesii'').<ref name="Ceska2010" />
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Lactarius species|List of ''Lactarius'' species]]
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=Arora1986>{{cite book |author=Arora D. |title=Mushrooms Demystified: a Comprehensive Guide to the Fleshy Fungi |publisher=Ten Speed Press |location=Berkeley, CA |year=1986 |page=79 |isbn=0-89815-169-4 |url=https://books.google.com/books?id=n3rVpkZII8IC&q=Lactarius+subflammeus&pg=PA79 |access-date=2010-05-02}}</ref>
+
+<ref name=Bessette2009>{{cite book |vauthors=Bessette AR, Bessette A, Harris DM |title=Milk Mushrooms of North America: A Field Guide to the Genus ''Lactarius'' |publisher=Syracuse University Press |location=Syracuse |year=2009 |page=242 |isbn=978-0-8156-3229-0}}</ref>
+
+<ref name=Ceska2010>{{Cite report |title=A survey of macrofungi on Observatory Hill: Fall 2009 and Winter 2009/2010 |url=http://www.goert.ca/documents/Macrofungi-Observatory-Hill-2009-2010.pdf |author=Ceska O. |year=2010 |publisher=Garry Oak Ecosystems |access-date=2010-07-19 |archive-date=2011-02-03 |archive-url=https://web.archive.org/web/20110203153617/http://www.goert.ca/documents/Macrofungi-Observatory-Hill-2009-2010.pdf |url-status=dead }}</ref>
+
+<ref name=Smith1980>{{cite book |vauthors=Smith AH, Weber NS |title=The Mushroom Hunter's Field Guide |publisher=University of Michigan Press |location=Ann Arbor, Mich |year=1980 |page=262 |isbn=0-472-85610-3|url=https://books.google.com/books?id=TYI4f6fqrfkC&q=Lactarius+subflammeus&pg=RA5-PA262|access-date=2010-05-02}}</ref>
+
+<ref name="urlLACTARIUS Pacific Northwest">{{cite web |url=http://www.svims.ca/council/Lactar.htm |title=Key to species of ''Lactarius'' in the Pacific Northwest |year=1997 |author=Leuthy CS. |publisher=Pacific Northwest Key Council |access-date=2010-07-19}}</ref>
+
+}}
+
+===Cited text===
+*{{cite book |title=North American Species of ''Lactarius'' |vauthors=Hesler LR, Smith AH |year=1979 |publisher=The University of Michigan Press |location=Michigan |isbn=0-472-08440-2}}
+
+==External links==
+*{{IndexFungorum|116117}}
+{{Good article}}
+{{Taxonbar|from=Q6468956}}
+
+[[Category:Lactarius|sublammeus]]
+[[Category:Fungi described in 1979]]
+[[Category:Fungi of North America]]
+[[Category:Inedible fungi]]
+[[Category:Taxa named by Alexander H. Smith]]
+[[Category:Fungus species]]

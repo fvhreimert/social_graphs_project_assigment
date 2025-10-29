@@ -1,0 +1,41 @@
+{{Short description|Species of fungus}}
+{{more citations needed|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption =
+| taxon = Gymnopilus pseudocamerinus
+| authority = [[Rolf Singer|Singer]]
+| synonyms =
+}}
+{{mycomorphbox
+| name = Gymnopilus pseudocamerinus
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+
+'''''Gymnopilus pseudocamerinus''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]]. It was given its current name by mycologist [[Rolf Singer]] in 1951.<ref>{{cite journal |author=Singer R. |year=1951 |title=The Agaricales in modern taxonomy |journal=Lilloa |volume=22 |page=572}}</ref>
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*''[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=344113 Gymnopilus pseudocamerinus]'' at [[Index Fungorum]]
+
+{{Taxonbar|from=Q5624949}}
+
+{{DEFAULTSORT:Gymnopilus pseudocamerinus}}
+[[Category:Gymnopilus|pseudocamerinus]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

@@ -1,0 +1,88 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Agaricus fuscofibrillosus Alan Rockefeller.JPG
+| genus = Agaricus
+| species = brunneofibrillosus
+| authority = Kerrigan (2016)
+| synonyms_ref = <ref name="Kerrigan2016"/>
+| synonyms = ''Agaricus fuscofibrillosus'' sensu Kerrigan (1986)
+}}
+{{mycomorphbox
+| name = ''Agaricus brunneofibrillosus''
+| whichGills = free
+| capShape = convex
+| capShape2 = flat
+| hymeniumType=gills
+| stipeCharacter=ring
+| ecologicalType=saprotrophic
+| sporePrintColor=brown
+| howEdible=choice
+}}
+
+'''''Agaricus brunneofibrillosus''''', commonly known as the''' dusky mushroom'''<ref>{{Cite web |url=https://www.britmycolsoc.org.uk/field_mycology/english-names |title=Archived copy |access-date=2024-01-25 |archive-date=2022-11-03 |archive-url=https://web.archive.org/web/20221103000333/https://www.britmycolsoc.org.uk/field_mycology/english-names |url-status=dead }}</ref> or '''bleeding agaricus''',<ref name=Arora1986/> is a [[mushroom]] in the family [[Agaricaceae]]. It has a medium to dark brown [[pileus (mycology)|cap]] up to {{convert|6|cm|abbr=on}} in diameter with brownish fibrillose scales that darken in age. The tightly packed [[lamella (mycology)|gills]] are initially cream colored before becoming pinkish, [[lilac (color)|lilac]]-gray, and finally brownish as the [[spore]]s mature.  The stout [[stipe (mycology)|stem]] is enlarged to bulbous at the base which has one or more brown bands, and a white, membranous [[annulus (mycology)|ring]].
+
+==Taxonomy==
+
+This species was first studied by [[Rick Kerrigan]], who studied collections from the California coast,<ref name="Kerrigan1986">Kerrigan RW. (1986). ''The Agaricales (Gilled Fungi) of California. 6. Agaricaceae.'' Mad River Press.</ref> and identified the collections as belonging to ''Agaricus fuscofibrillosus'' ([[F.H. Møller]]) [[Albert Pilát|Pilát]], a species originally described from northern and central Europe.<ref name="Møller 1950"/><ref name="Pilát 1951"/> Later investigation by Kerrigan revealed that the California population was a different species from the European one, and in fact, belonged to a different subsection of ''Agaricus'' entirely. In 2016, as part of a larger monograph on the ''Agaricus'' species of North America, Kerrigan described ''Agaricus brunneofibrillosus'' as a separate species. The [[specific name (botany)|epithet]] ''brunneofibrillosus'' refers to the brown color and fibrillose texture of the [[pileus (mycology)|pileus]], as well as the distinction from ''A. fuscofibrillosus''.<ref name="Kerrigan2016"/>
+
+European ''Agaricus fuscofibrillosus'' is now treated as a synonym for ''[[Agaricus langei]]''.<ref name="LA Parra"/>
+
+==Description==
+The [[pileus (mycology)|cap]] is initially convex before flattening out, and reaches a diameter of {{convert|5–13|cm|abbr=on}}.<ref name="Arora1986" /> The cap surface is dry, smooth, reddish-brown to coco-brown with silky fibrils or sometimes with flattened scales and often has a slight [[umbo (mycology)|umbo]]. In maturity, the fibrils usually darken to walnut brown. The flesh is white<ref name="Arora1986" /> and does not change color in [[Potassium hydroxide|KOH]]. When bruised or injured, the flesh turns bright red within 30 seconds, and later fades to brown. The odor of crushed flesh is mild and mushroomy.
+
+The [[lamella (mycology)|gills]] are initially cream colored to pale pinkish or pinkish-gray before becoming brown, then dark chocolate-brown when the spores mature. In maturity, the gills are free from attachment to the stem, packed close together, with little intervening space between them. The [[stipe (mycology)|stem]] is {{convert|4–15|cm|abbr=on}} long and {{convert|1.5–2.5|cm|1|abbr=on}} thick,<ref name="Arora1986" /> usually with an enlarged or bulbous base that has one or more coca-brown colored bands. Firm, smooth, and lacking the scales found on the cap, the stem is colored white or discolors bright red or dingy brownish in age or after handling.  The [[partial veil]] is membranous, white, and forms a thin skirt-like [[annulus (mycology)|ring]] on the upper portion of the stem.
+
+The [[spore print]] is chocolate brown.<ref name=Arora1986/> The smooth, thick-walled [[spore]]s are [[wikt:elliptical|elliptical]], and typically measure 5–6.5 by 3.5-4&nbsp;[[μm]]. [[Cystidia]] on the gill edge (cheilocystidia) are scattered, club-shaped to cylindric and have dimensions of up to 22 by 7&nbsp;μm.
+
+
+
+===Similar species===
+''[[Agaricus amicosus]]'' is similar to and a close relative of ''A.&nbsp;brunneofibrillosus''.<ref name="Kerrigan2016"/> It differs considerably in geography, being endemic to [[spruce]] and [[fir]] forests of the [[Rocky Mountains]], but like ''A.&nbsp;brunneofibrillosus'', shows a clear preference for growth on deep leaf litter.<ref name=Kuo2007/>
+
+''[[Agaricus pattersoniae]]'' closely resembles ''A.&nbsp;fuscofibrillosus'' but is larger and the cap has appressed brown squamules and is not fibrillose. ''A.&nbsp;brunneofibrillosus'' is also similar to ''[[Agaricus fuscovelatus|A.&nbsp;fuscovelatus]]'', but that species has a more conical cap with brownish scales and a dark brown ring.
+
+It could resemble species close to the poisonous ''[[Inocybe pudica]]'', which is usually smaller.<ref name=Arora1986/>
+
+==Habitat and distribution==
+
+Fruit bodies appear in the late fall and winter, where they grow scattered or in groups in deep [[leaf litter]] under [[Monterey cypress]]es or rarely under other trees.<ref name=Arora1986/> The mushroom is found in coastal [[California]] and is most common in the [[Monterey Bay Area|Monterey]] and [[San Francisco Bay Area]]s.
+
+==Uses==
+
+The mushroom is [[edible mushroom|edible]]<ref name=Arora1986/> and has a pleasant odor and flavour similar to ''[[Agaricus bisporus]]'' (the cultivated mushroom).{{citation needed|date=January 2017}}
+
+==See also==
+{{Portal|Fungi}}
+* [[List of Agaricus species|List of ''Agaricus'' species]]
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=Arora1986>{{cite book |author=Arora D. |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/325/mode/2up |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |orig-date=1979 |edition=2nd |pages=325}}</ref>
+
+<ref name="Kerrigan2016">Kerrigan RW. (2016). Agaricus ''of North America''. New York Botanical Garden. "[http://www.mykoweb.com/CAF/protologue/Agaricus_brunneofibrillosus.pdf Agaricus brunneofibrillosus Kerrigan sp. nov.]" p 228-229.</ref>
+
+<ref name=Kuo2007>Kuo M. (2007). "''[http://www.mushroomexpert.com/agaricus_amicosus.html Agaricus amicosus]''". ''MushroomExpert.com''.</ref>
+
+<ref name="LA Parra">Parra LA. (2005). Nomenclatural study of the genus ''Agaricus'' L. (Agaricales, Basidiomycotina) of the Iberian Peninsula and Balearic Islands. ''Cuadernos de Trabajo Flora Micológica Ibérica 21''.</ref>
+
+<ref name="Møller 1950">{{cite journal |author=Møller FH. |title=Danish ''Psalliota'' species. Preliminary Studies for a Monograph on the Danish Psalliotae. Part 1 |url=http://130.225.98.135/svampeatlas/pdf/friesia/volumes/Friesia-IV-1-2.pdf |journal=Friesia |year=1950 |volume=4 |issue=1–2 |pages=1–60 (see p.&nbsp;27) }}{{Dead link|date=September 2025 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+<ref name="Pilát 1951">{{cite journal |author=Pilát A. |title=The Bohemian species of the genus ''Agaricus'' |journal=Acta Musei Nationalis Pragae |year=1951 |volume=7B |issue=1 |page=19}}</ref>
+
+}}
+
+==External links==
+*{{Mycobank|802544}}
+*[https://mushroomobserver.org/name/show_name/59587 ''Agaricus brunneofibrillosus'' at mushroomobserver.org]
+*[http://www.mykoweb.com/CAF/species/Agaricus_brunneofibrillosus.html ''Agaricus brunneofibrillosus'' at Mykoweb]
+*[http://www.mushroomexpert.com/agaricus_fuscofibrillosus.html ''Agaricus fuscofibrillosus'' at mushroomexpert.com]
+
+{{Taxonbar|from=Q4033547}}
+
+{{DEFAULTSORT:Agaricus brunneofibrillosus}}
+[[Category:Agaricus|brunneofibrillosus]]
+[[Category:Fungi of North America]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 2016]]
+[[Category:Fungus species]]

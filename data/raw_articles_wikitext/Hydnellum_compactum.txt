@@ -1,0 +1,58 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+|image = Hydnellum 40869.jpg
+|image_alt = Hydnellum compactum
+|image_caption =
+|status = VU
+|status_system = IUCN3.1
+|status_ref = <ref name="iucn status 11 November 2021">{{cite iucn |author=Nitare, J. |date=2015 |title=''Hydnellum compactum'' |volume=2015 |article-number=e.T70408373A70408376 |doi=10.2305/IUCN.UK.2015-4.RLTS.T70408373A70408376.en |access-date=11 November 2021}}</ref>
+|genus = Hydnellum
+|species = compactum
+|authority = ([[Christiaan Hendrik Persoon|Pers.]]) [[Petter Adolf Karsten|P.Karst.]] (1879)
+|synonyms_ref = <ref name="urlFungorum synonymy: Hydnellum compactum"/>
+|synonyms =
+*''Hydnum compactum'' <small>[[Christiaan Hendrik Persoon|Pers.]] (1800)</small>
+*''Hydnum striatum'' <small>[[Jacob Christian Schäffer|Schaeff.]] (1774)</small>
+*''Hydnum compactum'' var. ''striatum'' <small>([[Jacob Christian Schäffer|Schaeff.]]) [[Christiaan Hendrik Persoon|Pers.]] (1825)</small>
+*''Calodon compactus'' <small>([[Christiaan Hendrik Persoon|Pers.]]) [[Petter Adolf Karsten|P.Karst.]] (1882)</small>
+*''Phaeodon compactus'' <small>([[Christiaan Hendrik Persoon|Pers.]]) [[Joseph Schröter|J.Schröt.]] (1888)</small>
+*''Hydnum tuberculosum'' <small>[[Max Britzelmayr|Britzelm.]] (1894)</small>
+}}
+'''''Hydnellum compactum''''' is a rare [[Hydnoid fungi|tooth fungus]] in the family [[Bankeraceae]]. It is characterised by its astringent taste, yellowish flesh. It is found in Europe, where it grows in [[Deciduous#Regions|deciduous forest]], typically under [[beech]]. [[Basidiocarp|Fruit bodies]] of the fungus grow singly or in groups.
+
+They are [[Spinning top|top]]-shaped, with convex or flattened upper surfaces up to {{convert|10|cm|in|0|abbr=on}} in diameter. The surface texture is initially felt-like before becoming pitted and rough in age. The [[stipe (mycology)|stipe]], roughly the same color as the cap, is solid and measures {{convert|2|–|4|cm|1|abbr=on}} long by {{convert|1|–|3|cm|in|1|abbr=on}} thick. On the fertile cap underside (the [[hymenium]]), there are white to purple-brown, curved spines up to 5&nbsp;mm long. The color is whitish at first but gradually turns dark brown to blackish. The [[basidiospore|spores]] measure 5.5–6 by 3.5–4.5&nbsp;[[micrometre|μm]], and feature [[tubercle]]s that sometimes have a sunken tip.<ref name="Ellis 1990" />{{mycomorphbox
+| name = Hydnellum compactum
+| hymeniumType = teeth
+| capShape = convex
+| capShape2 = flat
+| sporePrintColor = brown
+| ecologicalType = mycorrhizal
+| howEdible = unknown
+}}
+
+''Hydnellum compactum'' is ectomycorrhizal with [[Quercus petraea|Sessile Oak]] (''Quercus petraea''), [[Quercus robur|Common Oak]] (''Q. robur'') and Beech (''Fagus sylvatica'') as well as [[Castanea sativa|Sweet Chestnut]] (Castanea sativa) occasionally. It prefers in nutrient poor, dry to moist, loamy and sandy soils, and sunny, mosaic, old-growth forests.<ref name="Ellis 1990" />
+
+It is considered [[endangered species|endangered]] is [[Switzerland]], and listed as vulnerable on the IUCN red list.<ref name="Ellis 1990" /> It is estimated there are less than 4000 mature individuals of this species left in Europe. Its presence has particularly decreased in the Netherlands.<ref>{{Cite journal |last1=Gulden |first1=G. |last2=Hanssen |first2=E. W. |date=1992-02-01 |title=Distribution and ecology of stipitate hydnaceous fungi in Norway, with special reference to the question of decline |journal=Sommerfeltia |language=en |volume=13 |issue=1 |page=1 |doi=10.2478/som-1992-0001|doi-access=free }}</ref> Its main threats are logging, as old-growth forests are decreasing across northern and central Europe. In western Europe, this fungus is mainly threatened by air pollution, such as [[Acid rain|acidificiation]] and nitrogen deposition.<ref name="Ellis 1990" /> 
+
+==See also==
+*[[List of fungi by conservation status]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Ellis 1990">{{cite book |vauthors=Ellis JB, Ellis MB |title=Fungi without Gills (Hymenomycetes and Gasteromycetes): An Identification Handbook |publisher=Chapman and Hall |location=London, UK |year=1990 |page=106 |isbn=978-0-412-36970-4 }}</ref>
+
+<!-- <ref name="Senn-Irlet 2007">{{cite report |vauthors=Senn-Irlet B, Bieri G, Egli S |title=Lista Rossa Macromiceti. Lista Rossa delle specie minacciate in Svizzera. UV-0718-I |year=2007 |location=Bern |publisher=Ufficio federale dell'ambiente |language=Italian |url=http://www.bafu.admin.ch/publikationen/publikation/00055/index.html?lang=fr&lang=it}}</ref> -->
+
+<ref name="urlFungorum synonymy: Hydnellum compactum">{{cite web |title=GSD species Synonymy: ''Hydnellum compactum'' (Pers.) P. Karst. |url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=100807 |publisher=Species Fungorum. CAB International |access-date=2014-11-21}}</ref>
+
+}}
+
+{{Taxonbar|from=Q10547471}}
+
+[[Category:Fungi described in 1800]]
+[[Category:Fungi of Europe]]
+[[Category:Inedible fungi]]
+[[Category:Hydnellum|compactum]]
+[[Category:Taxa named by Christiaan Hendrik Persoon]]
+[[Category:Fungus species]]

@@ -1,0 +1,40 @@
+{{Short description|Species of fungus}}
+{{single source|date=October 2025}}
+{{no footnotes|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption =
+| taxon = Gymnopilus panelloides
+| authority = E. Horak & [[E. J. H. Corner|Corner]]
+| synonyms =
+}}
+{{mycomorphbox
+| name = Gymnopilus panelloides
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+
+'''''Gymnopilus panelloides''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]].
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==External links==
+*''[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=126153 Gymnopilus panelloides]'' at [[Index Fungorum]]
+
+{{Taxonbar|from=Q5624922}}
+
+{{DEFAULTSORT:Gymnopilus panelloides}}
+[[Category:Gymnopilus|palmicola]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

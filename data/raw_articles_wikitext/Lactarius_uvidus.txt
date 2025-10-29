@@ -1,0 +1,82 @@
+{{short description|Species of fungus}}
+{{Speciesbox
+| image = Lactarius uvidus 20071028w.JPG
+| image_caption =
+| status = G5
+| status_system = TNC
+| status_ref = <ref name=NS>{{cite NatureServe |id=2.881173 |title=''Lactarius uvidus'' |access-date=2 May 2025}}</ref>
+| genus = Lactarius
+| species = uvidus
+| authority = ([[Elias Magnus Fries|Fr.]]) Fr.  (1838)
+| synonyms_ref = <ref name="urlMycoBank">{{cite web |title=''Lactarius uvidus'' (Fr.) Fr. 1838 |publisher=International Mycological Association |work=MycoBank |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=201232 |accessdate=2011-06-06}}</ref>
+| synonyms =''Agaricus lividorubescens'' <small>Batsch (1789)</small><br>
+''Agaricus livens'' <small>[[J.F.Gmel.]] (1792)</small><br>
+''Agaricus uvidus'' <small>Fr. (1815)</small><br>
+''Galorrheus uvidus'' <small>(Fr.) [[P.Kumm.]] (1871)</small><br>
+''Lactarius lividorubescens'' <small>([[August Johann Georg Karl Batsch|Batsch]]) [[Burl.]] (1908)</small>
+}}
+{{mycomorphbox
+| name = ''Lactarius uvidus''
+| whichGills = subdecurrent
+| capShape = flat
+| capShape2 = depressed
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = white
+| howEdible = unknown
+| howEdible2 = poisonous
+}}
+
+'''''Lactarius uvidus''''', commonly known as the '''purple-staining milk cap'''.<ref name=Arora1986>{{Cite book |last=Arora |first=David |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/75/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, California |year=1986 |orig-date=1979 |edition=2nd |pages=75}}</ref> The cap is about {{Convert|10|cm|frac=4}} wide and the stipe twice as long. The milk turns violet when the flesh is damaged.
+
+The species can be found in Europe and North America. It may be [[Mushroom poisoning|poisonous]].
+
+==Taxonomy==
+''Lactarius uvidus'' was first described by Swedish mycologist [[Elias Magnus Fries]] as ''Agaricus uvidus'' in 1818, before being given its current binomial name by the same author in 1838.
+
+It gives its name to the [[section (botany)|section]] ''Uvidi'' within the genus ''[[Lactarius (fungus)|Lactarius]]''.
+
+The fungi generally identified as ''L.&nbsp;uvidus'' are part of a [[species complex|complex]] of closely related species and varieties which are difficult to delimit definitively.<ref name="Kuo">Kuo, M. (2004, September). ''Lactarius uvidus''.  On the ''MushroomExpert.Com'' Web site: [https://www.mushroomexpert.com/lactarius_uvidus.html]
+</ref>
+
+==Description==
+<ref name="Moser">Meinhard Moser, translated by Simon Plant: ''Keys to Agarics and Boleti'' (Roger Phillips 1983)  {{ISBN|0-9508486-0-3}}.</ref><ref name="Bon">Marcel Bon: "The Mushrooms and Toadstools of Britain and North-Western Europe" Hodder & Stoughton {{ISBN|0-340-39935-X}}.</ref><ref name=Phillips>Phillips, Roger (1981) Entry in "Mushrooms and other fungi of Great Britain & Europe" published by Pan Books Ltd., Cavaye Place, London SW10 9PG.</ref><ref name="Courtecuisse">Courtecuisse, R. & Duhem, B. (1994) "Guide des champignons de France et d'Europe" Delachaux et Niestlé {{ISBN|2-603-00953-2}}, also available in English.</ref>
+*The cap of up to about {{Convert|10|cm|frac=4}} is beige or grey and often also has a lilac hue.  It is flat-topped or sometimes becomes centrally depressed when older.  The surface is greasy or viscous when damp.
+*The [[gill]]s are slightly [[decurrent]] and have a creamy colour, tending to become spotted violet by the milk where damaged.
+*The milk is initially white and turns violet, but only if left in contact with the gills or flesh.<ref name="Courtecuisse"/> The milk and the flesh taste slightly bitter.
+*The pallid [[Stipe (mycology)|stipe]] grows up to about 8&nbsp;cm high by 2&nbsp;cm diameter, becoming hollow with age.
+
+=== Related species ===
+{{See also|List of Lactarius species|label 1=List of ''Lactarius'' species}}
+''Lactarius uvidus'' belongs to section ''Uvidi'' of the genus, the members of which are characterized by milk which discolours violet, and by the greasy cap surface.  These mushrooms are divided into two sub-sections: the ''Aspidieni'', which have a whitish, ochre or greyish cap, and the ''Uvidini'' (including ''L.&nbsp;uvidus''), which have a lilac, violaceous, or brownish cap.
+
+Some less well-known but closely related European species are ''L.&nbsp;pseudouvidus'' Kühner (1985) (found in alpine zone, up to 4&nbsp;cm in diameter, with ochraceous yellow gills), ''L.&nbsp;robertianus'' Bon (1985) (also alpine, darker coloured, with smell of cedar wood), and ''L.&nbsp;luridus'' (Pers.) Gray (1821) (whose milk goes a deep violet).  Since ''L.&nbsp;uvidus'' seems to be a cluster of species, it is particularly difficult to identify the correspondence between descriptions and collections originating from either Europe or North America.<ref name="Kuo" />
+
+Some examples of varieties inside the main species are ''L.&nbsp;uvidus var. pallidus'' [[Giacomo Bresadola|Bres.]] (which is whitish), and ''L.&nbsp;uvidus var. candidulus'' Neuh. (which is small and pale and comes in muddy places).<ref name="Courtecuisse" />
+
+== Distribution and habitat==
+
+
+This cluster of species is found in deciduous and coniferous woods, with a preference towards [[acidic soils]]. It has a wide distribution in Europe, North Africa, and North America, being fairly common in some regions but rare in others.<ref name="Courtecuisse"/>
+
+== Conservation ==
+It appears classified as vulnerable or endangered in the Danish and Dutch Red Lists of Fungi.<ref>See [http://www.sns.dk/netpub/rodliste/71.htm the Danish Fungus red list] {{webarchive|url=https://web.archive.org/web/20071212064149/http://www.sns.dk/netpub/rodliste/71.htm |date=2007-12-12 }} where this species is classed as vulnerable ("sårbar").</ref><ref>See [http://www.mycologen.nl/index_e.htm Nederlandse Mycologische Vereniging (Dutch Mycological Society) site] {{webarchive|url=https://web.archive.org/web/20071204013858/http://www.mycologen.nl/index_e.htm |date=2007-12-04 }} and in particular  [http://www.paddestoelenkartering.nl/downloads/RodeLijst.txt the text of the red list] where this species is classed as endangered ("Bedreigd").</ref>
+
+==Toxicity==
+The species is generally thought to be [[Mushroom poisoning|poisonous]] due to the toxins it contains,<ref name="Miller2006">{{cite book |last=Miller Jr. |first=Orson K. |title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi |last2=Miller |first2=Hope H. |publisher=[[FalconGuide]] |year=2006 |isbn=978-0-7627-3109-1 |location=Guilford, CN |pages=93}}</ref><ref name="Arora1986" /> but has also been classified as edible with reservations.<ref name="Moser" />
+
+==See also==
+*[[List of Lactarius species|List of ''Lactarius'' species]]
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q1746115}}
+
+[[Category:Lactarius|uvidus]]
+[[Category:Fungi described in 1789]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]

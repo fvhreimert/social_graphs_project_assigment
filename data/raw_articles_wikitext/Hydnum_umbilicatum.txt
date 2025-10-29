@@ -1,0 +1,56 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Hydnum_umbilicatum_mycowalt.jpg
+| genus = Hydnum
+| species = umbilicatum
+| authority = [[Charles Horton Peck|Peck]] (1902)
+| synonyms_ref = <ref name="urlFungorum synonymy: Hydnum umbilicatum"/>
+| synonyms = *''Dentinum umbilicatum'' <small>(Peck) [[Zdeněk Pouzar|Pouzar]] (1956)<ref name="Pouzar 1956"/></small>
+}}
+
+{{ mycomorphbox
+| name            = Hydnum umbilicatum
+| hymeniumType    = teeth
+| capShape        = umbilicate
+| whichGills      = adnate
+| stipeCharacter  = bare
+| sporePrintColor = white
+| ecologicalType  = mycorrhizal
+| howEdible       = edible
+}}
+
+'''''Hydnum umbilicatum''''', commonly known as the '''depressed hedgehog''',<ref name="McKnight 1987"/> is a species of [[tooth fungus]] in the family [[Hydnaceae]]. It was scientifically [[species description|described]] in 1902 from New York by American mycologist [[Charles Horton Peck]].<ref name="Peck 1902"/> It is found in eastern North America. It is [[edible mushroom|edible]]<ref name="McKnight 1987"/><ref>{{cite book |last=Meuninck |first=Jim |title=Foraging Mushrooms Oregon: Finding, Identifying, and Preparing Edible Wild Mushrooms |date=2017 |publisher=[[Falcon Guides]] |isbn=978-1-4930-2669-2 |page=66}}</ref> and good.<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=323}}</ref>
+
+Hydnum umbilicatum has been found to be associated with [[Pine|pines]].<ref>{{Cite web|last=Stevens|first=Michael Wood & Fred|title=California Fungi: Hydnum umbilicatum|url=http://www.mykoweb.com/CAF/species/Hydnum%20umbilicatum.html|access-date=2021-09-07|website=www.mykoweb.com}}</ref> 
+
+Can be confused with [[Hydnum repandum]], also known as the Wood Hedgehog. These two can be distinguished by their size and distribution, with H. repandum being a much larger species found in Europe. 
+
+==See also==
+* ''[[Hydnum repandum]]''
+
+==References==
+{{Reflist|refs=
+
+<ref name="McKnight 1987">{{cite book |author=McKnight VB, McKnight KH. |title=A Field Guide to Mushrooms: North America |series=Peterson Field Guides |publisher=Houghton Mifflin |location=Boston, Massachusetts |year=1987 |page=90 |isbn=978-0-395-91090-0 |url=https://books.google.com/books?id=kSdA3V7Z9WcC&pg=PA90}}</ref>
+
+<ref name="Peck 1902">{{cite journal |author=Peck CH. |title=Report of the State Botanist (1901) |journal=Annual Report on the New York State Museum of Natural History |year=1901 |volume=54 |pages=929–984 (see p. 953) }}</ref>
+
+<ref name="Pouzar 1956">{{cite journal |author=Pouzar Z. |title=Príspevek k poznání nasich kloboukatých losáku |journal=Ceská Mykologie |year=1956 |volume=10 |issue=2 |pages=65–76}}</ref>
+
+<ref name="urlFungorum synonymy: Hydnum umbilicatum">{{cite web |title=GSD Species Synonymy: ''Hydnum umbilicatum'' Peck |url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=164838 |publisher=Species Fungorum. CAB International |access-date=2014-12-20}}</ref>
+
+}}
+
+==External links==
+* {{IndexFungorum|164838}}
+
+{{Taxonbar|from=Q10528029}}
+
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1902]]
+[[Category:Fungi of North America]]
+[[Category:Hydnum|umbilicatum]]
+[[Category:Fungus species]]
+
+
+{{Agaricomycetes-stub}}

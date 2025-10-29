@@ -1,0 +1,83 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Psathyrella candolleana 060801wa.jpg
+| image_caption = 
+| genus = Candolleomyces
+| species = candolleanus
+| authority = ([[Elias Magnus Fries|Fr.]]) D. Wächt. & A. Melzer (2020)
+| synonyms_ref = <ref name="urlMycoBank: Candolleomyces candolleanus"/>
+| synonyms =
+*''Agaricus violaceolamellatus'' <small>[[Augustin Pyramus de Candolle|DC.]] (1805)</small>
+*''Agaricus candolleanus'' <small>Fr. (1818)</small>
+*''Hypholoma candolleanum'' <small>(Fr.) [[Lucien Quélet|Quél.]] (1872)</small>
+*''Drosophila candolleana'' <small>(Fr.) Quél. (1886)</small>
+*''Psathyra candolleana'' <small>(Fr.) [[Gabriel Bertrand|G.Bertrand]] (1901)</small>
+*''Psathyrella candolleana'' <small>([[Elias Magnus Fries|Fr.]]) [[René Maire|Maire]] (1937)</small>
+}}
+{{Mycomorphbox
+| name = ''{{PAGENAME}}''{{italic title}}
+| hymeniumType = gills
+| capShape = conical
+| capShape2 = convex
+| whichGills = adnate
+| whichGills2 = seceding
+| stipeCharacter = bare
+| stipeCharacter2 = ring
+| sporePrintColor = purple-brown
+| howEdible = edible
+| howEdible2 = caution
+| ecologicalType = saprotrophic
+}}
+
+'''''Candolleomyces candolleanus''''' (formerly known as ''Psathyrella candolleana''), commonly known as the '''common brittlestem''',<ref>{{Cite book |last=Siegel |first=Noah |title=Mushrooms of Cascadia: A Comprehensive Guide to Fungi of the Pacific Northwest |last2=Schwarz |first2=Christian |date=September 1, 2024 |publisher=Backcountry Press |isbn=9781941624197 |location=Humboldt County, CA |pages=101}}</ref> is a species of fungus in the family [[Psathyrellaceae]]. The color is tannish when young, fading to white. It is found in lawns in North America.
+
+== Description ==
+The [[pileus (mycology)|cap]] is tan when young,<ref name=":1">{{cite book |last1=Trudell |first1=Steve |url=https://books.google.com/books?id=WevHvt6Tr8kC |title=Mushrooms of the Pacific Northwest |last2=Ammirati |first2=Joe |publisher=Timber Press |year=2009 |isbn=978-0-88192-935-5 |series=Timber Press Field Guides |location=Portland, OR |pages=202}}</ref> fading to whitish,<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=592}}</ref> and growing to {{convert|2|–|8|cm|in|abbr=on|round=0.5}} in diameter;<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=233–234|oclc=797915861}}</ref> they are initially conical, later becoming rounded and finally with upturned margins in maturity. The cap margin is irregular and radially asymmetrical—a defining characteristic of this species. It can retain [[Veil (mycology)|veil]] fragments on the edge and center.<ref name=":1" /> The white stalk<ref name=":1" /> is {{Cvt|4-10|cm|round=0.5}} tall and 3–7&nbsp;mm wide.<ref name=":0" /> The [[spore print]] is purple-brown, while [[basidiospore|spore]]s are smooth and elliptical, measuring 6.5–8 by 4–5&nbsp;[[μm]].<ref name="Huffman 2008" />
+
+=== Similar species ===
+One similar species is ''[[Psathyrella gracilis]]''.<ref name=":0" /> Some species may have darker caps when young, drying to match that of ''C.&nbsp;candolleanus''.<ref name=":1" /> Also similar are ''[[Candolleomyces tuberculatus|C.&nbsp;tuberculatus]]'', ''[[Britzelmayria multipedata]]'', and members of ''[[Coprinopsis]]'' and ''[[Psathyrella]]''.<ref name="audu" />
+
+== Etymology ==
+The [[botanical name|specific epithet]] ''candolleanus'' honors Swiss botanist [[Augustin Pyramus de Candolle]].<ref name="Evenson 1997" />
+
+== Distribution ==
+It is commonly found growing in small groups around stumps and tree roots on [[lawn]]s and [[pasture]]s<ref name=":1" /> in North America<ref name="audu" /> and Europe.{{Citation needed|date=March 2025}} In 2014, it was reported from [[Iraq]].<ref name="Al-Habib 2014" />
+
+== Edibility ==
+While it is edible and may have a good flavor, it is not recommended due to its thin flesh, alleged poor culinary value and consistency, as well as difficulty in identification.<ref name=":1" /><ref>{{Cite web |last=Jones |first=Julie |title=Psathyrella candolleana |url=http://biology.burke.washington.edu/herbarium/imagecollection/taxon.php?Taxon=Psathyrella%20candolleana |access-date=2022-08-01 |website=Burke Herbarium Image Collection}}</ref><ref name="Miller 2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=238|author-link=Orson K. Miller Jr.}}</ref>
+
+==See also==
+*[[List of Psathyrella species|List of ''Psathyrella'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Al-Habib 2014">{{cite journal |vauthors=Al-Habib MN, Holliday JC, Tura D |title=The pale brittle stem mushroom, ''Psathyrella candolleana'' (higher Basidiomycetes): An indigenous medicinal mushroom new to Iraq |journal=International Journal of Medicinal Mushrooms |year=2014 |volume=16 |issue=6 |pages=617–22 |pmid=25404226 |doi=10.1615/intjmedmushrooms.v16.i6.110}}</ref>
+
+<ref name="Evenson 1997">{{cite book |author=Evenson VS. |title=Mushrooms of Colorado and the Southern Rocky Mountains |url=https://books.google.com/books?id=EAeDeyqZLq0C&pg=PA136 |year=1997 |publisher=Big Earth Publishing |isbn=978-1-56579-192-3 |page=136}}</ref>
+
+<ref name="Huffman 2008">{{cite book |vauthors=Huffman DM, Tiffany LH, Knaphaus G, Healy RA |title=Mushrooms and Other Fungi of the Midcontinental United States |url=https://books.google.com/books?id=tl2fVAHuej4C&pg=PA65 |year=2008 |publisher=University of Iowa Press |isbn=978-1-58729-725-0 |page=65}}</ref>
+
+<ref name="urlMycoBank: Candolleomyces candolleanus">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=832265 |title=''Candolleomyces candolleanus'' (Fr.) D. Wächt. & A. Melzer 2020 |publisher=International Mycological Association |work=MycoBank |accessdate=2022-07-05}}</ref>
+
+}}
+
+==Further reading==
+*{{Cite book |last=Arora |first=David |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/363/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |year=1986 |orig-date=1979 |edition=2nd |pages=363}}
+
+==External links==
+
+*{{Commons inline|Psathyrella candolleana|''Candolleomyces candolleanus''}}
+
+{{Taxonbar|from1=Q110745624|from2=Q772657}}
+
+[[Category:Psathyrellaceae]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1818]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]
+
+{{Psathyrellaceae-stub}}

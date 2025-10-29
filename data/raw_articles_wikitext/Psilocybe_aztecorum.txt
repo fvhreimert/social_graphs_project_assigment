@@ -1,0 +1,164 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Psilocybe_aztecorum_family_photo.jpg
+| image_caption = In [[Nevado de Toluca]], Mexico
+| genus = Psilocybe
+| species = aztecorum
+| authority = [[Roger Heim|R.Heim]] (1957)
+| synonyms_ref = <ref name=Guzmanp323-6>Guzmán (1983), pp. 323–6.</ref>
+| synonyms = *''P. mexicana'' var. ''longispora'' <small>[[Roger Heim|Heim]] (1956)</small>
+*''P. quebecensis'' <small>[[Ola'h & R. Heim]] (1967)</small>
+}}
+{{mycomorphbox
+| name = ''Psilocybe aztecorum''
+| whichGills = adnate
+| whichGills2= adnexed
+| capShape = convex
+| capShape2 = campanulate
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = saprotrophic
+| sporePrintColor = purple
+| howEdible = psychoactive
+}}
+
+'''''Psilocybe aztecorum''''' is a species of [[psilocybin mushroom]] in the family [[Hymenogastraceae]]. Known from central Mexico, Arizona, California, Oregon, Colorado, Canada, Costa Rica{{cn|date=February 2025}}, and possibly India, the fungus grows on decomposing woody debris and is found in mountainous areas at elevations of {{convert|2000|to|4000|m|abbr=on}}, typically in meadows or open, grassy conifer forests. The mushrooms have convex to bell-shaped [[pileus (mycology)|caps]] {{convert|1.5|–|2|cm|in|1|abbr=on}} in diameter, atop slender cylindrical [[stipe (mycology)|stems]] that are up to {{convert|7.5|cm|in|abbr=on}} long. The color of the caps [[hygrophanous|changes with variations in hydration]], ranging from dark [[chestnut (color)|chestnut]] brown to straw yellow or whitish when dry. The base of the stem is densely covered with conspicuous white [[rhizomorph]]s, a characteristic uncommon amongst ''[[Psilocybe]]'' species.
+
+The species was first reported by French mycologist [[Roger Heim]] in 1956 as a [[variety (botany)|variety]] of ''[[Psilocybe mexicana]]'' before he officially [[species description|described]] it under its current name a year later. Named for its association with the [[Nahua people]] also called [[Aztec]]s, ''P.&nbsp;aztecorum'' may have been one of the sacred mushroom species, or ''teonanácatl'' (A [[Nahuatl]] word translated variously as "sacred mushroom" or "flesh of the gods"), reported in the [[Aztec codices|codices]] of 16th-century Spanish chronicler [[Bernardino de Sahagún]]. The mushrooms are still used for spiritual ceremonies by Nahua people in the [[Popocatépetl]] region, although this traditional usage is waning. The variety ''P.&nbsp;aztecorum'' var. ''bonetii'' has smaller [[spore]]s than the main variety, and is found at lower elevations with [[Montezuma pine]] (''Pinus montezumae'') and [[sacred fir]] (''Abies religiosa''). ''P.&nbsp;aztecorum'' may be distinguished from similar [[temperate]] species such as ''[[Psilocybe baeocystis|P.&nbsp;baeocystis]]'' and ''[[Psilocybe quebecensis|P.&nbsp;quebecensis]]'' by their ranges, and by differences in the [[morphology (biology)|morphology]] of microscopic structures like [[cystidia]].
+
+==Taxonomy and nomenclature==
+The species was first mentioned by French mycologist [[Roger Heim]] in 1956 based on material collected by American [[ethnomycologist]] [[R. Gordon Wasson]] in [[Paso de Cortés]], on the slopes of Popocatépetl mountain in Mexico. Heim originally named the species as a [[variety (botany)|variety]] of ''[[Psilocybe mexicana]]''; limited to dried mushroom material for analysis, he only described the spores, which he explained were "relatively longer and narrower than that of ''Psilocybe mexicana''".<ref name=Heim1956/> A year later, Heim renamed the fungus ''Psilocybe aztecorum'' and officially [[species description|described]] it, in addition to several other Mexican ''[[Psilocybe]]'' taxa.<ref name=Heim1957/> Some of these mushrooms, including ''P.&nbsp;aztecorum'', were illustrated in the popular American weekly magazine ''[[Life (magazine)|Life]]'' ("[[Seeking the Magic Mushroom]]"), in which Wasson recounted the [[psychedelic experience|psychedelic visions]] that he experienced during the [[divination|divinatory]] rituals of the [[Mazatec people]], thereby introducing psilocybin mushrooms to Western popular culture.<ref name=Wasson1957/>
+
+In 1978, Mexican mycologist and ''Psilocybe'' specialist [[Gastón Guzmán]] [[Emendation (taxonomy)|emended]] the description of ''P.&nbsp;aztecorum'' to include the color variation of the [[pileus (mycology)|cap]] resulting from its strongly [[hygrophanous]] nature, the [[Mycena|mycenoid]] form, the [[rhizoid]]s at the base of the [[stipe (mycology)|stem]], the [[lignicolous]] habitat, and the size of the spores—all features that he thought were either confused, or not sufficiently detailed, in Heim's original description.<ref name=Guzman1978/> In the same publication, Guzmán also characterized the variety ''P.&nbsp;aztecorum'' var. ''bonetii'', distinguished from the main variety by its smaller spores.<ref name=Guzman1978/> He had originally described this variant as a separate species, ''Psilocybe bonetii'', in 1970.<ref name=Guzman1968/> Further, Guzmán later published ''[[Psilocybe natarajanii]]'', originally described by him from [[Tamil Nadu]] in southern India,<ref name=Guzman1995/> as a [[synonym (biology)|synonym]] of ''P.&nbsp;aztecorum'' var. ''bonetii'';<ref name=Guzman2000/> this putative synonymy, however, is confirmed by neither [[MycoBank]] nor [[Index Fungorum]].<ref name="urlMycoBank: Psilocybe natarajanii"/><ref name="urlFungorum: Psilocybe natarajanii"/> Guzmán called the main variety ''P.&nbsp;aztecorum'' var. ''aztecorum''; for this reason, the species authority is often cited as "''P.&nbsp;aztecorum'' var. ''aztecorum'' R. Heim emend. Guzmán".<ref name="Stamets pp.92-93">Stamets (1996), [https://books.google.com/books?id=GAmfNNwHkjIC&pg=PA92 pp. 92–3.]</ref><ref name=Guzman2008/>
+
+''Psilocybe aztecorum'' is the [[type species]] of Guzmán's [[section (botany)|section]] ''Aztecorum'', a polyphyletic group of bluing (i.e., [[psilocybin]]-containing) ''Psilocybe'' mushrooms characterized by having a strongly hygrophanous cap that dries to brown or brownish white when dry; spores that appear asymmetrical when seen in side view; and [[pleurocystidia]] that, when present, are [[hyaline]] (translucent). Other species [[classification (biology)|classified]] in section ''Aztecorum'' are ''[[Psilocybe baeocystis|P.&nbsp;baeocystis]]'' and ''[[Psilocybe quebecensis|P.&nbsp;quebecensis]]''.<ref name=Guzmanp323-6/>
+
+The [[specific name (botany)|specific epithet]] ''aztecorum'' refers to the [[Aztec]] peoples of central Mexico, who used this mushroom in traditional ceremonies long before the [[Spanish colonization of the Americas|Spanish came to America]]. The variety ''P.&nbsp;aztecorum'' var. ''bonneti'' is named after Dr. Federico Bonet (died 1980), [[emeritus]] professor of the [[Escuela Nacional de Ciencias Biológicas]], who assisted Guzmán with his [[Doctor of Philosophy|doctoral]] studies.<ref name=Guzmanp323-6/> The popular names of ''P.&nbsp;aztecorum'' are ''niños'' or ''niñitos'' (children or little children), or in the Nahuatl language ''apipiltzin''<ref name=Guzmanp323-6/> which means ''niños del agua'' ("children of the water"), alluding to their habitat along [[ravine]]s.<ref name=Singer1958/>
+
+==Description==
+
+The [[pileus (mycology)|cap]] is convex to bell-shaped, sometimes developing a broad [[umbo (mycology)|umbo]] before expanding and flattening in age; it reaches a diameter of {{convert|1.5|–|2|cm|in|1|abbr=on}}. In maturity, the cap eventually forms a central depression, and, in some old specimens, opens into the hollow stem. The cap surface is slimy to the touch, and has translucent striations along the margin when moist. The cap is strongly [[hygrophanous]], meaning that it will change color depending on its level of hydration. The color ranges from yellowish brown to golden yellow in young button forms to brownish gray in age, with greenish-gray tints on the margin. The color later changes to whitish from the center to the margin, finally remaining completely white; dried specimens are straw-colored to pale brownish. In contrast to most psilocybin mushrooms, the cap of ''P.&nbsp;aztecorum'' does not have a strong bluing reaction upon injury—only the margin stains slightly green-blue.<ref name=Guzmanp323-6/>
+
+The [[lamella (mycology)|gills]] are [[adnation|adnate]] (broadly attached to the stem slightly above the bottom of the gill) or adnexed (reaching the stem, but not attached to it), and are light violet gray to dark violet brown. They are either uniform in color, or have whitish edges. The hollow [[stipe (mycology)|stem]] is {{convert|5.5|to|7.5|cm|in|abbr=on}} by {{convert|3|to|4|mm|in|abbr=on}} thick, equal in width throughout or thicker at the top, cylindric or sometimes flattened, and either straight or with turns and windings. Its surface is smooth, silky-[[wikt:fibrillose|fibrillose]], whitish to greyish, and stains blue-green irregularly when touched or in age. The base of the stem is densely covered with well-developed white [[rhizomorph]]s. Young mushrooms have a white cobweb-like [[partial veil]] that does not last long before it disappears, although it sometimes remains as a non-permanent [[annulus (mycology)|ring]] on the upper part of the stem. The [[trama (mycology)|flesh]] is whitish to yellowish or reddish yellow in the cap, or reddish brown in the stem, and shows little or no bluing reaction to injury. Like most of the bluing ''Psilocybe'' mushrooms, the odor and taste of ''P.&nbsp;aztecorum'' is slightly farinaceous (similar to freshly ground flour) in fresh specimens; dried specimens have a more intense odor. A drop of dilute [[potassium hydroxide]] (KOH) stains the cap, stem, and flesh reddish brown; sometimes, the stem does not stain or stains slightly yellowish red. The [[spore print]] is blackish violet.<ref name=Guzmanp323-6/>
+
+===Microscopic characteristics===
+The spores are elongated-ellipsoid in face view, roughly terete (more or less cylindrical but usually tapering at both ends), slightly inequilateral or asymmetrical in side view—the so-called "mango" form. They typically have dimensions of 12–14 by 6.6–7.7 by 6–7.5&nbsp;[[micrometre|μm]], although some spores have irregular shapes and are strongly elongated, up to 23&nbsp;μm. Spores are thick-walled (generally between 1–1.5&nbsp;μm), dark yellowish brown, and have a broad [[germ pore]]. The variety ''bonetii'' has smaller spores measuring 10–13 by 6–7.5 by 6–7&nbsp;μm.<ref name=Guzmanp323-6/>
+
+The [[basidia]] (spore-bearing cells) measure 24–33 by 6.6–8.8&nbsp;μm, and may be attached to anywhere from one to four spores, although four-spored basidia are most common. They are hyaline to sometimes somewhat yellowish, club-shaped or roughly cylindrical, and some have a slight constriction around the middle. The cheilocystidia ([[cystidia]] on the edge of a gill) are abundant, forming a sterile band on the gill edge. They are hyaline, fusoid-ampullaceous (with a shape ranging from a spindle to a swollen bottle), with dimensions of 20–45 by 5–8.2&nbsp;μm, and have a filamentous neck measuring 6–11 by 1.6–2.5&nbsp;μm. The pleurocystidia (cystidia on the gill face) are scattered, similar to the cheilocystidia in form and size, hyaline, and some have bifurcated or branched necks.<ref name=Guzmanp323-6/>
+{| class="wikitable" style="width:640px; margin: 1em auto; text-align: center;"
+|+ style="background-color:#FFF; border:1px solid #CCC; border-bottom:none;" | Microscopy 
+|-
+| 
+| 
+| 
+| 
+|-
+| Cheilocystidia and spores; small divisions are 1&nbsp;μm
+| [[Basidium|Basidia]]
+| [[Pileipellis|Cap cuticle]]
+| Spores
+|}
+The subhymenium (a layer of cells immediately below the [[hymenium]]) consists of spherical cells that are interwoven with [[hypha]]e; this layer is hyaline to yellowish or brownish, and does not have [[pigment]] crusted on the walls of the hyphae. The epicutis (the upper of two layers of the [[cap cuticle]]) is made of a thin gelatinous layer of hyaline or brownish hyphae measuring 1.5–2.5&nbsp;μm in diameter. The hypodermium (the cuticle tissue layer under the epicutis) is hyaline, and has elongated to roughly spherical hyphae that are 10–18&nbsp;μm in diameter. [[Clamp connection]]s are present in the hyphae of ''P.&nbsp;aztecorum''.<ref name=Guzmanp323-6/>
+
+===Similar species===
+{{multiple image
+| footer = Similar ''Psilocybe'' species include  ''P.&nbsp;baeocystis'' (left) and ''P.&nbsp;pelliculosa'' (right).
+| align = right
+| image1 = Psilocybe_baeocystis_Washington.jpg
+| width1 = {{#expr: (150 * 1600 / 1200) round 0}}
+| alt1 = 
+| image2 = Psilocybe pelliculosa 122504.jpg
+| width2 = {{#expr: (150 * 2816 / 2112) round 0}}
+| alt2 = 
+}}
+''[[Psilocybe pseudoaztecorum]]'', found in India, differs from ''P.&nbsp;aztecorum'' in the [[morphology (biology)|morphology]] of the pleurocystidia and cheilocystidia. The characteristic filamentous neck present in the cystidia of ''P.&nbsp;aztecorum'' is absent in ''P.&nbsp;pseudoaztecorum''.<ref name=Natarajan1985/> ''P.&nbsp;pseudoaztecorum'' had been previously described by K.&nbsp;Natarajan and N.&nbsp;Raman as ''P.&nbsp;aztecorum'',<ref name=Natarajan1983/> but they published the taxon with a new name after consultation with Guzmán.<ref name=Natarajan1985/> Fresh specimens of ''P.&nbsp;aztecorum'' resemble ''[[Psilocybe pelliculosa|P.&nbsp;pelliculosa]]'',<ref name=Beug2011/> but this latter species is found only in the [[Pacific Northwest]] region of the United States and Canada.<ref name=Guzman2000/> Like ''P.&nbsp;aztecorum'', the caps of the South African species ''[[Psilocybe natalensis|P.&nbsp;natalensis]]'' also bleach to nearly white when dried.<ref>Stamets (1996), p. 134.</ref> The closely related ''[[Psilocybe baeocystis|P.&nbsp;baeocystis]]'' also bleaches in color to white when dry. Found in northwest North America from [[British Columbia]] to [[Washington (U.S. state)|Washington]] and [[Oregon]], ''P.&nbsp;baeocystis'' has thinner cheilocystidia than ''P.&nbsp;aztecorum'' (typically measuring 20–32 by 4.4–6&nbsp;μm) and its pleurocystidia, when present, are found only near the gill edge.<ref>Guzmán (1983), p. 327.</ref> ''[[Psilocybe quebecensis|P.&nbsp;quebecensis]]'', known only from [[Quebec]], Canada, has pleurocystidia measuring 12–25 by 5–10&nbsp;μm. Although the [[phylogeny]] of the species comprising section ''Aztecorum'' is not known with certainty, Guzmán has suggested that ''P.&nbsp;aztecorum'' was the ancestor of ''P.&nbsp;baeocystis'' in northwestern North America and of ''P.&nbsp;quebecensis'' in northeastern North America.<ref>Guzmán (1983), p. 331.</ref>
+
+==Habitat and distribution==
+
+A [[lignicolous]] species, ''Psilocybe aztecorum''  lives in and decays dead wood, leaves, sticks, or other similar organic debris. Mushrooms typically fruit in groups of 5 to 20, sometimes in bundles. Usual [[substrate (biology)|substrates]] include wood debris buried in soil, twigs or very rotten logs, and, rarely, [[pine cone]]s. The mushroom is found in [[woodland]]s (a low-density forest or wooded area that allows sunlight to penetrate to the forest floor) containing [[Hartweg's pine]] (''Pinus hartwegii'') in addition to grasses such as ''[[Festuca tolucensis]]'' and ''[[Muhlenbergia quadridentata]]'', and the [[herbaceous plant|herbaceous]] plant ''[[Alchemilla procumbens]]'', at elevations of {{convert|3200|–|4000|m|abbr=on}}.<ref name=Guzman1998/> Heim found the [[type (biology)|type]] specimens at an altitude of {{convert|3500|m|abbr=on}} in an alpine [[pine]] forest.<ref name=Heim1957/> ''P.&nbsp;aztecorum'' fruits from August to October.<ref name=Guzmanp323-6/>
+
+''Psilocybe aztecorum'' is known only from the high mountains of central Mexico, such as [[Trans-Mexican Volcanic Belt|Sierra Nevada]], [[Nevado de Toluca]], and [[Matlalcueitl (volcano)|La Malinche]] in the States of [[Mexico State|Mexico]], [[Puebla]], and [[Tlaxcala]]. According to Guzmán, it is likely that the species also grows in other areas with high mountains, such as the States of [[Nuevo Leon]], [[Veracruz]], [[Colima]], and [[Chiapas]], which have ecological conditions similar to those of the known localities. Variety ''bonetii'' grows in the same substrata as the type variety, mainly on [[humus]], but only in forests with [[Montezuma pine]] (''Pinus montezumae'') and [[sacred fir]] (''Abies religiosa''), between {{convert|2000|–|3300|m|abbr=on}} elevation; it has not been recorded from Hartweg's pine forests. Also known only from Mexico, in the states of Mexico and [[Morelos]], and in the [[Distrito Federal de México|Federal District]], ''P.&nbsp;aztecorum'' var. ''bonetii'' usually fruits from August to November.<ref name=Guzmanp323-6/> According to Guzmán, ''P.&nbsp;aztecorum'' should be of [[Conservation of fungi|conservation]] concern owing to [[habitat loss|loss]] of its natural habitat.<ref name=Guzman1998/>
+
+==Entheogenic use==
+ have been interpreted as ''P.&nbsp;aztecorum'']]
+''Psilocybe aztecorum'' contains the [[psychoactive]] compound [[psilocybin]]. In 1958, Swiss chemist [[Albert Hofmann]] reported a relatively low concentration of 0.02% psilocybin, but this analysis was performed on two-year-old specimens.<ref name=Guzmanp323-6/> [[Jonathan Ott]] and Guzmán indicated the presence of psilocybin in the variety ''bonartii''.<ref name=Ott1976/> In terms of psychoactive [[potency (pharmacology)|potency]], [[Paul Stamets]] rates ''P.&nbsp;aztecorum'' as "moderately to highly active".<ref name="Stamets pp.92-93"/>
+
+The statue of the [[Aztec]] "god of flowers", [[Xochipilli]], a 16th-century stone [[effigy]] unearthed on the side of the volcano [[Popocatépetl]], depicts a single figure seated cross-legged upon a temple-like base; his body is covered in carvings of sacred and psychoactive organisms. Circular patterns on his kneecaps, right forearm, and headdress have been interpreted by [[R. Gordon Wasson]] as stylized fruit bodies of ''Psilocybe aztecorum''. Wasson says that the convex shape and incurved margins depicted in these images show the mushroom caps just before maturity.<ref name=Wasson1974/><ref name=Granziera2001/> ''P.&nbsp;aztecorum'' is, in addition to ''[[Psilocybe caerulescens|P.&nbsp;caerulescens]]'', one of two mushrooms thought to be the species described by 16th-century Spanish chronicler [[Bernardino de Sahagún]] as the ''teonanácatl''. The word ''teonanácatl'' ({{IPA|nah|teoːnaˈnakat͡ɬ}}) has been variously translated as "sacred or divine mushroom" or as "flesh of the gods".<ref name=Singer1958/><ref name=Hoffman1971/><ref name=Knauth1962/> These mushrooms, considered holy [[sacrament]]s by the Aztecs, were consumed during spiritual and divinatory rituals to induce hallucinatory visions.<ref name=Guzmanp323-6/><ref name="Stamets pp.92-93"/><ref>Stamets (1996), [https://books.google.com/books?id=GAmfNNwHkjIC&pg=PA11 pp. 11–2.]</ref>
+
+''Psilocybe aztecorum'' is still used ceremonially by the [[indigenous people of Oaxaca]],<ref>Stamets (1996), [https://books.google.com/books?id=GAmfNNwHkjIC&pg=PA110 p. 110.]</ref> and by [[Nahua people]] in the Popocatépetl region,<ref name=Guzman2008/><ref name=Montoya2003/> although this usage is gradually diminishing.<ref name=Guzmanp323-6/> Traditional [[folk healer]]s, or ''curanderos'', maintain familiarity with psychoactive mushrooms (and other mind-altering plants used in ceremonial rituals), and diagnose illnesses by having the client ingest the mushrooms. One [[Mixe people|Mixe]] ''curandero''  initiation ritual involves ingestion of mushrooms following a period of "abstinence from talking, sexual intercourse, and all foods except nuts for three days, whereupon the individual goes up to a mountain, subsists on nothing but a little honey, and prays to God for the power to heal."<ref>Lipp (1998), [https://books.google.com/books?id=t3rbkYjLsh8C&pg=PA150 pp. 150–1.]</ref>
+
+==See also==
+{{Portal|Fungi}}
+*[[Legal status of psilocybin mushrooms]]
+*[[List of psilocybin mushrooms]]
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=Beug2011>{{cite journal |author=Beug M. |title=The Genus ''Psilocybe'' in North America |journal=Fungi Magazine |year=2011 |volume=4 |issue=3 |pages=6–17 |url=http://www.fungimag.com/summer-2011-articles/FungiSUM_GenusPsilocybeNA_LR.pdf |url-status=dead |archive-url=https://web.archive.org/web/20120331105044/http://www.fungimag.com/summer-2011-articles/FungiSUM_GenusPsilocybeNA_LR.pdf |archive-date=2012-03-31 }}</ref>
+
+<ref name=Granziera2001>{{cite journal |author=Granziera P. |title=Concept of the garden in pre-Hispanic Mexico |journal=Garden History |year=2001 |volume=29 |issue=2 |pages=185–213 |doi=10.2307/1587370 |jstor=1587370}}</ref>
+
+<ref name=Guzman1968>{{cite journal |author=Guzmán G. |title=Nueva especie de ''Psilocybe'' de la Sección Caerulescentes de los bosques de coníferas de México |trans-title=New species of ''Psilocybe'' of the section ''caerulescentes'' from the Mexican coniferous forests |journal=Anales de la Escuela Nacional de Ciencias Biológicas |year=1968 |volume=17 |issue=1–4 |pages=9–16 |issn=0365-1932 |language=es}}</ref>
+
+<ref name=Guzman1978>{{cite journal |author=Guzmán G. |title=Variation, distribution, ethno-mycological data and relationships of ''Psilocybe aztecorum'', a Mexican hallucinogenic mushroom |journal=Mycologia |year=1978 |volume=70 |issue=2 |pages=385–96 |doi=10.2307/3759037 |jstor=3759037 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0070/002/0385.htm |pmid=566852|url-access=subscription }}</ref>
+
+<ref name=Guzman1995>{{cite journal |author=Guzmán G. |title=Supplement to the monograph of the genus ''Psilocybe'' |journal=Bibliotheca Mycologica |year=1995 |volume=159 |pages=91–141 }}</ref>
+
+<ref name=Guzman1998>{{cite journal |author=Guzmán G. |title=Inventorying the fungi of Mexico |journal=Biodiversity and Conservation |volume=7 |issue=3 |year=1998 |pages=369–84 |doi=10.1023/A:1008833829473|bibcode=1998BiCon...7..369G |s2cid=39166363 }}</ref>
+
+<ref name=Guzman2000>{{cite journal |vauthors=Guzmán G, Allen JW, Gartz J |year=2000 |title=A worldwide geographical distribution of the neurotropic fungi, an analysis and discussion |journal=Annali del Museo Civico di Rovereto: Sezione Archeologia, Storia, Scienze Naturali |volume=14 |pages=189–280 |url=http://www.museocivico.rovereto.tn.it/UploadDocs/104_art09-Guzman%20&%20C.pdf }}</ref>
+
+<ref name=Guzman2008>{{cite journal |author=Guzmán G. |title=Hallucinogenic mushrooms in Mexico: an overview |journal=Economic Botany |year=2008 |volume=62 |issue=3 |pages=404–12 |doi=10.1007/s12231-008-9033-8|bibcode=2008EcBot..62..404G |s2cid=22085876 }}</ref>
+
+<ref name=Heim1956>{{cite journal |author=Heim R. |title=Les champignons divinatoires recueillis par Mme. V. P. Wasson et M. R. G. Wasson au cours de leurs missions de 1954 et 1955 dans le pays mije, mazateque, zapoteque et nahua du Mexique méridional et central |trans-title=The divinatory mushrooms collected by Mrs. V. P. Wasson and R. G. Wasson during their missions in 1954 and 1955 in the Mazatec, Zapotec, and Nahua areas of southern and central Mexico |journal=Comptes rendus hebdomadaires des séances de l'Académie des sciences |year=1956 |volume=242 |pages=1389–95 |language=fr |url=http://gallica.bnf.fr/ark:/12148/bpt6k3194j/f1393.image}}</ref>
+
+<ref name=Heim1957>{{cite journal |author=Heim R. |title=Notes préliminaires sur les agarics hallucinogènes du Mexique |trans-title=Preliminary notes on the hallucination-producing Agarics of Mexico |journal=Revue de Mycologie |year=1957 |volume=22 |issue=1 |pages=58–79 |language=fr}}</ref>
+
+<ref name=Hoffman1971>{{cite journal |author=Hofmann A. |year=1971 |title=''Teonanácatl'' and ''Ololiuqui'', two ancient magic drugs of Mexico |journal=Bulletin on Narcotics |volume=23 |issue=1 |pages=3–14 |url=http://www.unodc.org/unodc/en/data-and-analysis/bulletin/bulletin_1971-01-01_1_page003.html}}</ref>
+
+<ref name=Knauth1962>{{cite journal |author=Knauth LG. |title=The ''teonanacatl'' in pre-conquest accounts and today |journal=Estudios de Cultura Nahuatl |year=1962 |volume=5 |pages=263–75 |url=http://www.historicas.unam.mx/publicaciones/revistas/nahuatl/pdf/ecn03/037.pdf }}</ref>
+
+<ref name=Montoya2003>{{cite journal |vauthors=Montoya A, Hernández-Totomoch O, Estrada-Torres A, Kong A, Caballero J |title=Traditional knowledge about mushrooms in a Nahua community in the State of Tlaxcala, México |journal=Mycologia |year=2003 |volume=95 |issue=5 |pages=793–806 |jstor=3762007 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0095/005/0793.htm |doi=10.2307/3762007 |pmid=21148986|url-access=subscription }}</ref>
+
+<ref name=Natarajan1983>{{cite book |vauthors=Natarajan K, Raman N |title=South Indian Agaricales |series=Bibliotheca Mycologica |year=1983 |publisher=Lubrecht & Cramer |location=Vaduz, Liechtenstein |volume=89 |pages=106–10 |isbn=978-3-7682-1344-8}}</ref>
+
+<ref name=Natarajan1985>{{cite journal |vauthors=Natarajan K, Raman N |title=A new species of ''Psilocybe'' from India |journal=Mycologia |year=1985 |volume=77 |issue=1 |pages=158–61 |jstor=3793262 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0077/001/0158.htm |doi=10.2307/3793262|url-access=subscription }}</ref>
+
+<ref name=Ott1976>{{cite journal |author=Ott J. |title=Detection of psilocybin in species of ''Psilocybe'', ''Panaeolus'' and ''Psathyrella'' |journal=Lloydia |year=1976 |volume=39 |issue=4 |pages=258–60|pmid=957919 }}</ref>
+
+<ref name=Singer1958>{{cite journal |author=Singer R. |title=Mycological investigations on ''teonanácatl'', the Mexican hallucinogenic mushroom. Part I. The history of ''teonanácatl'', field work and culture work |journal=Mycologia |year=1958 |volume=50 |issue=2 |pages=239–61 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0050/002/0239.htm |doi=10.2307/3756196|jstor=3756196 |url-access=subscription }}</ref>
+
+<ref name=Wasson1957>{{cite magazine |title=Seeking the magic mushroom |magazine=Life |publisher=Time Inc. |author=Wasson RG. |date=13 May 1957 |pages=101–20 |url=https://books.google.com/books?id=Jj8EAAAAMBAJ&pg=PA101 |issn=0024-3019}}</ref>
+
+<ref name=Wasson1974>{{cite journal |author=Wasson G. |title=The role of 'flowers' in Nahuatl culture: a suggested interpretation |journal=Journal of Psychoactive Drugs |year=1974 |volume=6 |issue=3 |pages=351–60 |doi=10.1080/02791072.1974.10471987|url=https://www.biodiversitylibrary.org/part/168563 }}</ref>
+
+<ref name="urlFungorum: Psilocybe natarajanii">{{cite web |title=Record details: ''Psilocybe natarajanii'' Guzmán, Biblthca Mycol. 159: 109 (1995) |url=http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=414032 |publisher=[[Index Fungorum]]. CAB International |access-date=2012-01-09}}</ref>
+
+<ref name="urlMycoBank: Psilocybe natarajanii">{{Cite web |title=''Psilocybe natarajanii'' Guzmán 1995 |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=414032 |publisher=[[MycoBank]]. International Mycological Association |access-date=2012-01-09}}</ref>
+
+}}
+
+===Cited texts===
+*{{cite book |author=Guzmán G. |title=The Genus ''Psilocybe'': A Systematic Revision of the Known Species Including the History, Distribution, and Chemistry of the Hallucinogenic Species |year=1983 |series=Beihefte Zur Nova Hedwigia. Heft 74 |publisher=J. Cramer |location=Vaduz, Liechtenstein |isbn=978-3-7682-5474-8}}
+*{{cite book |author=Lipp FJ. |title=The Mixe of Oaxaca: Religion, Ritual, and Healing |year=1998 |publisher=University of Texas Press |location=Austin, Texas |isbn=978-0-292-74705-0}}
+*{{cite book |author=Stamets P. |title=Psilocybin Mushrooms of the World: An Identification Guide |publisher=Ten Speed Press |location=Berkeley, California |year=1996 |isbn=0-89815-839-7}}
+*{{cite journal |title=''Teonanacatl'': The narcotic mushroom of the Aztecs |author=Schultes RE. |journal=American Anthropologist |series=New Series |volume=42 |issue=3, Part 1 |year=1940 |pages=429–43 |doi=10.1525/aa.1940.42.3.02a00040|doi-access=free }}
+
+==External links==
+{{Commons}}
+*{{IndexFungorum|304476}}
+*[https://www.youtube.com/watch?v=vG7jtp6eLK4&NR=1&feature=endscreen YouTube] Microscopy of pleurocystidia
+
+{{Hallucinogenic mushrooms}}
+{{Taxonbar|from=Q794194}}
+{{featured article}}
+
+[[Category:Entheogens]]
+[[Category:Fungi described in 1957]]
+[[Category:Fungi of Mexico]]
+[[Category:Psilocybe|aztecorum]]
+[[Category:Psychedelic tryptamine carriers]]
+[[Category:Psychoactive fungi]]
+[[Category:Fungi without expected TNC conservation status]]
+[[Category:Fungus species]]

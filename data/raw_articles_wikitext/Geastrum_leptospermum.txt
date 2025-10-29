@@ -1,0 +1,47 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image =
+| image_caption =
+| genus = Geastrum
+| species = leptospermum
+| authority = [[George F. Atkinson|G.F.Atk.]] & [[William Chambers Coker|Coker]] (1903)
+| synonyms_ref =
+| synonyms = ''Geaster leptospermus''
+}}
+{{Mycomorphbox
+| name = ''Geastrum leptospermum''
+| capShape =no
+| hymeniumType=gleba
+| ecologicalType=saprotrophic
+| sporePrintColor=brown
+| howEdible=inedible 
+}}
+
+'''''Geastrum leptospermum''''' is a species of [[fungus]] in the family [[Geastraceae]]. It was first [[species description|described]] scientifically by American mycologist [[George F. Atkinson]] in 1903.<ref name=Atkinson1903/> The fungus produces small [[sporocarp (fungi)|fruit bodies]] and grows in [[Moss|mosses]] on tree trunks.
+
+==Description==
+The inner [[peridium]], or spore sac, is nearly spherical, {{convert|2.5|–|5|mm|abbr=off|frac=16}} thick, pale gray to pale [[tan (color)|tan]] in color, and dusted with fine whitish particles that also cover the inner surface of the freshly opened rays. The mouth on the apex of the peridium is very small, minutely fibrous, and surrounded by a conical, white disc which is distinctly outlined and radially fibrous (if not deeply grooved). As the fruit body matures, the fibrous layer of the outer peridium splits, star-like, into three to six rays about halfway down or more. The fungus is ''fornicate'', meaning that the rays curve downward so that the base of the fruit body becomes arched up, which elevates the spore sac.
+
+The delicate, fibrous [[mycelial]] layer is a distinct, membranous, white cup on the underside, with its margin also rayed by slits, the rays attached to the rays of the plant above. When freshly opened, the inner surface of the rays is covered with a fleshy, pale [[buff (color)|buff]], layer of tissue. This layer, when dry, forms the thin, tan or light brown, smooth and nearly complete membrane over the fibrous layer. The underside of the rays is white and smooth. There is no obvious columella (sterile tissue in the base of the [[gleba]] that extends into the gleba).<ref name="Coker1974" />
+
+The [[spore]]s are spherical and measure 2–3&nbsp;[[μm]]. Under high-power microscopy they appear as having a surface that is roughened by many small points or warts. The [[capillitium]] (coarse, thick-walled cells in the gleba) threads are unbranched, and measure about 3&nbsp;μm thick. Both the spores and the capillitium are whitish to very pale yellow-brown.<ref name="Coker1974" />
+
+==References==
+{{Reflist|refs=
+
+<ref name=Atkinson1903>{{cite journal |author=Atkinson GF. |year=1903 |title=A new species of ''Geaster'' |journal=Botanical Gazette |volume=36 |issue=4 |pages=303–6|doi=10.1086/328408 |s2cid=84962204 }}</ref>
+
+<ref name=Coker1974>{{cite book |vauthors=Johnson MM, Coker WS, Couch JN |title=The Gasteromycetes of the Eastern United States and Canada |publisher=Dover Publications |location=New York |year=1974 |orig-year=1928 |pages=131–2  |isbn=0-486-23033-3}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|314342}}
+
+{{Taxonbar|from=Q5529521}}
+
+[[Category:Geastrum|leptospermum]]
+[[Category:Inedible fungi]]
+[[Category:Fungi described in 1903]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]

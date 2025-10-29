@@ -1,0 +1,40 @@
+{{short description|Species of fungus}}
+{{Speciesbox
+| image = Amanita eliae 1.png
+| genus = Amanita 
+| parent = Amanita subg. Amanita
+| species = eliae
+| authority = [[Lucien Quélet|Quél.]] (1872)
+}}
+{{mycomorphbox
+| name = ''Amanita eliae''
+| whichGills = free
+| capShape = NA
+| hymeniumType = gills
+| stipeCharacter = ring and volva
+| ecologicalType = mycorrhizal
+| sporePrintColor = white
+| howEdible = inedible
+}}
+
+'''''Amanita eliae''''' is an inedible<ref name="Phillips2013"/> species of fungi in the family of [[Amanitaceae]] found in Europe. It was described by [[Lucien Quélet]] in 1872.<ref>{{cite web|url=http://www.mycobank.org/Biolomics.aspx?Table=Mycobank&MycoBankNr_=211392|title=''Amanita eliae''|publisher=MycoBank|accessdate=14 September 2015}}</ref> Synonyms include ''A. eliae'', ''A. godeyi'', and ''A. cordae''.
+
+==Description==
+Its cap is {{convert|8|to|10|cm|abbr=off|frac=2}}<ref name="DeconchatPolèse2002"/> or {{convert|10|to|15|cm|abbr=on|frac=2}}{{dubious|date=September 2015}} in diameter<ref name="Jordan2004">{{cite book|author=Michael Jordan|title=The Encyclopedia of Fungi of Britain and Europe|url=https://books.google.com/books?id=bFMfytLn3bEC&pg=PA196|accessdate=25 July 2012|date=1 September 2004|publisher=frances lincoln ltd|isbn=978-0-7112-2379-0|pages=196–}}</ref> and {{convert|6|to|10|cm|abbr=on|frac=2}} across. It has a white volva.<ref name="Phillips2013"/> Its warts correspond to easily removable, deep depressions in the cap of the species.<ref name="DeconchatPolèse2002">{{cite book|author1=Christian Deconchat|author2=Jean-Marie Polèse|title=Champignons: l'encyclopédie|url=https://books.google.com/books?id=zRH1yzMYsx4C&pg=PA430|accessdate=26 July 2012|year=2002|publisher=Editions Artemis|isbn=978-2-84416-145-1|page=430}}</ref> Its stem is around {{convert|8|to|12|cm|abbr=on|frac=2}} tall and has a diameter of {{convert|0.8|to|1.2|cm|abbr=on|frac=2}};<ref name="Phillips2013">{{cite book|author=Roger Phillips|title=Mushrooms: A comprehensive guide to mushroom identification|url=https://books.google.com/books?id=nRKwAAAAQBAJ&pg=PA152|date=12 September 2013|publisher=Pan Macmillan|isbn=978-1-4472-6402-6|pages=152–}}</ref> it is subcylindric and tapers upwards. The cap and stem have white flesh.<ref name="Phillips2013"/><ref name="Pérez-SilvaSuárez1991">{{cite book|author1=Evangelina Pérez-Silva|author2=Teófilo Herrera Suárez|title=Iconografía de macromicetos de México: Amanita|url=https://books.google.com/books?id=u9-YK0lu5ywC&pg=PA52|accessdate=25 July 2012|language=Galician|year=1991|publisher=UNAM|isbn=978-968-36-1634-0|pages=52–}}</ref> The stem is initially entirely white, but browns with age with a narrow bulb.<ref name="Pace1998">{{cite book|author=Giuseppe Pace|title=Mushrooms of the world|date=1 September 1998|publisher=Firefly Books|isbn=978-1-55209-212-5|page=217}}<!--|accessdate=26 July 2012--></ref> The stem ring is white.<ref name="Phillips2013"/> Its stem is smooth and has white gills on the [[hymenium]].<ref name="Jordan2004"/> Its odour and taste are indistinct.<ref name="Phillips2013"/><ref name="Jordan2004"/>
+
+==Distribution and habitat==
+It is commonly found in Europe in the summer and autumn near coniferous and deciduous trees.<ref name="DeconchatPolèse2002"/><ref name="Jordan2004"/>
+
+==References==
+{{reflist}}
+
+==Further reading==
+*{{cite book|author1=Evangelina Pérez-Silva|author2=Teófilo Herrera Suárez|title=Iconografía de macromicetos de México: Amanita|url=https://books.google.com/books?id=u9-YK0lu5ywC&pg=PA52|accessdate=27 July 2012|year=1991|publisher=UNAM|isbn=978-968-36-1634-0|pages=52–}}
+{{Amanitas}}
+{{Taxonbar|from=Q1673664}}
+
+[[Category:Fungi described in 1872]]
+[[Category:Amanita|eliae]]
+[[Category:Inedible fungi]]
+[[Category:Taxa named by Lucien Quélet]]
+[[Category:Fungus species]]

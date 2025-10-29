@@ -1,0 +1,45 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = 2012-10-28 Clathrus bicolumnatus 275954.jpg
+| image_caption = 
+| genus = Clathrus
+| species = bicolumnatus
+| authority = ([[Curtis Gates Lloyd|Lloyd]]) [[Pier Andrea Saccardo|Sacc.]] & [[Alessandro Trotter|Trotter]]
+| synonyms_ref = <ref name="urlMycoBank:Clathrus bicolumnatus"/>
+| synonyms = 1931 ''Linderia bicolumnata'' <small>(Lloyd) G. Cunn.</small><br>
+1942 ''Linderiella bicolumnata'' <small>(Lloyd) G. Cunn. 1942</small><br>
+1961 ''Laternea columnata'' var. ''bicolumnata'' <small>(Lloyd) Rick</small>
+}}
+{{mycomorphbox
+| name = ''Clathrus bicolumnatus''
+| hymeniumType=gleba
+| capShape=no
+| whichGills=no
+| stipeCharacter=NA
+| howEdible=unknown
+| sporePrintColor =olive-brown
+| ecologicalType=saprotrophic
+}}
+
+'''''Clathrus bicolumnatus''''' is a species of [[fungus]] in the [[stinkhorn]] family. It is known only from Japan.<ref name="urlMycoBank:Clathrus bicolumnatus"/>
+
+
+Species has been reclassified as ''Laternea columnata.''<ref>{{Cite web |title=Species Fungorum - GSD Species |url=http://www.speciesfungorum.org/Names/GSDSpecies.asp?RecordID=239159 |access-date=2022-07-10 |website=www.speciesfungorum.org}}</ref>
+
+==References==
+{{Reflist|refs=
+
+<ref name="urlMycoBank:Clathrus bicolumnatus">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=197986 |title=''Clathrus bicolumnatus'' (Lloyd) Sacc. & Trotter 1912 |publisher=International Mycological Association |work=MycoBank |accessdate=2010-10-29}}</ref>
+
+}}
+
+{{Taxonbar|from=Q5128556}}
+
+[[Category:Phallales]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi described in 1931]]
+[[Category:Taxa named by Curtis Gates Lloyd]]
+[[Category:Fungus species]]
+
+
+{{Phallales-stub}}

@@ -1,0 +1,39 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+|image = Mycena.flavescens.-.lindsey.jpg
+|image_caption =
+|genus = Mycena
+|species = flavescens
+|authority = [[Josef Velenovský|Velen.]] (1920)
+|synonym_ref = 
+|synonyms = 
+}}
+{{mycomorphbox 
+| name = ''Mycena flavescens''
+| whichGills = adnexed
+| capShape = conical
+| capShape2 = campanulate
+| hymeniumType= gills
+| stipeCharacter= bare
+| ecologicalType= saprotrophic
+| sporePrintColor= white
+| howEdible= edible
+}}
+
+'''''Mycena flavescens''''' is a species of [[Mycenaceae]] fungus. It was first [[species description|described]] scientifically by the Czech mycologist [[Josef Velenovský]] in 1920, based on specimens collected in [[Mnichovice]] in 1915.<ref name=Velenkovsky1920/> The mushroom is [[edible mushroom|edible]].<ref name=Boa2004/>
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=Boa2004>{{cite book |author=Boa E. |title=Wild Edible Fungi: A Global Overview Of Their Use And Importance To People (Non-Wood Forest Products) |publisher=Food & Agriculture Organization of the UN|year=2004 |page=137 |isbn=92-5-105157-7 |url=https://books.google.com/books?id=Zd2NlcNZgvcC&pg=PA137}}</ref>
+
+<ref name=Velenkovsky1920>{{cite book |title=České Houby |author=Velenovský J. |volume=2 |location=Prague |publisher=České Botanické Společnosti |page=323 |url=https://www.biodiversitylibrary.org/page/2970867}}</ref>
+
+}}
+
+{{Taxonbar|from=Q4354989}}
+
+[[Category:Mycena|flavescens]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi described in 1920]]
+[[Category:Fungus species]]

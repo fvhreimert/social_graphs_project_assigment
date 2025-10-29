@@ -1,0 +1,58 @@
+{{stack begin}}
+{{Speciesbox
+| image = Laccaria amethysteo-occidentalis (32942930552).jpg
+| genus = Laccaria
+| species = amethysteo-occidentalis
+| authority =  Mueller, 1984
+| synonyms = {{center| ''Laccaria laccata var. amethysteo-occidentalis'' <small> (Cooke) Rea</small> <br>
+''Laccaria amethystea-occidentalis''<ref name=Firefly>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=6}}</ref>}}
+}}
+{{mycomorphbox 
+| name=Laccaria amethysteo-occidentalis
+| whichGills=adnate 
+| whichGills2=decurrent 
+| capShape=convex 
+| capShape2=depressed
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=mycorrhizal
+| sporePrintColor=white
+| howEdible=edible
+}}
+{{stack end}}
+
+'''''Laccaria amethysteo-occidentalis''''' is a mushroom found under [[conifers]], usually pine, growing alone, scattered or gregariously in western North America.<ref>Muller, 1984.</ref>
+
+==Description==
+The mushroom is entirely purple.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=589}}</ref> The cap is {{Convert|1–7|cm|frac=4}} in width.<ref name=mykoweb>{{cite web|url=http://www.mykoweb.com/CAF/species/Laccaria_a-o.html|title= California Fungi—''Laccaria amethysteo-occidentalis'' |author=Michael Wood & Fred Stevens|year=2015|access-date=2016-01-21}}</ref> The gills are purple.<ref name="mushroomexpert">{{cite web|url=http://www.mushroomexpert.com/laccaria_amethysteo-occidentalis.html|title= ''Laccaria amethysteo-occidentalis'' |author=Michael Kuo|year=2015|access-date=2016-01-21}}</ref> The stem is up to {{Convert|14|cm|abbr=on|frac=4}} long, fibrous, with a whitish [[mycelium]] near the base.<ref name="audu" />
+
+The spores are 7.5–10.5 x 7–16&nbsp;[[μm]], subglobose or broadly elliptical. The [[spore print]] is white.<ref name="audu" />
+
+=== Similar species ===
+This species is similar to  ''[[Laccaria amethystina|L. amethystina]]''<ref name="audu" /> but differs by occurring in [[hardwood]] forest in eastern North America, rather than coniferous forest; having a smaller sporocarp; and being a lighter purple color.{{Citation needed|date=September 2021}} [[Laccaria bicolor|''L.&nbsp;bicolor'']] is smaller and less purplish; [[Laccaria laccata|''L.&nbsp;laccata'']] has whitish [[mycelium]] at its base.<ref name=":0">{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=110–111}}</ref> ''[[Cortinarius violaceus]]'' is darker and has a less fibrillose stipe.<ref name=":0" /> ''[[Pseudoomphalina cokeri]]'' is also similar.<ref name="audu" />
+
+== Distribution and habitat ==
+It can be found on the ground near the North American West Coast from October to February.<ref name="audu" />
+
+== Uses ==
+The mushroom is [[Edible mushroom|edible]].<ref name="Firefly" />
+
+== References ==
+{{Reflist}}
+
+==Further reading==
+*{{Cite journal| volume = 20| issue = 1| pages = 101–116| last = Mueller| first = Gregory M.| title = New North American species of ''Laccaria'' (Agaricales)|url=http://www.cybertruffle.org.uk/cyberliber/59575/0020/001/0101.htm| journal = [[Mycotaxon]]| year = 1984}} (Archived at: CYBERLIBER: an Electronic Library for Mycology.)
+
+==External links==
+*{{Commons-inline}}
+*{{Wikispecies-inline|Laccaria amethysteo-occidentalis}}
+
+{{Taxonbar|from=Q22285542}}
+
+[[Category:Edible fungi]]
+[[Category:Laccaria|amethysteo-occidentalis]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]
+
+
+{{Agaricales-stub}}

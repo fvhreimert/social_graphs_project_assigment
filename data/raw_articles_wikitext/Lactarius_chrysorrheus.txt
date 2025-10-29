@@ -1,0 +1,51 @@
+{{Short description|Species of fungus}}
+{{For|the species described by Lucien Quélet|Lactarius tabidus}}
+{{Speciesbox
+| image = Lact.chry.jpg
+| genus = Lactarius
+| species = chrysorrheus
+| authority = [[Elias Magnus Fries|Fr.]]}}
+{{mycomorphbox
+| name = ''Lactarius chrysorrheus''
+| whichGills = decurrent
+| capShape = flat
+| capShape2 = depressed
+| hymeniumType = gills
+| stipeCharacter = bare
+| sporePrintColor =cream
+| howEdible = poisonous
+}}
+
+'''''Lactarius chrysorrheus''''' (sometimes spelt ''Lactarius chrysorheus'') is a member of the genus ''[[Lactarius (fungus)|Lactarius]]'', whose many members are commonly known as milkcaps. It has recently been given the English (common) name of the '''yellowdrop milkcap'''. It is pale salmon in color, poisonous, and grows in symbiosis with [[oak]] trees. 
+
+==Taxonomy==
+First described by the Swedish father of modern mycology [[Elias Magnus Fries]]. The specific epithet is derived from the [[Ancient Greek]] words {{transliteration|grc|chryso-}} "golden", and {{transliteration|grc|rheos}} "stream".<ref name=Liddell1980>{{cite book | author = [[Henry George Liddell|Liddell, Henry George]] and [[Robert Scott (philologist)|Robert Scott]] | year = 1980 | title = [[A Greek-English Lexicon]] | publisher = [[Oxford University Press]] | location = United Kingdom | isbn =0-19-910207-4| edition = Abridged }}</ref> Common names include yellow milkcap,<ref name=Lamaison05/> and yellowdrop milkcap.<ref name=Phillips06>{{cite book | author = Roger Phillips | year = 2006 | title = Mushrooms | publisher = Pan MacMillan | isbn = 0-330-44237-6|pages = 25}}</ref>
+
+==Description==
+The [[pileus (mycology)|cap]] is {{convert|3|-|8|cm|in|1|abbr=on}} in diameter. It is pale salmon, or rosy, with darker markings arranged in rough rings, or bands.  At first it is convex, but later flattens, and eventually has a small central depression. It is often somewhat lobed at the edge, and is smooth, with a hairless margin. The whitish to pale buff [[stipe (mycology)|stipe]] sometimes has a pink flush on the lower half. It is hollow, cylindrical, or with a slightly swollen base.  The [[Lamella (mycology)|gills]] are decurrent, crowded, and have a pinkish buff tinge, giving a [[spore print]] that is creamy white, with a slight salmon tinge. They are quite closely spaced initially. The flesh is white and tastes hot, but is coloured by the copious amounts of milk exuded. This milk is initially white, but when exposed to the air turns bright sulphur yellow in five to fifteen seconds.<ref name=Phillips06/>
+
+Many ''[[Lactarius (fungus)|Lactarius]]'' species are similarly coloured, but not too many exude white milk that turns sulphur yellow. However, those that do include ''[[Lactarius maculatipes]]'', and ''[[Lactarius croceus]]'' which are found with hardwoods in the north eastern [[United States]], and ''[[Lactarius vinaceorufescens]]'' is locally abundant with both hard and soft woods there too.<ref name=Arora2nd>{{cite book |author=David Arora |year=1986 |title=Mushrooms Demystified |publisher=Ten Speed Press |isbn=0-89815-169-4 |url-access=registration |url=https://archive.org/details/mushroomsdemysti00aror_0 }}</ref> None of these can be found in Britain; ''[[Lactarius decipiens]]'' is on the [http://www.basidiochecklist.info/Names.asp British checklist], but is smaller than ''L. chrysorrheus'', and grows with [[Hornbeam]].
+
+==Distribution and habitat==
+''Lactarius chrysorrheus'' appears in summer and autumn. It is frequent in the northern temperate zones, [[Europe]], [[North America]], and also [[North Africa]]. It is [[mycorrhizal]] with [[oak]] trees in [[Great Britain|Britain]].<ref name=T.Laessoe>{{cite book | author = Thomas Laessoe | year = 1998 | title = Mushrooms (flexi bound) | publisher = Dorling Kindersley | isbn = 0-7513-1070-0}}</ref>
+
+==Toxicity==
+This mushroom contains toxins, and is considered poisonous<ref name=Lamaison05/><ref name=Phillips06/> (although it has sometimes been listed as edible).<ref name = "MarcelBon87">{{cite book | author = Marcel Bon | year = 1987 | title = The Mushrooms and Toadstools of Britain and North Western Europe | publisher = Hodder and Stoughton | isbn = 0-340-39935-X}}</ref> Consumption of the several species of poisonous milkcaps results in predominantly acute gastrointestinal symptoms, which can be severe.<ref>{{cite book |last=Benjamin| first= Denis R. |title=Mushrooms: poisons and panaceas — a handbook for naturalists, mycologists and physicians |url=https://archive.org/details/mushroomspoisons0000benj|url-access=registration|pages=[https://archive.org/details/mushroomspoisons0000benj/page/364 364]–65 |publisher=WH Freeman and Company| location=New York |year=1995| isbn=0-7167-2600-9}}</ref>
+
+The milk is extremely acrid.<ref name=Lamaison05>{{cite book |title=The Great Encyclopedia of Mushrooms |last=Lamaison |first=Jean-Louis |author2=Polese, Jean-Marie |year=2005 |publisher=Könemann |isbn=3-8331-1239-5|page=49}}</ref> 
+
+==See also==
+*[[List of Lactarius species|List of ''Lactarius'' species]]
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q1530713}}
+
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Africa]]
+[[Category:Poisonous fungi]]
+[[Category:Lactarius|chrysorrheus]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]

@@ -1,0 +1,66 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{speciesbox
+| image = 
+| image_caption = 
+| taxon = Strobilomyces foveatus
+| authority = [[E.J.H.Corner]] (1972)
+}}
+{{mycomorphbox
+| name = ''Strobilomyces foveatus''
+| whichGills = adnate
+| capShape = convex
+| hymeniumType=pores
+| stipeCharacter=bare
+| ecologicalType=mycorrhizal
+| sporePrintColor=black
+|sporePrintColor2=brown
+| howEdible=unknown
+}}
+{{stack end}}
+
+'''''Strobilomyces foveatus''''' is a little-known species of [[fungus]] in the family [[Boletaceae]]. It was first reported by mycologist [[E.J.H. Corner]] in 1972, from specimens he collected in Malaysia in 1959, and has since been found in Australia. [[Basidiocarp|Fruit bodies]] are characterized by the small dark brown to black conical scales covering the [[pileus (mycology)|cap]], and the net-like pattern of ridges on the upper stem. The roughly spherical [[spore]]s measure about eight [[micrometre]]s, and are densely covered with slender conical spines. The [[edible mushroom|edibility]] of this species is unknown.
+
+==Taxonomy and classification==
+''Strobilomyces foveatus'' was first described scientifically by mycologist [[E.J.H. Corner]] in 1972, from specimens collected in [[Sarawak]], Malaysia in 1959.<ref name=Corner1972/> It was one of several new ''[[Strobilomyces]]'' species he described in his [[monograph]] of Malaysian Boletaceae—the others were ''[[Strobilomyces annulatus|S.&nbsp;annulatus]]'', ''[[Strobilomyces mirandus|S.&nbsp;mirandus]]'', and  ''[[Strobilomyces mollis|S.&nbsp;mollis]]''.<ref name=IndexofFungi/>
+
+The fungus is [[Biological classification|classified]] in the [[section (biology)|section]] ''Strobilomyces'' of the genus ''[[Strobilomyces]]''. Species in this section are characterized by having [[spore]]s that may be either smooth or with short spines or warts, ridges or reticulations. The ornamentation is reduced or absent in the suprahilar region (a depressed area near the [[wikt:hilar appendage|hilar appendage]]).<ref name=Singer1986/> The [[specific name (botany)|specific epithet]] ''foveatus'' is derived from the [[Latin]] adjective ''foveola'', referring to a surface with pits or depressions.<ref name=Headrick2001/>
+
+==Description==
+
+The [[pileus (mycology)|caps]] of the [[basidiocarp|fruit bodies]] are between {{convert|7|and|10|cm|in|1|abbr=on}} wide, with a convex shape. The cap surface is covered with dark brown to black erect scales between 1.5–3 by 1.5–2.5&nbsp;mm. The [[stipe (mycology)|stem]] is up to {{convert|12|cm|in|abbr=on}} long; it is {{convert|1.2|cm|in|1|abbr=on}} thick at the top, and {{convert|1.5|cm|in|1|abbr=on}} thick at the bottom. The surface of the upper stem is strongly reticulate (covered with a network-like pattern) with individual meshes about 2–4&nbsp;mm wide and 1–2&nbsp;mm deep. The pores on the underside of the cap are between 0.5 and 1&nbsp;mm wide, dirty white then gray, and they bruise a brownish-black color. The tubes which make up the pores are up to {{convert|1.2|cm|in|abbr=on}} long. The [[trama (mycology)|flesh]] is thick and initially white, but will stain a brownish-black after exposure to the air.<ref name=Corner1972/>
+
+The [[spore]]s are 8–10 by 6.3–8.3&nbsp;[[micrometre|μm]], and densely covered with slender conical spines about 0.5&nbsp;μm tall. The abundant [[wikt:pleurocystidium|pleurocystidia]] (large sterile cells found on gill faces) are thin-walled, measuring up to 90&nbsp;μm long by 1–20&nbsp;μm wide, and [[wikt:ventricose|ventricose]] (with a swelling on one side), with a narrow appendage up to 20&nbsp;μm by 4–8&nbsp;μm. The [[hypha]]e that make up the [[pileipellis|cap surface]] and the warts are branched, loosely interwoven, and sooty colored; the [[clamp connection|unclamped]] cells typically measure 17–45 by 9–26&nbsp;μm. The surface of the stem is made of a compact mat of hyphae roughly 120&nbsp;μm thick, that reduces to a sterile [[hymenium]] in the upper part of the stem.<ref name=Corner1972/>
+
+Corner notes that the species "may be identical" with ''[[Strobilomyces echinatus]]'' Beeli, an African species with spores that measure 9.5–13 by 6.3–8.3&nbsp;μm.<ref name=Corner1972/>
+
+==Habitat and distribution==
+[[image:Sarawak state locator.svg|thumb|right|The province of [[Sarawak]] (red) in [[Malaysia]] ]]
+Corner collected specimens growing in [[humus]] on the forest floor, in [[Bako National Park]] ({{coord|1|43|N|110|28|E|region:MY_type:landmark_source:GNS-enwiki|display=inline,title}}) in [[Sarawak]], Malaysia, in northern [[Borneo]].<ref name=Corner1972/> It has also been collected from southern [[Queensland]] in Australia.<ref name="urlmushroomobserver.org"/> Although it is not known definitively for ''Strobilomyces foveatus'', all ''Strobilomyces'' species are suspected to be [[mycorrhiza]]l.<ref name=Singer1986/>
+
+==References==
+{{Reflist|refs=
+
+<ref name=Corner1972>{{cite book |title=''Boletus'' in Malaysia |author=Corner EJH. |year=1972 |publisher=Botanic Gardens |location=Singapore |oclc=668353 |page=60}}</ref>
+
+<ref name=Headrick2001>{{cite book |author=Headrick D, Gordh G. |title=A Dictionary of Entomology |publisher=CABI Pub |location=Wallingford, Oxon, UK |year=2001 |page=372 |isbn=0-85199-655-8 |url=https://books.google.com/books?id=d0XSwMJLDg4C&q=latin+foveatus&pg=PA372 |access-date=2010-09-22}}</ref>
+
+<ref name=IndexofFungi>{{cite journal |author=Commonwealth Mycological Institute |year=1973 |title=Index of Fungi |journal=Index of Fungi |publisher=CAB International |volume=4 |issue=6 (1971–1980) |page=186 |url=http://www.librifungorum.org/Image.asp?ItemID=42&ImageFileName=IXF4-186.jpg |archive-url=https://web.archive.org/web/20110727033649/http://www.librifungorum.org/Image.asp?ItemID=42&ImageFileName=IXF4-186.jpg |url-status=usurped |archive-date=July 27, 2011 |access-date=2010-09-15}}</ref>
+
+<ref name=Singer1986>{{cite book |author=Singer R. |authorlink=Rolf Singer |title=The Agaricales in Modern Taxonomy |edition=4th |publisher=Koeltz Scientific Books|location=Koenigstein |year=1986 |page=802 |isbn=3-87429-254-1}}</ref>
+
+<ref name="urlmushroomobserver.org">{{cite web |url=https://mushroomobserver.org/name/show_name_description/1837 |title=''Strobilomyces foveatus'' Corner |author=Halling R |authorlink=Roy Halling|work=Mushroom Observer |access-date=2010-09-15}}</ref>
+
+}}
+
+==External links==
+*{{MycoBank|19184}}
+*{{IndexFungorum|324273}}
+
+{{Good article}}
+{{Taxonbar|from=Q1947539}}
+
+[[Category:Boletaceae]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Australia]]
+[[Category:Fungi described in 1972]]

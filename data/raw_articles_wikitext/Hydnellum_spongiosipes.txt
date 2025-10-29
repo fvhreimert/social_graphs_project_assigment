@@ -1,0 +1,59 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Hydnellum spongiosipes 162191.jpg
+| genus = Hydnellum
+| species = spongiosipes
+| authority =  ([[Charles Horton Peck|Peck]]) [[Zdeněk Pouzar|Pouzar]] (1960)
+| synonyms_ref = <ref name="urlFungorum synonymy: Hydnellum spongiosipes"/>
+| synonyms = *''Hydnum spongiosipes'' <small>Peck (1898)</small>
+*''Hydnellum nuttallii'' <small>[[Howard James Banker|Banker]] (1906)</small>
+*''Hydnum nuttallii'' <small>(Banker) [[Sacc.]] & [[Alessandro Trotter|Trotter]] (1912)</small>
+*''Hydnellum velutinum'' var. ''spongiosipes'' <small>(Peck) [[Maas Geest.]] (1957)</small>
+}}
+
+'''''Hydnellum spongiosipes''''', commonly known as the '''velvet tooth''',<ref name="BMS"/> is a [[tooth fungus]] in the family [[Bankeraceae]]. It is found in Europe and North America. In Switzerland, it is considered a [[vulnerable species]].<ref name="Senn-Irlet 2007"/>
+
+==Taxonomy==
+The fungus was originally [[species description|described]] as new to science in 1898 by American mycologist [[Charles Horton Peck]], who placed it in the genus ''[[Hydnum]]''.<ref name="Peck 1897"/> [[Zdeněk Pouzar]] transferred it to ''[[Hydnellum]]'' in 1960.<ref name="Pouzar 1960"/> [[Synonym (biology)|Synonyms]] include ''Hydnellum nuttallii'', published by [[Howard James Banker]] in 1906, and ''Hydnellum velutinum'' var. ''spongiosipes'', published by [[Rudolph Arnold Maas Geesteranus]] in 1957.<ref name="urlFungorum synonymy: Hydnellum spongiosipes"/>
+
+==Description==
+The cap is up to {{Convert|8|cm|frac=4}} wide. The flesh is light brown on the outside and darker within. The [[spore print]] is brown.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=214}}</ref>
+
+=== Similar species ===
+Lookalikes include ''[[Hydnellum concrescens|H.&nbsp;concrescens]]'', ''[[Hydnellum ferrugineum|H.&nbsp;ferrugineum]]'', and ''[[Hydnellum scrobiculatum|H.&nbsp;scrobiculatum]]''.<ref name="audu" />
+
+==Distribution==
+It is found in Europe and North America.<ref name="Pegler 1997" /> In the latter, it appears in the east from July to September.<ref name="audu" />
+
+==References==
+{{Reflist|refs=
+
+<ref name="BMS">{{cite web |url=http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |title=Recommended English Names for Fungi in the UK |publisher=[[British Mycological Society]] |url-status=dead |archive-url=https://web.archive.org/web/20110716083053/http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |archive-date=2011-07-16 }}</ref>
+
+<ref name="Peck 1897">{{cite journal |author=Peck CH. |title=Report of the State Botanist (1896) |journal=Annual Report on the New York State Museum of Natural History |year=1897 |volume=50 |pages=77–159 (see p.&nbsp;111)}}</ref>
+
+<ref name="Pegler 1997">{{cite book |vauthors=Pegler DN, Roberts PJ, Spooner BM |title=British Chanterelles and Tooth Fungi |year=1997 |publisher=Royal Botanic Gardens |location=Kew, UK |isbn=978-1-900347-15-0 |pages=88–89}}</ref>
+
+<ref name="Pouzar 1960">{{cite journal |author=Pouzar Z. |title=The Kersko forest in the Central Elbe Region |journal=Ceská Mykologie |year=1960 |volume=14 |issue=2 |pages=129–32}}</ref>
+
+<ref name="Senn-Irlet 2007">{{cite report |vauthors=Senn-Irlet B, Bieri G, Egli S |title=Lista Rossa Macromiceti. Lista Rossa delle specie minacciate in Svizzera. UV-0718-I |year=2007 |location=Bern |publisher=Ufficio federale dell’ambiente |language=Italian |url=http://www.bafu.admin.ch/publikationen/publikation/00055/index.html?lang=fr&lang=it}}</ref>
+
+<ref name="urlFungorum synonymy: Hydnellum spongiosipes">{{cite web |title=GSD Species Synonymy: ''Hydnellum spongiosipes'' (Peck) Pouzar |url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=332093 |publisher=Species Fungorum. CAB International |access-date=2015-01-11}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|332093}}
+
+{{Taxonbar|from=Q10527992}}
+
+[[Category:Fungi described in 1898]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Inedible fungi]]
+[[Category:Hydnellum|spongiosipes]]
+[[Category:Taxa named by Charles Horton Peck]]
+[[Category:Fungus species]]
+
+
+{{Agaricomycetes-stub}}

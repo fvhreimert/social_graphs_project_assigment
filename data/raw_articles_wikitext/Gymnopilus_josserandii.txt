@@ -1,0 +1,40 @@
+{{Short description|Species of mushroom}}
+{{single source|date=October 2025}}
+{{no footnotes|date=October 2025}}
+{{Speciesbox
+| image = Gymnopilus josserandii Antonín 766475.jpg
+| image_caption =
+| taxon = Gymnopilus josserandii
+| authority = Antonín
+| synonyms =
+}}
+{{mycomorphbox
+| name = ''Gymnopilus josserandii''
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter= bare
+| ecologicalType=saprotrophic
+| sporePrintColor= ochre
+| howEdible= unknown
+}}
+
+'''''Gymnopilus josserandii''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]].
+
+==See also==
+{{Portal|Fungi}}
+[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==External links==
+*''[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=482824 Gymnopilus josserandii]'' at [[Index Fungorum]]
+
+{{Taxonbar|from=Q80613}}
+
+{{DEFAULTSORT:Gymnopilus josserandii}}
+[[Category:Gymnopilus|josserandii]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

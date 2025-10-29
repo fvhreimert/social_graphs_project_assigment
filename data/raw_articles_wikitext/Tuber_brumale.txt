@@ -1,0 +1,25 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+|image = Tuber brumale - Vue sur la tranche coupée.jpg
+|image_caption = Cut surface of ''Tuber brumale''
+|genus = Tuber
+|species = brumale
+|authority = [[Carlo Vittadini|Vittad.]] (1831)
+|synonyms =
+}}
+
+'''''Tuber brumale''''', also known as '''Muscat truffle''' or '''winter truffle''', is a species of truffle native to [[Southern Europe]]. It is naturally present in the soils of many truffle orchards.<ref>{{citation|surname1=M. Mamoun|surname2=J. M. Olivier|periodical=Plant and Soil|title=Competition between Tuber melanosporum and other ectomycorrhizal fungi under two irrigation regimes |volume=149|issue=2|pages=211–218|date=  1993|language=German|doi=10.1007/BF00016611}}</ref>
+
+==References==
+{{Reflist}}
+* {{Commons category-inline|Tuber brumale}}
+
+{{Taxonbar|from=Q370009}}
+
+[[Category:Truffles (fungi)]]
+[[Category:Tuber (fungus)|brumale]]
+[[Category:Fungi described in 1831]]
+[[Category:Fungus species]]
+
+
+{{pezizomycetes-stub}}

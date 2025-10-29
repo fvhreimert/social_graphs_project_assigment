@@ -1,0 +1,149 @@
+{{Short description|Species of fungus}}
+{{speciesbox
+| image = Urnula_craterium_mature.jpg
+| image_caption =
+| status = G4
+| status_system = TNC
+| status_ref = <ref name=NS>{{cite NatureServe |id=2.126656 |title=''Urnula craterium'' |access-date=26 May 2025}}</ref>
+| taxon = Urnula craterium
+| authority = ([[Lewis David de Schweinitz|Schwein.]]) [[Elias Magnus Fries|Fr.]] (1851)
+| synonyms_ref = <ref name="urlMycoBank: Urnula craterium"/>
+| synonyms= 
+*''Peziza craterium'' <small>Schwein. (1822)</small>
+*''Cenangium craterium'' <small>(Schwein.) Fr. 1828</small>
+*''Geopyxis craterium'' <small>(Schwein.) [[Heinrich Rehm|Rehm]] (1894)</small>
+*''Sarcoscypha craterium'' <small>(Schwein.) [[József Bánhegyi|Bánhegyi]] (1938)</small>
+}}
+{{mycomorphbox
+| name = ''Urnula craterium''
+| whichGills = no
+| capShape = no
+| hymeniumType = smooth
+| stipeCharacter = bare
+| ecologicalType = parasitic
+| ecologicalType2 = saprotrophic
+| howEdible = inedible
+}}
+
+'''''Urnula craterium''''' is a species of [[cup fungus]] in the family [[Sarcosomataceae]]. Appearing in early spring, its distinctive goblet-shaped and dark-colored [[fruit bodies]] have earned it the [[common name]]s '''crater cup''', '''devil's urn''' and the '''gray urn'''. The asexual ([[Fungi imperfecti|imperfect]]), or [[conidial]] stage of ''U.&nbsp;craterium'' is a [[plant pathogen]] known as ''Conoplea globosa'', which causes a [[canker]] disease of [[oak]] and several other [[hardwood]] tree species.
+
+''Urnula craterium'' is [[parasitic]] on oak and various other hardwoods; it is also [[saprobic]], as the fruit bodies develop on fallen dead wood. The species is distributed in eastern North America, Europe, and Asia. It produces [[biological activity|bioactive]] compounds that can inhibit the growth of other fungi.
+
+==Taxonomy==
+''Urnula craterium'' was first [[species description|described]] in 1822 by American botanist [[Lewis David de Schweinitz]] as ''Peziza craterium'', based on a specimen found in [[North Carolina]].<ref name=Schweinitz1822/> The species first appeared in the scientific literature under its current name when [[Elias Magnus Fries]] described the new genus ''[[Urnula]]'' in 1849, and set ''P.&nbsp;craterium'' as the [[type species]].<ref name=Fries1849/> In 1896, German mycologist [[Heinrich Rehm]] contentiously transferred the species to ''[[Geopyxis]]'' and declared the peripherally related ''Urnula terrestris'' as the new type species. [[Elsie Kupfer]] wrote to Rehm to clarify the rationale for his decision, and later explained:<ref name="Kupfer1902" />
+
+<blockquote>''Urnula craterium'' was placed with its related species under ''Geopyxis'', because ''Geopyxis'' was established by [[Christiaan Hendrik Persoon|Persoon]] before ''Urnula'' by Fries; and that in order to retain the genus ''Urnula'', under which [[Pier Andrea Saccardo|Saccardo]] had placed ''[[Podophacidium]] terrestre'' of [[Niessl]], [Rehm] restricted the genus to this latter fungus.</blockquote>
+
+As Kupfer explains, Rehm did not justify why he believed ''U.&nbsp;craterium'' should be allied to ''Geopyxis'', or why ''Podophacidium terrestre'' should be considered an ''Urnula''. Kupfer's macro- and microscopic analysis of tissues from these and related genera proved that ''U.&nbsp;craterium'' represented a genus unrelated to ''Geopyxis'', and Fries' classification was restored.<ref name=Kupfer1902/>
+
+=== Etymology ===
+The genus name means "little [[urn]]"; the [[specific name (botany)|specific epithet]] is derived from the [[Latin]] ''[[Krater|cratera]]'', referring to a type of bowl used in antiquity to mix wine with water.<ref name="urlLatin Word Lookup"/> It is [[common name|commonly known]] as the devil's urn<ref name="urlKuo"/> and the gray urn.<ref name=Hodgson1996/>
+
+==Description==
+The [[sporocarp (fungi)|fruit bodies]] begin from dense, black [[mycelium]] on the surface of [[oak]] branches in contact with the ground. Starting out as rolls of cylindrical tissue 1 or more centimeters long and 3–4&nbsp;mm wide, they expand slowly over the winter, and grow rapidly in the spring when the weather becomes warmer.<ref name=Wolf1958/>
+
+
+
+The goblet-shaped fruit body (technically an [[ascocarp]]) is {{convert|3–4|cm|abbr=on|frac=4}} in diameter and {{convert|4–6|cm|abbr=on|frac=4}} deep; initially it is closed, but opens as it matures, leaving a ragged or smooth [[wikt:inrolled|inrolled]] margin around a round opening.<ref name=Healy2008/> The [[trama (mycology)|flesh]] of the ascocarp walls is tough and initially gelatinous, later becoming leathery.<ref name=Metzler1992/> The exterior of the ascocarp is brownish black to black, with a velvety surface, while the interior spore-bearing surface, the [[hymenium]], is brownish black in color, usually somewhat paler than the outside. The outer surface may be partially covered with small flakelike patches of tissue.<ref name=Smith1980/> When viewed with a [[magnifying glass]], the "hairs" (fungal [[hypha]]e) making up the outer velvety surface are variable in length, and are thick-walled, blunt, and appear to wind from side to side ([[wikt:flexuous|flexuous]]).<ref name=Healy2008/> The ascocarp is connected to a [[stipe (mycology)|stalk]] that is typically {{convert|3–4|cm|abbr=on|frac=4}} long by {{convert|0.4–0.8|cm|abbr=on|frac=8}} thick,<ref name=Wolf1958/> with black [[mycelia]] at its base.
+
+, United States]]
+
+===Microscopic features===
+
+The [[ascospore|spores]] are ellipsoid or sausage-shaped ([[wikt:allantoid|allantoid]]), smooth, and thin-walled. They are non-[[amyloid]] (not taking up [[Melzer's reagent|iodine stain]]), and [[hyaline]] (translucent), with dimensions of 22–37 by 10–15&nbsp;[[μm]].<ref name=Smith1980/> The spore-bearing cells, the [[ascus|asci]] are eight-spored, cylindrical, and measure 600 by 15–17&nbsp;μm.<ref name=Healy2008/> They are [[operculum (botany)|operculate]], analogous to having a flip-top lid mechanism to release the spores. Interspersed among the asci are thin, filamentous, branched [[paraphyses]] that extend beyond the tops of the asci.<ref name=Wolf1958/>
+
+Viewed with a [[microscope]], the wall of the apothecium is made of three tissue layers of roughly equal thickness. The first layer of tissue is black, leathery and compact, and covered with a fine layer of brownish-black hairs (a tomentum); the second layer consists of loosely interlaced brown [[hypha]]e suspended in a gelatinous matrix. The third layer is the fertile, spore-bearing surface, the brownish-black hymenium.<ref name=Wolf1958/>
+
+==== Spore development ====
+The spores of ''U.&nbsp;craterium'' have a rapid and high percentage of [[germination]]. Germination requires only 1.5&nbsp;hours, a relatively short time compared to another inoperculate species in the same [[family (biology)|family]], ''[[Sarcoscypha coccinea]]'', which requires 48&nbsp;hours.<ref name="Fergus1960" /> Furthermore, germination is possible under a wide temperature range, from {{convert|5|°C|°F}} to {{convert|35|°C|°F}}, and wide soil [[pH]] range; the quality and quantity of light does not affect germination, although prolonged exposure to light does reduce germination efficiency.<ref name="Fergus1960" />
+
+=== Imperfect state ===
+The [[biological life cycle|life cycle]] of ''U. craterium'' allows for both an [[Fungi imperfecti|imperfect]] (making asexual spores, or [[conidium|conidia]]) or perfect (making sexual spores) form; as has often happened in fungal [[Taxonomy (biology)|taxonomy]], the imperfect form was given a different name, because the relationship between the perfect and imperfect forms of the same species was not then known. The imperfect stage of ''Urnula craterium'' is the [[plant pathogen]]ic species ''Conoplea globosa'', known to cause a [[canker]] disease (Strumella canker) of [[oak]] and several other [[hardwood]]s.<ref name="Hughes1951" /><ref name="Pirone2000" />
+
+===Similar species===
+'' is a lookalike species.]]
+
+''[[Urnula padeniana]],'' as well as most ''[[Plectania]]'' and ''[[Pseudoplectania]]'' species, are similar but are usually a more solid black and not crusty.<ref name=":0">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=50}}</ref> The cup fungus ''[[Plectania melastoma]]'' is smaller and the cup not as deep.<ref name="Arora1991" /> ''[[Bulgaria inquinans]]'' has a very shallow cup and ''[[Pseudosarcosoma latahense]]'' lacks the gelatinous interior.<ref name=":0" /> 
+
+==Ecology, habitat and distribution==
+''Urnula craterium'' grows singly or clustered together, usually attached to sticks and branches (especially oak) that are partially buried in the ground.<ref name="Wolf1958" /> The [[teleomorph]] state is [[saprobic]], and decomposes hardwood;<ref name="Kuo2007" /> the anamorph state is [[parasitic]], and causes a [[canker]] of various hardwoods, including oaks, [[hickory (botany)|hickories]], [[basswood]] and [[beech]].<ref name="Hodgson1996" /> It is often found in [[deciduous]] forests, although it is sometimes inconspicuous due to its dark color, and because it may be partially covered with leaf litter. One of the first fleshy fungi to appear from March to May, ''U.&nbsp;craterium'' has been dubbed a "harbinger of spring",<ref name="McKnight1987" /><ref name="urlFotM" /> and is sometimes encountered under melting snow.<ref name="McKnight1987" />
+
+The distribution of ''U.&nbsp;craterium'' includes eastern North America,<ref name="Hodgson1996" /> Europe (including the [[Czech Republic]],<ref name="Marounek2007" /> Finland,<ref name="Lindholm1983" /> and Spain),<ref name="Calonge2003" /> Japan,<ref name="Otani1980" /> and China.<ref name="Zhuang1998" /> It is [[Regional Red List|red-listed]] as [[critically endangered species|critically endangered]] in the Czech Republic.<ref name="Marounek2007" />
+
+==Uses==
+
+===Edibility===
+
+This species is often listed in [[field guide]]s as inedible,<ref name="Miller2006" /><ref name="McKnight1987" /> or not recommended for consumption due to its tough texture.<ref name="Smith1980" /> Michael Kuo, in his 2007 book on edible mushrooms, lists the taste as "mediocre", and comments "the devil's urn is not as bad as I thought it was going to be. It's not ''good'', mind you, but it would be possible to eat it with a forced smile if your Aunt Wanda served it to you."<ref name="Kuo2007" />
+
+=== Bioactive compounds ===
+''Urnula craterium'', when grown in [[liquid culture]], produces [[bioactivity|bioactive]] chemicals that inhibit the growth of other fungi that are [[Plant disease|pathogenic]] to [[aspen]]; specifically, these chemical are antagonistic to aspen blue-stain fungi ''[[Ophiostoma crassivaginatum]]'' and ''O.&nbsp;piliferum'', as well as the [[wood-decay fungus]] ''[[Phellinus tremulae]]''.<ref name="Ayer1995" /> Chemicals produced by ''U.&nbsp;craterium'' include pestalotin, 5,6-dehydropestalotin, 4-methoxy-3,5-dimethyl-pyran-2-one, and (4''S'')-3,4-dihydro-4,8-dihydroxy-1(2H)-napthalenone. However, none of these isolated compounds inhibits the aspen pathogens ''[[in vitro]]'', suggesting the true nature of the antifungal mechanism in the devil's urn has not yet been resolved.<ref name="Ayer2000" />
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=Arora1991>{{cite book |author=Arora D. |author-link=David Arora |title=All that the Rain Promises and More: A Hip Pocket Guide to Western Mushrooms |publisher=Ten Speed Press |location=Berkeley, California |year=1991 |page=830 |isbn=978-0-89815-388-0}}</ref>
+
+<ref name=Ayer1995>{{cite journal |author=Ayer WA. |year=1995 |title=Application of natural products chemistry to a biological problem |journal=Canadian Journal of Chemistry |volume=73 |issue=4 |pages=465–470 |doi=10.1139/v95-061|doi-access=free }}</ref>
+
+<ref name=Ayer2000>{{cite journal |vauthors=Ayer WA, Trifonov LS, Hutchison LJ, Chakravarty P |year=2000 |title=Metabolites from a wood-inhabiting cup fungus, ''Urnula craterium'' |journal=Natural Product Research |volume=14 |issue=6 |pages=405–410 |doi=10.1080/10575630008043776|s2cid=98485177 }}</ref>
+
+<ref name=Calonge2003>{{cite journal |title=Some interesting fungi found in Spain, with special reference to the province of Valladolid |journal=Micologia Italiana |vauthors=Calonge FD, Garcia A, Sanz M, Bastardo J |volume=32 |issue=2 |pages=42–52 |issn=0390-0460}}</ref>
+
+<ref name=Fergus1960>{{cite journal |vauthors=Fergus CL, Schein RD |year=1960 |title=Effect of environment on germination of ascospores of ''Urnula craterium'' |journal=Mycologia |volume=52 |issue=5 |pages=719–725 |doi=10.2307/3755871 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0052/005/0719.htm|jstor=3755871 |url-access=subscription }}</ref>
+
+<ref name=Fries1849>{{cite book |author=Fries EM. |year=1849 |title=Summa vegetabilium Scandinaviae |volume=2 |publisher=A.&nbsp;Bonnier |location=Stockholm & Leipzig |page=364 |url=https://www.biodiversitylibrary.org/page/32636985 |language=la}}</ref>
+
+<ref name=Healy2008>{{cite book |vauthors=Healy RA, Huffman DR, Tiffany LH, Knaphaus G |title=Mushrooms and Other Fungi of the Midcontinental United States (Bur Oak Guide) |publisher=University of Iowa Press |location=Iowa City |year=2008 |page=295 |isbn=978-1-58729-627-7}}</ref>
+
+<ref name=Hodgson1996>{{cite book |author=Hodgson M. |title=No Shit! There I Was...Gone Wild (No Shit! There I Was . . . Gone Wild) |publisher=ICS Books |location=Merrillville, Indiana |year=1996 |page=539 |isbn=978-1-57034-041-3 |url=https://books.google.com/books?id=PHdoWgTmaXMC&pg=PA539}}</ref>
+
+<ref name=Hughes1951>{{cite journal |author=Hughes SJ. |year=1951 |title=Microfungi V. ''Conoplea'' Pers. and ''Exosporium'' Link |journal=Canadian Journal of Botany |volume=38 |issue=4 |pages=659–696 |doi=10.1139/b60-059}}</ref>
+
+<ref name=Kuo2007>{{cite book |author=Kuo M. |title=100 Edible Mushrooms |publisher=The University of Michigan Press |location=Ann Arbor, Michigan |year=2007 |pages=[https://archive.org/details/100ediblemushroo00kuom/page/94 94–96] |isbn=978-0-472-03126-9 |url-access=registration |url=https://archive.org/details/100ediblemushroo00kuom/page/94 }}</ref>
+
+<ref name=Kupfer1902>{{cite journal |author=Kupfer EM. |year=1902 |title=Studies on ''Urnula'' and ''Geopyxis'' |journal=Bulletin of the Torrey Botanical Club |volume=29 |issue=3 |pages=137–144 |doi=10.2307/2478861 |jstor=2478861|url=https://www.biodiversitylibrary.org/part/246261 }} {{subscription required}}</ref>
+
+<ref name=Lindholm1983>{{cite journal |author=Lindholm T. |title=Finds of vernal mushrooms in Tenala Tenhola Finland |journal=Memoranda Societatis Pro Fauna et Flora Fennica |volume=59 |issue=4 |pages=153–154 |language=fi |issn=0373-6873}}</ref>
+
+<ref name=Marounek2007>{{cite journal |author=Marounek D. |year=2007 |title=Nalez urnicky poharove – ''Urnula craterium'' (Schwein.) Fr. na Roudnicku |trans-title=Find of ''Urnula craterium'' (Schwein.) Fr. near Roudnicku |journal=Mykologicky Sbornik |volume=84 |issue=1 |pages=11–12 |language=cs |issn=0374-9436}}</ref>
+
+<ref name=McKnight1987>{{cite book |vauthors=McKnight VB, McKnight KH |title=A Field Guide to Mushrooms, North America |publisher=Houghton Mifflin |location=Boston, Massachusetts |year=1987 |page=36 |isbn=978-0-395-91090-0 |url=https://books.google.com/books?id=kSdA3V7Z9WcC&pg=PA36}}</ref>
+
+<ref name=Metzler1992>{{cite book |vauthors=Metzler V, Metzler S |title=Texas Mushrooms: a Field Guide |publisher=University of Texas Press |location=Austin, Texas |year=1992 |page=330 |isbn=978-0-292-75125-5 |url=https://books.google.com/books?id=HRtfvVigMmsC&pg=PA330}}</ref>
+
+<ref name=Miller2006>{{cite book |vauthors=Miller HR, Miller OK |title=North American Mushrooms: a Field Guide to Edible and Inedible Fungi |publisher=Falcon Guide |location=Guilford, Connecticut |year=2006 |page=539 |isbn=978-0-7627-3109-1}}</ref>
+
+<ref name=Otani1980>{{cite journal |author=Otani Y. |year=1980 |title=Sarcoscyphineae of Japan |journal=Nippon Kingakukai Kaiho |volume=21 |issue=2 |pages=149–179 |language=ja |issn=0029-0289}}</ref>
+
+<ref name=Pirone2000>{{cite book |vauthors=Pirone PP, Hartman JR, Pirone TP, Pirone TP, Sall MA |title=Pirone's Tree Maintenance |publisher=Oxford University Press |location=Oxford, Oxfordshire |year=2000 |page=435 |isbn=978-0-19-511991-6 |url=https://books.google.com/books?id=RkdEYQ2E7jkC&pg=PA435}}</ref>
+
+<ref name=Schweinitz1822>{{cite journal |title=Synopsis fungorum Carolinae superioris |journal=Schriften der Naturforschenden Gesellschaft in Leipzig |author=von Schweinitz LD. |volume=1 |year=1822 |page=117 |url=https://books.google.com/books?id=9XgXAAAAYAAJ&pg=PA125 |language=la}}</ref>
+
+<ref name=Smith1980>{{cite book |vauthors=Weber NS, Smith AH |title=The Mushroom Hunter's Field Guide |publisher=University of Michigan Press |location=Ann Arbor, Michigan |year=1980 |page=32 |isbn=978-0-472-85610-7 |url=https://books.google.com/books?id=TYI4f6fqrfkC&pg=RA1-PA32}}</ref>
+
+<ref name="urlFotM">{{cite web |url=http://botit.botany.wisc.edu/toms_fungi/may2005.html |title=''Urnula craterium'', the black tulip fungus |author=Volk T. |work=Tom Volk's Fungus of the Month |date=May 2005 |access-date=2009-04-05}}</ref>
+
+<ref name="urlKuo">{{cite web |url=http://www.mushroomexpert.com/urnula_craterium.html |title=''Urnula craterium'': The Devil's Urn |author=Kuo M. |work=MushroomExpert.Com |date=March 2004 |access-date=2011-01-05}}</ref>
+
+<ref name="urlLatin Word Lookup">{{cite web |url=http://www.archives.nd.edu/cgi-bin/lookup.pl?stem=crater&ending=ium |title=Latin Word Lookup |publisher=University of Notre Dame |access-date=2009-04-05}}</ref>
+
+<ref name="urlMycoBank: Urnula craterium">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=170322 |title=''Urnula craterium'' (Schwein.) Fr. 1851 |publisher=[[MycoBank]]. International Mycological Association |access-date=2011-01-05}}</ref>
+
+<ref name=Wolf1958>{{cite journal |author=Wolf FA. |year=1958 |title=Mechanism of apothecial opening and ascospore expulsion by the cup-fungus ''Urnula craterium'' |journal=[[Mycologia]] |volume=50 |issue=6 |pages=837–843 |doi=10.2307/3755908 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0050/006/0837.htm|jstor=3755908 |url-access=subscription }}</ref>
+
+<ref name=Zhuang1998>{{cite journal |vauthors=Zhuang WY, Wang Z |year=1998 |title=Sarcosomataceous discomycetes in China |journal=Mycotaxon |volume=67 |pages=355–364 |url=http://www.cybertruffle.org.uk/cyberliber/59575/0067/0355.htm}}</ref>
+
+}}
+
+{{Taxonbar|from=Q1738729}}
+{{good article}}
+
+[[Category:Pezizales]]
+[[Category:Fungi described in 1822]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of Asia]]
+[[Category:Inedible fungi]]
+[[Category:Taxa named by Lewis David de Schweinitz]]
+[[Category:Fungus species]]

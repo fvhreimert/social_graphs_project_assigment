@@ -1,0 +1,26 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = 2011-11-24 Hygrophorus camarophyllus (Alb. & Schwein.) Dumée, Grandjean & Maire 184339.jpg
+| image_caption =
+| genus = Hygrophorus
+| species = camarophyllus
+| authority = (Alb. & Schwein.) Dumée
+| synonyms = 
+}}
+
+'''''Hygrophorus camarophyllus''''' is a species of [[edible mushroom|edible]] [[fungus]] in the genus ''[[Hygrophorus]]''.<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |orig-year=2005 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=75}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{IndexFungorum|452096}}
+
+{{Taxonbar|from=Q3915574}}
+
+[[Category:Hygrophorus|camarophyllus]]
+[[Category:Fungi of Europe]]
+[[Category:Edible fungi]]
+[[Category:Taxa named by Johannes Baptista von Albertini]]
+[[Category:Taxa named by Lewis David de Schweinitz]]
+[[Category:Fungus species]]

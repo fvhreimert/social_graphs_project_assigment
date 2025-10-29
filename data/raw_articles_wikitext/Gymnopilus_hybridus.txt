@@ -1,0 +1,57 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Gymnopilus hybridus 296811.jpg
+| image_caption =
+| taxon = Gymnopilus hybridus
+| authority = ([[Bull.]]) [[René Maire|Maire]] (1933)<ref name="Maire 1933"/>
+| synonyms_ref = <ref name="urlMycoBank: Gymnopilus hybridus"/>
+| synonyms = 
+  {{plainlist|
+*''Agaricus hybridus'' <small>Bull. (1789)</small>
+*''Flammula hybrida'' <small>(Bull.) [[Claude Casimir Gillet|Gillet]] (1876)</small>
+*''Fulvidula hybrida'' <small>(Bull.) [[Rolf Singer|Singer]] (1937)</small>
+*''Gymnopilus penetrans'' var. ''hybridus'' <small>(Bull.) P.Roux & Guy (2006)</small>
+  }}
+}}
+{{mycomorphbox
+| name = ''Gymnopilus hybridus''
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType = gills
+| stipeCharacter =
+| ecologicalType = saprotrophic
+| sporePrintColor =
+| howEdible =
+}}
+
+'''''Gymnopilus hybridus''''' is a species of [[agaric]] fungus in the family [[Hymenogastraceae]].
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Maire 1933">{{cite book |author=Maire R. |title=Fungi Catalaunici: Contributions à l'étude de la Flore Mycologique de la Catalogne |year=1933 |publisher=Museu de Ciencies Naturals |location=Barcelona, Spain |page=96 |language=French}}</ref>
+
+<ref name="urlMycoBank: Gymnopilus hybridus">{{cite web |title=''Gymnopilus hybridus'' (Bull.) Maire :96, 1933 |url=http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=12334&Fields=All |publisher=[[MycoBank]]. International Mycological Association |accessdate=2012-12-27}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|298036}}
+
+{{Taxonbar|from=Q5624827}}
+
+{{DEFAULTSORT:Gymnopilus hybridus}}
+[[Category:Fungi described in 1789]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Gymnopilus|hybridus]]
+[[Category:Taxa named by Jean Baptiste François Pierre Bulliard]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

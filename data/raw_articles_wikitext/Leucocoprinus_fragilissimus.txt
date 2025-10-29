@@ -1,0 +1,91 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Leucocoprinus_fragilissimus_fragile_dapperling.jpg
+| image_caption = 
+| image2 = Leucocoprinus fragillissimus 38188.jpg
+| genus = Leucocoprinus
+| species = fragilissimus
+| authority = ([[Henry William Ravenel|Ravenel]] ex [[Miles Joseph Berkeley|Berk]] & [[Moses Ashley Curtis|M.A. Curtis]]) [[Narcisse Théophile Patouillard|Pat.]] (1900)
+| synonyms_ref = <ref name="urlMycoBank: Leucocoprinus fragilissimus"/>
+| synonyms = ''Agaricus flammula'' <small>[[Johannes Baptista von Albertini|Alb.]] & [[Lewis David de Schweinitz|Schwein.]] (1805)</small><br>
+''Agaricus licmophorus'' <small>[[Miles Joseph Berkeley|Berk]] & [[Christopher Edmund Broome|Broome]] (1871)</small><br>
+''Hiatula fragilissima'' <small>[[Henry William Ravenel|Ravenel]] ex [[Miles Joseph Berkeley|Berk]] & [[Moses Ashley Curtis|M.A. Curtis]] (1853)</small><br>
+''Hiatula licmophora'' <small>[[Tom Petch|Petch]] -1910]</small><br>
+''Lepiota flammula'' <small>[[Claude Casimir Gillet|Gillet]] [1878]</small><br>
+''Lepiota fragilissima'' <small>[[Andrew Price Morgan|Morgan]] (1907)</small><br>
+''Lepiota licmophora'' <small>[[Pier Andrea Saccardo|Sacc]] (1887)</small><br>
+''Leucocoprinus licmophorus'' <small>[[Narcisse Théophile Patouillard|Pat.]] (1913)</small><br>
+''Mastocephalus licmophorus'' <small>[[Otto Kuntze|Kuntze]] (1891)</small><br>
+''Pholiota flammula'' <small>[[Friedrich Anton Wilhelm Miquel|Miq.]] (1912)</small><br>
+}}
+{{mycomorphbox 
+| name = ''Leucocoprinus fragilissimus''
+| whichGills = free
+| capShape = campanulate
+| capShape2 = convex
+| hymeniumType=gills
+| stipeCharacter=ring
+| ecologicalType=saprotrophic
+| sporePrintColor=white
+}}
+
+'''''Leucocoprinus fragilissimus''''', commonly known as the '''fragile dapperling''',<ref name=":1">{{cite book |author=Roberts P, Evans S. |title=The Book of Fungi |year=2011 |publisher=University of Chicago Press |location=Chicago, Illinois |page=214 |isbn=978-0226721170}}</ref> is a species of [[gilled mushroom]] in the family [[Agaricaceae]].
+
+==Taxonomy==
+As with many of the most well known ''[[Leucocoprinus]]'' species the taxonomic history of this species is complex with numerous early mycologists classifying it independently before the species were later merged. As a result the authorities recognised today aren't necessarily the first to document this species but rather the first to document the [[basionym]] which ultimately ended up classified as ''Leucocoprinus fragilissimus.''
+
+The first [[Species description|description]] of this species was made in 1805 by [[Johannes Baptista von Albertini]] and [[Lewis David de Schweinitz]] who classified it as ''Agaricus flammula.''<ref>{{Cite book |last1=Albertini |first1=Johann Baptist von |url=https://www.biodiversitylibrary.org/item/21717#page/179/mode/1up |title=Conspectus fungorum in Lusatiae Superioris agro Niskiensi crescentium, e methodo Persooniana |last2=Schweinitz |first2=Lewis David von |date=1805 |publisher=Sumtibus Kummerianis |location=Lipsiae}}</ref> This basionym was reclassified as ''Lepiota flammula<ref name=":3">{{Cite book |last=Gillet |first=Claude-Casimir |url=https://gallica.bnf.fr/ark:/12148/bpt6k6434815f |title=Les hyménomycètes, ou Description de tous les champignons (fungi) qui croissent en France, avec l'indication de leurs propriétés utiles ou vénéneuses / par C.-C. Gillet... |date=1874 |pages=63–64 |language=EN |via=gallica.bnf.fr}}</ref>'' in 1874 by the French botanist [[Claude Casimir Gillet]] and then ''Pholiota flammula'' in 1912 by the Italian mycologist [[Vincenzo Migliozzi]].<ref name=":0">{{Cite web |title=Species Fungorum - Species synonymy |url=http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=101889 |access-date=2022-08-06 |website=www.speciesfungorum.org}}</ref>
+
+In 1853 ''Hiatula fragilissima'' was described by the British botanist [[Miles Joseph Berkeley]] and the American botanist [[Moses Ashley Curtis]] based on an earlier unofficial classification by the American botanist [[Henry William Ravenel]].<ref>{{Cite journal |date=1853 |title=On New Species of North American Fungi |url=https://www.biodiversitylibrary.org/item/46590#page/468/mode/1up |journal=The Annals and Magazine of Natural History; Zoology, Botany, and Geology |location=London |publisher=Taylor and Francis, Ltd |volume=12 |page=422 |via=www.biodiversitylibrary.org}}</ref> In 1907 the American mycologist [[Andrew Price Morgan]] reclassified the species as ''Lepiota fragilissima<ref name=":4" />'' however it had already been reclassified as ''Leucocoprinus fragilissimus'' in 1900 by Patouillard.<ref>{{cite book |author=Patouillard N. |title=Essai taxonomique sur les familles et les genres des Hyménomycètes |year=1900 |publisher=Lucien Declume |location=Lons-Le-Saunier |page=171 |language=French |url=https://www.biodiversitylibrary.org/page/28232985}}</ref>
+
+In addition to these basionyms, in 1871 ''Agaricus licmophorus'' was described by Berkeley and the British mycologist [[Christopher Edmund Broome]].<ref name=":2">{{Cite journal |last1=Berkeley |first1=M.J. |last2=Broome |first2=C.E. |date=1871 |title=The Fungi of Ceylon |url=https://www.biodiversitylibrary.org/item/8362#page/505/mode/1up |journal=The Journal of the Linnean Society. Botany |location=London |publisher=Longman, Green, Longman, Roberts & Green |volume=11 |page=500 |via=www.biodiversitylibrary.org}}</ref> An illustration of this species was included in [[Mordecai Cubitt Cooke]]'s ''<nowiki/>'Illustrations of British Fungi'<nowiki/>'' published between 1881 and 1891''.''<ref>{{Cite book |last1=Cooke |first1=M. C. |url=https://www.biodiversitylibrary.org/item/75310#page/59/mode/1up |title=Illustrations of British Fungi (Hymenomycetes), to serve as an atlas to the "Handbook of British Fungi" |last2=Cooke |first2=M. C. |date=1881 |publisher=Williams and Norgate |volume=8 |location=London}}</ref> It was reclassified as ''Lepiota licmophora'' by the Italian mycologist [[Pier Andrea Saccardo]] in 1887 and then ''Mastocephalus licmophorus'' by the German botanist [[Otto Kuntze|Otto Kunze]] in his extensive proposed list of reclassifications of 1891.<ref>{{Cite book |last=Kuntze |first=Otto |url=https://www.biodiversitylibrary.org/item/7554#page/486/mode/1up |title=Revisio generum plantarum |date=1891 |publisher=A. Felix [etc.] |volume=2 |location=Leipzig |page=860}}</ref> However Kunze's ''Mastocephalus'' genus, along with most of ''<nowiki/>'Revisio generum plantarum''' was not widely accepted by the scientific community of the age so it remained a ''Lepiota'' and no species remain within the ''Mastocephalus'' genus.<ref>{{Cite web |title=Species Fungorum - Mastocephalus |url=http://www.speciesfungorum.org/Names/Names.asp?strGenus=Mastocephalus |access-date=2022-08-02 |website=www.speciesfungorum.org}}</ref>
+
+In 1888 the French mycologist [[Narcisse Théophile Patouillard]] described the novel species ''Leucocoprinus flavipes''<ref>{{Cite book |last1=Société mycologique de France. |url=https://www.biodiversitylibrary.org/item/148105#page/130/mode/1up |title=Bulletin de la Société Mycologique de France |last2=France |first2=Société mycologique de |last3=France |first3=Société botanique de |date=1888 |publisher=La Société |volume=4 |location=Epinal}}</ref> which Saccardo reclassified as ''Hiatula flavipes'' in 1891 citing ''Hiatula fragilissimoe'' as a similar species.<ref>{{Cite book |last1=Saccardo |first1=P. A. |url=https://www.biodiversitylibrary.org/item/25386#page/48/mode/1up |title=Sylloge fungorum omnium hucusque cognitorum |last2=Traverso |first2=G. B. |last3=Trotter |first3=A. |date=1891 |publisher=sumptibus auctoris |volume=9 |location=Patavii |page=40 |via=www.biodiversitylibrary.org}}</ref> In 1910 the British mycologist [[Tom Petch|Thomas Petch]] reclassified this species as ''Hiatula licmophora'' and stated that it was probable that it was identical to ''Leucocoprinus flavipes'' and ''Hiatula fragilissima.<ref>{{Cite journal |last=Petch |first=B.A. |date=1910 |title=Revisions of Ceylon Fungi |url=https://archive.org/details/annalsofroyalbot4190710roya/page/384/mode/2up |journal=Annals of the Royal Botanic Gardens, Peradeniya |volume=4 |pages=385–386}}</ref>'' Nonetheless ''H.&nbsp;licmophora'' was finally reclassified as ''Leucocoprinus licmophorus'' by Patouillard in 1913. In 1972 this was reclassified as ''Leucocoprinus fragilissimus'' by the British mycologist [[David Pegler]].<ref>{{Cite journal |last=Pegler |first=D. N. |date=1972 |title=A Revision of the Genus Lepiota from Ceylon |url=https://www.jstor.org/stable/4117880 |journal=Kew Bulletin |volume=27 |issue=1 |pages=155–202 |doi=10.2307/4117880 |jstor=4117880 |bibcode=1972KewBu..27..155P |issn=0075-5974|url-access=subscription }}</ref>
+
+This confusing history full of competing names is typical of many of the ''Leucocoprinus'' species documented from greenhouses and plant pots since the mushrooms started appearing all over Europe after exotic plants were brought back from the tropics. With only written descriptions and illustrations to compare as well as the slow rate of information dissemination that came from printed journals it is to be expected that these species were originally described numerous times.
+
+==Description==
+''Leucocoprinus fragilissimus'' is a small dapperling mushroom with very thin, extremely fragile, yellow flesh.
+
+'''Cap:''' 2–4.5&nbsp;cm wide,<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=572}}</ref> convex expanding to almost flat with a small central disc or [[Umbo (mycology)|umbo]]. The surface is pale greenish yellow with a darker centre but it fades to nearly white with a yellowish centre. '''Gills:''' Free, distant and pale yellow.
+
+'''Stem:''' 4–9&nbsp;cm long and 1-2mm thick running equally down to a small, very slightly bulbous base. The stem is extremely fragile with a surface that is pale yellow and smooth but also fades to nearly white. The yellow stem ring is located towards the middle of the stem (median) but is likewise fragile and may disappear. The [[spore print]] is white. '''Spores:''' Ellipsoid with a large pore. Dextrinoid. 9–12 x 7–8&nbsp;[[μm]]. The smell is indistinct.<ref>{{Cite web |last=Kuo |first=M. |date=May 2015 |title=Leucocoprinus fragilissimus (MushroomExpert.Com) |url=https://www.mushroomexpert.com/leucocoprinus_fragilissimus.html |access-date=2022-08-08 |website=www.mushroomexpert.com}}</ref>
+
+=== Similar species ===
+* ''[[Leucocoprinus magnicystidiosus]]'' is a similar mushroom, with a darker disc and larger [[cheilocystidia]].<ref name="Bessette">{{cite book |last1=Bessette |first1=Alan |title=Mushrooms of northeastern North America |last2=Bessette |first2=Arleen |publisher=Syracuse University Press |year=1997 |page=191}}</ref>
+* ''[[Bolbitius titubans]]'' is often mistaken with ''Leucocoprinus fragilissimus''<ref name=":5">{{Cite web |title=Fragile Dapperling (Leucocoprinus fragilissimus) |url=https://www.inaturalist.org/taxa/202380-Leucocoprinus-fragilissimus |access-date=2023-04-02 |website=iNaturalist |language=en}}</ref> as the caps can appear superficially similar when mature. It is easily distinguished by the gill colour however.
+* Various species in the [[Psathyrellaceae|Psathyrellacea]] family, especially ''[[Parasola]]'' species are often confused with ''L.&nbsp;fragilissimus'' based on similar cap appearance.<ref name=":5" />
+
+== Habitat and distribution ==
+Like all ''[[Leucocoprinus]]'' species, ''L.&nbsp;fragilissimus'' is a [[saprotroph]], living on very decayed plant matter ([[humus]] or compost). It grows individually or sparsely in wooded areas.<ref name="Mushroomthejournal">{{cite web|url=http://www.mushroomthejournal.com/greatlakesdata/Taxa/Leucofragi1028.html#Main|title=Mushroom, the Journal of Wild Mushrooming|access-date=28 March 2012}}</ref> The species is found in southern North America, South America, southern Europe, Africa, southern and eastern Asia,  Australia, and New Zealand.<ref name=":1" />
+
+In 1867 the Belgian botanist [[Jean Kickx]] documented ''Agaricus flammula'' growing in [[tanbark]] in the greenhouses of the Ghent Botanical garden during August and September.<ref>{{Cite book |last=Kickx |first=Jean |url=https://books.google.com/books?id=BLQ8AAAAcAAJ&q=cepaestipes |title=Flore cryptogamique des Flandres |date=1867 |publisher=H. Hoste |page=137 |language=fr}}</ref>
+
+In 1871 Berkeley and Broome described ''Lepiota licmophorus'' from [[Peradeniya]], Sri Lanka (then known as Ceylon) where it was found growing on the ground.<ref name=":2" /> Many of their observations were conducted in this area so it is possible that they were in or around the vicinity of the [[Royal Botanical Gardens, Peradeniya]], which were founded in 1843.<ref>{{Cite web |title=Royal Botanic Gardens |url=https://tools.bgci.org/garden.php?id=590 |access-date=2022-07-29 |website=Botanic Gardens Conservations International - tools.bgci.org}}</ref> They noted that it was also found in their hothouses and concluded it was likely introduced into them with the exotic plants.<ref name=":2" />
+
+In 1874 Gillet described ''Lepiota flammula'' from France where they were observed growing in small tufts of 3-4 mushrooms in greenhouses in the Summer and Autumn.''<ref name=":3" />''
+
+In a 1907 Morgan documented ''Lepiota fragilissima'' growing on earth and decayed vegetation on the edges of swamps in [[South Carolina]] where it was found individually and in groups.<ref name=":4">{{Cite journal |last=Morgan |first=A. P. |date=1907 |title=North American Species of Lepiota (Concluded) |url=https://www.jstor.org/stable/3752459 |journal=The Journal of Mycology |volume=13 |issue=1 |page=5 |doi=10.2307/3752459 |jstor=3752459 |issn=1052-0368 |via=www.jstor.org|url-access=subscription }}</ref>
+
+
+
+==References==
+{{Reflist|refs=
+
+<ref name="urlMycoBank: Leucocoprinus fragilissimus">{{cite web |title=''Leucocoprinus fragilissimus'' (Berkeley & M.A. Curtis) Patouillard 1900 |url=http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=98288&Fields=All |publisher=[[MycoBank]]. International Mycological Association |access-date=2012-03-31}}</ref>
+
+}}
+
+{{Taxonbar|from=Q4042819}}
+
+[[Category:Leucocoprinus]]
+[[Category:Fungi described in 1853]]
+[[Category:Fungi of Africa]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Australia]]
+[[Category:Fungi of New Zealand]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of South America]]
+[[Category:Taxa named by Miles Joseph Berkeley]]
+[[Category:Taxa named by Moses Ashley Curtis]]
+[[Category:Fungus species]]

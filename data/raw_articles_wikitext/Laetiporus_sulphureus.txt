@@ -1,0 +1,136 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+ | image = Laetiporus sulphureus big.jpg
+ | genus = Laetiporus
+ | species = sulphureus
+ | authority  = ([[Jean Baptiste François Pierre Bulliard|Bull.]]) [[William Murrill|Murrill]]  (1920)
+ | synonyms = {{collapsible list|title=<small>Species synonymy</small>
+ | ''Agarico-carnis'' <small>flammula Paulet, (1793)</small>
+ | ''Agarico-pulpa'' <small>styptica Paulet, (1793)</small>
+ | ''Agaricus speciosus'' <small>Battarra, (1755)</small>
+ | ''Boletus citrinus'' <small>Lumn., (1791)</small>
+ | ''Boletus coriaceus'' <small>Huds., (1778)</small>
+ | ''Boletus imbricatus'' <small>Bull., (1788)</small>
+ | ''Boletus lingua-cervina'' <small>Schrank, (1789)</small>
+ | ''Boletus ramosus'' <small>Bull., (1791)</small>
+ | ''Boletus sulphureus'' <small>Mérat, (1821)</small>
+ | ''Boletus sulphureus'' <small>Bull., (1789)</small>
+ | ''Boletus tenax'' <small>Bolton, (1788)</small>
+ | ''Boletus tenax'' <small>Lightf., (1778)</small>
+ | ''Ceriomyces aurantiacus'' <small>(Pat.) Sacc., (1888)</small>
+ | ''Ceriomyces neumanii'' <small>Bres., (1920)</small>
+ | ''Cladomeris casearius'' <small>(Fr.) Quél., (1886)</small>
+ | ''Cladomeris imbricatus'' <small>(Bull.) Quél., (1886)</small>
+ | ''Cladoporus sulphureus'' <small>(Bull.) Teixeira, (1986)</small>
+ | ''Daedalea imbricata'' <small>(Bull.) Purton, (1821)</small>
+ | ''Grifola sulphurea'' <small>(Bull.) Pilát, (1934)</small>
+ | ''Laetiporus speciosus'' <small>Battarra ex Murrill, (1904)</small>
+ | ''Laetiporus sulphureus f. aurantiacus'' <small>(Pat.) Bondartsev, (1953)</small>
+ | ''Laetiporus sulphureus f. ramosus'' <small>(Quél.) Bondartsev, (1953)</small>
+ | ''Leptoporus casearius'' <small>(Fr.) Quél., (1888)</small>
+ | ''Leptoporus imbricatus'' <small>(Bull.) Quél., (1888)</small>
+ | ''Leptoporus ramosus'' <small>(Bull.) Quél., (1888)</small>
+ | ''Leptoporus sulphureus'' <small>(Bull.) Quél.,(1888)</small>
+ | ''Merisma imbricatum'' <small>(Bull.) Gillet, (1878)</small>
+ | ''Merisma sulphureus'' <small>(Bull.) Gillet, (1878)</small>
+ | ''Polypilus casearius'' <small>(Fr.) P. Karst., (1882)</small>
+ | ''Polypilus imbricatus'' <small>(Bull.) P. Karst., (1882)</small>
+ | ''Polypilus sulphureus'' <small>(Bull.) P. Karst., (1881)</small>
+ | ''Polyporellus rubricus'' <small>(Berk.) P. Karst., (1880)</small>
+ | ''Polyporus candicinus'' <small>(Scop.) J. Schröt.</small>
+ | ''Polyporus casearius'' <small>Fr., Epicr. (1838)</small>
+ | ''Polyporus cincinnatus'' <small>Morgan, (1885)</small>
+ | ''Polyporus imbricatus'' <small>(Bull.) Fr., (1821)</small>
+ | ''Polyporus ramosus'' <small>(Bull.) Gray, (1821)</small>
+ | ''Polyporus rostafinskii'' <small>Blonski, (1888)</small>
+ | ''Polyporus rubricus'' <small>Berk., (1851)</small>
+ | ''Polyporus sulphureus'' <small>(Bull.) Fr., (1821)</small>
+ | ''Polyporus todari'' <small>Inzenga, (1866)</small>
+ | ''Ptychogaster aurantiacus'' <small>Pat., (1885)</small>
+ | ''Ptychogaster aureus'' <small>Lloyd, (1921)</small>
+ | ''Sistotrema sulphureum'' <small>(Bull.) Rebent., (1804)</small>
+ | ''Stereum speciosum'' <small>Fr., (1871)</small>
+ | ''Sulphurina sulphurea'' <small>(Quél.) Pilát, (1942)</small>
+ | ''Tyromyces sulphureus'' <small>(Bull.) Donk, (1933)</small>
+ }}
+}}
+{{mycomorphbox
+| name=''Laetiporus sulphureus''
+| hymeniumType=pores
+| capShape=flat
+| whichGills=no
+| stipeCharacter=NA
+| sporePrintColor=white
+| ecologicalType=saprotrophic
+| ecologicalType2=parasitic
+| howEdible=choice
+}}
+
+'''''Laetiporus sulphureus''''' is a species of [[bracket fungus]] (fungi that grow on trees). Its [[common names]] include '''sulphur polypore''', '''sulphur shelf''', and '''chicken-of-the-woods'''. Its fruit bodies grow as striking golden-yellow shelf-like structures on tree trunks and branches. Old fruitbodies fade to pale beige or pale grey. The undersurface of the fruit body is made up of tubelike pores rather than gills.
+
+Found in Europe and North America, ''L.&nbsp;sulphureus'' is a [[saprophyte]] and occasionally a weak [[parasite]], causing brown cubical rot in the [[heartwood]] of trees on which it grows. Unlike many bracket fungi, it is [[edible mushroom|edible]] when young, although adverse reactions have been reported.
+
+==Taxonomy==
+''Laetiporus sulphureus'' was first described as ''Boletus sulphureus'' by French mycologist [[Jean Baptiste François Pierre Bulliard|Pierre Bulliard]] in 1789. It has had many synonyms and was finally given its current name in 1920 by American mycologist [[William Murrill]]. ''Laetiporus'' means "with bright pores" and ''sulphureus'' means "the colour of sulphur".<ref name="field">{{cite book |author=Smith, Alexander H. | author-link=Alexander H. Smith |author2=Smith Weber, Nancy |title=The Mushroom Hunter's Field Guide |publisher=University of Michigan Press |year=1980 |page=64 |url= https://books.google.com/books?id=TYI4f6fqrfkC&pg=RA1-PA63 |isbn=978-0-472-85610-7}}</ref>
+
+Investigations in North America have shown that there are [[cryptic species|several similar species]] within what has been considered ''L.&nbsp;sulphureus'' and that the true ''L.&nbsp;sulphureus'' may be restricted to regions east of the [[Rocky Mountains]].<ref name="Kuo">{{cite web|url=http://www.mushroomexpert.com/laetiporus_sulphureus.html|title=''Laetiporus sulphureus'': The Chicken of the Woods|last=Kuo|first=Michael|date=March 2005|work=Mushroomexpert.com|access-date=23 February 2010}}</ref> [[Phylogenetics|Phylogenetic]] analyses of [[internal transcribed spacer|ITS]] and nuclear large subunit and mitochondrial small subunit [[Ribosomal DNA|rDNA]] sequences from North American collections have delineated five distinct [[cladistics|clades]] within the core ''Laetiporus'' clade. Sulphureus clade I contains white-pored ''L.&nbsp;sulphureus'' isolates, while Sulphureus clade II contains yellow-pored ''L.&nbsp;sulphureus'' isolates.<ref name=Lindner2008>{{cite journal |vauthors=Lindner DL, Banik MT |title=Molecular phylogeny of ''Laetiporus'' and other brown rot polypore genera in North America |journal=Mycologia |volume=100 |issue=3 |pages=417–30 |year=2008 |pmid=18751549 |doi=10.3852/07-124R2|s2cid=25173644 }}</ref><ref>Burdsall, Jr., Harold H.; Banik, Mark T. (2001). "The genus Laetiporus in North America". Harvard Papers in Botany 6 (1): 43–55.</ref>
+
+==Description==
+'']]
+
+The [[pileus (mycology)|fruiting body]] emerges directly from the trunk of a tree and is initially knob-shaped, but soon expands to fan-shaped shelves, typically growing in overlapping tiers. It is sulphur-yellow to bright orange in color and has a suedelike texture. Old fruitbodies fade to tan or whitish. Each shelf may be anywhere from {{convert|5|to|60|cm|in|frac=2|abbr=off}} across and up to {{convert|4–12|cm|frac=2|abbr=on}} thick.<ref name="Kuo"/><ref name="tfb">{{Cite book |last=Francis-Baker |first=Tiffany |title=Concise Foraging Guide |date=2021 |publisher=[[Bloomsbury Publishing|Bloomsbury]] |isbn=978-1-4729-8474-6 |series=[[The Wildlife Trusts]] |location=London |pages=125}}</ref> The fertile surface is sulphur-yellow with small pores or tubes and produces a white [[spore print]].<ref name="Jersey">{{cite web|url=http://www.njmyco.org/mushpages/Laetiporus_sulphureus.html|title=Laetiporus sulphureus|access-date=2010-02-22|work=New Jersey Mycological Association|archive-date=2009-03-09|archive-url=https://web.archive.org/web/20090309065400/http://www.njmyco.org/mushpages/Laetiporus_sulphureus.html|url-status=dead}}</ref> When fresh, the flesh is succulent with a strong fungal aroma and exudes a yellowish, transparent juice, but soon becomes dry and brittle.
+
+Although fairly distinct, it can resemble ''[[Laetiporus persicinus]]''.<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/572/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=572–73 |orig-date=1979}}</ref>
+
+==Distribution and habitat==
+ in early autumn]]
+
+''Laetiporus sulphureus'' is widely distributed across Europe (April to November)<ref name="tfb" /> and North America, although its range may be restricted to areas east of the Rockies. It grows on dead or mature [[hardwood]]s and has been reported from a very wide variety of host trees, such as ''[[Quercus]]'', ''[[Prunus]]'', ''[[Pyrus]]'', ''[[Populus]]'',  ''[[Salix]]'', ''[[Robinia]]'', and ''[[Beech|Fagus]]'', occasionally also from [[conifers]],<ref>Breitenbach J., Kränzlin F. (1986). Fungi of Switzerland, Volume 2: Non-gilled fungi. Verlag Mykologia, Luzern, Switzerland {{ISBN|3-85604-210-5}}.</ref> from August to October or later, sometimes as early as June. In the Mediterranean region, this species is usually found on ''[[Ceratonia]]'' and ''[[Eucalyptus]]''.<ref>{{cite journal |last1=Kyriakou |first1=T. |last2=Loizides |first2=M. |last3=Tziakouris |first3=A. |title=Rarities and oddities from Cyprus |journal=Field Mycology |date=2009 |volume=10 |issue=3 |pages=94–98 |doi=10.1016/S1468-1641(10)60600-7|doi-access=free }}</ref> It can usually be found growing in clusters.<ref name="Medicinal">{{cite book | author=Spahr, David L. |title=Edible and Medicinal Mushrooms of New England and Eastern Canada |publisher = North Atlantic Books |year=2009 |page=124 |url=https://books.google.com/books?id=nFZ-lwRXuNYC&pg=PA123 |isbn=978-1-55643-795-3}}</ref>
+
+===Parasitism===
+The fungus causes brown cubical rot of [[heartwood]] in the roots, tree base and stem. After infection, the wood is at first discolored yellowish to red but subsequently becomes reddish-brown and brittle. At the final stages of decay, the wood can be rubbed like powder between the fingers.<ref>{{cite book |author1=Schwarze FWMR |author2=Engels J |author3=Mattheck C. |title=Fungal strategies of wood decay in trees |publisher=Springer |year=2000 |page=73 |url=https://books.google.com/books?id=LZssbJ6g6PUC&pg=PA73 |isbn=978-3-540-67205-0}}</ref>
+
+===Guinness world record===
+A specimen weighing {{convert|100|lb|kg|order=flip}} was found in the New Forest, Hampshire, United Kingdom, on 15 October 1990.<ref>{{cite book | last = Glenday | first = Craig | title = Guinness World Records 2009 | publisher = Random House | year = 2009 | url = https://books.google.com/books?id=aHYt0RNSDfgC&q=Laetiporus+sulphureus&pg=PA209 | isbn = 978-0-553-59256-6 }}{{page needed|date=June 2014}}</ref>
+
+==Ecology==
+Certain species of [[deer]] consume this type of mushroom.<ref>{{cite book | last = Rost | first = Amy | title = Survival Wisdom & Know How: Everything You Need to Know to Thrive in the Wilderness | publisher = Black Dog Publishing | year = 2007 | page = 149 | isbn = 978-1-57912-753-4 }}</ref>
+
+== Cultivation ==
+Compared with species such as ''[[Agaricus bisporus]]'' (Swiss Brown mushroom) and the [[oyster mushroom]], commercial cultivation of ''Laetiporus'' occurs at a much smaller and less mechanized scale.
+
+== Uses ==
+
+
+Due to its taste, ''Laetiporus sulphureus'' has been called the ''chicken polypore'' and ''chicken-of-the-woods''<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=303}}</ref> (not to be confused with ''[[Grifola frondosa]]'', the so-called ''hen-of-the-woods'').
+
+Many people think that the mushroom tastes like crab or lobster leading to the nickname ''lobster-of-the-woods''. The authors of ''Mushrooms in Color'' said that the mushroom tastes good [[sautéing|sauteed]] in butter or prepared in a cream sauce served on toast or rice.<ref name="Color">{{cite book | last1 = K. Miller, Jr. | first1 = Orson | last2=Miller |first2=H. |last3=Miller | first3 =Hope | title = Mushrooms in Color | year = 1980 | publisher = South China Printing Co. | isbn = 978-0-525-93136-2}}{{page needed|date=June 2014}}</ref> It is highly regarded in Germany and North America.<ref name="roger">{{cite web|url=http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6237.asp|title=Laetiporus sulphureus|last=Phillips|first=Roger|year=2010|work=Roger's Mushrooms|access-date=23 February 2010}}</ref>
+
+Young specimens are edible if they exude large amounts of a clear to pale yellow watery liquid.<ref name="Medicinal" /> Only the young outer edges of larger specimens should be collected, as older portions tend to be tough, unpalatable, and bug-infested.<ref>{{Cite book|last=Lyle|first=Katie Letcher|title=The Complete Guide to Edible Wild Plants, Mushrooms, Fruits, and Nuts: How to Find, Identify, and Cook Them|publisher=[[FalconGuides]]|year=2010|isbn=978-1-59921-887-8|edition=2nd|location=Guilford, CN|pages=52|oclc=560560606|orig-year=2004}}</ref> The mushroom should not be eaten raw.<ref name="field" />
+
+===Adverse effects===
+Some people have experienced [[gastrointestinal upset]] after eating this mushroom,<ref name="Color"/> and it should not be consumed raw.
+
+Severe adverse reactions can occur, including vomiting and fever, in about 10% of the population, but this is now thought to be the result of confusion with morphologically similar species such as ''[[Laetiporus huroniensis]]'', which grows on [[hemlock tree]]s, and ''[[Laetiporus gilbertsonii|L. gilbertsonii]]'', which grows on ''[[Eucalyptus]]''.<ref>{{Cite web |url=http://botit.botany.wisc.edu/toms_fungi/jul2001.html |title=Laetiporus cincinnatus, the white-pored chicken of the woods, Tom Volk's Fungus of the Month for July 2001 |last=Volk |first=Thomas J. |date=July 2001 |website=Tom Volk's Fungi |access-date=2017-02-01}}</ref>
+
+==Bioactivity==
+The fungus produces the Laetiporus sulphureus [[lectin]] (LSL), which exhibits [[haemolytic]] and [[haemagglutination]] activities. Haemolytic lectins are sugar-binding proteins that lyse and [[Agglutination (biology)|agglutinate]] cells. These biochemical activities are promoted when bound to [[carbohydrate]]s.<ref name=Mancheno2005>{{cite journal |vauthors=Mancheño JM, Tateno H, Goldstein IJ, Martínez-Ripoll M, Hermoso JA |title=Structural analysis of the ''Laetiporus sulphureus'' hemolytic pore-forming lectin in complex with sugars |journal=The Journal of Biological Chemistry |volume=280 |issue=17 |pages=17251–9 |date=April 2005  |pmid=15687495 |doi=10.1074/jbc.M413933200|doi-access=free }}</ref>
+
+==See also==
+* [[Polypore]]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* {{Commons category-inline|Laetiporus sulphureus|''Laetiporus sulphureus''}}
+
+{{Taxonbar|from=Q772098}}
+
+[[Category:Wood-decay fungi]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1789]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Laetiporus|sulphureus]]
+[[Category:Fungus species]]

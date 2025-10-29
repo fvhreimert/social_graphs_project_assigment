@@ -1,0 +1,60 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = 
+| image_caption = 
+| genus = Psilocybe
+| species = strictipes
+| authority = [[Rolf Singer|Singer]] & [[A.H.Smith]]
+| synonyms_ref = <ref>{{cite journal |vauthors=Guzmán G, Allen JW, Gartz J |year=2000 |title=A worldwide geographical distribution of the neurotropic fungi, an analysis and discussion |journal=Annali del Museo Civico di Rovereto: Sezione Archeologia, Storia, Scienze Naturali |volume=14 |pages=189–280 |url=http://www.museocivico.rovereto.tn.it/UploadDocs/104_art09-Guzman%20&%20C.pdf }}</ref>
+| synonyms = ''Psilocybe callosa'' <small>(Fr. : Fr.) Quel. s.[[Gaston Guzman|Guzmán]] (1983)</small> <br/>
+''Psilocybe semilanceata'' var. ''obtusa'' <small>Bon</small><br />
+''Psilocybe semilanceata'' var. ''microspora'' <small>[[Rolf Singer|Singer]]</small>
+}}
+{{mycomorphbox
+| name = ''Psilocybe strictipes''
+| whichGills = adnate
+| whichGills2= subdecurrent
+| capShape = conical
+| capShape2= campanulate
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=saprotrophic
+| sporePrintColor=brown
+| sporePrintColor2=purple
+| howEdible=psychoactive
+}}
+
+'''''Psilocybe strictipes''''' is a [[mushroom]] that grows on grassy meadows and lawns;  It is found throughout the cool [[temperate]] and [[subarctic]] regions of the [[Northern Hemisphere]] and it is most common in Europe, and the [[Pacific Northwest]] region of North America.  It contains the psychoactive compound [[psilocybin]] is closely related to ''[[Psilocybe semilanceata]]'' and ''[[Psilocybe pelliculosa]]''.  ''Psilocybe strictipes'' is commonly confused with ''Psilocybe semilanceata'' and can be differentiated by its lack of a [[wikt:papilla|papilla]] and a convex to subumbonate cap. "Strictipes" comes from the [[Latin]] words ''stricti'' (narrow) and ''pes'' (foot).
+
+==Description==
+''Psilocybe strictipes'' has a [[farinaceous]] smell and taste.  [[Pleurocystidia]] are absent and its [[wikt:lageniform|lageniform]] [[cheilocystidia]] are 21-45 by 7-10 [[μm]]. The cap is 5 to 30&nbsp;mm across, [[wiktionary:conical|conic]] to [[wiktionary:campanulate|campanulate]] to [[wiktionary:convex|convex]], smooth, and [[translucent-striate]] near the margin, often with a low [[Umbo (mycology)|umbo]]. It is walnut brown to dark rusty brown, with a smooth surface and a separable gelatinous [[Pellicle (mycology)|pellicle]]. It is [[Hygrophanous]], fading to buff as it dries.  The flesh sometimes stains blue where damaged. The gills are cream-colored when young and dark purple brown when mature, with an [[Adnation|adnate]] attachment. The [[spore]]s are dark purple brown, suboblong, and 11 by 6 [[μm]]. The stipe has a white to ocher, equal, tough, and [[cartilaginous]] structure with [[fibrillose]] patches. It is 4 to 10&nbsp;cm long and around .25&nbsp;cm thick.  The [[partial veil]] is thin, [[cortinate]], and does not usually leave any remnants on the stipe.
+
+==Distribution and habitat==
+''Psilocybe strictipes'' fruits in late summer to fall in [[Chile]], [[England]], [[Scotland]], [[France]], [[Germany]], the [[Netherlands]], [[Poland]], [[Slovakia]], [[Sweden]], [[Siberia]], and the [[Pacific Northwest]].
+''Psilocybe strictipes'' is found in lawns and grassy fields but never growing directly from dung.
+
+==See also==
+*[[Mushroom hunting]]
+*[[Psilocybin mushrooms]]
+
+==References==
+*{{cite book | first=Paul | last=Stamets | year=1996 | title=Psilocybin Mushrooms of the World | publisher=Ten Speed Press | location=Berkeley | isbn=0-9610798-0-0}}
+{{Reflist}}
+
+==External links==
+*[https://images.google.com/images?q=%22Psilocybe+strictipes%22 ''Psilocybe strictipes'' (Google Images)]
+*[http://mycologie.catalogne.free.fr/ImagePagePhoto/Psilocybe_strictipes.jpg ''Psilocybe strictipe''s photo]
+
+{{Hallucinogenic mushrooms}}
+{{Taxonbar|from=Q7255936}}
+
+[[Category:Entheogens]]
+[[Category:Psychoactive fungi]]
+[[Category:Psilocybe|strictipes]]
+[[Category:Psychedelic tryptamine carriers]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of South America]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Rolf Singer]]
+[[Category:Taxa named by Alexander H. Smith]]
+[[Category:Fungus species]]

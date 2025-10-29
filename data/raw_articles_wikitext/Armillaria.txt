@@ -1,0 +1,128 @@
+{{Short description|Genus of fungi}}
+{{Automatic taxobox
+| image = Armillaria mellea, Honey Fungus, UK 1.jpg
+| image_caption = ''[[Armillaria mellea]]''
+| taxon = Armillaria
+| authority = ([[Elias Magnus Fries|Fr.]]) Staude
+| type_species = ''[[Armillaria mellea]]''
+| type_species_authority = (Vahl) [[Paul Kummer|P. Kumm.]]
+| diversity_link = List of Armillaria species
+| diversity = c. 45 species
+}}
+{{Mycomorphbox
+| name = ''Armillaria''
+| whichGills = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=ring
+| ecologicalType=parasitic
+| sporePrintColor=white
+| howEdible=edible
+}}
+
+'''''Armillaria''''' is a [[genus]] of [[fungi]] that includes the ''[[Armillaria mellea|A. mellea]]'' species ('honey fungus') that live on trees and woody shrubs. It includes about 10 species formerly categorized summarily as ''A.&nbsp;mellea''. ''Armillaria'' sp. are long-lived and form the [[Largest organisms|largest living fungi]] in the world. The largest known specimen (an [[Armillaria ostoyae|''A.&nbsp;ostoyae'']]) covers more than {{convert|3.4|sqmi|km2}} in [[Oregon]] and is estimated to be 2,500 years old. Some species of ''Armillaria'' display [[bioluminescence]].
+
+''Armillaria'' can be a destructive [[forest pathology|forest pathogen]]. It causes [[Armillaria root rot|"white rot" root disease]]. As it feeds on dead plant material, it can kill its host with little negative effect to itself.
+
+== Taxonomy ==
+The name ''Armillaria'' was defined in 1821 by [[Elias Magnus Fries]], but at that time most gilled mushrooms were considered to belong to genus ''Agaricus'' and ''Armillaria'' was only a subgenus (a&nbsp;"tribe"). In 1857, Friedrich Staude established the independent genus.<ref name="IF_Armillaria">{{cite web |url=http://www.indexfungorum.org/names/NamesRecord.asp?RecordID=17098 |title=the ''Armillaria'' page |work=Species Fungorum |publisher=Royal Botanic Gardens Kew |access-date=2020-09-05 }}</ref>
+
+''Armillaria'' species morphologically similar to ''A. mallea'' were not effectively distinguished until the development of "biological species" defined as intersterile groups by [[Veikko Hintikka]] in 1973.<ref name=Hintikka1973>{{cite journal |author=Hintikka V |year=1973 |title=A note on the polarity of ''Armillaria mellea'' |journal=Karstenia |volume=13 |pages=32–39|doi=10.29203/ka.1973.80 |doi-access=free }}</ref> Using a similar technique, [[Kari Korhonen (biologist)|Kari Korhonen]] showed in 1978 that the European ''Armillaria mellea'' [[species complex]] could be separated into five reproductively isolated species, which he named "European Biological Species" (EBS) A through E.<ref name=Korhonen1978>{{cite journal |author=Korhonen K |year=1978 |title=Interfertility and clonal size in the ''Armillaria mellea'' complex |journal=Karstenia |volume=18 |issue=2 |pages=31–42|doi=10.29203/ka.1978.135 |doi-access=free }}</ref> About the same time, the North American ''A.&nbsp;mellea'' was shown to be ten different species (North American Biological Species, or NABS&nbsp;I through X).<ref name=Anderson1979>{{cite journal |vauthors=Anderson JB, Ullrich RC |year=1979 |title=Biological species of ''Armillaria'' in North America |journal=Mycologia |volume=71 |issue=2 |pages=401–14 |jstor=3759160 |doi=10.2307/3759160 }}</ref>
+
+{|class=wikitable
+|+Intersterile biological species of ''Armillaria'' defined in Europe and North America
+|-
+! Code !! Taxonomic treatment !! Compatibility !! Known range
+|-
+| EBS&nbsp;A || Armillaria borealis {{au|Marxmüller & Korhonen (1982)}}<ref>{{cite web |title=Species acepted in Armillaria |url=https://botit.botany.wisc.edu/toms_fungi/armnames.html |website=botit.botany.wisc.edu}}</ref> || || Finland<ref name=Anderson1980>{{cite journal |vauthors=Anderson JB, Korhonen K, Ullrich RC |year=1980 |title=Relationships between European and North American biological species of ''Armillaria mellea'' |journal=Experimental Mycology |volume=4 |issue=1 |pages=78–86 |doi=10.1016/0147-5975(80)90053-5 }}</ref>
+|-
+| EBS&nbsp;B || ''Armillaria cepistipes'' {{au|Velen. (1920)}}<ref name="Banik">{{cite journal |last1=Banik |first1=Mark T. |last2=Burdsall |first2=Harold H. |title=Assessment of Compatibility among Armillaria cepistipes, A. sinapina, and North American Biological Species X and XI, Using Culture Morphology and Molecular Biology |journal=Mycologia |date=September 1998 |volume=90 |issue=5 |pages=798 |doi=10.2307/3761321}}</ref> || NABS&nbsp;III ({{abbr|part|partial}} + {{abbr|rg|reduced growth}}), NABS&nbsp;IV (part) || Finland, Germany<ref name=Anderson1980/>
+|-
+| EBS&nbsp;C || ''Armillaria ostoyae'' {{au|(Romagn.) Herink}} || NABS&nbsp;I (part) || Finland<ref name=Anderson1980/>
+|-
+| EBS&nbsp;D || ''Armillaria mellea'' {{au|(Vahl ex Fr.) Karst}} || NABS&nbsp;VIII (part + rg) || Finland<ref name=Anderson1980/>
+|-
+| EBS&nbsp;E  || ''Armillaria gallica'' {{au|(Marxmüller & Romagn.)}} || NABS&nbsp;III (part + rg) || France
+|-
+| NABS&nbsp;I || ''Armillaria ostoyae'' {{au|(Romagn.) Herink}} || EBS&nbsp;C (part)<ref name=Anderson1980/> || Vermont,<ref name=Anderson1980/> British Columbia, Prairie Provinces (both [[Taiga|boreal]] and [[Montane ecology|subalpine regions]]), Ontario, Quebec.<ref name="mall1"/>
+|-
+| NABS&nbsp;II || ''Armillaria gemina'' {{au|Bérubé & Dessureault}} || || Vermont,<ref name=Anderson1980/> Quebec.<ref name="mall1"/>
+|-
+| NABS&nbsp;III || ''Armillaria calvescens'' {{au|Bérubé & Dessureault}} || EBS&nbsp;B and E (part + rg)<ref name=Anderson1980/> || Vermont,<ref name=Anderson1980/> [[Prairie Provinces]], [[Ontario]], [[Quebec]].<ref name="mall1"/>
+|-
+| NABS&nbsp;IV || || EBS&nbsp;B (part),<ref name=Anderson1980/> NABS&nbsp;V (very low?)<ref name="Banik"/> || Vermont<ref name=Anderson1980/>
+|-
+| NABS&nbsp;V || ''Armillaria sinapina'' {{au|Bérubé & Dessureault}} || EBS B (5.5%)<ref name="Banik"/> || [[New York (state)]],<ref name=Anderson1980/> British Columbia, Prairie Provinces, Ontario, Quebec.<ref name="mall1"/>
+|-
+| NABS&nbsp;VI || ''Armillaria mellea'' {{au|(Vahl.:Fries) Kummer}}<ref name="mall2">Mallett, K. I. (1992). "''Armillaria'' root rot in the Canadian Prairie Provinces". Forestry Canada, Northwest Region, Northern Forestry Centre, Edmonton, Alberta, Information Report NOR-X-329. 22 p.</ref> || EBS&nbsp;D (part)<ref name=Anderson1980/> || Massachusetts,<ref name=Anderson1980/> Quebec.<ref name="mall1"/>
+|-
+| NABS&nbsp;VII || Armillaria gallica {{au|(Marxmüller & Romagn.)}} || || Vermont, Michigan,<ref name=Anderson1980/> [[British Columbia]]<ref name="mall1">Mallett, K. I. (1990). "''Armillaria'' [[root rot]] pathogens of the Canadian prairie provinces". ''Canadian Journal of Forest Research'' 20:1859–1863.</ref>
+|-
+| NABS&nbsp;VIII || || EBS&nbsp;D (part + rg)<ref name=Anderson1980/> || New York, Michigan.<ref name=Anderson1980/>
+|-
+| NABS&nbsp;IX || ''Armillaria nabsnona'' {{au|T. J. Volk & Burds. (1996)}} || || Idaho, British Columbia.<ref name=Anderson1980/>
+|-
+| NABS&nbsp;X || ''Armillaria altimontana'' {{au|Brazee, B. Ortiz, Banik & D. L. Lindner (2012)}} || NABS&nbsp;V, NABS&nbsp;XI (both <5%)<ref name="Banik"/> || Idaho,<ref name=Anderson1980/> British Columbia.<ref name="mall1"/>
+|-
+| NABS&nbsp;XI<ref name="mall2"/> || ''Armillaria cepistipes'' {{au|Velen. (1920)}}<ref name="Banik"/> || EBS&nbsp;B (57%)<ref name="Banik"/> || British Columbia<ref name="mall1"/>
+|}
+
+Similar lists of biological species have been constructed by mycologists working in Japan (10 as of 1998)<ref>{{cite journal |last1=Ota |first1=Y. |last2=Matsushita |first2=N. |last3=Nagasawa |first3=E. |last4=Terashita |first4=T. |last5=Fukuda |first5=K. |last6=Suzuki |first6=K. |title=Biological Species of Armillaria in Japan |journal=Plant Disease |date=May 1998 |volume=82 |issue=5 |pages=537–543 |doi=10.1094/PDIS.1998.82.5.537}}</ref> and China (16 as of 2024).<ref name=Liu24>{{cite journal |last1=Liu |first1=Jianwei |last2=Qin |first2=Guofu |last3=Chen |first3=Jian |last4=Song |first4=Jing |last5=Yan |first5=Zhuyue |last6=Yang |first6=Shimei |last7=Tian |first7=Meng-Hua |last8=Xu |first8=Xin |last9=Zhang |first9=Changfei |last10=Luangharn |first10=Thatsanee |last11=Bhunjun |first11=Chitrabhanu S. |last12=Yu |first12=Fuqiang |last13=Yang |first13=Zhu L. |title=Armillaria korhonenii, the sixteenth biological species of Armillaria from China |journal=Phytotaxa |date=20 February 2024 |volume=637 |issue=2 |pages=149–164 |doi=10.11646/phytotaxa.637.2.3 |url=https://www.researchgate.net/publication/378312373_Armillaria_korhonenii_the_sixteenth_biological_species_of_Armillaria_from_China}}</ref>
+
+Further data from molecular diagnostic tools have removed much uncertainty for mycologists and forest pathologists. New questions remain unanswered regarding the phylogeny of North American ''Armillaria'' species and their relationships to their European counterparts, particularly within the "''Armillaria mellea'' complex". Some data suggest that North American and European ''A. gallica'' isolates are not monophyletic. Although North American and European isolates of ''A. gallica'' may be interfertile, some North American isolates of ''A. gallica'' are more closely related to the North American taxon ''A. calvescens'' than to European isolates of ''A. gallica''. The increase in genetic divergence has not necessarily barred inter-sterility between isolated populations of ''A. gallica''. Although the relationships among some groups in the genus seem clearer, the investigation of geographically diverse isolates has revealed that the relationship between some North American species is still unclear (Hughes et al. 2003).<ref name="hugh">Hughes, M. B.; Weir, A.; Rogers, S. O. (2003). "Phylogenetic reconstruction of North American ''Armillaria'' species and related European taxa based on nuclear ribosomal DNA internal transcribed spacers". p. 32 in Laflamme, G.; Bérubé, J. A.; Bussières, G. (eds.), ''Root and Butt Rots of Forest Trees. Proceedings of the 10th International Conference of Root and Butt Rots'', IUFRO Working Party 7.02.01, Quebec, September 2001. Natural Resources Canada, Canadian Forest Service, Information Report LAU-X-126. 450 p.</ref> A similar situation happens in China, where some molecular phylogenetic data appear to line up with intersterile "biological species" and others do not.<ref name=Liu24/>
+
+''Armillaria'' root rot occurs in the [[Northwest Territories]],{{citation needed|date=May 2017}} and was identified on [[white spruce]] at [[Pine Point, Northwest Territories|Pine Point]] on [[Great Slave Lake]] prior to NABS&nbsp;findings.{{citation needed|date=May 2017}}
+
+=== ''Rhizomorpha'' ===
+In 1791 [[Albrecht Wilhelm Roth]] described the species ''Rhizomorpha fragilis'' for a collection which consisted entirely of rhizomorphs.  The genus ''[[Rhizomorpha]]'' thus became established and later these [[mycelial]] cords were shown to belong to ''Armillaria mellea''.  According to the [[International Code of Nomenclature for algae, fungi, and plants|code of nomenclature]] that means that the two genus names are synonyms and since genus ''Armillaria'' was not defined until 1857, the name ''Rhizomorpha'' takes precedence and should replace the name ''Armillaria''. To avoid this, a 2021 paper by Stalpers et al. proposes that the name ''Armillaria'' should be protected. The proposal awaits decisions by the [[Nomenclature Committee for Fungi]] and eventually by an [[International Botanical Congress]].<ref name="IF_Rhizomorpha">{{cite web |url=http://www.indexfungorum.org/names/NamesRecord.asp?RecordID=18461 |title=the ''Rhizomorpha'' page |work=Species Fungorum |publisher=Royal Botanic Gardens Kew |access-date=2020-09-05 }}</ref><ref name="Koch2018">{{cite journal |vauthors=Koch RA, Lodge DJ, Sourell S, Nakasone K, McCoy AG, Aime MC |title=Tying up loose threads: revised taxonomy and phylogeny of an avian-dispersed Neotropical rhizomorph-forming fungus |journal=Mycological Progress |year=2018 |volume=17 |issue=9  |pages=989–998 |doi=10.1007/s11557-018-1411-8 |doi-access=free |bibcode=2018MycPr..17..989K |url=https://www.researchgate.net/publication/325653310}}</ref><ref name="Stalpers2021">{{cite journal |vauthors=Stalpers JA, Redhead SA, May TW |display-authors=etal |title=Competing sexual-asexual generic names in Agaricomycotina (Basidiomycota) with recommendations for use |journal=IMA Fungus |year=2021 |volume=12 |issue=22 |page=3  |pmid=34380577|  doi=10.1186/s43008-021-00061-3| pmc=8359032 |doi-access=free }}</ref>
+
+== Description ==
+'']]
+'']]
+
+The basidiocarp (reproductive structure) of the fungus is a [[mushroom]] that grows on wood, typically in small dense clumps or tufts. Their [[pileus (mycology)|caps]] (mushroom tops) are typically yellow-brown, somewhat sticky to touch when moist, and, depending on age, may range in shape from [[wikt:conical|conical]] to [[wikt:convex|convex]] to depressed in the center. The [[stipe (mycology)|stipe]] (stalk) may or may not have a [[annulus (mycology)|ring]]. All ''Armillaria'' species have a white [[spore print]] and none have a [[volva (mycology)|volva]] (cup at base).<ref name=":0">{{Cite book |last=Pegler DN |title=''Armillaria'' Root Rot: Biology and Control of Honey Fungus |publisher=Intercept |year=2000 |isbn=1-898298-64-5 |editor-last=Fox RTV |pages=81–93 |chapter=Taxonomy, nomenclature and description of ''Armillaria''}}</ref>
+
+''Armillaria'' species are long-lived and form the [[Largest organisms|largest living fungi]] in the world.<ref>{{Cite journal |last=Smith |first=Myron L. |last2=Bruhn |first2=Johann N. |last3=Anderson |first3=James B. |date=April 1992 |title=The fungus Armillaria bulbosa is among the largest and oldest living organisms |url=https://www.nature.com/articles/356428a0 |journal=Nature |language=en |volume=356 |issue=6368 |pages=428–431 |doi=10.1038/356428a0 |issn=1476-4687|url-access=subscription }}</ref> The largest known organism (of the species [[Armillaria ostoyae|''A.&nbsp;ostoyae'']]) covers more than {{convert|3.4|sqmi|km2}} in [[Oregon]]'s [[Malheur National Forest]] and is estimated to be 2,500 years old.<ref name="Ingraham2010">{{cite book |author=John L. Ingraham |url=https://books.google.com/books?id=lbdfRcxIbLIC&pg=PA201 |title=March of the Microbes: Sighting the Unseen |date=15 February 2010 |publisher=Harvard University Press |isbn=978-0-674-03582-9 |page=201}}</ref><ref name="si">{{cite web |last1=Daley |first1=Jason |date=15 October 2018 |title=This Humongous Fungus Is as Massive as Three Blue Whales |url=https://www.smithsonianmag.com/smart-news/mushroom-massive-three-blue-whales-180970549/ |access-date=21 October 2018 |website=Smithsonian.com |publisher=Smithsonian Institution}}</ref> Some species display [[bioluminescence]], known as [[foxfire]].
+
+=== Similar species ===
+Similar species include ''[[Pholiota]]'' spp. which also grow in cespitose (mat-like) clusters on wood and fruit in the fall. ''Pholiota'' spp. are separated from Armillaria by its yellowish to greenish-yellow tone and a dark brown to grey-brown spore print. [[Mushroom hunter]]s need to be wary of ''[[Galerina]] '' spp. which can grow side by side with ''Armillaria'' spp. on wood. ''[[Galerina]]'' have a dark brown spore print and are deadly [[Mushroom poisoning|poisonous]] ([[alpha-amanitin]]).
+
+The white spore print and lack of volva can be compared to ''[[Amanita]]''.<ref name=":0" /> As a [[white rot]], it is distinguished from ''[[Tricholoma]]'', a [[mycorrhiza]]l (non-parasitic) genus.
+
+== Pathology ==
+{{Main|Armillaria root rot}}
+
+Honey fungus is a white-rot fungus, which is a [[pathogen]]ic organism that affects trees, [[shrub]]s, woody climbers and rarely, woody herbaceous [[perennial]] plants. Honey fungus can grow on living, decaying, and also dead plant material (being a [[facultative saprophyte]]). This means it can kill its host with little consequence, unlike [[parasite]]s that must moderate their growth to avoid host death.{{r|si}}
+
+Honey fungus spreads from living trees, dead and live roots and stumps by means of reddish-brown to black [[rhizomorph]]s (root-like structures) at the rate of approximately {{convert|1|m|ft|order=flip}} a year, but infection by root contact is possible. Infection by spores is rare. Rhizomorphs grow close to the [[soil]] surface (in the top {{convert|20|cm|in|order=flip}}) and invade new roots, or the root collar (where the roots meet the stem) of plants. An infected tree will die once the fungus has [[girdling|girdled]] it, or when significant root damage has occurred. Additionally, Infections can occur through the activity of wood boring beetles. For example, ''[[Agrilus biguttatus]]'' most commonly girdle in [[Oak|oak trees]], which allows fungi to grow in the stems of these infected trees. This can happen rapidly, or may take several years. Infected plants will deteriorate, although may exhibit prolific flower or fruit production shortly before death.{{why|date=March 2023}}
+ ''Armillaria'']]
+Initial symptoms of honey fungus infection include [[Forest dieback|dieback]] or shortage of leaves in spring. Rhizomorphs (also called mycelial cords) appear under the [[bark (botany)|bark]] and around the tree, and mushrooms grow in clusters from the infected plant in autumn and die back after the first frost. However these [[Symptom#Symptom versus sign|symptoms and signs]] do not necessarily mean that the pathogenic strains of honey fungus are the cause, so other identification methods are advised before diagnosis. Thin sheets of cream colored mycelium, beneath the bark at the base of the trunk or stem indicated that honey fungus is likely the pathogen. It will give off a strong mushroom scent and the mushrooms sometimes extend upward. On [[conifers]] honey fungus often exudes a gum or [[resin]] from cracks in the bark.
+
+=== Hosts ===
+Potential [[Host (biology)|hosts]] include [[Pinophyta|conifers]] and various [[monocotyledon]]ous and [[dicotyledon]]ous trees, [[shrub]]s, and herbaceous species, ranging from asparagus and strawberry to large forest trees (Patton and Vasquez Bravo 1967).<ref name="patton">Patton, R. F.; Vasquez Bravo, R. 1967. "Armillaria root rot ''Armillaria mellea'' (Vahl ex Fr.) Kummer".  p. 37–38 in Davidson, A. G.; Prentice, R. M. (compilers and eds.). ''Important forest insects and diseases of mutual concern to Canada, the United States, and Mexico''. Canadian Department for Rural Development, Ottawa, Ontario, Pub. 1180.</ref> ''Armillaria'' root rot enters hosts through the roots. In Alberta, 75% of trap logs (Mallett and Hiratsuka 1985)<ref name="mall3">{{cite journal |last1=Mallett |first1=K. I. |last2=Hiratsuka |first2=Y. |year=1985 |title=The 'trap-log' method to survey the distribution of ''Armillaria mellea'' in forest soils |journal=Canadian Journal of Forest Research |volume=15 |issue=6 |pages=1191–1193 |doi=10.1139/x85-195}}</ref> inserted into the soil between planted spruce became infected with the distinctive white mycelium of ''Armillaria'' within one year. Of the infestations, 12% were ''A. ostoyae'', and 88% were ''A. sinapina'' (Blenis et al. 1995).<ref name="blen">Blenis, P.; Titus, S.; Mallet, K. 1995. "Impact of Armillaria root rot in intensively managed white spruce/asspen stands". Natural Resources Canada/Alberta Land and Forest Service, Edmonton, Alberta, Canada/Alberta Forest Resource Development Agreement (FRDA), Project A5023-129 Rep. 5 p.</ref> Reviews of the biology, diversity, pathology, and control of ''Armillaria'' in Fox (2000)<ref name="fox">Fox, R. T. V. (2000). "''Armillaria'' Root Rot: Biology and Control of Honey Fungus". ''Intercept'', Andover, Hants., England. 222 p.</ref> are useful.
+
+== Edibility ==
+Honey fungus are regarded in Ukraine, Russia, Poland, Germany and other European countries as one of the best wild mushrooms. They are commonly ranked above [[morel]]s and [[chanterelle]]s and only the [[boletus edulis|cep/porcini]] is more highly prized.{{Citation needed|date=March 2016}} However, honey fungus must be thoroughly cooked as they are mildly poisonous raw. Honey mushrooms are one of four UK species that can cause sickness when ingested with alcohol. For those unfamiliar with the species, it is advisable not to drink alcohol for 12 hours before and 24 hours after eating this mushroom to avoid any possible nausea and vomiting. However, if these rules are followed, this variety of mushroom is a delicacy with a distinctive mushroomy and nutty flavour.{{Citation needed|date=March 2016}} Reference texts for identification are ''Collins Complete British Mushrooms and Toadstools'' for the variety of field pictures in it, and Roger Philips' ''Mushrooms'' for the quality of his out of field pictures and descriptions.
+
+In Norway, some mycologists have started to regard honey fungus as poisonous, as the Norwegian health ministry is moving away from the [[parboiling]] practice.<ref>{{cite web|title=Giftige sopper|url=https://www.fhi.no/globalassets/dokumenterfiler/trykksaker/giftige-sopper---norsk-bokmal-2015.pdf|access-date=31 October 2018|pages=10|language=no}}</ref><ref>{{cite news|last1=Risberg|first1=Tor|title=– Ikke bruk gamle soppbøker! - NRK Livsstil - Tips, råd og innsikt|url=http://www.nrk.no/livsstil/_-ikke-bruk-gamle-soppboker_-1.11966546|access-date=4 July 2015|publisher=NRK|date=28 October 2014|language=no}}</ref>
+
+==See also==
+{{Portal|Fungi}}
+
+* [[List of Armillaria species|List of ''Armillaria'' species]]
+{{clear}}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+*{{cite web |title=''Armillaria'' (Fr.) Staude |work=Atlas of Living Australia |url=https://bie.ala.org.au/species/urn:lsid:indexfungorum.org:names:17098}}
+*[https://www.bioimages.org.uk/html/Armillaria.htm Images of ''Armillaria'' species]
+
+{{Taxonbar |from=Q952036}}
+{{Authority control}}
+
+[[Category:Armillaria| ]]
+[[Category:Fungal tree pathogens and diseases]]
+[[Category:Agaricales genera]]
+[[Category:Bioluminescent fungi]]

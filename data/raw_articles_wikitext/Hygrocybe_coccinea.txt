@@ -1,0 +1,57 @@
+{{Speciesbox
+| image = Hygrocybe coccinea (1).jpg
+| status = G4
+| status_system = TNC
+| status_ref = <ref name=NS>{{cite NatureServe |id=2.127665 |title=''Hygrocybe coccinea'' |access-date=1 May 2025}}</ref>
+| genus = Hygrocybe
+| species = coccinea
+| authority = ([[Jacob Christian Schaeffer|Schaeff.]]) [[Paul Kummer|P. Kumm.]]
+}}
+{{mycomorphbox
+| name = Hygrocybe coccinea
+| whichGills = adnate
+| capShape = convex
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = white
+| howEdible = edible
+| howEdible2 = caution
+}}
+
+'''''Hygrocybe coccinea''''', sometimes called the '''scarlet hood''', '''scarlet waxcap''' or '''righteous red waxy cap''', is a colourful fungus of the genus ''[[Hygrocybe]]'', forming a small red (but indistinct) mushroom.
+
+It is found across the [[Northern Hemisphere]], being a familiar sight in unimproved grasslands of Europe in late summer and autumn, and in woodlands of North America in winter. It is [[Edible mushroom|edible]] but of low interest.
+
+==Taxonomy==
+The scarlet hood was first described as ''Agaricus coccineus'' by German mycologist [[Jacob Christian Schäffer]] in 1774, before being transferred to the genus ''[[Hygrophorus]]'' by [[Elias Magnus Fries]] in 1838, and finally ''[[Hygrocybe]]'' by [[Paul Kummer]] in 1871. The [[specific name (botany)|specific epithet]] ''coccinea'' is [[Latin]] for "scarlet".
+
+==Description==
+A small waxcap with an initially bell-shaped, and later flattening, [[pileus (mycology)|cap]] {{Convert|2–5|cm|frac=4}} across, scarlet in colour and slimy in texture. The adnate gills are thick and widely spaced, yellow red in colour. The ringless [[stipe (mycology)|stipe]] is 2–5&nbsp;cm tall and {{Convert|0.3–1|cm|abbr=on|frac=8}} wide, red with a yellowish base. The [[trama (mycology)|flesh]] is yellowish-red and the smell and taste faint. The oval [[Basidiospore|spores]] measure 7–9.5 x 4–5 [[μm]] and produce a white [[spore print]].<ref name=Nilper77/><ref name=Phillips06>{{cite book | last = Phillips | first = Roger | year = 2006 | title = Mushrooms | page = 75 | publisher = Pan MacMillan|location=London | isbn = 978-0-330-44237-4}}</ref>
+
+===Similar species===
+It is fairly similar to some other members of its genus,<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=398}}</ref> including ''[[Hygrocybe marchii|H.&nbsp;marchii]]'' and ''[[Hygrocybe punicea|H.&nbsp;punicea]]''.<ref name="arora86"/>
+
+==Distribution and habitat==
+''Hygrocybe coccinea'' has a wide distribution in unimproved grasslands across Europe from August to October.<ref name=Nilper77>{{cite book | author = Nilson S & Persson O | year = 1977 | title = Fungi of Northern Europe 2: Gill-Fungi | publisher = Penguin|isbn=978-0-14-063006-0|page= 22}}</ref> In Britain, like all Hygrocybes, it has its best seasons in frost-free late autumn months, and in western North America it may be found under [[Coast Redwood|redwood]]s or in mixed woodland in winter.<ref name="arora86">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/114/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=114 |orig-date=1979}}</ref> It has been recorded growing under ''[[Rhododendron]]'' and oak (''[[Quercus]]'') in [[Sagarmatha National Park]] in [[Nepal]], and also occurs in [[India]], China and Japan.<ref>{{cite journal |author=Giri A, Rana P|date=June 2007|title=Some Higher Fungi from Sagarmatha National Park (SNP) and its adjoining areas, Nepal|journal=Scientific World |volume=5 |issue=5 |pages=67–74 |doi=10.3126/sw.v5i5.2659|doi-access=free}}</ref>
+
+Specimens initially identified as ''H.&nbsp;coccinea'' in [[Australia]] have been reclassified as ''[[Hygrocybe miniata|H.&nbsp;miniata]]'' or ''H.&nbsp;kandora''.<ref>{{cite book | author= Young, A.M. | year =2005 | title = Fungi of Australia: Hygrophoraceae | publisher = (Australian Biological Resources Study) CSIRO, Canberra, ACT | isbn = 978-0-643-09195-5|page= 148}}</ref>
+
+==Edibility==
+The species is [[edible mushroom|edible]],<ref name=Phillips06/> possibly even when raw,<ref name="tfb">{{Cite book |last=Francis-Baker |first=Tiffany |title=Concise Foraging Guide |date=2021 |publisher=[[Bloomsbury Publishing|Bloomsbury]] |isbn=978-1-4729-8474-6 |series=[[The Wildlife Trusts]] |location=London |pages=130}}</ref> but is of fairly little interest.<ref name="Miller2006">{{cite book|last=Miller Jr.|first=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=63}}</ref>
+
+==See also==
+*[[List of Hygrocybe species|List of ''Hygrocybe'' species]]
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q39528}}
+
+[[Category:Hygrocybe|coccinea]]
+[[Category:Edible fungi]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1774]]
+[[Category:Taxa named by Jacob Christian Schäffer]]
+[[Category:Fungus species]]

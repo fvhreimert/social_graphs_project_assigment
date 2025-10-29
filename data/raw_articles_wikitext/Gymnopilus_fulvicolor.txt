@@ -1,0 +1,49 @@
+{{Short description|Species of fungus}}
+{{more citations needed|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption =
+| taxon = Gymnopilus fulvicolor
+| authority = [[William Alphonso Murrill|Murrill]]
+| synonyms =
+}}
+{{mycomorphbox
+| name = Gymnopilus fulvicolor
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+
+'''''Gymnopilus fulvicolor''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]].
+
+==Description==
+The [[pileus (mycology)|cap]] is {{convert|5|cm|in|1}} in diameter.<ref name="isbn0-945345-39-9">{{cite book |author=Hesler LR. |title=North American Species of ''Gymnopilus'' (Mycologia Memoir Series: No 3) |publisher=Lubrecht & Cramer Ltd |location=Knoxville, Tennessee |year=1969 |page=43 |isbn=0-945345-39-9}}</ref>
+
+==Habitat and distribution==
+''Gymnopilus fulvicolor'' grows on leaf-mold, among sticks, under pine trees. In North America, it has been collected in Florida, in January.<ref name="isbn0-945345-39-9"/>
+
+==See also==
+{{Portal|Fungi}}
+[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*''[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=286781 Gymnopilus fulvicolor]'' at [[Index Fungorum]]
+
+{{Taxonbar|from=Q5624803}}
+
+{{DEFAULTSORT:Gymnopilus fulvicolor}}
+[[Category:Gymnopilus|fulvicolor]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by William Alphonso Murrill]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

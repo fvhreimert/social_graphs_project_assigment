@@ -1,0 +1,93 @@
+{{Short description|Genus of saprobic fungi}}
+{{Automatic taxobox
+| image = Galerina_marginata.jpg
+| image_caption = ''[[Galerina marginata]]''
+| taxon = Galerina
+| authority = [[Franklin Sumner Earle|Earle]] (1909)
+| subdivision_ranks = Subgenera
+| subdivision = ''Galerina''&nbsp;<small>[[Robert Kühner|Kühner]]</small><br />
+''Naucoriopsis''&nbsp;<small>Kühner</small><br />
+''Tubariopsis''&nbsp;<small>Kühner</small>
+| type_species = ''[[Galerina vittiformis]]''
+| type_species_authority = ([[Elias Magnus Fries|Fr.]]) [[Rolf Singer|Singer]] (1950)
+| synonyms_ref = <ref name="urlMycoBank: Galerina"/>
+| synonyms = 
+* ''Galerula'' <small>[[P.Karst.]] (1879)</small>
+* ''Pholidotopsis'' <small>Earle (1909)</small>
+* ''Velomycena'' <small>Pilát (1953)</small>
+}}
+
+'''''Galerina''''' is a [[genus]] of small brown-spore [[saprobic]] [[mushroom]]-bearing [[fungi]], with over 300 species found throughout the world from the far north to remote [[Macquarie Island]] in the [[Southern Ocean]].<ref name="Gulden">{{cite journal |vauthors=Gulden GØ, Stensrud K, Shalchian-Tabrizi K, Kauserud H |year=2005 |url=http://biologi.uio.no/meb/Articles/Gulden_etal_2005.pdf|title=''Galerina'' Earle: A polyphyletic genus in the consortium of dark-spored agarics |journal=Mycologia |volume=97 |issue=4 |pages=823–837|doi=10.3852/mycologia.97.4.823 | pmid=16457352}}</ref><ref name = "wood01">{{cite journal | author=Wood AE | year =2001 | title =Studies in the genus ''Galerina'' (Agaricales) in Australia | journal =Australian Systematic Botany | volume =14 | issue =4 | pages =615–676 | doi =10.1071/SB99016}}</ref> The genus is most noted for some extremely poisonous species which are occasionally confused with hallucinogenic species of ''[[Psilocybe]]''. ''Galerina'' mushrooms are typically small and [[hygrophanous]], with a slender and brittle [[stipe (mycology)|stem]]. They are often found growing on wood, and when on the ground have a preference for mossy habitats.
+
+''Galerina'' means ''helmet-like''.<ref>[https://books.google.com/books?id=5HGMPEiy4ykC&pg=PA34 Mushrooms of West Virginia and the Central Appalachians] by William C. Roody</ref> {{specify|date=May 2025}}
+
+==Taxonomic definition==
+The genus ''Galerina'' is defined as small mushrooms of [[wikt:mycenoid|mycenoid]] stature, that is, roughly similar in form to ''[[Mycena]]'' species: a small conical to bell-shaped [[pileus (mycology)|cap]], and [[lamella (mycology)|gills]] attached to a long and slender cartilaginous [[stipe (mycology)|stem]].  Species have a [[pileipellis]] that is a cutis, and ornamented spores that are brown in deposit, where the spore ornamentation comes from an extra spore covering.
+
+==Description==
+'' at Marriott Falls Track, Tasmania, Australia]]
+''Galerina'' [[fruiting body|fruiting bodies]] are typically small, undistinguished mushrooms with a typical "[[Mushroom hunting#Little brown mushrooms|little brown mushroom]]" morphology and a yellow-brown, light brown to cinnamon-brown [[spore print]]. The [[pileus (mycology)|pileus]] is typically [[Glossary of botanical terms#glabrous|glabrous]] and often [[hygrophanous]], and a [[Partial veil|cortina]]-type veil is present in young specimens of roughly half of recognized species, though it sometimes disappears as the mushroom ages in many of these species.{{Citation needed|date=July 2024}} Microscopically, they are highly variable as well, though most species have [[spores]] that are ornamented, lack a germ pore, and have a [[plage (mycology)|plage]]. Many species also have characteristic [[wiktionary:tibiiform|tibiiform]] [[cystidia]]. However, there are many exceptions, and many species of ''Galerina'' lack one or more of these microscopic characteristics. Ecologically, all ''Galerina'' are [[saprobic]], growing in habitats like rotting wood or in moss.<ref name="Gulden"/>
+
+The spores of ''Galerina'' feature an ornamentation that comes from the outer layer of the spore breaking up on maturity to produce either warts, wrinkles or "ears", flaps of material loosened from where the spore was attached to the [[basidia]].  This outer layer of the spore often is not complete, but has a clear patch in many species just above the attachment, this clear patch is called a [[plage (mycology)|plage]].  This plage is not evident in all species, and the spore covering does not always breakup in all species, making it sometimes difficult to correctly determine a mushroom of this genus.
+
+The specific features that define the genus require a microscope to confirm.  In the wild it can be difficult to determine a ''Galerina'' from a number of similar genera, such as ''[[Pholiota]]'', ''[[Tubaria]]'', ''[[Conocybe]]'', ''[[Pholiotina]]'', ''[[Agrocybe]]'', ''[[Gymnopilus]]'', ''[[Phaeogalera]]'' and ''[[Psilocybe]]''.  For the most part, Galerinas will be found associated with [[moss]], and this can separate out the genus in nature fairly well.  But this identification is more difficult in the section Naucoriopsis, which does not associate with moss, and is a decomposer of wood.
+
+''[[Phaeogalera]]'' is a genus that was segregated from ''Galerina'' by [[Robert Kühner]].<ref name="Kuhner"/>
+
+==Phylogenetics==
+The genus ''Galerina'' has recently been found to be [[Polyphyly|polyphyletic]],<ref name="Gulden"/> consisting of at least three unrelated [[clades]], although not all species were studied and for most currently recognized species is uncertain still in which they belong.  Each of these clades corresponds to a subgenus of ''Galerina'', as outlined by Kühner.<ref name="Kuhner">{{cite journal |author=Kühner R. |year=1972|title=Agaricales de la zone alpine: Genres ''Galera'' Earle et ''Phaeogalera'' gen. nov |journal=Bulletin Trimestriel de la Société Mycologique de France |volume=88 |pages=41–153}}</ref> The great diversity of [[wikt:micromorphology|micromorphology]] found in ''Galerina'' is probably due to the polyphyly of the genus.
+
+===Selected species===
+{{Main|List of Galerina species}}
+''[[Galerina vittiformis]]'' is the [[type species]] of the genus ''Galerina''.  This species is common{{Where|date=July 2011}} in beds of damp moss (along with many other species of ''Galerina'').  There are a number of variations of this species that have been named over the years:  var. ''vittiformis f. vittiformis'' is a 2-spored species; var. ''vittiformis f. tetrasporis'' is a 4-spored form; var. ''pachyspora'' has been collected on [[Macquarie Island]].<ref name = "wood01"/>
+
+''[[Galerina patagonica]]'' has a [[Gondwanan distribution]].<ref name="Laursen 2005">{{cite journal |vauthors=Laursen GA, Horak E, Taylor DL |title=''Galerina patagonica'' Singer from Gondwanian mainland AU and NZ, their subantarctic islands, and Patagonia |journal=Proceedings of the Annual Meeting of the Mycological Society of Japan |year=2005 |volume=49 |page=149}}</ref>  ''[[Galerina hypnorum]]'' is a widespread species.
+
+''[[Galerina graminea]]'' can survive in [[moss]]-free [[Poaceae|grass]], unlike many ''Galerina'' mushrooms. It was known for many years as 'Galerina laevis', proposed by [[Christiaan Hendrik Persoon]].
+
+Several ''Galerina'' species are listed by the [[US Forest Service]] as "species of special concern" in the [[Northwest Forest Plan]].<ref name="Castellano">{{cite book |vauthors=Castellano MA, Cázares E, Fondrick B, Dreisbach T |year=2003 |title=Handbook to additional fungal species of special concern in the Northwest Forest Plan (General Technical Report PNW-GTR-572) |url=http://www.fs.fed.us/pnw/pubs/gtr572/gtr572.pdf |publisher=Portland, OR: USDA, Forest Service, Pacific Northwest Research Station |chapter=Part 1 |page=144 p}} (Hereafter referred to as "Castellano, ''et al.'' 2003.")</ref> These species are considered [[indicator species]] for [[old growth]] [[coniferous forest]] in the [[Pacific Northwest]]: ''Galerina atkinsonia'',<ref>Castellano, ''et al.'' 2003. [http://www.fs.fed.us/pnw/pubs/gtr572/partb3.pdf Part 4].</ref> ''Galerina cerina'',<ref name="Castellano4">Castellano, ''et al.'' 2003. [http://www.fs.fed.us/pnw/pubs/gtr572/partb4.pdf Part 5].</ref> ''Galerina heterocystis'',<ref name="Castellano4"/> ''Galerina sphagnicola'',<ref name="Castellano4"/> and ''[[Galerina vittiformis]]''.<ref>Castellano, ''et al.'' 2003. [http://www.fs.fed.us/pnw/pubs/gtr572/partb5.pdf Part 6].</ref>
+
+==Toxicity of some species==
+Many (though not all) ''Galerina'' contain [[alpha-amanitin]] and other [[amatoxins]].<ref>{{cite journal|vauthors=Enjalbert F, Cassanas G, Rapior S, Renault C, Chaumont JP |year=2004 |url=http://www.cefe.cnrs.fr/subnamed/pdf/rapior/Rapior2004Mycologia.pdf |title=Amatoxins in wood-rotting ''Galerina marginata'' |journal=Mycologia |volume=96 |pages=720–729 |doi=10.2307/3762106 |issue=4 |jstor=3762106 |pmid=21148893 |url-status=dead |archive-url=https://web.archive.org/web/20110718164412/http://www.cefe.cnrs.fr/subnamed/pdf/rapior/Rapior2004Mycologia.pdf |archive-date=2011-07-18 }}</ref>
+
+''[[Galerina marginata]]'' (also known as "autumn skullcap", "deadly galerina", etc.) is a poisonous species<ref>{{cite journal |vauthors=Enjalbert F, Cassanas G, Rapior S, Renault C, Chaumont JP|year=2004 |title=Amatoxins in wood-rotting Galerina marginata |journal=[[Mycologia]] |volume=96 |issue=4 |pages=720&ndash;729 |doi=10.2307/3762106 |pmid=21148893|jstor=3762106 }}</ref> found throughout the temperate regions of the world, in habitats as diverse as forests and urban parklands, wherever rotting wood is found. In 2001, DNA studies found that ''Galerina autumnalis'' and five other species of ''Galerina'' with similar morphologies were, in fact, synonyms of ''Galerina marginata''.<ref>{{cite journal |vauthors=Gulden G, Dunham S, Stockman J |year=2001 |title=DNA studies in the ''Galerina marginata'' complex |journal=Mycological Research |volume=105 |pages=432–440 |url=http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=75407&fulltextType=RA&fileId=S0953756201003707 | doi=10.1017/S0953756201003707 |issue=4|url-access=subscription }}</ref>
+
+''[[Galerina sulciceps]]'', is a lethal species found in [[Indonesia]] and responsible for deaths there.{{citation needed|date=May 2025}} One study found it more toxic than ''[[Amanita phalloides]]''.<ref name='klan'>{{cite journal|author= Klán J. |title=Prehled hub obsahujících amanitiny a faloidiny [A review of mushrooms containing amanitins and phalloidines]|journal=Časopis Lékařů Českých|date=1993|volume=132|issue=15|pages=449–451}}</ref>
+
+''[[Galerina steglichii]]'' is very rare, bruises blue and contains the hallucinogen [[psilocybin]].<ref>{{cite journal |author=Gartz J. |year=1995 |url=http://leda.lycaeum.org/?ID=10423 |title=Cultivation and analysis of ''Psilocybe'' species and an investigation of ''Galerina steglichi'' |journal=Annali Museo Civico di Rovereto |volume=10 |pages=297–306 |access-date=2007-01-10 |archive-url=https://web.archive.org/web/20130726074127/http://leda.lycaeum.org/?ID=10423 |archive-date=2013-07-26 |url-status=dead }}</ref><ref>{{cite journal |author=Besl H. |year= 1993 |title=''Galerina steglichii'' spec. nov, ein halluzinogener Haeubling |journal=Zeitschrift für Mykologie |volume=59 |pages=215–218}}</ref>
+
+==Identification==
+The extreme toxicity of some ''Galerina'' species means that recognition of ''Galerina'' is of great importance to [[mushroom hunters]] who are seeking hallucinogenic ''Psilocybe'' mushrooms.  Species like ''Galerina marginata'' may bear a superficial resemblance to ''[[Psilocybe cyanescens]]'' and other ''Psilocybe'' species, and has often been found growing amongst and around ''Psilocybe cyanescens'' and other ''Psilocybe'' species, making identification all the more confusing to the uninitiated. ''Galerina'' can be distinguished from psilocybin ''Psilocybe'' by the following characteristics:
+
+*[[Spore print]] color: blackish-brown to lilac-brown in ''Psilocybe'', light brown to rusty brown in ''Galerina''. Spore color can be seen by taking a spore print or by looking for evidence of spore drop on the stipe or on surrounding mushrooms.
+*Staining reaction: Psilocybin ''Psilocybe'' [[fruiting bodies]] stain blue to varying degrees when bruised, while ''Galerina'' do not. The strength of this reaction varies with the amount of [[psilocin]] present in the tissues of the mushroom.<ref name=Stamets1996>{{cite book |author=Stamets P. |title=Psilocybin Mushrooms of the World: An Identification Guide |publisher=Ten Speed Press |location=Berkeley, California |year=1996 |page=53 |isbn=978-0-89815-839-7 }}</ref> Fruiting bodies with little psilocin (such as ''[[Psilocybe semilanceata]]'', with high psilocybin and low psilocin content) will stain weakly if at all, while sporocarps with a high psilocin content will stain strongly blue. Only one rare ''Galerina'' has blue-staining tissue, though in some cases the flesh will blacken when handled, and this may be misinterpreted as a bluing reaction.<ref>{{cite web |author=Kuo M. |year=2004 |title=''Galerina marginata'' ("''Galerina autumnalis''") | publisher= MushroomExpert.com|url=http://www.mushroomexpert.com/galerina_marginata.html}}</ref>
+
+Although these rules are specific to the separation of ''Galerina'' from certain ''Psilocybe'', since mixed patches of ''Psilocybe'' and ''Galerina'' can occur, it is essential to be sure of the identity of each sporocarp collected.
+
+''Galerina'' also present some risk of confusion with several species of small edible mushrooms, notably ''[[Kuehneromyces mutabilis]]''<ref name=Enjalbert2004>{{cite journal |vauthors=Enjalbert F, Cassacas G, Rapior S, Renault C, Chaumont JP |year=2004 |title=Amatoxins in wood-rotting ''Galerina marginata'' |journal=Mycologia |volume=96 |issue=4 |pages=720–9 |url=http://www.mycologia.org/cgi/content/full/96/4/720 |doi=10.2307/3762106 |jstor=3762106 |pmid=21148893|url-access=subscription }}</ref> and [[candy caps]] (''L. camphoratus'' and allies).<ref>{{cite journal|title=The candy cap complex|journal=[[Mycena News]]|date=2004|author=Campbell D.|volume=55|issue=3|pages=3–4|url=http://www.mssf.org/mycena-news/pdf/0403mn.pdf|access-date=2015-06-07 }} (scroll down)</ref><ref>{{cite web|url=http://www.mushroomexpert.com/lactarius_camphoratus.html |title=Lactarius camphoratus |access-date=2009-02-16 |author=Kuo M. |date=2007 |work=MushroomExpert.com }}</ref>
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="urlMycoBank: Galerina">{{cite web |title=''Galerina'' Earle 1909 |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=17631 |publisher=[[MycoBank]]. International Mycological Association |access-date=2011-12-24}}</ref>
+
+}}
+
+==Further reading==
+* {{cite journal | last1 = Gulden | first1 = G. |name-list-style=vanc | year = 1980 | title = Alpine Galerinas (Basidiomycetes, Agaricales) with special reference to their occurrence in South Norway at Finse on Hardangervidda | journal = Norwegian Journal of Botany | volume = 27 | pages = 219–253 }}
+* {{cite journal | last1 = Gulden | first1 = G | last2 = Hallgrímsson | first2 = H. |name-list-style=vanc | year = 2000 | title = The genera ''Galerina'' and ''Phaeogalera'' (Basidiomycetes, Agaricales) in Iceland | journal = [[Acta Botanica Islandica]] | volume = 13 | pages = 3–54 }}
+* {{cite journal | doi = 10.1111/j.1756-1051.1999.tb00679.x | last1 = Gulden | first1 = G | last2 = Vesterholt | first2 = J. |name-list-style=vanc | year = 1999 | title = The genera ''Galerina'' Earle and ''Phaeogalera'' Kuhner in the Faroe Islands | url = http://biologi.uio.no/bot/ascomycetes/Abstracts/GroPublic.html#G&V99NJB | journal = Nordic Journal of Botany | volume = 19 | issue = 6| pages = 685–706 | url-access = subscription }}
+* Smith AH, Singer R. (1964). [http://www.hti.umich.edu:80/cgi/t/text/text-idx?c=fung1tc;cc=fung1tc;view=toc;idno=AGK0805.0001.001 ''A monograph of the genus'' Galerina ''Earle'']. New York: Hafner Publishing Co. 384 p. (Full text available through link)
+
+==External links==
+*[http://botit.botany.wisc.edu/toms_fungi/may2003.html Fungus of the Month for May 2003: ''Galerina autumnalis''] by Tom Volk, ''TomVolkFungi.net''
+*[https://web.archive.org/web/20060514165946/http://www.uio.no/conferences/imc7/NFotm2001/May2001.htm Norwegian Fungus of the Month May 2001: ''Galerina pseudomycenopsis'' Pilát] (Archived at the [[Internet Archive]], 2006-05-14.)
+*[http://www.mykoweb.com/CAF/species/Galerina_autumnalis.html ''Galerina autumnalis''] MykoWeb.com
+*[http://biologi.uio.no/bot/ascomycetes/galerina.html ''Galerina'' images], ''MycoSite'', University of Oslo, Norway
+
+{{Taxonbar|from=Q948914}}
+{{Authority control}}
+
+[[Category:Poisonous fungi]]
+[[Category:Deadly fungi]]
+[[Category:Hymenogastraceae]]

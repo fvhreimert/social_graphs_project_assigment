@@ -1,0 +1,23 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Lepista irina 41650.jpg
+| genus = Lepista
+| species = irina
+| authority = (Fr.) H.E.Bigelow
+| synonyms = *''Clitocybe irina'' <small>(Fr.) H.&nbsp;E. Bigelow & A.&nbsp;H. Sm.</small><ref name="Miller 2006">{{cite book|last=Miller Jr.|first=Orson K.|author-link=Orson K. Miller Jr.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=186}}</ref>
+*''Tricholoma irinus'' <small>(Fr.) P.&nbsp;Kumm</small><ref name="Miller 2006"/>
+*''Rhodopaxillus irinus'' <small>(Fr.) Métrod</small><ref name="Miller 2006"/>
+}}
+
+'''''Lepista irina''''' is a species of [[fungus]] belonging to the family [[Tricholomataceae]].<ref name="GBIF">{{cite web |title=Lepista irina (Fr.) H.E.Bigelow |url=https://www.gbif.org/species/5242058 |website=www.gbif.org |access-date=7 February 2021 |language=en}}</ref> It is a choice [[edible mushroom]].<ref name="Miller 2006" />
+
+It has [[cosmopolitan distribution]].<ref name="GBIF" />
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q1634310}}
+
+[[Category:Lepista|irina]]
+[[Category:Edible fungi]]
+[[Category:Fungus species]]

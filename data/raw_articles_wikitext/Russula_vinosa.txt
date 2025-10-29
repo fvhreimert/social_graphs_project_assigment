@@ -1,0 +1,53 @@
+{{short description|Species of fungus}}
+{{Speciesbox
+| image = Russula vinosa.jpg
+| genus = Russula
+| species = vinosa
+| authority  = Lindblad (1901)
+| synonyms = * ''Russula obscura'' <small>(Romel, 1906)</small>
+}}
+{{Mycomorphbox
+| name = ''Russula vinosa''
+| hymeniumType = gills
+| capShape = convex
+| capShape2 = depressed
+| whichGills = free
+| whichGills2 = adnexed
+| stipeCharacter = bare
+| sporePrintColor =
+| sporePrintColor2 =
+| ecologicalType = mycorrhizal
+| howEdible = edible
+}}
+
+'''''Russula vinosa''''', commonly known as the '''darkening brittlegill''', is a species of [[Basidiomycota|basidiomycete]] [[mushroom]] found in [[coniferous forest|coniferous woodlands]] in Europe and North America in summer and early autumn. Unlike many red-capped members of the russula genus, it is [[edible mushroom|edible]] and mild-tasting. It is usually understood to have a [[Ectomycorrhiza|symbiotic]] relationship with evergreen tree roots, except for in mountainous areas where it has occasionally associated with [[birch]]es.<ref>{{cite web | url=http://iucn.ekoo.se/iucn/species_view/356695/ | title=Russula vinosa | website=iucn.ekoo.se | access-date=2022-08-29 | archive-date=2022-08-29 | archive-url=https://web.archive.org/web/20220829214905/http://iucn.ekoo.se/iucn/species_view/356695/ | url-status=live }}</ref>
+
+== Taxonomy ==
+''Russula vinosa'' was originally described in the Swedish guide ''Svampbok'', ({{literally|Mushroom Book}}), written by {{ill|Matts Adolf Lindblad|lt=M. A. Lindblad|qid=Q16383290|short=yes}} for publication in 1901.<ref>{{cite book |last=Lindblad |first=Matts Adolf |title=Svampbok |date=1901 |publisher=Iduns Kungliga Hofboktryckeri |location=Stockholm |page=166 |language=sv |trans-title=Mushroom Book}}</ref> Romel who came up with the synonymous '''''Russula obscura''''' was an editor for the 1913 release of the text. The [[specific name (botany)|specific epithet]] "vinosa" is derived from the [[Latin]] ''vinum'' "wine", likely alluding to the wine-colored cap of this species that is capable of acting as a dye.
+
+== Description ==
+The [[pileus (mycology)|cap]] is concave and wine to red-brown in colour, often fading to a pale white or tan in the center with age. The widely spaced [[Lamella (mycology)|gills]] are white, and adnexed or free. The [[stipe (mycology)|stipe]] is cylindrical and white or cream colored. The brittle [[trama (mycology)|flesh]] is light and the taste is mild.
+
+==Similar species==
+The red-capped color of ''Russula vinosa'' is almost impossible to visually separate from other toxic and inedible red-capped Russulas, such as the bloody brittlegill (''[[Russula sanguinaria|R.&nbsp;sanguinaria]]''), the sickener (''[[Russula emetica|R.&nbsp;emetica]]''), and the beechwood sickener (''[[Russula nobilis|R.&nbsp;nobilis]]''). It may also be confused with similar edible species such as ''[[Russula paludosa]]'' and ''[[Russula decolorans]]''. It is therefore important to identify the mushroom with absolute certainty before consumption.  Chinese and Southeast Asian populations of ''R. vinosa'' have been determined to be genetically distinct enough from ''R. vinosa'' to be placed in a separate, but anatomically identical species, ''R. griseocarnosa''.<ref name="wang">{{cite journal |last1=Wang |first1=XiangHua |display-authors=et al. |title="Russula griseocarnosa sp. nov.(Russulaceae, Russulales), a commercially important edible mushroom in tropical China: mycorrhiza, phylogenetic position, and taxonomy." |journal=Nova Hedwigia |date=2009 |volume=88 |issue=1/2 |pages=269–282 |doi=10.1127/0029-5035/2009/0088-0269 |url=https://www.schweizerbart.de/papers/nova_hedwigia/detail/88/69457/Russula_griseocarnosa_sp_nov_Russulaceae_Russulales_a_commercially_important_edible_mushroom_in_tropical_China_mycorrhiza_phylogenetic_position_and_taxonomy |access-date=2023-08-04 |archive-date=2023-08-04 |archive-url=https://web.archive.org/web/20230804210727/https://www.schweizerbart.de/papers/nova_hedwigia/detail/88/69457/Russula_griseocarnosa_sp_nov_Russulaceae_Russulales_a_commercially_important_edible_mushroom_in_tropical_China_mycorrhiza_phylogenetic_position_and_taxonomy |url-status=live |url-access=subscription }}</ref>
+
+== Distribution and habitat ==
+''Russula vinosa'' is found in Europe and North America. It is known from [[Great Britain]], Southern Europe, [[New England]], and [[Fennoscandia]].<ref>{{cite web | url=https://uk.inaturalist.org/taxa/194422-Russula-vinosa | title=Darkening Brittlegill (Russula vinosa) | website=inaturalist.org | access-date=2022-08-29 | archive-date=2022-08-29 | archive-url=https://web.archive.org/web/20220829214912/https://uk.inaturalist.org/taxa/194422-Russula-vinosa | url-status=live }}</ref><ref>{{cite web | url=https://www.gbif.org/species/2551183 | title=Russula obscura (Romell) Peck | access-date=2022-08-29 | archive-date=2022-08-29 | archive-url=https://web.archive.org/web/20220829214914/https://www.gbif.org/species/2551183 | url-status=live }}</ref><ref>{{Cite web|url=https://www.iucnredlist.org/species/122090750/122091078|title=Darkening Brittlegill|website=IUCN Red List of Threatened Species|access-date=2022-08-29|archive-date=2021-06-15|archive-url=https://web.archive.org/web/20210615141010/https://www.iucnredlist.org/species/122090750/122091078|url-status=live}}</ref> It usually occurs in [[coniferous]] tree stands in summer and early autumn.
+
+== Edibility ==
+Unlike many other red-capped members of the genus, ''Russula vinosa'' is mild-tasting and [[edible mushroom|edible]].<ref>{{cite web | url=http://svampguiden.com/art/visa/russula_obscura | website=svampguiden.com | title=Vinkremla – Russula vinosa | access-date=2022-08-29 | archive-date=2022-08-29 | archive-url=https://web.archive.org/web/20220829214905/http://svampguiden.com/art/visa/russula_obscura | url-status=live }}</ref><ref>{{cite web | url=https://laji.fi/sv/taxon/MX.72510 | title=Vinkremla - Russula vinosa &#124; Översikt &#124; Finlands Artdatacenter | website=laji.fi | access-date=2022-08-29 | archive-date=2022-08-29 | archive-url=https://web.archive.org/web/20220829214903/https://laji.fi/sv/taxon/MX.72510 | url-status=live }}</ref> In Sweden where its edibility is noted, it is known as "Vinkremla" alluding to its wine color.<ref>{{cite web | url=https://www.ruokavirasto.fi/sv/privatkunder/information-om-livsmedel/livsmedelskategorier/matsvampar/matsvampar-som-kan-rekommenderas/storkremla | title=Storkremla | website=ruokavirasto.fi | access-date=2022-08-29 | archive-date=2022-08-29 | archive-url=https://web.archive.org/web/20220829214913/https://www.ruokavirasto.fi/sv/privatkunder/information-om-livsmedel/livsmedelskategorier/matsvampar/matsvampar-som-kan-rekommenderas/storkremla | url-status=live }}</ref>
+
+== See also ==
+*[[List of Russula species|List of ''Russula'' species]]
+
+== References ==
+{{Reflist}}
+
+{{Taxonbar|from=Q113988}}
+
+[[Category:Russula|vinosa]]
+[[Category:Fungi described in 1901]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Edible fungi]]
+[[Category:Fungus species]]

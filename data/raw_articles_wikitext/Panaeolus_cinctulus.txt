@@ -1,0 +1,126 @@
+{{Stack|{{Speciesbox
+| image = Panaeolus.subbalteatus.3.jpg
+| taxon = Panaeolus cinctulus
+| authority = ([[James Bolton|Bolton]]) [[Pier Andrea Saccardo|Saccardo]] (1887)
+| synonyms_ref = <ref name="urlMycoBank:Panaeolus cinctulus"/><ref name=Gerhardt/>
+| synonyms = ''Agaricus cinctulus'' <small>Bolton (1791)</small><br />
+''Coprinus cinctulus'' <small>(Bolton) [[Samuel Frederick Gray|Gray]] (1821)</small><br />
+''Agaricus fimicola'' var. ''cinctulus'' <small>(Bolton) Cooke (1883)</small><br />
+''Panaeolus fimicola'' var. ''cinctulus'' <small>(Bolton) [[Carleton Rea|Rea]] (1922)</small><br />
+''Agaricus subbalteatus'' <small>Berk. & Broome (1861)</small><br />
+''Panaeolus subbalteatus'' <small>(Berk. & Broome) Sacc. (1887)</small><br />
+''Panaeolus alveolatus'' <small>Peck (1902)</small><br />
+''Panaeolus acidus'' <small>Sumstine (1905) </small><br />
+''Campanularius semiglobatus'' <small>Murrill (1911)</small><br />
+''Panaeolus semiglobatus'' <small>(Murrill) Sacc. & Trottcr (1925)</small><br />
+''Panaeolus rufus'' <small>Overh. (1916)</small><br />
+''Panaeolus variabilis'' <small>Overh. (1916)</small><br />
+''Panaeolus venenosus'' <small>Murrill (1916)</small><br />
+''Psilocybe vernalis'' <small>Velen. (1921)</small><br />
+''Campanularius pumilus'' <small>Murrill (1942)</small><br />
+''Panaeolus pumilus'' <small>(Murrill) Murrill (1942)</small><br />
+''Panaeolus dunensis'' <small> Bon & Courtec</small> (1983)
+| range_map = Panaeolus-subbalteatus-range-map.png
+| range_map_caption = Approximate '''''Panaeolus cinctulus''''' range}}
+{{Mycomorphbox
+| name = ''Panaeolus cinctulus''
+| whichGills = adnate
+| whichGills2 = adnexed
+| capShape = campanulate
+| capShape2 = convex
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=saprotrophic
+| sporePrintColor=black
+| howEdible=psychoactive}}
+}}
+
+'''''Panaeolus cinctulus''''', syn. '''''P.&nbsp;subbalteatus''''', commonly known as the '''belted panaeolus''',<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/358/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=358–59 |orig-date=1979}}</ref> '''banded mottlegill''', or {{not a typo|'''subbs'''}}, is a very common, widely distributed [[psilocybin mushroom]].
+
+== Etymology ==
+The descriptor ''subbalteatus'' comes from the [[Latin]] words ''sub'' ('somewhat') and ''balteat'' ('girdled'), a reference to the dark outer band of the cap.<ref name=":0">{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=201–202}}</ref>
+
+== Description ==
+The cap is {{convert|1.5–6|cm|frac=2}} wide,<ref name="Arora1986" /> hemispherical to convex when young to broadly [[umbonate]] or plane in age,<ref name=":0" /> smooth, [[hygrophanous]], striking cinnamon-brown when moist, soot-black when wet which disappears as the mushroom completely dries out. The outer band is usually darker.<ref name=":0" /> The flesh is thin and brownish.<ref name="Arora1986" />
+
+The [[Lamella (mycology)|gills]] are close, [[Adnate gills|adnate]] to [[adnexed]], cream-colored when young, later mottled dingy brown then to soot-black.<ref name="Arora1986" /> The gill edges are white and slightly fringed, but turn blackish when fully mature.<ref>{{cite web |url=http://www.shroomery.org/9473/Panaeolus-cinctulus |title=Panaeolus Cinctulus |publisher=Shroomery |access-date=February 12, 2014 |archive-date=February 22, 2014 |archive-url=https://web.archive.org/web/20140222155514/http://www.shroomery.org/9473/Panaeolus-cinctulus |url-status=dead }}</ref> The [[spore print]] is black.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=612}}</ref>
+
+The [[Stipe (mycology)|stipe]] is 4–10&nbsp;cm long, 1–10&nbsp;mm thick, equal or tapered at the ends, reddish brown or covered by whitish powder, hollow,<ref name="Arora1986" /> no veil remnants, longitudinally white-fibrillose, striate at the apex or twisting vertically down the entire length of the stipe. The stem base and [[mycelium]] occasionally stain blue.<ref name="Arora1986" />
+
+The taste is farinaceous (like flour) when fresh, saliferous (salty) when dried. The odor is slightly farinaceous.
+
+=== Microscopic features ===
+The spores are 11–16 x 7.5–10 x 6–9&nbsp;[[μm]], smooth, elliptical to rhomboid in face view, thick-walled, elliptical in side view.
+
+=== Similar species ===
+Morphologically, ''P. cinctulus'' can be easily confused with other species of [[psilocybin mushroom]]s.<ref name="Arora1986" /> They have a resemblance to ''[[Panaeolus fimicola|P.&nbsp;fimicola]]'' and prefer the same habitats, but the latter species has sulphidia on the gill faces.
+
+It can also resemble ''[[Panaeolus foenisecii|P.&nbsp;foenisecii]]'' and ''[[Panaeolus olivaceus|P.&nbsp;olivaceus]]''.<ref name="audu" />
+
+==Habitat and formation==
+
+''Panaeolus cinctulus'' is a [[cosmopolitan species]] that grows solitary to gregarious to cespitose (densely clumped) on [[compost]] piles, well-fertilized lawns and gardens, and, rarely, directly on horse dung.<ref name=Stamets1996>{{cite book | first=Paul | last=Stamets | year=1996 | title=Psilocybin Mushrooms of the World | publisher=Ten Speed Press | location=Berkeley | isbn=0-9610798-0-0}} p. 82.</ref> It grows from spring to fall, abundantly after rain.  It can be found in many regions, including: Africa<ref name="worldwide"/> ([[South Africa]]),<ref name="worldwide"/> [[Austria]],<ref name="worldwide"/><ref name="gbif">[http://data.gbif.org/species/14389472] Panaeolus Specimens in Various Countries (data.gbif.org)</ref> [[Canada]] ([[Alberta]], [[British Columbia]], [[New Brunswick]], [[Prince Edward Island]], [[Ontario]], [[Quebec]], [[Nova Scotia]]),<ref name="worldwide">{{Cite journal |author=[[Gastón Guzmán]], John W. Allen, Jochen Gartz |date=1998|title=A worldwide geographical distribution of the neurotropic fungi, an analysis and discussion|url=http://www.museocivico.rovereto.tn.it/UploadDocs/104_art09-Guzman%20&%20C.pdf|journal=Annali del Museo Civico di Rovereto|issue=14|pages=189–280}} (on Fondazione Museo Civico di Rovereto)</ref> [[Denmark]],<ref name="gbif"/> [[Finland]],<ref name="observer">[https://mushroomobserver.org/observer/observation_search?pattern=Panaeolus+cinctulus ''Panaeolus cinctulus'' Mushroom Observer (mushroomobserver.org)]</ref> [[France]],<ref name="worldwide"/> [[Germany]],<ref name="worldwide"/><ref name="gbif"/> [[Great Britain]],<ref name="worldwide"/> [[Guadeloupe]],<ref name="gbif"/> [[Estonia]],<ref name="worldwide"/> [[Iceland]],<ref name="worldwide"/> [[India]],<ref name="worldwide"/> [[Ireland]],<ref name="worldwide"/> [[Italy]],<ref name="worldwide"/> [[South Korea]],<ref name="worldwide"/> [[Japan]],<ref name="worldwide"/> [[Mexico]],<ref name="observer"/> [[New Guinea]],<ref name="worldwide"/> [[New Zealand]],<ref name="worldwide"/> [[Norway]],<ref name="gbif"/> [[Philippines]],<ref name="worldwide"/> [[Russia]],<ref name="worldwide"/> [[Romania]] ,<ref name="worldwide"/>
+[[Slovenia]],<ref name="gbif"/> [[South America]] ([[Argentina]], [[Chile]], [[Brazil]])<ref name="worldwide"/> and the United States (common in [[Oregon]], [[Alaska]], [[Washington (state)|Washington]], and both northern and southern [[California]], but known to occur in all 50 states).{{Citation needed|date=March 2025}}
+
+According to American mycologist [[David Arora]], ''P.&nbsp;cinctulus'' is the most common psilocybin mushroom in [[California]].<ref name=Arora1986/>
+
+It has also been sighted in [[Melbourne]], [[Australia]], [[Central Queensland]], [[Australia]] [[Belgium]] and the [[Czech Republic]].{{Citation needed|date=March 2025}}
+
+==Legality==
+{{Main|Legal status of psilocybin mushrooms}}
+The legal status of psilocybin mushrooms varies worldwide. Psilocybin and psilocin are listed as [[Class A drugs|Class&nbsp;A]] (United Kingdom) or [[Controlled Substances Act#Schedule I controlled substances|Schedule&nbsp;I]] (US) drugs under the [[United Nations]] 1971 [[Convention on Psychotropic Substances]].<ref name=INCB/> The possession and use of psilocybin mushrooms, including ''P.&nbsp;cinctulus'', is therefore prohibited by extension. However, in many national, state, and provincial drug laws, there is a great deal of ambiguity about the legal status of psilocybin mushrooms and the spores of these mushrooms. ''Panaeolus cinctulus'' is mildly psychoactive.<ref name=":0" />
+
+==In culture==
+During the early 1900s, these species were referred to as the "weed Panaeolus" because they were commonly found in beds of the commercially grown, grocery-store mushroom ''[[Agaricus bisporus]]''. Mushroom farmers had to weed it out from the edible mushrooms because of the psilocybin content.<ref>[[Rolf Singer|Singer]] and Smith (1958).</ref>
+
+==Gallery==
+{|
+|<gallery heights="150px" mode="packed">
+File:Panaeolus cinctulus on dung.jpg| ''Panaeolus cinctulus''
+File:Panaeolus.subbalteatus.angryshroom.jpg|''Panaeolus cinctulus''
+File:Panaeolus.subbalteatus.1.jpg|''Panaeolus cinctulus''
+File:Panaeolus.subbalteatus.2.jpg|''Panaeolus cinctulus''
+File:Panaeolus.subbalteatus.4.jpg|''Panaeolus cinctulus''
+File:Panaeolus.subbalteatus.5.jpg|''Panaeolus cinctulus''
+File:Panaeolus.subbalteatus.6.jpg|''Panaeolus cinctulus''
+File:Panaeolus.subbalteatus.7.jpg|''Panaeolus cinctulus''
+File:Panaeolus-cinctulus-spore-prints.jpg|''Panaeolus cinctulus'' spore prints
+File:Panaeolus subbalteatus.spores.jpg|''Panaeolus cinctulus'' spores
+</gallery>
+|}
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Panaeolus species|List of ''Panaeolus'' species]]
+*[[List of Psilocybin mushrooms]]
+
+==References==
+{{Reflist|refs=
+
+<ref name=Gerhardt>{{cite journal | author=Gerhardt, E.| year=1996 | title=Taxonomische Revision der Gattungen ''Panaeolus'' und ''Panaeolina'' (Fungi, Agaricales, Coprinaceae)| journal=Bibliotheca Botanica | volume=147 | pages=1–149}}</ref>
+
+<ref name=INCB>{{cite web |title=List of psychotropic substances under international control |publisher=[[International Narcotics Control Board]] |date=August 2003 |url=http://www.incb.org/pdf/e/list/green.pdf |access-date=2015-10-11 |archive-date=2012-08-31 |archive-url=https://web.archive.org/web/20120831222336/http://www.incb.org/pdf/e/list/green.pdf |url-status=dead }}</ref>
+
+<ref name="urlMycoBank:Panaeolus cinctulus">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=170056 |title=''Panaeolus cinctulus'' (Bolton) Sacc. 1887 |publisher=International Mycological Association |work=MycoBank |access-date=2011-05-11}}</ref>
+}}
+
+'''Sources:'''
+* {{cite book |author=Allen John W. |year=1994 |title=Psychedelic Illuminations vol. 5: Close Encounters of the Panaeolus Kind |publisher=Ron Piper |location=[[Los Angeles, California]] |pages=58–62 |url=https://www.researchgate.net/publication/258757639}}
+* {{cite book |author=Stamets P. |year=1996 |title=Psilocybin Mushrooms of the World |publisher=Ten Speed Press |location=[[Berkeley, California]] |page=82 |isbn=0-9610798-0-0}}
+
+==External links==
+{{Commons|Panaeolus cinctulus}}
+* [https://web.archive.org/web/20071007180714/http://www.shroomery.org/9608/Subbedhunter420s-Guide-to-Hunting-and-Identifying-Panaeolus-subbalteatus "Guide to Hunting and Identifying Panaeolus subbalteatus"] at shroomery.org
+* [http://www.erowid.org/plants/mushrooms/mushrooms_cultivation24.shtml "Erowid Psilocybin Mushroom Vault : Observations Regarding the Suspected Psychoactive Properties of Panaeolus foenisecii Maire"] at Erowid.org
+* [http://www.museocivico.rovereto.tn.it/UploadDocs/104_art09-Guzman%20&%20C.pdf A Worldwide Geographical Distribution of the Neurotropic Fungi]
+
+{{Hallucinogenic mushrooms}}
+{{Taxonbar|from=Q10543371}}
+
+{{DEFAULTSORT:Panaeolus Cinctulus}}
+[[Category:Fungi described in 1791]]
+[[Category:Panaeolus|cinctulus]]
+[[Category:Psychoactive fungi]]
+[[Category:Psychedelic tryptamine carriers]]
+[[Category:Fungi of Iceland]]
+[[Category:Fungus species]]

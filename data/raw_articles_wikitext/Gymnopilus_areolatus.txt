@@ -1,0 +1,51 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image =
+| image_caption =
+| taxon = Gymnopilus areolatus
+| authority = [[William Alphonso Murrill|Murrill]] (1913)
+| synonyms_ref = <ref name="Species Fungorum synonymy"/>
+| synonyms = *''Flammula areolata'' {{small|(Murrill) Murrill (1913)}}
+}}
+{{mycomorphbox
+| name = Gymnopilus areolatus
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+
+'''''Gymnopilus areolatus''''' is a [[species]] of [[mushroom]]-forming [[fungus]] in the family [[Hymenogastraceae]]. It was first [[species description|formally described]] by American mycologist [[William Alphonso Murrill]], from specimens collected in [[Cuba]].
+
+==Description==
+The [[pileus (mycology)|cap]] is {{convert|3|to|7|cm|in|1}} in diameter.<ref name="isbn0-945345-39-9">{{cite book |author=Hesler LR. |title=North American Species of ''Gymnopilus'' (Mycologia Memoir Series: No 3) |publisher=Lubrecht & Cramer Ltd |location=Knoxville, Tennessee |year=1969 |pages=50–51 |isbn=0-945345-39-9}}</ref>
+
+==Habitat and distribution==
+''Gymnopilus areolatus'' typically grows clumped together on stumps, and logs of [[hardwood]]s and [[palm tree|palms]]. It is found in [[Cuba]] in May and September.<ref name="isbn0-945345-39-9"/>
+
+==See also==
+{{Portal|Fungi}}
+* [[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Species Fungorum synonymy">{{cite web |title=GSD Species Synonymy: ''Gymnopilus areolatus'' Murrill, Mycologia 5(1): 24 (1913) |url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=198728 |publisher=[[Species Fungorum]] |access-date=6 July 2021}}</ref>
+
+}}
+
+{{Taxonbar|from=Q5624714}}
+
+[[Category:Gymnopilus|areolatus]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by William Alphonso Murrill]]
+[[Category:Fungi described in 1913]]
+[[Category:Fungus species]]
+
+
+
+{{Hymenogastraceae-stub}}

@@ -1,0 +1,90 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Strobilomyces floccopus 89374.jpg
+| image_caption = 
+| genus = Strobilomyces
+| species = strobilaceus
+| authority = ([[Giovanni Antonio Scopoli|Scop.]]) [[Berk.]] (1851)
+| synonyms_ref =
+| synonyms = *''Boletus strobilaceus'' <small>Scop. (1770)</small>
+*''Strobilomyces floccopus'' <small>([[Martin Vahl|Vahl]]) [[Petter Adolf Karsten|Karst.]] (1882)</small>
+}}
+{{mycomorphbox
+| name = ''Strobilomyces strobilaceus''
+| whichGills = adnate
+| capShape = convex
+| hymeniumType = pores
+| stipeCharacter = ring
+| ecologicalType = mycorrhizal
+| sporePrintColor = blackish-brown
+| sporePrintColor2 = black
+| howEdible = edible
+}}
+
+'''''Strobilomyces strobilaceus''''', also called '''''Strobilomyces floccopus''''' and commonly known as '''old man of the woods''',<ref name="Bessette 2000"/> is a species of [[fungus]] in the family [[Boletaceae]].
+
+The [[Basidiocarp|fruit bodies]] are characterized by soft, dark scales on the [[pileus (mycology)|cap]] surface. The species is native to Eurasia and North America.
+
+==Taxonomy==
+''Strobilomyces strobilaceus'' is classified in the [[section (biology)|section]] ''Strobilomyces'' of the genus ''[[Strobilomyces]]''. Species in this section are characterized by having spores that may be either smooth or with short spines or warts, ridges or reticulations. The ornamentation is reduced or absent in the suprahilar region—a depressed area near the [[wikt:hilar appendage|hilar appendage]].<ref name="Singer 1986"/>
+
+It was first [[species description|described]] scientifically by the Italian naturalist [[Giovanni Antonio Scopoli]] in 1770 as a species of ''[[Boletus]]''.<ref name="Scopoli 1770"/>
+
+==Description==
+The [[pileus (mycology)|caps]] of the [[basidiocarp|fruit bodies]] are between {{convert|4 and 11|cm|abbr=on|frac=4}} wide,<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=358}}</ref> with a convex shape and a villous, involute margin. The cap surface is covered with tuft-like, dark grey to brown erect scales. The [[stipe (mycology)|stipe]] is up to {{convert|14|cm|abbr=on|frac=4}} long and {{convert|2|cm|abbr=on|frac=4}} thick.<ref name="Bon 1987"/> It is coloured like the cap and has a woolly surface and a thick, ascending [[Annulus (mycology)|annulus]] or merely bands of colour from the [[partial veil]].<ref name="audu" /> The pores on the underside of the cap are angular, light grey and turning blackish with age. The [[trama (mycology)|flesh]] is thick and initially white, but stains pink; the stains will turn blackish.<ref name="audu" />
+
+The dark brown to black [[basidiospore|spore]]s are 9–15 by 8–12&nbsp;[[μm]], short elliptic and are covered with a mesh-like ornament.<ref name="Bessette 2000"/><ref name="Pegler 1981"/> The [[spore print]] is blackish.<ref name="audu" />
+
+{{gallery|mode=packed
+|Old man of the woods.jpg|[[Pennsylvania]] specimen
+}}
+
+===Similar species===
+''[[Strobilomyces confusus]]'' has a slightly smaller cap with smaller and stiff scales. Its spores have irregular ridges that resemble a partial mesh. The cap of ''[[Strobilomyces dryophilus|S.&nbsp;dryophilus]]'' is coloured a dull grey-pink to pinkish-tan and produces spores with a complete mesh.<ref name="Bessette 2000"/>
+
+==Habitat and distribution==
+''Strobilomyces strobilaceus'' is found solitary or in groups in [[Temperate deciduous forest|deciduous]] as well as [[Temperate coniferous forest|coniferous forests]] in low mountain ranges and alpine areas of North America (in the east),<ref name="audu" /> Europe, and Asia (Iran<ref name="Asef 2013"/> and Taiwan).<ref name="Yeh 1980"/> It is less common in lowlands.<ref name="Bon 1987"/> The fungus appears between July and October<ref name="Pegler 1981" /> under [[oak]] and [[beech]] trees.<ref name="audu" />
+
+==Uses==
+Young specimens are [[edible mushroom|edible]],<ref name="Pegler 1981" /> with a choice flavour.<ref name="Miller 2006">{{cite book |last=Miller Jr. |first=Orson K. |author-link=Orson K. Miller Jr. |title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi |last2=Miller |first2=Hope H. |publisher=[[FalconGuide]] |year=2006 |isbn=978-0-7627-3109-1 |location=Guilford, CN |pages=388}}</ref>
+
+==In culture==
+On 27 February 2014, the [[Swiss Post|postal administration of Switzerland]] issued a 50-centime [[Definitive stamp|definitive postage stamp]] depicting the species.<ref name="urlStamps" />
+
+==See also==
+*[[List of North American boletes]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Asef 2013">{{cite journal |author=Asef MR. |year=2013 |title=''Strobilomyces strobilaceus'', the first report from genus ''Strobilomyces'' in Iran |journal=Rostaniha |volume=14 |issue=2 |pages=248–249}}</ref>
+
+<ref name="Bessette 2000">{{cite book |url=https://books.google.com/books?id=geiwy6Jf_ZcC&pg=PA226 |title=North American Boletes: A Color Guide to the Fleshy Pored Mushrooms |first=Alan |last=Bessette |author2=William C. Roody |author3=Arleen Rainis Bessette |publisher=Syracuse University Press |year=2000 |pages=225–226 |isbn=978-0-8156-0588-1}}</ref>
+
+<ref name="Bon 1987">{{cite book |title=The Mushrooms and Toadstools of Britain and North Western Europe |last=Bon |first=Marcel |authorlink=Marcel Bon |year=1987 |publisher=Hodder and Stoughton |isbn=0-340-39935-X}}</ref>
+
+<ref name="Pegler 1981">{{cite book |title=Pocket Guide to Mushrooms and Toadstools |last=Pegler |first=David N. |year=1981 |publisher=Mitchell Beazley Publishing |location=London |page=94 |isbn=978-0-85533-366-9}}</ref>
+
+<ref name="Scopoli 1770">{{cite journal |author=Scopoli JA. |title=Fungi quidam rariores in Hungaria nun detecti |year=1770 |journal=Annus Historico-Naturalis |volume=4 |pages=125–50 |language=Latin}}</ref>
+
+<ref name="Singer 1986">{{cite book |author=Singer R. |title=The Agaricales in Modern Taxonomy |edition=4th |publisher=Koeltz Scientific Books |location=Koenigstein, Germany |year=1986 |page=802 |isbn=3-87429-254-1}}</ref>
+
+<ref name="urlStamps">{{cite news |url=http://linns.com/news/international-stamps/445/New-definitives-represent-subjects-from-sports-to-politics |title=New definitives represent subjects from sports to politics |last=McCarty |first=Denise |date=April 30, 2014 |work=Linn's Stamp News |accessdate=May 1, 2014}}</ref>
+
+<ref name="Yeh 1980">{{cite journal |author=Yeh K-W, Chen Z-C. |title=The boletes of Taiwan |journal=Taiwania |year=1980 |volume=25 |issue=1 |pages=166–184 |url=http://tai2.ntu.edu.tw/taiwania/pdf/tai.1980.25.166.pdf}}</ref>
+
+}}
+
+==External links==
+*{{commonscat inline|italic=on}}
+*{{IndexFungorum|238002}}
+
+{{Taxonbar|from=Q614730}}
+
+[[Category:Boletaceae]]
+[[Category:Edible fungi]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1770]]
+[[Category:Fungus species]]

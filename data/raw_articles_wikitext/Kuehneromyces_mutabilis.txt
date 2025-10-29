@@ -1,0 +1,76 @@
+{{Speciesbox
+| image = Stockschwaemmchen.jpg
+| image_caption = ''K. mutabilis'' in a dry state
+| taxon = Kuehneromyces mutabilis
+| authority = ([[Schaeff.]]) [[Rolf Singer|Singer]] & [[A.H.Sm.]] (1946)
+| synonyms_ref = <ref name="urlMycoBank: Kuehneromyces mutabilis">{{cite web |title=''Kuehneromyces mutabilis'' (Schaeff.) Singer & A.H. Sm. 1946 |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=287387 |publisher=[[MycoBank]]. International Mycological Association |access-date=2012-03-01}}</ref>
+| synonyms = ''Pholiota mutabilis'' <small>(Schaeff.) [[P.Kumm.]] (1871)</small><br />
+''Dryophila mutabilis'' <small>(Schaeff.) [[Quél.]] (1886)</small><br />
+''Galerina mutabilis'' <small>(Schaeff.) [[P.D.Orton]] (1960)</small>
+}}
+{{Mycomorphbox 
+| name = ''Kuehneromyces mutabilis''
+| hymeniumType = gills
+| capShape = convex
+| whichGills = adnexed 
+| stipeCharacter=ring
+| sporePrintColor=brown
+| ecologicalType= saprotrophic
+| howEdible=choice
+| howEdible2=caution}}
+'''''Kuehneromyces mutabilis''''' ([[synonym (biology)|synonym]]: '''''Pholiota mutabilis'''''), commonly known as the '''sheathed woodtuft''', is a species of fungus that grows in clumps on dead wood. It is [[edible mushroom|edible]] but strongly resembles the deadly poisonous ''[[Galerina marginata]]''.
+
+==Description==
+The clustered shiny convex caps grow up to {{Convert|8|cm|frac=4}} in diameter.<ref name="tfb">{{Cite book |last=Francis-Baker |first=Tiffany |title=Concise Foraging Guide |date=2021 |publisher=[[Bloomsbury Publishing|Bloomsbury]] |isbn=978-1-4729-8474-6 |series=[[The Wildlife Trusts]] |location=London |pages=166}}</ref> They are very [[hygrophanous]]; in a damp state they are shiny and greasy with a deep orange-brown colour towards the rim; often there is a disc of lighter (less sodden) flesh in the middle. In a dry state they are cinnamon-coloured.
+
+The [[Lamella (mycology)|gills]] are initially light then brown and are sometimes somewhat decurrent.<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/395/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=395 |orig-date=1979}}</ref> The [[spore print]] is rusty brown.<ref name="audu" />
+
+The stipe is 4–9&nbsp;cm long and under 1&nbsp;cm in diameter<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=673}}</ref> with a ring which separates the bare, smooth light cinnamon upper part from the darker brown shaggily scaly lower part.  This type of stem is sometimes described as "booted".
+
+=== Similar species ===
+It resembles the deadly poisonous ''[[Galerina marginata]]''.<ref name=":0" /> Although a typical ''K.&nbsp;mutabilis'' is easily distinguished from a typical ''G.&nbsp;marginata'' by the "booted" stipe which is shaggy below the ring, this character is not reliable and ''G.&nbsp;marginata'' can also have scales. The main differences are:
+*While they are both hygrophanous, ''K.&nbsp;mutabilis'' dries from the centre outwards (so having  a lighter colour in the centre) and ''G. marginata'' dries from the edge inwards.
+*the stem below the ring is scaly below the ring in ''K.&nbsp;mutabilis'', but normally fibrously silky in ''G.&nbsp;marginata''.
+*''K. mutabilis'' has a  pleasant mushroom smell and mild taste, whereas ''G.&nbsp;marginata'' tastes and smells mealy.
+Also similar are ''[[Pholiota lignicola|K. lignicola]]'', ''[[Kuehneromyces marginellus|K.&nbsp;marginellus]]'', ''[[Pholiota angustipes]]'' and ''[[Pholiota terrestris|P.&nbsp;terrestris]]''.<ref name="audu" />
+
+==Distribution and habitat==
+''Kuehneromyces mutabilis'' is found in North America,<ref name="audu" /> Australia, Asia (in the Caucuses, Siberia, and Japan), and Europe. In Europe, it can be found from Southern Europe to Iceland and Scandinavia.
+
+This species always grows on wood, generally on stumps of broad-leaved trees<ref name="tfb" /> (especially beech, birch and alder), and rarely on conifers.
+
+It is found from April to late October, and also in the remaining winter months where conditions are mild.  It is often seen at times when there are few other fungi in evidence.
+
+==Edibility==
+
+'' (potentially fatal)]]
+
+
+Some guides caution that ''K. mutabilis'' is not safe to consume as it could be confused with the deadly poisonous ''Galerina marginata'', even by people who are quite knowledgeable.<ref name=":0">{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |url=https://archive.org/details/mushroomsotherfu0000phil |url-access=registration |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=[https://archive.org/details/mushroomsotherfu0000phil/page/203 203]}}</ref>
+
+The caps of this mushroom can be fried or used for flavouring in sauces and soups (the stems being too tough to eat). The flavour is best after cooking.<ref name="tfb" />
+
+==References==
+{{Reflist}}
+
+===Sources===
+*This article is partly translated from the German page.
+*Marcel Bon : ''The Mushrooms and Toadstools of Britain and North-Western Europe'' (Hodder & Stoughton, 1987).  {{ISBN|0-340-39935-X}}
+*Régis Courtecuisse, Bernard Duhem : ''Guide des champignons de France et d'Europe'' (Delachaux & Niestlé, 1994–2000).  {{ISBN|2-603-00953-2}}
+
+==External links==
+*[http://www.mykoweb.com/Pholiota/species/Pholiota_mutabilis.html Pholiota mutabilis], from [[Alexander H. Smith|Smith AH]] & Hesler LR. (1968). The North American Species of ''Pholiota''. (Archived at ''Mykoweb.com''.)
+*[http://www.mushroomexpert.com/pholiota_mutabilis.html ''Pholiota mutabilis''] by Michael Kuo, ''MushroomExpert.Com'', November, 2007.
+*[https://web.archive.org/web/20120510131449/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6630.asp Kuehneromyces mutabilis] by Roger Philips, ''RogersMushrooms'' (website).
+*[http://healing-mushrooms.net/archives/kuehneromyces-mutabilis.html “''Kuehneromyces mutabilis''”] by Robert Sasata, ''Healing-Mushrooms.net'', February, 2008.
+
+{{Taxonbar|from=Q732640}}
+
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1871]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Strophariaceae]]
+[[Category:Taxa named by Jacob Christian Schäffer]]
+[[Category:Fungi of Iceland]]
+[[Category:Fungus species]]

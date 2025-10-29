@@ -1,0 +1,53 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Glöckchen Nabeling Xeromphalina campanella.jpg
+| image_caption =  
+| genus =  Xeromphalina
+| species =  campanella
+| authority = ([[August Johann Georg Karl Batsch|Batsch]]) [[Robert Kühner|Kühner]] & [[René Maire|Maire]] 1953<ref>{{cite web|title= ''Xeromphalina campanella''|publisher=[[Mycobank]]|url= http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=29293&Fields=All|access-date= 21 December 2015}}</ref>
+}}
+{{Mycomorphbox
+| name = ''Xeromphalina campanella''
+| hymeniumType = gills
+| capShape = convex
+| capShape2 = depressed
+| stipeCharacter = bare
+| sporePrintColor = white
+| ecologicalType = saprotrophic
+| whichGills = decurrent
+| howEdible = unknown
+| howEdible2 = inedible
+}}
+
+'''''Xeromphalina campanella''''' is a species of [[mushroom]]. Its [[common name]]s include the '''golden trumpet''' and the '''bell Omphalina'''. It is a cold-tolerant species found throughout North America and Eurasia.
+
+== Taxonomy ==
+The [[genus]] name ''Xeromphalina'' means "little dry navel" and ''campanella'' means "bell-shaped", respectively describing the mature and young shapes of the [[Pileus (mycology)|cap]].<ref name="Central">{{cite book | last = C. Roody | first = William | title = Mushrooms of West Virginia and the Central Appalachians | publisher = University Press of Kentucky | year = 2003 | pages = 124 | url = https://books.google.com/books?id=5HGMPEiy4ykC&q=Xeromphalina+campanella&pg=PA124 | isbn = 978-0-8131-9039-6 }}</ref> The mushroom is also called ''fuzzy-foot''.<ref>{{cite book | last = G. Cassidy | first = Frediric | title = Dictionary of American Regional English: D - H, Volume 2 | publisher = Harvard University Press | year = 1991 | url = https://books.google.com/books?id=vAr2T4Bh7nkC&q=Xeromphalina+campanella&pg=PA610 | isbn = 978-0-674-20511-6 }}</ref>
+
+
+
+==Description==
+The [[basidiocarp|fruit body]] of ''X.&nbsp;campanella'' has a small umbrella-shaped cap, about {{Convert|.5–2|cm|frac=4}} wide.<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=170|oclc=797915861}}</ref> As it matures, the outer part of the cap expands and rises, leaving the center depressed somewhat like a [[navel]].<ref name="Texas">{{cite book |last=Metzler |first=Susan and Van |url=https://books.google.com/books?id=HRtfvVigMmsC&q=Xeromphalina+campanella&pg=PA150 |title=Texas mushrooms: a field guide |publisher=University of Texas Press |year=1992 |isbn=978-0-292-75125-5 |pages=150}}</ref> The thin brown [[stipe (mycology)|stalk]] is {{Convert|1–5|cm|abbr=on|frac=4}} long and {{Convert|1–3|mm|frac=16}} wide, yellow at the apex, reddish-brown below, with brown or yellow hairs at the base.<ref name=":0" /><ref name=McKnight/> The [[lamella (mycology)|gills]] are pale yellow to pale orange.<ref name=":0" /> The [[Trama (mycology)|flesh]] is tannish and mild tasting.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=378}}</ref> The [[spore print]] is pale [[buff (color)|buff]].<ref name=McKnight>{{cite book|last1=McKnight|first1=Kent H.|url=https://books.google.com/books?id=T2uU12XcRD4C&pg=PA270|title=A Field Guide to Mushrooms: North America|last2=McKnight|first2=Vera B.|publisher=Houghton Mifflin Harcourt|year=1998|isbn=978-0395910900|pages=196, 270|orig-year=1987}}</ref>
+
+=== Similar species ===
+''[[Xeromphalina campanelloides]]'' is distinguishable via microscopic features.<ref name=":1">{{cite book |last1=Trudell |first1=Steve |url=https://books.google.com/books?id=WevHvt6Tr8kC |title=Mushrooms of the Pacific Northwest |last2=Ammirati |first2=Joe |publisher=Timber Press |year=2009 |isbn=978-0-88192-935-5 |series=Timber Press Field Guides |location=Portland, OR |pages=132–133}}</ref> ''[[Xeromphalina kauffmanii]]'' resembles the species, but has a more yellow cap<ref name=":1" /> and grows on decaying wood of broad-leaved trees.<ref name="Central" /> ''[[Xeromphalina brunneola]]'' also resembles the species, but has smaller, narrowly elliptical spores, and differs in odor, taste, and cap color.<ref>{{cite book |last=Bessette |first=Alan |url=https://books.google.com/books?id=NTYmbtrry3cC&q=Xeromphalina+campanella&pg=PA93 |title=Mushrooms of North America in color |publisher=Syracuse University Press |year=1995 |isbn=978-0-8156-0323-8 |pages=93}}</ref> ''[[Xeromphalina cauticinalis]]'', ''[[Xeromphalina cornui|X.&nbsp;cornui]]'', and ''X.&nbsp;fulvipes'' are also similar.<ref name=":1" />
+
+''[[Xeromphalina enigmatica|X.&nbsp;enigmatica]]'' looks the same but does not interbreed with it.
+
+== Habitat and distribution ==
+The [[fruiting]] occurs in clumps or very dense clusters on decaying logs, stumps, and woody debris of [[coniferous]] trees. The species is commonly found in North America.<ref name=McKnight/> At times, the species almost entirely covers old tree stumps.<ref name="Central"/> The species can be found in any wet season of the year.<ref name="Texas"/>
+
+It is found in both Eurasia and North America and has some populations that are geographically separated and reproductively isolated.<ref>{{Cite journal |last1=Aldrovandi |first1=M. S. P. |last2=Johnson |first2=J. E. |last3=OMeara |first3=B. |last4=Petersen |first4=R. H. |last5=Hughes |first5=K. W. |date=2015-11-01 |title=The Xeromphalina campanella/kauffmanii complex: species delineation and biogeographical patterns of speciation |url=http://www.mycologia.org/cgi/doi/10.3852/15-087 |journal=Mycologia |language=en |volume=107 |issue=6 |pages=1270–1284 |doi=10.3852/15-087 |issn=0027-5514 |url-access=subscription}}</ref>
+
+== Edibility ==
+Although the species is not poisonous,<ref name="Central" /> the mushrooms are small and bitter tasting, leading to their often being considered [[edible mushroom|inedible]].<ref name="Texas" /><ref>{{cite book |last1=Miller Jr. |first1=Orson K. |author-link=Orson K. Miller Jr. |title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi |last2=Miller |first2=Hope H. |publisher=[[FalconGuide]] |year=2006 |isbn=978-0-7627-3109-1 |location=Guilford, CN |pages=193}}</ref><ref>{{cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/mushroomsdemysti00aror_0/page/634 |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=Ten Speed Press |year=1986 |isbn=978-0-89815-169-5 |pages=634 |url-access=registration}}</ref> In 2006, one author noted that they were privately consumed.<ref>{{cite book |last=Russel |first=Bill |url=https://books.google.com/books?id=vLgjr5p0XFkC&q=Xeromphalina+campanella&pg=PT214 |title=Field guide to wild mushrooms of Pennsylvania and the Mid-Atlantic |publisher=Penn State Press |year=2006 |isbn=978-0-271-02891-0 |pages=203}}</ref>
+
+== References ==
+{{Reflist|2}}
+
+{{Taxonbar|from=Q3270252}}
+
+[[Category:Fungi of North America]]
+[[Category:Mycenaceae]]
+[[Category:Taxa named by August Batsch]]
+[[Category:Fungus species]]

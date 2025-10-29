@@ -1,0 +1,37 @@
+{{Short description|Species of fungus}}
+{{unreferenced|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption =
+| taxon = Gymnopilus pallidus
+| authority = [[William Alphonso Murrill|Murrill]]
+| synonyms =
+}}
+{{mycomorphbox
+| name = Gymnopilus pallidus
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+
+'''''Gymnopilus pallidus''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]].
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+{{Taxonbar|from=Q5624917}}
+
+{{DEFAULTSORT:Gymnopilus pallidus}}
+[[Category:Gymnopilus|pallidus]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by William Alphonso Murrill]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

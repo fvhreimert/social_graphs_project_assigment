@@ -1,0 +1,149 @@
+{{Short description|Species of fungus}}
+{{speciesbox
+| image = Rötende Blätterwirrling Daedaleopsis confragosa.JPG
+| image_caption = Blushing brackets in Erbach, Germany
+| taxon = Daedaleopsis confragosa
+| authority = ([[James Bolton|Bolton]]) [[J.Schröt.]] (1888)
+| synonyms_ref = <ref name="urlMycoBank: Daedaleopsis confragosa"/>
+| synonyms =
+{{plainlist|
+*''Boletus confragosus'' <small>Bolton (1791)</small>
+*''Daedalea confragosa'' <small>(Bolton) [[Pers.]] (1801)</small>
+*''Trametes confragosa'' <small>(Bolton) [[Gottlob Ludwig Rabenhorst|Rabenhorst]] (1844)</small>
+*''Polyporus confragosus'' <small>(Bolton) [[P.Kumm.]] (1871)</small>
+*''Striglia confragosa'' <small>(Bolton) [[Otto Kuntze|Kuntze]] (1891)</small>
+*''Lenzites confragosa'' <small>(Bolton) [[Pat.]] (1900)</small>
+*''Agaricus confragosus'' <small>(Bolton) [[William Alphonso Murrill|Murrill]] (1905)</small>
+*''Daedalea confragosa'' f. ''bulliardii'' <small>(Fr.) Domański, Orloś & Skirg. (1967)</small>
+*''Ischnoderma confragosum'' <small>(Bolton) Zmitr. (2001)</small>
+}}
+}}{{Mycomorphbox
+| name = ''{{PAGENAME}}''{{italic title}}
+| hymeniumType = pores
+| capShape = no
+| whichGills = decurrent
+| stipeCharacter = NA
+| sporePrintColor = white
+| ecologicalType = parasitic
+| howEdible = inedible
+}}
+'''''Daedaleopsis confragosa''''', commonly known as the '''thin-walled maze polypore''' or the '''blushing bracket''', is a species of [[polypore]] fungus in the family [[Polyporaceae]]. The species was first described from Europe in 1791 as a form of ''[[Boletus]]'', and has undergone several changes of [[genus]] in its [[taxonomy (biology)|taxonomic]] history. It acquired its current name when [[Joseph Schröter]] transferred it to ''[[Daedaleopsis]]'' in 1888.
+
+A [[plant pathogen]], it causes a [[white rot]] of injured hardwoods, especially [[willow]]s. The [[basidiocarp|fruit bodies]] are semicircular and tough, have a concentrically zoned brownish upper surface, and measure up to {{convert|20|cm|0|abbr=on}} in diameter. The whitish underside turns gray-brown as the fruit body ages, but bruises pink or red. It is found all year and is common in northern [[temperate]] woodlands of Eurasia and eastern North America.
+
+== Taxonomy ==
+''Daedaleopsis confragosa'' was first [[species description|described]] scientifically under the name ''Boletus confragosus'' by English naturalist [[James Bolton]], in his 1791 work ''An History of Fungusses, growing about Halifax''. He reported finding specimens on old trees near [[Fixby Hall]], and having specimens sent to him from [[Darlington]].<ref name="Bolton 1791"/> The species has been shuffled between several genera in its [[taxonomy (biology)|taxonomic]] history:<ref name="urlMycoBank: Daedaleopsis confragosa"/> ''Daedalea'' by [[Christian Hendrik Persoon]] in 1801; ''[[Trametes]]'' by [[Gottlob Ludwig Rabenhorst]] in 1844; ''[[Polyporus]]'' by [[Paul Kummer]] in 1871; ''Stigila'' by [[Otto Kuntze]] in 1891; ''[[Lenzites]]'' by Patouillard in 1900; ''[[Agaricus]]'' by [[William Alphonso Murrill]] in 1905; and ''Ischnoderma'' by Ivan Zmitrovich in 2001. It was transferred to its current genus, ''[[Daedaleopsis]]'', by German mycologist [[Joseph Schröter]] in 1888.<ref name="Schröter 1888"/> ''D.&nbsp;confragosa'' is the [[type species]] of the genus ''Daedaleopsis''.<ref name="urlFungorum: Daedaleopsis"/>
+
+Several [[variety (botany)|varieties]] have been described. L.&nbsp;Ljubarskii published var. ''bulliardi'' and var. ''rubecens'' in 1975.<ref name="Ljubarskii 1975"/> Both of these varieties were published invalidly are not considered to have independent [[taxonomy (biology)|taxonomic]] significance: variety ''rubescens'' is folded into [[synonym (biology)|synonymy]] with the main variety,<ref name="urlIF: Daedaleopsis confragosa var. rubescens"/> while variety ''bulliardi'' is now considered synonymous with ''[[Trametes suaveolens]]''.<ref name="urlIF: Daedaleopsis confragosa var. bulliardii"/> Variety ''tricolor'', proposed by [[Appollinaris Semenovich Bondartsev]] and [[Rolf Singer]] in 1953,<ref name="Bondartsev 1953"/> is now the independent species ''[[Daedaleopsis tricolor]]''.<ref name="urlIF: Daedaleopsis confragosa var. tricolor"/> Bondartsev described the [[form (botany)|form]] ''sibirica'' in 1953,<ref name="Bondartsev 1953"/> but this is also no longer independent.<ref name="urlIF: Daedaleopsis confragosa f. sibirica"/>
+
+The polypore has acquired several [[vernacular names]], including "thin-maze flat polypore",<ref name="Bessette 2007"/> "thin walled maze polypore",<ref name="Arora 1986"/> "blood-stained bracket",<ref name="Garnweidner 2011"/> and "blushing bracket".<ref name="Phillips 2005"/> The latter name refers to its characteristic bruising reaction.<ref name="Roberts 2011"/> James Bolton referred to it as the "rugged boletus".<ref name="Bolton 1791"/>
+
+==Description==
+
+The shelflike or bracketlike [[basidiocarp|fruit body]] is fan-shaped to semicircular, and typically measures {{convert|5–15|cm|0|abbr=on}} in diameter,<ref name="Arora 1986"/> and up to {{convert|2|cm|1|abbr=on}} thick.<ref name="Courtecuisse 1999"/>  Its upper surface is broadly convex to flat, dry, smooth to somewhat hairy, and usually has concentric zone lines. Its color ranges from reddish brown to brown to grayish, sometimes becoming blackish in maturity.<ref name="Arora 1986"/> The cap surface may have an [[umbo (mycology)|umbo]] at the point of attachment to the [[substrate (biology)|substrate]].<ref name="Sterry 2009"/> Fruit bodies are leathery to corky when moist, but become hard and rigid when dry. The [[trama (mycology)|flesh]] is white to pinkish to brownish and tough. The underside of the fruit bodies features tiny pores measuring about 0.5–1.5&nbsp;mm in diameter. They are white to tan to brown, but will develop pinkish or reddish tones if bruised. Pore shape is highly variable, ranging from circular to elongated, to mazelike, to [[lamella (mycology)|gill]]-like. The tubes are up to {{convert|1.5|cm|1|abbr=on}} long. The fruit body [[sessility (botany)|lacks a stalk]], as the shelf attaches directly to the substrate. The fruit bodies have no distinctive odor and a slightly bitter taste.<ref name="Phillips 2005"/>
+
+The [[spore print]] is white; [[spore]]s are cylindrical, smooth, and measure 7–11 by 2–3&nbsp;[[μm]].<ref name="Arora 1986"/> The [[basidia]] (spore-bearing cells) have a shape ranging from cylindrical to club-shaped, and dimensions of 20–40 by 3–5&nbsp;μm. The [[hymenium]] features numerous hyphidia (modified terminal [[hypha]]e), which measure 2–3&nbsp;μm. The hyphal system of ''Daedaleopsis confragrosa'' is trimitic, meaning that there are three types of hyphae in the fruit body: skeletal hyphae, which provide structural support, are thick walled, measuring 3–7&nbsp;μm in diameter; generative hyphae, responsible for new growth, can be either thin- or thick-walled, may contain [[clamp connection|clamps]], and measure 2–6&nbsp;μm; binding hyphae, thick-walled and much branched, are 2–5&nbsp;μm.<ref name="Courtecuisse 1999"/>
+
+{{gallery|mode=packed
+|Daedaleopsis confragrosa Eglinton.JPG|Bruising on pore surface
+}}
+
+===Similar species===
+{{multiple image 
+| align = right 
+| image1 = Cerrena unicolor 45687.jpg
+| width1 = {{#expr: (140 * 750 / 500) round 0}}
+| caption1 = ''[[Cerrena unicolor]]''
+| image2 = Daedalea quercina G3.jpg
+| width2 = {{#expr: (140 * 1057 / 793) round 0}}
+| caption2 = ''[[Daedalea quercina]]''
+}}
+
+''[[Cerrena unicolor]]'' (formerly ''Daedalea unicolor'') is a common polypore species with a maze-like pore surface that can resemble ''D.&nbsp;confragosa''. It can be distinguished by its thinner fruit bodies, a black line in the flesh, and the way that the tubes often break into irregular flattened teeth in maturity. ''[[Daedalea quercina]]'', common on [[oak]], has a larger fruit body up to {{convert|20|cm|0|abbr=on}} in diameter and {{convert|1–8|cm|1|abbr=on}} thick, and its pore surface is more distinctively labyrinthine (maze-like). It causes a brown [[heart rot]], where [[carbohydrate]]s are removed from the inner [[heartwood]], leaving brownish, oxidized [[lignin]].<ref name="Healy 2008"/>
+
+==Ecology and distribution==
+''Daedaleopsis confragosa'' is a [[lignicolous]] fungus that produces a decay of [[Sapwood (wood)|sapwood]]. It causes [[white rot]], a type of wood decay in which [[lignin]] is degraded and [[cellulose]] remains as a light-colored residue. The fruit bodies grow singly or in groups,<ref name="Arora 1986"/> sometimes in tiers,<ref name="Sterry 2009"/> in the wounds of living trees. Its preferred [[host (biology)|host]] is [[willow]], but it has also been found on [[birch]] and other hardwoods.<ref name="Arora 1986"/> Fruiting usually occurs from June to December, but the hard shelves can persist year-round. In North America, the species is most common in eastern locales, but rare in western regions.<ref name="Phillips 2005"/> It is common in Europe, and is one of the 100 most common fungi in the United Kingdom.<ref name="Sterry 2009"/> Its European range extends east to the [[Ural (region)|Urals]].<ref name="Krasutskii 2007"/> In Asia it is widely distributed, having been recorded from China,<ref name="Chi 2001"/> western [[Maharashtra]] (India),<ref name="Rathod 2011"/> Iran,<ref name="Saber 1987"/> and Japan.<ref name="Hattori 1990"/>
+
+The fruit bodies are popular among fungus-loving [[beetle]]s. In a Russian study, 54 species from 16 families in the [[Coleoptera]] complex were recorded using the fungus; the most common were ''[[Cis comptus]]'', ''[[Sillcacis affinis]]'' (Ciidae), ''[[Tritoma subbasalis]]'', ''[[Dacne bipustulata]]'' (Erotylidae), ''[[Mycetophagus multipunctatus]]'', ''[[Mycetophagus piceus|M.&nbsp;piceus]]'' (Mycetophagidae), and ''[[Thymalus oblongus]]'' (Trogossitidae).<ref name="Krasutskii 2007"/>
+
+==Bioactive compounds==
+
+The [[triterpene]]s 3α-carboxyacetoxyquercinic acid, 3α-carboxyacetoxy-24-methylene-23-oxolanost-8-en-26-oic acid, and 5α,8α-epidioxyergosta-6,22-dien-3β-ol ([[ergosterol peroxide]]) have been isolated from ''D.&nbsp;confragosa''.<ref name="Rösecke 2000"/> [[Lectin]]s from ''D.&nbsp;confragosa'', tested against rabbit and human [[erythrocyte]]s, were determined to have {{nowrap|anti-H}} [[serological]] specificity.<ref name="Pemberton 1994"/>
+
+Analysis of the lipid and fatty acid composition revealed that ''D.&nbsp;confragosa'' contains 20.1% total lipids (mg/g dry weight), 32.9% neutral [[lipid]]s, 53.8% [[phospholipid]], and 13.3% [[glycolipid]]s. An analysis of hydroxy [[fatty acid]] content showed that ''D.&nbsp;confragosa'' contains, as a percentage of total fatty acids, 0.02% 7-hydroxy-8,14-dimethyl-9-hexadecenoic acid and 0.01% 7-hydroxy-8,16-dimethyl-9-octadecenoic acid.<ref name="Dembitsky 1993"/>
+
+==Uses==
+The polypore is used in ornamental [[paper making]], whereby the fruit bodies are pulped, pressed, and dried to produce sheets with unusual textures and colors.<ref name="Roberts 2011" />
+
+It is inedible.<ref name="Phillips 2005" />
+
+==References==
+
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Arora 1986">{{cite book |author=Arora D. |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/588/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, California |year=1986 |orig-date=1979 |edition=2nd |pages=588-89}}</ref>
+
+<ref name="Bessette 2007">{{cite book |title=Mushrooms of the Southeastern United States |author=Bessette AE |author2=Roody WC |author3=Bessette AR |year=2007 |publisher=Syracuse University Press |location=Syracuse, New York |isbn=978-0-8156-3112-5 |page=251 |url=https://books.google.com/books?id=IB1Gv3jZMmAC&pg=PA251}}</ref>
+
+<ref name="Bolton 1791">{{cite book |author=Bolton J. |title=An History of Fungusses, Growing about Halifax |year=1791 |volume=3 |location=Halifax, Canada |publisher=Husddersfield |page=160 |url=https://www.biodiversitylibrary.org/page/4307098}}</ref>
+
+<ref name="Bondartsev 1953">{{cite book |author=Bondartsev A.S. |title=The Polyporaceae of the European USSR and Caucasia |year=1953 |publisher=Israel Program for Scientific Translations |location=Moscow |page=571}}</ref>
+
+<ref name="Chi 2001">{{cite journal |author=Chi Y-J |author2=Pan X-R |title=Cultural characters of 10 polypore species growing on broad-leaf trees in forest reserves of Northeastern China |journal=Mycosystema |year=2001 |volume=20 |issue=2 |pages=258–63 |issn=1007-3515 |language=zh}}</ref>
+
+<ref name="Courtecuisse 1999">{{cite book |author=Courtecuisse R. |year=1999 |title=Mushrooms of Britain and Europe |series=Collins Wildlife Trust Guides |location=London, UK |publisher=Harpercollins |page=337 |isbn=978-0-00-220012-7}}</ref>
+
+<ref name="Dembitsky 1993">{{cite journal |author=Dembitsky VM |author2=R̆ezanka T |author3=Shubinat EE |title=Unusual Hydroxy fatty acids from some higher fungi |journal=Phytochemistry |year=1993 |volume=34 |issue=4 |pages=1057–9 |doi=10.1016/S0031-9422(00)90713-1|bibcode=1993PChem..34.1057D }}</ref>
+
+<ref name="Garnweidner 2011">{{cite book|author=Garnweidner E. |year=2011 |title=Mushrooms and Toadstools of Britain and Europe |publisher=HarperCollins |page=182 |isbn=978-0-261-67406-6}}</ref>
+
+<ref name="Hattori 1990">{{cite journal |author=Hattori T |author2=Hongo T. |title=Distribution of the wood-decaying Hymenomycetes in Amami Island Japan |journal=Memoirs of the National Science Museum (Tokyo) |year=1990 |volume=23 |pages=63–8 |language=ja}}</ref>
+
+<ref name="Healy 2008">{{cite book |author=Healy RA |author2=Huffman DR |author3=Tiffany LH |author4=Knaphaus G |title=Mushrooms and Other Fungi of the Midcontinental United States |series=Bur Oak Guide |publisher=University of Iowa Press |location=Iowa City, Iowa |year=2008 |page=191 |isbn=978-1-58729-627-7 |url=https://books.google.com/books?id=tl2fVAHuej4C&pg=PA191}}</ref>
+
+<ref name="Krasutskii 2007">{{cite journal |author=Krasutskii B.V. |title=Coleoptera associated with ''Daedaleopsis confragosa'' (Bolton: Fr.) J. Schrot (Basidiomycetes, Aphyllophorales) in the forests of the Urals and Trans-Urals |journal=Entomologicheskoe Obozrenie |year=2007 |volume=86 |issue=2 |pages=289–305 |issn=0367-1445}}</ref>
+
+<ref name="Ljubarskii 1975">{{citation |author=Ljubarskii LV |author2=Vasilyeva LN |title=Dereborazrusajuscie Gribi Dal'nego Vostoka |trans-title=Wood destroying fungi of the [Soviet] far East |year=1975 |publisher=Nauka |location=Novosibirsk |language=ru |page=140}}</ref>
+
+<ref name="Pemberton 1994">{{cite journal |author=Pemberton R.T. |title=Agglutinins (lectins) from some British higher fungi |journal=Mycological Research |year=1994 |volume=98 |issue=3 |pages=277–90 |doi=10.1016/S0953-7562(09)80455-3}}</ref>
+
+<ref name="Phillips 2005">{{cite book |author=Phillips R. |title=Mushrooms and Other Fungi of North America |publisher=Firefly Books |location=Buffalo, New York |year=2005 |page=312 |isbn=978-1-55407-115-9}}</ref>
+
+<ref name="Rathod 2011">{{cite journal|author=Rathod M.M. |title=Taxonomic studies on the daedaloid and hexagonoid polypores form the forest of Western Maharasta |journal=Recent Research in Science and Technology |year=2011 |volume=3 |issue=5 |pages=50–6 |url=http://recent-science.com/index.php/rrst/article/viewFile/5423/2835 |format=PDF |url-status=dead |archive-url=https://web.archive.org/web/20131019102119/http://recent-science.com/index.php/rrst/article/viewFile/5423/2835 |archive-date=2013-10-19 }}</ref>
+
+<ref name="Roberts 2011">{{cite book |author=Roberts P |author2=Evans S. |title=The Book of Fungi |year=2011 |publisher=University of Chicago Press |location=Chicago, Illinois |page=378 |isbn=978-0-226-72117-0}}</ref>
+
+<ref name="Rösecke 2000">{{cite journal |author=Rösecke J |author2=König WA |title=Constituents of the fungi ''Daedalea quercina'' and ''Daedaleopsis confragosa'' var. ''tricolor'' |journal=Phytochemistry |year=2000 |volume=54 |issue=8 |pages=757–62 |doi=10.1016/S0031-9422(00)00130-8|pmid=11014261 |bibcode=2000PChem..54..757R }}</ref>
+
+<ref name="Saber 1987">{{cite journal |author=Saber M. |title=Contribution to the knowledge of Aphyllophorales collected in Iran |journal=Iranian Journal of Plant Pathology |year=1987 |volume=23 |issue=1–4 |pages=21–36 |issn=0006-2774}}</ref>
+
+<ref name="Schröter 1888">{{cite book |author=Schröter J. |title=Kryptogamen-Flora von Schlesien |year=1888 |volume=3–1(4) |location=Lehre, Germany |publisher=Cramer |language=de |page=493 }}</ref>
+
+<ref name="Sterry 2009">{{cite book |author=Sterry P |author2=Hughes B. |year=2009 |title=Complete Guide to British Mushrooms & Toadstools |publisher=HarperCollins |page=258 |isbn=978-0-00-723224-6}}</ref>
+
+<ref name="urlIF: Daedaleopsis confragosa f. sibirica">{{cite web |title=''Daedaleopsis confragosa'' f. ''sibirica'' (P. Karst.) Bondartsev, Trut. Grib Evrop. Chasti SSSR Kavkaza [Bracket Fungi Europ. U.S.S.R. Caucasus] (Moscow-Leningrad): 571 (1953) |url=http://www.indexfungorum.org/names/NamesRecord.asp?RecordID=352060 |publisher=Index Fungorum. CAB International |access-date=2013-10-18}}</ref>
+
+<ref name="urlIF: Daedaleopsis confragosa var. bulliardii">{{cite web |title=''Daedaleopsis confragosa'' var. ''bulliardii'' (Fr.) Ljub., in Lyubarskiĭ & Vasil'eva, Derevorazrushayushchie Griby Dal'nega Vostoka [Wood destroying fungi of the [Soviet] far East] (Novosibirsk): 140 (1975) |url=http://www.indexfungorum.org/names/NamesRecord.asp?RecordID=117597 |publisher=Index Fungorum. CAB International |access-date=2013-10-18}}</ref>
+
+<ref name="urlIF: Daedaleopsis confragosa var. rubescens">{{cite web |title=''Daedaleopsis confragosa'' var. ''rubescens'' (Fr.) Ljub., in Lyubarskiĭ & Vasil'eva, Derevorazrushayushchie Griby Dal'nega Vostoka [Wood destroying fungi of the [Soviet] far East] (Novosibirsk): 140 (1975) |url=http://www.indexfungorum.org/names/NamesRecord.asp?RecordID=117598 |publisher=Index Fungorum. CAB International |access-date=2013-10-18}}</ref>
+
+<ref name="urlIF: Daedaleopsis confragosa var. tricolor">{{cite web |title=''Daedaleopsis confragosa'' var. ''tricolor'' (Bull.) Bondartsev & Singer, Trut. Grib Evrop. Chasti SSSR Kavkaza [Bracket Fungi Europ. U.S.S.R. Caucasus] (Moscow-Leningrad): 571 (1953) |url=http://www.indexfungorum.org/names/NamesRecord.asp?RecordID=352059 |publisher=Index Fungorum. CAB International |access-date=2013-10-18}}</ref>
+
+<ref name="urlFungorum: Daedaleopsis">{{cite web |title=''Daedaleopsis'' J. Schröt., in Cohn, Krypt.-Fl. Schlesien (Breslau) 3.1(25–32): 492 (1888) [1889] |url=http://www.indexfungorum.org/names/NamesRecord.asp?RecordID=17466 |publisher=Index Fungorum. CAB International |access-date=2013-10-06}}</ref>
+
+<ref name="urlMycoBank: Daedaleopsis confragosa">{{cite web |title=''Daedaleopsis confragosa'' (Bolton) J. Schröt. 1888 |url=http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=58228&Fields=All |publisher=[[MycoBank]]. International Mycological Association |access-date=2013-10-18}}</ref>
+
+}}
+
+{{good article}}
+{{Taxonbar|from=Q2120850}}
+
+[[Category:Fungi described in 1791]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Inedible fungi]]
+[[Category:Fungal tree pathogens and diseases]]
+[[Category:Polyporaceae]]
+[[Category:Fungi of Western Asia]]
+[[Category:Fungus species]]

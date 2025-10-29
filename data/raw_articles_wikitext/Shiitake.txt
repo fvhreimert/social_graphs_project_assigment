@@ -1,0 +1,198 @@
+{{Short description|Species of edible mushroom}}
+{{Use dmy dates|date=September 2020}}
+{{Speciesbox
+| image         = Shiitakegrowing.jpg
+| image2        = Lentinula edodes 20101113 c.jpg
+| image_alt     = 
+| image_caption = 
+| genus         = Lentinula
+| species       = edodes
+| authority     = ([[Miles Joseph Berkeley|Berk.]]) [[David Pegler|Pegler]] (1976)
+| synonyms      = 
+| synonyms_ref  = 
+}}
+{{mycomorphbox
+| name             = ''Lentinula edodes''
+| whichGills       = free
+| capShape         = convex
+| hymeniumType     = gills
+| stipeCharacter   = bare
+| ecologicalType   = saprotrophic
+| sporePrintColor  = white
+| sporePrintColor2 = buff
+| howEdible        = choice
+}}
+{{Chinese
+| t        = 香菇
+| s        = 香菇
+| showflag = p
+| p        = xiānggū
+| kanji    =椎茸 or 香蕈
+| hiragana = しいたけ
+| hanja    = 瓢菰
+| hangul   = 표고
+| rr       = pyogo
+| tha      = [[wikt:เห็ดหอม|เห็ดหอม]] (hèt hŏm)
+| vie      = [[wikt:nấm hương|nấm hương]]
+}}
+
+The '''shiitake''', ({{IPAc-en|ʃ|ɪ|ˈ|t|ɑː|k|eɪ|,_|ˌ|ʃ|iː|ɪ|-|,_|-|k|i}};<ref>{{citation|last=Wells|first=John C.|year=2008|title=Longman Pronunciation Dictionary|edition=3rd|publisher=Longman|isbn=9781405881180}}</ref> {{IPA|ja|ɕiꜜːtake|lang|Ja-Shiitake.oga}} '''Chinese''', or '''black mushroom''', '''''Lentinula edodes''''') is a [[Edible mushroom|macrofungus]] native to [[East Asia]] and parts of [[Southeast Asia]], which is cultivated and consumed around the globe.
+
+==Taxonomy==
+The fungus was first [[species description|described]] scientifically as ''[[Agaricus]] edodes'' by [[Miles Joseph Berkeley]] in 1877.<ref name="Berkeley 1877"/> It was placed in the genus ''[[Lentinula]]'' by [[David Pegler]] in 1976.<ref name="Pegler 1976"/> The fungus has acquired an extensive [[synonym (taxonomy)|synonymy]] in its [[taxonomy (biology)|taxonomic]] history:<ref name="urlFungorum synonymy: Lentinula edodes"/>
+*''Agaricus edodes'' Berk. (1878)
+*''[[Armillaria]] edodes'' (Berk.) [[Pier Andrea Saccardo | Sacc.]] (1887)
+*''Mastoleucomychelloes edodes'' (Berk.) [[Otto Kuntze | Kuntze]] (1891)
+*''Cortinellus edodes'' (Berk.) S.Ito & S.Imai (1938)
+*''[[Lentinus]] edodes'' (Berk.) Singer (1941)
+*''[[Collybia]] shiitake'' [[Joseph Schröter |  J.Schröt.]] (1886)
+*''[[Lepiota]] shiitake'' (J.Schröt.) Nobuj. Tanaka (1889)
+*''Cortinellus shiitake'' (J.Schröt.) [[Paul Christoph Hennings | Henn.]] (1899)
+*''[[Tricholoma]] shiitake'' (J.Schröt.) Lloyd (1918)
+*''Lentinus shiitake'' (J.Schröt.) Singer (1936)
+*''Lentinus tonkinensis'' [[Narcisse Théophile Patouillard | Pat.]] (1890)
+*''Lentinus mellianus'' Lohwag (1918)
+
+The mushroom's Japanese name {{nihongo||[[wikt:椎茸|椎茸]]|shiitake}} is a compound word composed of {{nihongo|''shii''|椎|''[[Castanopsis]]''}}, for the tree ''[[Castanopsis cuspidata]]'' that provides the dead logs on which it is typically cultivated, and {{nihongo||茸|take|"mushroom"}}.<ref name="Coates 2004"/> The [[botanical name|specific epithet]] ''{{lang|la|edodes}}'' is the [[Latin]] word for "edible".<ref name="Halpern 2007"/>
+
+It is also [[common name|commonly called]] "[[sawtooth oak]] mushroom", "black forest mushroom", "black mushroom", "[[golden oak]] mushroom", or "oakwood mushroom".<ref>{{cite book |last=Stamets|first=P.|title=Growing Gourmet and Medicinal Mushrooms |edition=3rd |publisher=Ten Speed Press |location=Berkeley, California |year=2000 |isbn=978-1-58008-175-7 |page=260}}</ref>
+
+== Distribution and habitat ==
+Shiitake grow in groups on the decaying wood of [[deciduous tree]]s, particularly [[Castanopsis cuspidata|shii]] and other [[Castanopsis|chinquapin]]s, [[chestnut]], [[oak]], [[maple]], [[beech]], [[sweetgum]], [[Populus|poplar]], [[hornbeam]], [[ironwood]], and [[mulberry]]. Its natural distribution includes warm and moist climates in [[Southeast Asia]].<ref name="Coates 2004"/>
+
+==Cultivation==
+The earliest written record of shiitake cultivation is seen in the ''Records of [[Longquan]] County'' ({{lang|zh|龍泉縣志}}) compiled by He Zhan ({{lang|zh|何澹}}) in 1209 during the [[Song dynasty]] in China.<ref>{{Cite web|script-title=zh:香菇简介 |trans-title=Mushroom Introduction |language=zh |publisher=Yuwang jituan |url=http://hnywzy.com/news_show.asp?id=1829 |archive-url=https://web.archive.org/web/20170225225742/http://hnywzy.com/news_show.asp?id=1829 |archive-date=25 February 2017 |url-status=live}}</ref> The 185-word description of shiitake cultivation from that literature was later cross-referenced many times and eventually adapted in a book by a Japanese horticulturist {{nihongo|Satō Chūryō|佐藤中陵}} in 1796, the first book on shiitake cultivation in Japan.<ref name="Miles 2004"/>
+The Japanese cultivated the mushroom by cutting [[shii tree]]s with axes and placing the logs by trees that were already growing shiitake or contained shiitake [[spore]]s.<ref>{{Cite magazine|last=Tilak |first=Shantanu |year=2019 |title=The Shiitake Mushroom-A History in Magic & Folklore |magazine=The Mycophile |volume=59 |issue=1 |pages=1, 4 |url=https://namyco.org/docs/MycophileJanFef2019.pdf |archive-url=https://web.archive.org/web/20190205165444/https://namyco.org/docs/MycophileJanFef2019.pdf |archive-date=5 February 2019 |url-status=live}}</ref><ref>{{Cite book|last1=Przybylowicz |first1=Paul |last2=Donoghue |first2=John |year=1988 |title=Shiitake Growers Handbook: The Art and Science of Mushroom Cultivation |url=https://archive.org/details/shiitakegrowersh00przy |url-access=limited |location=Dubuque, Iowa |publisher=Kendall/Hunt  |pages=[https://archive.org/details/shiitakegrowersh00przy/page/n18 3]–6 |isbn=978-0-8403-4962-0 }}</ref> Before 1982, the Japan Islands' variety of these mushrooms could only be grown in traditional locations using ancient methods.<ref>{{Cite book|url=https://books.google.com/books?id=ci4NAQAAMAAJ&q=ancient+method+for+shiitake+growing|title=Mushroom Newsletter for the Tropics: The Official Publication of the International Mushroom Society for the Tropics|date=1980|publisher=International Mushroom Society for the Tropics|language=en}}</ref> A 1982 report on the budding and growth of the Japanese variety revealed opportunities for commercial cultivation in the United States.<ref name="Leatham 1982"/>
+
+Shiitake are widely cultivated worldwide, contributing about 25% of the total yearly production of mushrooms.<ref name="Vane 2003b"/> Commercially, shiitake mushrooms are typically grown in conditions similar to their natural environment on either artificial substrate or hardwood logs, such as oak.<ref name="Leatham 1982"/><ref name="Vane 2003b"/><ref name="Vane 2003a"/>
+
+==Toxicity==
+{{Main|Shiitake mushroom dermatitis}}
+
+Rarely, consumption of raw or slightly cooked shiitake mushrooms may cause an [[allergic reaction]] called "shiitake dermatitis", including an [[erythematous]], micro-[[papular]], streaky [[pruritus|pruriginous]] [[rash]] that occurs all over the body including face and scalp, appearing about 24 hours after consumption, possibly worsening by [[sun exposure]] and disappearing after 3 to 21 days.<ref name="Boels 2014" /> This effect – presumably caused by the [[polysaccharide]], [[lentinan]]<ref name="Boels 2014" /> – is more common in East Asia,<ref name="Herault2010" /> but may be growing in occurrence in Europe as shiitake consumption increases.<ref name="Boels 2014" /> Thorough cooking may eliminate the [[allergenicity]].<ref name="Welbaum 2015" />
+
+==Uses==
+{{nutritional value
+| name= Mushrooms, shiitake, raw
+| kJ=141
+| water=89.7 g
+| protein=2.2 g
+| fat=0.5 g
+| carbs=6.8 g
+| fiber=2.5 g
+| sugars=2.4 g
+| calcium_mg=2
+| iron_mg=0.4
+| magnesium_mg=20
+| phosphorus_mg=112
+| potassium_mg=304
+| sodium_mg=9
+| zinc_mg=1.0
+| manganese_mg=0.2
+| selenium_ug=5.7
+| vitC_mg=3.5
+| thiamin_mg=0.02
+| riboflavin_mg=0.22
+| niacin_mg=3.88
+| pantothenic_mg=1.5
+| vitB6_mg=0.29
+| folate_ug=13
+| vitD_ug=0.4
+| source_usda = 1
+| note=[https://fdc.nal.usda.gov/food-details/169242/nutrients Full Link to USDA Database entry]
+}}Fresh and dried shiitake have many uses in [[East Asian cuisine|East]] and [[Southeast Asian cuisine|Southeast]] Asia. In [[Chinese cuisine]], they are used in many dishes, including soups, braises, and [[Stir_frying|stir-fried]] vegetable dishes such as [[Buddha's delight]]. In [[Japan]], they are served in [[miso soup]], used as the basis for a kind of [[vegetarian]] ''[[dashi]]'', and as an ingredient in many steamed and [[simmered]] dishes.
+
+Two prized varieties are produced in cooler temperatures. One high-grade variety is called ''{{lang|zh-latn-pinyin|dōnggū}}'' ({{lang|zh|[[wikt:冬菇|冬菇]]}}) (literally "winter mushroom") in Chinese, or {{nihongo||[[wikt:冬子|冬子]]|donko}} in Japanese.<ref name="Chang 2013" /> The most highly prized variety is called ''{{lang|zh-latn-pinyin|huāgū}}'' ({{lang|zh|[[wikt:花菇|花菇]]}}) (literally "flower mushroom") in Chinese, due to the flower-like pattern of cracks in the cap. 
+{{nutritional value
+| name= Mushrooms, shiitake, dried 
+| kJ=1238
+| water=9.5 g
+| protein=9.58 g
+| fat=0.99 g
+| carbs=75.37 g
+| fiber=11.5 g
+| sugars=2.21 g
+| calcium_mg=11
+| iron_mg=1.72
+| magnesium_mg=132
+| phosphorus_mg=294
+| potassium_mg=1534
+| sodium_mg=13
+| zinc_mg=7.66
+| manganese_mg=1.176
+| selenium_ug=46
+| vitC_mg=3.5
+| thiamin_mg=0.3
+| riboflavin_mg=1.27
+| niacin_mg=14.1
+| pantothenic_mg=21.879
+| vitB6_mg=0.965
+| folate_ug=163
+| vitD_ug=3.9
+| source_usda = 1
+| note=[https://fdc.nal.usda.gov/food-details/168436/nutrients Link to USDA Database entry]
+}}
+
+===Nutrition===
+
+In a {{convert|100|g|oz|frac=2|abbr=off|adj=on}} reference serving, raw shiitake mushrooms provide {{convert|141|kJ|kcal|abbr=off}} of [[food energy]] and are 90% water, 7% [[carbohydrates]], 2% [[protein (nutrient)|protein]] and less than 1% [[fat]]. Raw shiitake mushrooms contain moderate levels of some [[dietary minerals]].
+
+Like all mushrooms, shiitakes produce [[vitamin D2]] upon exposure of their internal [[ergosterol]] to [[ultraviolet B]] (UVB) rays from sunlight or broadband UVB fluorescent tubes.<ref>{{cite journal |author1=Ko JA |author2=Lee BH |author3=Lee JS |author4=Park HJ. |title=Effect of UV-B exposure on the concentration of vitamin D2 in sliced shiitake mushroom (''Lentinus edodes'') and white button mushroom (''Agaricus bisporus'') |journal=J Agric Food Chem |volume=50 |issue=10|pages=3671–3674|year=2008|doi= 10.1021/jf073398s |pmid=18442245 |bibcode=2008JAFC...56.3671K }}</ref><ref>{{Cite journal|last1=Cardwell|first1=Glenn|last2=Bornman|first2=Janet F.|last3=James|first3=Anthony P.|last4=Black|first4=Lucinda J.|date=2018-10-13|title=A Review of Mushrooms as a Potential Source of Dietary Vitamin D|journal=Nutrients|language=en|volume=10|issue=10|pages=1498|doi=10.3390/nu10101498|pmid=30322118|pmc=6213178|doi-access=free}}</ref>
+
+==Gallery==
+<gallery widths="200" heights="200">
+File:Shiitake mushroom in Vegetable store in Yuen Long.jpg|Fresh shiitake mushroom in the vegetable market in Hong Kong 
+File:Wild Shiitake-Mushroom Japan.JPG|Shiitake growing wild in [[Hokkaido]]
+File:Pyogobokkeum.jpg|Korean ''pyogo-[[bokkeum]]'' (stir-fried shiitake mushroom)
+File:Shiitake Meshi Ekiben.JPG|Japanese [[ekiben]] {{nihongo||椎茸めし|shiitake-meshi}}
+File:Shiitake timelapse.webm|Timelapse video of shiitake growth
+File:Lentinan.svg|[[Lentinan]], a [[beta-glucan]] isolated from the shiitake mushroom
+File:Shitake Mushroom.jpg|Young shiitake mushrooms on a log
+</gallery>
+
+==References==
+{{Reflist|30em|refs=
+
+<ref name="Berkeley 1877">{{cite journal |author=Berkeley MJ. |title=Enumeration of the fungi collected during the Expedition of H.M.S. 'Challenger', 1874–75. (Third notice) |journal=Botanical Journal of the Linnean Society |year=1877 |volume=16 |issue=89 |pages=38–54 |doi=10.1111/j.1095-8339.1877.tb00170.x|url=https://zenodo.org/record/1433039 }}</ref>
+
+<ref name="Boels 2014">{{cite journal |author1=Boels D |author2=Landreau A |author3=Bruneau C |author4=Garnier R |author5=Pulce C |author6=Labadie M |author7=de Haro L |author8=Harry P. |title=Shiitake dermatitis recorded by French Poison Control Centers – New case series with clinical observations |journal=Clinical Toxicology |year=2014 |volume=52 |issue=6 |pages=625–8 |doi=10.3109/15563650.2014.923905 |pmid=24940644|s2cid=21541970 }}</ref>
+
+<ref name="Chang 2013">{{cite book |author1=Chang TS |author2=Hayes WA. |title=The Biology and Cultivation of Edible Mushrooms |url=https://books.google.com/books?id=-yngBAAAQBAJ&pg=PA470 |year=2013 |publisher=Elsevier Science |isbn=978-1-4832-7114-9 |page=470}}</ref>
+
+<ref name="Coates 2004">{{cite book |author=Wasser S. |editor1=Coates PM |editor2=Blackman M |editor3=Cragg GM |editor4=White JD |editor5=Moss J |editor6=Levine MA. |chapter=Shiitake (''Lentinula edodes'') |title=Encyclopedia of Dietary Supplements |chapter-url=https://books.google.com/books?id=Sfmc-fRCj10C&pg=PA653 |year=2004 |publisher=CRC Press |isbn=978-0-8247-5504-1 |pages=653–64}}</ref>
+
+<ref name="Halpern 2007">{{cite book |author=Halpern GM. |title=Healing Mushrooms |url=https://books.google.com/books?id=FlrpouUh740C&pg=PA48 |year=2007 |publisher=[[Square One Publishers]] |isbn=978-0-7570-0196-3 |page=48}}</ref>
+
+<ref name=Herault2010>{{cite journal |author1=Hérault M |author2=Waton J |author3=Bursztejn AC |author4=Schmutz JL |author5=Barbaud A. |title=Shiitake dermatitis now occurs in France |journal=Annales de Dermatologie et de Vénéréologie |year=2010 |volume=137 |issue=4 |pages=290–3 |pmid=20417363 |doi=10.1016/j.annder.2010.02.007}}</ref>
+
+<ref name="Leatham 1982">{{cite journal |author=Leatham GF. |title=Cultivation of shiitake, the Japanese forest mushroom, on logs: A potential industry for the United States |year=1982 |journal=Forest Products Journal |volume=32 |issue=8 |pages=29–35 |url=http://128.104.77.228/documnts/pdf1982/leath82a.pdf |access-date=21 July 2010 |archive-url=https://web.archive.org/web/20110703033630/http://128.104.77.228/documnts/pdf1982/leath82a.pdf |archive-date=3 July 2011 |url-status=dead }}</ref>
+
+<ref name="Miles 2004">{{cite book |author1=Miles PG |author2=Chang S-T. |title=Mushrooms: Cultivation, Nutritional Value, Medicinal Effect, and Environmental Impact |url=https://books.google.com/books?id=XO4EGzpp1M0C&pg=PA241 |year=2004 |publisher=CRC Press |isbn=978-0-203-49208-6 |page=241}}</ref>
+
+<ref name="Pegler 1976">{{cite journal |author=Pegler D. |title=The classification of the genus ''Lentinus'' Fr. (Basidiomycota) |journal=Kavaka |year=1975 |volume=3 |pages=11–20}}</ref>
+
+<ref name="Vane 2003a">{{cite journal |author1=Vane CH |author2=Drage TC |author3=Snape CE. |year=2003 |title=Biodegradation of oak (''Quercus alba'') wood during growth of the Shiitake mushroom (''Lentinula edodes''): A molecular approach |journal=Journal of Agricultural and Food Chemistry |volume=51 |issue=4 |pages=947–956 |pmid=12568554 |doi=10.1021/jf020932h|bibcode=2003JAFC...51..947V }}</ref>
+
+<ref name="Vane 2003b">{{cite journal |author=Vane CH. |year=2003 |title=Monitoring decay of black gum wood (''Nyssa sylvatica'') during growth of the Shiitake mushroom (''Lentinula edodes'') using diffuse reflectance infrared spectroscopy |journal=Applied Spectroscopy |volume=57 |issue=5 |pages=514–517 |pmid=14658675 |doi=10.1366/000370203321666515|bibcode=2003ApSpe..57..514V |s2cid=27403919 }}</ref>
+
+<ref name="urlFungorum synonymy: Lentinula edodes">{{cite web |title=GSD Species Synonymy: ''Lentinula edodes'' (Berk.) Pegler |url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=316467 |publisher=Species Fungorum. CAB International |access-date=2015-03-09}}</ref>
+
+<ref name="Welbaum 2015">{{cite book |author=Welbaum GE. |title=Vegetable Production and Practices |url=https://books.google.com/books?id=zq4tBgAAQBAJ&pg=PA445 |year=2015 |publisher=CAB International |isbn=978-1-78064-534-6 |page=445}}</ref>
+
+}}
+
+== External links ==
+* {{Commons inline|Lentinula edodes}}
+
+{{Japanese food and drink}}
+{{Medicinal herbs & fungi}}
+{{Taxonbar|from=Q320999}}
+
+[[Category:Articles containing video clips]]
+[[Category:Chinese edible mushrooms]]
+[[Category:Edible fungi]]
+[[Category:Fungi in cultivation]]
+[[Category:Fungi of Asia]]
+[[Category:Japanese cuisine terms]]
+[[Category:Marasmiaceae]]
+[[Category:Medicinal fungi]]

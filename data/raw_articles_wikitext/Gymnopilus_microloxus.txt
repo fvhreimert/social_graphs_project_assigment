@@ -1,0 +1,39 @@
+{{Short description|Species of fungus}}
+{{single source|date=October 2025}}
+{{no footnotes|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption =
+| taxon = Gymnopilus microloxus
+| authority = [[Rolf Singer|Singer]]
+| synonyms =
+}}
+{{mycomorphbox
+| name = Gymnopilus microloxus
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+}}
+
+'''''Gymnopilus microloxus''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]].
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==External links==
+*''[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=314793 Gymnopilus microloxus]'' at [[Index Fungorum]]
+
+{{Taxonbar|from=Q5624874}}
+
+{{DEFAULTSORT:Gymnopilus microloxus}}
+[[Category:Gymnopilus|microloxus]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

@@ -1,0 +1,69 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Hebeloma sinapizans.JPG
+| image_caption =
+| genus = Hebeloma
+| species = sinapizans
+| authority = ([[Jean-Jacques Paulet|Paulet]]) [[Claude Casimir Gillet|Gillet]] (1878)
+| synonyms_ref = <ref name="urlMycoBank: Hebeloma sinapizans"/>
+| synonyms =
+  {{plainlist|
+*''Hypophyllum sinapizans'' <small>Paulet (1793)</small>
+*''Agaricus sinapizans'' <small>(Paulet) [[Elias Magnus Fries|Fr.]] (1838)</small>
+*''Hebeloma sinapizans'' <small>(Paulet) [[Sacc.]] (1887)</small>
+  }}
+}}{{Mycomorphbox
+| name = ''{{PAGENAME}}''{{italic title}}
+| hymeniumType = gills
+| capShape = convex
+| whichGills = adnexed
+| stipeCharacter = bare
+| sporePrintColor = brown
+| ecologicalType = mycorrhizal
+| howEdible = poisonous
+}}'''''Hebeloma sinapizans''''', commonly known as the '''scaly-stalked heboloma''',<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/465/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=465 |orig-date=1979}}</ref> '''rough-stalked hebeloma''' or the '''bitter poisonpie''', is a species of [[mushroom]] in the family [[Hymenogastraceae]]. It has a strong [[radish]]-like smell and a prominent bulbous [[stipe (mycology)|stem]] base. ''H.&nbsp;sinapizans'' is found in Europe and North America and is [[Mushroom poisoning|poisonous]].
+
+==Taxonomy==
+First described as ''Hypophyllum sinapizans'' by [[Jean-Jacques Paulet]] in 1793,<ref name="Paulet 1793"/> it was transferred to the genus ''[[Hebeloma]]'' by [[Claude Casimir Gillet]] in 1878.<ref name="Gillet 1878"/> It is [[common name|commonly]] known as the "rough-stalked Hebeloma".<ref name="Bessette 2007"/>
+
+==Description==
+The [[basidiocarp|fruit body]] has a [[pileus (mycology)|cap]] that is initially convex before flattening out in age, reaching a diameter of {{convert|4-16|cm|abbr=off|frac=2}}.<ref name="Arora1986" /> The cap may have a shallow [[umbo (mycology)|umbo]]. The cap surface is smooth, moist to sticky, and first with an inrolled margin then becoming uplifted. It is tannish, sometimes with pinkish grayish tints.<ref name="Arora1986" /> The [[lamella (mycology)|gills]] have an [[adnation|adnate]] attachment to the [[stipe (mycology)|stipe]] and have a notch just before the point of attachment; the gill edges have tiny fringes or serrations.<ref name="Arora1986" /> They are first whitish before turning pale brown in maturity.<ref name="Arora1986" /> The [[spore print]] is pale brown.<ref name="Arora1986" /> 
+
+The stipe measures {{convert|2-13|cm|abbr=on|frac=2}} long and {{convert|1-3|cm|4=cm|abbr=on|frac=2}} thick; it is roughly equal in width except for a swollen base.<ref name="Arora1986" /><ref name="Bessette 2007" /> The [[trama (mycology)|flesh]] is whitish, thick, and has a radish-like odor<ref name="Arora1986" /> and taste. The [[Basidiospore|spores]] are elliptical with a rough surface texture and measure 10–14 by 6–8&nbsp;[[μm]].<ref name="Bessette 2007" />
+
+=== Similar species ===
+It is similar to the more common ''[[Hebeloma crustuliniforme|H.&nbsp;crustuliniforme]]'', a smaller relative<ref name="Arora1986" /> that is also [[Mushroom poisoning|poisonous]].
+
+==Distribution and habitat==
+As of December 2022, the species has been found in 20 countries across Europe as well as in Asiatic Turkey and Lebanon.<ref>{{cite web |title=Hebeloma sinapizans |url=https://hebeloma.org/species/sinapizans |access-date=2022-12-28}}</ref>
+
+The fungus fruits on the ground in groups or [[fairy ring]]s in deciduous and coniferous forests.<ref name="Bessette 2007" /> 
+
+==Toxicity==
+''H. sinapizans'' mushrooms are poisonous,<ref name="Bessette 2007" /> causing [[gastrointestinal upset]].<ref name="Arora1986" />
+
+==See also==
+*[[List of Hebeloma species|List of ''Hebeloma'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Bessette 2007">{{cite book |vauthors=Bessette AE, Roody W, Bessette AR |title=Mushrooms of the Southeastern United States |url=https://books.google.com/books?id=IB1Gv3jZMmAC&pg=PA137 |year=2007 |publisher=Syracuse University Press |location=Syracuse |isbn=978-0-8156-3112-5 |page=137}}</ref>
+
+<ref name="Gillet 1878">{{cite book |author=Gillet CC. |title=Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France |year=1878 |publisher=Ch.&nbsp;Thomas |location=Alençon |page=527 |language=French}}</ref>
+
+<ref name="Paulet 1793">{{cite book |author=Paulet JJ. |title=Traité des champignons |year=1793 |volume=2 |publisher=Louvre |location=Paris |at=plate 82 |language=French}}</ref>
+
+<ref name="urlMycoBank: Hebeloma sinapizans">{{cite web |title=''Hebeloma sinapizans'' (Paulet) Gillet, Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France: 527, 1878 |url=http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=12518&Fields=All |publisher=[[MycoBank]]. International Mycological Association |access-date=2013-12-01}}</ref>
+
+}}
+
+{{Taxonbar|from=Q2714643}}
+
+[[Category:Hebeloma|sinapizans]]
+[[Category:Fungi described in 1793]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi found in fairy rings]]
+[[Category:Fungus species]]
+[[Category:Poisonous fungi]]

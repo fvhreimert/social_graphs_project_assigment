@@ -1,0 +1,39 @@
+{{Short description|Species of fungus}}
+{{single source|date=October 2025}}
+{{no footnotes|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption =
+| taxon = Gymnopilus purpureonitens
+| authority = ([[Mordecai Cubitt Cooke|Cooke]] & [[George Edward Massee|Massee]]) [[David Pegler|Pegler]]
+| synonyms =
+}}
+{{mycomorphbox
+| name = Gymnopilus purpureonitens
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+
+'''''Gymnopilus purpureonitens''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]].
+
+==See also==
+{{Portal|Fungi}}
+* [[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==External links==
+*''[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=331598 Gymnopilus purpureonitens]'' at [[Index Fungorum]]
+
+{{Taxonbar|from=Q8007965}}
+
+{{DEFAULTSORT:Gymnopilus purpureonitens}}
+[[Category:Gymnopilus|purpureonitens]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

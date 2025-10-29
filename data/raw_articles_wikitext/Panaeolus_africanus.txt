@@ -1,0 +1,55 @@
+{{Speciesbox
+| image =
+| genus = Panaeolus
+| species = africanus
+| authority = [[Ola'h]]
+| synonyms =
+| synonyms_ref =
+}}
+{{mycomorphbox
+| name = ''Panaeolus africanus''
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=saprotrophic
+| sporePrintColor=black
+| howEdible=psychoactive
+}}
+
+'''''Panaeolus africanus''''' is a little brown [[mushroom]] that contains irregular amounts of the hallucinogens [[psilocybin]] and [[psilocin]].<ref name="Stamets">{{cite book|last1=Stamets|first1=Paul|title=Psilocybe Mushrooms of the World|date=1996|publisher=Ten Speed Press|location=Berkeley|isbn=0-9610798-0-0|pages=71}}</ref>  It has been found in central Africa and southern [[Sudan]].<ref name="Stamets" />
+
+== Description ==
+This is a little brown mushroom that grows on [[hippopotamus]] and [[elephant]] dung and has black [[spores]].  The cap is up to 2&nbsp;cm in diameter, gray, conic, and often with scaly cracks.  It is viscid when moist and the flesh is grey to white.  The gills are grayish when young and turn black with a mottled appearance as the spores mature.  The stem is 4&nbsp;cm long by 5&nbsp;mm thick, and is [[wikt:pruinose|pruinose]] at the top.  The spores are black, rather variable,  13 x 9 [[micrometre|μm]], and shaped like almonds.  Macroscopically, this species resembles [[Panaeolus semiovatus var. phalaenarum|''Panaeolus semiovatus'' var. ''phalaenarum'']].<ref name="Stamets" />
+
+*'''Cap:''' 1.5–2&nbsp;cm broad. Obtusely conic, hemispheric and rarely broadly convex in age. Surface smooth (but may crack to form scales when exposed to the sun), viscid when wet, especially in young specimens, sometimes reddish brown towards the disc, and becoming grayish brown in age. '''Margin''' incurved when young, often irregular, and non-translucent. Flesh greyish white.
+*'''Gills:''' Attachment adnate to adnexed, sometimes sinuate, rarely subdecurrent, widely spaced, irregular, greyish a first, soon grayish black, blackish with age, and mottled as spores mature.
+*'''Stem:''' 30-50mm by 4-6mm thick, equal, firm, pruinose towards the apex. Whitish to white with pinkish tones, generally lighter than the cap, and lacking any veil remnants.
+*'''Microscopic Features:''' Spores nearly black in deposit, 11.5-14.5 by 7.9-10 micrometers, lemon shaped, and often variable. Basidia 2- and 4-spored. Cheilocystidia clavate 17-24 by 7.4-12 micrometers. Pleurocystidia present, with extended sharp apices, 25-60 (60) by 10-17 (20) micrometers.<ref name="Stamets" />
+
+==Habitat and distribution==
+Reported from [[central Africa]] to the southern regions of the [[Sudan]]. Probably more widely distributed. Found on hippopotamus and elephant dung in the spring or during the rainy seasons.<ref name="Stamets" />
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Panaeolus species|List of ''Panaeolus'' species]]
+
+==References==
+{{Reflist}}
+{{More citations needed|date=August 2014}}
+
+==External links==
+* [http://www.mushroomjohn.org/panaeolusafricanus1.htm Mushroom John - ''Panaeolus africanus''] {{Webarchive|url=https://web.archive.org/web/20071205013326/http://www.mushroomjohn.org/panaeolusafricanus1.htm |date=2007-12-05 }}
+
+{{Hallucinogenic mushrooms}}
+{{Taxonbar|from=Q7129779}}
+
+{{DEFAULTSORT:Panaeolus africanus}}
+[[Category:Entheogens]]
+[[Category:Psychoactive fungi]]
+[[Category:Panaeolus|africanus]]
+[[Category:Psychedelic tryptamine carriers]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Africa]]
+[[Category:Fungus species]]

@@ -1,0 +1,33 @@
+{{Short description|Species of fungus}}
+{{more citations needed|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption = 
+| taxon = Gymnopilus weberi
+| authority = [[William Alphonso Murrill|Murrill]] (1946)
+| synonyms = *''Flammula weberi'' <small>(Murrill) Murrill (1946)</small>
+}}
+
+'''''Gymnopilus weberi''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]]. Found in North America, it was [[species description|described]] as new to science in 1946 by mycologist [[William Alphonso Murrill]].<ref name="Murrill 1945"/>
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Murrill 1945">{{cite journal |author=Murrill WA. |title=More fungi from Florida |journal=Lloydia |year=1945 |volume=8 |pages=263–290}}</ref>
+
+}}
+
+{{Taxonbar|from=Q5625046}}
+
+[[Category:Fungi described in 1946]]
+[[Category:Fungi of North America]]
+[[Category:Gymnopilus|weberi]]
+[[Category:Taxa named by William Alphonso Murrill]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

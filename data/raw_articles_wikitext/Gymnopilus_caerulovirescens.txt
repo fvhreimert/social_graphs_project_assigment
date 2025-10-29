@@ -1,0 +1,35 @@
+{{Short description|Species of fungus}}
+{{unreferenced|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption =
+| taxon = Gymnopilus caerulovirescens
+| authority = Z.S. Bi
+| synonyms =
+}}
+{{mycomorphbox
+| name = Gymnopilus caerulovirescens
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+
+'''''Gymnopilus caerulovirescens''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]].
+
+==See also==
+{{Portal|Fungi}}
+[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+{{Taxonbar|from=Q5624742}}
+
+{{DEFAULTSORT:Gymnopilus caerulovirescens}}
+[[Category:Gymnopilus|caerulovirescens]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

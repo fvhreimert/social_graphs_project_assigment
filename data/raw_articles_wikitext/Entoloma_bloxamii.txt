@@ -1,0 +1,76 @@
+{{Short description|Species of fungus}}
+{{Use dmy dates|date=February 2021}}
+{{Speciesbox
+| image = Bresadola - Entoloma bloxamii.png
+| image_caption = ''Entoloma bloxamii'' illustrated by [[Giacomo Bresadola]]
+| status = VU
+| status_system = IUCN3.1
+| status_ref = <ref name="iucn2022"/>
+| taxon = Entoloma bloxamii
+| authority = ([[Miles Joseph Berkeley|Berk.]] & [[Christopher Edmund Broome|Broome]]) [[Pier Andrea Saccardo|Sacc.]]
+| synonyms =
+{{Species list 
+| Agaricus bloxamii | [[Miles Joseph Berkeley|Berk.]] & [[Christopher Edmund Broome|Broome]]
+| Entoloma bloxamii var. triste | Boud.
+| Entoloma madidum var. bloxamii | (Berk. & Broome) Largent
+| Rhodophyllus bloxamii | (Berk. & Broome) Romagn.
+}}
+| synonyms_ref = <ref>{{GBIF|id=2539763|taxon=''Entoloma bloxamii''|access-date=2022-05-16}}</ref>
+}}
+
+{{Mycomorphbox
+| name = ''{{PAGENAME}}''{{italic title}}
+| hymeniumType = gills
+| capShape = convex
+| whichGills = adnexed
+| stipeCharacter = bare
+| sporePrintColor = pink
+| ecologicalType = saprotrophic
+| howEdible = caution
+}}
+
+'''''Entoloma bloxamii''''', commonly known as the '''big blue pinkgill''',<ref name="BMS" /> is a species of [[agaric]] (gilled mushroom) in the family [[Entolomataceae]].
+
+The species has a European distribution, occurring mainly in agriculturally unimproved grassland.<ref name="iucn2022"/> It has been reported from North America, but at least some of these reports represent a distinct species, ''[[Entoloma medianox|E.&nbsp;medianox]]''.<ref name="Schwartz"/> Threats to the habitat of ''E.&nbsp;bloxamii'' have resulted in it being assessed as globally "[[vulnerable species|vulnerable]]" on the [[IUCN Red List of Threatened Species]].<ref name="iucn2022"/>
+
+==Taxonomy==
+The species was originally [[species description|described]] from England in 1854 and named ''Agaricus Bloxami'' (sic) by [[Miles Joseph Berkeley]] and [[Christopher Edmund Broome]], in honour of its collector, the naturalist and clergyman [[Andrew Bloxam]]. It was transferred to the genus ''[[Entoloma]]'' by the Italian mycologist [[Pier Andrea Saccardo]] in 1887.{{fact|date=May 2022}}
+
+Recent [[Molecular phylogenetics|molecular]] research, based on [[cladistic]] analysis of [[DNA sequences]], has shown that ''Entoloma bloxamii'' [[sensu lato]] comprises a number of distinct blue taxa in Europe,<ref name="Morgardo"/> including ''Entoloma bloxamii'' [[sensu stricto]], ''Entoloma madidum'' (previously considered a synonym), ''E.&nbsp;atromadidum'', ''E.&nbsp;ochreoprunuloides'' f. ''hyacinthinum'', and an additional as yet unnamed species.<ref name="Ainsworth"/> Collections from the west coast of North America, formerly referred to ''E.&nbsp;bloxamii'' or ''E.&nbsp;madidum'', are also distinct<ref name="Morgardo"/> and are now referred to ''[[Entoloma medianox]]''.<ref name="Schwartz"/> 
+
+==Description==
+The [[basidiocarp]]s are [[agaric]]oid, up to 4.5&nbsp;cm (1.75&nbsp;in) tall, the cap conical becoming convex to conical, up to 5&nbsp;cm (2&nbsp;in) across. The cap surface is smooth, pale greyish blue at first becoming greyish brown. The [[lamella (mycology)|lamellae]] (gills) are white becoming pink from the spores. The [[stipe (mycology)|stipe]] (stem) is smooth, finely fibrillose, white with greyish blue streaks, often yellowish at the base, lacking a [[annulus (mycology)|ring]]. The [[spore print]] is pink, the spores (under a microscope) multi-angled, [[inamyloid]], measuring about 7.5 to 9.5 by 7 to 9.5&nbsp;[[μm]].<ref name="Morgardo"/>
+
+===Similar species===
+''Entoloma madidum'' (the midnight blue entoloma)<ref name=Arora1986>{{Cite book |last=Arora |first=David |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/243/mode/2up |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |orig-date=1979 |edition=2nd |page=243}}</ref> is a deeper, slightly violet blue and retains some of its colour when old. It also has smaller spores (6 to 7.5&nbsp;μm).<ref name="Morgardo"/> ''E.&nbsp;atromadidum'' is similar but a darker, indigo blue and ''E.&nbsp;ochreoprunuloides'' f. ''hyacinthinum'' is dark brown with violaceous tints.<ref name="Ainsworth"/>
+
+==Distribution and habitat==
+The species is rare but widespread in Europe.<ref name="iucn2022"/> Like many other European pinkgills, it occurs in old, agriculturally unimproved, [[waxcap grassland|short-sward grassland]] (pastures and lawns). It is usually associated with [[Calcareous grassland|calcareous soils]] although it may also be found in more acidic areas.<ref name="Courtecuisse">Courtecuisse, R. & Duhem, B. (1995) Mushrooms and toadstools of Britain and Europe. Harper Collins, London.</ref> 
+
+==Conservation==
+''Entoloma bloxamii'' is typical of [[waxcap grassland]]s, a declining habitat due to changing agricultural practices. As a result, the species is of global conservation concern and is listed as "vulnerable" on the [[IUCN Red List of Threatened Species]].<ref name="iucn2022"/>  
+
+==See also==
+*[[List of Entoloma species|List of ''Entoloma'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="iucn2022">{{cite iucn |publisher=[[IUCN]] |title=''Entoloma bloxamii'' |author=Jordal J. |year=2019 |volume=2019 |article-number=e.T147245319A147869057 |doi=10.2305/IUCN.UK.2019-2.RLTS.T147245319A147869057.en |url=https://www.iucnredlist.org/species/147245319/147869057}}</ref>
+
+<ref name="Schwartz">{{cite web |author=Schwartz C |year=2015 |title=''Entoloma medianox'', a new name for a common species on the Pacific coast of North America |url=http://www.scmycoflora.org/documents/Entoloma-medianox.pdf}}</ref>
+
+<ref name="Ainsworth">{{cite journal |vauthors=Ainsworth AM, Douglas B, Suz LM |year=2018 |title=Big Blue Pinkgills formerly known as ''Entoloma bloxamii'' in Britain: ''E. bloxamii'' s. str., ''E. madidum'', ''E. ochreoprunuloides'' forma ''hyacinthinum'' and ''E. atromadidum'' sp. nov. |journal=Field Mycology |volume=19 |issue=1 |pages=5–14 |doi=10.1016/j.fldmyc.2018.01.004|doi-access=free }}</ref>
+
+<ref name="Morgardo">{{cite journal |vauthors=Morgado LN, Noordeloos ME, Lamoureux Y, Geml J |year=2013 |title=Multi-gene phylogenetic analyses reveal species limits, phylogeographic patterns, and evolutionary histories of key morphological traits in ''Entoloma'' (Agaricales, Basidiomycota) |journal=Persoonia |volume=31 |pages=159–178 |doi=10.3767/003158513X673521|pmid=24761041 |pmc=3904048 }}</ref>
+
+<ref name="BMS">{{cite web |author=Holden L. |url=http://www.britmycolsoc.org.uk/library/english-names/ |title=English names for fungi 2014 |date=July 2014 |publisher=[[British Mycological Society]] |access-date=2016-02-06 |archive-date=23 September 2015 |archive-url=https://web.archive.org/web/20150923194645/http://www.britmycolsoc.org.uk/library/english-names/ }}</ref>
+
+}}
+
+{{Taxonbar|from=Q1956186}}
+
+[[Category:Entolomataceae]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi described in 1854]]
+[[Category:Fungus species]]

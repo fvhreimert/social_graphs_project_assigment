@@ -1,0 +1,33 @@
+{{Use dmy dates|date=August 2024}}
+{{one source|date=August 2024}}
+{{Speciesbox
+| image = Geastrum australe 9800901.jpg
+| genus = Geastrum
+| species = australe
+| authority = [[Miles Joseph Berkeley|Berk.]] (1859)
+}}
+{{mycomorphbox 
+| capShape =no 
+| hymeniumType=gleba 
+| whichGills = NA
+| stipeCharacter = NA
+| ecologicalType=saprotrophic 
+| sporePrintColor=brown 
+| howEdible=inedible 
+}}
+'''''Geastrum australe''''' is an inedible species of [[mushroom]] belonging to the genus ''[[Geastrum]]'', or earthstar fungi. It can be mistaken for ''[[Geastrum saccatum|G.&nbsp;saccatum]]'' or ''[[Geastrum simulans|G.&nbsp;simulans]]'', and is found in [[Melbourne]].<ref>{{Cite web |url=http://www.rbg.vic.gov.au/dbpages/cat/index.php/fungicatalogue/name/7685 |title=ICAF – Geastrum australe |access-date=20 August 2010 |archive-url=https://web.archive.org/web/20110316233659/http://www.rbg.vic.gov.au/dbpages/cat/index.php/fungicatalogue/name/7685 |archive-date=16 March 2011 }}</ref>
+
+==References==
+{{reflist}}
+
+{{Taxonbar|from=Q5529518}}
+
+[[Category:Geastrum|australe]]
+[[Category:Inedible fungi]]
+[[Category:Fungi of Australia]]
+[[Category:Fungi native to Australia]]
+[[Category:Fungi described in 1859]]
+[[Category:Fungus species]]
+
+
+{{Geastrales-stub}}

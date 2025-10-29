@@ -1,0 +1,40 @@
+{{short description|Species of fungus}}
+{{Speciesbox
+| image = Sarcoscypha austriaca 81949.jpg
+| image_caption = 
+| taxon = Sarcoscypha austriaca
+| authority = (Beck ex [[Pier Andrea Saccardo|Sacc.]]) [[Jean Louis Émile Boudier|Boud.]] (1907)
+| synonyms = *''Lachnea austriaca'' <small>(Beck) Sacc. (1889)</small>
+*''Peziza austriaca'' <small>Beck ex Mussat (1901)</small>
+}}
+{{mycomorphbox
+| name = ''Sarcoscypha austriaca''
+| whichGills = no
+| capShape = no
+| hymeniumType = smooth
+| stipeCharacter = bare
+| ecologicalType = saprotrophic
+| howEdible = unknown 
+}}
+
+'''''Sarcoscypha austriaca''''' is a [[Saprotrophic nutrition|saprobic]] [[fungus]] in the family [[Sarcoscyphaceae]] of the order [[Pezizales]] of [[Ascomycota]]. It is commonly known as the '''scarlet elfcup''', '''pézize écarlate''' and  '''scharlachroter kelchbecherling'''.<ref name=RM>[http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6761~gid~~source~gallerydefault.asp Rogers Mushrooms] {{webarchive|url=https://web.archive.org/web/20120817144232/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6761~gid~~source~gallerydefault.asp |date=2012-08-17 }}</ref> The species name means "from [[Austria]]".
+
+==Distribution==
+This species is found in Europe and the Northeast of North America where it can be separated from ''[[Sarcoscypha dudleyi]]'' on spore characteristics.<ref name=RM/><ref>[http://www.messiah.edu/Oakes/fungi_on_wood/cup%20and%20saucer/species%20pages/Sarcoscypha%20austriaca.htm Gary Emberger: Sarcoscypha austriaca]</ref>
+
+==Description==
+This species is found growing on fallen pieces of dead [[hardwood]] among mosses and [[leaf litter]] in damp habitats in winter and early spring. The fruiting body is cup-shaped with a scarlet smooth, shiny interior. The exterior is covered with a [[felted mass]] of short hairs in varying shades of white and pink and a stubby stem. The flesh is white and rubbery with a thin red layer lining the cup. The spore print is white and the spores are ellipsoidal with flattened ends and containing several oil droplets. On the outside of the cup the hairs are curly or corkscrew shaped. These features distinguishes this species from the rather similar ''[[Sarcoscypha coccinea]]'' and ''[[Sarcoscypha jurana]]''<ref>[http://www.leifgoodwin.co.uk/Fungi/Sarcoscypha%20austriaca.html Leif Goodwin: Sarcoscypha austriaca]</ref> It is reported to grow on the dead wood of such hosts as ''[[Alnus incana]]'', species of ''[[Willow|Salix]]'', ''[[Acer (genus)|Acer]]'' and ''[[Robinia]]''.<ref>[http://www.grzyby.pl/gatunki/Sarcoscypha_austriaca.htm Grzyby Polski: Sarcoscypha austriaca]</ref> It is part of a complex of species which includes ''Sarcoscypha coccinea'' and ''Sarcoscypha dudleyi''.
+
+''Sarcoscypha austriaca'' is generally considered inedible,<ref name="Miller 2006">{{cite book|last=Miller Jr.|first=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuides]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=536|author-link=Orson K. Miller Jr.}}</ref> but is considered edible by the Norwegian Association for Mycology and Foraging.<ref>{{Cite web |last=nettbrygga.no |title=Skarlagen vårbeger |url=https://soppognyttevekster.no/normlisten/skarlagen-varbeger/ |access-date=2022-02-27 |website=Norges sopp- og nyttevekstforbund |language=no}}</ref><ref> [https://www.matriketmidt.no/nyheter/soppsesongen-er-i-gang/ "Soppsesongen er i gang!"], (In Norwegian.  "The mushroom season has started!") ''includes food recipes involving Sarcoscypha austriaca'', Matriket, 25 March 2020</ref> 
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q2519734}}
+
+[[Category:Sarcoscyphaceae]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1889]]
+[[Category:Inedible fungi]]
+[[Category:Fungus species]]

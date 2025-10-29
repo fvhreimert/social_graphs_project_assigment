@@ -1,0 +1,67 @@
+{{Speciesbox
+|image = Pluteus leoninus 20070624wa.JPG
+|genus = Pluteus
+|species = leoninus
+|authority = ([[Jacob Christian Schäffer|Schäffer]]:[[Elias Magnus Fries|Fr]]) [[P. Kumm.]]  (1871)
+|synonyms = ''Pluteus fayodii''
+}}
+{{mycomorphbox 
+| name = Pluteus leoninus
+| whichGills = free 
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=saprotrophic
+| sporePrintColor=salmon
+| howEdible=edible}}
+
+'''''Pluteus leoninus''''', commonly known as '''lion shield''', can occasionally be found growing on dead wood in [[Europe]] and [[North Africa]].  The underside of the cap is typical of the genus ''[[Pluteus]]'' — the gills are pale, soon becoming pink when the spores ripen.  But the upper surface is a bright tawny or olivaceous yellow.  The species name ''leoninus'' (meaning [[wikt:leonine|leonine]]) refers to this cap colour.
+
+==Description==
+This description is combined from several references.<ref name=Moser/><ref name="Courtecuisse1"/><ref name="Courtecuisse2"/><ref name=Phillips/>
+*The golden to olive-yellow convex cap is 3–7&nbsp;cm in diameter, is [[hygrophanous]], and usually has a grooved edge.  The darker central disc has a slight velvety [[Trichome#Plant trichomes|tomentum]].
+*The gills are yellowish at first, then salmon pink (the colour of the spore powder).
+*The stipe is up to about 7&nbsp;cm, often [[wikt:striate|striate]], being white to cream, and often darker near the base.
+*The mushroom grows on stumps and wood debris of broad-leaved trees and sometimes of conifers.
+*At the microscopic level, the filamentous cap cuticle is a [[trichoderm]].  The gills have scanty bladder-shaped [[Pleurocystidium|pleurocystidia]], and abundant [[wikt:fusiform|fusiform]] [[Cheilocystidium|cheilocystidia]].  The spores are smooth, almost globular, approximately 7×6 μm.
+
+Many authorities consider ''Pluteus fayodii'' to be a synonym of ''P. leoninus'',<ref name=Bon/><ref name="Courtecuisse1"/><ref name=EyssartierRoux/> but according to [[Index Fungorum|Species Fungorum]], they are distinct.<ref name=IF1/>
+
+==Edibility==
+According to some sources,<ref name=kinokonavi/><ref name=mikawa/> it is edible but has little to no taste.
+
+==See also==
+*[[List of Pluteus species|List of ''Pluteus'' species]]
+
+==References==
+{{Reflist|refs=
+<ref name=Bon>{{cite book |author=Marcel Bon |title=The Mushrooms and Toadstools of Britain and North-Western Europe |publisher=Hodder & Stoughton |year=1987 |page=262 |isbn=0-340-39935-X }}</ref>
+
+<ref name=EyssartierRoux>Guillaume Eyssartier, Pierre Roux (2013) "Le Guide des Champignons France et Europe" Editions Belin, Paris {{ISBN|978-2-7011-8289-6}}</ref>
+
+<ref name=Moser>Meinhard Moser: ''Basidiomycetes II: Röhrlinge und Blätterpilze'', Gustav Fischer Verlag Stuttgart (1978).  English edition:  translated by Simon Plant: ''Keys to Agarics and Boleti'' (Roger Phillips 1983)</ref>
+
+<ref name="Courtecuisse1">Courtecuisse, Régis (1999) "Collins Guide to the Mushrooms of Britain and Europe" HarperCollins, London {{ISBN|0-00-220012-0}}.</ref>
+
+<ref name="Courtecuisse2">Courtecuisse, R. & Duhem, B. (1994) "Guide des champignons de France et d'Europe" Delachaux et Niestlé, {{ISBN|2-603-00953-2}}, also available in English.</ref>
+
+<ref name=IF1>See [http://www.speciesfungorum.org/Names/GSDSpecies.asp?RecordID=282848|the page for ''Pluteus fayodii''] in [[Index Fungorum|Species Fungorum]].</ref>
+
+<ref name=Phillips>Roger Phillips : "Mushrooms and other fungi of Great Britain & Europe" (Pan Books Ltd., London 1981).</ref>
+
+<ref name=kinokonavi>http://www.kinoko-navi.com/未分類/ベニヒダタケ {{Dead link|date=February 2022}}</ref>
+
+<ref name=mikawa>{{Cite web|url=http://mikawanoyasou.org/kinoko/benihidatake.htm|title=ベニヒダタケ Pluteus leoninus ウラベニガサ科 Pluteaceae ウラベニガサ属 三河の植物観察野草}}</ref>
+}}
+
+{{Taxonbar|from=Q1314968}}
+
+[[Category:Edible fungi]]
+[[Category:Pluteus|leoninus]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of Africa]]
+[[Category:Fungi described in 1871]]
+[[Category:Fungus species]]
+
+
+{{Agaricales-stub}}

@@ -1,0 +1,144 @@
+{{Short description|Species of fungus}}
+{{featured article}}
+{{Speciesbox 
+| image = Boletus torosus 1.JPG
+| genus = Imperator
+| species = torosus
+| authority = ([[Elias Magnus Fries|Fr.]]) Assyov, Bellanger, Bertéa, Courtec., Koller, Loizides, G.Marques, J.A.Muñoz, N.Oppicelli, D.Puddu, F.Rich. & P.-A.Moreau (2015)
+| synonyms_ref = <ref name="Alessio 1985"/><ref name="urlMycoBank: Boletus torosus"/>
+| synonyms =
+*''Boletus torosus'' <small>Fr. (1835)</small>
+*''Dictyopus torosus'' <small>(Fr.) [[Lucien Quélet|Quél.]] (1886)</small>
+*''Boletus purpureus'' var. ''xanthocyaneus'' <small>[[Romagn.]] (1948)</small>
+*''Boletus xanthocyaneus'' <small>(Ramain) Romagn. (1976)</small>}}
+{{mycomorphbox
+| name = ''Imperator torosus''
+| capShape = convex
+| capShape2 =flat
+| hymeniumType = pores
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = olive-brown
+| howEdible = poisonous}}
+
+'''''Imperator torosus''''', commonly known as the '''brawny bolete''', is a species of [[bolete]] fungus in the family [[Boletaceae]]. It is native to [[southern Europe]] east to the [[Caucasus]] and Israel. It is generally associated with [[deciduous tree]]s such as [[hornbeam]], [[oak]] and [[beech]] in warm, dry locales. Although generally rare in Europe, it appears to be relatively common in [[Hungary]]. Appearing in summer and autumn on [[Calcareous|chalky]] soils, the stocky [[basidiocarp|fruit bodies]] have an ochre [[pileus (mycology)|cap]] up to 20&nbsp;cm (8&nbsp;in) across, yellow pores on the cap underside, and a [[wine (color)|wine-red]] to brown or blackish [[stipe (mycology)|stipe]] up to {{convert|6|–|15|cm|in|abbr=on}} long by {{convert|3|–|6|cm|in|abbr=on}} wide. The pale yellow [[trama (mycology)|flesh]] changes to different colours when broken or bruised depending on age; younger mushrooms become reddish, and older ones additionally take on bluish tones.
+
+[[Elias Magnus Fries]] and Christopher Theodor Hök first [[species description|described]] this species as ''Boletus torosus'' in 1835, a name by which it came to be known for many years. Modern [[molecular phylogenetics]] shows that it is only distantly related to ''[[Boletus edulis]]''—the [[type species]] of ''[[Boletus]]''—and it was duly placed in the new [[genus]] ''[[Imperator (fungus)|Imperator]]'' in 2015. Eating raw mushrooms of this species leads to  [[gastroenteritis]]. Illness has also occurred after eating cooked specimens, though this does not always happen.
+
+==Taxonomy==
+Swiss mycologist [[Louis Secretan]] described the brawny bolete as ''Boletus pachypus'' in his 1833 work ''Mycographie Suisse''.<ref name="Secretan 1833"/> Many of his names have been rejected for [[nomenclature codes|nomenclatural]] purposes because Secretan had a narrow [[species concept]], dividing many [[taxon|taxa]] into multiple species that were not supported by other authorities, and his works did not use [[binomial nomenclature]] consistently.<ref name="Donk 1962"/><ref name="Demoulin 1974"/> Swedish mycologists [[Elias Magnus Fries]] and Christopher Theodor Hök described ''Boletus torosus'' in 1835 based on Secretan's ''B.&nbsp;pachypus''—distinct from the ''B.&nbsp;pachypus'' described by Fries himself.<ref name="Fries 1835"/>{{efn|1=Fries' ''Boletus pachypus'' is a synonym of ''[[Caloboletus radicans]]''.}} Fries reported in his 1838 book ''Epicrisis Systematis Mycologici seu Synopsis Hymenomycetum'' that he had not actually observed the species,<ref name="Fries 1838"/> and he did not designate a [[Type (biology)|type specimen]] or illustration.{{efn|1=Type specimens were not necessary for a valid species description at this time.}}<ref name="Bertolini 2013"/> The [[botanical name|specific epithet]] ''torosus'', which derives from [[Latin]], means "muscular".<ref name="Gledhill 2008"/> In the United Kingdom, it is known [[common name|commonly]] as the "brawny bolete".<ref name="BMS"/> The [[German language|German]] name ''Ochsen-Röhrling'' means "oxen bolete"<ref name="Michael 1983"/> and the [[French language|French]] ''bolet vigoureux'' is "strong bolete".<ref name="Tholl 1985"/>
+
+French naturalist [[Lucien Quélet]] transferred the species to the now-obsolete genus ''Dictyopus'' in 1886, which resulted in the [[Synonym (biology)|synonym]] ''Dictyopus torosus''.<ref name="Quélet 1835"/> ''Boletus xanthocyaneus'', first described by [[Henri Romagnesi]] in 1948 as ''Boletus purpureus'' var. ''xanthocyaneus'' and classified as a species in 1976,<ref name="Romagnesi 1976"/> was considered by Italian mycologist [[Carlo Luciano Alessio]] to be synonymous with ''B. torosus''.<ref name="Alessio 1985"/> Others, however, regard this fungus a distinct species.<ref name="Brillouet 1993"/><ref name="Hills 1997"/><ref name="Estadès 2004"/> In 2013, Italian mycologists Valerio Bertolini and Giampaolo Simonini observed that the brevity of the original species description meant that some subsequent papers used ''B.&nbsp;torosus'' for specimens that aligned more closely with descriptions of ''[[Imperator rhodopurpureus|Boletus rhodopurpureus]]'' or ''[[Imperator luteocupreus|B.&nbsp;luteocupreus]]'' (both now placed in the genus ''Imperator''). They did note that Swiss and French authors had adhered to a more detailed description by Quélet, and that this was the only description faithful to the original description with a grey cap and yellow pores that slowly turn red. They concluded the original description must have been based on specimens growing near the French-Swiss border and hence selected a [[neotype]] specimen from this region.<ref name="Bertolini 2013"/><!-- cites previous 3 sentences -->
+
+Within the large genus  ''Boletus'', the brawny bolete was [[classification (biology)|classified]] in the [[section (biology)|section]] ''Luridi'',<ref name="Avizohar 1972"/> which included species producing medium to large [[basidiocarp|fruit bodies]] with thick, swollen stipes, and minute pores.<ref name="Snell 1970"/> In 1996, Czech mycologist [[Jiří Hlaváček]] further subdivided the section ''Luridi'', defining and naming the subsection ''Torosi''—for ''B. torosus''—to contain boletes that strongly bruised blue-black with handling.<ref name="Hlaváček 1996"/>
+
+In a [[molecular phylogenetics|molecular]] analysis of Boletaceae [[phylogeny]], the brawny bolete was most closely related to ''Boletus luteocupreus''; these two species formed a [[clade]] that was [[sister group|sister]] to ''[[Suillellus luridus|B.&nbsp;luridus]]''.<ref name="Halling 2007"/> Genetic analysis published in 2013 showed that ''B.&nbsp;torosus'' and many (but not all) red-pored boletes were part of a ''dupainii'' clade (named for ''[[Rubroboletus dupainii|B.&nbsp;dupainii]]''), well-removed from the core group of ''[[Boletus edulis]]'' (the [[type species]] of genus ''Boletus'') and relatives within the [[Boletineae]]. This indicated that the brawny bolete and its relatives needed to be placed in a new genus.<ref name="Nuhn 2013"/> It was made the type species of the new genus ''[[Imperator (fungus)|Imperator]]'',{{efn|1=''Boletus luteocupreus'' and ''B.&nbsp;rhodopurpureus'' were also placed in this new genus.<ref name="Assyov 2015"/>}} becoming ''Imperator torosus'', in 2015.<ref name="Assyov 2015"/>
+
+==Description==
+
+Quite heavy compared with other mushrooms of similar size, the stocky [[basidiocarp|fruit body]] contains relatively high amounts of [[chitin]]. Holding the brawny bolete has been described as "having a stone in your hand".<ref name="Flammer 2008"/> The [[pileus (mycology)|cap]] is {{convert|6|–|20|cm|in|abbr=on}} in diameter. Hemispherical when young, it extends and flattens into a convex and finally a flattish shape, sometimes forming a slight depression in the centre. Initially curled downward and inward, the cap margin gradually turns outward, eventually flattening in maturity, and sometimes protruding beyond the pored undersurface. The surface texture starts slightly velvety, but becomes smoother and hairless with age; in moist weather, the cap is slightly sticky. Changing over time, the colour of the cap is initially vivid yellow or golden yellow, then ochre, then darkening in age to brown. However, if the [[cap cuticle]] is bruised, or even touched, there are sudden changes in the colour that depend on the age of the mushroom: young, yellow caps become cherry-red, while ochre-brown cap tissue bruises to reddish-purple. These colour changes soon give way to bluish or greyish tones, which, when combined, give the cap a [[Variegation|variegated]] appearance.<ref name="Alessio 1985"/>
+
+The pores on the cap underside are round and small,<ref name="urlBoletales"/> the [[sulfur]]-yellow colour of the pore surface becoming less intense with age. The squat [[stipe (mycology)|stipe]] measures {{convert|6|–|15|cm|in|abbr=on}} long by {{convert|3|–|6|cm|in|abbr=on}} thick. Egg-shaped when young, it lengthens somewhat as the mushroom grows, but is still bulbous in maturity; a mature stipe is typically a little shorter than the diameter of the cap. It is initially roughly the same colour as the cap, but as it matures, develops a [[wine (color)|wine-red]] colouration near the base and a dirty brown to bluish-black colouration elsewhere. The surface has a mesh-like pattern (reticulation) that has a colour development similar to that of the cap: initially yellow, then purplish, and finally dark brown. The [[trama (mycology)|flesh]] is thick and hard. It is yellow, except for the stipe base where it is deep red or dark brownish in older mushrooms. The pores, stipe and flesh turn greenish-blue with bruising or cutting.<ref name="Alessio 1985"/> The smell is unpleasant, but the taste is mild.<ref name="urlBoletales"/>
+
+The [[spore print]] is olive-brown. The smooth oval [[spore]]s measure 12–15 by 5–6&nbsp;[[micrometre|μm]], and sometimes have an internal oil drop. [[Basidia]] (spore-bearing cells) are club-shaped, four-spored, and measure 22–34 by 8–9&nbsp;μm. The fusiform (fuse-shaped) [[cystidia]] are colourless with oil droplets, and have dimensions of 40–50 by 7–8&nbsp;μm.<ref name="Alessio 1985"/> [[Cap cuticle]] tissue is in the form of a trichoderm, where the outermost [[hyphae]] emerge roughly parallel, like hairs, perpendicular to the cap surface. These cylindrical, interwoven hyphae contain [[septum|septa]].<ref name="urlBoletales"/>
+
+===Similar species===
+The Mediterranean species ''[[Boletus poikilochromus]]'' somewhat resembles ''I.&nbsp;torosus'', but can usually be distinguished by a smaller fruit body, a cylindrical stipe, and the lighter colours of younger mushrooms. Also, ''B.&nbsp;poikilochromus'' does not feature the colour change of the stipe base in mature fruit bodies that is seen in ''I.&nbsp;torosus''.<ref name="Biketova 2015"/> ''Imperator luteocupreus'' and ''Caloboletus radicans'' are also similar but the pores of the former are red, and the flesh of the latter has a bitter taste.<ref name="urlBoletales"/>
+
+Several [[Chemical tests in mushroom identification|chemical tests]] can be used to distinguish ''I.&nbsp;torosus'' from other similar boletes, such as ''I.&nbsp;rhodopurpureus''. ''I.&nbsp;torosus'' displays the following characteristic colour changes with tests performed on cut flesh less than 12 hours old: [[ammonium hydroxide]] (NH<sub>4</sub>OH)–yellow centre bordered by a blue circular outer ring; [[potassium hydroxide]] (KOH)–deep [[buff (color)|buff]] (instantly); [[ferrous sulfate]] (FeS0<sub>4</sub>)–no change; [[Melzer's reagent]]–dark blue; [[phenol]]–blue green (very slow); [[formalin]]–mid blue (slow).<ref name="Hills 1997"/>
+
+==Toxicity==
+Like many boletes, ''Imperator torosus'' causes gastrointestinal symptoms such as abdominal pain, diarrhoea, and vomiting when eaten raw. These reactions can also happen to some people when the mushroom is eaten cooked, though others have consumed it with no ill effects.<ref name="Flammer 2008"/> In a 1994 study, researchers Ulrich Kiwitt and Hartmut Laatsch looked for the [[Disulfiram|antabuse]]-like compound [[coprine]] in ''[[Suillellus luridus]]'' and similar species that had been suspected of inducing Antabuse-like reactions with alcohol.<ref name="Kiwitt 1994"/> Coprine ingestion results in heat and flushing in the face, tingling in arms and legs, nausea and vomiting, and [[tachycardia|increased heart rate]] within five to ten minutes of consuming alcohol.<ref name="Benjamin 1995"/> They found none in the suspect species, but did find indications for it in ''Imperator torosus''. They concluded that the most likely explanation for historical poisoning incidents was a misidentification of ''I.&nbsp;torosus'' with ''Suillellus luridus'', though they could not rule out the latter species containing a hitherto unidentified compound causing alcohol-related reactions.<ref name="Kiwitt 1994"/> No clinical cases of alcohol-related sensitivity have been recorded for ''I.&nbsp;torosus''.<ref name="Flammer 2008"/>
+
+==Distribution and habitat==
+''Imperator torosus'' is native to southern Europe east to the [[Caucasus]]<ref name="urlBoletales"/> and Israel.<ref name="Avizohar 1972"/> A [[mycorrhiza]]l species, the fungus is generally associated with [[deciduous tree]]s such as [[hornbeam]] (''Carpinus''), [[oak]] (''Quercus'') and [[beech]] (''Fagus'') in warm, dry locales, and is generally rare in Europe. Russian mycologist Anna Kiyashko has proposed it be listed on the IUCN Red List due to ongoing threats to its habitat.<ref name="IUCNproposal"/> In the United Kingdom, it is listed as a "priority species"—a [[threatened species]] requiring conservation action under the [[United Kingdom Biodiversity Action Plan|UK Biodiversity Action Plan]].<ref name="urlJNCC"/> Similarly, it is on the list of protected species of macrofungi in [[Montenegro]],<ref name="Kasom 2010"/> and Italy, where it has a highly restricted range and is considered threatened by changed forest fire intervals and habitat degradation.<ref name="Wagensommer 2021"/> It appears to be relatively common in Hungary.<ref name="Benedek 2006"/> It is found under ''[[Quercus coccifera]]'' trees in the Bar'am forest of [[Upper Galilee]].<ref name="Avizohar 1972"/> Fruitings typically occur from July to September in [[calcareous]] (chalky) soil, with fruit bodies appearing either singly or in small groups.<ref name="Alessio 1985"/>
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Alessio 1985">{{cite book |author=Alessio CL |title=''Boletus'' Dill. ex. L. |year=1985 |series=Fungi Europaei |volume=2 |publisher=Biella Giovanna |location=Saronno, Italy |pages=226–27 |language=it}}</ref>
+
+<ref name="Assyov 2015">{{cite journal |vauthors=Assyov B, Bellanger JM, Bertéa P, Courtecuisse R, Koller G, Loizides M, Marques G, Muñoz JA, Oppicelli N, Puddu D, Richard F, Moreau PA  |title=Nomenclatural novelties |journal=Index Fungorum |issue=243 |date=21 May 2015 |url=http://www.indexfungorum.org/Publications/HTML/Index%20Fungorum243.html}}</ref>
+
+<ref name="Avizohar 1972">{{cite journal |vauthors=Avizohar-Hershenzon Z, Binyamini N |title=Boletaceae of Israel: I. ''Boletus'' sect. ''Luridi'' |journal=Transactions of the British Mycological Society |year=1972 |volume=59 |issue=1 |pages=25–30 |url=http://www.cybertruffle.org.uk/cyberliber/59351/0059/001/0025.htm |doi=10.1016/s0007-1536(72)80037-8|url-access=subscription }}</ref>
+
+<ref name="Benedek 2006">{{cite journal|vauthors=Benedek L, Pál-Fám F |year=2006 |title=Rare macrofungi from Central Börzsöny I. Hungarian occurrence data and habitat preference |journal=International Journal of Horticultural Science |volume=12 |issue=1 |pages=45–52 |doi=10.31421/IJHS/12/1/622 |doi-broken-date=11 July 2025 |doi-access=free |hdl=2437/314359 |hdl-access=free }}</ref>
+
+<ref name="Benjamin 1995">{{cite book |author=Benjamin DR |title=Mushrooms: Poisons and Panaceas{{snd}}A Handbook for Naturalists, Mycologists and Physicians |publisher=WH Freeman and Company |location=New York |year=1995 |pages=288–89 |isbn=978-0-7167-2600-5}}</ref>
+
+<ref name="Bertolini 2013">{{cite journal |vauthors=Bertolini V, Simonini G |year=2013 |title=Problemi nomenclaturali inerenti alla famiglia delle Boletaceae: I. Tipificazioni: ''Boletus torosus'', ''Boletus rhodopurpureus'' e ''B. emilei'' |trans-title=Nomenclatural problems inherent to the family Boletaceae: I. Typification: ''Boletus torosus'', ''Boletus rhodopurpureus'' and ''B. emilei''  |journal=Rivista di Micologia |volume=2 |pages=117–34 |language=it |url=https://www.researchgate.net/publication/264543244}}</ref>
+
+<ref name="Biketova 2015">{{cite journal |vauthors=Biketova AY, Kosakyan A, Wasser SP, Nevo E |title=New, noteworthy, and rare species of the genus ''Boletus'' in Israel |journal=Plant Biosystems |volume=150 |issue=5 |pages=876–886 |date=13 Jan 2015 |doi=10.1080/11263504.2014.990537|s2cid=84004250 |hdl=11380/1302125 |hdl-access=free }} {{open access}}</ref>
+
+<ref name="BMS">{{cite web |url=http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |title=Recommended English Names for Fungi in the UK |publisher=[[British Mycological Society]] |access-date=27 July 2015 |url-status=dead |archive-url=https://web.archive.org/web/20110716083053/http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |archive-date=16 July 2011 }}</ref>
+
+<ref name="Brillouet 1993">{{cite journal |vauthors=Brillouet JM, Brillouet T |title=Descrizione comparativa di raccolte di ''Boletus xanthocyaneus'' Ramain ex Romagnesi e di ''Boletus torosus'' Fries |trans-title=Comparative descriptions of collections of ''Boletus xanthocyaneus'' Ramain ex Romagnesi and of ''Boletus torosus'' Fries |journal=Rivista di Micologia |year=1993 |volume=36 |issue=1 |pages=65–72 |language=it}}</ref>
+
+<ref name="Demoulin 1974">{{cite journal |author=Demoulin V. |year=1974 |title=Invalidity of names published in Secretan's ''Mycographie Suisse'' and some remarks on the problem of publication by reference |journal=Taxon |volume=23 |issue=5/6 |pages=836–43 |doi=10.2307/1218449|jstor=1218449 |bibcode=1974Taxon..23..836D }}</ref>
+
+<ref name="Donk 1962">{{cite journal |author=Donk MA |year=1962 |title=On Secretan's fungus names |journal=Taxon |volume=11 |issue=5 |pages=170–73 |doi=10.2307/1216724|jstor=1216724 |bibcode=1962Taxon..11..170D }}</ref>
+
+<ref name="Estadès 2004">{{cite journal |vauthors=Estadès A, Deïana JC |title=''Boletus xanthocyaneus'' et ''Boletus torosus''. Deux espèces distinctes |trans-title=''Boletus xanthocyaneus'' and ''Boletus torosus''. Two distinct species |journal=Bulletin Mycologique et Botanique Dauphiné-Savoie |year=2004 |volume=127 |pages=15–30 |language=fr}}</ref>
+
+<ref name="Flammer 2008">{{cite journal |author=Flammer R. |year=2008 |title=''Boletus torosus'' – Coprin und Alkohol |trans-title=''Boletus torosus'' – Coprine and alcohol |journal=Schweizerische Zeitschrift für Pilzkunde |volume=2008 |issue=4 |pages=146–47 |url=http://www.giftpilze.ch/literatur/szp/boletus_torosus_2008_4.pdf |language=de}}</ref>
+
+<ref name="Fries 1835">{{cite book |vauthors=Fries EM, Hök CT |title=Boleti, Fungorum Generis Illustratio |trans-title=Boletes, Mushroom genera illustrated |publisher=Regiae Academiae Typographia |location=Uppsala, Sweden |year=1835 |page=10 |url=http://boletales.com/wp-content/uploads/2010/12/Boleti_fungorum_generis.pdf |language=la}}</ref>
+
+<ref name="Fries 1838">{{cite book |author=Fries EM |title=Epicrisis Systematis Mycologici: Seu Synopsis Hymenomycetum |trans-title=A Critical Study of Mycology: A Synopsis of the Hymenomycetes |volume=1-2 | publisher=Regiae Academiae Typographia |location=Uppsala, Sweden |year=1838 |page=417 |url=http://www.librifungorum.org/Image.asp?Nav=yes&FirstPage=292091&LastPage=292716&NextPage=292521 |archive-url=https://web.archive.org/web/20150911002654/http://www.librifungorum.org/Image.asp?Nav=yes&FirstPage=292091&LastPage=292716&NextPage=292521 |url-status=usurped |archive-date=September 11, 2015 |language=la}}</ref>
+
+<ref name="Gledhill 2008">{{cite book |author=Gledhill D. |title=The Names of Plants |url=https://books.google.com/books?id=NJ6PyhVuecwC&pg=PA382 |year=2008 |publisher=Cambridge University Press |location=Cambridge, UK |isbn=978-0-521-86645-3 |page=382}}</ref>
+
+<ref name="Halling 2007">{{cite journal |vauthors=Halling RE, Baroni TJ, Binder M |year=2007 |title=A new genus of Boletaceae from eastern North America |journal=Mycologia |volume=99 |issue=2 |pages=310–16 |doi=10.3852/mycologia.99.2.310 |pmid=17682784}}</ref>
+
+<ref name="Hills 1997">{{cite journal |author=Hills A. |title=Notes on the British species of the ''Boletus torosus'' complex |journal=Mycologist |year=1997 |volume=11 |issue=4 |pages=159–64 |doi=10.1016/S0269-915X(97)80092-4}}</ref>
+
+<ref name="Hlaváček 1996">{{cite journal |author=Hlaváček J. |title=Přehled našich hub hřibotvarých (Boletales) |trans-title=Overview of our bolete mushrooms (Boletales) |journal=Mykologický Sborník |year=1996 |volume=73 |issue=3 |pages=71–79 |language=cs}}</ref>
+
+<ref name="IUCNproposal">{{cite web |last1=Kiyashko A |title=Boletus torosus var. torosus |url=http://iucn.ekoo.se/iucn/species_view/418731/ |website=The Global Fungal Red List Initiative |publisher=IUCN |access-date=15 February 2022}}</ref>
+
+<ref name="Kasom 2010">{{cite journal |vauthors=Kasom G, Miličković N |title=Protected species of macrofungi in Montenegro |journal=Natura Montenegrina, Podgorica |year=2010 |volume=9 |issue=2 |pages=195–203 |url=http://natura.pmcg.co.me/NM9/Kasom_%26_Milickovic_NM9.pdf |url-status=dead |archive-url=https://web.archive.org/web/20160304104933/http://natura.pmcg.co.me/NM9/Kasom_%26_Milickovic_NM9.pdf |archive-date=2016-03-04 }}</ref>
+
+<ref name="Kiwitt 1994">{{cite journal |vauthors=Kiwitt U, Laatsch H |title=Coprin in ''Boletus torosus'': Beruht die angebliche Alkoholunverträglichkeit durch den Verzehr des Netzstieligen Hexenröhrlings (''Boletus luridus'') auf einer Verwechslung? |trans-title=Coprine in ''Boletus torosus'': Is the alleged alcohol hypersensitivity by ingestion of ''B. luridus'' caused by a mistake? |journal=Zeitschrift für Mykologie |year=1994 |volume=60 |issue=2 |pages=423–30 |language=de |url=http://www.dgfm-ev.de/sites/default/files/ZM602423Kiwitt.pdf |access-date=2013-03-22 |archive-date=2014-04-13 |archive-url=https://web.archive.org/web/20140413123406/http://www.dgfm-ev.de/sites/default/files/ZM602423Kiwitt.pdf |url-status=dead }}</ref>
+
+<ref name="Michael 1983">{{cite book |vauthors=Michael E, Kreisel H |title=Handbuch für Pilzfreunde. 1. Die wichtigsten und häufigsten Pilze mit besonderer Berücksichtigung der Giftpilze |trans-title=Handbook of Mycology: The Most Important and Common Mushrooms with Special Emphasis on the Toadstools |url=https://books.google.com/books?id=A97iAAAAMAAJ |year=1983 |publisher=Gustav Fischer |location=Jena, Germany |page=338 |isbn=978-3-437-30436-1 |language=de}}</ref>
+
+<ref name="Nuhn 2013">{{cite journal |vauthors=Nuhn ME, Binder M, Taylor AF, Halling RE, Hibbett DS |title=Phylogenetic overview of the Boletineae |journal=Fungal Biology |year=2013 |volume=117 |issue=7–8 |pages=479–511 |doi=10.1016/j.funbio.2013.04.008 |pmid=23931115}}</ref>
+
+<ref name="Quélet 1835">{{cite book |author=Quélet L. |title=Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium |trans-title=Handbook of Mushrooms in central Europe, especially France |year=1886 |publisher=Octave Dion |location=Lutetia |page=160 |language=fr |url=https://archive.org/stream/mobot31753000785094#page/160/mode/2up}}</ref>
+
+<ref name="Romagnesi 1976">{{cite journal |author=Romagnesi H. |title=Nomenclature des bolets du groupe ''Purpureus'' Pers. ex Mich. ss. Fries |trans-title=Nomenclature of boletes in the group ''Purpureus'' Pers. ex Mich. ss. Fries |journal=Bulletin de la Société Mycologique de France |year=1976 |volume=92 |issue=3 |pages=305–10 |language=fr}}</ref>
+
+<ref name="Secretan 1833">{{cite book |author=Secretan L. |title=Mycographie suisse, ou, Description des champignons qui croissent en Suisse, particulièrement dans le canton de Vaud, aux environs de Lausanne |trans-title=Swiss Mycographie, or description of fungi growing in Switzerland, particularly in the canton of Vaud, near Lausanne |editor=P.A. Bonnant |location=Geneva, Switzerland |year=1833 |volume=3 |page=24 |url=https://www.biodiversitylibrary.org/page/2993152 |language=fr}}</ref>
+
+<ref name="Snell 1970">{{cite book |last1=Snell |first1=Walter |last2=Dick |first2=Esther A. |author-link1=Wally Snell |title=The Boleti of Northeastern North America |year=1970 |publisher=J.&nbsp;Cramer |location=Lehre, Germany |page=79 |isbn=978-0-85486-016-6}}</ref>
+
+<ref name="Tholl 1985">{{cite journal |author=Tholl M-T |title=Notes mycologiques. Champignons intéressants récoltés au Grand-Duché de Luxembourg de 1980 à 1983 |trans-title=Mycological Notes. Interesting mushrooms harvested in the Grand Duchy of Luxembourg from 1980 to 1983 |journal=Bulletin de la Société des Naturalistes Luxembourgeois |year=1985 |volume=85 |pages=61–75 |url=http://www.snl.lu/publications/bulletin/SNL_1985_085_061_075.pdf |language=fr}}</ref>
+
+<ref name="urlBoletales">{{cite web |url=http://boletales.com/genera/boletus/b-torosus/ |title=''Boletus torosus'' |author=Assyov B. |year=2013 |publisher=Boletales.com |access-date=25 July 2015}}</ref>
+
+<ref name="urlJNCC">{{cite report |author=Joint Nature Conservation Committee |title=UK priority species pages&nbsp;– Version 2. ''Boletus torosus'' Fr. & Hök |url=http://jncc.defra.gov.uk/_speciespages/2087.pdf |date=15 December 2010}}</ref>
+
+<ref name="urlMycoBank: Boletus torosus">{{cite web |title=''Boletus torosus'' Fr. & Hök: 10, 1835 |url=http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=145145&Fields=All |publisher=[[MycoBank]]. International Mycological Association |access-date=22 March 2013}}</ref>
+
+<ref name="Wagensommer 2021">{{cite journal |doi=10.1080/11263504.2021.1918782|title=Application of IUCN red listing criteria at the regional level: A case study with Boletales across the Apennine province ecoregion and EU-habitats of Central Italy|year=2021|last1=Wagensommer|first1=Robert P.|last2=Angeles Flores|first2=Giancarlo|last3=Arcangeli|first3=Andrea|last4=Bistocchi|first4=Giancarlo|last5=Maneli|first5=Fabio|last6=Materozzi|first6=Giorgio|last7=Perini|first7=Claudia|last8=Venanzoni|first8=Roberto|last9=Angelini|first9=Paola|journal=Plant Biosystems |volume=156 |issue=3 |pages=1–11|s2cid=234834743}}</ref>
+
+}}
+
+==External links==
+{{Portal|Fungi}}
+{{Commons category}}
+*{{IndexFungorum|156252}}
+
+{{Taxonbar|from=Q590843}}
+
+[[Category:Boletaceae]]
+[[Category:Fungi described in 1835]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of Western Asia]]
+[[Category:Poisonous fungi]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Acetaldehyde dehydrogenase inhibitors]]
+[[Category:Fungus species]]

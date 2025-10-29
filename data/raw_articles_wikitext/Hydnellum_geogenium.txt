@@ -1,0 +1,62 @@
+{{Short description|Species of tooth fungus}}
+{{Use dmy dates|date=April 2025}}
+{{Use Oxford spelling|date=April 2025}}
+{{Speciesbox 
+| image = Hydnellum geogenium BG3 (4).JPG
+| image_caption = 
+| taxon = Hydnellum geogenium
+| authority = ([[Elias Magnus Fries|Fr.]]) [[Howard James Banker|Banker]] (1913)
+| synonyms_ref = <ref name="urlMycoBank: Hydnellum geogenium"/>
+| synonyms = *''Hydnum geogenium'' {{au|Fr. (1852)}}
+*''Hydnum sulfureum'' {{au|[[Anton Eleutherius Sauter|Saut.]] (1869)<ref name="Sauter 1869"/>}}
+*''Calodon geogenius'' {{au|(Fr.) [[P.Karst.]] (1881)<ref name="Karsten 1881"/>}}>
+}}
+
+'''''Hydnellum geogenium''''' is a species of [[tooth fungus]] in the family [[Bankeraceae]]. The fungus is found in Europe and North America, where it grows in [[coniferous forest|coniferous woods]]. It is [[edible mushroom|inedible]].<ref name="urlRogers: H.geogenium"/> [[Basidiocarp|Fruitbodies]] of the fungus contain a yellow [[biological pigment|pigment]] compound called geogenin.<ref name="Jendrny 1979"/>
+
+==Taxonomy==
+
+The fungus was [[species description|described]] as new to science in 1852 by [[Elias Magnus Fries]]. [[Howard James Banker]] transferred it to the genus ''[[Hydnellum]]'' in 1913.<ref name="Banker 1913"/> 
+
+==Description==
+
+''Hydnellum geogenium'' produces solitary or often confluent [[basidiocarp]]s with caps ([[pileus (mycology)|pilei]]) up to 10&nbsp;cm wide. The cap surface may be divided into irregular lobes of varying lengths, bearing small wart-like bumps (tuberculate) or radial furrows. Its colour ranges from lemon-yellow to sulphur-yellow or pale yellow, and in damp conditions the surface frequently exudes droplets of reddish fluid. Underneath, the [[hymenophore]] (the fertile, spore-bearing surface) consists of downward-pointing spines up to 3&nbsp;mm long, characteristic of [[tooth fungus|hydnoid fungi]]. The flesh ([[trama (mycology)|context]]) is initially yellow, darkening to brown with age, and the fruit bodies emit a mild aromatic odour and retain a gentle taste.<ref name="Ryvarden 2024"/>
+
+The [[stipe (mycology)|stipe]] is cylindrical to tapering, reaching up to 3&nbsp;cm in height and 2&nbsp;cm in width, and shares the cap's citric yellow hue. Microscopically, the fungal tissue comprises [[hypha]]e 2–6&nbsp;[[micrometre]]s (μm) wide that bear [[clamp connections]], ensuring proper nuclear distribution during [[cell division]]. The ascospores are roughly spherical (subglobose), measuring 4–5 × 3–3.5&nbsp;μm, and feature a tuberculate surface that may aid in spore dispersal.<ref name="Ryvarden 2024"/>
+
+==Habitat and distribution==
+
+''Hydnellum geogenium'' is widely distributed in [[temperate]] regions of northern hemisphere, with its northern range extending to the [[Polar circle]]. It forms [[mycorrhiza]]e with ''[[Picea]]'' trees.<ref name="Ryvarden 2024"/> In Europe, the northern extent of its range is southeast Norway. It appears on the [[Regional Red List|red lists]] of Germany, Poland, and Sweden.<ref name="Gulden 1992"/> ''H.&nbsp;geogenium'' is considered [[endangered species|endangered]] in Switzerland.<ref name="Senn-Irlet 2007"/>
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Banker 1913">{{cite journal |last=Banker |first=H.J. |title=Type studies in the Hydnaceae – V. The genus ''Hydnellum'' |journal=Mycologia |year=1913 |volume=5 |issue=4 |pages=194–205 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0005/004/0194.htm |doi=10.2307/3753385 |jstor=3753385 |url-access=subscription }}</ref>
+
+<ref name="Gulden 1992">{{cite journal |last1=Gulden |first1=G. |last2=Hanssen |first2=E.W. |year=1992 |title=Distribution and ecology of stipitate hydnaceous fungi in Norway, with special reference to the question of decline |journal=Sommerfeltia |volume=13 |pages=30, 38 |doi=10.2478/som-1992-0001 |url=http://www.nhm.uio.no/forskning-samlinger/forskning/publikasjoner/sommerfeltia/sm_abstr.htm |doi-access=free}}</ref>
+
+<ref name="Jendrny 1979">{{cite journal |last1=Steglich |first1=W. |last2=Jendrny |first2=B. |title=Geogenin, ein neuartiger Pyronfarbstoff aus ''Hydnellum geogenium'' |trans-title=Geogenin, a new kind of pyrone pigment from ''Hydnellum geogenium'' |journal=Beihefte zur Sydowia Annales Mycologici |series=Series II |year=1979 |pages=378–380 |language=de}}</ref>
+
+<ref name="Karsten 1881">{{cite journal |last=Karsten |first=Petter A. |title=Enumeratio Hydnearum Fr. Fennicarum, systemate novo dispositarum |journal=Revue Mycologique Toulouse |year=1881 |volume=3 |issue=9 |pages=19–21 |url=https://www.biodiversitylibrary.org/page/11599314 |language=la}}</ref>
+
+<ref name="Ryvarden 2024">{{cite book |last=Ryvarden |first=Leif |year=2024 |title=Hydnoid Genera – A World Synopsis |series=Synopsis Fungorum |volume=50 |publisher=Fungiflora |location=Oslo |url=https://www.fungiflora.no/synopsis-50-hydnoid-genera |page=31}}{{OA}}</ref>
+
+<ref name="Sauter 1869">{{cite journal |last=Sauter |first=A.E. |title=Diagnosen neuer Pilze |journal=Hedwigia |year=1869 |volume=8 |pages=40–41 |language=de |url=https://www.biodiversitylibrary.org/page/483564}}</ref>
+
+<ref name="Senn-Irlet 2007">{{cite report |last1=Senn-Irlet |first1=B. |last2=Bieri |first2=G. |last3=Egli |first3=S. |title=Lista Rossa Macromiceti. Lista Rossa delle specie minacciate in Svizzera. UV-0718-I |year=2007 |location=Bern |publisher=Ufficio federale dell’ambiente |language=it |url=http://www.bafu.admin.ch/publikationen/publikation/00055/index.html?lang=fr&lang=it}}</ref>
+
+<ref name="urlMycoBank: Hydnellum geogenium">{{cite web |title=GSD Species Synonymy: ''Hydnellum geogenium'' (Fr.) Banker |url=https://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=469494 |publisher=Species Fungorum. CAB International |access-date=2015-01-21}}</ref>
+
+<ref name="urlRogers: H.geogenium">{{cite web |last=Phillips |first=R. |title=''Hydnellum geogenium'' |publisher=RogersMushrooms |url=http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6117~gid~~source~gallerydefault.asp |access-date=2015-01-21 |url-status=dead |archive-url=https://web.archive.org/web/20150122080910/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6117~gid~~source~gallerydefault.asp |archive-date=2015-01-22 }}</ref>
+
+}}
+
+{{Taxonbar|from=Q14948385}}
+
+[[Category:Hydnellum|geogenium]]
+[[Category:Fungi described in 1852]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Inedible fungi]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]

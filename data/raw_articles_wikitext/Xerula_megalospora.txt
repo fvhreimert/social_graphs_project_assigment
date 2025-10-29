@@ -1,0 +1,46 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Xerula megalospora.jpg
+| genus = Xerula
+| species = megalospora
+| authority = ([[Clem.]]) Redhead, Ginns & Shoemaker (1987)<ref name=Redhead1987/>
+| synonyms = ''Clitocybe megalospora'' <small>Clem. (1896)</small><br>
+''Oudemansiella megalospora'' <small>(Clem.) Zhu L.Yang, G.M.Muell., G.Kost & Rexer (2009)</small>
+}}
+{{mycomorphbox
+| name = ''Xerula megalospora''
+| whichGills = adnexed
+| capShape = convex
+| capShape2 = umbonate
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = saprotrophic
+| sporePrintColor = white
+| howEdible = edible
+}}
+
+'''''Xerula megalospora''''' is a [[species]] of [[Agaricales|gilled mushroom]] in the family [[Physalacriaceae]].
+
+''Xerula megalospora'' [[basidiocarp|fruit bodies]] occur on the ground, solitarily or in small groups. They are [[saprobic]] and found near the well-decayed stumps of [[oak]] or other [[broadleaf tree]]s. This species can grow up to {{convert|13|cm|in|abbr=on}} high.  The [[pileus (mycology)|caps]], {{convert|2|–|10|cm|in|1|abbr=on}} across, can be a convex or [[umbonate]] shape eventually becoming flat and centrally depressed.  The cap is viscid and colored smokey white to pale [[buff (color)|buff]]. [[Lamella (mycology)|Gills]] are adnate, white, and smooth. The [[trama (mycology)|flesh]] of ''Xerula megalospora'' is white, and the odor is sometimes described as being reminiscent of carrots.  The [[stipe (mycology)|stipe]] contains a root-like extension {{convert|8|–|12|cm|in|abbr=on}} long. The [[spore print]] is white. The [[spore]]s of this species are a distinguishing feature being a relatively large 18–23 by 11–14&nbsp;[[micrometre|μm]]. The [[botanical name]] ''megalospora'' means large-spored. The spore shape is citriniform (i.e., lemon shaped), the surface is finely roughened, and spores are non-[[amyloid (mycology)|amyloid]]. This species is widespread and fairly common in urban areas.
+
+The species is edible although consists of little flesh.<ref name="Miller 2006">{{cite book|last=Miller Jr.|first=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=174|author-link=Orson K. Miller Jr.}}</ref>
+
+==References==
+{{Reflist|refs=
+
+<ref name=Redhead1987>{{cite journal |vauthors=Redhead SA, Ginns J, Shoemaker RA |title=The ''Xerula'' (''Collybia'', ''Oudemansiella'') radicata complex in Canada |journal=Mycotaxon |year=1987 |volume=30 |pages=357–405 }}</ref>
+
+}}
+
+*Barron, George (1999). ''Mushrooms of Ontario and Eastern Canada''.  Lone Pine Publishing, Edmonton. {{ISBN|1-55105-199-0}}
+*Roody, William C. (2003). ''Mushrooms of West Virginia and the Central Appalachians''.  The University Press of Kentucky, Lexington. {{ISBN|978-0-8131-9039-6}}
+
+{{Taxonbar|from=Q5225700}}
+
+[[Category:Fungi described in 1896]]
+[[Category:Fungi of North America]]
+[[Category:Physalacriaceae]]
+[[Category:Fungus species]]
+
+
+{{Physalacriaceae-stub}}

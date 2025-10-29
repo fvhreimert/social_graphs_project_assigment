@@ -1,0 +1,51 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Collection of cramp balls.JPG
+| image_caption = 
+| taxon = Daldinia concentrica
+| authority = ([[James Bolton|Bolton]]) Cesati & de Notaris 
+}}
+{{mycomorphbox
+| name = Daldinia concentrica
+| whichGills = NA
+| capShape =no
+| hymeniumType=gleba
+| stipeCharacter=NA
+| ecologicalType= saprotrophic
+| sporePrintColor=black
+| howEdible=inedible
+}}
+The inedible fungus '''''Daldinia concentrica''''' is known by several common names, including '''King Alfred's cake''', '''cramp balls''', and '''coal fungus'''. It is a common, widespread [[saprotroph|saprotrophic]] [[Ascomycota|sac fungus]], living on dead and decaying wood.
+
+The fruit of this fungus is hemi-spherical, with a hard, friable, shiny black fruiting body 2 to 7 centimeters wide. It resembles a chunk of coal, which gives it several of its common names, including coal fungus and carbon balls. According to legend, [[Alfred the Great|King Alfred]] once hid out in a countryside homestead during war, and was put in charge of removing baking from the oven when it was done. He fell asleep and the cakes burned. ''Daldinia concentrica'' is said to resemble a cake left to this fate.<ref>{{Cite web |last=Trust |first=Woodland |title=King Alfred’s Cakes (Daldinia concentrica) |url=https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/fungi-and-lichens/king-alfreds-cakes/ |access-date=2024-04-17 |website=Woodland Trust |language=en-GB}}</ref>
+
+The flesh of the fruit body is purple, brown, or silvery-black inside, and is arranged in concentric layers. Most sources agree that like [[tree rings]], these layers are related to seasonal growth.<ref>{{cite web|url=http://www.first-nature.com/fungi/daldinia-concentrica.php|title=Daldinia concentrica (Bolton) Ces. & De Not. - King Alfred's Cakes|accessdate=19 December 2017}}</ref> The [[ascus|asci]] are cylindrical and arranged inside the flask-shaped [[Ascocarp|perithecium]]. When each ascus becomes engorged with fluid it extends outside the perithecium and releases spores.
+
+''D. concentrica'' contains several unique compounds, including a purple polycyclic pigment and a metabolite called concentricol, which is oxidized [[squalene]]. Many types of insects and other small animals make their home inside this species of fungus.
+
+==Uses==
+The fungus is a useful form of tinder for fire-lighting. The brown variety is usually too heavy and dense to be much good; the black variety is lighter and better. It does need to be completely dry, whereupon it will take a spark from traditional [[fire striker|flint and steel]]. It burns slowly, much like a charcoal briquette, with a particularly pungent smoke. Once lit it usually requires constant oxygen flow to keep burning, such as through swinging the fungus or blowing on it. Fragments can be broken off to expose more embers and transferred to a tinder bundle to create an open flame.
+
+==Ecological value==
+[[Caterpillar]]s of the [[concealer moth]] ''[[Harpella forficella]]'' have been found to eat this fungus.
+
+This fungus plays a pivotal role in accelerating the decomposition of the fallen branches of [[ash trees]], which are naturally dropped very frequently.
+
+==References==
+<references />
+*Glick, Phyllis (1979). ''The Mushroom Trail Guide''. 1st ed. New York, NY: Holt, Rinehart And Winston.
+*Singh, Jagjit (1994). ''Building Mycology: Management of Decay and Health in Buildings''. UK: Spon Press.
+
+==External links==
+{{commons category}}
+*[https://web.archive.org/web/20060422075129/http://www.arkive.org/species/ARK/fungi/Daldinia_concentrica/ arkive.org page]
+*[http://www.nifg.org.uk/species/atlas2.htm?item=NBNSYS0000020310 Fungus atlas page] {{Webarchive|url=https://web.archive.org/web/20051221151543/http://www.nifg.org.uk/species/atlas2.htm?item=NBNSYS0000020310 |date=2005-12-21 }}
+*[https://web.archive.org/web/20060515180247/http://www.tiscali.co.uk/reference/encyclopaedia/wildlife/fungi_king_alfred's_cake.html King Alfred's Cake]
+*[https://www.messiah.edu/Oakes/fungi_on_wood//puffball%20and%20cushion/species%20pages/Daldinia%20concentrica.htm Daldinia concentrica] {{Webarchive|url=https://web.archive.org/web/20180916143659/http://www.messiah.edu/Oakes/fungi_on_wood/puffball%20and%20cushion/species%20pages/Daldinia%20concentrica.htm |date=2018-09-16 }}
+
+{{Taxonbar|from=Q935453}}
+
+[[Category:Xylariales]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]

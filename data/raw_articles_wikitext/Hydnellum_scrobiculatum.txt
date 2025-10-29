@@ -1,0 +1,103 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Hydnellum scrobiculatum 54734.jpg
+| genus = Hydnellum
+| species = scrobiculatum
+| authority = ([[Elias Magnus Fries|Fr.]]) [[P.Karst.]] (1879)
+| synonyms_ref = <ref name="urlFungorum synonymy: Hydnellum scrobiculatum"/>
+| synonyms = *''Hydnum scrobiculatum'' <small>Fr. (1815)</small>
+*''Calodon scrobiculatus'' <small>(Fr.) P.Karst. (1882)<ref name="Karsten 1882"/></small>
+*''Hydnum sanguineofulvum'' <small>[[Britzelm.]] (1891)<ref name="Britzelmayr 1892"/></small>
+*''Hydnum ferrugineoalbum'' <small>Britzelm. (1894)<ref name="Britzelmayr 1894"/></small>
+*''Hydnum testaceofulvum'' <small>Britzelm. (1894)<ref name="Britzelmayr 1894"/></small>
+*''Phaeodon scrobiculatus'' <small>(Fr.) [[Henn.]] (1898)<ref name="Engler 1900"/></small>
+*''Hydnellum velutinum'' var. ''scrobiculatum'' <small>(Fr.) [[Maas Geest.]] (1957)<ref name="Maas Geesteranus 1957"/></small>
+}}
+{{Mycomorphbox
+| name = ''{{PAGENAME}}''{{italic title}}
+| hymeniumType = teeth
+| capShape = flat
+| capShape2 = depressed
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| howEdible = inedible
+}}
+
+'''''Hydnellum scrobiculatum''''', [[common name|commonly]] known as the '''rough hydnellum'''<ref name="Arora 1986"/> or '''ridged tooth''', is a [[tooth fungus]] in the family [[Bankeraceae]]. Widely distributed in the [[Northern Hemisphere]], it is found in Eurasia and North America.
+
+==Taxonomy==
+The fungus was first [[species description|described]] as a species of ''[[Hydnum]]'' by [[Elias Magnus Fries]] in his 1815 work ''Observationes mycologicae''.<ref name="Fries 1815"/> [[Petter Karsten]] transferred it to the genus ''[[Hydnellum]]'' in 1879.<ref name="Karsten 1879"/> Canadian mycologist Kenneth A. Harrison published the [[variety (botany)|variety]] ''H.&nbsp;scrobiculatum'' var. ''zonatum'' as a [[new combination]] in 1961,<ref name="Harrison 1961"/> but this is now considered to be [[synonym (taxonomy)|synonymous]] with ''[[Hydnellum concrescens]]''.<ref name="urlFungorum: Hydnellum scrobiculatum var. zonatum"/> [[Common name]]s given to the species include "pitted corky spine fungus",<ref name="Pegler 1997"/> and the [[British Mycological Society]] recommended name "ridged tooth".<ref name="BMS"/>
+
+==Description==
+The [[Basidiocarp|fruitbodies]] have centrally depressed [[pileus (mycology)|caps]] measuring {{convert|2–6|cm|1|abbr=on}} in diameter. These caps can fuse together to form concrescent fruitbodies. The caps have wavy edges, and an initially felty surface that becomes scaly with age. Young fruit bodies are white, then pinkish-brown, then purplish brown, sometimes with white margins.<ref name="Ellis 1990"/> The fruitbodies can become shiny in age.<ref name="Phillips 2013"/>
+
+The spines on the cap underside are up to 4&nbsp;mm long. They are initially white, but become purplish brown in maturity.<ref name="Ellis 1990"/> The spines are [[decurrent]]—they run down the length of the stipe.<ref name="Huffman 2008"/> The [[stipe (mycology)|stipe]], which is roughly the same color as the cap, measures {{convert|2–3|cm|1|abbr=on}} long by {{convert|1–1.5|cm|1|abbr=on}} thick.<ref name="Ellis 1990"/> [[Mycelium]] at the base of the stipe envelops and grows around forest litter.<ref name="Huffman 2008"/> The [[trama (mycology)|flesh]] smells mealy (similar to freshly ground flour).<ref name="Pegler 1997"/> The [[edible mushroom|edibility]] of the fruitbody was previously unknown, but Roger Phillips calls it "poor".<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=323}}</ref> In general, ''Hydnellum'' species are too acrid and woody to be palatable.<ref name="Arora 1986"/>
+
+Like all ''Hydnellum'' species, ''H.&nbsp;scrobiculatum'' produces a brown [[spore print]].<ref name="Phillips 2013"/> Individual [[basidiospore|spores]] have a more or less spherical shape, with dimensions of 5.5–6.5 by 4–5.6&nbsp;[[μm]]. They have wart-like projections (tubercles) on the surface. The [[basidia]] (spore-bearing cells) are narrowly club-shaped, four-spored, and measure 23–29 by 5–6.5&nbsp;μm.<ref name="Pegler 1997"/>
+
+===Similar species===
+There are several species that ''Hydnellum scrobiculatum'' is often confused with&mdash;especially older specimens. These include ''[[Hydnellum spongiosipes|H.&nbsp;spongiosipes]]'', ''[[Hydnellum ferrugineum|H.&nbsp;ferrugineum]]'', and ''[[Hydnellum concrescens|H.&nbsp;concrescens]]''.<ref name="Polèse 2002"/> The latter species is particularly similar to ''H.&nbsp;scrobiculatum'', a fact that has been highlighted by conservation efforts in the UK.<ref name="Parfitt 2007"/><ref name="Ainsworth 2010"/>
+
+==Habitat and distribution==
+''Hydnellum scrobiculatum'' fruits singly, in clusters, or in fused groups in both [[conifer]]ous and [[mixed forest]]s. It is found in Europe, Asia, and North America.<ref name="Pegler 1997"/> In the United Kingdom, it is considered [[vulnerable species|vulnerable]] according to the [[biodiversity action plan]] for stiped hydnoid fungi.<ref name="ENRR 2004"/>
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Ainsworth 2010">{{cite journal |vauthors=Ainsworth AM, Parfitt D, Rogers HJ, Boddy L |title=Cryptic taxa within European species of ''Hydnellum'' and ''Phellodon'' revealed by combined molecular and morphological analysis |journal=Fungal Ecology |year=2010 |volume=3 |issue=2 |pages=65–80 |doi=10.1016/j.funeco.2009.07.001}}</ref>
+
+<ref name="Arora 1986">{{cite book |author=Arora D. |authorlink=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/627/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, California |year=1986 |orig-date=1979 |edition=2nd |pages=623, 627-28}}</ref>
+
+<ref name="BMS">{{cite web |url=http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |title=Recommended English Names for Fungi in the UK |publisher=[[British Mycological Society]] |url-status=dead |archive-url=https://web.archive.org/web/20110716083053/http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |archive-date=2011-07-16 }}</ref>
+
+<ref name="Britzelmayr 1892">{{cite book |author=Britzelmayr M. |title=Hymenomyceten aus Südbayern 11 (Theil VIII): Polyporei, Hydnei, Thelephorei, Clavariei und Tremellinei |year=1892 |publisher=R.&nbsp;Friedländer & Sohn |location=Berlin |page=14 |language=German}}</ref>
+
+<ref name="Britzelmayr 1894">{{cite journal |author=Britzelmayr M. |title=Hymenomyceten aus Südbayern 13 (Theil X): tekst + index |journal=Berichte des Naturwissenschaftlichen Vereins Schwaben Neuburg |year=1894 |volume=31 |page=177 |language=German |url=https://www.biodiversitylibrary.org/page/11966425}}</ref>
+
+<ref name="Ellis 1990">{{cite book |vauthors=Ellis JB, Ellis MB |title=Fungi without Gills (Hymenomycetes and Gasteromycetes): An Identification Handbook |publisher=Chapman and Hall |location=London |year=1990 |page=106 |isbn=978-0-412-36970-4 |url=https://books.google.com/books?id=vowdIZ7GqD4C&pg=PA106}}</ref>
+
+<ref name="Engler 1900">{{cite book |vauthors=Engler A, Prantl K |title=Die natürlichen Pflanzenfamilien nebst ihren Gattungen und wichtigeren Arten insbesondere den Nutzpflanzen : I. Tl., 1. Abt.: Fungi (Eumycetes) |year=1900 |publisher=Englemann |location=Leipzig |page=148 |language=German}}</ref>
+
+<ref name="ENRR 2004">{{cite report |vauthors=Brodge PD, Panchal G |title=Number 557. Population diversity and speciation in ''Hydnellum'' and ''Phellodon'' species |series=English Nature Research Reports |year=2004 |publisher=[[English Nature]] |url=http://publications.naturalengland.org.uk/file/6167520566312960 |format=PDF |issn=0967-876X}}</ref>
+
+<ref name="Fries 1815">{{cite book |author=Fries EM. |title=Observationes mycologicae |volume=1 |publisher=Gerh. Bonnier |location=Copenhagen |page=143 |url=http://www.librifungorum.org/Image.asp?ItemID=270&ImageFileName=0143b.jpg |archive-url=https://archive.today/20150118231652/http://www.librifungorum.org/Image.asp?ItemID=270&ImageFileName=0143b.jpg |url-status=usurped |archive-date=January 18, 2015 |language=Latin}}</ref>
+
+<ref name="Harrison 1961">{{cite report |author=Harrison KA. |title=The Stipitate Hydnums of Nova Scotia |work=Publications of the Department of Agriculture Canada |location=Ottawa, Canada |publisher=Research Branch, Canada Department of Agriculture |year=1961 |volume=1099 |pages=1–60 |url=https://www.biodiversitylibrary.org/page/39011849}} {{open access}}</ref>
+
+<ref name="Huffman 2008">{{cite book |vauthors=Huffman DM, Tiffany LH, Knaphaus G, Healy RA |title=Mushrooms and Other Fungi of the Midcontinental United States |url=https://books.google.com/books?id=tl2fVAHuej4C&pg=PA227 |year=2008 |publisher=University of Iowa Press |isbn=978-1-58729-725-0 |page=227}}</ref>
+
+<ref name="Karsten 1879">{{cite journal |author=Karsten PA. |title=Symbolae ad mycologiam Fennicam. VI |journal=Meddelanden Af Societas Pro Fauna et Flora Fennica |year=1879 |volume=5 |pages=5–46 (see p.&nbsp;41) |url=https://www.biodiversitylibrary.org/page/3768952}}</ref>
+
+<ref name="Karsten 1882">{{cite journal |author=Karsten PA. |title=Rysslands, Finlans och den Skandinaviska halföns Hattsvampar. Sednare Delen: Pip-, Tagg-, Hud-, Klubb- och Gelésvampar |journal=Bidrag till Kännedom av Finlands Natur och Folk |year=1882 |volume=37 |page=108 |language=Finnish |url=https://www.biodiversitylibrary.org/page/34683843}}</ref>
+
+<ref name="Maas Geesteranus 1957">{{cite journal |author=Maas Geesteranus RA. |title=The stipitate hydnums of the Netherlands. II. ''Hydnellum'' P. Karst. |journal=Fungus |year=1957 |volume=27 |issue=1–4 |pages=50–71}}</ref>
+
+<ref name="Parfitt 2007">{{cite journal |vauthors=Parfitt D, Ainsworth AM, Simpson D, Rogers HJ, Boddy L |year=2007 |title=Molecular and morphological discrimination of stipitate hydnoids in the genera ''Hydnellum'' and ''Phellodon'' |journal=Mycological Research |volume=111 |issue=7 |pages=761–77 |pmid=17681224 |doi=10.1016/j.mycres.2007.05.003}}</ref>
+
+<ref name="Pegler 1997">{{cite book |vauthors=Pegler DN, Roberts PJ, Spooner BM |title=British Chanterelles and Tooth Fungi |year=1997 |publisher=Royal Botanic Gardens |location=Kew, UK |isbn=978-1-900347-15-0 |page=84}}</ref>
+
+<ref name="Phillips 2013">{{cite book| author=Phillips R. |title=Mushrooms: A comprehensive Guide to Mushroom Identification |url=https://books.google.com/books?id=nRKwAAAAQBAJ&pg=PA324 |year=2013 |publisher=Pan Macmillan |isbn=978-1-4472-6402-6 |page=324}}</ref>
+
+<ref name="Polèse 2002">{{cite book |vauthors=Polèse JM, Deconchat C |title=Champignons. L'encyclopédie |url=https://books.google.com/books?id=zRH1yzMYsx4C&pg=PA139 |year=2002 |publisher=Editions Artemis |isbn=978-2-84416-145-1 |page=139 |language=French}}</ref>
+
+<ref name="urlFungorum: Hydnellum scrobiculatum var. zonatum">{{cite web |title=''Hydnellum scrobiculatum'' var. zonatum (Batsch) K.A. Harrison |url=http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=353524 |publisher=Index Fungorum. CAB International |access-date=2015-01-13}}</ref>
+
+<ref name="urlFungorum synonymy: Hydnellum scrobiculatum">{{cite web |title=GSD Species Synonymy: ''Hydnellum scrobiculatum'' (Fr.) P. Karst. |url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=100831 |publisher=Species Fungorum. CAB International |access-date=2015-01-13}}</ref>
+
+}}
+
+==Further reading==
+*info from [http://babel.hathitrust.org/cgi/pt?id=mdp.39015005837763;view=1up;seq=672 here]
+
+==External links==
+*{{IndexFungorum|100831}}
+
+{{Taxonbar|from=Q10670612}}
+
+[[Category:Fungi described in 1815]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Hydnellum|scrobiculatum]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]

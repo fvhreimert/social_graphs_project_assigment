@@ -1,0 +1,26 @@
+{{short description|Species of fungus}}
+{{Speciesbox
+| image = 2006-09-09_Lactarius_trivialis.jpg
+| image_caption = 
+| genus = Lactarius
+| species = trivialis
+| authority = (Fr.) Fr.
+}}
+
+'''''Lactarius trivialis''''' is a species of mushroom belonging to the genus ''[[Lactarius (fungus)|Lactarius]]''.<ref>{{Cite web|url=http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=116312&Fields=All|title=Lactarius trivialis|last=|first=|date=|website=www.mycobank.org|publisher=MyCoBank|access-date=20 July 2016}}</ref> The fungus is most commonly found in Scandinavia.<ref>{{Cite web|url=http://www.eol.org/pages/160391/details|title=Lactarius trivialis - Details - Encyclopedia of Life|last=|first=|date=|website=Encyclopedia of Life|publisher=|access-date=July 20, 2016}}</ref> The colour of the mushroom's cap can range from a light brown colour, to dark purple.<ref>{{Cite web|url=https://mushroomobserver.org/name/show_name/2785|title=Lactarius trivialis (Fr.) Fr.|last=|first=|date=|website=Mushroom Observer|publisher=|access-date=July 20, 2016}}</ref> The species has a total of five subtaxa.<ref>{{Cite web|url=http://www.straininfo.net/taxa/36185|title=Lactarius trivialis Taxon Passport - StrainInfo|last=|first=|date=|website=www.straininfo.net|publisher=|access-date=July 20, 2016|archive-date=January 29, 2018|archive-url=https://web.archive.org/web/20180129004541/http://www.straininfo.net/taxa/36185|url-status=dead}}</ref> It was discovered and first recorded in the year 1838 by [[Elias Magnus Fries]], in his book, ''Epicrisis Systematis Mycologici.''<ref>{{Cite web|url=http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=201199|title=Species Fungorum - Species synonymy|last=|first=|date=|website=www.speciesfungorum.org|publisher=|access-date=July 20, 2016}}</ref><ref>{{Cite journal|date=1839-01-01|title=Epicrisis Systematis Mycologici seu Synopsis Hymenomycetum . Elias Fries. Upsaliæ, 1836–1838. Vol. I. 8vo|url=https://www.biodiversitylibrary.org/part/36213#/summary|journal=Journal of Natural History|volume=4|issue=21|pages=44–45|doi=10.1080/00222934009512452|issn=0374-5481}}</ref>
+
+== See also ==
+* [[List of Lactarius species]]
+
+== References ==
+{{Reflist}}
+
+{{Taxonbar|from=Q1486219}}
+
+[[Category:Lactarius|trivialis]]
+[[Category:Fungi described in 1838]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]
+
+
+{{Agaricomycetes-stub}}

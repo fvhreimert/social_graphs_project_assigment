@@ -1,0 +1,108 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Agaricus_abruptibulbus.jpg
+| genus = Agaricus
+| species = abruptibulbus
+| authority = ([[Charles Horton Peck|Peck]]) [[Calvin Henry Kauffman|Kauffmann]] (1905){{check|date=October 2022}}<!-- " Peck (1905)"? -->
+| synonyms_ref = <ref name="urlMycoBank: Agaricus abruptibulbus"/>
+| synonyms = ''Agaricus abruptus'' <small>Peck (1900)</small>
+}}
+{{mycomorphbox
+| name = ''Agaricus abruptibulbus''
+| whichGills = free
+| capShape = convex
+| capShape2 = flat
+| hymeniumType=gills
+| stipeCharacter=ring
+| ecologicalType=saprotrophic
+| sporePrintColor=brown
+| howEdible=edible
+}}
+
+'''''Agaricus abruptibulbus''''' is a species of [[mushroom]] in the [[genus]] ''[[Agaricus]]''. It is commonly known as the '''abruptly-bulbous agaricus'''<ref name=Roody2003/> or the '''flat-bulb mushroom'''.<ref name=McKnight1987/> First described by the [[Mycology|mycologist]] [[Charles Horton Peck]],<ref name=Peck1905/> this bulbous-stemmed [[edible mushroom|edible]] species smells slightly of [[anise]] or bitter almond,<ref name=":0">{{Cite journal |last1=Gui |first1=Yang |last2=Zhu |first2=Guo-S. |last3=Callac |first3=Philippe |last4=Hyde |first4=Kevin-D. |last5=Parra |first5=Luis-A. |last6=Chen |first6=Jie |last7=Yang |first7=Tong-J. |last8=Huang |first8=Wan-B. |last9=Gong |first9=Guang-L. |last10=Liu |first10=Zuo-Y. |date=2015-03-01 |title=Agaricus section Arvenses: three new species in highland subtropical Southwest China |url=https://www.sciencedirect.com/science/article/pii/S1878614614001585 |journal=[[Fungal Biology]] |language=en |volume=119 |issue=2 |pages=79–94 |doi=10.1016/j.funbio.2014.10.005 |pmid=25749361 |issn=1878-6146|url-access=subscription }}</ref> and turns yellow when bruised or cut. The mushroom is medium-sized, with a white, yellow-staining cap on a slender [[stipe (mycology)|stipe]] that has a wide, flat bulb on the base.
+
+==Taxonomy and classification==
+The species was originally named ''Agaricus abruptus'' by American mycologist [[Charles Horton Peck]] in 1900.<ref name="urlMycoBank: Agaricus abruptus"/> In his 1904 publication ''Report of the State Botanist'', he changed the name to ''Agaricus abruptibulbus''. He explained that [[Elias Magnus Fries]] had earlier named a species in the [[subgenus]] ''Flammula'', which he called ''Agaricus abruptus''; the subgenus was later raised to the rank of genus, and the species was given the name ''Flammula abruptus''. Under the transitioning [[Nomenclature#Scientific nomenclature|nomenclatural]] conventions of the time, it was unclear if ''Agaricus abruptus'' would remain available for use, so Peck changed the name.<ref name=Peck1905/>
+
+''Agaricus abruptibulbus'' belongs to ''Agaricus'' section ''Arvenses,<ref name=":0" />'' a [[cladistics|clade]] within the genus ''Agaricus.'' Along with ''A. abruptibulbus'', section ''Arvenses'' contains the species ''A.&nbsp;silvicola'', ''A.&nbsp;arvensis'', and formerly also ''[[Agaricus semotus|A.&nbsp;semotus]]''.<ref name=Mitchell1999/>
+
+Some American authors consider this species to be [[synonym (biology)|synonymous]] with ''A.&nbsp;silvicola'',<ref name=Murrill1922/><ref name=Hotson1938/> while some in Europe have synonymized it with the similar species ''[[Agarius essettei|A.&nbsp;essettei]]''. American mycologists Steve Trudell and Joseph Ammirati noted in a 2009 field guide: "The name ''A.&nbsp;abruptibulbus'' has been applied to forms with bulbous stipe bases, but variation in stipe shape is so great that the use of this name has been largely abandoned."<ref name=Ammirati2009/>
+
+==Description==
+
+The [[Pileus (mycology)|cap]] is whitish in color and convex in shape, reaching up to {{convert|8|cm|in|abbr=on}} in diameter, sometimes with an [[umbo (mycology)|umbo]]. After being scratched, cut, or bruised, the cap turns yellow. The [[Stipe (mycology)|stipe]] is {{convert|8|–|12|cm|in|abbr=on}} long by {{convert|1|–|3|cm|in|abbr=on}} thick and bulbous at the base. A large, white [[annulus (mycology)|annular ring]] is present on the stipe. The [[lamella (mycology)|gill]] attachment is free, and the color is initially grayish but turns brownish after the [[spore]]s have developed. Specimens smell slightly of [[anise]]. The [[spore print]] is brown to purple-brown. Spores are elliptical in shape, and are 6–8 by 4–5&nbsp;[[micrometre|μm]]. 
+
+The surface of the cap will stain yellow if a drop of dilute [[potassium hydroxide]] is applied.<ref name="Bessette2007" /> This species has a positive [[Chemical test in mushroom identification|Schäffer's reaction]], resulting in an orange color.<ref name=":0" />
+
+===Similar species===
+''[[Agaricus silvicola]]'' is very similar in appearance and also grows in woodlands, but it may be distinguished by the lack of an abruptly bulbous base.<ref name=Bessette2007/> ''[[Agaricus arvensis]]'' has a more robust stature, lacks the bulbous base, and grows in grassy open areas like meadows and fields. It has larger spores than ''A.&nbsp;abruptibulbus'', typically 7.0–9.2 by 4.4–5.5&nbsp;μm.<ref name=Miller2006/>
+
+==Cadmium bioaccumulation==
+
+''Agaricus abruptibulbus'' is known to [[bioaccumulation|bioaccumulate]] the toxic element [[cadmium]]—in other words, it absorbs cadmium faster than it loses it—so specimens collected in the wild often have higher concentrations of this element than the soil in which they are found.<ref name=Meisch1981/><ref name="urlenvironment.fi—FE17/2006"/> Furthermore, when cultivated in the laboratory, the presence of cadmium in the culture medium stimulates growth up to 100% in the presence of 0.5&nbsp;mg cadmium per liter of nutrient medium.<ref name=Meisch1979/> It is believed that the cadmium-binding ability comes from a low [[molecular weight]] metal-binding [[protein]] named cadmium-mycophosphatin.<ref name=Meisch1986/><ref name=Jablonski1981/>
+
+==Distribution==
+
+The fungus has been reported in [[New York (state)|New York]],<ref>{{cite journal | year = 1992 | title = Field Trip Reports | journal = Bulletin of the Torrey Botanical Club | volume = 119 | issue = 1| page = 101 }}</ref> [[Mississippi]],<ref name=Overholts1938/> [[Quebec]], [[Canada]],<ref name=Pomerleau1964/> [[Germany]],<ref name="Gerhardt1990" /> China,<ref name=":0" /> and India.<ref>{{Cite journal |last1=Kaur |first1=Munruchi |last2=Kaur |first2=Harwinder |last3=Malik |first3=Nazir Ahmad |date=2016 |title=Identification and characterization of six new taxa of genus Agaricus L.:FR. (Agaricaceae Chevall.) from India. |url=https://www.researchgate.net/publication/305770426 |journal=World Journal of Pharmacy and Pharmaceutical Sciences |volume=5 |issue=7}}</ref>
+
+==See also==
+{{Portal|Fungi}}
+* [[List of Agaricus species|List of ''Agaricus'' species]]
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=Ammirati2009>{{cite book |vauthors =Ammirati J, Trudell S |title=Mushrooms of the Pacific Northwest: Timber Press Field Guide (Timber Press Field Guides) |publisher=Timber Press |location=Portland, Oregon |year=2009 |page=191 |isbn=978-0-88192-935-5}}</ref>
+
+<ref name=Bessette2007>{{cite book |vauthors =Bessette AE, Roody WC, Bessette AR |title=Mushrooms of the Southeastern United States |year=2007 |publisher=Syracuse University Press |location=Syracuse, New York |isbn=978-0-8156-3112-5 |page=101 |url=https://books.google.com/books?id=IB1Gv3jZMmAC&pg=PA101}}</ref>
+
+<ref name=Gerhardt1990>{{cite journal |author =Gerhardt E. |year=1990 |title=Checkliste der Großpilze von Berlin (West) 1970–1990 |journal=Englera |volume=13 |issue=13 |pages=3–251 |language=de |doi=10.2307/3776760|jstor=3776760 }}</ref>
+
+<ref name=Hotson1938>{{cite journal |vauthors=Hotson JW, Stuntz DE |year=1938 |title=The genus ''Agaricus'' in western Washington |journal=Mycologia |volume=30 |issue=2 |pages=204–34 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0030/002/0204.htm |doi=10.2307/3754557 |jstor=3754557 |access-date=2011-09-22 |archive-url=https://web.archive.org/web/20150923222900/http://www.cybertruffle.org.uk/cyberliber/59350/0030/002/0204.htm |archive-date=2015-09-23 |url-status=dead |url-access=subscription }}</ref>
+
+<ref name=Jablonski1981>{{cite thesis |author =Jablonski M. |year=1981 |title=Isolierung und Charakterisierung Cadmium-haltiger Inhalt-stoffe aus Fruchtkörpern und Myzel des schiefknolligen Anischampignons ''Agaricus abruptibulbus'' (Peck) Kauffmann |type=Ph.D. thesis |publisher=University of Saarbrücken |language=de}}</ref>
+
+<ref name=McKnight1987>{{cite book |vauthors =McKnight VB, McKnight KH |title=A Field Guide to Mushrooms: North America | series=Peterson Field Guides |publisher=Houghton Mifflin |location=Boston, Massachusetts |year=1987 |page=254 |isbn=0-395-91090-0 |url=https://books.google.com/books?id=kSdA3V7Z9WcC&pg=PA254}}</ref>
+
+<ref name=Meisch1979>{{cite journal |vauthors =((Meisch H-U)), Schmitt JA, Scholl AR |year=1979 |title=Growth stimulation by cadmium in the mushroom ''Agaricus abruptibulbus'' |journal=Naturwissenschaften |volume=66 |issue=4 |page=209 |doi=10.1007/bf00366030|bibcode=1979NW.....66..209M |s2cid=46707508 }}</ref>
+
+<ref name=Meisch1981>{{cite journal |vauthors =((Meisch H-U)), Scholl AR, Schmitt JA |year=1981 |title=Cadmium as a growth factor for a mushroom ''Agaricus abruptibulus'' |journal=Zeitschrift für Naturforschung C |volume=36 |issue=9–10 |pages=765–71}}</ref>
+
+<ref name=Meisch1986>{{cite journal |vauthors =((Meisch H-U)), Schmitt JA |year=1986 |title=Characterization studies on cadmium-mycophosphatin from the mushroom ''Agaricus macrosporus'' |journal=Environmental Health Perspectives |volume=65 |pages=29–32 |pmc=1474717 |pmid=3709455 |doi=10.1289/ehp.866529}}</ref>
+
+<ref name=Miller2006>{{cite book |vauthors =Miller HR, Miller OK |title=North American Mushrooms: a Field Guide to Edible and Inedible Fungi |publisher=Falcon Guide |location=Guilford, Connecticut |year=2006 |page=280 |isbn=0-7627-3109-5 |url=https://books.google.com/books?id=zjvXkLpqsEgC&pg=PA280}}</ref>
+
+<ref name=Mitchell1999>{{cite journal |vauthors=Mitchell DA, Bresinsky A |year=1999 |title=Phylogenetic relationships of ''Agaricus'' species based on ITS-2 and 28S ribosomal DNA sequences |journal=Mycologia |volume=91 |issue=5 |pages=811–9 |jstor=3761534 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0091/005/0811.htm |doi=10.2307/3761534 |access-date=2011-09-22 |archive-url=https://web.archive.org/web/20150923230049/http://www.cybertruffle.org.uk/cyberliber/59350/0091/005/0811.htm |archive-date=2015-09-23 |url-status=dead |url-access=subscription }}</ref>
+
+<ref name=Murrill1922>{{cite journal |author=Murrill WA. |year=1922 |title=Dark-spored agarics: III. ''Agaricus'' |journal=Mycologia |volume=14 |issue=4 |pages=200–1 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0014/004/0200.htm |doi=10.2307/3753642 |jstor=3753642 |access-date=2011-09-22 |archive-url=https://web.archive.org/web/20150923222803/http://www.cybertruffle.org.uk/cyberliber/59350/0014/004/0200.htm |archive-date=2015-09-23 |url-status=dead |url-access=subscription }}</ref>
+
+<ref name=Overholts1938>{{cite journal |author =Overholts LO. |year=1938 |title=Notes on Fungi from the Lower Mississippi Valley |journal=Bulletin of the Torrey Botanical Club |volume=65 |issue=3 |pages=167–80|doi=10.2307/2481101 |jstor=2481101 }}</ref>
+
+<ref name=Peck1905>{{cite journal|author=Peck CH. |year=1905 |title=Report of the State Botanist 1904. ''Agaricus abruptibulbus'' Peck. |journal=Report of the New York State Museum |volume=94 |page=36 |url=http://nysl.nysed.gov/uhtbin/cgisirsi/?ps=U0reh1vG7d/NYSL/86600113/523/83580 }}{{dead link|date=June 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+<ref name=Pomerleau1964>{{cite journal |vauthors=Pomerleau R, Cooke WB |year=1964 |title=IX International Botanical Congress: Field Trip No. 22: Quebec Fungi |journal=Mycologia |volume=56 |issue=4 |pages=618–26 |doi=10.2307/3756365 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0056/004/0618.htm |jstor=3756366 |access-date=2011-09-22 |archive-url=https://web.archive.org/web/20150923224819/http://www.cybertruffle.org.uk/cyberliber/59350/0056/004/0618.htm |archive-date=2015-09-23 |url-status=dead |url-access=subscription }}</ref>
+
+<ref name=Roody2003>{{cite book |author =Roody WC. |title=Mushrooms of West Virginia and the Central Appalachians |publisher=University Press of Kentucky |location=Lexington, Kentucky |year=2003 |page=46 |isbn=0-8131-9039-8}}</ref>
+
+<ref name="urlenvironment.fi—FE17/2006">{{cite report|url=http://www.environment.fi/default.asp?contentid=207397&lan=en |vauthors=Pelkonen R, Alfthan G, Järvinen O |year=2006 |title=FE17/2006 Cadmium, lead, arsenic and nickel in wild edible mushrooms |location=Helsinki, Finland |publisher=Finnish Environment Institute |isbn=952-11-2275-7 |url-status=dead |archive-url=https://web.archive.org/web/20110522010345/http://www.environment.fi/default.asp?contentid=207397&lan=en |archive-date=2011-05-22 }}</ref>
+
+<ref name="urlMycoBank: Agaricus abruptus">{{cite web |title=''Agaricus abruptus'' Peck 1900 |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=151402 |publisher=[[MycoBank]]. International Mycological Association |access-date=2011-09-22}}</ref>
+
+<ref name="urlMycoBank: Agaricus abruptibulbus">{{cite web |title=''Agaricus abruptibulbus'' Peck 1905 |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=178389 |publisher=[[MycoBank]]. International Mycological Association |access-date=2011-09-22}}</ref>
+
+}}
+
+==External links==
+* [https://web.archive.org/web/20081118012330/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~5473~gid~~source~gallerydefault.asp Roger's Mushrooms]
+* [https://web.archive.org/web/20160318143920/http://mushroomhobby.com/Gallery/Agaricus/Agaricus_abruptibulbus.htm Mushroom Hobby]
+* [http://mycoquebec.org/accueil.php?bas.php?trie=tous&l=l&nom=Agaricus%20abruptibulbus/%20Psalliote%20à%20bulbe%20marginé&tag=Agaricus%20abruptibulbus Mushroom of Quebec] French language, with several photographs
+
+{{Taxonbar|from=Q107470540}}
+
+[[Category:Agaricus|abruptibulbus]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1900]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Charles Horton Peck]]
+[[Category:Fungus species]]

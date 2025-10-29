@@ -1,0 +1,71 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = 2012-10-16 Hebeloma crustuliniforme (Bull.) Quél 272561 crop.jpg
+| image_caption =
+| genus = Hebeloma
+| species = crustuliniforme
+| authority = ([[Jean Baptiste François Pierre Bulliard|Bull.]] ex St. Amans.) Quél.
+| synonyms = 
+}}
+{{mycomorphbox
+ | name            = ''Hebeloma crustuliniforme''
+ | whichGills      = adnate
+ | capShape        = umbonate
+ | hymeniumType    = gills
+ | stipeCharacter  = bare
+ | ecologicalType  = mycorrhizal
+ | sporePrintColor = brown
+ | howEdible       = poisonous
+}}
+
+'''''Hebeloma crustuliniforme''''', commonly known as '''poison pie''' or '''fairy cakes''', is a [[gilled mushroom]] of the genus ''[[Hebeloma]]''. It is found in both the Old and New World and is [[Mushroom poisoning|poisonous]].
+
+== Taxonomy ==
+The species' [[specific name (botany)|specific name]] derives from the [[Latin]] ''crustulum'' ('little biscuit').
+
+== Description ==
+The [[buff (colour)|buff]]-to-beige [[pileus (mycology)|cap]] is {{Convert|3–11|cm|abbr=off|frac=4}} in diameter, convex then [[umbonate]] with an uplifted margin in age.<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/464/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=464–65 |orig-date=1979}}</ref> The [[Lamella (mycology)|gills]] are crowded, adnate or notched, initially pale but browning with age, and beaded with droplets in moist conditions.<ref name="Arora1986" /> The stipe is 4–13&nbsp;cm long and {{Convert|0.5–1.5|cm|abbr=on|frac=4}} thick,<ref name="Arora1986" /> with a wider base<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=239–240|oclc=797915861}}</ref> and no [[Annulus (mycology)|ring]]. The thick [[Trama (mycology)|flesh]] is white and has a [[radish]]-like smell and bitter taste.<ref name="Arora1986" /><ref>
+{{cite book
+ | author = Phillips R
+ | year = 1985
+ | title = Mushrooms of Great Britain and Europe
+ | publisher = Pan Books
+ | isbn = 0-330-26441-9
+}}</ref>
+
+The [[Basidiospore|spores]] are brown, elliptical, and somewhat rough.<ref name=":0" />
+
+=== Similar species ===
+Similar species include ''[[Hebeloma sinapizans]]'' and [[Hebeloma insigne|''H.&nbsp;insigne'']].<ref name=":0" />
+
+==Distribution and habitat==
+The species has been found in 18 countries, including most parts of Europe, both coasts of North America, and less frequently in [[Victoria (state)|Victoria]], Australia.<ref>{{cite web |title=Hebeloma crustuliniforme |url=https://hebeloma.org/species/crustuliniforme |accessdate=2022-12-09}}</ref>
+
+A common mushroom, it be found in open [[woodland]] and [[heathland]] in summer and autumn, though may also be found in winter in places with milder climates such as [[California]].<ref name="Phillips91">
+{{cite book
+ | author = Phillips R
+ | year = 1991
+ | title = Mushrooms of North America
+ | publisher = Little, Brown & Co.
+ | id = ISBN
+}}</ref> According to [[David Arora]], it is "by far" the most common ''Hebeloma'' found in California.<ref name="Arora1986" />
+
+==Toxicity==
+This fungus is [[Mushroom poisoning|poisonous]],<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=206}}</ref><ref>Nilsson, S. & Persson, O. (1977) ''Fungi of Northern Europe 2:  Gill Fungi''. Penguin Books.</ref> causing mild to severe [[gastrointestinal upset]],<ref name="Arora1986" /> including [[vomiting]], [[diarrhea]], and [[colic]]ky abdominal pain several hours after consumption.<ref>
+{{cite book
+ | last = North
+ | first = Pamela
+ | year = 1967
+ | title = Poisonous Plants and Fungi in colour
+ | publisher = Blandford Press & Pharmacological Society of Great Britain
+}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q180150}}
+[[Category:Hebeloma|crustuliniforme]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Poisonous fungi]]
+[[Category:Fungus species]]

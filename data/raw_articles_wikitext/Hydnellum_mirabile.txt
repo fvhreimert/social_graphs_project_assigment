@@ -1,0 +1,74 @@
+{{Short description|Species of tooth fungus}}
+{{use dmy dates|date=April 2025}}
+{{Use Oxford spelling|date=April 2025}}
+{{Speciesbox
+| image = Hydnellum mirabile 450605.jpg
+| image_alt =
+| image_caption =
+| status = VU
+| status_system = IUCN3.1
+| status_ref = <ref name="iucn"/>
+| taxon = Hydnellum mirabile
+| authority = ([[Elias Magnus Fries|Fr.]]) [[Petter Adolf Karsten|P.Karst.]] (1879)
+| synonyms_ref = <ref name="urlFungorum synonymy: Hydnellum mirabile"/>
+| synonyms = {{Collapsible list|bullets=on
+|''Hydnum mirabile'' {{au|[[Elias Magnus Fries|Fr.]] (1863)}}
+|''Hydnum acre'' {{au|[[Lucien Quélet|Quél.]] (1878)}}
+|''Calodon mirabilis'' {{au|[[Elias Magnus Fries|Fr.]]) [[Paul Kummer|P.Kumm.]] (1882)}}
+|''Sarcodon acris'' {{au|([[Lucien Quélet|Quél.]]) [[Lucien Quélet|Quél.]] (1886)}}
+|''Phaeodon acer'' {{au|([[Lucien Quélet|Quél.]]) [[Paul Christoph Hennings|Henn.]] (1898)}}
+|''Phaeodon mirabilis'' {{au|([[Elias Magnus Fries|Fr.]]) [[Paul Christoph Hennings|Henn.]] (1898)}}
+|''Hydnellum acre'' {{au|([[Lucien Quélet|Quél.]]) [[Marinus Anton Donk|Donk]] (1933)}}
+}}
+}}
+<!--
+{{ mycomorphbox
+| name            = Hydnellum mirabile
+| hymeniumType    = teeth
+| capShape        = infundibuliform
+| whichGills      = 
+| stipeCharacter  = bare
+| sporePrintColor = tan
+| sporePrintColor2= brown
+| ecologicalType  = mycorrhizal
+| howEdible       = inedible
+}}-->
+
+'''''Hydnellum mirabile''''' is an inedible species of [[Hydnoid fungi|tooth fungus]]<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=324}}</ref> in the family ''[[Bankeraceae]]''. It is found in Europe and North America, where it grows in old-growth, coniferous forests on [[Base-richness|base-rich]] or [[Calcareous|chalky]] soils. It forms [[mycorrhiza]] with [[Picea abies|Norway spruce]] and occasionally [[Pinus sylvestris|Scots Pine.]] 
+
+==Description==
+
+[[Pileus (mycology)|Caps]] of ''Hydnellum mirabile'' are brownish to dark brown with yellow edges, and have a hairy surface. They are funnel-shaped. The [[stipe (mycology)|stipe]] measures 10–50 by 10–25&nbsp;mm and is dark brown and hairy at the base. On the cap underside (the [[hymenium]]) hang brownish spines with paler tips. The [[basidiospore|spores]] are roughly spherical with [[tubercle]]s on the surface, and measure 5–7 by 4.5–6&nbsp;[[micrometre|μm]].<ref name="urlRogers" /> It has a weakly astringent taste. The [[spore print]] is [[buff (color)|buff]] brown.<ref name="urlRogers" />
+
+==Conservation==
+
+''Hydnellum mirabile'' faces significant conservation challenges across its range. The species is classified as [[vulnerable species|Vulnerable]] according to [[IUCN]] criteria due to substantial [[habitat loss]] and ongoing threats. Population assessments indicate fewer than 500 known localities throughout Europe, with the primary concentration in [[Fennoscandia]], where small populations typically consist of only 1–10 individuals per site. The total mature population is estimated at fewer than 5,000 individuals.
+
+The species' decline directly correlates with the reduction of [[old-growth forest|old-growth]] spruce forests on productive, base-rich soils—habitats that have decreased by 30–50% over the past 50 years. This rare fungus forms [[mycorrhiza]]l associations primarily with [[Norway spruce]] (''Picea abies'') and occasionally with [[Scots Pine]] (''Pinus sylvestris''), requiring specific ecological conditions that limit its distribution.
+
+[[Clearcutting]] forestry practices pose the most significant threat to ''H.&nbsp;mirabile'', as the species disappears following such [[disturbance (ecology)|disturbances]] and appears unable to recolonise younger forest stands. In Central Europe, cumulative [[air pollution]]—particularly nitrogen deposition—further threatens remaining populations.<ref name="iucn"/>
+
+Conservation status varies across the fungus's range, with ''H.&nbsp;mirabile'' listed as regionally extinct in the Czech Republic, [[endangered]] in France and Sweden, and [[vulnerable species|vulnerable]] in Finland and Norway. Despite serving as an [[indicator species]] for [[biodiversity]] hotspots, few sites containing ''H.&nbsp;mirabile'' receive formal protection as nature reserves. Effective conservation will require the preservation of appropriate old-growth forest habitats, as this specialised fungus cannot survive under conventional [[forest management|forestry management]] regimes.<ref name="iucn"/>
+
+==See also==
+*[[List of fungi by conservation status]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="iucn">{{cite iucn |author1=Nitare, J. |date=2015 |title=''Hydnellum mirabile'' |volume=2015 |article-number=e.T70408415A70408439 |doi=10.2305/IUCN.UK.2015-4.RLTS.T70408415A70408439.en |access-date=25 September 2021}}</ref>
+
+<ref name="urlFungorum synonymy: Hydnellum mirabile">{{cite web |title=GSD Species Synonymy: ''Hydnellum mirabile'' (Fr.) P. Karst. |url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=100892 |publisher=Species Fungorum. CAB International |access-date=2014-11-21}}</ref>
+
+<ref name="urlRogers">{{cite web|author=Phillips R |title=''Hydnellum mirabile'' |publisher=RogersMushrooms |url=http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6118~gid~~source~gallerydefault.asp |access-date=2014-11-21 |archive-url=https://web.archive.org/web/20141129034610/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6118~gid~~source~gallerydefault.asp |archive-date=2014-11-29 }}</ref>
+
+}}
+
+{{Taxonbar|from=Q10648554}}
+
+[[Category:Fungi described in 1863]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Inedible fungi]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]

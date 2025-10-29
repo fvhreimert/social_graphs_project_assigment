@@ -1,0 +1,31 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+|taxon=Amanita subvaginata
+|authority=([[John Burton Cleland|Cleland]] & [[Edwin Cheel|Cheel]]) [[E. Gilbert|E.]]-[[John Gilbert (naturalist)|J. Gilbert]]
+}}
+{{mycomorphbox|name=''Amanita subvaginata''|whichGills=free|capShape=convex
+|capShape2=flat|hymeniumType=gills|stipeCharacter=volva|ecologicalType=mycorrhizal |sporePrintColor=white|howEdible=poisonous}}
+
+'''''Amanita subvaginata''''', also known as '''Australian false vaginata''' is a species of [[mycorrhiza]]l [[fungus]] from the family [[Amanitaceae]] found in [[Sydney]] and [[New South Wales]], [[Australia]].<ref name=amanitaceae>{{cite web|url=http://www.amanitaceae.org/content/uploaded/legacy/subvagin.html|title=''Amanita subvaginata''|accessdate=December 26, 2012}}</ref>
+
+==Description==
+*'''Cap''': The cap is convex, {{convert|32|mm}} wide, and is ashy-grey coloured with a striate margin.<ref name=amanitaceae/>
+*'''Gill''': They are very close to a stem and are white coloured, and with roughened edges.<ref name=amanitaceae/>
+*'''Stem''': It is up to {{convert|39|mm}} in length, is solid, stout, and have a powdery covering. It has a [[bulbous]] base that is slight. The species [[volva (mycology)|volva]] is located on the side of the bulb is marginate, and is of the same ashy-grey colour as the cap.<ref name=amanitaceae/>
+*'''Spores''': They are {{convert|7.5|-|9.0|µm}} in diameter and are [[globose]] and [[inamyloid]] as well. Six of the spores are {{convert|8.7|-|9.7|mm}} high and {{convert|7.8|-|8.8|µm}} wide in diameter. They are also subglobose and [[ellipsoid]].<ref name=amanitaceae/>
+
+==See also==
+*[[List of Amanita species]]
+
+==References==
+{{Reflist}}
+{{Amanitas}}
+{{Poisonous Amanitas}}
+{{Taxonbar|from=Q4739886}}
+
+[[Category:Amanita|subvaginata]]
+[[Category:Poisonous fungi]]
+[[Category:Fungi of Australia]]
+[[Category:Fungus species]]
+[[Category:Taxa named by John Burton Cleland]]
+[[Category:Taxa named by Edwin Cheel]]

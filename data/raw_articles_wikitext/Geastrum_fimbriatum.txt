@@ -1,0 +1,88 @@
+{{Speciesbox
+| image = Geastrum fimbriatum 566.jpg
+| genus = Geastrum
+| species = fimbriatum
+| authority = [[Elias Magnus Fries|Fr.]] (1829)
+| synonyms_ref = <ref name="urlMycoBank: Geastrum fimbriatum"/>
+| synonyms =
+  {{plainlist|
+*''Geastrum rufescens'' var. ''minor'' <small>[[Pers.]] (1801)</small>
+*''Geaster tunicatus'' <small>[[Vittad.]] (1842)</small>
+*''Geastrum tunicatum'' <small>Vittad. (1842)</small>
+  }}
+}}
+{{mycomorphbox
+| capShape = no
+| hymeniumType = gleba
+| whichGills=NA
+| stipeCharacter=NA
+| ecologicalType = saprotrophic
+| sporePrintColor = brown
+| howEdible = inedible
+}}
+'''''Geastrum fimbriatum''''', commonly known as the '''fringed earthstar''' or the '''sessile earthstar''', is an inedible species of [[mushroom]] belonging to the genus ''[[Geastrum]]'', or earthstar fungi.
+
+First described in 1829, it is distinguished from other earthstars by the delicate fibers that line the circular pore at the top of its spore sac. The species has a widespread distribution, being found in Eurasia and the Americas.
+
+==Taxonomy==
+[[Elias Magnus Fries]] described ''Geastrum fimbriatum'' (as ''Geaster fimbriatus'') in his 1829 ''Systema mycologicum''.<ref name="Fries 1829"/>
+
+It is [[common name|commonly]] known as the fringed earthstar<ref name="McKnight 1987"/> or the sessile earthstar.<ref name="Mitchell 2006"/> The [[botanical name|specific epithet]] ''fimbriatum'' means "fringed", referring to the characteristic edge of the apical spore of the spore sac.<ref name="Roody 2003"/>
+
+==Description==
+The fruit bodies of ''G.&nbsp;fimbriatum'' start out roughly spherical and [[hypogeous]]. As it matures, it pushed up through the soil and the other layer of the spore case ([[exoperidium]]) splits open to form between 5 and 8 rays that curve downward. The fully expanded fruit body has a diameter of up to {{convert|3|cm|frac=4}}. Before expansion, the outer surface has a cottony surface with adherent soil particles; this ultimately peels off to reveal a smooth, grayish-brown surface. The inner spore sac is yellowish brown and features a small conical pore with fringed edges. Unlike other similar earthstar fungi, the edges of this pore are not sharply delimited from the rest of the spore sac, and do not have grooves.<ref name="McKnight 1987"/> The fruit bodies have no distinctive taste or odor.<ref name="Jordan 2004"/>
+
+The [[spore]]s are spherical, roughened by many small points or warts, and measure 2.4–4&nbsp;[[μm]]. The [[capillitium]] is thick-walled, unbranched, and 4–7&nbsp;μm thick.<ref name="McKnight 1987"/>
+
+=== Similar species ===
+
+Similar species include ''[[Geastrum saccatum|G.&nbsp;saccatum]]'', which is larger – up to {{convert|5|cm|in|abbr=on|frac=4}} across – and has a clearly delimited ring-like area around the pore opening. ''[[Geastrum rufescens|G.&nbsp;rufescens]]'' has reddish tones that are absent from ''G.&nbsp;fimbriatum''.<ref name="McKnight 1987"/>
+==Habitat and distribution==
+''Geastrum fimbriatum'' is a [[saprobic]] species,<ref name="Roody 2003"/> and it fruit bodies grow on the ground in groups or clusters, usually near the stumps of [[hardwood]] trees. It is found in Europe,<ref name="Jordan 2004" /> Asia (India<ref name="Sanjeev Kumar 2011"/> and Mongolia),<ref name="Kreisel 1975"/> eastern North America<ref name="McKnight 1987"/> (including Mexico),<ref name="Esqueda 2003"/> Central America (Costa Rica),<ref name="Calonge 2005"/> and South America (Brazil).<ref name="Trierveiler-Pereira 2011"/>
+
+== Uses ==
+Although typically listed by field guides as an inedible species,<ref name="Roody 2003" /> it is eaten by the tribal peoples of [[Madhya Pradesh]].<ref name="De Roman 2010" />
+
+== In culture ==
+The species was depicted in a Nigerian postage stamp in 1985.<ref name="Moss 1998"/>
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Calonge 2005">{{cite journal |vauthors=Calonge FD, Mata M, Carranza J |title=Contribucion al catalogo de los Gasteromycetes (Basidiomycotina, Fungi) de Costa Rica |trans-title=Contribution to the catalogue of the Gasteromycetes (Basidiomycotina, Fungi) of Costa Rica |journal= Anales del Jardín Botánico de Madrid|year=2005 |volume=62 |issue=1 |pages=23–45 |language=es |issn=0211-1322 |doi=10.3989/ajbm.2005.v62.i1.26|doi-access=free |hdl=10261/27754 |hdl-access=free }}</ref>
+
+<ref name="De Roman 2010">{{cite book |author=De Roman M. |chapter=The Contribution of Wild Fungi to Diet, Income and Health: A World Review |title=Progress in Mycology |year=2010 |doi=10.1007/978-90-481-3713-8_12 |page=331|isbn=978-90-481-3712-1 }}</ref>
+
+<ref name="Esqueda 2003">{{cite journal |vauthors=Esqueda M, Herrera T, Perez-Siva E, Sanchez A |title=Distribution of ''Geastrum'' species from some priority regions for conservation of biodiversity of Sonora, Mexico |journal=Mycotaxon |year=2003 |volume=87 |pages=445–56 }}</ref>
+
+<ref name="Fries 1829">{{cite book |author=Fries EM. |title=Systema Mycologicum |year=1829 |volume=3 |publisher=Sumtibus Ernesti Mauritii |location=Greifswald, Germany |page=16 |url=https://archive.org/stream/systemamycologi00friegoog#page/n28/mode/2up |language=la}}</ref>
+
+<ref name="Jordan 2004">{{cite book |author=Jordan M. |title=The Encyclopedia of Fungi of Britain and Europe |publisher=Frances Lincoln |location=London, UK |year=2004 |page=359 |isbn=0-7112-2378-5 |url=https://books.google.com/books?id=bFMfytLn3bEC&pg=PA359}}</ref>
+
+<ref name="Kreisel 1975">{{cite journal |author=Kreisel H. |title=Gasteromycetes from Mongolia |journal=Feddes Repertorium |year=1975 |volume=86 |issue=5 |pages=321–7 |issn=0014-8962 |doi=10.1002/fedr.19750860504 }}</ref>
+
+<ref name="McKnight 1987">{{cite book |vauthors=McKnight VB, McKnight KH |title=A Field Guide to Mushrooms: North America | series=Peterson Field Guides |publisher=Houghton Mifflin |location=Boston, Massachusetts |year=1987 |page=359 |isbn=0-395-91090-0 |url=https://books.google.com/books?id=kSdA3V7Z9WcC&pg=PA359}}</ref>
+
+<ref name="Mitchell 2006">{{cite book |author=Mitchell K. |title=Field Guide to Mushrooms and Other Fungi of Britain and Europe (Field Guide) |publisher=New Holland Publishers |year=2006 |page=156 |isbn=1-84537-474-6 |url=https://books.google.com/books?id=X96A6iQwvV4C&pg=PA156}}</ref>
+
+<ref name="Moss 1998">{{cite journal |author=Moss MO. |title=Gasteroid Basidiomycetes on postage stamps |journal=Mycologist |year=1998 |volume=12 |issue=3 |pages=104–6 |doi=10.1016/S0269-915X(98)80005-0}}</ref>
+
+<ref name="Roody 2003">{{cite book |author=Roody WC. |title=Mushrooms of West Virginia and the Central Appalachians |publisher=University Press of Kentucky |location=Lexington, Kentucky |year=2003 |page=442 |isbn=0-8131-9039-8 |url=https://books.google.com/books?id=5HGMPEiy4ykC&pg=PA442}}</ref>
+
+<ref name="Sanjeev Kumar 2011">{{cite journal |author1=Sanjeev Kumar |author2=Sharma YP. |title=Systematics studies on ''Geastrum'' species from Jammu province |journal=Journal of Plant Development Sciences |year=2011 |volume=3 |issue=1/2 |pages=61–5 |issn=0974-6382}}</ref>
+
+<ref name="Trierveiler-Pereira 2011">{{cite journal |vauthors=Trierveiler-Pereira L, Calonge FD, Baseia IG |title=New distributional data on ''Geastrum'' (Geastraceae, Basidiomycota) from Brazil |journal=Acta Botanica Brasilica |year=2011 |volume=25 |issue=3 |pages=577–85 |doi=10.1590/s0102-33062011000300010|doi-access=free |hdl=10261/91790 |hdl-access=free }}</ref>
+
+<ref name="urlMycoBank: Geastrum fimbriatum">{{cite web |title=''Geastrum fimbriatum'' Fr. 1829 |url=http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=121583&Fields=All |publisher=[[MycoBank]]. International Mycological Association |access-date=2012-10-01}}</ref>
+
+}}
+
+{{Taxonbar|from=Q2484512}}
+
+[[Category:Geastrum|fimbriatum]]
+[[Category:Fungi described in 1829]]
+[[Category:Inedible fungi]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]

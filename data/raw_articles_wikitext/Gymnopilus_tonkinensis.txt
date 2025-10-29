@@ -1,0 +1,38 @@
+{{Short description|Species of fungus}}
+{{more citations needed|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption = 
+| taxon = Gymnopilus tonkinensis
+| authority = ([[Narcisse Théophile Patouillard|Pat.]]) [[Rolf Singer|Singer]]
+| synonyms = 
+}}
+{{mycomorphbox
+| name = Gymnopilus tonkinensis
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=}}
+'''''Gymnopilus tonkinensis''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]]. It was given its current name by mycologist [[Rolf Singer]] in 1951.<ref>{{cite journal |author=Singer R. |year=1951 |title=The Agaricales in modern taxonomy |journal=Lilloa |volume=22 |page=561}}</ref>
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*''[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=298056 Gymnopilus tonkinensis]'' at [[Index Fungorum]]
+
+{{Taxonbar|from=Q5625025}}
+
+[[Category:Gymnopilus|tonkinensis]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

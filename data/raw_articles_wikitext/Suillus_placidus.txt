@@ -1,0 +1,51 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Elfenbeinroehrling.jpg
+| genus = Suillus
+| species = placidus
+| authority = (Bonord.) Singer 1945 
+}}
+
+'''''Suillus placidus''''', is a species of fungus in the genus ''[[Suillus]]''. It is an edible [[Boletales|pored mushroom]] found in European and North American coniferous forests, growing in association with several species of [[Pinus|pine]] of the subgenus ''Strobus''.
+
+==Description==
+The [[Pileus (mycology)|cap]] of ''Suillus placidus'' is hemispherical when young, later becoming convex. It is ivory white in colour and very slimy, growing to 10&nbsp;cm in diameter. The [[Stipe (mycology)|stem]] is slender, ringless and ivory white with grey granular dots or blotches near the top. The soft [[Trama (mycology)|flesh]] is yellowish white with a mild taste. The [[spore]]s are ochre.<ref name=Garnweidner1994/>
+
+==Ecology==
+''Suillus placidus'' is found in Asia, Europe and North America occurring exclusively alongside species of five-needled [[Pinus|pine]] of the subgenus ''Strobus''. The [[Mycorrhiza|ectomycorrhizal]] association is beneficial for both fungus and tree, and is a form of [[symbiosis]].
+
+In Asia, it is known to occur in the [[Russian Far East]] with [[Siberian pine]] (''Pinus sibirica''), [[Siberian dwarf pine]] (''P. pumila'') and [[Korean pine]] (''P. koraiensis'').<ref name=MirRastenii/> It has also been reported in [[China]].<ref name=Guangdong/>
+
+It is rarely seen in Europe, where it is known to form ectomycorrhizal associations with [[Swiss pine]] (''Pinus cembra'') and introduced [[eastern white pine]] (''P. strobus'').<ref name=Deconchat2002/><ref name=Laessoe1996/> In north-eastern North America, its range coincides with that of the native eastern white pine (''P. strobus'').
+
+The fungus fruits in summer and autumn with fruiting bodies occurring singly or in small groups.
+
+==Edibility==
+''Suillus placidus'' is reportedly edible,<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |url=https://archive.org/details/mushroomsotherfu0000phil |url-access=registration |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=[https://archive.org/details/mushroomsotherfu0000phil/page/291 291]}}</ref> but of mediocre quality.<ref name=Deconchat2002/><ref name=Laessoe1996/>
+
+==See also==
+*[[List of North American boletes]]
+
+==References==
+{{Reflist|refs=
+
+<ref name=Deconchat2002>{{cite book |author1=Deconchat Ch. |author2=Polèse J.-M. |title=Champignons: l'encyclopédie |publisher=Editions Artemis |location=Losange, France |language=fr |year=2002 |page=509 |isbn=2-84416-145-6|url=https://books.google.com/books?id=zRH1yzMYsx4C&q=suillus+placidus&pg=PA509}}</ref>
+
+<ref name=Garnweidner1994>{{cite book |author=Garnweidner E. |title=Mushrooms and Toadstools of Britain & Europe |publisher=HarperCollins Publishers Limited |year=1994 |isbn=0-00-219994-7 |url=https://books.google.com/books?id=fJoEAAAACAAJ&q=garnweidner}}</ref>
+
+<ref name=Guangdong>{{cite book |author1=Bi Zhishu |author2=Guoyang Zheng |author3=Li Taihui |title=The macrofungus flora of China's Guangdong Province |location=Hong Kong |publisher=Chinese University Press |year=1993 |page=473}}</ref>
+
+<ref name=Laessoe1996>{{cite book |author1=Laessoe Th. |author2=Del Conte A. |title=The Mushroom Book |publisher=Dorling Kindersley |location=London |year=1996 |page=214 |isbn=0-7513-0258-9|url=https://books.google.com/books?id=nYMMAQAAMAAJ&q=the+mushroom+book}}</ref>
+
+<ref name=MirRastenii>{{cite book |author=Takhtajian A. L.|title=World of plants: in 7 volumes (Мир растений : в 7 т. / Под ред. академика А.Л. Тахтаджяна. Т.2. Слизевики. Грибы — 2—е изд., перераб. — М.) |publisher=Prosveschenie |language=ru |year=1991 |page=269 }}</ref>
+}}
+
+==External links==
+{{IndexFungorum|291280}}<br>
+{{MycoBank|291280}}
+{{Taxonbar|from=Q1328472}}
+
+[[Category:Suillus|placidus]]
+[[Category:Fungi of Europe]]
+[[Category:Edible fungi]]
+[[Category:Fungus species]]

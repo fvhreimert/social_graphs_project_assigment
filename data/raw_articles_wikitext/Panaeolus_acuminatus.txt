@@ -1,0 +1,57 @@
+{{Short description|Species of fungus}}
+{{Italic title}}
+{{Speciesbox
+| image = Panaeolus_acuminatus.jpg
+| genus = Panaeolus
+| species = acuminatus
+| authority = ([[Jacob Christian Schäffer|Schaeffer]]) [[Lucien Quélet|Quélet]] 1874
+| synonyms = *''Agaricus acuminatus'' <small>Schaeff., 1774</small>
+*''Agaricus caliginosus'' <small>Jungh., 1830</small>
+*''Panaeolus caliginosus'' <small>(Jungh.) Gillet, 1874</small>
+*''Panaeolus rickenii'' <small>Hora, 1960</small>
+*''Stropharia acuminata'' <small>(Scop.) Murrill, 1922</small>
+| synonyms_ref = <ref>{{IRMNG|10801109|''Panaeolus acuminatus'' (Schaeff.) Quél., 1874|31 December 2022}}</ref>
+}}
+{{mycomorphbox
+| name = Panaeolus acuminatus
+| whichGills = adnexed
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=saprotrophic
+| sporePrintColor=black
+| howEdible=unknown
+}}
+
+'''''Panaeolus acuminatus''''', also known as '''''Panaeolus rickenii''','' is a species of [[mushroom]] in the family [[Bolbitiaceae]].
+
+This species contains small amounts of [[serotonin]], [[5-HTP]], and [[tryptophan]].{{Citation needed|date=December 2022}}
+
+== Description ==
+''P. acuminatus'' is a small brown mushroom that has black [[spore]]s. It has a cap that is less than 4&nbsp;cm across, [[hygrophanous]], [[conic]] to campanulate to plane, usually with an [[Umbo (mycology)|umbo]]. The [[Lamella (mycology)|gill]]s are dark purplish black, crowded, with several tiers of intermediate gills. The spores are (11) 13 - 15 (17) x 9 - 11 (12) x (6.5) 7 - 8 (9) micrometers, smooth, black, and shaped like lemons.<ref>Gerhardt, E: ''Taxonomische Revision Gattungen Panaeolus und Panaeolina'', page 73. 1996</ref> Cheilocystidia present.
+
+== Habitat and distribution ==
+''P. acuminatus'' grows in [[grass]] and dung. It has been found throughout [[North America]] and [[Europe]] and is very widely distributed.
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Panaeolus species|List of ''Panaeolus'' species]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://mushroomobserver.org/900 Mushroom Observer - ''Panaeolus acuminatus'']
+* [https://mushroomobserver.org/2131 Mushroom Observer - ''Panaeolus acuminatus'']
+
+{{Taxonbar|from=Q1317544}}
+
+{{DEFAULTSORT:Panaeolus acuminatus}}
+[[Category:Panaeolus|acuminatus]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1874]]
+[[Category:Fungus species]]
+
+
+{{Agaricales-stub}}

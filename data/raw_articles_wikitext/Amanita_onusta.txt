@@ -1,0 +1,112 @@
+{{Short description|Species of fungus}}
+{{Good article}}
+{{cs1 config|name-list-style=vanc }}
+
+{{Speciesbox
+| image = Amanita onusta 47425.jpg
+| image_caption =
+| taxon = Amanita onusta
+| authority = ([[Elliot Calvin Howe|Howe]]) [[Pier Andrea Saccardo|Sacc.]] (1891)
+| synonyms_ref = <ref name="urlMycoBank: Amanita onusta"/>
+| synonyms = *''Agaricus onustus'' <small>Howe (1874)</small>
+*''Lepiota drymonia'' <small>[[Andrew Price Morgan|Morgan]] (1907)</small>
+}}
+{{Mycomorphbox
+| name = ''Amanita onusta''
+| hymeniumType=gills
+| capShape = convex
+| capShape2 = flat
+| whichGills = free
+| stipeCharacter=ring and volva
+| sporePrintColor=white
+| ecologicalType2=mycorrhizal 
+| howEdible=unknown
+}}
+
+'''''Amanita onusta''''', [[common name|commonly]] known as the '''loaded Lepidella''', the '''gunpowder Lepidella''' or the '''gunpowder amanita''',<ref name=NGSWG>{{NGSWG}}</ref> is a species of [[fungus]] in the [[mushroom]] family [[Amanitaceae]]. It is characterized by its small to medium-sized [[basidiocarp|fruit bodies]] that have white to pale gray [[pileus (mycology)|caps]] crowded with roughly conical, pyramidal, or irregular gray warts. The [[stipe (mycology)|stipe]] is whitish-gray with woolly or wart-like [[universal veil|veil]] remnants, and at the base is a spindle- or turnip-shaped base that is rooted somewhat deeply in the soil.
+
+The species is distributed in eastern North America, from [[Nova Scotia]] to Mexico, and may be found growing on the ground in [[deciduous forest]]s, particularly those with [[oak]], [[hickory]] and [[chestnut]]. Fruit bodies smell somewhat like [[bleaching powder]], and their edibility is unknown, but are possibly toxic.
+
+==Taxonomy==
+''Amanita onusta'' was first described in 1874 by American mycologist [[Elliot Calvin Howe]] as ''Agaricus onustus''.<ref name="Howe 1887" /> Later, in 1891, [[Pier Andrea Saccardo]] transferred the species to the genus ''[[Amanita]]''.<ref name="Saccardo 1891" /> ''Amanita'' authority [[Cornelis Bas]], writing in his extensive 1969 [[monograph]] on the genus,<ref name="Bas 1969" /> placed the species in his [[wikt:stirp|stirps]] ''Microlepis'', subsection ''Solitariae'', [[section (botany)|section]] ''Lepidellus''.<ref name="Bhat 2004" /> This grouping of ''Amanita'' mushroom species also includes ''[[Amanita abrupta|A.&nbsp;abrupta]]'', ''A.&nbsp;atkinsoniana'', ''A.&nbsp;costaricensis'' (a provisionally named species authored by Tulloss, Halling, & G.M. Muell.), ''A.&nbsp;nitida'' (as Coker<ref name="Coker 1917" /> described the species) and ''[[Amanita sphaerobulbosa|A.&nbsp;sphaerobulbosa]]''.<ref name="urlAmanita microlepis Bas" />
+
+The [[Latin]] epithet ''onustusa'' means "charged, load-carrying, burdened",<ref name="Stearn" /><ref name="OxfordLatin" /> and a regular adjective derived from ''onus'', "burden"<ref name="OxfordLatin" /> (the same word that gave the English ''[[wikt:onus#English|onus]]'').<ref name="OED" /> ''A.&nbsp;onusta'' is [[common name|commonly]] known as the "loaded Lepidella",<ref name="McKnight 1987" /> or the "gunpowder Lepidella".<ref name="urlAmanita onusta (Howe) Sacc." />
+
+==Description==
+The [[Basidiocarp|fruit bodies]] of ''Amanita onusta'' have [[Pileus (mycology)|caps]] that are initially broadly [[wikt:convex|convex]] but flatten out as they mature, reaching diameters of {{convert|5|to|10|cm|abbr=off|frac=2}}. The cap surface, grayish-white in color, is ornamented with conical or pyramidal raised warts, or flattened, symmetrically arranged gray to brownish gray, grayish brown or grayish-orange small scales ([[wikt:squamule|squamules]]) that are densely arranged over the surface.
+
+The squamules are less crowded near the edge of the cap (the margin). The margin does not have [[wikt:striate|striations]], and is typically fringed with remnants of the [[partial veil|veil]]. The [[Lamellae (mycology)|gills]] on the underside of the cap are spaced closely together, and either free or narrowly attached to the stipe. They are white to [[Cream (colour)|cream]] color, and are interspersed with short lamellulae (gills that do not extend completely from cap margin to stipe).<ref name="Bhat 2004"/> The gills may look as if they are waterlogged.<ref name="urlAmanita onusta (Howe) Sacc."/>
+
+The [[Stipe (mycology)|stipe]] is {{convert|5.5|to|12|cm|abbr=on|frac=2}} long, {{convert|0.6|to|1.5|cm|abbr=on|frac=4}} thick, and tapers slightly upwards. It is solid gray to brownish-gray near base, paler towards the top, and appears cottony ([[wikt:floccose|floccose]]) or hairy (fibrillose). The bulb at the base of the stipe is roughly spindle- to turnip-shaped, and may root deeply into the soil, especially if the soil is loose.<ref name="Bessette 1997"/> The short-lived [[partial veil]] is white, and attached just below the top of the stipe. It is sticky and in maturity often clings to the upper part of the stipe, or may have some meagre remnants hanging from the cap margin. The [[universal veil]] remains are arranged in rows of warts and patches of gray to brownish-gray small scales over the upper portion of the bulb; below this, the color is a dirty white. The [[trama (mycology)|flesh]] is firm and white.<ref name="Bhat 2004"/> Fruit bodies can range in smell from mild to "slightly unpleasant".<ref name="McKnight 1987"/> The odor has been described as resembling "[[chloride of lime]]",<ref name="Jenkins 80"/> a smell similar to some bathroom disinfectants containing bleach.<ref name="Jenkins 186"/>
+
+===Microscopic characteristics===
+Viewed in deposit, such as with a [[spore print]], the [[basidiospore|spores]] are white. Viewed with a microscope, the spores are broadly [[wikt:ellipsoid|ellipsoid]] to elongate, [[hyaline|translucent]], thin-walled, [[amyloid]], and have dimensions of 8.3–11.6 by 4.9–6.6&nbsp;μm. The [[basidia]] (spore-bearing cells) are 38–46 by 9–11&nbsp;[[micrometre|μm]], club-shaped, mostly 4-spored but some are 2- or 3- spored, with clamps. The cheilocystidia ([[cystidia]] found on the edge of a gill) are 23.3–31.5 by 11.6–15.7&nbsp;μm, ellipsoid, club- to pear-shaped cells, partly in short rows. The [[Pileipellis|cap cuticle]] is up to 168&nbsp;μm thick, and consists of thin-walled interwoven [[hypha]]e that are 2–5.3&nbsp;μm diameter, and gelatinized. [[Clamp connection]]s are present in the hyphae of this species—these are short branches connecting one cell to the previous cell  to allow passage of the products of [[nucleus (cell)|nuclear]] division.<ref name="Bhat 2004"/>
+
+===Similar species===
+''Amanita onusta'' may be confused with ''[[Amanita cinereoconia|A.&nbsp;cinereoconia]]'' because of the similar gray powdery veil remnants on the cap surface.<ref name="McKnight 1987"/> ''A.&nbsp;cinereoconia'' is distinguished from ''A.&nbsp;onusta'' by the absence of [[clamp connection|clamps]], its powdery-wooly to powdery-warty cap, as well as the absence of warts or scales at the base of the stipe. ''A.&nbsp;cinereoconia'' also smells distinctly of chloride of lime.<ref name="McKnight 1987"/> Another similar species is ''[[Amanita costaricensis|A.&nbsp;costaricensis]]'', found only in Costa Rica. ''[[Amanita atkinsoniana|A.&nbsp;atkinsoniana]]'', another North American species, has shorter warts that are spaced further apart than those of ''A.&nbsp;onusta'', and the warts on the basal bulb are arranged in parallel rows.<ref name="urlAmanita onusta (Howe) Sacc."/>
+
+==Distribution and habitat==
+''A. onusta'' grows solitary or scattered on the ground in mixed [[oak]], [[hickory]] and [[chestnut]] forests from southern [[New England]] to [[Texas]].<ref name="Bhat 2004" /> The species has a preference for sandy or loose soils.<ref name="Arora 1986" /><ref name="Kibby 1994" /> Its range extends north to Nova Scotia, Canada,<ref name="Stewart 1973" /> and south to Mexico.<ref name="Suarez 1991" />
+
+==Toxicity==
+The edibility of ''A. onusta'' is unknown,<ref name="Bessette 1997" /> but it has been described as "possibly poisonous"<ref name="McKnight 1987" /> and inedible.<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |publisher=Firefly Books |year=2010 |isbn=978-1-55407-651-2 |location=Buffalo, NY |page=25}}</ref> In general, species of ''Amanita'' are best avoided for consumption because of the prevalence of [[Mushroom poisoning|toxic]] species in that genus.<ref name="Orr 1979" />
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Amanita species|List of ''Amanita'' species]]
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Arora 1986">{{cite book |last=Arora |first=David |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=Ten Speed Press |location=Berkeley, California |year=1986 |page=276 |isbn=978-0-89815-169-5 |url=https://books.google.com/books?id=n3rVpkZII8IC&pg=PA276}}</ref>
+
+<ref name="Bas 1969">{{cite journal |last=Bas |first=C |year=1969 |title=Morphology and subdivision of ''Amanita'' and a monograph on its section ''Lepidella'' |journal=Persoonia |volume=5 |pages=285–579}}</ref>
+
+<ref name="Bessette 1997">{{cite book |title=Mushrooms of Northeastern North America |vauthors =Bessette A, Bessette AR, Fischer DW |year=1997 |publisher=Syracuse University Press |location=Syracuse, New York |isbn=978-0-8156-0388-7 |page=65 |url=https://books.google.com/books?id=T2uU12XcRD4C&pg=PA65}}</ref>
+
+<ref name="Bhat 2004">{{cite book |vauthors =Bhatt RP, ((Miller OK Jr))| editor-last=Cripps |editor-first=CL |title=Fungi in Forest Ecosystems: Systematics, Diversity, and Ecology |publisher=New York Botanical Garden Press|year=2004 |pages=33–59 |chapter=''Amanita'' subgenus ''Lepidella'' and related taxa in the southeastern United States |isbn=978-0-89327-459-7}}</ref>
+
+<ref name="Coker 1917">{{cite journal |last=Coker |first=W. C. |year=1917 |title=The Amanitas of the eastern United States |journal=Journal of the Elisha Mitchell Scientific Society |volume=33 |issue=1–2 }}</ref>
+
+<ref name="Howe 1887">{{cite journal |last=Howe |first=E. C. |title=New Fungi |year=1874 |url=http://www.botanicus.org/page/635226 |journal=Bulletin of the Torrey Botanical Club |volume=5 |issue=1 |pages=42–3|doi=10.2307/2477243 |jstor=2477243 |url-access=subscription }}</ref>
+
+<ref name="Jenkins 80">{{harvnb|Jenkins|1986|p=80}}</ref>
+
+<ref name="Jenkins 186">{{harvnb|Jenkins|1986|p=186}}</ref>
+
+<ref name="Kibby 1994">{{cite book |last=Kibby |first=G. |title=An Illustrated Guide to Mushrooms and Other Fungi of North America |publisher=Lubrecht & Cramer |year=1994 |page=90 |isbn=978-0-681-45384-5}}</ref>
+
+<ref name="Stearn">{{cite book |title=Botanical Latin |edition=2nd annot. and rev. |year=1973 |location=Newton Abbot, UK |publisher=David & Charles |page=473}}</ref>
+
+<ref name="OED">{{cite dictionary |article=onus | encyclopedia=Oxford English Dictionary Online |year=2010 |publisher=Oxford University Press |location=Oxford, UK}}</ref>
+
+<ref name="OxfordLatin">{{cite dictionary| encyclopedia=Oxford Latin Dictionary |edition=combined |editor-last=Glare |editor-first=P. G. W. |year=1982 |orig-year=1976 |publisher=Clarendon Press |location=Oxford, UK |isbn=978-0-19-864224-4 |title=ss. vv. "onus", "onustus" |page=1250}}</ref>
+
+<ref name="McKnight 1987">{{cite book |vauthors =McKnight VB, McKnight KH |title=A Field Guide to Mushrooms, North America |publisher=Houghton Mifflin |location=Boston, Massachusetts |year=1987 |page=208 |isbn=978-0-395-91090-0 |url=https://books.google.com/books?id=kSdA3V7Z9WcC&pg=RA1-PA221}}</ref>
+
+<ref name="Orr 1979">{{cite book |vauthors =Orr DB, Orr RT |title=Mushrooms of Western North America |publisher=University of California Press |location=Berkeley, California |year=1979 |page=196 |isbn=978-0-520-03656-7}}</ref>
+
+<ref name="Saccardo 1891">{{cite book |last=Saccardo |first=Pier Andrea |title=Sylloge Fungorum IX |year=1891 |page=1 |url=http://194.203.77.76/librifungorum/Image.asp?ItemID=79&ImageFileName=SyllogeFungorum9-1.jpg |language=la }}{{Dead link|date=October 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+<ref name="Suarez 1991">{{cite book |title=Iconografía de Macromicetos de México |vauthors =Pérez-Silva E, Suárez TH, Esparza E |year=1991 |publisher=Instituto de Biología, Universidad Nacional Autonoma de Mexico (UNAM) |location=Mexico |isbn=978-968-36-1634-0 |language=es}}</ref>
+
+<ref name="Stewart 1973">{{cite journal |vauthors =Stewart HL, Grund DW |year=1973 |title=Nova Scotian fungi. New species and records of amanitas for the province |journal=Canadian Journal of Botany |volume=52 |issue=2 |pages=331–9 |doi=10.1139/b74-044}}</ref>
+
+<ref name="urlAmanita microlepis Bas">{{cite web |url=http://www.amanitaceae.org/?Amanita+microlepis |title=''Amanita microlepis'' |last=Tulloss |first=R |work=Studies in the Amanitaceae |access-date=2010-02-11}}</ref>
+
+<ref name="urlAmanita onusta (Howe) Sacc.">{{cite web |url=http://www.amanitaceae.org/?Amanita+onusta |title=''Amanita onusta'' |last=Tulloss |first=R |work=Studies in the Amanitaceae |access-date=2009-10-28}}</ref>
+
+<ref name="urlMycoBank: Amanita onusta">{{cite web |title=''Amanita onusta'' (Howe) Sacc. 1891 |url=http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=377118&Fields=All |publisher=[[MycoBank]]. International Mycological Association |access-date=2014-07-01}}</ref>
+
+}}
+
+===Cited books===
+* {{cite book |last=Jenkins |first=DB |title=''Amanita'' of North America |publisher=Mad River Press |location=Eureka, CA |year=1986 |isbn=978-0-916422-55-4}}
+{{Amanitas}}
+{{Taxonbar|from=Q4033862}}
+
+[[Category:Amanita|onusta]]
+[[Category:Fungi described in 1874]]
+[[Category:Fungi of North America]]
+[[Category:Inedible fungi]]
+[[Category:Fungus species]]

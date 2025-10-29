@@ -1,0 +1,39 @@
+{{Short description|Species of fungus}}
+{{single source|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption =
+| genus = Gymnopilus
+| species = alpinus
+| authority = ([[Rolf Singer|Singer]]) Singer
+| synonyms =
+}}
+{{Mycomorphbox
+| name = ''Gymnopilus alpinus''
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=}}
+
+'''''Gymnopilus alpinus''''' is a [[species]] of [[mushroom]] in the family [[Hymenogastraceae]]. It was given its current name by mycologist [[Rolf Singer]] in 1951.<ref>{{cite journal |author=Singer R. |year=1951 |title=The Agaricales in modern taxonomy |journal=Lilloa |volume=22 |page=561}}</ref>
+
+==See also==
+* [[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*''[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=298027 Gymnopilus alpinus]'' at [[Index Fungorum]]
+
+{{Taxonbar|from=Q5624708}}
+
+[[Category:Gymnopilus|alpinus]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

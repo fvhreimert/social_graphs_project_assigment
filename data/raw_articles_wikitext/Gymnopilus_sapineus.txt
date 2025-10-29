@@ -1,0 +1,87 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Gymnopilus sapineus group 568289.jpg
+| image_caption =
+| taxon = Gymnopilus sapineus
+| authority = ([[Elias Magnus Fries|Fr.]]) [[René Maire|Maire]]
+| synonyms_ref = <ref name="MycoBank">{{cite web |title= Gymopilus sapineus (Fr.) Murrill |url= http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=277440}}</ref>
+| synonyms ='' Agaricus sapineus'' <small>Fries (1815)</small>
+}}
+{{mycomorphbox
+| name = ''Gymnopilus sapineus''
+| whichGills = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=ring
+| ecologicalType=saprotrophic
+| sporePrintColor=reddish-brown
+| howEdible=inedible
+| }}
+
+'''''Gymnopilus sapineus''''', commonly known as the '''scaly rustgill''' or '''common and boring gymnopilus''',<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/408/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=408 |orig-date=1979}}</ref> is a species of fungus. The small mushroom has a rusty orange [[spore print]] and a bitter taste. It grows on dead [[conifer]] wood throughout North America.
+
+
+==Taxonomy==
+
+Speciation in ''[[Gymnopilus]]'' is not clearly defined.<ref>{{Cite journal 
+| doi = 10.2307/3761920 
+| last1 = Guzmán-Dávalos | first1 = Laura 
+| last2 = Mueller | first2 = Gregory M. 
+| last3 = Cifuentes | first3 = Joaquín 
+| last4 = Miller | first4 = Andrew N. 
+| last5 = Santerre | first5 = Anne 
+| title = Traditional infrageneric classification of Gymnopilus is not supported by ribosomal DNA sequence data 
+| journal = Mycologia 
+| volume = 95 
+| issue = 6 
+| pages = 1204–1214 
+|date=Nov–Dec 2003
+| pmid = 21149021
+| jstor = 3761920
+| url = http://www.mycologia.org/cgi/reprint/95/6/1204.pdf <!-- alternate URL: http://files.shroomery.org/attachments/7243261-PHYLOGENYOFGYMNOPILUSWITHDNADATA.pdf -->
+| url-access = subscription 
+}}</ref> This is further complicated by the macroscopic morphological and ecological similarities between members of the ''G.&nbsp;sapineus'' complex such as ''G.&nbsp;penetrans'' and ''G.&nbsp;nevadensis''. Michael Kuo explicates upon this by speaking of the arbitrary distinction made between ''G.&nbsp;sapineus'' and ''G.&nbsp;penetrans'' made by [[Elias Magnus Fries]].<ref name="ME">[http://www.mushroomexpert.com/gymnopilus_sapineus.html ''Gymnopilus sapineus'' at MushroomExpert]</ref> He at first labeled ''G.&nbsp;penetrans'' to merely be a form of ''G.&nbsp;sapineus'' in 1815, but then recanted and labeled them separate in 1821.
+
+==Description==
+
+The [[Pileus (mycology)|cap]] is {{convert|2|–|8|cm|in|abbr=on|frac=8}} across, is convex to flat, and is golden-yellow to brownish orange,<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=246–247|oclc=797915861}}</ref> darker at the center with a dry scaly surface which is often fibrillose and may have [[wikt:squamule|squamules]]. The cap margin is inrolled at first and curves outward as it matures, becoming almost plane and sometimes developing fibrillose cracks in age.<ref name=":0" /> The flesh is yellow<ref name=":0" /> to orange and delicate when compared to larger and firmer members of ''Gymnopilus'', such as ''[[Gymnopilus junonius|G.&nbsp;junonius]]''.
+
+The [[Lamella (mycology)|gills]] are crowded, yellow at first, turning rusty orange as the spores mature, with [[wikt:adnate|adnate]] attachment.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=653}}</ref> The [[Basidiospore|spores]] are rusty orange<ref name=":0" /> to rusty brown, elliptical, rough, and 7–10 x 4–6&nbsp;[[μm]].
+
+The [[stipe (mycology)|stipe]] is {{convert|3|–|7|cm|in|abbr=on|frac=8}} long and 0.5–1 cm thick.<ref name=":0" /> It has either an equal structure, or becomes thinner near the base. It is light yellow, bruising rusty brown. The stipe has an evanescent [[veil (botany)|veil]] which often leaves fragments on the upper part of the stipe<ref name=":0" /> or the margin of young caps.
+
+The species sometimes tastes bitter, and has a mild,<ref name=":0" /> fungoid or sweet smell. It is nonpoisonous, but considered inedible.<ref name="Miller 2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=296|author-link1=Orson K. Miller Jr.}}</ref>
+
+It does not stain blue and lacks the hallucinogen [[psilocybin]].{{Citation needed|date=June 2025}}
+
+=== Similar species ===
+This mushroom is often mistaken for ''[[Gymnopilus luteocarneus|G. luteocarneus]]'' which grows on conifers and has a smoother and darker cap.  Another lookalike is ''[[Gymnopilus penetrans|G. penetrans]]'' which grows in the same habitat and has minor microscopic differences.<ref name="ME" />
+
+Other similar species include ''[[Gymnopilus aeruginosus|G. aeruginosus]]'', ''[[Gymnopilus luteofolius|G. luteofolius]]'',<ref name=":0" /> and ''[[Gymnopilus hybridus|G. hybridus]]''.<ref>{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=182}}</ref> It can also resemble members of ''[[Pholiota]]'' and ''[[Cortinarius]]'' section ''Callistei''.<ref name="audu" />
+
+==Habitat and distribution==
+''G. sapineus'' can be found on rotting wood under [[conifer]] trees throughout North America, generally from June to September, or September to February on the West Coast.<ref name="audu" />
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist}}
+
+== Further reading ==
+* Hesler, L. R. (1969). ''North American species of'' Gymnopilus. New York: Hafner. p. 117.
+
+==External links==
+* [http://www.mykoweb.com/CAF/species/Gymnopilus_sapineus.html Fungi of California - ''Gymnopilus sapineus''] {{Webarchive|url=https://web.archive.org/web/20080214071536/http://www.mykoweb.com/CAF/species/Gymnopilus_sapineus.html |date=2008-02-14 }}
+* [https://mushroomobserver.org/observer/show_name/559 Mushroom Observer - ''Gymnopilus sapineus'']
+{{Commons-inline|Gymnopilus penetrans|''G. penetrans''}}<br>
+{{Commons category-inline|Gymnopilus sapineus|''G. sapineus''}}
+
+{{Taxonbar|from=Q5624977}}
+
+[[Category:Gymnopilus|sapineus]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungi described in 1815]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]

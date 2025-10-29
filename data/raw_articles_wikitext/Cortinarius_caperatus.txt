@@ -1,0 +1,160 @@
+{{short description|Species of fungus}}
+{{featured article}}
+{{stack begin}}
+{{Speciesbox
+| image = Rozites caperata 20100919w.JPG
+| image_caption = French specimen
+| genus = Cortinarius
+| species = caperatus
+| authority = (Pers.) [[Elias Magnus Fries|Fr.]] (1838)
+| synonyms = ''Rozites caperata'' <sub>([[Christian Hendrik Persoon|Pers.]]) [[Petter Adolf Karsten|P. Karst.]]</sub><br />
+''Pholiota caperata'' <sub>(Pers.) Gillet</sub><br />
+''Dryophila caperata'' <sub>(Pers.) Quél.</sub><br />
+''Togaria caperata'' <sub>(Pers.) W.G. Sm.</sub>
+}}
+{{mycomorphbox
+| name = Cortinarius caperatus
+| whichGills = adnate
+| capShape = convex
+| capShape2 = umbonate
+| hymeniumType = gills
+| stipeCharacter = ring
+| ecologicalType = mycorrhizal
+| sporePrintColor = ochre
+| sporePrintColor2 = brown
+| howEdible = choice
+}}
+{{stack end}}
+
+'''''Cortinarius caperatus''''' is a species of fungi of the genus ''[[Cortinarius]]''. It was known as ''Rozites caperata'' for many years before genetic studies revealed that it belonged to the genus ''Cortinarius''. The Latin [[Specific name (botany)|specific name]], ''caperatus'', means wrinkled, and refers to the distinctive texture of the cap. The ochre-coloured [[pileus (mycology)|cap]] is up to 10&nbsp;cm (4&nbsp;in) across and has a fibrous surface. The clay-colored [[lamella (mycology)|gills]] are attached to the [[stipe (mycology)|stipe]] under the cap, and the stipe is whitish with a whitish [[Annulus (mycology)|ring]]. The [[Trama (mycology)|flesh]] has a mild smell and flavor. It can resemble a number of other species, including the poisonous ''[[Inosperma erubescens]]'' in central Europe in summer.
+
+Fruiting bodies of ''C.&nbsp;caperatus'' appear in northern parts of Europe and North America in addition to temperate Asia. They can be found in [[conifer]]ous and [[beech]] woods in autumn as well as [[heath]]lands in late summer and autumn. The mushrooms have been found to [[bioaccumulate]] [[Mercury (element)|mercury]] and radioactive isotopes of [[caesium]] and can also be infested by [[maggot]]s. It is otherwise a highly regarded [[Edible mushroom|edible species]] amongst European [[mushroom foragers]].
+
+== Taxonomy ==
+The mushroom was originally [[species description|described]] as ''Agaricus caperatus'' in 1796 by South African mycologist [[Christiaan Hendrik Persoon]], who noted it grew in beech woods.<ref name=persoon1796/> The [[specific name (botany)|specific epithet]] ''caperatus'' is Latin for "wrinkled".<ref name="Nilper" /> Bohemian naturalist [[Julius Vincenz von Krombholz]] illustrated it in his ''Naturgetreue Abbildungen und Beschreibungen der essbaren, schädlichen und verdächtigen Schwämme'', published between 1831 and 1846.<ref name=krombholz/> It was transferred to the genus ''[[Cortinarius]]'' by the Swedish mycologist [[Elias Magnus Fries]] in 1838.<ref name="Fries 1838"/> Later it was transferred to ''[[Pholiota]]'' in 1874 by French mycologist [[Claude Casimir Gillet]],<ref name=gillet1874/> a placement followed by Italian naturalist [[Pier Andrea Saccardo]].<ref name="Sylloge"/> Finnish mycologist [[Petter Adolf Karsten]] established the genus ''Rozites'' in 1879 to accommodate the species—as ''Rozites caperatus''—on the basis of the mushroom having a double veil;<ref name=karsten/> that is, a [[partial veil]]—the remnants of which become a [[Annulus (mycology)|ring]] on the [[stipe (mycology)|stipe]]—as well as a [[universal veil]].<ref name=peintner2002a/> It was known as a ''Rozites'' species for many years.<ref name=peintner2002a/> Meanwhile, French mycologist [[Lucien Quélet]] classified ''Pholiota'' as a [[subgenus]] of ''Dryophila'' in 1886, resulting in ''Dryophila caperata'' being added to the species' synonymy.<ref name="Quélet 1886"/> [[Worthington George Smith]] placed it in his new genus ''Togaria'' (now considered a synonym of ''[[Agrocybe]]'').<ref name=wgsmith/>
+
+Genetic analysis in 2000 and 2002 showed that ''Rozites'' was not a discrete group and its members were nested within ''Cortinarius''.<ref name=peintner2002a/><ref name="Høiland2000"/> This fungus was found to be closely related to the New Zealand species ''[[Cortinarius meleagris|C.&nbsp;meleagris]]'' and ''[[Cortinarius subcastanellus|C.&nbsp;subcastanellus]]'', both also formerly of ''Rozites''.<ref name=peintner2002a/> Hence it has once more been placed within ''Cortinarius''.<ref name=peintner2002b/> Within the genus it is classified in the subgenus ''Cortinarius''.<ref name="Buczacki 2012"/>
+
+[[Common name]]s include the gypsy mushroom,<ref name="Arora86" /> gypsy,<ref name="Buczacki 2012"/> and wrinkled rozites.<ref name="Lamaison05"/> In Finland, the common name is granny's nightcap.<ref name="Nilper"/>
+
+== Description ==
+
+
+''C.&nbsp;caperatus'' has a buff to brownish-ochre [[pileus (mycology)|cap]] {{Convert|5–12|cm|frac=4}} diameter,<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=635}}</ref> which is covered with whitish fibres. The surface has a wrinkled and furrowed texture.<ref name="Lamaison05" /> It may have a lilac tinge when young. It is convex initially before expanding and flattening with a boss ([[umbo (mycology)|umbo]]) in the centre. The stipe is {{Cvt|4–12|cm|frac=4}} long and {{Cvt|1–2.2|cm|frac=4}} thick; it is slightly swollen at the base, and whitish to beige with a noteworthy whitish [[Annulus (mycology)|ring]],<ref name="audu" /> which is initially attached to the cap.<ref name="Phillips06"/> The [[partial veil]] is a key identifying feature of the mushroom.<ref name="Courtecuisse 1999"/> The spores give an ochre-brown [[spore print]]. The warty almond-shaped spores measure 10–13&nbsp;[[μm]] long by 8–9&nbsp;μm wide. The [[context (mycology)|flesh]] is cream-coloured and the flavor mild.<ref name="Phillips06"/>
+
+=== Similar species ===
+Similar-looking North American species include ''[[Agrocybe praecox]]'', which lacks the wrinkled cap and is found in cultivated areas, and ''[[Phaeolepiota aurea]]'', which has a powdery-granular surface.<ref name="Arora86"/> Members of the ''Cortinarius'' subgenus ''Telamonia'' have thin rings and [[Cortinarius corrugatus|''C.&nbsp;corrugatus'']] has none, with a wrinkled cap.<ref name="audu" />
+
+In central Europe, old specimens could be mistaken for the highly poisonous ''[[Inosperma erubescens]]'' in summer, and young mushrooms for the inedible ''[[Cortinarius traganus]]'', although the latter is readily distinguished by its unpleasant odour.<ref name="Zeitl76" />
+
+== Distribution and habitat ==
+''C.&nbsp;caperatus'' is found across northern Europe, mainly in Scandinavia, where it is common, although it is uncommon in Denmark and Iceland.<ref name=Nordic/> In the British Isles it is uncommon outside the [[Scottish Highlands]]<ref name="Nilper" /> and the [[New Forest]].<ref name=fungrec/> It has been classified as ''vulnerable'' in Germany and Great Britain and ''endangered'' in the Netherlands.<ref name=arnolds95/> ''C.&nbsp;caperatus'' had become less common in the vicinity of [[Salzburg]] in Austria between 1937 and 1988, thought due to picking.<ref name=Rücker88/>
+
+It is widely found in northern parts of North America,<ref name="Arora86" /> as far south as [[Mendocino County]] on the west coast. It is uncommon in California.<ref name=siegel16/> ''C.&nbsp;caperatus'' is a rare component of [[subarctic]] areas of western Greenland.<ref name=Elborne1990/> The fungus also grows in temperate Asia, having been recorded growing with [[bilberry]] near oriental beech (''[[Fagus orientalis]]'') and fir near [[Pamukova]] in the [[Marmara Region]] of Turkey.<ref name=Akata15/> It is also found in boggy areas of the [[taiga]] (boreal pine forest) in western Siberia.<ref name=Filippova14/>
+
+Fruiting bodies sprout from August to October in [[conifer]] and [[beech]] woods, as well as [[Ericaceae|heather]] (often close by [[sphagnum]]) in Scotland. It is [[mycorrhizae|mycorrhizal]] but non-selective in its hosts.<ref name="Nilper" /> Mushrooms appear from September to November in North America,<ref name="Baroni 2017"/> and July and August in Alaska.<ref name=Alaska/> It prefers [[Soil pH|acidic]] and sandy soils and avoids [[Calcareous|chalky]] ones,<ref name=Pegler/><!-- cites acidic, rest of sentence cited to Haas69 --> and may be found in the same habitats as bay bolete (''[[Imleria badia]]''), brown roll-rim (''[[Paxillus involutus]]''), and [[Cantharellus|chanterelles]].<ref name="Haas69"/> It forms relationships with Scots pine (''[[Pinus sylvestris]]'').<ref name=trappe62/> It is often found under Sitka spruce (''[[Picea sitchensis]]''),<ref name=siegel16/> or near [[huckleberry]] in North America.<ref name="Arora86" /> In Alaska it grows with dwarf birch (''[[Betula nana]]'') and American dwarf birch (''[[Betula glandulosa|B.&nbsp;glandulosa]]'').<ref name=Alaska/> In Greenland, it grows in association with white birch (''[[Betula pubescens|B.&nbsp;pubescens]]'').<ref name=Elborne1990/>
+
+==Potential contamination==
+The popularity of ''C.&nbsp;caperatus'' across Europe has led to safety concerns related to its propensity to accumulate contaminants.<ref name=Falandysz14/> Fungi are very efficient at absorbing radioactive [[isotope]]s of [[caesium]] from the soil and naturally have trace amounts of the element. Caesium may take the place of [[potassium]], which exists in high concentrations in mushrooms.<ref name=Falandysz16/> ''C.&nbsp;caperatus'' [[Radiotrophic fungus|bioaccumulates]] radioactive caesium [[Caesium-137|<sup>137</sup>Cs]]—a product of nuclear testing—much more than many other mushroom species. Levels dramatically rose after the 1986 [[Chernobyl disaster]]. This is a potential health issue as picking and eating wild mushrooms is a popular pastime in central and eastern Europe. Elevated <sup>137</sup>Cs levels were also found in [[ruminant]]s that eat mushrooms in Scandinavia in the 1990s.<ref name=kalac01/><!-- cites previous 4 sentences --> Mushrooms from [[Reggio Emilia]] in Italy were found to have raised levels of [[Isotopes of caesium#Caesium-134|<sup>134</sup>Cs]].<ref name=Falandysz16/> ''C.&nbsp;caperatus'' from various sites across Poland has also been found to contain increased levels of [[Mercury (element)|mercury]].<ref name=Falandysz14/>
+
+Additionally, picked mushrooms are often found to be infested with [[maggot]]s.<ref name="Haas69" />
+
+== Edibility ==
+
+
+''C.&nbsp;caperatus'' is a highly regarded [[edible mushroom]] with a mild to good flavour.<ref name="Miller 2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=299|author-link=Orson K. Miller Jr.}}</ref> It is said to mix well with stronger-flavoured fungi such as chanterelles, [[Boletus|boletes]], [[Russula|brittlegills]] or [[Lactarius (fungus)|milk-caps]].<ref name="Nilper" /> The mushroom can have a faintly bitter taste if eaten raw, but a pleasant nutty flavour when cooked.<ref name=Alaska/> It can readily be dried for later use, such as adding to soups and stews.<ref name="Lamaison05" /> It is sold commercially in Finland,<ref name=pelkonen/> and is a popular target of foragers in many parts of Europe.<ref name=Falandysz16/> Mycologist [[David Arora]] recommends discarding the tough stipes.<ref name="Arora86" />
+
+== See also ==
+{{Portal|Fungi}}
+* [[List of Cortinarius species|List of ''Cortinarius'' species]]
+
+== References ==
+{{Reflist|refs=
+
+<ref name=Akata15>{{cite journal | vauthors=Akata I, Kabaktepe Ş, Akgül H | title= ''Cortinarius caperatus'' (Pers.) Fr., A New Record For Turkish Mycobiota |journal= Kastamonu University Journal of Forestry Faculty | year= 2015|volume=15|issue=1| pages=86–89 | doi=10.17475/kuofd.94670| doi-broken-date= 11 July 2025 | doi-access=free}}</ref>
+
+<ref name=Alaska>{{cite book | title=Alaska's Mushrooms: A Wide-Ranging Guide | vauthors=Laursen GA, McArthur N | page=71 | publisher=Graphic Arts Books | year=2016 | orig-year=1994 | isbn=9781943328765| url=https://books.google.com/books?id=l4M_DAAAQBAJ&pg=PA71}}</ref>
+
+<ref name=arnolds95>{{cite journal | title=Conservation and management of natural populations of edible fungi |vauthors=Arnolds E | journal= Canadian Journal of Botany | year= 1995| volume= 73 | issue=S1| pages= 987–98 |doi=10.1139/b95-349|bibcode=1995CaJB...73S.987A }}</ref>
+
+<ref name="Arora86">{{cite book |author=Arora D |author1-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/412/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |year=1986 |orig-date=1979 |edition=2nd |pages=412}}</ref>
+
+<ref name="Baroni 2017">{{cite book|author=Baroni TJ. |title=Mushrooms of the Northeastern United States and Eastern Canada |series=Timber Press Field Guide |url=https://books.google.com/books?id=dmUoDwAAQBAJ&pg=PA308 |year=2017 |publisher=Timber Press |isbn=978-1-60469-814-5 |page=308}}</ref>
+
+<ref name="Buczacki 2012">{{cite book |vauthors=Buczacki S, Shields C, Ovenden D |title=Collins Fungi Guide |year=2012 |publisher=Collins |isbn=978-0-00-746648-1 |pages=322}}</ref>
+
+<ref name="Courtecuisse 1999">{{cite book |author= Courtecuisse R. |title=Mushrooms of Britain and Europe |year=1999 |series=Collins Wildlife Trust guides |publisher=Harpercollins  |pages= 456–57|isbn=978-0-00-220012-7}}</ref>
+
+<ref name=Elborne1990>{{cite book | title=The Greenland Mountain Birch Zone, Southwest Greenland | publisher=Museum Tusculanum Press |isbn=978-87-635-1204-6 | veditors= Fredskild B, Ødum S | year=1990 | chapter= Larger Fungi Associated with ''Betula pubescens'' in Greenland | vauthors=Elborne SA, Knudsen H | pages=77–80}}</ref>
+
+<ref name=Falandysz14>{{cite journal | title=Distribution of mercury in Gypsy ''Cortinarius caperatus'' mushrooms from several populations: An efficient accumulator species and estimated intake of element | year=2014 | journal =Ecotoxicology and Environmental Safety | volume= 110| pages= 68–72 | doi=10.1016/j.ecoenv.2014.08.018  | pmid=25199584 | vauthors=Falandysz J| bibcode=2014EcoES.110...68F }}</ref>
+
+<ref name=Falandysz16>{{cite journal | journal =Environmental Science and Pollution Research International | year= 2016 | volume= 23| issue=22| pages= 23169–74 | doi= 10.1007/s11356-016-7541-0 | pmid= 27600726 | pmc= 5101288 | title= Radiocaesium in ''Cortinarius'' spp. mushrooms in the regions of the Reggio Emilia in Italy and Pomerania in Poland | vauthors= Zalewska T, Cocchi L, Falandysz J| bibcode= 2016ESPR...2323169Z }}</ref>
+
+<ref name=Filippova14>{{cite journal | vauthors=Filippova NV, Thormann MN|title= Communities of larger fungi of ombrotrophic bogs in West Siberia |journal=Mires and Peat|year= 2014|volume=14|pages=1–22 | url=http://aquilonconsulting.ca/wp-content/uploads/2015/08/Fillipova-and-Thormann-Mires-and-Peat-2014.pdf }}</ref>
+
+<ref name="Fries 1838">{{cite book |author=Fries EM |title=Epicrisis Systematis Mycologici: Seu Synopsis Hymenomycetum |trans-title=A Critical Study of Mycology: A Synopsis of the Hymenomycetes |volume=1–2 | publisher=Regiae Academiae Typographia |year=1838 |page=256|url=http://www.librifungorum.org/Image.asp?Nav=yes&FirstPage=292091&LastPage=292716&NextPage=292360 |archive-url=https://web.archive.org/web/20160601200348/http://www.librifungorum.org/Image.asp?Nav=yes&FirstPage=292091&LastPage=292716&NextPage=292360 |url-status=usurped |archive-date=June 1, 2016 |language=la}}</ref>
+
+<ref name=fungrec>Fungal Records Database for the British Isles {{cite web |url=http://www.fieldmycology.net/GBCHKLST/gbsyns.asp?intGBNum=34829 |title=Species data - British fungi |access-date=16 January 2010 |url-status=usurped |archive-url=https://web.archive.org/web/20110723125559/http://www.fieldmycology.net/GBCHKLST/gbsyns.asp?intGBNum=34829 |archive-date=23 July 2011|publisher=British Mycological Society }}</ref>
+
+<ref name=gillet1874>{{cite book |author=Gillet CG |title=Les Hyménomycètes, ou, Description de tous les champignons (fungi) : qui croissent en France, avec l'indication de leurs propriétés utiles ou vénéneuses |volume=3 | publisher=Ch. Thomas  |year=1874 |page=Plate 517 |url=https://www.biodiversitylibrary.org/page/32651752}}</ref>
+
+<ref name="Haas69">{{cite book | author = Haas H| year = 1969 | title = The Young Specialist Looks at Fungi| publisher = Burke | isbn=978-0-222-79414-7|page=124}}</ref>
+
+<ref name="Høiland2000">{{cite journal |vauthors=Høiland K, Holst-Jensen A | title=''Cortinarius'' Phylogeny and Possible Taxonomic Implications of ITS rDNA Sequences | journal=Mycologia |volume= 92 |issue= 4 |year= 2000|pages= 694–710| jstor=3761427 | doi=10.2307/3761427}}</ref>
+
+<ref name=karsten>{{cite journal | vauthors=Karsten PA | url=https://biodiversitylibrary.org/page/7291660 | year=1879 | journal=Bidrag till Kännedom av Finlands Natur och Folk / Utgivna av Finska Vetenskaps-Societeten | language=sv | title=''Rozites caperatus'' | volume=32 | page=290}}</ref>
+
+<ref name=kalac01>{{cite journal | url= http://kch.zf.jcu.cz/vyzkum/publikace/separaty/2001-0035.pdf  | title=A review of edible mushroom radioactivity | vauthors=Kalač P | journal=Food Chemistry | volume=75 | year=2001 | pages= 29–35 | doi=10.1016/s0308-8146(01)00171-6}}</ref>
+
+<ref name=krombholz>{{cite book |vauthors= von Krombholz JV |url= https://biodiversitylibrary.org/page/15574434 |at= plate 73 (10–12) |language= de |title= Naturgetreue Abbildungen und Beschreibungen der essbaren, schädlichen und verdächtigen Schwämme |volume= Plates |publisher= In Commission in der J.G. Calve'schen Buchhandlung |year= 1831–1846}}</ref>
+
+<ref name="Lamaison05">{{cite book |title=The Great Encyclopedia of Mushrooms |vauthors=((Lamaison J-L)), ((Polese J-M)) |year=2005 |publisher=Könemann |isbn=978-3-8331-1239-3|page=138}}</ref>
+
+<ref name="Nilper">{{cite book | vauthors = Nilson S, Persson O | year = 1977 | title = Fungi of Northern Europe 1: Larger Fungi (Excluding Gill-Fungi) | publisher = Penguin|isbn=978-0-14-063005-3|page=86}}</ref>
+
+<ref name=Nordic>{{cite book |chapter=''Cortinarius caperatus'' (Pers.) Fr. (''Rozites caperatus'' (Pers.) P. Karst.) |chapter-url=https://books.google.com/books?id=487-AwAAQBAJ&pg=PA164 |pages=164–5 |title=Mushrooms traded as food. Vol II sec 2: Nordic risk assessments and background on edible mushrooms, suitable for commercial marketing and background lists for industry, trade and food inspection. Risk assessments of mushrooms on the four guidance lists | vauthors= Gry J, Andersson C | publisher=Nordic Council of Ministers | year=2014 | isbn=978-92-893-2705-3}}</ref>
+
+<ref name=Pegler>{{cite book | vauthors=Pegler D | page=34 | isbn=978-0-85533-500-7 | title=Mushrooms and Toadstools | publisher= Littlehampton Book Services Ltd | year=1983}}</ref>
+
+<ref name=peintner2002a>{{cite journal |vauthors=Peintner U, Horak E, Moser M, Vilgalys R|year=2002|title=Phylogeny of ''Rozites'', ''Cuphocybe'' and ''Rapacea'' inferred from ITS and LSU rDNA sequences |journal=Mycologia|volume=94|issue= 4|pages=620–29|doi=10.2307/3761713 |jstor=3761713 |pmid=21156535}}</ref>
+
+<ref name=peintner2002b>{{cite journal |vauthors=Peintner U, Horak E, Moser M, Vilgalys R|year=2002|title=''Rozites'', ''Cuphocybe'' and ''Rapacea'' are taxonomic synonyms of ''Cortinarius'': New combinations and new names |journal=Mycotaxon|volume=83 |pages=447–51}}</ref>
+
+<ref name=pelkonen>{{cite book|vauthors=Pelkonen R, Alfthan G, Järvinen O|title=Element Concentrations in Wild Edible Mushrooms in Finland|publisher=Finnish Environment Institute|year=2008|page=32|isbn=978-952-11-3153-0|url=https://helda.helsinki.fi/bitstream/handle/10138/38380/FE_25_2008.pdf}}</ref>
+
+<ref name=persoon1796>{{cite book | author=Persoon CH | year=1796 | pages=48–49 | url=http://bibdigital.rjb.csic.es/ing/Libro.php?Libro=5680&Pagina=52 | title=Observationes mycologicae | volume=1 | publisher=Apud Petrum Phillippum Wolf | access-date=2016-05-21 | archive-date=2016-06-16 | archive-url=https://web.archive.org/web/20160616193630/http://bibdigital.rjb.csic.es/ing/Libro.php?Libro=5680&Pagina=52 | url-status=dead }}</ref>
+
+<ref name="Phillips06">{{cite book | author = Phillips R | year = 2006  | title = Mushrooms | publisher = Pan MacMillan | isbn = 978-0-330-44237-4|page= 207}}</ref>
+
+<ref name="Quélet 1886">{{cite book |author=Quélet L. |title=Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium | year=1886 |publisher=Octave Dion |page=66|url=https://biodiversitylibrary.org/page/32653102 |language=la}}</ref>
+
+<ref name=Rücker88>{{cite journal |vauthors=Rücker T, Peer T | year= 1988 | title= Pilzsoziologische Untersuchungen am Stubnerkogel (Gasteiner Tal, Salzburg, Osterreich) unter Berücksichtigung der Schwermetallsituation | journal= Nova Hedwigia | volume= 47| pages= 1–38 | language=de}}</ref>
+
+<ref name="Sylloge">{{cite book|vauthors=Saccardo PA | volume=5 |title=Sylloge fungorum omnium hucusque cognitorum|date=1887|publisher=sumptibus auctoris|location=Patavii (Padua) |pages=736–37|url=https://biodiversitylibrary.org/page/4341518}}</ref>
+
+<ref name=siegel16>{{cite book | title=Mushrooms of the Redwood Coast: A Comprehensive Guide to the Fungi | page=202 | url=https://books.google.com/books?id=RLXrCgAAQBAJ&pg=PA202 | publisher=Potter/TenSpeed/Harmony | year=2016 | vauthors=Siegel N, Schwarz C | isbn=978-1-60774-818-2}}</ref>
+
+<ref name=trappe62>{{cite journal | author=Trappe JM | jstor=4353659 | journal=The Botanical Review | title= Fungus Associates of Ectotrophic Mycorrhizae |pages= 538–606| volume= 28|issue= 4 |year= 1962 | doi=10.1007/bf02868758| bibcode=1962BotRv..28..538T | s2cid=42698903 }}</ref>
+
+<ref name=wgsmith>{{cite book | vauthors =Smith WG | title=Synopsis of the British Basidiomycetes ; a descriptive catalogue of the drawings and specimens in the Department of botany, British museum | publisher=Printed by order of the Trustees of the British museum | year=1908 | page=121 | url=https://biodiversitylibrary.org/page/2987173 }}</ref>
+
+<ref name="Zeitl76">{{cite book|author=Zeitlmayr L.|year=1976|title=Wild Mushrooms:An Illustrated Handbook|publisher=Garden City Press |isbn= 978-0-584-10324-3|page=79}}</ref>
+
+}}
+
+== External links ==
+* {{Commons category-inline|Cortinarius caperatus}}
+
+{{Taxonbar|from=Q669036}}
+
+{{DEFAULTSORT:Cortinarius caperatus}}
+[[Category:Cortinarius|caperatus]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Asia]]
+[[Category:Edible fungi]]
+[[Category:Taxa named by Christiaan Hendrik Persoon]]
+[[Category:Fungi described in 1796]]
+[[Category:Fungi of Iceland]]
+[[Category:Fungus species]]

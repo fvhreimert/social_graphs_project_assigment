@@ -1,0 +1,64 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Halbkugeliger Borstling Humaria hemisphaerica.jpg
+| image_caption =
+| taxon = Humaria hemisphaerica
+| authority =  (F.H. Wigg.) [[Karl Wilhelm Gottlieb Leopold Fuckel|Fuckel]] (1870)
+| synonyms = ''Peziza hemisphaerica''<br>
+&nbsp;&nbsp;<small>F.H. Wigg. (1780)</small><br>
+''Lachnea hemisphaerica''<br>
+&nbsp;&nbsp;<small>(F.H. Wigg.) Gillet (1879)</small><br>
+''Mycolachnea hemisphaerica''<br>
+&nbsp;&nbsp;<small>(F.H. Wigg.) Maire (1937)</small><br>
+''Peziza hispida''<br>
+&nbsp;&nbsp;<small>Sowerby (1799) [[nom. illegit.]]</small>
+}}
+{{mycomorphbox
+| name = Humaria hemisphaerica
+| whichGills =NA
+| capShape = NA
+| hymeniumType=smooth
+| stipeCharacter=NA
+| ecologicalType=mycorrhizal
+| sporePrintColor=
+| howEdible=inedible
+}}
+
+'''''Humaria hemisphaerica''''' is a species of [[fungus]] in the family [[Pyronemataceae]]. In the UK it has the recommended English name of '''glazed cup''';<ref name=BMS>{{cite web |author=Holden L. |url=https://www.britmycolsoc.org.uk/field_mycology/english-names |title=English names for fungi April 2022 |date=April 2022|publisher=[[British Mycological Society]] |accessdate=2023-07-16}}</ref> in North America it has been called the '''hairy fairy cup'''<ref name="isbn0-89815-169-4">{{cite book |author=Arora D. |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/839/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, California |year=1986 |orig-date=1979 |edition=2nd |pages=839-40}}</ref> or the '''brown-haired fairy cup'''.<ref name="isbn0-8131-9039-8">{{cite book |author=Roody WC. |title=Mushrooms of West Virginia and the Central Appalachians |publisher=University Press of Kentucky |location=Lexington, Ky |year=2003 |page=465|isbn=0-8131-9039-8}}</ref> [[Ascocarps]] (fruit bodies) are cup-shaped and can be recognized by their smooth, white inner surface and hairy, brown outer surface. The species occurs in Europe and North America.
+
+==Taxonomy==
+
+This species was originally described in 1780 by German mycologist [[Friedrich Heinrich Wiggers]]  as ''Peziza hemisphaerica''. [[Elias Magnus Fries]] placed it within the ''Lachnea'' series, a name he applied to cup fungi with hairy [[apothecia]].<ref>Fries EM. (1823). ''Systema mycologicum''. Vol 2. Ex Officina Berlingiana, Lundae, Sweden. 620 pp.</ref> In 1870 [[Leopold Fuckel]] transferred ''P.&nbsp;hemisphaerica'' to the genus ''[[Humaria]]''.<ref>Fuckel L. (1870). Symbolae mycologicae. Beiträge zur Kenntnis der rheinischen Pilze. ''Jahrbuch des Nassauischen Vereins für Naturkunde'' '''23&ndash;24''':1&ndash;459.</ref>
+
+The [[specific name (botany)|specific epithet]] is derived from the [[Latin language|Latin]] word ''hemisphaericum'', meaning half a sphere.
+
+==Description==
+
+''Humaria hemisphaerica'' has fruiting bodies ([[apothecia]]) that typically measure {{convert|5 to 30|mm|sigfig=2|abbr=off|frac=8}} in diameter by {{convert|1 to 1.5|cm|sigfig=2|abbr=on|frac=8}} deep.<ref name="isbn1-58729-627-6">{{cite book|author1=Rosanne A. Healy |author2=Huffman, Donald R. |author3=Lois H. Tiffany |author4=George Knaphaus |title=Mushrooms and Other Fungi of the Midcontinental United States (Bur Oak Guide) |publisher=University of Iowa Press|location=Iowa City |year=2008 |page=279 |isbn=978-1-58729-627-7 }}</ref> The fruiting bodies are initially spherical and expand to become cuplike at the fungus matures. This species typically does not have a [[stipe (mycology)|stipe]]; when it does, it is present as a small abrupt base. The inner surface of the fruiting body (the [[hymenium]]) is white, while the outer hairy surface is brown and covered with brown hairs that taper to a sharp point. These hairs are 400–500 x 15–20&nbsp;[[μm]]. The [[ascospore]]s are elliptical, [[hyaline]], 20–22 x 10–11&nbsp;μm, and have 2–3 oil droplets.<ref name="isbn0-89301-062-6">{{cite book |author=Tylutki, Edmund E. |title=Mushrooms of Idaho and the Pacific Northwest |publisher=University Press of Idaho|location=Moscow |year=1979 |page=90 |isbn=0-89301-062-6 }}</ref>
+
+===Similar species===
+Similar species of ''Humaria'' may exist in North America, but are not circumscribed.<ref name=":0">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=42}}</ref>
+
+There are several other similar cup fungi in the [[Pyronemataceae]] family with hairy exteriors. ''[[Jafnea semitotsa]]'' is larger (2&ndash;5&nbsp;cm in diameter) with a brown interior and a short stipe.<ref name="isbn0-89815-169-4" /> The cups of ''[[Trichophaea]]'' species are usually less than 1&nbsp;cm across;<ref name=":0" /> ''[[Trichophaea boudieri]]'' and ''[[Trichophaea bullata|T.&nbsp;bullata]]'' are 1&ndash;6&nbsp;millimetres wide, and ''[[Trichophaea abundans|T.&nbsp;abundans]]'' prefers to grow in burnt areas.<ref name="isbn0-89815-169-4" /> ''[[Chaetothiersia vernalis]]'' grows in a more disclike form, and ''[[Wilcoxina rehmii]]'' produces tiny discs.<ref name=":0" />
+
+==Distribution and habitat==
+
+''H. hemisphaerica'' grows year-round on North America's west coast<ref name=":0" /> and is common in the [[Pacific Northwest]];<ref>{{cite book |last1=Trudell |first1=Steve |url=https://books.google.com/books?id=WevHvt6Tr8kC |title=Mushrooms of the Pacific Northwest |last2=Ammirati |first2=Joe |publisher=Timber Press |year=2009 |isbn=978-0-88192-935-5 |series=Timber Press Field Guides |location=Portland, OR |pages=288 |language=en}}</ref> further east, it fruits from July to October.<ref name=":0" /> Specimens usually grow alone,<ref name=":0" /> but also appear scattered or grouped on the ground, and sometimes on decaying wood.<ref name="isbn0-89815-169-4"/> 
+
+==Toxicity==
+The fungus is inedible.<ref name="isbn0-8131-9039-8" />
+
+==References==
+{{Reflist|2}}
+
+==External links==
+*[https://web.archive.org/web/20071015190218/http://www.indexfungorum.org/Names/SynSpecies.asp?RecordID=120602 Index Fungorum]
+
+{{Taxonbar|from=Q1570399}}
+
+{{DEFAULTSORT:Humaria Hemisphaerica}}
+[[Category:Pyronemataceae]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi described in 1780]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]

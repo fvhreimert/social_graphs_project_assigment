@@ -1,0 +1,53 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Psilocybe guilartensis Guzmán (151401).jpg
+| genus = Psilocybe
+| species = guilartensis
+| authority = [[Gastón Guzmán|Guzmán]], F. Tapia & Nieves-Riv. 
+}}
+{{mycomorphbox
+| name = ''Psilocybe guilartensis''
+| whichGills = adnexed
+| capShape = conical
+| capShape2=convex
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=saprotrophic
+| sporePrintColor=purple-brown
+| howEdible=psychoactive
+}}
+
+'''''Psilocybe guilartensis''''' is a [[psilocybin mushroom]] which has [[psilocybin]] and [[psilocin]] as main active compounds.  It is common in [[Puerto Rico]].
+
+First reported in the literature in 1997,<ref name = "Guzman and colleagues1997">Guzmán G, Tapia F, Nieves-Rivera ÁM, Betancourt C. (1997). Two new bluing species of ''Psilocybe'' from Puerto Rico. ''Mycotaxon'' '''63'''(1): 377-382.</ref> [[Gastón Guzmán]] placed ''P. guilartensis'' in ''Psilocybe'' section Brunneocystidiatae due to its blue staining reaction, small thick-walled subrhomboid spores, and pigmented [[cystidia]].<ref name = "Guzman2003">Guzmán G, Tapia F, Ramírez-Guillén F, Baroni TJ, Lodge DJ, Cantrell SA, Nieves-Rivera ÁM. (2003). A new species of ''Psilocybe'' in the Caribbean with an emendation of ''Psilocybe guilartensis''. ''Mycologia'' '''95'''(6): 1171–1180.</ref>
+
+Other mushrooms in the section Brunneocystidiatae include ''[[Psilocybe banderillensis]]'', ''[[Psilocybe banderillensis var. paulensis]]'',  ''[[Psilocybe brunneocystidia]]'', ''[[Psilocybe heimii]]'', ''[[Psilocybe inconspicua]]'', ''[[Psilocybe pleurocystidiosa]]'', ''[[Psilocybe rzedowski]]'', ''[[Psilocybe singeri]]'', ''[[Psilocybe uxpanapensis]]'', ''[[Psilocybe verae-crucis]]'' and ''[[Psilocybe weldenii]]''.
+
+==Description==
+*'''Cap''': 1 – 3&nbsp;cm in diameter, initially [[wikt:subconical|subconical]] to campanulate (bell-shaped), expanding to plano-convex with an umbo.  Cap surface dark violet brown in color, translucent-striate near the margin, [[hygrophanous]], fading to tan as it dries.   Staining blue-green to black where bruised.
+*'''Gills''': Cream color when young, violet brown or chocolate brown in age, with [[wikt:adnexed|adnexed]] attachment.
+*'''Spores''': Dark violet brown, subrhomboid in face view, subellipsoid in side view, thick walled, 6 x 5 [[μm]].
+*'''Stipe''': 3 – 8&nbsp;cm long, 1 – 2&nbsp;mm thick, central, equal with subbulbous base, hollow and cylindric, color whitish to brown, ornamented with small flattened scales towards the base.  The base is covered in tiny yellow fibers which help distinguish this from similar species. Staining blue-green to black where bruised.
+*'''Taste''': [[Farinaceous]], sometimes with a slight mustard taste.
+*'''Odor''': Farinaceous, sometimes with a slight mustard odor.
+*'''Microscopic features''': Pigmented cheilocystidia and pleurocystidia present.  [[Basidia]] four-spored.  Clamp connections common.
+
+==Distribution and habitat==
+''Psilocybe guilartensis'' is found growing [[wikt:gregarious|gregariously]], often on disturbed bare clay or moss.  It is found along hiking trails, in coffee plantations, tropical and subtropical forests, especially in landslide areas.  The mushroom is known to grow in [[Puerto Rico]] and [[Dominican Republic]].<ref name = "Guzman2003"/>
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://mushroomobserver.org/7054 Mushroom Observer - ''Psilocybe guilartensis'']
+* [http://www.cortland.edu/nsf/7983psil.HTML ''Psilocybe guilartensis'' photograph]
+
+{{Hallucinogenic mushrooms}}
+{{Taxonbar|from=Q7255880}}
+
+[[Category:Entheogens]]
+[[Category:Psychoactive fungi]]
+[[Category:Psilocybe|guilartensis]]
+[[Category:Psychedelic tryptamine carriers]]
+[[Category:Taxa named by Gastón Guzmán]]
+[[Category:Fungus species]]

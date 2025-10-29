@@ -1,0 +1,94 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Cerrena unicolor 45687.jpg
+| taxon = Cerrena unicolor
+| authority = ([[Bull.]]) [[William Alphonso Murrill|Murrill]] (1903)
+| synonyms = 
+*''Boletus unicolor'' <small>Bull. (1785)</small>
+*''Daedalea cinerea'' <small>[[Elias Magnus Fries|Fr.]] (1815)</small>
+*''Polyporus latissimus'' <small>Fr. (1815)</small>
+*''Daedalea unicolor'' <small>(Bull.) Fr. (1821)</small>
+*''Phyllodontia magnusii'' <small>P. Karst. (1883)</small>
+*''Daedaleopsis incana'' <small>P. Karst. (1904)</small>
+*''Bulliardia grisea'' <small>Lázaro Ibiza (1916)</small>
+*''Bulliardia nigrozonata'' <small>Lázaro Ibiza (1916)</small>
+*''Daedalea lobata'' <small>Velen. (1922)</small>
+*''Trametes unicolor'' <small>(Bull.) [[Albert Pilát|Pilát]] (1939)</small>
+}}
+{{mycomorphbox
+| name = Cerrena unicolor
+| hymeniumType = pores
+| capShape = offset
+| whichGills = NA
+| stipeCharacter = NA
+| sporePrintColor = white
+| ecologicalType = saprotrophic
+| howEdible = inedible
+| ecologicalType2 = parasitic
+}}
+
+'''''Cerrena unicolor''''', commonly known as the '''mossy maze polypore''',<ref name="isbn0-8131-9039-8">{{cite book |author=Roody, William C. |title=Mushrooms of West Virginia and the Central Appalachians |publisher=University Press of Kentucky |location=Lexington, Kentucky |year=2003 |page=370 |isbn=978-0-8131-9039-6}} [https://books.google.com/books?id=5HGMPEiy4ykC&pg=PA370&dq=cerrena+unicolor Google Books]</ref> is a species of [[polypore|poroid]] fungus in the genus ''[[Cerrena]]''. The [[saprobic]] fungus causes [[white rot]].
+
+==Taxonomy==
+The fungus was originally [[species description|described]] by French botanist [[Jean Baptiste François Pierre Bulliard|Jean Bulliard]] in 1785 as ''Boletus unicolor'',<ref name="Bulliard 1789"/> when all pored fungi were typically assigned to genus ''[[Boletus]]''. [[William Alphonso Murrill]] transferred it to ''[[Cerrena]]'' in 1903.<ref name="Murrill 1903"/> The fungus has acquired a long and extensive [[synonym (biology)|synonymy]] as it has been re-described under many different names, and been transferred to many polypore genera.<ref name="Fungorum synonymy"/>
+
+==Description==
+''Cerrena unicolor'' has [[basidiocarp|fruit bodies]] that are semicircular, wavy brackets up to 10&nbsp;centimeters (4&nbsp;in) wide, in groups of 2–20.<ref name="isbn0-8131-9039-8" /><ref name=":1">{{Cite web |title=Les champignons du Québec |url=https://www.mycoquebec.org/ |access-date=2024-02-01 |website=www.mycoquebec.org}}</ref>  Attached to the growing surface without a stalk ([[Sessility (botany)|sessile]]), the upper surface is finely hairy, white to grayish brown in color, and in [[zonate]]—marked with zones or concentric bands of color. The surface is often green from [[algae|algal]] growth. The pore surface is whitish in young specimens, later turning gray in maturity. The arrangement of the pores resembles a maze of slots; the tubes may extend to 4&nbsp;mm deep.<ref name="urlCerrena unicolor (MushroomExpert.Com)">{{cite web |url=http://www.mushroomexpert.com/cerrena_unicolor.html |title=''Cerrena unicolor'' (MushroomExpert.Com) |access-date=2009-01-30}}</ref> With age, the pores descend into tooth like structures.<ref name=":2">{{Cite book |url=http://dx.doi.org/10.7560/322727 |title=Polypores and Similar Fungi of Eastern and Central North America |date=2021 |publisher=University of Texas Press |isbn=978-1-4773-2273-4}}</ref> The [[spore print]] is white.
+
+Spores are elliptical in shape, smooth, [[hyaline]], [[inamyloid]], and have dimensions of 5–7 by 2.5–4&nbsp;[[μm]].<ref name="urlCerrena unicolor (MushroomExpert.Com)" /> The basidia are 4-spored, 20–25 x 5–6&nbsp;μm in size and have basal clamps. The cystidia are 40–60 x 4-5&nbsp;μm and thin-walled. 
+
+The hyphal system is [[Hypha#Classification based on cell wall and overall form|trimitic]] (containing generative, skeletal and binding hyphae). The generative context hyphae are 2–4&nbsp;μm, thin-walled and nodose-septate, while the skeletal context hyphae are wider, thicker and have no septa. The binding and tramal hyphae are 2–4&nbsp;μm wide, have thick walls but no septa, and are quite branched.<ref>{{Cite web |title=E-Flora BC Atlas Page |url=https://linnet.geog.ubc.ca/Atlas/Atlas.aspx?sciname=Cerrena%20unicolor |access-date=2024-01-31 |website=linnet.geog.ubc.ca}}</ref>
+
+=== Similar species ===
+''Cerrena unicolor'' can be easily distinguished from most other [[polypore]]s by its hairy upper surface and maze-like pores that slowly descend into tooth-like structures. Confusion can arise with other smaller polypores such as the genera ''[[Trichaptum]]'' or ''[[Trametes]]''.<ref name=":2" /><ref name=":1" />
+
+''Trichaptum'' species that are young can easily be distinguished by their purple tinge. Older specimens however need careful examination of their pore shapes, which will either be gill-like or angular, versus thsoe of ''C.&nbsp;unicolor'', which are maze-like. ''[[Trichaptum perrottetii]]'' can also have maze-like pores in old age and can instead be distinguished by its flattened forked hairs on the upper surface. In North America ''T.&nbsp;perrottetii'' is only known from Florida and Georgia.<ref name=":2" />
+
+Some ''Trametes'' species can be similar with hairy caps and labyrinth like pores, but they will never have pores descending into teeth like structures. ''Trametes'' species are also more flexible in old age, while ''C.&nbsp;unicolor'' will become brittle and break easily. Two ''Trametes'' species with maze-like pores, ''[[Trametes gibbosa]]'' and [[Trametes aesculi|''T.&nbsp;aesculi'']], have lumpy/warted caps.<ref name=":2" />
+
+''[[Trametopsis cervina]]'' will have a cinnamon colored pore surface and a less conspicuously zonate cap.<ref name=":2" />
+
+''[[Daedalea quercina]]'' has thick walled pores and the upper surface is velvety at most, rather than hairy. ''[[Daedaleopsis confragosa]]'' has pores that bruise brown and also does not have as hairy of a cap. Both of these species are overall more brown in color, but can fade in age.<ref name=":1" /><ref name=":2" />
+
+==Ecology==
+''Cerrena unicolor'' causes canker rot and decay in [[paper birch]] (''Betula papyrifera'') and [[sugar maple]] (''Acer saccharum'') .<ref name="Blanchette& Biggs 2013" /> It causes white rot on deciduous hardwoods, and rarely on conifers.<ref>{{Cite web |last=Labbé |first=Robert |date=March 2023 |title=Cerrena unicolor |url=https://www.mycoquebec.org/bas.php?trie=c&l=l&nom=Cerrena%20unicolor%20/%20Tram%C3%A8te%20unicolore&tag=Cerrena%20unicolor&gro=111 |access-date=2024-01-31 |website=MycoQuebec}}</ref> It is found year-round.<ref>{{Cite web |title=Cerrena unicolor (MushroomExpert.Com) |url=https://www.mushroomexpert.com/cerrena_unicolor.html |access-date=2024-02-01 |website=www.mushroomexpert.com}}</ref>
+
+When a female wasp of the genus ''[[Tremex]]'' bores into wood near these fungi, spores will become trapped in the wasp's [[ovipositor]].<ref>{{Cite book|last1=Kuo|first1=Michael|title=100 Cool Mushrooms|last2=Methven|first2=Andy|year=2010|isbn=978-0472034178|location=University of Michigan Regional|pages=43}}</ref><ref name=":0">{{Cite web|url=http://www.czechmycology.org/_cm/CM59109.pdf|title=Symbiotic relationship between Cerrena unicolor and the horntail Tremex fuscicornis recorded in the Czech Republic|last1=PAŽOUTOVÁ|first1=Sylvie|last2=ŠRŮTKA|first2=Petr|date=2007|website=Czech Mycology}}</ref> The spores are carried with the wasp's eggs and will eventually germinate where the eggs are placed. As the spores germinate and form a [[mycelium]], the wasp's eggs will hatch, and the newly-born larvae eat the mycelium. The wasp species ''[[Tremex columba]]'' requires ''C.&nbsp;unicolor'' to grow, as without the interaction, the larvae will die.<ref name=":0" /> However, the parasitic wasp genus ''[[Megarhyssa]]'' will lay its own eggs within the larvae of the ''Tremex'' wasp. The larvae of ''Megarhyssa'', when hatched, proceed to eat the larvae of ''Tremex'', helping control the population of ''Tremex''. <ref name=":0" />
+
+== Distribution ==
+The fungus has a wide distribution, and is found in Asia, Europe, South America, and North America.<ref name="Zhishu 1993"/>
+
+==Potential uses==
+''Cerrena unicolor'' has been identified as a source of the enzyme [[laccase]]. This enzyme has potential applications in a wide variety of bioprocesses. ''C.&nbsp;unicolor'' is known to produce laccase in culture at more favorable conditions and in higher yield than other wood rotting fungi,<ref name="Leonowicz 1997"/><ref name="Rogalski 1999"/> and research is focussing on ways to produce laccase cost-effectively on a large scale.<ref name="Janusz 2007"/>
+
+It is inedible to humans.<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |publisher=Firefly Books |year=2010 |isbn=978-1-55407-651-2 |location=Buffalo, NY |page=315}}</ref>
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Blanchette& Biggs 2013">{{cite book |author1=Blanchette, Robert |author2=Biggs, Alan |title=Defense Mechanisms of Woody Plants Against Fungi |url=https://books.google.com/books?id=h-zwCAAAQBAJ&pg=PA47 |year=2013 |publisher=Springer Science & Business Media |isbn=978-3-662-01642-8 |page=47}}</ref>
+
+<ref name="Bulliard 1789">{{cite book |author=Bulliard, J.B.F. |year=1789 |title=Herbier de la France |volume=9 |pages=385–432 |language=fr}}</ref>
+
+<ref name="Fungorum synonymy">{{cite web |title=GSD Species Synonymy: ''Cerrena unicolor'' (Bull.) Murrill |url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=356790 |publisher=Species Fungorum. Kew Mycology |access-date=2018-04-16}}</ref>
+
+<ref name="Janusz 2007">{{cite journal |author1=Janusz, Grzegorz |author2=Rogalski, Jerzy |author3=Szczodrak, Janusz |year=2007 |title=Increased production of laccase by ''Cerrena unicolor'' in submerged liquid cultures |journal=World Journal of Microbiology and Biotechnology |volume=23 |issue=10 |pages=1459–1464 |doi=10.1007/s11274-007-9390-y|s2cid=84965592 }}</ref>
+
+<ref name="Leonowicz 1997">Leonowicz A, Gianfreda L, Rogalski J, Jaszek M, Luterek J, Wojtaś-Wasilewska M, Malarczyk E, Dawidowicz A, Fink-Boots M, Ginalska G, Staszczak M, Cho N-S. (1997). "Appearance of laccase in wood-rotting fungi and its inducibility." ''Journal of Korean Wood Science and Technology'' '''25''': 29–36.</ref>
+
+<ref name="Murrill 1903">{{cite journal |author=Murrill, W.A. |year=1903 |title=A historical review of the genera of the Polyporaceae |journal=Journal of Mycology |volume=9 |issue=2 |pages=87–102|doi=10.2307/3752511 |jstor=3752511 }}</ref>
+
+<ref name="Rogalski 1999">Rogalski J, Dawidowicz A, Jóźwik E, Leonowicz A. (1999). Immobilization of laccase from ''Cerrena unicolor'' on controlled porosity glass. ''Journal of Molecular Catalysis (B: Enzymatic)'' '''6''': 29–39.</ref>
+
+<ref name="Zhishu 1993">{{cite book |author1=Zhishu, Bi |author2=Guoyang, Zheng |author3=Li, Taihui |title=The Macrofungus Flora of China's Guangdong Province |year=1993 |publisher=Chinese University Press |isbn=978-962-201-556-2 |page=209}}</ref>
+
+}}
+
+{{Taxonbar|from=Q1315472}}
+
+[[Category:Fungi described in 1785]]
+[[Category:Fungi of North America]]
+[[Category:Fungal plant pathogens and diseases]]
+[[Category:Inedible fungi]]
+[[Category:Polyporaceae]]
+[[Category:Fungus species]]

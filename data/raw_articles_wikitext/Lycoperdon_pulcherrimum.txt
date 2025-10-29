@@ -1,0 +1,50 @@
+{{Short description|Species of fungus}}
+{{Speciesbox 
+| image = Lycoperdon pulcherrimum 58682.jpg
+| image_caption = 
+| genus = Lycoperdon
+| species = pulcherrimum
+| authority = [[Miles Joseph Berkeley|Berk.]] & [[Moses Ashley Curtis|M.A.Curtis]] (1873)
+}}
+{{mycomorphbox
+| name = ''Lycoperdon pulcherrimum''
+| whichGills = no
+| capShape = no
+| hymeniumType = gleba
+| stipeCharacter = NA
+| ecologicalType = saprotrophic
+| sporePrintColor = olive
+| howEdible = edible
+| howEdible2 = inedible
+}}
+
+'''''Lycoperdon pulcherrimum''''', commonly known as the '''long-spined puffball''',<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/694/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, California |pages=694 |orig-date=1979}}</ref> is a type of [[puffball]] mushroom in the genus ''[[Lycoperdon]]''. It was first [[species description|described]] scientifically in 1873 by [[Miles Joseph Berkeley]] and [[Moses Ashley Curtis]].<ref name="Berkeley 1873"/>
+
+The fruit body grows to {{Convert|5|cm|frac=4}} wide and tall.<ref name="Arora1986" /> It is generally pear-shaped. The larger portion forms the top and is covered by whitish spines up to {{Convert|6|mm|frac=8}} long. The stemlike portion is a sterile base which is white in youth, aging to purplish brown; it is often wrinkled.<ref name="Arora1986" /> The [[spore mass]] is initially white and ages to become yellow then dark brownish.<ref name="Arora1986" /> It can resemble a number of other species in the genus.<ref name="Arora1986" />
+
+The fungus is found in the southern United States.<ref name="Miller 2006" /> Like many puffballs, it is [[edible]] in youth (when the spore mass is white and firm) but inedible in age.<ref name="Arora1986" /> Also being small and infrequent, it is of little culinary value.<ref name="Arora1986" />
+
+==References==
+{{Reflist|refs=
+
+<ref name="Berkeley 1873">{{cite journal |author=Berkeley MJ. |year=1873 |title=Notices of North American fungi |journal=Grevillea |volume=2 |issue=16 |pages=49–53}}</ref>
+
+<ref name="Miller 2006">{{cite book |author=Miller HR, Miller OK Jr. |title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi |publisher=Falcon Guides |location=Guilford, Connecticut |year=2006 |page=454 |isbn=978-0-7627-3109-1}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|166729}}
+
+{{Taxonbar|from=Q6707375}}
+
+[[Category:Puffballs]]
+[[Category:Fungi described in 1873]]
+[[Category:Fungi of the United States]]
+[[Category:Taxa named by Miles Joseph Berkeley]]
+[[Category:Lycoperdon|pulcherrimum]]
+[[Category:Fungi without expected TNC conservation status]]
+[[Category:Fungus species]]
+
+
+{{Agaricaceae-stub}}

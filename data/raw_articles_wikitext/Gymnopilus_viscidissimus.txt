@@ -1,0 +1,35 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image =
+| image_caption = 
+| taxon = Gymnopilus viscidissimus
+| authority = [[William Alphonso Murrill|Murrill]]
+| synonyms = 
+}}
+{{mycomorphbox
+| name = Gymnopilus viscidissimus
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=}}
+'''''Gymnopilus viscidissimus''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]].
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==External links==
+*''[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=224984 Gymnopilus viscidissimus]'' at [[Index Fungorum]]
+
+{{Taxonbar|from=Q5625044}}
+
+[[Category:Gymnopilus|viscidissimus]]
+[[Category:Taxa named by William Alphonso Murrill]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

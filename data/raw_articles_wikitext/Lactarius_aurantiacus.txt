@@ -1,0 +1,47 @@
+{{Short description|Fungus species}}
+{{Speciesbox
+| image = Milde Milchling (Lactarius aurantiacus).JPG
+| genus = Lactarius
+| species = aurantiacus
+| authority = ([[Christiaan Hendrik Persoon|Pers.]]: [[Elias Magnus Fries|Fr.]]) [[Samuel Frederick Gray|Gray]]
+| range_map = Distribution of Lactarius aurantiacus.svg
+| range_map_caption = Range of ''Lactarius aurantiacus'' in Europe
+}}
+{{ mycomorphbox
+| name            = ''Lactarius aurantiacus'' 
+| hymeniumType    = gills
+| capShape        = depressed
+| whichGills      = adnate
+| stipeCharacter  = bare
+| sporePrintColor = cream
+| ecologicalType  = mycorrhizal
+| howEdible       = caution
+}}
+
+'''''Lactarius aurantiacus''''' is a species of [[mushroom]] in the family [[Russulaceae]] and is commonly referred to as the '''orange milkcap.''' The common English name "orange milkcap" can also refer to other similar species of [[Fungus|fungi]], such as ''[[Lactarius subflammeus]]''.<ref name=":0">{{Cite web |title=Orange Milkcap (Lactarius aurantiacus) |url=https://www.inaturalist.org/taxa/332500-Lactarius-aurantiacus |access-date=2024-06-13 |website=iNaturalist |language=en}}</ref><ref name=":1">{{Cite web |title=Lactarius aurantiacus, Orange Milkcap mushroom |url=https://first-nature.com/fungi/lactarius-aurantiacus.php |access-date=2024-06-13 |website=first-nature.com}}</ref><ref>{{Cite web |title=Orange milkcap (Lactarius aurantiacus) |url=https://picturemushroom.com/wiki/Lactarius_aurantiacus.html |access-date=2024-06-13 |website=Picture Mushroom |language=en}}</ref><ref>{{Cite web |title=Lactarius aurantiacus (Pers.) Gray |url=https://www.gbif.org/species/9016531 |access-date=2024-06-13 |website=www.gbif.org |language=en}}</ref>
+
+== Description ==
+''L. aurantiacus'' is a [[Mycorrhiza|mycorrhizal]] mushroom that varies in colour from a vibrant orange to a light orangish brown. Its [[Pileus (mycology)|cap]] is convex with a slightly depressed centre and ranges from 1 to 5 centimetres in diameter. The texture of it is said to be smooth and glossy. The mushroom grows from 2.5cm to 6.5cm tall.<ref name=":1" /> 
+
+Additionally, like all other species of [[Milk-cap|milkcaps]], ''L. aurantiacus'' produces a milky [[latex]] when bruised or cut.<ref>{{Cite web |title=Lactarius (MushroomExpert.Com) |url=http://www.mushroomexpert.com/lactarius.html |access-date=2024-06-14 |website=www.mushroomexpert.com}}</ref>
+
+The mushroom's [[Lamella (mycology)|gills]] are spaced apart slightly and are a light pink or orange in colour. Its stem is approximately 5-12mm in diameter and has no ring.<ref name=":1" />
+
+== Habitat and distribution ==
+This species of [[Macrofungi|macro fungi]] is mainly found in Europe but has also been sighted in certain parts of Asia and North America. They grow either alone or in small groups.<ref name=":0" /><ref name=":1" />
+
+''L. aurantiacus'' grows in acidic soils near [[pine]], [[spruce]], and sometimes [[birch]] trees in [[Forest|forests]]. It creates a [[Mycorrhizal network|mycorrhizal relationship]] with one or more of the trees that are around it.<ref name=":1" />
+
+== Similar species ==
+
+* ''[[Lactarius fulvissimus]]''
+* ''[[Lactarius subflammeus]]'' (also commonly called "orange milkcap") 
+
+== References ==
+{{Reflist}}
+
+{{Taxonbar|from=Q1934567}}
+
+[[Category:Lactarius|aurantiacus]]
+[[Category:Fungi of Europe]]
+[[Category:Fungus species]]

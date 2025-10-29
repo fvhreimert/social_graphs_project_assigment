@@ -1,0 +1,64 @@
+{{Short description|Species of bracket fungus in the family Hymenochaetaceae}}
+{{Speciesbox
+| image = Inonotus-hispidus01.jpg
+| genus = Inonotus
+| species = hispidus
+| authority = (Bull.) P. Karst., (1880)
+| synonyms = 
+''Boletus hirsutus''<br />
+''Boletus spongiosus''<br />
+''Boletus velutinus''<br />
+''Boletus villosus''<br />
+''Hemidiscia hispida''<br />
+''Inodermus hispidus''<br />
+''Inonotus hirsutus''<br />
+''Phaeolus endocrocinus''<br />
+''Phaeoporus hispidus''<br />
+''Polyporus endocrocinus''<br />
+''Polyporus hispidus''<br />
+''Polystictus hispidus''<br />
+''Xanthochrous hispidus''
+}}
+{{ mycomorphbox
+| name            =  Inonotus hispidus
+| hymeniumType    = pores
+| capShape        = no
+| whichGills      = NA
+| stipeCharacter  = NA
+| sporePrintColor = brown
+| ecologicalType  = parasitic
+| howEdible       = inedible
+}}
+
+'''''Inonotus hispidus''''', commonly known as '''shaggy bracket''', is a North American [[fungus]] and [[plant pathogen]].
+
+== Description ==
+The fruit bodies are generally semicircular and lumpy, measuring {{Convert|10-20|cm|frac=2}} across. They are orangish with a lighter margin when fresh, blackening in age. The flesh is orangish and the [[spore print]] is brown.<ref name="aud">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=142}}</ref>
+
+=== Similar species ===
+''[[Inonotus quercustris]]'' is more frequent to the south, with ''[[Ischnoderma resinosum]]'' and ''[[Laetiporus persicinus]]'' also being similar.<ref name="aud" />
+
+== Habitat and distribution ==
+It is found on oak and other hardwoods through eastern North America.<ref name="aud" />
+
+== Uses ==
+This fungus has been used in eastern Asia as a popular remedy for many illnesses like [[cancer]], [[diabetes]], and other stomach ailments.<ref>{{Cite journal|last1=Zan|first1=Li-feng|last2=Qin|first2=Jian-chun|last3=Zhang|first3=Ya-mei|last4=Yao|first4=Yan-hua|last5=Bao|first5=Hai-ying|last6=Li|first6=Xiang|date=2011|title=Antioxidant Hispidin Derivatives from Medicinal Mushroom Inonotus hispidus|url=https://www.jstage.jst.go.jp/article/cpb/59/6/59_6_770/_article|journal=Chemical and Pharmaceutical Bulletin|volume=59|issue=6|pages=770–772|doi=10.1248/cpb.59.770|pmid=21628917 |doi-access=free}}</ref> In modern [[pharmacology]], it has aided in lowering [[blood glucose]] levels, showing anti-tumor responses and improving overall health in mice.<ref>{{Cite journal|date=2019-02-15|title=Extraction, characterization and antioxidant activity analysis of the polysaccharide from the solid-state fermentation substrate of Inonotus hispidus|url=https://www.sciencedirect.com/science/article/abs/pii/S0141813018340777|journal=International Journal of Biological Macromolecules|language=en|volume=123|pages=468–476|doi=10.1016/j.ijbiomac.2018.11.069|issn=0141-8130|last1=Liu |first1=Xin |last2=Hou |first2=Ruolin |last3=Xu |first3=Kaiqiang |last4=Chen |first4=Lei |last5=Wu |first5=Xiaoping |last6=Lin |first6=Wenxiong |last7=Zheng |first7=Mingfeng |last8=Fu |first8=Junsheng |pmid=30445081 |s2cid=53568765 |url-access=subscription }}</ref>
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{Commons-inline}}
+* [http://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=100985 Index Fungorum]
+* [https://web.archive.org/web/20070820101227/http://nt.ars-grin.gov/fungaldatabases/ USDA ARS Fungal Database]
+
+{{Taxonbar|from=Q226967}}
+
+[[Category:Fungal plant pathogens and diseases]]
+[[Category:Inonotus|hispidus]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi described in 1880]]
+[[Category:Fungus species]]
+
+
+{{Agaricomycetes-stub}}

@@ -1,0 +1,74 @@
+{{Short description|Species of fungus}}
+{{Speciesbox 
+| image = Anhängsel-Röhrling Boletus appendiculatus.jpg
+| genus = Butyriboletus
+| species = appendiculatus
+| authority = ([[Schaeff.]]) [[David Arora|D.Arora]] & J.L. Frank (2014)
+| synonyms_ref = 
+| synonyms = *''Boletus appendiculatus'' <small>Schaeff. (1774)</small><ref name="Schaeffer 1774"/>
+}}
+{{mycomorphbox
+| name = ''Butyriboletus appendiculatus''
+| whichGills = adnate
+| capShape = convex
+| hymeniumType=pores
+| stipeCharacter=bare
+| sporePrintColor = olive-brown
+| ecologicalType=mycorrhizal
+| howEdible=choice
+}}
+
+'''''Butyriboletus appendiculatus''''' is an edible [[bolete|pored mushroom]] that grows under [[oak]]s and other broad leaved trees such as [[beech]].  It is commonly known as the '''butter bolete'''.<ref name="Arora 1986"/> It often grows in large colonies beneath the oak trees, and is frequently found cohabiting with old oaks in [[ancient woodland]]. It is relatively rare in [[Great Britain|Britain]]. Its [[stipe (mycology)|stipe]] and pores are often bright yellow (hence its name of butter bolete) and its [[trama (mycology)|flesh]] stains bright blue when cut or bruised.
+
+==Taxonomy==
+The species was first [[species description|described]] scientifically by German polymath [[Jacob Christian Schäffer]] in 1774 as ''Boletus appendiculatus''.<ref name="Schaeffer 1774"/> American [[Charles Horton Peck]] later used the name in 1896 for a species he found in [[Washington (state)|Washington]],<ref name="Peck 1896"/> but the name was [[valid name (botany)|illegitimate]] because Schäffer's earlier usage has [[Principle of Priority|priority]].<ref name="urlFungorum: Boletus appendiculatus Peck"/> Until 2014, it was classified in the genus ''[[Boletus]]''. [[Molecular phylogenetics|Molecular]] phylogenetic analysis demonstrated that it and other members of ''Boletus'' section ''Appendiculati'' were [[phylogenetic]]ally distinct from ''Boletus'', and the genus ''[[Butyriboletus]]'' was created to contain them.<ref name="Arora 2014"/>
+
+The [[botanical name|specific epithet]] ''appendiculatus'' means "with a small appendage".<ref name="Rea 1922"/>
+
+==Description==
+The [[Basidiocarp|fruit bodies]] of ''Butyriboletus appendiculatus'' have convex to flattened, brown to yellowish brown [[pileus (mycology)|caps]] measuring {{convert|6–20|cm|abbr=on}} in diameter.<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=319–320|oclc=797915861}}</ref> They have a dry to slightly sticky surface texture that may develop cracks with age. The mushroom has very firm yellowish [[trama (mycology)|flesh]] that may slowly change blue when cut or bruised. The pores on the cap undersurface are butter yellow, and may also bruise blue, although this is less likely in young specimens. The [[stipe (mycology)|stipe]] is {{convert|5–15|cm|0|abbr=on}} long by {{convert|2–6|cm|1|abbr=on}} thick at the top near the attachment to the cap, and ranges from thicker at the base to equal throughout, to tapered at the bottom.<ref name=":0" /> It is also yellow, sometimes developing brownish to reddish stains, and may have fine reticulations near the top. The [[spore print]] is dark olive-brown. Individual [[basidiospore|spores]] are [[ellipsoidal]] to spindle-shaped, smooth, and measure 12–15 by 3.5–5&nbsp;[[μm]].<ref name="Arora 1986"/>
+
+===Similar species===
+The European species ''[[Butyriboletus subappendiculatus]]'' is quite similar to ''B.&nbsp;appendiculatus'' in microscopic characters. It can be distinguished in the field by the lack of a bruising color reaction, more pallid cap colors, and growth under [[conifer]]s.<ref name="Assyov 2010"/> Also similar are ''[[Butyriboletus regius]]'' and ''[[Boletus edulis]]''.<ref name=":0" />
+
+==Distribution and habitat==
+''Butyriboletus appendiculatus'' is found in Europe and North America. Fruit bodies grow singly, scattered, or in groups under [[hardwood]] trees. In North America, it is more common in the [[Pacific Northwest]] region, where it often associates with [[live oak]] and [[tanoak]].<ref name="Arora 1986"/>
+
+==Edibility==
+The bolete is [[edible mushroom|edible]] and considered choice by several sources, although certain individuals may have an allergic reaction to it.<ref name="Arora 1986"/> The earthy flavor of the mushrooms make them suitable for soups, sauces and stews.<ref name="Brill 2010"/> Cooked portions will often turn blue, then gray, then return to their original yellow color.<ref name="Arora 1986"/>
+
+==See also==
+*[[List of Boletus species|List of ''Boletus'' species]]
+*[[List of North American boletes]]
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Arora 1986">{{cite book |author=Arora D. |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/525/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, California |year=1986 |orig-date=1979 |edition=2nd |pages=525}}</ref> 
+
+<ref name="Arora 2014">{{cite journal |author=Arora D, Frank JL. |title=Clarifying the butter Boletes: a new genus, ''Butyriboletus'', is established to accommodate ''Boletus'' sect. ''Appendiculati'', and six new species are described |journal=Mycologia |year=2014 |volume=106 |issue=3 |pages=464–80 |doi=10.3852/13-052 |pmid=24871600|s2cid=207708824 }}</ref>
+
+<ref name="Assyov 2010">{{cite journal |author=Assyov B, Gyosheva MM. |title=First encounters of ''Boletus subappendiculatus'' (Boletaceae) in Bulgaria |journal=Phytologica Balcanica |year=2010 |volume=16 |issue=3 |pages=323–7 |url=http://www.bio.bas.bg/~phytolbalcan/PDF/16_3/16_3_01_Assyov_%26_Gyosheva.pdf }}</ref>
+
+<ref name="Brill 2010">{{cite book |author=Brill S. |title=The Wild Vegan Cookbook: A Forager's Culinary Guide (in the Field Or in the Supermarket) to Preparing and Savoring Wild (and Not So Wild) Natural Foods |url=https://books.google.com/books?id=Alt2hdRm7SIC&pg=PT332 |year=2010 |publisher=Houghton Mifflin Harcourt |isbn=978-1-55832-721-4 |page=332}}</ref>
+
+<ref name="Peck 1896">{{cite journal |author=Peck CH. |title=New species of fungi |journal=Bulletin of the Torrey Botanical Club |year=1896 |volume=23 |issue=10 |pages=411–20 (see p.&nbsp;418) |url=https://www.biodiversitylibrary.org/page/711858 |doi=10.2307/2477789|jstor=2477789 }}</ref>
+
+<ref name="Rea 1922">{{cite book |author=Rea C. |title=British Basidiomycetae: A Handbook to the Larger British Fungi |year=1922 |publisher=Cambridge University Press |location=Cambridge |page=569 |url=https://www.biodiversitylibrary.org/page/17128404}}</ref>
+
+<ref name="Schaeffer 1774">{{cite book |author=Schaeffer JC. |title=Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones |year=1774 |volume=4 |page=86 |language=Latin |url=https://www.biodiversitylibrary.org/page/3887568}}</ref>
+
+<ref name="urlFungorum: Boletus appendiculatus Peck">{{cite web |title=''Boletus appendiculatus'' Peck |url=http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=501806 |publisher=Index Fungorum. CAB International |accessdate=2014-06-08}}</ref>
+
+}}
+
+{{Taxonbar|from=Q26203735}}
+
+[[Category:Butyriboletus|appendiculatus]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1774]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]
+[[Category:Mycorrhizal associates of oaks]]
+[[Category:Taxa named by Jacob Christian Schäffer]]

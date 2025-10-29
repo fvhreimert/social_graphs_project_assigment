@@ -1,0 +1,70 @@
+{{short description|Species of fungus}}
+{{Speciesbox
+| image = Hygrophorus hypothejus 2.jpg
+| image_caption =
+| genus = Hygrophorus
+| species = hypothejus
+| authority = [[Elias Magnus Fries|Fr.]] (Fr.), 1838
+| synonyms_ref = <ref name=IndexFungorum>{{cite web |url=http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=175092 |title=Fungorum synonymy: ''Hygrophorus hypothejus'' |publisher=CAB International |work=Species Fungorum |accessdate=23 October 2015}}</ref>
+| synonyms =  ''Agaricus hypothejus'' <small>Fr. 1821</small><br>
+''Limacium hypothejum'' <small>(Fr.) P. Kumm., 1871</small><br>
+''Hygrophorus aureus'' <small>Arrh., 1863</small><br>
+''Limacium aureum'' <small>(Arrh.) Ricken, 1910</small>
+}}
+{{Mycomorphbox
+| name = ''Hygrophorus hypothejus''{{italic title}}
+| hymeniumType = gills
+| capShape = convex
+| capShape2 = umbonate
+| whichGills = decurrent
+| whichGills2 = adnate
+| stipeCharacter = bare
+| sporePrintColor = white
+| howEdible = edible
+}}
+
+'''''Hygrophorus hypothejus''''', commonly known as the '''olive-brown waxy cap''',<ref name=Arora1986>{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/126/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=126-127 |orig-date=1979}}</ref> or '''herald of the winter''', is an edible species of [[fungus]] in the genus ''[[Hygrophorus]]'' native to Europe. It appears in late autumn in [[conifer]]ous forests, often with the first frosts.
+
+==Taxonomy==
+[[Elias Magnus Fries]] described this species in 1821 as ''Agaricus hypothejus'', before placing it in the genus ''Hygrophorus'' in 1838. Its species name is derived from the [[Ancient Greek]] words ''hypo'' and ''theios'' "sulphur yellow underneath".<ref name="Nilper"/> It has the common name of herald of the winter as it appears in autumn with the onset of the first overnight frosts.<ref name="Nilper"/> Alternate names are late fall waxy cap in the United States,<ref name="Roody "/> and yellow-gilled waxcap.<ref name="Lamaison 2005"/>
+
+==Description==
+The cap measures {{convert|3-6|cm|abbr=on|frac=8}} across, is yellowish to olive brown with a dark center and slimy surface,<ref name="Nilper"/><ref name=":0">{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=69, 71}}</ref> and has a rolled margin when young, flattening and becoming more funnel-shaped as it ages.<ref name="Haas 1969"/> The yellow [[lamella (mycology)|gills]] are decurrent, and the flesh is pale yellow, turning orange-red when bruised. The slender stipe is {{convert|4-7|cm|abbr=on|frac=8}} tall and {{convert|0.7-1.4|cm|abbr=on|frac=8}} wide.<ref name="Phillips 2006"/> The colour can become more intense with the onset of frosts.<ref name="Roody "/> The [[spore print]] is white and the oval spores measure 7–9 x 4–5 [[micrometre]]s.<ref name="Phillips 2006"/>
+
+===Similar species===
+A number of species in the genus are similar,<ref name=Arora1986/> including ''[[Hygrophorus speciosus|H.&nbsp;speciosus]]''.<ref name=":0" />
+It could also be confused with ''[[Gomphidius glutinosus]]'' (the slimy spike cap), the gills of which separate easily from the cap.<ref name="Lamaison 2005" /> 
+
+==Distribution and habitat==
+The mushroom grows in [[conifer]]ous forests, appearing in October and November,<ref name="Nilper"/> occasionally December. Though mushrooms may be abundant, they are often hard to spot among the pine needles.<ref name="Haas 1969"/> They often appear in big groups of individuals and clusters.<ref name=":0" />
+
+==Edibility==
+It is edible but of variable quality, as some specimens may be slimy.<ref name="Nilper"/><ref name="Haas 1969"/><ref name="Phillips 2006"/>
+
+==References==
+{{Reflist|30em|refs=
+
+<ref name="Haas 1969">{{cite book |author=Haas H. |title=The Young Specialist Looks at Fungi |year=1969 |page=62 |publisher=Burke |location=London, UK |isbn=978-0-222-79409-3}}</ref>
+
+<ref name="Lamaison 2005">{{cite book |author=Lamaison J-L, Polese J-M. |title=The Great Encyclopedia of Mushrooms |year=2005 |publisher=Könemann |location=Cologne, Germany |isbn=978-3-8331-1239-3 |page=34}}</ref>
+
+<ref name="Nilper">{{cite book | author = Nilson S, Persson O. | year = 1977 | title = Fungi of Northern Europe 1: Larger Fungi (Excluding Gill-Fungi) | publisher = Penguin|isbn=0-14-063005-8|pages=20–21}}</ref>
+
+<ref name="Phillips 2006">{{cite book |author=Phillips R. |title=Mushrooms |year=2006 |publisher=Pan MacMillan |location=London, UK |isbn=978-0-330-44237-4 |page=69}}</ref>
+
+<ref name="Roody ">{{cite book|author=Roody WC|title=Mushrooms of West Virginia and the Central Appalachians|year=2003 |publisher=University Press of Kentucky|pages=141–42|isbn=9780813128139|url=https://books.google.com/books?id=5HGMPEiy4ykC&pg=PA141}}</ref>
+}}
+
+==External links==
+* {{Commons category-inline}}
+* {{indexFungorum|175092}}
+
+{{Taxonbar|from=Q1364735}}
+
+[[Category:Hygrophorus|hypothejus]]
+[[Category:Edible fungi]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1821]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]

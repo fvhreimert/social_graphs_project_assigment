@@ -1,0 +1,87 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Leratiomyces_ceres_NZ.jpg
+| genus = Leratiomyces
+| species = ceres
+| authority = (Cooke & Masee) Spooner & Bridge (2008)
+| synonyms = ''Agaricus squamosus f. aurantiacus'' sensu auct.<br/>''Psilocybe aurantiaca'' sensu auct.<br/>''Psilocybe ceres'' (Cooke & Massee) Sacc. 1891<br/>''Stropharia percevalii var. aurantiaca'' sensu auct.<br/>''Stropholoma aurantiacum'' sensu auct.
+}}
+{{mycomorphbox
+| name = ''Leratiomyces ceres''
+| whichGills = adnate
+| capShape = convex
+| capShape2 = flat
+| hymeniumType = gills
+| stipeCharacter = ring
+| ecologicalType = saprotrophic
+| sporePrintColor = purple-brown
+| howEdible = unknown
+| howEdible2 = poisonous
+}}
+
+'''''Leratiomyces ceres''''',<ref name=bridge_etal/> commonly known as the '''chip cherry'''<ref>{{Cite book |last1=Siegel |first1=Noah |title=Mushrooms of the Redwood Coast |last2=Schwartz |first2=Christian |date=9 August 2016 |publisher=Clarkson Potter/Ten Speed |isbn=9781607748175}}</ref><ref>{{Cite web |title=iNaturalist |url=https://www.inaturalist.org/ |access-date=2023-12-21 |website=iNaturalist |language=en}}</ref> or '''redlead roundhead''', is mushroom which has a bright red to orange cap and dark purple-brown [[spore deposit]]. The name '''''Stropharia aurantiaca''''' has been used extensively but incorrectly for this mushroom (together with a number of similar synonyms).
+
+It is usually found growing gregariously on [[wood chips]] and is one of the most common and most distinctive mushrooms found in that habitat. It is common on wood chips and lawns in North America, Europe, Australia, New Zealand and elsewhere.
+
+== Taxonomy ==
+There has been some confusion between ''L.&nbsp;ceres'', which has a fairly thick white stem, and ''[[Leratiomyces squamosus|L. squamosus]]'' var. ''thaustus'', which has a slender stem and prominent scales below the ring zone (although the two taxa are quite easy to distinguish by sight).  Around 1885 [[Mordecai Cubitt Cooke]] originated the names ''Agaricus squamosus'' f. ''aurantiacus'' and ''Agaricus thraustus'' var. ''aurantiacus'', and this later gave rise to the name ''Stropharia aurantiaca''.<ref name="SF1" />  This name is defined by [[:File:Illustrations_of_British_Fungi_(Hymenomycetes),_to_serve_as_an_atlas_to_the_%22Handbook_of_British_Fungi%22_(Pl._562)_(9015271675).jpg|Cooke's illustration to his ''Handbook of British Fungi'']] and in 2004 Richard Fortey discovered that this illustration was not of ''L.&nbsp;ceres'', as had generally been assumed,<ref name="Eyssartier" /> but it was ''L.&nbsp;squamosus'' var. ''thaustus''.<ref name="Fortey" />  Thus the name ''aurantiaca'' is best avoided, being wrong when applied to ''L.&nbsp;ceres''.
+
+<gallery>
+File:Leratiomyces squamosus var. thraustus (Kalchbr.) Bridge & Spooner 486358.jpg|''L. squamosus'' var. ''thaustus''
+</gallery>
+
+The name ''Agaricus ceres'' was created in 1888 by [[Mordecai Cubitt Cooke|Cooke]] and [[George Edward Massee|Massee]] for the white-stemmed species, and was reclassified as ''Psilocybe ceres'' (in 1891) and ''Leratiomyces ceres'' (in 2008).<ref name="SF2" /><ref name="Eyssartier" />
+
+== Description ==
+''L. ceres'' may be described as follows.<ref name=Eyssartier/><ref name="FungaNordica"/>
+
+* '''Cap''': 2 to 6&nbsp;cm in diameter,<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=218–219|oclc=797915861}}</ref> with thin flesh and a bright red to orange top which is convex to plane in age. Has white [[partial veil]] remnants<ref name=":1">{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=211}}</ref> when young. The cap surface is usually dry, but can be slightly viscid when moist.  
+* '''Gills''': White to pale grey at first, later darker purple/brown or purplish grey<ref name=":0" /> with whitish edges. Attached (adnexed to adnate) and often notched.
+* '''Stipe''': Whitish, often with dark orange stains in age (most evident around base), 3–6&nbsp;cm long and 0.5 to 1&nbsp;cm wide,<ref name=":0" /> equal to slightly larger at the base, which often has mycelium attached. The veil is thin and leaves a fragile, indistinct ring, sometimes missing with age.  The stalk is smooth above the ring zone and is fluffy with tiny scales below,<ref name="audu2">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=674}}</ref> which often wash off in rain. 
+* '''Spores''': Dark purple/brown.<ref name=":0" /> 10–13.5 × 6–8.5 m. Elliptical and smooth.<ref name=":0" />
+* '''Other microscopic features''': [[Chrysocystidia]] are present both on the edges and on the faces of the gills.
+<gallery>
+File:Leratiomyces ceres (2004).jpg|''L. ceres''
+File:Leratiomyces ceres (formerly known as Stropharia aurantiaca, Hypholoma aurantiaca, Naematoloma aurantiaca, etc.) (15809298769).jpg
+File:Leratiomyces ceres spores 1000x.JPG|Spores 1000×
+</gallery>
+
+=== Similar species ===
+Similar species include ''L. squamosus'',<ref name=":1" /> ''[[Agrocybe putaminum]]'', ''[[Gymnopilus sapineus]]'', ''[[Psathyrella corrugis]]'',<ref name=":0" /> ''[[Stropharia squamosa]]'', ''S.&nbsp;thrausta'',<ref name=":1" /> and ''[[Tubaria furfuracea]]''.<ref name=":0" />
+
+In [[psilocybin mushroom]] hunting communities in Australia and New Zealand, ''L.&nbsp;ceres'' (or "Larrys" as commonly nicknamed) are scorned as lookalikes and imposters of ''Psilocybe'' species on wood chip. Prolific growth in the same habitats and a similar appearance from afar can give false hope of a large bounty, but on closer inspection the species are not particularly alike.
+
+==Habitat and distribution==
+It is usually found growing gregariously on [[wood chips]] and is one of the most common and most distinctive mushrooms found in that habitat.<ref name="bridge_etal" />{{verification needed|date=June 2025}} It is common on wood chips and lawns in North America, Europe, Australia, New Zealand and elsewhere.<ref name="bridge_etal" />
+
+==References==
+{{Reflist|refs=
+
+<ref name=bridge_etal>Bridge PD, Spooner BM, Beever RE, Park DC. (2008). Taxonomy of the fungus commonly known as '''Stropharia aurantiaca''', with new combinations in ''Leratiomyces''.  ''Mycotaxon'' 103:109–121.</ref>
+
+<ref name=Eyssartier>{{cite book |author1=Eyssartier, G.  |author2=Roux, P. |title=Le guide des champignons France et Europe |language=French |publisher=Belin |year=2013 |isbn=978-2-7011-8289-6 }}  ''L. ceres'' is on p. 834 and ''L. squamosus'' var. ''thaustus'' on p. 814. </ref>
+
+<ref name=Fortey>{{cite journal |first1=Richard |last1=Fortey  |title= Psilocybe aurantiaca: and a case of mistaken identity |journal= Field Mycology |year=2004 |volume=5 |issue=3 |pages=77–80 |doi=10.1016/S1468-1641(10)60555-5 |doi-access=free }}</ref>
+
+<ref name="FungaNordica"> {{cite book |editor-first1=H. |editor-last1=Knudsen |editor-first2=J. |editor-last2=Vesterholt |title=Funga Nordica Agaricoid, boletoid, clavarioid, cyphelloid and gasteroid genera |publisher=Nordsvamp |location=Copenhagen |year=2018 |page=947–8 |isbn=978-87-983961-3-0 }}</ref>
+
+<ref name=SF1>{{cite web |url=http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=414012 |title=''Psilocybe aurantiaca'' page |work=Species Fungorum |publisher=Royal Botanic Gardens Kew |accessdate=2019-12-12}}</ref>
+
+<ref name=SF2>{{cite web |url=http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=511252 |title=''Leratiomyces ceres'' page |work=Species Fungorum |publisher=Royal Botanic Gardens Kew |accessdate=2019-12-12}}</ref>
+
+}}
+
+==External links==
+*[http://www.mykoweb.com/CAF/species/Hypholoma_aurantiaca.html Mykoweb - Leratiomyces ceres]
+*[http://www.mushroomexpert.com/stropharia_aurantiaca.html Mushroom Expert - Leratiomyces ceres]
+
+{{Taxonbar|from=Q15651408}}
+
+[[Category:Strophariaceae]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi native to Australia]]
+[[Category:Fungus species]]
+
+
+{{Agaricales-stub}}

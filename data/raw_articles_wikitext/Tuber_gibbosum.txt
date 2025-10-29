@@ -1,0 +1,95 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+|image = Tuber gibbosum 85547.jpg
+|image_caption =
+|genus = Tuber
+|species = gibbosum
+|authority = [[Harvey Wilson Harkness|Harkness]] (1899)
+}}
+
+'''''Tuber gibbosum''''', commonly known as the '''Oregon white truffle''',<ref name=Arora1986>{{Cite book |last=Arora |first=David |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/858/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, California |year=1986 |orig-date=1979 |edition=2nd |pages=858-59}}</ref> is a species of [[truffle]] in the genus ''[[Tuber (fungus)|Tuber]]''.<ref name=Bonito2010/> It is found in the [[Pacific Northwest]] region of the United States, where it often grows with [[Douglas-fir]].
+
+==Taxonomy==
+{{cladogram
+|clade=
+{{clade
+|style=font-size:75%;line-height:75%
+|label1=
+|1={{clade
+    |1={{clade
+       |1={{clade
+          |1={{clade
+             |1={{clade
+                |1='''''Tuber gibbosum'''''
+                |2=''[[Tuber bellisporum]]''
+                }}
+             |2=''[[Tuber castellanoi]]''
+              }}
+          |2=''[[Tuber oregonense]]''
+          }}
+       |2={{clade
+           |1=''[[Tuber sphaerosporum]]''
+           |2={{clade
+              |1=''[[Tuber anniae]]''
+              |2=''[[Tuber borchii]]''
+              }}
+           }}
+       }}
+    |2=''[[Tuber irradians]]''
+    }}
+}}
+|caption=Phylogeny of ''Tuber'' species in the Gibbosum clade, based on ribosomal DNA sequences.<ref name=Bonito2010/>
+}}
+
+The species was first described by American mycologist [[Harvey Wilson Harkness]] in 1899.<ref name=Harkness1899/> The [[specific name (botany)|specific epithet]] derives from the [[Latin]] word ''gibbosum'' meaning "humped", and refers to the irregular lobes and humps on larger specimens. ''T.&nbsp;gibbosum'' is part of the ''gibbosum'' [[clade]] of the genus ''Tuber''. Species in this clade have unusual "peculiar wall thickenings on hyphal tips emerging from the peridial surface at maturity."<ref name=Bonito2010/>
+
+==Description==
+{{mycomorphbox
+| name=''Tuber gibbosum''
+| whichGills=NA
+| capShape=NA
+| hymeniumType=gleba
+| stipeCharacter=NA
+| ecologicalType=mycorrhizal
+| sporePrintColor=blackish-brown
+| sporePrintColor2=brown
+| howEdible=choice
+}}
+The species grows up to {{convert|5|cm|frac=4}} across.<ref name=Arora1986/>
+
+''T. gibbosum'' resembles ''[[Tuber oregonense|T.&nbsp;oregonense]]''; both are found growing under [[Douglas-fir]].
+
+{{gallery|mode=packed
+|Tuber gibbosum 85548.jpg|Fruit body
+}}
+
+==Distribution and habitat==
+It is found in the [[Pacific Northwest]] region of the United States, where it grows in association with [[Douglas-fir]].<ref name=Arora1986/>
+
+==Uses==
+''Tuber gibbosum'' is edible<ref name=Arora1986/> and can be prepared similarly to European truffles; it is typically used to add flavor to a dish.<ref name=Volk1997/>
+
+It is commercially collected between as early as October and into March.<ref name=Winkler2013/>
+
+==References==
+{{Reflist|refs=
+
+<ref name=Bonito2010>{{cite journal |vauthors=Castellanoi G, Trappe JM, Rawlinson P, Vilgalys R |title=Improved resolution of major clades within ''Tuber'' and taxonomy of species within the ''Tuber gibbosum'' complex |journal=Mycologia |year=2010 |volume=102 |issue=5 |pages=1042–1057 |doi=10.3852/09-213 |pmid=20943504|s2cid=27719272 }}</ref>
+
+<ref name=Winkler2013>{{cite journal |author=Winkler Daniel |title=Truffles of the Pacific Northwest|journal=Fungi|year=2013 |volume=6 |issue=4 |pages=16–19 }}</ref>
+
+<ref name=Harkness1899>{{cite journal |title=Californian hypogaeous fungi |journal=Proceedings of the California Academy of Sciences |year=1899 |vauthors=Phillips W, Harkness HW |volume=3 |issue=8 |series=8 |pages=241–291}}</ref>
+
+<ref name=Volk1997>{{cite web |vauthors=Volk, Tom|title=Tom Volk's Fungus of the Month for January 1997|website=Tom Volk's Fungi|year=1997|url=http://botit.botany.wisc.edu/toms_fungi/jan97.html}}</ref>
+}}
+
+==External links==
+* {{MycoBank|190404}}
+
+{{Taxonbar|from=Q7850810}}
+
+[[Category:Tuber (fungus)|gibbosum]]
+[[Category:Truffles (fungi)]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1899]]
+[[Category:Fungus species]]

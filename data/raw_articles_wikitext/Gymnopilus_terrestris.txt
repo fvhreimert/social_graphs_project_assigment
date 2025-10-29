@@ -1,0 +1,44 @@
+{{Speciesbox
+| image =
+| image_caption = 
+| taxon = Gymnopilus terrestris
+| authority = [[Lexemuel Ray Hesler|Hesler]] (1969)
+| synonyms = 
+}}
+{{mycomorphbox
+| name = Gymnopilus terrestris
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=inedible}}
+
+'''''Gymnopilus terrestris''''' is a species of [[agaric]] fungus in the family [[Hymenogastraceae]].
+
+==Description==
+The [[pileus (mycology)|cap]] is {{convert|3|to|7|cm|in|1}} in diameter.<ref name="isbn0-945345-39-9">{{cite book |author=Hesler LR. |title=North American Species of ''Gymnopilus'' (Mycologia Memoir Series: No 3) |publisher=Lubrecht & Cramer Ltd |location=Knoxville, Tennessee |year=1969 |pages=34–35 |isbn=0-945345-39-9}}</ref> The species is inedible.<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=196}}</ref>
+
+==Distribution and habitat==
+''Gymnopilus terrestris'' grows on soil and humus, under [[conifer]]s. It has been found in the US states of [[Michigan]], [[Colorado]], [[Idaho]], [[Washington (state)|Washington]], and [[Oregon]], fruiting from June to October.<ref name="isbn0-945345-39-9"/>
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q5625017}}
+
+[[Category:Gymnopilus|terrestris]]
+[[Category:Fungi of North America]]
+[[Category:Inedible fungi]]
+[[Category:Taxa named by Lexemuel Ray Hesler]]
+[[Category:Fungi described in 1969]]
+[[Category:Fungus species]]
+
+
+{{Hymenogastraceae-stub}}

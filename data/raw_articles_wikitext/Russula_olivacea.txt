@@ -1,0 +1,36 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Russula.olivacea.-.lindsey.jpg
+| image_caption = 
+| genus = Russula
+| species = olivacea
+| authority = [[Jacob Christian Schäffer|(Schaeff.)]] [[Elias Magnus Fries|Fr.]] 1838
+}}
+
+'''''Russula olivacea''''' is an edible and non-poisonous ''[[Russula]]'' mushroom found mostly in groups from June in deciduous and coniferous forests, mainly under [[spruce]] and [[beech]]; not rare.
+
+==Description== 
+The cap is convex when young, soon flat, yellowish-olive when young which develops into rusty brown; it ranges from {{convert|10-30|cm|abbr=on}} in diameter.<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=111–112|oclc=797915861}}</ref>
+The gills are cream, deep ochre when old and rather crowded and brittle. The spores are yellow. The stem is strong and evenly thick, often pale pink; it ranges from {{cvt|7-18|cm}} long and {{cvt|2-6|cm|1}} wide.<ref name=":0" />
+The flesh is firm, white, with a pleasant or innocuous scent, and has a mild or nutty taste. Some say it is edible<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |orig-date=2005 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=138}}</ref> and other say it is toxic,<ref>{{cite book |vauthors=Eyssartier G, Roux P |title=Le guide des champignons France et Europe |year=2017 |publisher=Belin |isbn=978-2-410-01042-8 |page=218}}</ref> perhaps causing gastrointestinal upset.<ref name=":0" />
+
+==Similar species==
+''Russula viscida'' is in size and habitat very similar; the surface of its cap is bright purple to blood red and shiny. The base turns leather yellow when old. Its flesh is quite pungent.
+
+==See also==
+*[[List of Russula species|List of ''Russula'' species]]
+
+==References==
+{{Reflist}}
+*E. Garnweidner. ''Mushrooms and Toadstools of Britain and Europe''. Collins. 1994.
+
+==External links==
+{{IndexFungorum|211734}}<br>
+{{MycoBank|211734}}
+{{Taxonbar|from=Q241024}}
+
+[[Category:Russula|olivacea]]
+[[Category:Edible fungi]]
+[[Category:Fungi of Europe]]
+[[Category:Taxa named by Jacob Christian Schäffer]]
+[[Category:Fungus species]]

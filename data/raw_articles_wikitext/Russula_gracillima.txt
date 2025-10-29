@@ -1,0 +1,49 @@
+{{Short description|Species of fungus}}
+{{Use dmy dates|date=July 2025}}
+{{Speciesbox
+| image = Russula gracillima.jpg
+| genus = Russula
+| species = gracillima
+| authority = [[Jul.Schäff.]] (1931)
+}}
+{{mycomorphbox
+| name = ''Russula gracillima''
+| whichGills =  decurrent
+| capShape = convex
+| capShape2 = flat
+| hymeniumType = gills
+| stipeCharacter = bare
+| sporePrintColor = cream
+| howEdible = unknown
+}}
+
+The mushroom '''''Russula gracillima''''', commonly known as the '''slender brittlegill''', is a  member of the genus ''[[Russula]]'', whose members are commonly known as brittlegills.  It is a small, pale, long stemmed brittlegill associated mainly with [[birch]] and is occasional in [[Europe]], [[Asia]], and [[North America]].
+
+==Taxonomy==
+It was first described by the German mycologist [[Jacob Christian Schaeffer]] during the 18th century. The [[specific name (botany)|specific epithet]] comes from the [[Latin language|Latin]] adjective ''gracilis'', meaning thin, or slender.
+
+==Description==
+The [[pileus (mycology)|cap]] is 2–6&nbsp;cm in diameter. Usually it is dull greenish or olive at the centre, and with a pink margin, although it can be solely either of these colours, or sometimes pale violet.  At first, it is convex, but later flattens, and sometimes has a small central boss (umbo).  The cap skin peels from one third to a half, and more mature specimens often have a furrowed margin. The fragile, white or pale greyish-rose [[stipe (mycology)|stipe]] is long for the size of the cap. The [[Lamella (mycology)|gills]] are slightly decurrent, and pale cream giving a [[spore print]] of the same colour. They have no nicks, or notches on their free edges. The [[trama (mycology)|flesh]] is white and tastes moderately hot.<ref name=Phillips06>{{cite book | author = Phillips R. | year = 2006  | title = Mushrooms | publisher = Pan MacMillan | isbn = 0-330-44237-6|page = 25}}</ref>
+
+Similar species are ''[[Russula betularum]]'' which is frequently found near [[birch]] trees, and although usually paler can be mistaken for washed out specimens of ''R. &nbsp;racillima''. Also, ''[[Russula fragilis]]'' is very similar, and grows in the same locations. It is usually darker, and more purplish, and has nicks (serrations) on the gill edges which are distinctive under a hand lens.
+
+==Distribution and habitat==
+''Russula gracillima'' appears occasionally in summer to late autumn,<ref name=Phillips06/> usually growing in small groups with [[birch]], or sometimes [[willow]] in damp places.<ref name = "MarcelBon87">{{cite book | author = Bon M.| year = 1987 | title = The Mushrooms and Toadstools of Britain and North Western Europe | publisher = Hodder and Stoughton | isbn = 0-340-39935-X}}</ref> It is widespread in the northern [[temperate]] zones in [[Europe]], [[Asia]], and [[North America]].
+
+==Edibility==
+The edibility of ''Russula gracilis'' is unknown.<ref name=Phillips06/>
+
+==See also==
+* [[List of Russula species|List of ''Russula'' species]]
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q148100}}
+
+[[Category:Fungi described in 1931]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Asia]]
+[[Category:Russula|gracillima]]
+[[Category:Fungus species]]

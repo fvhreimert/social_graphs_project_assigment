@@ -1,0 +1,114 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = 2017-12-10 Psilocybe hoogshagenii R. Heim 824796.jpg
+| image_caption = ''Psilocybe hoogshagenii '' in Mocoa, Putumayo Dept, Colombia 
+| genus = Psilocybe
+| species = hoogshagenii
+| authority = [[Roger Heim|Heim]] (1958)
+| synonyms_ref = <ref name=Guzman1983/>
+| synonyms = ''Psilocybe caerulipes'' var. ''gastonii'' <small>[[Rolf Singer|Singer]] (1958)</small>
+}}
+{{mycomorphbox
+| name=''Psilocybe hoogshagenii''
+| whichGills=adnate
+| whichGills2=adnexed
+| capShape=conical
+| capShape2=convex
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=saprotrophic
+| sporePrintColor=purple-brown
+| howEdible=psychoactive
+}}
+
+'''''Psilocybe hoogshagenii''''' is a species of [[psilocybin mushroom]] in the family [[Hymenogastraceae]]. The mushroom has a brownish conical or bell-shaped [[pileus (mycology)|cap]] up to {{convert|3|cm|in|abbr=on}} wide that has an extended [[umbo (mycology)|papilla]] up to 4&nbsp;mm long. The stem is slender (up to 3&nbsp;mm thick) and {{convert|5|to|9|cm|in|abbr=on}} long. The [[variety (botany)|variety]] ''P.&nbsp;hoogshagenii'' var. ''convexa'' lacks the long papilla.
+
+The species is found in Mexico, where it grows singly or in small groups in clayey soils in [[subtropical]] coffee plantations, and from Colombia and Brazil in South America. The mushroom contains the [[psychedelic drug|psychedelic]] compounds [[psilocybin]] and [[psilocin]], and all parts will stain blue or bluish black when handled or injured. ''P.&nbsp;hoogshagenii'' is used for [[divination|divinatory]] purposes by some indigenous groups in Mexico.
+
+==Taxonomy==
+The species was first [[species description|described]] scientifically by French mycologist [[Roger Heim]] in 1958.<ref name="urlMycoBank: Psilocybe hoogshagenii"/> It was one of several species described and illustrated in the popular American weekly magazine ''[[Life (magazine)|Life]]'' ("[[Seeking the Magic Mushroom]]"), in which [[R. Gordon Wasson]] recounted the [[psychedelic experience|psychedelic visions]] that he experienced during the divinatory rituals of the [[Mixtec people]], thereby introducing psilocybin mushrooms to Western popular culture;<ref name=Wasson1957/> it was however, mislabeled as ''Psilocybe zaptecorum''.<ref name=Beug2011/> Similarly, ''Psilocybe'' specialist [[Gastón Guzmán]] suggests that ''[[Psilocybe zapotecorum|P.&nbsp;zapotecorum]]'', as described by [[Rolf Singer]] in 1958,<ref name=Singer1958/> is misidentified as it agrees well with the [[type (biology)|type]] of ''P.&nbsp;hoogshagenii''.<ref name=Guzman1983/> The species ''Psilocybe caerulipes'' var. ''gastonii'', described by Singer in 1958,<ref name=Singer1958/> is a [[synonym (biology)|synonym]] of ''P.&nbsp;hoogshagenii''.<ref name=Guzman1983/>
+
+The species is named in honor of American anthropologist Searle Hoogshagen,<ref name=Hoogshagen1959/> who helped Heim and Wasson in their search for entheogenic mushrooms in Mexico.<ref name=Guzman1983/> The mushroom is known locally by several [[common name]]s. In Spanish, it is called ''los niños'' or ''los Chamaquitos'' ("the little boys"), in [[Mazatec language|Mazatec]] as ''pajaritos de monte'' ("little birds of the woods"), in [[Nahuatl language|Nahuatl]] as ''cihuatsinsintle'' or ''teotlaquilnanácatl'' ("divine mushroom that describes or paints"), and in [[Mixe languages|Mixe]] as ''Atka:t'' ("judge") or ''na.shwi.ñ mush'' ("mushrooms of the earth").<ref name=Allen1997/>
+
+The [[variety (botany)|variety]] ''P.&nbsp;hoogshagenii'' var. ''convexa'' was described by Guzmán in 1983 to account for mushrooms without an acute papilla that were otherwise roughly the same as the type variety. ''Psilocybe semperviva'', described by Heim and Roger Cailleux in 1958,<ref name=Heim1958/> was later determined by Guzmán to be [[synonym (biology)|synonymous]] with  ''P.&nbsp;hoogshagenii'' var. ''convexa''.<ref name=Guzman1978/> The [[botanical name|varietal epithet]] ''convexa'' refers to the convex shape of the cap.<ref name=Guzman1983/>
+
+==Description==
+The [[pileus (mycology)|cap]] ranges in shape from conical to bell-shaped to convex, reaching diameters of {{convert|0.7|–|3|in|abbr=on}}, although a range of {{convert|1|–|2.5|cm|in|1|abbr=on}} is most usual. It has a long, sharp [[umbo (mycology)|papilla]] that is up to {{convert|4|mm|in|abbr=on}}. The cap surface is smooth, somewhat sticky when wet, and often has ridges extending halfway to the center of the cap. Its color is reddish brown to orangish brown to yellowish, and it is [[hygrophanous]], fading when dry to a straw or [[fulvous]] color. The brownish [[lamella (mycology)|gills]] have an adnate to adnexed attachment to the stem; mature gills become purplish black because of the spores. The hollow [[stipe (mycology)|stem]] measures {{convert|50|to|90|mm|in|abbr=on}} long by 1–3&nbsp;mm thick. It is roughly equal in width throughout its length or slightly thicker at the base, and sometimes twisted. A thin rudimentary cortina-like [[partial veil]] covers the gills of immature fruit bodies, but it is fragile and disappears soon after the cap expands. The [[trama (mycology)|flesh]] in the cap is whitish, but more yellow in the stem. Both the odor and taste of the mushroom are farinaceous (similar to freshly ground flour). As is characteristic of psilocybin mushrooms, all parts of the fruit body bruise blue when handled or injured. ''P.&nbsp;hoogshagenii'' var. ''convexa'' lacks an acute papilla, although it occasionally has a small, rounded papilla. Its cap ranges in width from {{convert|0.5|–|1.5|cm|in|abbr=on}}, and it is convex to roughly bell-shaped. All other macroscopic and microscopic features are identical to the type variety.<ref name=Guzman1983/>
+
+The [[spore print]] is dark purplish brown. [[Spore]]s are [[wikt:rhomboid|rhomboid]] or nearly so in face view, and more or less [[wikt:ellipsoid|ellipsoid]] when viewed from the side. They are thick-walled, with dimensions of 6.5–4–5.6&nbsp;[[micrometre|μm]], and feature a broad [[germ pore]]. The [[basidia]] (spore-bearing cells) are usually four-spored, [[hyaline]] (translucent), roughly cylindrical or with a central constriction, and measure 12–22 by 5.5–9&nbsp;μm. Pleurocystidia ([[cystidia]] on the gill face) are relatively abundant; they are ventricose (swollen), club-shaped or irregularly shaped, measuring 16–36 by 8–12&nbsp;μm. The cheilocystidia (cystidia on the gill edge) are also abundant. They are 19–35 by 4.4–6.6&nbsp;μm, lageniform (flask-shaped), narrowing into a long neck with a width of 1–3&nbsp;μm, and either acute or somewhat capitate (ending in a roughly globular tip). [[Clamp connection]]s are present in the [[hypha]]e.<ref name=Guzman1983/>
+
+{| class="wikitable" style="width:640px; margin: 1em auto; text-align: center;"
+|+ style="background-color:#FFF; border:1px solid #CCC; border-bottom:none;" | Microscopy
+|-
+| 
+| 
+| 
+|-
+| Spores are rhomboid to ellipsoidal depending on the direction in which they are viewed.
+| Cheilocystidia are flask-shaped with a long neck.
+| A swollen pleurocystidium is visible between two basidia with spores still attached.
+|-
+|align="center" colspan="30" style="font-size: 8pt"| Small reticule divisions are 1&nbsp;μm. All images were photographed at 1000x magnification.
+|}
+
+==Habitat and distribution==
+Fruit bodies of ''Psilocybe hoogshagenii'' grow solitarily or in small groups in [[humus]] or in muddy clay soils in subtropical coffee plantations. According to the natives of the [[San Agustin Loxicha]] region of Mexico, the fungus tends to fruit simultaneously  in large flushes.<ref name=Guzman1983/> In Mexico, fruiting occurs in June and July, whereas in Argentina, fruiting is in February. The mushroom has been reported from Mexico in the states of [[Puebla]], [[Oaxaca]], and [[Chiapas]], where it grows at elevations of  {{convert|1000|to|1800|m|abbr=on}}.<ref name=Stamets1996/> In South America, the species is known from Brazil and Colombia.<ref name=Guzman2000/> ''P.&nbsp;hoogshagenii'' var. ''convexa'' has been found in [[grasslands]] in [[Hidalgo (state)|Hidalgo]], and Oacaxa, but is most common in Puebla. It fruits from June to August.<ref name=Guzman1983/>
+
+==Uses==
+''Psilocybe hoogshagenii'' mushrooms are used for [[entheogenic]], or spiritual, purposes by some [[Chinantec]]-speaking [[curandero]]s of the [[Ixtlán District, Oaxaca|Ixtlán District]] in Oacaxa.<ref name=RamirezCruz2006/> The mushrooms are primarily used to diagnose and prognose illness, and, to a lesser extent, to [[divination|divine]] the location of objects or animals that have been lost or stolen.<ref name=Rubel1976/> Guzmán also indicates contemporary ceremonial usage by [[Mixe people|Mixe]] and [[Zapotec people|Zapotec]] people.<ref name=Guzman2008/> [[Paul Stamets]], in his ''Psilocybe Mushrooms of the World'', rates the psychoactive [[Potency (pharmacology)|potency]] of the mushroom as "moderately active", and reports psilocybin levels of 0.6% (milligrams per gram of dried mushroom), and psilocin of 0.1%. In comparison, Stamets indicates that the commonly cultivated species ''[[Psilocybe cubensis|P.&nbsp;cubensis]]'' contains 0.63% and 0.60% (psilocybin and psilocin), while the widespread ''[[Psilocybe semilanceata|P.&nbsp;semilanceata]]'' has 0.98% and 0.02%.<ref>Stamets (1996), p. 39.</ref>  Chemical analysis of ''P.&nbsp;hoogshagenii'' specimens from Brazil yielded up to 0.3% psilocybin and 0.3% psilocin.<ref name=Stijve1993/>
+
+==See also==
+*[[List of psilocybin mushrooms]]
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=Allen1997>{{cite book |author=Allen JW. |title=Teonanácatl: Ancient and Contemporary Shamanic Mushroom Names of Mesoamerica and Other Regions of the World |year=1997 |series=Ethnomycological Journals |location=Seattle, Washington |volume=3 |publisher=Psilly Publications |page=6 |url=http://www.mushroomjohn.org/names6.htm |archive-url=https://web.archive.org/web/20150529063312/http://www.mushroomjohn.org/names6.htm |url-status=dead |archive-date=May 29, 2015 }}</ref>
+
+<ref name=Beug2011>{{cite journal |author=Beug M. |title=The genus ''Psilocybe'' in North America |journal=Fungi Magazine |year=2011 |volume=4 |issue=3 |pages=6–17 |url=http://www.fungimag.com/summer-2011-articles/FungiSUM_GenusPsilocybeNA_LR.pdf |url-status=dead |archive-url=https://web.archive.org/web/20120331105044/http://www.fungimag.com/summer-2011-articles/FungiSUM_GenusPsilocybeNA_LR.pdf |archive-date=2012-03-31 }}</ref>
+
+<ref name=Guzman1978>{{cite journal |author=Guzmán G. |title=Further investigations of the Mexican hallucinogenic mushrooms with descriptions of new taxa and critical observations on additional taxa |journal=Nova Hedwigia |year=1978 |volume=29 |pages=625–44}}</ref>
+
+<ref name=Guzman1983>{{cite book |author=Guzmán G. |title=The Genus ''Psilocybe'': A Systematic Revision of the Known Species Including the History, Distribution, and Chemistry of the Hallucinogenic Species |year=1983 |series=Beihefte Zur Nova Hedwigia. Heft 74 |publisher=J. Cramer |location=Vaduz, Liechtenstein |isbn=978-3-7682-5474-8 |pages=129–33}}</ref>
+
+<ref name=Guzman2000>{{cite journal |vauthors=Guzmán G, Allen JW, Gartz J |year=2000 |title=A worldwide geographical distribution of the neurotropic fungi, an analysis and discussion |journal=Annali del Museo Civico di Rovereto: Sezione Archeologia, Storia, Scienze Naturali |volume=14 |pages=189–280|url=http://www.museocivico.rovereto.tn.it/UploadDocs/104_art09-Guzman%20&%20C.pdf }}</ref>
+
+<ref name=Guzman2008>{{cite journal |author=Guzmán G. |title=Hallucinogenic mushrooms in Mexico: an overview |journal=Economic Botany |year=2008 |volume=62 |issue=3 |pages=404–12 |doi=10.1007/s12231-008-9033-8|bibcode=2008EcBot..62..404G |s2cid=22085876 }}</ref>
+
+<ref name=Heim1958>{{cite journal |vauthors=Heim R, Cailleux R |title=Latin diagnosis ''Psilocybe semperviva'' Heim et Cailleux, speciei mutantis hallucinogenae mexicanae per culturam obtentae |journal=Revue Mycologique |year=1958 |volume=23 |pages=352–3 |language=la}}</ref>
+
+<ref name=Hoogshagen1959>{{cite journal |author=Hoogshagen S. |title=Notes on the sacred narcotic mushroom from Coatlán, Oaxaca, Mexico |journal=Oklahoma Anthropological Society Bulletin |volume=7 |pages=71–4 |year=1959}}</ref>
+
+<ref name=RamirezCruz2006>{{cite journal |vauthors=Ramírez-Cruz V, Guzmán G, Ramírez-Guillén F |title=Las especies del género ''Psilocybe'' conocidas del Estado de Oaxaca, su distribución y relaciones étnicas |journal=Revista Mexicana de Micología |year=2006 |volume=23 |pages=27–36 |language=es |url=http://revistamexicanademicologia.org/wp-content/uploads/2009/10/5.%20RMM%20TR-076.pdf |archive-date=2016-03-04 |access-date=2012-06-27 |archive-url=https://web.archive.org/web/20160304053011/http://revistamexicanademicologia.org/wp-content/uploads/2009/10/5.%20RMM%20TR-076.pdf |url-status=usurped }}</ref>
+
+<ref name=Rubel1976>{{cite journal |vauthors=Rubel AJ, Gettelfinger-Krejci J |title=The use of hallucinogenic mushrooms for diagnostic purposes among some highland Chinantecs |journal=Economic Botany |year=1976 |volume=30 |issue=3 |pages=235–48 |jstor=4253740 |doi=10.1007/bf02909732|bibcode=1976EcBot..30..235R |s2cid=9249098 }}</ref>
+
+<ref name=Singer1958>{{cite book |author=Singer R. |title=Fungi Mexicani, series secunda, Agaricales |series=Beihefte zur Sydowia |year=1958 |orig-year=1959 |volume=12 |issue=1–6 |pages=221–43 |url=http://www.biologiezentrum.at/pdf_frei_remote/Sydowia_12_0221-0243.pdf }}</ref>
+
+<ref name=Stamets1996>{{cite book |author=Stamets P. |title=Psilocybin Mushrooms of the World: An Identification Guide |publisher=Ten Speed Press |location=Berkeley, California |year=1996 |pages=118–9 |isbn=0-89815-839-7}}</ref>
+
+<ref name=Stijve1993>{{cite journal |vauthors=Stijve TC, de Meijer AA |title=Macromycetes from the state of Paraná, Brazil. 4. The psychoactive species |journal=Arquivos de Biologia e Tecnologia |year=1993 |volume=36 |issue=2 |pages=313–29}}</ref>
+
+<ref name="urlMycoBank: Psilocybe hoogshagenii">{{cite web |title=''Psilocybe hoogshagenii'' R. Heim 1958 |url=http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=128859&Fields=All |publisher=[[MycoBank]]. International Mycological Association |access-date=2012-06-25}}</ref>
+
+<ref name=Wasson1957>{{cite magazine |title=Seeking the magic mushroom |magazine=Life |publisher=Time Inc. |author=Wasson RG. |date=13 May 1957 |pages=101–20 |url=https://books.google.com/books?id=Jj8EAAAAMBAJ&pg=PA101 |issn=0024-3019}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|109476}}
+
+{{hallucinogenic mushrooms}}
+{{Taxonbar|from=Q7255886}}
+{{Good article}}
+
+[[Category:Psilocybe|hoogshagenii]]
+[[Category:Psychedelic tryptamine carriers]]
+[[Category:Psychoactive fungi]]
+[[Category:Entheogens]]
+[[Category:Fungi of Mexico]]
+[[Category:Fungi of Brazil]]
+[[Category:Fungi of Colombia]]
+[[Category:Fungi described in 1958]]
+[[Category:Fungi without expected TNC conservation status]]
+[[Category:Fungus species]]

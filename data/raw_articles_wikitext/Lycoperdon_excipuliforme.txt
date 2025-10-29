@@ -1,0 +1,58 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{Taxobox
+| image = Plooivoetstuifzwam (Lycoperdon excipuliforme). Locatie, Hortus (Haren, Groningen) 10.jpg
+| regnum = [[Fungi]]
+| divisio = [[Basidiomycota]]
+| classis = [[Agaricomycetes]]
+| ordo = [[Agaricales]]
+| familia = [[Lycoperdaceae]]
+| genus = ''[[Lycoperdon]]''
+| species = '''''L. excipuliforme'''''
+| binomial = ''Lycoperdon excipuliforme''
+| binomial_authority = [[Giovanni Antonio Scopoli|(Scop.)]] [[Christiaan Hendrik Persoon|Pers.]] 1801
+| synonyms = *''Lycoperdon saccatum'' <small>(Bull.)</small>
+"Handkea excipuliformis"
+''Lycoperdon polymorphum var. excipuliforme''
+*''Calvatia excipuliformis''
+*''Calvatia saccata''
+*''Lycoperdon cervinum'' sensu Bolton (1789)
+*''Lycoperdon elatum''
+*''Lycoperdon excipuliforme'' forma ''flavescens''
+*''Lycoperdon excipuliforme var. flavescens''
+}}
+
+{{stack end}}
+
+'''''Lycoperdon excipuliforme''''', commonly known as the '''pestle puffball''' or '''long-stemmed puffball''', is a species of the family [[Lycoperdaceae]]. A rather large [[puffball]], it may reach dimensions of up to {{convert|15|cm|in|abbr=on}} broad by {{convert|25|cm|in|abbr=on}} tall. Widespread in northern [[temperate]] zones, it is found frequently on pastures and sandy [[Heath (habitat)|heath]]s.
+
+==Taxonomy==
+This puffball has been variously placed in the genera ''[[Bovista]]'', ''[[Handkea]]'', ''[[Calvatia]]'', and ''[[Utraria]]''. In 1989, German mycologist Hanns Kreisel described the genus ''Handkea'' to include species of ''Calvatia'' that had distinct microscopic features: ''[[Handkea]]'' species had a unique type of [[capillitium]] (coarse thick-walled [[hyphae]] in the [[gleba]]), with curvy slits instead of the usual pores.<ref>{{cite journal|author=Kreisel H|year=1989|title=Studies in the ''Calvatia'' complex (basidiomycetes)|journal=Nova Hedwigia|volume=48|issue=3–4|pages=281–96}}</ref> Although accepted by some authors,<ref name="isbn0-947643-81-8">{{cite book|vauthors=Laessøe T, Pegler DN, Spooner B |title=British puffballs, earthstars and stinkhorns: an account of the British gasteroid fungi|publisher=Royal Botanic Gardens|location=Kew|year=1995|isbn=0-947643-81-8}}</ref> the genus concept has been rejected by others.
+
+[[Phylogenetic]] analyses published in 2008 shows that ''Handkea'' may be grouped in a [[clade]] along with species from several other genera, including ''[[Lycoperdon]]'', ''[[Vascellum]]'', ''[[Morganella (fungus)|Morganella]]'', ''[[Bovistella]]'', and ''[[Calvatia]]''.<ref name="pmid18207380">{{cite journal|vauthors=Larsson E, Jeppson M |title=Phylogenetic relationships among species and genera of Lycoperdaceae based on ITS and LSU sequence data from north European taxa|journal=Mycological Research|volume=112|issue=Pt 1|pages=4–22|year=2008|pmid=18207380|doi=10.1016/j.mycres.2007.10.018}}</ref> Published in the same year, another DNA analysis of the structure of [[internal transcribed spacer|ITS2]] [[Ribosomal DNA|rDNA]] [[Transcription (genetics)|transcript]] confirmed that ''H. utriformis'' is closely related to ''[[Lycoperdon echinatum]]''.<ref name="pmid18342242">{{cite journal |vauthors=Krüger D, Gargas A |title=Secondary structure of ITS2 rRNA provides taxonomic characters for systematic studies&mdash;a case in Lycoperdaceae (Basidiomycota) |journal=Mycological Research |volume=112 |issue=Pt 3 |pages=316–30 |year=2008 |pmid=18342242 |doi=10.1016/j.mycres.2007.10.019 }}</ref>
+
+==Description==
+
+Like all [[puffballs]], ''Lycoperdon excipuliforme'' has a gasteroid [[basidiocarp]], meaning the [[spore]]s are produced internally, and are only released as the mature [[fruiting body]] ages and dries, or is broken. Young puffballs are typically {{convert|6|to|12|cm|in}} across, white, or pale grey-brown;<ref name=Phillips06/> in maturity it may attain dimensions of {{convert|15|cm|in}} broad by {{convert|25|cm|in}} tall.<ref name="urlCalifornia Fungi: Handkea utriformis">{{cite web|url=http://www.mykoweb.com/CAF/species/Handkea_utriformis.html|title=California Fungi: ''Handkea utriformis''|access-date=2009-04-01|url-status=dead|archive-url=https://web.archive.org/web/20090710091350/http://www.mykoweb.com/CAF/species/Handkea_utriformis.html|archive-date=2009-07-10}}</ref> The underside of the puffball is attached to the ground by a root-like assemblage of [[hyphae]] called a [[mycelial cord|rhizomorph]].<ref>{{cite journal |author= Agerer|year=2002|title=Rhizomorph structures confirm the relationship between Lycoperdales and Agaricaceae (Hymenomycetes, Basidiomycota)|journal=Nova Hedwigia |volume=75 |issue=3–4 |pages=367–85 |doi= 10.1127/0029-5035/2002/0075-0367}}</ref>
+
+==Distribution and habitat==
+Common and widespread from late summer until autumn. The pestle puffball grows singly or in small groups in soil in both coniferous and broadleaf woodland and on short grassland.<ref name="FirstNature">[http://www.first-nature.com/fungi/lycoperdon-excipuliformis.php First Nature] {{Webarchive|url=https://web.archive.org/web/20120326104632/http://www.first-nature.com/fungi/lycoperdon-excipuliformis.php|date=2012-03-26}} Retrieved : 2011-09-05</ref>
+
+==Edibility==
+
+This fairly large [[puffball]] is edible only when the spore-bearing flesh is young and white.<ref name=Phillips06>{{cite book| author = Phillips R| year = 2006| title = Mushrooms| publisher = Pan MacMillan| isbn = 0-330-44237-6 |page=328}}</ref> The taste and odour are unremarkable, and very similar to the giant puffball, but the flesh is not quite as firm and the outer skin should be removed.<ref name="FirstNature" /><ref>[http://www.guernsey.net/~cdavid/botany/files/handkea%20excipuliformis/index.html H. excipuliformis] Retrieved : 2011-09-08</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category|Lycoperdon excipuliforme}}
+
+{{IndexFungorum|125119}}
+{{Taxonbar|from=Q851354}}
+[[Category:Edible fungi]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Puffballs]]
+[[Category:Fungus species]]
+[[Category:Lycoperdaceae]]

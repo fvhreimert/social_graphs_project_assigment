@@ -1,0 +1,46 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| name = Great felt skirt destroying angel 
+| image = Amanita magnivelaris 95937.jpg
+| taxon = Amanita magnivelaris
+| authority = [[Charles Horton Peck|Peck]]
+}}
+{{Mycomorphbox
+| name=''Amanita magnivelaris''
+| whichGills=free
+| capShape=convex
+| capShape2=flat
+| hymeniumType=gills
+| stipeCharacter=ring and volva
+| ecologicalType=mycorrhizal
+| sporePrintColor=white
+| howEdible=deadly
+}}
+
+'''''Amanita magnivelaris''''', commonly known as the '''great felt skirt destroying angel''' or the '''great feltskirt destroying angel amanita''',<ref name=NGSWG>{{NGSWG}}</ref> is a highly toxic [[basidiomycete]] [[fungus]], one of many in the genus ''[[Amanita]]''. Originally described from [[Ithaca, New York]], by [[Charles Horton Peck]], it is found in [[New York (state)|New York]] state and southeastern [[Canada]].<ref name="urltullabs.com">{{cite web |url=http://tullabs.com/amanita/?Amanita%20magnivelaris |title=''Amanita magnivelaris'' |author=Tulloss R |work=Amanita studies |access-date=2010-08-01}}</ref>
+
+Like most other Amanita mushrooms, the great felt skirt destroying angel is hepatotoxic and can cause serious liver damage which can be fatal.
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Amanita species|List of ''Amanita'' species]]
+*[[List of deadly fungi]]
+
+==References==
+{{Reflist}}
+
+{{Amanitas}}
+{{Poisonous Amanitas}}
+{{Taxonbar|from=Q4739877}}
+
+{{DEFAULTSORT:Amanita Magnivelaris}}
+[[Category:Amanita|magnivelaris]]
+[[Category:Deadly fungi]]
+[[Category:Poisonous fungi]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1897]]
+[[Category:Taxa named by Charles Horton Peck]]
+[[Category:Fungus species]]
+
+
+{{Fungus-stub}}

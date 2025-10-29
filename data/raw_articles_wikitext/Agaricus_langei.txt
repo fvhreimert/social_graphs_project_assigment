@@ -1,0 +1,42 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Agaricus langei (F.H. Møller) F.H. Møller (231468).jpg
+| image_caption =
+| taxon = Agaricus langei
+| authority = (F.H.Møller) F.H.Møller (1952)<ref name="Møller 1952"/>
+| synonyms_ref = <ref name="urlFungorum synonymy: Agaricus langei"/>
+| synonyms = {{Specieslist
+ |Psalliota langei|F.H.Møller (1950)
+ |Psalliota fuscofibrillosa|F.H.Møller (1950)
+ |Psalliota mediofusca|F.H.Møller (1950)
+ |Agaricus fuscofibrillosus|(F.H.Møller) [[Albert Pilát|Pilát]] (1951)
+ |Agaricus mediofuscus|(F.H.Møller) [[Albert Pilát|Pilát]] (1951)
+ |Agaricus langei'' var. ''mediofuscus|(F.H.Møller) Wasser (1978)
+ |Agaricus langei'' var. ''sylvaticoides|[[Marcel Bon|Bon]] (1981)
+ }}
+}}
+
+'''''Agaricus langei''''' is a species of [[fungus]] in the genus ''[[Agaricus]]''.
+
+==See also==
+*[[List of Agaricus species|List of ''Agaricus'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Møller 1952">{{cite journal |author=Møller FH. |title=Danish Psalliota species. Preliminary Studies for a Monograph on the Danish Psalliotae. Part 1 |journal=Friesia |year=1960 |volume=4 |issue=1–2 |pages=1–60}}</ref>
+
+<ref name="urlFungorum synonymy: Agaricus langei">{{cite web |url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=292278 |title=GSD Species Synonymy: ''Agaricus langei'' (F.H. Møller) F.H. Møller 1952 |publisher=MycoBank. International Mycological Association |accessdate=2015-08-07}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|292278}}
+
+{{Taxonbar|from=Q2605342}}
+
+[[Category:Agaricus|langei]]
+[[Category:Fungi described in 1950]]
+[[Category:Fungi of Europe]]
+[[Category:Edible fungi]]
+[[Category:Fungus species]]

@@ -1,0 +1,52 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = 
+| image_caption = 
+| genus = Catathelasma
+| species = evanescens
+| authority = Lovejoy (1910)
+}}
+{{mycomorphbox
+| name = ''Catathelasma evanescens''
+| whichGills = decurrent
+| capShape = convex 
+| hymeniumType = gills
+| stipeCharacter = ring and volva
+| ecologicalType = mycorrhizal
+| sporePrintColor = white
+| howEdible = unknown
+}}
+
+'''''Catathelasma evanescens''''' is a [[species]] of [[fungus]] in the family [[Biannulariaceae]], and the [[type species]] of the genus ''[[Catathelasma]]''. The species was described by Ruth Ellen Harrison Lovejoy in 1910.<ref name=Lovejoy1910/>
+
+==Description and Distribution==
+The genus includes the commoner ''[[Catathelasma imperiale|C. imperiale]]'' and ''C. ventricosum'', but the type species, ''C. evanescens'', seems extremely rare.  In 1914 it was only known from the location of the initial find, which is at an altitude of 3500 m. in the [[Medicine Bow Mountains]] of Wyoming.<ref name=Murrill/>  It is distinguished from the other species because the gills are fairly distant ("subdistant") and because it has a large persistent [[Volva (mycology)|volva]] around the base of the stipe.<ref name=Kuo/>
+
+The species name may refer to the [[:Wikt:evanescent|evanescent]] ring.
+
+The following summary is taken from Mrs. Lovejoy's original description.<ref name=Lovejoy1910/>
+
+*'''Cap''': 13&nbsp;cm, broadly convex, white (but cream in the center).
+*'''Gills''': White, very decurrent, "subdistant", with short and long ones mixed.
+*'''Stem''': White, thick (4&nbsp;cm.) but very short (1&nbsp;cm.), with bulbous base, delicate evanescent ring, and large white persistent [[Volva (mycology)|volva]].
+*'''Spores''': smooth, white, elliptical to fusiform, 14 - 17.5 × 3 - 5&nbsp;μm.
+
+==References==
+{{Reflist|refs=
+
+<ref name=Lovejoy1910>{{cite journal |title=Some New saprophytic fungi of the middle Rocky Mountain region |journal=Botanical Gazette |year=1910 |volume=50 |issue=3 |author=Lovejoy RH. |pages=383–85|doi=10.1086/330381 |s2cid=84938989 |url=https://zenodo.org/record/1431387 }}  The text can be found in [https://archive.org/stream/mobot31753002217245/mobot31753002217245_djvu.txt the Internet Archive].</ref>
+
+<ref name=Murrill>The species is mentioned under [[Armillaria]] in {{cite journal |journal=North American Flora |title=Family 7. Agaricaceae |year=1914 |volume=10 |issue=1 |author=[[William Murrill]] |pages=37–38 }}  The entry is on-line in [https://www.biodiversitylibrary.org/page/748176#page/39/mode/1up the Biodiversity Heritage Library].</ref>
+
+<ref name=Kuo>Kuo, M. (2006, October). ''Catathelasma''. See the MushroomExpert.Com Web site: https://www.mushroomexpert.com/catathelasma.html.</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|208638}}
+
+{{Taxonbar|from=Q5051589}}
+
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1910]]
+[[Category:Fungus species]]

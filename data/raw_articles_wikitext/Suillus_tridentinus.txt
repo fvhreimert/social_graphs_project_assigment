@@ -1,0 +1,40 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Suillus tridentinus.jpg
+| genus = Suillus
+| species = tridentinus
+| authority = ([[Bres.]]) [[Rolf Singer|Singer]] (1945)
+| synonyms = *''Boletus tridentinus'' <small>Bres. (1881)</small>
+}}
+
+'''''Suillus tridentinus''''', the '''orange larch bolete''', is an uncommon, [[edible mushroom]] in the genus ''[[Suillus]]'', found mainly at higher altitudes beneath [[larches]] on chalk. It can be found together with larch boletes, but more scarce.
+
+The bolete is considered [[endangered species|endangered]] in the Czech Republic.<ref name="Mikšik 2012"/>
+
+==Description==
+The [[pileus (mycology)|cap]] is convex, orange to rusty red, slimy and often covered with dark brown scales. The cap grows up to 12&nbsp;cm in diameter. The [[stipe (mycology)|stipe]] is rusty orange like the cap, with a hint of a slimy, yellowish-white [[annulus (mycology)|ring]] that soon disappears. The [[trama (mycology)|flesh]] is lemon yellow with a mild taste.
+
+==Pharmacology==
+An [[extract]] of ''Suillus tridentinus'' exhibits inhibitory activity on [[thrombin]].<ref>{{cite journal |last1=Doljak |first1=B. |last2=Stegnar |first2=M. |last3=Urleb |first3=U. |last4=Kreft |first4=S. |last5=Umek |first5=A. |last6=Ciglarič |first6=M. |last7=Štrukelj |first7=B. |last8=Popovič |first8=T. |title=Screening for selective thrombin inhibitors in mushrooms |journal=Blood Coagulation and Fibrinolysis |volume=12 |issue=2 |pages=123–8 |year=2001 |pmid=11302474 |doi=10.1097/00001721-200103000-00006 |s2cid=28411589 }}</ref>
+
+==References==
+{{Reflist|refs=
+
+<ref name="Mikšik 2012">{{cite journal |author=Mikšik M. |title=Rare and protected species of boletes of the Czech Republic |journal=Field Mycology |year=2012 |volume=13 |issue=1 |pages=8–16 |doi=10.1016/j.fldmyc.2011.12.003|doi-access=free }}</ref>
+
+}}
+*E. Garnweidner. ''Mushrooms and Toadstools of Britain and Europe''. Collins. 1994.
+
+==External links==
+{{IndexFungorum|291290}}<br>
+{{MycoBank|291290}}
+{{Taxonbar|from=Q1659886}}
+
+[[Category:Suillus|tridentinus]]
+[[Category:Fungi described in 1881]]
+[[Category:Fungi of Europe]]
+[[Category:Edible fungi]]
+[[Category:Fungus species]]
+
+
+{{Boletales-stub}}

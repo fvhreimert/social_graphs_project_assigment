@@ -1,0 +1,62 @@
+{{Use dmy dates|date=October 2021}}
+{{Speciesbox 
+| image = Calocybe gambosa 080420wa.jpg
+| genus = Calocybe
+| species = gambosa
+| authority = ([[Elias Magnus Fries|Fr.]]) [[Marinus Anton Donk|Donk]] (1962)
+| synonyms = ''Tricholoma gambosum''
+}}
+{{mycomorphbox 
+| name = ''Calocybe gambosa''
+| whichGills = sinuate 
+| capShape = convex 
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| ecologicalType2 = saprotrophic
+| sporePrintColor = white
+| howEdible = choice}}
+
+'''''Calocybe gambosa''''', commonly known as '''St. George's mushroom''', is an edible [[mushroom]] that grows mainly in fields, grass verges and roadsides. Deriving its common name from when it first appears in the [[United Kingdom|UK]], namely on [[St George's Day]] (23 April). It appears in March in Italy, a warmer country where it is also a popular mushroom to eat,<ref name = "Carluccio03">{{cite book | author = Carluccio A | author-link = Antonio Carluccio | year = 2003 | title = The Complete Mushroom Book| publisher = Quadrille | isbn = 1-84400-040-0 |page=75}}</ref> and is known there as ''prugnolo''. It is also popular in Northern Spain and Southern France, in the [[Basque Country (greater region)|Basque Country]] region and its surroundings where it appears in April. In these regions it is usually eaten [[sauté]]ed with egg or with bacon.
+
+It is considered a delicacy, especially when fried in butter. It was previously considered a part of the large genus ''[[Tricholoma]]'' and is still seen as ''T. gambosum'' in older texts.
+
+==Taxonomy==
+Initially [[species description|described]] as ''Agaricus gambosus'' by [[Elias Magnus Fries]] in his 1821 work ''[[Systema Mycologicum]]'',<ref name=fries1821>{{cite book|author=Fries EM|title=Systema Mycologicum|publisher=Ex Officina Berlingiana|location=Lundae|date=1821|volume=1|pages=50|url=https://www.biodiversitylibrary.org/page/4338094}}</ref> with its [[botanical name|specific epithet]] derived from a [[Latin]] term for "club footed" in relation to its bulky [[stipe (mycology)|stipe]].<ref name = "Carluccio03"/> It was later named ''Tricholoma gambosum'' by [[Paul Kummer]] in 1871,<ref name=Kummer1871/> before being reclassified as ''Calocybe gambosa'' by [[Marinus Anton Donk]] in 1962.<ref name="Donk 1962"/> In Germany it is known as ''Maipilz'', where it fruits in May.<ref name =Zeitl76/> The genus name is derived from the [[Ancient Greek]] terms ''kalos'' "pretty", and ''cubos'' "head".<ref>{{cite book |vauthors=Nilson S, Persson O| year = 1977 | title = Fungi of Northern Europe 2: Gill-Fungi | publisher = Penguin|isbn=0-14-063006-6|page=24}}</ref> In Denmark it is called ''Vårmousseron'', appearing in spring—early May <ref>{{Cite web|url=http://www.mycokey.org/result_textsearch.shtml?action=refresh&14945|title=MycoKey fungus identifier|access-date=27 March 2013|archive-date=29 May 2015|archive-url=https://web.archive.org/web/20150529090808/http://www.mycokey.org/result_textsearch.shtml?action=refresh&14945|url-status=dead}}</ref>
+
+==Description==
+The [[pileus (mycology)|cap]] measures from 5–15&nbsp;cm (2 to 6 inches) in diameter and has a smooth texture and has ridges on it. The colour of the cap, stipe and [[trama (mycology)|flesh]] can range from white-creamy coloured to bright yellow. The sinuate [[lamella (mycology)|gills]] are white and crowded. The flesh is thick and soft and has a mealy or [[cucumber]] smell. The [[spore print]] is white to pinkish white. The stubby stipe is bulky at the base.<ref name = "Carluccio03"/>
+
+=== Similar species ===
+Care must be taken not to confuse it with the highly poisonous ''[[Inosperma erubescens]]'', which grows in the same habitats. The latter has a more pungent fruity smell and bruises red. ''[[Entoloma sinuatum]]'', also poisonous, has a rancid smell.<ref name="Zeitl76">{{cite book|last=Zeitlmayr |first=Linus|year=1976|title=Wild Mushrooms:An Illustrated Handbook|publisher=Garden City Press, Hertfordshire|isbn= 0-584-10324-7|pages=70}}</ref>
+
+==Distribution and habitat==
+''Calocybe gambosa'' is common in grasslands in Europe, often in areas rich in limestone. It is common on the Swedish islands [[Öland]] and [[Gotland]], both situated in the [[Baltic Sea]]. On the [[South Downs]] in southern England, it has formed huge [[fairy ring]]s that appear to be several hundred years old.<ref name = "Ramsbottom53">{{cite book | last= Ramsbottom |first=John | year = 1953 | title = Mushrooms & Toadstools | publisher = Collins | isbn = 1-870630-09-2 |page=125}}</ref> It is found from April to June in the United Kingdom,<ref name="tfb">{{Cite book |last=Francis-Baker |first=Tiffany |title=Concise Foraging Guide |date=2021 |publisher=[[Bloomsbury Publishing|Bloomsbury]] |isbn=978-1-4729-8474-6 |series=[[The Wildlife Trusts]] |location=London |pages=133}}</ref> earlier in warmer countries, and later in cooler ones.<ref name = "Carluccio03"/>
+
+==Edibility==
+The mushroom is best picked in dry weather. It can be eaten dry, pickled or even raw. It is imported in commercial quantities into Western Europe from [[Romania]].<ref name = "Carluccio03"/> It was held in high esteem in medieval Italy, reported by [[Costanzo Felici]] in 1569 as the most expensive and highly regarded mushroom in Umbria and Marches in central Italy, and held in high esteem in the Apennine mountain region—Liguria, Tuscany, and Emilia-Romagna)—by [[Giovanni Targioni Tozzetti]] in 1777. It is still locally eaten in Emilia-Romagna and Tuscany.<ref name="Sitta 2008">{{cite journal|author1=Sitta, Nicola |author2=Floriani, Marco |date=2008|title=Nationalization and Globalization Trends in the Wild Mushroom Commerce of Italy with Emphasis on Porcini ( Boletus edulis and Allied Species)|journal=Economic Botany|volume=62|issue=3|pages=307–22|doi=10.1007/s12231-008-9037-4|s2cid=44274570 }}</ref><!-- cites previous 2 sentences -->
+
+St George's mushroom is highly prized in the [[Basque Country (greater region)|Basque Country]] of [[Spain]], where it fetches very high prices.<ref>{{cite web |title=El precio del perretxiko supera los 40 euros el kilo |url=https://www.eitb.eus/es/radio/radio-vitoria/programas/radio-vitoria-gaur-magazine/detalle/6361965/el-precio-perretxiko-supera-40-euros-kilo/ |website=EITB |access-date=29 March 2021}}</ref> In [[Álava]], it is traditionally eaten on the [[San Prudencio Festival|feast of Saint Prudentius]] (28 April), alongside [[snails]].<ref>{{cite news|url=http://www.elcorreo.com/san-prudencio/2014/comida-gargantua-primera-tamborrada-201404241937.html|title=De 'La comida del Gargantúa' a la primera Tamborrada|newspaper=elcorreo.com|language=Spanish|accessdate=26 May 2016|archiveurl=https://web.archive.org/web/20150402104441/http://www.elcorreo.com/san-prudencio/2014/comida-gargantua-primera-tamborrada-201404241937.html|archivedate=2 April 2015}}</ref> The mushroom is also a cornerstone of the gastronomy of [[Bilbao]], where it is typically eaten in an omelette.<ref>{{cite web |last1=JULIÁN MÉNDEZ |title=Perretxikos, el tesoro de la primavera |url=https://www.elcorreo.com/jantour/201705/02/callanderos-secreto-seta-20170501120916.html |website=El Correro|date=May 2017 }}</ref> The demand in the Basque Country is so high the mushroom has to be imported from Eastern Europe.{{citation needed|date=October 2021}}
+
+''Calocybe gambosa'' grows at the same time of year and locations to, and can be confused with, young ''Inocybe erubescens'' (poisonous), ''Melanoleuca strictipes'' (inedible), and ''Entoloma sinuatum'' (poisonous).<ref name="soppognyttevekster.no">{{cite web | url=https://soppognyttevekster.no/normlisten | title=Normlisten }}</ref>
+
+==References==
+{{Reflist|refs=
+
+<ref name="Donk 1962">{{cite book |author=Donk M.A. |title=The generic names proposed for the Agaricaceae |series=Beihefte zur Nova Hedwigia |location=Weinheim, Germany |year=1962 |volume=5 |page=46}}</ref>
+
+<ref name=Kummer1871>{{cite book |title=Der Führer in die Pilzkunde |edition=1 |author=Kummer, Paul|author-link=Paul Kummer |year=1871 |location=Zerbst, Germany |publisher=Luppe |page=131|language=de|url=https://www.biodiversitylibrary.org/page/34209700}}</ref>
+}}
+
+==External links==
+{{Commons category-inline|Calocybe gambosa}}
+
+{{Taxonbar|from=Q731944}}
+
+[[Category:Lyophyllaceae]]
+[[Category:Fungi described in 1821]]
+[[Category:Fungi of Europe]]
+[[Category:Edible fungi]]
+[[Category:Fungi found in fairy rings]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]

@@ -1,0 +1,53 @@
+{{short description|Species of mushroom}}
+{{Speciesbox
+| image =
+| image_caption = 
+| genus = Inocybe
+| species = tricolor
+| authority = [[Robert Kühner|Kühner]] (1955)<ref name="Kühner 1955"/>
+| synonyms = *''Inocybe corydalina'' var. ''tricolor'' <small>(Kühner) Krieglst. (1991)</small>
+}}
+{{mycomorphbox
+| name = ''Inocybe tricolor''
+| whichGills = adnate
+| capShape = flat
+| capShape2 = umbonate
+| hymeniumType= gills
+| stipeCharacter= bare
+| ecologicalType=mycorrhizal
+| sporePrintColor=tan
+| sporePrintColor2=yellow
+| howEdible=psychoactive}}
+
+'''''Inocybe tricolor''''' is a rare member of the [[Inocybe|genus ''Inocybe'']] that is widely distributed in [[temperate]] forests.  It is a small [[mycorrhiza]]l mushroom that contains the hallucinogens [[psilocybin]] and [[psilocin]]. ''Inocybe tricolor'' is found under [[Norway spruce]] in central Europe.
+
+==Description==
+*'''Cap''':  Brick red to chocolate brown, lighter towards the margin, [[wikt:convex|convex]] to [[wikt:umbonate|umbonate]], with a [[wikt:fibrillose|fibrillose]] to [[wikt:squamulose|squamulose]] cap.  Usually less than 4&nbsp;cm across and has incurved margin until very mature.
+*'''Gills''': [[wikt:adnate|adnate]] and very numerous, pale cream brown to yellowish tan.
+*'''Spores''': Smooth and [[ellipsoid]] to oval, measuring 7.5 x 4.5 [[micrometre]]s, ochre to tan brown.
+*'''Stipe''': 2.5–6&nbsp;cm long, 4 to 6&nbsp;mm thick, and is equal width for the whole length, sometimes with some swelling at the base.
+
+==See also==
+*[[List of Inocybe species|List of ''Inocybe'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Kühner 1955">{{cite journal |author=Kühner R. |title=Compléments a la "Flore analytique" V. Inocybes léiosporés cystidiés. Espèces nouvelles ou critiques |journal=Bulletin de la Société des Naturalistes d'Oyonnax |year=1955 |volume=9 |issue=Suppl |pages=3–95 (see p.&nbsp;6) |language=French}}</ref>
+
+}}
+*{{cite book | first=Paul | last=Stamets | year=1996 | title=Psilocybin Mushrooms of the World | publisher=Ten Speed Press | location=Berkeley | isbn=0-9610798-0-0}}
+
+==External links==
+*[http://www.stridvall.se/fungi/gallery/Inocybe/SV10_029 ''Inocybe tricolor'' picture]
+*[http://www.stridvall.se/fungi/gallery/Inocybe/NIKA5360 ''Inocybe tricolor'' picture]
+
+{{Hallucinogenic mushrooms}}
+{{Taxonbar|from=Q76840}}
+
+[[Category:Psychoactive fungi]]
+[[Category:Psychedelic tryptamine carriers]]
+[[Category:Inocybe|tricolor]]
+[[Category:Fungi described in 1955]]
+[[Category:Fungi of Europe]]
+[[Category:Fungus species]]

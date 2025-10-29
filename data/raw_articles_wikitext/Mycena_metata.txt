@@ -1,0 +1,47 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+|image = Mycena metata.png
+|image_caption =
+|genus = Mycena
+|species = metata
+|authority = ([[Elias Magnus Fries|Fr.]]) [[Paul Kummer|P.Kumm.]] (1871)
+|synonyms_ref = <ref name="urlMycoBank: Mycena metata"/>
+|synonyms =
+''Agaricus laevigatus'' <small>[[Christian Hendrik Persoon|Pers.]] (1801)</small><br>
+''Agaricus metatus'' <small>Fr. (1821)</small><br>
+''Agaricus metatus'' var. ''laevigatus'' <small>(Pers.) Fr. (1821)</small><br>
+''Mycena filopes'' var. ''metata'' <small>(Fr.) Arnolds (1982)</small>
+}}
+{{mycomorphbox 
+| name = ''Mycena metata''
+| whichGills = adnexed
+| capShape = conical
+| capShape2 = campanulate
+| hymeniumType= gills
+| stipeCharacter= bare
+| ecologicalType= saprotrophic
+| sporePrintColor= white
+| howEdible=inedible
+}}
+
+'''''Mycena metata''''' is a species of fungus in the family [[Mycenaceae]] found in Europe. It is inedible.<ref name=Jordan2004/>
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=Jordan2004>{{cite book |author=Jordan M. |title=The Encyclopedia of Fungi of Britain and Europe |publisher=Frances Lincoln |location=London |year=2004 |page=168 |isbn=0-7112-2378-5 |url=https://books.google.com/books?id=ULhwByKCyEwC&pg=PA168}}</ref>
+
+<ref name="urlMycoBank: Mycena metata">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=248026 |title=''Mycena metata'' (Fr.) P. Kumm. 1871 |publisher=International Mycological Association |work=MycoBank |accessdate=2011-01-09}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|248026}}
+
+{{Taxonbar|from=Q1641480}}
+
+[[Category:Mycena|metata]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi described in 1821]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]

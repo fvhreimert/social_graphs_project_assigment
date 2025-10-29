@@ -1,0 +1,72 @@
+{{Italic title}}
+{{Speciesbox
+| image = Panaeolus fimicola Maryland.jpg
+| genus = Panaeolus
+| species = fimicola
+| authority = ([[Elias Magnus Fries|Fr.]]) [[Lucien Quélet|Quél.]] (1872)
+| synonyms_ref = <ref name=Gerhardt/><ref name="urlMycoBank:Panaeolus ater"/><ref name="urlMycoBank:Panaeolus fimicola"/><ref name="urlMycoBank:Panaeolus fimicola var. ater"/>
+| synonyms = *''Agaricus fimicola'' <small>Fr. (1821)</small>
+*''Coprinarius fimicola'' <small>(Fr.) [[Paul Kummer|P. Kumm.]] (1871)</small>
+*''Panaeolus fimicola var. ater'' <small>[[Jakob Emanuel Lange|J.E. Lange]] (1940)</small>
+*''Panaeolus ater'' <small>(J.E. Lange) [[Robert Kühner|Kühner]] & [[Henri Romagnesi|Romagn.]] (1953)</small>
+}}
+{{mycomorphbox
+| name = ''Panaeolus fimicola''
+| whichGills = adnexed
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=saprotrophic
+| sporePrintColor=black
+| howEdible=psychoactive}}
+
+'''''Panaeolus fimicola''''', commonly known as the '''turf mottlegill'''<ref>{{Cite web |title=Panaeolus fimicola, Turf Mottlegill, identification |url=https://www.first-nature.com/fungi/panaeolus-fimicola.php |access-date=2020-07-26 |website=www.first-nature.com}}</ref> or '''grass mottlegill''',<ref>{{Cite book |last=Siegel |first=Noah |title=Mushrooms of Cascadia: A Comprehensive Guide to Fungi of the Pacific Northwest |last2=Schwarz |first2=Christian |date=September 1, 2024 |publisher=Backcountry Press |isbn=9781941624197 |location=Humboldt County, CA |pages=104}}</ref> is a widespread but rarely identified "little brown mushroom" which sometimes contains small amounts of the hallucinogen [[psilocybin]]. ''Panaeolus ater'' is a synonym.<ref name=Gerhardt/>
+
+== Description ==
+*'''Cap''': (1)1.5— 3.5(4) cm, Campanulate then convex to plane, obtuse, dingy gray to blackish, often with reddish or hazel tones, hygrophanous, pallid grey to yellowish when dry, smooth, with a narrow brown marginal band, slightly striate at the margin when moist. Flesh thin and grayish.
+*'''Gills''': Adnate, close to crowded, at first gray-olivacous, becoming mottled and darkening to black with age, edges remaining whitish.
+*'''Spores''': Blackish gray.
+*'''Stipe''': (4)6 — 8(10) cm x 1 — 2(3) mm, equal, slender, slightly enlarging at the base, hollow, fragile, dingy white to clay, becoming brownish towards the base in age, smooth, white-pruinose at the apex, obsoletely slightly silky-striate, ring absent. Flesh is dirty ochraceous-buff; fragile.
+*'''Taste''': Not distinctive.
+*'''Odor''': Not distinctive.
+*'''Microscopic features''': Spores 10.8 — 14.2 X 6.9—9.5, ellipsoid or lemon shaped, basidia 4 spored. Gill edge cystidia fusiform, typically with long necks, gill face cystidia absent.
+
+==Habitat and formation==
+''Panaeolus fimicola'' can be found growing solitary to scattered in soil or dung, fertilized lawns and other grassy places, late spring to mid-fall. It is widespread and common across the Americas, as well as Europe and Africa. It has also been found in [[Turkey]].<ref name=Kaya/> ''Panaeolus fimicola'' will often appear during or after cold rain.{{citation needed|date=October 2024}}
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Panaeolus species|List of ''Panaeolus'' species]]
+
+==References==
+{{Reflist|refs=
+<ref name=Gerhardt>{{cite journal |author=Gerhardt, E. |year=1996 |title=Taxonomische Revision der Gattungen ''Panaeolus'' und ''Panaeolina'' (Fungi, Agaricales, Coprinaceae) |journal=Bibliotheca Botanica |volume=147 |pages=1–149}}</ref>
+
+<ref name=Kaya>{{cite journal |author=Kaya, Abdullah |year=2015 |title=Contributions to the macrofungal diversity of Atatürk Dam Lake basin |journal=Turkish Journal of Botany |volume=39 |pages=162–172 |doi=10.3906/bot-1404-70 |doi-access=free |hdl=11492/3076 |hdl-access=free }}</ref>
+
+<ref name="urlMycoBank:Panaeolus ater">{{cite web |url=http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=535810&Fields=All |title=''Panaeolus ater'' (J.E. Lange) Kühner & Romagn. (1953) |publisher=International Mycological Association |work=MycoBank |access-date=2015-10-30}}</ref>
+
+<ref name="urlMycoBank:Panaeolus fimicola">{{cite web |url=http://www.mycobank.org/Biolomics.aspx?Table=Mycobank&MycoBankNr_=158646 |title=''Panaeolus fimicola'' (Fr.) Quél. (1872) |publisher=International Mycological Association |work=MycoBank |access-date=2015-10-30}}</ref>
+
+<ref name="urlMycoBank:Panaeolus fimicola var. ater">{{cite web |url=http://www.mycobank.org/BioloMICS.aspx?Link=T&TableKey=14682616000000067&Rec=187526&Fields=All|title=''Panaeolus fimicola var. ater'' J.E. Lange (1940) |publisher=International Mycological Association |work=MycoBank |access-date=2015-10-30}}</ref>
+}}
+*{{cite book |first=Paul |last=Stamets |year=1996 |title=Psilocybin Mushrooms of the World |publisher=Ten Speed Press |location=Berkeley |isbn=0-9610798-0-0}}
+
+==External links==
+* [https://web.archive.org/web/20070929092922/http://www.bioimages.org.uk/html/P4/P46944.php Panaeolus fimicola photo]
+* [https://web.archive.org/web/20070929093046/http://www.bioimages.org.uk/html/P4/P46947.php Panaeolus fimicola cheilocystidia]
+* [https://web.archive.org/web/20070929092823/http://www.bioimages.org.uk/html/P4/P46949.php Panaeolus fimicola spores]
+
+{{Hallucinogenic mushrooms}}
+{{Taxonbar|from=Q4405497}}
+
+{{DEFAULTSORT:Panaeolus fimicola}}
+[[Category:Panaeolus|fimicola]]
+[[Category:Psychoactive fungi]]
+[[Category:Psychedelic tryptamine carriers]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Africa]]
+[[Category:Fungi described in 1821]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]

@@ -1,0 +1,138 @@
+{{Short description|Species of fungus}}
+{{Redirect|Fairy fingers|the covering on the hooves of newborn foals|deciduous hoof capsule}}
+{{Good article}}
+{{Speciesbox
+| image = Clavaria fragilis 45549.jpg
+| image_caption =
+| taxon = Clavaria fragilis
+| authority = [[Johan Theodor Holmskjold|Holmsk.]] (1790)
+| synonyms_ref = <ref name="urlMycoBank: Clavaria fragilis"/>
+| synonyms = {{collapsible list
+ |title=<small>Species synonymy</small>
+ |1790 ''Clavaria cylindrica'' <small>[[Jean Baptiste Francois Pierre Bulliard|Bull.]]</small>
+ |1792 ''Clavaria glabra'' <small>[[Johann Friedrich Gmelin|J.F. Gmel.]]</small>
+ |1801 ''Clavaria eburnea'' <small>[[Christian Hendrik Persoon|Pers.]]</small>
+ |1801 ''Clavaria eburnea'' var. ''fragilis'' <small>(Holmsk.) [[Christian Hendrik Persoon|Pers.]]</small>
+ |1811 ''Clavaria vermicularis'' <small>[[Olof Swartz|Sw.]]</small>
+ |1818 ''Clavaria alba'' <small>Pers.</small>
+ |1821 ''Xylaria albicans'' var. ''cylindrica'' <small>(Bull.) Gray</small>
+ |1821 ''Clavaria solida'' <small>[[Samuel Frederick Gray|Gray]]</small>
+ |1822 ''Clavaria vermiculata'' var. ''flexuosa'' <small>Pers.</small>
+ |1822 ''Clavaria pistilliforme'' <small>Pers.</small>
+ |1887 ''Clavaria gracilior'' <small>[[Max Britzelmayr|Britzelm.]]</small>
+ |1879 ''Clavaria corynoides'' <small>[[Charles Horton Peck|Peck]]</small>
+ |1882 ''Clavaria simplex'' <small>[[Petter Karsten|P. Karst.]]</small>
+ |1891 ''Clavaria muelleri'' <small>[[Miles Joseph Berkeley|Berk.]] ex [[Mordecai Cubitt Cooke|Cooke]]</small>
+ |1901 ''Clavaria nivea'' <small>[[Lucien Quélet|Quél.]]</small>
+ |1967 ''Multiclavula corynoides'' <small>(Peck) [[Ron Petersen|R.H. Petersen]]</small>
+ |1970 ''Clavulinopsis corynoides'' <small>(Peck) [[E.J.H. Corner|Corner]]</small>
+ }}
+}}
+{{Mycomorphbox 
+| name = ''Clavaria fragilis''
+| hymeniumType = smooth
+| capShape = no
+| whichGills = no
+| stipeCharacter = bare
+| sporePrintColor = white
+| ecologicalType = saprotrophic
+| howEdible = edible
+}}
+
+'''''Clavaria fragilis''''', commonly known as '''fairy fingers''', '''white worm coral''', or '''white spindles''', is a [[species]] of [[fungus]] in the family [[Clavariaceae]]. It is [[synonym (biology)|synonymous]] with ''Clavaria vermicularis''. The fungus is the [[type species]] of the genus ''[[Clavaria]]'' and is a typical member of the [[clavarioid]] or club fungi. It produces tubular, unbranched, white [[basidiocarps]] (fruit bodies) that typically grow in clusters. The fruit bodies can reach dimensions of {{convert|15|cm|abbr=on|frac=4}} tall by {{convert|0.5|cm|4=1|abbr=on|frac=4}} thick. There are several similar coral-like fungi.
+
+''Clavaria fragilis'' is a [[saprobic]] species, growing in woodland litter or in old, unimproved [[grassland]]. It is widespread throughout [[temperate]] regions in the [[Northern Hemisphere]], but has also been reported from Australia and South Africa. The fungus is [[edible mushroom|edible]], but insubstantial and flavorless.
+
+==Taxonomy==
+''Clavaria fragilis'' was [[species description|originally described]] from [[Denmark]] in 1790 by Danish naturalist and [[mycologist]] [[Johan Theodor Holmskjold|Theodor Holmskjold]],<ref name=Holmskjold1790/> and was [[sanctioned name|sanctioned]] under this name by [[Elias Magnus Fries]] in his 1821 ''[[Systema Mycologicum]]''.<ref name=Fries1821/> The [[Latin]] epithet ''fragilis'' refers to the brittle fruit bodies. The species was redescribed by Swedish mycologist [[Olof Swartz]] in 1811, using the name ''Clavaria vermicularis'' (the [[specific name (botany)|epithet]] meaning "wormlike"). Though it is a later [[synonym (biology)|synonym]]—and thus obsolete according to the [[principle of priority]]—the latter name is still frequently used today. There are several other names considered to be synonymous with ''C.&nbsp;fragilis'' by the online taxonomical database [[MycoBank]] (see the taxobox).<ref name="urlMycoBank: Clavaria fragilis"/>
+
+In North America, the fungus has [[common name|colloquially]] been called "fairy fingers"<ref name=Arora1986/> or "white worm coral".<ref name=Lincoff1981/> In the UK its recommended English name is "white spindles".<ref name=BMS/>  British naturalist [[Samuel Frederick Gray]] called it the "worm club-stool" in his 1821 ''A Natural Arrangement of British Plants''.<ref name=Gray1821/>
+
+==Description==
+
+
+The fruit bodies of are irregularly tubular, smooth to furrowed, sometimes compressed, very fragile, white, and up to {{convert|15|cm|abbr=on|round=0.5}} tall by {{convert|7|mm|abbr=on|frac=4}} thick. They typically grow in dense clusters.<ref name=Corner1950/><ref name="tfb">{{Cite book |last=Francis-Baker |first=Tiffany |title=Concise Foraging Guide |date=2021 |publisher=[[Bloomsbury Publishing|Bloomsbury]] |isbn=978-1-4729-8474-6 |series=[[The Wildlife Trusts]] |location=London |pages=115}}</ref> The tip of the fruit body tapers to a point, and may yellow and curve with age.<ref name="Orr1979"/> There is no distinct [[stipe (mycology)|stalk]], although it is evident as a short, semitransparent zone of tissue at the base of the club.<ref name=McKnight1987/> Microscopically, the [[hypha]]e of the [[trama (mycology)|flesh]] are swollen up to 12&nbsp;[[micrometre|μm]] wide and lack [[clamp connection]]s. The [[spore]]s are smooth, colourless, [[wikt:ellipsoid|ellipsoid]] to oblong, measuring 5–7 by 3–4&nbsp;[[μm]].<ref name=Corner1950/> The spores are white in [[spore print|deposit]].<ref name=Bessette1987/> The [[basidia]] (spore bearing cells) measure 40–50 by 6–8&nbsp;μm, and lack clamps at their bases.<ref name=Ellis1990/>
+
+=== Similar species ===
+
+
+Similar fungi with simple, white fruit bodies include ''[[Clavaria acuta]]'', an equally widespread species that typically grows singly or in small groups rather than in dense clusters<ref name="Ammirati2009" /> and can be distinguished microscopically by its clamped basidia and larger spores;<ref name="Corner1950" /> the morphologically similar, but rare ''[[Clavaria atkinsoniana|C.&nbsp;atkinsoniana]]'', found in the southwestern and central United States, which cannot be distinguished from ''C.&nbsp;fragilis'' by field characteristics alone but has larger spores—8.5–10 by 4.5–5&nbsp;μm;<ref name="urlMushroomExpert.Com" /> ''[[Clavaria rubicundula|C.&nbsp;rubicundula]]'', another North American species, which is similar in stature but has a reddish tint;<ref name="Roody2003" /> and ''[[Multiclavula mucida]]'', a widespread [[lichen]]ized species with smaller fruit bodies that occurs with its associated [[algae]] on moist wood.<ref name="McKnight1987" />
+
+Other similar species include ''[[Alloclavaria purpurea]]'', ''[[Clavulinopsis fusiformis]]'', ''[[Clavulinopsis laeticolor|C.&nbsp;laeticolor]]'', and ''Macrotyphula juncea''.<ref>{{Cite book |last1=Davis |first1=R. Michael |title=Field Guide to Mushrooms of Western North America |last2=Sommer |first2=Robert |last3=Menge |first3=John A. |publisher=[[University of California Press]] |year=2012 |isbn=978-0-520-95360-4 |location=Berkeley |pages=289–290 |oclc=797915861}}</ref>
+
+==Distribution and habitat==
+The species occurs throughout the [[Northern Hemisphere]], in Europe (from July to October),<ref name="tfb" /> Asia, and North America. In North America, it is more common east of the [[Rocky Mountains]].<ref name="McKnight1987" /> It has also been recorded from Australia and South Africa.<ref name="Corner1950" /> In 2006, it was reported from the Arctic zone of the [[Ural Mountains]], in Russia.<ref name="Shiryaev2006" />
+
+The fungus grows in woodland and in grassland on moist soil, and is presumed to be [[saprobic]], rotting fallen [[leaf litter]] and dead grass stems. The fruit bodies tend to grow in groups, [[wikt:tuft|tufts]] or clusters.<ref name="Arora1986" /> Although they can grow singly, they are typically inconspicuous unless in clusters.<ref name="Healy2008" />
+
+==Conservation status==
+In North America, ''C. fragilis'' has been called "by far our most common ''Clavaria''".<ref name=Arora1986/> In northern Europe, it is one of a suite of "CHEG" fungi (CHEG standing for "''Clavarioid fungi-[[Hygrocybe]]-[[Entoloma]]-[[Geoglossaceae]]''") considered to be [[indicator species]] of old, unimproved grassland (permanent grassland that has not been cultivated for some years).<ref name=McHugh2001/><ref name=Winnall2004/><ref name=Rotheroe1996/> Though such grasslands are a threatened habitat in Europe, ''C.&nbsp;fragilis'' is one of the commoner CHEG species. It is, nonetheless, on the national [[Regional Red List|red list]] of threatened fungi in the Netherlands<ref name="DutchRedList2008"/> and Slovenia.<ref name="SlovenianRedList2010"/>
+
+== Edibility ==
+''Clavaria fragilis'' is nonpoisonous<ref name="Miller 2006">{{cite book |last1=Miller Jr. |first1=Orson K. |author-link=Orson K. Miller Jr. |title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi |last2=Miller |first2=Hope H. |publisher=[[FalconGuide]] |year=2006 |isbn=978-0-7627-3109-1 |location=Guilford, CN |pages=340}}</ref> and reportedly [[edible mushroom|edible]] raw or cooked,<ref name="tfb" /> but the fruit bodies are insubstantial and fragile.<ref name="Ammirati1987" /> One [[field guide]] says "its flesh is tasteless and so delicate that it seems to dissolve in one's mouth."<ref name="Orr1979" /> Its odor has been compared to [[iodine]].<ref name="McKnight1987" />
+
+== References ==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=Ammirati1987>{{cite book |vauthors=Ammirati JF, McKenny M, Stuntz DE |title=The New Savory Wild Mushroom |publisher=University of Washington Press |location=Seattle, WA |year=1987 |page=174 |isbn=0-295-96480-4}}</ref>
+
+<ref name=Ammirati2009>{{cite book |vauthors=Ammirati J, Trudell S |title=Mushrooms of the Pacific Northwest: Timber Press Field Guide (Timber Press Field Guides) |publisher=Timber Press |location=Portland, OR |year=2009 |page=238 |isbn=978-0-88192-935-5}}</ref>
+
+<ref name=Arora1986>{{cite book |author=Arora D. |first=David |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/637/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, California |year=1986 |orig-date=1979 |edition=2nd |pages=637}}</ref>
+
+<ref name=Bessette1987>{{cite book |vauthors=Sundberg W, Bessette A |title=Mushrooms: A Quick Reference Guide to Mushrooms of North America (Macmillan Field Guides) |publisher=Collier Books |location=New York, NY |year=1987 |page=10 |isbn=0-02-063690-3}}</ref>
+
+<ref name=BMS>{{cite web |url=http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |title=Recommended English Names for Fungi in the UK |publisher=[[British Mycological Society]] |access-date=2010-10-11 |archive-url=https://web.archive.org/web/20110716083053/http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |archive-date=2011-07-16 |url-status=dead }}</ref>
+
+<ref name=Corner1950>{{cite book |author=Corner EJH |year=1950 |title=A Monograph of ''Clavaria'' and Allied Genera |location=Cambridge, UK |publisher=Cambridge University Press |pages=251–54}}</ref>
+
+<ref name=Ellis1990>{{cite book |vauthors=Ellis JB, Ellis MB |title=Fungi without Gills (Hymenomycetes and Gasteromycetes): An Identification Handbook |publisher=Chapman and Hall |location=London |year=1990 |isbn=0-412-36970-2 |url=https://books.google.com/books?id=vowdIZ7GqD4C&q=clavaria%20vermicularis&pg=PA64}}</ref>
+
+<ref name=Fries1821>{{cite book |author=Fries EM |title=Systema Mycologicum |volume=1 |year=1821 |publisher=Mauritius |location=Greifswald, Germany |page=484 |url=https://books.google.com/books?id=Qj8-AAAAcAAJ&q=systema%20mycologicum&pg=PA484 |access-date=2010-10-10}}</ref>
+
+<ref name=Gray1821>{{cite book |author=Gray SF |year=1821 |title= A Natural Arrangement of British Plants |volume=1 |url=https://books.google.com/books?id=cN8UAAAAYAAJ&q=clavaria%20vermicularis&pg=PA657 |publisher=Baldwin, Cradock, and Joy |location=London |page=657}}</ref>
+
+<ref name=Healy2008>{{cite book |vauthors=Healy RA, Huffman DR, Tiffany LH, Knaphaus G |title=Mushrooms and Other Fungi of the Midcontinental United States (Bur Oak Guide) |publisher=University of Iowa Press |location=Iowa City, IA |year=2008 |page=182 |isbn=978-1-58729-627-7 |url=https://books.google.com/books?id=tl2fVAHuej4C&q=clavaria%20vermicularis&pg=PA183}}</ref>
+
+<ref name=Holmskjold1790>{{cite book |author=Holmskjold T. |title=Beata Ruris Otia Fungis Danicis Impensa |trans-title=Happy Resting Periods in the Country Studying Danish Fungi |volume=1 |year=1790 |page=7 |language=la}}</ref>
+
+<ref name=Lincoff1981>{{cite book |author=Lincoff GH |year=1981 |title=National Audubon Society Field Guide to North American Mushrooms |page=400 |location=New York, NY |publisher=AA Knopf |isbn=0-394-51992-2}}</ref>
+
+<ref name=McHugh2001>{{Cite journal |vauthors=McHugh R, Mitchel D, Wright M, Anderson R |year=2001 |title=The fungi of Irish grasslands and their value for nature conservation |journal=Biology and Environment: Proceedings of the Royal Irish Academy |volume=101B |pages=225–42}}</ref>
+
+<ref name=McKnight1987>{{cite book |vauthors=McKnight VB, McKnight KH |title=A Field Guide to Mushrooms: North America |publisher=Houghton Mifflin |location=Boston, MA |year=1987 |page=71 |isbn=0-395-91090-0 |url=https://books.google.com/books?id=kSdA3V7Z9WcC&q=clavaria%20vermicularis&pg=PA71}}</ref>
+
+<ref name=Orr1979>{{cite book |vauthors=Orr DB, Orr RT |title=Mushrooms of Western North America |publisher=University of California Press |location=Berkeley, CA |year=1979 |page=60 |isbn=0-520-03656-5}}</ref>
+
+<ref name=Roody2003>{{cite book |author=Roody WC |title=Mushrooms of West Virginia and the Central Appalachians |publisher=University Press of Kentucky |location=Lexington, KY |year=2003 |page=422 |isbn=0-8131-9039-8 |url=https://books.google.com/books?id=5HGMPEiy4ykC&q=clavaria%20vermicularis&pg=PA422 |access-date=2010-10-11}}</ref>
+
+<ref name=Rotheroe1996>{{Cite journal |vauthors=Rotheroe M, Newton A, Evans S, Feehan J |year=1996 |title=Waxcap-grassland survey |journal=Mycologist |volume=10| issue=1 |pages=23–25 |doi=10.1016/S0269-915X(96)80046-2}}</ref>
+
+<ref name=Shiryaev2006>{{cite journal |author=Shiryaev AG |year=2006 |title=Clavarioid fungi of urals. III. Arctic zone |journal=  Mikologiya i Fitopatologiya |volume=40 |issue=4 |pages=294–306 |issn=0026-3648}}</ref>
+
+<ref name="urlMushroomExpert.Com">{{cite web |url=http://www.mushroomexpert.com/clavaria_vermicularis.html |title=''Clavaria vermicularis'' |author=Kuo M |work=MushroomExpert.Com |access-date=2010-04-12}}</ref>
+
+<ref name="urlMycoBank: Clavaria fragilis">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=182991 |title=''Clavaria fragilis'' Holmsk. 1790 |publisher=International Mycological Association |work=MycoBank |access-date=2010-10-11}}</ref>
+
+<ref name=Winnall2004>{{cite web |author=Winnall R. |year=2004 |title=Waxcap Grasslands |url=http://wbrc.org.uk/WorcRecd/Issue%2017/waxcaps.htm |access-date=2010-10-11}}</ref>
+
+<ref name="DutchRedList2008">{{cite web |year=2008 |title=Rode Lijst |url=http://www.amanita.fotovidi.nl/rodelijst/RodeLijst_2008.php|access-date=2010-11-28}}</ref>
+
+<ref name="SlovenianRedList2010">{{cite web |year=2010 |title=Slovenian Red List |url=http://www.gobe.si/Mikologija/Predlog |access-date=2011-01-12 |archive-url=https://web.archive.org/web/20100822152904/http://www.gobe.si/Mikologija/Predlog |archive-date=2010-08-22 |url-status=dead }}</ref>
+}}
+
+==External links==
+*{{Commons category-inline|Clavaria fragilis}}
+
+{{Taxonbar|from=Q2424229}}
+
+[[Category:Clavariaceae]]
+[[Category:Edible fungi]]
+[[Category:Fungi of Africa]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Australia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1790]]
+[[Category:Fungi of the Arctic]]
+[[Category:Fungus species]]

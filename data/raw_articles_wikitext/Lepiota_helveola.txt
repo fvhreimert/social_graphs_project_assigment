@@ -1,0 +1,47 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Lepiota helveola.png
+| genus = Lepiota
+| species = helveola
+| authority = [[Giacomo Bresadola|Bres.]]
+}}
+{{mycomorphbox
+|name=''Lepiota helveola''
+|whichGills=free
+|capShape=convex
+|capShape2=flat
+|hymeniumType=gills
+|stipeCharacter=ring
+|ecologicalType=mycorrhizal
+|sporePrintColor=white
+|howEdible=deadly
+}}
+
+'''''Lepiota helveola''''' is a gilled [[mushroom]] of the genus ''[[Lepiota]]'' in the order [[Agaricales]]. It was described by Italian mycologist [[Giacomo Bresadola]] in 1882.
+
+It has white gills and spores. They typically have rings on the stems, 
+
+Like several other species of the genus ''Lepiota'', it contains [[amatoxin]]s which may cause potentially fatal liver injury.
+
+==Description==
+Cap 1.5–3 cm in diameter, convex to spreading, often with flattened disc, sometimes depressed, fibrillose, with fibrous scales at disc on whitish ground, fine concentric scales recurved around edges, moderate reddish brown, sometimes tinged pink to vinous, with a straight or wavy margin, sometimes raised with age. Blades free, set on a dark collarium on one or two thirds, white then creamy buff, tight, with finely fringed edges. Stem 2–4 x 0.3–0.7 mm, equal, stuffed then hollow, with bands of appressed, encrusted, brown fibrous scales on a white to pink-tinged ground, turning brown on crumpling, with a sometimes fleeting ring, similar to foot scales. Smell and flavor very sweet, fungal and slightly fragrant odor, sometimes indistinct, and fungal then metallic flavor.<ref>{{cite web|url=https://www.fungiregistry.com/fungi/lepiota-helveola|title=Lepiota helveola|work=Fungi registry}}</ref>
+
+==See also==
+* [[List of deadly fungi]]
+* [[List of Lepiota species|List of ''Lepiota'' species]]
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q2720057}}
+
+[[Category:Lepiota|helveola]]
+[[Category:Deadly fungi]]
+[[Category:Poisonous fungi]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi described in 1882]]
+[[Category:Taxa named by Giacomo Bresadola]]
+[[Category:Fungus species]]
+
+
+{{Agaricaceae-stub}}

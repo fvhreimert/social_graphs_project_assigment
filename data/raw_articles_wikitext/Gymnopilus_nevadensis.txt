@@ -1,0 +1,35 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image =
+| image_caption =
+| taxon = Gymnopilus nevadensis
+| authority = [[Laura Guzmán Dávalos|Guzm.-Dáv.]] & [[Gastón Guzmán|Guzmán]] (1991)
+}}
+
+'''''Gymnopilus nevadensis''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]]. The fungus was [[species description|described]] as new to science in 1991 by [[Gastón Guzmán]] and his daughter [[Laura Guzmán Dávalos]]. The [[type (biology)|type]] collection was found in [[Jalisco]], Mexico, where it was fruiting in a cluster on a dead branch in a [[pine]] and [[oak]] woodland.<ref name="Guzmán-Dávalos 1991"/>
+
+This species is in the nevadensis-penetrans infrageneric grouping of the genus ''Gymnopilus''.<ref name="Guzmán-Davalos 2003"/>
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Guzmán-Dávalos 1991">{{cite journal |vauthors=Guzmán-Dávalos L, Guzmán G |title=Additions to the genus ''Gymnopilus'' (Agaricales, Cortinariaceae) from Mexico |journal=Mycotaxon |year=1991 |volume=41 |issue=1 |pages=43–56 |url=http://www.cybertruffle.org.uk/cyberliber/59575/0041/001/0043.htm}}</ref>
+
+<ref name="Guzmán-Davalos 2003">{{cite journal |vauthors=Guzmán-Dávalos L, Mueller G, Cifuentes J, Miller AN, Santerre A |title=Traditional infrageneric classification of ''Gymnopilus'' is not supported by ribosomal DNA sequence data |journal=Mycologia |year=2003 |volume=95 |issue=6 |pages=1204–1214 |pmid=21149021 |doi=10.2307/3761920}}</ref>
+
+}}
+
+{{Taxonbar|from=Q5624892}}
+
+[[Category:Fungi described in 1991]]
+[[Category:Fungi of Mexico]]
+[[Category:Gymnopilus|nevadensis]]
+[[Category:Fungi without expected TNC conservation status]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

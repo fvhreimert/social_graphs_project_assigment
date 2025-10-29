@@ -1,0 +1,70 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Leccinum aurantiacum.jpg
+| image_caption = In a Luxembourg wood
+| taxon = Leccinum aurantiacum
+| authority = ([[Jean Baptiste François Pierre Bulliard|Bull.]] ex [[Jean Florimond Boudon de Saint-Amans|St. Amans]])
+|synonyms = {{hidden begin|title = List}} 
+* ''Boletus aurantiacus''
+* ''Krombholzia aurantiaca''
+* ''Leccinum aurantiacum''
+* ''Leccinum decipiens'' (Singer) Pilát & Dermek, 1974
+* ''Leccinum quercinum'' (Pilát) E.E. Green & Watling, 1969
+{{hidden end}}
+}}
+{{mycomorphbox
+| name = Leccinum aurantiacum
+| hymeniumType = pores
+| capShape = convex
+| whichGills = adnate
+| sporePrintColor = olive
+| ecologicalType = mycorrhizal
+| howEdible = edible
+| stipeCharacter = bare
+| howEdible2 = caution
+}}
+
+'''''Leccinum aurantiacum''''' is a species of fungus in the genus ''[[Leccinum]]'' found in forests of Eurasia and North America. It has a large, characteristically red-capped [[basidiocarp|fruiting body]]. In North America, it is sometimes referred to by the common name '''red-capped scaber stalk'''. Some uncertainties exist regarding the taxonomic classification of this species in Europe and North America.  It is considered edible, but must be cooked thoroughly.
+
+==Description==
+The [[Pileus (mycology)|cap]] is orange-red and measures {{convert|5–15|cm|in|frac=2|abbr=off}} across.<ref name=Phillips/> Its [[Trama (mycology)|flesh]] is white, bruising at first burgundy, then grayish or purple-black. The underside of the cap has very small, whitish [[Hymenium|pores]] that bruise olive-brown. The [[Stipe (mycology)|stem]] measures {{convert|8–16|cm|in|frac=2|abbr=on}} tall and {{convert|2–3|cm|in|frac=4|abbr=on}} thick<ref name=Phillips/> and can bruise blue-green. It is whitish, with short, rigid projections or [[wikt:scaber|scabers]] that turn to brown to black with age.
+
+==Distribution and habitat==
+''L. aurantiacum'' can be found fruiting during summer and autumn in forests throughout Europe and North America. The association between fungus and host tree is [[mycorrhiza]]l. In Europe, it has traditionally been associated with poplar trees. ''L. aurantiacum'' is found among oak and various other [[deciduous]] trees, including beech, birch, chestnut, willow, and trees of the genus ''[[Tilia]]''.<ref name=Noordeloos>{{cite web | title=The genus ''Leccinum'' in Western and Central Europe | publisher=Noordeloos M. | url=http://www.entoloma.nl/html/leccinum_eng.html#aurantiacum | access-date=July 8, 2010 | archive-date=December 20, 2014 | archive-url=https://web.archive.org/web/20141220093319/http://www.entoloma.nl/html/leccinum_eng.html#aurantiacum | url-status=dead }}</ref> ''L. aurantiacum'' is not known to associate with conifers in Europe.
+
+North American populations have been recorded in [[coniferous]] and deciduous forests, though whether collections from coniferous forests are not ''[[Leccinum vulpinum|L. vulpinum]]'', instead, remains uncertain. In addition, ''L. aurantiacum'' may be absent altogether from North America, with collections from deciduous forests being attributed to other North American species ''[[Leccinum insigne|L. insigne]]'', and ''[[Leccinum brunneum|L. brunneum]]''.<ref name=mushroomexpert>{{cite web | title=''Leccinum'': Uncertain taxa. | publisher=Kuo M | url=http://www.mushroomexpert.com/leccinum_uncertain.html | access-date=July 8, 2010}}</ref>
+
+==Edibility==
+This is a favorite species for eating<ref name=Phillips>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=279}}</ref> and can be prepared as other edible [[bolete]]s. Its flesh turns very dark on cooking. Like most members of the Boletaceae, these mushrooms are targeted by [[maggot]]s. Due to a number of poisonings and the difficulty identifying species, ''Leccinum'' species are considered by some as possibly not safe to eat. This species also needs to be cooked well (not parboiled) or else it may cause vomiting or other negative effects. Some report gastrointestinal upset after eating this species.<ref name="Miller 2006">{{cite book|last=Miller Jr.|first=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=373|author-link=Orson K. Miller Jr.}}</ref> At least one death has been reported that was linked to consuming this species.<ref name=":0">{{cite web|title=NAMA Toxicology Committee Report for 2009 {{!}} North American Mushroom Poisonings|author=Michael W. Beug
+|url=https://namyco.org/docs/NAMA_Toxicology_Committee_Report_2009.pdf |url-status=dead|archive-date=22 August 2023|archive-url=https://web.archive.org/web/20230822192534/https://namyco.org/docs/NAMA_Toxicology_Committee_Report_2009.pdf}}</ref>
+
+==Similar species==
+{{See also|Leccinum vulpinum}}
+
+In Europe, several orange-red capped species exist, which differ mainly in habitat. ''[[Leccinum albostipitatum|L. albostipitatum]]'' grows with aspen and has white scales on the stipe. In coniferous forests, ''L. vulpinum'' occurs around pine and spruce trees. Not all authors recognise these as distinct species.
+
+In North America, ''L. insigne'' grows in aspen or birch stands, while ''[[Leccinum atrostipitatum|L. atrostipitatum]]'' grows in birch stands. Both are edible. Another similar species is ''[[Leccinum versipelle|L. versipelle]]''.<ref name="Miller 2006" />
+
+==See also==
+*[[List of Leccinum species|List of ''Leccinum'' species]]
+*[[List of North American boletes]]
+
+==References==
+
+* ''National Audubon Society Field Guide to North American Mushrooms'', Knopf, 1981.
+{{Reflist}}
+
+==External links==
+{{commonscat}}
+*''[http://www.mushroomexpert.com/leccinum_aurantiacum.html Leccinum aurantiacum]'' at MushroomExpert.com
+*''[http://www.mykoweb.com/boletes/species/Leccinum_aurantiacum.html Leccinum aurantiacum]'' at MykoWeb
+*''[http://leslieland.com/2009/07/wild-mushroom-warning-the-scaber-stalks-leccinum-species-may-no-longer-be-considered-safe Leccinum aurantiacum]'' Leccinum Species May No Longer Be Considered Safe
+
+{{Taxonbar|from=Q4329061}}
+
+[[Category:Leccinum|aurantiacum]]
+[[Category:Edible fungi]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]

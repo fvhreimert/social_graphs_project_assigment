@@ -1,0 +1,60 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = 2015-06-20 Gymnopilus dilepis (Berk. & Broome) Singer 550300.jpg
+| image_caption =
+| genus = Gymnopilus
+| species = dilepis
+| authority = ([[Miles Joseph Berkeley|Berk.]] & [[Christopher Edmund Broome|Broome]]) [[Rolf Singer|Singer]] (1951)
+| synonyms_ref = <ref name="urlMycoBank: Gymnopilus dilepis"/>
+| synonyms =''Agaricus dilepis'' <small>Berk. & Broome (1871)</small><br />
+''Flammula dilepis'' <small>(Berk. & Broome) [[Pier Andrea Saccardo|Sacc.]] (1887)</small><br />
+''Naucoria dilepis'' <small>(Berk. & Broome) [[António Xavier Pereira Coutinho|Cout.]] (1925)</small>
+}}
+{{Mycomorphbox
+| name = ''Gymnopilus dilepis''
+| whichGills = adnate
+| whichGills2 = decurrent
+| capShape = convex
+| capShape2 = depressed
+| hymeniumType=gills
+| stipeCharacter= bare
+| stipeCharacter2=ring
+| ecologicalType=saprotrophic
+| sporePrintColor= ochre
+| howEdible= psychoactive
+}}
+
+'''''Gymnopilus dilepis''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]]. This species is found in India,<ref name=Thomas2003/> Malaysia,<ref>{{Cite journal |last1=Gotvaldova |first1=Klara |last2=Borovicka |first2=Jan |last3=Hajkova |first3=Katerina |last4=Cihlarova |first4=Petra |last5=Rockefeller |first5=Alan |last6=Kuchar |first6=Martin |year=2022 |title=Extensive Collection of Psychotropic Mushrooms with Determination of Their Tryptamine Alkaloids |journal=International Journal of Molecular Sciences |volume=23 |issue=22 |language=en |article-number=14068 |doi=10.3390/ijms232214068 |pmid=36430546 |pmc=9693126 |issn=1422-0067|doi-access=free }}</ref> and North America.  It was given its current name by mycologist [[Rolf Singer]] in 1951.<ref name=Singer1951/> It contains [[psilocybin]] and related hallucinogenic substances.<ref>{{Cite journal |last1=Gotvaldova |first1=Klara |last2=Borovicka |first2=Jan |last3=Hajkova |first3=Katerina |last4=Cihlarova |first4=Petra |last5=Rockefeller |first5=Alan |last6=Kuchar |first6=Martin |year=2022 |title=Extensive Collection of Psychotropic Mushrooms with Determination of Their Tryptamine Alkaloids |journal=International Journal of Molecular Sciences |volume=23 |issue=22 |language=en |article-number=14068 |doi=10.3390/ijms232214068 |pmid=36430546 |pmc=9693126 |issn=1422-0067|doi-access=free }}</ref>
+
+==Phylogeny==
+''Gymnopilus dilepis'' is in the lepidotus-subearlei infrageneric grouping within the genus ''[[Gymnopilus]]''.<ref name="Guzman-Davalos2003"/>
+
+==See also==
+[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Guzman-Davalos2003">{{cite journal |doi=10.2307/3761920 |vauthors=Guzmán-Dávalos L, Mueller G, Cifuentes J, Miller AN, Santerre A |title=Traditional infrageneric classification of ''Gymnopilus'' is not supported by ribosomal DNA sequence data |journal=[[Mycologia]]  |volume=95 |issue=6 |year=2003 |pages=1204–14 |jstor=3761920 |url=http://www.mycologia.org/cgi/content/full/95/6/1204 |pmid=21149021|url-access=subscription }}</ref>
+
+<ref name=Singer1951>{{cite journal |author=Singer R. |year=1951 |title=The Agaricales in modern taxonomy |journal=Lilloa |volume=22 |page=560}}</ref>
+
+<ref name=Thomas2003>{{cite journal |vauthors=Thomas KA, Guzmán-Dávalos L, Manimohan P |year=2003 |title=A new species and new records of ''Gymnopilus'' from India |journal=[[Mycotaxon]] |volume=85 |pages=297–305}}</ref>
+
+<ref name="urlMycoBank: Gymnopilus dilepis">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=445575 |title=''Gymnopilus dilepis'' (Berk. & Broome) Singer 1951 |format=International Mycological Association |work=MycoBank |access-date=2011-01-15}}</ref>
+
+}}
+
+{{Taxonbar|from=Q5231707}}
+
+[[Category:Gymnopilus|dilepis]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1871]]
+[[Category:Taxa named by Miles Joseph Berkeley]]
+[[Category:Taxa named by Christopher Edmund Broome]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

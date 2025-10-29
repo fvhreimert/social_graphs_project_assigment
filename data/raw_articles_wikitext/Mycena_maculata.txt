@@ -1,0 +1,111 @@
+{{Short description|Species of fungus in the family Mycenaceae}}
+{{stack begin}}
+{{Speciesbox
+| image = Mycena spec. - Lindsey 14a.jpg
+| genus = Mycena
+| species = maculata
+| authority = [[Petter Karsten|P.Karst.]] (1880)
+}}
+{{mycomorphbox
+| name = ''Mycena maculata''
+| hymeniumType = gills
+| capShape = conical
+| whichGills = adnate
+| whichGills2 = sinuate
+| stipeCharacter=bare
+| sporePrintColor=white
+| ecologicalType=saprotrophic
+| howEdible=unknown
+}}
+{{stack end}}
+
+'''''Mycena maculata''''', commonly known as the '''reddish-spotted Mycena''', is a species of [[fungus]] in the family [[Mycenaceae]].
+
+The [[basidiocarp|fruit bodies]], or [[mushroom]]s, have conic to bell-shaped to convex [[pileus (mycology)|caps]] that are initially dark brown but fade to brownish-gray when young, reaching diameters of up to {{convert|4|cm|in|abbr=on|frac=4}}. They are typically wrinkled or somewhat grooved, and have reddish-brown spots in age, or after being cut or bruised. The whitish to pale gray [[lamella (mycology)|gills]] also become spotted reddish-brown as they mature. The [[stipe (mycology)|stem]], up to {{convert|8|cm|abbr=on|round=0.5}} long and covered with whitish hairs at its base, can also develop reddish stains. The [[mycelium]] of ''M.&nbsp;maculata'' has [[bioluminescent]] properties. Although the species is known for its propensity to stain reddish, when these stains do not appear it strongly resembles ''[[Mycena galericulata|M.&nbsp;galericulata]]''.
+
+The [[saprobic]] fungus is found in Europe and North America, where it grows in groups or clusters on the rotting wood of both [[hardwood]]s and [[conifer]]s. Its [[edible mushroom|edibility]] is unknown.
+
+==Taxonomy and naming==
+The species was first [[species description|described scientifically]] by the German mycologist [[Petter Karsten]] in 1890.<ref name=Karsten1980/><ref name="urlMycoBank: Mycena maculata"/> The name ''Mycena maculata'' was also used by the Australian mycologist [[John Burton Cleland]] in 1934,<ref name=Cleland1934/> but that usage was considered illegitimate,<ref name="urlMycoBank: Mycena maculata Cleland"/> and the species he described has since been renamed to ''[[Mycena austromaculata]]'' by Cheryl Grgurinovic and [[Tom May (mycologist)|Tom May]] in 1997.<ref name=Grgurinovic1997/>
+
+The [[specific name (botany)|specific epithet]] ''maculata'' is derived from the [[Latin]] word "spotted".<ref name="Schalkwijk-Barendsen1991"/> The mushroom is commonly known as the "reddish-spotted Mycena".<ref name=Arora1986/>
+
+==Description==
+
+
+The [[pileus (mycology)|cap]] varies in shape from broadly conic to convex initially, soon expanding to bell-shaped or broadly convex at maturity; when expanded the cap diameter is typically between {{convert|2|and|4|cm|in|1|abbr=on|frac=4}}.<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=178–179|oclc=797915861}}</ref> It usually has a distinct [[umbo (mycology)|umbo]], which can be abruptly convex in some individuals and very broad and low in others. The cap margin closely approaches the stem when young, but often flares or curves upward with age. The cap surface is smooth, slimy to the touch, often opaque when young but becomes partially translucent so that the outlines of the gills underneath the cap may be seen nearly to the center, before fading. It is often somewhat wrinkled or has the radial gill grooves deepening with age. It is initially dirty blackish-brown or nearly black, becoming paler dirty brown to brownish-gray with age, and usually with reddish-brown spots.<ref name="Trudell2009" /> The [[trama (mycology)|flesh]] is somewhat thick under the umbo, but becomes abruptly thinner over the area of the margin (about 0.15&nbsp;mm). It is [[wikt:cartilaginous|cartilaginous]] and firm, dark or pale watery gray, changing slowly to dirty reddish-brown when cut or bruised. It has no distinguishable odor, and a taste ranging from mild to slightly [[wikt:farinaceous|farinaceous]] (like flour).<ref name="Smith p.341-43"/>
+
+The [[lamellae (mycology)|gills]] are bluntly [[adnation|adnate]], later becoming toothed and somewhat [[wikt:sinuate|sinuate]]. They are narrow, becoming moderately broad (4–5&nbsp;mm), whitish to pale gray in color, soon staining with reddish spots. Sometimes the gills separate slightly from the cap, but remain attached to each other to form a collar. The gill spacing is close to subdistant, with about 17–24 gills reaching the stem; there are additionally about three tiers of lamellulae (short gills that do not extend fully from the cap margin to the stem). The stem is usually {{convert|4–8|cm|abbr=on|frac=4}} long and {{convert|2–5|mm|1|abbr=on|frac=16}} thick,<ref name=":0" /> occasionally much longer, often with a long pseudorhiza (a cordlike structure resembling a plant root) {{convert|1|–|5|cm|in|1|abbr=on|frac=4}} that can root into the [[substrate (biology)|substrate]]. The stem is densely covered with sharp, stiff white hairs on the lower portion, and smooth above. It is sometimes twisted, nearly equal in width throughout, hollow, and cartilaginous. The top portion of the stem is pallid, while the remainder is the same color or paler than the cap. The stem base becomes stained reddish-brown to purplish, or the entire lower portion turns a dirty [[wine (color)|wine red]].<ref name="Smith p.341-43">Smith, 1947, pp. 341–43.</ref> The [[edible mushroom|edibility]] of the mushroom is unknown.<ref name=Arora1986/>
+
+===Microscopic characteristics===
+The spores are white, [[wikt:ellipsoid|ellipsoid]],<ref name=":0" /> [[amyloid (mycology)|amyloid]] (meaning they turn bluish-black to black when [[staining|stained]] with [[Melzer's reagent]]), and measure 7–9 by 4–5&nbsp;[[μm]]. The [[basidia]] (spore-bearing cells in the [[hymenium]]) are 30–35 by 7–8&nbsp;μm, and four-spored. The cheilocystidia ([[cystidia]] on the gill edge) are embedded in the hymenium and inconspicuous, measuring 20–28 by 6–12&nbsp;μm. They are irregular in form; some have short rodlike projections on the upper part, others have irregular branched finger-like protuberances, while others have wavy walls and an elongated contorted apex. There are no pleurocystidia (cystidia on the gill face) in ''Mycena maculata''. The gill tissue is [[hyaline]] or very faintly vinaceous-brown when stained in iodine. The cap tissue has a thin [[wikt:pellicle|pellicle]], and the region directly under it is made of hyphae with only slightly enlarged cells, while the remainder is filamentous, and stains yellowish to slightly vinaceous-brown in iodine.<ref name="Smith p.341-43"/> The [[mycelium]] is [[bioluminescent]];<ref name=Treu1990/> this property has not been reported for the fruit bodies.<ref name=Desjardin2007/>
+
+===Similar species===
+{{multiple image|caption_align=center|header_align=center
+| image1 = Mycena 60303.jpg
+| width1 = 100
+| caption1 = ''M. galericulata''
+| image2 = Mycena haematopus 56359.jpg
+| width2 =177
+| caption2 = ''M. haematopus''
+}}
+In the absence of the characteristic reddish staining (particularly in young specimens), ''M.&nbsp;maculata'' is indistinguishable in the field from ''[[Mycena galericulata|M.&nbsp;galericulata]]'', which also tends to grow in groups or [[wikt:tuft|tufts]] on wood. Microscopically, the latter species has larger spores, ranging from 8–12 by 5.5–9&nbsp;μm.<ref name=Trudell2009/> Another ''Mycena'' that stains reddish is ''[[Mycena inclinata|M.&nbsp;inclinata]]''; it can be distinguished by its slightly larger spores, typically  7–9 by 5–6.5&nbsp;μm, and the white flecks that develop on the lower part of the stem. It is common in eastern North America, and prefers to grows on decaying hardwood.<ref>Smith, pp. 338–40.</ref> ''[[Mycena haematopus|M.&nbsp;haematopus]]'' also grows in clusters on wood, but can be differentiated by its scalloped cap margin, a stem which bleeds a reddish juice when cut or broken, and a preference for growing on hardwoods. ''[[Mycena purpureofusca|M.&nbsp;purpureofusca]]'' has a purplish cap, gills with purple edges, and usually grows on [[pine cones]].<ref name="urlCalifornia Fungi: Mycena maculata"/> ''[[Mycena atrochalybaea|M.&nbsp;atrochalybaea]]'', a species known from Italy and Switzerland, has more gills that reach the stem (usually between 30 and 40), smooth hyphae in the cortical layer of the stem, and smooth, uninflated cystidia.<ref name="urlAronsen"/>
+
+==Distribution and habitat==
+The fruit bodies of ''M.&nbsp;maculata'' grow in groups to clumps on the wood and debris of both [[coniferous]] and [[deciduous tree]]s.<ref name="Smith p.341-43"/> The fungus is found in North America and Europe (Germany<ref name=Gerhardt1990/> and Norway<ref name="urlAronsen"/>). The North American distribution ranges north from [[Quebec]], Canada,<ref name=Pomerleau1964/> south to Mexico.<ref name=Reverchon2010/> ''Mycena'' specialist [[Alexander H. Smith]], in his 1947 [[monograph]] on the genus, called it "the most abundant ''Mycena'' on conifer wood in the Pacific Northwest."<ref name="Smith p.341-43"/> It has also been recorded as a new species in Turkey ([[Kahramanmaraş]] district) in 2006.<ref name=Kaya2006/>
+
+==See also==
+*[[List of bioluminescent fungi]]
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=Arora1986>{{cite book |author=Arora D. |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/235/mode/2up |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |orig-date=1979 |edition=2nd |pages=235}}</ref>
+
+<ref name=Cleland1934>{{cite book |author=Cleland JB. |title=Toadstools and mushrooms and other larger fungi of South Australia |publisher=Gov't Printer |location=Adelaide |year=1976 |orig-year=1934 |volume=1 |page=81}}</ref>
+
+<ref name=Desjardin2007>{{cite journal |vauthors=Desjardin DE, Capelari M, Stevani C |title=Bioluminescent ''Mycena'' species from São Paulo, Brazil |journal=Mycologia |year=2007 |volume=99 |issue=2 |pages=317–31 |url=http://www.mycologia.org/cgi/content/full/99/2/317|doi=10.3852/mycologia.99.2.317 |pmid=17682785|url-access=subscription }}</ref>
+
+<ref name=Gerhardt1990>{{cite journal |author=Gerhardt E. |year=1990 |title=Checkliste der Großpilze von Berlin (West) 1970–1990 |journal=Englera |issue=13 |pages=3–5, 7–251 |jstor=3776760 |doi=10.2307/3776760}}</ref>
+
+<ref name=Grgurinovic1997>{{cite book |author=Grgurinovic CA. |title=Larger Fungi of South Australia |year=1997 |publisher=Botanic Gardens of Adelaide and State Herbarium and Flora and Fauna of South Australia Handbooks Committee |location=Adelaide |page=276 |isbn=0-7308-0737-1}}</ref>
+
+<ref name=Karsten1980>{{cite journal |author=Karsten P |title=Symbolae ad Mycologicam Fennica. Pars XXIX |journal=Meddelanden Af Societatis Pro Fauna et Flora Fennica |year=1889 |volume=15 |page=89 |url=https://books.google.com/books?id=b2YWAAAAYAAJ&pg=RA1-PA89 |language=la}}</ref>
+
+<ref name=Kaya2006>{{cite journal |author=Kaya A. |title=Macrofungi from Andirin (Kahramanmaras) district |journal=Turkish Journal of Botany |year=2006 |volume=30 |issue=2 |pages=85–93 |issn=1300-008X}}</ref>
+
+<ref name=Pomerleau1964>{{cite journal |vauthors=Pomerleau R, Cook WB |title=IX International botanical congress: field trip No. 22: Quebec fungi |journal=Mycologia |year=1964 |volume=56 |issue=4 |pages=618–26 |doi=10.2307/3756365 |jstor=3756366 }}</ref>
+
+<ref name=Reverchon2010>{{cite journal |vauthors=Reverchon F, del Ortega-Larrocea PM, Pérez-Moreno J |title=Saprophytic fungal communities change in diversity and species composition across a volcanic soil chronosequence at Sierra del Chichinautzin, Mexico |journal=Annals of Microbiology |year=2010 |volume=60 |issue=2 |pages=217–26 |doi=10.1007/s13213-010-0030-7|hdl=10072/40135 |s2cid=31643216 |hdl-access=free }}</ref>
+
+<ref name="Schalkwijk-Barendsen1991">{{cite book |author=Schalkwijk-Barendsen HME. |title=Mushrooms of Western Canada |publisher=Lone Pine Publishing |location=Edmonton, Canada |year=1991 |page=[https://archive.org/details/mushroomsofweste0000scha/page/253 253] |isbn=0-919433-47-2 |url=https://archive.org/details/mushroomsofweste0000scha/page/253 }}</ref>
+
+<ref name=Treu1990>{{cite journal |vauthors=Treu R, Agerer R |year=1990 |title=Culture characteristics of some ''Mycena'' species |journal=Mycotaxon |volume=38 |pages=279–309 |url=http://www.cybertruffle.org.uk/cyberliber/59575/0038/0279.htm |access-date=2010-10-14}}</ref>
+
+<ref name=Trudell2009>{{cite book |vauthors=Trudell S, Ammirati J  |title=Mushrooms of the Pacific Northwest: Timber Press Field Guide (Timber Press Field Guides) |publisher=Timber Press |location=Portland, Oregon |year=2009 |pages=127–28 |isbn=978-0-88192-935-5}}</ref>
+
+<ref name="urlAronsen">{{cite web |url=http://home.online.no/~araronse/Mycenakey/maculata.htm |title=''Mycena maculata'' P. Karst. |author=Aronsen A |work=A key to the Mycenas of Norway |access-date=2010-10-14 |archive-url=https://web.archive.org/web/20121012000506/http://home.online.no/~araronse/Mycenakey/maculata.htm |archive-date=2012-10-12 |url-status=dead }}</ref>
+
+<ref name="urlCalifornia Fungi: Mycena maculata">{{cite web |url=http://www.mykoweb.com/CAF/species/Mycena_maculata.html |title=''Mycena maculata'' |vauthors=Wood M, Stevens F |work=California Fungi |access-date=2010-10-14}}</ref>
+
+<ref name="urlMycoBank: Mycena maculata">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=247189 |title=''Mycena maculata'' P. Karst. 1890 |publisher=International Mycological Association |work=MycoBank |access-date=2010-10-14}}</ref>
+
+<ref name="urlMycoBank: Mycena maculata Cleland">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=445101 |title=''Mycena maculata'' Cleland 1934 |publisher=International Mycological Association |work=MycoBank |access-date=2010-10-14}}</ref>
+
+}}
+
+===Cited text===
+*{{cite book |title=North American species of ''Mycena'' |author=Smith AH. |year=1947 |location=Ann Arbor |publisher=University of Michigan Press}}
+
+==External links==
+*{{IndexFungorum|247189}}
+
+{{Good article}}
+{{Taxonbar|from=Q5232097}}
+
+[[Category:Bioluminescent fungi]]
+[[Category:Mycena|maculata]]
+[[Category:Fungi described in 1880]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Petter Adolf Karsten]]
+[[Category:Fungus species]]

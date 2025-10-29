@@ -1,0 +1,55 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Lactarius helvus - Lindsey.jpg
+| genus = Lactarius
+| species = helvus
+| authority = ([[Elias Magnus Fries|Fr.]]) Fr. (1838)
+| synonyms = 
+*''Agaricus helvus'' <small>Fr. (1821)</small>
+*''Galorrheus helvus'' <small>(Fr.) [[P.Kumm.]] (1871)</small>
+*''Lactifluus helvus'' <small>(Fr.) [[Otto Kuntze|Kuntze]] (1891)</small>
+}}
+{{mycomorphbox
+| name = ''Lactarius helvus''
+| whichGills = decurrent
+| capShape = depressed
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=mycorrhizal
+| sporePrintColor=tan
+| howEdible=poisonous}}
+
+'''''Lactarius helvus''''', commonly known in English as '''fenugreek milkcap''', is a member of the large milkcap genus ''[[Lactarius (fungus)|Lactarius]]'' in the order [[Russulales]]. Fruiting bodies can be found in ''[[Sphagnum]]'' moss in coniferous and deciduous woodland in Europe, and possibly North America, although considerable debate continues about the North American variety, formerly referred to as ''Lactarius aquifluus''. Mushrooms are pale brown-grey or beige in colour and funnel-shaped, with colourless, watery milk. Its distinctive smell has been likened to [[fenugreek]], [[celery]], [[liquorice]], or [[Maggi]] instant soup. Mildly toxic when raw, it has been implicated in the poisoning of 418 people near [[Leipzig]] in October 1949. However, it is used in small quantities as a spice when dried. [[Sotolon]], the agent that gives the fungus its odour, also occurs in fenugreek, [[maple syrup]] and [[lovage]].
+
+The possible North American variety has a more salmon to pink color with scant watery milk and a strong smell of maple syrup or caramel. In Quebec it is known as the maple milky cap (Lactaire à odeur d'érable), and is fairly commonly eaten cooked and also sold as a dried powder and used as a spice, much in the same way that the [[Lactarius rubidus|candy cap mushroom]] is used on the west coast. Thus far, there have been no reported cases of illness from this variety in North America. Some confusion with the species Lactarius quietus var incanus is possible due to the similar smell. Lactarius quietus var incus, however, has a darker and more red appearance and when young, its milk is opaque and white, as opposed to the clear milk in Lactarius helvus. Furthermore, the possible North American variety of Lactarius helvus is restricted in distribution to the great lakes and north east, while lactarius quietus var incanus is commonly found much further south.
+
+==Taxonomy==
+It was initially described by [[Elias Magnus Fries]] in 1821 as ''Agaricus helvus'', before he placed it in the genus ''Lactarius'' in 1838. Peck's ''Lactarius aquifluus'' has been deemed a synonym. The specific epithet ''helvus'' is derived from the [[Latin]] for 'honey-yellow'. Its name in [[German language|German]] is ''Maggipilz''. S
+
+==Description==
+The velvety [[pileus (mycology)|cap]] is initially slightly convex (planoconvex), becoming funnel-shaped (infundibuliform) as it matures; it is 4–15&nbsp;cm (1½–4 in) in diameter and has a faint [[zonate]] (bull's-eye) pattern, beige or light grey at the margins and darkening toward the centre. The decurrent gills are cream when young, and darkening to ochre-yellow with age. The flesh is white or beige, often pink-tinged. The latex, or milk, is watery and colourless. The hollow cylindrical stalk is 3–9&nbsp;cm (1–3½ in) high by 1–2&nbsp;cm (½ in) wide. It may be whitish when young, ochre or pink-tinged, and sometimes spotted orange-brown. The highly distinctive smell has been described as reminiscent of [[fenugreek]], with a mild taste.<ref name=Kranz91>{{cite book | author = Kränzlin F | year = 1991 | title = Fungi of Switzerland 6: Russulaceae|page= 164 | publisher = Gartner Koeltz | isbn = 978-3-85604-260-8}}</ref> To others, the smell has been likened to [[lovage]] or [[celery]],<ref>{{cite book |last=Benjamin| first= Denis R. |title=Mushrooms: poisons and panaceas — a handbook for naturalists, mycologists and physicians |page= 364 |publisher=WH Freeman and Company| location=New York |year=1995| isbn=978-0-7167-2600-5}}</ref> or [[liquorice]] or a packet of [[Maggi]] [[instant soup]].<ref name=nilper77>{{cite book | last = Nilson|first= Sven |author2=Olle Persson  | year = 1977 | title = Fungi of Northern Europe 2: Gill-Fungi | publisher = Penguin|isbn=978-0-14-063006-0|page= 106}}</ref>
+
+==Distribution and habitat==
+Fruiting bodies are found in groups in woodlands near conifers such as ''[[Picea]]'' and ''[[Pinus]]'', as well as the deciduous birch (''[[Birch|Betula]]'') and rarely beech (''[[Beech|Fagus]]''). More specifically, they occur in wet places, often growing in ''[[Sphagnum]]'', in late summer and autumn. The species is found across Europe and Asia.<ref name=Kranz91/>
+
+==Toxicity==
+[[image:Sotolon v2.svg|thumb|100px|left|[[Sotolon]]]]Symptoms of [[Mushroom poisoning|poisoning]] are reported to occur within thirty minutes of consumption, with nausea and vomiting accompanied by [[vertigo (medical)|vertigo]] and chills. The toxic agents are thought to be [[sesquiterpene]]s. In October 1949, 418 people were poisoned near [[Leipzig]] in eastern Germany.<ref>{{cite journal |last=Klemm |first=G |year=1961|title=Beobachtungen über den Verlauf einer Massenvergiftung mit dem Bruchkreizker ''Lactarius helvus'' Fries |journal=Mycologisches Mitteilungsblatt |volume=5 |pages=1–4 |language=German}}</ref> The toxins are destroyed by thorough boiling, and the species is used in small quantities as a spice after drying.<ref name=nilper77/>
+
+The agent which gives the fungus its distinctive odour is [[sotolon]],<ref>{{cite journal | author =Sylvie Rapior,a Françoise Fons,A and Jean-Marie Bessièreb | title =The fenugreek odor of ''Lactarius helvus'' | journal =Mycologia | year =2000 | volume =92 | issue =2 | pages =305–308 | doi =10.2307/3761565 | url =http://apt.allenpress.com/aptonline/?request=get-abstract&issn=0027-5514&volume=092&issue=02&page=0305 | jstor =3761565 | url-status =dead | archiveurl =https://web.archive.org/web/20060426185659/http://apt.allenpress.com/aptonline/?request=get-abstract&issn=0027-5514&volume=092&issue=02&page=0305 | archivedate =2006-04-26 | url-access =subscription }}</ref> which also gives [[fenugreek]] seed and [[lovage]] their characteristic smells.<ref>{{cite journal |author1=Imre Blank |author2=Peter Schieberle | title =Analysis of the seasoning-like flavour substances of a commercial lovage extract | journal =Flavour and Fragrance Journal | year =1993 | volume =8 | issue = 4| pages =191–195 | doi =10.1002/ffj.2730080405 | url =http://www3.interscience.wiley.com/cgi-bin/abstract/112664676/ABSTRACT| archive-url =https://archive.today/20121216135836/http://www3.interscience.wiley.com/cgi-bin/abstract/112664676/ABSTRACT| url-status =dead| archive-date =2012-12-16| url-access =subscription }}</ref> It is present  as well in [[molasses]], aged [[sake]] and white wine, [[flor]] [[sherry]], and roasted tobacco,<ref>{{cite web|url=http://www.sigmaaldrich.com/catalog/search/ProductDetail/ALDRICH/W363405|title=4,5-<WBR>Dimethyl-<WBR>3-<WBR>hydroxy-<WBR>2,5-<WBR>dihydrofuran-<WBR>2-<WBR>one W363405|website=Sigma-Aldrich}}</ref> as well as in [[maple syrup]].<ref>[http://www.centreacer.qc.ca/publications/chimie/PDF/321-fin-0394.pdf Caracteristiques chemiques et nutritives du sirop d'erable] {{webarchive|url=https://web.archive.org/web/20070929032720/http://www.centreacer.qc.ca/publications/chimie/PDF/321-fin-0394.pdf |date=2007-09-29 }}</ref>
+
+==See also==
+*[[List of Lactarius species|List of ''Lactarius'' species]]
+
+==References==
+{{Reflist}}
+
+*{{Commons-inline}}
+
+{{Taxonbar|from=Q1377524}}
+
+[[Category:Fungi described in 1821]]
+[[Category:Lactarius|helvus]]
+[[Category:Poisonous fungi]]
+[[Category:Fungi of Europe]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]

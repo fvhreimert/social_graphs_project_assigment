@@ -1,0 +1,151 @@
+{{Short description|Species of fungus}}
+{{Good article}}
+{{stack begin}}
+{{Speciesbox
+| image = A regalis.jpg
+| taxon = Amanita regalis
+| authority = ([[Elias Magnus Fries|Fr.]]) [[Edmund Michael|Michael]] (1904)
+| synonyms_ref = <ref name="urlFungorum synonymy: Amanita regalis"/>
+| synonyms = ''Amanita umbrina''  <small>Pers. (1797)</small><br>
+''Agaricus muscarius'' β ''regalis'' <small>Fr. (1821)</small><br>
+''Agaricus muscarius'' var. ''umbrinus'' <small>([[Christian Hendrik Persoon|Pers.]]) Fr. (1838)</small><br>
+''Amanita muscaria'' var. ''regalis'' <small>(Fr.) [[Pier Andrea Saccardo|Sacc.]] (1887)</small><br>
+''Amanita emilii''  <small>Riel (1907)</small><br>
+''Amanitaria muscaria'' var. ''regalis''  <small>(Fr.) [[Jean-Edouard Gilbert|E.-J.Gilbert]] (1941)</small>
+}}
+{{Mycomorphbox
+| name=''Amanita regalis''
+| whichGills=free
+| capShape=convex
+| capShape2=flat
+| hymeniumType=gills
+| stipeCharacter=ring and volva
+| ecologicalType=mycorrhizal
+| sporePrintColor=white
+| howEdible=poisonous
+| howEdible2=psychoactive
+}}
+{{stack end}}
+
+'''''Amanita regalis''''', commonly known as the '''royal fly agaric''' or the '''king of Sweden Amanita''', is a species of [[fungus]] in the family [[Amanitaceae]]. ''A.&nbsp;regalis'' has a scabby liver-brown [[pileus (mycology)|cap]] and a [[stipe (mycology)|stem]] which is yellow-[[ochre]] at the base, with patches or rings of patches. The [[basidiocarp|fruit bodies]] somewhat resemble the smaller ''[[Amanita muscaria|A.&nbsp;muscaria]]'' (fly agaric), which it was formerly regarded as a [[variety (botany)|variety]] of.
+
+''A. regalis'' is common in [[Scandinavia]] and also found in eastern and northern Europe. Its North American distribution is restricted to [[Alaska]]. Like ''A.&nbsp;muscaria'', it is [[Mushroom poisoning|poisonous]] and contains the [[Psychoactive mushroom|psychoactive]] compound [[muscimol]].
+
+==Taxonomy==
+''A.&nbsp;regalis'' was first described as ''Agaricus muscarius'' β ''regalis'' by [[Elias Magnus Fries]] in his ''[[Systema Mycologicum]]'', published in 1821.<ref name="Fries1821" /> In 1887, [[Pier Andrea Saccardo]] treated it as a [[variety (botany)|variety]] of ''[[Amanita muscaria|A.&nbsp;muscaria]]''.<ref name="Saccardo1887" /> [[Edmund Michael]], in 1903, became the first to consider it a distinct species.<ref name="Michael1903" /> In 1941, [[Jean-Edouard Gilbert]] suggested a complete reorganization of the genus ''[[Amanita]]'' in his world [[monograph]] of the genus, and moved it to ''Amanitaria'' as ''A.&nbsp;muscaria'' var. ''regalis''.<ref name="Gilbert1941" /> In his original (1949) version of ''Agaricales in Modern Taxonomy'', [[Rolf Singer]] considered it a [[subspecies]] of ''A.&nbsp;muscaria'', but noted that it may be regarded as a separate species; in the fourth edition (1986), he listed it as a distinct species.<ref name="Singer1986" /> ''A.&nbsp;regalis'' is classified in a section of ''Amanita'' within the genus, a grouping of related Amanitas that have a [[annulus (mycology)|ring]] on the [[stipe (mycology)|stem]] (or remnants thereof), and a bulb at the base of it.<ref name="Jenkinsp16">Jenkins (1986), p. 16.</ref> More recently, a Japanese group studied the [[biogeography]] of ''A.&nbsp;muscaria'' and related species, and, using [[molecular phylogenetic]] analysis, concluded that the taxon should be considered a grouping of ''A.&nbsp;muscaria'', rather than a distinct species.<ref name="Oda2004" /> However, as of 2012, both [[Index Fungorum]] and [[MycoBank]] list the taxon as ''Amanita regalis''.<ref name="urlFungorum synonymy: Amanita regalis" /><ref name="MycoBank" />
+
+The species has been called by several [[common name|vernacular]] names, including the "Brown fly agaric",<ref name="Stijve2000" /> the "king of Sweden Amanita",<ref name="Tulloss2009" /> or the king fly agaric.<ref name="Fungi of Latvia" /> In France it is known as ''Amanite royale'',<ref name="Danel1999" /> while in Germany it is ''Königsfliegenpilz''.<ref name="Ternes2005" /> The specific epithet is derived from the [[Latin]] word ''regalis'', meaning "royal".<ref name="Manser1999" /> In 2000, it was selected by the German Mycological Society as "Mushroom of the Year".<ref name="Stijve2000" />
+
+==Description==
+[[image:Amanita regalis 52330.jpg|left|thumb|This young specimen shows the characteristic color, cap warts, and stem that are typical of this species. An immature fruit body can be seen to the right.]]
+Like all ''[[Amanita]]'' species, the bulk of the organism lies beneath the ground as a symbiotic partner to certain species of trees. The [[Sporocarp (fungi)|fruit body]] of the fungus is a reproductive structure that appears when appropriate environmental conditions of moisture, temperature, and nutrient availability are met. The [[pileus (mycology)|cap]] of ''A.&nbsp;regalis'' is {{convert|10|to|25|cm|abbr=off|frac=2}} broad, and, depending on the stage of its development, can range in shape from spherical to convex to somewhat flattened. The color is yellowish brown, and it is densely covered with yellowish to light [[ochre|ochraceous]] scabby warts, which are arranged in almost regular concentric rings.<ref name=Pilat1961/> The rings are a remnant of the [[volva (mycology)|volva]] left behind during expansion of the young fruit body. The cap is fleshy and when mature has grooves on the margin, which can extend {{convert|1.5|to|2|cm|abbr=on|frac=4}}. The [[pileipellis|cap cuticle]] may be separated from the cap by peeling, to almost the center.
+
+The [[lamella (mycology)|gills]] are crowded close together, free from attachment to the stem, and white with a creamy yellow tinge. The edges of the gills are floccose, meaning they have tufts of soft wooly hairs—another volval remnant. The [[stipe (mycology)|stem]] of a mature individual is typically between {{convert|10|and|20|cm|abbr=on|frac=2}} long and {{convert|1.5|to|2|cm|abbr=on|frac=4}} wide,<ref name=Bresinsky1989/>  and spreads at the base into a bulb ornamented with 2–4 rings of small [[wikt:squamulose|squamulose]], lemon or ochre-yellow warts. The entire stem and ring are not pure white but have a faint yellowish tinge. The [[trama (mycology)|flesh]] is whitish, faintly yellowish in the stem, and golden yellow under the cuticle of the cap. It does not change color in air, and has an insignificant taste and smell.<ref name=Pilat1961/>
+
+===Microscopic features===
+The spores are broadly ellipsoid to roughly spherical, [[hyaline]] (translucent), smooth, and have dimensions of 9–12 by 7–8&nbsp;[[micrometre|μm]]. They are non-amyloid, meaning that they do not absorb iodine when stained with [[Melzer's reagent]].<ref name=Pilat1961/> The spore-producing cells, the [[basidia]], are club-shaped, measure 38–46 by 3–13&nbsp;μm, and have clamps at their bases.<ref name=Jenkinsp38>Jenkins (1986), p. 38.</ref>
+
+===Similar species===
+{{Multiple image|direction=vertical|align=right|image1=Amanita pantherina.JPG|image2=Perlpilz.jpg|width=140|caption2=''Amanita pantherina'' (top) and ''Amanita rubescens'' (bottom) are lookalike species.}}
+''Amanita regalis'' is easily distinguished from ''A.&nbsp;muscaria'' by the absence of any red color in the cap, and the yellow patches on the stem. If it is a form that has a pale-colored, yellowish-brown cap, ''Amanita regalis'' may be confused with the [[blusher]] (''A.&nbsp;rubescens'', edible). The latter species can be identified by the flesh-colored tinge it stains when cut or bruised, and also by the color of the flesh underneath the cuticle: ''A.&nbsp;regalis'' is yellowish while ''A.&nbsp;rubescens'' is white. ''[[Amanita pantherina|A.&nbsp;pantherina]]'' has a similar color, but has white flesh below the cap cuticle, and a cup-shaped bulb with distinct margins around the edge.<ref name=Bresinsky1989/> In the past there was some confusion with another species, now called ''[[Amanita pseudoregalis]]'', which is like a decoloured form of ''A.&nbsp;muscaria''.
+
+==Distribution and habitat==
+''A. regalis'' is more common in northern than south Europe, and it has not been reported from south and west Europe.<ref name="Pilat1961" /> In addition to being common in [[Scandinavia]]n countries,<ref name="Bresinsky1989" /> it has been collected in [[Germany]],<ref name="Dorfelt2003" /> [[Hungary]],<ref name="Vasas1991" /> [[Latvia]],<ref name="Fungi of Latvia" /> Russia,<ref name="Kirillova2006" /> [[Slovakia]],<ref name="Lizon1989" /> and [[Korea]].<ref name="Park1992" /> In North America, its distribution is restricted to [[Alaska]],<ref name="Jenkinsp38" /> where it is usually found above the [[tree line]].<ref name="Tulloss2009" />
+
+It is a rare species typically found growing on the ground in [[montane|mountainous]] forests, both [[deciduous forest|deciduous]] and [[coniferous forest|coniferous]].<ref name="Oda2004" /> It is a [[mycorrhizae|mycorrhizal]] fungus, and exists in a symbiotic relationship with certain tree species. The system of fine below-ground threads, the [[mycelium]], envelopes the roots of the trees and supplies them with needed [[dietary mineral|minerals]], [[trace element]]s and water from the soil, while the tree, in turn, supplies the fungus with food from its own supply, which it produces through [[photosynthesis]]. ''A.&nbsp;regalis'' has been shown experimentally to form mycorrhiza with [[birch]], [[Scots pine]], [[Mountain pine]], and [[Norway spruce]].<ref name="Maijala1991" /><ref name="Modess1939" /> Fruit bodies have been reported to grow in [[fairy ring]]s.<ref name="Dietrich2010" />
+
+==Toxicity==
+{{Multiple image
+| direction         = vertical
+| image1            = Ibotenic acid2.png
+| image2            = Muscimol chemical structure.svg
+| width             = 140
+| caption1          = Ibotenic acid
+| caption2          = Muscimol
+}}
+
+''Amanita regalis'' is [[mushroom poisoning|poisonous]]. A case of [[mushroom poisoning|poisoning]] was reported from [[Finland]], where three individuals believed they had consumed the [[edible mushroom|edible]] parasol mushroom ''[[Macrolepiota procera]]''. The symptoms of poisoning, which began 1–2&nbsp;hours after ingestion of the mushrooms, were gastrointestinal—nausea and heavy vomiting. Two had [[central nervous system]] manifestations and [[cholinergic]] symptoms, including [[hallucination]]s, [[mental confusion|confusion]], or loss of consciousness as well as profuse salivation and sweating. All three individuals recovered within 4–24&nbsp;hours without any damage to [[liver]], [[kidney]]s or the central nervous system. As this incident demonstrates, cooking the mushrooms does not completely neutralize the toxic components of ''A.&nbsp;regalis''.<ref name="Elonen1979" /> [[Analytical chemistry|Chemical analysis]] has shown that this species contains [[ibotenic acid]] and [[muscimol]],<ref name="Bresinsky1989" /> the same toxic constituents as ''A.&nbsp;muscaria''.<ref name="Brvar2006" />
+
+''Amanita regalis'' has the ability to [[bioaccumulation|bioaccumulate]] the [[vanadium]], a phenomenon first reported in ''A.&nbsp;muscaria'' in 1931.<ref name="TerMeulen1931" /> A field study of Scandinavian specimens found vanadium contents ranging from 38 to 169&nbsp;mg of vanadium per kg of dry mushroom (average of 119&nbsp;mg/kg).<ref name="Meisch1979" /> For comparison, the vanadium concentration in most other mushrooms is typically less than 2&nbsp;mg/kg.<ref name="Sigel1995" />
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Amanita species|List of ''Amanita'' species]]
+
+==References==
+{{Reflist|colwidth=30em|refs=
+<ref name=Bresinsky1989>{{cite book |vauthors=Bresinsky A, Besl H |title=A Colour Atlas of Poisonous Fungi: A Handbook for Pharmacists, Doctors, and Biologists |publisher=Manson Publishing |location=London, UK |year=1989 |pages=105–106 |isbn=978-0-7234-1576-3 |url=https://books.google.com/books?id=EIcQGsZ2kksC&pg=PA105}}</ref>
+
+<ref name=Brvar2006>{{Cite journal |author=Brvar M. |author2=Mozina M. |author3=Bunc M.|title=Prolonged psychosis after ''Amanita muscaria'' ingestion |year=2006 |volume=118 |issue=9–10 |pages=294–297 |journal=Wiener Klinische Wochenschrift |pmid=16810488 |doi=10.1007/s00508-006-0581-6|s2cid=21075349 }}</ref>
+
+<ref name=Danel1999>{{cite book |title=Intoxications aiguës en réanimation |vauthors=Danel V, Barriot P |edition=2nd |year=1999 |publisher=Arnette |isbn=978-2-7184-0977-1 |page=539 |url=https://books.google.com/books?id=bmNeCCXJZcIC&pg=PA539 |language=fr}}</ref>
+
+<ref name=Dietrich2010>{{cite journal |vauthors=Dietrich W, Krause E |title=Pilzfunde im Mittleren Erzgebirge |trans-title=Records of fungi from the central part of the mountain Erzgebirge |journal=Boletus |year=2010 |volume=32 |issue=1 |pages=13–25 |issn=0232-4598 |language=de}}</ref>
+
+<ref name=Dorfelt2003>{{cite journal |vauthors=Dorfelt H, Bresinsky A |year=2003 |title=Distribution and ecology of selected Macromycetes in Germany |journal=Zeitschrift für Mykologie |volume=69 |issue=2 |pages=177–286 |issn=0170-110X}}</ref>
+
+<ref name=Elonen1979>{{cite journal |vauthors=Elonen E, Tarssanen L, Härkönen M |year=1979 |title=Poisoning with brown fly agaric ''Amanita regalis'' |journal=Acta Medica Scandinavica |volume=205 |issue=1–2 |pages=121–123 |pmid=760400 |doi=10.1111/j.0954-6820.1979.tb06016.x}}</ref>
+
+<ref name=Fries1821>{{cite book |title=Systema Mycologicum |volume=1 |author=Fries EM |year=1821 |publisher=Ex Officina Berlingiana |location=Lund, Sweden |page=16 |url=https://archive.org/stream/systemamycologi03friegoog#page/n79/mode/1up |language=la}}</ref>
+
+<ref name="Fungi of Latvia">{{cite web |url=http://www.fungi.lv/amanita_regalis.htm |title=''Amanita regalis'' |vauthors=Mukins E, Mukina Z |work=Latvijas sēnes [Fungi of Latvia] |access-date=2010-01-03}}</ref>
+
+<ref name=Gilbert1941>{{cite journal |author=Gilbert E-J |year=1940 |title=The Amanitas of the world |journal=Iconographia Mycologica |volume=27 |issue=Suppl. 1 |page=77}}</ref>
+
+<ref name=Kirillova2006>{{cite journal |author=Kirikova OS |year=2006 |title=Agaricoid fungi of the National Park "Russky Sever" (Vologda Region). I |journal=Mikologiya i Fitopatologiya |volume=40 |issue=5 |pages=377–386 |language=ru |issn=0026-3648}}</ref>
+
+<ref name=Lizon1989>{{cite journal |author=Lizon P. |year=1989 |title=Maps of distribution of fungi in Slovakia Czechoslovakia 1 |journal=Zbornik Slovenskeho Narodneho Muzea Prirodne Vedy |volume=35 |pages=17–28 |issn=0374-1168}}</ref>
+
+<ref name=Maijala1991>{{cite journal |vauthors=Maijala P, Fagerstedt KV, Raudaskoski M |year=1991 |title=Detection of extracellular cellulolytic and proteolytic activity in ectomycorrhizal fungi and ''Heterobasidion annosum'' (Fr.) Bref. |journal=New Phytologist |volume=117 |issue=4 |pages=643–648 |jstor=2557755 |doi=10.1111/j.1469-8137.1991.tb00968.x}}</ref>
+
+<ref name=Manser1999>{{cite book |vauthors=Manser MH, Turton ND |title=Advanced Learners' Dictionary (Wordsworth Reference) |publisher=Wordsworth Editions Ltd. |year=1999 |page=584 |isbn=978-1-85326-763-5 |url=https://books.google.com/books?id=DXHJ1ylVHnYC&pg=PA584}}</ref>
+
+<ref name=Meisch1979>{{cite journal |vauthors=Meisch HU, Reinle W, Schmitt JA |year=1979 |title=High vanadium content in mushrooms is not restricted to the Fly Agaric (''Amanita muscaria'') |journal=Naturwissenschaften |volume=66 |issue=12 |pages=620–621 |issn=0028-1042 |doi=10.1007/BF00405131|bibcode=1979NW.....66..620M |s2cid=26521549 }}</ref>
+
+<ref name=Michael1903>{{cite book |title=Führer für Pilzfreunde. Die am häufigsten vorkommenden essbaren, verdächtigen und giftigen Pilze |author=Michael E. |year=1903 |at=pl. 75 |language=de}}</ref>
+
+<ref name=Modess1939>{{cite journal |author=Modess O. |year=1939 |title=Experimental studies in Hymenomycetes and Gasteromycetes as mycorrhiza-producers on Pine and Spruce (Preliminary note) |journal=Svensk Botanisk Tidskrift |volume=33 |pages=91–93 |language=de}}</ref>
+
+<ref name=MycoBank>{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=454253 |title=''Amanita regalis'' (Fr.) Michael 1904 |publisher=[[MycoBank]]. International Mycological Association |access-date=2012-01-22}}</ref>
+
+<ref name=Oda2004>{{cite journal |vauthors=Oda T, Tanaka C, Tsuda M |year=2004 |title=Molecular phylogeny and biogeography of the widely distributed ''Amanita'' species, ''A. muscaria'' and ''A. pantherina'' |journal=Mycological Research |volume=108 |issue=8 |pages=885–896 |doi=10.1017/S0953756204000620|pmid=15449593 }}</ref>
+
+<ref name=Park1992>{{cite journal |vauthors=Park SS, Cho DH |year=1992 |title=The mycoflora of higher fungi in Mt. Paekdu and adjacent areas I |journal=Korean Journal of Mycology |volume=20 |issue=1 |pages=11–28 |issn=0253-651X}}</ref>
+
+<ref name=Pilat1961>{{cite book |title=Mushrooms and other Fungi |author=Pilát A. |year=1961 |publisher=Peter Nevill |location=London, UK |page=148}}</ref>
+
+<ref name=Saccardo1887>{{cite journal |author=Saccardo PA |year=1887 |title=Sylloge Hymenomycetum, Vol. I. Agaricineae |journal=Sylloge Fungorum |volume=5 |page=13 |language=la}}</ref>
+
+<ref name=Sigel1995>{{cite book |vauthors=Sigel A, Sigel H |title=Vanadium and its Role in Life |publisher=M. Dekker |location=New York, New York |year=1995 |page=408 |isbn=978-0-8247-9383-8 |url=https://books.google.com/books?id=QldvdY1rWGkC&pg=PA408}}</ref>
+
+<ref name=Singer1986>{{cite book |author=Singer R. |title=The Agaricales in Modern Taxonomy |edition=4th |publisher=Koeltz Scientific Books |location=Königstein im Taunus, Germany |year=1986 |page=450 |isbn=978-3-87429-254-2}}</ref>
+
+<ref name=Stijve2000>{{cite journal |author=Stijve T. |year=2000 |title=De koningsvliegezwam, ''Amanita regalis'' (Fr.) Michael, de paddestoel van het jaar 2000 |trans-title=The Royal fly agaric, ''Amanita regalis'' (Fr.) Michael, is mushroom of the year 2000 |journal=AMK Mededelingen |issue=2 |pages=46–51 |language=nl |issn=0771-9884}}</ref>
+
+<ref name=TerMeulen1931>{{cite journal |author=Ter Meulen E.V. |year=1931 |title=Sur la repartition de molybdene dans la nature |journal=Recueil des Travaux Chimiques des Pays-Bas |volume=50 |issue=6 |pages=491–504 |language=fr |doi=10.1002/recl.19310500603}}</ref>
+
+<ref name=Ternes2005>{{cite book |vauthors=Terpes W, Täufel A, Tunger L, Zobel M |title=Lebensmittel-Lexikon |publisher=Behr |year=2005 |page=707 |isbn=978-3-89947-165-6 |url=https://books.google.com/books?id=_3qNbZeXMW4C&pg=PA707 |language=de}}</ref>
+
+<ref name=Tulloss2009>{{cite web |url=http://www.njcc.com/~ret/amanita/species/regaliss.html |title=''Amanita regalis'' (Fr.) Michael |author=Tulloss RE |work=Amanita studies |access-date=2010-01-03}}</ref>
+
+<ref name="urlFungorum synonymy: Amanita regalis">{{cite web |url=http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=454253 |title=''Amanita regalis'' (Fr.) Michael |publisher=Species Fungorum. CAB International |access-date=2012-01-22}}</ref>
+
+<ref name=Vasas1991>{{cite journal |title=Interesting mushrooms from Hungary III. Basidiomycetes Agaricales |vauthors=Vasas G, Locsmandi C, Albert L |year=1991 |journal=Annales Historico-Naturales Musei Nationalis Hungarici |volume=83 |pages=87–89 |language=hu |issn=0521-4726}}</ref>
+
+}}
+
+===Cited text===
+*{{cite book |author=Jenkins DB |title=''Amanita'' of North America |publisher=Mad River Press |location=Eureka, California |year=1986|isbn=978-0-916422-55-4}}
+{{Amanitas}}
+{{Poisonous Amanitas}}
+{{Hallucinogenic mushrooms}}
+{{Taxonbar|from=Q742673}}
+
+[[Category:Amanita|regalis]]
+[[Category:Fungi described in 1821]]
+[[Category:Fungi found in fairy rings]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Europe]]
+[[Category:Poisonous fungi]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]

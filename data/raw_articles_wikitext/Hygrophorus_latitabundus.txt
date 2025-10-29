@@ -1,0 +1,53 @@
+{{short description|Species of fungus}}
+{{Speciesbox
+| image = Hygrophorus latitabundus1.JPG
+| image_caption =
+| genus = Hygrophorus
+| species = latitabundus
+| authority = [[Max Britzelmayr|Britzelm.]] (1899)
+| synonyms_ref = <ref name=IndexFungorum>{{cite web |url=http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=167748 |title=Fungorum synonymy: ''Hygrophorus latitabundus'' |publisher=CAB International |work=Species Fungorum |access-date=2010-12-23}}</ref>
+| synonyms = ''Hygrophorus olivaceoalbus'' f. ''obesus'' <small>[[Giacomo Bresadola|Bres.]]</small><br/>
+''Hygrophorus olivaceoalbus'' var. ''obesus'' <small>(Bres.) [[Carleton Rea|Rea]]</small><br/>
+''Hygrophorus limacinus'' sensu <small>[[Robert Kühner|Kühner]] & [[Henri Romagnesi|Romagnesi]]</small>
+}}
+
+'''''Hygrophorus latitabundus''''' is a species of [[fungus]] in the genus ''[[Hygrophorus]]''. It is distributed in European pine forests, and has a preference for calcareous soils. It fruits in autumn, producing large, edible mushrooms with slimy caps and stems.
+
+==Description==
+''Hygrophorus latitabundus'' fruiting bodies are large [[agaric]]s. The [[Pileus (mycology)|cap]] is convex and slightly umbonate, coloured grey, brown and olivaceous with a darker, brownish centre. It is characteristically covered by a glutinous layer of slime, especially in wet weather conditions. The margin is inrolled. The cap diameter can reach 15&nbsp;cm, and as it matures, it flattens out. The white [[Lamella (mycology)|gills]] are thick, distant and have an adnate to weakly decurrent attachment to the stem.
+
+The white [[Stipe (mycology)|stem]] is tall, fusiform, thick and robust. It is ornamented by numerous whitish flakes which are covered in a thick layer of slime. The flakes have a tendency to become brown. The flakes and slime extend from the base of the stem to the level of the margin, where they stop abruptly, creating a ring-like zone. Above this, the stem is white and visibly thinner. The stem is up to 15&nbsp;cm tall and 2–4&nbsp;cm thick.
+
+The white [[Trama (mycology)|flesh]] is thick and firm, with a fungal smell and pleasant taste. An identification aid is the chemical reaction of the stem flesh when exposed to [[Ammonium hydroxide|ammonia solution]]. In this species, it turns orange-rust and then brown in the base and yellow-ochre at the top.<ref name=Gerault>{{Cite journal | last = Gerault | first = Alain | title = ''Florule Evolutive des ''Basidiomycotina'' du Finistere – Heterobasidiomycetes – Tricholomatales'' | language = French | version = 2.1 | date = October 2005| url = http://projet.aulnaies.free.fr/Florules/TRICHOLOMATALES.pdf}}</ref><ref name=LeGrandLivre>{{cite book | author=Houdou G. | title=Le grand livre des champignons | language=French | publisher=Editions de Borée | year=2004 | page=81 | isbn=2-84494-270-9 | url=https://books.google.com/books?id=U2AMoKEFHqkC&q=Hygrophorus+latitabundus&pg=PT72 }}{{Dead link|date=August 2024 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref name=Fungipedia>{{cite web | title=''Hygrophorus limacinus'' at Fungipedia.es | language=Spanish | author=Román J. R. | url=http://www.fungipedia.es/clasificacion-orden/basidiomycota/tricholomatales/45-hygrophorus-limacinus.html | access-date=December 23, 2010 | archive-url=https://web.archive.org/web/20101018235909/http://www.fungipedia.es/clasificacion-orden/basidiomycota/tricholomatales/45-hygrophorus-limacinus.html | archive-date=October 18, 2010 | url-status=dead }}</ref><ref name=AMINT>{{cite web | title=''Hygrophorus latitabundus'' at FunghiItaliani.it | language=Italian | publisher=A.M.I.N.T. | url=http://www.funghiitaliani.it/index.php?showtopic=15302 | access-date=December 23, 2010 }}</ref>
+
+==Edibility==
+''Hygrophorus latitabundus'' is reported to be a good, edible fungus.<ref name=LeGrandLivre/><ref name=Fungipedia/> It is collected and marketed for consumption in Spain, particularly in the [[Catalonia|Catalan]] region, where it is known as ''llenega negra''.<ref name=Roman>{{cite journal | year=2004 | title=Collection, marketing and cultivation of edible fungi in Spain |journal=Micología Aplicada Internacional | volume=16 | issue=2 |pages=25–33 | url=https://www.redalyc.org/pdf/685/68516201.pdf | archive-url=https://web.archive.org/web/20120923061450/http://redalyc.uaemex.mx/pdf/685/68516201.pdf | archive-date=2012-09-23 | url-status=live |author1=M. de Roman |author2=E. Boa | issn=1534-2581 }}</ref><ref name=Fungibalear>{{cite web | title=''Hygrophorus latitabundus'' at FungiBalear.net | language=Catalan | publisher=Secció Micològica Museu Balear de Ciències Naturals. | url=http://www.fungibalear.net/catala/mostra_bolet.php?codi=72 | access-date=January 1, 2010 | archive-url=https://web.archive.org/web/20110723132740/http://www.fungibalear.net/catala/mostra_bolet.php?codi=72 | archive-date=July 23, 2011 | url-status=dead }}</ref>
+
+==Habitat and distribution==
+
+''Hygrophorus latitabundus'' is found in [[coniferous forest]]s, forming [[mycorrhiza|ectomycorrhizal]] relationships exclusively with [[pine]]s (''Pinus''). The fungus fruits in autumn and shows a preference for [[calcareous]] soils. Its occurrence is rare, though it is abundant there where it is established.<ref name=Elementichimici>{{cite report |author1=Cenci R. M. |author2=Cocchi L. |author3=Petrini O. |author4=Sena F. |author5=Siniscalco C. |author6=Vescovi L. | year=2010 | title=Elementi chimici nei funghi superiori |publisher=JRC Scientific and Technical Reports | language=Italian | page=175 | url=http://eusoils.jrc.ec.europa.eu/esdb_archive/eusoils_docs/other/EUR24415IT.pdf }}</ref>
+
+Its distribution encompasses southern and central Europe, including Austria, Germany, France, Italy, Slovenia and Spain.<ref name=LeGrandLivre/><ref name=GBIFportal>{{cite web | url=http://data.gbif.org/species/14389569 | title=Species: ''Hygrophorus latitabundus'' Britzelm. 1899 | work=[[Global Biodiversity Information Facility]] | access-date=2010-12-25 }}</ref> It is also known to occur in the Republic of Macedonia, Greece and Turkey.<ref name=Macedonia>{{cite report | author=Petkovski S. | year=2009 | title=National Catalogue (Check List) of Species of the Republic of Macedonia | location=Skopje | url=http://www.protectedareas.mk/Matka/files/Final%20Report%20on%20National%20Catalogue.pdf | url-status=dead | archive-url=https://web.archive.org/web/20100215141145/http://www.protectedareas.mk/Matka/files/Final%20Report%20on%20National%20Catalogue.pdf | archive-date=2010-02-15 }}</ref><ref name=Dimou>{{cite journal |author1=Dimou D. |author2=Zervakis G. |author3=Polemis E. | year=2008 | title=Mycodiversity studies in selected ecosystems of Greece: IV. Macrofungi from Abies cephalonica forests and other intermixed tree species (Oxya Mt., central Greece) |journal=Mycotaxon | volume=104 | pages=39–42 | url=http://www.mycotaxon.com/resources/checklists/dimou-v104-checklist.pdf }}</ref><ref name=Kaya>{{cite journal | author=Kaya A. | year=2009 | title=Macromycetes of Kahramanmaraş Province (Turkey) |journal=Mycotaxon | volume=108 | pages=31–34 | url=http://web.adiyaman.edu.tr/~akaya/pub/maras.pdf | archive-url=https://web.archive.org/web/20110902014357/http://web.adiyaman.edu.tr/~akaya/pub/maras.pdf | archive-date=2011-09-02 | url-status=dead | doi=10.5248/108.31}}</ref>
+
+==Similar species==
+Among the many [[List of Hygrophorus species|species of the genus ''Hygrophorus'']], there are some which can be mistaken for ''Hygrophorus latitabundus''. 
+*The fruiting body of ''[[Hygrophorus persoonii|H. persoonii]]'' has a similar appearance, but the species is found only in deciduous forests with [[oak]] (''Quercus'') and [[beech]] (''Fagus''). Its flesh turns greenish with ammonia solution.
+*''[[Hygrophorus olivaceoalbus|H. olivaceoalbus]]'' is a less robust species which often bears a dark, rough-banded stem ornamentation, and occurs with [[spruce]] (''Picea''), frequently in moss. Its stem flesh discolours to orange-red with ammonia solution.
+
+==See also==
+* [[List of Hygrophorus species|List of ''Hygrophorus'' species]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Commons-inline}}
+
+{{Taxonbar|from=Q1548745}}
+
+[[Category:Hygrophorus|latitabundus]]
+[[Category:Fungi of Europe]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1899]]
+[[Category:Taxa named by Max Britzelmayr]]
+[[Category:Fungus species]]

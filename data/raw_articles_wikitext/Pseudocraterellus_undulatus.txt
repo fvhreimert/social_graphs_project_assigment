@@ -1,0 +1,43 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Pseudocraerellus sinuosus1.jpg
+| genus = Pseudocraterellus
+| species = undulatus
+| authority = ([[Christiaan Hendrik Persoon|Pers.]]) [[Stephan Rauschert|Rauschert]]
+}}{{Mycomorphbox
+| name = ''{{PAGENAME}}''{{italic title}}
+| hymeniumType = ridges
+| capShape = infundibuliform
+| whichGills = decurrent
+| stipeCharacter = bare
+| sporePrintColor = white
+| ecologicalType = mycorrhizal
+| howEdible = edible
+| sporePrintColor2 = yellow
+}}
+'''''Pseudocraterellus undulatus''''' is a species of [[fungus]] belonging to the family [[Hydnaceae]].<ref name="Index Fungorum">{{cite web |title=Index Fungorum - Names Record: ''Craterellus sinuosus'' |url=http://www.indexfungorum.org/names/NamesRecord.asp?RecordID=187203 |access-date=30 March 2021}}</ref> It has the common name '''sinuous chanterelle.'''
+
+Synonym:
+* ''Merulius undulatus'' Pers., 1801 ([[basionym]])<ref name="Index Fungorum" />
+* ''Pseudocraterellus sinuosus'' (Fr.) Corner, 1958<ref name="Index Fungorum" />
+
+== Description ==
+''Pseudocraterellus undulatus'' is a small funnel shaped mushroom with tough grey flesh.
+
+'''Cap:''' 1–5&nbsp;cm. Starts as convex or depressed but quickly becomes funnel shaped/infundibuliform with irregular edges and wrinkles. [[Hymenium]] is wrinkled and branching, greyish-brown in colour with distant spacing and decurrent attachment. '''Stem:''' 3–6&nbsp;cm. Tapers downwards and is often grooved and twisted with adjacent mushrooms fusing together above the base. '''Spore print:''' White to pale yellow. '''Spores:''' Broadly ellipsoid, smooth, non-amyloid. 9.5–12 x 7–8 μm. '''Taste:''' Mild. '''Smell:''' Faint and indefinite.<ref>{{Cite book |last=Buczacki |first=Stefan |title=Collins fungi guide |date=2012 |publisher=Collins |isbn=978-0-00-724290-0 |location=London |oclc=793683235}}</ref>
+
+== Habitat and distribution ==
+Grows on soil and amongst leaf litter in broad-leaved woods. It is a [[Mycorrhiza|mycorrhizal]] species which is especially associated with beech, hazel and oak trees. Can grow as a solitary mushroom or in small groups which may be attached to one another. It is widespread but only occasionally found and may grow from Summer to Autumn.
+
+== Edibility ==
+Whilst ''P. undulatus'' is regarded as an edible mushroom with a mild taste; it may grow too rarely to justify picking.<ref>{{Cite web |title=Pseudocraterellus undulatus (Craterellus sinuosus), Sinuous Chanterelle |url=https://www.first-nature.com/fungi/pseudocraterellus-undulatus.php |access-date=2022-07-07 |website=www.first-nature.com}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q107866831}}
+
+[[Category:Hydnaceae]]
+[[Category:Taxa named by Christiaan Hendrik Persoon]]
+[[Category:Fungi described in 1801]]
+[[Category:Fungus species]]

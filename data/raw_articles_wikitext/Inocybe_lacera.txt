@@ -1,0 +1,61 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{Speciesbox
+| image = Inocybe spec. - Lindsey 1.jpg
+| genus = Inocybe
+| species = lacera
+| authority = ([[Elias Magnus Fries|Fr.]]) [[Paul Kummer|P.Kumm.]] (1871)
+| synonyms = *''Agaricus lacerus'' <small>Fr. (1821)</small>
+}}
+{{mycomorphbox
+| name = ''Inocybe lacera''
+| whichGills = adnexed
+| capShape = convex
+|capShape2 = umbonate
+| hymeniumType=gills
+| stipeCharacter= bare
+| ecologicalType=mycorrhizal
+| sporePrintColor= brown
+| howEdible= poisonous
+}}
+{{stack end}}
+
+'''''Inocybe lacera''''', [[common name|commonly known]] as the '''torn fibrecap''', is a [[mushroom poisoning|poisonous]] species of [[mushroom]] in the genus ''[[Inocybe]]''. Its appearance is that of a typical "[[little brown mushroom]]": small, brown and indistinct. It is distinguishable by its microscopic features, particularly its long, smooth [[Basidiospore|spores]]. There are several documented [[subspecies]] in addition to the main ''I.&nbsp;lacera'' var ''lacera'', including the dwarf form ''I.&nbsp;lacera'' var. ''subsquarrosa'' and ''I.&nbsp;lacera'' var. ''heterosperma'', found in North America.
+
+Found in Europe and North America, it typically grows in autumn in [[mixed woods]], favouring sandy soil. As with many other species of ''Inocybe'', ''I.&nbsp;lacera'' contains the poisonous chemical [[muscarine]] which, if consumed, can lead to [[salivation]], [[lacrimation]], [[urination]], [[defecation]], [[gastrointestinal problem]]s and [[vomiting]].
+
+==Taxonomy==
+''Inocybe lacera'' was first described by Swedish mycologist [[Elias Magnus Fries]], but was placed into the genus ''Inocybe'' by [[Paul Kummer]]<ref name="Phillips"/> in his 1871 work, ''Der Führer in die Pilzkunde''.<ref name="Kuo"/> As several forms of the species are recognised, the main variety is sometimes known as ''Inocybe lacera'' var. ''lacera''.<ref name="Jordan">{{cite book |title= The Encyclopedia of Fungi of Britain and Europe|url= https://books.google.com/books?id=ULhwByKCyEwC&q=%22Inocybe+lacera%22&pg=PA292|access-date= 2008-07-31|last= Jordan|first= Michael|year= 2004|publisher= [[Frances Lincoln]]|location= London|isbn= 978-0-7112-2378-3|page= 292}}</ref> It is [[common name|commonly known]] as the Torn Fibrecap,<ref name="Sterry"/> while in German it is known as ''Gemeiner Wirrkopf'' and in French as ''Inocybe déchiré''.<ref name="RogersMushrooms">{{cite web|url= http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6444.asp|title= Inocybe lacera|access-date= 2009-02-15|last= Phillips|first= Roger|publisher= RogersMushrooms|archive-url= https://web.archive.org/web/20081007164852/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6444.asp|archive-date= 2008-10-07|url-status= dead}}</ref>
+
+==Description==
+
+
+In appearance, ''I.&nbsp;lacera'' is a typical "[[little brown mushroom]]",<ref name="Kuo">{{cite web |url= http://www.mushroomexpert.com/inocybe_lacera.html|title= Inocybe lacera|access-date=2009-02-15 |last= Kuo|first= Michael|date=February 2005|publisher= MushroomExpert.com}}</ref> but specific features are very variable.<ref name="Sterry"/> It typically features a convex [[pileus (mycology)|cap]] measuring {{convert|1 to 3|cm|1}} across, with a small umbo.<ref name="Phillips"/> The margin of the cap curves inwards, and often splits.<ref name="Sterry"/> In colour, it is [[Snuff (tobacco)|snuff]]-brown, and in consistency, it is [[fibril]]lose<ref name="Phillips"/> and scaley.<ref name="Sterry"/> The [[stipe (mycology)|stipe, or stem]], is {{convert|2 to 3|cm|1|abbr=on}} tall, and {{convert|3 to 6|mm}} thick, brown at the slightly bulbous base, but lighter towards the apex, and, again, fibrillose.<ref name="Phillips"/> The stem lacks a [[Annulus (mycology)|ring]].<ref name="Jordan"/> The [[trama (mycology)|flesh]] is white. The adnexed [[lamella (mycology)|gills]] are white in younger specimens, soon changing to a clay-buff with white edges.<ref name="Phillips">{{cite book |title= Mushrooms and Other Fungi of Great Britain and Europe|last= Phillips|first= Roger|year= 1981|publisher= [[Pan Books]]|location= London|isbn= 0-330-26441-9|pages=152–153}}</ref>
+
+===Microscopic features===
+''Inocybe lacera'' has thick-walled, [[wikt:fusiform|fusiform]] [[cystidia]], which have [[Apical membrane#Membrane polarity|apical]] encrustations. It has a brown [[spore print]], while the subcylindrical [[Basidiospore|spores]] are smooth, typically measuring 11 to 15 by 4.5 to 6&nbsp;[[μm]] in size.<ref name="Phillips"/> ''I.&nbsp;lacera'' is one of a small group of related species with particularly long, cylindrical spores, the others of which can typically be found on [[sand dunes]].<ref name="Pegler">{{cite book |title= Mushrooms and Toadstools|last= Pegler|first= David N.|year= 1983|publisher= Mitchell Beazley Publishing|location= London|isbn= 0-85533-500-9|page= 57}}</ref> The spore shape is more typical of species from the order [[Boletales]].<ref name="Kuo"/> These features make the ''I.&nbsp;lacera'' easily recognisable microscopically.<ref name="Phillips"/> The "dwarf form", ''I.&nbsp;lacera'' var. ''subsquarrosa'', has small spores and thin-walled cystidia, while a North American variant, ''I.&nbsp;lacera'' var. ''heterosperma'' has spores varying from 5.5 to 15.5&nbsp;μm in length.<ref name="Kuo"/> The species has 4-spored [[basidia]].<ref name="Jordan"/>
+
+===Similar species===
+''[[Inocybe hystrix]]'' is similar in appearance, but noticeably more scaly. It is also far less common.<ref name="Sterry"/>
+
+==Edibility==
+''Inocybe lacera'' has mild-tasting flesh and a mild, mealy smell.<ref name="Phillips"/><ref name="Kuo"/> The North American variety ''I.&nbsp;lacera'' var. ''heterosperma'' has a [[wikt:spermatic|spermatic]] smell.<ref name="Kuo"/> However, species of ''[[Inocybe]]'' should always be avoided when choosing mushrooms for consumption, as many of the members of the genus are dangerously toxic.<ref name="Kuo"/> ''I.&nbsp;lacera'' is known to be poisonous,<ref name="Pegler"/> containing quantities of the toxic compound [[muscarine]]. Consumption of the mushroom typically leads to [[salivation]], [[lacrimation]], [[urination]], [[defecation]], [[gastrointestinal problem]]s and [[vomiting]] (emesis), which has given rise to the acronym SLUDGE.<ref name="Hall">{{cite book |title= Edible and Poisonous Mushrooms of the World|last= Hall|first= Ian Robert|url= https://books.google.com/books?id=yqHA_M7BVRcC&q=%22Inocybe+lacera%22&pg=PA109|access-date= 2008-08-19|author2= Buchanan, Peter K.|author3= Stephenson, Steven L.|author4= Yun, Wang|author5= Cole, Anthony L. J.|year= 2003|publisher= [[Timber Press]]|isbn= 978-0-88192-586-9|pages= 108–109}}</ref> Other potential effects include a drop in [[blood pressure]], [[sweating]] and death due [[respiratory failure]].<ref name="Hall"/>
+
+==Distribution and habitat==
+''Inocybe lacera'' can be found throughout autumn on sandy soil, especially with pine,<ref name="Phillips"/> though it is typically found in mixed woods.<ref name="Pegler"/> It grows [[mycorrhiza]]lly with both [[conifer]]s and [[hardwood]]s. The fruiting bodies can be found alone, in scattered groups, or growing gregariously.<ref name="Kuo"/> It is most commonly found on the edge of pathways through woodland,<ref name="Pegler"/> and another common habitat is on old, moss-covered fire sites.<ref name="Jordan"/> Other habitats include [[heathland]] and [[coastal dunes]].<ref name="Sterry">{{cite book |title= Complete Guide to British Mushrooms & Toadstools|author1=Sterry, Paul |author2=Hughes, Barry |year= 2009|publisher= [[HarperCollins]]|isbn= 978-0-00-723224-6|page= 196}}</ref> It can be found in Europe<ref name="Phillips"/> and North America.<ref name="Kuo"/> In some areas of [[Montana]], it can be found growing in the spring under ''[[Populus tremuloides]]''.<ref name="Kuo"/>
+
+==See also==
+*[[List of Inocybe species|List of ''Inocybe'' species]]
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q2992882}}
+
+[[Category:Inocybe|lacera]]
+[[Category:Poisonous fungi]]
+[[Category:Fungi described in 1821]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]

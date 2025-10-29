@@ -1,0 +1,35 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Morchella vulgaris on Gwaelod greenhouse, April (22843497238).jpg
+| image_alt = 
+| image_caption = 
+| status = 
+| status_system = 
+| status_ref = 
+| genus = Morchella
+| species = vulgaris
+| authority = ([[Christiaan Hendrik Persoon|Pers.]]) [[Samuel Frederick Gray|Gray]] (1821)
+| synonyms = 
+| synonyms_ref = 
+}}
+
+'''''Morchella vulgaris''''' is a widespread [[fungus]] of the family [[Morchellaceae]] ([[Ascomycota]]). It was originally described in 1801 as a [[Form (botany)|form]] of the common yellow [[morel]] (''[[Morchella esculenta]]'') by mycologist [[Christiaan Hendrik Persoon]], but was later recombined as a distinct [[species]] by [[Samuel Frederick Gray|Samuel Gray]].<ref>Gray SF. (1821). A Natural Arrangement of British Plants, according to their relations to each other Vol. 1. p. 662.</ref>
+
+Owing to its high [[Morphology (biology)|morphological plasticity]], its taxonomical status had long been in flux, sometimes treated as a [[Variety (botany)|variety]] of, or conspecific to ''[[Morchella esculenta]]'',<ref>Breitenbach J, Kränzlin F. (1984). Fungi of Switzerland, Volume 1: Ascomycetes. Verlag Mykologia, Luzern, Switzerland. p. 314.</ref><ref>Dennis RWG. (1978). Bristish Ascomycètes. Ed. Cramer, Vaduz. p. 585.</ref> while at the same time several forms and varieties of ''M. vulgaris'' itself have been described.<ref name="Clowez 2012">{{cite journal |author=Clowez P. |title=Les morilles. Une nouvelle approche mondiale du genre ''Morchella'' |journal=Bulletin de la Société Mycologique de France |year=2012 |volume=126 |issue=3–4 |pages=199–376 (see p.&nbsp;238) |language=French}}</ref> An extensive [[phylogenetic]] and [[nomenclatural]] study by Richard and colleagues in 2014, confirmed the status of ''Morchella vulgaris'' as a distinct species, and resolved several of its [[Synonym (taxonomy)|synonymities]].<ref name=Richard2014>{{cite journal| title=True morels (''Morchella'', Pezizales) of Europe and North America: evolutionary relationships inferred from multilocus data and a unified taxonomy| first1= Franck| last1=Richard| first2=Jean-Michel| last2=Bellanger| first3=Philippe | last3=Clowez| first4=Regis| last4=Courtecuisse| first5=Karen| last5=Hansen| first6=Kerry| last6=O'Donnell| first7=Mathieu| last7=Sauve| first8=Alexander| last8=Urban| first9=Pierre-Arthur| last9=Moreau| journal=Mycologia| date=30 December 2014| id=14-166| url=http://www.mycologia.org/content/early/2014/12/24/14-166.abstract| type=Preliminary version published online| doi=10.3852/14-166| pmid=25550303| volume=107| issue= 2| pages=359–382| doi-access=free}}</ref>
+
+This species is characterised by the predominantly grey colours of its [[Pileus (mycology)|cap]] and "blistered", highly irregular appearance of its ridges and pits.
+
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IndexFungorum|813028}}
+{{Morchellaceae}}
+{{Taxonbar|from=Q3323825}}
+
+[[Category:Fungi described in 1801]]
+[[Category:Fungi of Europe]]
+[[Category:Morchella|vulgaris]]
+[[Category:Taxa named by Christiaan Hendrik Persoon]]
+[[Category:Fungus species]]

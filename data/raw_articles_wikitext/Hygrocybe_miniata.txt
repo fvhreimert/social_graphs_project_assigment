@@ -1,0 +1,62 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Hygrocybe miniata - Ferndale Park.jpg
+| genus = Hygrocybe
+| species = miniata
+| authority = [[Elias Magnus Fries|(Fr.)]]  [[Paul Kummer|P.Kumm.]]
+| synonyms = ''Hygrocybe strangulata'' <small>([[Peter D. Orton|P.D.Orton]]) Svrcek</small>
+}}
+{{mycomorphbox
+| name = Hygrocybe miniata
+| whichGills = adnate
+| whichGills2 = decurrent
+| capShape = convex
+| capShape2 = depressed
+| hymeniumType= gills
+| stipeCharacter= bare
+| sporePrintColor=white
+| howEdible=unknown
+}}
+
+'''''Hygrocybe miniata''''', commonly known as the '''vermilion waxcap''' or '''miniature waxy cap''',<ref name="Arora2nd" /> is a small, bright red or red-orange [[mushroom]] of the waxcap genus ''[[Hygrocybe]]''. It is a [[cosmopolitan distribution|cosmopolitan]] species, that is found worldwide. In Europe, it is found in fields, on sandy [[heath]]s, or grassy clearings in the autumn. In Australia, it is found in rainforest and [[eucalypt]] forest as well as heathland.
+
+==Taxonomy==
+''Hygrocybe miniata'' was first described by Swedish mycologist [[Elias Magnus Fries]] as ''Agaricus miniatus'' in 1821, before being renamed by the same author in 1838 as ''Hygrophorus miniatus''. German mycologist [[Paul Kummer]] then assigned it to the genus ''[[Hygrocybe]]'' in 1871. The [[specific name (botany)|specific epithet]] ''miniata'' comes from 'miniat', which means "painted with red lead".<ref name="Arora2nd">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/113/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=113–114 |orig-date=1979}}</ref>
+
+==Description==
+The red-to-yellow [[Pileus (mycology)|cap]] is convex initially, but later flattens and becomes depressed with a wavy edges; it is [[hygrophanous]] with small scales which can be seen with a magnifying glass.<ref name=":0">{{Cite book |last1=Trudell |first1=Steve |url=https://books.google.com/books?id=WevHvt6Tr8kC&pg=PA65 |title=Mushrooms of the Pacific Northwest |last2=Ammirati |first2=Joe |publisher=Timber Press |year=2009 |isbn=978-0-88192-935-5 |series=Timber Press Field Guides |location=Portland, OR |page=65}}</ref> The centre of mature fruiting bodies is noticeably scurfy, or scaly. This is a feature that is best seen on dry specimens, that have not been rained on. The cap colour is scarlet-orange with a yellow striate margin, and is 0.5–3.5&nbsp;cm in diameter. The bare [[Stipe (mycology)|stem]] is often long, (up to 3 times the cap diameter) and tapering towards the base, with a tendency to flatten. It is the same colour as the cap, or slightly paler, with a white base.<ref name="Phillips06">{{Cite book |last=Phillips |first=Roger |title=Mushrooms |publisher=Pan MacMillan |year=2006 |isbn=978-0-330-44237-4 |editor-last=Frith-Macdonald |editor-first=Candida |page=74 |chapter=Mushrooms with Gills}}</ref> The [[Lamella (mycology)|gills]] are orange, adnate (with a broad attachment to the stem) or slightly decurrent; widely spaced, and somewhat notched. The [[trama (mycology)|flesh]] is orange, and is devoid of any odour. The [[spore print]] is white, and the [[wikt:ellipsoid|ellipsoid]] [[basidiospore|spores]] measure 7–9 x 4–5&nbsp;[[μm]].<ref name=Phillips06/><ref name="C&D1995">{{Cite book |last1=Courtecuisse |first1=Régis |title=Mushrooms & Toadstools of Britain & Europe |last2=Duhem |first2=Bernard |publisher=Harper Collins |year=1995 |isbn=978-0-00-220025-7 |series=Collins Field Guides |oclc=34050438}}</ref>
+
+=== Similar species ===
+It is part of a relatively difficult-to-identify group of ''Hygrocybe'' species.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=401}}</ref>
+
+A very similar (only recently described) species, ''[[Hygrocybe helobi|H.&nbsp;helobi]]'' (Arnolds) Bon, appears earlier in the season; it prefers less [[acidic soils]], and smells of garlic.<ref name="T.Laessoe">{{Cite book |last=Læssøe |first=Thomas |title=Mushrooms (flexi bound) |publisher=Dorling Kindersley |year=1998 |isbn=978-0-7513-1070-2}}</ref>
+
+''Hygrocybe mollis'', ''H. moseri'', ''H.&nbsp;strangulata'' are very similar and some may be synonyms.<ref name=":0" />
+
+==Distribution and habitat==
+''Hygrocybe miniata'' is a [[cosmopolitan distribution|cosmopolitan]] species, having been recorded in most of the [[temperate]] zones. It has been collected from Britain, Europe, eastern North America,<ref name=Arora2nd/><ref name="audu" /> and equivalent zones in the Southern Hemisphere such as eastern and southern Australia, where it has been recorded from [[Queensland]], [[New South Wales]], [[Victoria (Australia)|Victoria]] and [[Tasmania]].<ref name="Young05">{{Cite book |last=Young |first=A.M. |title=Fungi of Australia: Hygrophoraceae |publisher=Australian Biological Resources Study/CSIRO Publishing |year=2005 |isbn=978-0-643-09195-5 |location=Canberra, ACT |page=120 |author-link=Anthony M. Young}}</ref>
+
+In Britain it appears in autumn, particularly in frost-free periods, and prefers sandy [[heath]]s, grassy clearings, or unimproved fields.<ref name=Phillips06/> It is often seen in the company of [[mouse-ear hawkweed]] (''Hieracium pilosella'').<ref name=T.Laessoe/>
+
+In Australia, it can be found in temperate to [[subtropical]] rainforest and [[eucalypt]] forest as well as heathland. Fruiting bodies may appear in groups among the leaf litter from January to June.<ref name=Young05/>
+
+==Edibility==
+It is nonpoisonous<ref name="Miller2006">{{Cite book |last1=Miller Jr. |first1=Orson K. |title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi |last2=Miller |first2=Hope H. |publisher=[[FalconGuide]] |year=2006 |isbn=978-0-7627-3109-1 |location=Guilford, CN |page=63 |author-link=Orson K. Miller Jr.}}</ref> and possibly [[Edible mushroom|edible]] but of debatable quality.<ref name=Arora2nd/>
+
+==See also==
+*[[List of Hygrocybe species|List of ''Hygrocybe'' species]]
+
+==References==
+{{Reflist}}
+
+== External links ==
+* {{Commons category-inline|Hygrocybe miniata}}
+{{Taxonbar|from=Q3270155}}
+
+[[Category:Fungi described in 1821]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Australia]]
+[[Category:Hygrocybe|miniata]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]

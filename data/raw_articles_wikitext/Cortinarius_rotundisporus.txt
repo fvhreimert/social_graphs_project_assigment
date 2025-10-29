@@ -1,0 +1,47 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{Speciesbox
+| image = Cortinarius rotundisporus - Lane Cove River.jpg
+| genus = Cortinarius
+| species = rotundisporus
+| authority = [[John Burton Cleland|Cleland]] & [[Edwin Cheel|Cheel]] (1918)
+}}
+{{mycomorphbox
+|name = ''Cortinarius rotundisporus''
+|whichGills = adnate
+|capShape = convex
+|hymeniumType = gills
+|stipeCharacter = bare
+|ecologicalType = mycorrhizal
+|sporePrintColor = reddish-brown
+|howEdible = unknown
+}}
+{{stack end}}
+
+'''''Cortinarius rotundisporus''''', also known as the '''elegant blue webcap''', is a [[Basidiomycota|basidiomycete]] [[mushroom]] of the genus ''[[Cortinarius]]'' found in southern Australia, where it is found in [[eucalypt]] forests and rainforests. The [[pileus (mycology)|cap]] of the [[basidiocarp|fruit body]] is a steely blue colour, with a yellowish [[umbo (mycology)|boss]], and paler similarly coloured [[stipe (mycology)|stipe]].
+
+==Taxonomy==
+''Cortinarius rotundisporus'' was initially described by naturalists [[John Burton Cleland]] and [[Edwin Cheel]] in 1918. It is a member of the [[subgenus]] ''Myxacium'' within the genus ''[[Cortinarius]]''; these species are characterized by the presence of a viscid to glutinous outer [[partial veil|veil]] and stipe. Its [[specific name (botany)|specific name]] is derived from the [[Latin]] ''rotundus'' "round", and [[Ancient Greek]] ''spora'' "seed".<ref name=Clel76>{{cite book|author=Cleland JB|year =1976|orig-date=1935|title=Toadstools and mushrooms and other larger fungi of South Australia|publisher=South Australian Government Printer |pages =106}}</ref>
+
+==Description==
+The [[pileus (mycology)|cap]] ranges from 2.5 to 7&nbsp;cm (1–3&nbsp;in) in diameter, and is initially convex before flattening. It has a slight boss that is  mustard-, honey- or cream-yellow tinged and steely blue elsewhere. The adnate [[Lamella (mycology)|gills]] are creamy or lilac-tinged early, and darken with the [[spore]]s. The slender 5–7.5&nbsp;cm (2–3&nbsp;in) [[stipe (mycology)|stipe]] lacks a [[annulus (mycology)|ring]]; it is pale yellow or white with a tinge of the cap colour. The [[trama (mycology)|flesh]] is yellowish and may have a lilac or pale blue tinge. The [[spore print]] is reddish brown and the oval to round spores measure 8.5&nbsp;×&nbsp;6.5&nbsp;[[micrometre|μm]].<ref name=Clel76/><ref name=Fuhrer>{{cite book|author=Fuhrer B.|year=2005|title=A Field Guide to Australian Fungi|publisher=Bloomings Books|isbn=1-876473-51-7 |page=48}}</ref> There is no particular taste or smell. [[Potassium hydroxide]] will produce a pink-purple reaction in the stipe or cap.<ref name = Bougher98>{{cite book|title=Fungi of Southern Australia|author=Bougher NL, Syme K|year=1998|publisher=[[University of Western Australia Press]]|place=Nedlands, WA|isbn=1-875560-80-7|pages=256–57}}</ref> The [[mycelium]] is white.<ref name=Bougher98/>
+
+==Distribution and habitat==
+It has been found in [[New South Wales]], [[Victoria (Australia)|Victoria]], southeastern South Australia, southern Western Australia, and [[Tasmania]].<ref name=Clel76/><ref name=Fungimap>{{cite web|url=http://fungimap.rbg.vic.gov.au/fsp/sp021.html |title=''Cortinarius rotundisporus'' |last=Cleland |first=J.B. |author2=Cheel, E. |accessdate=2009-02-11 |url-status=dead |archiveurl=https://web.archive.org/web/20081006075128/http://fungimap.rbg.vic.gov.au/fsp/sp021.html |archivedate=October 6, 2008 }}</ref> It has also been recorded from New Zealand.<ref name="Horak 1990">{{cite journal |author=Horak E, Wood AE |year=1990|title= ''Cortinarius'' Fr. (Agaricales) in Australasia. 1. Subgen. ''Myxacium'' and subgen. ''Paramyxacium'' |journal= Sydowia |volume=42 |pages= 88–168 |url=http://www.zobodat.at/pdf/Sydowia_42_0088-0168.pdf}}</ref>
+
+Fruit bodies are found in eucalypt forests and rainforests,<ref name=Fuhrer/> and occasionally cleared areas.<ref name="Ratkowsky 2005">{{cite journal |vauthors=Ratkowsky DA, Gates GM |year=2005 |title=An inventory of macrofungi observed in Tasmanian forests over a six-year period |journal=Tasforests |volume=16 |pages=153–68 |url=http://www.utas.edu.au/__data/assets/pdf_file/0006/318228/tasforests_16_11.pdf |access-date=2016-06-07 |archive-date=2017-08-09 |archive-url=https://web.archive.org/web/20170809015508/http://www.utas.edu.au/__data/assets/pdf_file/0006/318228/tasforests_16_11.pdf |url-status=dead }}</ref> It forms associations with ''[[Eucalyptus]]'', ''[[Leptospermum]]'' and possibly ''[[Casuarina]]''.<ref name="Horak 1990"/>
+
+==See also==
+*[[List of Cortinarius species|List of ''Cortinarius'' species]]
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q5173326}}
+
+[[Category:Cortinarius|rotundisporus]]
+[[Category:Fungi described in 1918]]
+[[Category:Fungi native to Australia]]
+[[Category:Fungi of New Zealand]]
+[[Category:Taxa named by John Burton Cleland]]
+[[Category:Fungus species]]

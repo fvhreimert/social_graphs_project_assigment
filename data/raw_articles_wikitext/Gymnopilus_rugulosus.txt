@@ -1,0 +1,41 @@
+{{Short description|Species of fungus}}
+{{more citations needed|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption = 
+| taxon = Gymnopilus rugulosus
+| authority = R. Valenz., [[Gaston Guzman|Guzmán]] & J. Castillo
+| synonyms = 
+}}
+{{mycomorphbox
+| name = Gymnopilus rugulosus
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=}}
+'''''Gymnopilus rugulosus''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]].
+
+==Phylogeny==
+This species is in the spectabilis-imperialis infrageneric grouping of the genus ''[[Gymnopilus]]''.<ref name=Guzman-Davalos2003>{{cite journal |vauthors=Guzman-Davalos L, Mueller G, Cifuentes J, Miller AN, Santerre A |title=Traditional infrageneric classification of ''Gymnopilus'' is not supported by ribosomal DNA sequence data |journal=Mycologia  |year=2003 |pages=1204&ndash;14}}</ref>
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*''[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=110713 Gymnopilus rugulosus]'' at [[Index Fungorum]]
+
+{{Taxonbar|from=Q5624970}}
+
+[[Category:Gymnopilus|rugulosus]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

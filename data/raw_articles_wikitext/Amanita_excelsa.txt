@@ -1,0 +1,48 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = 2008-07-07 Amanita excelsa colors corrected.jpg
+| genus = Amanita
+| species = excelsa
+| authority = ([[Elias Magnus Fries|Fr.]]) [[Bertill.]] (1866)
+| synonyms_ref =
+| synonyms = *''Agaricus excelsus'' <small>Fr. (1821)</small>
+}}
+{{mycomorphbox
+| name = ''Amanita excelsa''
+| whichGills = adnexed
+| capShape = convex
+| capShape2 = 
+| hymeniumType=
+| stipeCharacter=
+| ecologicalType=
+| sporePrintColor=
+| howEdible= inedible
+}}
+
+'''''Amanita excelsa''''', also known as the '''European false blushing amanita''',<ref name=NGSWG>{{NGSWG}}</ref> is a species of [[agaric]] fungus in the family [[Amanitaceae]]. It is found in Asia, Europe, and North America, where it grows in [[deciduous forest]]s.<ref name="Zhishu 1993"/>
+
+== Toxicity ==
+''Amanita excelsa'' var. ''alba'' is inedible.<ref>{{cite book |last=Phillips |first=Roger |url=https://archive.org/details/mushroomsotherfu0000phil |title=Mushrooms and Other Fungi of North America |publisher=Firefly Books |year=2010 |isbn=978-1-55407-651-2 |location=Buffalo, NY |page=[https://archive.org/details/mushroomsotherfu0000phil/page/27 27] |url-access=registration}}</ref>
+
+[[Amanita excelsa var. spissa|''A. excelsa'' var. spissa]] is edible, but can easily be confused with the highly poisonous ''[[Amanita pantherina|A. pantherina]]''.<ref name="Miller2006">{{cite book |last=Miller Jr. |first=Orson K. |title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi |last2=Miller |first2=Hope H. |publisher=[[FalconGuide]] |year=2006 |isbn=978-0-7627-3109-1 |location=Guilford, CN |pages=40}}</ref>
+
+==References==
+{{Reflist|refs=
+
+<ref name="Zhishu 1993">{{cite book |vauthors=Zhishu B, Zheng G, Taihui L |title=The Macrofungus Flora of China's Guangdong Province |publisher=Columbia University Press |location=New York, New York |year=1993 |page=268 |isbn=978-962-201-556-2}}</ref>
+
+}}
+
+{{Amanitas}}
+{{Taxonbar|from=Q19767793}}
+
+[[Category:Fungi described in 1821]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Amanita|excelsa]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Inedible fungi]]
+[[Category:Fungus species]]
+
+{{Amanitaceae-stub}}

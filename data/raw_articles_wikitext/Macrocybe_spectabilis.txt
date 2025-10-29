@@ -1,0 +1,25 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Macrocybe spectabilis (Peerally & Sutra) Pegler & Lodge, 200331.jpg
+| taxon = Macrocybe spectabilis
+| authority = (Peerally & Sutra) [[David Pegler|Pegler]] & Lodge (1998)
+| synonyms = *''Tricholoma spectabile'' <small>Peerally & Sutra (1973)</small>
+}}
+
+'''''Macrocybe spectabilis''''' is a species of [[mushroom]]-forming [[fungus]]. It is found in [[Mauritius]], Japan,  and Hawaii. It is associated with [[sugarcane]]. It and ''[[Macrocybe titans]]'' contain large concentrations of [[cyanide]].<ref>{{cite news | title=Huge mushrooms found in Kalaheo | last=Finnegan | first=Tom | date=October 31, 2003 | newspaper=The Garden Island | url=http://thegardenisland.com/news/huge-mushrooms-found-in-kalaheo/article_2c3bc724-0ccb-5e5c-8795-61071729937b.html?mode=jqm | accessdate=December 29, 2013}}</ref> This mushroom is listed 食用 (edible) in the book きのこ ("Mushrooms") in the series "New Yama-Kei Pocket Guide."
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q10573665}}
+
+[[Category:Fungi described in 1973]]
+[[Category:Fungi of Mauritius]]
+[[Category:Fungi of Japan]]
+[[Category:Fungi of Hawaii]]
+[[Category:Tricholomataceae]]
+[[Category:Fungi without expected TNC conservation status]]
+[[Category:Fungus species]]
+
+
+{{Tricholomataceae-stub}}

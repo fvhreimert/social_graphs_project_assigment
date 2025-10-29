@@ -1,0 +1,63 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{Speciesbox
+| image = Tylopilus atronicotianus 16698.jpg
+| genus = Tylopilus
+| species = atronicotianus
+| authority = Both (1998)
+}}
+{{mycomorphbox
+| name = ''Tylopilus atronicotianus''
+| hymeniumType = pores
+| capShape = convex
+| capShape2 = flat
+| whichGills = adnate
+| stipeCharacter = bare
+| sporePrintColor = reddish-brown
+| ecologicalType = mycorrhizal
+| howEdible = unknown
+}}
+{{stack end}}
+
+'''''Tylopilus atronicotianus''''', commonly known as the '''false black velvet bolete''', is a [[bolete]] fungus in the family [[Boletaceae]]. First described scientifically in 1998, it is known only from the eastern United States.
+
+==Taxonomy==
+The species was first [[species description|described]] scientifically by Ernst Both, [[curator]] emeritus in [[mycology]] at the [[Buffalo Museum of Science]], based on specimens he found growing in [[New York state]].<ref name=Both1998/> The [[specific name (botany)|specific epithet]] ''atronicotianus'' means "dark tobacco", and refers to the color of the cap.<ref name=Bessette2000/> The mushroom is [[common name|commonly]] known as the "false black velvet bolete".<ref name=Roody2003/>
+
+==Description==
+
+The [[pileus (mycology)|cap]] ranges in shape from hemispheric to broadly convex to flattened depending on its age, and it is usually between {{convert|7.5|–|20|cm|in|abbr=on}} in diameter. The cap margin is rolled inward in young specimens and unrolls as it matures. The cap surface is dry, smooth, and slightly shiny; its color ranges from light brown to olive-brown, although it tends to be darker in age. The [[trama (mycology)|flesh]] is whitish, but after it is cut or injured, will slowly stain pink to pinkish-red, eventually becoming black. The pore surface on the underside of the cap is initially white before turning reddish-brown in age. The pores are small and angular (up to 1.5&nbsp;millimeters wide), and the tubes comprising the pores are {{convert|8|–|22|mm|in|1|abbr=on}} deep. They are a bright brown color, and will stain black when injured.<ref name=Bessette2000/>
+
+The [[stipe (mycology)|stem]] is solid (not hollow), and measures {{convert|6|–|12|cm|in|abbr=on}} long by {{convert|1.5|–|4.5|cm|in|1|abbr=on}}; it is roughly equal in width throughout its length or tapered on either end. The color of the stem is grayish to dark brown, and almost black at the base. The stem surface is finely [[tomentose]] (covered with short, dense, matted hairs), and usually lacks reticulations (a net-like pattern of rides present in some ''Tylopilus'' species), although it may be finely reticulated near the apex. The stem flesh is grayish to blackish in color. Mushrooms produce a reddish-brown [[spore print]], while the [[spore]]s themselves are narrowly oval, smooth, [[hyaline]] (translucent), and measure 7.5–10.5 by 4–5&nbsp;[[micrometre|μm]].<ref name=Bessette2000/> The [[edible mushroom|edibility]] of the mushroom has not been determined.<ref name=Roody2003/> Fruit bodies have been used in [[mushroom dye|mushroom dying]] to produce a variety of brownish colors.<ref name=Bessette2001/>
+
+The "black velvet bolete", ''[[Tylopilus alboater]]'', is roughly similar in appearance, but is distinguished by a blacker cap with less brown color, and a velvety cap texture.<ref name=Roody2003/>
+
+==Habitat and distribution==
+''Tylopilus atronicotianus'' is a [[mycorrhiza]] species, and is found in mixed tree stands with [[deciduous tree]]s such as [[Quercus rubra|red oak]], [[beech]], and [[Tsuga|hemlock]]. The fruit bodies grow on the ground solitarily, scattered, or in groups. The species is fairly common in its range, which includes western New York and [[West Virginia]], although the true limits of its distribution have yet to be precisely determined.<ref name=Bessette2000/> The Mar Lodge Estate in Scotland claims to have the only site in the World for the Black False Bolete, published in the National Trust for Scotland Autumn and winter Magazine 2022.
+
+
+==See also==
+*[[List of North American boletes]]
+
+==References==
+{{Reflist|refs=
+
+<ref name=Bessette2000>{{cite book |vauthors=Bessette AR, Bessette A, Roody WC |title=North American Boletes: A Color Guide to the Fleshy Pored Mushrooms |publisher=Syracuse University Press |location=Syracuse, New York |year=2000 |pages=259–260 |isbn=0-8156-0588-9}}</ref>
+
+<ref name=Bessette2001>{{cite book |vauthors=Bessette A, Bessette AR |title=The Rainbow Beneath my Feet: A Mushroom Dyer's Field Guide |publisher=Syracuse University Press |location=Syracuse, New York |year=2001 |page=53 |isbn=0-8156-0680-X |url=https://books.google.com/books?id=1WbvR2PwKcIC&pg=PA53}}</ref>
+
+<ref name=Both1998>{{cite journal |author=Both EE |title=New taxa of boletes and two boletes with identity problems |journal=Bulletin of the Buffalo Society of Natural Sciences |year=1998 |volume=36 |pages=215–232}}</ref>
+
+<ref name=Roody2003>{{cite book |author=Roody WC |title=Mushrooms of West Virginia and the Central Appalachians |publisher=University Press of Kentucky |location=Lexington, Kentucky |year=2003 |pages=337–338 |isbn=0-8131-9039-8 |url=https://books.google.com/books?id=5HGMPEiy4ykC&pg=PA337}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|445494}}
+
+{{Taxonbar|from=Q7860273}}
+
+[[Category:Tylopilus|atronicotianus]]
+[[Category:Fungi described in 1998]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]

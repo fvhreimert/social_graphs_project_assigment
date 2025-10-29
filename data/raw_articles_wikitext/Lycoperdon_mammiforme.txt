@@ -1,0 +1,47 @@
+{{Short description|Species of fungus}}
+{{Speciesbox 
+| image = Lycoperdon mammiforme 28675.jpg
+| image_caption = 
+| genus = Lycoperdon
+| species = mammiforme
+| authority = [[Christian Hendrik Persoon|Pers.]] (1801)
+| synonyms_ref = <ref name="urlFungorum synonymy: Lycoperdon mammiforme"/>
+| synonyms = *''Lycoperdon velatum'' <small>[[Vittad.]] (1842)</small>
+*''Utraria velata'' <small>(Vittad.) [[Quél.]] (1873)</small>
+}}
+{{mycomorphbox 
+| name = ''Lycoperdon mammiforme''
+| whichGills = no 
+| capShape = no 
+| hymeniumType = gleba
+| stipeCharacter = NA
+| ecologicalType = saprotrophic
+| sporePrintColor =
+| howEdible = inedible
+}}
+
+'''''Lycoperdon mammiforme''''' is a  rare, inedible type of [[puffball]] mushroom in the genus ''[[Lycoperdon]]'', found in [[deciduous forest]] on [[chalk]] soil. It is found in Europe. The [[basidiocarp|fruit body]] is spherical to pear shaped, at first pure white with slightly grainy inner skin and an outer skin which disintegrates in flakes that are soon shed, later ochre, chocolate-brown when old, up to {{convert|7|cm|in|abbr=on}} in diameter.<ref name="Phillips 2013"/>
+
+==References==
+{{Reflist|refs=
+
+<ref name="Phillips 2013">{{cite book |author=Phillips R. |title=Mushrooms: A Comprehensive Guide to Mushroom Identification |url=https://books.google.com/books?id=nRKwAAAAQBAJ&pg=PA328 |year=2013 |publisher=Pan Macmillan |isbn=978-1-4472-6402-6 |page=328}}</ref>
+
+<ref name="urlFungorum synonymy: Lycoperdon mammiforme">{{cite web |url=http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=220868 |title=GSD Species Synonymy: ''Lycoperdon mammiforme'' Pers. [as 'mammaeforme'] |publisher=Species Fungorum. CAB International |accessdate=2014-07-13}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|220868}}
+
+{{Taxonbar|from=Q1615662}}
+
+[[Category:Fungi of Europe]]
+[[Category:Puffballs]]
+[[Category:Fungi described in 1801]]
+[[Category:Taxa named by Christiaan Hendrik Persoon]]
+[[Category:Lycoperdon|mammiforme]]
+[[Category:Fungus species]]
+
+
+{{Agaricaceae-stub}}

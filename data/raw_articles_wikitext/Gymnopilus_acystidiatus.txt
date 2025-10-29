@@ -1,0 +1,33 @@
+{{Short description|Species of fungus}}
+{{single source|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption =
+| taxon = Gymnopilus acystidiatus
+| authority = [[Laura Guzmán Dávalos|Guzm.-Dáv.]] & [[Gastón Guzmán|Guzmán]] (1991)
+}}
+
+'''''Gymnopilus acystidiatus''''' is a species of [[mushroom]]-forming [[fungus]] in the family [[Hymenogastraceae]]. It is found in [[Jalisco]], Mexico, where it grows in [[pine]] and [[oak]] woodland. The fungus was [[species description|described]] as new to science in 1991 by [[Gastón Guzmán]] and his daughter [[Laura Guzmán Dávalos|Laura Guzmán-Dávalos]].<ref name="Guzmán-Dávalos 1991"/>
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Guzmán-Dávalos 1991">{{cite journal |last1=Guzmán-Dávalos |first1=L. |last2=Guzmán |first2=G. |title=Additions to the genus ''Gymnopilus'' (Agaricales, Cortinariaceae) from Mexico |journal=Mycotaxon |year=1991 |volume=41 |issue=1 |pages=43–56 |url=http://www.cybertruffle.org.uk/cyberliber/59575/0041/001/0043.htm}}</ref>
+
+}}
+
+{{Taxonbar|from=Q5624702}}
+
+[[Category:Gymnopilus|acystidiatus]]
+[[Category:Fungi described in 1991]]
+[[Category:Fungi of Mexico]]
+[[Category:Taxa named by Gastón Guzmán]]
+[[Category:Fungi without expected TNC conservation status]]
+[[Category:Fungus species]]
+
+
+{{Hymenogastraceae-stub}}

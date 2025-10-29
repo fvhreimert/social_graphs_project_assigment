@@ -1,0 +1,51 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Amanita_aprica_BC.jpg
+| image_caption =
+| taxon = Amanita aprica
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name="iucn status 18 November 2021">{{cite iucn |author=Siegel, N. |date=2021 |title=''Amanita aprica'' |volume=2021 |article-number=e.T195921702A195927112 |doi=10.2305/IUCN.UK.2021-2.RLTS.T195921702A195927112.en |access-date=18 November 2021}}</ref>
+| authority = J.Lindgr. & Tulloss (2005)<ref name=Tulloss2005/>
+}}
+{{mycomorphbox
+| name = ''Amanita aprica''
+| whichGills = free
+| capShape = flat
+| capShape2 = convex
+| hymeniumType = gills
+| stipeCharacter = ring and volva
+| ecologicalType = mycorrhizal
+| sporePrintColor = white
+| howEdible = poisonous
+}}
+
+'''''Amanita aprica''''', also known as the '''sunshine amanita''',<ref name=NGSWG>{{NGSWG}}</ref> is a [[Mushroom poisoning|toxic]] species of [[fungus]] in the family [[Amanitaceae]].<ref name="Tulloss2005" />
+
+The species has a yellow to orange cap with warty remnants of the whitish [[universal veil]]. The gills are pale, as is the stipe, which may be wider at the base. A skirt-like ring may be present, especially on younger specimens.<ref>{{cite book |last1=Trudell |first1=Steve |url=https://books.google.com/books?id=WevHvt6Tr8kC |title=Mushrooms of the Pacific Northwest |last2=Ammirati |first2=Joe |publisher=Timber Press |year=2009 |isbn=978-0-88192-935-5 |series=Timber Press Field Guides |location=Portland, OR |page=81}}</ref>
+
+Described as new to science in 2005, the species is found in the [[Pacific Northwest]] region of North America, where it grows in a [[mycorrhiza]]l association with [[Douglas-fir]] and [[pine]]s.<ref name="Tulloss2005" />
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Amanita species|List of ''Amanita'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name=Tulloss2005>{{cite journal |author1=Tulloss, R.E. |author2=Lindgren, J.E. |year=2005 |title=''Amanita aprica'' –- a new toxic species from western North America |journal=Mycotaxon |volume=91 |pages=193–205 }}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|343980}}
+*[http://www.mushroomexpert.com/amanita_aprica.html Amanita aprica at mushroomexpert.com]
+*[http://www.amanitaceae.org/?Amanita%20aprica Amanita aprica at amanitaceae.org]
+{{Amanitas}}
+{{Taxonbar|from=Q4739867}}
+
+[[Category:Amanita|aprica]]
+[[Category:Fungi of Canada]]
+[[Category:Fungi of the United States]]
+[[Category:Fungi described in 2005]]
+[[Category:Fungus species]]

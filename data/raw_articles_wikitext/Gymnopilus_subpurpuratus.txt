@@ -1,0 +1,38 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Gymnopilus subpurpuratus 15281.jpg
+| image_caption =
+| taxon = Gymnopilus subpurpuratus
+| authority = [[Laura Guzmán Dávalos|Guzm.-Dáv.]] & [[Gastón Guzmán|Guzmán]] (1991)
+}}
+
+'''''Gymnopilus subpurpuratus''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]]. The [[type (biology)|type specimen]] was found in [[Jalisco]], Mexico, growing on rotting [[pine]] wood in a garden. The fungus was [[species description|described]] as new to science in 1991 by [[Gastón Guzmán]] and his daughter [[Laura Guzmán Dávalos]].<ref name="Guzmán-Dávalos 1991"/>
+
+==Phylogeny==
+This species is in the aeruginosus-luteofolius infrageneric grouping in the genus ''[[Gymnopilus]]''.<ref name="Guzmán-Davalos 2003"/>
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Guzmán-Dávalos 1991">{{cite journal |vauthors=Guzmán-Dávalos L, Guzmán G |title=Additions to the genus ''Gymnopilus'' (Agaricales, Cortinariaceae) from Mexico |journal=Mycotaxon |year=1991 |volume=41 |issue=1 |pages=43–56 |url=http://www.cybertruffle.org.uk/cyberliber/59575/0041/001/0043.htm}}</ref>
+
+<ref name="Guzmán-Davalos 2003">{{cite journal |vauthors=Guzmán-Dávalos L, Mueller G, Cifuentes J, Miller AN, Santerre A |title=Traditional infrageneric classification of ''Gymnopilus'' is not supported by ribosomal DNA sequence data |journal=Mycologia |year=2003 |volume=95 |issue=6 |pages=1204–1214 |pmid=21149021 |doi=10.2307/3761920}}</ref>
+
+}}
+
+{{Commons category-inline}}
+
+{{Taxonbar|from=Q5625008}}
+
+[[Category:Fungi described in 1991]]
+[[Category:Fungi of Mexico]]
+[[Category:Gymnopilus|subpurpuratus]]
+[[Category:Fungi without expected TNC conservation status]]
+[[Category:Fungus species]]
+
+
+{{Hymenogastraceae-stub}}

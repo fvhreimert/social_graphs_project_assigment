@@ -1,0 +1,48 @@
+{{Short description|Species of fungus}}
+{{Species box
+| image = Leccinum duriusculum 254194.jpg
+| taxon = Leccinum duriusculum
+| authority = ([[Stephan Schulzer von Müggenburg|Schulzer]] ex [[Kalchbr.]]) [[Rolf Singer|Singer]] (1947)
+| synonyms_ref = <ref name="urlMycoBank: Leccinum duriusculum"/>
+| synonyms =
+  {{plainlist |
+*''Boletus duriusculus'' <small>Schulzer (1874)</small>
+*''Leccinum aurantiacum'' subsp. ''duriusculum'' <small>(Schulzer ex Kalchbr.) Hlaváček (1958)</small>
+*''Krombholzia aurantiaca'' f. ''duruiscula'' <small>(Schulzer ex Kalchbr.) Vassilkov (1956)</small>
+*''Krombholzia aurantiaca'' subsp. ''duriuscula'' <small>(Schulzer) [[René Maire|Maire]] (1933)</small>
+*''Krombholzia aurantiaca'' f. ''duriuscula'' <small>(Schulzer ex Kalchbr.) Vassilkov (1956)</small>
+  }}
+}}
+{{ mycomorphbox
+| name             = Leccinum duriusculum
+| whichGills       = adnate
+| capShape         = convex
+| hymeniumType     = pores
+| stipeCharacter   = bare
+| ecologicalType   = mycorrhizal
+| howEdible        = edible
+}}
+
+'''''Leccinum duriusculum''''' is a [[bolete]] mushroom in the genus ''[[Leccinum]]''. Originally called ''Boletus duriusculus'' by Hungarian–Croatian mycologist [[Stephan Schulzer von Müggenburg]] in 1874, it was transferred to ''[[Leccinum]]'' by [[Rolf Singer]] in 1947.<ref name="Singer 1947"/>
+
+==See also==
+*[[List of Leccinum species|List of ''Leccinum'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Singer 1947">{{cite journal |author=Singer R. |title=The Boletoideae of Florida. The Boletineae of Florida with notes on extralimital species III |journal=The American Midland Naturalist |year=1947 |volume=37 |edition=2 |page=122 |doi=10.2307/2421647|jstor=2421647 }}</ref>
+
+<ref name="urlMycoBank: Leccinum duriusculum">{{cite web |title=''Leccinum duriusculum'' (Schulzer ex Kalchbr.) Singer 1947 |url=http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=52654&Fields=All |publisher=[[MycoBank]]. International Mycological Association |access-date=2012-08-25}}</ref>
+
+}}
+
+{{Taxonbar|from=Q2360294}}
+
+[[Category:Leccinum|Duriusculum]]
+[[Category:Fungi described in 1874]]
+[[Category:Fungi of Europe]]
+[[Category:Fungus species]]
+
+
+{{Boletales-stub}}

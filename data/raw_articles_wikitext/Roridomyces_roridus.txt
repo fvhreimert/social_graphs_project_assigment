@@ -1,0 +1,54 @@
+{{Short description|Species of fungus}}
+{{Speciesbox 
+| image = Roridomyces_roridus_Sonoma.jpg
+| image_caption =
+| taxon = Roridomyces roridus
+| authority = ([[Elias Magnus Fries|Fr.]]) Rexer (1994)<ref name="Rexer 1994"/>
+| synonyms_ref = <ref name="urlFungorum synonymy: Roridomyces roridus"/>
+| synonyms = *''Agaricus roridus'' <small>[[Scop.]] (1772)</small>
+*''Agaricus roridus'' <small>Fr. (1815)</small>
+*''Mycena rorida'' <small>(Fr.) [[Quél.]] (1872)</small>
+}}
+{{mycomorphbox 
+| name = ''Roridomyces roridus''
+| hymeniumType = gills
+| capShape = conical
+| whichGills = adnate
+| stipeCharacter = bare
+| sporePrintColor = white
+| ecologicalType = saprotrophic
+| howEdible = unknown
+}}
+
+'''''Roridomyces roridus''''', commonly known as the '''dripping bonnet''' or the '''slippery mycena''', is a species of [[agaric]] fungus in the family [[Mycenaceae]].
+
+The mushroom [[pileus (mycology)|cap]] is tannish, fading to whitish or dirty yellow in color, broadly convex, and {{convert|5|–|15|mm|in|1|abbr=on}} in diameter.<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/237/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=237 |orig-date=1979}}</ref> The whitish [[stipe (mycology)|stipe]] is covered with a thick, slippery slime layer.<ref name="Arora1986" /> The species can be [[bioluminescent]], and is one of the several causative species of [[foxfire (bioluminescence)|foxfire]].<ref name="Desjardin 2008" />
+
+It resembles some other members of the genus.<ref name="Arora1986" /> It is of no known culinary value due to its small size and slippiriness.<ref name="Arora1986" />
+
+==See also==
+*[[List of bioluminescent fungi]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Desjardin 2008">{{cite journal |vauthors=Desjardin DE, Oliveira AG, Stevani CV |title=Fungi bioluminescence revisited |journal=Photochemical & Photobiological Sciences |volume=7 |issue=2 |pages=170–82|year=2008 |pmid=18264584 |doi=10.1039/b713328f|citeseerx=10.1.1.1033.2156 }}</ref>
+
+<ref name="Rexer 1994">{{cite thesis |degree=Ph.D. |title=Die Gattung ''Mycena'' s.l., Studien zu Ihrer Anatomie, Morphologie und Systematik |author=Rexer K-H. |publisher=Eberhard-Karls-Universität Tübingen |location=Tübingen, Germany |year=1994 |page=132 |language=German}}</ref>
+
+<ref name="urlFungorum synonymy: Roridomyces roridus">{{cite web |title=GSD Species Synonymy: ''Roridomyces roridus'' (Fr.) Rexer |url=https://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=483233 |publisher=Species Fungorum. CAB International |accessdate=2014-02-22}}</ref>
+
+}}
+
+{{Taxonbar|from=Q10656825}}
+
+[[Category:Bioluminescent fungi]]
+[[Category:Mycenaceae]]
+[[Category:Fungi described in 1815]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]
+
+
+{{Agaricales-stub}}

@@ -1,0 +1,57 @@
+{{Speciesbox
+| image = Panaeolus cambodginiensis 83012.jpg
+| genus = Panaeolus
+| species = cambodginiensis
+| authority = Ola'h & [[R.Heim]]
+| synonyms = *''Copelandia cambodginiensis'' <small>(Ola'h & [[R.Heim]]) [[Rolf Singer|Singer]] & R.A.Weeks</small>
+| synonyms_ref =
+}}
+{{mycomorphbox
+| name = ''Panaeolus cambodginiensis''
+| whichGills = adnexed
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=saprotrophic
+| sporePrintColor=black
+| howEdible=psychoactive}}
+
+'''''Panaeolus cambodginiensis''''' is a [[hallucinogenic]] [[mushroom]] that contains [[psilocybin]] and [[psilocin]]. It was described in 1979 as ''Copelandia cambodginiensis''.<ref name=Weeks1979/>
+
+==Description==
+The cap is less than 23&nbsp;mm across, with a convex shape and an incurved margin when young, expanding to broadly convex. The cap surface is smooth, often cracking with irregular fissures. The gills are gray to black. The stem is {{convert|5|to|10|cm|in}} tall, 4&nbsp;mm thick, and slightly swollen at the base. The [[spore]]s are black, shaped like lemons, smooth, measuring 11 x 8&nbsp;[[micrometres|μm]]. The entire mushroom quickly bruises blue where it is handled.
+
+It can be differentiated from the similar ''[[Panaeolus cyanescens]]'' by microscopic characteristics.
+
+==Distribution and habitat==
+''Panaeolus cambodginiensis'' is mushroom that grows on the dung of [[water buffalo]] and other [[ruminants]]. It was first described from [[Cambodia]] and is widespread throughout the Asian subtropics and [[Hawaii]].
+
+==Alkaloid content==
+A srongly bluing species, Merlin and Allen (1993) reported the presence of [[psilocybin]] and [[psilocin]], up to .55% and .6%, respectively.<ref name="Stamets1996">{{cite book | first=Paul | last=Stamets |authorlink=Paul Stamets | year=1996 | title=Psilocybin Mushrooms of the World | publisher=Ten Speed Press | location=Berkeley | isbn=0-9610798-0-0}}</ref>
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Panaeolus species|List of ''Panaeolus'' species]]
+
+==References==
+{{Reflist|refs=
+<ref name=Weeks1979>{{cite journal |vauthors=Weeks RA, Singer R, Hearns WL |year=1979 |title=A new species of ''Copelandia'' |journal=Lloydia |volume=42 |issue=5 |pages=469–74}}</ref>
+}}
+*{{cite book | first=Paul | last=Stamets | year=1996 | title=Psilocybin Mushrooms of the World | publisher=Ten Speed Press | location=Berkeley | isbn=0-9610798-0-0}}
+
+==External links==
+* [http://www.mushroomjohn.org/copelandiacambodgeniensis1.htm Mushroom John - ''Panaeolus cambodginiensis''] {{Webarchive|url=https://web.archive.org/web/20071205042657/http://www.mushroomjohn.org/copelandiacambodgeniensis1.htm |date=2007-12-05 }}
+* [http://www.erowid.org/plants/show_image.php?i=mushrooms/panaeolus_cambodgeniensis1.jpg Erowid - ''Panaeolus cambodginiensis'']
+* [http://www.museocivico.rovereto.tn.it/UploadDocs/104_art09-Guzman%20&%20C.pdf A Worldwide Geographical Distribution of the Neurotropic Fungi]
+
+{{Hallucinogenic mushrooms}}
+{{Taxonbar|from=Q7129783}}
+
+[[Category:Panaeolus|cambodginiensis]]
+[[Category:Psychoactive fungi]]
+[[Category:Psychedelic tryptamine carriers]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Oceania]]
+[[Category:Fungi of Hawaii]]
+[[Category:Fungi without expected TNC conservation status]]
+[[Category:Fungus species]]

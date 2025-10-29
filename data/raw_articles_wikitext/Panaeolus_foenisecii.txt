@@ -1,0 +1,91 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Panaeolus_foenisecii_Cupertino.jpg
+| genus = Panaeolus
+| species = foenisecii
+| authority = ([[Christian Hendrik Persoon|Pers.]]) [[René Charles Joseph Ernest Maire|R.Maire]] (1933)
+| synonyms_ref =
+<ref name="urlMycoBank: Panaeolus foenisecii">{{cite web |title=''Panaeolus foenisecii'' (Pers.) Maire 1933 |url=http://www.mycobank.org/BioloMICS.aspx?TableKey=14682616000000067&Rec=36998&Fields=All |publisher=[[MycoBank]]. International Mycological Association |accessdate=2017-08-14}}</ref>
+| synonyms = ''Agaricus foenisecii'' <small>Pers. (1800)</small><br>
+''Prunulus foenisecii'' <small>(Pers.) [[Samuel Frederick Gray|Gray]] (1821)</small><br>
+''Psilocybe foenisecii'' <small>(Pers.) [[Quél.]] (1872)</small><br>
+''Drosophila foenisecii'' <small>(Pers.) Quél. (1886)</small><br>
+''Coprinarius foenisecii'' <small>(Pers.) [[J.Schröt.]] (1889)</small><br>
+''Psathyra foenisecii'' <small>(Pers.) [[G.Bertrand]] (1901)</small><br>
+''Panaeolina foenisecii'' <small>(Pers.) Maire (1933)</small><br>
+''Psathyrella foenisecii'' <small>(Pers.) [[A.H.Sm.]] (1972)</small>
+}}
+{{mycomorphbox
+| name = ''Panaeolus foenisecii''
+| whichGills = adnexed
+| capShape = convex
+| sporePrintColor = blackish-brown
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = saprotrophic
+| howEdible = inedible
+| howEdible2 = unknown
+}}
+
+'''''Panaeolus foenisecii''''', commonly called the '''haymaker's panaeolus''',<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/360/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=360 |orig-date=1979}}</ref> '''lawnmower's mushroom''',<ref>{{Cite book |last=Siegel |first=Noah |title=Mushrooms of Cascadia: A Comprehensive Guide to Fungi of the Pacific Northwest |last2=Schwarz |first2=Christian |publisher=Backcountry Press |isbn=9781941624197 |pages=103}}</ref> '''mower's mushroom''', '''haymaker''', or '''brown hay mushroom''', is a very common and widely distributed little brown [[mushroom]] often found on lawns. It is not edible.
+
+== Description ==
+The cap is 1 to 4&nbsp;cm across, conic to convex, [[hygrophanous]] with a brownish colour when moist and tannish when dry,<ref name="Arora1986" /> often with a dark band around the margin which fades as the mushroom dries.<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=211–212|oclc=797915861}}</ref>
+
+The [[Lamella (mycology)|gills]] are broad, adnate, brown with lighter edges, becoming mottled as the spores mature.<ref name=":0" /> The [[spore print]] is deep brown, sometimes purplish.<ref name="Arora1986" />
+
+The stipe is 3 to 8&nbsp;cm by 1 to 3&nbsp;mm, fragile, hollow, beige to light brown,<ref name=":0" /> fibrous,<ref name=":1">{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=200–201}}</ref> [[wikt:pruinose|pruinose]], and slightly striate.
+
+It has a slightly unpleasant nutty fungal taste. The odor is nutty and slightly unpleasant.
+
+=== Microscopic features ===
+Spores measure 12–17 x 7–11&nbsp;[[μm]], subfusoid to lemon shaped, rough, [[dextrinoid]], with an apical germ pore. [[Cheilocystidia]] subfusoid to cylindric or subcapitate, often wavy, up to 50&nbsp;[[micrometre|μm]] long. Pleurocystidia absent, but some authors report inconspicuous "pseudocystidia". The [[pileipellis]] a cellular cuticle with subglobose elements and has pileocystidia.<ref name="Mushroomexpert" />
+
+=== Similar species ===
+Similar species include ''[[Agaricus campestris]]'', ''[[Conocybe apala]]'', ''[[Marasmius oreades]]'', ''[[Psathyrella candolleana]]'', and ''[[Psathyrella gracilis]]''.<ref name=":0" />
+
+It is sometimes mistaken for the psychedelic ''[[Panaeolus cinctulus]]'' or [[Panaeolus olivaceus|''P.&nbsp;olivaceus'']], both of which share the same habitat and can be differentiated by their jet black spores. This is probably why ''P.&nbsp;foenisecii'' is occasionally listed as a psychoactive species in older literature.{{Original research inline|date=October 2021}}
+
+== Habitat and distribution ==
+It can be found throughout North America.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=613}}</ref> In the [[Pacific Northwest]] of the United States, the species may be the most common to appear in lawns.<ref name=":1" /> It is also found on lawns along the East Coast.
+
+==Biochemistry==
+In 1963, Tyler and Smith found that this mushroom contains [[serotonin]], {{Nowrap|[[5-HTP]]}} and [[5-hydroxyindoleacetic acid]].<ref name="Tyler1963" /> In many field guides it is listed as [[Psychoactive mushroom|psychoactive]], but the mushroom does not produce any hallucinogenic effects as it only contains trace amounts of [[psilocybin]].<ref name="Arora1986" /><ref>{{cite web |author=John W. Allen |author2=Mark D. Merlin |name-list-style=amp |title=Observations Regarding the Suspected Psychoactive Properties of Panaeolus foenisecii Maire |url=http://www.erowid.org/plants/mushrooms/mushrooms_article4.shtml |accessdate=2012-06-10}}</ref>
+
+==Gallery==
+<gallery>
+File:Panaeolina foenisecii darv.jpg|Wild ''P. foenisecii'' with banded cap
+File:Panaeolus_foenisecii_closeup.jpg|Stipe and gills
+Image:Panaeolina.foenisecii.spores.1000x.dic.jpg|Spores magnified
+Image:Panaeolina.foenisecii.spores.1000x.full-frame.jpg|''P. foenisecii'' spores
+</gallery>
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Panaeolus species|List of ''Panaeolus'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name=Tyler1963>{{cite book |vauthors=Tyler VE, Smith AH |chapter=Protoalkaloids in ''Panaeolus'' species |title=2 Internationale Arbeitstagung Biochemie und Physiologie der Alkaloide |year=1963 |location=Berlin, Germany |veditors=Mothes K, Schroter HB |pages=45–54}}</ref>
+
+<ref name="Mushroomexpert">{{cite web |title=''Panaeolus foenisecii'' (Pers.) Maire 1933 |url=http://www.mushroomexpert.com/panaeolus_foenisecii.html |publisher=Mushroomexpert.com.  |accessdate=2013-03-03}}</ref>
+
+}}
+
+==External links==
+* [http://www.mushroomexpert.com/panaeolus_foenisecii.html Mushroom Expert – Panaeolus foenisecii]
+* [https://web.archive.org/web/20070608185516/http://www.mykoweb.com/CAF/species/Panaeolus_foenisecii.html Mykoweb – Panaeolus foenisecii]
+* [https://mushroomobserver.org/name/show_name/135 Mushroom Observer – Panaeolus foenisecii at mushroomobserver.org]
+* [http://www.sporeworksgallery.com/Subgenus-Panaeolina/Rough_spored_Panaeolus Rough Spored Panaeoloideae spore comparison]
+
+{{Commons category|Panaeolina foenisecii}}
+
+{{Taxonbar|from=Q1369546}}
+
+[[Category:Panaeolus|foenisecii]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi described in 1933]]
+[[Category:Inedible fungi]]
+[[Category:Taxa named by Christiaan Hendrik Persoon]]
+[[Category:Fungus species]]

@@ -1,0 +1,77 @@
+{{Speciesbox
+| image = Collybia dryophila 20061001w.jpg
+| image_caption = 
+| status = G5
+| status_system = TNC
+| status_ref = <ref name=NS>{{cite NatureServe |id=2.124029 |title=''Gymnopus dryophilus'' |access-date=29 April 2025}}</ref>
+| genus = Gymnopus
+| species = dryophilus
+| authority = ([[Jean Baptiste Francois Bulliard|Bull.]]) [[William Alphonso Murrill|Murrill]] (1916)
+| synonyms = ''Agaricus dryophilus''<br>
+''Collybia aquosa'' var. ''dryophila''<br>
+''Collybia dryophila''<br>
+''Collybia dryophila'' var. ''alvearis''<br>
+''Collybia dryophila'' var. ''aurata''<br>
+''Marasmius dryophilus''<br>
+''Marasmius dryophilus'' var. ''alvearis''<br>
+''Marasmius dryophilus'' var. ''auratus''<br>
+''Omphalia dryophilus''
+}}
+{{mycomorphbox
+| name = ''Gymnopus dryophilus''
+| whichGills = adnexed
+| whichGills2 = free
+| capShape = convex
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = saprotrophic
+| sporePrintColor = white
+| sporePrintColor2 = cream
+| howEdible = caution
+| howEdible2 = unknown
+}}
+
+'''''Gymnopus dryophilus''''' is a species of [[mushroom]], until recently most frequently known as '''''Collybia dryophila'''''. It belongs to section ''Levipedes'' of the genus, being characterized by a smooth [[stipe (mycology)|stem]] having no hairs at the base (in contrast to section ''Vestipedes'').<ref>See "''Levipedes''" page of [http://www.nybg.org/bsci/res/col/index.html "A revision of Collybia s.l. in the northeastern United States & adjacent Canada"], Roy Halling.</ref><ref>Meinhard Moser, translated by Simon Plant: ''Keys to Agarics and Boleti'' (Roger Phillips 1983)  {{ISBN|0-9508486-0-3}}</ref>
+
+The species is commonly found in [[temperateness|temperate]] woodlands of Europe and North America. It is generally [[saprophytic]], but occasionally also attacks living wood. The caps have been considered [[Edible mushroom|edible]] but can cause severe gastrointestinal issues.
+
+==Description==
+The [[Pileus (mycology)|cap]] is {{convert|2|–|6|cm|in|frac=8}} in diameter, convex, and reddish-brown to ochre (fading to tan with dryness); they become more irregular in shape with age.<ref name=":1">{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=117–118}}</ref> The [[Lamella (mycology)|gills]], which are only thinly attached to the stem (detaching with age),<ref name=":1" /> are whitish and crowded. The [[spore print|spore powder]] is white; the buff [[Basidiospore|spores]] do not react in [[Melzer's reagent]].<ref name=":1" /> The bald [[Stipe (mycology)|stem]] ranges from {{convert|2-8|cm|in|abbr=on|frac=8}} long by 3–6&nbsp;mm {{Convert|3–6|mm|frac=8|abbr=on}} in diameter, sometimes thicker at the base.<ref name=":1" /><ref name="Courtecuisse">Courtecuisse, R. & Duhem, B. (1994) "Guide des champignons de France et d'Europe" Delachaux et Niestlé {{ISBN|2-603-00953-2}}, also available in English</ref><ref name="Bon">Marcel Bon: ''The Mushrooms and Toadstools of Britain and North-Western Europe'' Hodder & Stoughton {{ISBN|0-340-39935-X}}.</ref><ref>Phillips, Roger (1981). ''Mushrooms and other fungi of Great Britain & Europe'' London: Pan Books Ltd.</ref><ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=184|oclc=797915861}}</ref> The taste is palatable.<ref name=":1" />
+
+Microscopically the spores are 6×3&nbsp;μm in size and slightly tear-shaped, there are lobed club-shaped [[cystidia]] (15–50&nbsp;μm × 2–6&nbsp;μm), and the [[hypha]]e on the cap [[cuticle]] can also have lobes. It is contended that ''G.&nbsp;dryophilus'' in fact consists of a [[species complex|complex]] of different species and that several new species (including ''G. brunneolus'', ''G.&nbsp;earleae'' and ''G.&nbsp;subsulphureus'') should be split off from it.<ref name=Kuo/>  However these species are not generally recognized at present.<ref>[http://www.indexfungorum.org/Index.htm Index Fungorum]</ref>
+
+The species may carry the parasite ''[[Syzygospora mycetophila]]'', which causes pale growths on the mushroom surface.<ref name=":1" />
+
+=== Similar species ===
+Outside of its genus, it may resemble ''[[Marasmius strictipes]]''.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=466}}</ref> Additionally, ''[[Rhodocollybia butyracea]]''<ref name=":0" /> has a pinkish spore deposit, and some of the spores turn reddish-brown in Melzer's reagent.<ref name=":1" />
+
+==Distribution and habitat==
+This fungus is very common in Northern Hemisphere temperate woodlands (so much so that it is sometimes considered a "weed" mushroom).<ref name=Kuo>Kuo, M. (2008, May). [http://www.mushroomexpert.com/gymnopus_dryophilus.html ''Gymnopus dryophilus''] at the MushroomExpert.Com Web site)</ref> It fruits from April to December<ref>Régis Courtecuisse : "Mushrooms of Britain & Europe" (Harper Collins 1999).  {{ISBN|0-00-220012-0}}</ref> and is often seen when there are few other fungi in evidence. Although the [[Greek language|Greek]] [[specific name (botany)|epithet]] ''dryophilus'' means "lover of oak trees", it is also found with other broad-leaved trees and with [[conifer]]s.
+
+Grows in arcs and fairy rings in oak and pine woods, or as clusters on wood chip mulch from May to October.<ref name=":2">{{Cite book |last=Russell |first=Bill |title=Field Guide to Wild Mushrooms of Pennsylvania and the Mid-Atlantic |publisher=Pennsylvania State University Press |year=2006 |isbn=0-271-02891-2 |pages=36 |language=en}}</ref>
+
+==Edibility==
+The species contains toxins which may cause severe gastrointestinal issues.<ref name="Miller 2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=178|author-link=Orson K. Miller Jr.}}</ref> However, it has been listed as [[edible mushroom|edible]] by some sources, though not worthwhile.<ref name="Bon"/><ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=70}}</ref> It is recommended not to eat the stem, which is tough. <ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/215/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=215 |orig-date=1979}}</ref>
+
+It has been found to contain [[anti-inflammatory]] [[beta-glucans]].<ref>Pacheco-Sanchez M, Boutin Y, Angers P, Gosselin A, Tweddell RJ. (2006). A bioactive (1→3)-, (1→4)-β-D-glucan from ''Collybia dryophila'' and other mushrooms. ''[[Mycologia]]''. '''98'''(2): 180-5.</ref>
+
+The mushroom has a sweet nutty flavor and should not be eaten in contaminated places like industrial or near roads due to its capacity to take up mercury. It is edible but may cause gastrointestinal issues in some people.<ref name=":2" />
+
+==References==
+{{Reflist|colwidth=30em}}
+
+{{cc}}
+
+==External links==
+*[http://www.speciesfungorum.org/Names/Names.asp Index Fungorum]
+*[https://web.archive.org/web/20070820101227/http://nt.ars-grin.gov/fungaldatabases/ USDA ARS Fungal Database]
+*[http://healing-mushrooms.net/archives/gymnopus-dryophilus.html “''Gymnopus dryophilus''”] by Robert Sasata, ''Healing-Mushrooms.net'', December, 2007.
+*Kuo, M. (2008, May) [http://www.mushroomexpert.com/gymnopus_dryophilus.html ''Gymnopus dryophilus'' at the MushroomExpert.Com Web site]
+
+{{Taxonbar|from=Q1663542}}
+
+[[Category:Fungal plant pathogens and diseases]]
+[[Category:Fungi of Europe]]
+[[Category:Omphalotaceae]]
+[[Category:Taxa named by Jean Baptiste François Pierre Bulliard]]
+[[Category:Fungus species]]

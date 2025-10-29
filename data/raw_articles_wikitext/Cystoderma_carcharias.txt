@@ -1,0 +1,61 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image =  Cystoderma carcharias 27630.jpg
+| status =
+| taxon = Cystoderma carcharias
+| authority = ([[Christiaan Hendrik Persoon|Pers.]]) [[Victor Fayod|Fayod]]
+| synonyms = ''Agaricus carcharias''<br />
+''Agaricus granulosus ''var.'' carcharias''<br />
+''Lepiota carcharias''<ref>{{cite web | title=''Cystoderma carcharias'' taxon record details at Index Fungorum | publisher=CAB International | url=http://www.indexfungorum.org/Names/SynSpecies.asp?RecordID=357219 | access-date=January 11, 2010 | archive-date=June 10, 2011 | archive-url=https://web.archive.org/web/20110610071934/http://www.indexfungorum.org/Names/SynSpecies.asp?RecordID=357219 }}</ref>
+}}
+{{Mycomorphbox
+| name = ''Cystoderma carcharias''
+| whichGills2 = adnate
+| capShape = convex
+| capShape2 = flat
+| hymeniumType = gills
+| stipeCharacter = ring
+| ecologicalType = saprotrophic
+| sporePrintColor = white
+| howEdible = inedible
+}}
+
+'''''Cystoderma carcharias''''', is a [[species]] of [[agaric]] in the [[fungus|fungal]] [[family (biology)|family]] [[Agaricaceae]]. It has a widespread distribution, and has been collected in [[coniferous forest]]s and grasslands in Asia, Europe, North America, and the subantarctic islands. In the field, fruit bodies are characterized by a pink [[pileus (mycology)|cap]] up to {{convert|6|cm|in|1|abbr=on}} broad, a well-developed [[annulus (mycology)|ring]] on the [[stipe (mycology)|stem]], and an unpleasant odour.
+
+== Taxonomy ==
+
+The species was first described scientifically by [[Christian Hendrik Persoon]], who named it ''Agaricus carcharias'' in 1794.<ref name=Persoon1794>{{cite journal |title=Dispositio methodica fungorum |author=Persoon CH. |journal=Neues Magazin für die Botanik, Römer |volume=1 |year=1794 |pages=81–128 |language=la}}</ref> Swiss mycologist [[Victor Fayod]] assigned it its current name in 1889.<ref name=Fayod1889>{{cite journal |author=Fayod MV. |year=1889 |title=Prodrome d'une histoire naturelle des Agaricinés |journal=Annales des Sciences Naturelles, Botanique |volume=9 |series=VII |page=351 |language=fr}}</ref> The [[specific name (botany)|specific epithet]] ''carcharias'' is probably derived from the [[Greek (language)|Greek]] καρχαρός (''karcharos'') which means sharp, pointed or jagged. καρχαρίας (''karcharias'') is translated as [[shark]].
+
+== Description ==
+
+The [[Basidiocarp|fruiting body]] of ''Cystoderma carcharias'' is a relatively small [[agaric]]. The fruiting body is characterised by an off-white and pale pink-tinged [[Pileus (mycology)|cap]] with a distinct darker central spot, and a powdery cuticle. The cap is at first convex, but with maturity becomes flat and slightly [[wikt:umbonate|umbonate]]. The cap is up to {{convert|6|cm|in|1|abbr=on}} in diameter and may bear a margin fringed with remnants of a [[partial veil]]. The [[Lamella (mycology)|gills]] are white, adnate and crowded. The [[stipe (mycology)|stem]] is white and smooth above, and granular below a white, upturned, flared and persistent [[Annulus (mycology)|ring]]. The [[Stipe (mycology)|stem]] is cylindrical and up to {{convert|7|cm|in|1|abbr=on}} tall. The [[trama (mycology)|flesh]] is white, firm and full throughout.<ref name=Jordan>{{cite book |author=Jordan M. |title=The Encyclopedia of Fungi of Britain and Europe |publisher=David & Charles |location=London |year=1995 |page=214 |isbn=0-7153-0129-2}}</ref><ref name="Gerault">{{Cite journal | last = Gerault | first = Alain | title = ''Florule Evolutive des ''Basidiomycotina'' du Finistere – Heterobasidiomycetes – Tricholomatales (in French)''| version = 2.1 | date = October 2005| url = http://projet.aulnaies.free.fr/Florules/TRICHOLOMATALES.pdf}}</ref> Additionally, ''C.&nbsp;carcharias'' forma ''album'' is a form recognised as having a snow-white cap.<ref>{{cite web | title=Trial field key to the species of ''Cystoderma'' in the Pacific Northwest | publisher=Pacific Northwest Key Council | url=http://www.svims.ca/council/Cystod.htm | access-date=January 30, 2010 }}</ref>
+
+Under a microscope, the [[spore]]s are ellipsoid, with dimensions 4–5.5 by 3–4&nbsp;[[micrometre|μm]]. The spores are white and [[Amyloid (mycology)|amyloid]]. The [[Basidium|basidia]] are 4-spored,<ref name=Jordan/><ref name=Gerault/><ref name="phylotaxo">{{cite journal |vauthors=Saar I, Põldmaa K, Kõljalg U |year=2009 |title=The phylogeny and taxonomy of genera ''Cystoderma'' and ''Cystodermella'' (Agaricales) based on nuclear ITS and LSU sequences|journal=Mycological Progress|volume=8 |pages=59–73 |doi=10.1007/s11557-008-0578-9|s2cid=31184798 }}</ref> club-shaped, and measure 20–25 by 4–6&nbsp;μm.<ref name=Saar2003>{{cite journal |author=Saar I. |year=2003 |title=The genera ''Cystoderma'' and ''Cystodermella'' (Tricholomataceae) in temperate Eurasia |journal=Mycotaxon |volume=86 |pages=455–73 |url=http://www.cybertruffle.org.uk/cyberliber/59575/0086/0455.htm |access-date=2010-01-29}}</ref>
+
+The fruiting body of ''C. carcharias'' bears a characteristic strong, unpleasant odour. The odour has been described as earthy, muddy and mouldy by various authors. This has been attributed to the presence of the compound [[geosmin]].<ref name="advances">{{cite book|author=Tkacz J. S.|author2= Lange L.|year=2004|title=Advances in fungal biotechnology for industry, agriculture, and medicine|page=342|publisher=Springer|isbn=0-306-47866-8}}</ref> The taste is not distinctive.
+
+''Cystoderma carcharias'' is a fairly common fungus distributed in Europe, North America and [[temperate]] Asia,<ref name=Saar2003/> typically occurring in [[coniferous forest]]s.<ref name=Dennis1980>{{cite journal |author=Dennis RWG. |year=1980 |title=Micro fungi of St. Kilda |journal=Kew Bulletin |volume=34 |issue=3 |pages=742–44 |doi=10.2307/4119067|jstor=4119067 }}</ref> It has also been found on the treeless, Australian subantarctic [[Macquarie Island]].<ref>{{cite web | title=Interactive Catalogue of Australian Fungi: ''Cystoderma carcharias'' | publisher=Royal Botanic Gardens, Melbourne | url=http://www.rbg.vic.gov.au/dbpages/cat/index.php/fungicatalogue/name/831 | access-date=February 7, 2012 | archive-url=https://web.archive.org/web/20120330074624/http://www.rbg.vic.gov.au/dbpages/cat/index.php/fungicatalogue/name/831 | archive-date=March 30, 2012 }}</ref> Fruit bodies are found singly or in groups on soil among grass or moss during late summer and autumn. The fungus is an [[Acidophile (organisms)|acidophilic]] litter [[Saprotrophic nutrition|saprotroph]] growing frequently under conifers, namely spruce.
+
+''Cystoderma carcharias'' accumulates cadmium in its fruiting bodies. In polluted areas, cadmium concentrations may even exceed 600&nbsp;mg/kg in dry mass.<ref name="Borovička et al.2019">{{cite journal |author=Borovička J., Braeuer S., Sácký J., Kameník J., Goessler W., Trubač J., Strnad L., Rohovec J., Leonhardt T., Kotrba P. |year=2019 |title=Speciation analysis of elements accumulated in ''Cystoderma carcharias'' from clean and smelter-polluted sites |journal=Science of the Total Environment |volume=648 |pages=1570–1581 |doi=10.1016/j.scitotenv.2018.08.202|pmid=30340302 |bibcode=2019ScTEn.648.1570B |s2cid=53009222 }}</ref> Intracellular Cd accumulated in sporocarps of ''C. carcharias'' is associated with two isoforms of metallothioneins.<ref name="Sácký et al. 2021">{{cite journal |author=Sácký J., Černý J., Šantrůček J., Borovička J., Leonhardt T., Kotrba P. |year=2021 |title=Cadmium hyperaccumulating mushroom ''Cystoderma carcharias'' has two metallothionein isoforms usable for cadmium and copper storage |journal=Fungal Genetics and Biology |volume=153 |article-number=103574 |doi=10.1016/j.fgb.2021.103574|pmid=34015433 |s2cid=235075332 }}</ref> Furthermore, ''C. carcharias'' contains numerous organoarsenic compounds from which dimethylarsinoylacetate and trimethylarsoniopropionate have been reported for the first time in the terrestrial environment.<ref name="Borovička et al.2019"/>
+
+This fungus has been deemed inedible by various authors.<ref name=Jordan/><ref name=champignons>{{cite book |author=Polèse J. |author2=Deconchat C. |title=Champignons. L'encyclopédie |publisher=Editions Artemis |location=Losange |year=2002 |page=245 |isbn=2-84416-145-6}}</ref>
+
+== References ==
+
+{{Reflist}}
+
+== External links ==
+{{Commons}}
+*{{MycoBank|357219}}
+*{{IndexFungorum|357219|name=''Cystoderma carcharias''}}
+* [https://web.archive.org/web/20110615104416/http://www.bioimages.org.uk/html/t78412.htm Scientific images] at BioImages (UK)
+
+{{Taxonbar|from=Q2640662}}
+
+[[Category:Agaricaceae]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Australia]]
+[[Category:Inedible fungi]]
+[[Category:Fungus species]]

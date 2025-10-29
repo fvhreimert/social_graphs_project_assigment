@@ -1,0 +1,52 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Amantina altipes.webp
+| taxon = Amanita altipes
+| authority = Zhu L.Yang, M.Weiss & Oberw. (2004)
+}}
+{{mycomorphbox
+| name = ''Amanita altipes''
+| whichGills = free
+| capShape = umbonate
+| hymeniumType = gills
+| stipeCharacter = ring and volva
+| ecologicalType = mycorrhizal
+| sporePrintColor = white
+| howEdible = inedible 
+}}
+
+'''''Amanita altipes''''', also called the '''yellow long-stem amanita''', is a species of [[agaric]] fungus found in [[conifer]]ous woodlands in southwestern [[People's Republic of China|China]].
+
+==Description==
+
+''Amanita altipes'' is a small to medium-sized agaric with a distinctively yellowish overall coloration. The [[pileus (mycology)|cap]] has a diameter of up to {{convert|9|cm|abbr=off|frac=2}} and is yellow, often brownish towards the centre. The appearance of the cap may be convex to plano-convex. The volva is present as felty, floccose patches, {{Convert|2–5|mm|abbr=out|frac=16}} wide and up to 1&nbsp;mm thick. Unlike many of its relatives (e.g. ''[[Amanita pantherina|A. pantherina]]''), the remnants of the [[universal veil]] do not usually persist on the cap, being easily washed away by rain.<ref name="urlTulloss"/> The yellowish [[stipe (mycology)|stipe]] is relatively long (up to {{Convert|16|cm|abbr=on|disp=or|frac=2}}), and usually tapers upwards. There is a large, persistent [[annulus (mycology)|ring]]. The [[lamella (mycology)|gills]] are free, crowded, and white to cream-colored to yellowish. The short gills (lamellulae) are truncate, numerous, and are evenly distributed. The [[basidiospore|spores]] measure 8.0–10.0 by 7.5–9.5&nbsp;[[micrometre|μm]] and are spherical (or nearly so) and [[inamyloid]]. There are no [[clamp connection|clamps]] present at the bases of [[basidia]]. The [[trama (mycology)|flesh]] is white in color and inedible.
+
+==Etymology==
+The [[botanical name|specific epithet]] ''altipes'' means "referring to the long stipe", and it suits the species as it has a longer stipe compared to its relatives.<ref name="Yang 2004" />
+
+==Distribution and habitat==
+
+This species is widespread in southwestern [[People's Republic of China|China]], mostly in [[Yunnan]].<ref name="Zhang 2004" />  It has also been reported that it is found in eastern [[Himalayas]] and adjacent regions.<ref name="Yang 2004" /> It grows on soil in coniferous (''[[Abies]]'', ''[[Picea]]'') and broadleaved (''[[Betula]]'', ''[[Quercus]]'', ''[[Salix]]'') woodland in southwestern China up to an altitude of {{convert|4000|m|abbr=off}}.<ref name="VGuide">{{cite web |last=OVGuide |title=Amanita altipes video |url=http://www.ovguide.com/amanita-altipes-9202a8c04000641f800000000560109f# |url-status=dead |archive-url=https://web.archive.org/web/20110807213159/http://www.ovguide.com/amanita-altipes-9202a8c04000641f800000000560109f |archive-date=2011-08-07 |access-date=2011-03-19 |work=All Media Guide (AMG)}}</ref>
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Amanita species|List of ''Amanita'' species]]
+
+==References==
+{{reflist|refs=
+
+<ref name="Yang 2004">{{cite journal |vauthors =Yang ZL, Weib M, Oberwinkler F |title=New species of ''Amanita'' from the eastern Himalaya and adjacent regions |journal=Mycologia |year=2004 |volume=96 |issue=3 |pages=636–46 |url=http://www.mycologia.org/cgi/reprint/96/3/636.pdf |doi=10.2307/3762180 |jstor=3762180 |pmid=21148883}}</ref>
+
+<ref name="urlTulloss">{{cite web |author =Tulloss RE. |title=''Amanita altipes'' Zhu L. Yang, M. Weiss & Oberw. "Yellow Long-Stem Amanita" |url=http://www.njcc.com/~ret/amanita/species/altipess.html}}</ref>
+
+<ref name="Zhang 2004">{{cite journal |author =Zhang L. |author2 =Yang J |author3 =Yang Z. |title=Molecular phylogeny of eastern Asian species of ''Amanita'' (Agaricales, Basidiomycota): taxonomic and biogeographic implications |journal=Fungal Diversity |issue=17 |pages=219–38 |type = PDF}}</ref>
+
+}}
+{{Amanitas}}
+{{Taxonbar|from=Q1111372}}
+
+[[Category:Amanita|altipes]]
+[[Category:Fungi of China]]
+[[Category:Fungi described in 2004]]
+[[Category:Taxa named by Franz Oberwinkler]]
+[[Category:Fungus species]]

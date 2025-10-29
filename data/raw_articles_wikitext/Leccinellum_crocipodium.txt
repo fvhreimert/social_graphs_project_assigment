@@ -1,0 +1,55 @@
+{{Short description|Species of fungus}}
+{{Speciesbox 
+| image = 2012-06-24 Leccinellum crocipodium (Letell.) Bresinsky & Manfr. Binder 236436.jpg
+| genus = Leccinellum
+| species = crocipodium
+| authority = ([[Letell.]]) Bresinsky & Manfr. Binder (2003)
+| synonyms_ref = <ref name="urlMycoBank: Leccinellum crocipodium"/>
+| synonyms = 
+  {{plainlist|
+*''Boletus crocipodius'' <small>Letell. (1838)</small>
+*''Boletus tessellatus'' <small>[[Claude Casimir Gillet|Gillet]] (1878)</small>
+*''Boletus nigrescens'' <small>Richon & Roze (1888)</small> 
+*''Krombholzia crocipodia'' <small>(Letell.) E.-J. Gilbert (1931)</small>
+*''Krombholziella crocipodia'' <small>(Letell.) [[René Maire|Maire]] (1937)</small>
+*''Trachypus crocipodius'' <small>(Letell.) [[Romagn.]] (1939)</small>
+*''Leccinum nigrescens'' <small>[[Rolf Singer|Singer]] (1947)</small>
+*''Leccinum crocipodium'' <small>(Letell.) Watling (1961)</small>
+*''Krombholziella nigrescens'' <small>(Singer) Šutara (1982)</small>
+*''Leccinellum nigrescens'' <small>(Singer) Bresinsky & Manfr. Binder (2003)</small>
+  }}
+}}
+{{ mycomorphbox
+| name             = ''Leccinellum crocipodium''
+| whichGills       = adnate
+| capShape         = convex
+| hymeniumType     = pores
+| stipeCharacter   = bare
+| ecologicalType   = mycorrhizal
+| howEdible        = edible
+}}
+
+'''''Leccinellum crocipodium''''' is a species of [[bolete]] fungus in the family [[Boletaceae]]. [[Basidiocarp|Fruitbodies]] contain a benzotropolone [[biological pigment|pigment]] called crocipodin.<ref name="Kerschensteiner 2011"/>
+
+==References==
+{{Reflist|refs=
+
+<ref name="Kerschensteiner 2011">{{cite journal |vauthors=Kerschensteiner L, Löbermann F, Steglich W, Trauner D |title=Crocipodin, a benzotropolone pigment from the mushroom ''Leccinum crocipodium'' (Boletales) |journal=Tetrahedron |year=2011 |volume=67 |issue=8 |pages=1536–9 |doi=10.1016/j.tet.2010.12.060}}</ref>
+
+<ref name="urlMycoBank: Leccinellum crocipodium">{{cite web |title=''Leccinellum crocipodium'' (Letell.) Bresinsky & Manfr. Binder, Regensburger Mykologische Schriften, 11: 233, 2003 |url=http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=427288&Fields=All |publisher=[[MycoBank]]. International Mycological Association |accessdate=2013-05-24}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|486769}}
+
+{{Taxonbar|from=Q2523867}}
+
+[[Category:Leccinellum|crocipodium]]
+[[Category:Fungi described in 1838]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]
+
+
+{{Boletales-stub}}

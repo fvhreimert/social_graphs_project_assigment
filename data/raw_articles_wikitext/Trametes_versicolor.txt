@@ -1,0 +1,94 @@
+{{Short description|Species of mushroom}}
+{{Redirect|Turkey tail|the tail of a turkey|Pygostyle}}
+{{Use dmy dates|date=February 2020}}
+{{Speciesbox
+| image = Trametes versicolor G4 (1).JPG
+| genus = Trametes
+| species = versicolor
+| authority = ([[Carl Linnaeus|L.]]) [[Curtis Gates Lloyd|Lloyd]] (1920)
+| synonyms = ''Boletus versicolor'' <small>L. (1753)</small><br/>
+''Polyporus versicolor'' <small>([[Carl Linnaeus|L.]]) [[Elias Magnus Fries|Fr.]] (1821)</small><br/>
+''Coriolus versicolor'' <small>([[Carl Linnaeus|L.]]) [[Quél.]] (1886)</small>
+}}
+{{Mycomorphbox
+| name = ''Trametes versicolor''
+| hymeniumType=pores
+| capShape = offset
+| capShape2 = no
+| whichGills = decurrent
+| stipeCharacter=NA
+| sporePrintColor=white
+| sporePrintColor2=yellow
+| ecologicalType=saprotrophic
+| howEdible=too hard to eat
+}}
+
+'''''Trametes versicolor'''''{{Snd}}also known as ''Coriolus versicolor'' and ''Polyporus versicolor{{Snd}}''is a common [[polypore]] mushroom found throughout the world. Owing to its shape being similar to that of a [[wild turkey]]'s tail feathers, ''T.&nbsp;versicolor'' is most commonly referred to as '''turkey tail'''.<ref>{{Cite book |last1=Sisson |first1=Liv |url=https://www.worldcat.org/title/on1372569849 |title=Fungi of Aotearoa: a curious forager's field guide |last2=Vigus |first2=Paula |date=2023 |publisher=Penguin Books |isbn=978-1-76104-787-9 |location=Auckland, New Zealand |pages=266 |oclc=on1372569849}}</ref>
+
+
+
+Although [[polysaccharide-K]], an extract of ''T. versicolor'', is approved in Japan as an [[adjuvant therapy]] in cancer treatment,<ref name="drugs">{{Cite web |title=Turkey Tail Uses, Benefits & Dosage |url=https://www.drugs.com/npp/turkey-tail.html |access-date=2025-06-20 |website=Drugs.com |language=en}}</ref> it is not approved in the United States for treatment of cancer or any clinical condition.<ref name="pdq">{{cite web |title=Medicinal Mushrooms (PDQ) |url=https://www.ncbi.nlm.nih.gov/books/NBK424937/ |publisher=Physician Data Query (PDQ), US National Cancer Institute |access-date=20 June 2025 |date=2 March 2017}}</ref> Extracts of turkey tail or the mushroom itself are commonly marketed as a [[dietary supplement]] for various health benefits, but there is no good [[scientific evidence]] for safety or effectiveness, and quality can vary due to inconsistent processing and labeling.<ref name="opss">{{cite web |title=Mushrooms in dietary supplements |url=https://www.opss.org/article/mushrooms-dietary-supplements |website=Operation Supplement Safety |publisher=Consortium for Health and Military Performance |date=2020-07-29 |access-date=2025-05-19}}</ref>
+
+==Etymology==
+Meaning 'of several colors', ''versicolor'' accurately describes this fungus that displays a unique blend of markings.
+
+==Description==
+The fruiting body is somewhat tongue-shaped, with no discernable stalk, and the tough flesh is {{Convert|1–3|mm|frac=16}} thick. The cap is flat, up to {{Convert|10|cm|frac=4}} across.<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/594/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=594 |orig-date=1979}}</ref> It is often triangular or round, with zones of fine hairs coloured rust-brown or darker brown, sometimes with black zones.<ref name="Arora1986" /> Underneath a layer of tomentum is a black layer, topping the whitish flesh.<ref name=":2">{{cite book |last1=Trudell |first1=Steve |url=https://books.google.com/books?id=WevHvt6Tr8kC |title=Mushrooms of the Pacific Northwest |last2=Ammirati |first2=Joe |publisher=Timber Press |year=2009 |isbn=978-0-88192-935-5 |series=Timber Press Field Guides |location=Portland, OR |pages=264 |language=en}}</ref> Older specimens can have zones with green [[algae]] growing on them.<ref name="Arora1986" />
+
+The bottom surface of the cap shows typical concentric zones of different colors, with the margin always the lightest.<ref name=":0">{{Cite web |title=Turkey Tail |url=https://nature.mdc.mo.gov/discover-nature/field-guide/turkey-tail |access-date=2021-02-14 |website=MDC Discover Nature |language=en}}</ref> There are 3–5 pores per mm. They are whitish to light brown,<ref name="Arora1986" /> with pores round and with age twisted and labyrinthine.
+
+=== Similar species ===
+One similar-looking mushroom is ''[[Stereum ostrea]]'' (false turkey tail).<ref name=":0" />
+
+Other similar species include ''[[Trametes betulina]]'',<ref name=":0" /> [[Trametes hirsuta|''T.&nbsp;hirsuta'']],<ref name=":1" /> ''[[Trametes ochracea|T.&nbsp;ochracea]]'',<ref name=":2" /> ''[[Trametes suaveolens|T.&nbsp;suaveolens]]'', ''[[Bjerkandera adusta]]'',<ref name=":1" /> ''[[Cerrena unicolor]]'',<ref name=":2" /> ''[[Lenzites betulina]]'', and ''[[Stereum hirsutum]]''.<ref name=":1" /> Other species of ''[[Stereum]]'' are similar, typically with a smooth undersurface, as well as some species of ''[[Trichaptum]]''.<ref name=":2" />
+
+== Ecology ==
+''T. versicolor'' commonly grows in tiled layers in groups or rows on logs and stumps of deciduous trees.<ref name=":0" /> It is a [[white rot fungus]] which degrades [[lignin]] from [[lignocellulosic]] materials, such as wood.<ref>{{Cite journal|last=S.|first=Pointing|date=2001-10-01|title=Feasibility of bioremediation by white-rot fungi|url=http://link.springer.com/10.1007/s002530100745|journal=Applied Microbiology and Biotechnology|volume=57|issue=1–2|pages=20–33|doi=10.1007/s002530100745|pmid=11693920 |s2cid=33607687 |issn=0175-7598|url-access=subscription}}</ref>
+
+The species may be eaten by [[caterpillar]]s of the [[fungus moth]] ''[[Nemaxera betulinella]]'', [[maggot]]s of the [[Platypezid]] fly ''[[Polyporivora picta]]'',<ref name="Chandler2001">{{Citation|last=Chandler|first=Peter J.|title=The Flat-footed flies (Opetiidae and Platypezidae) of Europe|series=[[Fauna Entomologica Scandinavica]]|volume=36|date=2001|publisher=Brill|location=Leiden|isbn=90-04-12023-8|pages=1–278}}</ref> and the fungus gnat ''[[Mycetophila luctuosa]]''.<ref>{{citation|doi=10.33338/ef.4693|title=Fungus gnats (Diptera: Sciaroidea) associated with dead wood and wood growing fungi: New rearing data from Finland and Russian Karelia and general analysis of known larval microhabitats in Europe|url=https://www.researchgate.net/publication/279468561|journal=Entomologica Fennica|volume=22|issue=3|year=2011|last1=Jakovlev|first1=Jevgeni|doi-access=free}}</ref>
+
+==Uses==
+{{further|Polysaccharide-K}}
+''Trametes versicolor'' is considered too tough to eat,<ref name="Arora1986" /> but can be prepared in many ways, such as teas and powders. It has been most notably consumed in [[China]] for thousands of years under the name "Yunzhi" ({{zh|c=云芝}}).<ref name=":1">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=356–357|oclc=797915861}}</ref><ref>{{cite book |last=Meuninck |first=Jim |title=Foraging Mushrooms Oregon: Finding, Identifying, and Preparing Edible Wild Mushrooms |date=2017 |publisher=[[Falcon Guides]] |isbn=978-1-4930-2669-2 |page=51}}</ref><ref>{{cite web |title=Trametes versicolor |url=https://midwestmycology.org/trametes-versicolor/#:~:text=Trametes%20are%20not%20usually%20considered,they%20are%20tough%20and%20leathery. |website=midwestmycology.org | date=25 June 2019 |access-date=27 June 2024 |ref=Used in edibility}}</ref><ref name="ncbi">{{cite journal |title=Biological Degradation of Chinese Fir with Trametes Versicolor (L.) Lloyd |date=2017 |pmc=5551877 |last1=Chen |first1=M. |last2=Wang |first2=C. |last3=Fei |first3=B. |last4=Ma |first4=X. |last5=Zhang |first5=B. |last6=Zhang |first6=S. |last7=Huang |first7=A. |journal=Materials |volume=10 |issue=7 |page=834 |doi=10.3390/ma10070834 |doi-access=free |pmid=28773191 |bibcode=2017Mate...10..834C }}</ref>
+
+The species may be used in [[traditional Chinese medicine]] or other [[herbalism]] practices.<ref name="pdq"/><ref>{{cite book |last=Meuninck |first=Jim |title=Foraging Mushrooms Oregon: Finding, Identifying, and Preparing Edible Wild Mushrooms |date=2017 |publisher=[[Falcon Guides]] |isbn=978-1-4930-2669-2 |page=52}}</ref>
+
+Although polysaccharide-K is approved in Japan as an [[adjuvant therapy]] in cancer treatment,<ref name=drugs/> neither the extract nor the mushroom preparation is approved or used in the United States for any clinical condition.<ref name=pdq/>
+
+It is commonly marketed as a [[dietary supplement]] for various health benefits but lacks sufficient [[scientific evidence]] for safety or effectiveness, and quality can vary due to inconsistent processing and labeling.<ref name=drugs/><ref name=opss/>
+
+==Gallery==
+<gallery>
+Image:Schmetterlingstramete_Trametes_versicolor_001.jpg|''T. versicolor'' covering a stump
+Image:Schmetterlingstramete Trametes versicolor 004.jpg|Close up of ''T. versicolor''.
+Image:Trametes_versicolor_2.jpg|Color variation of ''T. versicolor'' on the same tree stump
+Image:Trametes.versicolor4.-.lindsey.jpg|Pale specimens
+Image:Schmetterlingstramete_(Trametes_versicolor)_-_hms(1).jpg|Brown variety
+Image:Trametes_versicolor_different_colours.jpg|Pale and brown varieties side by side
+File:Schmetterlingsporling (Coriolus versicolor).jpg|Brown variety in higher magnification
+File:Tramete versicolor.jpg|''T. versicolor'', pale variety
+</gallery>
+
+==See also==
+* [[List of Trametes species|List of ''Trametes'' species]]
+* [[Polysaccharide peptide]]
+* [[Medicinal fungi]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons|Trametes versicolor|''Trametes versicolor''}}
+* [http://mushroom-collecting.com/mushroomturkey.html ''Trametes versicolor''] at Mushroom-Collecting.com
+
+{{Taxonbar|from=Q753833}}
+{{Authority control}}
+
+[[Category:Fungi described in 1753]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Medicinal fungi]]
+[[Category:Polyporaceae]]
+[[Category:Fungal taxa named by Carl Linnaeus]]
+[[Category:Fungus species]]
+[[Category:Fungi used for fiber dyes]]

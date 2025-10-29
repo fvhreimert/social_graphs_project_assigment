@@ -1,0 +1,105 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{Speciesbox
+| image = Hasenpfoten.jpg
+| image_caption = 
+| genus = Coprinopsis
+| species = lagopus
+| authority = ([[Elias Magnus Fries|Fr.]]) Redhead, Vilgalys & Moncalvo (2001)
+| synonyms = *''Agaricus lagopus'' <small>Fr. (1821)</small>
+*''Coprinus lagopus'' <small>(Fr.) Fr. (1838)</small>
+}}
+{{Mycomorphbox
+| name = ''Coprinopsis lagopus''
+| whichGills = free
+| capShape = ovate
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = saprotrophic
+| sporePrintColor = black
+| howEdible = unknown
+}}
+{{stack end}}
+
+'''''Coprinopsis lagopus''''', commonly known as the '''hare's foot inkcap''',<ref>{{Cite web |title=Coprinopsis lagopus, Hare'sfoot Inkcap mushroom |url=https://www.first-nature.com/fungi/coprinopsis-lagopus.php |access-date=2025-08-20 |website=www.first-nature.com}}</ref> '''harefoot mushroom''', or '''rabbit's foot inky cap''',<ref>{{Cite book |last=Siegel |first=Noah |title=Mushrooms of Cascadia: A Comprehensive Guide to Fungi of the Pacific Northwest |last2=Schwartz |first2=Christian |date=September 1, 2024 |publisher=Backcountry Press |isbn=9781941624197 |location=Humboldt County, California |pages=92}}</ref> is a species of [[fungus]] in the family [[Psathyrellaceae]]. It is commonly known as the '''harefoot mushroom''' due to the vague resemblance of the young fruit body to the paw of a white rabbit.<ref name="Crosier1949" />
+
+It is a delicate and short-lived fungus, the [[basidiocarps|fruit bodies]] lasting only a few hours before dissolving into a black ink – a process called ''deliquescence''.
+
+== Taxonomy ==
+Until 2001, the species was known as ''Coprinus lagopus''; advances in the understanding of [[phylogenetic]] relationships between the various coprinoid species led to a major reorganization of that genus.<ref name="Redhead2001" />
+
+==Description==
+The fruit body size of ''Coprinopsis lagopus'' can vary tremendously. This fungus gives rise to very small fruit bodies (known as dwarf fruit-bodies), some of which are less than one-hundredth the size of the larger ones. In a series of experiments, [[Arthur Henry Reginald Buller]] grew spores on horse dung and noted a large range of size variation: the smallest specimen having a [[stipe (mycology)|stem]] length of 1&nbsp;mm and [[pileus (mycology)|cap]] diameter of 0.75&nbsp;mm, while the largest specimen had a stem length of {{Cvt|18.4|cm|frac=8}} and cap diameter of 2&nbsp;cm.<ref>Buller (1924), pp. 83–5.</ref> Buller noted that the dwarf fruit-bodies are fully functional, producing and liberating spores in a manner identical with normal ones. The great variation in size has led some authors to erroneously name the dwarf fruit-bodies as new species. For example, George Edward Massee considered the dwarfs to be a new species, ''Coprinus radiatus''.<ref name="Buller">Buller (1924), p. 302.</ref> In general, dwarf fruit-bodies have stem lengths from 1–10&nbsp;mm tall and cap of 0.75–3&nbsp;mm in diameter, while large specimens have stems that are {{Cvt|5-18.5|cm|frac=8}} tall and 2–5&nbsp;mm wide, with cap diameters of {{Cvt|2–5|cm|frac=4}}.<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=207|oclc=797915861}}</ref> The thickness of the stem in the larger specimens is typically 4–6&nbsp;mm thick, up to 0.8&nbsp;mm thick at the club-shaped or bulbous base.<ref name=Miller2006/>
+
+The color of the cap surface is pale to very dark-brown at center beneath the whitish to silvery grey veil but becomes paler towards the margin. As the mushroom matures, the shape of the cap becomes more conical or convex, and finally flattens out, with edges curved upward. The [[veil (botany)|veil]] is initially whitish, then turns to a silvery grey or grey-brown; it eventually splits up, becoming hairy (fibrillose). The [[lamellae (mycology)|gills]] are freely attached to the stem, very thin and crowded closely together. Initially, the color of the gills is white, then progresses to grayish-brown then to black as the spores mature. In maturity the gill edges dissolve (''deliquesce'') into a black liquid.<ref name="urlCoprinopsis lagopus (MushroomExpert.Com)"/>
+
+These mushrooms are evanescent, lasting only a few hours before dying;<ref name="urlCalifornia Fungi: Coprinopsis lagopus"/> the autodigestive process is enhanced in humid environments. The stem is whitish in color, and is hollow, hairy (flocculose) over the whole surface but especially at lower parts, and becomes smooth ([[glabrousness (botany)|glabrous]]) with age. The [[spore print]] is violet-black.
+
+The species is nonpoisonous.<ref name="Miller2006" /> Its edibility is unknown but it is considered too small to be worthwhile.<ref name=":0" />
+
+{{gallery|mode=packed
+|Coprinopsis lagopus 122149.jpg|Cap of a mature specimen with deliquescing gills
+|Coprinopsis lagopus in California garden.jpg|Group of mushrooms
+}}
+
+===Microscopic features===
+The [[Basidiospore|spores]] have dimensions of 11–13 x 6–8&nbsp;[[μm]].<ref name="urlCalifornia Fungi: Coprinopsis lagopus"/> They are ellipsoid or ovoid in shape, with a rounded base and apex, dark red-brown in color, and [[nonamyloid]].
+
+; ''c'',&nbsp;cystidium; ''i'',&nbsp;interlamellar space]]
+
+The [[cystidia]] found on the sides of the gills (''pleurocystidia'') are abundant in large fruit bodies, fewer in number in the smaller specimens. These cells are oval, rounded at the apex with a bulge in the middle, and contracted into a stalk at the base. The length of these cells is typically 100–130&nbsp;μm, with a width of 35–45&nbsp;μm. Before the cap expands, each cystidium completely branches an interlamellar space, with both ends attached to the gills, help together by clasping ''paraphyses''. As the gill expands the cystidium breaks away from one gill and projects from the other gill. The [[basidia]] (spore-bearing cells) comes in two sizes; long basidia have dimensions of 40&nbsp;×&nbsp;8–10&nbsp;μm, while the shorter basidia have dimensions of 23&nbsp;×&nbsp;8–10&nbsp;μm. The basidia have four spores, which are attached by short sterigmata.<ref>Buller, pp. 306–7.</ref>
+
+=== Similar species ===
+The related species ''Coprinopsis lagopides'' <small>([[Petter Karsten|P. Karst]]) Redhead, Vilgalys & Montcalvo</small> is similar in appearance, but more typically grows on a substrates like humus, or burnt or charred wood; it also tends to deliquesce more quickly and completely than ''C.&nbsp;lagopus''. ''C.&nbsp;lagopides'' may be distinguished microscopically by its smaller spores (6–9 by 5–7&nbsp;μm) that are roughly spherical or [[wikt:ovoid|ovoid]] in shape, rather than elliptical as in ''C.&nbsp;lagopus''.<ref name="Miller2006" />
+
+== Habitat and distribution ==
+''Coprinopsis lagopus'' grows solitarily or in groups in soil as well as on wood chips,<ref>{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=197}}</ref> compost heaps, vegetable refuse, horse dung,{{citation needed|date=October 2022}} or cattle dung<ref name="Pauline et al 2022">{{cite journal |last1=Pauline |first1=N'Douba Amako |last2=Claude |first2=Kouassi Kouadio |last3=Clovis |first3=Koffi N'Dono Boni |last4=Allal |first4=Douira |last5=Koutoua |first5=Ayolié |date=2022 |title=Coprophilous fungi of Daloa city: New species for the fungal flora of Côte d'Ivoire |url= |doi=10.30574/gscbps.2022.20.3.0362 |journal=GSC Biological and Pharmaceutical Sciences |volume=20 |issue=3 |pages=251–260|doi-access=free }}</ref> from autumn to mid-winter. It has a widespread distribution throughout the world.
+
+==Bioactive compounds==
+''Coprinopsis lagopus'' produces four [[sesquiterpene]] compounds that are collectively named lagopodins, which have some [[antibiotic]] activity.<ref name=Botton1975/> A [[total synthesis]] of lagopodin A was achieved in 2006.<ref name=Srikrishna2006/>
+
+==Genetics==
+''Coprinopis lagopus'' has been used as a model system for studying mushroom physiology and genetics for many decades.<ref name=Day1960/><ref name=Clark1964/><ref name=Casselton1965/><ref name=Lu1978/>
+
+==See also==
+{{portal|Fungi}}
+*[[List of Coprinopsis species|List of ''Coprinopsis'' species]]
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=Botton1975>{{cite journal |vauthors=Botton CR, Siehr DJ |year=1975 |title=Hydroxylagopodin B, a sesquiterpene quinone from a mutant strain of ''Coprinus macrorhizus'' var. ''microsporus'' |journal=Phytochemistry |volume=14 |issue= 5–6 |page=1433 |doi=10.1016/S0031-9422(00)98645-X|bibcode=1975PChem..14.1433B }}</ref>
+
+<ref name=Casselton1965>{{cite journal |author=Casselton LA |title=The production and behavior of diploids of ''Coprinus lagopus'' |journal=Genetics Research |volume=124 |issue=2 |pages=190–208 |year=1965 |pmid=14345906|doi=10.1017/S0016672300004080 |doi-access=free }}</ref>
+
+<ref name=Clark1964>{{cite journal |vauthors=Clark E, Bowbury RJ |title=Studies of methionine synthesis in ''Coprinus lagopus'' |journal=Journal of General Microbiology |volume=36 |issue=3 |pages=333–9 |year=1964 |pmid=14217348 |doi=10.1099/00221287-36-3-333|doi-access=free }}</ref>
+
+<ref name=Crosier1949>{{cite journal |vauthors=Crosier WF, Patrick SR, Heit CE, McSwain E |title=The Harefoot Mushroom, ''Coprinus lagopus'' Fr., on fruits used commercially as seedstocks |journal=[[Science (journal)|Science]] |volume=110 |issue=2844 |pages=13–14 |year=1949 |pmid=17753812 |doi=10.1126/science.110.2844.13|bibcode=1949Sci...110...13C }}</ref>
+
+<ref name=Day1960>{{cite journal |author=Day PR |title=The structure of the mating type locus in ''Coprinus lagopus'' |journal=Genetics |volume=45 |issue=5 |pages=641–50 |year=1960 |doi=10.1093/genetics/45.5.641 |pmid=17247950 |pmc=1210076 |url=http://www.genetics.org/cgi/pmidlookup?view=long&pmid=17247950}}</ref>
+
+<ref name=Lu1978>{{cite journal |author=Lu BC. |title=Meiosis in Coprinus. VIII. A time-course study of the fusion and division of the spindle pole body during meiosis |journal=Journal of Cell Biology |volume=76 |issue=3 |pages=761–66 |year=1978 |pmid=564915 |pmc=2109999 |doi=10.1083/jcb.76.3.761 }}</ref>
+
+<ref name=Miller2006>{{cite book |vauthors=Miller HR, Miller OK |title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi |publisher=Falcon Guide |location=Guilford, CN |year=2006 |page=232 |isbn=978-0-7627-3109-1}}</ref>
+
+<ref name=Redhead2001>{{cite journal |vauthors=Redhead SA, Vilgalys R, ((Moncalvo J-M)), Johnson J, Hopple JS Jr |title=''Coprinus'' Persoon and the disposition of ''Coprinus'' species sensu lato |year=2001 |journal=Taxon |volume=50 |issue=1 |pages=203–41|doi=10.2307/1224525|jstor=1224525 |bibcode=2001Taxon..50..203R }}</ref>
+
+<ref name=Srikrishna2006>{{cite journal |vauthors=Srikrishna A, Lakshmi BV, Ravikumar PC |year=2006 |title=The first total synthesis of (+/-)-lagopodin A |journal=Tetrahedron Letters |volume=47 |issue=8 |pages=1277–81 |doi=10.1016/j.tetlet.2005.12.071 }}</ref>
+
+<ref name="urlCalifornia Fungi: Coprinopsis lagopus">{{cite web |url=http://www.mykoweb.com/CAF/species/Coprinopsis_lagopus.html |title=''Coprinopsis lagopus'' |work=California Fungi |access-date=2009-03-22}}</ref>
+
+<ref name="urlCoprinopsis lagopus (MushroomExpert.Com)">{{cite web|url=http://www.mushroomexpert.com/coprinopsis_lagopus.html |title=''Coprinopsis lagopus'' |author=Kuo M |work=MushroomExpert.Com |access-date=2009-03-22}}</ref>
+
+}}
+
+===Cited texts===
+* Buller AHR. (1924). ''Researches on Fungi''. New York: [[Longman|Longmans, Green, and Co.]]
+
+{{Taxonbar|from=Q162599}}
+
+[[Category:Fungi of North America]]
+[[Category:Fungi of Europe]]
+[[Category:Coprinopsis|lagopus]]
+[[Category:Fungi described in 1821]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]

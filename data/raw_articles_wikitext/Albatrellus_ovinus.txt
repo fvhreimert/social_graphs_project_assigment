@@ -1,0 +1,53 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Albatrellus-ovinus.jpg
+| genus = Albatrellus
+| species = ovinus
+| authority = (Schaeff.) Kotl. & Pouzar
+| synonyms =
+* ''Scutiger ovinus'' <small>(Schaeff.) Murrill</small>
+* ''Polyporus ovinus'' <small>(Schaeff.) Fr.</small>
+}}
+{{mycomorphbox
+| name=''Albatrellus ovinus''
+| whichGills=decurrent
+| capShape=convex
+| capShape2=flat
+| hymeniumType=pores
+| stipeCharacter=bare
+| ecologicalType= mycorrhizal
+| sporePrintColor=white
+| howEdible=edible
+}}
+
+'''''Albatrellus ovinus''''' is a terrestrial [[fungus]] found in Europe and North America. Although commonly known as '''sheep polypore''', this fungus is not phylogenetically related to [[Polyporales]] (shelf fungi).
+
+It similar to ''[[Albatrellus subrubescens|A.&nbsp;subrubescens]]'', from which it may be distinguished microscopically.
+
+== Description ==
+The [[Pileus (mycology)|cap]] is {{convert|4–20|cm|frac=2}} wide, convex then flat or depressed, and white then tan or pinkish. The surface is dry and smooth but cracks with age.<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=339–340|oclc=797915861}}</ref> The whitish stalk is {{convert|2.5–10|cm|abbr=on|frac=4}} tall and {{convert|1–4|cm|abbr=on|frac=8}} wide, perhaps branching, with an equal or larger base.<ref name=":0" /><ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=158}}</ref> The [[spore print]] is white.<ref name="audu" />
+
+===Similar species===
+The inedible, closely related and comparatively rare ''[[Albatrellus subrubescens]]''<ref name="pmid9342352">{{cite journal |vauthors=Hibbett DS, Pine EM, Langer E, Langer G, Donoghue MJ |year=1997 |title=Evolution of gilled mushrooms and puffballs inferred from ribosomal DNA sequences |journal=Proceedings of the National Academy of Sciences of the United States of America |volume=94 |issue=22 |pages=12002–6 |bibcode=1997PNAS...9412002H |doi=10.1073/pnas.94.22.12002 |pmc=23683 |pmid=9342352 |doi-access=free}}</ref> has subtle color differences from ''A.&nbsp;ovinus'', and the only spores of the former are [[amyloid]].<ref>W. Julich, 1984: Die Nichtblatterpilze, Gallertpilze und Bauchpilze. Kleine Kryptogamenflora Band II Teil b/1</ref><ref>J. Breitenbach, F. Kranzlin, 1986: Pilze der Schweiz, Band 2. Nichtblatterpilze.</ref>
+
+Also similar are ''[[Albatrellus flettii]]'', ''Jahnoporus hirtus'', ''Scutiger ellisii'', and ''[[Scutiger pes-caprae|S.&nbsp;pes-caprae]]''.<ref name=":0" />
+
+==Distribution and habitat==
+It is found in northern Europe and in North America. In the latter, it is found from the [[Pacific Northwest]] to [[Northern California]], in addition to the [[Mountain states]], the [[Great Lakes]] area, the [[Appalachians]], and the Northeast.<ref name="audu" />
+
+==Uses==
+The species may be [[Edible mushroom|edible]] if cooked thoroughly, but is typically slimy and may have a laxative effect.<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/557/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=557–58 |orig-date=1979}}</ref> It is not recommended by some guides.<ref name=":0" /> 
+
+It is sold commercially in Finland.<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |publisher=Firefly Books |year=2010 |isbn=978-1-55407-651-2 |location=Buffalo, NY |page=295}}</ref><ref>{{cite book |last1=Pelkonen |first1=Riina |url=http://www.ymparisto.fi/download.asp?contentid=87635 |title=Element Concentrations in Wild Edible Mushrooms in Finland |last2=Alfthan |first2=Georg |last3=Järvinen |first3=Olli |publisher=Finnish Environment Institute |year=2008 |isbn=978-952-11-3153-0 |location=Helsinki |pages=32 |access-date=2009-02-20 |archive-url=https://web.archive.org/web/20110928125244/http://www.ymparisto.fi/download.asp?contentid=87635 |archive-date=2011-09-28 |url-status=dead}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Commons category-inline|italic=on}}
+
+{{Taxonbar|from=Q331465}}
+
+[[Category:Russulales]]
+[[Category:Fungi of Europe]]
+[[Category:Fungus species]]

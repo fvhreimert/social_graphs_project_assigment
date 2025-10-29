@@ -1,0 +1,91 @@
+{{Short description|Species of mushroom}}
+{{Distinguish|Aspropaxillus giganteus}}
+{{speciesbox
+| name               = Giant puffball
+| image              = Giant Puffball.jpg
+| image_caption      = Giant puffball with a 11.7 x 5.4 cm [[GPS&nbsp;receiver]] for scale
+| taxon              = Calvatia gigantea
+| authority          = ([[August Batsch|Batsch]] ex [[Christian Hendrik Persoon|Pers.]]) [[Curtis Gates Lloyd|Lloyd]]
+| synonyms           = ''Langermannia gigantea'' <br><small>(Batsch ex Pers.) [[Friedrich Wilhelm Gottlieb Rostkovius|Rostk.]]</small>
+}}
+{{mycomorphbox
+| name            = Calvatia gigantea
+| whichGills      = NA
+| capShape        = no
+| hymeniumType    = gleba
+| stipeCharacter  = NA
+| ecologicalType  = saprotrophic
+| sporePrintColor = brown
+| howEdible       = choice
+| howEdible2      = inedible }}
+
+'''''Calvatia gigantea''''', commonly known in English as the '''giant puffball''', is a [[puffball]] mushroom found in meadows, fields, and deciduous forests in late summer and autumn. It is found in temperate areas throughout the world. It is edible when young.
+
+== Taxonomy ==
+The classification of this species has been revised in recent decades. Puffballs, earthballs, earthstars, stinkhorns and several other kinds of fungi were once thought to be related and were known as the gasteromycetes or 'stomach' fungi, because the fertile material develops inside spherical or pear-shaped fruitbodies; however, this group is now known to be [[polyphyletic]].<ref name="firstnature">{{Cite web |title=Calvatia gigantea, Giant Puffball, identification |url=https://first-nature.com/fungi/calvatia-gigantea.php |access-date=2023-12-01 |website=first-nature.com}}</ref><ref>{{cite journal | vauthors = Hibbett DS et al. | year = 1997 | title = Evolution of gilled mushrooms and puffballs inferred from ribosomal DNA sequences | journal = Proceedings of the National Academy of Sciences | volume = 94 | issue = 22| pages = 12002–12006 | doi=10.1073/pnas.94.22.12002 | pmid=9342352 | pmc=23683| bibcode = 1997PNAS...9412002H | doi-access = free }}</ref><ref>{{cite journal | vauthors = Kruger D et al. | year = 2001 | title = The Lycoperdales. A molecular approach to the systematics of some gasteroid mushrooms | journal = Mycologia | volume = 93 | issue = 5| pages = 947–957 | doi=10.2307/3761759| jstor = 3761759}}</ref><ref>{{cite journal | vauthors = Binder M, Bresinsky A | year = 2002 | title = Derivation of a polymorphic lineage of gasteromycetes from boletoid ancestors | journal = Mycologia | volume = 94 | issue = 1| pages = 85–98 | doi=10.2307/3761848 | pmid=21156480| jstor = 3761848}}</ref>
+
+Today, some authors place the giant puffball and other members of genus ''[[Calvatia]]'' in order [[Agaricales]]. The giant puffball has also been placed in two other genera, ''Lycoperdon'' and ''Langermannia'', in years past. The current view is that the giant puffball belongs in ''Calvatia''.<ref name="TomVolk">{{cite web |last=Volk |first=First |title=Tom Volk's Fungus of the Month for August 1998 |url=http://botit.botany.wisc.edu/toms_fungi/aug98.html |access-date=6 October 2012}}</ref>
+
+== Description ==
+''Calvatia gigantea'' grows up to {{Convert|10-50|cm|frac=2}} wide and high.<ref>{{Cite web |title=Giant Puffball |url=https://mdc.mo.gov/discover-nature/field-guide/giant-puffball |access-date=2023-12-01 |website=Missouri Department of Conservation |language=en}}</ref><ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=556}}</ref> It can grow to 80&nbsp;cm diameter and weigh several kilograms.<ref name="firstnature"/> A specimen weighing over {{Convert|23|kg|abbr=on}} was recorded in [[Thunder Bay]], [[Ontario]], Canada.<ref name="Star">{{Cite web |author=Signe Langford |date=2020-09-20 |title=It's Giant Puffball mushroom season. Here's how to identify and prepare them |url=https://www.thestar.com/life/food-and-drink/it-s-giant-puffball-mushroom-season-here-s-how-to-identify-and-prepare-them/article_d9f15a80-40b3-5b34-b2ec-672e301c12c6.html |access-date=2023-12-01 |website=Toronto Star |language=en}}</ref>
+
+The interior of an immature puffball is white, while that of a mature specimen is greenish brown.<ref name="Arora">{{cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/mushroomsdemysti00aror_0/page/682/ |title=Mushrooms Demystified |publisher=Ten Speed Press |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, California |pages=682–83 |orig-year=1979 |url-access=registration}}</ref><ref name="Bessette">{{cite book|last=Bessette|first=Alan E.|title=Mushrooms of Northeastern North America|year=1997|publisher=Syracuse University Press|location=Syracuse, New York|isbn=978-0-8156-0388-7|url=https://books.google.com/books?id=T2uU12XcRD4C&pg=PA453|pages=453–454}}</ref>{{Verify source|date=June 2025|reason=Arora was cited to ''Clitocybe gigantea'', need to be sure.}} The fruiting body of a puffball mushroom develops within a few weeks and soon begins to decompose and rot, at which point it becomes dangerous to eat. Unlike most mushrooms, all the [[spore]]s of the giant puffball are created inside the fruiting body; large specimens can easily contain several trillion. The spores are yellowish, smooth, and 3–6&nbsp;[[μm]] in size.<ref name="Arora" /><ref name="Bessette" />{{Verify source|date=June 2025|reason=Arora was cited to ''Clitocybe gigantea'', need to be sure.}} They produce a white [[spore print]] when young, while it is [[Olive (color)|olive]] with an unpleasant smell in age.<ref name="audu" /> Prof. [[John Lindley]] has calculated that ''C.&nbsp;gigantea'' grows at a rate of sixty million new cells per minute<ref>Sydney Smith, "Edible Fungi", Edenburgh Review, (April 1869) pp. 337-338.</ref> on its way to making seven quintillion (7,000,000,000,000,000,000) spores.<ref>{{cite book | last= Tudge | first= Colin | date= 2000 | title= The Variety of Life | location= Oxford, England | publisher= Oxford Univ. Press | page= 160}}</ref>
+
+{{gallery
+|Giant Puffball Lemoine Point.jpg|Growing in a deciduous forest
+|Calvatia gigantea.jpg|Growing in Belgium
+|Purchawka olbrzymia i widelec.jpg|Cut, with a fork for scale
+|Old Giant puffball Calvatia gigantea.jpg|Old specimen
+}}
+
+===Similar species===
+Giant puffballs resemble the [[Mushroom poisoning|poisonous]] earthball (''[[Scleroderma citrinum]]''). The latter are distinguished by a much firmer, elastic fruiting body, and having an interior that becomes dark purplish-black with white reticulation early in development.
+
+Identification techniques make it relatively easy to distinguish from others of its genus.<ref name="audu" />
+
+==Habitat and distribution==
+The giant puffball is commonly found in meadows, fields, and deciduous forests in late summer and autumn. It is found in [[Temperate climate|temperate areas]] throughout the world.<ref name="Kew">{{citation |title=Discover plants and fungi |url=http://www.kew.org/science-conservation/plants-fungi/calvatia-gigantea-giant-puffball |access-date=8 August 2015 |archive-url=https://web.archive.org/web/20161222204354/http://www.kew.org/science-conservation/plants-fungi/calvatia-gigantea-giant-puffball |archive-date=2016-12-22 |chapter=''Calvatia gigantea'' (giant puffball) |publisher=www.kew.org}}</ref>
+
+==Conservation==
+It is widespread and common in the United Kingdom<ref name="Kew" /> and North America (August–October) except for the southeast United States.<ref name="audu" /> It is protected in parts of Poland and is of conservation concern in Norway.<ref name="Kew" />
+
+==Uses==
+
+
+===Culinary===
+
+The large white mushrooms are [[Edible mushroom|edible]] when young, as are all true puffballs, but they can cause digestive issues if the spores have begun to form—as indicated by the flesh being yellowish or greenish-brown instead of pure white.<ref name="Arora" /><ref name="Bessette" />{{Verify source|date=June 2025|reason=Arora was cited to ''Clitocybe gigantea'', need to be sure.}} An overripe puffball will fall apart when touched or if cut open, and should be discarded.<ref>{{Cite book |last=Lovesick Lake Native Women's Association |title=The Rural and Native Heritage Cookbook |publisher=Paul-Printing (Community Publication) |year=1985 |isbn=0-9692-255-0-4 |edition=1 |location=Burleigh Falls, Ontario |pages=101}}</ref> Some people experience a laxative effect from eating this species.<ref name="Arora" />
+
+Immature gilled species still contained within their [[universal veil]] can look similar to puffballs. Many such species are poisonous, or even deadly. To distinguish puffballs from such poisonous fungi, they are cut open; edible puffballs have a solid white interior and have "no gills or other imperfections".<ref>{{cite book |last=Meuninck |first=Jim |title=Foraging Mushrooms Oregon: Finding, Identifying, and Preparing Edible Wild Mushrooms |date=2017 |publisher=[[Falcon Guides]] |isbn=978-1-4930-2669-2 |page=38}}</ref><ref name="Star"/>
+
+===Medical===
+Puffballs are a known [[styptic]] and have long been used as wound dressing, either in powdered form or as slices 3&nbsp;cm thick.<ref>{{cite book|last1=Davies|first1=Barry|title=SAS mountain and arctic survival|date=2001|publisher=Virgin|location=London|isbn=9780753505991|page=87}}</ref> Authors Hui-Yeng Y. Yap, Mohammad Farhan Ariffeen Rosli, et al. found evidence to suggest that ''C.&nbsp;gigantea'' was "traditionally used by American Indians, Nigerian and German folks" for this purpose. The authors, however, did not specify the preferred form of wound dressing (e.g., powdered or sliced).<ref>{{Cite journal |last1=Yap |first1=Hui-Yeng Y. |last2=Ariffeen Rosli |first2=Mohammad Farhan |last3=Tan |first3=Soon-Hao |last4=Kong |first4=Boon-Hong |last5=Fung |first5=Shin-Yee |title=The Wound Healing Potential of Lignosus rhinocerus and Other Ethno-myco Wound Healing Agents |journal=Mycobiology |date=2023 |volume=51 |issue=1 |pages=1–15 |doi=10.1080/12298093.2022.2164641 |issn=1229-8093 |pmc=9946334 |pmid=36846625}}</ref>
+
+New Zealand [[Māori people|Māori]] used it to stem bleeding and treat burns, and also a food source.<ref>{{Cite book |last1=Sisson |first1=Liv |url=https://www.worldcat.org/title/on1372569849 |title=Fungi of Aotearoa: a curious forager's field guide |last2=Vigus |first2=Paula |date=2023 |publisher=Penguin Books |isbn=978-1-76104-787-9 |location=Auckland, New Zealand |pages=116–117 |oclc=on1372569849}}</ref>
+
+==References==
+{{Reflist}}
+
+==Further reading==
+*{{cite journal|last1=Zhu|first1=Wenyou|last2=Guo|first2=Chunxia|last3=Luo|first3=Fan|title=Optimization of Calvatia gigantea myceliaproduction from distillery wastewater|journal=Journal of the Institute of Brewing|date=January 2015|volume=121|issue=1|pages=78–86|doi=10.1002/jib.200|doi-access=free}}<!--|accessdate=27 April 2015-->
+*{{cite journal|last1=Kivrak|first1=Ibrahim|last2=Kivrak|first2=Seyda|last3=Harmandar|first3=Mansur|title=Free amino acid profiling in the giant puffball mushroom (Calvatia gigantea) using UPLC-MS/MS|journal=Food Chemistry|date=1 September 2014|volume=158|pages=88–92|doi=10.1016/j.foodchem.2014.02.108|pmid=24731318}}<!--|accessdate=28 April 2015-->
+*{{cite journal|last1=Coetzee|first1=Johannes C.|last2=Van Wyk|first2=Abraham E.|title=Nomenclatural and taxonomic notes on Calvatia (Lycoperdaceae) and associated genera|journal=Mycotaxon|date=January 2013|volume=121|issue=1|pages=29–36|doi=10.5248/121.29|hdl=2263/21213|hdl-access=free}}<!--|accessdate=30 April 2015-->
+
+==External links==
+* [https://www.youtube.com/watch?v=z6-g3sJmNvE Video footage of mature Giant Puffballs]
+* [http://botit.botany.wisc.edu/toms_fungi/aug98.html The Giant Puffball]
+* [http://www.leffingwell.com/download/Volatile%20Constituents%20of%20The%20Giant%20Puffball.pdf VOLATILES OF THE GIANT PUFFBALL MUSHROOM (Calvatia gigantea)]
+
+{{Taxonbar|from=Q222449}}
+
+[[Category:Lycoperdaceae]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Edible fungi]]
+[[Category:Fungi found in fairy rings]]
+[[Category:Puffballs]]
+[[Category:Taxa named by August Batsch]]
+[[Category:Taxa named by Christiaan Hendrik Persoon]]
+[[Category:Calvatia|gigantea]]
+[[Category:Fungi used for fiber dyes]]
+[[Category:Fungus species]]

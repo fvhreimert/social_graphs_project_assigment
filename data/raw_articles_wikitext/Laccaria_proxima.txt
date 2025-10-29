@@ -1,0 +1,37 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+|image = 2012-12-14 Laccaria proxima (Boud.) Pat 293250.jpg
+|genus = Laccaria
+|species = proxima
+|authority = (Boud.) Pat.
+|synonyms =
+* ''Clitocybe proxima'' Boud.; 
+* ''Laccaria laccata'' var. ''proxima'' (Boud.) Maire
+}}
+{{mycomorphbox 
+| name=Laccaria proxima
+| whichGills=adnate 
+| whichGills2=decurrent 
+| capShape=convex 
+| capShape2=depressed
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=mycorrhizal
+| sporePrintColor=white
+| howEdible=edible
+}}
+
+'''''Laccaria proxima'''''  is a [[species]] of [[edible mushroom]] in the genus ''[[Laccaria]]'' from the conifer forest of California, as well as eastern and northern North America.<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |pages=68–69}}</ref><ref>{{cite web|url=http://www.mykoweb.com/CAF/species/Laccaria_proxima.html|title= Laccaria proxima in MycoWeb}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Commons category-inline|Laccaria proxima|''Laccaria proxima''}}
+* {{Wikispecies-inline|Laccaria proxima|''Laccaria proxima''}}
+
+{{Taxonbar|from=Q3027934}}
+
+[[Category:Edible fungi]]
+[[Category:Laccaria|proxima]]
+[[Category:Fungus species]]

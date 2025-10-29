@@ -1,0 +1,94 @@
+{{Short description|Species of fungus}}
+{{Italic title}}
+{{Speciesbox
+| image = Lepiota clypeolaria 110923w.JPG
+| genus = Lepiota
+| species = clypeolaria
+| authority =  ([[Bull.]]) [[P.Kumm.]] (1871)
+| synonyms_ref = <ref name="urlFungorum: Lepiota clypeolaria"/>
+| synonyms = ''Lepiota ochraceosulfurescens'' <small>Locq. ex Bon (1981)</small><br/>
+''Agaricus clypeolarius'' <small>Bull. (1789)</small>
+}}
+
+'''Lepiota clypeolaria''', commonly known as the '''shield dapperling''' or the '''shaggy-stalked Lepiota''', is a common species of mushroom in the genus ''[[Lepiota]]''. The [[Basidiocarp|fruit bodies]] have a brownish [[pileus (mycology)|cap]], a shaggy [[stipe (mycology)|stipe]] with a collapsed, sheathing [[annulus (mycology)|ring]] or ring zone, and spindle-shaped [[spore]]s.
+
+It is widely distributed in northern [[temperate]] zones, where it grows in [[deciduous forest|deciduous]] and [[conifer]]ous forests.
+
+==Taxonomy==
+The species was first [[species description|described]] in 1789 as ''Agaricus clypeolarius'' by French mycologist [[Jean Baptiste Francois Bulliard]]. [[Paul Kummer]] transferred it to ''[[Lepiota]]'' in 1871.<ref name="urlFungorum: Lepiota clypeolaria"/> It is [[common name|commonly]] known as the "shaggy-stalked Lepiota".<ref name="Laessoe 2002"/>
+
+''L. clypeolaria'' is probably the best known of the section ''Fusisporae'' within genus ''Lepiota'', whose members are characterized by long spindle-shaped spores and a fluffy stem beneath the ring.<ref name="Courtecuisse 2013"/>
+
+==Description==
+{{Mycomorphbox
+| name = ''Lepiota clypeolaria''
+| hymeniumType = gills
+| capShape = campanulate
+| capShape2 = convex
+| whichGills = free
+| stipeCharacter = ring
+| sporePrintColor = white
+| howEdible = unknown
+| howEdible2 = poisonous
+}}
+
+The [[pileus (mycology)|cap]] is egg-shaped when young, soon broadly bell-shaped and has pale straw- or orange-brown scales on a pale background. The central [[umbo (mycology)|umbo]] is covered with a well-delimited uniform disk of the same colour as the scales. It grows to a diameter of {{convert|4–7|cm|abbr=on}}. The [[lamella (mycology)|gills]] are white, crowded, free from attachment to the stipe.<ref name="Courtecuisse 1999"/>
+
+The white [[stipe (mycology)|stem]] has an indistinct [[annulus (mycology)|ring]], below which it is coarsely woolly, giving an appearance which is sometimes described as "booted". The stipe, which measures {{convert|5–12|cm|abbr=on}} long by {{convert|0.3–1|cm|abbr=on}} thick, is hollow and slender, expanding slightly at the base into a club shape. The [[trama (mycology)|flesh]] is white and has an unpleasant smell.<ref name="Courtecuisse 1999"/>
+
+The [[spore print]] is white. The [[Basidiospore|spores]] are fuse-shaped (fusiform), meaning that they are tapered at both ends.  They have dimensions of 12–16 by 5–6&nbsp;[[μm]]. [[Cystidia]] on the gill edge (cheilocystidia) are club-shaped to cylindrical, and measure 20–40 by 5–15&nbsp;μm.<ref name="Courtecuisse 1999"/>
+
+===Similar species===
+
+
+''[[Lepiota ochraceosulfurescens]]'' may be distinguished as having a less defined dark area in the cap centre, a smell of rubber or melted butter, and yellow flesh in the stipe base,<ref name="Eyssartier"/> but Species Fungorum and Funga Nordica regard this name as a synonym.<ref name="urlFungorum: Lepiota clypeolaria"/><ref name="FungaNordica"/>
+
+''[[Lepiota magnispora]]'' is similar in appearance but has brighter colours with a more intensely coloured cap center and longer spores.<ref name="urlMushroomExpert"/>
+
+==Habitat and distribution==
+The fruit bodies grow singly or in small groups on the ground in [[deciduous forest|deciduous]] and [[conifer]]ous forests. A common species, it is widespread in [[temperate]] regions of the [[Northern Hemisphere]], and has been reported from Asia, Europe, North America, and South America.<ref name="Zheng 1993"/> Fruiting occurs in autumn.<ref name="Laessoe 2002"/> In China, it is known from the provinces of [[Heilongjiang]], [[Jilin]], [[Liaoning]], [[Jiangsu]], [[Guangdong]], and [[Yunnan]].<ref name="Zheng 1993"/>
+
+==Toxicity==
+
+''L. clypeolaria'' is considered [[Mushroom poisoning|poisonous]],<ref>{{cite book|last=Phillips|first=Roger|title=Mushrooms and Other Fungi of North America|publisher=Firefly Books|year=2010|isbn=978-1-55407-651-2|location=Buffalo, NY|page=35}}</ref> but more importantly, it resembles some of the more deadly species of its genus.<ref name="Miller2006">{{cite book|last=Miller Jr.|first=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=57}}</ref>
+
+==See also==
+{{Portal|Fungi}}
+* [[List of Lepiota species|List of ''Lepiota'' species]]
+
+==References==
+
+{{Reflist|refs=
+
+<ref name="Courtecuisse 1999">{{cite book |author=Courtecuisse R. |year=1999 |title=Mushrooms of Britain and Europe |series=Collins Wildlife Trust Guides |location=London, UK |publisher=Harpercollins |pages=597–8 |isbn=978-0-00-220012-7}}</ref>
+
+<ref name="Courtecuisse 2013">{{cite book |author1=Courtecuisse, R.  |author2=Duhem, B. |title=Champignons de France et d'Europe |language=French |publisher=Delachaux et Niestlé |year=2013 |page=282 |isbn=978-2-603-02038-8 }}  Also available in English.</ref>
+
+<ref name="Eyssartier">{{cite book |author-first1=Guillaume |author-last1=Eyssartier |author-first2=Pierre |author-last2=Roux |title=Le Guide des Champignons France et Europe |publisher=Belin |location=Paris |year=2013 |page=332 |language=French |isbn=978-2-7011-8289-6}}</ref>
+
+<ref name="FungaNordica">{{cite book |editor-first1=H. |editor-last1=Knudsen |editor-first2=J. |editor-last2=Vesterholt |title=Funga Nordica Agaricoid, boletoid and cyphelloid genera |publisher=Nordsvamp |location=Copenhagen |year=2008 |page=548 |isbn=978-87-983961-3-0}}</ref>
+
+<ref name="Laessoe 2002">{{cite book |author=Laessoe T. |year=2002 |title=Mushrooms |location=London|publisher=Dorling Kindersley Adult |edition=2nd |series=Smithsonian Handbooks |isbn=978-0-7894-8986-9 |page=168}}</ref>
+
+<ref name="urlFungorum: Lepiota clypeolaria">{{cite web |title=Species Synonymy: ''Lepiota clypeolaria'' (Bull.) P. Kumm., Führ. Pilzk. (Zerbst): 137 (1871) |url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=216879 |publisher=Species Fungorum. CAB International |accessdate=2018-01-29}}</ref>
+
+<ref name="urlMushroomExpert">{{cite web |author=Kuo M. |title=''Lepiota clypeolaria'' |url=http://www.mushroomexpert.com/lepiota_clypeolaria.html |publisher=MushroomExpert |date=October 2007 |accessdate=2013-12-07}}</ref>
+
+<ref name="Zheng 1993">{{cite book |vauthors=Bi ZS, Zheng GY, Li TH |title=The Macrofungus Flora of China's Guangdong Province |url=https://books.google.com/books?id=0cAered-vqYC&pg=PA386 |year=1993 |publisher=Chinese University Press |isbn=978-962-201-556-2 |page=386}}</ref>
+
+}}
+
+== Further reading ==
+*E. Garnweidner. ''Mushrooms and Toadstools of Britain and Europe''. Collins. 1994.
+*H. Knudsen & J. Vesterholt. ''Funga Nordica.  Agaricoid, boletoid and cyphelloid genera''.  Nordsvamp, Copenhagen 2008.
+
+{{Taxonbar|from=Q300967}}
+
+[[Category:Lepiota|clypeolaria]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1789]]
+[[Category:Taxa named by Jean Baptiste François Pierre Bulliard]]
+[[Category:Poisonous fungi]]
+[[Category:Fungus species]]

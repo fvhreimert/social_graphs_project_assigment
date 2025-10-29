@@ -1,0 +1,62 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Cantharellus cinnabarinus.jpg
+| genus = Cantharellus
+| species = cinnabarinus
+| authority = ([[Lewis David von Schweinitz|Schwein.]]) Schwein. 1832
+| synonyms = ''[[Agaricus]] cinnabarinus'' <small>Schwein. 1822</small><br/>
+''Chanterel cinnabarinus'' <small>(Schwein.) [[William Murrill|Murrill]] 1913</small>
+}}
+{{mycomorphbox 
+| name= ''Cantharellus cinnabarinus''
+| whichGills=decurrent 
+| capShape=infundibuliform 
+| hymeniumType=ridges
+| stipeCharacter=bare
+| ecologicalType=mycorrhizal
+| sporePrintColor=white
+| sporePrintColor2=pink
+| howEdible=edible
+}}
+
+'''''Cantharellus cinnabarinus''''', the red chanterelle, is a species of [[fungus]]. It is a member of the genus ''[[Cantharellus]]'' along with other [[chanterelle]]s. Its distinctive red color is imparted by the [[carotenoid]] canthaxanthin. Widely distributed in eastern Northern America, it fruits in association with [[hardwood]] trees in the summer and fall.
+
+==Etymology==
+It is named after [[cinnabar]], which has a similar red color.{{Citation needed|date=March 2024}}
+
+== Description ==
+''Cantharellus cinnabarinus'' is recognized by its distinctive flamingo-pink to bright orange and red colors (imparted by the carotenoid [[canthaxanthin]])<ref name=haxo50/> and the presence of false gills underneath the cap.<ref>{{Cite web|title=Cantharellus cinnabarinus |url=https://www.mushroomexpert.com/cantharellus_cinnabarinus.html|access-date=2021-04-04|website=MushroomExpert.Com}}</ref> The fruitbodies can grow up to {{Convert|7|cm|frac=4}} across.<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/664/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, California |pages=664 |orig-date=1979}}</ref>
+
+It resembles some other species of ''[[Cantharellus]]'', but tends to be more small and slender.<ref name=":02">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=95}}</ref> Its forked gills distinguish it from ''[[Hygrocybe]]''.<ref name="Arora1986" />
+
+== Distribution and habitat ==
+Widely distributed in eastern Northern America,<ref name="mexp" /> it fruits in association with [[hardwood]] trees.<ref name="mill06" /> It can be found from June to October, mostly on the ground in broadleaf and mixed [[Broad-leaved tree|broadleaf]]/[[conifer]] forests. It usually occurs scattered or in small groups.<ref name=":02" /> It forms [[mycorrhiza]]l associations with forest trees and shows preference for [[acidic soil]]s.<ref name=":0">{{Cite web|title=Chanterelle – Identification, Distribution, Edibility, Ecology, Sustainable Harvesting |url=https://gallowaywildfoods.com/chanterelle-identification-distribution-edibility/|access-date=2021-04-04|website=Galloway Wild Foods}}</ref>
+
+==Uses==
+It is considered [[edible mushroom|edible]] and good.<ref name="Arora1986" />
+
+==References==
+{{Reflist|refs=
+
+<ref name=mexp>{{cite web| author=Kuo, M.|date=June 2003| title=''Cantharellus cinnabarinus''| publisher=MushroomExpert.Com| url=http://www.mushroomexpert.com/cantharellus_cinnabarinus.html| access-date=2011-03-23}}</ref>
+
+<ref name=haxo50>{{cite journal| title=Carotenoids of the Mushroom ''Cantharellus cinnabarinus''| first=Francis| last=Haxo| journal=Botanical Gazette| volume=112| number=2|date=Dec 1950| pages=228–32| jstor=2472791| doi=10.1086/335653| s2cid=84308852}}</ref>
+
+<ref name=mill06>{{cite book | last = Miller Jr.| first = Orson K. | authorlink =Orson K. Miller, Jr. |author2=Miller, Hope H. | title = North American Mushrooms: A Field Guide to Edible and Inedible Fungi | publisher = [[Globe Pequot Press]]| year = 2006| series=FalconGuides |location=Guilford, CN| page = 333 | isbn = 978-0-7627-3109-1 }}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|356863}}
+
+{{Taxonbar|from=Q5033735}}
+
+[[Category:Cantharellus|cinnabarinus]]
+[[Category:Fungi described in 1832]]
+[[Category:Fungi of North America]]
+[[Category:Edible fungi]]
+[[Category:Taxa named by Lewis David de Schweinitz]]
+[[Category:Fungus species]]
+
+
+{{Agaricomycetes-stub}}

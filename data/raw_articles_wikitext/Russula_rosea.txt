@@ -1,0 +1,39 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = 2011-05-14_Russula_lepida_146790_146793_combined.jpg
+| genus = Russula
+| species = rosea
+| authority = [[Persoon|Pers.]] (1796)
+| synonyms = ''Russula lepida'' Fr.
+}}
+
+'''''Russula rosea''''' ([[Synonym (taxonomy)|synonym]] ''Russula lepida''), known as the '''rosy russula''', is a north temperate, commonly found mushroom of the large "brittlegill" genus ''[[Russula]]''.
+
+The cap is convex when young, later flat, mostly bright cinnabar to carmine red; often with yellow spots and up to 10&nbsp;cm in diameter. The gills are pale straw-yellow, brittle, and occasionally with a red edge at the rim of the cap. The spores are pale-cream. The stem is usually flushed carmine, but can be pure white. The flesh is hard and bitter-tasting; some consider it edible, others inedible.<ref>[https://www.first-nature.com/fungi/russula-rosea.php Russula rosea Pers. - Rosy Brittlegill]</ref>
+
+This mushroom is commonly found in [[coniferous]] forests{{citation needed|date=March 2013}} or near [[beech]] trees.
+
+==Similar species==
+The rare ''[[Russula pseudointegra]]'' is distinguished by its hot-tasting flesh. Red-stemmed forms of ''R. rosea'' could also be confused with ''[[Russula xerampelina]]'', but the latter has softer flesh and no woody flavour.
+
+==See also==
+*[[List of Russula species|List of ''Russula'' species]]
+
+==References==
+{{Reflist}}
+
+*E. Garnweidner. ''Mushrooms and Toadstools of Britain and Europe''. Collins. 1994 
+
+==External links==
+*{{IndexFungorum|465253}}
+*{{MycoBank|465253}}
+
+{{Taxonbar|from=Q531903}}
+
+[[Category:Russula|rosea]]
+[[Category:Fungi described in 1796]]
+[[Category:Fungi of Europe]]
+[[Category:Fungus species]]
+
+
+{{Russulales-stub}}

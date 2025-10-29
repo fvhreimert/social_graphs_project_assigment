@@ -1,0 +1,75 @@
+{{split|date=September 2025}}
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Russula nigricans - Lindsey 3a.jpg
+| genus = Russula
+| species = adusta
+| authority  = ([[Christian Hendrik Persoon|Pers.]]) [[Elias Magnus Fries|Fr.]] (1838)
+| synonyms = {{hidden begin|title = List}}
+* ''Agaricus nigricans'' <small>Bull. (1785)</small>
+* ''Agaricus adustus'' <small>Pers (1801)</small>
+* ''Agaricus elephantinus'' <small>Bolton (1788)</small>
+* ''Agaricus nigrescens'' <small>Bull. (1791)</small>
+* ''Agaricus elephantinus'' <small>Sowerby (1796)</small>
+* ''Agaricus adustus'' var. ''elephantinus'' <small>Pers. (1801)</small>
+* ''Omphalia adusta'' var. ''elephantinus'' <small>(Pers.) Gray (1821)</small>
+* ''Omphalia adusta'' ß ''elephantinus'' <small>(Bolton) Gray (1821)</small>
+* ''Agaricus adustus'' var. ''elephantinus'' <small>(Bolton) Fr. (1821)</small>
+* ''Omphalia adusta'' <small>(Pers.) Gray (1821)</small>
+* ''Russula nigricans'' <small>([[Jean Baptiste François Pierre Bulliard|Bull.]]) Fr. (1838)</small>
+* ''Russula elephantina'' <small>(Bolton) Fr. (1838)</small>
+* ''Russula nigricans'' var. ''adusta'' <small>(Pers.) Barbier (1907)</small>
+* ''Lactarelis nigricans'' <small>(Fr.) Earle (1909)</small>
+* ''Russula eccentrica'' <small>Peck (1911)</small>
+* ''Russula subusta'' <small>Burl. (1915)</small>
+* ''Russula nigricans'' subsp. ''eccentrica'' <small>(Peck) Singer (1958)</small>
+* ''Russula nigricans'' var. ''eccentrica'' <small>(Peck) Blanco-Dios (2021)</small>
+{{hidden end}}
+}}
+{{mycomorphbox 
+| name =''Russula adusta''
+| whichGills = adnate
+| capShape = convex
+| capShape2 = depressed
+| hymeniumType = gills
+| stipeCharacter = bare
+| sporePrintColor = white
+| howEdible = poisonous
+}}
+
+'''''Russula adusta''''', commonly known as the '''blackening brittlegill''' or '''blackening russula''', is a [[species]] of [[lamella (mycology)|gilled]] [[mushroom]]. It is a member of the ''[[Russula]]'' subgenus ''Compactae''.<ref name=":0">{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=49}}</ref> The [[Pileus (mycology)|cap]] is brown to gray and somewhat shiny, with a mild taste and, reportedly, an odor of empty wine barrels.<ref name=":0" /> It has a propensity to turn black from cutting or bruising and has white [[Basidiospore|spores]].<ref name=":0" /> Similar species include ''[[Russula albonigra]]'' and ''[[Russula densifolia|R.&nbsp;densifolia]]''.<ref name=":0" />
+
+''Russula adusta'' is found in woodlands of Europe and North America, growing under [[conifer]]s.
+
+==Taxonomy==
+''Russula adusta'' was first described by the French mycologist [[Jean Baptiste François Pierre Bulliard|Pierre Bulliard]] in 1785 as ''Agaricus nigricans'', before gaining its current binomial name from the Swedish mycologist [[Elias Magnus Fries]].
+
+==Description==
+This is a large member of the genus ''[[Russula]]'', and it has a [[pileus (mycology)|cap]] that is dirty white when young, but swiftly turns brown, and then black on aging. It measures {{convert|5|–|20|cm|in|0|abbr=on}} in diameter.<ref name=":20">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=111–112|oclc=797915861}}</ref> There is usually a large depression in the centre of mature caps, which are three quarter peeling. The [[stipe (mycology)|stem]] is white, firm, and straight, measuring {{convert|5|–|8|cm|in|0|abbr=on}} long and {{convert|2|–|5|cm|in|0|abbr=on}} wide; it too blackens with age.<ref name=":20" /> The [[gills]] are off-white initially, very widely spaced, and are adnate. These turn red; then grey, and finally black, when bruised. The flesh, which has a fruity smell, when cut turns pale [[Indian red]], and then grey, and black within 20 minutes.<ref name=Phillips06/> The [[spore print]] is white, and the warty oval spores measure 7–8 x 6–7&nbsp;[[μm]].<ref name=Phillips06>{{cite book| author = Roger Phillips | year = 2006  | title = Mushrooms | publisher = Pan MacMillan | isbn = 0-330-44237-6|page= 47}}</ref>
+
+Old specimens are sometimes parasitised by fungi of the genus ''[[Asterophora]]'' or ''Nyctalis'', in particular the species ''N.&nbsp;parasitica'' and ''N.&nbsp;asterophora'' (the pick-a-back toadstool).
+
+=== Similar species ===
+Species that also bruise red then black include ''[[Russula acrifolia]]'' and ''[[Russula dissimulans|R. dissimulans]]''.<ref name=":20" />
+
+''[[Russula albonigra]]'' has closer gills and is far less common. It bruises directly to black, lacking the red intermediary phase.<ref name="MarcelBon87">{{cite book |author=Marcel Bon |title=The Mushrooms and Toadstools of Britain and North Western Europe |publisher=Hodder and Stoughton |year=1987 |isbn=0-340-39935-X}}</ref><ref name="Phillips06" />
+
+== Distribution and habitat ==
+''Russula adusta'' appears in late summer and autumn in both deciduous and coniferous woodland, under conifer trees,<ref name=":0" /><ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=202}}</ref> across Britain, northern Europe, and North America.<ref name="Arora2nd">{{cite book |author=David Arora |year=1986 |title=Mushrooms Demystified |publisher=Ten Speed Press |isbn=0-89815-169-4 |url-access=registration |url=https://archive.org/details/mushroomsdemysti00aror_0 }}</ref> In North America, it appears in the [[Pacific Northwest]] and northern California from October to February.<ref name="audu" />
+
+==Toxicity==
+The species contains toxins which could cause gastrointestinal upset.<ref name="Miller2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=80}}</ref> It is used in pickling, but must be [[Parboiling|parboiled]] first.<ref>{{Cite web |title=Подгруздок черный (Russula adusta) фото и описание |url=https://wikigrib.ru/podgruzdok-chernyj/ |access-date=2025-08-25 |website=ВикиГриб |language=ru-RU}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://web.archive.org/web/20080517084517/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~5684~gid~.asp Rogers Mushrooms – ''Russula adusta'']{{snd}}via the [[Wayback Machine]]
+*[https://web.archive.org/web/20110524085531/https://www-hotel1.it.helsinki.fi/~ekuva/virtuaalikasvio/plant.php?id=533 Savuhapero, svedkremla] {{in lang|fi}}{{snd}}via the Wayback Machine
+
+{{Taxonbar|from=Q1784176|from2=Q96738896}}
+
+[[Category:Russula|adusta]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]

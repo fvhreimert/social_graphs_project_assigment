@@ -1,0 +1,225 @@
+{{short description|Species of fungus in the family Hygrophoropsidaceae}}
+{{featured article}}
+{{Speciesbox
+| name = False chanterelle
+| image = Hygrophoropsis aurantiaca 241718.jpg
+| image_caption =
+| genus = Hygrophoropsis
+| species = aurantiaca
+| authority = ([[Franz Xavier Freiherr von Wulfen|Wulfen]]) [[René Maire|Maire]] (1921)
+| synonyms_ref = <ref name="urlMycoBank: Hygrophoropsis aurantiaca"/>
+| synonyms =
+* ''Agaricus aurantiacus'' <small>Wulfen (1781)</small>
+* ''Merulius aurantiacus'' <small>(Wulfen) [[Johann Friedrich Gmelin|J.F.Gmel.]] (1792)</small>
+* ''Cantharellus aurantiacus'' <small>[[Julius Vincenz von Krombholz|Krombh.]] (1841)</small>
+* ''Clitocybe aurantiaca'' <small>(Wulfen) [[Bernhard Studer-Steinhäuslin|Stud.-Steinh.]] (1900)</small>
+}}
+{{mycomorphbox
+| name = ''Hygrophoropsis aurantiaca''
+| whichGills = decurrent
+| capShape = depressed
+| capShape2 = infundibuliform
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = saprotrophic
+| sporePrintColor = white
+| sporePrintColor2 = cream
+| howEdible = caution
+| howEdible2 = poisonous
+}}
+
+'''''Hygrophoropsis aurantiaca''''', commonly known as the '''false chanterelle''', is a species of [[fungus]] in the family [[Hygrophoropsidaceae]].
+
+Austrian naturalist [[Franz Xaver von Wulfen]] described the false chanterelle in 1781, noting both its resemblance with the true [[Cantharellus|chanterelles]] and people's propensity to confuse them. The false chanterelle was then placed in the genus ''[[Clitocybe]]'', but it was later observed that its forked gills and [[dextrinoid]] spores indicated a relationship to ''[[Paxillus]]''. Genetic analysis has confirmed that it belongs to the order [[Boletales]] and is more closely related to [[bolete]]s.
+
+The [[Basidiocarp|fruit bodies]] (mushrooms) are yellow–orange, with a funnel-shaped [[pileus (mycology)|cap]] up to {{convert|8|cm|abbr=on|frac=2}} across that has a felt-like surface. The thin, often forked [[lamella (mycology)|gills]] on the underside of the cap run partway down the length of the otherwise smooth [[stipe (mycology)|stipe]]. The species is found across several continents, growing in woodland and [[heathland]], and sometimes on [[woodchips]] used in gardening and landscaping. Reports on the mushroom's [[edible mushroom|edibility]] vary; it is considered [[Mushroom poisoning|poisonous]], but has historically been eaten in parts of Europe and the Americas.
+
+==Taxonomy==
+Austrian naturalist Franz Xaver von Wulfen described the false chanterelle as ''Agaricus aurantiacus'' in 1781, reporting that it appeared in the [[Abies|fir]] tree forests around [[Klagenfurt]] in October. He added that it could be confused with the chanterelle by the inexperienced, but that its true nature was very different; in contrast to its edible lookalike, he described it as "kind of pernicious".<ref name="Jacquin 1781"/> The [[botanical name|specific epithet]] is the [[Latin]] word ''aurantiacus'', meaning "orange".<ref name="Nilper 1977"/> [[James Sowerby]] illustrated it and gave it the name ''Agaricus subcantharellus'', describing it as a "perhaps unfavourable" variety of ''A.&nbsp;cantharellus'' (chanterelle).<ref name="Sowerby 1809"/> The fungus was placed in the genus ''[[Merulius]]'' by [[Johann Friedrich Gmelin]] in 1792,<ref name="Gmelin 1792"/> and then ''[[Cantharellus]]'' by [[Elias Fries]] in 1821.<ref name="Fries 1821"/> [[Bernhard Studer-Steinhäuslin]] concluded it could only be classified in the genus ''[[Clitocybe]]'' in 1900, based on its white spores, [[decurrent]] gills and lack of a [[annulus (mycology)|ring]].<ref name="Studer 1900"/> It was elevated to the status of genus in a 1929 publication by Emile Martin-Sans,<ref>''L'Empoisonnement par les champignons et particulièrement les intoxications dues aux Agaricacées du groupe des Clitocybe et du groupe des Cortinarius''</ref> with authorship attributed to [[René Maire]]. Martin-Sans concurred with Maire's assessment of ''Hygrophoropsis'', suggesting that it represented a form intermediate between ''Cantharellus'' and ''Clitocybe'', and was thus worthy of generic ranking.<ref name="Martin-Sans 1929"/> The genus name refers to a resemblance to the genus ''[[Hygrophorus]]''.<ref name="Nilper 1977"/> It is commonly known as the false chanterelle.<ref name="BMS"/>
+
+
+Two [[variety (botany)|varieties]] described by [[Derek Reid]] in 1972, ''H.&nbsp;aurantiaca'' var. ''macrospora'' and ''H.&nbsp;aurantiaca'' var. ''rufa'',<ref name="Reid 1972"/> have since been promoted to distinct species status as ''[[Hygrophoropsis macrospora|H.&nbsp;macrospora]]'' (1996)<ref name="Boekhout 1996"/> and ''[[Hygrophoropsis rufa|H.&nbsp;rufa]]'' (2008).<ref name="Knudsen 2008"/> Two other varieties of the fungus have been described, but they are not considered to have independent [[taxonomy (biology)|taxonomic]] significance by [[Index Fungorum]]:<ref name="urlFungorum synonymy: Hygrophoropsis aurantiaca"/> var. ''nana'' (Singer 1946), characterized by a small fruit body;<ref name="Singer 1946"/> and var. ''robusta'' (Antonín 2000), characterized by a robust fruit body and an odour similar to [[Maggi]] seasoning sauce.<ref name="Antonín 2000"/> Pale forms of the fungus are sometimes referred to as var. ''pallida''. This [[taxon]] was first published by [[Robert Kühner]] and [[Henri Romagnesi]] in 1953,<ref name="Kühner 1953"/> but later considered [[validly published name|invalid]] as it did not conform to [[International Code of Nomenclature for algae, fungi, and plants|nomenclatural rules]].<ref name="urlFungorum: Hygrophoropsis aurantiaca var. pallida"/> Variety ''nigripes'', a taxon with a black-brown [[Stipe (mycology)|stipe]], is invalid for similar reasons.<ref name="Holec 2013"/> ''H.&nbsp;aurantiaca'' var. ''pallida'' was published validly in 1995.<ref name="Heykoop 1995"/>
+
+In 1979, [[Egon Horak]] suggested that ''H.&nbsp;aurantiaca'' and the New Zealand taxon ''[[Hygrophoropsis coacta|H.&nbsp;coacta]]'' were the same species,<ref name="Horak 1979"/> but neither Index Fungorum nor [[MycoBank]] accept this synonymy. According to MycoBank, ''H.&nbsp;aurantiaca'' has several heterotypic synonyms, i.e. different [[type (biology)|types]] but considered the same species:<ref name="urlMycoBank: Hygrophoropsis aurantiaca"/>
+* ''Agaricus alectorolophoides'' [[Jacob Christian Schäffer|Schaeff.]] (1774)<ref name="Schaeffer 1774"/>
+* ''Agaricus subcantharellus'' [[James Sowerby|Sowerby]] (1809)<ref name="Sowerby 1809"/>
+* ''Cantharellus brachypodus'' [[François Fulgis Chevallier|Chevall.]] (1826)<ref name="Chevallier 1826"/>
+* ''Cantharellus ravenelii'' [[Miles Joseph Berkeley|Berk.]] & [[Moses Ashley Curtis|M.A.Curtis]] (1853)<ref name="Berkeley 1853"/>
+* ''Merulius brachypodes'' (Chevall.) [[Otto Kuntze|Kuntze]] (1891)<ref name="Kuntze 1891"/>
+
+''Hygrophoropsis aurantiaca'' has been confused with the true chanterelles (genus ''Cantharellus'') because of overall similarities in appearance.<ref name="Jacquin 1781"/> However, the forked gills, frequently off-centre stipe placement, and [[dextrinoid]] spores of ''H.&nbsp;aurantiaca'' suggested a relationship with ''[[Paxillus]]'',<ref name="Arora 1986"/> prompting [[Rolf Singer]] to classify the genus ''Hygrophoropsis'' in the family [[Paxillaceae]] in 1946.<ref name="Singer 1946"/> Several [[biological pigment|pigments]] have been identified from the fungus, including the orange [[variegatic acid]], [[methyl variegate]], the red [[variegatorubin]], and several [[derivative (chemistry)|derivatives]] of [[pulvinic acid]].<ref name="Besl 1978"/> The presence of these pigments suggests a [[chemotaxonomy|chemotaxic]] relationship with the [[Boletaceae]], [[Coniophoraceae]], and Paxillaceae&nbsp;– families of Boletales with members that have similar compounds.<ref name="Bas 1995"/><ref name="Nelson 2010"/> [[Molecular phylogenetic]] analysis confirmed its affinity lay in the order [[Boletales]] in 1997,<ref name="Binder 1997"/> though later research showed it is not closely related to ''Paxillus'' or other gilled members of the order.<ref name="Binder 2006"/>
+
+==Description==
+
+
+The species has a golden-orange [[pileus (mycology)|cap]] ranging from {{convert|2-10|cm|abbr=on|frac=4}} in diameter,<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=141|oclc=797915861}}</ref> initially convex but becoming funnel-shaped as the mushroom matures. The cap margin, which remains rolled in a little,<ref name="Kibby 2012"/> becomes wavy or lobed in age.<ref name="Courtecuisse 1999"/> The cap surface is covered with a fine down. The [[decurrent]] gill-like structures are narrow and forked, which is a distinctive and distinguishing feature. They are generally a more intense shade of orange than the cap.<ref name="Kibby 2012"/> Along the stipe, the gills may be slightly crimped.<ref name="Courtecuisse 1999"/> The orange stipe is {{convert|1.5-8|cm|abbr=on|frac=8}} tall and {{convert|0.5-1|cm|abbr=on|frac=8}} thick, and lacks a [[annulus (mycology)|ring]].<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=294}}</ref><ref name="Phillips 2006"/><ref name=":0" /> It often has a darker, brownish, base.<ref name="Courtecuisse 1999"/> The ability to form [[sclerotia]] (compact masses of hardened fungal [[mycelium]]) has been documented for ''H.&nbsp;aurantiaca'' in laboratory studies. These structures contain [[glycogen]] and [[protein]] that may be used as food reserves during spore [[germination]].<ref name="Antibus 1989"/>
+
+The soft, thin [[trama (mycology)|flesh]] ranges from white to yellowish<ref name="Buczacki 2012"/> to golden-orange.<ref name="Phillips 2006"/> It has an odour and taste described variously as indistinct,<ref name="Desjarden 2014"/> or unpleasant and earthy.<ref name="Buczacki 2012"/> The [[spore print]] is white to [[cream (colour)|cream]].<ref name="Arora 1986"/> The oval [[basidiospore|spores]] are 5.5–7 by 4–4.5&nbsp;[[micrometre]]s (μm),<ref name="Phillips 2006"/> with walls that tend to thicken in age.<ref name="Smith 1975"/> The spores are [[cyanophilous]], meaning they will readily [[staining|stain]] dark blue in [[methyl blue]] solution.<ref name="Singer 1972"/> Staining with [[Melzer's reagent]] often produces a [[dextrinoid]] (reddish-brown) colour reaction.<ref name="Arora 1986"/> [[Basidia]] (spore-bearing cells) measure 25–40 by 5–8&nbsp;μm,<ref name="Courtecuisse 1999"/> and can be two-, three-, or four-spored.<ref name="Smith 1975"/> [[Cystidia]] (large sterile cells on the [[hymenium]]) are absent.<ref name="Smith 1975"/> The [[cap cuticle]] is in the form of a trichoderm, where the outermost [[hypha]]e are roughly parallel, like hairs, perpendicular to the cap surface. These hyphae are 4–15&nbsp;μm in diameter,<ref name="Courtecuisse 1999"/> and contain intracellular pigments that impart an orange-brown to yellow-brown colouring to the cells. [[Clamp connection]]s are present in the hyphae.<ref name="Smith 1975"/>
+
+[[Teratology|Teratological]] (developmentally abnormal) forms of ''H.&nbsp;aurantiaca'' have been reported to occur in the United Kingdom. The fruit bodies of these specimens were club-shaped with a wrinkled upper surface of convoluted gill tissue. The overall [[morphology (biology)|morphology]] of these forms somewhat resembles species of ''[[Clavariadelphus]]''. Although the cause of this abnormal development is not known with certainty, environmental pollutants or [[mycovirus|virus]] infection have been suggested as contributing factors.<ref name="Spooner 2014"/>
+
+===Similar species===
+{{multiple image|perrow = 2|total_width=300
+ | align = right
+ | image1 = 2007-07-14 Cantharellus cibarius2.jpg
+ |width1 = 849 | height1 = 725
+ | image2 = 2007-08-05 Omphalotus illudens (Schwein.) Bresinsky & Besl 1018098506.jpg
+ |width2 = 1200 | height2 = 800
+ | image3 = Chrysomphalina chrysophylla 419148.jpg
+ |width3 = 2584 | height3 = 1909
+ | image4 = 2008-10-19 Hygrophoropsis morganii (Peck) H.E. Bigelow 25987 mod.jpg
+ |width4 = 2000 | height4 = 1580
+ | footer = Lookalike species. Clockwise from upper left: ''[[Cantharellus cibarius]]'', ''[[Omphalotus illudens]]'', ''[[Aphroditeola olida]]'', ''[[Chrysomphalina chrysophylla]]''.
+}}
+Characteristics typically used in the field to distinguish ''Hygrophoropsis aurantiaca'' from lookalike species include: the soft, dry consistency of its cap; the crowded, decurrent, and forked gills that are [[saffron (color)|saffron]] to orange coloured; and the lack of any distinctive taste or odour.<ref name="Smith 1975"/> The false chanterelle can be distinguished from the true chanterelle (''[[Cantharellus cibarius]]'') by its deeper orange colour, brown base to the stipe, velvety cap surface, forked gills rather than gill-like ridges, softer (and thinner) flesh, and lack of the characteristic apricot-smell.<ref name="Lamaison 2005"/> The cap surface of ''[[Hygrophoropsis fuscosquamula]]'', found in Britain, has fine brown scales overlaying a dull orange background.<ref name="Courtecuisse 1999"/> ''H.&nbsp;rufa'' has velvety brown fur covering its cap, while ''H.&nbsp;macrospora'' has cream gills and stipe. Microscopically, these three species have larger spores than ''H.&nbsp;aurantiaca''.<ref name="Kibby 2012"/><!-- cites previous 2 sentences --> ''[[Hygrophoropsis tapinia|H.&nbsp;tapinia]]'', found in a range extending from southern [[Florida]] to Central America,<ref name="Gómez-Pignataro 1992"/> is set apart from ''H.&nbsp;aurantiaca'' by its growth on or under deciduous trees (never conifers), and smaller spores, which measure 3.3–4.8 by 2.5–3.3&nbsp;μm.<ref name="Singer 1946"/>
+
+Formerly a member of ''Hygrophoropsis'', ''[[Aphroditeola olida]]'' is also similar in appearance to ''H.&nbsp;aurantiaca'' but can be distinguished from the false chanterelle by its smaller, pinkish fruit bodies and candy-like odour.<ref name="Roberts 2011"/> It also has smaller spores.<ref name="Kibby 2012"/> ''[[Chrysomphalina chrysophylla]]'' has a yellowish brown cap and unforked yellow gills.<ref name="Desjarden 2014"/> ''[[Cortinarius hesleri]]'', an eastern North American species that associates with oaks, has a rusty brown spore print and a [[partial veil|cortina]] in young specimens.<ref name="Kuo 2014"/> The poisonous [[Omphalotus|jack-o'-lantern mushrooms]] (genus ''Omphalotus'') comprise another group of lookalikes; however, they have straight, non-forked true gills.<ref name="Bresinsky 1990"/> The European wood-rotting species ''[[Haasiella splendidissima]]'',{{#tag:ref|This taxon is given in the original source as ''Haasiella venustissima''; molecular analysis published in 2012 indicates that this is the same species as ''H.&nbsp;splendidissima''.<ref name="Vizzini 2012"/>|group=nb}} sometimes confused with ''H.&nbsp;aurantiaca'', is most readily distinguished from the latter by its pink spore print and gills that do not fork.<ref name="Buczacki 2012"/> Additionally, species of ''[[Infundibulicybe]]'' and ''[[Paralepista]]'' have unforked cream-to-tan gills.<ref name="audu" />
+
+== Distribution and habitat ==
+]]
+
+''Hygrophoropsis aurantiaca'' is a widely distributed species. In Europe and North America, it is found in both [[hardwood]] and [[conifer]] forests, as well as heathland, in summer and autumn.<ref name="Miller 2006"/> In North America, it can be found from July–October to the east and September–January on the West Coast.<ref name="audu" /> It can be found in Central and South America,<ref name="Roberts 2011" /> and Mexico, where it is common in coniferous forests.<ref name="Guzman 1973" /> It has also been recorded in northern Asia, Australia and New Zealand.<ref name="Roberts 2011" /> Populations in [[California]] represent a [[species complex|complex]] of undescribed species that are collectively referred to as ''Hygrophoropsis aurantiaca'' ''[[sensu lato]]''.<ref name="Desjarden 2014" />
+
+It fruits from the ground or from decaying wood,<ref name="Miller 2006" /> on burned areas in forests,<ref name="Smith 1975" /> and is often found near fallen trees and tree stumps.<ref name="Haas 1969" /> The fungus can also grow on [[woodchips]] used in gardening and landscaping, and so it also appears on roadsides and other locations where this material is used.<ref name="Roberts 2011" /> Fruit bodies occur singly to scattered, or in clusters,<ref name="Desjarden 2014" /> and can be very abundant.<ref name="Phillips 2006" /> Generally considered a dry weather mushroom, it can be plentiful when other mushrooms are scarce.<ref name="Smith 1975" />
+
+== Ecology ==
+A [[saprophytic]] fungus, ''H. aurantiaca'' obtains nutrients from [[forest litter]] and decomposing wood,<ref name="Kuo 2014"/> causing a [[Wood-decay fungus#Brown rot|brown rot]] on the wood upon which it grows.<ref name="Fransson 2004"/>
+
+''H. aurantiaca'' secretes large amounts of [[oxalic acid]], a [[reducing agent]] and relatively [[strong acid]]. This stimulates [[weathering]] of the [[humus]] layer of forest soil, and influences the solubility and turnover of nutrients (particularly [[phosphorus]] and [[nitrogen]]), which in turn affects their availability for use by forest trees.<ref name="Fransson 2004"/>
+
+==Edibility==
+The false chanterelle is considered [[Mushroom poisoning|poisonous]] and may cause serious digestive problems.<ref name="Miller 2006" /><ref name="Jordan 2004" /> Among other toxins, it contains high levels of the [[sugar alcohol]] [[arabitol]].<ref name="Lindgren 2003" /> The mushroom was sometimes described as [[edible mushroom|edible]] (though not tasty) until 1999.<ref name="Arora 1986"/><ref name="Courtecuisse 1999"/><ref name="Ammirati 1987"/> Fries described it as ''venenatus'', meaning "poisonous", in 1821.<ref name="Fries 1821"/> Considering the species potentially edible, [[David Arora]] speculated that it may have been confused with similar-looking but definitely poisonous species of ''[[Omphalotus]]''.<ref name="Arora 1986" /> Italian mycologist Nicola Sitta has reported that the one attributed case of poisoning he knew of could be attributed to an idiosyncratic reaction as only one of three people eating it got symptoms and concludes that it is harmless. It is eaten in Spain and France, and can legally be sold in France and Belgium. It is not recommended in Italy due to its similarity to poisonous species.<ref>{{cite web |last1=Sitta |first1=Nicola |title=Guida Ragionata Alla Commestibilità dei Funghi |url=https://www.regione.piemonte.it/web/sites/default/files/media/documenti/2021-09/guida_commestibilita_funghi_isbn_979-12-200-9297-5.pdf |publisher=Regione Piemonte | date=2021 |access-date=6 November 2023}}</ref> It is eaten, though not  highly regarded, by the [[Zapotec people]] of [[Ixtlán de Juárez]] in [[Oaxaca]].<ref name="Garibay 2007"/> The [[Tepehuán people]] of northwestern Mexico also occasionally eat the mushroom, which they refer to in their [[Tepehuán language|native language]] as ''guin'xacan'' ("delightful") or ''kia's gio''' ("iguana lard"); there, it is commonly prepared by roasting over charcoal, or boiling and garnishing with cheese.<ref name="Elizondo 1991"/>
+
+==Notes==
+<references group="nb" />
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Ammirati 1987">{{cite book |vauthors=Ammirati JF, McKenny M, Stuntz DE |title=The New Savory Wild Mushroom |publisher=University of Washington Press |location=Seattle, Washington |year=1987 |page=59 |isbn=978-0-295-96480-5}}</ref>
+
+<ref name="Antibus 1989">{{cite journal |author=Antibus RK. |title=Formation and structure of sclerotia and sclerotium-specific proteins in ''Hygrophoropss aurantiaca'' |journal=Mycologia |year=1989 |volume=81 |issue=6 |pages=905–13 |doi=10.2307/3760109 |jstor=3760109 }}</ref>
+
+<ref name="Antonín 2000">{{cite book |vauthors=Antonín V, Skubla P |title=Interesting macromycetes found in the Czech and Slovak Republics |series=Fungi non Delineati |publisher=Libreria Mykoflora |location=Alassio, Italy |year=2000 |volume=11 |pages=1–48 (see p.&nbsp;22)}}</ref>
+
+<ref name="Arora 1986">{{cite book |author=Arora D. |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/479/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |year=1986 |orig-date=1979 |edition=2nd |pages=479–80}}</ref>
+
+<ref name="Bas 1995">{{cite book |vauthors=Bas C, Kuyper TW, Noordeloos ME |title=Flora Agaricina Neerlandica |volume=3 |url=https://books.google.com/books?id=NGGiXsS9eYwC&pg=PA64 |year=1995 |publisher=CRC Press |isbn=978-90-5410-616-6 |page=64}}</ref>
+
+<ref name="Berkeley 1853">{{cite journal |vauthors=Berkeley MJ, Curtis MA |title=Centuries of North American fungi |journal=Annals and Magazine of Natural History |year=1853 |volume=12 |pages=417–35 (see p.&nbsp;425) |series=II |issue=72 |url=https://www.biodiversitylibrary.org/page/12905774|doi=10.1080/03745485709495068 }}</ref>
+
+<ref name="Besl 1978">{{cite journal |vauthors=Besl H, Bresinsky A, Kopanski L, Steglich W |title=Pilzpigmente, XXXV. 3-O-Methylvariegatsäure und verwandte Pulvinsäurederivate aus Kulturen von ''Hygrophoropsis aurantiaca'' (Boletales) |trans-title=Pigments of Fungi, XXXV. 3-0-Methylvariegatic acid and related pulvinic acid derivatives from cultures of ''Hygrophoropsis aurantiaca'' (Boletales) |journal=Zeitschrift für Naturforschung C |year=1978 |volume=33 |issue=11–12 |pages=820–25 |language=de |doi=10.1515/znc-1978-11-1203|s2cid=87401294 |doi-access=free }} {{open access}}</ref>
+
+<ref name="Binder 1997">{{cite journal |vauthors=Binder M, Besl H, Bresinsky A |year=1997 |title=Agaricales oder Boletales? Molekularbiologische Befunde zur Zuordnung einiger umstrittener Taxa |trans-title=Agaricales or Boletales? Molecular evidence towards the classification of some controversial taxa |journal=Zeitschrift für Mykologie |volume=63 |issue=2 |pages=189–96 |language=de |url=http://www.dgfm-ev.de/sites/default/files/ZM632189Binder.pdf |access-date=2015-11-15 |archive-url=https://web.archive.org/web/20151117015316/http://www.dgfm-ev.de/sites/default/files/ZM632189Binder.pdf |archive-date=2015-11-17 |url-status=dead }}</ref>
+
+<ref name="Binder 2006">{{cite journal |vauthors=Binder M, Hibbett DS |year=2006 |title=Molecular systematics and biological diversification of Boletales |journal=Mycologia |volume=98 |issue=6 |pages=971–81 |pmid=17486973 |doi=10.3852/mycologia.98.6.971}}</ref>
+
+<ref name="BMS">{{cite web |author=Holden L. |url=http://www.britmycolsoc.org.uk/library/english-names/ |title=English names for fungi 2014 |date=July 2014 |publisher=[[British Mycological Society]] |access-date=11 November 2015 |archive-date=23 September 2015 |archive-url=https://web.archive.org/web/20150923194645/http://www.britmycolsoc.org.uk/library/english-names/ |url-status=dead }}</ref>
+
+<ref name="Boekhout 1996">{{cite journal |vauthors=Boekhout T, Kuyper TW |title=Notulae ad Floram agaricinam neerlandicam XXIV–XXVIII. Some taxonomic and nomenclatural changes in the Tricholomataceae, tribus Clitocybeae |journal=Persoonia |year=1996 |volume=16 |issue=2 |pages=225–32 |url=https://www.repository.naturalis.nl/document/570190 }}</ref>
+
+<ref name="Bresinsky 1990">{{cite book |vauthors=Bresinsky A, Besl H |title=A Colour Atlas of Poisonous Fungi: A Handbook for Pharmacists, Doctors, and Biologists |publisher=Wolfe Publishing |location=Würzburg, Germany |year=1990 |page=154 |isbn=978-0-7234-1576-3}}</ref>
+
+<ref name="Buczacki 2012">{{cite book |vauthors=Buczacki S, Shields C, Ovenden D |title=Collins Fungi Guide |year=2012 |location=London, United Kingdom |publisher=Collins |isbn=978-0-00-746648-1 |pages=178–80, 422}}</ref>
+
+<ref name="Chevallier 1826">{{cite book |author=Chevallier FF. |title=Flore Générale des Environs de Paris |year=1826 |volume=1 |publisher=Ferra Jeune |location=Paris, France |page=240; plate 7:5 |url=http://bibdigital.rjb.csic.es/ing/Libro.php?Libro=2657&Pagina=262 |language=fr |access-date=2015-11-12 |archive-date=2015-11-17 |archive-url=https://web.archive.org/web/20151117022559/http://bibdigital.rjb.csic.es/ing/Libro.php?Libro=2657&Pagina=262 |url-status=dead }}</ref>
+
+<ref name="Courtecuisse 1999">{{cite book |author=Courtecuisse R. |title=Mushrooms of Britain and Europe |year=1999 |series=Collins Wildlife Trust Guides |publisher=HarperCollins |location=London, United Kingdom |page=681 |isbn=978-0-00-220012-7}}</ref>
+
+<ref name="Desjarden 2014">{{cite book |vauthors=Desjardin DE, Wood MG, Stevens FA |title=California Mushrooms: The Comprehensive Identification Guide |year=2014 |location=Portland, Oregon; London, United Kingdom |publisher=Timber Press |pages=148, 158–59 |isbn=978-1-60469-353-9}}</ref>
+
+<ref name="Elizondo 1991">{{cite journal |author=Elizondo MG. |title=Ethnobotany of the southern Tepehuan of Durango, Mexico: I. Edible mushrooms |journal=Journal of Ethnobotany |year=1991 |volume=11 |issue=2 |pages=165–73 (see p.&nbsp;170) |url=https://www.biodiversitylibrary.org/page/32741847}}</ref>
+
+<ref name="Fransson 2004">{{cite journal |vauthors=Fransson AM, Valeur I, Wallander H |title=The wood-decaying fungus ''Hygrophoropsis aurantiaca'' increases P availability in acid forest humus soil, while N addition hampers this effect |journal=Soil Biology and Biochemistry |year=2004 |volume=36 |issue=11 |pages=1699–1705 |doi=10.1016/j.soilbio.2004.04.027|bibcode=2004SBiBi..36.1699F }}</ref>
+
+<ref name="Fries 1821">{{cite book |author=Fries EM. |title=Systema Mycologicum |year=1821 |volume=1 |location=Lund, Sweden |page=318 |language=la |url=https://www.biodiversitylibrary.org/item/25498#page/382/mode/1up}}</ref>
+
+<ref name="Garibay 2007">{{cite journal|vauthors=Garibay-Orijel R, Caballero J, Estrada-Torres A, Cifuentes J |year=2007 |title=Understanding cultural significance, the edible mushrooms case |journal=Journal of Ethnobiology and Ethnomedicine |volume=3 |issue=4 |article-number=4 |doi=10.1186/1746-4269-3-4 |pmc=1779767 |pmid=17217539 |doi-access=free }} {{open access}}</ref>
+
+<ref name="Gmelin 1792">{{cite book |author=Gmelin JF. |title=Systema Naturae |year=1792 |volume=2 |publisher=G.E.&nbsp;Beer |location=Leipzig, Germany |edition=13 |page=1430 |language=la |url=https://www.biodiversitylibrary.org/page/25750966}}</ref>
+
+<ref name="Gómez-Pignataro 1992">{{cite journal |author=Gómez-Pignataro LD. |title=Los Basidiomicetes de Costa Rica: V. Paxillaceae (Agaricales, Boletineae) |trans-title=Basidiomycetes from Costa Rica: V. Paxillaceae (Agaricales, Boletineae) |journal=Brenesia |year=1992 |volume=38 |pages=105–13 |language=es}}</ref>
+
+<ref name="Guzman 1973">{{cite journal |author=Guzmán G. |title=Some distributional relationships between Mexican and United States mycofloras |journal=Mycologia |year=1973 |volume=65 |issue=6 |pages=1319–30 (see p.&nbsp;1324) |doi=10.2307/3758146 |pmid=4773309 |jstor=3758146 }}</ref>
+
+<ref name="Haas 1969">{{cite book |author=Haas H. |title=The Young Specialist Looks at Fungi |year=1969 |pages=154, 204 |publisher=Burke |location=London, United Kingdom|isbn=978-0-222-79409-3}}</ref>
+
+<ref name="Heykoop 1995">{{cite journal |author=Heykoop M. |title=Notas nomenclaturales y taxonómicas en Agaricales. II |trans-title=Nomenclatural and taxonomic notes on Agaricales. II |journal=Boletín de la Sociedad Micológica de Madrid |year=1995 |volume=20 |pages=157–66 |language=es}}</ref>
+
+<ref name="Holec 2013">{{cite journal |vauthors=Holec J, Kolařík M |title=Notes on the identity of ''Hygrophoropsis rufa'' (Basidiomycota, Boletales) |journal=Czech Mycology |year=2013 |volume=65 |issue=1 |pages=15–24 |url=http://www.czechmycology.org/_cmo/CM65102.pdf|doi=10.33585/cmy.65102 }}</ref>
+
+<ref name="Horak 1979">{{cite journal |author=Horak E. |title=Paxilloid Agaricales in Australasia |journal=Sydowia |year=1979 |volume=32 |issue=1–5 |pages=154–66 |url=http://www.landesmuseum.at/pdf_frei_remote/Sydowia_32_0154-0166.pdf}}</ref>
+
+<ref name="Jacquin 1781">{{cite book |author=Jacquin NJ. |title=Miscellanea Austriaca ad Botanicum, Chemiam et Historiam Naturalem Spectantia |volume=2 |year=1781 |publisher=J.P.&nbsp;Kraus |location=Vienna |page=101; [https://babel.hathitrust.org/cgi/pt?id=nyp.33433010774085;view=1up;seq=719 plate 14:3] |url=https://babel.hathitrust.org/cgi/pt?id=nyp.33433010774085;view=1up;seq=369 |language=la}}</ref>
+
+<ref name="Jordan 2004">{{cite book |author=Jordan M. |title=The Encyclopedia of Fungi of Britain and Europe |publisher=Frances Lincoln |location=London, United Kingdom |year=2004 |page=334 |isbn=978-0-7112-2378-3}}</ref>
+
+<ref name="Kibby 2012">{{cite journal |author=Kibby G. |year=2012 |title=The ''Hygrophoropsis aurantiaca'' complex |journal=Field Mycology |volume=13 |issue=2 |pages=43–50 |doi=10.1016/j.fldmyc.2012.03.004|doi-access=free }}</ref>
+
+<ref name="Knudsen 2008">{{cite book |vauthors=Knudsen H, Vesterhold J |title=Funga Nordica: Agaricoid, Boletoid and Cyphelloid genera |year=2008 |location=Copenhagen, Denmark |publisher=Nordsvamp |page=913 |isbn=978-87-983961-3-0}}</ref>
+
+<ref name="Kühner 1953">{{cite book |vauthors=Kühner R, Romagnesi H |title=Flore Analytique des Champignons Supérieurs |year=1953 |publisher=Masson et cie |location=Paris, France |page=130 |language=fr |oclc=799790482}}</ref>
+
+<ref name="Kuntze 1891">{{cite book |author=Kuntze O. |title=Revisio Generum Plantarum |year=1891 |volume=2 |publisher=A.&nbsp;Felix |location=Leipzig, Germany |page=862 |language=la |url=https://www.biodiversitylibrary.org/page/4284}}</ref>
+
+<ref name="Kuo 2014">{{cite book |vauthors=Kuo M, Methven A |title=Mushrooms of the Midwest |publisher=University of Illinois Press |location=Urbana, Illinois |year=2014 |page=215 |isbn=978-0-252-07976-4}}</ref>
+
+<ref name="Lamaison 2005">{{cite book |title=The Great Encyclopedia of Mushrooms |vauthors=Lamaison JL, Polese JM |year=2005 |publisher=Könemann |location=Cologne, Germany |isbn=978-3-8331-1239-3 |pages=36–37}}</ref>
+
+<ref name="Lindgren 2003">{{cite journal |author=Lindgren J. |title=Theory for why "edible" mushrooms make some people sick |journal=Bulletin of the Puget Sound Mycological Society |date=May 2003 |issue=392 |page=1 |url=http://www.psms.org/sporeprints/sp392.pdf}}</ref>
+
+<ref name="Martin-Sans 1929">{{cite book |author=Martin-Sans E. |title=L'Empoisonnement par les champignons et particulièrement les intoxications dues aux Agaricacées du groupe des ''Clitocybe'' et du groupe des ''Cortinarius'' |year=1929 |publisher=Lechevalier |location=Paris |pages=99; 225 |language=fr |oclc=633752563}}</ref>
+
+<ref name="Miller 2006">{{cite book |vauthors=Miller HR, ((Miller OK Jr)) |author-link2=Orson K. Miller Jr. |title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi |publisher=[[FalconGuides]] |location=Guilford, Connecticut |year=2006 |page=332 |isbn=978-0-7627-3109-1}}</ref>
+
+<ref name="Nelson 2010">{{cite journal |author=Nelson SF. |title=Bluing components and other pigments of boletes |journal=Fungi |year=2010 |volume=3 |issue=4 |pages=11–14 |url=http://www.fungimag.com/fall-2010-articles/BoletesLR.pdf}}</ref>
+
+<ref name="Nilper 1977">{{cite book |vauthors=Nilsson S, Persson O |title=Fungi of Northern Europe 1: Larger Fungi (Excluding Gill Fungi) |year=1977 |publisher=Penguin Books |location=London, United Kingdom |isbn=978-0-14-063005-3 |page=70}}</ref>
+
+<ref name="Phillips 2006">{{cite book |author=Phillips R. |title=Mushrooms |year=2006 |publisher=Pan MacMillan |location=London, United Kingdom|isbn=978-0-330-44237-4 |page=125}}</ref>
+
+<ref name="Reid 1972">{{cite book |author=Reid DA. |title=Fungorum Rariorum Icones Coloratae |year=1972 |volume=6 |publisher=J.&nbsp;Cramer |pages=5–6}}</ref>
+
+<ref name="Roberts 2011">{{cite book |vauthors=Roberts P, Evans S |title=The Book of Fungi |year=2011 |publisher=University of Chicago Press |location=Chicago, Illinois |page=164 |isbn=978-0-226-72117-0}}</ref>
+
+<ref name="Schaeffer 1774">{{cite book |author=Schaeffer JC. |title=Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones |year=1774 |volume=4 |location=Regensburg, Germany |page=46; plate 206 |language=la |url=https://www.biodiversitylibrary.org/page/3887528}}</ref>
+
+<ref name="Singer 1946">{{cite journal |author=Singer R. |title=The Boletineae of Florida with notes on extralimital species . IV. The lamellate families (Gomphidiaceae, Paxillaceae, and Jugasporaceae) |journal=Farlowia |year=1946 |volume=2 |pages=527–67 (see pp.&nbsp;544–47) |url=http://www.mykoweb.com/systematics/literature/Boletineae%20of%20Florida%20IV.pdf}}</ref>
+
+<ref name="Singer 1972">{{cite journal |author=Singer R. |title=Cyanophilous spore walls in the Agaricales and agaricoid basidiomycetes |journal=Mycologia |year=1972 |volume=64 |issue=4 |pages=822–29 (see p.&nbsp;827) |pmid=5065011 |doi=10.2307/3757937 |jstor=3757937 }}</ref>
+
+<ref name="Smith 1975">{{cite book |author=Smith AH. |title=A Field Guide to Western Mushrooms |publisher=University of Michigan Press |location=Ann Arbor, Michigan |year=1975 |page=122 |isbn=978-0-472-85599-5}}</ref>
+
+<ref name="Spooner 2014">{{cite journal |vauthors=Spooner BM, Ainsworth AM |title=The extinct, the extant and the excluded pt.1: ''Clavariadelphus'' and a teratological form of ''Hygrophoropsis aurantiaca'' |journal=Field Mycology |year=2014 |volume=15 |issue=2 |pages=51–52 |doi=10.1016/j.fldmyc.2014.03.009|doi-access=free }}</ref>
+
+<ref name="Sowerby 1809">{{cite book |author=Sowerby J. |title=Coloured Figures of English Fungi |year=1809 |volume=4 |publisher=J.&nbsp;Davis |location=London, United Kingdom |page=413; plate 413 |url=https://www.biodiversitylibrary.org/page/5751627}}</ref>
+
+<ref name="Studer 1900">{{cite journal |author=Studer B. |title=''Cantharellus aurantiacus'' Wulf. |journal=Hedwigia |year=1900 |volume=39 |pages=6–7 |language=de |url=https://www.biodiversitylibrary.org/page/417616}}</ref>
+
+<ref name="urlFungorum: Hygrophoropsis aurantiaca var. pallida">{{cite web |title=Record Details: ''Hygrophoropsis aurantiaca'' var. ''pallida'' (Cooke) Kühner & Romagn. |url=http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=438481 |publisher=Index Fungorum. CAB International |access-date=11 November 2015}}</ref>
+
+<ref name="urlFungorum synonymy: Hygrophoropsis aurantiaca">{{cite web |title=GSD Species Synonymy: ''Hygrophoropsis aurantiaca'' (Wulfen) Maire |url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=357220 |publisher=Species Fungorum. CAB International |access-date=11 November 2015}}</ref>
+
+<ref name="urlMycoBank: Hygrophoropsis aurantiaca">{{cite web |title=''Hygrophoropsis aurantiaca'' (Wulfen) Maire, Empois. Champ.: 99 (1921) |url=http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=13180&Fields=All |publisher=[[MycoBank]]. International Mycological Association |access-date=11 November 2015}}</ref>
+
+<ref name="Vizzini 2012">{{cite journal |vauthors=Vizzini A, Consiglio G, Setti L, Ercole E |title=The phylogenetic position of ''Haasiella'' (Basidiomycota, Agaricomycetes) and the relationships between ''H. venustissima'' and ''H. splendidissima'' |journal=Mycologia |year=2012 |volume=104 |issue=3 |pages=777–84 |doi=10.3852/11-334 |pmid=22314595|hdl=2318/121165 |s2cid=6799359 |url=https://iris.unito.it/bitstream/2318/121165/1/Mycologia%20104%282012%29.pdf |hdl-access=free }}</ref>
+
+}}
+
+==External links==
+* {{Commons category-inline|Hygrophoropsis aurantiaca|''Hygrophoropsis aurantiaca''}}
+
+{{Taxonbar|from=Q1265541}}
+
+[[Category:Hygrophoropsidaceae]]
+[[Category:Fungi described in 1781]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Australia]]
+[[Category:Fungi of Central America]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of New Zealand]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of South America]]
+[[Category:Taxa named by Franz Xaver von Wulfen]]
+[[Category:Fungus species]]
+[[Category:Poisonous fungi]]

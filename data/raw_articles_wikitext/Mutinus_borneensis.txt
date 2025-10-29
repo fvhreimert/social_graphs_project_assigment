@@ -1,0 +1,37 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Mutinus borneensis 62460.jpg
+| genus = Mutinus
+| species = borneensis
+| authority = [[Vincenzo de Cesati|Ces.]]
+| synonyms = ''Aedycia borneensis'' <small>(Ces.) [[Gustav Kunze|Kuntze]]</small>
+}}
+{{mycomorphbox
+| name = Mutinus borneensis
+| whichGills = NA
+| capShape = NA
+| hymeniumType =smooth
+| stipeCharacter = volva
+| ecologicalType = saprotrophic
+| sporePrintColor = blackish-brown
+| sporePrintColor2 = brown
+| howEdible = unknown
+}}
+
+'''''Mutinus borneensis''''' is a species of [[fungus]] in the [[Phallaceae]], or stinkhorn family. It was originally described in 1879 by Italian botanist [[Vincenzo de Cesati]]. The species has been collected from Borneo,<ref>{{cite journal |doi=10.1086/274332 |author=Bessey CE. |year=1886 |title=Botany |journal=The American Naturalist |volume=20 |issue=9 |pages=804–808}}</ref> China,<ref>{{cite journal |author=Huang N-L. |year=1985 |title=Notes on Phallales from Fujian China |journal=Wuyi Science Journal |volume= 5|pages=211–18 |issn=1001-4276 |language=Chinese}}</ref> and Australia.<ref name=May2003>{{cite book |title=Fungi of Australia |vauthors=May TW, Milne J, Shingles S, Jones RH |year=2008 |publisher=CSIRO Publishing |location= |isbn=978-0-643-06907-7 |oclc= |page=140 |url=https://books.google.com/books?id=mTJsa5a3ZpcC&dq=Mutinus+borneensis&pg=PA140 |accessdate=2009-10-27}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*''[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=223402 Mutinus borneensis]'' at [[Index Fungorum]]
+
+{{Taxonbar|from=Q181048}}
+
+[[Category:Phallales]]
+[[Category:Fungi of Australia]]
+[[Category:Fungi of China]]
+[[Category:Fungus species]]
+
+
+{{Phallales-stub}}

@@ -1,0 +1,63 @@
+{{Short description|Species of fungus}}
+{{no footnotes|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption = 
+| taxon = Gymnopilus luteus
+| authority = ([[Charles Horton Peck|Peck]]) [[Lexemuel Ray Hesler|Hesler]] (1969)
+| synonyms = *''Pholiota lutea'' {{small|Peck (1898)}}
+}}
+{{mycomorphbox
+| name = Gymnopilus luteus
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=ring
+| ecologicalType=saprotrophic
+| sporePrintColor=yellow-orange
+| howEdible=inedible
+| howEdible2=psychoactive
+}}
+
+'''''Gymnopilus luteus''''', known as the '''yellow gymnopilus''', is a widely distributed [[mushroom]]-forming fungus of the [[Eastern United States]]. It contains the hallucinogens [[psilocybin]] and [[psilocin]]. It is often mistaken for ''G. speciosissimus'' and ''[[Gymnopilus subspectabilis|G. subspectabilis]]''.<ref name="Thorn Malloch Saar Lamoureux pp. 293–315">{{cite journal | last1=Thorn | first1=R. Greg | last2=Malloch | first2=David W. | last3=Saar | first3=Irja | last4=Lamoureux | first4=Yves | last5=Nagasawa | first5=Eiji | last6=Redhead | first6=Scott A. | last7=Margaritescu | first7=Simona | last8=Moncalvo | first8=Jean-Marc | title=New species in the Gymnopilus junonius group (Basidiomycota: Agaricales) | journal=Botany | publisher=Canadian Science Publishing | date=2020-04-24 | volume=98 | issue=6 | issn=1916-2790 | doi=10.1139/cjb-2020-0006 | pages=293–315| doi-access= }}</ref>
+
+==Description==
+*'''[[Pileus (mycology)|Pileus]]''': 3—20 cm, convex-hemispherical at first, expanding to broadly convex, with an irregularly infolded and not incurved margin that slightly overhangs the gills. Buff yellow to warm buff orange, often slightly darker towards the center, dry, smooth, silky or finely floccose-fibrillose, sometimes floccose-squamulose toward the center, flesh firm, pale yellow. Staining orange-brownish or sometimes bluish-green where injured or on age.<ref name="Thorn Malloch Saar Lamoureux pp. 293–315"/>
+*'''Gills''': Adnexed, thin, close, pale yellow, becoming rusty brown with age.
+*'''Spore print''': Rusty brown.
+*'''[[Stipe (mycology)|Stipe]]''': 4—10 cm, 0.5–3&nbsp;cm thick, equal to slightly enlarging below, solid, firm, colored like the cap, developing yellowish-rusty stains when handled, finely hairy, partial veil usually forms a fragile submembraneous ring or fibrillose annular zone near the apex. Staining orange-brownish or sometimes bluish-green where injured or in age.
+*'''Taste''': Very bitter.
+*'''Odor''': Gills have a strong odor of anise, which is one of the easiest ways to differentiate it from its close relatives.
+*'''Microscopic features''': Spores are 6.5–8.3 [[μm]] × 4.5–5.7 μm (average = 7.4 ± 0.5 × 5.1 ± 0.3), minutely warty, elliptical, slightly dextrinoid, surface finely roughened with irregular warts and short ridges, no germ pore. Pleurocystidia absent or very rare, cheilocystidia mostly lageniform to lecythiform but occasionally without a swollen apex; length = 19.3–35.4 μm (average = 27.3 ± 4.0). Caulocystidia abundant above the annular zone, produced as terminal cells of long hair-like hyphae, narrowly ventricose–capitate to cylindric–capitate, often cylindrical to clavate and without significant apical swelling; 30.9–66.9 μm. Clamp connections present.
+*'''Bruising''': None to light blue or green bruising at the base and possibly on the pileus. More common on aborted pins. Slower bruising reaction than most ''[[Psilocybe]]'' species.
+*'''Potency''': Lower levels of psilocin and psilocybin when compared with the genus ''[[Psilocybe]]'', ~0.1–0.5% total tryptamines when dried.
+
+It is considered inedible due to the bitter taste and presence of the hallucinogenic compounds psilocybin and psilocin.<ref name="Thorn Malloch Saar Lamoureux pp. 293–315"/>
+
+==Habitat and formation==
+''G. luteus'' is found growing solitary to gregariously or in small clusters on dead hardwood trees, preferring damp and well rotted material. It fruits from June to November, and is widely distributed in the eastern United States and Canada.
+
+==See also==
+{{Portal|Fungi}}
+* [[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist}}
+
+===Sources===
+*{{cite book | first=Paul | last=Stamets | year=1996 | title=Psilocybin Mushrooms of the World | publisher=Ten Speed Press | location=Berkeley | isbn=0-9610798-0-0}}
+* Hesler, L. R. (1969). North American species of Gymnopilus. New York: Hafner. 117 pp.
+
+{{Hallucinogenic mushrooms}}
+{{Taxonbar|from=Q5624855}}
+
+[[Category:Gymnopilus|luteus]]
+[[Category:Entheogens]]
+[[Category:Psychoactive fungi]]
+[[Category:Psychedelic tryptamine carriers]]
+[[Category:Fungi of North America]]
+[[Category:Inedible fungi]]
+[[Category:Taxa named by Charles Horton Peck]]
+[[Category:Fungi described in 1898]]
+[[Category:Fungus species]]

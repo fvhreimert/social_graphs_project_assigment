@@ -1,0 +1,73 @@
+{{Short description|Stem decay fungus}}
+{{Speciesbox
+| image = Fomitopsis pinicola 109142.jpg
+| genus = Fomitopsis
+| species = pinicola
+| authority = ([[Sw.]]) [[P.Karst.]] (1881)
+| synonyms = *''Boletus pinicola'' <small>Sw. (1810)</small>
+}}
+{{Mycomorphbox 
+| name = ''Fomitopsis pinicola''
+| whichGills = decurrent 
+| capShape = no 
+| hymeniumType = pores
+| stipeCharacter = NA
+| ecologicalType = saprotrophic
+| sporePrintColor = yellow
+| howEdible = inedible}}
+
+'''''Fomitopsis pinicola''''', is a [[Wood-decay fungus|stem-decay]] fungus. Its [[conk (fungi)|conk]] (fruit body) is known as the '''red-belted conk''' or '''red-belted bracket'''. The species is common throughout [[temperate]] Eurasia. It is a decay fungus that serves as a small-scale disturbance agent in coastal rainforest ecosystems. It influences stand structure and succession in [[temperate rainforests]]. It performs essential [[nutrient cycle|nutrient cycling]] functions in forests. As well as a key producer of brown rot residues that are stable soil components in [[conifer]]ous forest ecosystems.
+
+==Taxonomy==
+There is currently a splitting of ''F.&nbsp;pinicola'' occurring to isolate distinct species that have all previously been classified as ''F.&nbsp;pinicola.'' [[DNA analysis]] supports splitting ''F.&nbsp;pinicola'' into three groups- ''F.&nbsp;pinicola'', ''[[Fomitopsis mounceae|F.&nbsp;mounceae]]'', and ''[[Fomitopsis schrenkii|F.&nbsp;schrenkii]]''.<ref name=":0">{{Cite journal |last1=Haight |first1=John-Erich |last2=Nakasone |first2=Karen K. |last3=Laursen |first3=Gary A. |last4=Redhead |first4=Scott A. |last5=Taylor |first5=D. Lee |last6=Glaeser |first6=Jessie A. |date=2019-03-04 |title=Fomitopsis mounceae and F. schrenkii—two new species from North America in the F. pinicola complex |url=https://doi.org/10.1080/00275514.2018.1564449 |journal=Mycologia |volume=111 |issue=2 |pages=339–357 |doi=10.1080/00275514.2018.1564449 |issn=0027-5514 |pmid=30908115 |s2cid=85515024 |url-access=subscription}}</ref> ''Fomitopsis pinicola'' is found in Europe and Asia, ''F.&nbsp;mounceae'' is on the east coast of the US, west coast of the US and midwestern US, and ''F.&nbsp;schrenkii'' is found at higher elevations in the latitude of the Rocky Mountains, from [[Canada]] to central [[Mexico]].<ref name=":0" />
+
+==Description==
+The cap is hoof-shaped or triangular, and sometimes shelflike.<ref name=":2">{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=258–259|language=en}}</ref> It is hard and tough, and up to 30&nbsp;cm or more across and 15&nbsp;cm thick.<ref name=":1">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=347–348|oclc=797915861}}</ref> Its surface is more or less smooth, at first orange-yellow with a white margin, later dark reddish to brown and then frequently with an orange margin. The pore surface is pale yellow to leather-brown, 3–4 pores per mm. It grows as thick shelves on live and dead coniferous or (less commonly) deciduous trees.<ref name="FS-R10-FHP 2014. PAGES 30 & 31">FS-R10-FHP. 2014. Mushrooms of the National Forests in Alaska. Anchorage, Alaska. USDA Forest Service, Alaska Region. Publication R10-RG-209. PAGES 30 & 31.</ref> The [[Basidiospore|spores]] are pale yellow and smooth.<ref name=":1" /> The species also grows as a layer of tubes on the bottom of fallen wood.<ref name=":2" />
+
+The [[Sporocarp (fungus)|fruiting body]] of ''F.&nbsp;pinicola'' is called the ''conk''. It is a woody, [[Pileus (mycology)|pileate]] fruiting body with pores lined with [[Basidium|basidia]] on its underside. As in other polypores, the fruiting body is perennial with a new layer of pores produced each year on the bottom of the old pores. The pores are whitish when young and become somewhat brownish in age.<ref name="FS-R10-FHP 2014. PAGES 30 & 31"/>
+
+=== Similar species ===
+Similar species include ''[[Ganoderma lucidum]]'', ''[[Laricifomes officinalis]]'',<ref name=":1" /> and ''[[Heterobasidion annosum]]''.<ref name=":2" />
+
+== Distribution, habitat and ecology ==
+The species is common throughout [[temperate]] Eurasia.<ref name=":0" /> It is common on softwood and hardwood trees.<ref name=":0" />
+
+This stem decay fungus is found on live [[conifer]] trees in [[southeast Alaska]] such as [[Western hemlock]], [[Mountain hemlock]], [[White spruce]], [[Lutz spruce]] and [[Sitka spruce]]. The tree stem decay is caused by the fungus when it invades and colonizes the wood of living trees and decomposes the wood before the tree is dead. This brown rot fungus degrades only cellulose, leaving the other primary constituents of wood, [[lignin]], as a considerably less dense but fairly stable residual structure<ref name=":3">{{Cite book |last1=Hansen |first1=E. M. |url=https://apsjournals.apsnet.org/doi/book/10.1094/9780890545980 |title=Compendium of Conifer Diseases, Second Edition |last2=Lewis |first2=K. J. |last3=Chastagner |first3=G. A. |date=2018-01-01 |publisher=The American Phytopathological Society |isbn=978-0-89054-598-0 |series=Diseases and Pests Compendium Series |doi=10.1094/9780890545980}}</ref> that is suitable for excavation by [[woodpecker]]s.<ref name="FS-R10-FHp 2014. PAGES 4">FS-R10-FHp. 2014. Managing Heart Rot in Live Trees for Wildlife Habitat in Young-Growth Forests of Coastal Alaska. Anchorage, Alaska. USDA Forest Service, Alaska Region. Publication PNW-GTR-890. PAGES 4 – 9.</ref>
+
+This fungus is normally found on dead [[pine]]s, but can be found on all conifers. It can also be observed growing on large stem wounds, broken tops, and dead tissue of live trees.<ref name=":3" /> In mature forests, these stem decay fungi cause enormous annual wood volume loss of Alaska's major tree species. Approximately one-third of the old-growth timber board-foot volume in Southeast Alaska is defective, largely due to decay from this type of fungus. Conversely, there is very little decay in young-growth stands without prevalent wounding from commercial [[thinning]] activities, wind damage, or animal feeding. By predisposing large old trees to bole breakage and windthrow, stem decays serve as important small-scale disturbance regimes in these temperate rainforest ecosystems where fire and other large-scale disturbances are uncommon.<ref name="FS-R10-FHP 2014. PAGES 40-42">FS-R10-FHP. 2014. Forest Health Conditions in Alaska 2013. Anchorage, Alaska. USDA Forest Service, Alaska Region. Publication R10-PR-035.81 PAGES 40-42.</ref>
+
+This stem decay creates canopy gaps, influences stand structure and succession, increases [[biodiversity]], and enhances wildlife habitat. The fungus also performs essential [[nutrient cycling]] functions'''<ref name="FS-R10-FHP 2014. PAGES 40-42" />''' in these forests by decomposing stems, branches, roots, and boles of dead trees. Cavities created by the fungus in standing trees provide crucial habitat for many wildlife species including [[bears]], [[voles]], [[squirrels]], and a number of [[bird]] species. The lack of disturbance in these areas and longevity of individual trees allows ample time for this slow-growing decay fungus to cause significant decay. There is a growing interest in acquiring methods to promote earlier development of stem decays in second-growth stands to achieve wildlife and other non-timber objectives.<ref name="FS-R10-FHP 2014. PAGES 40-42" />
+
+=== Stem decay characteristics ===
+Most of the stem decay (heart rot) in mature forests that results from this fungus does not interfere with the normal growth and physiological processes of live trees since the [[vascular tissue]] is not affected. It is classified as a [[Brown rot (wood decay)|brown rot]], which primarily degrades [[cellulose]] in tree stands. The early stage of wood decay appears as yellowish to brownish discoloration with the advanced stage appearing as a brown and crumbly breaking into cubical pieces.<ref name=":3" /> Wood impacted by this fungus may become more brittle and prone to breakage in high winds, and cannot be used for pulp production.<ref name="FS-R10-FHP 2014. PAGES 40-42" /> This species requires exposed wood of wounds for entry, continuing their decay after the tree dies. On dead trees, the fungus general affects the sapwood and then progresses into [[heartwood]].<ref name=":3" />
+
+The fruiting bodies of the fungus produce abundant [[basidiocarp]]s and basidiospores which are generally dispersed in air currents and germinate upon contact with wood or other substrates,<ref name=":3" /> but the actual degradation of the wood is by the [[Mycelium|thread-like vegetative]] part of the fungus inside the trees. The fungus can occur anywhere on roots or the stem, but is most common low on the bole, where frequent wounds promote infection.<ref name="FS-R10-FHp 2014. PAGES 4" />
+
+<gallery>
+Image:Fomitopsis_pinicola_2.JPG|Underside of conk showing the typical round pores.
+Image:Fomitopsis_pinicola_3.JPG|Younger specimens like these often show more orange colours. 
+File:Fomitopsis pinicola 2023 G1.jpg|Fomitopsis pinicola on a dead tree in Ukraine.
+</gallery>
+
+==Potential uses==
+This mushroom is inedible<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |publisher=Firefly Books |year=2010 |isbn=978-1-55407-651-2 |location=Buffalo, NY |page=309}}</ref> due to its woody texture, but it is useful as [[tinder]].<ref>{{Cite journal |last=Montoya |first=A |last2=Montoya |first2=A. |last3=Estrada-Torres |first3=Arturo |last4=Caballero Nieto |first4=Javier |date=2002 |title=Comparative ethnomycological survey of three localities from La Malinche Volcano, Mexico |url=https://www.biodiversitylibrary.org/part/183581 |journal=Journal of Ethnobiology |volume=22 |issue=1 |pages=103––131}}</ref> It can potentially be prepared as a famine food through a laborious process.<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/578/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=578–79 |orig-date=1979}}</ref>
+
+The basidiocarps of the fungus have been reported to have medicinal uses in Asia.<ref name=":3" /> It has been reported that mushrooms have significant [[antioxidant]] activity.<ref>{{Cite journal |last1=Sevindik |first1=M. |last2=Akgul |first2=H. |last3=Akata |first3=I. |last4=Alli |first4=H. |last5=Selamoglu |first5=Z. |date=2017-12-01 |title=Fomitopsis pinicola in healthful dietary approach and their therapeutic potentials |url=https://akjournals.com/view/journals/066/46/4/article-p464.xml |journal=Acta Alimentaria |language=en-US |volume=46 |issue=4 |pages=464–469 |doi=10.1556/066.2017.46.4.9 |issn=1588-2535}}</ref>
+
+==References==
+{{Reflist}}
+
+== Further reading ==
+* "Danske storsvampe.  Basidiesvampe" [a key to Danish basidiomycetes] J.H. Petersen and J. Vesterholt eds. Gyldendal. Viborg, Denmark, 1990.  {{ISBN|87-01-09932-9}}
+* [http://nt.ars-grin.gov/fungaldatabases/new_allView.cfm?whichone=Nomenclature&thisName=Fomitopsis%20pinicola Entry of ''Fomitopsis pinicola''] {{Webarchive|url=https://web.archive.org/web/20110716081956/http://nt.ars-grin.gov/fungaldatabases/new_allView.cfm?whichone=Nomenclature&thisName=Fomitopsis%20pinicola |date=2011-07-16 }} at Fungal Databases, Systematic Botany and Mycology Laboratory Nomenclature Database, U.S. Department of Agriculture, Agricultural Research Service.
+
+==External links==
+*{{Commonscatinline|italic=on}}
+*[https://www.mykoweb.com/CAF/species/Fomitopsis_pinicola.html Large picture & more information]
+
+{{Taxonbar|from=Q1928270}}
+
+[[Category:Fomitopsis|pinicola]]
+[[Category:Fungi described in 1810]]
+[[Category:Inedible fungi]]
+[[Category:Fungus species]]

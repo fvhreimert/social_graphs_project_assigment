@@ -1,0 +1,25 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+|image=2008-11-05 Amanita lividopallescens (Secr. ex Gillet) Boud 27978 crop.jpg
+| taxon = Amanita lividopallescens
+| authority =(Secr. ex Gillet) Boud. 1905.
+|synonyms =''Amanita livida pallescens'' <small>Secr. nom. inval. 1833.</small>
+}}
+
+'''''Amanita lividopallescens''''', also known as the '''pale amanita''',<ref name=NGSWG>{{NGSWG}}</ref> is a [[species]] of [[Amanita]] in Europe that grows near oaks.<ref>{{cite web|url=http://www.amanitaceae.org/?Amanita+lividopallescens|title= Amanita lividopallescens in Amanitaceae}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{commonscat-inline|italic=1}}
+* {{wikispecies-inline|Amanita lividopallescens|''Amanita lividopallescens''}}
+
+{{Amanitas}}
+{{Taxonbar|from=Q2013734}}
+
+[[Category:Amanita|lividopallescens]]
+[[Category:Fungus species]]
+
+
+{{Amanitaceae-stub}}

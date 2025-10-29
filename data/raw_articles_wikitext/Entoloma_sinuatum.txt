@@ -1,0 +1,223 @@
+{{short description|Species of poisonous fungus in the family Entolomataceae found across Europe and North America}}
+{{stack begin}}
+{{Speciesbox
+| image = Entoloma sinuatum group.JPG
+| image_alt = A group of six whitish mushrooms arises from the forest floor among leaf litter. One is upturned so its gills are visible.
+| image_caption = ''E. sinuatum'', [[Piacenza's Appennino]], [[Italy]]
+| status = 
+| status_system = 
+| status_ref = 
+| genus = Entoloma
+| species = sinuatum
+| authority = ([[Pers.]]) [[Paul Kummer|P.Kumm.]] (1871)
+| synonyms = 
+*''[[Agaricus]] sinuatus'' <small>[[Christian Hendrik Persoon|Pers.]] (1801)</small>
+*''Entoloma eulividum'' <small>[[Machiel Noordeloos|Noordel.]] (1985)</small>
+*''Entoloma lividum'' <small>(Bull.) [[Lucien Quélet|Quél.]] (1872)</small>
+*''[[Rhodophyllus]] lividus'' <small>(Bull.) Quél. (1886)</small>
+*''Rhodophyllus sinuatus'' <small>(Bull.) Quél. (1888)</small>
+| synonyms_ref = <ref name="urlFungorum synonymy: Entoloma sinuatum"/>
+}}
+{{mycomorphbox
+| name = ''Entoloma sinuatum''
+| whichGills = adnate
+| capShape = convex
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = pink
+| howEdible = poisonous
+}}
+{{stack end}}
+
+'''''Entoloma sinuatum''''' ([[common name|commonly known]] as the '''livid entoloma''', '''livid agaric''', '''livid pinkgill''',<ref>{{cite web |url= https://www.britmycolsoc.org.uk/library/english-names |title= Entoloma sinuatum · livid pinkgill |access-date= 2021-05-21 |work= The British Mycological Society |archive-date= 2022-02-05 |archive-url= https://web.archive.org/web/20220205063207/https://www.britmycolsoc.org.uk/library/english-names |url-status= dead }}</ref><ref>{{cite web|url= https://species.nbnatlas.org/species/NHMSYS0001481673 |title= Entoloma sinuatum · livid pinkgill |access-date=2021-05-21 |work= NBN Atlas }}</ref><ref>{{cite web|url= https://www.first-nature.com/fungi/entoloma-sinuatum.php |title= Entoloma sinuatum (Pers.) P. Kumm. - Livid Pinkgill |access-date=2021-05-21 |work= First Nature }}</ref> '''leaden entoloma''', and '''lead poisoner''') is a [[poisonous mushroom]] found across Europe and North America. Some guidebooks refer to it by its older scientific names of ''Entoloma lividum'' or ''Rhodophyllus sinuatus''. The largest mushroom of the [[genus]] of pink-[[spore]]d fungi known as ''[[Entoloma]]'', it is also the [[type species]]. Appearing in late summer and autumn, [[basidiocarp|fruit bodies]] are found in [[deciduous forest|deciduous woodlands]] on clay or chalky soils, or nearby parklands, sometimes in the form of [[fairy ring]]s. Solid in shape, they resemble members of the genus ''[[Tricholoma]]''. The ivory to light grey-brown [[pileus (mycology)|cap]] is up to {{convert|20|cm|in|abbr=on}} across with a margin that is rolled inward. The sinuate [[gill (mushroom)|gill]]s are pale and often yellowish, becoming pink as the [[spore]]s develop. The thick whitish [[stipe (mycology)|stem]] has no [[annulus (mycology)|ring]].
+
+When young, it may be mistaken for the [[edible mushroom|edible]] St George's mushroom (''[[Calocybe gambosa]]'') or the miller (''[[Clitopilus prunulus]]''). It has been responsible for many cases of [[mushroom poisoning]] in Europe. ''E.&nbsp;sinuatum'' causes primarily [[gastrointestinal problem]]s that, though not generally life-threatening, have been described as highly unpleasant. Delirium and depression are uncommon [[sequela]]e. It is generally not considered to be lethal, although one source has reported deaths from the consumption of this mushroom.<ref>{{cite book|title=Poisonous Mushrooms of the Northern United States and Canada|author=Joseph F. Ammirati|publisher=Minnesota Press|year=1985|page=81|isbn=9780816614073|url=https://books.google.com/books?id=nhWbsGB7z4cC&pg=PA81}}</ref>
+
+== Name and relationships ==
+''.<ref name=Redeuilh1999/>|alt=an old line drawing of the various parts of a mushroom fruit body]]
+The saga of this species' name begins in 1788 with the publication of part 8 of [[Jean Baptiste François Pierre Bulliard|Jean Baptiste Bulliard]]'s ''Herbier de la France''. In it was plate 382, representing a mushroom which he called ''[[Agaricus]] lividus''.<ref name=Bulliard1788/> In 1872, [[Lucien Quélet]] took up a species which he called "''[[Entoloma]] lividus'' Bull.";<ref name=Quelet1872/><ref name=Redeuilh1995/> although all subsequent agree that this is a fairly clear reference to Bulliard's name, Quélet gave a description that is generally considered to be that of a different species from Bulliard's.<ref name=Redeuilh1999/><ref name=Redeuilh1995/> In the meantime, 1801 had seen the description of ''Agaricus sinuatus'' by [[Christian Hendrik Persoon|Christian Persoon]] in his ''[[Synopsis Methodica Fungorum]]''.<ref name=Persoon1801/> He based that name on another plate (number 579) published in the last part of Bulliard's work, and which the latter had labelled "agaric sinué".<ref group=note>Which means that under the modern principles of nomenclature, Persoon, not Bulliard, is the first to have used the name, since only names in Latin can be considered.</ref> German mycologist [[Paul Kummer]] reclassified it as ''Entoloma sinuatum'' in 1871.<ref name=Kummer1871/>
+
+For many years Quélet's name and description were treated as valid because Bulliard's name antedated Persoon's. However, in 1950, a change in the ''[[International Code of Botanical Nomenclature]]'' (termed the Stockholm Code, after the city where the International Botanical Congress was being held) caused only names on fungi published after 1801 or 1821 (depending on their type) to be valid.<ref name=Korf1982/> This meant that suddenly Bulliard's name was no longer a valid name, and now it was Persoon's name that had priority. Nonetheless, it was a well-known name, and the already chaotic situation caused by a change to a famous Latin name was further complicated by another of Quélet's suggestions. He had in 1886 proposed a new, broader genus that included all pink-gilled fungi with [[Lamella (mycology)#Classification|adnate or sinuate gills]] and angular spores: ''Rhodophyllus''.<ref name=Quelet1886/> These two approach to genus placement, using either ''Rhodophyllus'' or ''Entoloma'', coexisted for many decades, with mycologists and guidebooks following either;<ref name=Singer1975/> [[Henri Romagnesi]], who studied the genus for over forty years, favoured ''Rhodophyllus'', as initially did [[Rolf Singer]].<ref name=Singer1975/> However, most other authorities have tended to favor ''Entoloma'',<ref name=Noordeloos1992/> and Singer conceded the name was far more widely used and adopted it for his ''Agaricales in Modern Taxonomy'' text in 1986.<ref name=Singer1986/>
+
+In the meantime, it had been widely accepted that the 1950 change to the Stockholm Code caused more problems than they solved, and in 1981, the Sydney Code reinstated the validity of pre-1801 names, but created the status of [[sanctioned name]] for those used in the foundational works of Persoon and [[Elias Magnus Fries]].<ref name=Korf1982/> Thus ''Entoloma sinuatum'', which Fries had sanctioned,<ref name=Fries1821/> still had to be used for the species described by Quélet even though Bulliard's name was the older one. At about the same time, [[Machiel Noordeloos]] re-examined Bulliard's name in more details, and discovered that not only was it [[Illegitimate name|illegitimate]] (and thus not available for use) because [[William Hudson (botanist)|William Hudson]] had already used it ten years earlier for a different species, but Bulliard's illustration was clearly not an ''Entoloma'', but a species of ''[[Pluteus]]'',<ref group=note>It is now generally accepted the species in question is ''[[Pluteus cervinus]]''.</ref> a genus that is only distantly related to ''Entoloma''.<ref name=Redeuilh1995/> As this made Quélet's name definitely unusable for the ''Entoloma'', and because at the time he and Romagnesi<ref name=romagnesi1978/> believed there were ground to treat Quélet's "''E. lividum''" and Persoon's ''E. sinuatum'' as separate species, he had to coin a third name for Quélet's species: ''Entoloma eulividum''.<ref name=Redeuilh1995/><ref name=Noordeloos1985/> He however later changed his mind on this issue, combining again his own ''Entoloma eulividum'' and ''E.&nbsp;sinuatum'', so that Persoon's name is now universally recognised.<ref name=Noordeloos1992/><ref name=Breitenbach1991/> Because it was previously widely used and Quélet had provided a good description and illustration (which, the proposer argued, was better considered as a new species rather than a mere placement of Bulliard's name in another genus),<ref name=Redeuilh1995/> a proposal was made in 1999 to [[Conserved name|conserve]] ''Entoloma lividum'' and thus restore its use.<ref name=Redeuilh1999/> However, it failed because ''E. sinuatum'' had already been in use (if not universally) for many years and was thus a well-known name for the species.<ref name=Gams2001/>
+
+{{cladogram|align=left|title=
+| clade=
+{{clade
+|style=font-size:75%;line-height:75%
+| label1=
+| 1={{clade
+     |1={{clade
+        |1={{clade
+           |1={{clade
+              |1={{clade
+                 |1='''''E. sinuatum'''''
+                 |2=''E.'' sp. 1{{refn|Initially presumed to be ''[[Entoloma prunuloides]]'' but later found to be distinct from that taxon.<ref name=Codavid2009/>|group=note|name=sp1}}
+                 }}
+              |2=''[[Entoloma sordidulum|E. sordidulum]]''
+              }}
+           |2={{clade
+              |1=''[[Entoloma politum|E. politum]]''
+              |2=''[[Entoloma rhodopolium|E. rhodopolium]]''
+              }}
+           }}
+        |2=''[[Entoloma caccabus|E. caccabus]]''
+        }}
+     |2={{clade
+        |1=''[[Entoloma sericatum|E. sericatum]]''
+        |2=''[[Entoloma myrmecophilum|E. myrmecophilum]]''
+        }}
+     }}
+}}
+| caption=[[Cladogram]] showing the [[phylogenetic]] relationships of ''E.&nbsp;sinuatum'' and closely related fungi in the Rhodopolioid clade.<ref name=Codavid2009/>
+}}
+The [[specific name (botany)|specific epithet]] ''sinuatum'' is the [[Latin]] for "wavy", referring to the shape of the cap, while the generic name is derived from the [[Ancient Greek]] words ''entos/ἐντός'' "inner" and ''lóma/λῶμα'' "fringe" or "hem" from the inrolled margin.<ref name=Nilson1977/> The specific epithet ''lividum'' was derived from the Latin word ''līvǐdus'' "lead-coloured".<ref name=Simpson1979/> The various [[common name]]s include livid entoloma, livid agaric, livid pinkgill, leaden entoloma, lead poisoner,<ref name=Foster1994/> and grey pinkgill.<ref name=McKnight1987/> In the [[Dijon]] region of France it was known as ''le grand empoisonneur de la [[Côte-d'Or]]'' ("the great poisoner of ''Côte d'Or''").<ref name=Ramsbottom1953/> Quélet himself, who was poisoned by the fungus, called it ''the miller's purge'', akin to another common name of false miller.<ref name=Lamaison05/>
+
+Within the large genus ''Entoloma'', which contains more than 1900 species, ''E.&nbsp;sinuatum'' has been classically placed in the [[section (botany)|section]] ''Entoloma'' within the [[subgenus]] ''Entoloma'',<ref>Noordeloos, ''Fungi Europaei'', p. 72.</ref> as it is the [[type species]] of the genus.<ref name=Singer1986/> A 2009 study analyzing [[DNA sequence]]s and spore [[morphology (biology)|morphology]] found it to lie in a rhodopolioid [[clade]] with (among other species) ''[[Entoloma sordidulum|E.&nbsp;sordidulum]]'', ''[[Entoloma politum|E.&nbsp;politum]]'' and ''[[Entoloma rhodopolium|E.&nbsp;rhodopolium]]'', and most closely related to ''E.''&nbsp;sp.&nbsp;1.<ref group=note name=sp1/> This rhodopolioid clade lay within a crown ''Entoloma'' clade.<ref name=Codavid2009/><!-- cites para apart from note -->
+
+== Description ==
+
+The largest member of its genus,<ref name=Nilson1977/> ''Entoloma sinuatum'' has an imposing [[epigeous]] (aboveground) [[fruiting body]] (basidiocarp), bearing a [[Pileus (mycology)|cap]] 6–20&nbsp;cm ({{frac|2|1|2}}–6&nbsp;in) wide, though diameters of {{convert|30|cm|in|abbr=on}} have been recorded.<ref name=Haas1969/> It is convex to flat, often with a blunt [[umbo (mycology)|umbo]] in its centre and wavy margins, ivory white to light grey-brown in color, and darkening with age. The distant [[Lamella (mycology)|gills]] are sinuate (notched at their point of attachment to the [[Stipe (mycology)|stipe]]) to almost free, generally (but not always) yellowish white before darkening to pink and then red. Interspersed between the gills are lamellulae (short gills that do not extend completely from the cap margin to the stipe).<ref name=Bresinsky1989/> When viewed from beneath, a characteristic groove colloquially known as a "moat" can be seen in the gill pattern circumnavigating the stalk.<ref name=Haas1969/> The [[form (botany)|form]] lacking yellow color on the gills is rare but widespread, and has been recorded from Austria, France and the Netherlands.<ref name=Noor114>Noordeloos, ''Fungi Europaei'', p. 114.</ref>
+
+The stout white stipe lacks a [[annulus (mycology)|ring]] and is anywhere from {{convert|4|to|20|cm|in|abbr=on}} high, and {{convert|0.5|–|4|cm|in|abbr=on}} in diameter. It may be bulbous at the base. The taste is mild, although it may be unpleasant. The mushroom's strong and unusual odor can be hard to describe; it may smell of flour, though is often unpleasant and [[wikt:rancid|rancid]]. The [[spore print]] is reddish-brown, with angular spores 8–11 × 7–9.5&nbsp;[[micrometre|μm]], roughly six-sided and globular in shape. The [[basidia]] are four-spored and clamped. The gill edge is fertile, and [[cystidia]] are absent.<ref name=Noor1113>Noordeloos, ''Fungi Europaei'', pp. 111–13.</ref><!-- cites para -->
+
+===Similar species===
+{{multiple image
+| footer = Lookalike species include ''[[Clitopilus prunulus]]'' (left) and ''[[Calocybe gambosa]]'' (right)
+| image1 = Clitopilus prunulus - Lindsey.jpg
+| width1 = {{#expr: (140 * 640 / 427) round 0}}
+| image2 =Calocybe gambosa 950.jpg
+| width2 = {{#expr: (140 * 800 / 521) round 0}}
+}}
+Confusion with the highly regarded miller or sweetbread mushroom (''[[Clitopilus prunulus]]'') is a common cause of poisoning in France; the latter fungus has a greyish -white downy cap and whitish decurrent gills which turn pink with maturity.<ref name=Lamaison05/> Young fruit bodies of ''Entoloma sinuatum'' can also be confused with St George's mushroom (''[[Calocybe gambosa]]''),<ref name=Nilson1977/> although the gills of the latter are crowded and cream in color, and the clouded agaric (''[[Clitocybe nebularis]]''), which has whitish decurrent gills and an unusual, starchy, rancid or rancid starch odor.<ref name=Haas1969/> To complicate matters, it often grows near these edible species.<ref name=Zeitlmayr1976/> Its overall size and shape resemble members of the genus ''[[Tricholoma]]'', although the spore color (white in ''Tricholoma'', pinkish in ''Entoloma'') and shape (angular in ''Entoloma'') help distinguish it.<ref name=Ammirati1985/> The rare and edible all-white dovelike tricholoma (''[[Tricholoma columbetta|T.&nbsp;columbetta]]'') has a satiny cap and stem and a faint, not mealy, odor.<ref name=Lamaison05/> ''E.&nbsp;sinuatum'' may be confused with ''[[Clitocybe multiceps]]'' in the [[Pacific Northwest]] of North America, although the latter has white spores and generally grows in clumps.<ref name=Ammirati1985/> A casual observer may mistake it for an edible field mushroom (''[[Agaricus campestris]]''),<ref name=Ramsbottom1953/> but this species has a ring on the stipe, pink gills that become chocolate-brown in maturity, and a dark brown spore print.<ref name=Miller2006/> The poorly known North American species ''[[Entoloma albidum|E. albidum]]'' resembles ''E.&nbsp;sinuatum'' but is likewise poisonous.<ref name=Ammirati1985/>
+
+== Distribution and habitat ==
+''Entoloma sinuatum'' is fairly common and widespread across North America<ref name=Ammirati1985/> as far south as [[Arizona]].<ref name=Bates2006/> It also occurs throughout Europe and including Ireland and Britain,<ref name="urlNorthernIrelandFungusGroup"/> though it is more common in southern and central parts of Europe than the northwest.<ref name=Noor1113/> In Asia, it has been recorded in the Black Sea region,<ref name=Sesli2008/> the [[Adıyaman Province]] in Turkey,<ref name=Kaya2010/> Iran,<ref name=Asef2010/> and northern [[Yunnan]] in China.<ref name=Horak1987/>
+
+The fruit bodies of ''E.&nbsp;sinuatum'' grow solitarily or in groups,<ref name=Ammirati1985/> and have been found forming [[fairy ring]]s.<ref name=Zeitlmayr1976/> Fruit bodies appear mainly in autumn, and also in summer in North America,<ref name=Ammirati1985/> while in Europe the season is reported as late summer and autumn.<ref name=Noor1113/> They are found in [[temperate deciduous forest|deciduous woodlands]] under [[oak]], [[beech]], and less commonly [[birch]], often on clay or [[calcareous]] (chalky) soils,<ref name=Noor1113/> but they may spread to in parks, fields and grassy areas nearby.<ref name=Zeitlmayr1976/> Most members of the genus are [[Saprotrophic nutrition|saprotrophic]],<ref>Noordeloos, ''Fungi Europaei'', p. 38.</ref> although this species has been recorded as forming an [[Mycorrhiza#Ectomycorrhiza|ectomycorrhizal]] relationship with willow (''[[Salix]]'').<ref name=Agerer2002/>
+
+== Toxicity ==
+This fungus has been cited as being responsible for 10% of all [[mushroom poisoning]]s in Europe.<ref name=Alder1961/> For example, 70 people required hospital treatment in [[Geneva]] alone in 1983,<ref name=Chapuis1984/> and the fungus accounted for 33 of 145 cases of mushroom poisoning in a five-year period at a single hospital in [[Parma]].<ref name=Bocci1995/> Poisoning is said to be mainly [[human gastrointestinal tract|gastrointestinal]] in nature; symptoms of [[diarrhoea|diarrhea]], vomiting and headache occur 30&nbsp;minutes to 2&nbsp;hours after consumption and last for up to 48&nbsp;hours. Acute liver toxicity and psychiatric symptoms like mood disturbance or [[delirium]] may occur. Rarely, symptoms of depression may last for months.<ref name=Benjamin1995/> At least one source reports there have been fatalities in adults and children.<ref name=Benedict1972/> Hospital treatment of poisoning by this mushroom is usually [[palliative care|supportive]]; [[antispasmodic]] medicines may lessen [[wikt:colic|colicky]] abdominal cramps and [[Activated carbon#Medical applications|activated charcoal]] may be administered early on to bind residual toxin. [[Intravenous therapy|Intravenous]] fluids may be required if dehydration has been extensive, especially with children and the elderly.<ref>Benjamin, ''Mushrooms: Poisons and Panaceas'', pp. 354–55.</ref> [[Metoclopramide]] may be used in cases of recurrent vomiting once gastric contents are emptied.<ref>Benjamin, ''Mushrooms: Poisons and Panaceas'', p. 188.</ref> The identity of the toxin(s) is unknown, but [[chemical analysis]] has established that there are [[alkaloid]]s present in the mushroom.<ref name=Bastida1987/>
+
+A study of [[trace element]]s in mushrooms in the eastern [[Black Sea Region]] of Turkey found ''E.&nbsp;sinuatum'' to have the highest levels of [[copper]] (64.8 ± 5.9&nbsp;μg/g [[Dry matter|dried material]]—insufficient to be toxic) and [[zinc]] (198&nbsp;μg/g) recorded.<ref name=Tuzen2007/> Caps and stalks tested in an area with high levels of [[Mercury (element)|mercury]] in southeastern Poland showed it to [[bioaccumulation|bioaccumulate]] much higher levels of mercury than other fungi. The element was also found in high levels in the [[humus]]-rich substrate.<ref name=Falandysz2002/> ''Entoloma sinuatum'' also accumulates [[arsenic]]-containing compounds. Of the roughly 40&nbsp;μg of arsenic present per gram of fresh mushroom tissue, about 8% was [[arsenite]] and the other 92% was [[arsenate]].<ref name=Byrne1995/>
+
+== See also ==
+{{Portal|Fungi}}
+{{Commons}}
+*[[List of deadly fungi]]
+*[[List of Entoloma species|List of ''Entoloma'' species]]
+
+==Footnotes==
+{{Reflist|group=note}}
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=Agerer2002>{{cite book |title=Colour Atlas of Ectomycorrhizae |author=Agerer, Reinhard |year=2002 |publisher=Einhorn-Verlag |location=Schwäbisch Gmünd |isbn=3-921703-77-8 |pages=116–17}}</ref>
+
+<ref name=Alder1961>{{cite journal|author=Alder, A.E. |year=1961 |title=Erkennung und Behandlung der Pilzvergiftung [Recognition and treatment of mushroom poisoning] |journal=Deutsche Medizinische Wochenschrift |volume=86 |issue=23 |pages=1121–27 |pmid=13682210 |doi=10.1055/s-0028-1112908 |s2cid=259999146 |language=de}}</ref>
+
+<ref name=Ammirati1985>{{cite book |author1=Ammirati, Joseph F. |author2=Traquair, James A. |author3=Horgen, Paul A. |title=Poisonous Mushrooms of the Northern United States and Canada |year=1985 |publisher=University of Minnesota Press |location=Minneapolis, Minnesota |isbn=0-8166-1407-5 |pages=313–15 |url=https://books.google.com/books?id=nhWbsGB7z4cC&pg=PA312}}</ref>
+
+<ref name=Asef2010>{{cite book |title=قارچهای سمی ایران (Qarch-ha-ye Sammi-ye Iran) |trans-title=Poisonous mushrooms of Iran |year=2010 |author=Asef Shayan, M.R. |publisher=Iranshenasi |page=214 |isbn=978-964-2725-29-8 |language=fa}}</ref>
+
+<ref name=Bastida1987>{{cite journal |title=Screening of higher fungi from Catalonia for alkaloids-II |journal=International Journal of Crude Drug Research |year=1987 |author1=Bastida, Jaume |author2=Viladomat, Fransesc |author3=Llabrés, Jose M. |author4=Codina, Carles |volume=25 |issue=3 |pages=129–32 |doi=10.3109/13880208709060915}}</ref>
+
+<ref name=Bates2006>{{cite journal |author=Bates, Scott T. |year=2006 |title=A preliminary checklist of Arizona macrofungi |journal=Canotia |volume=2 |issue=2 |pages=47–78 |url=http://www.canotia.org/volumes/CANOTIA_2006_Vol2_2_Bates.pdf |access-date=2011-01-03 |archive-date=2011-04-19 |archive-url=https://web.archive.org/web/20110419181256/http://www.canotia.org/volumes/CANOTIA_2006_Vol2_2_Bates.pdf |url-status=dead }}</ref>
+
+<ref name=Benedict1972>{{cite book |title=Microbial Toxins: A Comprehensive Treatise. Volume VIII. Fungal Toxins |author=Benedict, Robert G. |editor1=Kadis, S. |editor2=Ciegler, Alex |editor3=Ajl, S.J. |year=1972 |publisher=Academic Press |location=New York, New York |chapter=Mushroom toxins other than ''Amanita''|pages=281–320}}</ref>
+
+<ref name=Benjamin1995>Benjamin, pp. 361–62.</ref>
+
+<ref name=Bocci1995>{{cite journal |title=Segnalazioni di intossicazioni da funghi nel Parmense|trans-title=Report on mushroom poisoning in the Parma area |author1=Bocchi, A. |author2=Bracchi, P. G. |author3=Delbono, G. |author4=Cadonici, O. |journal=Annali della Facolta di Medicina Veterinaria, Universita di Parma |year=1995 |volume=15 |pages=251–56 |issn=0393-4802 |language=it}}</ref>
+
+<ref name=Breitenbach1991>{{cite book |author1=Breitenbach, Joseph |author2=Kränzlin, Fred |year=1991 |title=Fungi of Switzerland 4: Agarics, 2nd Part |isbn=3-85604-240-7 |page=104 |publisher=Verlag Mykologia Lucerne |location=Lucerne}}</ref>
+
+<ref name=Bresinsky1989>{{cite book |author1=Bresinsky, Andreas |author2=Besl, Helmut |title=A Colour Atlas of Poisonous Fungi: a Handbook for Pharmacists, Doctors, and Biologists |publisher=Manson Publishing Ltd. |location=London |year=1989 |pages=138–39 |isbn=0-7234-1576-5 |url=https://books.google.com/books?id=EIcQGsZ2kksC&pg=PA139}}</ref>
+
+<ref name=Bulliard1788>{{cite book |title=Herbier de la France |author=Bulliard, Pierre |author-link=Jean Baptiste François Pierre Bulliard|year=1782 |publisher=Chez l'auteur, Didot, Debure, Belin |location=Paris |volume=8 |page=plate 382 |url=https://www.biodiversitylibrary.org/page/4309225 |language=fr}}</ref>
+
+<ref name=Byrne1995>{{cite journal |author1=Byrne, A.R. |author2=Slejkovec, Zdenka |author3=Stijve, Tjakko |author4=Fay, L. |author5=Gössler, Walter |author6=Gailer, Jürgen |author7=Irgolic, Kurt J. |year=1995 |title=Arsenobetaine and other arsenic species in mushrooms |journal=Applied Organometallic Chemistry |volume=9 |issue=4 |pages=305–13 |doi=10.1002/aoc.590090403}}</ref>
+
+<ref name=Chapuis1984>{{cite journal |author=Chapuis, J.-R. |year=1984 |title=Jahresbericht des Verbandstoxikologen für das Jahr 1983 [Annual Report of the SUSM Toxicologist for 1983] |journal=Schweizerische Zeitschrift für Pilzkunde |volume=62 |pages=196–97 |language=de}}</ref>
+
+<ref name=Codavid2009>{{cite journal|author1=Co-David, Delia |author2=Langeveld, Dorien |author3=Noordeloos, Machiel E. |year=2009 |title=Molecular phylogeny and spore evolution of Entolomataceae |journal=Persoonia |pmid=20198166 |volume=23 |pmc=2802732 |pages=147–76 |doi=10.3767/003158509X480944 |url=http://www.entoloma.nl/pdf/Co-David_et_al_entolomataceae.pdf |url-status=dead |archive-url=https://web.archive.org/web/20110724152641/http://www.entoloma.nl/pdf/Co-David_et_al_entolomataceae.pdf |archive-date=2011-07-24 }}</ref>
+
+<ref name=Falandysz2002>{{cite journal |title=Mercury in mushrooms and soil of the Tarnobrzeska Plain, south-eastern Poland |author=Falandysz, Jerzy |journal=Journal of Environmental Science and Health, Part A |volume=37 |issue=3 |pages=343–52 |year=2002 |doi=10.1081/ESE-120002833|pmid=11929073 |bibcode=2002JESHA..37..343F |s2cid=24124204 }}</ref>
+
+<ref name=Fries1821>{{cite book |author=Fries, Elias Magnus |title=[[Systema Mycologicum]], volume 1 |year=1821 |location=Lund |publisher=Officina Berlingiana |page=[https://www.biodiversitylibrary.org/page/4338478 197]}}</ref>
+
+<ref name=Foster1994>{{cite book |author1=Foster, Steven |author2=Caras, Roger A. |title=A Field Guide to Venomous Animals and Poisonous Plants, North America |url=https://archive.org/details/fieldguidetoveno00fost |url-access=registration |year=1994 |publisher=Houghton Mifflin Field Guides |isbn=0-395-93608-X |page=[https://archive.org/details/fieldguidetoveno00fost/page/212 212]}}</ref>
+
+<ref name=Gams2001>{{cite journal |author=Gams, Walter |year=2001 |title=Report of the Committee for Fungi: 9 |journal=Taxon |volume=50 |issue=1 |pages=269–72 |doi=10.2307/1224527|jstor=1224527 |bibcode=2001Taxon..50..269G }}</ref>
+
+<ref name=Haas1969>{{cite book |author=Haas, Hans |year=1969 |title=The Young Specialist looks at Fungi |publisher=Burke|location=London |isbn=0-222-79409-7 |page=126}}</ref>
+
+<ref name=Horak1987>{{cite journal |title=Agaricales from Yunnan China I |journal=Nippon Kingakukai Kaiho |author=Horak, Egon |year=1987 |volume=28 |issue=2 |pages=171–88 |issn=0029-0289}}</ref>
+
+<ref name=Kaya2010>{{cite journal |author=Kaya, Abdullah |year=2010 |title=Macrofungal diversity of Adıyaman Province (Turkey) |journal=Mycotaxon |volume=110 |pages=43–46 |url=http://www.mycotaxon.com/resources/checklists/kaya-v110-checklist.pdf |doi=10.5248/110.43}}</ref>
+
+<ref name=Korf1982>{{cite journal |author=Korf, Richard P. |year=1981 |title=Citation of Authors' Names and the Typification of Names of Fungal Taxa Published between 1753 and 1832 under the Changes in the Code of Nomenclature Enacted in 1981 |journal=Mycologia |volume=74 |issue=2 |pages=250–5 |doi=10.2307/3792891 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0074/002/0250.htm|jstor=3792891 |url-access=subscription }}</ref>
+
+<ref name=Kummer1871>{{cite book |title=Der Führer in die Pilzkunde |edition=1st |author=Kummer, Paul |author-link=Paul Kummer |year=1871 |location=Zerbst, Germany |publisher=Luppe |page=98 |language=de |url=https://www.biodiversitylibrary.org/page/34209667}}</ref>
+
+<ref name=Lamaison05>{{cite book |title=The Great Encyclopedia of Mushrooms |author1=Lamaison, Jean-Louis |author2=Polese, Jean-Marie |year=2005 |publisher=Könemann |location=Königswinter, Germany |isbn=3-8331-1239-5 |page=116}}</ref>
+
+<ref name=McKnight1987>{{cite book |author1=McKnight, Vera B. |author2=McKnight, Kent H. |title=A Field Guide to Mushrooms: North America | series=Peterson Field Guides |publisher=Houghton Mifflin |location=Boston, Massachusetts |year=1987 |page=311 |isbn=0-395-91090-0 }}</ref>
+
+<ref name="Miller2006">{{cite book |author=Miller, Hope H. |author2=Miller, Orson K. |author2-link=Orson K. Miller, Jr. |title=North American Mushrooms: a Field Guide to Edible and Inedible Fungi |publisher=Falcon Guide |location=Guilford, Connecticut |year=2006 |page=283 |isbn=0-7627-3109-5}}</ref>
+
+<ref name=Nilson1977>{{cite book |author1=Nilson, Sven |author2=Persson, Olle |year=1977 |title=Fungi of Northern Europe 2: Gill-Fungi |publisher=Penguin |isbn=0-14-063006-6 |page=98}}</ref>
+
+<ref name=Noordeloos1985>{{cite journal |title=Notulae ad floram Agaricinam Neerlandicam X-XI. ''Entoloma'' |journal=Persoonia |year=1985 |author=Noordeloos, Machiel E. |volume=12 |issue=4 |pages=457–62}}</ref>
+
+<ref name=Noordeloos1992>Noordeloos, ''Fungi Europaei'', p. 13.</ref>
+
+<ref name=Persoon1801>{{cite book |title=Synopsis Methodica Fungorum |author=Persoon, Christian H.|author-link=Christiaan Hendrik Persoon |year=1801 |location=Gottingen, Sweden |publisher=Apud H. Dieterich |page=329 |url=https://books.google.com/books?id=UugVAAAAYAAJ&pg=RA2-PA329 |language=la}}</ref>
+
+<ref name=Quelet1872>{{in lang|la}}{{cite journal |title=Les Champignons du Jura et des Vosges |journal=Mémoires de la Société d'Émulation de Montbéliard |year=1872 |author=Quélet, Lucien |author-link=Lucien Quélet |volume=5 |series=2 |page=116 |language=fr}}</ref>
+
+<ref name=Quelet1886>{{cite book |title=Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium |author=Quélet L.|year=1886 |url=https://books.google.com/books?id=k2EVAAAAYAAJ&pg=PA57 |page=57}}</ref>
+
+<ref name=Ramsbottom1953>{{cite book |author=Ramsbottom, John |author-link=John Ramsbottom (mycologist) |year=1953 |title=Mushrooms & Toadstools |location=London |publisher=Collins |isbn=1-870630-09-2 |page=53}}</ref>
+
+<ref name=Redeuilh1995>{{cite journal|author=Redeuilh, Guy |year=1995 |title=Etude préliminaire en vue de la conservation d{{'}}''Entoloma lividum'' Quél. |journal=Bulletin de la Société Mycologique de France |volume=111 |issue=3 |pages=155–68 |language=fr}}</ref>
+
+<ref name=Redeuilh1999>{{cite journal |author=Redeuilh, Guy |year=1999 |title=Proposal to conserve the name ''Entoloma lividum'' (Fungi, Agaricales) against three earlier synonyms |journal=Taxon |volume=48 |issue=1 |pages=145–46 |doi=10.2307/1224635|jstor=1224635 }}</ref>
+
+<ref name=romagnesi1978>{{cite journal|author=Romagnesi, Henri |year=1978 |title=Quelques Espèces Méconnues ou Nouvelles de Macromycètes. IV |journal=Bulletin de la Société Mycologique de France |volume=94 |issue=2 |pages=97–108 |language=fr}}</ref>
+
+<ref name=Sesli2008>{{cite journal |author=Sesli, Ertuğrul |year=2007 |title=Preliminary checklist of macromycetes of the East and Middle Black Sea Regions of Turkey |journal=[[Mycotaxon]] |volume=99 |pages=71–74 |url=http://www.mycotaxon.com/resources/checklists/sesli-v99-checklist.pdf }}</ref>
+
+<ref name=Simpson1979>{{cite book |author=Simpson, D.P. |title=Cassell's Latin Dictionary |publisher=Cassell Ltd. |year=1979 |edition=5th |location=London |isbn=0-304-52257-0 |page=349}}</ref>
+
+<ref name=Singer1975>{{cite book |title=Agaricales in Modern Taxonomy |author=Singer, Rolf |author-link=Rolf Singer |year=1975 |pages=672–73 |publisher=AR Gantner Verlag KG |location=Vaduz |isbn=3-7682-0143-0}}</ref>
+
+<ref name=Singer1986>{{cite book |title=Agaricales in Modern Taxonomy |author=Singer, Rolf |author-link=Rolf Singer |year=1986 |page=705 |publisher=Koeltz |location=Vaduz |isbn=3-87429-254-1}}</ref>
+
+<ref name=Tuzen2007>{{cite journal |title=Trace element levels of mushroom species from East Black Sea region of Turkey |author1=Tuzen, Mustafa |author2=Sesli, Ertugrul |author3=Soylak, Mustafa |journal=Food Control |volume=18 |issue=7 |pages=806–10 |year=2007 |doi=10.1016/j.foodcont.2006.04.003 }}</ref>
+
+<ref name="urlFungorum synonymy: Entoloma sinuatum">{{cite web |url=http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=224074 |title=''Entoloma sinuatum'' (Bull.) P. Kumm. |publisher=CAB International |work=Species Fungorum |access-date=2010-12-18}}</ref>
+
+<ref name="urlNorthernIrelandFungusGroup">{{cite web |title=Northern Ireland's Herbarium Specimens |publisher=Northern Ireland Fungus Group |year=2007 |url=http://www.nifg.org.uk/herbarium.htm |access-date=2008-02-01 |archive-url=https://web.archive.org/web/20190207015333/http://www.nifg.org.uk/herbarium.htm |archive-date=2019-02-07 |url-status=dead }}</ref>
+
+<ref name=Zeitlmayr1976>{{cite book |author=Zeitlmayr, Linus |year=1976 |title=Wild Mushrooms: An Illustrated Handbook |publisher=Garden City Press |location=Hertfordshire, UK |isbn=0-584-10324-7 |page=80}}</ref>
+
+}}
+
+===Cited texts===
+*{{cite book |author=Benjamin, Denis R. |title=Mushrooms: Poisons and Panaceas—A Handbook for Naturalists, Mycologists and Physicians |publisher=WH Freeman and Company |location=New York, New York |year=1995 |isbn=0-7167-2600-9}}
+*{{cite book |title=Entoloma s.l. |series=''Fungi Europaei'', '''5'''|author=Noordeloos, Machiel E. |year=1992 |publisher=Giovanna Biella |location=Saronno, Italy |oclc=27190030 |language=it}}
+
+{{featured article}}
+{{Taxonbar|from=Q1424216}}
+
+[[Category:Entolomataceae]]
+[[Category:Fungi described in 1801]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Poisonous fungi]]
+[[Category:Taxa named by Christiaan Hendrik Persoon]]
+[[Category:Fungus species]]

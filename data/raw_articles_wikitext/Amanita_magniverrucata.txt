@@ -1,0 +1,62 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Amanita Magniverrucata 510593.jpg
+| image_caption = Young specimen
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{cite iucn |last1=Siegel |first1=N. |year=2021 |title=''Amanita magniverrucata'' |volume=2021 |article-number=e.T195921722A195926244 |doi=10.2305/IUCN.UK.2021-2.RLTS.T195921722A195926244.en |access-date=21 April 2025}}</ref>
+| genus = Amanita
+| species = magniverrucata
+| authority = [[Harry Delbert Thiers|Thiers]] & [[Joseph Ammirati|Ammirati]]
+}}
+{{mycomorphbox
+| name = ''{{PAGENAME}}''{{italic title}}
+| hymeniumType = gills
+| capShape = convex
+| capShape2 = flat
+| whichGills = free
+| whichGills2 = adnate
+| stipeCharacter = ring and volva
+| sporePrintColor = white
+| ecologicalType = mycorrhizal
+| howEdible = unknown
+| howEdible2 = poisonous
+}}
+
+'''''Amanita magniverrucata''''', commonly known as the '''pine cone amanita''',<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/274/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=274–75 |orig-date=1979}}</ref><ref>{{Cite book |last=Schwarz |first=Christian |title=Mushrooms of the redwood coast: a comprehensive guide to the fungi of coastal northern California |last2=Siegel |first2=Noah |date=2016 |publisher=Ten Speed Press |isbn=978-1-60774-817-5 |location=Berkeley}}</ref> or '''great pine jewel''', is a species of [[agaric]] mushroom in the family [[Amanitaceae]].
+
+== Taxonomy ==
+It was first described scientifically by American mycologists [[Harry Delbert Thiers]] and Joseph Ammirati in 1982.<ref name="Theirs1982" />
+
+== Description ==
+It is a whitish mushroom. The cap is typically up to {{Convert|20|cm|frac=2}} wide with dark scales. The gills are very close. The stem is about {{Convert|7–13|cm|abbr=on|frac=2}} long.<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/274/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=274–75 |orig-date=1979}}</ref> The smell is mild but unpleasant in age and the [[spore print]] is white.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |page=533}}</ref>
+While its edibility is unknown, it may be [[Mushroom poisoning|poisonous]],<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |publisher=Firefly Books |year=2010 |isbn=978-1-55407-651-2 |location=Buffalo, NY |page=24}}</ref> as are other [[Amanita]]s in the same subgroup.<ref name="Arora1986" />
+
+Although there are a number of lookalike species, its large warts are a distinguishing feature.<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/274/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=274–75 |orig-date=1979}}</ref>
+
+{{gallery|mode=packed
+|Amanita Magniverrucata mushroom spore print.jpg|Spore print
+}}
+
+== Ecology ==
+It is [[mycorrhiza]]l and associates with the tree ''[[Pinus radiata]]'' (the Monterey pine).<ref name="Theirs1982" />
+
+==See also==
+*[[List of Amanita species|List of ''Amanita'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name=Theirs1982>{{cite journal |author=Thiers HD, Ammirati JF. |year=1982 |title=New species of ''Amanita'' from western North America |journal=Mycotaxon |volume=15 |pages=155–66 |url=http://www.cybertruffle.org.uk/cyberliber/59575/0015/0155.htm |access-date=2010-07-10}}</ref>
+
+}}
+{{Amanitas}}
+{{Taxonbar|from=Q1942109}}
+
+[[Category:Amanita|magniverrucata]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1982]]
+[[Category:Fungus species]]
+
+
+{{Amanitaceae-stub}}

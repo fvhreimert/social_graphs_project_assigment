@@ -1,0 +1,90 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Lep.asp.jpg
+| taxon = Echinoderma asperum
+| authority = [[Christian Hendrik Persoon|(Pers.)]] [[Marcel Bon|Bon]] (1991)
+| synonyms = ''Lepiota aspera'' [[Christian Hendrik Persoon|(Pers.)]] [[Lucien Quelet|Quel.]] (1886)<br/>
+''Lepiota friesii'' (Lasch.) Quel. (1872)<br/>
+''Lepiota acutesquamosa'' [[Johann Anton Weinmann|(Weinm.)]] [[Paul Kummer|P. Kumm.]] (1871)<br/>
+''Lepiota acutesquamosa var. furcata'' [[Robert Kühner|Kühner]] (1936)<br/>
+''Cystolepiota aspera'' (Pers.) Bon (1978)
+}}
+{{mycomorphbox
+| name = Echinoderma asperum
+| whichGills =  free
+| capShape = ovate
+| capShape2 = campanulate
+| hymeniumType=gills
+| stipeCharacter=ring
+| sporePrintColor=white
+| ecologicalType = mycorrhizal
+| howEdible=caution
+}}
+
+'''''Echinoderma asperum''''' or '''''Lepiota aspera''''',  sometimes known commonly as the '''freckled dapperling''', is a large, brownish, white-gilled [[mushroom]], with a warty or scaly cap. It lives in woodland, or on bark chips in parks, and gardens.
+
+==Taxonomy==
+First described by the eminent 19th-century mycologist [[Christiaan Hendrik Persoon]] as ''Agaricus asper'', the freckled dapperling has been through several taxonomical name changes.  [[Lucien Quélet]] moved it to genus ''[[Lepiota]]'' and since then it has long been known as ''Lepiota aspera'' ([[Christian Hendrik Persoon|Pers.]]) [[Lucien Quelet|Quel.]]<ref name=Phillips06/><ref name=Moser/>  For a time it was placed with the other "spiny" ''[[Lepiota]]'' species into a separate sub-genus called ''Echinoderma'', and in 1978 [[Marcel Bon]] put it into ''[[Cystolepiota]]''.<ref name = "MarcelBon87"/>  Then in 1991 Bon created the new genus ''[[Echinoderma]]'' for this and similar brownish warty species, and the new name ''Echinoderma asperum'' is almost universally accepted in more recent publications.<ref name=C&D1995/><ref name=EOL/><ref name=Eyssartier/><ref name=FN/><ref name=GBIF/><ref name=NBN/><ref name=SF1/>
+
+This same species was described by [[Johann Anton Weinmann|Weinmann]] in 1824 as ''Agaricus acutesquamosus'' and by Wilhelm Gottfried Lasch in 1828 as ''Agaricus friesii'', giving rise to corresponding synonyms in genera ''Lepiota'' and ''Echinoderma''.  Although most authorities now consider all these names to be synonyms, [[Meinhard Michael Moser]] separated the ''acutesquamosum'' form from the ''asperum'' form as different species, on the basis that the latter has forking gills and the former not.<ref name="Moser" />
+
+=== Etymology ===
+The species name is the Latin adjective "asper" (with feminine: "aspera" and neuter "asperum"), meaning "rough".<ref name="asper" />
+
+==Description==
+The [[pileus (mycology)|cap]] is oval at first, becoming convex (or campanulate) with age. It is uniform reddish/brown or brown at the centre, breaking up into erect pyramidal scales on a paler ground; it is up to {{Convert|10|cm|frac=4}} wide.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=562}}</ref> The [[stipe (mycology)|stem]] is paler, around 10&nbsp;cm in length, and has sparse brown scales below the [[Annulus (mycology)|ring]]. The ring itself is large and cottony, sometimes adhering to the cap perimeter, and often taking brownish scales from there; these are seen at its edge. The [[Lamella (mycology)|gills]] have a tendency to fork and are free, crowded, and white, with the spore print being white also. The flesh is white, and is said to smell of rubber, earth balls (''[[Scleroderma citrinum]]''),<ref name = "MarcelBon87"/> or the mushroom ''[[Lepiota cristata]]''.<ref name=FN/>
+
+===Similar species===
+The brownish scales on the cap and the lower part of the stem and the white gills make the genus ''Echinoderma'' quite distinctive, but ''E. asperum'' could be confused with other members, such as ''E. calcicola'' (which has warts the same colour as the background and non-forking gills which are less crowded) and the rare ''E. hystrix'' (which is darker and has dark gill-edges).<ref name=Eyssartier/>
+
+==Distribution and habitat==
+''Echinoderma asperum'' appears during autumn in [[deciduous]] woodland, or in parks and gardens where wood chip mulch has been used.  It has been recorded widely in northern temperate zones – varying between common and quite rare in Europe and North Africa,<ref name=C&D1995/> it occurs in North America, and it has been reported in Japan, Australia and New Zealand.
+
+A study on the diversity of ''L. aspera'' species in northern Thailand, conducted between 2007-2010 in the Chiang Mai and Chiang Rai provinces, reported the collection of approximately 73 ''Lepiota'' mushrooms representing 33 species. These species were distributed as follows: 11 in the Stenosporae group, 8 in Ovisporae, 6 in ''Lepiota'', 5 in Liliaceae, and 3 in Echinacea. The highest diversity was observed in the Stenosporae group, which contributed to a diversity index of 2.20.<ref name="GBIF" />
+
+==Edibility==
+Although sometimes listed as edible, this mushroom has been shown to cause alcohol intolerance and may be poisonous.<ref name=Haberl/> It also resembles some species of the ''[[Amanita]]'' genus, which includes some deadly species.<ref name="Miller2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=55}}</ref>
+
+==References==
+{{Portal|Fungi}}
+{{Reflist|refs=
+
+<ref name=asper>{{cite web |url=https://en.wiktionary.org/wiki/asper#Latin |title=asper |work=Wiktionary |publisher=Wikimedia |access-date=2017-05-26}}</ref>
+
+<ref name=C&D1995>{{cite book | author = Regis Courtecuisse and Bernard Duhem  | year = 1995 | title = Mushrooms and Toadstools of Britain and Europe | publisher = Harper Collins | isbn = 978-0-00-220025-7}}</ref>
+
+<ref name=EOL>{{cite encyclopedia |url=http://eol.org/pages/11456343/overview |title=''Echinoderma asperum'' page |encyclopedia=Encyclopedia of Life |access-date=2017-05-23}}  But the EOL also treats ''Lepiota aspera'' as if it were a separate species.</ref>
+
+<ref name=Eyssartier>{{cite book |author1=Eyssartier, G.  |author2=Roux, P. |title=Le guide des champignons France et Europe |language=French |publisher=Belin |year=2013 |page=340 |isbn=978-2-7011-8289-6 }}</ref>
+
+<ref name=FN>{{cite book |editor-first1=H. |editor-last1=Knudsen |editor-first2=J. |editor-last2=Vesterholt |title=Funga Nordica Agaricoid, boletoid and cyphelloid genera |publisher=Nordsvamp |location=Copenhagen |year=2008 |page=536 |isbn=978-87-983961-3-0}}  This work wrongly gives the species name as "''aspera''".</ref>
+
+<ref name=GBIF>See the [https://www.gbif.org/species/5243011 Global Biodiversity Information Facility page], which gives the current name and shows the geographical distribution.</ref>
+
+<ref name=Haberl>{{cite journal | pmid = 21370948 | doi=10.3109/15563650.2011.554840 | volume=49 | issue=2 | title=Case series: Alcohol intolerance with Coprine-like syndrome after consumption of the mushroom Lepiota aspera (Pers.:Fr.) Quél., 1886 (Freckled Dapperling) | date=February 2011 | journal=Clin Toxicol | pages=113–4 | last1 = Haberl | first1 = B | last2 = Pfab | first2 = R | last3 = Berndt | first3 = S | last4 = Greifenhagen | first4 = C | last5 = Zilker | first5 = T| s2cid=43434106 }}</ref>
+
+<ref name = "MarcelBon87">{{cite book | author = Marcel Bon |author-link =Marcel Bon | year = 1987 | title = The Mushrooms and Toadstools of Britain and North Western Europe | page = 282 | publisher = Hodder and Stoughton | isbn = 978-0-340-39935-4}}</ref>
+
+<ref name=Moser>See {{cite book |author =Meinhard Moser |author-link =Meinhard Moser  |translator = Simon Plant|title=Keys to Agarics and Boleti |publisher=Roger Phillips |location=London |year=1983 |page=242 |isbn=978-0-9508486-0-0}}</ref>
+
+<ref name=NBN>{{cite web |url=https://species.nbnatlas.org/species/NHMSYS0001487131 |title=''Lepiota aspera'' page |work=National Biodiversity Network |access-date=2017-05-23}}  This page states that the accepted name for ''Lepiota aspera'' is ''Echinoderma asperum''.</ref>
+
+<ref name=Phillips06>{{cite book | author = Roger Phillips | year = 2006  | title = Mushrooms | publisher = Pan MacMillan | isbn = 978-0-330-44237-4}} Or alternatively {{cite book | author = Roger Phillips | year = 2006  | title = Mushrooms | publisher = Pan MacMillan | isbn = 978-0-330-44237-4}}</ref>
+
+<ref name=SF1>{{cite web |url=http://www.speciesfungorum.org/Names/GSDSpecies.asp?RecordID=354364 |title=''Echinoderma asperum'' page |work=Species Fungorum |publisher=Royal Botanic Gardens Kew |access-date=2017-05-23}}</ref>
+
+<!-- Not in use
+<ref name="Phongeun Sysouphanthong">{{cite web | author = Kevin D. Hyde, Else C. Vellinga & Ekachai Chukeatirote  | year = 2013  | title = Diversity of Lepiota(Agaricales) in northern Thailand  | publisher = Mycology  |  DOI = 10.1080/21501203.2013.764358}}</ref>
+Not in use-->
+
+}}
+
+{{Commons}}
+
+{{Taxonbar|from=Q922887}}
+
+[[Category:Agaricaceae]]
+[[Category:Fungi of Europe]]
+[[Category:Taxa named by Christiaan Hendrik Persoon]]
+[[Category:Fungus species]]
+[[Category:Fungi described in 1871]]

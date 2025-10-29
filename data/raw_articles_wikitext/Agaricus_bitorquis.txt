@@ -1,0 +1,71 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Agaricus.bitorquis.nathan.jpg
+| taxon = Agaricus bitorquis
+| authority = ([[Lucien Quélet|Quél.]]) [[Pier Andrea Saccardo|Sacc.]] (1887)
+}}
+{{mycomorphbox
+| name = ''Agaricus bitorquis''
+| whichGills = free
+| capShape = convex
+| capShape2 = flat
+| hymeniumType = gills
+| stipeCharacter = ring
+| ecologicalType = saprotrophic
+| sporePrintColor = brown
+| howEdible = choice
+}}
+
+'''''Agaricus bitorquis''''', commonly known as '''torq''', '''banded agaric''', '''spring agaric''', '''banded agaricus''', '''urban agaricus''',<ref name=Arora2nd>{{Cite book |last=Arora |first=David |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/321/mode/2up |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |orig-date=1979 |edition=2nd |pages=321–22}}</ref> or '''pavement mushroom''',<ref>https://www.britmycolsoc.org.uk/field_mycology/english-names {{Webarchive|url=https://web.archive.org/web/20221103000333/https://www.britmycolsoc.org.uk/field_mycology/english-names |date=2022-11-03 }} It has been recorded pushing up paving slabs.</ref> is an [[edible mushroom|edible]] white [[mushroom]] of the genus ''[[Agaricus]]'', similar to the [[Agaricus bisporus|common button mushroom]] that is sold commercially. The name supersedes ''Agaricus rodmani''.
+
+==Taxonomy==
+The [[botanical name|specific epithet]] ''bitorquis'' is [[Latin]] "having two collars", and refers to the two rings resulting from detachment of the [[veil (mycology)|veil]] from both the top and bottom of the [[stipe (mycology)|stipe]].  The species was first defined by the French mycologist [[Lucien Quélet]] in 1884, in the form of ''Psalliota bitorquis'' (using another genus name in place of the modern ''Agaricus'').<ref name=SF>{{cite web |url=http://www.indexfungorum.org/names/NamesRecord.asp?RecordID=213898 |title=the ''Agaricus bitorquis'' page |work=Species Fungorum |publisher=Royal Botanic Gardens Kew |accessdate=2022-01-04 }}</ref>
+
+==Description==
+
+
+The [[pileus (mycology)|cap]] is dry, smooth, and white (but stains yellowish in age), and measures {{convert|4 to 18|cm|frac=4}} in diameter, convex to flat,<ref name=Arora2nd/> often with dirt on the cap.
+The [[lamella (mycology)|gills]] are free, very narrow and close.  They are a light pink color when young, becoming dark reddish-brown as the spores mature.<ref name="auto">{{cite web |url=https://www.ediblewildfood.com/sidewalk-mushroom.aspx |website=Sidewalk Mushroom, Agaricus bitorquis, Ediblewildfood.com |access-date=21 June 2018|title=Sidewalk Mushroom: Identify via Pictures, Habitat, Season & Spore Print {{pipe}} Agaricus bitorquis }}</ref> The [[spore print]] is chocolate brown. 
+
+The stipe is 3–11&nbsp;cm long, 1–4&nbsp;cm thick, cylindrical to clavate (club-shaped), stout, white, smooth, with a membranous veil and thick white mycelial sheathing near the base.  Distinctively it has both a thick upper ring which is shaped like a funnel and a thinner skirt-like lower ring, giving rise to the species name ''bitorquis''.<ref name="FungaNordica"> {{cite book |editor-first1=Thomas |editor-last1=Knudsen |editor-first2=J. |editor-last2=Vesterholt |title=Funga Nordica Agaricoid, boletoid, clavarioid, cyphelloid and gasteroid genera |publisher=Nordsvamp |location=Copenhagen |year=2018 |page=603 |isbn=978-87-983961-3-0 }}</ref> The [[trama (mycology)|flesh]] is solid and firm, with a mild odor.
+
+===Microscopic details===
+ in summer]]
+
+The [[basidiospore]]s are elliptical in shape, smooth, and with dimensions of 5–7 x 4–5.5&nbsp;[[μm]]. [[Basidia]] are 20–25 x 6.5–8.5&nbsp;μm, usually four-spored, but often with two-spored basidia present. [[Cystidia]] are present and numerous.
+
+===Similar species===
+The species is often confused with the briny-smelling ''[[Agaricus bernardii]]''.<ref>{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=222–223|oclc=797915861}}</ref> It also resembles ''[[Agaricus campestris]]'' somewhat, but that species only has a single fragile ring.<ref name="Miller 2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=279|author-link=Orson K. Miller Jr.}}</ref>
+
+==Distribution and habitat==
+''Agaricus bitorquis'' may be found growing solitary or in small groups in gardens (noted as growing in a [[gregarious]] manner), and at roadsides, usually on the [[Sidewalk|pavement]], often where salt is applied to combat ice in winter.<ref name="auto"/> Pushing through asphalt and slabs, it is subterranean, and often matures underground. It is occasional throughout North America,<ref name=Arora2nd/> Europe, Asia<ref name="Asef 2020">{{cite book |author=Asef M.R. |title=Field guide of Mushrooms of Iran |publisher=Iran-Shanasi Press |location=Tehran|year=2020|page=360 |isbn=9786008351429}}</ref> and Australia.{{citation needed|date=July 2014}}
+
+==Cultivation==
+First cultivated commercially in 1968,<ref>Fritsche, G. (1975). Welche Möglichkeiten eröffnet der viersporige Champignon "Agaricus bitorquis (Quél.) Sacc."" dem Züchter?  [What potentialities does 4-spored mushroom ''Agaricus bitorquis'' (Quel) Sacc. offer to breeders?] ''Theoretical and Applied Genetics'' '''47'''(3):125–31.</ref> ''A.&nbsp;bitorquis'' has several growth characteristics that have piqued the interest of mushroom cultivators looking for an alternative to the standard button mushroom, ''[[Agaricus bisporus|A.&nbsp;bisporus]]''. For example, ''A.&nbsp;bitorquis'' is more resistant to various viral diseases,<ref>Dieleman-van Zaayen A. (1972). Spread, prevention and control of mushroom virus disease. ''Mushroom Sci''. 8:131-54.</ref><ref>Vedder, P.J.C. (1975). Practical experiences with ''Agaricus bitorquis''. ''The Mushroom J''. 32:262-9.</ref><ref>Van-Zaayen, A. (1976). Immunity of strains, of ''Agaricus bitorquis'' to mushroom virus disease. ''The Mushroom J''. 47:360–3.</ref> can grow at higher temperatures<ref>Hasselbach O.E., Mutsers, P. (1971). ''Agaricus bitorquis'' (Quel.) Sacc. ein wärmeliebendes familienmitglied der Champignons. ''Champignon''. 130:20–6.</ref> and CO<sub>2</sub> concentrations,<ref>Steane, G.R. (1980). The case for growing ''Agaricus bitorquis''. ''The Mushroom J''. 96:435-8.</ref> and has better resistance to bruising.<ref>Vedder, P.J.C. (1978). "Cultivation". In the ''Biology and Cultivation of Edible Mushrooms'', pp. 377–92. Eds: Chang, S.T, Hayes, W.A. Academic Press: New York, San Francisco.</ref> Furthermore, high temperature-resistant strains have recently been developed which may help cultivators overcome problems associated with cooling production rooms during hot summer months.<ref>Guler, P., Ergene, A., Tan, S. Production of high temperature-resistant strains of ''Agaricus bitorquis''. ''Afr. J. Biotechnol''. '''5'''(8):615-9.</ref><ref>Sharma, S.S., Doshi, A. (2001). High temperature tolerant button mushroom (''Agaricus bitorquis'') and its strains suitable under Rajasthan conditions. ''J Mycol Plant Pathol''. 31(2):256–7.</ref>
+
+==Edibility==
+''Agaricus bitorquis'' is a choice edible species,<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |url=https://archive.org/details/mushroomsotherfu0000phil |url-access=registration |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=[https://archive.org/details/mushroomsotherfu0000phil/page/220 220]}}</ref> with a typical 'mushroomy' taste. Specimens collected in the wild may be gritty due to its often subterranean habitat. As with all specimens picked from the wild, care should be taken to consider the suitability of the collection site, as this species can bioaccumulate toxic heavy metals, especially lead, from polluted areas.<ref>Cocchia, L., Vescovia, L., Petrinid, L.E, Petrini, O. (2006). Heavy metals in edible mushrooms in Italy. ''Food Chem''. '''98'''(2):277-84.</ref> Nutritional analysis has shown this species to contain 18 [[amino acids]], including all of the [[essential amino acid|essential]] ones.<ref>Zakhary, J.W., Abo-Bakr, T., El-Mahdy, A.R., El-Tabey, S.A.M. (1983). Chemical composition of wild mushrooms collected from Alexandria Egypt. ''Food Chem''. '''11'''(1):31-42.</ref>
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Agaricus species|List of ''Agaricus'' species]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://web.archive.org/web/20081202150115/http://mushroom-collecting.com/mushroomhorse.html Mushroom-Collecting.com - ''Agaricus bitorquis'']
+* [https://web.archive.org/web/20110610172453/http://www.indexfungorum.org/Names/SynSpecies.asp?RecordID=213898 Index Fungorum] listing of synonyms
+* [https://web.archive.org/web/20081205020439/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~5480~gid~~source~gallerydefault.asp Roger's Mushrooms] picture and description
+* [https://mushroomobserver.org/name/show_name/399 Mushroom Observer] various photos
+* [http://www.botanischestaatssammlung.de/mycology/agaricus_bitorquis.html (A Drawing by Julius Schaffer)]
+
+{{Taxonbar|from=Q1423834}}
+
+[[Category:Agaricus|bitorquis]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1884]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Lucien Quélet]]
+[[Category:Fungus species]]

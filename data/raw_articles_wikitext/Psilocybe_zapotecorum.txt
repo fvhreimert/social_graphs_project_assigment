@@ -1,0 +1,134 @@
+{{Short description|Species of fungus}}
+{{More citations needed|date=November 2008}}
+{{Speciesbox
+| image = Psilocybe_zapotecorum_Veracruz.jpg
+| genus = Psilocybe
+| species = zapotecorum
+| authority = [[Georg Christoph Heim|Heim]] emend Guzman
+| synonyms_ref = <ref name="Guzman2012"/>
+| synonyms = ''Psilocybe candidipes'' <small>[[Rolf Singer|Singer]] & [[Alexander H. Smith|A.H. Sm.]] (1958)</small> <br>
+''Psilocybe aggericola'' <small>Singer & A.H. Sm. (1958)</small><br />
+''Psilocybe aggericola'' var. ''alvaradoi'' <small>Singer & A.H. Sm. (1958)</small><br />
+''Psilocybe zapotecorum'' f. ''elongata'' <small>R. Heim (1966)</small><br />
+''Psilocybe bolivarii'' <small>[[Gastón Guzmán|Guzmán]] (1968)</small><br />
+''Psilocybe barrerae'' <small>Cifuentes & Guzmán (1981)</small><br />
+''Psilocybe sanctorum'' <small>Guzmán (1982)</small><br />
+''Psilocybe microcystidiata'' <small>Guzmán & Bononi (1984)</small><br />
+''Psilocybe zapotecorum var. ramulosum'' <small>Guzmán & Bononi (1984)</small><br />
+''Psilocybe zapotecorum var. ramulosa'' <small>Guzmán & Bononi (1984)</small><br />
+''Psilocybe ramulosa'' <small>Guzmán & Bononi (1995)</small><br />
+''Psilocybe subzapotecorum'' <small>Guzmán (2000)</small><br />
+''Psilocybe pseudozapotecorum'' <small>Guzmán (2000)</small><br />
+''Psilocybe chaconii'' <small>Guzmán, Escalona & Ram.-Guill. (2004)</small>
+}}
+{{mycomorphbox
+| name = ''Psilocybe zapotecorum''
+| whichGills = adnate
+| whichGills2 = sinuate
+| capShape = conical
+| capShape2=convex
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=saprotrophic
+| sporePrintColor=purple-brown
+| howEdible=psychoactive}}
+'''''Psilocybe zapotecorum''''' is a [[psilocybin mushroom]] which has [[psilocybin]] and [[psilocin]] as main active compounds. It is in the section ''Zapotecorum''.<ref name="Guzman2012"/><ref name="Ramirez-Cruz2013"/>
+
+==Etymology and history==
+It is named for the [[Zapotec peoples|Zapotec]] Indians, who are native to [[Sierra Madre de Oaxaca|the Sierra Madre mountains of Oaxaca Mexico]], as well as the area they inhabited. According to Richard E. Schultes the Zapotec name translates as "Crown of thorns mushroom".<ref name="Schultes1993"/> Other sources give the Zapotec name as ''badao zoo'' translated as "''hongo borracho''", "drunken mushroom".<ref name="Orijel2009"/>
+
+*1956: Holotype collected August 4, 1956 in [[Santiago Yaitepec]] by [[Roger Heim]] and [[R. Gordon Wasson]].<ref>{{Cite web |title=Observation 155661: Psilocybe zapotecorum R. Heim |url=https://mushroomobserver.org/observations/155661 |access-date=2022-12-08 |website=mushroomobserver.org}}</ref>
+*1957: [[Roger Heim]] and [[R. Gordon Wasson]] describe Magic Mushrooms with illustrations in "Magic Mushrooms" LIFE Magazine May 13, 1957.
+*1958-9: [[Roger Heim]] published the first scientific description of this fungus. [[Albert Hofmann]] also finds Psilocybin.
+*1963: [[Roger Heim]] describes this mushroom in the work "Les Champignons Toxiques et Hallucinogènes."
+*1976: [[Jonathan Ott]] and [[Gaston Guzman]] publish again about the fungus, but describe it as ''Psilocybe candidipes''.
+
+
+==Description==
+''Psilocybe zapotecorum'' has a farinaceous and raphanoid smell and taste. 
+<!-- taste: and very slightly like radish.
+*'''Odor''': Farinaceous and raphanoid. -->
+
+===Cap===
+The [[Pileus (mycology)|cap]] is 2–13&nbsp;cm<!--in diameter-->, [[wikt:conical|conical]] to [[wikt:convex|convex]], and very rarely expanding to plane in age. The margin wavy sometimes with an acute [[Plant cuticle|papilla]] or mamilla, usually [[wikt:umbonate|umbonate]] or with a depressed center. In young specimens the margin has a scalloped edge which sometimes curls upwards as the mushroom matures. The cap is yellowish brown to tan, fading to cream-yellow then brown and finally black through age. The flesh is originally white but soon changes to a [[cyan]] blue, then quickly to black.
+
+===Gills===
+''Psilocybe zapotecorum'' [[Lamella (mycology)|gills]] are a cream color when young and violet brown in age, with an attachment that is [[wikt:sinuate|sinuate]] or [[wikt:adnate|adnate]], and sometimes [[wikt:subdecurrant|subdecurrent]].
+
+===Spores===
+The [[spore]]s are dark violet brown, oblong to [[subellipsoid]] to [[subrhomboid]], and thin-walled with a short [[apiculus]] and truncate [[germ pore]]. They measure (5) 6 - 7 (-8)  by (3-) 3.5 - 4.5 (-5) x 3 - 4 [[μm]].<ref name="Guzman2012"/>
+
+===Stipe===
+The [[Stipe (mycology)|stipe]] is 3–26&nbsp;cm long, and 0.5–1&nbsp;cm thick. It is central, flexuous, cylindric or slightly flattened, and hollow. It can be white to grey, turning yellowish, blue, and black in age. The entire stem is covered with many white scales which are more pronounced in the lower part of the stipe. The partial veil is white and [[wikt:arachnoid|arachnoid]], disappearing in age. Often a long [[wikt:pseudorrhiza|pseudorrhiza]] can be found attached the base of the stipe. Strongly bruising blue then black where damaged.
+
+==Distribution and habitat==
+''Psilocybe zapotecorum'' grows solitarily or [[wikt:gregarious|gregariously]], sometimes in cespitose clusters of around a 50 mushrooms. It is found near rivers, creeks and ravines, sometimes growing directly from steep mossy ravine walls. ''Psilocybe zapotecorum'' is also found in humid and shadowed places in [[mesophytic]] forests, [[oak]]-and-[[pine trees|pine]] forests, or [[cloud forest]]s.
+
+''Psilocybe zapotecorum'' is often found in subtropical forests containing ''[[Alnus]]'' sp., ''[[Magnolia]]'' sp., ''[[Fraxinus]]'' sp., ''[[Quercus]]'' sp., large [[pine]]s, and [[blackberry]] bushes.
+
+''Psilocybe zapotecorum'' grows in [[Argentina]], [[Brazil]], [[Chile]], [[Colombia]], [[Mexico]], [[Peru]], [[Guatemala]], [[El Salvador]],  [[Venezuela]], [[Nicaragua]] and [[Ecuador]].<ref name="Guzman2012"/>
+
+==Gallery==
+<gallery>
+Image:Psilocybe.zapotecorum.michoacan.JPG|''Psilocybe zapotecorum''
+Image:Psilocybe.zapotecorum.macro.JPG|''Psilocybe zapotecorum''
+Image:Psilocybe.zapotecorum.4.jpg|''Psilocybe zapotecorum''
+Image:Psilocybe.zapotecorum.jalisco.JPG|''Psilocybe zapotecorum''
+Image:Psilocybe.zapotecorum.6.jpg|''Psilocybe zapotecorum''
+Image:Psilocybe.zapotecorum.jalisco.2.JPG|''Psilocybe zapotecorum'' 
+Image:Psilocybe.zapotecorum.8.jpg|''Psilocybe zapotecorum''
+Image:Psilocybe.zapotecorum.pair.jpg|''Psilocybe zapotecorum''
+Image:Psilocybe_zapotecorum_lamellar_trama_1000x.jpg|''Psilocybe zapotecorum'' lamellar trama 1000x
+Image:Psilocybe_zapotecorum_gill_edge_1000x.jpg|''Psilocybe zapotecorum'' gill edge 1000x
+Image:Psilocybe_zapotecorum_spores_1000x.jpg|''Psilocybe zapotecorum'' spores 1000x
+</gallery>
+
+==References==
+{{Reflist|refs=
+
+<ref name="Schultes1993">{{cite encyclopedia
+|last=Schultes
+|first=Richard Evans
+|authorlink=Richard Evans Schultes
+|editor1-first=Timothy
+|editor1-last=Leary
+|editor1-link=Timothy Leary
+|editor2-first=Ralph
+|editor2-last=Metzner
+|editor2-link=Ralph Metzner
+|editor3-first=Gunther M.
+|editor3-last=Weil 
+|encyclopedia=The Psychedelic Reader: Classic Selections from the Psychedelic Review
+|title=The Botanical Sources of New World Narcotics
+|year=1993
+|publisher=[[Citadel Press]]
+|isbn=978-0-8065-1451-2
+|page=100
+}}</ref>
+
+<ref name="Orijel2009">{{Cite journal |first=Roberto Garibay |last=Orijel |year=2009 |title=Los nombres zapotecos de los hongos |volume=30 |journal=Revista Mexicana de Micología Versión Impresa |issn=0187-3180 |url=http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0187-31802009000200005}}</ref>
+
+<ref name="Guzman2012">{{cite journal |last=Guzmán |first=Gastón |authorlink=Gastón Guzmán  |title= New Taxonomical and Ethnomycological Observations on Psilocybe S.S. From Mexico, Africa and Spain |journal=Acta Botanica Mexicana |year=2012 |volume=100 |pages=79–106 |doi=10.21829/abm100.2012.32 |url=http://dialnet.unirioja.es/descarga/articulo/3988750.pdf|doi-access=free }}</ref>
+
+<ref name="Ramirez-Cruz2013">{{cite journal |last1=Ramírez-Cruz |first1=Virginia |last2=Guzmán |first2=Gastón
+|last3= Villalobos-Arámbula |first3=Alma Rosa |last4=Rodríguez |first4=Aarón |last5=Matheny |first5=Brandon |last6= Sánchez-García |first6=Marisol |last7=Guzmán-Dávalos |first7=Laura |title=Phylogenetic inference and trait evolution of the psychedelic mushroom genus ''Psilocybe'' sensu lato (Agaricales)|journal=Botany |year=2013 |volume=91 |issue=9 |pages=573–591 |doi=10.1139/cjb-2013-0070|bibcode=2013Botan..91..573R |doi-access= }}</ref>
+}}
+
+==Further reading ==
+* {{Cite journal |last1=Miller |first1=Dusty Rose |last2=Jacobs |first2=Jordan Taylor |last3=Rockefeller |first3=Alan |last4=Singer |first4=Harte |last5=Bollinger |first5=Ian M. |last6=Conway |first6=James |last7=Slot |first7=Jason C. |last8=Cliffel |first8=David E. |date=2024-04-05 |title=Cultivation, chemistry, and genome of Psilocybe zapotecorum |journal=Journal of Psychedelic Studies |volume=-1 |issue=aop |pages=63–81 |doi=10.1556/2054.2023.00332 |issn=2559-9283|doi-access=free }}
+* {{Cite journal |title=Sur les Psilocybes hallucinatoires des Aztèques et sur le microendémisme des Agarics utilisés par les Indiens du Mexique à des fins divinatoires |url=https://www.biodiversitylibrary.org/page/59942030 |journal=Revue de Mycologie|volume=22|pages=77|year=1957|issn=0484-8578 |language=fr }}
+
+==External links==
+* [https://mushroomobserver.org/name/show_name/5067 Mushroom Observer - ''Psilocybe zapotecorum'']
+* [https://mushroomobserver.org/155661 Mushroom Observer - ''Psilocybe zapotecorum'' isotype]
+* [http://www.stainblue.com/zapotecorum.html Visionary Mushrooms: ''Psilocybe zapotecorum'']
+
+{{Hallucinogenic mushrooms}}
+{{Taxonbar|from=Q7255965}}
+
+[[Category:Entheogens]]
+[[Category:Psychoactive fungi]]
+[[Category:Psilocybe|zapotecorum]]
+[[Category:Psychedelic tryptamine carriers]]
+[[Category:Fungi of South America]]
+[[Category:Fungus species]]

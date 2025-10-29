@@ -1,0 +1,36 @@
+{{Short description|Species of mushroom}}
+{{unreferenced|date=October 2025}}
+{{Speciesbox
+| image  = Gymnopilus austrosapineus B.J. Rees 151100.jpg
+| image_caption = ''Gymnopilus austrosapineus'' in Melbourne, Victoria, Australia
+| taxon = Gymnopilus austrosapineus
+| authority = B.J.Rees (1998)
+}}
+{{mycomorphbox
+| name = Gymnopilus austrosapineus
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+
+'''''Gymnopilus austrosapineus''''' is a species of [[mushroom]]-forming [[fungus]] in the family [[Hymenogastraceae]]. It is found in Australia.{{Citation needed|date=February 2022}}
+
+==See also==
+{{Portal|Fungi}}
+* [[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+{{Taxonbar|from=Q5624728}}
+
+[[Category:Gymnopilus|austrosapineus]]
+[[Category:Fungi described in 1998]]
+[[Category:Fungi of Australia]]
+[[Category:Fungus species]]
+
+
+
+{{Hymenogastraceae-stub}}

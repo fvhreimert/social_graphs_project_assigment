@@ -1,0 +1,60 @@
+{{Short description|Species of fungus}}
+{{Distinguish|text = Peck's North American species ''[[Lactarius salmoneus]]''}}
+{{Speciesbox
+| image = Lachs-Reizker (Lactarius salmonicolor).JPG
+| genus = Lactarius
+| species = salmonicolor
+| authority = R. Heim & Leclair (1953)<ref name=":0"/>
+| range_map = Distribution of Lactarius salmonicolor.svg
+| synonyms_ref = <ref name="Species Fungorum">{{Cite web |title=Species Fungorum - GSD Species |url=https://www.speciesfungorum.org/Names/GSDSpecies.asp?RecordID=332907 |access-date=2024-02-21 |website=www.speciesfungorum.org}}</ref>
+| synonyms = 
+* ''Lactarius salmoneus'' <small>R. Heim & Leclair (1950)</small>
+* ''Lactarius subsalmoneus'' <small>Pouzar (1954)</small>
+* ''Lactarius thyinos'' <small>A.H. Smith (1960)</small>
+* ''Lactarius salmonicolor'' f. ''brigantiacus'' <small>L. Rémy (1965)</small>
+}}
+{{ mycomorphbox 
+| name = 
+| hymeniumType = gills
+| capShape = depressed
+| capShape2 = convex
+| whichGills = decurrent
+| stipeCharacter = bare
+| sporePrintColor = yellow-orange
+| ecologicalType = mycorrhizal
+| howEdible = edible
+| howEdible2 = choice
+}}
+
+'''''Lactarius salmonicolor''''' is a species of [[fungus]] in the family [[Russulaceae]]. It is native to Europe and North America. It has some [[Edible mushroom|culinary uses]] in parts of Europe.
+
+== Etymology ==
+The species derives its name from the term "salmonicolor", meaning [[salmon]]-colored in Latin.<ref name=":1">{{Cite web |last=Mazza |first=Giuseppe |date=2008-08-09 |title=Lactarius salmonicolor |url=https://www.monaconatureencyclopedia.com/lactarius-salmonicolor/?lang=en |access-date=2019-04-17 |website=Monaco Nature Encyclopedia |language=en-US}}</ref>
+
+== Description ==
+''Lactarius salmonicolor'' can be found throughout most of Europe from September to November, the species' [[growing season]]. The fungus grows primarily near to the roots of [[fir]] trees, where it receives nutrients for its growth, participating in [[ectomycorrhiza]] with the roots of its host plant.<ref name=":1" /><ref name=":0">{{Cite thesis |last=Nuytinck |first=Jorinde |title=''Lactarius'' section ''Deliciosi'' (Russulales, Basidiomycota) and its ectomycorrhiza: a morphological and molecular approach |date=2004–2005 |type=PhD |publisher=Universiteit Gent, Faculteit Wetenschappen, Vakgroep Biologie |url=https://lib.ugent.be/fulltxt/RUG01/000/883/015/RUG01-000883015_2010_0001_AC.pdf |pages=86–89}}</ref> The top of the [[Pileus (mycology)|pileus]] is an orange-reddish color, with rare spots of green in older decaying specimens. The [[Pileus (mycology)|cap]] is also slightly depressed in the center after an initial [[wikt:convex|convex]]ity, and irregularly shaped, sometimes with lobes. The surface of the cap is also smooth and viscid.<ref name=":0" /><ref name=":1" /><ref>{{Cite web|url=http://www.mtsn.tn.it/russulales-news/tx_card.asp?index=735|title=Russulales News / Lactarius salmoneus|website=www.mtsn.tn.it|access-date=2019-04-17|archive-url=https://web.archive.org/web/20110805192248/http://www.mtsn.tn.it/russulales-news/tx_card.asp?index=735|archive-date=2011-08-05}}</ref>  On the underside of the cap, the [[Lamella (mycology)|lamellas]] are evenly spaced, with gills occasionally splitting as they become [[Decurrent gills|decurrent]] on the beginning of the [[Stipe (mycology)|stipe]]. They are salmon-orange and usually slightly lighter than the top of the cap; however they turn red after bruising.<ref name=":0" />
+
+The stipe is cylindrical and more often long and slender, but rarely it can be found as short and thick.<ref name=":1" /> ''L.&nbsp;salmonicolor'' has a mild and slightly acrid flavor but becomes bitter after time.<ref name=":0" /> The [[spore deposit]] is pale yellow to orange in color, and spores have variations such as ridges and warts on the surface up to 0.5&nbsp;[[μm]] high.<ref name=":0" />
+
+<gallery>
+File:Lactarius salmonicolor - panoramio.jpg|''L. salmonicolor''
+File:Salève 01.08.2017 Lactarius salmonicolor (37079660781).jpg|Closeup of [[Lamella (mycology)|lamella]]
+File:2010-09-18 Lactarius salmonicolor R. Heim & Leclair 107918.jpg|Lamella and flesh
+File:Lactarius salmonicolor1.jpg|Flesh
+</gallery>
+
+== Distribution and habitat ==
+The species is native to most of Europe as well as in bogs and conifer forests of Canada, the Great Lakes region and the northeastern United States.<ref name=":0" />
+
+== Uses ==
+, Turkey]]
+
+This fungus, like most [[Milk-cap|milky caps]], is often used in regional cuisine, especially in areas of Europe.<ref name=":1" /> Due to its common use throughout different European cultures, it has developed many common names such as "fungo del sangue" ("blood fungus" in Italian), "lactaire couleur de saumon" ("salmon colored milk cap" in French), "milky agaric" (UK), and many more.<ref name=":1" />
+
+== References ==
+{{Reflist}}
+
+{{Taxonbar|from=Q1303120}}
+
+[[Category:Lactarius|salmonicolor]]
+[[Category:Fungus species]]

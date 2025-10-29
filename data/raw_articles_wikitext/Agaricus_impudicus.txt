@@ -1,0 +1,63 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Agaricus impudicus 01.jpg
+| genus = Agaricus
+| species = impudicus
+| authority = ([[Carleton Rea|Rea]]) [[Albert Pilát|Pilát]] (1951)
+| synonyms = {{Specieslist
+ |Psalliota impudica|Rea (1932)
+ }}
+}}
+{{Mycomorphbox
+| name = ''Agaricus impudicus''
+| whichGills = free
+| capShape = convex
+| hymeniumType = gills
+| stipeCharacter = ring
+| ecologicalType = saprotrophic
+| sporePrintColor = brown
+| howEdible = unpalatable
+}}
+
+'''''Agaricus impudicus''''', also known as the '''tufted wood mushroom''', is a [[mushroom]] of ''[[Agaricus]]'', a genus with many edible species.<ref>{{Cite journal |last1=Soliman |first1=Gaziea |last2=Elkhateeb2 |first2=Waill |last3=Wen |first3=Ting-Chi |last4=Daba |first4=Ghoson |date=7 March 2022 |title=Mushrooms as efficient biocontrol agents against the root-knot nematode, meloidogyne incognita |url=https://www.epj.eg.net/text.asp?2022/21/1/68/339117 |journal=Egyptian Pharmaceutical Journal |volume=21 |issue=1 |pages=68–74|doi=10.4103/epj.epj_80_21 |doi-access=free |url-access=subscription }}</ref>
+
+==Description==
+As with all ''Agaricus'' species, gills are free, colour progresses with age from pale-pink to a chocolate color, and [[basidiospore|spores]] are dark brown. The [[Stipe (mycology)|stipe]] has a clear [[Annulus (mushroom)|annulus]] (ring).
+
+Cap 4–15&nbsp;cm wide, and appears brownish due to numerous brownish scales on a white background. The stipe is white, 6–12&nbsp;cm tall and 0.8–2&nbsp;cm thick, cylindrical and wider towards the bottom, or ending in a bulb.
+
+It is distinguished from similar forest-growing ''Agaricus'' mushrooms in that it does not bruise yellowish or reddish when cut, except for the attachment of stalk and cap which may turn slightly pink, and the widening stipe. Taste is mild and earthy, and the mushroom is sometimes regarded as edible; however, other authors treat it as inedible in practice if not in theory because it has a nauseating smell resembling rotten radish, which persists during cooking.
+
+==Habitat==
+Known to occur in Western and Southern Europe and New Zealand, this uncommon mushroom is found in deciduous or coniferous forest in autumn.
+
+==Taxonomy==
+This species is known under a number of synonyms, all these refer to the same species:
+
+*''Agaricus brunnoleus'' (J. Lange) Pilát
+*''Agaricus koelerionensis'' (Bon) Bon 1980
+*''Agaricus reae'' Bon 1981
+*''Agaricus variegans'' F.H. Møller 1952
+*''Agaricus variegatus'' (F.H. Møller) Pilát 1951
+*''Psalliota impudica'' Rea 1932
+*''Psalliota variegata'' F.H. Møller 1950
+*''Psalliota variegata'' var. ''koelerionis'' Bon 1972
+
+==See also==
+*[[List of Agaricus species|List of ''Agaricus'' species]]
+
+==External links==
+* "Danske storsvampe.  Basidiesvampe" [a key to Danish basidiomycetes] J.H. Petersen and J. Vesterholt eds. Gyldendal. Viborg, Denmark, 1990.  {{ISBN|87-01-09932-9}}
+* [https://web.archive.org/web/20070929092902/http://www.europe.gbif.net/portal/ecat_browser.jsp?taxonKey=827274&countryKey=0&resourceKey=0 ''Agaricus impudicus'' entry] at Global Biodiversity Information Facility.
+
+== References ==
+{{Reflist}}{{Taxonbar|from=Q1615526}}
+
+[[Category:Agaricus|impudicus]]
+[[Category:Fungi described in 1932]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of New Zealand]]
+[[Category:Fungus species]]
+
+
+{{Agaricaceae-stub}}

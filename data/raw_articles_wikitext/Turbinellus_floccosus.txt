@@ -1,0 +1,186 @@
+{{Short description|Species of fungus of the family Gomphaceae native to Asia and North America}}
+{{Featured article}}
+{{Speciesbox
+| image = Gomphus_floccosus_6051.JPG
+| image_caption = Found in [[Mount Baker-Snoqualmie National Forest]]
+| genus = Turbinellus
+| species = floccosus
+| authority = ([[Lewis David de Schweinitz|Schwein.]]) [[Franklin Sumner Earle|Earle]] ex Giachini & Castellano (2011)
+| synonyms = {{collapsible list|bullets=true
+|''Cantharellus floccosus'' <small>Schwein. (1832)</small>
+|''Gomphus floccosus'' <small>(Schwein.) [[Rolf Singer|Singer]] (1945)</small>
+|''Gomphus canadensis'' <small>(Klotzsch ex Berk.) Corner (1966)</small>
+|''Cantharellus canadensis'' <small>Klotzsch ex Berk (1839)</small>
+|''Cantharellus princeps'' <small> Berk. & M.A. Curtis (1859)</small>
+|''Merulius floccosus'' <small>(Schwein.) Kuntze (1891)</small>
+|''Merulius princeps'' <small>(Berk. & M.A. Curtis) Kuntze (1891)</small>
+|''Neurophyllum floccosum'' <small>(Schwein.) R. Heim (1954)</small>
+|''Trombetta canadensis'' <small>(Klotzsch ex Berk.) Kuntze (1891)</small>
+ }}
+}}
+{{mycomorphbox
+| name = ''Turbinellus floccosus''
+| hymeniumType = ridges
+| capShape = infundibuliform
+| whichGills = decurrent
+| stipeCharacter = bare
+| sporePrintColor = brown
+| ecologicalType = mycorrhizal
+| howEdible = not recommended
+| howEdible2 = 
+}}
+
+'''''Turbinellus floccosus''''', commonly known as the '''scaly vase''', or sometimes the '''shaggy''', '''scaly''', or '''woolly chanterelle''', is a [[Basidiocarp#Types|cantharelloid]] mushroom of the family [[Gomphaceae]]. It was known as '''''Gomphus floccosus''''' until 2011, when it was found to be only distantly related to the genus's [[type species|type]] species, ''[[Gomphus clavatus|G.&nbsp;clavatus]]''. It was consequently transferred from ''[[Gomphus (fungus)|Gomphus]]'' to ''[[Turbinellus]]''. The orange-capped vase- or trumpet-shaped [[basidiocarp|fruiting bodies]] may reach 30&nbsp;cm (12&nbsp;in) high and 30&nbsp;cm (12&nbsp;in) wide. The lower surface, the [[hymenium]], is covered in wrinkles and ridges rather than [[Lamella (mycology)|gills]] or pores, and is pale buff or yellowish to whitish.
+
+Native to Asia and North America, ''T.&nbsp;floccosus'' forms symbiotic ([[ectomycorrhiza]]l) relationships with various types of [[conifer]], growing in coniferous woodlands across Eastern Asia, from North Korea to Pakistan, and in North America, more frequently in the west, in late summer and autumn. Though mild-tasting, they generally cause [[gastrointestinal symptom]]s of [[nausea]], [[vomiting]] and [[diarrhea]] when consumed. ''T.&nbsp;floccosus'' is eaten by local people in northeastern India, Nepal and Mexico.
+
+==Taxonomy==
+This species was first [[species description|described]]  as ''Cantharellus floccosus'' in 1834 by American mycologist [[Lewis David de Schweinitz]], who reported it growing in [[Beech#North America|beech]] woods in [[Mount Pocono, Pennsylvania]].<ref name="de Schweinitz 1834"/> Its [[specific name (botany)|specific epithet]] is derived from the [[Latin]] ''floccus'', meaning "tuft, or flock, of wool".<ref name="Simpson 1979"/> In 1839, [[Miles Joseph Berkeley]] named a specimen from Canada as ''Cantharellus canadensis'' based on a manuscript by [[Johann Friedrich Klotzsch]], noting its affinity to ''[[Gomphus clavatus|C.&nbsp;clavatus]]''.<ref name="Berkeley 1839"/> A large specimen collected in Maine by [[Charles James Sprague]] was described as ''Cantharellus princeps'' in 1859 by Berkeley and [[Moses Ashley Curtis]].<ref name="Berkeley 1859"/> In 1891, German botanist [[Otto Kuntze]] renamed ''Cantharellus canadensis'' as ''Trombetta canadensis'', and ''C.&nbsp;floccosus'' as ''Merulius floccosus''.<ref name="Kuntz1891"/>{{efn|1=Kuntze published ''[[Revisio Generum Plantarum]]'', his response to what he perceived as a lack of method in existing nomenclatural practice.<ref name="kuntze">{{cite web | author=Erickson RF | url=http://www.botanicus.org/creator/298 | title=Kuntze, Otto (1843–1907) | website=Botanicus.org | access-date=28 November 2015 | archive-url=https://web.archive.org/web/20151208120607/http://www.botanicus.org/creator/298 | archive-date=8 December 2015 | url-status=live }}</ref> Three [[taxon|taxa]] received new names: Kuntze coined the genus ''Trombetta'', to incorporate ''Cantharellus canadensis'' (as ''Trombetta canadensis''), while ''C. floccosus'' and ''C. princeps'' became ''Merulius floccosus'' and ''M. princeps'' respectively.<ref name="Kuntz1891"/> However, Kuntze's revisionary program was not accepted by the majority of botanists.<ref name="kuntze"/>}}
+
+[[Franklin Sumner Earle]] made ''C. floccosus'' the [[type species]] of the new genus ''[[Turbinellus]]'' in 1909, in which he placed two other North American species. He remarked that the three "constitute a striking and well-marked genus which seems to have more in common with the club-shaped species of ''[[Craterellus]]'' than with the following genus where they have always been placed."<ref name="Earle 1909"/><!-- cites two previous sentences --> This was not widely taken up, as Earle's [[new combination]] was not published [[valid name (botany)|validly]] according to [[International Code of Nomenclature for algae, fungi, and plants|nomenclatural rules]].<ref name="urlFungorum: Turbinellus floccosus"/>
+
+American mycologist [[Elizabeth Eaton Morse]] described ''Cantharellus bonarii'' in 1930. The [[type locality (biology)|type locality]] was [[General Grant National Park]] in [[Fresno County, California]].<ref name="Morse 1930"/> In 1945 ''C.&nbsp;floccosus'' and Morse's ''C.&nbsp;bonarii'' were transferred to ''[[Gomphus (fungus)|Gomphus]]'' by [[Rolf Singer]].<ref name="Singer 1945"/> The generic name is derived from the [[Ancient Greek]] {{wikt-lang|grc|γομφος}}, {{Transliteration|grc|gomphos}}, meaning "plug" or "large wedge-shaped nail".<ref name="Liddell 1980"/> [[Alexander H. Smith|Alex H. Smith]] treated the members of ''Gomphus'' as two [[Section (botany)|sections]]—''Gomphus'' and ''Excavatus''—within ''Cantharellus'' in his 1947 review of chanterelles in western North America, as he felt there were no consistent characteristics that distinguished the genera. The shaggy chanterelle was placed in the latter section due to its scaly cap, lack of [[clamp connections]] and rusty-colored [[basidiospore|spores]].<ref name="Smith 1947"/> [[Roger Heim]] classified it in the genus ''Nevrophyllum'', before [[E.&nbsp;J.&nbsp;H. Corner]] returned it to ''Gomphus'' in 1966.<ref name="Giachini 2011"/>
+
+It was known as ''Gomphus floccosus'' until 2011,<ref>{{Cite web |title=Gomphus floccosus (Fungi of Bandelier National Monument) · iNaturalist |url=https://www.inaturalist.org/guide_taxa/402904 |access-date=2022-07-31 |website=iNaturalist |language=en}}</ref> when it was found to be only distantly related to the genus's [[type species|type]] species, ''G.&nbsp;clavatus''. The genus ''Gomphus'', along with several others in the Gomphaceae, was reorganized in the 2010s after [[molecular phylogenetics|molecular]] analysis confirmed that the older [[morphology (biology)|morphology]]-based classification did not accurately represent [[phylogenetic]] relationships.<ref name="Giachini 2011"/><ref name="Giachini 2010"/><ref name="Giachini 2012"/> Thus the genus ''Turbinellus'' was resurrected and the taxon became ''Turbinellus floccosus''. Giachini also concluded ''G. bonarii'' was the same species.<ref name="Giachini 2011"/><!-- cites previous two sentences -->
+
+''T. floccosus'' has been given the common names of ''scaly vase chanterelle'',<ref name="Bessette1996"/> ''scaly chanterelle'', ''woolly chanterelle'',<ref name=Arora1986/> or ''shaggy chanterelle'',<ref name="Tylutki 1987"/> though it is more closely related to [[stinkhorn]]s than [[Cantharellaceae|true chanterelles]].<ref name="Davis 2012"/>  In [[Nepal]], in the [[Sherpa language]], it is known as {{Transliteration|xsr|diyo chyau}} or {{Transliteration|xsr|khumbhe chyau}}, from the words {{Transliteration|xsr|diyo}}, meaning "oil lamp" and {{Transliteration|xsr|chyau}}, meaning "mushroom", as the fruit bodies have a shape similar to the local oil lamps.<ref name="Giri 2009"/> In Mexico, it is known as {{wikt-lang|es|corneta}} or {{wikt-lang|es|trompeta}}, or by the indigenous words {{lang|nah|oyamelnanácatl}}  ("fir mushroom", from [[Classical Nahuatl|Nahuatl]] {{wikt-lang|nci|oyametl}} "fir", and {{wikt-lang|nci|nanacatl}}  "mushroom"),<ref name="Montoya2003" /> {{lang|nah|tlapitzal}} (derived from {{lang|nci|[[tlapitzalli]]}}, Nahuatl for "trumpet")<ref name="Montoya2003" /> or {{lang|nah|tlapitzananácatl}} in [[Tlaxcala]].<ref name="González-Ávila 2013"/>
+
+==Description==
+, seen through a microscope]]
+
+Adult [[Basidiocarp|fruit bodies]] are initially cylindrical, maturing to trumpet- or vase-shaped and reaching up to 30&nbsp;cm (12&nbsp;in) in height and width.<ref name="Giachini 2004"/> There is no clear demarcation between the [[pileus (mycology)|cap]] and [[stipe (mycology)|stipe]].<ref name="Smith 1947"/> The stipe can be up to 15&nbsp;cm (6&nbsp;in) tall and {{Convert|6|cm|abbr=on|frac=2}} wide, though it tapers to a narrower base. It is solid in younger specimens, though is often hollowed out by insect larvae in older.<ref name="Giachini 2004"/> At higher elevations, two or three fruit bodies may arise from one stipe. Colored various shades of reddish- to yellowish-orange, the cap surface is broken into scales, with the spaces between more yellow and the scales themselves more orange. The most colorful specimens occur in warm humid weather.<ref name="Smith 1947"/> Older specimens are often paler.<ref name=Arora1986/>
+
+The white [[Trama (mycology)|flesh]] is fibrous and thick, though thins with age.<ref name="Smith 1947"/> Somewhat brittle, it can sometimes turn brown when cut or bruised. The smell has been reported as indistinct or "earthy and sweet", and the taste "sweet and sour".<ref name="Giachini 2004"/> The [[hymenium|spore-bearing undersurface]] is irregularly folded, forked or ridged rather than gilled and is pale buff or yellowish to whitish in color.<ref name="Ammirati 1985"/> These ridges are up to {{convert|4|mm|abbr=on|frac=8}} high,<ref name="Giachini 2004"/> and are decurrent—they extend below and run down the cap's attachment to the stipe, though irregularly so.<ref name="Smith 1947"/> The [[spore print]] is brownish, the spores ellipsoid with dimensions of 12.4–16.8 × 5.8–7.3&nbsp;[[μm]].<ref name="Ammirati 1985"/> The spore surface is roughened with ornamentations that can be made visible under the microscope by [[staining]] with [[methyl blue]].<ref name="Kuo 2010"/>
+
+The fruit bodies can last for some considerable time, growing slowly over a month. Mushrooms in subalpine and alpine areas are typically heavy-set with a short stipe, their growth slower in the cold climate. This latter form is seen at lower altitudes in colder seasons. Smith gave this the name [[form (botany)|forma]] ''rainierensis''. Conversely, mushrooms at low altitudes, such as in the [[redwood forest]]s, can grow and expand rapidly with large caps that have prominent scales. Smith described a paler form with a solid stipe from the [[Sierra Nevada]] as forma ''wilsonii''.<ref name="Smith 1947"/> American mycologist [[R.&nbsp;H. Petersen]] described an olive-capped form that is otherwise identical to the typical form.<ref name="Petersen 1971"/> These forms are not recognised as distinct.<ref name="urlFungorum: Turbinellus floccosus"/>
+
+===Similar species===
+{{multiple image
+ |header = Lookalike species
+ |caption_align=center|header_align=center
+ | total_width = 320
+ | image1 = Turbinellus fujisanensis 275975.jpg
+ | width1 = 2736 | height1 = 3648
+ | caption1 = ''Turbinellus fujisanensis''
+ | image2 = Turbinellus kauffmanii 267527.jpg
+ | width2 = 1989 | height2 = 2418
+ | caption2 = ''Turbinellus kauffmanii''
+}}
+The related ''[[Turbinellus kauffmanii]]'', found in western North America, is similar-looking but has a pale brown cap.<ref name="Davis 2012"/> Younger specimens of the latter species also have a pungent smell.<ref name="Smith 1947"/> ''[[Turbinellus fujisanensis]]'', found in Japan, is another lookalike that has smaller spores than ''T.&nbsp;floccosus''.<ref name="Roberts 2011"/> ''Gomphus clavatus'' is superficially similar.<ref name="Davis 2012" />
+
+==Distribution and habitat==
+The fungus appears to form symbiotic ([[ectomycorrhiza]]l) relationships with various conifers including [[Douglas-fir]] (''Pseudotsuga menziesii''), [[fir]] (''Abies'') species such as momi fir (''[[Abies firma]]''), European silver fir (''[[Abies alba|A.&nbsp;alba]]'') and Khinghan fir (''[[Abies nephrolepis|A.&nbsp;nephrolepis]]''), [[pine]] (''Pinus'') species such as ''[[Pinus densiflora]]'' and western hemlock (''[[Tsuga heterophylla]]'').<ref name="Giachini 2004"/><ref name="Petersen 1971"/> In Mexico, the fungus associates with ''[[Abies religiosa]]''<ref name="Burrola-Aguilar 2013"/>—the [[mycorrhiza]]l association between these two species has been synthesized under controlled laboratory conditions.<ref name="Lamus 2015"/> ''T.&nbsp;floccosus'' is more abundant in older stands of trees and places where there is more decomposed wood on the forest floor.<ref name="Giachini 2004"/>
+
+The species occurs in [[temperate coniferous forest|coniferous forests]] in North America, particularly the western states in late summer and autumn. It is most abundant in rainy parts of the [[Pacific Northwest]],<ref name="Petersen 1971"/> northern California and the Sierra Nevada.<ref name=Arora1986/> It also occurs across Asia, having been recorded from Japan,<ref name="Corner 1966"/><ref name="Masui 1926"/> North Korea,<ref name="Wojewoda 1993"/> China,<ref name="Corner 1966"/> Tibet,<ref name="Petersen 1971"/> India,<ref name="Verma 1989"/> Nepal and Pakistan.<ref name="Smith 1947"/><ref name="Corner 1966"/><!-- cites both previous countries --> ''Turbinellus floccosus'' has been occasionally recorded from introduced conifer plantations in Australia.<ref name="Fuhrer 2005"/>
+
+==Toxicity==
+
+
+''Turbinellus floccosus'' is [[mushroom poisoning|poisonous]] to some people who eat it, but has been consumed without incident by others.<ref name="Smith 1980"/> Nausea, vomiting and diarrhea may occur, though are sometimes delayed by up to 8–14 hours. A [[tricarboxylic acid]] known as α-tetradecylcitric acid may be responsible for the extreme gastrointestinal symptoms.<ref name="Ammirati 1985"/><ref name="Carrano 1967"/> Laboratory experiments showed it increased [[Muscle tone|tone]] of guinea pig smooth muscle of the small bowel (ileum), and that when given to rats, it led to [[mydriasis]], skeletal muscle weakness, and central nervous system depression.<ref name="Carrano 1967"/> ''Turbinellus floccosus'' contains more than double the amount of this acid than the related ''T.&nbsp;kauffmanii''.<ref name="Henry 1969"/>
+
+Despite its toxicity, ''T.&nbsp;floccosus'' is one of the ten wild mushrooms most widely consumed by ethnic tribes in [[Meghalaya]], northeast India,<ref name="Khaund 2014"/> and is highly regarded by the [[Sherpa people]] in the vicinity of [[Sagarmatha National Park]] in Nepal.<ref name="Giri 2009"/> What is not known is whether the Indian populations of ''T.&nbsp;floccosus'' are nontoxic, or whether the local people have developed an immunity to it.<ref name="Khaund 2014b"/> It is also enjoyed in Mexico.<ref name="González-Ávila 2013"/> American mycologist [[David Arora]] reported that some enjoyed it while he felt it had a strong sour taste.<ref name=Arora1986/>
+
+The fruit body of ''T.&nbsp;floccosus'' produces [[oxylipin]] ([[lipid]]s generated by oxygenation of [[fatty acid]]s) that are [[antifungal|active against]] the fungal plant pathogens ''[[Colletotrichum fragariae]]'', ''[[Colletotrichum gloeosporioides|C.&nbsp;gloeosporioides]]'', and ''[[Colletotrichum acutatum|C.&nbsp;acutatum]]''.<ref name="Cantrell 2008"/> Extracts of the fungus have shown in [[Agar diffusion test|standard laboratory tests]] to have [[antimicrobial]] activity against several [[human pathogen]]ic strains.<ref name="Khaund 2014b"/> ''T.&nbsp;floccosus'' also contains the di[[catechol]][[spermidine]] derivative pistillarin, a compound that inhibits [[DNA damage]] by [[hydroxyl radical]]s generated by the [[Fenton reaction]].<ref name="Lee 2011"/> Pistillarin is responsible for the green color obtained when [[Chemical tests in mushroom identification#Iron salts|iron salts]] are applied to the fruit body surface.<ref name="Kuo 2010"/>
+
+== Notes ==
+{{notelist}}
+
+==References==
+{{Reflist|30em|refs=
+
+<ref name="Ammirati 1985">{{cite book |vauthors=Ammirati JF, Traquair JA, Horgen PA |title=Poisonous Mushrooms of the Northern United States and Canada |url=https://archive.org/details/poisonousmushroo00amma |url-access=limited |year=1985 |publisher=University of Minnesota Press |location=Minneapolis|isbn=978-0-8166-1407-3 |pages=[https://archive.org/details/poisonousmushroo00amma/page/n266 252]–54}}</ref>
+
+<ref name=Arora1986>{{cite book |author=Arora D |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/661/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, California |year=1986 |orig-date=1979 |edition=2nd |pages=661–62}}</ref>
+
+<ref name="Berkeley 1839">{{cite journal | author=Berkeley MJ | year=1839 | journal=Annals of Natural History | title=Exotic Fungi | volume=3 | page=380 | url=https://www.biodiversitylibrary.org/page/3388262 | access-date=2018-02-21 | archive-url=https://web.archive.org/web/20160308035107/http://biodiversitylibrary.org/page/3388262 | archive-date=2016-03-08 | url-status=live }}</ref>
+
+<ref name="Berkeley 1859">{{cite journal | vauthors=Berkeley MJ, Curtis MA | page=293 | url=https://www.biodiversitylibrary.org/page/2356434 | journal=The Annals and Magazine of Natural History: Including Zoology, Botany, and Geology | title=On New Species of North American Fungi | volume=4 | year=1859 | access-date=2018-02-21 | archive-url=https://web.archive.org/web/20160308033539/http://biodiversitylibrary.org/page/2356434 | archive-date=2016-03-08 | url-status=live }}</ref>
+
+<ref name="Bessette1996">{{cite book|vauthors=Bessette AE, Fischer DW, Bessette AR |title=Mushrooms of Northeastern North America|year=1996|publisher=Syracuse University Press|location=Syracuse, New York|isbn=978-0-8156-0388-7|page=36}}</ref>
+
+<ref name="Burrola-Aguilar 2013">{{cite journal |vauthors=Burrola-Aguilar C, Garibay-Orijel R, Argüelles-Moyao A |year=2013 |title=''Abies religiosa'' Forests Harbor the Highest Species Density and Sporocarp Productivity of Wild Edible Mushrooms among Five Different Vegetation Types in a Neotropical Temperate Forest Region |journal=Agroforestry Systems |volume=87 |issue=5 |pages=1101–15| doi=10.1007/s10457-013-9623-z|bibcode=2013AgrSy..87.1101B |s2cid=16906281 }}</ref>
+
+<ref name="Cantrell 2008">{{cite journal |vauthors=Cantrell CL, Case BP, Mena EE, Kniffin TM, Duke SO, Wedge DE |title=Isolation and Identification of Antifungal Fatty Acids from the Basidiomycete ''Gomphus floccosus'' |journal=Journal of Agricultural and Food Chemistry |year=2008 |volume=56 |issue=13 |pages=5062–68 |doi=10.1021/jf8008662 |pmid=18557621|bibcode=2008JAFC...56.5062C |url=https://figshare.com/articles/Isolation_and_Identification_of_Antifungal_Fatty_Acids_from_the_Basidiomycete_i_Gomphus_floccosus_i_/2928865 |url-access=subscription }}</ref>
+
+<ref name="Carrano 1967">{{cite journal |vauthors=Carrano RA, Malone MH |title=Pharmacologic Study of Norcaperatic and Agaricic Acids |journal=Journal of Pharmaceutical Sciences |year=1967 |volume=56 |issue=12 |pages=1611–14 |doi=10.1002/jps.2600561216|pmid=5626691 |bibcode=1967JPhmS..56.1611C }}</ref>
+
+<ref name="Corner 1966">{{cite journal |author=Corner EJH |year=1966 |title=A Monograph of the Cantharelloid Fungi |journal=Annals of Botany Memoirs |location=London|publisher=Oxford University Press |volume=2 |pages=1–255}}</ref>
+
+<ref name="Davis 2012">{{cite book |vauthors=Davis RM, Sommer R, Menge JA |title=Field Guide to Mushrooms of Western North America |publisher=University of California Press |location=Oakland |year=2012 |pages=276–277 |isbn=978-0-520-95360-4 |url=https://books.google.com/books?id=obp7jddvjt4C&pg=PA276}}</ref>
+
+<ref name="Earle 1909">{{cite journal |author=Earle FS |title=The Genera of North American Gill Fungi |journal=Bulletin of the New York Botanical Garden |year=1909 |volume=5 |pages=373–451 [407] |url=https://www.biodiversitylibrary.org/page/31042579 |access-date=2018-02-21 |archive-url=https://web.archive.org/web/20161013223658/http://biodiversitylibrary.org/page/31042579 |archive-date=2016-10-13 |url-status=live }}</ref>
+
+<ref name="Fuhrer 2005">{{cite book |author=Fuhrer BA|title=A Field Guide to Australian Fungi |publisher=Bloomings Books |location=Melbourne, Victoria |year=2005 |page=206 |isbn=978-1-876473-51-8}}</ref>
+
+<ref name="Giachini 2004">{{cite thesis |author=Giachini A |year=2004 |url=https://www.researchgate.net/publication/36182579 |title=Systematics, Phylogeny, and Ecology of ''Gomphus'' sensu lato |degree=Ph.D. |publisher=Oregon State University |location=Corvallis, Oregon}}</ref>
+
+<ref name="Giachini 2010">{{cite journal |vauthors=Giachini AJ, Hosaka K, Nouhra E, Spatafora J, Trappe JM |title=Phylogenetic Relationships of the Gomphales Based on nuc-25S-rDNA, mit-12S-rDNA, and mit-''atp6''-DNA Combined Sequences |journal=Fungal Biology |year=2010 |volume=114 |issue=2–3 |pages=224–34 |pmid=20943133 |doi=10.1016/j.funbio.2010.01.002|bibcode=2010FunB..114..224G |hdl=11336/15813 |hdl-access=free }}</ref>
+
+<ref name="Giachini 2011">{{cite journal |vauthors=Giachini AJ, Castellano MA |title=A New Taxonomic Classification for Species in ''Gomphus'' sensu lato |journal=Mycotaxon |year=2011 |volume=115 |pages=183–201 |doi=10.5248/115.183|doi-access=free }}</ref>
+
+<ref name="Giachini 2012">{{cite journal |author1=Giachini AJ |author2=Camelini CM |author3=Rossi MJ |author4=Soares CRFS |author5=Trappe JM |title=Systematics of the Gomphales: the Genus ''Gomphus'' sensu stricto |journal=Mycotaxon |year=2012 |volume=120 |pages=385–400 |doi=10.5248/120.385|s2cid=86079551 |doi-access=free }}</ref>
+
+<ref name="Giri 2009">{{cite journal |vauthors=Giri A, Rana R |year=2009 |title=Ethnomycological Knowledge and Nutritional Analysis of Some Wild Edible Mushrooms of Sagarmatha National Park (SNP), Nepal |journal=Journal of Natural History Museum |volume=23 |pages=65–77 |doi=10.3126/jnhm.v23i0.1841 |doi-access=free }}</ref>
+
+<ref name="González-Ávila 2013">{{cite journal |vauthors=González-Ávila PA, Luna-Vega I, Ríos MV, Saade RL, Blanco JC |title= Current Knowledge and Importance of the Order Gomphales (Fungi: Basidiomycota) in Mexico|journal = Nova Hedwigia |year= 2013|volume=97 |issue= 1–2 |pages=55–86 | url=https://www.researchgate.net/publication/272204996 |doi=10.1127/0029-5035/2013/0099|bibcode= 2013NovaH..97...55G}}</ref>
+
+<ref name="Henry 1969">{{cite journal |vauthors=Henry ED, Sullivan G |title=Phytochemical Evaluation of Some Cantharelloid Fungi |journal=Journal of Pharmaceutical Sciences |year=1969 |volume=58 |issue=12 |pages=1497–1500 |doi=10.1002/jps.2600581216|pmid=5353267 |bibcode=1969JPhmS..58.1497H }}</ref>
+
+<ref name="Lee 2011">{{cite journal |vauthors=Lee IK, Ki DW, Kim SE, Yeom JL, Kim YS, Yun BS |title=Pistillarin Salt, a Dicatecholspermidine Family Member from ''Gomphus floccosus'', Inhibits DNA Single Strand Breakage by the Fenton Reaction |journal=Journal of the Korean Society for Applied Biological Chemistry |year=2011 |volume=54 |issue=2 |pages=312–15 |doi=10.3839/jksabc.2011.050|s2cid=100739459 }}</ref>
+
+<ref name="Khaund 2014">{{cite journal |vauthors=Khaund P, Joshi SR |title=DNA Barcoding of Wild Edible Mushrooms Consumed by the Ethnic Tribes of India |journal=Gene |year=2014 |volume=550 |issue=1 |pages=123–30 |doi=10.1016/j.gene.2014.08.027 |pmid=25130907}}</ref>
+
+<ref name="Khaund 2014b">{{cite book |veditors=Kharwar RN, Upadhyay RS, Dubey NK, Raguwanshi R |vauthors=Khaund P, Joshi SR |chapter=The ''Gomphus'' Paradox of Meghalaya: Wild Edible Fungus or a Poisonous Mushroom? |title=Microbial Diversity and Biotechnology in Food Security |year=2014 |publisher=Springer India | location=New Delhi |pages=171–76 |isbn=978-81-322-1800-5}}</ref>
+
+<ref name="Kuntz1891">{{cite book|author=Kuntze O|author-link=Otto Kuntze|title=Revisio Generum Plantarum:Vascularium Omnium atque Cellularium Multarum Secundum Leges Nomenclaturae Internationales cum Enumeratione Plantarum Exoticarum in Itinere Mundi Collectarum|publisher=A. Felix|location=Leipzig, Germany|year=1891|pages=862, 873|url=http://bibdigital.rjb.csic.es/ing/Libro.php?Libro=5480&Pagina=499|access-date=2016-03-01|archive-url=https://web.archive.org/web/20160304161348/http://bibdigital.rjb.csic.es/ing/Libro.php?Libro=5480&Pagina=499|archive-date=2016-03-04|url-status=live}}</ref>
+
+<ref name="Kuo 2010">{{cite book |vauthors=Kuo M, Methven A |title=100 Cool Mushrooms |publisher=University of Michigan Press |location=Ann Arbor, Michigan |year=2010 |page=81 |isbn=978-0-472-03417-8 |url=https://books.google.com/books?id=jhll7DJcnrwC&pg=PA81}}</ref>
+
+<ref name="Lamus 2015">{{cite journal |vauthors=Lamus V, Franco S, Montoya L, Endara AR, Caballero LA, Bandala VM |title=Mycorrhizal Synthesis of the Edible Mushroom ''Turbinellus floccosus'' with ''Abies religiosa'' from Central Mexico |journal=Mycoscience |year=2015 |volume=56 |issue=6 |pages=622–26 |doi=10.1016/j.myc.2015.07.001|doi-access=free }}</ref>
+
+<ref name="Liddell 1980">{{cite book |vauthors=Liddell HJ, Scott R |year=1980 |title=Greek-English Lexicon, Abridged Edition |publisher=Oxford University Press |location=Oxford, UK |page=[https://archive.org/details/lexicon00lidd/page/144 144] |isbn=978-0-19-910207-5 |url=https://archive.org/details/lexicon00lidd/page/144 }}</ref>
+
+<ref name="Masui 1926">{{cite journal |author=Masui K  | year= 1926|title=A Study of the Mycorrhiza of ''Abies firma'', S. et Z., with Special Reference to its Mycorrhizal Fungus ''Cantharellus floccosus'', Schw. | journal=Memoirs of the College of Science. Kyoto Imperial University. Series B |volume=2|issue=1 |pages=1–84}}</ref>
+
+<ref name=Montoya2003>{{cite journal |vauthors=Montoya A,Hernández-Totomoch O, Estrada-Torres A, Kong A, Caballero J |year=2003 |title=Traditional knowledge about mushrooms in a Nahua community in the state of Tlaxcala, Mexico |journal=Mycologia |volume=95 |issue=5 |pages=793–806 |url=https://catbull.com/alamut/Bibliothek/793.pdf |pmid=21148986 |doi=10.2307/3762007 |jstor=3762007 |access-date=2016-10-13 |archive-url=https://web.archive.org/web/20161013221610/https://catbull.com/alamut/Bibliothek/793.pdf |archive-date=2016-10-13 |url-status=live }}</ref>
+
+<ref name="Morse 1930">{{cite journal |author=Morse EE |title=A new Chanterelle in California |journal=Mycologia |year=1930 |volume=22 |issue=5 |pages=219–20 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0022/005/0219.htm |doi=10.2307/3753741 |jstor=3753741 |access-date=2016-08-28 |archive-url=https://web.archive.org/web/20150923222823/http://www.cybertruffle.org.uk/cyberliber/59350/0022/005/0219.htm |archive-date=2015-09-23 |url-status=dead |url-access=subscription }}</ref>
+
+<ref name="Petersen 1971">{{cite journal |author=Petersen DH |year=1971 |title=The genera ''Gomphus'' and ''Glococantharellus'' in North America |journal=Nova Hedwigia |volume=21 |pages=1–118}}</ref>
+
+<ref name="Roberts 2011">{{cite book |vauthors=Roberts P, Evans S |title=The Book of Fungi |year=2011 |publisher=University of Chicago Press |location=Chicago |page=483 |isbn=978-0-226-72117-0}}</ref>
+
+<ref name="de Schweinitz 1834">{{cite journal |journal=Transactions of the American Philosophical Society |series=New Series |volume=4 |issue=2 |page=153 |year=1834 |author=de Schweinitz LD |title=North American Fungi |url=https://www.biodiversitylibrary.org/page/26886535 |access-date=2018-02-21 |archive-url=https://web.archive.org/web/20160308032033/http://biodiversitylibrary.org/page/26886535 |archive-date=2016-03-08 |url-status=live }}</ref>
+
+<ref name="Simpson 1979">{{cite book |author=Simpson DP |title=Cassell's Latin Dictionary |publisher=Cassell |year=1979 |edition=5th |location=London |page=883 |isbn=978-0-304-52257-6}}</ref>
+
+<ref name="Singer 1945">{{cite journal |author=Singer R. |title=New Genera of Fungi |journal=Lloydia |year=1945 |volume=8 |pages=139–44}}</ref>
+
+<ref name="Smith 1947">{{cite journal |vauthors=Smith AH, Morse EE |title=The Genus ''Cantharellus'' in the Western United States |journal=Mycologia |year=1947 |volume=39 |issue=5 |pages=497–534 [499–500, 519–21] |jstor=3755192 |url=https://www.researchgate.net/publication/42282568 |doi=10.2307/3755192 |pmid=20264537}}</ref>
+
+<ref name="Smith 1980">{{cite book |vauthors=Smith AH, Weber NS | title=The Mushroom Hunter's Field Guide | page=83 | year=1980 | orig-year=1958 | publisher=University of Michigan Press |location=Ann Arbor | isbn=978-0-472-85610-7}}</ref>
+
+<ref name="Tylutki 1987">{{cite book |author=Tylutki E | title=Mushrooms of Idaho and the Pacific Northwest: Non-gilled Hymenomycetes | page=62 | year=1987 | orig-year=1958 | publisher=University Press of Idaho | location=Moscow | isbn=978-0-89301-097-3}}</ref>
+
+<ref name="urlFungorum: Turbinellus floccosus">{{cite web |title=Record Details: ''Turbinellus floccosus'' (Schwein.) Earle |url=http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=100278 |publisher=Index Fungorum. CAB International |access-date=18 November 2015 |archive-url=https://web.archive.org/web/20151119122207/http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=100278 |archive-date=19 November 2015 |url-status=live }}</ref>
+
+<ref name="Verma 1989">{{cite journal |vauthors=Verma RN, Singh SM, Singh TG, Bilgrami KS |year=1989|title= ''Gomphus floccosus'' – A New Record for India |journal= Current Science|volume= 58 |issue=24|pages= 1370–71}}</ref>
+
+<ref name="Wojewoda 1993">{{cite journal |vauthors=Wojewoda W, Heinrich Z, Komorowska H |title=[Macromycetes Korei Pòłnocnej] Macrofungi of North Korea |journal=Wiadomości Botaniczne |year=1993 |volume=37 |issue=3/4 |pages=125–28 }}</ref>
+
+}}
+
+==External links==
+* {{Commons-inline|Gomphus floccosus|''Gomphus floccosus''}}
+* {{Wikispecies-inline|Gomphus floccosus|''Gomphus floccosus''}}
+{{Taxonbar|from=Q2031545}}
+
+[[Category:Gomphaceae]]
+[[Category:Poisonous fungi]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Asia]]
+[[Category:Inedible fungi]]
+[[Category:Fungi described in 1832]]
+[[Category:Edible fungi]]
+[[Category:Taxa named by Lewis David de Schweinitz]]
+[[Category:Fungus species]]

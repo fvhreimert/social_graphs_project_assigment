@@ -1,0 +1,50 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Rexveris.jpg
+| genus = Boletus
+| species = rex-veris
+| authority = [[David Arora|D.Arora]] and Simonini
+| synonyms =
+* ''Boletus pinophilus''
+* ''Boletus edulis''
+}}
+{{mycomorphbox
+|name=''Boletus rex-veris''
+|whichGills=adnexed
+|capShape=convex
+|hymeniumType=pores
+|stipeCharacter=bare
+|sporePrintColor=olive-brown
+|ecologicalType=mycorrhizal
+|howEdible=choice
+}}
+
+'''''Boletus rex-veris''''', commonly known as the '''spring king bolete''', is a [[basidiomycota|basidiomycete]] [[fungus]] of the [[genus]] ''[[Boletus]]'' found in western [[North America]]. The large, edible fruiting bodies known as [[mushroom]]s appear under pine trees, generally in May to June. It has a pinkish to brownish cap and its stem is often large and swollen, and the overall colour may have an orange-red tinge. As with other [[boletes]], the size of the fruiting body is variable. ''Boletus rex-veris'' is edible, and may be preserved and cooked.
+
+For many years, ''Boletus rex-veris'' was considered a [[subspecies]] or [[Form (botany)|form]] of the porcini mushroom ''[[Boletus edulis|B. edulis]]''.  In 2008, a [[Taxonomy (biology)|taxonomic]] revision of western North American populations of this species was published, formally establishing it as a distinct species, ''Boletus rex-veris''.<ref name=eb1/>  [[Phylogenetics|Phylogenetic]] analysis has shown ''B. rex-veris'' as a member of a [[clade]], or closely related group, with ''[[Boletus fibrillosus|B. fibrillosus]]'', ''[[Boletus pinophilus|B. pinophilus]]'', ''[[Boletus subcaerulescens|B. subcaerulescens]]'', ''[[Boletus subalpinus|B. subalpinus]]'', and ''[[Boletus regineus|B. regineus]]''.<ref name=dent10/>
+
+==Distribution and habitat==
+''Boletus rex-veris'' is found under pines (''[[Pinus ponderosa]]'', [[Lodgepole Pine|''P. contorta'' subsp. ''murrayana'']]) and firs (''[[Abies concolor]]'' and ''[[Abies]]'' species) at elevations of {{convert|3000|to|7000|ft|m}}. It is often buried under needle duff and fruits from May to June in California. In Oregon it fruits at lower elevations, and its range continues into Washington, Idaho, and British Columbia.
+
+==Edibility==
+The ''Boletus rex-veris'' is edible and delicious. It has significant commercial value in areas where it fruits prolifically.
+
+
+
+==See also==
+* [[List of Boletus species|List of ''Boletus'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name=eb1>[[David Arora|Arora D]] (2008) [http://www.davidarora.com/uploads/arora_california_porcini.pdf California porcini: three new taxa, observations on their harvest, and the tragedy of no commons.] {{Webarchive|url=https://web.archive.org/web/20120312213054/http://www.davidarora.com/uploads/arora_california_porcini.pdf |date=2012-03-12 }} ''[[Economic Botany]]'' '''62'''(3): 356–375.</ref>
+
+<ref name=dent10>{{cite journal| author=Dentinger, Bryn T.M. |display-authors=etal | title=Molecular phylogenetics of porcini mushrooms (''Boletus'' section ''Boletus'')| journal=Molecular Phylogenetics and Evolution| volume=57| year=2010|issue=3 | pages=1276–1292| url=http://static.msi.umn.edu/rreports/2010/211.pdf| doi=10.1016/j.ympev.2010.10.004| pmid=20970511| url-status=dead| archiveurl=https://web.archive.org/web/20130523094609/http://static.msi.umn.edu/rreports/2010/211.pdf| archivedate=2013-05-23}}</ref>
+
+}}
+
+{{Taxonbar|from=Q2909370}}
+
+[[Category:Boletus|rex-veris]]
+[[Category:Fungi of North America]]
+[[Category:Edible fungi]]

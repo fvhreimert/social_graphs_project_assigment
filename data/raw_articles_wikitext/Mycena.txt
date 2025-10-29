@@ -1,0 +1,228 @@
+{{Short description|Genus of fungi}}
+{{distinguish|Mycenae}}
+{{Automatic taxobox
+| image = 2020-11-23_Mycena_amicta_(Fr.)_Quél_1282158.jpg
+| image_caption = ''[[Mycena amicta]]''
+| taxon = Mycena
+| authority = ([[Christian Hendrik Persoon|Pers.]]) [[Henri François Anne de Roussel|Roussel]] (1806)
+| subdivision_ranks = Species
+| type_species = ''[[Mycena galericulata]]''
+| type_species_authority = ([[Giovanni Antonio Scopoli|Scop.]]) [[Samuel Frederick Gray|Gray]] (1821)
+}}
+'''''Mycena''''' is a [[genus]] of about 500 species of [[fungi]].
+
+Rarely more than a few centimeters in width, the mushrooms are characterized by a small conical or bell-shaped [[pileus (mycology)|cap]] and a thin fragile [[stipe (mycology)|stem]]. Most are grey or brown, but a few species have brighter colours. Most have a translucent and striate cap, which rarely has an incurved margin. The [[lamella (mycology)|gills]] are attached and usually have [[cystidia]]. Some species, like ''[[Mycena haematopus|M.&nbsp;haematopus]]'', exude a [[latex]] when the stem is broken, and many species have a [[chlorine]] or radish-like odour. They produce a white [[spore print]].
+
+The species are [[saprotrophic]]. Their [[edible mushroom|edibility]] varies, with some members containing toxins.
+
+== Taxonomy ==
+''Mycena'' is a rich genus, considered one of the most abundant genera of mushrooms within the [[Agaricales]] and with species distributed across the world.<ref name="arora">{{cite book |last1=Arora |first1=David |url=https://books.google.com/books?id=6JGTEAAAQBAJ |title=Mushrooms Demystified |date=1 October 1986 |publisher=Clarkson Potter/Ten Speed |isbn=978-0-89815-169-5 |language=en |access-date=5 February 2023}}</ref>
+
+[[Alexander H. Smith|Alexander Smith]]'s 1947 ''Mycena'' [[monograph]] identified 232 species; the genus is now known to include about 500 species worldwide.<ref>{{Cite web |title=National Geographic Photo in the News article |url=http://news.nationalgeographic.com/news/2006/10/061026-fungi-glow.html |url-status=dead |archive-url=https://web.archive.org/web/20180123072433/https://news.nationalgeographic.com/news/2006/10/061026-fungi-glow.html |archive-date=2018-01-23 |access-date=2006-11-02}}</ref> [[Rudolf Arnold Maas Geesteranus|Maas Geesteranus]] divided the genus into 38 [[section (botany)|sections]] in 1992, providing keys to each for all the species of the [[Northern Hemisphere]].
+
+Many new species have since been discovered, and four new sections have been proposed. The [[Taxonomy (biology)|taxonomy]] is complex, as most sections are not truly homogeneous, and the keys fail for some species, especially those that satisfy some criteria for only part of their [[biological life cycle|life cycle]]. Some sections contain only one species.
+
+=== Selected species ===
+{{Main|List of Mycena species|l1 = List of ''Mycena'' species}}
+{{clear}}
+{{Div col|colwidth=15em}}
+* ''[[Mycena abramsii|M. abramsii]]''<ref>{{cite web |title=Mycena abramsii(Murrill) |url=https://mushroomobserver.org/observations/481498 |website=Mushroom Observer}}</ref>
+* ''[[Mycena acicula|M. acicula]]''
+* ''[[Mycena adonis|M. adonis]]''
+* ''[[Mycena adscendens|M. adscendens]]''
+* ''[[Mycena aetites|M. aetites]]''
+* ''[[Mycena albidocapillaris|M. albidocapillaris]]''
+* ''[[Mycena alcalina|M. alcalina]]''
+* ''[[Mycena alnicola|M. alnicola]]''
+* ''[[Mycena alphitophora|M. alphitophora]]''
+* ''[[Mycena amicta|M. amicta]]''
+* ''[[Mycena atkinsonii|M. atkinsonii]]''
+* ''[[Mycena atkinsoniana|M. atkinsoniana]]''
+* ''[[Mycena aurantiomarginata|M. aurantiomarginata]]''
+* ''[[Mycena austrofilopes|M. austrofilopes]]''
+* ''[[Mycena austrororida|M. austrororida]]''
+* ''[[Mycena arcangeliana|M. arcangeliana]]''
+* ''[[Mycena aspratilis|M. aspratilis]]'' (bioluminescent)
+* ''[[Mycena asterina|M. asterina]]'' (bioluminescent)
+* ''[[Mycena atrata|M. atrata]]''
+* ''[[M. brunneospinosa]]''
+* ''[[Mycena cahaya|M. cahaya]]'' (bioluminescent)<ref name="Chew 2014"/>
+* ''[[Mycena californiensis|M. californiensis]]''
+* ''[[M. capillaripes]]''
+* ''[[Mycena chlorophos|M. chlorophos]]'' (bioluminescent)
+* ''[[Mycena chlorophanos|M. chlorophanos]]'' (bioluminescent)
+* ''[[Mycena cinerella|M. cinerella]]''
+* ''[[Mycena citricolor|M. citricolor]]''
+* ''[[M. citrinomarginata]]''
+* ''[[Mycena clariviolacea|M. clariviolacea]]''
+* ''[[Mycena clarkeana|M. clarkeana]]''
+* ''[[Mycena coralliformis|M. coralliformis]]'' (bioluminescent)
+* ''[[Mycena cristinae|M. cristinae]]'' (bioluminescent)
+* ''[[Mycena crocata|M. crocata]]''
+* ''[[Mycena cyanorrhiza|M. cyanorrhiza]]''
+* ''[[Mycena cystidiosa|M. cystidiosa]]''
+* ''[[Mycena daisyogunensis|M. daisyogunensis]]'' (bioluminescent)
+* ''[[Mycena deeptha|M. deeptha]]'' (bioluminescent)
+* ''[[Mycena deformis|M. deformis]]'' (bioluminescent)
+* ''[[Mycena deusta|M. deusta]]'' (bioluminescent)
+* ''[[Mycena discobasis|M. discobasis]]'' (bioluminescent)
+* ''[[Mycena domingensis|M. domingensis]]''
+* ''[[Mycena epipterygia|M. epipterygia]]'' (bioluminescent)
+* ''[[M. erubescens]]''
+* ''[[Mycena fera|M. fera]]'' (bioluminescent)
+* ''[[Mycena flavescens|M. flavescens]]''
+* ''[[Mycena flavoalba|M. flavoalba]]''
+* ''[[Mycena fonticola|M. fonticola]]''
+* ''[[Mycena fuhreri|M. fuhreri]]''
+* ''[[Mycena fulgoris|M. fulgoris]]'' (bioluminescent)
+* ''[[Mycena fusca|M. fusca]]'' (bioluminescent)
+* ''[[Mycena fuscoaurantiaca|M. fuscoaurantiaca]]''
+* ''[[Mycena galericulata|M. galericulata]]''
+* ''[[Mycena galopus|M. galopus]]'' (bioluminescent)
+* ''[[M. griseoviridis]]''
+* ''[[Mycena globulispora|M. globulispora]]'' (bioluminescent)
+* ''[[Mycena gombakensis|M. gombakensis]]'' (bioluminescent)
+* ''[[Mycena guldeniana|M. guldeniana]]''
+* ''[[Mycena guzmanii|M. guzmanii]]'' (bioluminescent)
+* ''[[Mycena haematopus|M. haematopus]]'' (bioluminescent)
+* ''[[Mycena holoporphyra|M. holoporphyra]]''
+* ''[[Mycena illuminans|M. illuminans]]'' (bioluminescent)
+* ''[[Mycena inclinata|M. inclinata]]'' (bioluminescent)
+* ''[[Mycena indigotica|M. indigotica]]''
+* ''[[Mycena interrupta|M. interrupta]]''
+* ''[[Mycena intersecta|M. intersecta]]''
+* ''[[Mycena kentingensis|M. kentingensis]]'' (bioluminescent)
+* ''[[Mycena kuurkacea|M. kuurkacea]]''
+* ''[[Mycena lacrimans|M. lacrimans]]'' (bioluminescent)
+* ''[[Mycena lazulina|M. lazulina]]'' (bioluminescent)<ref>{{Cite book|title=The Agaric flora in Southwestern Japan|last=Takahashi|display-authors=etal|year=2016|pages=209}}</ref>
+* ''[[Mycena leaiana|M. leaiana]]''
+* ''[[M. lacrimans]]'' (bioluminescent)
+* ''[[Mycena lanuginosa|M. lanuginosa]]''
+* ''[[Mycena leptocephala|M. leptocephala]]''
+* ''[[M. lucentipes]]'' (bioluminescent)
+* ''[[Mycena lumina|M. lumina]]'' (bioluminescent)
+* ''[[Mycena luteopallens|M. luteopallens]]''
+* ''[[Mycena luxaeterna|M. luxaeterna]]'' (bioluminescent)
+* ''[[M. luxarboricola]]'' (bioluminescent)
+* ''[[Mycena lux-coeli|M. lux-coeli]]'' (bioluminescent)
+* ''[[Mycena luxfoliata|M. luxfoliata]]'' (bioluminescent)
+* ''[[Mycena luxfoliicola|M. luxfoliicola]]'' (bioluminescent)
+* ''[[Mycena luxperpetua|M. luxperpetua]]'' (bioluminescent)
+* ''[[Mycena maculata|M. maculata]]'' (bioluminescent)
+* ''[[Mycena manipularis|M. manipularis]]''
+* ''[[Mycena margarita|M. margarita]]'' (bioluminescent)
+* ''[[Mycena marasmielloides|M. marasmielloides]]''
+* ''[[Mycena mariae|M. mariae]]''
+* ''[[Mycena metata|M. metata]]''
+* ''[[Mycena minirubra|M. minirubra]]''
+* ''[[Mycena multiplicata|M. multiplicata]]''
+* ''[[Mycena mustea|M. mustea]]''
+* ''[[Mycena nargan|M. nargan]]''
+* ''[[Mycena nebula|M. nebula]]'' (bioluminescent)
+* ''[[Mycena nidificata|M. nidificata]]''
+* ''[[Mycena nocticaelum|M. nocticaelum]]'' (bioluminescent)
+* ''[[Mycena noctilucens|M. noctilucens]]''
+* ''[[Mycena oculisnymphae|M. oculisnymphae]]'' (bioluminescent)
+* ''[[Mycena olida|M. olida]]''
+* ''[[Mycena olivaceomarginata|M. olivaceomarginata]]'' (bioluminescent)
+* ''[[Mycena oregonensis|M. oregonensis]]''
+* ''[[Mycena overholtsii|M. overholtsii]]''
+* ''[[Mycena perlae|M. perlae]]'' (bioluminescent)
+* ''[[M. pelianthina]]''
+* ''[[Mycena polygramma|M. polygramma]]'' (bioluminescent)
+* ''[[Mycena pruinosoviscida|M. pruinosoviscida]]'' (bioluminescent)
+* ''[[Mycena pseudostylobates|M. pseudostylobates]]'' (bioluminescent)
+* ''[[Mycena pura|M. pura]]'' (bioluminescent)
+* ''[[M. pura]]'' complex
+* ''[[Mycena purpureofusca|M. purpureofusca]]''
+* ''[[Mycena renati|M. renati]]''
+* ''[[Mycena rosea|M. rosea]]'' (bioluminescent)
+* ''[[Mycena rosella|M. rosella]]''
+* ''[[Mycena roseoflava|M. roseoflava]]'' (bioluminescent)
+* ''[[Mycena sanguinolenta|M. sanguinolenta]]'' (bioluminescent)
+* ''[[Mycena seminau|M. seminau]]'' (bioluminescent)<ref name="Chew 2014"/>
+* ''[[Mycena semivestipes|M. semivestipes]]''
+* ''[[Mycena seynesii|M. seynesii]]''
+* ''[[Mycena silvaelucens|M. silvaelucens]]'' (bioluminescent)
+* ''[[Mycena sinar|M. sinar]]'' (bioluminescent)<ref name="Chew 2014"/>
+* ''[[Mycena sinar var. tangkaisinar|M. sinar var. tangkaisinar]]'' (bioluminescent)
+* ''[[Mycena singeri|M. singeri]]'' (bioluminescent)
+* ''[[M. spinosissima]]''
+* ''[[M. stipata]]''
+* ''[[Mycena strobilinoides|M. strobilinoides]]''
+* ''[[Mycena stylobates|M. stylobates]]'' (bioluminescent)
+* ''[[Mycena subcaerulea|M. subcaerulea]]''
+* ''[[Mycena subcyanocephala|M. subcyanocephala]]''
+* ''[[Mycena sublucens|M. sublucens]]'' (bioluminescent)
+* ''[[Mycena tenuispinosa|M. tenuispinosa]]''
+* ''[[Mycena tintinnabulum|M. tintinnabulum]]'' (bioluminescent)
+* ''[[Mycena urania|M. urania]]''
+* ''[[Mycena vinacea|M. vinacea]]'' (bioluminescent)
+* ''[[M. viscosa]]''
+* ''[[Mycena vitilis|M. vitilis]]''
+* ''[[Mycena vulgaris|M. vulgaris]]''
+* ''[[Mycena zephirus|M. zephirus]]'' (bioluminescent)
+{{div col end}}
+
+===Etymology===
+The name ''Mycena'' comes from the [[Ancient Greek]] [[wikt:μύκης|μύκης]] ''{{lang|grc-Latn|mykes}}'', meaning "fungus".<ref name=Rea1922>{{cite book|title=British Basidiomycetaceae: a Handbook to the Larger British Fungi|author=Rea, Carleton|year=1922|publisher=Cambridge University Press|location=Cambridge, UK|page=373|url=https://www.biodiversitylibrary.org/page/17128208|author-link=Carleton Rea}}</ref> Species in the genus ''Mycena'' (and in ''[[Hemimycena]]'') are [[common name|commonly known]] as '''bonnets'''.<ref name=BMS>{{cite web|url=http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf|title=Recommended English Names for Fungi in the UK|publisher=[[British Mycological Society]]|url-status=dead|archive-url=https://web.archive.org/web/20110716083053/http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf|archive-date=2011-07-16}}</ref>
+
+{{Mycomorphbox
+| name = ''Mycena'' sp.
+| whichGills = adnate
+| capShape = conical
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = saprotrophic
+| sporePrintColor = white
+| howEdible = unknown
+}}
+==Description==
+'', New Zealand]]
+'' (pixies' parasol) growing on a log in Australia]]
+'']]
+
+''Mycenas'' are hard to identify to species and some are distinguishable only by microscopic features such as the shape of the cystidia.
+In terms of morphology, ''Mycena'' mushrooms are notably minute in their size (anywhere from 0.5 to ~15&nbsp;cm in cap-size). Pileate-stipitate in form, there can exist a wide range in both the anatomical characteristics and color of the [[basidiocarp]]s—though most often basidiocarps are grey or brown.<ref name=arora/> Veils and volva presence in the morphology is not observed.  The hymenium is most often either lamellate or poroid, dependent upon the species.<ref name=pps/> Spores are smooth and can be amyloid or non-amyloid, also dependent upon the species. Some species also secrete a latex-like fluid when damaged at the base of the stem.<ref name=arora/>
+
+Over 58 species are known to be [[bioluminescence|bioluminescent]],<ref name=Desjardin2010>{{cite journal|vauthors=Desjardin DE, Perry BA, Lodge DJ, Stevani CV, Nagasawa E |title=Luminescent Mycena: new and noteworthy species|journal=Mycologia|volume=102|issue=2|pages=459–77|year=2010|pmid=20361513|doi=10.3852/09-197|s2cid=25377671|url=https://naldc-legacy.nal.usda.gov/naldc/download.xhtml?id=41883&content=PDF|archive-url=https://web.archive.org/web/20210610155141/https://naldc-legacy.nal.usda.gov/naldc/download.xhtml?id=41883&content=PDF |archive-date=2021-06-10 |url-access=subscription}}</ref><ref name=Desjardin2008>{{cite journal|vauthors=Desjardin DE, Oliveira AG, Stevani CV |year=2008|title=Fungi bioluminescence revisited|journal=Photochemical & Photobiological Sciences|volume=7|issue=2|pages=170–82|doi=10.1039/b713328f|pmid=18264584 |bibcode=2008PhPhS...7..170D |s2cid=10637645 }}</ref> creating a glow known as [[foxfire (bioluminescence)|foxfire]]. These species are divided among 16 lineages, leading to evolutionary uncertainty in whether the luminescence developed once and was lost among many species, or evolved in parallel by several species. One advantage of bioluminescence may lie in its potential to attract insects that can disperse the mushroom's spores.<ref>Oliveira et al. 2015. Circadian Control Sheds Light on Fungal Bioluminescence. Current Biology, 25(7).</ref>
+
+Bioluminescence in the genus occurs as a reaction between oxygen and [[luciferin]] molecules catalyzed by the enzyme luciferase.<ref>{{cite journal |last1=Wilson |first1=Thérèse |last2=Hastings |first2=J. Woodland |title=BIOLUMINESCENCE |journal=Annual Review of Cell and Developmental Biology |date=November 1998 |volume=14 |issue=1 |pages=197–230 |doi=10.1146/annurev.cellbio.14.1.197 |pmid=9891783 |url=https://www.annualreviews.org/doi/abs/10.1146/annurev.cellbio.14.1.197 |access-date=5 February 2023 |language=en |issn=1081-0706|url-access=subscription }}</ref> In recent years, mycologists have conducted research examining the development of bioluminescence within fungi, investigating the origin of the genes coding for luciferase enzymes that cause these fantastic visible traits. So far, the literature suggests 3 separate origins of bioluminescence within Agaricales, occurring within the families [[Omphalotaceae]], [[Physalacriaceae]], and [[Mycenaceae]].<ref name=pps/>
+
+==Ecology==
+Traditionally, the group has been thought to play a purely saprotrophic role in the environment, mostly occurring on hardwoods and producing [[white rot]]s—though it should be mentioned that, as of 2008, some plant pathogens had also been discovered.<ref name=pps>{{cite journal |last1=Desjardin |first1=Dennis E. |last2=Oliveira |first2=Anderson G. |last3=Stevani |first3=Cassius V. |title=Fungi bioluminescence revisited |journal=Photochemical & Photobiological Sciences |date=February 2008 |volume=7 |issue=2 |pages=170–182 |doi=10.1039/b713328f|pmid=18264584 |bibcode=2008PhPhS...7..170D |s2cid=10637645 }}</ref> Additionally, it is also worth noting that, in a 2020 study, Thoen et al. challenges the traditional view that the genus has only a saprobic ecological role, suggesting instead that the ability of ''Mycena'' to form plant root interactions in vitro may indicate the capability to establish [[ectomycorrhiza]]l relationships with a host.<ref>{{cite journal |last1=Thoen |first1=Ella |last2=Harder |first2=Christoffer Bugge |last3=Kauserud |first3=Håvard |last4=Botnen |first4=Synnøve S. |last5=Vik |first5=Unni |last6=Taylor |first6=Andy F. S. |last7=Menkis |first7=Audrius |last8=Skrede |first8=Inger |title=In vitro evidence of root colonization suggests ecological versatility in the genus Mycena |journal=New Phytologist |date=July 2020 |volume=227 |issue=2 |pages=601–612 |doi=10.1111/nph.16545|pmid=32171021 |bibcode=2020NewPh.227..601T |s2cid=212718454 |hdl=2164/14550 |hdl-access=free }}</ref>
+
+Recent discoveries show that ''Mycena'' can not only grow from a rotting wood, but also from a living plant root (2023) and a living frog (2024).<ref>{{cite journal|first1=C.B.|last1=Harder|first2=E.|last2=Hesling|first3=S.S.|last3=Botnen|first4=K.E.|last4=Lorberau|first5=B.|last5=Dima|first6=T.|last6=von Bonsdorff-Salminen|first7=T.|last7=Niskanen|first8=S.G.|last8=Jarvis|first9=A.|last9=Ouimette|first10=A.|last10=Hester|first11=E.A.|last11=Hobbie|first12=A.F.S.|last12=Taylor|first13=H.|last13=Kauserud|year=2023|title=''Mycena'' species can be opportunist-generalist plant root invaders|journal=Environmental Microbiology|volume=25|issue=10|pages=1875–1893|doi=10.1111/1462-2920.16398|pmid=37188366 |bibcode=2023EnvMi..25.1875H |hdl=2164/20916|hdl-access=free}}</ref><ref>{{cite journal|author1=Chinmay C. Maliye|author2=Lohit Y. T.|year=2024|title=Mushroom Sprouting out of a Living Frog|journal=Reptiles & Amphibians|volume=31|at=e20966|url=https://journals.ku.edu/reptilesandamphibians/article/view/20966/19496}}</ref>
+
+==Uses==
+Some species are [[edible mushroom|edible]], while others contain toxins, but the edibility of most is not known, as they are likely too small to be useful in cooking. ''[[Mycena pura]]'' and ''[[Mycena rosea|M.&nbsp;rosea]]'' contain the [[mycotoxin]] [[muscarine]], but the medical significance of this is unknown.
+
+==See also==
+* [[List of bioluminescent fungi]]
+* ''[[Mycena News]]'', a publication of the Mycological Society of San Francisco
+
+==References==
+{{Reflist|refs=
+
+<ref name="Chew 2014">{{cite journal |vauthors=Chew AL, Tan YS, Desjardin DE, Musa MY, Sabaratnam V |title=Four new bioluminescent taxa of ''Mycena'' sect. ''Calodontes'' from Peninsular Malaysia |journal=Mycologia |year=2014 |volume=106 |issue=5 |pages=976–88 |doi=10.3852/13-274 |pmid=24891424|s2cid=207706192 }}</ref>
+
+}}
+
+==Further reading==
+* Smith, Alexander Hancett. ''North American Species of ''Mycena. Ann Arbor: Univ. of Michigan Press, 1947.
+
+==External links==
+{{Commons}}
+{{Wikispecies}}
+* [http://www.mushroomexpert.com/mycena.html Mushroom Expert - The Genus ''Mycena'']
+* [https://web.archive.org/web/20070317144145/http://www.svims.ca/council/Mycenoid.htm Key to the Mycenoid Species in the Pacific Northwest]
+* [https://www.stevanilab.com/ Fungi Bioluminescence Laboratory]
+* [http://www.hti.umich.edu/cgi/t/text/text-idx?sid=9f2f323a0b58d530cb9ed85450736e8d;c=fung1tc;idno=AGK0806.0001.001 Online copy of Smith's 1947 Monograph] from the [[University of Michigan Herbarium]]
+* [https://web.archive.org/web/20061101063551/http://news.nationalgeographic.com/news/2006/10/061026-fungi-glow.html National Geographic Photo in the News], featuring pictures of bioluminescent species
+* [https://web.archive.org/web/20061010144752/http://home.online.no/~araronse/mycenapage/mycenapage.html Keys for ''Mycena'' species found in Norway], including a great deal of information on many species
+
+{{Taxonbar|from=Q1124575}}
+
+[[Category:Mycena| ]]
+[[Category:Agaricales genera]]
+[[Category:Bioluminescent fungi]]

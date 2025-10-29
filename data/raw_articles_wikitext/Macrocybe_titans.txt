@@ -1,0 +1,40 @@
+{{Short description|Species of mushroom}}
+{{Speciesbox
+|image = Macrocybe titans (H.E. Bigelow & Kimbr.) Pegler, Lodge & Nakasone 949069.jpg
+|taxon = Macrocybe titans
+|authority = ([[Howard E. Bigelow|H.E. Bigelow]] & Kimbr.) [[David Pegler|Pegler]], Lodge & Nakasone
+|}}
+{{mycomorphbox 
+| name            = ''Macrocybe titans''
+| whichGills      = adnexed
+| capShape        = convex
+| hymeniumType    = gills
+| stipeCharacter  = bare
+| ecologicalType  = saprotrophic
+| sporePrintColor = cream
+| howEdible       = unknown
+}}
+
+'''''Macrocybe titans''''' is a species of mushroom native to Florida, Central and South America,
+
+This mushroom was described as ''Tricholoma titans'' in 1980 by [[Howard E. Bigelow]] and  J. W. Kimbrough, before being reclassified in ''[[Macrocybe]]'' in 1998.<ref name=Pegler1998>{{cite journal |vauthors=Pegler DN, Lodge DJ, Nakasone KK |title=The Pantropical Genus ''Macrocybe'' Gen. nov. |journal =[[Mycologia]]|year=1998 | volume=90 | issue=3 |pages=494–504 |doi= 10.2307/3761408|jstor=3761408 | url=https://www.researchgate.net/publication/271783311}}</ref>
+
+''Macrocybe titans'' form solid, large mushrooms that grow in clumps. The cap is from {{convert|8|–|50|cm|sigfig=2}} across, with rare specimens up to {{convert|100|cm|sigfig=1}} in diameter. Buff-ochre with a darker centre and greyish at the margins, and becoming white with age.  The crowded white to pale grey or pale brown gills are sinuate and up to 2&nbsp;cm thick. The cylindrical stout white stem is {{convert|6|to|15|cm}} high and {{convert|1.5|to|4|cm}} across with a swollen base up to {{convert|12|cm}} in diameter. Rare specimens have stems up to {{convert|38|cm}} high and {{convert|12.7|cm}} wide.<ref name=Pegler1998/>
+
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IndexFungorum|443595}}
+*[http://www.mushroomexpert.com/macrocybe_titans.html ''Macrocybe titans''] at [[Mushroom Expert]]
+
+{{Taxonbar|from=Q6725242}}
+
+[[Category:Tricholomataceae]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Central America]]
+[[Category:plants described in 1980]]
+
+
+{{Tricholomataceae-stub}}

@@ -1,0 +1,119 @@
+{{short description|Species of fungus}}
+{{Speciesbox
+| image = 2014-08-02 Hydnellum aurantiacum (Batsch) P. Karst 441904.jpg
+| genus = Hydnellum
+| species = aurantiacum
+| authority = ([[August Johann Georg Karl Batsch|Batsch]]) [[Petter Karsten|P. Karst.]] (1879)
+| synonyms_ref = <ref name="urlFungorum synonymy: Hydnellum aurantiacum"/>
+| synonyms = *''Hydnum suberosum'' var. ''aurantiacum'' <small>Batsch (1789)</small>
+*''Hydnum aurantiacum'' <small>(Batsch) [[Alb.]] & [[Schwein.]] (1825)</small>
+*''Hydnum stohlii'' <small>[[Rabenh.]] (1873)</small>
+*''Calodon aurantiacus'' <small>(Batsch) [[P.Karst.]] (1881)</small>
+*''Phaeodon aurantiacus'' <small>(Batsch) [[J.Schröt.]] (1888)</small>
+*''Hydnellum complectipes'' <small>D.Hall (1972)</small>
+}}
+{{Mycomorphbox
+| name = ''{{PAGENAME}}''{{italic title}}
+| hymeniumType = teeth
+| capShape = flat
+| capShape2 = depressed
+| stipeCharacter = bare
+| sporePrintColor = brown
+| ecologicalType = mycorrhizal
+| howEdible = inedible
+}}
+
+'''''Hydnellum aurantiacum''''' is a species of [[fungus]], commonly known as the '''orange spine''' or '''orange hydnellum''' for its reddish orange or rusty red colored [[basidiocarp|fruit bodies]]. Like other [[tooth fungi]], it bears a layer of spines rather than [[lamella (mycology)|gills]] on the underside of the [[pileus (mycology)|cap]]. The species is listed as [[critically endangered]] in the United Kingdom. It is inedible.
+
+==Taxonomy==
+''Hydnellum aurantiacum'' was first [[species description|described]] by the German naturalist [[August Batsch]] in 1789, with the name ''Hydnum suberosum'' var. ''aurantiacum''.<ref name="Batsch 1789"/> It was given its current scientific name by [[Petter Karsten]], who transferred it to ''[[Hydnellum]]'' in 1879.<ref name="Karsten 1879"/> ''Hydnellum aurantiacum'' has acquired several [[Synonym (biology)|synonyms]] in its [[taxonomy (biology)|taxonomic]] history, including ''Hydnum stohlii'', published by [[Gottlob Ludwig Rabenhorst]] in 1873, and ''Hydnellum complectipes'', published by Hall in 1972.<ref name="Hall 1972"/> Additional synonyms resulting from generic transfers include ''Hydnum aurantiacum'' ([[Johannes Baptista von Albertini]] and [[Lewis David de Schweinitz]], 1825); ''Calodon aurantiacus'' (Karsten, 1881); and ''Phaeodon aurantiacus'' ([[Joseph Schröter]], 1888).<ref name="urlFungorum synonymy: Hydnellum aurantiacum"/>
+
+The [[specific name (botany)|specific epithet]] ''aurantiacum'' is derived from the [[Latin]] for "orange". [[Common name]]s for the fungus include "orange spine",<ref name="McKnight 1987"/> "orange corky spine fungus",<ref name="Pegler 1997"/> and the [[British Mycological Society]] approved English name "orange Hydnellum".<ref name="BMS common names"/>
+
+==Description==
+
+
+The fruitbodies are shallowly funnel-shaped ([[wikt:infundibuliform|infundibuliform]]) and up to {{convert|15|cm|frac=4}} in diameter.<ref name="Arora 1986"/> The upper surface is orange or orange-brown in the centre, with a lighter margin. It may be velvety or [[tomentose]] when young, but will become wrinkled or lumpy in age. The flesh is tough and woody, pale to dark orange-brown in color, without any distinctive odor but a bitter or mealy taste.<ref name="Orr 1980"/> The teeth are short (up to 5&nbsp;mm long), white, but the tips gradually turn brown with age. The [[stipe (mycology)|stipe]] is up to 4&nbsp;cm long and 0.5–2&nbsp;cm thick, orange to dark brown in color, with a velvety surface.<ref name="Ellis 1990"/> The [[spore print]] is brown. This species is inedible<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |url=https://archive.org/details/mushroomsotherfu0000phil |url-access=registration |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=[https://archive.org/details/mushroomsotherfu0000phil/page/320 320]}}</ref> due to the toughness of the flesh and its poor taste.<ref name="Miller 20062">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuides]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=406|author-link=Orson K. Miller Jr.}}</ref>
+
+[[Basidia]] (the spore-bearing cells) are between 35 and 46 by 8–11&nbsp;[[μm]], club-shaped ([[wikt:clavate|clavate]]), without [[clamp connection]]s, and four-spored. The [[sterigmata]] (extensions of the basidia bearing spores) may be up to 6&nbsp;μm long. The [[Basidiospore|spore]]s are roughly spherical in shape, with rough warty outgrowths ([[wikt:tubercle|tubercles]]), [[nonamyloid]], and have dimensions of 5.5–8 by 5.5–6.5&nbsp;μm.<ref name="Baird 1986"/>
+
+===Similar species===
+
+The species resembles the polypore ''[[Phaeolus schweinitzii]]'' when viewed from the top of the cap surface, but it has teeth instead of pores on the [[hymenium]]. Closely related and [[morphology (biology)|morphologically]] similar species in the genus ''Hydnellum'' include ''[[Hydnellum auratile|H.&nbsp;auratile]]'' (has more uniformly coloured flesh), ''[[Hydnellum caeruleum|H.&nbsp;caeruleum]]'' (may look similar in age),<ref>{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=231–232|language=en}}</ref> ''H.&nbsp;congenum'' (has thin flesh in the cap), ''H.&nbsp;ferrugipes'', ''[[Hydnellum earlianum|H.&nbsp;earlianum]]'' (has a smoother cap, and spines have sulfur-yellow tips, not white).<ref name="McKnight 1987"/><ref name="Arora 1986"/>
+
+==Distribution and habitat==
+This species is typically found growing solitary or in clusters on the ground in [[coniferous forest|conifer]] and [[Temperate broadleaf and mixed forests|mixed woods]]. Rarely, fruit bodies may have their stipes fused together.<ref name="Hall 1972"/> ''Hydnellum aurantiacum'' has been reported from Australia,<ref name="May 2003"/> Europe, North America,<ref name="Miller 2006"/> and Asia, including China<ref name="Dai 2010"/> India,<ref name="Lyngdoh 2014"/> and Korea.<ref name="Lee 2005"/> It is one of the most frequently encountered Thelephorales species found in the [[Sverdlovsk region]] of Russia.<ref name="Shiryaev 2008"/>
+
+==Conservation==
+
+Due to substantial declines in sightings, this species is listed as [[critically endangered]] in the United Kingdom.<ref name="urlTrees for Life - Species Profile: Pinewood tooth fungi">{{cite web |url=http://www.treesforlife.org.uk/tfl.tooth_fungi.html |title=Trees for Life - Species Profile: Pinewood tooth fungi |access-date=2009-01-05 |archive-date=2008-12-06 |archive-url=https://web.archive.org/web/20081206153305/http://www.treesforlife.org.uk/tfl.tooth_fungi.html |url-status=dead }}</ref><ref name="urlAction plan for Grouped plan for tooth fungi">{{cite web|url=http://www.ukbap.org.uk/UKPlans.aspx?ID=338 |title=Action plan for Grouped plan for tooth fungi |access-date=2009-01-05 |url-status=dead |archive-url=https://web.archive.org/web/20081008044539/http://www.ukbap.org.uk/UKPlans.aspx?ID=338 |archive-date=2008-10-08 }}</ref>
+
+==Chemistry==
+ of aurantiacin]]
+
+The [[pigment]] responsible for the characteristic orange color of ''H.&nbsp;aurantiacum'' has been identified as the ''p''-[[terphenyl]] compound named aurantiacin.<ref name="Gripenberg 1956"/> This dark red pigment, a [[derivative (chemistry)|derivative]] of the compound [[atromentin]], has subsequently been identified in other species of ''Hydnellum''.<ref name="Velíšek 2011"/> The compounds dihydroaurantiacin dibenzoate and [[thelephoric acid]] have also been reported.<ref name="Gripenberg 1958"/>
+
+''Hydnellum aurantiacum'' is used in [[mushroom dye]]ing, in which it produces grayish to greenish-gray colors depending on the [[mordant]] used.<ref name="Bessette 2001"/>
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Arora 1986">{{cite book |author=Arora D. |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/626/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, California |year=1986 |orig-date=1979 |edition=2nd |pages=626}}</ref>
+
+<ref name="Baird 1986">{{cite journal |vauthors=Baird RE, Khan SR |year=1986 |title=The stipitate Hydnums (Thelephoraceae) of Florida USA |journal=Brittonia |volume=38 |issue=2 |pages=171–184 |jstor=2807273 |doi=10.2307/2807273|s2cid=85360191 }}</ref>
+
+<ref name="Batsch 1789">{{cite book |author=Batsch AJGK. |title=Elenchus fungorum. Continuatio secunda |publisher=Apud Joannem J. Gebauer |location=Halae Magdeburgicae |page=103 |url=http://www.librifungorum.org/Image.asp?Nav=yes&FirstPage=269&LastPage=361&NextPage=337|archive-url=https://web.archive.org/web/20160304185229/http://www.librifungorum.org/Image.asp?Nav=yes&FirstPage=269&LastPage=361&NextPage=337|url-status=usurped|archive-date=March 4, 2016}}</ref>
+
+<ref name="Bessette 2001">{{cite book |vauthors=Bessette AR, Bessette A |title=The Rainbow Beneath My Feet: A Mushroom Dyer's Field Guide |url=https://books.google.com/books?id=1WbvR2PwKcIC&pg=PA117 |year=2001 |location=Syracuse, New York |publisher=Syracuse University Press |isbn=978-0-8156-0680-2 |page=117}}</ref>
+
+<ref name="BMS common names">{{cite web |url=http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |title=Recommended English Names for Fungi in the UK |publisher=[[British Mycological Society]] |url-status=dead |archive-url=https://web.archive.org/web/20110716083053/http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |archive-date=2011-07-16 }}</ref>
+
+<ref name="Dai 2010">{{cite journal |author=Dai Y-C. |title=A revised checklist of corticioid and hydnoid fungi in China for 2010 |journal=Mycoscience |year=2010 |volume=52 |pages=69–79 |doi=10.1007/s10267-010-0068-1|s2cid=86049359 |doi-access=free }}</ref>
+
+<ref name="Ellis 1990">{{cite book |vauthors=Ellis JB, Ellis MB |title=Fungi without Gills (Hymenomycetes and Gasteromycetes): an Identification Handbook |publisher=Chapman and Hall |location=London |year=1990 |page=105|isbn=978-0-412-36970-4 }}</ref>
+
+<ref name="Gripenberg 1956">{{cite journal |author=Gripenberg J. |title=Fungus pigments. IV. Aurantiacin, the pigment of ''Hydnum aurantiacum'' Batsch. |journal=Acta Chemica Scandinavica |year=1956 |volume= 10|pages=1111–1115 |doi=10.3891/acta.chem.scand.10-1111|doi-access=free }}</ref>
+
+<ref name="Gripenberg 1958">{{cite journal |author=Gripenberg J. |title=Fungus pigments. IX. Some further constituents of ''Hydnum aurantiacum'' Batsch. |journal=Acta Chemica Scandinavica |year=1958 |volume=12 |pages=1411–1414 |doi=10.3891/acta.chem.scand.12-1411 |url=http://actachemscand.org/pdf/acta_vol_12_p1411-1414.pdf|doi-access=free }}</ref>
+
+<ref name="Hall 1972">{{cite journal |vauthors=Hall D, [[Daniel Elliot Stuntz|Stuntz DE]] |title=Pileate Hydnaceae of the Puget Sound area. III. Brown spored genus: ''Hydnellum'' |journal=Mycologia |year=1972 |volume=64 |issue=3 |pages=560–590 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0064/003/0560.htm |doi=10.2307/3757873|jstor=3757873 |url-access=subscription }}</ref>
+
+<ref name="Karsten 1879">{{cite journal |author=Karsten PA. |title=Symbolae ad mycologiam Fennicam. VI |journal=Meddelanden Af Societas Pro Fauna et Flora Fennica |year=1879 |volume=5 |pages=15–46 (see p.&nbsp;41) |language=la |url=https://www.biodiversitylibrary.org/item/23882#page/49/mode/1up}}</ref>
+
+<ref name="Lee 2005">{{cite journal |vauthors=Lee JS, Jung HS |title=List of recorded Korean Aphyllophorales |journal=Korean Journal of Mycology |year=2005 |volume=33 |issue=1 |pages=38–53 |url=http://jsfungi.com/pdf/kjm33%2854%29.pdf |doi=10.4489/kjm.2005.33.1.038|doi-access=free }}</ref>
+
+<ref name="Lyngdoh 2014">{{cite journal |vauthors=Lyngdoh A, Dkhar MS |title=Wood-rotting fungi in East Khasi Hills of Meghalaya, northeast India, with special reference to ''Heterobasidion perplexa'' (a rare species ‒ new to India) |journal=Current Research in Environmental & Applied Mycology |volume=1 |issue=1 |pages=114–124 |url=http://creamjournal.org/PDFs/Cream_4_1_10.pdf}}</ref>
+
+<ref name="May 2003">{{cite book |vauthors=May TW, Milne J, Shingles S, Jones R |title=Fungi of Australia: Catalogue and bibliography of Australian fungi 2. Basidiomycota p.p. & Myxomycota p.p. v. 2B. |url=https://books.google.com/books?id=mTJsa5a3ZpcC&pg=PA313 |year=2003 |publisher=Csiro Publishing |isbn=978-0-643-06907-7 |page=313}}</ref>
+
+<ref name="McKnight 1987">{{cite book |vauthors=McKnight VB, McKnight KH |title=A Field Guide to Mushrooms, North America |url=https://archive.org/details/fieldguidetomush00mckn_960 |url-access=limited |publisher=Houghton Mifflin |location=Boston, Massachusetts |year=1987 |pages=[https://archive.org/details/fieldguidetomush00mckn_960/page/n110 92]–93 |isbn=978-0-395-91090-0}}</ref>
+
+<ref name="Miller 2006">{{cite book |vauthors=Miller OK, Miller H |title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi |url=https://books.google.com/books?id=zjvXkLpqsEgC&pg=PA406 |year=2006 |publisher=Falcon Guide |isbn=978-0-7627-3109-1 |page=406}}</ref>
+
+<ref name="Orr 1980">{{cite book |vauthors=Orr DB, Orr RT |title=Mushrooms of Western North America |series=California Natural History Guides |publisher=University of California Press |location=Berkeley, California |year=1980 |page=55 |isbn=978-0-520-03660-4}}</ref>
+
+<ref name="Pegler 1997">{{cite book |vauthors=Pegler DN, Roberts PJ, Spooner BM |title=British Chanterelles and Tooth Fungi |year=1997 |publisher=Royal Botanic Gardens |location=Kew, UK |isbn=978-1-900347-15-0 |page=80}}</ref>
+
+<ref name="Shiryaev 2008">{{cite journal |author=Shiryaev A. |title=Diversity and distribution of thelephoroid fungi (Basidiomycota, Thelephorales) in the Sverdlovsk region, Russia |journal=Folia Cryptogamica Estonica |year=2008 |volume=44 |pages=131–144 |url=http://www-1.ut.ee/ial5/fce/fce44pdf/fce44_shiryaev.pdf}}</ref>
+
+<ref name="urlFungorum synonymy: Hydnellum aurantiacum">{{cite web |title=GSD Species Synonymy: ''Hydnellum aurantiacum'' (Batsch) P. Karst. |url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=100859 |publisher=Species Fungorum. CAB International |access-date=2015-09-16}}</ref>
+
+<ref name="Velíšek 2011">{{cite journal |vauthors=Velíšek J, Cejpek K |title=Pigments of higher fungi: A review |journal= Czech Journal of Food Sciences|year=2011 |volume=29 |issue=2 |pages=87–102 |doi=10.17221/524/2010-CJFS |doi-access=free }}</ref>
+
+}}
+
+==External links==
+*[https://web.archive.org/web/20101231040304/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6114~gid~~source~gallerydefault.asp Roger's Mushrooms]
+*[http://www.velutipes.com/natural/hydnellum_aurantiacum.htm Several Photos]
+
+{{Taxonbar|from=Q3915192}}
+
+[[Category:Inedible fungi]]
+[[Category:Hydnellum|aurantiacum]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Australia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1789]]
+[[Category:Taxa named by August Batsch]]
+[[Category:Fungus species]]

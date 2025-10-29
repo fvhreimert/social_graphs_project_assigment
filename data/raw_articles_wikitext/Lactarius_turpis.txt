@@ -1,0 +1,68 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+ | image = Lactarius_turpis_2010_G1.jpg
+ | image_caption = 
+ | genus = Lactarius
+ | species = turpis
+ | authority = [[Elias Magnus Fries|Fr.]]  (1838)
+ | synonyms_ref = 
+ | synonyms = ''Agaricus turpis'' <small>[[Weinm.]] (1828)</small><br>
+''Galorrheus turpis'' <small>(Weinm.) [[P.Kumm.]] (1871)</small><br>
+''Lactifluus turpis'' <small>(Weinm.) [[Otto Kuntze|Kuntze]] (1891)</small>
+}}
+{{mycomorphbox
+| name = ''Lactarius turpis''
+| whichGills = decurrent
+| capShape = depressed
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = cream
+| howEdible = edible
+| howEdible2 = caution
+}}
+'''''Lactarius turpis''''' (also ''L. plumbeus'' or ''L. necator'')<ref>See the entry in [http://www.indexfungorum.org/Names/SynSpecies.asp?RecordID=201186 Index Fungorum] {{webarchive|url=https://web.archive.org/web/20071031102839/http://www.indexfungorum.org/names/SynSpecies.asp?RecordID=201186 |date=2007-10-31 }} for the current name and synonyms.</ref> is a Eurasian species of fungus, commonly known as the '''ugly milk-cap''' in English. 
+
+Its messy, dirty appearance is characteristic of the species and gives it its English name and the Latin species epithet, ''turpis''. It seems to collect debris on top and the gills acquire a dirty brownish stain due to discoloured milk.
+
+==Taxonomy==
+This very variable mushroom demonstrates a common phenomenon in [[mycology]] as there is much disagreement over naming. The three main scientific designations:
+*''Lactarius turpis'' [[Elias Magnus Fries|Fr.]],
+*''Lactarius necator'' ([[Jean Baptiste François Pierre Bulliard|Bull.]]:[[Elias Magnus Fries|Fr.]]) [[Petter Adolf Karsten|Karsten]], and
+*''Lactarius plumbeus'' ([[Jean Baptiste François Pierre Bulliard|Bull.]]:[[Elias Magnus Fries|Fr.]]) S. F. Gray,
+are usually,<ref name="Bon">Marcel Bon: "The Mushrooms and Toadstools of Britain and North-Western Europe" Hodder & Stoughton {{ISBN|0-340-39935-X}}.</ref> but not always,<ref>{{cite journal |author1=Noordeloos Machiel E. |author2=Kuyper Thomas W. |title=Notulae ad Floram agaricinam neerlandicam XXXV – On the typification of Lactarius necator |journal=Persoonia |volume=17 |issue=2 |year=1999 |url=https://www.repository.naturalis.nl/record/531886}}</ref> considered to be synonyms for same species. The epithets ''necator'' and ''plumbeus'' were both coined by  [[Jean Baptiste François Pierre Bulliard|Pierre Bulliard]] as ''Agaricus necator'' (1791) and ''Agaricus plumbeus'' (1793), but there is and was confusion as to which mushrooms were meant. The name ''turpis'', derived from the [[Latin]] term ''turpis'' "ugly",<ref>{{cite book | last = Simpson | first = D.P. | title = Cassell's Latin Dictionary | publisher = Cassell Ltd. | year = 1979 | edition = 5 | location = London | isbn = 0-304-52257-0 | page = 883}}</ref> was originated by  [[Johann Anton Weinmann]] and taken over by [[Elias Magnus Fries]] in 1838.<ref name="McNabb">{{cite journal|author=McNabb RFR|year=1971|title=The Russulaceae of New Zealand. 1. Lactarius DC ex S.F. Gray|url=https://biotanz.landcareresearch.co.nz/references/1cb0f3fa-36b9-11d5-9548-00d0592d548c|journal=New Zealand Journal of Botany|volume=9|issue=1|pages=46–66|doi=10.1080/0028825x.1971.10430170|doi-access=free}}</ref>
+''Plumbeus'' too referred to the milk-cap's appearance, derived from the Latin for ''plumbeus'' "lead-coloured".
+
+==Description==
+
+The [[pileus (mycology)|cap]] is normally {{convert|4|–|20|cm|in|abbr=on|round=0.5}} in diameter.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=177}}</ref> At first it has an involute margin and a somewhat depressed centre. The upper surface is olive brown or yellow-green and is often sticky or slimy in the middle. When young it has velvety zones and may be shaggy at the rim. Later it becomes funnel-shaped and the colour darkens to blackish. The gills are crowded, dirty white, stained olive-brown by old milk, which is initially white on contact with the air. They are somewhat decurrent. With [[potassium hydroxide]] or [[ammonia]] there is a purple reaction.
+
+The stipe is up to about {{convert|7|cm|in|abbr=on|frac=4}} tall by {{convert|3|cm|in|frac=4|abbr=on}} in diameter and it is similar in colour to the cap, but much lighter. It may have shallow pits (scrobiculae). The flesh is a dirty white and tends to turn brown. The taste (especially the abundant milk) is acrid. There is little smell. The spores are about 7x6&nbsp;[[micrometre|μ]] and are ornamented with a pattern of ridges.<ref name="Bon" /><ref name="McNabb" /><ref name="Phillips">{{cite book|author1=Reid, Derek|title=Mushrooms and other fungi of Great Britain and Europe|author2=Phillips, Roger|author3=Shearer, Lyndsay|publisher=Pan Books|year=1981|isbn=0-330-26441-9|location=London|chapter=See entry}}</ref><ref>{{cite book|author1=Kibby, Geoffrey|title=Keys to Agarics and Boleti (Polyporales, Boletales, Agaricales, Russulales)|author2=Moser, Meinhard|author3=Plant, Simon|publisher=Roger Phillips|year=1983|isbn=0-9508486-0-3|location=London}}</ref><ref name="Courtecuisse">{{cite book|title=Guide des champignons de France et d'europe|vauthors=Courtecuisse R, Duhem B|publisher=Delachaux & Niestle|year=1994|isbn=2-603-00953-2}}, also available in English.</ref><ref name=":0">{{cite book |last1=Trudell |first1=Steve |url=https://books.google.com/books?id=WevHvt6Tr8kC |title=Mushrooms of the Pacific Northwest |last2=Ammirati |first2=Joe |publisher=Timber Press |year=2009 |isbn=978-0-88192-935-5 |series=Timber Press Field Guides |location=Portland, OR |pages=58–59}}</ref> The [[spore print]] is cream in colour.<ref name="audu" />
+
+=== Similar species ===
+A similar species in [[Pacific Northwest]] conifer forests, as well as [[Sitka]] spruce forests, is ''[[Lactarius olivaceoumbrinus|L.&nbsp;olivaceoumbrinus]]''. Usually found growing individually, it has a stronger olive-brown colour on its cap and stipe, with dark spots on the latter.<ref name=":0" /> Also similar is ''[[Lactarius atroviridis|L.&nbsp;atroviridis]]''.<ref name="audu" />
+
+==Distribution and habitat==
+''Lactarius turpis'' is found naturally in Europe and [[Siberia]], and has been introduced to [[Australia]] and [[New Zealand]]. It can also be found in North America, in the northeast (July–September) and near the West Coast (September–November).<ref name="audu" /> While especially associated with [[birch]], it is also found with [[spruce]],<ref name=":0" /> pine and other trees in mixed woodland.{{Citation needed|date=June 2019}}
+
+==Edibility==
+This species contains the [[mutagen]]ic chemical compound [[necatorin]],<ref name=Suortti>{{cite journal |author=Suortti T |title=Stability of necatorin, a highly mutagenic compound from Lactarius necator mushroom |journal=Food Chem. Toxicol. |volume=22 |issue=7 |pages=579–81 |date=July 1984 |pmid=6547686 |doi=10.1016/0278-6915(84)90229-1 }}<br/>{{cite journal |vauthors=von Wright A, Suortti T |title=Preliminary characterization of the mutagenic properties of 'necatorin', a strongly mutagenic compound of the mushroom Lactarius necator |journal=Mutat. Res. |volume=121 |issue=2 |pages=103–6 |date=August 1983 |pmid=6348529 |doi=10.1016/0165-7992(83)90107-0 }}</ref> so it cannot be recommended for eating. Boiling reduces the concentration of this compound, but does not effectively eliminate it.<ref name=Suortti/>
+
+Probably due to the acrid taste, most western European authorities classify this mushroom as inedible<ref name=Phillips/> or poor.<ref name=Bon/><ref name=McNabb/>  However, it has popularly been used (after boiling) as a [[spice]] in mushroom dishes in northern and eastern Europe and Siberia (see [[Mushroom picking in Slavic culture]]). It is commercially available preserved in salt.<ref>See [http://www.enecopro.ru/data/en/production/catalogue/mushrooms/lactarius_necator/0010 site of YeniseyEcoproduct, Krasnoyarsk]</ref> Considered a choice mushroom in Russia, one of the best for pickling (salt only, no vinegar).
+
+==See also==
+*[[List of Lactarius species|List of ''Lactarius'' species]]
+
+==References==
+{{Reflist}}
+
+*{{Commons-inline}}
+
+{{Taxonbar|from=Q23637}}
+
+[[Category:Lactarius|turpis]]
+[[Category:Fungi described in 1828]]
+[[Category:Fungi of Europe]]
+[[Category:Edible fungi]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]

@@ -1,0 +1,51 @@
+{{Short description|Species of fungus}}
+{{Expand German|topic=scitech|Violettstieliger Täubling|section= no}}
+{{Speciesbox
+| image = Russula violeipes 243363.jpg
+| image_caption =
+| genus = Russula
+| species = violeipes
+| authority = [[Quél.]] (1898)
+| synonyms_ref = <ref name="urlMycoBank: Russula violeipes"/>
+| synonyms = 
+  {{plainlist|
+*''Russula heterophylla var. chlora'' <small>[[Claude Casimir Gillet|Gillet]] (1876)</small>
+*''Russula olivascens var. citrinus'' <small>Quél. (1886)</small>
+*''Russula xerampelina var. citrina'' <small>(Quél.) Quél. (1888)</small>
+*''Russula punctata f. citrina'' <small>(Quél.) [[René Maire|Maire]] (1910)</small>
+*''Russula punctata f. violeipes'' <small>(Quél.) Maire (1910)</small>
+*''Russula amoena var. violeipes'' <small>(Quél.) [[Rolf Singer|Singer]] (1932)</small>
+*''Russula violeipes f. citrina'' <small>(Quél.) [[Romagn.]] (1942)</small>
+*''Russula violeipes var. citrina'' <small>(Quél.) Sarnari (1998)</small> 
+  }}
+}}
+
+'''''Russula violeipes''''', commonly known as the '''velvet brittlegill''', is a species of [[fungus]] in the family [[Russulaceae]]. It was described by French mycologist [[Lucien Quélet]] in 1898.<ref name="Quélet 1898"/> An [[edible mushroom|edible]] mushroom,<ref name="Boa 2004"/> it is found in Asia and Europe.<ref name="Zhishu 1993"/>
+
+==References==
+{{Reflist|refs=
+
+<ref name="Boa 2004">{{cite book |author=Boa E. |title=Wild Edible Fungi: A Global Overview of Their Use and Importance to People |series=Non-Wood Forest Products |volume=17 |publisher=Food & Agriculture Organization of the UN|year=2004 |page=139 |isbn=92-5-105157-7 |url=https://books.google.com/books?id=Zd2NlcNZgvcC&pg=PA139}}</ref>
+
+<ref name="Quélet 1898">{{cite journal |author=Quélet L. |title=Quelques espèces critiques ou nouvelles pour la Flore mycologique de France |journal=Compte Rendu de l'Association Française pour l'Avancement des Sciences |year=1898 |volume=26 |issue=2 |pages=446–52 |language=French}}</ref>
+
+<ref name="urlMycoBank: Russula violeipes">{{cite web |title=''Russula violeipes'' Quél., Comptes Rendus de l´Association Française pour l´Avancement des Sciences, 26 (2): 450, 1898 |url=http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=122778&Fields=All |publisher=[[MycoBank]]. International Mycological Association |access-date=2013-05-13}}</ref>
+
+<ref name="Zhishu 1993">{{cite book |vauthors=Zhishu B, Zheng G, Taihui L |title=The Macrofungus Flora of China's Guangdong Province (Chinese University Press) |publisher=Columbia University Press |location=New York, New York |year=1993 |page=521 |isbn=962-201-556-5 |url=https://books.google.com/books?id=0cAered-vqYC&pg=PA521}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|439062}}
+
+{{Taxonbar|from=Q1434635}}
+
+[[Category:Russula|violeipes]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1898]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungus species]]
+
+
+{{Russulales-stub}}

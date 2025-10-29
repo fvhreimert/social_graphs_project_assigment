@@ -1,0 +1,46 @@
+{{Short description|Species of fungus}}
+{{Species box 
+| image = Leccinum versipelle LC0366.jpg
+| taxon = Leccinum versipelle
+| authority = ([[Elias Magnus Fries|Fr.]] & [[Hök]]) [[Wally Snell|Snell]] (1944)
+| synonyms = 
+* ''Boletus versipellis'' <small>Fr. & Hök (1835)</small>
+* ''Leccinum atrostipitatum'' A.H. Sm., Thiers & Watling (1966)
+}}
+
+'''''Leccinum versipelle''''', also known as ''Boletus testaceoscaber'', '''dark-stalked bolete''', or '''orange birch bolete''', is a common species of mushroom that may be edible when given the right preparation. It is found below [[birches]] from July through to November, and turns black when cooked.
+
+==Taxonomy==
+''Leccinum'' is a genus of [[fungi]] in the family [[Boletaceae]]. It was the name given first to a series of fungi within the genus ''[[Boletus]]'', then erected as a new genus last century. Their main distinguishing feature is the small, rigid projections (scabers) that give a rough texture to their [[stipe (mycology)|stalks]]. The genus name was coined from the Italian ''Leccino'', for a type of rough-stemmed bolete.
+
+==Description==
+
+The [[pileus (mycology)|cap]] is broadly convex, buff to yellow-orange or ochre, bright red-brown or brick red. It is felty and grows up to {{convert|15|cm|frac=4}} in diameter.<ref name="tfb">{{Cite book |last=Francis-Baker |first=Tiffany |title=Concise Foraging Guide |date=2021 |publisher=[[Bloomsbury Publishing|Bloomsbury]] |isbn=978-1-4729-8474-6 |series=[[The Wildlife Trusts]] |location=London |pages=179}}</ref> The [[trama (mycology)|flesh]] is white to pink, when cut staining reddish and then changing to avellaneous and finally fuscous. Tubes are 8 - 22 [[Millimetre|mm]] long, yellowish white to brownish grey, violaceous to greyish when bruised. Pores measure 0.5 mm in diameter, greyish white to grey ochre, discolouring brownish when bruised.<ref name=":0">{{Cite web |last=Bakker |first=Henk den |last2=Noordeloos |first2=Machiel |date=January 2005 |title=A revision of European species of Leccinum gray and notes on extralimital species |url=https://www.researchgate.net/publication/236019997_A_revision_of_European_species_of_Leccinum_gray_and_notes_on_extralimital_species |archive-url=http://web.archive.org/web/20231130163152/https://www.researchgate.net/publication/236019997_A_revision_of_European_species_of_Leccinum_gray_and_notes_on_extralimital_species |archive-date=2023-11-30 |access-date=2025-10-23 |website=ResearchGate |language=en}}</ref> 
+
+The [[Stipe (mycology)|stipe]] is firm, long and slender, white, lightly to densely covered with fine (sometimes on the stipe base more coarse) greyish to blackish, sometimes whitish, squamules.<ref name=":0" /> Stalks are up to 15&nbsp;cm tall<ref name="tfb" /> by 3.5&nbsp;cm wide, whitish, and with many raised, black dots.  
+
+The [[basidiospore|spores]] are brown, or smokey to blackish-brown, fusiform, (9.0—) 11.5—16.5 x 3.5—4.0(—5.0) [[Micrometre|μm]].<ref name=":0" /> Spore print is yellow-brown to olive.{{Citation needed|date=October 2025}} 
+
+{{gallery|mode=packed
+|Spinus-orange-birch-bolete-2014-10-n014756-w.jpg|Orange birch bolete (Leccinum versipelle), New Jersey, US
+|Leccinum stipe 96426.jpg|[[stipe (mycology)|Stem]] of a ''Leccinum'' mushroom, showing the distinctive scabers
+}}
+
+==Distribution and habitat==
+''Leccinum versipelle'' fruits on the ground solitary or gregarious, with ectomycorrhizal association with ''Betula'' in forests and heathland, on sandy, slightly acidic, loamy soils.<ref name=":0" /><ref>George Barron: Mushrooms of Northeast North America</ref> It can be found across Europe from August to November.<ref name="tfb" />
+
+==Edibility==
+''Leccinum versipelle'' is edible cooked.<ref name="tfb" /> It is mildly [[poisonous mushroom|toxic]] (causing nausea and vomiting) unless given proper heat treatment: frying or boiling for 15–20 minutes is necessary. It is commonly harvested for food in Finland,<ref name="Ohenoja 1984">{{cite journal|last=Ohenoja|first=Esteri |author2=Koistinen, Riitta|date=1984|title= Fruit body production of larger fungi in Finland. 2: Edible fungi in northern Finland 1976–1978|journal=Annales Botanici Fennici|volume=21|issue=4|pages=357–66|jstor=23726151}}</ref> Latvia, Lithuania, Estonia, Belarus, southeast Alaska and Russia.
+
+==References==
+{{Reflist}}
+*E. Garnweidner. ''Mushrooms and Toadstools of Britain and Europe''. Collins. 1994.
+
+{{Taxonbar|from1=Q533017|from2=Q6511506}}
+
+[[Category:Leccinum|versipelle]]
+[[Category:Fungi described in 1835]]
+[[Category:Fungi of Europe]]
+[[Category:Edible fungi]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]

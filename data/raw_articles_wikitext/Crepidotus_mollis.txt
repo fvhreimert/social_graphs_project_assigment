@@ -1,0 +1,47 @@
+{{Short description|Species of mushroom}}
+{{Speciesbox 
+| image = Crepidotus spec. - Lindsey 3a.jpg
+| genus = Crepidotus
+| species =  mollis
+| authority = ([[Jacob Christian Schäffer|Schaeff.]]) Staude
+}}
+{{Mycomorphbox
+| name = ''Crepidotus mollis''
+| hymeniumType = gills
+| whichGills = NA
+| capShape = convex
+| capShape2 = flat
+| stipeCharacter = NA
+| sporePrintColor = brown
+| sporePrintColor2 = yellow-brown
+| ecologicalType = saprotrophic
+| howEdible = unknown
+| howEdible2 = inedible
+}}
+
+'''''Crepidotus mollis''''', commonly known as the '''peeling oysterling''', '''soft slipper''', '''jelly crep''', or '''flabby crepidotus''',<ref name=arora>{{Cite book |last=Arora |first=David |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/406/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |year=1986 |orig-date=1979 |edition=2nd |pages=406}}</ref> is a species of [[mushroom]]. It is regarded as inedible.
+
+==Description==
+The [[cap (mycology)|cap]] is 1–5 cm wide and kidney shaped.<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=231–232|oclc=797915861}}</ref> The cap is white when it is young and when it gets older, it turns [[ochre]]. The [[flesh (mycology)|flesh]] of the cap is white and flabby,<ref name=arora/> and can be broken easily. It has brown fibrils and scales which wear away, leaving a smooth surface.<ref name=":0" /> The upper layer of the cap is elastic and can be stretched slightly at the margin.<ref name="West">{{cite book|last=C. Roody|first=William|url=https://books.google.com/books?id=5HGMPEiy4ykC&dq=Crepidotus+mollis&pg=PA18|title=Mushrooms of West Virginia and the Central Appalachians|date=2003|publisher=University Press of Kentucky|isbn=978-0-8131-9039-6|pages=124}}</ref> The [[Gill (mycology)|gills]] are pale brown and soft.<ref name="First">{{cite web |url=http://www.first-nature.com/fungi/id_guide/cortinariales/crepidotus_mollis.htm |title=Crepidotus mollis |access-date=2010-01-23 |work=First Nature |archive-url=https://web.archive.org/web/20080828060647/http://www.first-nature.com/fungi/id_guide/cortinariales/crepidotus_mollis.htm |archive-date=2008-08-28 |url-status=dead }}</ref> The [[spores]] are elliptical and smooth,<ref name="edible">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=285|author-link=Orson K. Miller Jr.}}</ref> producing a brown [[spore print]].<ref name="First"/> The stalk is rudimentary or lacking.<ref name="West"/>
+
+The species resemble a globe in moist weather.<ref>{{cite book |last=Sayer Moffatt |first=Will |title=The higher Fungi of the Chicago region |publisher=The Academy |date=1909 |url=https://archive.org/details/higherfungiofchi01moffrich |quote=Crepidotus mollis. |pages=[https://archive.org/details/higherfungiofchi01moffrich/page/87 87]}}</ref> The species has a relative large size compared to other species in the genus ''Crepidotus''.<ref>{{cite web |url=http://www.svims.ca/council/Crepid.htm |title=CREPIDOTUS in the Pacific Northwest |access-date=2010-01-23 |last=Gibson |first=Ian |publisher=South Vancouver Island Mycological Society}}</ref> The fungus ''Hypomyces tremellicola'' is a [[parasite]] that deforms this species' cap.<ref>{{cite book | title = Mushrooms and other fungi of the midcontinental United States | publisher = University of Iowa Press | date = 2008 | page = 71 | url = https://books.google.com/books?id=tl2fVAHuej4C&dq=Crepidotus+mollis&pg=PA70 | isbn = 978-1-58729-627-7 }}</ref>
+
+=== Similar species ===
+Similar species include ''[[Crepidotus applanatus]]'', [[Crepidotus crocophyllus|''C.&nbsp;crocophyllus'']],<ref name="arora" /><ref name="edible" /> and ''[[Pleurotus ostreatus]]''.<ref name=":0" /> A&nbsp;key distinguishing feature is the scales, which may be lost, requiring microscopy for identification.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=619}}</ref>
+
+==Habitat and distribution==
+The species grows in groups or overlapping tiers on [[hardwood]].<ref name=arora/> The hardwood includes tree trunks, fallen branches, and sawdust. Rarely, the species grows on [[conifer]]ous trees.<ref name="Simon">{{cite book |last=Pacioni |first=Giovanni |url=https://books.google.com/books?id=LydcGycgWZ0C&dq=Crepidotus+mollis&pg=PA289 |title=Simon and Schuster's Guide to mushrooms |author2=Lincoff, Gary |date=1981 |publisher=Simon and Schuster |isbn=978-0-671-42849-5 |pages=290}}</ref> The species is widely distributed and very common.<ref name=arora/> The species can commonly be found in [[temperate zones]] of [[North America|North]] and [[South America]] and Europe,<ref>{{cite web|url=http://www.mykoweb.com/Crepidotus/species/Crepidotus_mollis.html |title=The North American Species of Crepidotus |access-date=2010-01-23 |work=MykoWeb }}</ref> from July to September in the northern hemisphere.<ref>{{cite book | title = Mushrooms of northeastern North America | publisher = Syracuse University Press | date = 1997 | pages = 114 | url = https://books.google.com/books?id=T2uU12XcRD4C&dq=Crepidotus+mollis&pg=PA114 | isbn = 978-0-8156-0388-7 }}</ref>
+
+==Edibility==
+The species is reportedly inedible<ref name="arora" /><ref>{{cite book |last=Phillips |first=Roger |url=https://archive.org/details/mushroomsotherfu0000phil |title=Mushrooms and Other Fungi of North America |publisher=Firefly Books |year=2010 |isbn=978-1-55407-651-2 |location=Buffalo, NY |pages=[https://archive.org/details/mushroomsotherfu0000phil/page/242 242]–43 |url-access=registration}}</ref> and possibly [[Mushroom poisoning|poisonous]].<ref>{{Cite web |title=Crepidotus mollis, Peeling Oysterling, identification |url=https://first-nature.com/fungi/crepidotus-mollis.php |access-date=2023-10-23 |website=first-nature.com}}</ref> It is also too small to consider worthwhile.<ref name="edible" /> Since very little is known about the edibility of the mushrooms in the genus ''Crepidotus'', none should be eaten.<ref name="Simon" />
+
+==References==
+{{Reflist}}
+==External links==
+*[http://www.bender-coprinus.de/pilz_der_woche/2020/_crepidotus_mollis.html Images of ''Crepidotus mollis'']
+{{Taxonbar|from=Q2251383}}
+
+[[Category:Inedible fungi]]
+[[Category:Crepidotaceae]]
+[[Category:Taxa named by Jacob Christian Schäffer]]
+[[Category:Fungus species]]

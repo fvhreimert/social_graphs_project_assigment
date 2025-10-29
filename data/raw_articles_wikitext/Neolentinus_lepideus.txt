@@ -1,0 +1,55 @@
+{{Speciesbox
+| image = NeoLentinus lepideus.JPG
+| genus = Neolentinus
+| species = lepideus
+| authority = ([[Elias Fries|Fr.]]) Redhead & Ginns (1985)<ref>[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=104553 Index Fungorum entry on species.]</ref>
+}}
+{{mycomorphbox
+| name = ''Neolentinus lepideus''
+| whichGills = adnate
+| whichGills2 = decurrent
+| capShape = convex
+| capShape2 = flat
+| hymeniumType = gills
+| stipeCharacter = ring
+| ecologicalType = saprotrophic
+| sporePrintColor = white
+| howEdible = edible
+}}
+
+'''''Neolentinus lepideus''''' is a [[basidiomycete]] mushroom of the [[genus]] ''[[Neolentinus]]'', until recently also widely known as '''''Lentinus lepideus'''''. Common names for it include '''scaly sawgill''',<ref>{{cite web |url= https://www.britmycolsoc.org.uk/library/english-names |title= Neolentinus lepideus · scaly sawgill |access-date= 2021-05-21 |work= The British Mycological Society |archive-date= 2022-02-05 |archive-url= https://web.archive.org/web/20220205063207/https://www.britmycolsoc.org.uk/library/english-names |url-status= dead }}</ref><ref>{{cite web|url= https://species.nbnatlas.org/species/NBNSYS0000039372 |title= Neolentinus lepideus (Fr.) Redhead & Ginns – Scaly Sawgill |access-date=2021-05-21 |work= NBN Atlas }}</ref><ref>{{cite web|url= http://www.texasmushrooms.org/en/neolentinus_lepideus.htm |title= Neolentinus lepideus – Scaly Sawgill |access-date=2021-05-21 |work= Texas mushrooms }}</ref> '''scaly lentinus''' and '''train wrecker'''.<ref>{{cite web|url= https://www.first-nature.com/fungi/neolentinus-lepideus.php |title= Neolentinus lepideus (Fr.) Redhead & Ginns - Train Wrecker |access-date=2021-05-21 |work= First Nature }}</ref><ref>{{cite web|url= https://eol.org/pages/133821 |title= Neolentinus lepideus (Train Wrecker) |access-date=2021-05-21 |work= EOL }}</ref><ref>{{cite web|url= https://inaturalist.nz/taxa/351629-Neolentinus-lepideus |title= Trainwrecker (Neolentinus lepideus) |access-date=2021-05-21 |work= Ninaturalist.nz }}</ref>
+
+==Description==
+''Neolentinus lepideus'' fruit bodies are tough, fleshy, [[agaric]]s of variable size. The [[Pileus (mycology)|cap]] is at first convex and flattens with maturity while the margin remains enrolled. The cap may grow up to about {{Convert|13|cm|frac=4}}, while the [[Stipe (mycology)|stem]] grows to {{Convert|12|cm|abbr=on|frac=4}} in height.<ref name="jordan">{{cite book |author=Jordan |first=Michael |title=The Encyclopedia of Fungi of Britain and Europe |publisher=David & Charles |year=1995 |isbn=978-0-7153-0129-6 |page=329}}</ref><ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=207}}</ref> The white, cream to pale-brown cap cuticle is distinctively covered with concentrically arranged dark scales<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/142/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=142 |orig-date=1979}}</ref> which become denser towards the depressed cap centre.
+
+The [[Lamella (mycology)|gills]] are white and their attachment to the stem is adnate to subdecurrent or decurrent. The gills and stipe can become dark reddish with age.<ref name=":0">{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC&pg=PA99|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=99}}</ref> The white stem is covered in dark scales in the region below the white [[Annulus (mycology)|ring]].<ref name=":0" /> The odor is somewhat like [[anise]],<ref name=":0" /> and the taste is indiscernible.<ref name="jordan" /> The flesh is tough, increasingly so with maturity.<ref name="jordan" />
+
+The [[spore print]] is white and the [[Basidiospore|spores]] are cylindrical in shape. The spore dimensions are 8–12.5 by 3.5–5&nbsp;[[μm]].<ref name="Bas1988">{{cite book |author=Bas C. |title=Volume 2 of Flora Agaricina Neerlandica: Critical Monographs on Families of Agarics and Boleti Occurring in the Netherlands | publisher=CRCPress | year=1990 | pages=90–91 | isbn=978-90-6191-971-1 | url=https://books.google.com/books?id=Z-xGzC7Nic4C&q=neerlandica+lepideus&pg=PA27|access-date=2010-01-03}}</ref>
+
+=== Similar species ===
+''[[Neolentinus ponderosus]]'' is similar but has no [[partial veil]], and thus no ring.<ref name=":0" /> ''[[Pleurotus levis]]'' grows on hardwoods, with a more fuzzy cap lacking scales.<ref name="audu" />
+
+==Habitat and distribution==
+The [[fruiting bodies]] of ''Neolentinus lepideus'' are found singly or in tufts emerging from dead and decaying [[conifer]]ous wood, favouring [[pine]]s (''Pinus'') including old [[Tree stump|stump]]s, [[logging|log]]s, and [[timber]]. It may also be found in gardens, on man-made wooden structures such as old [[railroad tie]]s, and in such unusual places as [[coal mines]]. Less frequently, it is also found on non-coniferous [[hardwood]]. Its fruiting season is spring to autumn and it is common in Europe and North America.<ref name="Bas1988" /><ref name="rogersmushrooms">{{cite web | title=''Lentinus lepideus'' at Rogers Mushrooms | publisher=Rogers Plants Ltd | url=http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6280.asp | access-date=January 3, 2010 }}</ref> In the latter, it appears from May to November (slightly shorter in the west).<ref name="audu" /> There have also been multiple reports of its occurrence in the [[Western Cape]], South Africa.<ref>{{Cite web|url=http://www.ispotnature.org/node/825596|title=Lentinus lepideus|access-date=2016-12-24}}</ref>
+
+==Ecology==
+''Neolentinus lepideus'' has a [[saprotrophic nutrition|saprotrophic]] mode of nutrition and is an important woodland [[decomposer]] and a cause of [[wet rot]] in building materials. The fungus has shown tolerance of wood treated with [[creosote]] and other preservatives, and has been used in experiments to evaluate the efficacy of treatment methods.<ref name="57.pdf">{{cite journal | author=Duncan C., Deverall F. |year=1963 | title=Degradation of Wood Preservatives by Fungi | journal=Applied Microbiology | volume=12 | issue= 1| pages=57–62 |doi=10.1128/AM.12.1.57-62.1964 | pmid=16349644 | pmc=1058065}}</ref>
+
+==Edibility==
+Some authors consider the species [[Edible mushroom|edible]],<ref name=rogersmushrooms/><ref name=jordan/> especially when young, but it requires cooking to soften.<ref name="Arora1986" /><ref name="Miller 2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=146|author-link1=Orson K. Miller Jr.}}</ref> While there have been no recorded [[Mushroom poisoning|poisonings]], the fungus may come in contact with [[hazardous chemicals]] because its fruiting bodies tend to grow on human-made wooden structures, such as wooden [[railroad tie]]s smeared with [[creosote]].<ref name="jordan" />{{Verification needed|date=December 2024}}
+
+==References==
+{{Reflist|2}}
+
+==External links==
+*[http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6280.asp Rogers Mushrooms species description]
+*[http://morelmushroomhunting.com/lentinus_lepideus.htm Good quality images]
+
+{{Taxonbar|from=Q1513545}}
+
+[[Category:Wood-decay fungi]]
+[[Category:Gloeophyllales]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1985]]
+[[Category:Fungus species]]

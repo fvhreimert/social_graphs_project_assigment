@@ -1,0 +1,63 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Tricholoma_argyraceum_56.jpg
+| image_caption = ''Tricholoma argyraceum''<br>in a park near [[Paris]], France
+| taxon = Tricholoma argyraceum
+| authority =  ([[Jean Baptiste François Pierre Bulliard|Bull.]]) [[Claude Casimir Gillet|Gillet]] (1874)
+| synonyms =
+{{center|(See text)}}
+}}
+{{Mycomorphbox 
+| name = ''Tricholoma argyraceum''
+| hymeniumType = gills
+| capShape = convex
+| capShape2 = flat 
+| whichGills = adnexed 
+| stipeCharacter = bare
+| sporePrintColor = white
+| sporePrintColor2 = cream
+| ecologicalType = mycorrhizal
+| howEdible = edible
+}}
+
+'''''Tricholoma argyraceum''''' is a grey-capped [[mushroom]] of the large genus ''[[Tricholoma]]''.<ref>{{IndexFungorum|225254|name=''Tricholoma argyraceum''}}</ref> It has been often confused with the similar-looking ''[[Tricholoma scalpturatum]]''.<ref>{{IndexFungorum|186479|name=''Tricholoma scalpturatum''}}</ref>
+
+==Taxonomy==
+French mycologist [[Jean Baptiste François Pierre Bulliard|Pierre Bulliard]] described this species as ''Agaricus argyraceus'' in 1779, before his countryman [[Claude Casimir Gillet]] gave it its current name in 1874. The [[genus|generic]] name derives from the [[Ancient Greek|Greek]] ''trichos''/τριχος 'hair' and ''loma''/λωμα 'hem', 'fringe' or 'border'.<ref name=nilper>{{cite book | last = Nilson|first= Sven |author2=Persson, Ole | year = 1977 | title = Fungi of Northern Europe 2: Gill-Fungi | publisher = Penguin|isbn=0-14-063006-6|page= 24}}</ref> It lies within the [[section (botany)|section]] ''Terrea'' within the [[subgenus]] ''Tricholoma'' within the genus ''[[Tricholoma]]''.<ref name=Nederlandica1999>{{cite book |author1=Noordeloos M.E. |author2=Kuyper, Th.W. |author3=Vellinga E.C. |title=Flora Agaricina Neerlandica |publisher=Taylor & Francis |year=1999 |page=135 |isbn=90-5410-493-7 |url=https://books.google.com/books?id=ablJJike0eYC&q=Tricholoma+argyraceum&pg=PA135}}</ref>
+
+==Description==
+The [[pileus (mycology)|cap]] is conical initially and flattening to a convex shape, with a prominent boss. Measuring {{convert|1.5|to|6|cm|in|abbr=on}} in diameter, it is covered with greyish scales, paler than other grey-capped tricholomas, and the crowded gills are white or pale grey and emarginate or adnate in cross section. They sometimes stain yellowish when bruised. The thin flesh is cream or white and has a [[wikt:farinaceous|farinaceous]] (floury) and somewhat rancid taste and smell. The whitish stipe is {{convert|2|–|5|cm|in|abbr=on}} high and {{convert|0.3|–|0.8|cm|in|abbr=on}} wide and has no ring and a tapering base.<ref name=Nederlandica1999/>
+
+The poisonous ''[[Tricholoma pardinum|T.&nbsp;pardinum]]'' is similar in appearance but with coarser scales on its cap.<ref name=Zeitl76>{{cite book|last=Zeitlmayr |first=Linus|year=1976|title=Wild Mushrooms: An Illustrated Handbook|publisher=Garden City Press, Hertfordshire|isbn= 0-584-10324-7|pages= 72–73}}</ref> ''[[Tricholoma scalpturatum|T.scalpturatum]]'' has a darker cap without a boss.<ref name=Nederlandica1999/>
+
+==Distribution and habitat==
+''Tricholoma argyraceum'' occurs across Europe but is uncommon overall. The fruit bodies appear from June to December (occasionally earlier in Spring). The species has an ectomycorrhizal association with a number of genera – birch (''[[Betula]]''), ''[[Carpinus]]'', oak (''[[Quercus]]'') and ''[[Tilia]]''.<ref name=Nederlandica1999/>
+
+== Synonyms ==
+Obsolete synonyms for ''Tricholoma argyraceum'' include:<ref>{{cite encyclopedia |url=http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=225254|title = ''Tricholoma argyraceum'' |encyclopedia= [[Index Fungorum|Index Fungorum (Species Fungorum)]]|publisher= [[CAB International]], [[Centraalbureau voor Schimmelcultures (CBS)]] & [[Landcare Research New Zealand Limited]] (eds.)|location= |id= }}</ref>
+*''Agaricus argyraceus'' <small>Bull. 1779</small>
+*''Agaricus myomyces'' var. ''argyraceus'' <small>(Bull.) Pers. 1801</small>
+*''Tricholoma argyraceum'' f. ''inocybeoides'' <small>(A. Pearson) Mort. Chr. & Noordel. 1999</small>
+*''Tricholoma argyraceum'' var. ''inocybeoides'' <small>(A. Pearson) Krieglst. 1991</small>
+*''Tricholoma inocybeoides'' <small>A. Pearson 1938</small>
+*''Tricholoma myomyces'' var. ''argyraceum'' <small>(Bull.) J.E. Lange 1933</small>
+*''Tricholoma scalpturatum'' var. ''argyraceum'' <small>(Bull.) Kühner & Romagn. 1953</small>
+*''Tricholoma terreum'' var. ''argyraceum'' <small>(Bull.) P. Kumm. 1871</small>
+
+==Edibility==
+''Tricholoma argyraceum'' is technically edible but of poor quality and inferior to other grey-capped Tricholomas.<ref>{{cite book|author=S.R. Mishra|title=Morphology of Fungi |page=111|publisher=Discovery Publishing House|year=2005|isbn= 81-7141-980-1 |url=https://books.google.com/books?id=ReD9P6xMJVwC&q=%22Tricholoma+portentosum%22&pg=PA111}}</ref> It has also been classified as inedible.<ref>{{cite book | url=https://books.google.com/books?id=ULhwByKCyEwC&q=%22Tricholoma+argyraceum%22&pg=PA177 | title=The encyclopedia of fungi of Britain and Europe | publisher=Frances Lincoln Ltd. | author=Jordan, Michael | year=2004 | page=177 | isbn=0-7112-2378-5}}</ref>
+
+==See also==
+*[[List of Tricholoma species|List of ''Tricholoma'' species]]
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q4355285}}
+
+[[Category:Tricholoma|argyraceum]]
+[[Category:Edible fungi]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi described in 1779]]
+[[Category:Taxa named by Jean Baptiste François Pierre Bulliard]]
+[[Category:Fungus species]]

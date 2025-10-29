@@ -1,0 +1,46 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image =
+| image_caption =
+| genus = Gymnopilus
+| species = aureobrunneus
+| authority = ([[Miles Joseph Berkeley|Berk.]] & [[Moses Ashley Curtis|M.A. Curtis]]) [[William Murrill|Murrill]]
+| synonyms =
+}}
+{{mycomorphbox
+| name = ''Gymnopilus aureobrunneus''
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+
+'''''Gymnopilus aureobrunneus''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]].
+
+==Description==
+The [[pileus (mycology)|cap]] is {{convert|2|to|5|cm|in|1}} in diameter.<ref name="isbn0-945345-39-9">{{cite book |author=Hesler LR. |title=North American Species of ''Gymnopilus'' (Mycologia Memoir Series: No 3) |publisher=Lubrecht & Cramer Ltd |location=Knoxville, Tennessee |year=1969 |page=44 |isbn=0-945345-39-9}}</ref>
+
+==Habitat and distribution==
+''Gymnopilus aureobrunneus'' grows on logs and stumps in [[Cuba]].<ref name="isbn0-945345-39-9"/>
+
+==See also==
+{{Portal|Fungi}}
+* [[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=451328 Index Fungorum]
+
+{{Taxonbar|from=Q5624723}}
+
+[[Category:Gymnopilus|aureobrunneus]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]
+
+{{hymenogastraceae-stub}}

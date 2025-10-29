@@ -1,0 +1,36 @@
+{{Short description|Species of fungus}}
+{{Speciesbox 
+| image =
+| genus = Boletus
+| species = purpureus
+| authority = [[Pers.]]
+}}
+
+
+'''''Boletus purpureus''''', commonly known as the '''purple boletus''', is a species of [[bolete]] fungus in the family [[Boletaceae]]. Found in Europe, where it grows in [[mixed forest|mixed woods]],<ref name="Outen 1987"/>  it was originally described by [[Christian Hendrik Persoon]] in 1825.<ref name="Persoon 1825"/> The [[basidiocarp|fruit bodies]] are [[poisonous mushroom|poisonous]] if they are eaten raw.<ref name="Outen 1987"/>
+
+==See also==
+* [[List of Boletus species|List of ''Boletus'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Outen 1987">{{cite journal |author=Outen AR. |title=Profiles of fungi 3 |journal=Mycologist |year=1987 |volume=1 |issue=2 |pages=74–5 |doi=10.1016/S0269-915X(87)80050-2}}</ref>
+
+<ref name="Persoon 1825">{{cite book |author=Persoon CH. |title=Mycologia Europaea |year=1825 |volume=2 |publisher=Palm |location=Erlangen, Germany |language= |page=143 |url= }}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|114677}}
+
+{{Taxonbar|from=Q4094248}}
+
+[[Category:Boletus|purpureus]]
+[[Category:Fungi described in 1825]]
+[[Category:Fungi of Europe]]
+[[Category:Taxa named by Christiaan Hendrik Persoon]]
+[[Category:Fungus species]]
+
+
+{{Boletales-stub}}

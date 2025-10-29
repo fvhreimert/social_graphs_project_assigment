@@ -1,0 +1,50 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Rhodocybe gemina - Sivry 101017 (2).JPG
+| image_caption = 
+| genus = Rhodocybe
+| species = gemina
+| authority = ([[Jean-Jacques Paulet|Paulet]]) Kuyper & [[Noordel.]] (1987)
+| synonyms =''Hypophyllum geminum'' <small>Paulet (1793)</small><br>
+''Agaricus geminus'' <small>(Paulet) Fr. (1838)</small><br>
+''Gyrophila gemina'' <small>(Paulet) [[Quél.]] (1886)</small><br>
+''Tricholoma geminum'' <small>(Paulet) [[Sacc.]] (1887)</small><br>
+''Clitopilus geminus'' <small>(Paulet) Noordel. & Co-David (2009)</small>
+}}
+
+
+'''''Rhodocybe gemina''''' is a [[species]] of [[fungus]] in the [[family (biology)|family]] [[Entolomataceae]]. It has the recommended English name of '''tan pinkgill'''<ref name="BMS"/> and produces [[agaric|agaricoid]] [[basidiocarps]] (fruit bodies) that are fleshy and cream when young, becoming brownish when mature.
+
+==Taxonomy==
+The species was originally named ''Hypophyllum geminum'' in 1793 by French [[mycologist]] [[Jean-Jacques Paulet]] and transferred to the [[genus]] ''[[Rhodocybe]]'' in 1987.<ref name="Noord1987"/> Prior to this, the species was commonly known as ''Rhodocybe truncata'' (Schaeff.) [[Rolf Singer|Singer]], based on ''Agaricus truncatus'' described by [[Jacob Christian Schäffer]] in 1774. No original specimen of Schäffer's species exists, however, and the original description is so ambiguous that it has also been referred to the genus ''[[Hebeloma]]'' (as ''Hebeloma truncatum''  (Schaeff.) [[P. Kumm.]]) by some authorities.<ref name="Noord1987"/> ''Rhodocybe truncata'' is now considered a [[nomen dubium]] and is no longer in use.<ref name="Mattock2005"/>
+
+In 2009, as a result of [[Molecular phylogenetics|molecular]] research, based on [[cladistic]] analysis of [[DNA sequences]], CoDavid et al. included ''Rhodocybe gemina'' in their expanded concept of ''[[Clitopilus]]''.<ref name=CoDavid/> Subsequent research showed, however, that ''Rhodocybe'' is a [[monophyletic]] (natural) genus and that ''R. gemina'' belongs within it.<ref name="Kluting 2014"/>
+
+==Description==
+The [[pileipellis|skin]] of the [[pileus (mycology)|cap]] is matt, not slimy or shiny. The cap is up to 120 mm wide, at first somewhat [[umbo (mycology)|umbonate]], later becoming irregular and flattened, and brownish ochre to pinkish ochre. The [[lamella (mycology)|gills]] are [[wikt:adnate|adnate]] to [[wikt:decurrent|decurrent]] in attachment and the stem is whitish – often lighter than the gills and relatively short, but always lacking a [[partial veil|veil]] or [[volva (mycology)|volva]]. The [[spore print]] is flesh-coloured to salmon-pink. Microscopically the spores are angular when viewed on end; when viewed from the side they are irregularly warted.<ref name="Mattock2005"/>
+
+A [[saprotrophic]] species, it generally grows in woodlands, both [[deciduous forest|broadleaved]] and occasionally [[coniferous forest|coniferous]], but also in grassland and scrub.<ref name="Mattock2005"/>
+
+
+==References==
+
+{{Reflist|colwidth=30em|refs=
+
+<ref name="BMS">{{cite web |author=Holden L. |url=https://www.britmycolsoc.org.uk/resources/english-names/ |title=English names for fungi - April 2022 |publisher=[[British Mycological Society]] |accessdate=2023-05-29}}</ref>
+
+<ref name=CoDavid>{{Cite journal | author1 = D. Co-David | author2 = D. Langeveld | author3 = M.E. Noordeloos | title = Molecular phylogeny and spore evolution of Entolomataceae | journal = Persoonia | volume = 23 | issue = 2 | pages = 147–176 | date = Nov 2009 | url = http://www.persoonia.org/Issue/23/11.pdf | doi = 10.3767/003158509x480944 | pmid = 20198166 | pmc = 2802732 | url-status = dead | archiveurl = https://web.archive.org/web/20110727171858/http://www.persoonia.org/Issue/23/11.pdf | archivedate = 2011-07-27 }}</ref>
+
+<ref name="Kluting 2014">{{cite journal |vauthors=Kluting KL, Baroni TJ, Bergemann SE |title=Toward a stable classification of genera within the Entolomataceae: a phylogenetic re-evaluation of the ''Rhodocybe''-''Clitopilus'' clade |journal=Mycologia |year=2014 |volume=106 |issue=6 |pages=1127–42 |doi=10.3852/13-270 |pmid=24987124|s2cid=40696041 }}</ref>
+
+<ref name="Mattock2005">{{cite journal |author=Mattock G |title=''Rhodocybe gemina'' – a good year in Hampshire for a rare species |journal=Field Mycology |volume=6 |issue=2 |year=2005 |pages=65-67 |doi=10.1016/S1468-1641(10)60306-4 |doi-access=free }}</ref>
+
+<ref name="Noord1987">{{cite journal |vauthors=Noordeloos ME, Kuyper TW |year=1987 |title=Notulae ad Floram agaricinam neerlandicam — XIV. A noemnclatural note on ''Rhodocybe truncata''. |journal=Persoonia |volume=13 |issue=3 |pages=379–380}}</ref>
+}}
+
+{{Taxonbar|from=Q1345714}}
+
+
+[[Category:Entolomataceae]]
+[[Category:Fungi described in 1793]]
+[[Category:Fungi of Europe]]
+[[Category:Fungus species]]

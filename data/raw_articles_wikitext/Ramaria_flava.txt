@@ -1,0 +1,36 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = AD2009Sep06 Ramaria flava 01.jpg
+| image_caption = 
+| taxon = Ramaria flava
+| authority = ([[Schaeff.]]) [[Quél.]] (1888)<ref name="Quélet 1888"/>
+| synonyms_ref = <ref name="urlMycoBank: Ramaria flava"/>
+| synonyms =
+*''Coralloides flavus'' <small>[[Tourn.]] ex [[Battarra]] (1755)</small>
+*''Clavaria flava'' <small>Schaeff. (1774)</small>
+*''Corallium flavum'' <small>(Schaeff.) [[G.Hahn]] (1883)</small>
+}}
+
+'''''Ramaria flava''''', is a yellow [[coral mushroom]] found in Europe.  Also known by its local name '''changle''' it is also native to [[temperate climate|temperate]] areas of [[Zona Sur|southern Chile]] and south of Brazil (state of [[Rio Grande do Sul]]).
+
+==References==
+{{Reflist|refs=
+
+<ref name="Quélet 1888">{{cite book |author=Quélet L. |title=Flore mycologique de la France et des pays limitrophes |year=1888 |publisher=Octav Doin |location=Paris, France |language=French}}</ref>
+
+<ref name="urlMycoBank: Ramaria flava">{{cite web |title=''Ramaria flava'' (Schaeff.) Quél. 1888 |url=http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=23823&Fields=All |publisher=[[MycoBank]]. International Mycological Association |accessdate=2012-08-29}}</ref>
+
+}}
+
+{{Taxonbar|from=Q1078340}}
+
+[[Category:Gomphaceae]]
+[[Category:Fungi described in 1774]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of South America]]
+[[Category:Edible fungi]]
+[[Category:Taxa named by Jacob Christian Schäffer]]
+[[Category:Fungus species]]
+
+
+{{Gomphales-stub}}

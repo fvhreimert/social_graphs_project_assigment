@@ -1,0 +1,34 @@
+{{unreferenced|date=October 2025}}
+
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image =
+| image_caption = 
+| taxon = Gymnopilus subspectabilis
+| authority = [[Lexemuel Ray Hesler|Hesler]] (1969)
+| synonyms = 
+}}
+{{mycomorphbox
+| name = ''Gymnopilus subspectabilis''
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=unknown
+| ecologicalType=saprotrophic
+| sporePrintColor= no
+| howEdible=psychoactive}}
+
+'''''Gymnopilus subspectabilis''''', commonly known as the '''big laughing mushroom''', '''laughing gym''', or '''giant gymnopilus''', is a species of [[agaric]] fungus in the family [[Hymenogastraceae]] which contains the hallucinogenic drug [[psilocybin]]. 
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+== References ==
+{{Reflist}}{{Taxonbar|from=Q10763398}}
+
+[[Category:Gymnopilus|subspectabilis]]
+[[Category:Fungi described in 1969]]
+[[Category:Taxa named by Lexemuel Ray Hesler]]
+[[Category:Fungus species]]

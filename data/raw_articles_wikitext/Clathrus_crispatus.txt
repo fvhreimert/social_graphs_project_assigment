@@ -1,0 +1,35 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image =
+| image_caption =
+| genus = Clathrus
+| species = crispatus
+| authority = [[George Henry Kendrick Thwaites|Thwaites]] ex [[Eduard Fischer (mycologist)|E. Fisch.]]
+}}
+{{mycomorphbox
+| name = ''Clathrus crispatus''
+| hymeniumType=gleba
+| capShape=no
+| whichGills=no
+| stipeCharacter=NA
+| sporePrintColor =olive-brown
+| ecologicalType=saprotrophic
+}}
+
+'''''Clathrus crispatus''''' is a species of [[fungus]] in the [[stinkhorn]] family. It is found in Asia.<ref name="urlMycoBank:Clathrus crispatus"/>
+
+==References==
+{{Reflist|refs=
+
+<ref name="urlMycoBank:Clathrus crispatus">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=514442 |title=''Clathrus crispatus'' Thwaites ex E. Fisch. 1893 |publisher=International Mycological Association |work=MycoBank |accessdate=2010-10-29}}</ref>
+
+}}
+
+{{Taxonbar|from=Q5128562}}
+
+[[Category:Phallales]]
+[[Category:Fungi of Asia]]
+[[Category:Fungus species]]
+
+
+{{Phallales-stub}}

@@ -1,0 +1,183 @@
+{{Short description|Genus of edible fungi}}
+{{Automatic taxobox
+| image = Lejkowiec dęty (Craterellus cornucopioides).jpg
+| image_caption = ''Craterellus cornucopioides'' 
+| taxon = Craterellus
+| authority = [[Christian Hendrik Persoon|Pers.]] (1825)
+| type_species = ''C. cornucopioides''
+| type_species_authority = ([[Carl Linnaeus|L.]]) Pers. (1825)
+| synonyms_ref = <ref name="urlFungorum synonymy: Craterellus"/>
+| synonyms = 
+*''Fungoidaster'' <small>[[P.Micheli]] (1729)</small>
+*''Trombetta'' <small>[[Adans.]] (1763)</small>
+*''Pezicula'' <small>[[Jean-Jacques Paulet|Paulet]] (1791)</small>
+*''Sterbeeckia'' <small>[[Dumort.]] (1822)</small>
+}}
+{{mycomorphbox 
+| name = ''Craterellus''
+| hymeniumType = ridges
+| capShape = infundibuliform
+| whichGills = decurrent
+| stipeCharacter = bare
+| sporePrintColor = cream
+| sporePrintColor2 = salmon
+| ecologicalType = mycorrhizal
+| howEdible = choice
+}}
+
+'''''Craterellus''''' is a [[genus]] of generally [[edible mushroom|edible]] fungi similar to the closely related [[Cantharellus|chanterelles]], with some new species recently moved from the latter to the former. Both groups lack true [[Lamella (mycology)|gills]] on the underside of their caps, though they often have gill-like wrinkles and ridges.
+
+== General ==
+The three most common species, ''[[Craterellus cornucopioides|C. cornucopioides]]'', ''[[Craterellus lutescens|C. lutescens]]'' and ''[[Craterellus tubaeformis|C. tubaeformis]]'', are gathered commercially and, unlike ''[[Cantharellus]]'', can be easily preserved by drying.
+
+[[Molecular phylogenetics]] have been applied to the problem of discriminating between ''Craterellus'' and ''Cantharellus'' genera.  Results indicate that the presence of a hollow stipe may be a [[synapomorphy]] (a trait corresponding to the evolutionary relationship) which reliably identifies ''Craterellus'' species.  ''C. cornucopioides'' appears to be a single [[Polymorphism (biology)|polymorphic]] species, while ''C. tubaeformis'' may be two separate genetic groups separated by geography.<ref name=Dahlman/>
+
+== Definition of the genus ==
+{{cladogram|align=right|title=
+|clade=
+{{clade
+|style=font-size:75%;line-height:75%
+|label1=
+|1={{clade
+    |1={{clade
+          |1={{clade
+                |1={{clade
+                      |1={{clade
+                            |1={{clade
+                                  |1=''[[Craterellus cornucopioides|C. cornucopioides]]''
+                                  |2=''C. odoratus''
+                                  }}
+                            |2=''Pseudocraterellus sinuosus''
+                            }}
+                      |2=''[[Craterellus lutescens|C. lutescens]]''
+                      }}
+                |2={{clade
+                      |1=''C. ignicolor''
+                      |2=western ''[[Craterellus tubaeformis|C. tubaeformis]]''
+                      }}
+                }}
+          |2=eastern ''[[Craterellus tubaeformis|C. tubaeformis]]''
+          }}
+    |2=''[[Cantharellus]]'' ssp.
+    }}
+  }}
+|caption=[[Phylogenetics|Phylogenetic]] relationships of some ''Craterellus'' species and the genus ''Cantharellus'' based on [[DNA]] sequences.  ''C. tubaeformis'' as previously described is two separate genetic groups, corresponding to Europe-eastern North America and western North America.<ref name=Dahlman/>
+}}
+
+The genera '''''Craterellus''''' and ''Cantharellus'' have always been recognized as closely related.  The whole group may be recognized by their lack of division into cap and stipe, and their rudimentary or missing [[Lamella (mycology)|gills]] ("false gills").<ref name=Dahlman/><ref name=TomVolk/>  Originally ''Cantharellus'' was defined by [[Elias Magnus Fries|Fries]] in 1821 to mean all these species together<ref name=IF1/> and then in 1825 [[Christiaan Hendrik Persoon|Persoon]] separated some species off to create the '''Craterellus''' group, with ''[[Craterellus cornucopioides|Cr. cornucopioides]]'' as [[type species]].<ref name=IF2/>  Since then some authorities have tried to merge the two genera again,<ref name=KR/> but DNA studies now indicate that (with recent changes) each genus is [[monophyletic]], and so they are likely to remain separate.<ref name=Moncalvo/>
+
+In the past ''Craterellus'' was distinguished on the basis that<ref name=Dahlman/><ref name=KR/> 
+#the fruiting body had a hollow stipe, generally being funnel-shaped, and
+#there were no [[clamp connections]].
+
+But phylogenetic DNA work starting with the 2000 paper of Dahlman et al.<ref name=Dahlman/> has shown that some species traditionally placed in ''Cantharellus'' (''C. tubaeformis'', ''C. ignicolor'' and ''C. lutescens'') really belong in ''Craterellus'', and this means that the second distinguishing rule is no longer valid.  On the other hand, the first rule holds up well.
+
+==Species==
+
+The taxonomy of these fungi is in a state of flux (particularly due to DNA analysis) and many earlier names are now disputed.  The following table gives some of the most important ones.  Numerous species of ''Cantharellus'' have at times been classified under ''Craterellus'', but these are mostly excluded from the table.  See also the [[cladogram]] at right for a portrayal of the relationships between the species based on recent evidence.
+
+{| class="wikitable sortable"
+|- 
+! Image !! Name !! Current status!! Further details
+|-
+|
+| ''[[Craterellus caeruleofuscus|C. caeruleofuscus]]'' A.H. Sm. (1968)<ref name=IF5/>
+| Valid. 
+| With blue or purplish shades, growing in [[sphagnum]] around the [[Great Lakes]].<ref name=Kuo2/><ref name=Mycoquebec1/>
+|-
+|
+|[[Craterellus calicornucopioides|''C. calicornucopioides'']] [[D.Arora]] & J.L.Frank (2015)<ref name="Arora 2015">{{cite journal |author=Arora DL, Frank JL. |date=6 December 2015 |title=Nomenclatural novelties: Jonathan L. Frank |url=http://www.indexfungorum.org/Publications/Index%20Fungorum%20no.249.pdf |journal=Index Fungorum |issue=249 |issn=2049-2375}}</ref>
+|Valid
+|Closely related to similar European species ''C. cornucopioides'', but separated on the basis of [[molecular phylogenetics]].<ref name="Arora 2015" />
+|-
+|
+| [[Craterellus cornucopioides|''C. cornucopioides'']] (L.) Pers. (1825)
+| Valid<ref name=IF2/>
+| Type species of the genus.
+|-
+|
+| [[Craterellus excelsus|''C. excelsus'']] T.W. Henkel & Aime (2009)
+| Valid<ref name=IF6/>
+| Described in 2009 from [[Guyana]].
+|-
+| 
+| ''[[Craterellus fallax|C. fallax]]'' A.H. Sm. (1968) <ref name=IF4/>
+| May be synonym of ''[[Craterellus cornucopioides|C. cornucopioides]]''.<ref name=Dahlman/><ref name=Kuo1/>
+| If separated from ''C. cornucopioides'', this is on the basis of its geography and the colour of the underside.<ref name=Kuo1/><ref name=Mycoquebec2/>
+|-
+|
+| ''[[Craterellus ignicolor|C. ignicolor]]'' ([[Ron Petersen|R.H. Petersen]]) Dahlman, Danell & Spatafora (2000)
+| Synonym of ''[[Cantharellus ignicolor]]''<ref name=Kuo1/>
+| Although the paper of Dahlman et al.,<ref name=Dahlman/> and also one reference of Kuo,<ref name=Kuo2/> puts this in ''Craterellus'', it seems currently to be in ''Cantharellus''.  It is very similar to ''C. tubaeformis'' but the cap is yellow to orange.<ref name=Kuo2/> ''C. ignicolor'' is edible.<ref name="Miller 2006">{{cite book|last=Miller Jr.|first=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=336|author-link=Orson K. Miller Jr.}}</ref>
+|-
+|
+| ''Cantharellus infundibuliformis'' (Scop.) Fr. (1838)
+| Synonym of ''[[Craterellus tubaeformis|C. tubaeformis]]''.<ref name=Kuo1/><ref name=IF3/>
+| In the past the species ''infundibuliformis'' has been separated from ''tubaeformis'' on the basis of spore print colour and spore size, but molecular analysis shows that the distinction is not justified.<ref name=Dahlman/>  When this species name was in use it was as ''Cantharellus'', but if reintroduced now it would have to be as ''Craterellus''.
+|-
+|
+| ''C. konradii'' Bourdot & Maire (1930)
+| Synonym of ''C. cornucopioides''.<ref name=IF7/>
+| If separated from ''C. cornucopioides'', it is distinguished by a yellowish (rather than black) coloration.<ref name=Kuo1/>
+|-
+|
+| ''[[Craterellus lutescens|C. lutescens]]'' (Fr.) Fr. (1838) 
+| Valid<ref name=Dahlman/><ref name=Kuo1/><ref name=IF8/>
+| Closely associated with ''C. tubaeformis'', this species has less well-developed lamellae.  
+|-
+|
+| ''[[Craterellus tubaeformis|C. tubaeformis]]'' (Fr.) Quél. (1888)
+| Valid<ref name=IF9/>
+| This common species (sometimes called "yellowfoot") has relatively well-developed gills, a greyish cap, and a hollow yellow stipe.  It was moved from ''Cantharellus'' to ''Craterellus'' due to DNA studies.  Those found in western N. America may be a different species from those in Europe and eastern North America.<ref name=Dahlman/><ref name=Kuo1/>
+|}
+
+==References==
+{{Reflist|refs=
+
+<ref name=Dahlman>{{cite journal| title=Molecular systematics of ''Craterellus'': cladistic analysis of nuclear LSU rDNA sequence data| first1=Mattias| last1=Dahlman| first2=Eric| last2=Danell| first3=Joseph W.| last3=Spatafora| journal=Mycological Research| volume=104| number=4| date=April 2000| pages=388–394| doi=10.1017/S0953756299001380| url=http://www-mykopat.slu.se/Newwebsite/mycorrhiza/kantarellfiler/texter/craterellus.pdf| url-status=dead| archiveurl=https://web.archive.org/web/20070804023903/http://www-mykopat.slu.se/Newwebsite/mycorrhiza/kantarellfiler/texter/craterellus.pdf| archivedate=2007-08-04}}</ref>
+
+<ref name=IF1>See [http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=17236|the page for ''Cantharellus''] {{Webarchive|url=https://web.archive.org/web/20160304205649/http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=17236 |date=2016-03-04 }} in [[Index Fungorum]].</ref>
+
+<ref name=IF2>See [http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=17398|the page for ''Craterellus''] in [[Index Fungorum]].</ref>
+
+<ref name=IF3>See [https://archive.today/20130705020143/http://www.speciesfungorum.org/Names/GSDSpecies.asp?RecordID=455453 |the page for ''Ca. infundibuliformis''] in [[Index Fungorum]].</ref>
+
+<ref name=IF4>See [http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=329223|the page for ''Cr. fallax''] in [[Index Fungorum]].</ref>
+
+<ref name=IF5>See [http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=329221|the page for ''Cr. caeruleofuscus''] in [[Index Fungorum]].</ref>
+
+<ref name=IF6>See [http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=510899|the page for ''Cr. excelsus''] in [[Index Fungorum]].</ref>
+
+<ref name=IF7>See [http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=268681|the page for ''Cr. konradii''] in [[Index Fungorum]].</ref>
+
+<ref name=IF8>See [https://archive.today/20130705014714/http://www.speciesfungorum.org/Names/GSDSpecies.asp?RecordID=184644 |the page for ''Cr. lutescens''] in [[Index Fungorum|Species Fungorum]].</ref>
+
+<ref name=IF9>See [https://archive.today/20130705020143/http://www.speciesfungorum.org/Names/GSDSpecies.asp?RecordID=455453 |the page for ''Cr. tubaeformis''] in [[Index Fungorum|Species Fungorum]].</ref>
+
+<ref name=KR>{{cite book |author=[[Robert Kühner]] & [[Henri Romagnesi]] |title=Flore analytique des champignons supérieurs (agarics, bolets, chanterelles) |publisher=Masson |location=Paris |year=1974 |language=French |page=47|isbn=2-225-53713-5}}  This reference covers ''Craterellus'' as a subgenus of ''Craterellus'', not as a genus.</ref>
+
+<ref name=Kuo1>Kuo, M. (2003, June). ''The Cantharellus/Craterellus clade.''  Retrieved from the MushroomExpert.Com Web site: [http://www.mushroomexpert.com/cantharellus_clade.html]</ref>
+
+<ref name=Kuo2>Kuo, M. (2011, February). ''Chanterelles and trumpets: Cantharellus and Craterellus.''  Retrieved from the MushroomExpert.Com Web site: [http://www.mushroomexpert.com/cantharellaceae.html]</ref>
+
+<ref name=Moncalvo>{{cite journal |vauthors=Moncalvo JM, Nilsson RH, Koster B, Dunham SM, Bernauer T, Matheny PB, Porter TM, Margaritescu S, Weiss M, Garnica S, Danell E, Langer G, Langer E, Larsson E, Larsson KH, Vilgalys R |title=The cantharelloid clade: dealing with incongruent gene trees and phylogenetic reconstruction methods |journal=Mycologia |volume=98 |issue=6 |pages=937–948 |year=2006 |doi=10.3852/mycologia.98.6.937 |pmid=17486970 |url=http://www.clarku.edu/faculty/dhibbett/Reprints%20PDFs/Moncalvoetal.canth.2006.Myc.pdf |accessdate=23 March 2013 |url-status=dead |archiveurl=https://web.archive.org/web/20100613175330/http://www.clarku.edu/faculty/dhibbett/Reprints%20PDFs/Moncalvoetal.canth.2006.Myc.pdf |archivedate=13 June 2010 }}.  The important "false gill" characteristic of these fungi is discussed on page 938 and it is mentioned that lamellae of ''[[Gomphus (fungus)|Gomphus]]'' are similar.</ref>
+
+<ref name=Mycoquebec1>See [http://www.mycoquebec.org/bas.php?l=r&nom=Craterellus%20caeruleofuscus%20/%20Craterelle%20noir%20bleu%C3%A2tre&post=Craterellus&gro=11&tag=Craterellus%20caeruleofuscus the Mycoquébec page for ''Cr. caeruleofuscus''].</ref>
+
+<ref name=Mycoquebec2>See [http://www.mycoquebec.org/bas.php?post=Craterellus&l=r&nom=Craterellus%20fallax%20/%20Fausse%20corne%20d%27abondance&tag=Craterellus%20fallax&gro=11 the Mycoquébec page for ''Cr. fallax''].</ref>
+
+<ref name=TomVolk>See [http://botit.botany.wisc.edu/toms_fungi/jan2008.html Tom Volk's Fungus of the Month for January 2008] for a description of the difference between "real" and "false" gills.</ref>
+
+<ref name="urlFungorum synonymy: Craterellus">{{cite web |title=Synonymy: ''Craterellus'' Pers. |url=http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=17398 |publisher=Species Fungorum. CAB International |accessdate=2016-02-10}}</ref>
+
+}}
+
+==External links==
+{{Commons category}}
+
+{{Taxonbar|from=Q2097845}}
+
+[[Category:Cantharellales]]
+[[Category:Edible fungi]]
+[[Category:Agaricomycetes genera]]
+[[Category:Taxa named by Christiaan Hendrik Persoon]]

@@ -1,0 +1,31 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Hydnellum concrescens.jpg
+| genus = Hydnellum
+| species = concrescens
+| authority = ([[Pers.]]) [[Howard James Banker|Banker]] (1906)
+| synonyms = ''Hydnum concrescens'' <small>Pers. (1796)</small>
+}}
+
+'''''Hydnellum concrescens''''' is an inedible [[fungus]], commonly known as the '''zoned hydnellum''' or '''zoned tooth fungus'''. As with other [[tooth fungi]], the spores are produced on spines on the underside of the [[Pileus (mycology)|cap]], rather than [[Lamella (mycology)|gills]]. It has a funnel-shaped [[Pileus (mycology)|cap]], typically between {{convert|2|and|7|cm|in|abbr=on}} in diameter, which has characteristic [[concentric]] zones of color. The cap may also have radial ridges extending from the center to the margins. The spines are pink in young specimens, but turn brown with age.
+
+This species is very similar in appearance to ''[[Hydnellum scrobiculatum]]'', and traditionally, largely unreliable microscopic characteristics such as [[spore]] size and ornamentation have been used to distinguish between the two. Recent research has demonstrated a way to discriminate the two species using [[DNA sequencing]] of the [[Internal transcribed spacer|ITS regions]].<ref>{{cite journal |vauthors=Parfitt D, Martyn Ainsworth A, Simpson D, Rogers HJ, Boddy L |title=Molecular and morphological discrimination of stipitate hydnoids in the genera ''Hydnellum'' and ''Phellodon'' |journal=Mycological Research |volume=111 |issue=Pt 7 |pages=761–77 |year=2007 |pmid=17681224 |doi=10.1016/j.mycres.2007.05.003 }}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.speciesfungorum.org/Names/GSDspecies.asp?RecordID=414441 Index Fungorum] synonyms
+*[https://web.archive.org/web/20080517110631/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6116~gid~.asp Roger's Mushrooms] picture and description
+*[http://healing-mushrooms.net/archives/hydnellum-concrescens.html healing-mushrooms.net] description, bioactive compounds and medicinal properties
+
+{{Taxonbar|from=Q5954063}}
+
+[[Category:Inedible fungi]]
+[[Category:Hydnellum|concrescens]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi described in 1796]]
+[[Category:Fungus species]]
+
+
+{{Agaricomycetes-stub}}

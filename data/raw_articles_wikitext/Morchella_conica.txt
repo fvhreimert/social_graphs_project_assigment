@@ -1,0 +1,41 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Morchella conica 1 beentree.jpg
+| taxon = Morchella conica
+| authority = [[Christian Hendrik Persoon|Pers.]]
+| synonyms = ''Morchella esculenta'' var. ''conica'' <small>(Pers.) [[Elias Magnus Fries|Fr.]]</small>
+}}
+{{mycomorphbox 
+| name = ''Morchella conica''
+| whichGills = NA
+| capShape =  conical
+| hymeniumType=smooth
+| stipeCharacter=bare
+| sporePrintColor=cream
+| howEdible=choice
+| howEdible2=poisonous
+}}
+
+'''''Morchella conica''''' is an old [[binomial nomenclature|binomial name]] previously applied to species of [[fungi]] in the [[family (biology)|family]] [[Morchellaceae]]. It is one of three scientific names that had been commonly used to describe '''black morels''', the others being ''[[Morchella angusticeps|M.&nbsp;angusticeps]]'' and ''[[Morchella elata|M.&nbsp;elata]]''. It was first introduced by mycologist [[Christian Hendrik Persoon]] in 1818,<ref name=persoon/> as a superfluous name for the old taxon '''''Morchella continua'''''. According to Richard and colleagues, Fries’ sanctioning applies only at the subgeneric level and the name is [[Nomen illegitimum|illegitimate]].<ref name=Richard2014/>
+
+Throughout the years, the name ''M. conica'' has been invariably applied to many different species by different authors, and [[Molecular phylogenetics|DNA analysis]] in 2014 revealed that morels identified as "''M. conica''" indeed belonged to ''[[Morchella deliciosa]]'', ''[[Morchella purpurascens]]'', ''[[Morchella tridentina]]'', and ''[[Morchella vulgaris]]''.<ref name=Richard2014/>
+
+==References==
+{{Reflist|refs=
+
+<ref name=persoon>{{cite book |title=Traité sur les Champignons Comestibles |url=https://archive.org/details/traitsurlescham00persgoog |last=Persoon |first=CH |year=1818 |page=257 |publisher=Chez Belin-Leprieur Libraire |language=French}}</ref>
+
+<ref name=Richard2014>{{cite journal| title=True morels (''Morchella'', Pezizales) of Europe and North America: evolutionary relationships inferred from multilocus data and a unified taxonomy| first1= Franck| last1=Richard| first2=Jean-Michel| last2=Bellanger| first3=Philippe | last3=Clowez| first4=Regis| last4=Courtecuisse| first5=Karen| last5=Hansen| first6=Kerry| last6=O'Donnell| first7=Mathieu| last7=Sauve| first8=Alexander| last8=Urban| first9=Pierre-Arthur| last9=Moreau| journal=Mycologia| date=30 December 2014| id=14-166| url=http://www.mycologia.org/content/early/2014/12/24/14-166.abstract| type=Preliminary version published online| doi=10.3852/14-166| pmid=25550303| volume=107| issue= 2| pages=359–382| doi-access=free}}</ref>
+
+}}
+
+{{Taxonbar|from=Q1327882}}
+
+[[Category:Morchellaceae]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Edible fungi]]
+[[Category:Fungus species]]
+
+
+{{Pezizomycetes-stub}}

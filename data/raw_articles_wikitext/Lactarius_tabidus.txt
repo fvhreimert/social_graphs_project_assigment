@@ -1,0 +1,49 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Lactarius hepaticus 031123w.jpg
+| genus = Lactarius
+| species = tabidus
+| authority = [[Elias Magnus Fries|Fr.]] (1838)<ref name="P2006"/>
+}}
+{{mycomorphbox
+| name = ''Lactarius tabidus''
+| whichGills = decurrent
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=mycorrhizal
+| sporePrintColor=cream
+| howEdible=inedible
+}}
+
+'''''Lactarius tabidus''''' (also '''''Lactarius theiogalus''''', and formerly '''''Lactarius chrysorheus''''' and '''''Lactarius hepaticus'''''), commonly known as the '''birch milkcap''', is an inedible mushroom of the genus ''[[Lactarius (fungus)|Lactarius]]''. It can be found in North America and Europe, and grows at the base of [[pine tree|pine]] in Autumn. Its white milk stains fabric a sulphur yellow, from which its [[specific name (botany)|specific epithet]] derives.
+
+==Taxonomy==
+The original description of ''L.&nbsp;tabidus'' has been various ascribed to [[Elias Magnus Fries]],<ref name="Rea"/> and to [[Pierre Bulliard]],<ref name="Roody"/> while the synonymous [[specific name (botany)|specific name]] ''L.&nbsp;theiogalus'' is variously credited to Fries<ref name="Rea"/> and [[Samuel Frederick Gray]].<ref name="Roody">{{cite book |title= Mushrooms of West Virginia and the Central Appalachians|last= Roody|first= William C.|year= 2003|publisher= [[University Press of Kentucky]]|isbn= 978-0-8131-9039-6|page= 106|url= https://books.google.com/books?id=5HGMPEiy4ykC&q=%22Lactarius+theiogalus%22&pg=PA106}}</ref> The name ''theiogalus'' is from the [[Ancient Greek]] for "[[sulphur|brimstone]]" (sulphur) and "[[latex|milk]]".<ref name="Rea">{{cite book |title= British Basidiomycetae: A Handbook to the Larger British Fungi|year= 1922|last= Rea|first= Carleton|publisher= [[Cambridge University Press]]|page= [https://archive.org/details/britishbasidiomy00reac/page/489 489]|url= https://archive.org/details/britishbasidiomy00reac|quote= Lactarius hepaticus.}}</ref><ref name="Roody"/> The mushroom has also been named ''L.&nbsp;chrysorrheus'' by [[Lucien Quélet]], based on Fries's description,<ref name="Rea"/> and ''Lactarius hepaticus'', with the authority cited to [[Charles Bagge Plowright]] of the [[British Mycological Society]] and [[Jean Louis Émile Boudier]].<ref name="Rea"/> Due to reclassification, ''Lactarius theiogalus'' is now considered to be a synonym of ''Lactarius tabidus'', and the binomials ''[[Lactarius hepaticus]]'' and ''[[Lactarius chrysorrheus]]'' have been assigned to different ''Lactarius'' species.<ref name="P2006">{{cite book |author1=Reid, Derek |author2=Phillips, Roger |title=Mushrooms |publisher=Macmillan |location=New York |year=2006 |isbn=0-330-44237-6 }}</ref>
+
+==Description==
+''Lactarius tabidus'' has a convex [[Pileus (mycology)|cap]] of between 2.5 and 7 centimetres across, sometimes with a central umbo, that flattens with age. In colour, it varies between liver and a dull chestnut, and the surface is dry and matt. The margin is often has tiny lobes, and can be crimped or crisped. The stem typically measures between 3 and 7 centimetres in height, and is between 4 and 8 millimetres in width. In colour, the [[stipe (mycology)|stem]] varies between a reddish-brown and brick coloured. The thin layer of flesh in the cap is a white-tinged pinkish buff colour, and the stem and cap become hollow with age. The pale buff [[Lamella (mycology)|gills]] are slightly decurrent, and with age become a deep buff to pale ochre colour, sometimes with a slight mauve colouration. The [[latex|milk]] is white, drying yellow. The milk stains fabric a [[sulphur]] yellow colour in minutes.<ref name="Phillips">{{cite book |title= Mushrooms and Other Fungi of Great Britain and Europe|last= Phillips|first= Roger|year= 1981|publisher= [[Pan Books]]|location= London|isbn= 0-330-26441-9|page=88}}</ref>
+
+The spore print is cream, while the spores themselves are broadly elliptic with large warts. Most warts are joined by thin to thickish ridges, forming a very incomplete network. Other warts are isolated. The spores measure between 8 and 9 by between 6 and 7 micrometres in volume.<ref name="Phillips"/>
+
+==Edibility==
+The fruit bodies of ''L.&nbsp;tabidus'' are considered inedible. The milk has bitter and acrid taste, with a slightly hot aftertaste.<ref name="Phillips"/> The fact that the white milk dries yellow is an indicator that it may be [[poisonous mushroom|poisonous]].<ref name="Roody"/>
+
+==Distribution==
+''Lactarius tabidus'' can be found under [[pine tree|pine]] or birch in autumn. It is common in southern [[Great Britain|Britain]], becoming rarer northwards.<ref name="Phillips"/> It can also be found in North America.<ref name="Roody"/> It grows best in leaf litter or ''[[Sphagnum]]'' moss.<ref name="Roody"/>
+
+==See also==
+*[[List of Lactarius species|List of ''Lactarius'' species]]
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q1427410}}
+
+[[Category:Lactarius|tabidus]]
+[[Category:Inedible fungi]]
+[[Category:Fungi described in 1838]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]

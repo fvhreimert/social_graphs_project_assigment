@@ -1,0 +1,44 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Psilocybe_meridionalis_holotype_spores.jpg
+| genus = Psilocybe
+| species = meridionalis
+| authority = Guzmán, Ram.-Guill. & Guzm.-Dáv.
+}}
+{{mycomorphbox
+| name = ''Psilocybe meridionalis''
+| whichGills = adnate
+| whichGills2 = adnexed
+| capShape = conical
+| capShape2=convex
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=saprotrophic
+| sporePrintColor=purple-brown
+| howEdible=psychoactive
+}}
+
+'''''Psilocybe meridionalis''''' is a [[psychedelic mushroom]] which has [[psilocybin]] and [[psilocin]] as main active compounds.   This mushroom is closely related to ''[[Psilocybe stuntzii]]'' but can be distinguished by its smaller spores and the presence of [[pleurocystidia]].  This is the only species of ''Psilocybe'' from [[section Stuntzii]] which has been found in Mexico.    It is known only from the type location in Neverias, Sierra de Cacoma, [[Jalisco, Mexico]].
+
+==Distribution and habitat==
+Found in Oak and Pine subtropical forests in the western mountains of Jalisco, Mexico.  The holotype was collected at 2,200 meters elevation.
+
+<gallery perrow="3">
+Image:Psilocybe_meridionalis_type_location.jpg|''Psilocybe meridionalis'' type location
+</gallery>
+
+==References==
+*Guzmán, Gastón, Laura Guzmán-Dávalos, Florencia Ramírez-Guillén & María del Refugio Sánchez-Jácome 2008: A new bluing species of Psilocybe – the first record of section Stuntzii for Mexico. - Mycotaxon 103: 27–31. 2008.
+
+{{Hallucinogenic mushrooms}}
+{{Taxonbar|from=Q9064071}}
+
+[[Category:Entheogens]]
+[[Category:Psychoactive fungi]]
+[[Category:Psilocybe|meridionalis]]
+[[Category:Psychedelic tryptamine carriers]]
+[[Category:Taxa named by Gastón Guzmán]]
+[[Category:Fungus species]]
+
+
+{{Hymenogastraceae-stub}}

@@ -1,0 +1,74 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Psilocybe_ovoideocystidiata_Washington.jpg
+| genus = Psilocybe
+| species = ovoideocystidiata
+| authority = [[Gaston Guzman|Guzmán]] & [[Richard V. Gaines|Gaines]]
+| range_map = Distribution of Psilocybe ovoideocystidiata.svg
+| range_map_caption = Range of ''Psilocybe ovoideocystidiata'' in the contiguous U.S.{{small|{{Update|section|date=February 2025}}}}
+}}
+{{mycomorphbox 
+| name = ''Psilocybe ovoideocystidiata''
+| whichGills = adnate 
+| capShape = convex
+| capShape2=umbonate 
+| hymeniumType=gills
+| stipeCharacter=ring
+| ecologicalType=saprotrophic
+| sporePrintColor=blackish-brown
+| sporePrintColor2=purple
+| howEdible=psychoactive}}
+
+
+'''''Psilocybe ovoideocystidiata''''', commonly known as '''ovoid''', '''psychedelic ovoid mushroom''', or '''river teacher''' is a [[psilocybin mushroom]] native to [[North America]].<ref name="iNat"/> It is closely related to ''[[Psilocybe subaeruginascens|P. subaeruginascens]]'' from [[Java]], ''[[Psilocybe septentrionalis|P. septentrionalis]]'' from [[Japan]], and ''[[Psilocybe wayanadensis|P. wayanadensis]]'' from [[India]].  This mushroom was first documented by [[Richard V. Gaines]] in [[Montgomery County, Pennsylvania]] in June 2003.<ref name="Guzman2007"/>
+
+==Etymology==
+The [[Specific name (zoology)#Differences_from_botany|specific epithet]] refers to the abundant ovoid [[pleurocystidia]] and [[cheilocystidia]] of this species.<ref name="Guzman2007"/>
+
+== Description ==
+*'''Cap''': (1) 1.5 — 5 (8) cm across, [[wikt:convex|convex]] to [[wikt:subumbonate|subumbonate]], chestnut or orangish brown to yellowish brown to pearly cream color, [[hygrophanous]], [[glabrousness (botany)|glabrous]], [[wikt:sub-viscid|sub-viscid]], translucent-striate near the margin, from slightly to highly undulated in maturity. During youth, the cap is usually highly convex and dark brown/black (the stem is white). During maturity, the entire mushroom becomes light-brown (cinnamon-brown when moist and light-beige when dry). Mature specimens often naturally exhibit blue-greenish bruising, and old, dried-out specimens are usually all black. Appearance may vary significantly  among individuals, depending on maturity and location. Flesh thick, pliant. Bruises blue and green where injured. 
+*'''Gills''': [[wikt:adnate|adnate]] attachment and range from whitish to rusty brown, lavender, or dark purple brown. 
+*'''Spore print''': Dark purple brown.
+*'''Stipe''': (1.5) 3 – 9 (13) cm long by (2) 3 – 15 (20) mm wide, equal, somewhat [[wikt:subbulbous|subbulbous]], hollow, base sometimes [[wikt:hypogeous|hypogeous]], smooth at the top and often having small hairs near the bottom, colored whitish with irregular yellowish, brownish, or bluish tones. The partial veil is variable, ranging from a thin [[Partial veil|cortina]] that leaves a barely perceptible annular zone, to a substantial membrane that leaves a fairly persistent [[Annulus (mycology)|annulus]]. If a veil remnant is present, it is often found near the middle of the stem (unlike many other Psilocybe species, where it is just under the cap).
+*'''Taste''': [[wikt:farinaceous|farinaceous]]
+*'''Odor''': [[wikt:farinaceous|farinaceous]] to spicy
+*'''Microscopic features''': Spores (7–) 8–9 (–12) × ( 5.5 – ) 6 – 7 (–8.5) [[micrometers|μm]], rhomboid to subrhomboid in face view, subellipsoid in side view, thick-walled, with the wall 0.8 to 1.5 [[micrometers|μm]] thick.  One end of the spore has a broad germ pore and the other side has a short hilar appendage.  Two types of [[cheilocystidia]] and [[pleurocystidia]] are present.  One type of pleurocystidia measures 16 - 24 x 6 - 8 and is venstricose-rostrate.  The other type is larger, 20 - 40 micrometers by 12 - 16 micrometers, globose-pyriform, sometimes with a narrow apex and narrow base.  The [[basidia]] are 4 spored and measure 20 – 28 × 7 – 9 [[micrometers|μm]].<ref name="Guzman2007"/>
+
+==Similar species==
+Although ''P. ovoideocystidiata'' is sometimes confused with ''[[Psilocybe caerulipes]]'', it can be distinguished by its [[rhomboid]] spores, larger stature, earlier fruiting season, and membranous [[Annulus (mycology)|annulus]]. The recently described ''[[Psilocybe caeruleorhiza]]'' differs  from ''P. ovoideocystidiata'' in lacking an annulus and fruiting in the late Fall and early Winter, rather than in the Spring and early Summer.<ref name="Canan"/> Both of these ''Psilocybe'' species are known only from eastern North America. Other similar ''Psilocybe'' species could be confused with ''P. ovoideocystidiata'' in its western North American range.{{clarify|date=February 2025}} It can also be mistaken for species belonging to other brown-spored [[agaric]] genera such as ''[[Agrocybe]]'', but these will lack the blue bruising reaction characteristic of psilocybin mushrooms.
+
+==Habitat and distribution==
+
+''Psilocybe ovoideocystidiata''  is mainly native to the [[Eastern United States]], where its range  stretches from [[Missouri]] east to [[Rhode Island]] and from [[Georgia (U.S. state)|Georgia]] north to [[Michigan]]. It is particularly common in the [[Ohio River]] valley. It also occurs in [[Western North America]] from [[Southern California]] north to [[British Columbia, Canada]].<ref name="iNat"/> As a relatively recently identified species, ''P. ovoideocystidiata'' is frequently reported to appear in new areas, leading some{{who|date=February 2025}} to speculate that its range is currently undergoing expansion.{{cn|date=February 2025}}
+
+This species grows on woody debris and can be found along rivers and streams, usually in  overflow areas, and in man-made [[mulch]] and [[wood chips]] in urban and suburban environments.<ref name="NatGeo2024">{{cite web |url=https://www.nationalgeographic.com/science/article/a-psychedelic-surprise-may-be-thriving-in-your-local-garden |title=A Psychedelic Surprise May Be Thriving in Your Local Garden |publisher=National Geographic |accessdate=9 May 2024}}</ref>  It is sometimes found alongside [[Japanese knotweed]] and also tends to prefer shady areas and avoid direct sunlight.{{cn|date=February 2025}} It is typically gregarious, growing in groups of several hundred individuals in one particular area, as well as in multiple small clusters of several mushrooms each, within close proximity of one another. Solitary specimens also occur on occasion.
+
+Seasonality varies a great deal depending on what region they are found in, but in the northeastern US, they are most common in the spring, from mid-April to late-June (peaking late-May), especially after periods of steady heavy rain for several consecutive days (a common weather pattern in the eastern US during spring). However, they may occasionally fruit, as late as November.  These mushrooms seem to be very sensitive to the season and fruit chiefly in the spring; very little fruiting occurs during other times of the year, even during favorable weather conditions.<ref name="iNat"/>
+
+==See also==
+*[[List of Psilocybin mushrooms]]
+
+==References==
+{{Reflist |refs=
+
+<ref name="Canan">{{cite journal |last1=Canan |first1=K. |last2=Ostuni |first2=S. |last3=Rockefeller |first3=A. |last4=Birkebak |first4=J. |year=2024 |title=''Psilocybe caeruleorhiza'': a new, cold weather fruiting species of psilocybin containing mushroom from the Midwest in section Aztecorum |journal=McIlvainea |pages=1–16 |url=https://namyco.org/wp-content/uploads/2024/06/Psilocybe-caeruleorhiza.pdf }}</ref>
+
+<ref name="Guzman2007">{{cite journal |first1=Gastón |last1=Guzmán |authorlink1=Gastón  Guzmán |first2=Richard V. |last2=Gaines |first3=Florencia |last3=Ramírez-Guillén |title=New Species of Hallucinogenic ''Psilocybe'' (Fr.) P. Kumm. (Agaricomycetideae) from the Eastern U.S.A. |journal=International Journal of Medicinal Mushrooms |year=2007 |volume=9 |pages=75–77 |doi=10.1615/IntJMedMushr.v9.i1.90 }}</ref>
+
+<ref name="iNat">{{cite web | url=https://www.inaturalist.org/taxa/348835-Psilocybe-ovoideocystidiata | title=Psychedelic Ovoid Mushroom (''Psilocybe ovoideocystidiata'') }}</ref>
+
+}}
+
+==External links==
+* [https://mushroomobserver.org/name/show_name/5649 ''Psilocybe ovoideocystidiata'' distribution map on Mushroom Observer]
+
+{{Hallucinogenic mushrooms}}
+{{Taxonbar|from=Q7255911}}
+
+[[Category:Psychedelic tryptamine carriers]]
+[[Category:Psychoactive fungi]]
+[[Category:Psilocybe|ovoideocystidiata]]
+[[Category:Fungi of North America]]
+[[Category:Entheogens]]
+[[Category:Taxa named by Gastón Guzmán]]
+[[Category:Fungus species]]

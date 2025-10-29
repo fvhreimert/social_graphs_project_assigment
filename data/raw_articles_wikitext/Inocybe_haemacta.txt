@@ -1,0 +1,43 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Inocybe haemacta.jpg
+| image_caption = 
+| genus = Inocybe
+| species = haemacta
+| authority = ([[Miles Joseph Berkeley|Berk.]] & [[Mordecai Cubitt Cooke|Cooke]]) [[Pier Andrea Saccardo|Sacc.]] (1887)
+| synonyms_ref = <ref name="urlMycoBank: Inocybe haemacta"/>
+| synonyms = *''Agaricus haemactus'' <small>Berk. & Cooke (1882)</small>
+*''Inocybe corydalina'' f. ''haemacta'' <small>(Berk. & Cooke) [[Roger Heim|R.Heim]] (1931)</small>
+*''Inocybe corydalina'' var. ''roseolus'' <small>[[Pat.]] (1886)</small>
+*''Inocybe haemacta'' var. ''rubra'' <small>[[Carleton Rea|Rea]] (1922)</small>
+}}
+
+'''''Inocybe haemacta''''' is a species of [[fungus]] in the genus ''[[Inocybe]]''. It is found in Europe.<ref name=Stijve1985/>
+
+==Biochemistry==
+''Inocybe haemacta'' contains the compounds [[psilocybin]] and [[psilocin]].<ref name="Johnson 1998"/>
+
+==See also==
+*[[List of Inocybe species|List of ''Inocybe'' species]]
+*[[List of Psilocybin mushrooms]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Johnson 1998">{{cite book |author=Johnson T. |title=CRC Ethnobotany Desk Reference |url=https://books.google.com/books?id=vxAaBv8fW00C&pg=PA428 |year=1998 |publisher=CRC Press |isbn=978-0-8493-1187-1 |page=428}}</ref>
+
+<ref name=Stijve1985>{{cite journal |title=Occurrence of psilocybin in various higher fungi from several European countries |journal=Planta Medica |year=1985 |author=Stijve T, Kuyper TW. |issue=5 |pages=385–87 | pmid=17342589 | doi = 10.1055/s-2007-969526  | volume = 51}}</ref>
+
+<ref name="urlMycoBank: Inocybe haemacta">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=184110 |title=''Inocybe haemacta'' (Berk. & Cooke) Sacc. 1887 |publisher=International Mycological Association |work=MycoBank |accessdate=2011-01-15}}</ref>
+
+}}
+
+{{Hallucinogenic mushrooms}}
+{{Taxonbar|from=Q3018608}}
+
+[[Category:Psychedelic tryptamine carriers]]
+[[Category:Inocybe|haemacta]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi described in 1882]]
+[[Category:Taxa named by Miles Joseph Berkeley]]
+[[Category:Fungus species]]

@@ -1,0 +1,54 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = 
+| status = G1
+| status_system = TNC
+| status_ref = <ref name=NS>{{cite NatureServe |id=2.885440 |title=''Psathyrella aquatica'' |access-date=18 May 2025}}</ref>
+| taxon = Psathyrella aquatica
+| authority = J.L.Frank, Coffan, & Southworth (2010)
+}}
+{{mycomorphbox 
+| name = ''Psathyrella aquatica''
+| whichGills = free 
+| capShape = convex 
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=unknown}}
+
+'''''Psathyrella aquatica''''', commonly known as the '''aquatic gilled mushroom''', is a species of [[fungus]] from [[Oregon]], first described in the journal ''[[Mycologia]]'' in 2010.<ref name=":0">{{Cite journal | last1 = Frank | first1 = J. L. | last2 = Coffan | first2 = R. A. | last3 = Southworth | first3 = D. | doi = 10.3852/07-190 | title = Aquatic gilled mushrooms: ''Psathyrella'' fruiting in the Rogue River in southern Oregon | journal = [[Mycologia]]| volume = 102 | issue = 1 | pages = 93–107 | date=July 2009 | pmid =  20120233| s2cid = 7175296 }}</ref> It represents the first ever report of a gilled [[basidiomycete]] fruiting underwater.
+
+== Taxonomy ==
+
+=== Discovery ===
+It was found by [[Southern Oregon University]] professor Robert Coffan in the [[Rogue River (Oregon)|Rogue River]] in the U.S. state of [[Oregon]].<ref name=":0" /> Coffan and his colleagues, Darlene Southworth and Jonathan Frank, found the mushroom in 2005. The [[biology]] department at Southern Oregon University confirmed that the mushroom was a unique discovery.<ref name=":0" /> Once their research was published, it was named one of the most significant species discovered in 2010.<ref name=":1">{{cite web |date=April 15, 2021 |title=The Only Aquatic Gilled Mushroom in the World and the Amazing Story of Its Discovery |url=https://earthlymission.com/psytherella-aquatica-underwater-gilled-mushroom-discovery-mycology/ |access-date=March 18, 2022 |work=Robert A. Coffan/OggiScienza}}</ref> The [[botanical name|species epithet]] , ''aquatica'', is a [[Latin]] word meaning water or watery (relating to water, aquatic), in reference to the mushroom's habitat.<ref>''Latin Definition for: Aquaticus, aquatica, aquaticum (ID: 4328)—Latin Dictionary and Grammar Resources—Latdict''. (n.d.). Retrieved April 27, 2022, from https://www.latin-dictionary.net/definition/4328/aquaticus-aquatica-aquaticum</ref>
+
+They have so far been discovered in a 1 kilometer stretch of the river, and have an observed fruiting season of mid-June to late September<ref name=":2">''Underwater_Mushroom – Mycological Society of America''. (n.d.). Retrieved February 25, 2022, from https://msafungi.org/underwater_mushroom/</ref> Many scientists were skeptical about describing this mushroom as a new species because of the hundreds of similar looking species in the [[family (biology)|family]] [[Psathyrellaceae]].<ref name=":1" /><ref>''Mushrooms underwater''. (n.d.). Retrieved February 25, 2022, from https://fishbio.com/field-notes/wildlife-ecology/mushrooms-underwater</ref>
+
+Less than 1% of aquatic fungi are assumed to be discovered yet, and many are assumed to be microscopic, with only a small fraction thought to produce fruiting bodies.<ref>Elkhateeb, W., Thomas, P., Zohri, A.-N., Daba, G., & Wen, T.-C. (2021). Highlights on aquatic fungi and mushrooms ecology and biotechnology, with description of the rarely isolated aquatic mushroom Psathyrella aquatic as a novel taxon. ''Research Journal of Pharmacognosy and Phytochemistry.'', 10.</ref>
+
+== Description ==
+The [[Sporocarp (fungi)|fruiting body]] consists of a small convex cap and a long stipe.<ref name=":0" /> Its cap is brown, convex, and has gills underneath.<ref name=":0" /> The young mushroom develops a veil, which is lost as the mushroom grows to maturity.<ref name=":0" /> The mushroom's stipe appears to be quite strong, and is anchored up to 1.6 feet (0.5 m) deep in sediment, in order to stand up to the fast-moving river currents where it is primarily found.<ref name=":0" /> The stipe is covered in thin hair like structures.<ref name=":0" />  [[Spore|Spores]] released by the gills stay in gas bubbles underneath the gills before floating to the top of the water to spread.<ref name=":0" /> Underwater gills and [[Ballistospore|ballistospores]] suggest that its underwater adaption is a relatively recent one.<ref name=":0" />
+
+When synthetically grown, ''P. aquatica'' are known to only fruit (produce stipe and cap) underwater. A study done in 2014 by one of the original authors of the discovery paper showed that this species only produces [[Sporocarp (fungi)|sporocarps]] when completely submerged under cold water.<ref>Frank, J. L. (2014). Psathyrella aquatica Fruiting in vitro. ''Northwest Science'', ''88''(1), 44–48. {{doi|10.3955/046.088.0108}}</ref>
+
+== Habitat ==
+The mushrooms are found growing out of water-logged wood, silt, and gravel, a fine volcanic substrate, and were observed growing from youth to maturity completely underwater over 11 weeks.<ref name=":0" /> The mushroom grows submerged under the fast, cold, running water of the river.<ref name=":0" /> The water is spring-fed, aerated, and contains lots of woody debris and is shallow in depth.<ref name=":0" /> They are found growing about half a meter underneath the water.<ref name=":2" /> The mushroom is also found growing on land on either grassy banks or on gravel or water-logged wood next to the river.<ref name=":2" />
+
+== Ecology ==
+Though not enough is known about the species to consider it edible, scientist assume that it is a food source for small insects in the river.<ref name=":1" /> Though the river has low levels of [[nitrogen]], nitrogen-fixing [[cyanobacteria]] near mushroom discovery sites suggests they might provide a source of nitrogen.<ref>''Southern Oregon University: College of Arts and Sciences''. (2008, August 19). https://web.archive.org/web/20080819151450/http://www.sou.edu/cas/connections/connections0006.html</ref>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q1954000}}
+
+[[Category:Aquatic fungi]]
+[[Category:Psathyrellaceae]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 2010]]
+[[Category:Fungus species]]
+
+
+{{Psathyrellaceae-stub}}

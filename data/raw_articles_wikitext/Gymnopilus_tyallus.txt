@@ -1,0 +1,39 @@
+{{Short description|Species of fungus}}
+{{more citations needed|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption = 
+| taxon = Gymnopilus tyallus
+| authority = Grgur.
+| synonyms = 
+}}
+{{mycomorphbox
+| name = Gymnopilus tyallus
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=}}
+'''''Gymnopilus tyallus''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]]. It can be found in [[Tasmania]].<ref>{{cite web |title=Gymnopilus tyallus |url=https://www.gbif.org/species/3343081 |website=www.gbif.org |language=en}}</ref>
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*''[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=443284 Gymnopilus tyallus]'' at [[Index Fungorum]]
+
+{{Taxonbar|from=Q5625032}}
+
+[[Category:Gymnopilus|tyallus]]
+[[Category:Taxa named by Cheryl A. Grgurinovic]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

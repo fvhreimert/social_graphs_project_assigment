@@ -1,0 +1,72 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Hypholoma_fasciculare_Queteraro.jpg
+| image_caption = 
+| genus = Hypholoma
+| species = fasciculare
+| authority = ([[William Hudson (botanist)|Huds.]]:[[Elias Magnus Fries|Fr.]]) [[Paul Kummer|P.Kumm.]] (1871)
+| synonyms = *''Agaricus fascicularis'' <small>Huds. (1778)</small>
+*''Naematoloma fasciculare'' <small>(Huds.) [[P.Karst.]] (1880)</small>
+}}
+{{Mycomorphbox 
+| name = Hypholoma fasciculare
+| whichGills = adnate 
+| capShape = convex 
+| hymeniumType=gills
+| stipeCharacter=ring
+| ecologicalType=saprotrophic
+| sporePrintColor=purple-brown
+| howEdible=poisonous
+}}
+
+'''''Hypholoma fasciculare''''', commonly known as the '''sulphur tuft''' or '''clustered woodlover''',  is a common woodland [[mushroom]], often in evidence when hardly any other mushrooms are to be found. This [[Saprotrophic nutrition|saprotrophic]] small [[Lamella (mycology)|gill]] fungus grows prolifically in large clumps on stumps, dead roots or rotting trunks of broadleaved trees.
+
+The "sulphur tuft" is bitter and [[Mushroom poisoning|poisonous]]; consuming it can cause [[vomiting]], [[diarrhea]] and [[convulsions]].
+
+==Taxonomy==
+The [[specific name (botany)|specific epithet]] is derived from the [[Latin]] ''fascicularis''  'in bundles' or 'clustered',<ref>{{cite book  | last = Simpson  | first = D.P.  | title = Cassell's Latin Dictionary  | publisher = Cassell Ltd.  | year = 1979   | edition = 5 | location = London  | isbn = 0-304-52257-0  | page = 883}}</ref>  referring to its habit of growing in clumps. Its name in [[Japanese language|Japanese]] is '''Nigakuritake''' (苦栗茸, means "Bitter [[Hypholoma sublateritium|kuritake]]").
+
+==Description==
+The hemispherical [[pileus (mycology)|cap]] ranges from {{Cvt|2-8|cm|frac=8}} in diameter.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=669}}</ref> It is smooth and sulphur yellow<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=215–216|oclc=797915861}}</ref> with an orange-brown centre and whitish margin. The crowded [[lamella (mycology)|gills]] are initially yellow but darken to a distinctive green colour as the blackish [[Basidiospore|spores]] develop on the yellow flesh. It has a purple-brown [[spore print]].<ref name ="Olerper77">{{cite book |author1=Nilsson, Sven  |author2=Persson, Olle | year = 1977 | title = Fungi of Northern Europe 2: Gill-Fungi | publisher = Penguin, New York | isbn = 0-14-063006-6}}</ref> The stipe is {{Cvt|3-12|cm|frac=8}} tall and 3–10&nbsp;mm wide,<ref name=":0" /><ref name="audu" /> light yellow, orange-brown below, often with an indistinct ring zone coloured dark by the spores. The taste is very bitter.<ref name=":1">{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=206–207}}</ref>
+
+=== Similar species ===
+The edible ''[[Hypholoma capnoides]]'' is similar, but lacks the greenish-yellow gills and bitter taste.<ref name=":0" /> [[Hypholoma lateritium|''H.&nbsp;sublateritium'']] is similar as well, with a reddish cap.<ref name=":1" /> Members of ''[[Pyrrhulomyces]]'' may also appear similar.<ref name="audu" />
+
+=== Microscopic characteristics ===
+The spores are purple-black in colour. The spores are 6–8 × 4–4.5&nbsp;[[μm]] in size and are shaped like an egg.
+
+==Distribution and habitat==
+''Hypholoma fasciculare'' grows prolifically on the dead wood of both deciduous and coniferous trees. It is more commonly found on decaying deciduous wood due to the lower [[lignin]] content of this wood relative to coniferous wood.  ''Hypholoma fasciculare'' is widespread and abundant in northern Europe and North America. It has been recorded from Iran,<ref name=Asef2010>{{cite book |title=قارچهای سمی ایران (Qarch-ha-ye Sammi-ye Iran) |trans-title=Poisonous mushrooms of Iran |year=2010 |author=Asef Shayan, M.R. |publisher=Iran shenasi |page=214 |isbn=978-964-2725-29-8 |language=Persian}}</ref> and also eastern [[Anatolia]] in Turkey.<ref name=Dem04>{{cite journal|vauthors=Demirel K, Uzun Y, Kaya A |year=2004 |title=Some Poisonous Fungi of East Anatolia |journal=Turk J Bot |volume=28 |pages=215–19 |url=http://journals.tubitak.gov.tr/botany/issues/bot-04-28-1-2/bot-28-1-2-23-0207-2.pdf |access-date=2008-02-08 |url-status=dead |archive-url=https://web.archive.org/web/20050505044124/http://journals.tubitak.gov.tr/botany/issues/bot-04-28-1-2/bot-28-1-2-23-0207-2.pdf |archive-date=2005-05-05 }}</ref> It can appear anytime from spring to autumn.<ref name ="Olerper77"/>
+
+==Use in forestry==
+Hypholoma fasciculare has been used successfully as an experimental treatment to competitively displace a common fungal disease of conifers, [[Armillaria root rot]], from managed coniferous forests.<ref>{{cite journal |last1=Chapman |first1=Bill |last2=Xiao |first2=Guoping |last3=Myers |first3=Sheldan |title=Early results from field trials using ''Hypholoma fasciculare'' to reduce ''Armillaria ostoyae'' root disease |journal=Canadian Journal of Botany |volume=82 |issue=7 |year=2004 |pages=962–9 |doi=10.1139/b04-078 }}</ref>
+
+==Toxicity==
+The toxicity of sulfur tuft mushrooms has been attributed, at least partially, to the toxic [[steroid]]s fasciculol&nbsp;E and fasciculol&nbsp;F (in mice, with [[LD50|LD<sub>50</sub>]](i.p.) values of 50&nbsp;mg/kg and 168&nbsp;mg/kg, respectively).<ref>{{cite journal |last1=Suzuki |first1=Kumiko |last2=Fujimoto |first2=Haruhiro |last3=Yamazaki |first3=Mikio |title=The toxic principles of ''Naematoloma fasciculare'' |journal=Chemical and Pharmaceutical Bulletin |volume=31 |issue=6 |year=1983 |pages=2176–8 |doi=10.1248/cpb.31.2176 |pmid=6685576 |doi-access=free }}</ref> These fasciculols have been shown to be [[calmodulin]] inhibitors.<ref>{{Cite web |title=Grünblättriger Schwefelkopf (Hypholoma fasciculare) im GIFTPFLANZEN.COMpendium - www.giftpflanzen.com |url=http://giftpflanzen.com/hypholoma_fasciculare.html |website=giftpflanzen.com}}</ref><ref>{{cite journal |last1=Kubo |first1=Isao |last2=Matsumoto |first2=Akiko |last3=Kozuka |first3=Mutsuo. |last4=Wood |first4=William F. |year=1985 |title=Calmodulin Inhibitors from the Bitter Mushroom Naematoloma fasciculare |journal=Chem. Pharm. Bull. |volume=33 |pages=3821–3825 |doi=10.1248/cpb.33.3821|doi-access=free }}</ref> In humans, symptoms may be delayed for 5&ndash;10&nbsp;hours after consumption, after which time there may be diarrhea, nausea, vomiting, [[proteinuria]] and collapse. Paralysis and impaired vision have been recorded. Symptoms generally resolve over a few days. The autopsy of one fatality revealed fulminant [[hepatitis]] reminiscent of [[amatoxin]] poisoning, along with involvement of kidneys and [[Cardiac muscle|myocardium]]. The mushroom was consumed in a dish with other species so the death cannot be attributed to sulfur tuft with certainty.<ref>{{cite book |last=Benjamin| first= Denis R. |title=Mushrooms: poisons and panaceas — a handbook for naturalists, mycologists and physicians |pages=381–82|publisher=WH Freeman and Company| location=New York |year=1995| isbn=0-7167-2600-9}}</ref>
+
+== Potential uses ==
+Extracts of the mushroom show [[anticoagulant]] effects.<ref>{{cite journal |last1=Doljak |first1=B. |last2=Stegnar |first2=M. |last3=Urleb |first3=U. |last4=Kreft |first4=S. |last5=Umek |first5=A. |last6=Ciglarič |first6=M. |last7=Štrukelj |first7=B. |last8=Popovič |first8=T. |title=Screening for selective thrombin inhibitors in mushrooms |journal=Blood Coagulation and Fibrinolysis |volume=12 |issue=2 |pages=123–8 |year=2001 |pmid=11302474 |doi=10.1097/00001721-200103000-00006 |s2cid=28411589 }}</ref>
+
+==Gallery==
+<gallery>
+File:Hypholoma fasciculare JPG1.jpg|''Hypholoma fasciculare.''
+File:2014 Hypholoma fasciculare.jpg|''Hypholoma fasciculare.'' in Germany
+File:Hypholoma fasciculare - December 2024 - Sarah Stierch 02.jpg|''Hypholoma fasciculare.'' in [[Humboldt Redwoods State Park]] in [[California]]
+File:Hypholoma-fasciculare-Alan-Rockefeller-inaturalist-14376439.jpg|''Hypholoma fasciculare'' fluorescing under 395 nm UV light
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Commons-inline}}
+
+{{Taxonbar|from=Q752507}}
+{{Authority control}}
+
+[[Category:Hypholoma|fasciculare]]
+[[Category:Poisonous fungi]]
+[[Category:Fungi described in 1778]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Europe]]
+[[Category:Fungus species]]

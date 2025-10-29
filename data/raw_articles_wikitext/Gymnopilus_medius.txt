@@ -1,0 +1,44 @@
+{{Short description|Species of fungus}}
+{{more citations needed|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption =
+| taxon = Gymnopilus medius
+| authority = [[Laura Guzmán Dávalos|Guzm.-Dáv.]]
+| synonyms =
+}}
+{{mycomorphbox
+| name = Gymnopilus medius
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+}}
+
+'''''Gymnopilus medius''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]].
+
+==Phylogeny==
+''G. medius'' is in the lepidotus-subearlei grouping of the genus ''Gymnopilus''.<ref name=Guzman-Davalos2003>{{cite journal |vauthors=Guzman-Davalos L, Mueller G, Cifuentes J, Miller AN, Santerre A |title=Traditional infrageneric classification of ''Gymnopilus'' is not supported by ribosomal DNA sequence data |journal=Mycologia  |year=2003 |volume=95 |issue=6 |pages=1204&ndash;14|doi=10.1080/15572536.2004.11833028 |pmid=21149021 |s2cid=3293845 }}</ref>
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*''[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=361718 Gymnopilus medius]'' at [[Index Fungorum]]
+
+{{Taxonbar|from=Q5624870}}
+
+{{DEFAULTSORT:Gymnopilus medius}}
+[[Category:Gymnopilus|medius]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

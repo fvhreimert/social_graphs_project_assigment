@@ -1,0 +1,52 @@
+{{Speciesbox 
+| image = Lycoperdon molle 78033.jpg
+| image_caption = 
+| genus = Lycoperdon
+| species = molle
+| authority = [[Christiaan Hendrik Persoon|Pers.]] (1801)
+| synonyms_ref =<ref name="urlFungorum synonymy: Lycoperdon molle"/>
+| synonyms = *''Lycoperdon gemmatum'' var. ''furfuraceum'' <small>[[Elias Magnus Fries|Fr.]] (1829)</small>
+*''Lycoperdon gemmatum'' var. ''molle'' <small>(Pers.) [[Giovanni Batista De Toni|De Toni]] (1888)</small>
+}}
+{{mycomorphbox 
+| name = ''Lycoperdon molle''
+| whichGills = no 
+| capShape = no 
+| hymeniumType = gleba
+| stipeCharacter = NA
+| ecologicalType = saprotrophic
+| sporePrintColor = olive
+| howEdible = edible
+| howEdible2 = inedible
+}}
+
+'''''Lycoperdon molle''''', commonly known as the '''smooth puffball'''<ref name="McKnight 1987"/> or the '''soft puffball''',<ref name="Phillips 2013"/> is a type of [[puffball]] mushroom in the genus ''[[Lycoperdon]]''. It was first [[species description|described]] scientifically in 1799 by Dutch mycologist [[Christiaan Hendrik Persoon]].<ref name="Persoon 1799"/> The puffball is [[edible mushroom|edible]] when the [[gleba|internal flesh]] is still white.<ref name="Phillips 2013"/>
+
+==References==
+{{Reflist|refs=
+
+<ref name="McKnight 1987">{{cite book |author=McKnight VB, McKnight KH. |title=A Field Guide to Mushrooms: North America | series=Peterson Field Guides |publisher=Houghton Mifflin |location=Boston, Massachusetts |year=1987 |page=355 |isbn=978-0-395-91090-0}}</ref>
+
+<ref name="Persoon 1799">{{cite book |title=Observationes mycologicae |volume=2 |author=Persoon CH. |year=1799 |publisher= |location= |isbn= |page=70 |url= |language=Latin}}</ref>
+
+<ref name="Phillips 2013">{{cite book |author=Phillips R. |title=Mushrooms: A comprehensive Guide to Mushroom Identification |url=https://books.google.com/books?id=nRKwAAAAQBAJ&pg=PA328 |year=2013 |publisher=Pan Macmillan |isbn=978-1-4472-6402-6 |page=328}}</ref>
+
+<ref name="urlFungorum synonymy: Lycoperdon molle">{{cite web |url=http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=271483 |title=''Lycoperdon molle'' Pers. |publisher=Species Fungorum. International Mycological Association |access-date=2014-07-13}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|271483}}
+
+{{Taxonbar|from=Q6707376}}
+
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1801]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Christiaan Hendrik Persoon]]
+[[Category:Lycoperdon|molle]]
+[[Category:Fungus species]]
+
+
+{{Agaricaceae-stub}}

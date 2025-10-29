@@ -1,0 +1,106 @@
+{{short description|Species of fungus}}
+{{distinguish|Lactarius rufus}}
+{{stack begin}}
+{{Speciesbox
+| image = Lactarius_rufulus_Escondido.jpg
+| genus = Lactarius
+| species = rufulus
+| authority = [[Charles Horton Peck|Peck]] (1907)
+}}
+{{Mycomorphbox
+| name = ''Lactarius rufulus''
+| whichGills = decurrent
+| capShape = depressed
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=mycorrhizal
+| sporePrintColor=cream
+| sporePrintColor2=yellow
+| howEdible=edible
+}}
+{{stack end}}
+
+'''''Lactarius rufulus''''', also known as the '''rufous candy cap''' or the '''southern candy cap''', is a species of [[fungus]] in the family [[Russulaceae]]. The [[basidiocarp|fruit bodies]] have fleshy brownish-red [[pileus (mycology)|caps]] up to {{convert|10|cm|in|abbr=on}} wide, and closely spaced pinkish-yellow [[lamella (mycology)|gills]]. The [[stipe (mycology)|stem]] is up to {{convert|12|cm|in|abbr=on}} long and {{convert|3|cm|in|abbr=on}} thick and colored similarly to the cap. The fruit bodies resembles those of ''[[Lactarius rufus|L.&nbsp;rufus]]'', but ''L.&nbsp;rufulus'' tends to grow in clusters at a common base, rather than solitarily or in groups. A distinguishing microscopic characteristic is the near absence of large, spherical cells called sphaerocysts that are otherwise common in ''[[Lactarius (fungus)|Lactarius]]'' species.
+
+The species, known only from [[California]], [[Arizona]], and Mexico, grows on the ground in leaf litter near [[oak]] trees. ''Lactarius rufulus'' mushrooms are [[edible mushroom|edible]], and have an odor resembling [[maple syrup]]. They have been used to flavor confections and desserts.
+
+==Taxonomy==
+The species was first described by American mycologist [[Charles Horton Peck]] in 1907, based on specimens collected at [[Stanford University]] in California.<ref name=Peck1907/> The type collections were made by A.M.&nbsp;Patterson and S.&nbsp;Nohara, botany students at the [[Leland Stanford Junior University]] who made a number of collections during the winter of 1906–07.<ref name=Kerrigan1979/>
+
+''Lactarius rufulus'' is [[classification (biology)|classified]] in the [[section (biology)|section]] ''Thejogali'' of the [[subgenus]] Russularia of the genus ''[[Lactarius (fungus)|Lactarius]]''. The surface characteristics of many species in section ''Thejogali'' (as defined by [[Lexemuel Ray Hesler|Hesler]] and [[Alexander H. Smith|Smith]] in 1979) are called rimulose-areolate (irregularly cracked, with the cracks crossing one another) based on a surface with "numerous mounds of inflated cells" paired together with crevices.<ref>Hesler and Smith, 1979, p. 25.</ref>
+
+The mushroom is [[common name|commonly]] known as the "rufous candy cap".<ref name=Arora1986/>
+
+==Description==
+
+The [[pileus (mycology)|cap]] of ''L.&nbsp;rufulus'' is {{convert|3|–|10|cm|in|abbr=on}} wide, broadly convex, becoming flattened and eventually shallowly funnel-shaped, sometimes with a slight [[umbo (mycology)|umbo]]. The cap margin (edge) is initially curved inwards but becomes curved upward in maturity. The surface is usually uneven or wrinkled.<ref name=Arora1986/> It is brownish red at first, but fades to orange-brown with age. The attachment of the [[lamella (mycology)|gills]] to the stem is [[wikt:adnate|adnate]] (squarely attached) to subdecurrent (running slightly down the length of the stem). They are packed close together, at first pinkish-yellow, but with age become a darker red or reddish brown. The gills are not forked, nor do they stain a different color when bruised. The [[stipe (mycology)|stem]] is {{convert|4|–|8|cm|in|abbr=on}} long, about {{convert|0.5|–|1.5|cm|in|1|abbr=on}} thick, nearly equal or slightly enlarged downward, dry, smooth, and reddish brown.<ref name="H&S pp. 512-13"/>{{#tag:ref|Arora gives a larger maximum range for both the stem length and width—{{convert|12|cm|in|abbr=on}} and {{convert|3|cm|in|abbr=on}}, respectively.<ref name=Arora1986/>|group=nb}} It may be solid or stuffed (filled with cotton-like [[mycelia]]), but may become partially hollow with age. The [[trama (mycology)|flesh]] is firm, white to pinkish-orange, and does not stain when cut. The [[latex]] is scant, white, unchanging, and does not stain tissues. Its taste is [[wikt:mild|mild]]. The [[spore print]] is white to creamy yellow.
+
+===Microscopic characteristics===
+The [[spore]]s are 7–9 by 7–9&nbsp;[[μm]], spherical or nearly so, ornamented with a partial to complete reticulum (a system of raised, net-like ridges), with prominences up to 0.5&nbsp;μm high. The [[basidia]] (spore-bearing cells) are both two- and four-spored, and measure 45–52 by 9–11&nbsp;μm. The [[pileipellis|cap cuticle]] is a poorly formed layer of inflated cells with scattered filamentous pileocystidia ([[cystidium|cystidia]] on the cap).<ref name=Bessette2009/> Somewhat unusual for a ''Lactarius'', ''L.&nbsp;rufulus'' lacks or has few swollen cells (sphaerocysts) in the cap and stem.<ref name=Arora1986/>
+
+===Similar species===
+{{multiple image
+| image1            = Lactarius rubidus 317.jpg
+| width1            = 167
+| alt1              = 
+| caption1          = 
+| image2            = Lactarius rufus11.jpg
+| width2            = 150
+| alt2              = 
+| caption2          = 
+| footer            = Lookalikes include ''[[Lactarius rubidus|L.&nbsp;rubidus]]'' (left) and ''[[Lactarius rufus|L.&nbsp;rufus]]'' (right)
+}}
+''[[Lactarius rubidus]]'' is similar in appearance to ''L.&nbsp;rufulus'', but it has watery to whey-like latex and develops a strong odor of maple syrup or [[butterscotch]] when dried. Another lookalike is ''Lactarius thiersii'', but it has a smaller cap and stem and has mild-tasting flesh and latex. The flesh and latex of ''[[Lactarius rufus]]'' have a strongly acrid taste, and its fruit bodies are stouter and lack an umbo.<ref name=Bessette2009/> Additionally, ''L.&nbsp;rufus'' typically grows in a caespitose manner—with the fruit bodies clustered at a common base,<ref name=Peck1907/> and has more pallid colors and a more intense odor than ''L.&nbsp;rufulus''.<ref name="urlCandy Cap - BAMS"/> ''[[Lactarius vinaceorufescens|L.&nbsp;vinaceorufescens]]'' has a yellowing latex.<ref name=Arora1986/>
+
+==Ecology, habitat, and distribution==
+''Lactarius rufulus'' is a [[mycorrhiza]]l species, and lives in a [[mutualism (biology)|mutualistic]] association with [[oak]] species. The fungus forms an ectomycorrhizae—characterized by an external sheath that surround the rootlets of the oak. The fungus receives soluble [[carbohydrate]]s that are byproducts of the plant's [[photosynthesis]], while affording the plant greater access to soil nutrients needed for growth.  The fruit bodies of ''L.&nbsp;rufulus'' grow scattered or in groups on the ground under oak, usually from January to March; their appearance is uncommon.<ref name=Bessette2009/> Once thought to be only in [[California]] (where they are most prevalent in the southern part of the state),<ref name=Arora1986/> they were reported from Mexico in 1998,<ref name=Montoya1998/> and from [[Arizona]] in 2006.<ref name=Bates2006/>
+
+==Uses==
+The mushroom is [[edible mushroom|edible]],<ref name="Bessette2009" /> with a mild taste and a slight odor of [[maple syrup]].{{#tag:ref|For reasons unexplained, several authors, including Peck,<ref name=Peck1907/> and Hesler and Smith,<ref name="H&S pp. 512-13">Hesler and Smith, 1979, pp. 512–13.</ref> have omitted mentioning the odor of the fruit bodies.|group=nb}} American author [[David Arora]] suggests that the fruit bodies may be used in a manner similar to the [[candy cap]] mushrooms, despite being not as fragrant.<ref name="Arora1991" /> Chefs in the [[San Francisco Bay Area]] have been known to use it for desserts such as ice creams, cakes and caramels.<ref name="urlThrees a Trend: Mushroom Desserts - San Francisco Restaurants and Dining - SFoodie" />
+
+==See also==
+*[[List of Lactarius species|List of ''Lactarius'' species]]
+
+==Notes==
+<references group="nb" />
+
+==References==
+{{Reflist|colwidth=30em|refs=
+<ref name=Arora1986>{{cite book |author=Arora D. |title=Mushrooms Demystified: a Comprehensive Guide to the Fleshy Fungi |publisher=Ten Speed Press |location=Berkeley, CA |year=1986 |page=23 |isbn=0-89815-169-4 |url=https://books.google.com/books?id=87ct90d4B9gC&q=Lactarius%20rufulus&pg=PA23 |access-date=2010-07-12}}</ref>
+
+<ref name=Arora1991>{{cite book |author=Arora D. |title=All that the Rain Promises and More: a Hip Pocket Guide to Western Mushrooms |publisher=Ten Speed Press |location=Berkeley, CA |year=1991 |page=23 |isbn=0-89815-388-3 |url=https://books.google.com/books?id=87ct90d4B9gC&q=Lactarius%20rufulus&pg=PA23 |access-date=2010-07-11}}</ref>
+
+<ref name=Bates2006>{{cite journal |author=Bates ST. |year=2006 |title=A preliminary checklist of Arizona macrofungi |journal=Canotia |volume=2 |issue=2 |pages=47–78 |url=http://www.canotia.org/volumes/CANOTIA_2006_Vol2_2_Bates.pdf |access-date=2010-07-12 |archive-date=2011-04-19 |archive-url=https://web.archive.org/web/20110419181256/http://www.canotia.org/volumes/CANOTIA_2006_Vol2_2_Bates.pdf |url-status=dead }}</ref>
+
+<ref name=Bessette2009>{{cite book |vauthors=Bessette AR, Bessette A, Harris DM |title=Milk Mushrooms of North America: A Field Guide to the Genus ''Lactarius'' |publisher=Syracuse University Press |location=Syracuse |year=2009 |page=235 |isbn=978-0-8156-3229-0}}</ref>
+
+<ref name=Kerrigan1979>{{cite journal |doi=10.2307/3759070 |author=Kerrigan RW. |year=1979 |title=Studies in ''Agaricus'' I. ''Agaricus Pattersonae'' |journal=Mycologia |volume=71 |issue=3 |pages=612–20 |jstor=3759070 }}</ref>
+
+<ref name=Montoya1998>{{cite journal |vauthors=Montoya L, Ayala N, Bandala VM, Moreno G |year=1998 |title=Studies on ''Lactarius'' from Mexico: first report of ''Lactarius rufulus'' |journal=Documents Mycologiques |volume=28 |issue=109–10 |pages=29–32}}</ref>
+
+<ref name=Peck1907>{{cite journal |doi=10.2307/2478989 |author=Peck CH. |year=1907 |title=New species of fungi |journal=Bulletin of the Torrey Botanical Club |volume=34 |issue=7 |pages=345–49 |jstor=2478989 }}</ref>
+
+<ref name="urlCandy Cap - BAMS">{{cite web |url=http://www.bayareamushrooms.org/mushroommonth/candy_cap.html |title=''Lactarius rubidus'' and ''Lactarius rufulus'', the "Candy Cap" |publisher=Bay Area Mycological Society |author=Viess D |access-date=2010-07-17}}</ref>
+
+<ref name="urlThrees a Trend: Mushroom Desserts - San Francisco Restaurants and Dining - SFoodie">{{cite web |url=http://blogs.sfweekly.com/foodie/2010/02/threes_a_trend_candy_cap_mushr.php |title=Three's a Trend: Mushroom Desserts - San Francisco Restaurants and Dining - SFoodie |publisher=SF Weekly |work=SFoodie |author=Alburger C |access-date=2010-07-12 |archive-date=2012-03-18 |archive-url=https://web.archive.org/web/20120318215158/http://blogs.sfweekly.com/foodie/2010/02/threes_a_trend_candy_cap_mushr.php |url-status=dead }}</ref>
+
+}}
+
+===Cited text===
+*{{cite book |title=North American Species of ''Lactarius'' |vauthors=Hesler LR, Smith AH |year=1979 |publisher=The University of Michigan Press |location=Michigan |isbn=0-472-08440-2}}
+
+==External links==
+*{{IndexFungorum|200398}}
+*[https://mushroomobserver.org/observer/observation_search?page=1&pattern=Lactarius+rufulus Mushroom Observer] Images
+
+{{Good article}}
+{{Taxonbar|from=Q3283832}}
+
+[[Category:Lactarius|rufulus]]
+[[Category:Fungi described in 1907]]
+[[Category:Fungi of the United States]]
+[[Category:Edible fungi]]
+[[Category:Taxa named by Charles Horton Peck]]
+[[Category:Fungi of Mexico]]
+[[Category:Fungus species]]
+[[Category:Mycorrhizal associates of oaks]]

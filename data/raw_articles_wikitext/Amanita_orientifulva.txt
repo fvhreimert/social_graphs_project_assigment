@@ -1,0 +1,44 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+|image = Amanita orientifulva.jpg
+| taxon = Amanita orientifulva
+| authority = Zhu L.Yang, M.Weiß & Oberw. (2004)
+}}
+{{mycomorphbox 
+| name = ''Amanita orientifulva''
+| whichGills = free 
+| capShape = umbonate
+| hymeniumType = gills
+| stipeCharacter = volva
+| ecologicalType = mycorrhizal
+| sporePrintColor = white
+| howEdible = unknown
+}}
+
+'''''Amanita orientifulva''''', also known as the '''Asian orange-brown ringless amanita''', is a species of [[agaric]] fungus that fruits singly or scattered from June to September.<ref name="Yang 2004"/>
+
+This medium to large agaric has a [[pileus (mycology)|cap]] with a diameter measuring {{convert|5|–|14|cm|abbr=off|frac=2}} and a [[stipe (mycology)|stipe]] length of up to {{convert|15|cm|in|abbr=on|frac=2}} and a thickness of {{convert|0.5|–|3|cm|in|1|abbr=on|frac=4}}. [[Lamella (mycology)|Gills]] on the cap underside are free from attachment to the stipe, crowded closely together, and white to cream in colour with brownish edges. The fruit body has a sac-like [[volva (mycology)|volva]] and lacks a [[annulus (mycology)|ring]] on the stipe. The overall colour of the fruit body is brownish with a yellowish to orange cap centre. Its [[basidiospore|spores]] are spherical or nearly so, measuring 10–14 by 9.5–13&nbsp;[[micrometre|μm]]. Names for its similarity to the widespread ''[[Amanita fulva|A. fulva]]'' (a species with which it was previously confused), it can be distinguished by microscopic features of the volva.<ref name="Yang 2004"/>
+
+It is found at altitudes ranging from {{convert|1300|–|4200|m|ft|abbr=on}} in south-western China. It is associated with trees, especially ''[[Abies]]'', ''[[Quercus]]'', ''[[Salix]]'', and occasionally ''[[Castanopsis]]''.<ref name="Yang 2004" /> 
+
+==See also==
+*[[List of Amanita species|List of ''Amanita'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Yang 2004">{{cite journal |vauthors =Yang ZL, Weiss M, Oberwinkler F |url=http://www.mycologia.org/cgi/reprint/96/3/636 |title=New species of ''Amanita'' from the eastern Himalaya and adjacent regions |journal=Mycologia |year=2004 |volume=96 |issue=3 |pages=636–46 |doi=10.2307/3762180 |jstor=3762180 |pmid=21148883|url-access=subscription }}</ref>
+
+}}
+
+{{Amanitas}}
+{{Taxonbar|from=Q1945904}}
+
+[[Category:Amanita|orientufulva]]
+[[Category:Fungi of China]]
+[[Category:Fungi described in 2004]]
+[[Category:Taxa named by Franz Oberwinkler]]
+[[Category:Fungus species]]
+
+
+{{Amanitaceae-stub}}

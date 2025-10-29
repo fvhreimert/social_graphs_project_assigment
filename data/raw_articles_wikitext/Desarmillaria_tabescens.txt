@@ -1,0 +1,69 @@
+
+{{Short description|Species of fungus}}
+{{missing information|''[[Desarmillaria]]'' reassignment|date=March 2017}}
+<!-- Armillaria is monophyletic even with Armillaria tabescens included, so it may be best to leave this as Armillaria, as Desarmillaria was an unnecessary split and unnecessary splits should be ignored. -->
+
+{{Speciesbox
+| image = Armillaria tabescens.JPG
+| taxon = Armillaria tabescens
+| authority = ([[Scop.]]) Emel (1921)
+| synonyms = 
+''Agaricus gymnopodius'' <small>Bull. (1798)</small><br />
+''Agaricus gymnopodius'' <small>sensu Quelét (1948)</small><br />
+''Agaricus monadelphus'' <small>Morgan (1883)</small><br />
+''Agaricus socialis'' <small>DC. (1815)</small><br />
+''Agaricus tabescens'' <small>Scop. (1772)</small><br />
+''Armillaria mellea var. tabescens'' <small>(Scop.) Rea & Ramsb. (1917)</small><br />
+''Armillaria socialis'' <small>(DC.) Herink (1973)</small><br />
+''Armillariella tabescens'' <small>(Scop.) Singer</small><br />
+''Clitocybe gymnopodia'' <small>sensu Kühner & Romagnesi (1953)</small><br />
+''Clitocybe gymnopodia'' <small>(Bull.) Gillet (1874)</small><br />
+''Clitocybe monadelpha'' <small>(Morgan) Sacc. (1887)</small><br />
+''Clitocybe socialis'' <small>(DC.) Gillet (1874)</small><br />
+''Clitocybe tabescens'' <small>(Scop.) Bres. (1928)</small><br />
+''Collybia tabescens'' <small>(Scop.) Fr.</small><br />
+''Flammula gymnopodia'' <small>(Bull.) Quél. (1873)</small><br />
+''Lentinus caespitosus'' <small>Berk. (1847)</small><br />
+''Monodelphus caespitosus'' <small>(Berk.) Murrill, (1911)</small><br />
+''Omphalia gymnopodia'' <small>sensu Quélet </small><br />
+''Pholiota gymnopodia'' <small>(Bull.) A.F.M.Reijnders (1998)</small><br />
+''Pleurotus caespitosus'' <small>(Berk.) Sacc. (1887)</small><br />
+''Pocillaria caespitosa'' <small>(Berk.) Kuntze (1891)</small>
+}}
+
+'''''Armillaria tabescens''''' (also known as '''ringless honey mushroom''') is a species of [[fungus]] in the family [[Physalacriaceae]]. It is a [[plant pathogen]]. The [[mycelium]] of the fungus is [[bioluminescent]].<ref name="Mihail 2015">{{cite journal |author=Mihail JD. |title=Bioluminescence patterns among North American ''Armillaria'' species |journal=Fungal Biology |year=2015 |volume=119 |issue=6 |pages=528–537 |doi=10.1016/j.funbio.2015.02.004 |pmid=25986550}}</ref>
+
+== Hosts and symptoms ==
+''Armillaria'' species infect a wide variety of [[woody plant]]s.<ref name=":3">{{Cite journal|last1=Schnabel|first1=Guido|last2=Ash|first2=Joshua|last3=Bryson|first3=Patricia|date=July 2005|title=Identification and characterization of Armillaria tabescens from the southeastern United States|journal=The British Mycological Society|volume=109|issue=Pt 11|pages=1208–1222|doi=10.1017/S0953756205003916|pmid=16279414}}</ref> In a survey of 250 permanent plots of trees in [[Albania]], ''Armillaria tabescens'' affected multiple species of trees including [[fir]] species, where it invaded when the plant was stressed.<ref name=":0">{{Cite journal|last1=Lushaj|first1=B. M.|last2=Woodward|first2=S|last3=Keca|first3=N|last4=Intini|first4=M|date=2009|title=Distribution, ecology and host range of Armillaria species in Albania|journal=Forest Pathology|volume=40|issue=6|pages=485–499|doi=10.1111/j.1439-0329.2009.00624.x}}</ref> A study in Greece reported ''Armillaria tabescens'' to be more prevalent in areas where the trees were stressed due to limited moisture.<ref name=":1" /> In [[oak trees]], it was slightly more damaging and could kill young trees. ''Armillaria tabescens'' was also recorded in [[Poplar tree|poplar]] and [[eucalyptus]] plantations, and [[almond trees]] were found to be very susceptible to infection.<ref name=":1">{{Cite journal|last1=Tsopelas|first1=P|last2=Tjamos|first2=E|date=1997|title=Occurrence and pathogenicity of Armillaria tabescens on almond in Greece|journal=OEPP/EPPO Bulletin|volume=27|issue=4|pages=455–461|doi=10.1111/j.1365-2338.1997.tb00665.x}}</ref> The results of the study by Lushaj et al.<ref name=":0" /> showed that ''Armillaria tabescens'' was most frequently recorded on fruit and ornamental trees compared to the other species'''''.'''''<ref name=":0" />
+
+''Armillaria tabescens'' causes separation of the bark from the wood by the production of [[Mycelium|mycelial]] fans in the trunk, a common sign of ''Armillaria'' [[root rot]].<ref name=":3" /> It also causes [[gummosis]], patches of gummy material on the surface of plants, which occurs in response to an external stimulus which causes the plant to ooze sap.<ref name=":1" /> Other common symptoms are soft rot of [[Cortex (botany)|cortex]], [[dwarfing]], dieback, wilting, and abnormal coloring of the leaves.<ref>{{Cite web|url=http://www.cabi.org/isc/datasheet/7006|title=Armillaria tabescens (armillaria root rot)|website=www.cabi.org|access-date=2017-10-23}}</ref> Small trees are killed rapidly by ''Armillaria tabescens'' and the symptoms aren't noticeable until the leaves wilt. However, on larger trees symptoms occur earlier and start as a thin crown with small leaves. A crown of a tree refers to any branches or foliage that are growing out from the trunk. Therefore, thinning of the crown would mean reduced branches and leaves. The trees eventually start yellowing and defoliating followed by fast wilting and dying of limbs. The fungus is a white rot so it breaks down lignin in the wood. The breaking down of the lignin leads to the trees becoming hollow.<ref name=":4">{{Cite book|title=Armillaria Root Disease|last1=Shaw|first1=Charles|last2=Kile|first2=Glen|publisher=Forest Service United States Department of Agriculture|date=March 1991}}</ref>
+
+== Environment ==
+''Armillaria tabescens'' is found in warm and dry regions, so, in Europe, it tends to be in southern areas. It has also been found in altitudes ranging from sea level to {{Convert|1300|m|ft}}.<ref name=":0" /> Studies in Europe have found that it exists in south-east England, France, Hungary, Italy, Portugal, Greece and, rarely, Germany and Switzerland. In Japan, it is very rare; only one isolate of ''Armillaria tabescens'' was found out of 59 sites surveyed'''.'''<ref>{{Cite journal|last1=Hasagawa|first1=E|last2=Ota|first2=Y|last3=Hattori|first3=T|last4=Sahashi|first4=N|last5=Kikuchi|first5=T|date=2011|title=Ecology of Armillaria species on conifers in Japan|journal=Forest Pathology|volume=41|issue=6|pages=429–437|doi=10.1111/j.1439-0329.2010.00696.x}}</ref>
+
+''Armillaria tabescens'' grows quickly at {{Convert|28–30|C|F}} and more slowly at {{Convert|5|C|F}}.<ref>{{Cite journal|last=Rishbeth|first=J|date=1986|title=Some characteristics of English Armillaria species in culture|journal=Mycology Society|volume=86|pages=213–218}}</ref> If the soil is moist, fruiting bodies are abundant. It is the first to fruit in September, compared to ''Armillaria mellea'' and ''Armillaria gallica''. The fruiting bodies can be seen even earlier if the season has been exceptionally wet.<ref name=":5">{{Cite journal|last=Rishbeth|first=J|date=1991|title=Armillaria in an ancient broadleaved woodland|journal=Forest Pathology|volume=21|issue=4|pages=239–249|doi=10.1111/j.1439-0329.1991.tb00975.x}}</ref> ''Armillaria tabescens'' grows poorly on sand and produces shorter rhizomorphs.<ref name=":2">{{Cite journal|last1=Mihail|first1=Jeanne|last2=Bruhn|first2=Johann|last3=Leininger|first3=Theodor|date=June 2002|title=The effects of moisture and oxygen availability on Rhizomorph generation by Armillaria tabescens in comparison with A. gallica and A. mellea|journal=Mycology Research|volume=106|issue=6|pages=697–704|doi=10.1017/S0953756202005920}}</ref> Rhizomorphs are threadlike structures in fungi that are made up of hyphae. Hyphae are branching structures that release enzymes to absorb nutrients from the host.
+
+== Pathogenesis ==
+''Armillaria'' ''tabescens'' is a heterothallic species of ''Armillaria.'' Heterothallic species perform anastomosis when haploid monokaryon come in contact with one another. Anastomosis is the connection or opening between two things, in this case the mycelium. Mycelium is the vegetative part of the fungus that consists of hyphae. If the two monokaryons are sexually compatible they form a clamp connection. This results in a mycelium consisting of dikaryotic cells. The dikaryon cells predominate in the vegetative phase. In the basidia karyogamy occurs before meiosis and then the formation of basidiospores.<ref name=":4" />  The basidiospores then infect the host plant.
+
+''Armillaria'' ''tabescens'' is found to attack trees that are already stressed or have a wound. The pathogen can spread its mycelia and get into the trunk or root of a tree.<ref name=":5" /> The fungus has the ability to spread its mycelia throughout the root and trunk system and form mycelial mats. Mycelia is damaging to trees because they absorb the nutrients by secreting enzymes to breakdown the plant material. It specifically breaks down lignin because it is a white rot.
+
+No rhizomorphs have been found for ''Armillaria tabescens'' in nature. However, Rishbeth and Kile<ref name=":4" /> did find rhizomorphs buried in the soil on inocula. Since the species doesn't produce rhizomorphs commonly in the nature, infected roots must come into contact with other potential hosts for infection to occur. So, root grafting provides an effective pathway for the spread of this pathogen. Tsopelas<ref name=":0" /> conducted an experiment of inoculating almond trees with ''Armillaria tabescens'' and two other ''Armillaria'' species. The result of the experiment was that basidiocarps developed 6–8 weeks after the inoculation. The basidiocarps are recognized by not having an annulus around the stalk of the basidium. The basidiospores infect the trees. After two years, it only killed 3 out of the 16 trees and two other trees had symptoms of dieback.<ref name=":0" />
+
+==Edibility==
+The species can be cooked and eaten, even being regarded as choice,<ref name="Miller 2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=151|author-link=Orson K. Miller Jr.}}</ref> but has been reported to cause upset stomachs.<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |url=https://archive.org/details/mushroomsotherfu0000phil |url-access=registration |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=[https://archive.org/details/mushroomsotherfu0000phil/page/42 42]}}</ref> ''Armillaria tabescens'' additionally contains small levels of antioxidants which have been studied for possible use as protection against lipid peroxidation and free radical damage.<ref>Tel, Gülsen, et al. "Evaluation of antioxidant activity of Armillaria tabescens, Leucopaxillus gentianeus and Suillus granulatus: The mushroom species from Anatolia." ''Eurasian Journal of Analytical Chemistry'' 8.3 (2014): 136-147.</ref>
+
+==See also==
+* [[List of bioluminescent fungi]]
+
+==References==
+<references />
+
+{{Taxonbar|from=Q2449977}}
+
+[[Category:Fungal plant pathogens and diseases]]
+[[Category:Armillaria|tabescens]]
+[[Category:Bioluminescent fungi]]
+[[Category:Fungi described in 1772]]
+[[Category:Fungi of Europe]]
+[[Category:Fungus species]]

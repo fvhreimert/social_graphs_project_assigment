@@ -1,0 +1,47 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Suillus nueschii 211036.jpg
+| genus = Suillus
+| species = bresadolae
+| authority = (Quél.) Gerhold (1985)
+| synonyms_ref = <ref name="sf"/>
+| synonyms = *''Boletopsis bresadolae'' (Quél.) Henn., in Engler & Prantl, Nat. Pflanzenfam., Teil. I (Leipzig) 1(1**): 195 (1898) [1900]
+*''Boletus bresadolae'' Quél., Fung. trident. 1(1): 13 (1881)
+*''Boletus viscidus var. bresadolae'' (Quél.) Costantin & L.M. Dufour, Nouv. Fl. Champ., Edn 1 (Paris): 150 (1891)
+*''Ixocomus bresadolae'' (Quél.) Quél., Fl. mycol. France (Paris): 416 (1888)
+*''Ixocomus viscidus var. bresadolae'' (Quél.) Quél., Fl. mycol. France (Paris): 416 (1888)
+*''Solenia bresadolae'' (Quél.) Kuntze, Revis. gen. pl. (Leipzig) 3(3): 522 (1898)
+*''Suillus aeruginascens var. bresadolae'' (Quél.) M.M. Moser, in Gams, Kl. Krypt.-Fl., Edn 3 (Stuttgart) 2b/2: 42 (1967)
+*''Suillus aeruginascens var. nueschii'' Singer ex Schmid-Heckel, Forschungsberichte Nationalpark Berchtesgarden 8: 103 (1985)
+*''Suillus bresadolae f. flavogriseus'' (Cazzoli & Consiglio) Klofac, Öst. Z. Pilzk. 22: 217 (2013)
+*''Suillus bresadolae var. flavogriseus'' Cazzoli & Consiglio, Fungo 15(Suppl. 1-3): 25 (1997) [1996]
+*''Suillus laricinus var. bresadolae'' (Quél.) Alessio, Boletus Dill. ex L. (Saronno): 344 (1985)
+*''Suillus nueschii'' Singer, Sydowia 15(1-6): 82 (1962) [1961]
+*''Suillus nueschii var. caerulescens'' Singer, Sydowia 15(1-6): 82 (1962) [1961]
+*''Suillus viscidus var. bresadolae'' (Quél.) Bon, Docums Mycol. 19(no. 74): 61 (1988)
+*''Viscipellis bresadolae'' (Quél.) Quél., Enchir. fung. (Paris): 156 (1886)
+}}
+
+'''''Suillus bresadolae''''' is a rare [[species]] of [[mushroom]] in the genus ''[[Suillus]]''. A European species, it was first described scientifically by [[Lucien Quélet]] in 1887 as ''Boletus bresadolae'' and given its current name in 1985 by Gerhold.<ref name="sf"/>
+
+==References==
+{{Reflist|refs=
+
+<ref name="sf">{{cite web |title=Species Fungorum - Species synonymy |url=https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=105816}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|105816}}
+
+{{Taxonbar|from=Q10683516}}
+
+[[Category:Suillus|bresadolae]]
+[[Category:Edible fungi]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi described in 1962]]
+[[Category:Taxa named by Rolf Singer]]
+[[Category:Fungus species]]
+
+
+{{Boletales-stub}}

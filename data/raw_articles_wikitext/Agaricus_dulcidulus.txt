@@ -1,0 +1,70 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Agaricus dulcidulus 001.jpg
+| taxon = Agaricus dulcidulus
+| authority = [[Stephan Schulzer von Müggenburg|Schulzer]] (1874)
+| synonyms_ref =
+| synonyms = ''Agaricus purpurellus'' <small>([[F.H.Møller]]) F.H.Møller</small><br>
+''Agaricus rubelloides'' <small>[[Marcel Bon|Bon]]</small><br>
+''Agaricus rubellus'' <small>([[Claude Casimir Gillet|Gillet]]) [[Sacc.]]</small><br>
+''Fungus dulcidulus'' <small>(Schulzer) [[Otto Kuntze|Kuntze]]</small><br>
+''Pratella rubella'' <small>Gillet</small><br>
+''Pratella silvatica'' var. ''rubella'' <small>(Gillet) L.Corb.</small><br>
+''Psalliota amethystina'' <small>sensu Lange</small><br>
+''Psalliota pallens'' <small>([[Jakob Emanuel Lange|J.E.Lange]]) [[Carleton Rea|Rea]]</small><br>
+''Psalliota purpurella'' <small>F.H.Møller</small><br>
+''Psalliota rubella'' <small>(Gillet) Rea</small><br>
+''Psalliota rubella'' f. ''pallens'' <small>J.E.Lange</small>
+}}
+{{mycomorphbox
+| name = ''Agaricus dulcidulus''
+| whichGills =free
+| capShape =convex
+| capShape2=flat
+| hymeniumType=gills
+| stipeCharacter=ring
+| ecologicalType=saprotrophic
+| sporePrintColor=brown
+| sporePrintColor2=
+| howEdible=edible
+}}
+
+'''''Agaricus dulcidulus''''' is a small [[mushroom]] in the family [[Agaricaceae]] of the [[order (biology)|order]] [[Agaricales]], found in [[deciduous forest|deciduous woodlands]] of [[Europe]], but also recorded in [[North America]], [[North Africa]] and [[Asia]]. The English name is '''rosy wood mushroom'''. Despite the tendency of some sources to [[synonym (biology)|synonymize]] it with ''[[Agaricus semotus]]'', this is a distinct taxon.<ref>''Agaricus dulcidulus'' page at [[Index Fungorum]]</ref>
+
+==Description==
+
+[[Pileus (mycology)|Cap]] 2 to 7&nbsp;cm, convex-rounded often with inflexed margins at first, then flattens when aging, covered in purple-brown to pinkish dense fibriles that fade in colours towards light grayish-pink from the centre towards margins.<ref>Saccardo, P.A.(1887)'' Sylloge Fungorum V'': 1007; XIX: 32; XII: 90</ref>
+
+The [[lamella (mycology)|gills]] are free from attachment to the stipe, dense, starting pale gray-brownish when young, then turning dark purple-brown with age, with a lighter crenulated edge. The [[Stipe (mycology)|stipe]] is cylindrical, 2–5&nbsp;cm long and 0.4–0.8&nbsp;cm broad, bulbous or clavated at the base, whitish, slightly darkening toward the base in yellow-brownish tints. The [[annulus (mycology)|ring]], remnant of the veil present in young fructifications, is whitish, descendent, thin and fragile. The odor and taste resembles almonds.
+
+The [[spore print]] is dark brownish. The [[spores]] are 4.5–6.0 x 3.5–4.0&nbsp;μm on average, [[nonamyloid]], and elliptical. The [[trama (mycology)|flesh]] turns slightly in yellow when cut or bruised, sometime with orange tints in [[Stipe (mycology)|stipe]].
+
+Macrochemical reactions: flesh turns orange and [[pileus (mycology)|pileus]] turns yellow in contact with 10% [[KOH test|KOH]].
+
+==Other taxonomic considerations==
+
+Several characteristics like flesh yellowing on contact or in air, orange reaction with KOH, overall size, puts this species within ''Minores'' [[section (biology)|section]] of the genus ''[[Agaricus]]'', along with ''[[Agaricus comtulus]]'', ''[[Agaricus xantholepis]]'', ''[[Agaricus porphyrizon]]'' and ''[[Agaricus luteomaculatus]]''.
+
+==Habitat==
+
+''Agaricus dulcidulus'' is a [[mycorrhiza]]l species in close relation with different [[oak]] species.<ref>LENTI, István. ''MUSHROOMS LIVING AMONG US: MUSHROOMS–WORLD OF BÁTORLIGET'' at 7th INTERNATIONAL MULTIDISCIPLINARY CONFERENCE Baia Mare, Romania, May 17–18, 2007, p. 409</ref> The fungus prefers humid soil with rich decomposed leaves as a [[substrate (biology)|substrate]]. The basidiocarps appear, depending on microclimatic conditions, in late July to early October.
+
+==Edibility==
+Although considered to be [[edible mushroom|edible]], the small size and usually the sporadic presence prevents it from being widely eaten.
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Agaricus species|List of ''Agaricus'' species]]
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q4691341}}
+
+[[Category:Agaricus|dulcidulus]]
+[[Category:Fungi described in 1874]]
+[[Category:Fungi of Africa]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]

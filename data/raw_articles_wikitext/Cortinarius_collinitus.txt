@@ -1,0 +1,48 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Cortinarius_collinitus.jpg
+| image_caption =
+| genus = Cortinarius
+| species = collinitus
+| authority = [[Christian Hendrik Persoon|(Pers.)]] [[Elias Magnus Fries|Fr.]] (1838)
+}}
+{{mycomorphbox
+| name = ''Cortinarius collinitus''
+| whichGills = adnexed
+| capShape = convex
+| capShape2=flat
+| hymeniumType=gills
+| stipeCharacter=cortina
+| ecologicalType=mycorrhizal
+| sporePrintColor=reddish-brown
+| howEdible=inedible
+}}
+
+'''''Cortinarius collinitus''''', commonly known as the '''belted slimy cortinarius''',<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/431/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=431-32 |orig-date=1979}}</ref> is a species of [[fungus]] in the family [[Cortinariaceae]].
+
+==Description==
+The [[Pileus (mycology)|cap]] is {{Convert|3–10|cm|frac=4}} in diameter,<ref name="Arora1986" /> convex to flat in shape, with a sticky, gelatinous surface (in moist conditions). The gills are [[wikt:adnexed|adnexed]], close, and pallid or pale violet in color. The [[stipe (mycology)|stipe]] is typically 5–15&nbsp;cm long, 0.5–2&nbsp;cm thick, solid and equal.<ref name="Arora1986" /> It has transverse scaly-looking bands. The [[spore print]] is rusty-brown,<ref name="Arora1986" /> like that of most ''Cortiniarius'' species.
+
+The species is considered inedible,<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=160}}</ref> partly due to the complex of related species not yet having been tested.<ref name="Arora1986" />
+
+== Habitat and distribution ==
+It grows singly or in groups with hardwoods and conifers.<ref name="Arora1986" />
+
+==See also==
+*[[List of Cortinarius species|List of ''Cortinarius'' species]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://web.archive.org/web/20101217021349/http://healing-mushrooms.net/archives/cortinarius-collinitus.html Medicinal Mushrooms] description and medicinal properties
+*[https://web.archive.org/web/20110101040628/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~5376~gid~~source~gallerydefault.asp Roger's Mushrooms] description
+
+{{Taxonbar|from=Q2591152}}
+
+[[Category:Cortinarius|collinitus]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1838]]
+[[Category:Inedible fungi]]
+[[Category:Fungus species]]

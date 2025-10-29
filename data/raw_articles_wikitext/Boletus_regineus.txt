@@ -1,0 +1,50 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Boletus regineus 28082.jpg
+| image_caption = From [[Little River (Mendocino County)]], California
+| genus = Boletus
+| species = regineus
+| authority = [[David Arora|D.Arora]] & Simonini (2008)
+}}
+{{mycomorphbox
+| name = ''Boletus regineus''
+| whichGills = adnate
+| capShape = convex
+| hymeniumType = pores
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = olive
+| howEdible = choice
+}}
+
+'''''Boletus regineus''''', commonly known as the '''queen bolete''',<ref name=cfreg/> is an edible and highly regarded [[fungus]] of the genus ''[[Boletus]]'' that inhabits southwestern [[North America]]. It was considered a variant of the similarly edible ''[[Boletus edulis|B.&nbsp;edulis]]'' for many years until declared a unique species in 2008.<ref name="Arora 2008"/>  [[Phylogenetics|Phylogenetic]] analysis has shown ''B.&nbsp;regineus'' as a member of a [[clade]], or closely related group, with ''[[Boletus subcaerulescens|B.&nbsp;subcaerulescens]]'', ''[[Gastroboletus subalpinus]]'', ''[[Boletus pinophilus|B.&nbsp;pinophilus]]'', ''[[Boletus fibrillosus|B.&nbsp;fibrillosus]]'', and ''[[Boletus rex-veris|B.&nbsp;rex-veris]]''.<ref name=dent10/>
+
+The [[Pileus (mycology)|cap]] is {{Cvt|5–18|cm|round=0.5}} wide, convex then flat, brown with a whitish dusting when young.<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=324|oclc=797915861}}</ref> The stalk is 5–15 cm long, 3–6 cm wide, clavate then equal, and whitish tan.<ref name=":0" />
+
+==See also==
+*[[List of Boletus species|List of ''Boletus'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name=cfreg>{{cite web |url=http://www.mykoweb.com/CAF/species/Boletus_regineus.html |title=California Fungi: ''Boletus regineus'' |vauthors=Wood M, Stevens F |publisher=MykoWeb |accessdate=2009-11-02}}</ref>
+
+<ref name="Arora 2008">{{cite journal |author=Arora D. |year=2008 |title=California porcini: three new taxa, observations on their harvest, and the tragedy of no commons |journal=Economic Botany |volume=62 |issue=3 |pages=356–375 |url=http://www.davidarora.com/uploads/arora_california_porcini.pdf |doi=10.1007/s12231-008-9050-7 |s2cid=23176365 |access-date=2017-10-07 |archive-date=2012-03-12 |archive-url=https://web.archive.org/web/20120312213054/http://www.davidarora.com/uploads/arora_california_porcini.pdf |url-status=dead }}</ref>
+
+<ref name=dent10>{{cite journal |vauthors=Dentinger BT, Ammirati JF, Both EE, Desjardin DE, Halling RE, Henkel TW, Moreau PA, Nagasawa E, Soytong K, Taylor AF, Watling R, Moncalvo JM, McLaughlin DJ |title=Molecular phylogenetics of porcini mushrooms (''Boletus'' section ''Boletus'') |journal=Molecular Phylogenetics and Evolution |volume=57 |year=2010 |issue=3 |pages=1276–1292 |url=http://static.msi.umn.edu/rreports/2010/211.pdf |doi=10.1016/j.ympev.2010.10.004 |pmid=20970511 |url-status=dead |archiveurl=https://web.archive.org/web/20130523094609/http://static.msi.umn.edu/rreports/2010/211.pdf |archivedate=2013-05-23 }}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|509546}}
+
+{{Taxonbar|from=Q2909367}}
+
+[[Category:Edible fungi]]
+[[Category:Fungi described in 2008]]
+[[Category:Boletus|regineus]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]
+
+
+{{Boletales-stub}}

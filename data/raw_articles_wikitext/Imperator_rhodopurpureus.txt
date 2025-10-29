@@ -1,0 +1,57 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = 2008-08-04 Boletus rhodopurpureus 1 18733.jpg
+| genus = Imperator
+| species = rhodopurpureus
+| authority = ([[František Smotlacha|Smotl.]]) Assyov, Bellanger, Bertéa, Courtec., Koller, Loizides, G. Marques, J.A.Muñoz, N.Oppicelli, D.Puddu, F.Rich. & P.-A. Moreau (2015)
+| synonyms = *''Boletus rhodopurpureus'' <small>Smotl. (1952)</small>
+*''Suillellus rhodopurpureus'' <small>(Smotl.) Blanco-Dios (2015)</small>
+}}
+{{mycomorphbox
+| name = ''Imperator rhodopurpureus''
+| whichGills = adnate
+| capShape = convex
+| hymeniumType = pores
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| howEdible = unknown 
+}}
+
+The '''oldrose bolete''', '''''Imperator rhodopurpureus''''', is an inedible fungus of the genus ''[[Imperator (fungus)|Imperator]]'', found under deciduous trees including [[oak]] and [[beech]] in neutral soils.<ref>Kibby, G. 2011. British boletes with keys to species.[http://boletales.com/2011/04/new-bolete-book/ Kibby, G. 2011. British boletes with keys to species]</ref> Initially described as ''Boletus rhodopurpureus'', it was transferred to the new genus ''[[Imperator (fungus)|Imperator]]'' in 2015.<ref name="Assyov 2015">{{cite journal |vauthors=Assyov B, Bellanger JM, Bertéa P, Courtecuisse R, Koller G, Loizides M, Marques G, Muñoz JA, Oppicelli N, Puddu D, Richard F, Moreau PA |title=Nomenclatural novelties |journal=Index Fungorum |issue=243|date=May 21, 2015 |url=http://www.indexfungorum.org/Publications/HTML/Index%20Fungorum243.html}}</ref> The bolete is considered [[critically endangered]] in the Czech Republic<ref name="Mikšik 2012"/> and [[endangered]] in the United Kingdom, reported most commonly from Berkshire and Hampshire, and typically very rare throughout, although up to a hundred fruiting bodies have been recorded at a few sites.<ref>A.M. Ainsworth, J.H. Smith, L. Boddy, B.T.M. Dentinger, M. Jordan, D. Parfitt, H.J. Rogers &
+S.J. Skeates. 2013. Red List of Fungi for Great Britain: Boletaceae; A pilot conservation
+assessment based on national database records, fruit body morphology and DNA barcoding
+Species Status 14. Joint Nature Conservation Committee, Peterborough.</ref>
+
+== Description ==
+The cap is cushion-like, up to 15&nbsp;cm in diameter; faint yellow- or pink-buff when young, later flushing red from the rim and becoming blotched with yellow, red and olivaceous tones.
+The tubes are orange or red at first, then turning dark blue when cut. The spores are olive-brown. The stem is rather short, and sometimes very bulbous. The flesh is pale yellow, rapidly turning deep blue when cut. Bruises deep blue when handled, bruising blue at the slightest touch. A very rare bolete which has a predominantly yellow colouration has also been reported regularly fruiting along with normal-coloured oldrose boletes, such as from Windsor Great Park in the UK. It had previously been identified as ''Boletus xanthocyaneus'' prior to DNA studies, which found it to represent a rare colour morph of ''I. rhodopurpureus''. It is possible that ''B. xanthocyaneus'' is synonymous with ''I. rhodopurpureus''.<ref>https://data.jncc.gov.uk/data/f5cae2d1-b304-4020-921c-1c95d507f9c8/SpeciesStatus-14-Boletaceae-WEB-2013.pdf {{Bare URL PDF|date=August 2025}}</ref>
+
+==Occurrence in the UK==
+{{More citations needed section|date=April 2024}}
+The oldrose bolete is very rare in the UK, typically favouring old open woodland or parkland with plenty of sunlight on neutral soils, reported mainly from the south of England such as parts of the New Forest and Windsor Great Park.
+
+
+
+== Similar species and edibility ==
+{{More citations needed section|date=April 2024}}
+In the warmest regions of central and southern Europe the blood red-capped ''[[Rubroboletus dupainii]]''. It has also been regularly confused with the poisonous bilious bolete, ''[[Rubroboletus legaliae]]'', from which it is distinguished by a much stronger bluing response when cut and handled. Commonly, the bilious bolete smells of hay or chicory, whereas the oldrose bolete has more acidic tones in its smell. 
+Oldrose bolete is poisonous when raw and is generally considered poisonous even when cooked.<ref>Mushrooms, R. Phillips and D. Reid, Macmillan 2006</ref> The combination of being extremely uncommon and a confusion risk with the even more poisonous ''[[Rubroboletus]]'' genus makes this species one to avoid collecting for food.
+
+== References ==
+* E. Garnweidner. ''Mushrooms and Toadstools of Britain and Europe''. Collins. 1994.
+{{Reflist|refs=
+
+<ref name="Mikšik 2012">{{cite journal |author=Mikšik M. |title=Rare and protected species of boletes of the Czech Republic |journal=Field Mycology |year=2012 |volume=13 |issue=1 |pages=8–16 |doi=10.1016/j.fldmyc.2011.12.003|doi-access=free }}</ref>
+
+}}
+
+== External links ==
+* {{IndexFungorum|102959}}
+* {{MycoBank|102959}}
+
+{{Taxonbar|from=Q882829}}
+
+[[Category:Fungi described in 1952]]
+[[Category:Fungi of Europe]]
+[[Category:Boletaceae]]
+[[Category:Fungus species]]

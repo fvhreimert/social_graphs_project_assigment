@@ -1,0 +1,48 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Deconica_inquilina_California.jpg
+| taxon = Deconica inquilina
+| authority = ([[Elias Magnus Fries|Fries]]) [[Henri Romagnesi|Romagn.]]
+}}
+{{mycomorphbox 
+| name = ''Deconica inquilina''
+| whichGills = adnate 
+| whichGills2 = sinuate
+| capShape = convex
+| capShape2=conical 
+| hymeniumType=gills
+| stipeCharacter=cortina
+| ecologicalType=saprotrophic
+| sporePrintColor=purple-brown
+| howEdible=unknown}}
+
+'''''Deconica inquilina''''' is a species of [[mushroom]] in the family [[Strophariaceae]].  Formerly a member of the genus ''[[Psilocybe]]'' (well known for its [[psilocybin]] containing members), this species belonged to the non-blueing (non-[[hallucinogenic]]) clade<ref name=Moncalvo2002/> and was consequently moved to ''[[Deconica]]'' in 2009.<ref name=Norvell2009/>
+
+
+
+
+
+
+==Habitat and distribution==
+''Deconica inquilina'' is found growing on decaying grass.  It is very widely distributed, reported from North America, South America and Europe.<ref name=Guzman2005/>
+
+==References==
+{{Reflist|refs=
+<ref name=Guzman2005>{{cite journal | vauthors=Guzman G, Trappe JM | name-list-style=amp | title=The Hallucinogenic and Nonhallucinogenic Species of the Genus Psilocybe Fayod (Basidiomycotina) in Washington State, USA: New Records and a New Species | journal=International Journal of Medicinal Mushrooms | year=2005 | volume=7 | issue=4 | pages=583–589 | doi=10.1615/intjmedmushr.v7.i4.80}}</ref>
+
+<ref name=Moncalvo2002>{{cite journal |vauthors=Moncalvo JM, Vilgalys R, Redhead SA, Johnson JE, James TY, Catherine Aime M, Hofstetter V, Verduin SJ, Larsson E, Baroni TJ, Greg Thorn R, Jacobsson S, Clémençon H, ((Miller OK Jr)) |title=One hundred and seventeen clades of euagarics |journal=Molecular Phylogenetics and Evolution |volume=23 |issue=3 |pages=357–400 |year=2002 |pmid=12099793 |doi=10.1016/S1055-7903(02)00027-1}}</ref>
+
+<ref name=Norvell2009>{{cite journal|author=Norvell L. |year=2009 |title=Report of the Nomenclature Committee for Fungi: 15 |journal=Mycotaxon |volume=110 |pages=487–92 |url=http://www.ima-mycology.org/CFF/pdf/Fungi-15.pdf |doi=10.5248/110.487 |url-status=dead |archive-url=https://web.archive.org/web/20120331090954/http://www.ima-mycology.org/CFF/pdf/Fungi-15.pdf |archive-date=2012-03-31 }}</ref>
+}}
+
+*{{Commons category-inline|Psilocybe inquilina}}
+*{{Wikispecies-inline}}
+
+{{Taxonbar|from1=Q24056489|from2=Q844481}}
+
+[[Category:Strophariaceae]]
+[[Category:Fungus species]]
+[[Category:Taxa named by Elias Magnus Fries]]
+
+
+{{Agaricales-stub}}

@@ -1,0 +1,39 @@
+{{Short description|Species of fungus}}
+{{single source|date=October 2025}}
+{{no footnotes|date=October 2025}}
+{{Speciesbox
+| image = Gymnopilus eucalyptorum. (47634190931).jpg
+| image_caption =
+| taxon = Gymnopilus eucalyptorum
+| authority = ([[John Burton Cleland|Cleland]]) [[Rolf Singer|Singer]]
+| synonyms =
+}}
+{{mycomorphbox
+| name = ''Gymnopilus eucalyptorum''
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+
+'''''Gymnopilus eucalyptorum''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]].
+
+==See also==
+{{Portal|Fungi}}
+[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==External links==
+*''[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=487483 Gymnopilus eucalyptorum]'' at [[Index Fungorum]]
+
+{{Taxonbar|from=Q5624783}}
+
+{{DEFAULTSORT:Gymnopilus eucalyptorum}}
+[[Category:Gymnopilus|eucalyptorum]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

@@ -1,0 +1,40 @@
+{{Short description|Species of fungus}}
+{{single source|date=October 2025}}
+{{no footnotes|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption =
+| taxon = Gymnopilus novoguineensis
+| authority = [[Tsuguo Hongo|Hongo]]
+| synonyms =
+}}
+{{mycomorphbox
+| name = Gymnopilus novoguineensis
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+
+'''''Gymnopilus novoguineensis''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]].
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==External links==
+*''[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=314796 Gymnopilus novoguineensis]'' at [[Index Fungorum]]
+
+{{Taxonbar|from=Q5624900}}
+
+{{DEFAULTSORT:Gymnopilus novoguineensis}}
+[[Category:Gymnopilus|novoguineensis]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

@@ -1,0 +1,63 @@
+{{Short description|Species of fungus}}
+{{Taxobox
+| image = Boletus parasiticus on Scleroderma citrinum.jpg
+| image_caption = ''B. parasiticus''
+| regnum = [[Fungi]]
+| divisio = [[Basidiomycota]]
+| classis = [[Agaricomycetes]]
+| ordo = [[Boletales]]
+| familia = [[Boletaceae]]
+| genus = ''[[Pseudoboletus]]''
+| species = ''P. parasiticus''
+| binomial = ''Pseudoboletus parasiticus''
+| binomial_authority = ([[Jean Baptiste François Pierre Bulliard|Bull.]]) Šutara, 1790
+| synonyms = ''Xerocomus parasiticus'' (Bull.) Quél., 1887
+}}
+{{mycomorphbox
+|name = ''Pseudoboletus parasiticus''
+|capShape = flat
+|hymeniumType = gills
+|stipeCharacter = bare
+|ecologicalType = parasitic
+|sporePrintColor = yellow
+|sporePrintColor2 = olive
+|howEdible2 = caution
+|howEdible = edible
+}}
+
+'''''Pseudoboletus parasiticus''''', previously known as '''''Boletus parasiticus''''' and '''''Xerocomus parasiticus''''', and commonly known as the '''parasitic bolete''', is a rare [[Boletaceae|bolete]] mushroom found on ''[[Scleroderma citrinum]]'' earthballs in North America.
+
+==Taxonomy==
+''Pseudoboletus parasiticus'' is one of the earliest-diverging lineages of the [[Boletaceae]], after the [[clade]] comprising ''[[Chalciporus]]'' and ''[[Buchwaldoboletus]]''.<ref name="Nuhn2013" />
+
+==Description==
+The cap is hemispherical when young,{{Citation needed|date=March 2025}} later flat, yellowish brown or darker and up to {{Convert|6|cm|frac=4}} wide.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=352}}</ref> The yellow stem is {{Convert|3-7|cm|abbr=on|frac=2}} tall and {{Convert|6-15|mm|frac=8}} thick.<ref name="audu" /> The flesh is pale yellow and the [[spore print]] is olive brown.<ref name="audu" />
+
+== Habitat and distribution ==
+It can be found found growing on ''[[Scleroderma citrinum]]'' earthballs in eastern North America from July to September.<ref name="audu" />
+
+== Edibility ==
+While edible, it is not recommended to do so, due to concerns about being poisoned by its host, which is poisonous.<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=255}}</ref>
+
+==See also==
+*[[List of Boletus species|List of ''Boletus'' species]]
+*[[List of North American boletes]]
+
+==References==
+{{Reflist|
+<ref name=Nuhn2013>{{cite journal |vauthors=Nuhn ME, Binder M, Taylor AF, Halling RE, Hibbett DS |title=Phylogenetic overview of the Boletineae |journal=Fungal Biology |year=2013 |volume=117 |issue=7–8 |pages=479–511 |doi=10.1016/j.funbio.2013.04.008 |pmid=23931115}}</ref>
+}}
+
+==Further reading==
+* E. Garnweidner. ''Mushrooms and Toadstools of Britain and Europe''. Collins. 1994.
+{{Taxonbar|from=Q761680}}
+
+[[Category:Pseudoboletus|parasiticus]]
+[[Category:Boletus|parasiticus]]
+[[Category:Edible fungi]]
+[[Category:Fungi of Europe]]
+[[Category:Fungus species]]
+[[Category:Taxa named by Jean Baptiste François Pierre Bulliard]]
+
+
+{{Boletales-stub}}

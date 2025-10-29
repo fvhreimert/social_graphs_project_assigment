@@ -1,0 +1,70 @@
+{{Speciesbox
+| image = Inocybe hystrix.jpg
+| image_caption =
+| genus = Inocybe
+| species = hystrix
+| authority = ([[Elias Magnus Fries|Fr.]]) [[P.Karst.]] (1879)
+| synonyms_ref = <ref name="urlMycoBank: Inocybe hystrix"/>
+| synonyms = *''Agaricus hystrix'' <small>Fr. (1838)</small>
+}}
+{{Mycomorphbox
+| name = ''Inocybe hystrix''
+| whichGills = adnate
+| capShape = convex
+| capShape2 = flat
+| hymeniumType=gills
+| stipeCharacter=bare
+| stipeCharacter2=cortina
+| ecologicalType=mycorrhizal
+| sporePrintColor=brown
+| howEdible=poisonous
+}}
+
+'''''Inocybe hystrix''''' is an [[agaric]] fungus in the family [[Inocybaceae]]. It forms [[mycorrhiza]] with surrounding [[deciduous]] trees. [[Basidiocarp|Fruit bodies]] are usually found growing alone or in small groups on leaf litter during autumn months. Unlike many ''[[Inocybe]]'' species, ''Inocybe hystrix'' is densely covered in brown scales, a characteristic that aids in identification. The mushroom also has a spermatic odour that is especially noticeable when the mushroom is damaged or crushed.
+
+Like many other ''Inocybe'' mushrooms, ''Inocybe hystrix'' contains dangerous amounts of [[muscarine]] and should not be consumed.
+
+==Taxonomy==
+
+The species was first described in 1838 by [[Elias Fries]] under the name ''Agaricus hystrix''.<ref name="Fries 1838"/> Finnish mycologist [[Petter Karsten]] later (1879) transferred it to ''Inocybe''.<ref name="Karsten 1879"/>
+
+==Description==
+
+Fruit bodies have convex to plano-convex caps measuring {{convert|3|–|5.5|cm|in|abbr=on}} in diameter. The caps are dry with scales that can be either erect or flat on the surface. The colour is brown in the centre, becoming paler towards the edges. The [[trama (mycology)|flesh]] is white, and has a spermatic odour and mild taste. The [[lamella (mycology)|gills]] are closely spaced, white to dull brown, and have fringed edges. The stipe measures {{convert|3|–|9|cm|in|abbr=on}} long by {{convert|0.5|–|1|cm|in|1|abbr=on}} thick, and is roughly the same width throughout its length; like the cap, it is scaly.<ref name="Halling 2005"/>
+
+The [[spore print]] is cinnamon brown. [[Basidiospore|spores]] are roughly almond-shaped, smooth, [[inamyloid]], and measure 8–12.5 by 5–6.5&nbsp;[[micrometre|μm]]. [[Clamp connection]]s are present in the [[hypha]]e.<ref name="Halling 2005"/>
+
+The species is poisonous.<ref name="Miller 2006">{{cite book|last=Miller Jr.|first=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=305|author-link=Orson K. Miller Jr.}}</ref>
+
+==Habitat and distribution==
+
+In North America and Europe, ''Inocybe hystrix'' grows in [[deciduous forest]], especially [[beech]].<ref name="urlRogers"/> In Costa Rica, it is found in the [[Cordillera Talamanca]], where it associates with ''[[Quercus costaricensis]]'' at elevations around {{convert|3000|m|sp=us}}.<ref name="Halling 2005"/>
+
+==See also==
+
+*[[List of Inocybe species|List of ''Inocybe'' species]]
+
+==References==
+
+{{Reflist|refs=
+
+<ref name="Fries 1838">{{cite book |author=Fries E. |title=Epicrisis Systematis Mycologici |year=1838 |page=171 |language=la }}</ref>
+
+<ref name="Halling 2005">{{cite book |author=Halling RE, Mueller GM. |title=Common Mushrooms of the Talamanca Mountains, Costa Rica |year=2005 |publisher=New York Botanical Garden Press |location=New York, New York|page=86|isbn=978-0-89327-460-3}}</ref>
+
+<ref name="Karsten 1879">{{cite journal |author=Karsten PA. |title=Rysslands, Finlands och den Skandinaviska halföns Hattsvampar. Förra Delen: Skifsvampar |journal=Bidrag till Kännedom of Finlands Natur Folk |year=1879 |volume=32 |page=453 |language=fi}}</ref>
+
+<ref name="urlMycoBank: Inocybe hystrix">{{cite web |title=''Inocybe hystrix'' (Fr.) P. Karst. 1879 |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=11008 |publisher=[[MycoBank]]. International Mycological Association |access-date=2011-11-03}}</ref>
+
+<ref name="urlRogers">{{cite web |title=''Inocybe hystrix'' |author=Phillips R |publisher=RogersMushrooms |url=http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6442.asp |access-date=2011-10-04 |url-status=dead |archive-url=https://web.archive.org/web/20080828122808/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6442.asp |archive-date=2008-08-28 }}</ref>
+
+}}
+
+{{Taxonbar|from=Q2712563}}
+
+[[Category:Inocybe|hystrix]]
+[[Category:Fungi described in 1838]]
+[[Category:Fungi of Europe]]
+[[Category:Poisonous fungi]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]

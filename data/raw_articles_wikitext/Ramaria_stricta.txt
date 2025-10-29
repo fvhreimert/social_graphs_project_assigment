@@ -1,0 +1,92 @@
+{{Speciesbox
+| image = Ramaria stricta 171867.jpg
+| taxon = Ramaria stricta
+| authority = ([[Christiaan Hendrik Persoon|Pers.]]) [[Lucien Quélet|Quél.]] (1888)
+| synonyms_ref = <ref name="urlMycoBank: Ramaria stricta"/>
+| synonyms =
+  {{plainlist|
+*''Clavaria stricta'' <small>Pers. (1795)</small>
+*''Clavaria syringarum'' <small>Pers. (1822)</small>
+*''Merisma strictum'' <small>(Pers.) [[Curt Sprengel|Spreng.]] (1827)</small>
+*''Clavaria pruinella'' <small>[[Vincenzo de Cesati|Ces.]] (1861)</small>
+*''Clavariella stricta'' <small>(Pers.) [[Petter Karsten|P.Karst.]] (1882)</small>
+*''Corallium stricta'' <small>(Pers.) [[Gotthold Hahn|G.Hahn]] (1883)</small>
+*''Lachnocladium odoratum'' <small>[[George Francis Atkinson|G.F.Atk.]] (1908)</small>
+  }}
+}}
+{{mycomorphbox
+| name = ''Ramaria stricta''
+| hymeniumType = smooth
+| capShape = no
+| whichGills = no
+| stipeCharacter = bare
+| sporePrintColor = yellow
+| ecologicalType = mycorrhizal
+| howEdible = inedible
+}}
+
+'''''Ramaria stricta''''', [[common name|commonly]] known as the '''strict-branch coral''' or '''strict coral mushroom''',<ref name="Arora 1986"/> is a [[coral fungus]] of the genus ''[[Ramaria]]''. Its [[basidiocarp|fruit body]] is up to {{convert|10|cm|1|abbr=on|frac=4}} tall, made of multiple slender, compact, and vertical parallel branches. Its color is typically light [[tan (color)|tan]] to [[wine (color)|vinaceous]]-brown. All parts of the mushroom bruise when handled. There are several lookalikes that can usually be distinguished from ''R.&nbsp;stricta'' by differences in coloration, bruising reaction, or microscopic features.
+
+The species has a [[cosmopolitan distribution]] and grows on dead wood, stumps, trunks, and branches of both [[deciduous]] and [[conifer]]ous trees. The fungus is inedible due to its unpleasant odor and bitter taste.
+
+==Taxonomy==
+The species was originally [[species description|described]] under the name ''Clavaria stricta'' by [[Christian Hendrik Persoon]] in 1795.<ref name="Persoon 1795"/> In 1888, French mycologist [[Lucien Quélet]] transferred the species to the genus ''[[Ramaria]]''.<ref name="Quelet 1888"/>
+
+It is commonly known as the "upright coral".<ref name="Roberts 2011"/>
+
+==Description==
+The color of the fruit body is brownish to yellow, becoming paler toward extremities.<ref name=":0">{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=249|language=en}}</ref> It bruises light reddish brown. The basidiocarp has a leathery texture when fresh, but becomes brittle when dry. Growing from a whitish base,<ref name=":0" /> the stipe is branched up to 8 times, the branches all upright and nearly parallel, each ending in 4 to 5 thornlike tips.<ref name="Schalkwijk-Barendsen1991"/> Overall, the fruit body appears bushy, and is medium-sized, up to {{convert|10 by 7|cm|abbr=on|frac=4}}. The stipe is single or branching from the base, with white [[mycelium]] and [[rhizomorph]]s radiating from the base. The odor is of anise and the taste is bitter.<ref name="Tylutki 1987II"/>
+
+The [[spore print]] is dark yellow. The [[Basidiospore|spore]]s are roughly elliptical, dotted with low [[cyanophilous]] warts, and measure 7–10 by 3.5–5.5&nbsp;[[μm]]. The [[basidia]] have basal clamps, are mostly four-spored, and sometimes have cyanophilous granular contents.<ref name="Tylutki 1987II"/>
+
+===Variants===
+Several variants have been described:
+
+: var. ''alba''
+: var. ''concolor''
+: var. ''fumida''
+: var. ''violaceo-tincta''
+
+===Similar species===
+Another widespread and common coral, ''[[Ramaria apiculata|R.&nbsp;apiculata]]'', typically grows on [[conifer]] wood and bruises brown like ''R.&nbsp;stricta'', but has green pigmentation.<ref name="Orr 1979"/> ''R.&nbsp;apiculata'' is a dull buff-tan to dull orange-brown and the young fruit bodies  often have white branch tips.<ref name="Arora 1986"/> ''[[Ramaria gracilis|R.&nbsp;gracilis]]'' prefers conifer wood and has lighter colors than ''R.&nbsp;stricta''. The tropical ''[[Ramara moelleriana|R.&nbsp;moelleriana]]'' can only be reliably distinguished from ''R.&nbsp;sticta'' by location and microscopic characteristics.<ref name="Roberts 2011"/> ''[[Ramaria flava|R.&nbsp;flava]]'' is [[mycorrhiza]]l and grows under coniferous and deciduous trees. Its fruit bodies are typically taller, with a more  unpleasant odor and a less bitter taste.<ref name="Kibby 1994"/> ''R.&nbsp;rubella'' (also known as ''R.&nbsp;acris'') is pinkish tan and ''R.&nbsp;tsugina'' stains green.<ref name=":0" />
+
+==Distribution and habitat==
+''Ramaria stricta'' has a [[cosmopolitan distribution]],<ref name="Schalkwijk-Barendsen1991"/> and is a fairly common species. The fungus is [[lignicolous]], common in late summer and fall in coniferous forests of the [[Pacific Coast]] and [[Rocky Mountain]]s.<ref name="Orr 1979"/> The fungus grows on dead wood, stumps, trunks, and branches of both [[deciduous|leafy]] and coniferous trees.<ref name="Corner 1950"/> The form that grows on deciduous wood tends to be more orange and less bushy than those which grow on coniferous wood. The fruit bodies can form in "log lines" where decaying wood is buried underground near the surface or is in an advanced state of decomposition.<ref name="Arora 1986"/>
+
+==Edibility==
+The fruit body has been described as "edible but unpalatable",<ref name="Orr 1979" /> but later field guides say it is inedible.<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |publisher=Firefly Books |year=2010 |isbn=978-1-55407-651-2 |location=Buffalo, NY |pages=356–57}}</ref><ref name="Miller 2006">{{cite book |last=Miller Jr. |first=Orson K. |author-link=Orson K. Miller Jr. |title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi |last2=Miller |first2=Hope H. |publisher=[[FalconGuide]] |year=2006 |isbn=978-0-7627-3109-1 |location=Guilford, CN |pages=349}}</ref>
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Arora 1986">{{cite book |author=Arora D. |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/648/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, California |year=1986 |orig-date=1979 |edition=2nd |pages=648–49}}</ref>
+
+<ref name="Corner 1950">{{cite book |author=Corner EJH. |title=A monograph of ''Clavaria'' and allied genera |series=Annals of Botany Memoirs |year=1950 |volume=1 |publisher=Oxford University Press |location=Oxford, UK |pages=623–4}}</ref>
+
+<ref name="Kibby 1994">{{cite book |author=Kibby G. |title=An Illustrated Guide to Mushrooms and Other Fungi of North America |publisher=Lubrecht & Cramer |location=London, UK |year=1994 |page=139 |isbn=0-681-45384-2}}</ref>
+
+<ref name="Orr 1979">{{cite book |author=Orr DB, Orr RT. |title=Mushrooms of Western North America |publisher=University of California Press |location=Berkeley |year=1979 |page=68 |isbn=0-520-03656-5}}</ref>
+
+<ref name="Persoon 1795">{{cite journal |title=Observationes mycologicae |journal=Annalen der Botanik (Usteri) |year=1795 |author=Persoon CH. |volume=15 |pages=1–39}}</ref>
+
+<ref name="Quelet 1888">{{cite book |author=Quélet L. |title=Flore mycologique de la France et des pays limitrophes |publisher=Octave Doin |location=Paris, France |year=1888 |page=464 |language=French |url=http://gallica.bnf.fr/ark:/12148/bpt6k1654232/f491.image.r=flore%20mycologique.langEN}}</ref>
+
+<ref name="Roberts 2011">{{cite book |author=Roberts P, Evans S. |title=The Book of Fungi |year=2011 |publisher=University of Chicago Press |location=Chicago, Illinois |page=503 |isbn=978-0-226-72117-0}}</ref>
+
+<ref name="Schalkwijk-Barendsen1991">{{cite book |author=Schalkwijk-Barendsen HME. |title=Mushrooms of Western Canada |publisher=Lone Pine Publishing |location=Edmonton, Canada |year=1991 |pages=[https://archive.org/details/mushroomsofweste0000scha/page/363 363] |isbn=0-919433-47-2 |url=https://archive.org/details/mushroomsofweste0000scha/page/363 }}</ref>
+
+<ref name="Tylutki 1987II">{{cite book |title=Mushrooms of Idaho and the Pacific Northwest. Vol. 2. Non-gilled Hymenomycetes |author=Tylukti EE. |year=1987 |publisher=The University of Idaho Press |location=Moscow, Idaho |pages=98–9 |isbn=0-89301-097-9}}</ref>
+
+<ref name="urlMycoBank: Ramaria stricta">{{cite web |url=http://www.mycobank.org/Biolomics.aspx?Table=Mycobank&MycoBankNr_=355674 |title=''Ramaria stricta'' (Pers.) Quél. 1888 |publisher=[[MycoBank]]. International Mycological Association |access-date=2011-10-21}}</ref>
+
+}}
+
+{{Taxonbar|from=Q633746}}
+
+[[Category:Gomphaceae]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Inedible fungi]]
+[[Category:Fungi described in 1795]]
+[[Category:Taxa named by Christiaan Hendrik Persoon]]
+[[Category:Fungus species]]

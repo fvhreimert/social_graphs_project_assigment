@@ -1,0 +1,40 @@
+{{Short description|Species of fungus}}
+{{single source|date=October 2025}}
+{{no footnotes|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption =
+| taxon = Gymnopilus lateritius
+| authority = ([[Narcisse Théophile Patouillard|Pat.]]) [[William Alphonso Murrill|Murrill]]
+| synonyms =
+}}
+{{mycomorphbox
+| name = Gymnopilus lateritius
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+
+'''''Gymnopilus lateritius''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]].
+
+==See also==
+{{Portal|Fungi}}
+[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==External links==
+*''[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=451331 Gymnopilus lateritius]'' at [[Index Fungorum]]
+
+{{Taxonbar|from=Q10763390}}
+
+{{DEFAULTSORT:Gymnopilus lateritius}}
+[[Category:Gymnopilus|lateritius]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

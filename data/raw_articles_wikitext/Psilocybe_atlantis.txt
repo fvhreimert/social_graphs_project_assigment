@@ -1,0 +1,65 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Psilocybe.atlantis.one.jpg
+| genus = Psilocybe
+| species = atlantis
+| authority = Guzmán, Hanlin & C.White (2003)
+| range_map = Psilocybe_atlantis_range.png
+| range_map_upright = 0.5
+| range_map_caption = Range of ''Psilocybe atlantis''
+}}
+{{mycomorphbox
+| name = ''Psilocybe atlantis''
+| whichGills = adnate
+| capShape = conical
+| capShape2 = convex
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = saprotrophic
+| sporePrintColor = purple-brown
+| howEdible = psychoactive
+}}
+
+'''''Psilocybe atlantis''''' is a rare [[psychedelic mushroom]] that contains [[psilocybin]] and [[psilocin]] as main active compounds. It is a close relative of ''[[Psilocybe mexicana]]'' and has been recorded only from [[Georgia (U.S. state)|Georgia]].<ref>{{cite journal | last1 = Guzmán | first1 = G. | last2 = Hanlin | first2 = R. T. | last3 = White | first3 = C. | date = 2003 | title = Another new bluing species of ''Psilocybe'' from Georgia, U.S.A. | journal = Mycotaxon | volume = 86 | pages = 179–183 }}</ref> It has a pleasant taste and smell.
+
+While naturally rare it is often cultivated for its psychedelic properties.
+
+==Description==
+The [[Pileus (mycology)|cap]] is 2.5–4&nbsp;cm in diameter, [[conic]] to [[wiktionary:convex|convex]], and smooth to slightly striate, sometimes with a small [[umbo (mycology)|umbo]]. The cap surface is pale brown to reddish brown in color, [[hygrophanous]], and bruises blue where damaged.<br>
+Its gills are [[wikt:adnate|subadnate]], thin, and brown.<br>
+The [[Stipe (mycology)|stipe]] is 5&nbsp;cm by .3&nbsp;cm. It has an equal structure and is brownish with small brown scales, especially towards the base. The stipe also bruises blue where damaged.<br>
+''Psilocybe atlantis'' [[spore]]s are 9 x 6 x 5.5 [[μm]] with a broad [[germ pore]].
+
+==Distribution and habitat==
+''Psilocybe atlantis'' has been found in grassy lawns and vacant lots in [[Fulton County, Georgia]].
+
+The original find was made in Fulton County Georgia, growing in a patch of moss beside a 5 year old home whose lot bordered a wooded area within 50 meters of a tributary of the Chattahoochee river.
+
+==Gallery==
+
+<gallery>
+Image:Psilocybe.atlantis.two.jpg|Psilocybe atlantis
+Image:Psilocybe.atlantis.three.jpg|Psilocybe atlantis
+Image:Psilocybe.atlantis.four.jpg|Psilocybe atlantis
+Image:Psilocybe.atlantis.five.jpg|Psilocybe atlantis
+Image:Psilocybe.atlantis.six.jpg|Psilocybe atlantis
+Image:Psilocybe.atlantis.seven.jpg|Psilocybe atlantis
+Image:Psilocybe.atlantis.eight.jpg|Psilocybe atlantis
+Image:Psilocybe.atlantis.nine.jpg|Psilocybe atlantis
+</gallery>
+
+==References==
+{{Reflist}}
+
+{{Hallucinogenic mushrooms}}
+{{Taxonbar|from=Q7255846}}
+
+[[Category:Entheogens]]
+[[Category:Psychoactive fungi]]
+[[Category:Psilocybe|atlantis]]
+[[Category:Psychedelic tryptamine carriers]]
+[[Category:Fungi described in 2003]]
+[[Category:Fungi of the United States]]
+[[Category:Taxa named by Gastón Guzmán]]
+[[Category:Fungi without expected TNC conservation status]]
+[[Category:Fungus species]]

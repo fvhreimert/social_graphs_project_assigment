@@ -1,0 +1,68 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{Speciesbox
+| image = Cortinarius purpurascens 65102.jpg
+| genus = Thaxterogaster
+| species = purpurascens
+| authority = ([[Elias Magnus Fries|Fr.]]) Niskanen & Liimat. (2022)
+| synonyms_ref = <ref name="urlFungorum synonymy: Cortinarius purpurascens"/>
+| synonyms = ''Agaricus purpurascens'' <small>[[Elias Magnus Fries|Fr.]] (1818)</small><br/>
+''Cortinarius purpurascens'' <small>Fr. (1838)</small><br/>
+''Cortinarius purpurascens'' var. ''largusoides'' <small>[[Bruno Cetto|Cetto]] (1991)</small><br/>
+''Phlegmacium purpurascens'' <small>[[Aldabert Ricken|Ricken]] (1915)</small>
+}}
+{{mycomorphbox
+| name = ''Thaxterogaster purpurascens''
+| whichGills = emarginate
+| capShape = convex
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = brown
+| howEdible = edible
+}}
+{{stack end}}
+
+'''''Thaxterogaster purpurascens''''' is a species of [[mushroom]] producing [[fungus]] in the family [[Cortinariaceae]].<ref name=":0">{{Cite web |title=Species Fungorum - Thaxterogaster purpurascens (Fr.) Niskanen & Liimat. |url=http://www.speciesfungorum.org/Names/GSDSpecies.asp?RecordID=559210 |access-date=2023-01-14 |website=www.speciesfungorum.org}}</ref> It is [[common name|commonly]] known as the '''bruising webcap.'''<ref>{{Cite web |title=Cortinarius purpurascens, Bruising Webcap mushroom |url=https://www.first-nature.com/fungi/cortinarius-purpurascens.php |access-date=2023-01-14 |website=www.first-nature.com}}</ref><ref>{{Cite web |title=English names for fungi - April 2022 |url=https://www.britmycolsoc.org.uk/ |access-date=2023-01-14 |website=www.britmycolsoc.org.uk |publisher=The British Mycological Society |language=en}}</ref>
+
+==Taxonomy==
+The species was first [[Species description|described]] as ''Agaricus purpurascens'' by [[Elias Magnus Fries]] in 1818.<ref>{{Cite book |last=Fries |first=Elias |url=https://www.biodiversitylibrary.org/item/196553#page/86/mode/1up |title=Observationes mycologicae |date=1818 |publisher=sumptibus G. Bonnieri |volume=2 |location=Havniae |page=70}}</ref> In 1838 Fries reclassified it as ''Cortinarius pluvius.''<ref>{{Cite web |last=Fries |first=Elias Magnus |date=1838 |title=Epicrisis Systematis mycologici |url=https://bibdigital.rjb.csic.es/records/item/12103-redirection |access-date=2023-01-14 |website=bibdigital.rjb.csic.es |page=265 |language=}}</ref><ref name="Fries1838" />
+
+The species was also placed in the segregate genus ''Phlegmacium'' by [[Aldabert Ricken]] as ''P. purpurascens''.<ref name="urlFungorum synonymy: Cortinarius purpurascens" />
+
+In 2022 the species was transferred from ''Cortinarius'' and reclassified as ''Thaxterogaster purpurascens'' based on genomic data.<ref name=":2">{{Cite journal |last=Liimatainen |first=Kare |last2=Kim |first2=Jan T. |last3=Pokorny |first3=Lisa |last4=Kirk |first4=Paul M. |last5=Dentinger |first5=Bryn |last6=Niskanen |first6=Tuula |date=2022-01-01 |title=Taming the beast: a revised classification of Cortinariaceae based on genomic data |url=https://doi.org/10.1007/s13225-022-00499-9 |journal=Fungal Diversity |language=en |volume=112 |issue=1 |pages=89–170 |doi=10.1007/s13225-022-00499-9 |issn=1878-9129|hdl=2299/25409 |hdl-access=free }}</ref> This study also reclassified three of the variants of this species and transferred them to the distinct species: ''[[Thaxterogaster eumarginatus]]'', ''[[Thaxterogaster occidentalis]]'' and ''[[Thaxterogaster subpurpurascens]].<ref name=":0" />''
+
+==Description==
+[[image:Cortinarius purpurascens 65100.jpg|thumb|left|The sticky caps may range in color from brownish to grayish blue.]]
+The [[pileus (mycology)|cap]] is {{convert|3|–|10|cm|in|abbr=on}} in diameter, initially convex before flattening out somewhat. The margin is rolled inward, and viscid, cuticle which is often slightly spotted, smooth and with small fugacious viscid concolorous flocci. The color varies from dirty brownish or brownish-rust to ocher or grayish bluish in the center. The margin is fibrillose (covered with roughly parallel threadlike filaments), then smooth, with a violet or reddish-violet to grayish-brown tinge, then concolorous with the center of the cap. The [[lamella (mycology)|gills]] are thin and crowded closely together, broadly emarginate (notched), dark violet when young, with edges often slightly denticulate (finely toothed). The tinge and intensity of the violet coloring is similar to that of the wood blewitt (''[[Collybia nuda]]''). The [[stipe (mycology)|stem]] is solid, vivid violet paling to violet purple or violet brown, with a distinctly marginate bulb {{convert|3|–|4|cm|in|abbr=on}} wide, otherwise almost cylindrical towards the base. The [[wikt:cortina|cortina]] (a cobweb-like [[partial veil]] consisting of silky fibrils) is violet. The [[trama (mycology)|flesh]] is violet lilac or violet, paling slightly when mature, and with a weak, unpleasant smell and mild taste. When cut or broken it turns purple, like the gills. It is an [[edible mushroom]] of medium quality.<ref name=Pilat1961/>
+
+The [[spore]]s are [[wikt:ellipsoid|ellipsoid]], slightly almond-shaped, verrucose, and measure 9–10 by 4.8–6&nbsp;μm. The [[basidia]] (the spore-bearing cells) are 30–35 by 7–9&nbsp;[[micrometre|μm]]. On the edge of the gills there are thin-walled irregularly bottle-shaped [[wikt:cheilocystidium|cheilocystidia]], which protrude 20–30&nbsp;μm. The [[spore print|spore deposit]] is brownish rust to light brown.<ref name=Pilat1961/>
+
+==Distribution and habitat==
+The fruit bodies of ''Thaxterogaster purpurascens'' grow in groups in [[coniferous forest]]s, mainly on more acid soils and are quite rare. It is distributed throughout the [[temperate]] zone of the [[Northern Hemisphere]],<ref name=Pilat1961/> and has been collected from Europe and North America.<ref name="urlRogers"/>
+
+==See also==
+*[[List of Cortinarius species|List of ''Cortinarius'' species]]
+
+==References==
+{{Reflist|refs=
+
+<!-- <ref name=EnglishCommonNames>{{cite web |url=http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |title=Recommended English Names for Fungi in the UK |publisher=[[British Mycological Society]] |access-date=2012-04-04 |archive-url=https://web.archive.org/web/20110716083053/http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |archive-date=2011-07-16 |url-status=dead }}</ref> -->
+
+<ref name=Fries1838>{{cite book |title=Epicrisis Systematis Mycologici |author=Fries EM. |year=1838 |publisher=Typographia Academica |location=Uppsala |page=265 |url=https://books.google.com/books?id=sLQTAAAAQAAJ&q=Epicrisis%20Systematis%20Mycologici&pg=PA265 |access-date=2010-08-24 |language=Latin}}</ref>
+
+<ref name=Pilat1961>{{cite book |title=Mushrooms and other Fungi |last=Pilat Á, Ušák O. |year=1961 |publisher=Peter Nevill |location=London |page=89 }}</ref>
+
+<ref name="urlFungorum synonymy: Cortinarius purpurascens">{{cite web |url=http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=176760 |title=''Cortinarius purpurascens'' Fr. |publisher=CAB International |work=Species Fungorum |access-date=2010-08-06}}</ref>
+
+<ref name="urlRogers">{{cite web |url=http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~5441~gid~~source~gallerydefault.asp |title=''Cortinarius purpurascens'' |author=Phillips R |work=Rogers Mushrooms |access-date=2010-08-24 |archive-url=https://web.archive.org/web/20081118013824/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~5441~gid~~source~gallerydefault.asp |archive-date=2008-11-18 |url-status=dead }}</ref>
+
+}}
+
+{{Taxonbar|from=Q2998122}}
+
+[[Category:Cortinarius|purpurascens]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]
+[[Category:Taxa named by Elias Magnus Fries]]

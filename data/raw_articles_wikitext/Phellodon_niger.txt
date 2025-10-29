@@ -1,0 +1,99 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Phellodon niger 496570.jpg
+| image_caption =
+| genus = Phellodon
+| species = niger
+| authority = ([[Elias Magnus Fries|Fr.]]) [[P.Karst.]] (1881)
+| synonyms_ref = <ref name="urlFungorum: Phellodon niger"/>
+| synonyms = *''Hydnum nigrum'' <small>Fr. (1815)</small>
+*''Hydnellum nigrum'' <small>(Fr.) P.Karst. (1879)</small>
+*''Calodon niger'' <small>(Fr.) [[Quél.]] (1886)</small>
+}}
+
+'''''Phellodon niger''''', commonly known as the '''black tooth''',<ref name="BMS"/> is a species of [[tooth fungus]] in the family [[Bankeraceae]], and the [[type species]] of the genus ''[[Phellodon]]''. It was originally [[species description|described]] by [[Elias Magnus Fries]] in 1815 as a species of ''[[Hydnum]]''.<ref name="Fries 1815"/> [[Petter Karsten]] included it as one of the original three species when he [[circumscription (taxonomy)|circumscribed]] ''Phellodon'' in 1881.<ref name="Karsten 1881"/> The fungus is found in Europe and North America, although [[molecular phylogenetics|molecular]] studies suggest that the North American populations represent a similar but genetically distinct species.
+
+==Taxonomy==
+''Phellodon niger'' was originally [[species description|described]] by Swedish mycologist [[Elias Fries]] in 1815 as a species of ''[[Hydnum]]''.<ref name="Fries 1815"/> The genus ''[[Phellodon]]'' was [[circumscription (taxonomy)|circumscribed]] in 1881 by Finnish mycologist [[Petter Karsten]] to contain white-toothed fungi. Karsten included three species: ''[[Phellodon cyathiformis|P.&nbsp;cyathiformis]]'', ''[[Phellodon melaleucus|P.&nbsp;melaleucus]]'', and the [[type species|type]], ''P.&nbsp;niger'' (originally published with the [[botanical name|epithet]] "nigrum").<ref name="Karsten 1881"/>
+
+The [[variety (botany)|variety]] ''Phellodon niger'' var. ''alboniger'', published by [[Kenneth Harrison (mycologist)|Kenneth Harrison]] in 1961,<ref name="Harrison 1961"/> is considered [[synonym (biology)|synonymous]] with ''Phellodon melaleucus''.<ref name="Index Fungorum: Phellodon niger var. alboniger "/> Lucien Quélet's 1886 ''Calodon niger''<ref name="Quélet 1886"/> is a synonym of ''Phellodon niger''.<ref name="urlFungorum: Phellodon niger"/> Taxonomic synonyms (i.e., based on a different [[type (biology)|type]]) include: ''Hydnum olidum'' (Berkeley, 1877); ''Hydnum cuneatum'' (Lloyd 1925); and ''Hydnum confluens'' (Peck 1874).<ref name="Baird 2013"/> The DNA sequences of the [[internal transcribed spacer]] regions of collections from the United Kingdom were compared with collections made in the Southern United States. They showed a 92–93% similarity, suggesting that the North American populations are a different species with very similar [[morphology (biology)|morphological]] characteristics.<ref name="Baird 2013"/>
+
+''Phellodon niger'' is [[common name|commonly]] known as the "black scented spine fungus",<ref name="Pegler 1997"/> and the "black tooth".<ref name="BMS"/>
+
+==Description==
+
+Fruitbodies of ''Phellodon niger'' have a [[pileus (mycology)|cap]] and a [[stipe (mycology)|stipe]], and so fall into the general class of "stipitate hydnoid fungi". Individual caps are up to {{convert|5|cm|in|abbr=on}} in diameter, but caps of neighboring fruitbodies often fuse together to create larger compound growths. Caps are flat to depressed to somewhat funnel-shaped, with a felt-like texture at first before developing concentric pits, wrinkles, and ridges. Initially whitish (sometimes with purplish tints), the cap later darkens in the center to grey, grey-brown, or black. The stipe, measuring up to {{convert|4|cm|in|abbr=on}} long, is roughly the same color as the cap. On the underside of the caps are grey spines, up to 4&nbsp;mm long.<ref name="Pegler 1997"/> The outer covering of the stipe is a thick felty layer of [[mycelium]] that absorbs water like a sponge. In conditions of high humidity, ''P.&nbsp;niger'' can form striking drops of black liquid on the actively growing caps.<ref name="Harrison 1961"/> The [[trama (mycology)|flesh]] has an odor of [[fenugreek]] when it is dry.<ref name="Pegler 1997"/> The mushroom tissue turns bluish-green when [[Chemical tests in mushroom identification|tested]] with a solution of [[potassium hydroxide]].<ref name="Baird 2013"/>
+
+The [[ellipsoid]], [[hyaline]] (translucent) spores measure 3.5–5 by 3–4&nbsp;[[micrometre|μm]]. The [[basidia]] (spore-bearing  cells) are club-shaped, four-spored, and measure 25–40 by 5–7&nbsp;μm. ''Phellodon niger'' has a monomitic [[hypha]]l system, producing generative hyphae with a diameter of 2.5–5&nbsp;μm.<ref name="Pegler 1997"/>
+
+This fungus is considered inedible.<ref name="Miller 2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuides]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=403|author-link=Orson K. Miller Jr.}}</ref>
+
+==Habitat and distribution==
+The [[ectomycorrhiza]]e that ''P.&nbsp;niger'' forms with [[Norway spruce]] (''Picea abies'') has been comprehensively described. It is distinguished from the ectomycorrhizae of other Thelephorales species by the unique shape of its [[chlamydospore]]s.<ref name="Agerer 1992"/> [[Stable isotope ratio]] analysis of the abundance of the stable isotope [[carbon-13]] shows that ''P.&nbsp;niger'' has a metabolic signature close to that of [[saprotrophic]] fungi, indicating that it may be able to obtain carbon from sources other than a tree host.<ref name="Högberg 1999"/><ref name="Taylor 2003"/>
+
+''Phellodon niger'' is found in continental Europe, where it has a widespread distribution,<ref name="Pegler 1997"/> and in North America. In a preliminary assessment for a [[Regional Red List|red list]] of [[Threatened species|threatened]] British fungi, ''P.&nbsp;niger'' is considered [[rare species|rare]].<ref name="ENRR 2004"/> In Switzerland, it is considered a [[vulnerable species]].<ref name="Senn-Irlet 2007"/> ''Phellodon niger'' was included in a Scottish study to develop species-specific [[Polymerase chain reaction|PCR]] primers that can be used to detect the mycelia of stipitate hydnoids in soil.<ref name="van der Linde 2008"/> Collections labelled as ''P.&nbsp;niger'' from the United Kingdom that were DNA tested, revealed additional [[cryptic species]].<ref name="Parfitt 2007"/><ref name="Ainsworth 2010"/> Analysis using PCR can determine the presence of a ''Phellodon'' species up to four years after the appearance of fruitbodies, allowing a more accurate determination of their possible decline and threat of extinction.<ref name="van der Linde 2012"/>
+
+==Chemistry==
+''Phellodon niger'' has been a source for several bioactive compounds: the cyathane-type [[diterpenoid]]s, nigernin A and B; a [[terphenyl]] derivative called phellodonin (2',3'-diacetoxy-3,4,5',6',4<nowiki>''</nowiki>-pentahydroxy-''p''-terphenyl); [[grifolin]]; and 4-''O''-methylgrifolic acid.<ref name="Fang 2010"/> Additional nigernins (C through F) were reported in 2011.<ref name="Fang 2011"/>
+
+Fruitbodies are used to make [[mushroom dye|a gray-blue or green dye]].<ref name="Roberts 2011"/>
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Agerer 1992">{{cite journal |author=Agerer R. |title=Ectomycorrhizae of ''Phellodon niger'' on Norway spruce and their chlamydospores |journal=Mycorrhiza |year=1992 |volume=2 |issue=1 |pages=47–52 |doi=10.1007/BF00206283|s2cid=11608006 }}</ref>
+
+<ref name="Ainsworth 2010">{{cite journal |vauthors=Ainsworth AM, Parfitt D, Rogers HJ, Boddy L |title=Cryptic taxa within European species of ''Hydnellum'' and ''Phellodon'' revealed by combined molecular and morphological analysis |journal=Fungal Ecology |year=2010 |volume=3 |issue=2 |pages=65–80 |doi=10.1016/j.funeco.2009.07.001}}</ref>
+
+<ref name="Baird 2013">{{cite journal |vauthors=Baird RE, Wallace LE, Baker G, Scruggs M |title=Stipitate hydnoid fungi of the temperate southeastern United States |journal=Fungal Diversity |year=2013 |volume=62 |issue=1 |pages=41–114 |doi=10.1007/s13225-013-0261-6|s2cid=16846274 }}</ref>
+
+<ref name="BMS">{{cite web |author=Holden L. |url=http://www.britmycolsoc.org.uk/library/english-names/ |title=English Names for fungi 2014 |date=July 2014 |publisher=[[British Mycological Society]] |access-date=2015-11-11 |archive-date=2015-09-23 |archive-url=https://web.archive.org/web/20150923194645/http://www.britmycolsoc.org.uk/library/english-names/ |url-status=dead }}</ref>
+
+<ref name="ENRR 2004">{{cite report |vauthors=Bridge PD, Panchal G |title=Number 557. Population diversity and speciation in ''Hydnellum'' and ''Phellodon'' species |series=English Nature Research Reports |year=2004 |publisher=[[English Nature]] |url=http://publications.naturalengland.org.uk/file/6167520566312960 |format=PDF |issn=0967-876X}}</ref>
+
+<ref name="Fang 2010">{{cite journal |vauthors=Fang ST, Zhang L, Li ZH, Li B, Liu JK |title=Cyathane diterpenoids and nitrogenous terphenyl derivative from the fruiting bodies of basidiomycete ''Phellodon niger'' |journal=Chemical and Pharmaceutical Bulletin |year=2010 |volume=58 |issue=9 |pages=1176–1179 |pmid=20823596 |doi=10.1248/cpb.58.1176 |doi-access=free }}</ref>
+
+<ref name="Fang 2011">{{cite journal |vauthors=Fang ST, Feng T, Zhang L, Dong ZJ, Li ZH, Liu JK |title=Cyathane diterpenoids from fruiting bodies of ''Phellodon niger'' |journal=Natural Products and Bioprospecting |year=2011 |volume=1 |issue=1 |pages=37–40 |doi=10.1007/s13659-011-0002-z|pmc=4131705 }} {{open access}}</ref>
+
+<ref name="Fries 1815">{{cite journal |author=Fries EM. |title=Observationes mycologicae |year=1815 |publisher=Gerhard Bonnier |location=Copenhagen |volume=1 |page=134 |language=Latin |url=http://www.cybertruffle.org.uk/cyberliber/01532/0134.htm}}</ref>
+
+<ref name="Harrison 1961">{{cite report |author=Harrison KA. |title=The Stipitate Hydnums of Nova Scotia |work=Publications of the Department of Agriculture Canada |location=Ottawa, Canada |publisher=Research Branch, Canada Department of Agriculture |year=1961 |volume=1099 |pages=1–60 (see p.&nbsp;15) |url=https://www.biodiversitylibrary.org/page/39011849}} {{open access}}</ref>
+
+<ref name="Högberg 1999">{{cite journal |vauthors=Högberg P, Plamboeck AH, Taylor AF, Fransson PM |year=1999 |title=Natural C-13 abundance reveals trophic status of fungi and host-origin of carbon in mycorrhizal fungi in mixed forests |journal=Proceedings of the National Academy of Sciences of the United States of America |volume=96 |issue=15 |pages=8534–8539 |doi=10.1073/pnas.96.15.8534|pmc=17551 |pmid=10411910|bibcode=1999PNAS...96.8534H |doi-access=free }} {{open access}}</ref>
+
+<ref name="Index Fungorum: Phellodon niger var. alboniger">{{cite web |title=Record Details: ''Phellodon niger'' var. ''alboniger'' (Peck) K.A. Harrison |url=http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=349973 |publisher=Index Fungorum. CAB International |access-date=2015-09-21}}</ref>
+
+<ref name="Karsten 1881">{{cite journal |author=Karsten PA. |title=Enumeratio Hydnearum Fr. Fennicarum, systemate novo dispositarum |journal=Revue mycologique, Toulouse |year=1881 |volume=3 |issue=9 |page=19 |language=Latin |url=https://www.biodiversitylibrary.org/page/11599314}}</ref>
+
+<ref name="Parfitt 2007">{{cite journal |vauthors=Parfitt D, Ainsworth AM, Simpson D, Rogers HJ, Boddy L |year=2007 |title=Molecular and morphological discrimination of stipitate hydnoids in the genera ''Hydnellum'' and ''Phellodon'' |journal=Mycological Research |volume=111 |issue=7 |pages=761–777 |doi=10.1016/j.mycres.2007.05.003 |pmid=17681224}}</ref>
+
+<ref name="Pegler 1997">{{cite book |vauthors=Pegler DN, Roberts PJ, Spooner BM |title=British Chanterelles and Tooth Fungi |year=1997 |publisher=Royal Botanic Gardens |location=Kew, UK |isbn=978-1-900347-15-0 |page=45}}</ref>
+
+<ref name="Quélet 1886">{{cite book |author=Quélet L. |title=Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium |year=1886 |publisher=Octave Dion |location=Lutetia |page=191 |language=Latin |url=https://www.biodiversitylibrary.org/item/101574#page/199/mode/1up}}</ref>
+
+<ref name="Roberts 2011">{{cite book |vauthors=Roberts P, Evans S |title=The Book of Fungi |year=2011 |publisher=University of Chicago Press |location=Chicago, Illinois |page=474 |isbn=978-0-226-72117-0}}</ref>
+
+<ref name="Senn-Irlet 2007">{{cite report |vauthors=Senn-Irlet B, Bieri G, Egli S |title=Lista Rossa Macromiceti. Lista Rossa delle specie minacciate in Svizzera. UV-0718-I |year=2007 |location=Bern |publisher=Ufficio federale dell’ambiente |language=Italian |url=http://www.bafu.admin.ch/publikationen/publikation/00055/index.html?lang=fr&lang=it}}</ref>
+
+<ref name="Taylor 2003">{{cite journal |vauthors=Taylor AF, Fransson PM, Högberg P, Högberg MN, Plamboeck AH |title=Species level patterns in C-13 and N-15 abundance of ectomycorrhizal and saprotrophic fungal sporocarps |journal=New Phytologist |year=2003 |volume=159 |issue=3 |pages=757–774 |doi=10.1046/j.1469-8137.2003.00838.x|pmid=33873595 |doi-access=free }} {{open access}}</ref>
+
+<ref name="urlFungorum: Phellodon niger">{{cite web |title=GSD Species Synonymy: ''Phellodon niger'' (Fr.) P. Karst. |url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=246562 |publisher=Species Fungorum. CAB International |access-date=2015-09-09}}</ref>
+
+<ref name="van der Linde 2008">{{cite journal |vauthors=Van der Linde S, Alexander I, Anderson IC |year=2008 |title=A PCR-based method for detecting the mycelia of stipitate hydnoid fungi in soil |journal=Journal of Microbiological Methods |volume=75 |issue=1 |pages=40–46 |pmid=18586344 |doi=10.1016/j.mimet.2008.04.010}}</ref>
+
+<ref name="van der Linde 2012">{{cite journal |vauthors=van der Linde S, Holden E, Parkin PI, Alexander IJ, Anderson IC |title=Now you see it, now you don't: The challenge of detecting, monitoring and conserving ectomycorrhizal fungi |journal=Fungal Ecology |year=2012 |volume=5 |issue=5 |pages=633–640 |doi=10.1016/j.funeco.2012.04.002}}</ref>
+}}
+
+==External links==
+*{{Commons-inline}}
+*{{IndexFungorum|246562}}
+
+{{Taxonbar|from=Q10684413}}
+
+[[Category:Fungi described in 1815]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Inedible fungi]]
+[[Category:Phellodon|niger]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]

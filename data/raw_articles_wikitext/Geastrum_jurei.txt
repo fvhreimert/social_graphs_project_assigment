@@ -1,0 +1,49 @@
+{{Speciesbox
+| image =
+| image_caption =
+| genus = Geastrum
+| species = jurei
+| authority = Lazo
+| range_map = Mapa loc Valparaíso.svg
+| range_map_caption = ''G. jurei'' is found in [[Algarrobo, Chile|Algarrobo]] (circle), [[Valparaíso]] Province (red), in [[Chile]]
+}}
+{{Mycomorphbox
+| name = ''Geastrum jurei''
+| capShape = no
+| hymeniumType = gleba
+| ecologicalType = saprotrophic
+| sporePrintColor = brown
+| howEdible = inedible 
+}}
+
+'''''Geastrum jurei''''' is a species of [[fungus]] in the [[Geastrales]], or earthstar fungi. It is known only from [[Algarrobo, Chile|Algarrobo]], in the [[Valparaíso]] province of Chile. It is a ''fornicate'' species of earthstar, meaning that the tips of the rays press down so as to raise the spherical spore sac into the air.
+
+==Taxonomy==
+Based on the characteristics of the exoperidium (the outer tissue layer of the [[peridium]]), ''Geastrum jurei'' is [[classification (biology)|classified]] in the [[section (biology)|section]] ''Perimyceliata'' Stanek. It is distinguished from other fornicate earthstars: ''[[Geastrum smardae]]'' and ''[[Geastrum welwitschii|G.&nbsp;welwitschii]]'' belong to the section ''Basimyceliata'', ''[[Geastrum quadrifidum|G.&nbsp;quadrifidium]]'' has a clearly defined peristome (an opening on top of the spore sac) and ''[[Geastrum fornicatum|G.&nbsp;fornicatum]]'' has a peristome the same color as the endoperidium. Although the species ''[[Geastrum dissimile|G.&nbsp;dissimile]]'' appeared to be related, Lazo examined the [[type specimen]], and proved it to be different not only by a more sulcate mouth (with deep narrow furrows or grooves) but also by other macroscopic and microscopic characters (e.g., smaller spores with acute spines).<ref name=Lazo1972/>
+
+Known from Chile, the species was described in 1972, based on specimens found in [[Algarrobo, Chile|Algarrobo]], [[Valparaíso]], in 1966. The [[specific name (botany)|specific epithet]] is dedicated to professor Ricardo Jure M.<ref name=Lazo1972/>
+
+==Description==
+The exoperidium is {{convert|26|mm|in|abbr=on}} wide, {{convert|15|mm|in|abbr=on}} high, and split into five broadly acute rays. The outer surface is strongly encrusted with sand and debris; the fibrillose layer is hard, on the outside shining, pale ochraceous, on the inside [[chestnut (color)|chestnut]]. The pseudoparenchymatic layer is thin, dark brown with a [[wikt:violaceous|violaceous]] tinge, cracked, especially on the rays, and hard like wood. The pedicel is 2 by 4&nbsp;mm broad and 2&nbsp;mm high, compressed, smooth, and cream-colored. The endoperidium (the inner tissue layer of the peridium) is round, 9&nbsp;mm broad and 8&nbsp;mm high, depressed, the same color as the pseudoparenchymatic layer, and smooth. The peristome is roughly conical, silky, slightly radially wrinkled (but not sulcate), and very pale grayish brown. The peristome is indefinite, but due to its color it is well-distinguished from the endoperidium.<ref name=Lazo1972/>
+
+The [[spore]]s are 5–5.5 [[micrometre|μm]] broad, reddish brown, spherical, with warts that are short and irregular. The [[capillitium]] is 5–8&nbsp;μm in diameter, reddish brown, thin walled, nonseptate, without any branches.<ref name=Lazo1972/>
+
+==Habitat and distribution==
+The fruit bodies of ''Geastrum jurei'' grow on sandy soil close to the beach. They have only been reported from Chile.<ref name=Lazo1972/>
+
+==References==
+{{Reflist|refs=
+
+<ref name=Lazo1972>{{cite journal |author=Lazo W. |year=1972 |title=Fungi from Chile I. Some Gasteromycetes and Agaricales |journal=Mycologia |volume=64 |issue=4 |pages=787–98 |jstor=3757933 | doi = 10.2307/3757933 }}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|314342}}
+*{{MycoBank|314342}}
+
+{{Taxonbar|from=Q5529520}}
+
+[[Category:Geastrum|jurei]]
+[[Category:Inedible fungi]]
+[[Category:Fungi of Chile]]

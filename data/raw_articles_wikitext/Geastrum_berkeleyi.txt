@@ -1,0 +1,44 @@
+{{Speciesbox
+| genus = Geastrum
+| species = berkeleyi
+| authority = [[George Edward Massee|Massee]] (1889)
+}}
+{{mycomorphbox 
+| capShape =no 
+| hymeniumType=gleba 
+| ecologicalType=saprotrophic 
+| sporePrintColor=brown 
+| howEdible=inedible 
+}}
+'''''Geastrum berkeleyi''''', or '''Berkeley's earthstar''', is an inedible species of [[mushroom]] belonging to the genus ''[[Geastrum]]'', or earthstar fungi. It can be distinguished from other ''Geastrum'' species by the flat bipyramidal shape of the [[calcium oxalate]] crystals found on its [[endoperidium]].<ref name="Krisai 1986"/>
+
+Despite being a very uncommon mushroom, it has a wide geographical distribution, having been documented in Northern and Eastern Europe as well as Eastern Asia.
+
+==Distribution==
+
+European countries it is found in include [[Austria]], the [[Czech Republic]], [[Denmark]], [[Estonia]], [[Finland]], [[Great Britain]], [[Hungary]], the [[Netherlands]], [[Poland]],<ref name="Jaworska 2011"/> [[Slovakia]], [[Spain]], [[Sweden]], and [[Turkey]]. In Asia, it can be found in [[China]] and [[Japan]].<ref name="Jaworska 2011"/>
+
+The species was thought extinct in Poland until it was discovered growing in a reserve near [[Chęciny]].<ref name="Jaworska 2011"/>
+
+==References== 
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Jaworska 2011">{{cite journal |last1=Jaworska |first1=J |date=2011 |title=A new record of the rare earthstar Geastrum berkeleyi from the Świętokrzyskie Mts |url=https://pbsociety.org.pl/journals/index.php/am/article/download/am.2011.004/2227 |journal=Acta Mycologica |volume=46 |issue=1 |pages=75–81 |doi=10.5586/am.2011.004 |access-date=2 October 2017 |doi-access=free }}</ref>
+
+<ref name="Krisai 1986">{{cite journal |last1=Krisai |first1=I |last2=Mrazek |first2=Ernst |date=September 1986 |title=Calcium oxalate crystals in ''Geastrum'' |journal=Plant Systematics and Evolution |volume=154 |issue=3–4 |pages=325–341 |doi=10.1007/bf00990131|s2cid=30524043 }}</ref>
+
+}}
+
+==External links==
+*[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=244707 Index Fungorum]
+
+{{Taxonbar|from=Q5529516}}
+
+[[Category:Geastrum|berkeleyi]]
+[[Category:Fungi of Europe]]
+[[Category:Inedible fungi]]
+[[Category:Fungi described in 1889]]
+[[Category:Fungus species]]
+
+
+{{Geastrales-stub}}

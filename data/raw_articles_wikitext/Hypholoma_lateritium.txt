@@ -1,0 +1,93 @@
+{{Short description|Species of fungus}}
+{{Redirect|Brick top|the 20th century jazz singer|Ada "Bricktop" Smith|the fictional gangster character|Snatch (film)}}{{Speciesbox
+| image = HypholomaSublateritium.jpg
+| genus = Hypholoma
+| species = lateritium
+| authority = (Schaeff.) P. Kumm.
+| synonyms = ''Agaricus carneolus'' <small> Batsch (1783)</small><br>
+''Agaricus lateritius'' <small> Schaeff. (1774)</small><br>
+''Agaricus lateritius var. communis'' <small> Alb. & Schwein. (1805)</small><br>
+''Agaricus lateritius var. pomposus'' <small> (Bolton) Pers. (1801)</small><br>
+''Agaricus pomposus'' <small> Schumach. (1803)</small><br>
+''Agaricus pomposus'' <small> Bolton (1788)</small><br>
+''Agaricus sublateritius'' <small> Fr. (1838)</small><br>
+''Agaricus sublateritius var. schaefferi'' <small> Berk. & Broome (1879)</small><br>
+''Agaricus sublateritius var. squamosus'' <small> Cooke, Illustrations of British Fungi (Hymenomycetes) (London) 4: pl. 573 (558) (1886)</small><br>
+''Agaricus sublateritius var. sublateritius'' <small> Schaeff.(1774)</small><br>
+''Cortinarius schaefferi'' <small> (Berk. & Broome) Rob. Henry (1981)</small><br>
+''Deconica squamosa'' <small> Cooke (1885)</small><br>
+''Dryophila sublateritia'' <small> (Fr.) Quél. (1888)</small><br>
+''Geophila sublateritia'' <small> (Fr.) Quél. (1886) </small><br>
+''Hypholoma lateritium var. lateritium'' <small> (Schaeff.) P. Kumm. (1871)</small><br>
+''Hypholoma lateritium var. pomposum'' <small> (Bolton) P. Roux & Guy García (2006)</small><br>
+''Hypholoma sublateritium'' <small> (Fr.) Quél. (1872)</small><br>
+''Hypholoma sublateritium f. pomposum'' <small> (Bolton) Massee (1892)</small><br>
+''Hypholoma sublateritium f. sublateritium'' <small> (Fr.) Quél. (1872) </small><br>
+''Hypholoma sublateritium f. vulgaris'' <small> Massee (1892)</small><br>
+''Hypholoma sublateritium var. aranoides'' <small> Raithelh. (1991)</small><br>
+''Hypholoma sublateritium var. pomposum'' <small> (Bolton) Rea (1922)</small><br>
+''Hypholoma sublateritium var. schaefferi'' <small> (Berk. & Broome) Sacc. (1887)</small><br>
+''Hypholoma sublateritium var. squamosum'' <small> (Cooke) Sacc. (1887)</small><br>
+''Hypholoma sublateritium var. sublateritium'' <small> (Fr.) Quél.(1872)</small><br>
+''Naematoloma sublateritium'' <small> (Fr.) P. Karst. (1879)</small><br>
+''Pratella lateritia'' <small> (Schaeff.) Gray (1821)</small><br>
+''Psilocybe lateritia'' <small> (Schaeff.) Noordel. (1995)</small>
+}}{{mycomorphbox
+| name = Hypholoma lateritium
+| whichGills = adnate
+| capShape = convex
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = saprotrophic
+| sporePrintColor = purple-brown
+| howEdible = choice
+| howEdible2 = 
+}}
+
+'''''Hypholoma lateritium''''', sometimes called '''brick cap''', '''chestnut mushroom''',<ref>{{cite book |last1=Facciola |first1=Stephen |title=Cornucopia II: a Source Book of Edible Plants |date=1998 |publisher=Kampong Publications |location=Vista, CA |isbn=0962808725 |page=254}}</ref> '''cinnamon cap''', '''brick top''', '''red woodlover''' or '''kuritake''',<ref>{{cite book |last1=Stamets |first1=Paul |title=Mycelium Running: How Mushrooms Can Help Save the World |date=2005 |publisher=Ten Speed Press |location=Berkeley |isbn=1580085792 |page=301}}</ref> is a species of fungus in the genus ''[[Hypholoma]]'', which also contains the slightly smaller poisonous species ''[[Hypholoma fasciculare]]''.
+
+== Taxonomy ==
+''Hypholoma sublateritium'' is a synonym.
+
+==Description==
+The [[pileus (mycology)|cap]] is {{Convert|3.5–9|cm|frac=4}} in diameter,<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=670}}</ref> usually with a brick-red coloration in the center and a paler margin.  It is smooth, sometimes with red-brown flecks in the middle and sometimes with flaky [[Veil (botany)|veil]] remnants, which can easily be washed off in the rain, on the outside. The [[lamella (mycology)|gills]] are crowded, starting yellowish and becoming grayish with age. They do not have the green color of ''[[Hypholoma fasciculare]]''. The [[stipe (mycology)|stipe]] is up to {{Convert|12|cm|abbr=on|frac=4}} long,<ref name="audu" /> light yellow and darker below.
+
+The [[spore]]s have a [[germ pore]] and are 6.0–7.5 × 3.5–4.0&nbsp;[[μm]]. The [[cheilocystidium|cheilocystidia]] are variable;{{Citation needed|date=April 2025}} the [[spore print]] is purple-brown.<ref name="audu" />
+
+=== Similar species ===
+It could be confused with highly [[Mushroom poisoning|toxic]] species<ref name=":0" /> such as ''[[Galerina marginata]]'' or ''Hypholoma fasciculare''. It can also resemble ''[[Pholiota mixta]]'' and members of ''[[Pyrrhulomyces]]''.<ref name="audu" />
+
+== Distribution and habitat ==
+In Pennsylvania, New Jersey, and West Virginia they are found in dense clusters on stumps and roots from October until long after frosts.<ref>McIlvaine, Charles; Macadam, Robert K. (1973). ''One Thousand American Fungi''. New York: Dover. {{ISBN|0-486-22782-0}}.</ref>
+
+== Edibility ==
+''Hypholoma lateritium'' is sometimes considered edible<ref name="Miller 2006">{{cite book |last1=Miller Jr. |first1=Orson K. |author-link=Orson K. Miller Jr. |title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi |last2=Miller |first2=Hope H. |publisher=[[FalconGuide]] |year=2006 |isbn=978-0-7627-3109-1 |location=Guilford, CN |pages=245}}</ref> but caution must be taken to avoid confusing it with similar-looking deadly species.<ref name=":0">{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=216}}</ref> In Europe the species is often considered inedible or even poisonous.{{Citation needed|date=July 2024}} Specimens are best when collected young; older specimens tend to be bitter from being fouled by insects.<ref>Palmer, E. Laurence; Fowler, H. Seymour (1975). ''Fieldbook of Natural History: Second Edition''. New York: McGraw Hill. xviii + 779 pp. {{ISBN|0-07-048425-2}} (''Hypholoma sublateritium'', p. 86.)</ref>
+
+The taste is mild to somewhat bitter, but when cooked the mushrooms have a nutty flavor.  They are especially delicious when sauteed in olive oil.<ref>Cornell Mushroom Blog. https://blog.mycology.cornell.edu/?p=27</ref> Brick tops have been considered one of the better edibles of late fall in the [[Northeastern United States|Northeast United States]].<ref>{{cite book |last=Lincoff |first=Gary |author-link=Gary Lincoff |date=1995 |title=National Audubon Society Field Guide to North American Mushrooms |edition=11th |pages=710-711 |isbn=0394519922 |language=en}}</ref> It is considered a choice edible in Japan.{{Citation needed|date=July 2024}}
+
+==References==
+Mostly translated from [[:de:Ziegelroter Schwefelkopf|the German page]].{{Reflist}}
+
+==External links==
+*http://www.mushroomexpert.com/hypholoma_sublateritium.html
+
+==Gallery==
+<gallery>
+File:Hypholoma sublateritium - Brick Cap - Ziegelroter Schwefelkopf - 01.jpg
+File:Ziegelroter Schwefelkopf Wiese.jpg
+File:HypholomaSublateritium.jpg
+File:Hypholoma sublateritium 031207A.jpg
+File:Ziegelrote Schwefelköpfe.jpg
+File:Hypholoma lateritium ultraviolet.jpg
+File:Hypholoma Lateritium Growing on Fallen Tree Stump.jpg
+</gallery>
+{{Taxonbar|from=Q198709}}
+
+[[Category:Hypholoma]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Jacob Christian Schäffer]]
+[[Category:Fungus species]]
+
+
+{{Agaricales-stub}}

@@ -1,0 +1,33 @@
+{{Short description|Species of fungus}}
+{{Expand German|topic=scitech|Thelephora ganbajun|date=June 2017}}
+{{Speciesbox
+| image = 2014-07-26 Thelephora ganbajun M. Zang 443675.jpg
+| image_caption = ''Thelephora ganbajun'', found in Huaning, Yunnan, China
+| genus = Thelephora
+| species = ganbajun
+| authority = [[M.Zang]] (1987) 
+}}
+
+'''''Thelephora ganbajun''''', or "'''ganba fungus'''," '''干巴菌''' / '''乾巴菌''', is a species of [[coral fungus]] in the family [[Thelephoraceae]]. It was [[species description|described]] as new to science in 1987 by Chinese mycologist [[Mu Zang]]. It is found in [[Yunnan]], where it grows as an ectomycorrhizal symbiote of ''[[Pinus yunnanensis]]'' and ''[[Pinus kesiya]]'' var. ''langbianensis''.<ref name="Zang 1987"/>
+
+==References==
+{{Reflist|refs=
+
+<ref name="Zang 1987">{{cite journal |author=Zang M. |title=Some new and noteworthy higher fungi from eastern Himalayas |journal=Acta Botanica Yunnanica |year=1987 |volume=9 |issue=1 |pages=81–88}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|129963}}
+
+{{Taxonbar|from=Q10696059}}
+
+[[Category:Fungi described in 1987]]
+[[Category:Fungi of China]]
+[[Category:Edible fungi]]
+[[Category:Thelephora|ganbajun]]
+[[Category:Fungus species]]
+[[Category:Taxa named by Mu Zang]]
+
+
+{{Agaricomycetes-stub}}

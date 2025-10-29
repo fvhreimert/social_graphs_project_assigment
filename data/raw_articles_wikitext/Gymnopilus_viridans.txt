@@ -1,0 +1,45 @@
+{{short description|Species of fungus}}
+{{Speciesbox
+| image = Gymnopilus viridans (Murrill) Hesler 363906.jpg
+| image_caption =
+| taxon = Gymnopilus viridans
+| authority = ([[William Murrill|Murrill]])
+| synonyms = ''Flammula viridans''
+}}
+{{mycomorphbox
+| name = Gymnopilus viridans
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=yellow-orange
+| howEdible=psychoactive}}
+'''''Gymnopilus viridans''''' is a mushroom in the family [[Hymenogastraceae]]. It contains the hallucinogens [[psilocybin]] and [[psilocin]]. It is a rarely documented species, the last known collection being from the US state of [[Washington (U.S. state)|Washington]] in 1912.
+
+==Description==
+*'''[[Pileus (mycology)|Pileus]]''':  — 8&nbsp;cm, thick, convex with a large umbo, ochraceous, dry, with conspicuous light reddish brown scales that are sparse but become denser toward the center; flesh firm, becoming green-spotted where handled. 
+*'''Gills''': Adnate, broad, crowded, edges undulate, dingy brown to rusty brown with age.
+*'''Spore print''': Rusty brown.
+*'''[[Stipe (mycology)|Stipe]]''':  — 6&nbsp;cm in height, 2&nbsp;cm in diameter, enlarging below, solid, firm, concolorous with the cap.
+*'''Microscopic features''': Spores 7 x 8.5 x 4 — 5 [[μm]] ellipsoid, not dextrinoid, minutely verruculose, obliquely pointed at one end, no germ pore. Pleurocystidia absent, Cheilocystidia 20 — 26 x 5 — 7 [[μm]], caulocystidia 35 — 43 x 4 — 7 [[μm]], clamp connections present.
+
+== Habitat and formation ==
+''Gymnopilus viridans'' is found growing cespitose on [[pinophyta|coniferous]] wood from June to November.
+
+== References ==
+{{Reflist}}
+* {{Cite journal |last=Murrill |first=William |authorlink=William Murrill |journal=Mycologia |volume=4 |page=257|year=1912 |doi=10.2307/3753448|title=Gymnopilus viridans |jstor=3753448 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0004/005/0257.htm|url-access=subscription }} ''("For the benefit of those using Saccardo's nomenclature, the following new species in the above article are recombined, as follows: Gymnopilus viridans = Flammula viridans" [http://www.cybertruffle.org.uk/cyberliber/59350/0004/005/0262.htm p. 262])''
+* Hesler, Mycologia Memoir No. 3 1969, North American Species of Gymnopilus
+
+{{Hallucinogenic mushrooms}}
+{{Taxonbar|from=Q5625040}}
+
+[[Category:Gymnopilus|viridans]]
+[[Category:Entheogens]]
+[[Category:Psychoactive fungi]]
+[[Category:Psychedelic tryptamine carriers]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by William Alphonso Murrill]]
+[[Category:Fungus species]]

@@ -1,0 +1,79 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Scutiger pes-caprae 31566.jpg
+| species = Scutiger pes-caprae
+| genus = Scutiger (fungus)
+| authority = ([[Pers.]]) [[Appollinaris Semenovich Bondartsev|Bondartsev]] & [[Rolf Singer|Singer]] (1941)
+| synonyms_ref = <ref name="urlMycoBank: Scutiger pes-caprae"/>
+| synonyms =
+  {{plainlist|
+*''Fungus sapatella'' <small>[[Jean-Jacques Paulet|Paulet]] (1793)</small>
+*''Fungus tuber'' <small>Paulet (1793)</small>
+*''Polyporus pes-caprae'' <small>Pers. (1818)</small>
+*''Boletus pes-caprae'' <small>(Pers.) [[François Simon Cordier|Cordier]] (1826)</small>
+*''Cerioporus inflexus'' <small>[[Stephan Schulzer von Müggenburg|Schulzer]] ex [[Quél.]] (1888)</small>
+*''Polyporus retipes'' <small>[[Underw.]] (1897)</small>
+*''Scutiger retipes'' <small>(Underw.) [[William Alphonso Murrill|Murrill]] (1903)</small>
+*''Fomes oregonensis'' <small>(Murrill) [[Sacc.]] & [[Giovanni Battista Traverso|Traverso]] (1910)</small>
+*''Polyporus oregonensis'' <small>(Murrill) Murrill (1912)</small>
+*''Scutiger oregonensis'' <small>Murrill (1912)</small>
+*''Caloporus pes-caprae'' <small>(Pers.) [[Albert Pilát|Pilát]] (1931)</small>
+*''Albatrellus pes-caprae'' <small>(Pers.) [[Zdeněk Pouzar|Pouzar]] (1966)</small>
+*''Polypilus pes-caprae'' <small> (Pers.) Teixeira (1992)</small>
+*''Albatrellopsis pes-caprae'' <small>(Pers.) Teixeira (1994)</small>
+  }}
+}}
+{{Mycomorphbox
+| name = ''{{PAGENAME}}''{{italic title}}
+| hymeniumType = pores
+| capShape = convex
+| capShape2 = depressed
+| whichGills = decurrent
+| stipeCharacter = bare
+| ecologicalType = saprotrophic
+| howEdible = edible
+}}
+'''''Scutiger pes-caprae''''', commonly known as the '''goat's foot''',<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/560/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=560 |orig-date=1979}}</ref> is a species of [[fungus]] in the family [[Albatrellaceae]].
+
+It is distributed in North America and Europe and associated with [[conifer]]s and rotting wood. The young [[Pileus (mycology)|caps]] of European specimens are potentially edible.
+
+== Taxonomy ==
+It was first described officially as a species of ''[[Polyporus]]'' by [[Christian Hendrik Persoon]] in 1818.<ref name="Persoon 1818" /> In recent decades, it was known most commonly as a species of ''[[Albatrellus]]'' until molecular research published by Canadian mycologist Serge Audet in 2010 revealed that it was more appropriate in an emended version of the genus ''[[Scutiger (fungus)|Scutiger]]''.<ref name="Audet 2010" />
+
+==Description==
+The brownish cap is {{Convert|6-20|cm|frac=2}} wide, tending towards a convex [[kidney]] shape, sometimes lobed, and flattening with age.<ref name="Arora1986" /><ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=161}}</ref> There are 1–2 whitish pores per millimetre that may discolor pink or greenish. The usually decurrent tubes are up to 5&nbsp;mm long.<ref name="Arora1986" />
+
+The stem is {{Convert|2.5-8|cm|abbr=on|frac=4}} long and {{Convert|1-4|cm|abbr=on|frac=4}} thick; it is usually larger at the base, where several mushrooms may be conjoined.<ref name="Arora1986" /> The flesh is {{Convert|5-20|mm|frac=8}} thick and whitish,<ref name="audu" /> slowly bruising pinkish; it tastes mild. The [[spore print]] is whitish.<ref name="Arora1986" />
+
+=== Similar species ===
+''[[Scutiger ellisii]]'', ''[[Laeticutis cristata]]'', and ''[[Jahnoporus hirtus]]'' bear similarities.<ref name="audu" />
+
+==Distribution and habitat==
+It is found in western North America, under [[conifer]]s and on rotting wood, from August to February.<ref name="audu" /> It is somewhat more common in the south than ''[[Albatrellus ellisii]]''.<ref name="Arora1986" />
+
+==Uses==
+The caps of young European specimens are reportedly edible, but chewy, after thorough cooking.<ref name="Arora1986" />
+
+==References==
+{{Reflist|refs=
+
+<ref name="Audet 2010">{{cite journal |author=Audet S. |title=Essai de découpage systématique du genre ''Scutiger'' (Basidiomycota): ''Albatrellopsis'', ''Albatrellus'', ''Polyporoletus'', ''Scutiger'' et description de six nouveaux genres |trans-title=Essay on systematic cutting of the genus ''Scutiger'' (Basidiomycota): ''Albatrellopsis'', ''Albatrellus'', ''Polyporoletus'', ''Scutiger'' and description of six new genera |journal=Mycotaxon |year=2010 |volume=111 |pages=431–64 |language=French |url=http://www.mycotaxon.com/vol/abstracts/111/111-431.html |format=abstract |doi=10.5248/111.431 |doi-access=free |archive-date=2012-04-01 |access-date=2013-04-11 |archive-url=https://web.archive.org/web/20120401090338/http://www.mycotaxon.com/vol/abstracts/111/111-431.html |url-status=dead }}</ref>
+
+<ref name="Persoon 1818">{{cite book |author=Persoon CH. |title=Traité sur les Champignons Comestibles |publisher=Belin-Leprier |location=Paris |language=French |page=241; plate 3}}</ref>
+
+<ref name="urlMycoBank: Scutiger pes-caprae">{{cite web |title=Synonyms: ''Scutiger pes-caprae'' (Pers.) Bondartsev & Singer, Annls mycol. 39(1): 47 (1941) |url=http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=305701 |publisher=Species Fungorum. CAB International |accessdate=2013-04-10}}</ref>
+
+}}
+
+== External links ==
+*{{IndexFungorum|305701}}
+
+{{Taxonbar|from=Q10664731}}
+
+[[Category:Fungi described in 1818]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Europe]]
+[[Category:Fungus species]]
+
+
+{{Russulales-stub}}

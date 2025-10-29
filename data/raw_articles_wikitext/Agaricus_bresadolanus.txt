@@ -1,0 +1,47 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Agaricus bresadolanus 393849.jpg
+| image_caption =
+| taxon = Agaricus bresadolanus
+| authority = [[Gábor Bohus|Bohus]] (1969)
+| synonyms_ref = <ref name="urlFungorum synonymy: Agaricus bresadolanus"/>
+| synonyms = *''Agaricus campestris'' var. ''radicatus'' <small>[[Vittad.]] (1835)</small>
+*''Agaricus radicatus'' <small>(Vittad.) [[Romagn.]] (1938)</small>
+*''Psalliota radicata'' <small>(Vittad.) [[R.Sandor]] (1958)</small>
+*''Psalliota radicata'' var. ''crassanulata'' <small>R.Sandor (1958)</small>
+*''Agaricus romagnesii'' <small>Wasser (1977)</small>
+}}
+
+'''''Agaricus bresadolanus''''' (parkland mushroom<ref>{{Cite web |url=https://www.britmycolsoc.org.uk/field_mycology/english-names |title=Archived copy |access-date=2024-01-25 |archive-date=2022-11-03 |archive-url=https://web.archive.org/web/20221103000333/https://www.britmycolsoc.org.uk/field_mycology/english-names |url-status=dead }}</ref>) is a species of [[fungus]] in the genus ''[[Agaricus]]''. Its [[basidiospore|spores]] are [[ellipsoid]] and lack a [[germ pore]], with dimensions of 5.5–7.5 by 4.0–5.0&nbsp;[[micrometre|μm]].<ref name="Noordeloos 2001" />
+
+It was described by Hungarian mycologist [[Gábor Bohus]] in 1969.<ref name="Bohus 1969" /> A rare species, it has been recorded in Asia and southern Europe, where it fruits singly or in groups along paths and in grassy area of [[deciduous]] woodland.
+
+==Toxicity==
+
+While generally considered edible, a small number of reports of severe stomach pain after ingestion suggest that it might be somewhat poisonous.<ref name="Edwards & Leech 2014" />
+
+==See also==
+*[[List of Agaricus species|List of ''Agaricus'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Bohus 1969">{{cite journal |author=Bohus G. |title=''Agaricus'' studies II |journal=Annales Historico-Naturales Musei Nationalis Hungarici |year=1969 |volume=61 |pages=151–156}}</ref>
+
+<ref name="Noordeloos 2001">{{cite book |author=Noordeloos ME. |title=Flora Agaricina Neerlandica – 5 |url=https://books.google.com/books?id=YaBiXhgkfccC&pg=PA60 |year=2001 |publisher=CRC Press |isbn=978-90-5410-495-7 |page=60}}</ref>
+
+<ref name="urlFungorum synonymy: Agaricus bresadolanus">{{cite web |title=GSD Species Synonymy: ''Agaricus bresadolanus'' Bohus |url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=315946 |publisher=Species Fungorum. CAB International |accessdate=2015-08-07}}</ref>
+
+<ref name="Edwards & Leech 2014">{{cite journal |author=Edwards A., Leech T. |title=Agaricus Bresadolanus - A Toxic Mushroom |journal=Field Mycology | year=2014 |volume=15 |issue=4 |pages=113-114 |doi=10.1016/j.fldmyc.2014.09.004 |url=https://www.thenfsg.co.uk/_downloads/Agaricul%20bresadolanus%20FM%202014%2015(4)%20113-114.pdf}}</ref>
+
+}}
+
+==External links==
+* {{indexFungorum|315946}}
+
+{{Taxonbar|from=Q10403026}}
+
+[[Category:Agaricus|bresadolanus]]
+[[Category:Fungi described in 1969]]
+[[Category:Fungi of Europe]]
+[[Category:Fungus species]]

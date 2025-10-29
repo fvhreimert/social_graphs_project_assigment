@@ -1,0 +1,104 @@
+{{Short description|Tropical stinkhorn fungus}}
+{{stack begin}}
+{{Speciesbox
+| image = Phallus rubicundus 44395.jpg
+| image_caption =
+| genus = Phallus
+| species = rubicundus
+| authority = ([[Louis Augustin Guillaume Bosc|Bosc]]) [[Elias Magnus Fries|Fr.]] (1823)
+| synonyms_ref = <ref name="urlMycoBank: Phallus rubicundus"/>
+| synonyms =
+  {{plainlist|
+*''Satyrus rubicundus'' <small>Bosc (1811)</small>
+*''Ithyphallus rubicundus'' <small>(Bosc) [[E.Fisch.]] (1888)</small>
+*''Leiophallus rubicundus'' <small>(Bosc) [[Émile-Victor Mussat|Mussat]] (1900)</small>
+  }}
+}}
+{{mycomorphbox
+| name = ''Phallus rubicundus''
+| capShape = conical
+| hymeniumType = gleba
+| ecologicalType=saprotrophic
+| sporePrintColor=olive
+| howEdible=unknown
+}}
+{{stack end}}
+
+'''''Phallus rubicundus''''' is a species of [[fungus]] in the [[stinkhorn]] family. First described in 1811, it has a wide distribution in [[tropical]] regions. It has the typical stinkhorn structure consisting of a spongy [[stipe (mycology)|stalk]] up to {{convert|15|cm|in|abbr=on}} tall arising from a gelatinous "egg" up to {{convert|3|cm|in|abbr=on}} in diameter. Atop the stalk is a pitted, conical [[pileus (mycology)|cap]] that has a foul-smelling, gelatinous, green [[gleba|spore mass]] spread over it.
+
+==Taxonomy==
+The species was first [[species description|described]] under the name ''Satyrus rubicundus'' by French botanist [[Louis Augustin Guillaume Bosc]] in 1811,<ref name="Bosc 1811"/> from collections made in [[South Carolina]].<ref name="urlKuo"/> It was later transferred to the genus ''[[Phallus (fungus)|Phallus]]'' in 1823 by [[Elias Fries]].<ref name="Fries 1823"/> [[Synonym (biology)|Synonyms]] include binomials resulting from the transfer to ''Ithyphallus'' by [[Eduard Fischer (mycologist)|Eduard Fischer]] in 1888, and to ''Leiophallus'' by [[Émile-Victor Mussat]] in 1900.<ref name="urlMycoBank: Phallus rubicundus"/>
+
+==Description==
+
+Immature (unopened) specimens of ''Phallus rubicundus'' are spherical to egg-shaped, whitish, and measure {{convert|2|–|3|cm|in|1|abbr=on}} long by {{convert|1|–|3|cm|in|1|abbr=on}} wide. They occur singly or in groups of two to six eggs that are formed from a common [[mycelium]].<ref name="Long 1907"/> They are attached to the [[substrate (biology)|substrate]] by a cordlike [[rhizomorph]]. After expanding, the fruit bodies are up to {{convert|15|cm|in|abbr=on}} tall, and consist of a hollow cylindrical [[stipe (mycology)|stalk]] supporting a conical to bell-shaped [[pileus (mycology)|cap]]. The orange to scarlet stalk tapers towards to top, and has a pitted surface.<ref name="Dissing 1962"/> The wrinkled cap is scarlet red, and measures {{convert|2|–|3|cm|in|1|abbr=on}} high by {{convert|1|–|2|cm|in|1|abbr=on}} wide. It is initially covered with a foetid, slimy grayish-olive [[gleba]].<ref name="Dissing 1962"/> The egg case remains at the base of the stalk as a [[volva (mycology)|volva]].<ref name="Hemmes 2002"/> The [[spore]]s are smooth, elliptical, and measure 3.6–4.2 by 1.6–2.0&nbsp;[[micrometre|μm]].<ref name="Dissing 1962"/>
+
+''Phallus rubicundus'' is often confused with the similar ''[[Mutinus elegans]]'', but the latter species does not have a clearly separated cap, and instead bears its gleba on the apex of its pointed stalk.<ref name="urlKuo"/>
+
+==Uses==
+In the Indian state of [[Madhya Pradesh]], where it is known locally as {{transliteration|hi|jhiri pihiri}}, it is used by two primitive forest tribes, the [[Bharia people|Bharia]] and the [[Baiga (tribe)|Baiga]], as a treatment against [[typhoid]], and also by the Baiga to treat [[childbirth|labour]] pain. The fungus is prepared by grinding and mixing with sugar-cake, and one teaspoon is administered three times daily.<ref name="Rai 1993"/> The fungus has been reported to have been used by [[Aboriginal Australians]] as an [[aphrodisiac]].<ref name="Cambie 1997"/>
+
+One study noted that [[mosquito]]es, attracted to the smell of the gleba, perish after consuming it, and so the fungus may be suitable for further investigating as a [[biocontrol]] agent.<ref name="Gardezi 1992"/>
+
+==Ecology and distribution==
+The fungus is [[saprobic]], and grows in sandy soils, lawns, gardens, and yards, especially those that are well-manured or use wood [[mulch]]. It is widely distributed in southern and eastern United States (including Hawaii<ref name="Hemmes 2002"/>), having possibly been spread through the use of imported wood mulch in landscaping.<ref name="urlKuo"/> In Australia it grows mainly in the [[tropics]] and [[subtropic]]s, in areas where rotten wood and/or mulch are present.<ref name="Fuhrer 2005"/> In Asia, it has been recorded from China,<ref name="Huang 1985"/> Japan,<ref name="Kasuya 2007"/> Korea,<ref name="Wojewoda 1993"/> India,<ref name="Rai 1993"/> and Thailand.<ref name="Ellingsen 1982"/> African locales include Ghana, Nigeria,<ref name="Dring 1977"/> Congo, Kenya,<ref name="Williams 1991"/> and South Africa.<ref name="Dissing 1962"/> It is also known from South America (Argentina<ref name="De Toledo 1995"/> and Brazil<ref name="Bonini 1984"/>) and the Caribbean.<ref name="Dissing 1962"/> The fungus was featured on a [[Sierra Leone]]an postage stamp in 1993.<ref name="Moss 1998"/>
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Bonini 1984">{{cite journal |vauthors=Bonini VL, Guzman G, Capelari M |title=Basidiomycetes from the Parque Estadual da Ilha do Cardoso Brazil 5. Gasteromycetes |journal=Rickia |year=1984 |volume=11 |pages=91–8 |language=Portuguese |issn=0080-3014 }}</ref>
+
+<ref name="Bosc 1811">{{cite journal |author=Bosc L. |title=Mémoire sur quelques espèces de Champignons des parties méridionales de l'Amérique septentrionale |journal=Magazin der Gesellschaft Naturforschenden Freunde Berlin |year=1811 |volume=5 |page=86, t. 6:8 |language=French}}</ref>
+
+<ref name="Cambie 1997">{{cite book |vauthors=Cambie RC, Brewis A |title=Anti-Fertility Plants of the Pacific  |year=1997 |publisher=Csiro Publishing |location=Collingwood, Australia |isbn=978-0-643-05986-3 |page=21 |url=https://books.google.com/books?id=M0jOUXFkoqMC&pg=PA21}}</ref>
+
+<ref name="De Toledo 1995">{{cite journal |author=De Toledo LD. |title=Gasteromycetes (Eumycota) from central and western Argentina: II. Order Phallales |journal=Darwiniana |year=1995 |volume=33 |pages=195–210 |language=Spanish |issn=0011-6793}}</ref>
+
+<ref name="Dissing 1962">{{cite journal |vauthors=Dissing H, Lange M |title=Gasteromycetes of Congo |journal=Bulletin du Jardin botanique de l'État à Bruxelles |year=1962 |volume=32 |issue=4 |pages=325–416 (see pp. 328–9) |doi=10.2307/3667249 |jstor=3667249}}</ref>
+
+<ref name="Dring 1977">{{cite journal |vauthors=Dring DM, Rose AC |title=Additions to West African phalloid fungi |journal=Kew Bulletin |year=1977 |volume=31 |issue=3 |pages=741–51 |doi=10.2307/4119427|jstor=4119427 |bibcode=1977KewBu..31..741D }}</ref>
+
+<ref name="Ellingsen 1982">{{cite journal |author=Ellingsen H-J. |title=Some Gasteromycetes from northern Thailand |journal= Nordic Journal of Botany |year=1982 |volume=2 |issue=3 |pages=283–6 |doi=10.1111/j.1756-1051.1982.tb01190.x|bibcode=1982NorJB...2..283E }}</ref>
+
+<ref name="Fries 1823">{{cite book |author=Fries EM. |title=Systema Mycologicum |year=1823 |volume=2 |publisher=Sumtibus Ernesti Mauritii |location=Greifswald, Germany |page=284 |language=Latin |url=https://archive.org/stream/systemamycologi02friegoog#page/n291/mode/2up}}</ref>
+
+<ref name="Fuhrer 2005">{{cite book |title=A Field Guide to Australian Fungi |author=Fuhrer B. |year=2005 |page=139 |publisher=Bloomings Books |location=Melbourne, Australia |isbn=1-876473-51-7 }}</ref>
+
+<ref name="Gardezi 1992">{{cite journal |author=Gardezi RA. |title=The fungus ''Phallus rubicundus'': Possible attractant and bio-control agent for mosquitoes |journal=Pakistan Journal of Scientific and Industrial Research |year=1992 |volume=35 |issue=10 |pages=409–10 |issn= 0030-9885}}</ref>
+
+<ref name="Hemmes 2002">{{cite book |vauthors=Hemmes DE, Desjardin D |title=Mushrooms of Hawai'i: An Identification Guide |publisher=[[Ten Speed Press]] |location=Berkeley, California |year=2002 |page=40 |isbn=1580083390}}</ref>
+
+<ref name="Huang 1985">{{cite journal |author=Huang N-L. |title=Notes on Phallales from Fujian China |journal=Wuyi Science Journal |year=1985 |volume=5 |pages=211–8 |language=Chinese |issn=1001-4276 }}</ref>
+
+<ref name="Kasuya 2007">{{cite journal |vauthors=Kasuya T, Takehashi S, Sanjyo K |year=2007 |title=Three species of the genus ''Phallus'' rediscovered in Japan |journal=Nippon Kingakukai Kaiho |volume=48 |issue=2 |pages=44–56 |language=Japanese |issn=0029-0289}}</ref>
+
+<ref name="Moss 1998">{{cite journal |author=Moss MO. |title=Gasteroid Basidiomycetes on postage stamps |journal=Mycologist |year=1998 |volume=12 |issue=3 |pages=104–6 |doi=10.1016/S0269-915X(98)80005-0}}</ref>
+
+<ref name="Long 1907">{{cite journal |author=Long WH. |title=The Phalloideae of Texas |journal=Journal of Mycology |year=1907 |volume=13 |issue=3 |pages=102–14 |url=http://www.cybertruffle.org.uk/cyberliber/59805/0013/003/0102.htm |doi=10.2307/3752841|jstor=3752841 |url-access=subscription }}</ref>
+
+<ref name="Rai 1993">{{cite journal |vauthors=Rai BK, Ayachi SS, Arvinder R |title=A note on ethno-myco-medicines from central India |journal=Mycologist |year=1993 |volume=7 |issue=4 |pages=192–3 |issn=0269-915X |doi=10.1016/S0269-915X(09)80397-2}}</ref>
+
+<ref name="urlKuo">{{cite web |author=Kuo M. |title=''Phallus rubicundus'' |url=http://www.mushroomexpert.com/phallus_rubicundus.html |publisher=MushroomExpert.com |date=April 2011 |access-date=2012-10-02}}</ref>
+
+<ref name="urlMycoBank: Phallus rubicundus">{{cite web |title=''Phallus rubicundus'' (Bosc) Fr. 1823 |url=http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=244095&Fields=All |publisher=[[MycoBank]]. International Mycological Association |access-date=2012-10-02}}</ref>
+
+<ref name="Williams 1991">{{cite journal |author=Williams RS. |title=A fungi safari in Kenya |journal=Mycologist |year=1991 |volume=5 |issue=3 |pages=141–5 |doi=10.1016/S0269-915X(09)80310-8}}</ref>
+
+<ref name="Wojewoda 1993">{{cite journal |vauthors=Wojewoda W, Heinrich Z, Komorowska H |title=Macromycetes Korei Północnej |trans-title=Macrofungi of North Korea |journal=Wiadomosci Botaniczne |year=1993 |volume=37 |issue=3–4 |pages=125–8 |language=Polish |issn=0043-5090}}</ref>
+
+}}
+
+{{Taxonbar|from=Q2084773}}
+
+[[Category:Phallales]]
+[[Category:Fungi of Africa]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Australia]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of South America]]
+[[Category:Medicinal fungi]]
+[[Category:Fungi described in 1811]]
+[[Category:Taxa named by Louis Augustin Guillaume Bosc]]
+[[Category:Fungi of Hawaii]]
+[[Category:Fungi without expected TNC conservation status]]
+[[Category:Fungus species]]

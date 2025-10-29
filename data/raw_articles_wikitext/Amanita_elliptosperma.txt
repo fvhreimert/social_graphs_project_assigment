@@ -1,0 +1,38 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| name=Atkinson's Destroying Angel 
+| image= 
+| taxon=Amanita elliptosperma
+| authority=G. F. Atk.
+}}
+{{mycomorphbox
+| name = ''Amanita elliptosperma''
+| whichGills = free
+| capShape = convex
+| capShape2 = flat
+| hymeniumType = gills
+| stipeCharacter = ring and volva
+| ecologicalType = mycorrhizal
+| sporePrintColor = white
+| howEdible = deadly
+}}
+
+'''''Amanita elliptosperma''''', commonly known as the '''Atkinson's destroying angel''', is a [[basidiomycete]] [[fungus]], one of many in the genus ''[[Amanita]]''. Although its toxicity is not confirmed, it is assumed to be deadly poisonous like its close relatives. Originally described from North Carolina, it is found in the eastern United States from New England to eastern Texas.<ref>{{Cite web |title=Amanita elliptosperma - Amanitaceae.org - Taxonomy and Morphology of Amanita and Limacella |url=http://tullabs.com/amanita/?Amanita%20elliptosperma |access-date=2023-01-08 |website=tullabs.com}}</ref>
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Amanita species|List of ''Amanita'' species]]
+*[[List of deadly fungi]]
+
+==References==
+{{Reflist}}
+{{Amanitas}}
+{{Taxonbar|from=Q4739870}}
+
+{{DEFAULTSORT:Amanita Elliptosperma}}
+[[Category:Amanita|elliptosperma]]
+[[Category:Deadly fungi]]
+[[Category:Poisonous fungi]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1907]]
+[[Category:Fungus species]]

@@ -1,0 +1,50 @@
+{{Short description|Species of bolete fungus}}
+{{Use dmy dates|date=April 2025}}
+{{Use Oxford spelling|date=April 2025}}
+{{Speciesbox 
+| image = 2010-08-25 Boletus subappendiculatus.jpg
+| taxon = Butyriboletus subappendiculatus
+| authority = (Dermek, Lazebn. & J.Veselský) [[D.Arora]] & J.L.Frank (2014)
+| synonyms_ref = 
+| synonyms = *''Boletus subappendiculatus'' {{au|Dermek, Lazebn. & J.Veselský (1979)}}
+}}
+
+'''''Butyriboletus subappendiculatus''''' is a [[bolete|pored mushroom]] in the family [[Boletaceae]].<ref name="CoL_NZ8B"/> It was originally described as a species of ''[[Boletus]]'' in 1979 before being reclassified in the genus ''[[Butyriboletus]]'' in 2014. The fungus produces medium-sized [[basidiocarp|fruiting bodies]] with brownish-orange to [[buff (color)|buff]]-coloured [[pileus (mycology)|caps]] up to 8&nbsp;cm across, lemon-yellow tubes and pores that do not bruise blue when damaged, and yellowish [[stipe (mycology)|stipes]] covered with a fine network pattern. It fruits in upper-montane coniferous or [[mixed forest]]s across Europe and into Turkey, primarily under [[Norway spruce]] or [[silver fir]] on neutral to [[calcareous]] soils at elevations of 1,200–1,700 metres.
+
+==Taxonomy==
+
+This species was originally described as a species of ''[[Boletus]]'' in 1979,<ref name="Dermek 1979"/> but later transferred to ''[[Butyriboletus]]'' in 2014.<ref name="Arora 2014"/>
+
+==Description==
+
+''Butyriboletus subappendiculatus'' produces a medium-sized [[basidiocarp]] with a cap ([[Pileus (mycology)|pileus]]) up to 8&nbsp;cm across. The young cap is hemispherical, becoming convex to flat-convex and sometimes slightly depressed with age. Its surface is dry or, in older specimens, faintly viscid, smooth to finely fibrillose or cracked, and coloured from brownish orange or cinnamon to [[buff (color)|buff]] or grey buff. The cap [[trama (mycology)|flesh]] does not change colour when bruised, and the margin often retains fragments of the [[partial veil]] (appendiculate).<ref name="Assyov 2012"/>
+
+The [[Hymenophore|tubes]] are up to 1&nbsp;cm long and lemon yellow, maturing to a yellow with a faint olive tint; neither tubes nor pores bruise blue. The [[Stipe (mycology)|stipe]] measures up to 13&nbsp;cm long and 5.5&nbsp;cm thick, initially subspherical or ovoid before becoming club-shaped or cylindrical, often with a rooting base. It is pale yellowish-white to pastel yellow, occasionally discolouring to whitish or brownish, and may bear a zone of pale red to brownish-orange. A fine, concolorous reticulation covers much of the stipe, which likewise remains unchanging when handled. The flesh of the stipe is lemon yellow under the surface and fades to straw or whitish in deeper tissues; it shows no bluing on exposure. Odour and taste are mild and not distinctive.<ref name="Assyov 2012"/>
+
+Viewed under the microscope, the [[spore]]s are smooth and oval, about 10–15&nbsp;μm long and 3–4.5&nbsp;μm wide (roughly two to four times as long as they are wide), and each usually contains one or more oil droplets. The [[Basidium|basidia]] are four-spored and club-shaped (clavate}, about 30–39.5 × 7–10&nbsp;μm, and the [[Cystidium|cystidia]] measure 35.5–45 × 8–10.5&nbsp;μm. The cap cuticle ([[pileipellis]]) forms a trichoderm of interwoven, [[septum|septate]], slightly encrusted [[hypha]]e with mostly cylindrical, rounded terminal cells. Spot-tests with ammonia (NH<sub>4</sub>OH) and [[potassium hydroxide]] (KOH) solution yield yellow reactions, whereas [[iron(II) sulphate]] (FeSO<sub>4</sub>) and Melzer's reagent (MR) produce no change.<ref name="Assyov 2012"/>
+
+==Habitat and distribution==
+
+''Butyriboletus subappendiculatus'' fruits in upper-montane coniferous or mixed forests, most commonly under Norway spruce (''[[Picea abies]]'') or silver fir (''[[Abies alba]]''), on neutral to [[calcareous]] soils at elevations of 1,200–1,700&nbsp;m. Fruiting occurs in midsummer, typically from July through August. In Bulgaria, it is known from the high-elevation woodlands of the [[Pirin]] and [[Rila]] mountains. More broadly, the species has been recorded wherever its coniferous hosts grow across Europe (Austria, Czech Republic, Germany, Spain, United Kingdom, Greece, France, Italy, Montenegro, Norway, Poland, Serbia, Slovenia and Slovakia) and extending into Turkey.<ref name="Assyov 2012"/> It is considered [[endangered species|endangered]] in the [[Czech Republic]].<ref name="Mikšik 2012"/>
+
+==References==
+{{Reflist|refs=
+
+<ref name="Arora 2014">{{cite journal |last1=Arora |first1=D. |last2=Frank |first2=J.L. |title=Clarifying the butter Boletes: a new genus, ''Butyriboletus'', is established to accommodate ''Boletus'' sect. ''Appendiculati'', and six new species are described |journal=Mycologia |year=2014 |volume=106 |issue=3 |pages=464–80 |doi=10.3852/13-052 |pmid=24871600}}</ref>
+
+<ref name="Assyov 2012">{{cite journal |last=Assyov |first=B. |year=2012 |title=Revision of ''Boletus'' section ''Appendiculati'' (Boletaceae) in Bulgaria with a key to the Balkan species |journal=Turkish Journal of Botany |volume=36 |pages=408–19 |url=http://journals.tubitak.gov.tr/botany/issues/bot-12-36-4/bot-36-4-13-1104-10.pdf |doi=10.3906/bot-1104-10 |url-status=dead |archive-url=https://web.archive.org/web/20140714161706/http://journals.tubitak.gov.tr/botany/issues/bot-12-36-4/bot-36-4-13-1104-10.pdf |archive-date=2014-07-14 }}</ref>
+
+<ref name="CoL_NZ8B">{{Catalogue of Life |id=NZ8B |title=''Butyriboletus subappendiculatus'' (Dermek, Lazebn. & J. Veselský) D. Arora & J.L. Frank |access-date=23 April 2025}}</ref>
+
+<ref name="Dermek 1979">{{cite book |first=Dermek |last=A. |title=Fungorum rariorum Icones coloratae |year=1979 |volume=9 |publisher=Cramer |page=13}}</ref>
+
+<ref name="Mikšik 2012">{{cite journal |first=Mikšik |last=M. |title=Rare and protected species of boletes of the Czech Republic |journal=Field Mycology |year=2012 |volume=13 |issue=1 |pages=8–16 |doi=10.1016/j.fldmyc.2011.12.003 |doi-access=free}}</ref>
+
+}}
+
+{{Taxonbar|from=Q1323791}}
+
+[[Category:Butyriboletus|subappendiculatus]]
+[[Category:Fungi described in 1979]]
+[[Category:Fungi of Europe]]
+[[Category:Fungus species]]

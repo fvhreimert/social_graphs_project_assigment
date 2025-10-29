@@ -1,0 +1,43 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{Speciesbox
+| image = Amanita umbrinolutea.jpg
+| taxon = Amanita umbrinolutea
+| authority = (Secr. ex Gillet) Bataille
+}}
+
+{{mycomorphbox 
+| name = ''Amanita umbrinolutea''
+| whichGills = free
+| capShape = umbonate
+| hymeniumType=gills
+| stipeCharacter=volva
+| ecologicalType=mycorrhizal
+| sporePrintColor=white
+| howEdible=unknown
+}}
+{{stack end}}
+
+'''''Amanita umbrinolutea''''', also known as the '''umber-zoned ringless amanita''', is a [[species]] of the genus ''[[Amanita]]''.
+
+== Description ==
+
+The [[Pileus (mycology)|cap]] of ''A. umbrinolutea'' is usually free of [[Volva (mycology)|volval]] remnants, {{Convert|4.5–9|cm|abbr=off|frac=2}} wide, at first conico-paraboloid, then somewhat campanulate to [[Convex geometry|convex]] and finally [[Planar geometry|planar]], [[umbonate]], with a strongly striate margin (occupying around 25–35% of the cap's radius).<ref name=Amanitaceae/> The cap is often dark in the center, then pale, then dark over the inner edges of the [[Lamella (mycology)|lamellae]] and on the ridges between the marginal striations; it can at other times be pallid in the center, but strongly [[zonate]]; the pigmentation intensity varies, with the center ranging from umber to grayish umber-brown to [[beige]] or pale grayish brown. The [[gill (mycology)|gills]] are free, crowded, off-white to sordid pale cream in mass, and up to {{Convert|6|mm|abbr=out|frac=8}} broad; the short gills are [[Glossary of botanical terms#truncate|truncate]], vary in length, and are scattered and unevenly distributed.<ref name=Amanitaceae>{{cite web | url = http://www.amanitaceae.org/?Amanita%20umbrinolutea| title = ''Amanita umbrinolutea''|work=Amanitaceae.org |accessdate=2016-08-27}}</ref>
+
+The stem is {{Convert|11.5–18.5|cm|abbr=on|frac=2}} × 6–11&nbsp;mm, pale cream to pale beige or [[Isabelline (colour)|isabella]] color or pale grayish brown, with a faint appressed zigzag girdles of fibrils, with a fleshy [[Membrane (biology)|membranous]] sack-like volva at the base. The {{Convert|3–4|cm|abbr=on|frac=2}} high volva is attached to the bottom 5&nbsp;mm or so of the stipe. The spores measure 10.5–13.4 × 9.5–12.5 (1.05–1.34 x 0.95–1.25&nbsp;cm) [[μm]] and are [[Globose|subglobose]] (infrequently either globose or broadly [[ellipsoid]]) and [[inamyloid]]. Clamps are absent from the bases of [[basidia]].
+
+== Distribution and habitat ==
+''A. umbrinolutea'' is widely distributed in [[Europe]], with its range extending eastward at least to around northwestern [[Pakistan]] and [[North India]]. Known specimens have examined have all been found in association with [[conifer]]s (including [[pine]] and [[spruce]]).<ref name="Amanitaceae" />
+
+== See also ==
+*[[List of Amanita species|List of ''Amanita'' species]]
+
+== References ==
+
+{{CCBYSASource|sourcepath=http://www.amanitaceae.org/?Amanita+manginiana|sourcearticle=Amanita manginiana|revision=740502386|authors(s)=Rodham E. Tulloss}}
+{{Reflist|colwidth=80em}}
+{{Amanitas}}
+{{Taxonbar|from=Q3613614}}
+
+[[Category:Amanita|Umbrinolutea]]
+[[Category:Fungus species]]

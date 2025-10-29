@@ -1,0 +1,47 @@
+{{Speciesbox
+| image = Post-1-1127312702.jpg
+| image_caption =
+| genus = Lentinellus
+| species = cochleatus
+| authority = ([[Persoon]]) P. Karsten
+}}
+{{mycomorphbox 
+| name = Lentinellus cochleatus
+| whichGills = decurrent
+| capShape =  infundibuliform
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=saprotrophic
+| sporePrintColor=white
+| howEdible=inedible
+}}
+
+'''''Lentinellus cochleatus''''', commonly known as the '''aniseed cockleshell''', is a wood-inhabiting [[fungus]].
+
+== Description ==
+The tan cap grows up to {{Convert|10|cm|frac=4}} wide,<ref name="tfb">{{Cite book |last=Francis-Baker |first=Tiffany |title=Concise Foraging Guide |date=2021 |publisher=[[Bloomsbury Publishing|Bloomsbury]] |isbn=978-1-4729-8474-6 |series=[[The Wildlife Trusts]] |location=London |pages=127}}</ref> often with a darker margin and depressed in the center.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=154}}</ref> It has a mild aniseed odor and flavor.<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=242}}</ref>
+
+Similar species include ''[[Lentinellus micheneri]]'' and ''[[Crepidotus nyssicola]]''.<ref name="audu" />
+
+== Distribution and habitat ==
+It is widespready in Britain and the rest of Europe, on broadleaf wood, from July to December.<ref name="tfb" />
+
+== Uses ==
+Some consider all members of the genus inedible due to their bitterness,<ref name="Miller 2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=145|author-link=Orson K. Miller Jr.}}</ref> but one guide suggests that it is good cooked or dried as a seasoning.<ref name="tfb" />
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://healing-mushrooms.net/archives/lentinellus-cochleatus.html Medicinal Mushrooms] description and medicinal properties
+*[https://web.archive.org/web/20080704135524/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6259.asp Roger's Mushrooms] description
+
+{{Taxonbar|from=Q2714698}}
+
+[[Category:Russulales]]
+[[Category:Fungi of Europe]]
+[[Category:Inedible fungi]]
+[[Category:Fungus species]]
+
+
+{{Russulales-stub}}

@@ -1,0 +1,19 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Lactarius mammosus I Sumava CZ.jpg
+| genus = Lactarius
+| species = mammosus
+| authority = Fr., 1838
+}}
+
+'''''Lactarius mammosus''''' is a species of [[fungus]] belonging to the family [[Russulaceae]].<ref name="Mycobank">{{cite web |title=Lactarius_mammosus |url=https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/175756 |website=www.mycobank.org |access-date=25 January 2021}}</ref> The English vernacular name is Pap Milkcap<ref>{{Cite web |url=https://www.britmycolsoc.org.uk/field_mycology/english-names |title=Archived copy |access-date=2024-01-19 |archive-date=2022-11-03 |archive-url=https://web.archive.org/web/20221103000333/https://www.britmycolsoc.org.uk/field_mycology/english-names |url-status=dead }}</ref>
+
+It is native to [[Europe]] and [[Northern America]].<ref name="GBIF">{{cite web |title=Lactarius mammosus Fr. |url=https://www.gbif.org/species/5248764 |website=www.gbif.org |access-date=25 January 2021 |language=en}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q1266088}}
+
+[[Category:Lactarius|mammosus]]
+[[Category:Fungus species]]

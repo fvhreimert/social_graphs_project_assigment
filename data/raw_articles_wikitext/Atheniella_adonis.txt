@@ -1,0 +1,109 @@
+{{short description|Species of fungus}}
+{{stack begin}}
+{{Speciesbox
+| image = Mycena adonis 46237.jpg
+| image_caption =
+| genus = Atheniella
+| species = adonis
+| authority = ([[Jean Baptiste François Pierre Bulliard|Bull.]]) Redhead, Moncalvo, Vilgalys, Desjardin & B.A. Perry
+| synonyms_ref = 
+| synonyms = ''Agaricus adonis'' <small>Bull.</small><br>
+''Hemimycena adonis'' <small>(Bull.) [[Rolf Singer|Singer]]</small><br>
+''Marasmiellus adonis'' <small>(Bull.) Singer</small>
+''Mycena adonis'' <small>(Bull.) [[Samuel Frederick Gray|Gray]]</small>
+}}
+{{Mycomorphbox
+| name = ''Atheniella adonis''
+| hymeniumType=gills
+| capShape = conical
+| whichGills = adnate
+| stipeCharacter=bare
+| sporePrintColor=white
+| ecologicalType=saprotrophic
+| howEdible=inedible
+}}
+{{stack end}}
+
+'''''Atheniella adonis''''', which has the recommended name of '''scarlet bonnet''' in the UK,<ref name="BMS"/> is a species of [[agaric]] in the family [[Cyphellaceae]].It produces small orangish to reddish [[mushroom]]s with [[pileus (mycology)|caps]] up to {{convert|1.2|cm|in|1|abbr=on}} in diameter and thin pinkish-white [[stipe (mycology)|stems]] reaching {{convert|4|cm|in|1|abbr=on}} long. The fungus typically grows in [[conifer]] woods in Eurasia and North America. 
+
+==Taxonomy==
+The species  was first named ''Agaricus adonis'' in 1792 by [[Jean Baptiste François Pierre Bulliard]],<ref name=Bulliard1792/> and placed in ''[[Mycena]]'' by [[Samuel Frederick Gray]] in 1821.<ref name=Gray1821/> [[Rolf Singer]] successively moved it to  ''[[Hemimycena]]'' (1943),<ref name=Singer1943/> then ''[[Marasmiellus]]'' (1951).<ref name=Singer1951/> Singer later changed his mind about these placements, in 1986 considering the species a ''Mycena''.<ref name=Singer1986/> 
+
+Recent [[Molecular phylogenetics|molecular]] research, based on [[cladistic]] analysis of [[DNA sequences]], has shown that the species is not closely related to ''Mycena'' and belongs in the [[Cyphellaceae]] in the genus ''[[Atheniella]]''.<ref name="Vizzini2022"/>
+
+===Etymology===
+The species epithet refers to the handsome youth [[Adonis]] in Greek mythology. [[Samuel Frederick Gray]] called it the "Adonis high-stool" in his 1821 ''Natural Arrangement of British Plants'',<ref name=Gray1821/> while [[Mordecai Cubitt Cooke]] named it the "delicate Mycena".<ref name=Cooke1871/>
+
+==Description==
+
+The [[pileus (mycology)|cap]] initially has a sharply conic shape, but expands to a narrow bell-shape or a broad cone in maturity, typically reaching {{convert|0.5 to 1.2|cm|abbr=on|frac=4}} in diameter.<ref name="Arora">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/228/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=228 |orig-date=1979}}</ref> It is scarlet red when young, becoming orange to yellowish.<ref name="Arora" /> The cap margin, which is initially pressed against the stem, is opaque or nearly so at first. The mushroom is [[hygrophanous]], and fades to an orange [[buff (color)|buff]] when dry.{{Citation needed|date=March 2025}} The [[trama (mycology)|flesh]] is thin, the same color as the cap, fragile, and without any distinctive taste or odor.
+
+The [[lamella (mycology)|gills]] are ascending-adnate (attaching at much less than a right angle, appearing to curve upward toward stem) or attached by a tooth, subdistant to close, with 14–16 gills reaching the stem. Additionally, there are two or three tiers of lamellulae—short gills that do not extend fully from the cap edge to the stem. The gills are narrow, and yellowish or with a reddish tinge at first; the margins are paler and the same color as the faces. The [[stipe (mycology)|stem]] is {{convert|2–4|cm|abbr=on|frac=8}} long and {{convert|1–2|mm|abbr=on|frac=32}} thick, and roughly equal in width throughout. It is tubular, fragile, initially [[wikt:pruinose|pruinose]] (covered with a fine powder), polished and smooth with age, pale yellow, becoming whitish, with the base often dirty yellow or brownish.<ref name="Smith p.177-78" />
+
+{{gallery|mode=packed
+|Mycena adonis 46238.jpg|Cap underside
+}}
+
+===Microscopic characteristics===
+The [[spore]]s are narrowly [[wikt:ellipsoid|ellipsoid]], [[inamyloid]], and measure 6–7 by 3–3.5&nbsp;[[μm]]. The [[basidia]] (spore-bearing cells) are four-spored and measure 20–22 by 6–7&nbsp;μm. The [[wikt:cheilocystidium|cheilocystidia]] and [[wikt:pleurocystidium|pleurocystidia]] ([[cystidia]] found on the edges and faces, respectively, of the gills) are abundant and similar in shape and markings, 40–58 by 10–15&nbsp;μm, tapering somewhat on either end and usually with a long needle-shaped neck (which is branched in some). The cystidia are generally smooth, but when dried material is mounted in [[potassium hydroxide]] for observation under light microscopy, an amorphous substance apparently holds spores and debris around the neck or apex, making them appear encrusted. The flesh of the gill is very faintly [[wine (color)|vinaceous]]-brown when [[staining|stained]] in [[iodine]]. The cap flesh has a thin, poorly differentiated pellicle with a region of slightly enlarged cells beneath it; the remainder is filamentous, and the filamentous portion stains vinaceous-brown in iodine.<ref name="Smith p.177-78">Smith, pp. 177–78.</ref>
+
+'' fades from red to bright orange (yellow near the margin).]]
+===Similar species===
+
+''[[Atheniella aurantiidisca]]'' can be distinguished by its lack of scarlet to pinkish tones in the cap and lack of gelatinized cortical hyphae.<ref name="urlCalifornia Fungi: Mycena adonis" />{{Verification needed|date=March 2025}} ''[[Atheniella flavoalba|A.&nbsp;flavoalba]]'' is usually pale yellow.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=438}}</ref>
+
+''[[Mycena acicula]]'' is typically smaller with a deep orange-red cap rather than the typical bright [[salmon pink]] of ''A.&nbsp;adonis''. Since the colors and sizes of ''M.&nbsp;acicula'' and ''A.&nbsp;adonis'' are similar, a microscope is needed to reliably distinguish between them, with spore size and shape being different. ''[[Mycena strobilinoides]]'' can be distinguished by its orange cap and amyloid spores. ''[[Mycena oregonensis]]'' is differentiated by its orange to yellow cap and lack of scarlet to pinkish tones.<ref name="urlCalifornia Fungi: Mycena adonis" /> ''[[Mycena roseipallens]]'' has a smaller [[Sporocarp (fungi)|fruit body]], wider spores, a less intensely colored and less conical cap, and grows on the decaying wood of elm, ash, and alder.<ref name="Smith1936" /> ''[[Mycena rosella]]'' is never fully [[coral pink]].<ref name="audu" />
+
+==Habitat and distribution==
+The fruit bodies of ''A. adonis'' grow solitarily or in groups in [[conifer]] forests and heaths, and appear in the spring and autumn.  The fruit bodies grow in groups or scattered on needle beds under [[spruce]] and [[Tsuga|hemlock]] in wet coastal [[temperate coniferous forest|conifer forests]], or in the higher mountains, where it is not uncommon in the spring and autumn months.
+
+The fungus is found in Europe<ref name="Læssøe2016" /> and in western North America,<ref name="Miller2006" /> where ''Mycena'' specialist [[Alexander H. Smith]] found the species in [[Washington (U.S. State)|Washington]], [[Oregon]], and [[California]].<ref name="Smith p.177-78" /> In 2007, it was reported from the valley of the [[Ussuri River]] in the northeast of China.<ref name="Bau2007" />
+
+== Ecology ==
+In one instance, fruit bodies were found growing on the deciduous trees Spanish Maple (''[[Acer granatense]]'') and willow (''[[Salix alba]]'') near [[Amsterdam]]. It was hypothesized that the bark of these trees had become more acidic in recent years because of increasing [[atmospheric pollution]] (specifically, increases in the levels of [[sulfuric acid|sulfuric]] and [[nitric acid]] from industrial smoke), providing a more suitable [[substrate (biology)|substrate]] for the fungus.<ref name="Reijnders1977" />
+
+==References==
+{{Reflist|colwidth=30em|refs=
+<ref name="BMS">{{cite web |author=Holden L. |url=https://www.britmycolsoc.org.uk/resources/english-names |title=English names for fungi 2022 |date=April 2022 |publisher=[[British Mycological Society]] |accessdate=2023-05-06}}</ref>
+
+<ref name=Læssøe2016>{{cite book |title=The genus ''Mycena'' s.l. |author=Aronsen A, Læssøe T |year=2016 |publisher=The Danish Mycological Society |isbn=978-87-983581-2-1}}</ref>
+
+<ref name=Bau2007>{{cite journal |vauthors=Bau T, Bulakh YM, Zhuang JY, Li Y |year=2007 |title=Agarics and other macrobasidiomycetes from Ussuri River Valley |journal=Mycosystema |volume=26 |issue=3 |pages=349–68 |issn=1672-6472}}</ref>
+
+<ref name=Bulliard1792>{{cite book |vauthors=Bulliard JB, Ventenat EP |year=1792 |title=Histoire des champignons de la France, compl., pl. 369-372, 509-540 |location=Paris |volume=2 |pages=445–46 |url=https://books.google.com/books?id=VAYWAAAAYAAJ&q=adonis&pg=RA1-PA446 |access-date=2010-06-01 |language=fr}}</ref>
+
+<ref name=Cooke1871>{{cite book |title=Handbook of British fungi, with full descriptions of all the species, and illustrations of the genera |author=Cooke MC. |year=1871 |publisher=Macmillan and co. |location= London |page=66 |url=https://books.google.com/books?id=so9wIu1LIIAC&q=Mycena+adonis&pg=PA66 |access-date=2010-09-27 |isbn=978-1-110-35673-7}}</ref>
+
+<ref name=Gray1821>{{cite book |title=A Natural Arrangement of British Plants |last=Gray SF. |year=1821 |page=620 |url=https://books.google.com/books?id=KTc-AAAAcAAJ&q=adonis&pg=PA620 |access-date=2010-09-24}}</ref>
+
+<ref name=Miller2006>{{cite book|last1=Miller Jr.|first1=Orson K.|author-link=Orson K. Miller Jr.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=167}}</ref>
+
+<ref name=Reijnders1977>{{cite journal |author=Reijnders J. |year=1977 |title=''Mycena adonis'' as a deciduous tree epiphyte |journal=Coolia |volume=20 |issue=4 |pages=109–10 |language=nl}}</ref>
+
+<ref name=Smith1936>{{cite journal |doi=10.2307/3754114 |author=Smith AH. |year=1936 |title=Studies in the genus ''Mycena''. III |journal=Mycologia |volume=28 |issue=5 |pages=410–30 |jstor=3754114 }}</ref>
+
+<ref name=Singer1943>{{cite journal |author=Singer R. |year=1943 |title=Das System der Agaricales. III |journal=Annales Mycologici |volume=41 |page=123}}</ref>
+
+<ref name=Singer1951>{{cite journal |author=Singer R. |year=1949 |title=The Agaricales in modern taxonomy |journal=Liloa |volume=22 |issue=2 |page=123}}</ref>
+
+<ref name=Singer1986>{{cite book |author=Singer R. |title=The Agaricales in Modern Taxonomy |edition=4th |publisher=Koeltz Scientific Books|location=Koenigstein |year=1986 |page=413 |isbn=3-87429-254-1}}</ref>
+
+<ref name="urlCalifornia Fungi: Mycena adonis">{{cite web |url=http://www.mykoweb.com/CAF/species/Mycena_adonis.html |title=''Mycena adonis'' |vauthors=Wood M, Stevens F |publisher=MykoWeb |work=California Fungi |access-date=2010-09-24}}</ref>
+
+<ref name="Vizzini2022">{{cite journal |author=Vizzini A, Consiglio G, Marchetti M, Borovička J, Campo E, Cooper JA, Lebeuf R, Ševčíková H.  |title=New data in Porotheleaceae and Cyphellaceae: epitypification of ''Prunulus scabripes'' Murrill, the status of ''Mycopan'' Redhead, Moncalvo & Vilgalys and a new combination in ''Pleurella'' Horak emend. |journal=Mycol Progress |volume=21 |year=2022 |issue=4 |page=44 |doi=10.1007/s11557-022-01795-z|doi-access=free |bibcode=2022MycPr..21...44V }}</ref>
+
+}}
+
+===Cited text===
+*{{cite book |title=North American species of ''Mycena'' |last=Smith AH. |year=1947 |location=Ann Arbor|publisher=University of Michigan Press}}
+
+{{Good article}}
+{{Taxonbar|from=Q3279263}}
+
+
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Jean Baptiste François Pierre Bulliard]]
+[[Category:Fungi described in 1792]]
+[[Category:Fungus species]]

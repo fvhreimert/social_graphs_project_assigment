@@ -1,0 +1,88 @@
+{{stack begin}}
+{{Speciesbox
+| image = Cortinarius infractus 67718.jpg
+| genus = Cortinarius
+| parent = Cortinarius subg. Phlegmacium
+| species = infractus
+| authority = ([[Christian Hendrik Persoon|Pers.]]) [[Elias Magnus Fries|Fr.]] (1838)
+| synonyms_ref = <ref name="urlFungorum synonymy: Cortinarius infractus"/>
+| synonyms = *''Agaricus infractus'' <small>Pers. (1799)</small>
+*''Phlegmacium infractum'' <small>(Pers.) [[Friedrich Otto Wünsche|Wünsche]] (1877)</small>
+*''Pholiota infracta'' <small>(Pers.) [[Paul Kummer|P.Kumm.]] (1871)</small>
+}}
+{{mycomorphbox
+| name = ''Cortinarius infractus''
+| whichGills = adnate
+| capShape = convex
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = reddish-brown
+| howEdible = inedible
+}}
+{{stack end}}
+
+'''''Cortinarius infractus''''', commonly known as the '''sooty-olive Cortinarius''' or the '''bitter webcap''', is an inedible [[basidiomycete]] mushroom of the genus ''[[Cortinarius]]''. The fungus produces sooty-olive [[basidiocarp|fruit bodies]] with sticky [[pileus (mycology)|caps]] measuring up to {{convert|13|cm|abbr=on}} in diameter. The fruit bodies contains [[alkaloid]]s that inhibit the enzyme [[acetylcholinesterase]].
+
+== Taxonomy ==
+The species was first named as ''Agaricus infractus'' by [[Christian Hendrik Persoon]] in 1799.<ref name=Persoon1799/> It was transferred to the genus ''[[Cortinarius]]'' by [[Elias Magnus Fries]] in his 1838 ''Epicrisis Systematis Mycologici''.<ref name=Fries1838/> Differing opinions regarding the organization of ''Cortinarius'' have led to the names ''Phlegmacium infractum'' (Wünsche) and''[[Pholiota]] infracta''  ([[Paul Kummer|Kummer]]).<ref name="urlFungorum synonymy: Cortinarius infractus"/>
+
+The mushroom is [[common name|commonly]] known as the "sooty-olive Cortinarius",<ref name=Arora1986/> or the "bitter webcap".<ref name=EnglishCommonNames/>
+
+== Description ==
+[[image:Cortinarius.infractus2.-.lindsey.jpg|thumb|Cap underside]]
+
+The [[pileus (mycology)|cap]] is {{convert|4 to 13|cm|abbr=on}} in diameter,<ref name=Arora1986/> thickly fleshy, particularly in the center. It is initially convex, but already slightly undulatingly squashed while still young, becoming convex and depressed around the [[umbo (mycology)|umbo]], then flattened, retaining for a long time a low broad umbo but sometimes at length uniformly depressed. The margin is distinctly curved, slightly rolled inward when young, thin and sharply rounded when mature and often wavy and lobed. The cap surface is smooth and sticky, dirty yellow-olive to dirty brownish-olive or olive grayish-green, then dirty light brown with green tinge, streakily fibrillose almost from the middle (scantily so at center), finely and persistently dark greenish-brownish. The [[lamella (mycology)|gills]] are moderately crowded to distant spaced—about four gills per centimeter in the middle on mature fruit bodies, at the margin about ten per centimeter. They are adnate and deeply emarginate (notched), especially when mature, up to {{convert|7|mm|2|abbr=on}} broad, somewhat wrinkled on the surface and with the edge entire or slightly undulatingly denticulate. Their color is dirty olive, then later dark brownish-olive, with slightly paler edge.<ref name=Pilat1961/> The [[spore print]] is rusty-brown.<ref name=Arora1986/>
+
+The [[stipe (mycology)|stem]] is up to {{convert|13|cm|abbr=on}} long, {{convert|2.5|cm|abbr=on}} wide at the apex but up to {{convert|4|cm|abbr=on}} wide at the base, where it thickens bulbously. The bulb, which is not sharply upright but marked by a rounded ridge, is egg-shaped in cross section. For a long time the stem is solid, then sometimes hollow, firm, hard, silkily fibrillose, dirty whitish with olive tinge but faintly greenish-blue, particularly at the apex, and sometimes even with a blue tint or bluish spots on the bulb. The cortina is olive greenish, then brownish, thickly developed but soon disappearing. The [[trama (mycology)|flesh]] is tough, then softer, whitish, with slight bluish-green tinge, thick in the cap, homogenous and softly juicily fleshy; in the stem, fibrillosely rivulose beneath the surface and with a dirty bluish-green or greenish-olive tinge in this region, more homogenous and almost non-fibrillose in the bulb. The taste is bitter and the odor faint, similar to radish. The [[basidia]] (spore-bearing cells) are 50–60 by 9–10&nbsp;[[μm]], with four [[sterigmata]] 6–7&nbsp;μm long.<ref name=Pilat1961/>
+
+In 1999, Moser and Ammmirati described a [[variety (botany)|variety]] that they had seen many times since 1983 in [[Shoshone National Forest]], Wyoming. ''Cortinarius infractus'' var. ''flavus'' differs from the typical variety in its cap, which reaches up to {{convert|8|cm|abbr=on}} with a yellow-brown to almost yellow color.; paler gills described as "olivaceous-brownish"; a slightly bitterish, sometimes mild taste.<ref name=Moser1999/>
+
+===Similar species===
+''[[Cortinarius immixtus]]'' somewhat resembles ''C.&nbsp;infractus'', but has brighter-colored young gills (ranging from yellowish to olive to green), a mild taste, and larger spores.<ref name=Arora1986/>
+
+== Distribution and habitat ==
+The fruit bodies of ''Cortinarius infractus'' grows scattered in [[deciduous forest]]s of both [[oak]] and [[beech]].<ref name=Pilat1961/>
+
+== Chemical compounds ==
+
+
+The chemical composition of the [[essential oil]]s obtained from the fruit bodies were shown to contain 36 components, predominantly [[musk ambrette]], in a ratio of 62.3%. The essential oil was also tested for [[antimicrobial]] activity against the human pathogenic bacteria ''[[Escherichia coli]]'', ''[[Klebsiella pneumoniae]]'', ''[[Pseudomonas aeruginosa]]'', ''[[Enterococcus faecalis]]'', ''[[Staphylococcus aureus]]'', ''[[Bacillus cereus]]'' and the fungus ''[[Candida tropicalis]]'', but did not show any [[biological activity]].<ref name=Yayli2007/>
+
+Two alkaloids, infractopicrin and 10-hydroxy-infractopicrin, have been isolated from the fruit bodies of ''Cortinarius infractus''. Both compounds show the ability to [[enzyme inhibition|inhibit]] the enzyme [[acetylcholinesterase]] ''[[in vitro]]'' and possess a higher selectivity{{clarify|selective vs what?|date=July 2021}} than [[galanthamine]], a drug used for the treatment of mild to moderate [[Alzheimer's disease]].<ref name=Geissler2010/>
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Cortinarius species|List of ''Cortinarius'' species]]
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=Arora1986>{{cite book |author=Arora D. |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/435/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |year=1986 |orig-date=1979 |edition=2nd |pages=435-36}}</ref>
+
+<ref name=EnglishCommonNames>{{cite web |url=http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |title=Recommended English Names for Fungi in the UK |publisher=[[British Mycological Society]] |access-date=2012-04-04 |archive-url=https://web.archive.org/web/20110716083053/http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |archive-date=2011-07-16 }}</ref>
+
+<ref name=Fries1838>{{cite book |title=Epicrisis Systematis Mycologici |author=Fries EM |year=1838 |publisher=Typographia Academica |location=Uppsala, Sweden |page=261 |url=https://books.google.com/books?id=kuIUAAAAYAAJ&pg=PA261 |access-date=2010-08-24 |language=la}}</ref>
+
+<ref name=Geissler2010>{{cite journal |vauthors=Geissler T, Brandt W, Porzel A, Schlenzig D, Kehlen A, Wessjohann L, Arnold N |title=Acetylcholinesterase inhibitors from the toadstool ''Cortinarius infractus'' |journal=Bioorganic & Medicinal Chemistry |volume=18 |issue=6 |pages=2173–77 |year=2010 |doi=10.1016/j.bmc.2010.01.074 |pmid=20176490}}</ref>
+
+<ref name=Moser1999>{{cite journal |vauthors=Moser MM, Ammirati JF |year=1999 |title=Studies in North American Cortinarii V. New and interesting ''Phlegmacia'' from Wyoming and the Pacific North West |journal=Mycotaxon |volume=72 |pages=289–321 |url=http://www.cybertruffle.org.uk/cyberliber/59575/0072/0289.htm}}</ref>
+
+<ref name=Persoon1799>{{cite book |title=Observationes mycologicae |volume=2 |author=Persoon CH |year=1799 |page=42 |language=la}}</ref>
+
+<ref name=Pilat1961>{{cite book |title=Mushrooms and other Fungi |vauthors=Pilat Á, Ušák O |year=1961 |publisher=Peter Nevill |location=London, UK |page=103}}</ref>
+
+<ref name="urlFungorum synonymy: Cortinarius infractus">{{cite web |url=http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=218952 |title=''Cortinarius infractus'' Berk. |publisher=CAB International |work=Species Fungorum |access-date=2010-08-06}}</ref>
+
+<ref name=Yayli2007>{{cite journal |vauthors=Yayli N, Yilmaz N, Ocak M, Sevim A, Sesli E, Yayli N |year=2007 |title=Essential oil compositions of four mushrooms: ''Scleroderma verrucosum'', ''Cortinarius infractus'', ''Hypholama capnoides'' and ''Hypholama fasciculare'' from Turkey |journal=Asian Journal of Chemistry |volume=19 |issue=5 |pages=4102–6  |issn=0970-7077 }}</ref>
+
+}}
+
+{{Taxonbar|from=Q11023677}}
+
+[[Category:Cortinarius|infractus]]
+[[Category:Fungi described in 1799]]
+[[Category:Fungi of Europe]]
+[[Category:Inedible fungi]]
+[[Category:Taxa named by Christiaan Hendrik Persoon]]
+[[Category:Fungus species]]

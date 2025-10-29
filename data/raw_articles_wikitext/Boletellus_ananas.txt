@@ -1,0 +1,164 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{speciesbox
+| image = Boletellus ananas 45219.jpg
+| image_caption =
+| taxon = Boletellus ananas
+| authority = ([[Moses Ashley Curtis|M.A.Curtis]]) [[William Alphonso Murrill|Murrill]] (1909)
+| subdivision_ranks = Varieties
+| subdivision =
+''B. ananas'' var. ''crassotunicatus'' <small>Singer</small><br>
+''B. ananas'' var. ''minor'' <small>Singer</small>
+| synonyms_ref = <ref name=Mayor2008/>
+| synonyms = ''Boletellus ananas'' var. ''crassotunicatus'' <small>[[Rolf Singer|Singer]]</small><br>
+''Boletellus ananas'' var. ''minor'' <small>Singer</small><br>
+''Boletellus coccineus'' var. ''crassotunicatus'' <small>(Singer) Singer</small><br>
+''Boletellus coccineus'' var. ''minor'' <small>(Singer) Singer, J. García & L.D. Gómez</small><br>
+''Boletus isabellinus'' <small>[[Charles Horton Peck|Peck]]</small><br>
+''Boletellus minor'' <small>(Singer) L.D. Gómez</small><br>
+''Boletus ananas'' <small>M.A. Curtis</small><br>
+''Boletus caribaeus'' var. ''crassotunicatus'' <small>(Singer) Singer</small>
+}}
+{{mycomorphbox
+| name = ''Boletellus ananas''
+| whichGills = adnate
+| capShape = convex
+| hymeniumType = pores
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = brown
+| howEdible = edible 
+| howEdible2 = caution
+}}
+{{stack end}}
+
+'''''Boletellus ananas''''', commonly known as the '''pineapple bolete''', is a [[mushroom]] in the family [[Boletaceae]], and the [[type species]] of the genus ''[[Boletellus]]''. Previously known as ''Boletus ananas'' and ''Boletus coccinea'' (among other [[synonym (taxonomy)|synonyms]]), the species was given its current name by [[William Alphonso Murrill]] in 1909. 
+
+The [[basidiocarp|fruit body]] is characterized by the reddish-pink (or pinkish-tan to yellowish if an older specimen) scales on the cap that are often found hanging from the edge. The pore surface on the underside of the cap is made of irregular or angular pores up to 2&nbsp;mm wide that bruise a blue color. It is yellow when young but ages to a deep olive-brown color. Microscopically, ''B.&nbsp;ananas'' is distinguished by large [[spore]]s with cross striae on the ridges and spirally encrusted hyphae in the marginal appendiculae and [[trama (mycology)|flesh]] of the stem. Two [[variety (biology)|varieties]] of ''B.&nbsp;ananas'' have been described.
+
+It is distributed in southeastern North America, northeastern South America, Asia, and New Zealand, where it grows scattered or in groups on the ground, often at the base of [[oak]] and [[pine]] trees. Like many other boletes, this species is considered [[edible mushroom|edible]], but it is not recommended for consumption.
+
+==Taxonomy==
+The species was first named by [[Moses Ashley Curtis]] as ''Boletus ananas'' in 1848, based on specimens he found near the [[Santee River]], in [[South Carolina]].<ref name=Curtis1848/> In 1909, [[William Murrill]] described the new genus ''[[Boletellus]]'' and made ''Boletellus ananas'' the [[type species]]. According to Murrill, the taxon ''Boletus isabellinus'', described by [[Charles Horton Peck]] in 1897 from specimens collected in [[Ocean Springs, Mississippi]],<ref name=Peck1897/> is a [[synonym (taxonomy)|synonym]] of ''B.&nbsp;ananas''; Peck described this species from undeveloped specimens.<ref name=Murrill1909/> [[Wally Snell]] later doubted Murrill's conclusion in a 1933 publication; he considered the differences in the spore structure too great to consider the species [[conspecific]] with ''B.&nbsp;ananas'', although he admitted it was impossible to come to any definitive conclusions until mature fruit bodies and [[spore print]]s were available for study.<ref name=Snell1933/> [[Rolf Singer]] and colleagues (1992) suggested the name ''Boletellus coccineus'' for ''Boletellus ananas''.<ref name=Singer1992/> Singer created this name, however, in the mistaken belief that the earliest available name for the taxon was ''Boletus coccineus'', proposed by [[Elias Magnus Fries]] in 1838.<ref name=Fries1838/> However, Fries's name is an illegitimate later [[homonym (biology)|homonym]] (compare with ''Boletus coccineus'', named by [[Jean Baptiste François Pierre Bulliard|Bulliard]] in 1791<ref name=Bulliard1791/>), and Singer's combination is actually based on ''Strobilomyces coccineus'', named by [[Pier Andrea Saccardo]] in 1888.<ref name=Saccardo1888/> The earliest available name for the species is therefore ''Boletus ananas'' M.A. Curtis 1848, the [[basionym]] of ''Boletellus ananas''.
+
+''Boletellus ananas'', as the [[type species]] of the genus ''[[Boletellus]]'', is in [[section (botany)|section]] ''Boletellus'' that Singer based on the scaly, dry cap with red-pink tones, a [[partial veil|marginal veil]] that clasps the stem when immature, and longitudinally ridged spores that are greater than 16&nbsp;[[μm]] long.<ref name=Singer1986/> The genus name ''Boletellus'' means "small boletus",<ref name=Bessett2000/> while the [[specific name (botany)|specific epithet]] ''ananas'' alludes to the name for pineapple, referring to the pineapple-like pattern of scales on the cap surface.<ref name=Metzler1992/> The mushroom is [[common name|commonly]] known as the "pineapple bolete".<ref name=Bessette2007/>
+
+==Description==
+{{multiple image
+| align     = left
+| direction = vertical
+| width     = 200
+| image1    = Boletellus ananas 24740.jpg
+| caption1  = The cap surface is covered with squamules.
+| image2    = Boletellus ananas 24741.jpg
+| caption2  = Marginal appendiculae, remnants of the [[partial veil]], are evident on the underside of the cap.
+}}
+The [[pileus (mycology)|cap]] of ''B.&nbsp;ananas'' is {{convert|3.3-10|cm|abbr=on|frac=4}} wide<ref name="audu" /> and [[wikt:plano-convex|plano-convex]] (flat on one side and rounded on the other). It is covered with [[wikt:squamule|squamules]] (small scales) that can be either pressed against the cap or curved back on itself. The squamules range in color from reddish brown to red-tan, to pink to pinkish gray, and they are more concentrated and more scaly in the center of the cap, extending out of cream to light orange-pink to light pink-red [[wikt:floccose|floccose]] ground. The margin clasps the stem when young; at maturity it separates into triangular veil remnants (appendiculae) that measure 6–12 by 3–10&nbsp;mm. The color of these appendiculae range from [[buff (color)|buff]]-white to faint pink. The [[trama (mycology)|flesh]] is 2–3&nbsp;mm thick at the edge of the cap, 7–10&nbsp;mm over the tubes, and 11–18&nbsp;mm&nbsp;centrally. It is buff white to light yellow, and quickly turns bluish upon exposure to air. The tubes are 1–5&nbsp;mm long at the margin, 10–20&nbsp;mm in the center, and 4–6&nbsp;mm at the stem. They are broadly and deeply depressed around the stem, of irregular lengths, bright yellow to olive-yellow to mustard-yellow, and also rapidly turn blue upon exposure. The pores are the same color as the tubes, and rapidly turn blue-green with pressure; they are angular, and there are about 0.5–1.5 pores per&nbsp;mm. The [[stipe (mycology)|stem]] is {{convert|5-10|cm|abbr=on|frac=2}} tall<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=323}}</ref> and {{convert|6-14|mm|abbr=on|frac=8}} wide, and gradually becomes larger towards the base to 10–19&nbsp;mm. The top part of the stem is cream to pink, the middle finely longitudinally striate, with the striations darkening with handling, red-lavender to brown-red, lighter with age. Immediately above the basal [[wikt:tomentum|tomentum]] the stem surface is cream-colored with few striations. The basal tomentum is made of stiff, coarse white hairs over the lower 6–50&nbsp;mm. The flesh of the stem is solid (i.e., not hollow) white to buff-tan to light yellow, and turns slightly blue with exposure. The odor is not distinctive (although it has been described as "musty")<ref name=Rumack1994/> and the taste is mild.<ref name=Mayor2008/>
+
+===Microscopic characteristics===
+
+The [[spore]]s are [[wikt:olivaceous|olivaceous]]-brown in medium to heavy [[spore print|deposit]]. They are [[inamyloid]], almond-shaped, contain one or more oil droplets, and measure 17.5–22.2 by 6.4–8&nbsp;μm. The spore wall is 0.5–1&nbsp;μm thick, with 12–14 longitudinal ridges. These ridges are less than 1&nbsp;μm tall, occasionally [[wikt:bifurcate|bifurcating]], converging at poles, with minute cross-striae.<ref name=Mayor2008/> Although these cross-striae are visible when observed with [[light microscopy]], they are not evident when viewed with [[scanning electron microscopy]].<ref name="urlNYBG:Boletellus ananas"/> The [[wikt:hilar appendage|hilar appendage]] (the region of a spore which attaches to the [[basidium]] via the [[sterigma]]) is 0.3–1&nbsp;μm long. The basidia are four-spored, club-shaped, and have numerous [[refraction|refractive]] globules; they measure 39–57 by 11–15&nbsp;μm. The pleurocystidia ([[cystidia]] on the face of a gill) are 42–47 by 8-12&nbsp;μm, swollen and beaked, slightly [[wikt:capitate|capitate]]. They are abundant, arising from the subhymenium, projecting 19.3–29.6&nbsp;μm above the hymenial palisade, thin-walled, [[hyaline]], and devoid of refractive contents. The cheilocystidia (cystidia on the edge of a gill) are 19–42 by 5–11&nbsp;μm, swollen, cylindrical to narrowly cub-shaped, thin-walled, and infrequent. The flesh of the [[hymenium]] is boletoid and strongly divergent (composed of different tissue layers). The mediostratum (middle tissue layer) is 24.7–45.7&nbsp;μm wide, and made of many parallel, slightly interwoven [[hypha]]e. The lateral stratum hyphae are 4.4–8.4&nbsp;μm wide, hyaline, gelatinized in a dilute solution of [[potassium hydroxide]] (KOH), and regularly [[septum|septate]]. The [[pileipellis|cap cuticle]] is a densely interwoven trichodermial palisade (an erect, roughly parallel chains of closely packed cells) of cylindrical elements with inflated terminal cells. The terminal cells are 23.5–51.9 by 9.4–16.8&nbsp;μm, inamyloid, cylindrical to club-shaped, interwoven, and concentrated on the squamules. The marginal appendiculae are composed of wefts of interwoven inflated hyphae, some with faint golden spirally arranged encrusting [[pigment]]s that are evident when mounted in water, KOH, and [[Melzer's reagent]]. The flesh of the cap is composed of highly interwoven hyphae measuring 7.4–11.1&nbsp;μm wide that are hyaline in water, gelatinized and hyaline in KOH, and regularly [[septum|septate]]. The stipitipellis (stem cuticle) is a trichodermial palisade of cylindrical elements with inflated terminal cells. The terminal cells project 30.4–63&nbsp;μm, and they are cylindrical to club-shaped, occasionally with an abrupt tapering point. The flesh of the stem is made of densely interwoven hyphae that are 4.9–7.2&nbsp;μm wide, with spirally arranged, faint golden encrusting pigments that can be seen in KOH, Melzer's reagent, and water. [[Clamp connection]]s are absent in this species.<ref name=Mayor2008/>
+
+=== Varieties ===
+The typical variety of ''B. ananas'' has consistently larger fruit bodies than ''B.&nbsp;ananas'' var. ''minor'' Singer from Brazil and Nicaragua, and lacks the thick-walled cheilocystidia of ''B.&nbsp;ananas'' var. ''crassotunicatus'' Singer from Nicaragua and Panama.<ref name="Singer1992" /><ref name="Singer1983" /><ref name="OrtizSantana2007" />
+
+=== Similar species ===
+
+''[[Strobilomyces strobilaceus]]'' is roughly similar in appearance because of its rough scaly cap and lacerated margin, but may be distinguished from ''B.&nbsp;ananas'' by smooth stem without a ring, different spores, and flesh that is less tough. The Australian species ''[[Boletellus ananiceps]]'' has spores with narrow longitudinal ribs that do not have cross-striae. ''[[Boletellus dissiliens|B.&nbsp;dissiliens]]'' has colors that are not red as in ''B.&nbsp;ananas'', and pores that can become reddish in maturity. Further, the cap flesh of ''B.&nbsp;dissiliens'' turns blue upon exposure to air.<ref name="urlNYBG:Boletellus dissiliens"/>
+
+== Ecology, habitat and distribution ==
+The fruit bodies of ''B.&nbsp;ananas'' typically grow scattered or in groups under oak and pine trees, often on their bases.<ref name=Bessett2000/> In [[Guyana]], the mushroom typically fruits singly or in pairs within {{convert|1-2|m|ft|abbr=on|frac=2}} above ground level on the trunks of the tropical tree ''[[Dicymbe corymbosa]]'' (subfamily [[Caesalpinioideae]]), associated with ectomycorrhizas within humic accumulations. It is rarely found fruiting on the ground on heavily decayed, root-penetrated wood. [[Rolf Singer]] suggested that the fungus was not [[mycorrhiza]]l, noting that as well as occurring under or on the bases of both [[pine]] and [[oak]]s, it occurred in scanty [[humus]] and debris accumulated on rock walls. Singer concluded that the species prefers to grow on hard surfaces.<ref name=Singer1945/> [[Harry D. Thiers]], in his study of the bolete flora of [[Texas]], wrote that ''B.&nbsp;ananas'' was a rare species that often fruited abundantly following an extended period of rain and high humidity.<ref name=Thiers1959/>
+
+Some varieties of ''B.&nbsp;ananas'' from southeastern North America, Costa Rica, Brazil, Panama, Nicaragua, and Guyana have been noted to fruit on tree trunks,<ref name=Mayor2008/><ref name=Murrill1909/><ref name=Singer1983/> although terrestrial fruiting has been reported in Malaysia<ref name=Corner1972/> and Central America.<ref name=Mayor2008/> Due to the typically elevated fruiting habit and occurrence on dead wood, the ectomycorrhizal status of ''B.&nbsp;ananas'' has been debated; in the protolog Murrill noted "it always occurs either as a wound parasite on pine trunks or about the base of living pine trees".<ref name=Murrill1909/> All collections have been made in association with ectotrophic host trees including ''Pinus'' and ''Quercus'' species in southeastern North America<ref name=Murrill1909/> and Central America,<ref name=Singer1983/><ref name=OrtizSantana2007/><ref name=Halling2005/> ''Quercus humboldtii''  in Colombia,<ref name=FrancoMolano2000/> various [[Fagaceae]] and [[Dipterocarpaceae]] species in Malaysia,<ref name=Corner1972/> and ''[[Leptospermum]]'' and ''Pinus'' species in New Zealand.<ref name=McNabb1967/> In Guyana, the humic deposits on ''Dicymbe'' trunks bearing ''B.&nbsp;ananas'' are consistently permeated with abundant ectomycorrhizas.<ref name=Woolley2008/> The fungus was reported as forming mycorrhizal associations with eucalypts in Australia, based on fruit body association with trees.<ref name=Gardner1988/>
+
+Its North American distribution encompasses a range extending north from [[North Carolina]] to [[Florida]], west to Texas and south to Mexico, and Central America;<ref name=Bessett2000/><ref name=Lopez1992/> it is in season from June to October.<ref name="audu" /> In 2008, it was reported for the first time in the Upper [[Potaro River|Potaro]] and Upper [[Ireng River]] Basins in [[Guyana]].<ref name=Mayor2008/> It has also been collected from New Zealand,<ref name=McNabb1967/> Asia (including China,<ref name=Zhishu1993/> Korea,<ref name=Park1988/> Malaysia, and Taiwan),<ref name=Yeh1982/> and possibly Australia.<ref name=Mayor2008/><ref name=Singer1983/><ref name=Corner1972/>
+
+== Edibility ==
+Although the mushroom is used as a food in Mexico,<ref name="Boa2004" /> [[field guide]]s list it as "inedible"<ref name="Bessette2007" /> or "not recommended".<ref name="Metzler1992" />
+
+== See also ==
+*[[List of North American boletes]]
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=Bessett2000>{{cite book |vauthors=Bessette AR, Bessette A, Roody WC |title=North American Boletes: A Color Guide to the Fleshy Pored Mushrooms |publisher=Syracuse University Press |location=Syracuse, NY |year=2000 |pages=83–84 |isbn=0-8156-0588-9 |url=https://books.google.com/books?id=geiwy6Jf_ZcC&q=Boletellus+ananas&pg=PA83 |access-date=2010-06-20}}</ref>
+
+<ref name=Bessette2007>{{cite book |title=Mushrooms of the Southeastern United States |vauthors=Bessette AE, Roody WC, Bessette AR |year=2007 |publisher=Syracuse University Press |location=Syracuse, NY |isbn=978-0-8156-3112-5 |page=208}}</ref>
+
+<ref name=Boa2004>{{cite book |author=Boa E. |title=Wild Edible Fungi: A Global Overview Of Their Use And Importance To People (Non-Wood Forest Products) |publisher=Food & Agriculture Organization of the UN |year=2004 |pages=118–19 |isbn=92-5-105157-7 |url=https://books.google.com/books?id=Zd2NlcNZgvcC&q=boletellus+ananas&pg=PA119 |access-date=2010-06-20}}</ref>
+
+<ref name=Bulliard1791>{{cite book |title=Histoire des champignons de la France |volume=I |author=Bulliard P. |year=1791 |publisher=l'auteur |page=364 |url=https://books.google.com/books?id=gRMWAAAAYAAJ&q=Histoire%20des%20champignons%20de%20la%20France%20bulliard&pg=PA364 |access-date=2010-10-05 |language=fr}}</ref>
+
+<ref name=Corner1972>{{cite book |title=''Boletus'' in Malaysia |author=Corner EJH |year=1972 |publisher=Botanic Gardens |location=Singapore }}</ref>
+
+<ref name=Curtis1848>{{cite journal |author=Curtis MA |year=1848 |title=Contributions to the Mycology of North America |journal=American Journal of Science and Arts |series=Second Series |volume=6 |issue=18 |pages=349–353}}</ref>
+
+<ref name=FrancoMolano2000>{{cite journal |vauthors=Franco-Molano A, Uribe-Calle E |year=2000 |title=Hongos Agaricales y Boletales de Colombia |trans-title=Agaricals and Boletals Fungi of Colombia |journal=Biota Colombia |volume=1 |issue=1 |pages=25–43 |url=https://www.redalyc.org/pdf/491/49110102.pdf |access-date=2010-10-05 |url-status=live |archive-url=https://web.archive.org/web/20120923051413/http://redalyc.uaemex.mx/redalyc/pdf/491/49110102.pdf |archive-date=2012-09-23 }}</ref>
+
+<ref name=Fries1838>{{cite book |title=Epicrisis Systematis Mycologici |author=Fries EM |year=1838 |publisher=Typographia Academica |location=Uppsala |page=423 |url=https://books.google.com/books?id=sLQTAAAAQAAJ&q=Epicrisis%20Systematis%20Mycologici%201838&pg=PA423 |access-date=2010-10-05 |language=la}}</ref>
+
+<ref name=Gardner1988>{{cite journal |vauthors=Gardner JH, Malajczuk N |year=1988 |title=Recolonisation of rehabilitated bauxite mine sites in Western Australia by mycorrhizal fungi |journal=Forest Ecology and Management |volume=24 |issue=1 |pages=27–42 |doi=10.1016/0378-1127(88)90022-9 |bibcode=1988ForEM..24...27G }}</ref>
+
+<ref name=Halling2005>{{cite book |vauthors=Halling RE, Mueller GM |title=Common Mushrooms of the Talamanca Mountains, Costa Rica |series=Memoirs of the New York Botanical Garden |volume=90 |publisher=New York Botanical Garden Press |year=2005 |isbn=0-89327-460-7}}</ref>
+
+<ref name=Lopez1992>{{cite journal |vauthors=Lopez L, Acosta-Urdapilleta L, Portugal D, Montiel E |year=1992 |title=Estudio sobre los Boletaceos y Gomfidiaceos del estado de Morelos (Mexico)  |trans-title=Study on the boletaceous and gomphidiaceous fungi from the state of Morelos (Mexico) |journal=International Journal of Mycology and Lichenology  |volume=4 |issue=3 |pages=385–91 |language=es}}</ref>
+
+<ref name=Mayor2008>{{cite journal |vauthors=Mayor JR, Fulgenzi TD, Henkel TW, Halling RE |year=2008 |title=''Boletellus piakaii'' sp nov and a new distribution record for ''Boletellus ananas'' var. ''ananas'' from Guyana |journal=Mycotaxon |volume=105 |pages=387–98}}</ref>
+
+<ref name=McNabb1967>{{cite journal |author=McNabb RFR |year=1967 |title=The Strobilomycetaceae of New Zealand |journal=New Zealand Journal of Botany |volume=5 |issue=4 |pages=532–47 |doi=10.1080/0028825x.1967.10428772|bibcode=1967NZJB....5..532M |doi-access=free }}</ref>
+
+<ref name=Metzler1992>{{cite book |vauthors=Metzler V, Metzler S |title=Texas Mushrooms: a Field Guide |publisher=University of Texas Press |location=Austin, TX |year=1992 |page=229 |isbn=0-292-75125-7 |url=https://books.google.com/books?id=HRtfvVigMmsC&q=boletellus+ananas&pg=PA229 |access-date=2010-10-05}}</ref>
+
+<ref name=Murrill1909>{{cite journal |author=Murrill WA |year=1909 |title=The Boletaceae of North America: I |journal=Mycologia |volume=1 |issue=1 |pages=4–18 |jstor=3753167 |doi=10.2307/3753167}}</ref>
+
+<ref name=OrtizSantana2007>{{cite journal |vauthors=Ortiz-Santana B, Lodge DJ, Baroni TJ, Both EE |year=2007 |title=Boletes from Belize and the Dominican Republic |journal=Fungal Diversity |volume=27 |pages=247–416}}</ref>
+
+<ref name=Park1988>{{cite journal |vauthors=((Park S-S)), ((Cho D-H)) |year=1988 |title=The flora of higher fungi in Mt. Jiri South Korea areas II |journal=Korean Journal of Mycology |volume=16 |issue=3 |pages=144–50 |issn=0253-651X}}</ref>
+
+<ref name=Peck1897>{{cite journal |author=Peck CH |year=1897 |title=New species of fungi |journal=Bulletin of the Torrey Botanical Club |volume=24 |issue=3 |pages=137–47 |doi=10.2307/2477879|jstor=2477879 }}</ref>
+
+<ref name=Rumack1994>{{cite book |vauthors=Rumack BH, Spoerke DG |title=Handbook of Mushroom Poisoning: Diagnosis and Treatment |publisher=CRC Press |location=Boca Raton |year=1994 |page=407 |isbn=0-8493-0194-7 |url=https://books.google.com/books?id=WPWsZNvOqVAC&q=Boletellus+ananas&pg=PA407 |access-date=2010-06-20}}</ref>
+
+<ref name=Saccardo1888>{{cite journal |title=Sylloge Hymenomycetum, Vol. II. Polyporeae, Hydneae, Thelephoreae, Clavarieae, Tremellineae |author=Saccardo PA | journal=Sylloge Fungorum |volume=6 |year=1888 |page=50 |language=la}}</ref>
+
+<ref name=Snell1933>{{cite journal |author=Snell WH |year=1933 |title=Notes on Boletes. II |journal=Mycologia |volume=25 |issue=3 |pages=221–32 |jstor=3754212 |doi=10.2307/3754212}}</ref>
+
+<ref name=Singer1945>{{cite journal |author=Singer R. |year=1945 |title=The Boletineae of Florida and notes on extralimital species. I. The Strobilomycetaceae |journal=Farlowia |volume=2 |issue=1 |pages=97–141 }}</ref>
+
+<ref name=Singer1983>{{cite journal |vauthors=Singer R, Araujo I, Ivory MH |year=1983 |title=The ectotrophically mycorrhizal fungi of the neotropical lowlands, especially Central America |journal=Beiheft zu Nova Hedwigia |volume=77 |pages=1–352}}</ref>
+
+<ref name=Singer1986>{{cite book |author=Singer R. |title=The Agaricales in Modern Taxonomy |edition=4th |publisher=Koeltz Scientific Books|location=Koenigstein |year=1986 |isbn=3-87429-254-1}}</ref>
+
+<ref name=Singer1992>{{cite journal |vauthors=Singer R, Garcia J, Gómez LD |year=1992 |title=The Boletineae of Mexico and Central America. IV |journal=Beiheft zu Nova Hedwigia |volume=105 |pages=1–49}}</ref>
+
+<ref name=Thiers1959>{{cite journal |author=Thiers HD |year=1959 |title=Notes on the genus ''Boletus'' in Texas |journal=Texas Journal of Science |volume=11 |issue=3 |pages=314–19}}</ref>
+
+<ref name=Yeh1982>{{cite journal |vauthors=((Yeh K-W)), ((Chen Z-C)) |year=1982 |title=The Boletes of Taiwan 3 |journal=Taiwania |volume=27 |pages=52–63 |issn=0372-333X}}</ref>
+
+<ref name=Woolley2008>{{cite journal |vauthors=Woolley LP, Henkel TW, Sillett SC |year=2008 |title=Reiteration in the monodominant tropical tree ''Dicymbe corymbosa'' (Caesalpiniaceae) and its potential adaptive significance|journal=Biotropica |volume=40 |issue=1 |pages=32–43 |doi=10.1111/j.1744-7429.2007.00348.x|bibcode=2008Biotr..40...32W |s2cid=55802673 }}</ref>
+
+<ref name=Zhishu1993>{{cite book |vauthors=Zhishu B, Zheng G, Taihui L |title=The Macrofungus Flora of China's Guangdong Province (Chinese University Press) |publisher=Columbia University Press |location=New York |year=1993 |pages=461–62 |isbn=962-201-556-5}}</ref>
+
+<ref name="urlNYBG:Boletellus ananas">{{cite web |url=http://www.nybg.org/bsci/res/hall/ananas.html |title=''Boletellus ananas'' (Curtis) Murrill |vauthors=Halling RE, Mueller GM|publisher=New York Botanical Garden |work=Macrofungi of Costa Rica |access-date=2012-07-09}}</ref>
+
+<ref name="urlNYBG:Boletellus dissiliens">{{cite web |url=http://sweetgum.nybg.org/boletineae/taxon.php?irn=1231 |title=''Boletellus dissiliens'' (Corner) Pegler & Young  |author=Halling RE |publisher=New York Botanical Garden |work=Boletineae: Surveys and Revisions |access-date=2012-07-09}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|100683}}
+*[https://mushroomobserver.org/observer/observation_search?pattern=Boletellus+ananas Mushroom Observer] Images
+
+{{Good article}}
+{{Taxonbar|from=Q1076281}}
+
+[[Category:Boletellus|ananas]]
+[[Category:Fungi described in 1848]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Australia]]
+[[Category:Fungi of New Zealand]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of South America]]
+[[Category:Fungus species]]
+[[Category:Taxa named by Moses Ashley Curtis]]

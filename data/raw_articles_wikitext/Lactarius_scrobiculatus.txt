@@ -1,0 +1,62 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Lactarius scrobiculatus.JPG
+| genus = Lactarius
+| species = scrobiculatus
+| authority = ([[Giovanni Antonio Scopoli|Scop.]]) [[Elias Magnus Fries|Fr.]] (1838)<ref>http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=196637 Index Fungorum</ref>
+| synonyms_ref = <ref name="urlMycoBank">{{cite web |title=''Lactarius scrobiculatus'' (Scop.) Fr. 1838 |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=196637 |publisher=International Mycological Association |work=MycoBank |access-date=2011-06-06}}</ref>
+| synonyms =''Agaricus scrobiculatus'' <small>Scop. (1772)</small><br>
+''Agaricus intermedius'' <small>Fr. (1815)</small><br>
+''Galorrheus scrobiculatus'' <small>(Scop.) [[P.Kumm.]] (1871)</small><br>
+''Lactifluus scrobiculatus'' <small>(Scop.) [[Otto Kuntze|Kuntze]] (1891)</small>
+}}
+{{mycomorphbox
+| name = ''Lactarius scrobiculatus''
+| whichGills = decurrent
+| capShape = depressed
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=mycorrhizal
+| sporePrintColor=cream
+| howEdible=inedible
+}}
+
+'''''Lactarius scrobiculatus''''', commonly known as the '''scrobiculate milk cap''',<ref name="Arora2nd">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/73/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=73-74 |orig-date=1979}}</ref> is a [[basidiomycete]] fungus, belonging to the genus ''[[Lactarius (fungus)|Lactarius]]'', the members of which are called "milk caps".
+
+The distinctive fruiting bodies of this large fungus are locally common in forests throughout Europe and North America. It is regarded as inedible by some authors, but it is nevertheless eaten in parts of Europe.
+
+==Taxonomy==
+The species is placed in subgenus Piperites, section Zonarii, subsection Scrobiculati.<ref>[[List of Lactarius species]]</ref>
+
+==Description==
+''Lactarius scrobiculatus'' produces large [[agaric]]oid [[Sporocarp (fungi)|fruiting bodies]] which arise from soil. The cap has an eye-catching orange to yellow coloration and is covered with small scales arranged in indistinctive concentric rings. The surface is wet, glossy and slimy especially in wet weather. The cap may be wide, about {{Convert|15|cm|frac=4}} wide when mature,<ref name="Arora2nd" /> with a depressed centre and slightly enrolled margin. The gills are crowded and coloured cream to yellow, with darker patches being present sometimes. When cut, the gills bleed copious amounts of a white to cream milk (latex), which soon darkens to yellow. The stem, in relation to the cap, is quite short and stubby, in addition to being hollow. The surface is cap-coloured but the presence of small pits, filled with fluid, is a key identifying feature. The spores are coloured creamy with an elliptical-globular shape.<ref>{{cite book|last=Mabey|first=Richard|year=1993|title=Mushrooms & Toadstools of Britain and Europe|publisher=David & Charles|pages=106|isbn=0-7153-0155-1}}</ref>
+
+When a small piece of flesh is chewed, it tastes bitter to acrid. One researcher reports developing a numbness in the mouth after nibbling on a piece.<ref name="evergreen">{{cite web | title=Poisonous and Hallucinogenic Mushrooms | publisher=The Evergreen State College, Olympia WA | url=http://academic.evergreen.edu/projects/mushrooms/phm/s60.htm | access-date=June 14, 2007 | archive-date=November 2, 2017 | archive-url=https://web.archive.org/web/20171102224655/http://academic.evergreen.edu/projects/mushrooms/phm/s60.htm | url-status=dead }}</ref> It does not have a discernible smell.
+
+There are several recognised varieties, including var. ''canadensis''. var. ''montanus'' and var. ''pubescens''.<ref name="russulalesnews">{{cite web | title=''Lactarius scrobiculatus'' varieties | publisher=Russulales News | url=http://www.mtsn.tn.it/russulales-news/tx_results.asp?f_rank=all&f_genus=Lactarius&f_epithet=scrobiculatus&f_author=&f_from_year=&f_to_year= | access-date=June 19, 2007 }}</ref>
+
+===Similar species===
+Similar species include ''[[Lactarius alnicola]]'', ''[[Lactarius controversus|L.&nbsp;controversus]]'', ''[[Lactarius plumbeus|L.&nbsp;plumbeus]]'', ''[[Lactarius repraesentaneus|L.&nbsp;repraesentaneus]]'', and ''[[Lactarius torminosus|L.&nbsp;torminosus]]''.<ref>{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=61}}</ref>
+
+==Distribution and habitat==
+''Lactarius scrobiculatus'' is known to occur throughout Europe, and to a lesser extent North America where its occurrence is rare.<ref>{{cite web | title=Rogers Mushrooms - ''Lactarius scrobiculatus'' | publisher=Rogers Mushrooms | url=http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6338.asp | access-date=June 14, 2007 | archive-url=https://web.archive.org/web/20070927224320/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6338.asp | archive-date=September 27, 2007 | url-status=dead }}</ref> It occurs primarily in [[coniferous]] and [[birch]] forests.<ref>{{cite book | author=Vishnevskiy M. | year=2007 | script-title=ru:Настольная Книга Начинающего Грибника | publisher=Восток - Запад | language=Russian | pages=60 | isbn=978-5-478-00694-5}}</ref> It forms [[mycorrhiza]]l relationships and appears to prefer damp, shady and boggy areas. The fruiting bodies appear in troops, sometimes forming [[fairy ring]]s and only rarely occur singly. The fruiting season is summer to autumn.
+
+
+
+==Edibility==
+Most authors consider the species inedible.<ref>{{cite book |author=Mabey R. |title=Mushrooms and Toadstools of Britain and Europe |publisher=David & Charles |year=1994 |isbn=0-7153-0155-1}}</ref><ref name="NaGrzyby">{{cite web | title=''Lactarius scrobiculatus'' at NaGrzyby | language=Polish | publisher=NaGrzyby.pl | url=http://www.nagrzyby.pl/index.php?artname=gatunek&id=190 | access-date=October 11, 2010 }}</ref><ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |orig-year=2005 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=113}}</ref> It is collected and eaten in parts of [[eastern Europe]] and [[Russia]] after salting, [[pickling]] and thorough cooking.<ref>{{cite web | title=Fungi of Kaluga Oblast: ''Lactarius scrobiculatus'' | publisher=Vyacheslav Stepanov | language=Russian | url=http://www.mycoweb.narod.ru/fungi/Lactarius_scrobiculatus.html | access-date=October 11, 2010 }}</ref> Consuming it causes [[gastrointestinal upset]].<ref>{{cite book |author=Hall. I.R. |title=Edible and poisonous mushrooms of the world |publisher=Timber Press |location=Portland |year=2003 |page=110 |isbn=0-88192-586-1}}</ref> Careful preparation seeks to neutralise the acrid taste. This usually involves a process of boiling, during which the water is discarded. Further cooking and pickling may not eliminate the possibility of distressing symptoms.<ref name=evergreen/>
+
+==See also==
+*[[List of Lactarius species|List of ''Lactarius'' species]]
+
+==References==
+{{Reflist|colwidth=30em}}
+
+{{Taxonbar|from=Q1546452}}
+
+[[Category:Lactarius|scrobiculatus]]
+[[Category:Inedible fungi]]
+[[Category:Fungi described in 1772]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]

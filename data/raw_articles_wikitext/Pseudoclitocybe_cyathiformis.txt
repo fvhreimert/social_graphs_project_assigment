@@ -1,0 +1,51 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Pseudoclitcybe cyathiformis.jpg
+| genus = Pseudoclitocybe
+| species = cyathiformis
+| authority = ([[Jean Baptiste François Pierre Bulliard|Bull.]]) Singer
+| synonyms_ref = <ref name="urlMycoBank: Pseudoclitocybe cyathiformis"/>
+| synonyms = 1786 ''Agaricus cyathiformis'' <small>Bull.</small><br>
+1871 ''Clitocybe cyathiformis'' <small>(Bull.) [[Paul Kummer|P.Kumm.]]</small><br>
+1886 ''Omphalia cyathiformis'' <small>(Bull.) [[Lucien Quélet|Quél.]]</small><br>
+1936 ''Cantharellula cyathiformis'' <small>(Bull.) Singer</small>
+}}
+
+'''''Pseudoclitocybe cyathiformis''''', commonly known as the '''goblet funnel cap''', is a [[species]] of [[fungus]] and the [[type species]] of the genus ''[[Pseudoclitocybe]]''. It is found in North America and Europe.
+
+==Taxonomy==
+It was first [[species description|described]] scientifically as ''Agaricus cyathiformis'' by [[Jean Baptiste François Pierre Bulliard]] in 1786, and later transferred to the genus ''Pseudoclitocybe'' by [[Rolf Singer]] in 1956.<ref name="Singer1956" /> It is the [[type species]] of the genus ''[[Pseudoclitocybe]]''.
+
+==Description==
+The [[Pileus (mycology)|cap]] is up to {{Convert|8|cm|frac=4}} wide and brown, fading in age. It is initially centrally depressed with an inrolled margin then becomes funnel-shaped.<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/164/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=164–165 |orig-date=1979}}</ref> The [[Lamella (mycology)|gills]] are adnate to decurrent and pale, becoming gray to brown. The stem may be slightly lighter than the cap and is up to {{Convert|12|cm|abbr=on|frac=4}} long and 1&nbsp;cm thick, sometimes larger at the base.<ref name="Arora1986" /> The [[spore print]] is white.<ref name="Arora1986" />
+
+==Distribution and habitat==
+The fungus is found in North America and Europe<ref name="urlRogers Mushrooms" /> (September to December), in woodland soil<ref name="tfb">{{Cite book |last=Francis-Baker |first=Tiffany |title=Concise Foraging Guide |date=2021 |publisher=[[Bloomsbury Publishing|Bloomsbury]] |isbn=978-1-4729-8474-6 |series=[[The Wildlife Trusts]] |location=London |pages=132}}</ref> or rotting wood.<ref name="Arora1986" />
+
+==Uses==
+The species is reportedly [[Edible mushroom|edible]] and can be dried for preservation,<ref name="tfb" /> but resembles a number of species of unknown edibility.<ref name="Arora1986" />
+
+==References==
+{{Reflist|refs=
+
+<ref name=Singer1956>{{cite journal |author=Singer R. |title=New genera of fungi. VII |journal=Mycologia |year=1956 |volume=48 |issue=5 |pages=719–27 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0048/005/0719.htm |doi=10.2307/3755381|jstor=3755381 |url-access=subscription }}</ref>
+
+<ref name="urlMycoBank: Pseudoclitocybe cyathiformis">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=414618 |title=''Pseudoclitocybe cyathiformis'' (Bull.) Singer 1956  |publisher=International Mycological Association |work=MycoBank |access-date=2010-12-08}}</ref>
+
+<ref name="urlRogers Mushrooms">{{cite web |url=http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~5705.asp |title=Rogers Mushrooms &#124; Mushroom Pictures & Mushroom Reference |author=Phillips R |work=Rogers Mushrooms |access-date=2010-12-08 |archive-url=https://web.archive.org/web/20120427113730/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~5705.asp |archive-date=2012-04-27 |url-status=dead }}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|414618}}
+
+{{Taxonbar|from=Q2591272}}
+
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1786]]
+[[Category:Fungus species]]
+[[Category:Agaricales]]
+
+
+{{Agaricales-stub}}

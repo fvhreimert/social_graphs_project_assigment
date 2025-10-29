@@ -1,0 +1,74 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{Speciesbox
+| image = AmanitaVaginata2.jpg
+| status = G5
+| status_system = TNC
+| status_ref = <ref name=NS>{{cite NatureServe |id=2.878674 |title=''Amanita vaginata'' |access-date=17 April 2025}}</ref>
+| genus = Amanita
+| species = vaginata
+| authority = (Bull.) Lam. (1783)
+| synonyms = ''Amanitopsis vaginata''<br />
+''Vaginata plumbea''
+}}
+{{mycomorphbox
+| name = Amanita vaginata
+| whichGills = free
+| capShape = umbonate
+| capShape2 = ovate
+| hymeniumType = gills
+| stipeCharacter = volva
+| ecologicalType = mycorrhizal
+| sporePrintColor = white
+| howEdible = edible
+| howEdible2 = caution
+}}
+{{stack end}}
+
+'''''Amanita vaginata''''', commonly known as the '''grisette''' or the '''grisette amanita''',<ref name=NGSWG>{{NGSWG}}</ref> is an [[edible mushroom]] in the fungus family [[Amanitaceae]], but must be thoroughly cooked to destroy its toxins. The [[pileus (mycology)|cap]] is gray or brownish, {{convert|5|to|10|cm|abbr=off|frac=2}} in diameter, and has furrows around the edge that duplicate the gill pattern underneath. Unlike many other ''[[Amanita]]'' mushrooms, ''A.&nbsp;vaginata'' lacks a ring on the stem.
+
+''A. vaginata'' is widely distributed in Europe and North America. It is not recommended for consumption due to the possibility of confusing it with related [[Mushroom poisoning|poisonous]] species.
+
+== Description ==
+The [[pileus (mycology)|cap]] is {{convert|3 to 10|cm|abbr=off|frac=2}} in diameter and gray to grayish-brown in color; initially the cap is oval, then as it matures it becomes progressively conical, convex, and eventually flattened, sometimes with a small umbo (a rounded elevation in the center of the cap).<ref name=Arora1986>{{Cite book |last=Arora |first=David |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/288/mode/2up |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |orig-date=1979 |edition=2nd |pages=288–289}}</ref> The [[lamella (mycology)|gills]] are white, free (not attached to the stem) to narrowly attached, moderately crowded together, and sometimes have a grayish tint; the lamellulae (small gills that run from the edge of the cap towards the stem) are truncate.<ref name=Jenkins1986>{{cite book |author=Jenkins D.B. |title=''Amanita'' of North America |publisher=Mad River Press |location=Eureka, Calif |year=1986 |page=71 |isbn=0-916422-55-0}}</ref> The [[trama (mycology)|flesh]] is white and thin, and does not change color upon bruising.
+
+The [[stipe (mycology)|stem]] is {{convert|8 to 22|cm|abbr=on|frac=2}} long and {{convert|1 to 2|cm|abbr=on|frac=2}} thick.<ref name="Healy2008">{{cite book |author1=Healy RA |title=Mushrooms and Other Fungi of the Midcontinental United States (Bur Oak Guide) |author2=Huffman DR |author3=Tiffany LH |author4=Knaphaus G |publisher=University of Iowa Press |year=2008 |isbn=978-1-58729-627-7 |location=Iowa City |page=55}} [https://books.google.com/books?id=tl2fVAHuej4C&dq=amanita+vaginata&pg=PA55 Google Books]</ref> Unlike many other Amanitas with stems that are swollen at the base (bulbous), the thickness of the stem is about the same at both ends. The stem surface is covered with a finely powdered bloom (pruinose), especially near the top; faint longitudinal lines may be seen.<ref name="urlCalifornia Fungi: Amanita vaginata" /> The base of the stem is enclosed in a loose, sack-like [[volva (mycology)|volva]] that may discolor grayish or reddish brown.<ref name="urlAmanita vaginata (MushroomExpert.Com)" /> The [[spore print]] is white.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=539}}</ref>
+
+The variant ''A.&nbsp;vaginata'' var. ''alba'' is pure white, and has a volva that is either absent, or not constricted around the base of the stem.<ref name="urlAmanita vaginata var. alba Gillet">{{cite web |url=http://www.njcc.com/~ret/amanita/species/vagialba.html |title=''Amanita vaginata'' var. ''alba'' Gillet|author=Tulloss R |access-date=2009-07-30}}</ref>
+
+
+
+=== Microscopic features ===
+The [[basidiospore|spores]] are roughly spherical, 8–12&nbsp;[[μm]] in diameter, thin-walled, and [[nonamyloid]] (that is, not absorbing iodine stain in [[Melzer's reagent]]).<ref name= Healy2008/> The pileipellis (cap cuticle) is composed of filamentous interwoven [[hypha]]e, 2–7&nbsp;μm diameter, gelatinized. The spore-bearing cells, the [[basidia]], are 36–52 by 4–13&nbsp;μm, 4–sterigmate, without [[clamp connection|clamps]]. The volva is largely made of filamentous hyphae, 2–8&nbsp;μm diameter, inflated cells broadly elliptic, elliptical, fusiform, to clavate, 40–85 by 10–35&nbsp;μm, mostly terminal. The stem [[trama (mycology)|tissue]] is made up of filamentous hyphae with diameters of 2–6&nbsp;μm; the inflated cells are terminal, club-shaped, longitudinally oriented, with dimensions of up to 289 by 31&nbsp;μm.<ref name=Jenkins1986/>
+
+
+
+=== Similar species ===
+The tawny grisette (''[[Amanita fulva]]'') was once thought to be a variety of ''A.&nbsp;vaginata''.<ref name="isbn0-271-02891-2">{{cite book |author=Russell B. |title=Field Guide to Wild Mushrooms of Pennsylvania and the Mid-Atlantic |publisher=Pennsylvania State University Press |location=University Park |year=2006 |page=67 |isbn=0-271-02891-2}} [https://books.google.com/books?id=vLgjr5p0XFkC&dq=amanita+vaginata&pg=PA66 Google Books]</ref> In North America, ''A.&nbsp;vaginata'' is considered to be part of a [[species complex]] that includes ''A.&nbsp;constricta'', ''A.&nbsp;pachycolea'' and ''A.&nbsp;protecta''.<ref name="urlCalifornia Fungi: Amanita vaginata">{{cite web |url=http://www.mykoweb.com/CAF/species/Amanita_vaginata.html |title=California Fungi: ''Amanita vaginata'' |vauthors=Wood M, Stevens S |publisher=MykoWeb|access-date=2009-07-30}}</ref>
+
+== Distribution and habitat ==
+This species is widely distributed in North America. It is also found in the [[Azores]],<ref>{{cite journal |author1=Dennis, R. W. G. |author2=Reid, D. A. |author3=Spooner, B. |year=1977 |title=The Fungi of the Azores |journal=Kew Bulletin |volume=32 |issue=1 |pages=85–136 |doi=10.2307/4117263 |jstor=4117263}}</ref> Australia,<ref>{{cite journal |author=Dennis, R. W. G. |year=1955 |title=New or Interesting Queensland Agaricales |journal=Kew Bulletin |volume=10 |issue=1 |pages=107–110 |doi=10.2307/4113925 |jstor=4113925}}</ref> Iran <ref name="Asef,M.R. 2020">{{cite book |author=Asef M.R. |title=Field guide of Mushrooms of Iran |publisher=Iranshenasi publishing |year=2020 |isbn=9786008351429 |location=Tehran |page=360}}</ref> and Scotland.<ref>{{cite journal |author=Dennis, R. W. G. |year=1955 |title=The Larger Fungi in the North-West Highlands of Scotland |journal=Kew Bulletin |volume=10 |issue=1 |pages=111–126 |doi=10.2307/4113927 |jstor=4113927}}</ref>
+
+A [[mycorrhiza]]l species, ''A. vaginata'' grows singly or numerous in both [[conifer]]ous and [[hardwood]] forests. It has also been noted to occur frequently in grassy areas at the edge of forests, unkempt lawns, and suburban area where the ground has been recently disturbed.<ref name="urlAmanita vaginata (MushroomExpert.Com)">{{cite web |url=http://www.mushroomexpert.com/amanita_vaginata.html |title=''Amanita vaginata'' (MushroomExpert.Com) |author=Kuo M|access-date=2009-07-30}}</ref> A widely distributed and common species, it fruits from the spring to the fall.<ref name="Miller2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=32}}</ref>
+
+== Ecology ==
+One field guide notes that cows enjoy eating this mushroom.<ref name="isbn0-271-02891-2" />
+
+== Edibility ==
+Although not poisonous, most authors advise against consumption due to the possibility of mistaking it with poisonous species of ''Amanita''.<ref name="Healy2008" /><ref name="isbn0-88192-586-1">{{cite book |author=Hall I.R. |title=Edible and Poisonous Mushrooms of the World |publisher=Timber Press |year=2003 |isbn=0-88192-586-1 |location=Portland, Or}} [https://books.google.com/books?id=yqHA_M7BVRcC&dq=amanita+vaginata&pg=PA136 Google Books]</ref><ref name="urlRogers Mushrooms | Mushroom Pictures & Mushroom Reference">{{cite web |author=Phillips R |title=Rogers Mushrooms &#124; Mushroom Pictures & Mushroom Reference |url=http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~5563.asp |url-status=dead |archive-url=https://web.archive.org/web/20080518043020/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~5563.asp |archive-date=2008-05-18 |access-date=2009-07-30 |publisher=Rogers Plants Ltd.}}</ref>
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [https://web.archive.org/web/20110611050449/http://www.indexfungorum.org/Names/SynSpecies.asp?RecordID=114685 Index Fungorum] Synonyms
+* [https://web.archive.org/web/20110714133511/http://www.mushroomhobby.com/Gallery/Amanita/Amanita%20vaginata/index.htm Pictures and description]
+{{Amanitas}}
+{{Taxonbar|from=Q913459}}
+
+[[Category:Amanita|vaginata]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Australia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi described in 1783]]
+[[Category:Fungus species]]

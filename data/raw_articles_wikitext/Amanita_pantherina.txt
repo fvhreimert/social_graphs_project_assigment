@@ -1,0 +1,95 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{Speciesbox
+| image = Amanita pantherina 2013 G1.jpg
+| taxon = Amanita pantherina
+| authority = ([[DC.]]) [[Julius Vincenz von Krombholz|Krombh.]] (1846)
+}}
+{{Mycomorphbox
+| name = ''Amanita pantherina''
+| whichGills = free
+| capShape = flat
+| hymeniumType = gills
+| stipeCharacter = ring and volva
+| ecologicalType = mycorrhizal
+| sporePrintColor = white
+| howEdible = poisonous
+| howEdible2 = psychoactive
+}}
+{{stack end}}
+
+'''''Amanita pantherina''''', also known as the '''panther cap''', '''false blusher''', and the '''panther amanita'''<ref name=NGSWG>{{NGSWG}}</ref> due to its similarity to the true blusher (''[[Amanita rubescens]]''), is a species of [[fungus]] found in Eurasia with [[Mushroom poisoning|poisonous]] and [[Psychoactive mushroom|psychoactive]] properties. 
+
+==Description==
+The [[Pileus (mycology)|cap]] is {{Convert|5–18|cm|abbr=off|frac=2}} wide,<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=76|oclc=797915861}}</ref> hemispheric at first, then [[wikt:convex|convex]] to plano-convex, deep brown to hazel-brown to pale ochraceous brown, densely distributed warts that are pure white to sordid cream, minutely verruculose, floccose, easily removable. Viscid when wet, with a short striate margin. The flesh is white,<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/280/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=280 |orig-date=1979}}</ref> unchanging when injured.
+
+The [[Lamella (mycology)|gills]] are adnexed to free,<ref name=":0" /> close to crowded, white becoming greyish, truncate.
+
+The spores are white [[Spore print|in deposit]], smooth, broadly ellipsoid to ellipsoid to elongate, [[inamyloid]],<ref name=":0" /> infrequently globose. 8–14 x 6–10&nbsp;[[μm]].<ref>Kuo, M. (2005, March). Amanita pantherina. Retrieved from the MushroomExpert.Com Web site: http://www.mushroomexpert.com/amanita_pantherina.html</ref>
+
+The stipe is 5–15&nbsp;cm long × .6–3&nbsp;cm wide,<ref name=":0" /> subcylindric, somewhat narrowing upward, white, becoming slightly tannish in age, stuffed then hollow, finely floccose becoming smooth above the [[Annulus (mycology)|ring]], and with small appressed squamules or creamy floccose material below. The [[Volva (mycology)|volva]] is white, becoming grey with age, forming one or sometimes two narrow hoop-like rings just above the bulbous base. The flesh is white, unchanging when injured.
+
+The odour is unpleasant or like raw potatoes.
+
+=== Identifying features ===
+Other than the brownish cap with white warts, distinguishing features of ''A.&nbsp;pantherina'' include the collar-like roll of volval tissue at the top of the basal bulb, and the elliptical, inamyloid spores. Unlike ''[[Amanita rubescens|A.&nbsp;rubescens]]'', the panther cap does not color red/pink ("blush") when the flesh is damaged, hence its name "false blusher". This is a key feature in differentiating both species.{{Citation needed|date=December 2023}}
+
+==Distribution and habitat==
+The panther cap is an uncommon mushroom, found in both [[deciduous]], especially [[beech]] and, less frequently, [[conifer]]ous woodland and rarely meadows throughout Europe, western Asia in late summer and autumn.<ref name = "Ultimatemush">{{Cite book | author = Jordan P & Wheeler S | year = 2001 | title = The Ultimate Mushroom Book | publisher = Hermes House }}</ref> It has also been recorded from [[South Africa]], where it is thought to have been accidentally introduced with trees imported from Europe and Asia.<ref name="Asef 2020">{{cite book |author=Asef M.R. |title=Field guide of Mushrooms of Iran |publisher=Iran-Shanasi Press |location=Tehran|year=2020|page=360 |isbn=9786008351429}}</ref> 
+
+It is an [[ectomycorrhiza]]l fungus, living in root [[symbiosis]] with a tree, deriving [[photosynthesis]]ed nutrients from it and providing soil nutrients in return.
+
+==Toxicity==
+{{Main articles|Muscimol mushroom}}
+''A. pantherina'' is toxic, more so than ''[[Amanita muscaria|A.&nbsp;muscaria]]''.<ref name="Arora1986" /> It can cause [[diarrhea]], [[vomiting]], and [[hyperhidrosis]], which can lead to severe dehydration.{{Citation needed|date=December 2023}} 
+
+Varieties ''multisquamosa'' and ''velatipes'' are considered poisonous.<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |publisher=Firefly Books |year=2010 |isbn=978-1-55407-651-2 |location=Buffalo, NY |pages=17–18}}</ref>
+
+==Psychoactive use==
+''A. pantherina'' contains the psychoactive compounds [[ibotenic acid]] and [[muscimol]],<ref name="Barceloux">{{cite book |last=Barceloux D. G. |title=Medical toxicology of natural substances: foods, fungi, medicinal herbs, plants, and venomous animals |publisher=John Wiley and Sons Inc. |year=2008 |isbn=978-0-471-72761-3 |location=Canada |pages=298 |chapter=41 (Isoxazole-containing mushrooms and pantherina syndrome) |chapter-url=https://books.google.com/books?id=CpqzhHc072AC&q=amanita+pantherina&pg=PA298 |chapter-format=PDF}}</ref> two psychoactive constituents which can cause effects such as [[hallucination]]s, [[synaesthesia]], [[euphoria]], [[dysphoria]] and [[retrograde amnesia]]. The effects of muscimol and ibotenic acid most closely resemble that of a [[Z&nbsp;drug]], like Ambien at high doses, and not a classical psychedelic, e.g. [[Psilocybin mushroom|psilocybin]].
+
+''A. pantherina'' is used as an [[entheogen]] much less often than its much more distinguishable relative ''[[Amanita muscaria|A.&nbsp;muscaria]],'' largely due to being less recognizable and far more potent.<ref>{{Cite web |title=Erowid Psychoactive Amanitas (A. muscaria & A. pantherina) Vault: Basics |url=https://erowid.org/plants/amanitas/amanitas_basics.shtml |access-date=2020-12-10 |website=erowid.org}}</ref>{{Better source needed|date=December 2020}} ''A.&nbsp;muscaria'' contains a higher concentration of ibotenic acid.<ref>{{Cite journal |last1=Vendramin |first1=Andreja |last2=Brvar |first2=Miran |date=2014-11-01 |title=Amanita muscaria and Amanita pantherina poisoning: Two syndromes |url=https://www.sciencedirect.com/science/article/pii/S0041010114002967 |journal=Toxicon |volume=90 |pages=269–272 |doi=10.1016/j.toxicon.2014.08.067 |pmid=25173077 |issn=0041-0101|url-access=subscription }}</ref> While ibotenic acid is mostly broken down by the body into muscimol, what remains of the ibotenic acid is believed{{According to whom|date=August 2022}} to cause the majority of dysphoric effects of consuming psychoactive ''Amanita'' species. Ibotenic acid is also a scientifically important [[neurotoxin]] used in lab research as a brain-lesioning agent in mice.<ref>{{Cite journal |last1=Becker |first1=A |last2=Grecksch |first2=G |last3=Bernstein |first3=HG |last4=Höllt |first4=V |last5=Bogerts |first5=B |year=1999 |title=Social behaviour in rats lesioned with ibotenic acid in the hippocampus: quantitative and qualitative analysis |journal=Psychopharmacology |volume=144 |issue=4 |pages=333–8 |doi=10.1007/s002130051015 |pmid=10435405 |s2cid=25172395}}</ref><ref>{{Cite journal |last1=Isacson |first1=O |last2=Brundin |first2=P |last3=Kelly |first3=PA |last4=Gage |first4=FH |last5=Björklund |first5=A |year=1984 |title=Functional neuronal replacement by grafted striatal neurones in the ibotenic acid-lesioned rat striatum |journal=Nature |volume=311 |issue=5985 |pages=458–60 |bibcode=1984Natur.311..458I |doi=10.1038/311458a0 |pmid=6482962 |s2cid=4342937}}</ref> 
+
+As with other wild-growing mushrooms, the ratio of ibotenic acid to muscimol depends on countless external factors, including: season, age, and habitat—and percentages will naturally vary from mushroom to mushroom—with dark brown ''A.&nbsp;pantherina'' specimens having a greater concentration of ibotenic acid.<ref name=":1">{{cite book |last1=Trudell |first1=Steve |url=https://books.google.com/books?id=WevHvt6Tr8kC |title=Mushrooms of the Pacific Northwest |last2=Ammirati |first2=Joe |publisher=Timber Press |year=2009 |isbn=978-0-88192-935-5 |series=Timber Press Field Guides |location=Portland, OR |pages=85–86}}</ref> 
+
+=== Legal status ===
+{{Main|Legal status of psychoactive Amanita mushrooms}}
+
+''A. muscaria'' and ''A. pantherina'' are illegal to buy, sell, or possess in the Netherlands since December 2008. Possession of amounts larger than 0.5&nbsp;g dried or 5&nbsp;g fresh lead to a criminal charge.<ref name="dutchProsecution">Openbaar Ministerie (12-01-2008). [http://www.om.nl/actueel/nieuws-_en/@149236/paddoverbod_van/ Paddoverbod van kracht] {{webarchive|url=https://archive.today/20120905192042/http://www.om.nl/actueel/nieuws-_en/@149236/paddoverbod_van/ |date=2012-09-05 }}. Retrieved 5 May 2016.</ref>
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Amanita species|List of ''Amanita'' species]]
+
+== Gallery ==
+<gallery>
+Amanita pantherina 100.jpg
+Amanita pantherina MdE 1.jpg
+Amanita.pantherina2.-.lindsey.jpg
+Amanita pantherina.jpg
+Amanita Ameripantherina.jpg|''Amanita ameripathera''
+Spore_print_Amanita_Pantherina.jpg| Spore print
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons}}
+* [http://www.amanitaceae.org/ Webpages on ''Amanita species''] by Tulloss and Yang Zhuliang
+* [https://www.erowid.org/plants/amanitas/ Amanita on erowid.org]
+* [http://www.inchem.org/documents/pims/fungi/pimg026.htm Aminita muscaria, Amanita pantherina and others (Group PIM G026)] by [[IPCS INCHEM]]
+
+{{Amanitas}}
+{{Hallucinogenic mushrooms}}
+{{Poisonous Amanitas}}
+{{Taxonbar|from=Q45547}}
+
+[[Category:Amanita|pantherina]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Poisonous fungi]]
+[[Category:Psychoactive fungi]]
+[[Category:Fungi described in 1846]]
+[[Category:Taxa named by Augustin Pyramus de Candolle]]
+[[Category:Fungus species]]

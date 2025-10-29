@@ -1,0 +1,26 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+|image= 2008-10-11 Lepista sordida 20505 cropped.jpg
+| genus = Collybia
+| species = sordida
+| authority = (Schumach.) Singer
+| synonyms = ''Agaricus sordidus''
+''Melanoleuca sordida'' (Schumach.) Murrill<br/>
+''Rhodopaxillus sordidus'' (Schumach.) Maire<br/>
+''Tricholoma sordidum'' (Schumach.) P. Kumm.<br/>
+''Gyrophila sordida'' (Schumach.) Quél.}}
+
+'''''Collybia sordida''''', formerly '''''Lepista sordida''''', is a species of [[blewit]] mushroom found across the Northern Hemisphere.<ref>{{Cite journal |last=He |first=Zheng-Mi |last2=Chen |first2=Zuo-Hong |last3=Bau |first3=Tolgor |last4=Wang |first4=Geng-Shen |last5=Yang |first5=Zhu L. |date=November 2023 |title=Systematic arrangement within the family Clitocybaceae (Tricholomatineae, Agaricales): phylogenetic and phylogenomic evidence, morphological data and muscarine-producing innovation |url=https://link.springer.com/10.1007/s13225-023-00527-2 |journal=Fungal Diversity |language=en |volume=123 |issue=1 |pages=1–47 |doi=10.1007/s13225-023-00527-2 |issn=1560-2745|url-access=subscription }}</ref> It is known to form [[fairy ring]]s.<ref name=Choi2010>{{cite journal |doi=10.1002/cbic.201000112 |vauthors=Choi JH, Fushimi K, Abe N, Tanaka H, Maeda S, Morita A, Hara M, Motohashi R, Matsunaga J, Eguchi Y, Ishigaki N, Hashizume D, Koshino H, Kawagishi H |year= 2010 |title=Disclosure of the "fairy" of fairy-ring-forming fungus ''Lepista sordida'' |journal=ChemBioChem |volume=11 |issue=10 |pages=1373–37 |pmid=20486242|s2cid=32138682 }}</ref>
+
+==References==
+{{Reflist}}
+
+
+{{Taxonbar|from=Q3229951}}
+
+{{DEFAULTSORT:Lepista Sordida}}
+[[Category:Edible fungi]]
+[[Category:Lepista]]
+[[Category:Tricholomataceae]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi found in fairy rings]]

@@ -1,0 +1,65 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Coprinopsis picacea 2024 G1.jpg
+| image_caption =
+| genus = Coprinopsis
+| species = picacea
+| authority = ([[Jean Baptiste François Pierre Bulliard|Bull.]]) Redhead, Vilgalys & Moncalvo
+| synonyms_ref =
+| synonyms = ''Agaricus picaceus'' <small>Bull.</small><br />
+''Coprinus picaceus'' <small>(Bull.) [[Samuel Frederick Gray|Gray]]</small>
+}}
+{{Mycomorphbox
+| name = ''Coprinopsis picacea''
+| whichGills = free
+| capShape =  conical
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=saprotrophic
+| sporePrintColor=black
+| howEdible = poisonous
+}}
+
+'''''Coprinopsis picacea''''', commonly known as the '''magpie mushroom''', '''magpie fungus''', or '''magpie inkcap''', is a species of [[fungus]] in the family [[Psathyrellaceae]]. It is toxic.
+
+== Taxonomy ==
+The species was first described in 1785 by French mycologist [[Jean Baptiste François Pierre Bulliard]] in 1785 as ''Agaricus picaceus''.<ref name="Bulliard1785" />
+
+== Description ==
+The cap is initially egg-shaped, then opens up to a bell shape up to {{Convert|8|cm|frac=2}} wide.<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/346/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=346 |orig-date=1979}}</ref> The cap is serrated and colored white on very young mushrooms. It breaks open with increasing age, revealing the dark brown background which becomes black.<ref name="Arora1986" /> Remnants of the white, grayish to cream-colored velum remain on the cap as flakes, giving the impression of woodpecker or magpie [[plumage]]. With age, the brim of the cap rolls up and dissolves. The [[Lamella (mycology)|lamellae]] are mostly free, very close and are initially white, then reddening. Eventually they melt, dripping and black, hence the name inkcap.<ref name="Arora1986" />
+
+The stalk is whitish and 12–20 (–30) cm long and 6–15&nbsp;mm thick.<ref name="Arora1986" /> It is hollow and not very stable, slightly tapered towards the top and covered with scales or fine fibers.<ref name="Arora1986" /> The flesh is whitish with a fibrous, watery consistency and sometimes has an unpleasant smell of moth powder. The taste is also unpleasant.
+
+=== Microscopic features ===
+The elliptical, dark brown spores are 14–18.5 × 10–13&nbsp;[[μm]] in size. The cheilo- and pleuro-Zystiden are bubbles or bag-to tubular. They are up to 150&nbsp;μm long and 50&nbsp;μm wide.
+
+=== Similar species ===
+The species can sometimes be confused with the edible ''[[Coprinus comatus]]''.
+
+== Distribution ==
+The magpie inkcap  is common in Europe and Australia, but it also exists in North America, though it is uncommon. In Europe, the area extends from Great Britain and France in the west to Poland, Hungary and Romania in the east and south to Spain and the Balearic Islands, Italy and Greece and to Germany and Denmark in the north.
+
+== Toxicity ==
+The species is inedible and causes digestive upset,<ref name="Miller 2006">{{cite book |last=Miller Jr. |first=Orson K. |author-link=Orson K. Miller Jr. |title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi |last2=Miller |first2=Hope H. |publisher=[[FalconGuide]] |year=2006 |isbn=978-0-7627-3109-1 |location=Guilford, CN |pages=231}}</ref> being regarded as [[Mushroom poisoning|poisonous]] to some people.<ref name="Arora1986" />
+
+== See also ==
+*[[List of Coprinopsis species|List of ''Coprinopsis'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name=Bulliard1785>{{cite book |author=Bulliard JBF. |year=1785 |title=Herbier de la France |trans-title=Guide to the Herbs of France |volume=5 |pages=192–240 |language=French}}</ref>
+
+}}
+
+{{Taxonbar|from=Q779716}}
+
+[[Category:Coprinopsis|picacea]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1785]]
+[[Category:Inedible fungi]]
+[[Category:Fungus species]]
+
+
+{{Psathyrellaceae-stub}}

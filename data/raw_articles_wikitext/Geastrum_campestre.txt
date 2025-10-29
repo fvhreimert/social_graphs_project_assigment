@@ -1,0 +1,30 @@
+{{Speciesbox
+| image = Geastrum campestre (28281715143).jpg
+| genus = Geastrum
+| species = campestre
+| authority = Morgan (1887)
+}}
+{{mycomorphbox 
+| capShape =no 
+| hymeniumType=gleba 
+| ecologicalType=saprotrophic 
+| sporePrintColor=brown
+| whichGills = NA
+| stipeCharacter = NA
+| howEdible=inedible 
+}}
+'''''Geastrum campestre''''' is an inedible species of [[mushroom]] belonging to the genus ''[[Geastrum]]'', or earthstar fungi.
+
+==External links==
+*[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=239578 Index Fungorum]
+
+{{Taxonbar|from=Q5529519}}
+
+[[Category:Geastrum|campestre]]
+[[Category:Fungi of Europe]]
+[[Category:Inedible fungi]]
+[[Category:Fungi described in 1887]]
+[[Category:Fungus species]]
+
+
+{{Geastrales-stub}}

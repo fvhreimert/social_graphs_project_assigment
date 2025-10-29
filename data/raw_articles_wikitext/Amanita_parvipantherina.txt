@@ -1,0 +1,36 @@
+{{Short description|Species of fungus}}{{More footnotes needed|date=December 2023}}{{Speciesbox
+| image =
+| taxon = Amanita parvipantherina
+| authority = [[Zhu Yang|Yang]] [[M. Weiß|Weiß]] & [[F. Oberwinkler|Oberwinkler]], 2004
+}}
+{{mycomorphbox
+| name = ''Amanita parvipantherina''
+| whichGills = free
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=ring and volva
+| ecologicalType=mycorrhizal
+| sporePrintColor=white
+| howEdible=unknown
+}}
+'''''Amanita parvipantherina''''', also known as the '''Asian small panther amanita''', is a Chinese species of [[agaric]] which fruits in July and August. It has a brown [[pileus (mycology)|cap]] up to {{Convert|6|cm|abbr=off|frac=2}} wide covered with whitish remnants of the [[universal veil]]. The [[stipe (mycology)|stem]] is up to 9&nbsp;cm tall. The similar ''[[Amanita pantherina|A. pantherina]]'' is usually larger and less fragile, with fainter striations around the cap margin.
+
+The species is restricted to [[Yunnan]] province in China, where it is strongly associated with ''[[Pinus yunnanensis]]'' (the Yunnan pine).
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Amanita species|List of ''Amanita'' species]]
+
+==References==
+* Yang ZL, Weiss M & Oberwinkler F. (2004) [http://www.mycologia.org/cgi/reprint/96/3/636 New species of ''Amanita'' from the eastern Himalaya and adjacent regions]
+{{Amanitas}}
+{{Taxonbar|from=Q1946154}}
+
+{{DEFAULTSORT:Amanita Parvipantherina}}
+[[Category:Amanita|parvipantherina]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi described in 2004]]
+[[Category:Fungus species]]
+
+
+{{Amanitaceae-stub}}

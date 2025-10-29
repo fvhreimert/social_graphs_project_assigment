@@ -1,0 +1,67 @@
+{{stack begin}}
+{{Speciesbox
+| image = Cortinarius praestans.JPG
+| genus = Cortinarius
+| parent = Cortinarius subg. Phlegmacium
+| species = praestans
+| authority = ([[François Simon Cordier|Cordier]]) [[Claude Casimir Gillet|Gillet]] (1876) 
+| synonyms_ref = <ref name="urlFungorum synonymy: Cortinarius praestans"/>
+| synonyms = *''Agaricus praestans'' <small>Cordier</small>
+*''Cortinarius berkeleyi'' <small>[[Mordecai Cubitt Cooke|Cooke]] (1883)</small><ref>[http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=168292 Index Fungorum]</ref>
+*''Cortinarius torvus'' var. ''berkeleyi'' <small>(Cooke) [[Jean Louis Émile Boudier|Boud.]]</small>
+*''Phlegmacium praestans'' <small>(Cordier) [[Meinhard Michael Moser|M.M.Moser]]</small>
+}}
+{{mycomorphbox
+| name = ''Cortinarius praestans''
+| whichGills = adnate
+| capShape = convex
+| capShape2 = flat
+| hymeniumType=gills
+| stipeCharacter= bare
+| ecologicalType=mycorrhizal
+| sporePrintColor=
+| howEdible=edible
+}}
+{{stack end}}
+
+'''''Cortinarius praestans''''', also known as the '''goliath webcap''', is a [[basidiomycete]] [[mushroom]] of the genus ''[[Cortinarius]]''. The mushroom has orangish-yellow [[pileus (mycology)|caps]] that reach up to {{convert|20|cm|in|abbr=on}} in diameter, and thick club-shaped stipes up to {{convert|15|cm|in|abbr=on}} long. The [[edible mushroom]] is found in Europe.
+
+==Taxonomy==
+The species was first [[species description|described]] as ''Agaricus praestans'' by the French botanist [[François Simon Cordier]] in 1870. It is [[common name|commonly]] known as the "goliath webcap".<ref name=EnglishCommonNames/>
+
+==Description==
+[[image:Cortinarius praestans coupe.JPG|thumb|left]]
+Mature [[pileus (mycology)|caps]] are convex, usually grooved at the rolled-in margins, and typically reach diameters between {{convert|10|–|20|cm|in|abbr=on}}. The surface color of the cap is [[chestnut (color)|chestnut]] or chocolate-brown with violet-copper tint. It has a light covering of surface fibrils and [[partial veil|veil]] remnants that may appear as if pressed against the surface, or like small scales. The [[lamella (mycology)|gills]] are whitish with an amethyst tint then later creamy clay- to rust-colored. They are crowded closely together, and have edges that are usually wavy and scalloped. The [[stipe (mycology)|stem]] is {{convert|10|–|15|cm|in|abbr=on}} long and {{convert|3|–|5|cm|in}} thick, solid, and thickened at the base in an [[wikt:emarginate|emarginate]] bulb that is roughly club-shaped to [[wikt:ventricose|ventricose]]. The stem surface is covered with silky fibrils, and is whitish-violet when very young, later losing the violet tones. The surface becomes fibrillosely floccose or whitish at the base and violet at the top, later becoming covered with the violet to whitish silky cortina (a cobwebby partial veil). The [[trama (mycology)|flesh]] is thick, whitish, and has a mild taste and no odor. The mushroom is considered a good [[edible mushroom|edible]] species.<ref name=Pilat1961/>
+
+The [[spore print]] is [[ochre]]-rust colored. The [[spore]]s are fusiformly lemon-shaped, densely covered with small "warts", and measure 15–17 by 8–10&nbsp;[[micrometre|μm]]. The edges of the gills have cystidiate hairs 4–6&nbsp;μm wide, protruding 20-40&nbsp;μm, and degenerate sterile [[basidium|basidia]] 10–11&nbsp;μm wide protruding 10–12&nbsp;μm. The typical basidia measure 30–35 by 12–13&nbsp;μm.<ref name=Pilat1961/>
+
+==Distribution and habitat==
+The fruit bodies of the fungus grow in [[deciduous forest]]s, mainly on [[calcareous]] soils. It is common in western Europe, particularly England and France.<ref name=Pilat1961/> It was one of 35 mushrooms to gain legal protection in [[Hungary]] in 2005, making it a fineable offense to pick them.<ref name=Siller2006/>
+
+==Research==
+''Cortinarius praestans'' extract has demonstrated antibacterial efficacy against ''[[Pseudomonas aeruginosa]]'' and ''[[Staphylococcus aureus]]''.<ref>Janeš D, Kreft S, Jurc M, Seme K, Štrukelj. (2007). Antibacterial Activity in Higher Fungi (Mushrooms) and Endophytic Fungi from Slovenia. Pharmaceutical Biology, 45, 9:700–706 [https://www.researchgate.net/publication/259469827_Antibacterial_activity_in_higher_fungi_mushrooms_and_endophytic_fungi_from_Slovenia https://www.researchgate.net/publication/259469827_Antibacterial_activity_in_higher_fungi_mushrooms_and_endophytic_fungi_from_Slovenia]</ref>
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Cortinarius species|List of ''Cortinarius'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name=EnglishCommonNames>{{cite web |url=http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |title=Recommended English Names for Fungi in the UK |publisher=[[British Mycological Society]] |access-date=2012-04-04 |archive-url=https://web.archive.org/web/20110716083053/http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |archive-date=2011-07-16 |url-status=dead }}</ref>
+
+<ref name=Pilat1961>{{cite book |title=Mushrooms and other Fungi |url=https://archive.org/details/mushroomsotherfu0000pila |url-access=registration |vauthors=Pilat Á, Ušák O |year=1961 |publisher=Peter Nevill |location=London |page=99}}</ref>
+
+<ref name=Siller2006>{{cite journal |vauthors=Siller I, Dima B, Albert L, Vasas G, Fodor L, Pal-Fam F, Bratek Z, Zagyva I |year=2006|title=Vedett nagygombafajok Magyarorszagon.|trans-title=Protected macrofungi in Hungary|journal=Mikologiai Kozlemenyek|volume=45|issue=1/3|pages=3–158|language=Hungarian, English}}</ref>
+
+<ref name="urlFungorum synonymy: Cortinarius praestans">{{cite web |url=http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=144173 |title=''Cortinarius praestans'' Cordier |publisher=CAB International |work=Index Fungorum |accessdate=2010-08-31}}</ref>
+
+}}
+
+{{Taxonbar|from=Q613450}}
+
+[[Category:Cortinarius|praestans]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1826]]
+[[Category:Fungi of Europe]]
+[[Category:Fungus species]]

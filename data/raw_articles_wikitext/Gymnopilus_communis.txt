@@ -1,0 +1,42 @@
+{{Short description|Species of fungus}}
+{{single source|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption =
+| taxon = Gymnopilus communis
+| authority = [[Laura Guzmán Dávalos|Guzm.-Dáv.]] (1994)
+}}
+
+'''''Gymnopilus communis''''' is a species of [[agaric]] fungus in the family [[Hymenogastraceae]]. Found in [[Veracruz]], Mexico, it was [[species description|described]] as new to science in 1994.
+
+==Taxonomy==
+The [[type (biology)|type]] collection of ''Gymnopilus communis'' was discovered fruiting on wood in a [[pine]]-[[oak]] forest in [[Veracruz]], Mexico in July 1992. Mycologist [[Laura Guzmán Dávalos]] [[species description|described]] it and five other novel Mexican ''[[Gymnopilus]]'' species in the journal ''[[Mycotaxon]]'' in 1994. The [[botanical name|specific epithet]] ''communis'' refers to its common [[habit (biology)|habit]].<ref name="Guzmán-Dávalos 1994"/>
+
+==Description==
+The bell-shaped to convex [[pileus (mycology)|cap]] is about {{convert|3|cm|in|abbr=on}} in diameter, and has a broad [[umbo (mycology)|umbo]]. It is brownish orange with a smooth to finely fibrillose surface texture. The narrow [[lamella (mycology)|gills]] are closely spaced, and orange-yellow with a yellowish edge. The [[stipe (mycology)|stipe]], roughly the same color as the cap or lighter, measures {{convert|5.8|cm|in|abbr=on}} long by {{convert|5|–|6|mm|in|abbr=on}} wide.<ref name="Guzmán-Dávalos 1994"/>
+
+The [[basidiospore|spores]] are [[ellipsoid]], with surfaces covered in small warts, and measure 6–8.4 by 4–4.8&nbsp;[[micrometre|μm]]. The [[basidia]] (spore-bearing cells) are club-shaped and measure 24.8 by 7.2&nbsp;μm. They are four-spored, with [[sterigmata]] up to 3.2&nbsp;μm long.<ref name="Guzmán-Dávalos 1994"/>
+
+Similar species include ''[[Gymnopilus longipes]]'', ''[[Gymnopilus liquiritiae|G. liquiritiae]]'', and ''[[Gymnopilus subsapineus|G. subsapineus]]''.<ref name="Guzmán-Dávalos 1994"/>
+
+==Habitat and distribution==
+''Gymnopilus communis'' is known only from the [[type locality (biology)|type locality]] in Veracruz.<ref name="Guzmán-Dávalos 1994"/>
+
+==See also==
+{{Portal|Fungi}}
+[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Guzmán-Dávalos 1994">{{cite journal |author=Guzmán-Dávalos L. |title=New species of ''Gymnopilus'' (Agaricales, Cortinariaceae) from Mexico |journal=Mycotaxon |year=1994 |volume=50 |pages=333–348 }}</ref>
+
+}}
+
+{{Taxonbar|from=Q5624759}}
+
+[[Category:Fungi described in 1994]]
+[[Category:Fungi of Mexico]]
+[[Category:Gymnopilus|tuxtlensis]]
+[[Category:Fungi without expected TNC conservation status]]
+[[Category:Fungus species]]

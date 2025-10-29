@@ -1,0 +1,53 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{Species box
+ | image = Tricholoma atrosquamosum 186463.jpg
+ | taxon = Tricholoma atrosquamosum
+ | authority = ([[François Fulgis Chevallier|Chevall.]]) [[Pier Andrea Saccardo|Sacc.]] (1887)
+ | synonyms = *''Agaricus atrosquamosus'' <small>Chevall. (1837)</small>
+*''Tricholoma terreum'' var. ''atrosquamosum'' <small>(Chevall.) [[George Edward Massee|Massee]] (1893)</small>
+*''Tricholoma nigromarginatum'' <small>[[Giacomo Bresadola|Bres.]] (1926)</small>
+}}
+{{mycomorphbox 
+| name = ''Tricholoma atrosquamosum''
+| whichGills = adnate
+| whichGills2 = free
+| capShape = convex 
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = white
+| howEdible = edible
+}}
+{{stack end}}
+
+'''''Tricholoma atrosquamosum''''', [[common name|commonly]] known as '''dark-scaled knight''', is an edible [[Agaricales|gilled mushroom]] native to Europe. The grey-capped [[basidiocarp|fruit bodies]] are generally found singly or in small groups in [[deciduous forest|deciduous woodland]] on chalk-based soils.
+
+==Taxonomy==
+''Tricholoma atrosquamosum'' was described 1837 by French naturalist [[François Fulgis Chevallier]] as ''Agaricus atrosquamosus''. It has also been classified as a [[subspecies]] of the related ''[[Tricholoma terreum|T.&nbsp;terreum]]'' by [[George Edward Massee]]. It lies within the [[section (biology)|section]] ''Terrea'' within the [[subgenus]] ''Tricholoma'' within the genus ''[[Tricholoma]]''.<ref name=Nederlandica1999>{{cite book |author1=Noordeloos M.E. |author2=Kuyper, Th.W. |author3=Vellinga E.C. |title=Flora Agaricina Neerlandica |publisher=Taylor & Francis |year=1999 |page=132 |isbn=90-5410-493-7 |url=https://books.google.com/books?id=SLSxG_rYhPMC&pg=PA132}}</ref> Two varieties are recognised, var. ''atrosquamosum'' is generally a larger mushroom and ''squarrulosum'' smaller.<ref name=Nederlandica1999/> ''Tricholoma atrosquamosum'' is [[common name|commonly]] known as the dark-scaled knight.<ref name=Phillips06>{{cite book | last = Phillips |first=Roger | year = 2006  | title = Mushrooms | publisher = Pan MacMillan | isbn = 0-330-44237-6|page= 109}}</ref>
+
+==Description==
+The [[pileus (mycology)|cap]] is {{convert|4|–|10|cm|in|round=0.5|abbr=on}} wide and covered with dark grey-brown scales. Young specimens have more conical caps which become convex to flat with maturity.<ref name=Nederlandica1999/> It is generally darker than other grey-capped tricholomas.<ref name=Lamaison05>{{cite book|title=The Great Encyclopedia of Mushrooms |last=Lamaison |first=Jean-Louis |author2=Polese, Jean-Marie  |year=2005 |publisher=Könemann |isbn=3-8331-1239-5|page=90}}</ref> The stout [[Stipe (mycology)|stipe]] is {{convert|2.5|–|8|cm|in|abbr=on}} high and {{convert|0.7|–|2|cm|in|abbr=on}} wide and has no [[annulus (mycology)|ring]]. It is grey with tiny blackish scales either all over or restricted to the apex. The base of the stipe can be tinged greenish or pinkish, and becomes reddish upon drying. The pale grey-brown [[lamella (mycology)|gills]] are adnate or free (unattached to the stipe). The mushroom has a mealy smell and taste, though there can be a fruity, peppery or spicy edge to the former.<ref name=Nederlandica1999/>  The [[spore print]] is white.<ref name=Phillips06/>
+
+==Distribution and habitat==
+''Tricholoma atrosquamosum'' is found in North America and Europe. It is generally rare in Europe, and in danger of extinction in the Netherlands.<ref name=Nederlandica1999/> The fruit bodies appear under deciduous and coniferous trees, particularly [[beech]] and [[spruce]] on chalky (calcareous) soils. Variety ''squarrulosum'' is also rare (though more widely distributed in southern Europe), and associated with [[oak]], [[pine]] and spruce on chalk soils, with its fruit bodies appearing September to November.<ref name=Nederlandica1999/> Both subspecies are rare in the British Isles.<ref name=Phillips06/>
+
+==Edibility==
+Both subspecies are [[edible mushroom|edible]],<ref name=Phillips06/> and highly regarded by some.<ref name=Lamaison05/> They can be confused with darker specimens of the poisonous ''[[Tricholoma pardinum|T.&nbsp;pardinum]]'', which is generally a larger mushroom and lacks the peppery aroma.<ref name=Riva1988>{{cite book |author=Riva, Alfredo |year=1988 |title=Fungi Europaei, Volume 3: ''Tricholoma'' |location=Italy |pages=199, 204 |publisher=Edizioni Candusso |isbn=88-901057-1-2}}</ref>
+
+==See also==
+*[[List of North American Tricholoma|List of North American ''Tricholoma'']]
+*[[List of Tricholoma species|List of ''Tricholoma'' species]]
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q72442}}
+
+[[Category:Tricholoma|atrosquamosum]]
+[[Category:Edible fungi]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1837]]
+[[Category:Taxa named by François Fulgis Chevallier]]
+[[Category:Fungus species]]

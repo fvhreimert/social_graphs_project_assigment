@@ -1,0 +1,38 @@
+{{Short description|Species of fungus}}
+{{single source|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption =
+| genus = Gymnopilus
+| species = alabamensis
+| authority = [[William Alphonso Murrill|Murrill]]
+| synonyms =
+}}
+{{mycomorphbox
+| name = ''Gymnopilus alabamensis''
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| ecologicalType=saprotrophic
+}}
+
+'''''Gymnopilus alabamensis''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]]. It was first described by American mycologist [[William Alphonso Murrill|Murrill]] in 1917.<ref>{{cite journal |author=Murrill WA. |year=1917 |title=''Gymnopilus'' |journal=North American Flora |volume=10 |pages= 193–215}}</ref>
+
+==See also==
+* [[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=226508 Index Fungorum]
+
+{{Taxonbar|from=Q5624703}}
+
+[[Category:Gymnopilus|alabamensis]]
+[[Category:Taxa named by William Alphonso Murrill]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

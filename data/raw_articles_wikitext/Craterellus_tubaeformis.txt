@@ -1,0 +1,75 @@
+{{speciesbox
+| image = Craterellus tubaeformis LC0374.jpg
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{cite iucn |last1=Dahlberg |first1=A. |year=2024 |title=''Craterellus tubaeformis'' |volume=2024 |article-number=e.T122090503A122090918 |access-date=20 October 2024}}</ref>
+| taxon = Craterellus tubaeformis
+| authority = ([[Elias Magnus Fries|Fr.]]) [[Lucien Quélet|Quél.]] 1888
+}}
+{{mycomorphbox
+| name = Craterellus tubaeformis
+| hymeniumType=ridges
+| capShape = infundibuliform
+| whichGills = decurrent
+| stipeCharacter=bare
+| sporePrintColor=cream
+|sporePrintColor2=salmon
+| ecologicalType=mycorrhizal
+| howEdible=choice
+}}
+
+'''''Craterellus tubaeformis''''' (formerly ''Cantharellus tubaeformis'') is an [[edible fungus]], also known as the '''winter chanterelle''',<ref>{{Cite book |last=Arora |first=David |title=All That the Rain Promises and More: A Hip Pocket Guide to Western Mushrooms |date=February 1991 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-388-0 |location=Berkeley, CA |pages=6}}</ref> '''yellowfoot''', '''winter mushroom''', or '''funnel chanterelle'''. It was reclassified from ''[[Cantharellus]]'', which has been supported by [[molecular phylogenetics]].
+
+''C. tubaeformis'' is a yellowish-brown and trumpet-shaped mushroom found in great numbers late in the mushroom season, thus earning the common name winter mushroom. The cap is convex and sometimes hollow down the middle. The gills are widely separated and of lighter color than the cap.
+
+The species grows in temperate and cold parts of Northern America and Europe. It is [[mycorrhiza]]l, forming [[symbiotic]] associations with plants. It is an excellent food mushroom, especially [[frying|fried]] or in [[soup]]s.
+
+==Taxonomy==
+[[Molecular phylogenetics]] has shown that ''C. tubaeformis'' deserves its reclassification from ''[[Cantharellus]]'' to ''[[Craterellus]]''.  Additionally, it appears that there are two distinct genetic populations that have traditionally been called ''tubaeformis'': one in Europe and eastern North America, and another in western North America.  If these two groups are defined as separate species, the "eastern" yellowfoot would retain the scientific epithet ''tubaeformis'' due to the origin of the type specimens in Sweden.<ref name="dahl00" />
+
+==Description==
+The mushroom is mostly yellow with a grayish-brown [[Pileus (mycology)|cap]].<ref name=":02">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |page=101}}</ref> The cap is {{Convert|1–4|cm|abbr=off|frac=4}} wide, generally flat with a depressed center, funnel-shaped, waxy, with a wavy margin, and mild odor and taste.<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|page=274|oclc=797915861}}</ref> The [[Lamella (mycology)|gills]] are shallow, decurrent, forked, and pale.<ref name=":0" /> The hollow [[Stipe (mycology)|stalk]] is {{Convert|2–12|cm|abbr=on|frac=2}} tall and 1&nbsp;cm or less wide.<ref name=":02" /><ref name=":0" /><ref name=":1">{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|page=45}}</ref> It has a very distinctive smokey, peppery taste when raw.
+
+The [[Basidiospore|spores]] are whitish, elliptical, and smooth.<ref name=":0" /> The [[spore print]] is light orangish-pink.<ref name=":02" />
+
+It usually fruits later than other mushrooms, sometimes near ''[[Hydnum repandum]]''.<ref name=":0" /> It usually grows in large groups.<ref name=":1" />
+
+===Similar species===
+It is smaller than ''[[Cantharellus cibarius]]'' (the golden chanterelle) and has a dark brown cap with paler gills and a hollow yellow stem. ''C.&nbsp;tubaeformis'' tastes stronger but less fruity than the golden chanterelle.
+
+The edible ''[[Craterellus lutescens]]'' differs in colour,<ref name="Miller 2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|page=333|author-link1=Orson K. Miller Jr.}}</ref> and is found only in very wet places. ''[[Craterellus odoratus]]'' is bright yellow with a seamless cap and stem.<ref name=":02" /> Also similar is ''[[Cantharellus californicus]]''.<ref name=":0" />
+
+==Distribution and habitat==
+It grows in temperate and cold parts of Northern America (near both coasts)<ref name=":02" /> and Europe, including Scandinavia, Finland, Russia, and the British Isles, as well as in the Himalayas in Asia, including [[Assam]],{{cn|date=July 2023}} in the central parts of the [[Indian subcontinent]],<ref>{{cite journal |last1=Borkar |first1=Pramod |last2=Doshi |first2=Anila |last3=Navathe |first3=Sudhir |year=2015 |title=Mushroom Diversity of Konkan Region of Maharashtra, India |url=http://en.calameo.com/read/001552297201c26c611cb |journal=Journal of Threatened Taxa |volume=7 |pages=7625–7640 |doi=10.11609/jott.o4283.7625-40 |doi-access=free |number=10}}</ref> and in Thailand.<ref>{{cite journal |last1=Phosri |first1=Cherdchai |last2=Polme |first2=Sergei |last3=Taylor |first3=Andy F. S. |last4=Koljalg |first4=Urmas |last5=Suwannasai |first5=Nuttika |last6=Tedersoo |first6=Leho |year=2012 |title=Diversity and community composition of ectomycorrhizal fungi in a dry deciduous dipterocarp forest in Thailand |journal=Biodiversity and Conservation |volume=21 |pages=2287–2298 |doi=10.1007/s10531-012-0250-1 |s2cid=14185353 |number=9}}</ref>
+
+Growing in large groups,<ref name=":2" /> it is most common in forests with a large amount of well-rotted [[coarse woody debris]],<ref name="trappe04" /> growing on moss or rotten wood, and in Northern America mostly in [[conifer]] bogs.<ref>{{cite web |title=Craterellus tubaeformis |url=http://www.mushroomexpert.com/craterellus_tubaeformis.html |access-date=10 Mar 2015 |website=www.mushroomexpert.com}}{{title missing|date=May 2022}}</ref> In the [[Pacific Northwest]], it can be found from November to January.<ref>{{Cite web |title=Seasonal Chart for Edible Mushrooms |url=https://www.centraloregonmushroomclub.com/Mushroom-Seasons.htm?m=102&s=866 |access-date=2024-03-31 |website=Central Oregon Mushroom Club}}</ref> 
+
+==Ecology==
+The species is [[mycorrhiza]]l (forming [[symbiotic]] associations with plants), providing an obstacle to its [[Fungiculture|cultivation]].
+
+The western North American ''C. tubaeformis'' has been shown to make [[ectomycorrhiza]]l relationships with western hemlock (''[[Tsuga heterophylla]]'') and Douglas-fir (''[[Pseudotsuga menziesii]]'').<ref name="trappe04" />
+
+==Uses==
+Though small, the mushroom is choice.<ref name=":2">{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=251}}</ref> It can be eaten with meat, in soups, pasta, and other dishes.<ref>{{cite book |last=Meuninck |first=Jim |title=Foraging Mushrooms Oregon: Finding, Identifying, and Preparing Edible Wild Mushrooms |date=2017 |publisher=[[Falcon Guides]] |isbn=978-1-4930-2669-2 |pages=12–13}}</ref>
+
+==References==
+{{Reflist|refs=
+
+<ref name=dahl00>{{cite journal| title=Molecular systematics of ''Craterellus'': cladistic analysis of nuclear LSU rDNA sequence data| first1=Mattias| last1=Dahlman| first2=Eric| last2=Danell| first3=Joseph W.| last3=Spatafora| journal=Mycological Research| volume=104| number=4| date=April 2000| pages=388–394| doi=10.1017/S0953756299001380| url=http://www-mykopat.slu.se/Newwebsite/mycorrhiza/kantarellfiler/texter/craterellus.pdf| archive-url=https://web.archive.org/web/20070804023903/http://www-mykopat.slu.se/Newwebsite/mycorrhiza/kantarellfiler/texter/craterellus.pdf| archive-date=2007-08-04}}</ref>
+
+<ref name=trappe04>{{cite journal| journal=Mycologia|date=May–Jun 2004| volume=96| issue=3| pages=498–509| title=Habitat and host associations of ''Craterellus tubaeformis'' in northwestern Oregon| last=Trappe| first=MJ| pmid=21148873| url=http://www.mycologia.org/content/96/3/498.full| doi=10.2307/3762170|jstor=3762170| url-access=subscription}}</ref>
+
+}}
+
+==External links==
+{{Commons category|Craterellus tubaeformis}}
+* [http://www.mushroomexpert.com/craterellus_tubaeformis.html ''Craterellus tubaeformis''] MushroomExpert.com
+
+{{Taxonbar|from=Q371126}}
+
+[[Category:Cantharellales]]
+[[Category:Edible fungi]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi described in 1888]]
+[[Category:Fungus species]]

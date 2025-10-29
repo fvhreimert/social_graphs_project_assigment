@@ -1,0 +1,61 @@
+{{Speciesbox
+| image = Calocybe carnea.jpg
+| taxon = Calocybe carnea
+| authority = ([[Jean Baptiste François Pierre Bulliard|Bull.]]) [[Marinus Anton Donk|Donk]] (1962)
+| synonyms = {{hidden begin|title = List}} 
+* ''Agaricus carneus'' <small>Bull. (1792)</small>
+* ''Tricholoma carneum'' <small>(Bull.) [[Paul Kummer|P.Kumm]] (1871)</small> 
+* ''Gyrophila carnea'' <small>(Bull.) Quél. (1886)</small>
+* ''Calocybe carnea'' <small>(Bull.) [[Robert Kühner|Kühner]] (1938)</small>
+* ''Lyophyllum carneum'' <small>(Bull.) Kühner & [[Henri Romagnesi|Romagn.]] (1953)</small>
+* ''Rugosomyces carneus'' <small>(Bull.) Bon (1991)</small>
+* ''Gyrophila carnea'' var. ''mammosa'' <small>Quél. (1890)</small>
+* ''Collybia readii'' <small>G. Stev. (1964)</small>
+* ''Calocybe readii'' <small>(G. Stev.) E. Horak (1971)</small>
+{{hidden end}}
+}}
+{{Mycomorphbox
+| name = ''Calocybe carnea''
+| whichGills = adnexed
+| whichGills2 = sinuate
+| whichGills3 = free
+| capShape = convex
+| capShape2 = flat
+| hymeniumType = gills
+| stipeCharacter = bare
+| sporePrintColor = white
+| ecologicalType = saprotrophic
+| howEdible = edible
+| howEdible2 = not recommended
+}}
+
+'''''Calocybe carnea''''' is a species of fungus in the family [[Lyophyllaceae]]. It has small pink-[[pileus (mycology)|capped]] [[mushroom]]s with white [[lamella (mycology)|gills]] and can be found in grassy meadows, fields, or on lawns from spring to autumn in Europe and North America. Its [[common name]]s include '''pink fairhead'''<ref name=T.Laessoe>{{cite book | author = Thomas Laessoe | year = 1998 | title = Mushrooms (flexi bound) | publisher = Dorling Kindersley | isbn = 978-0-7513-1070-2}}</ref> and '''pink domecap'''.<ref name=Phillips06>{{cite book | author = Roger Phillips | year = 2006  | title = Mushrooms | publisher = Pan MacMillan | isbn = 978-0-330-44237-4|page=104}}</ref>
+
+==Taxonomy==
+Originally described as ''Agaricus carneus'' by the French mycologist [[Jean Baptiste François Pierre Bulliard|Pierre Bulliard]] in 1792, this small pink mushroom has been through many [[Taxonomy (biology)|taxonomical]] name changes over many years, and as a result has had many [[binomial nomenclature|binomial]] names. Its current [[specific name (botany)|specific epithet]], ''carnea'', is derived from the [[Latin]] for "flesh-coloured".<ref>{{cite book|author = Simpson DP| title = Cassell's Latin Dictionary  | publisher = Cassell Ltd.| year = 1979|edition = 5|location = London|page = 883| isbn=978-0-304-52257-6}}</ref> The [[genus]] name is derived from the [[Ancient Greek]] terms ''kalos'' "pretty", and ''cubos'' "head".<ref>{{cite book | author = Nilson S & Persson O | year = 1977 | title = Fungi of Northern Europe 2: Gill-Fungi | publisher = Penguin|isbn=978-0-14-063006-0|page= 24}}</ref>
+
+==Description==
+The [[pileus (mycology)|cap]] is {{convert|1.5–4|cm|abbr=on}} in diameter. It is usually pale pink, but can be darker, pinker, or redder. It usually fades with age. At first it is convex, but later flattens, and has a tendency to become wavy. It is smooth and dry. The [[stipe (mycology)|stem]] is up to {{convert|4|cm|round=0.5|abbr=on}} high and the same colour as the cap, and is smooth, or finely fibrillose;<ref name=Arora2nd>{{Cite book |last=Arora |first=David |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/176/mode/2up |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |orig-date=1979 |edition=2nd |pages=176}}</ref> often narrowing towards the base, and often misshapen. The [[Lamella (mycology)|gills]] are adnexed to almost free; sometimes notched and are white, giving a [[spore print]] of the same colour. They are quite closely spaced initially. The [[trama (mycology)|flesh]] is thin and whitish,<ref name=Arora2nd/> with little odour or flavour.
+
+===Similar species===
+
+A similar species, ''Rugosomyces persicolor'' (Fr.) Singer, grows in tufts, has a liking for manured ground and is sometimes recorded as a variety or variant of ''C.&nbsp;carnea''.
+
+==Distribution and habitat==
+''Calocybe carnea'' appears in spring, summer, and early autumn (usually after rain). It is frequent in Britain, Europe, Asia, and North America, growing in grassy meadows and fields and on lawns. It is very rarely found in woods, unless a grassy clearing is present. It seems to tolerate agricultural practices, because its fruiting bodies often appear on fertilized farmland.<ref name=T.Laessoe/>
+
+==Edibility==
+This mushroom is [[edible mushroom|edible]],<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |url=https://archive.org/details/mushroomsotherfu0000phil |url-access=registration |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=[https://archive.org/details/mushroomsotherfu0000phil/page/53 53]}}</ref> but is unsubstantial, as it is small and thin fleshed. It is also potentially confused with poisonous species.<ref name=Arora2nd/>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q3490762}}
+
+[[Category:Fungi described in 1972]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Asia]]
+[[Category:Lyophyllaceae]]
+[[Category:Edible fungi]]
+[[Category:Fungus species]]

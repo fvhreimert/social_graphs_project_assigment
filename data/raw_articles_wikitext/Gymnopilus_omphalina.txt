@@ -1,0 +1,41 @@
+{{Short description|Species of fungus}}
+{{single source|date=October 2025}}
+{{no footnotes|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption =
+| taxon = Gymnopilus omphalina
+| authority = [[William Alphonso Murrill|Murrill]]
+| synonyms =
+}}
+{{mycomorphbox
+| name = Gymnopilus omphalina
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+
+'''''Gymnopilus omphalina''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]].
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==External links==
+*''[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=485901 Gymnopilus omphalina]'' at [[Index Fungorum]]
+
+{{Taxonbar|from=Q5624910}}
+
+{{DEFAULTSORT:Gymnopilus omphalina}}
+[[Category:Gymnopilus|omphalina]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by William Alphonso Murrill]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

@@ -1,0 +1,64 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Lepiota subincarnata 117620.jpg
+| genus = Lepiota
+| species = subincarnata
+| authority = [[Jakob Emanuel Lange|J.E.Lange]] (1940)
+| synonyms_ref = <ref name="urlMycoBank: Lepiota subincarnata"/>
+| synonyms = *''Lepiota josserandii'' <small>[[Marcel Bon|Bon]] & Boiffard (1975)</small><br>
+*''Lepiota josserandii'' var. ''rosabrunnea'' <small>Raithelh. (1988)</small>
+*''Leucoagaricus josserandii'' <small>(Bon & Boiffard) Raithelh. (1989)</small>
+*''Leucoagaricus rosabrunneus'' <small>(Raithelh.) Raithelh. (1989)</small>
+*''Lepiota subincarnata'' var. ''josserandii'' <small>(Bon & Boiffard) Gminder (1999)</small>
+}}
+{{mycomorphbox
+|name=''Lepiota subincarnata''
+|whichGills=free
+|capShape=convex
+|capShape2=flat
+|hymeniumType=gills
+|stipeCharacter=ring
+|ecologicalType=mycorrhizal
+|sporePrintColor=white
+|howEdible=deadly
+}}
+
+'''''Lepiota subincarnata''''', commonly known as the '''fatal dapperling'''<ref>{{Cite web |title=fatal dapperling (Lepiota subincarnata) |url=https://www.inaturalist.org/taxa/382931-Lepiota-subincarnata |access-date=2024-02-24 |website=iNaturalist |language=en-US}}</ref> and '''deadly parasol''', is a gilled [[mushroom]] of the genus ''[[Lepiota]]'' in the order [[Agaricales]]. It was first [[species description|described]] scientifically by the Danish mycologist [[Jakob Emanuel Lange]] in 1940.<ref name=Lange1940/> Bon and Boiffard described ''Lepiota josserandii'' in 1974, which turned out to be the same species.
+
+The mushroom's cap is light red to red-brown and cream-colored closer to the margin. The gills are whitish and the flesh is white to pinkish towards the top. The stem may be slightly larger at the base, cream-colored with patches of the cap color. The odor is somewhat fruity and the taste is unpleasant.<ref name=":0">{{cite book |last1=Trudell |first1=Steve |url=https://books.google.com/books?id=WevHvt6Tr8kC |title=Mushrooms of the Pacific Northwest |last2=Ammirati |first2=Joe |publisher=Timber Press |year=2009 |isbn=978-0-88192-935-5 |series=Timber Press Field Guides |location=Portland, OR |pages=75}}</ref>
+
+The species is found in Eurasia and North America,<ref name="Razaq 2013" /> in woods as well as richly soiled parks.<ref name=":0" /> It is known to contain [[alpha-amanitin]] and consuming this fungus can be potentially lethal.<ref name="Hall2003" />
+
+==See also==
+* [[List of deadly fungi]]
+* [[List of Lepiota species|List of ''Lepiota'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name=Hall2003>{{cite book |author=Hall IR. |title=Edible and Poisonous Mushrooms of the World |publisher=Timber Press |location=Portland, Oregon |year=2003 |page=107 |isbn=0-88192-586-1}}</ref>
+
+<ref name=Lange1940>{{cite book |title=Flora Agaricina Danica |volume=5 |year=1940 |author=Lange JE.}}</ref>
+
+<ref name="Razaq 2013">{{cite journal |vauthors=Razaq A, Vellinga EC, Ilyas S, Khalid AN |title=''Lepiota brunneoincarnata'' and ''L. subincarnata'': distribution and phylogeny |journal=Mycotaxon |year=2013 |volume=126 |pages=133–41 |doi=10.5248/126.133|doi-access=free }}</ref>
+
+<ref name="urlMycoBank: Lepiota subincarnata">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=299506 |title=''Lepiota subincarnata'' J.E. Lange 1940 |publisher=International Mycological Association |work=MycoBank |accessdate=2010-12-22}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|299506}}
+
+{{Taxonbar|from=Q4259141}}
+
+[[Category:Lepiota|subincarnata]]
+[[Category:Deadly fungi]]
+[[Category:Fungi of Asia]]
+[[Category:Poisonous fungi]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1940]]
+[[Category:Fungus species]]
+
+
+{{Agaricaceae-stub}}

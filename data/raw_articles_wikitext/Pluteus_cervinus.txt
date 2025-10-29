@@ -1,0 +1,82 @@
+{{Speciesbox
+|image = Pluteus cervinus, Deer Shield, UK.jpg
+|status = G5
+|status_system = TNC
+|status_ref = <ref name=NS>{{cite NatureServe |id=2.125717 |title=''Pluteus cervinus'' |access-date=17 May 2025}}</ref>
+|genus = Pluteus
+|species = cervinus
+|authority = ([[Jacob Christian Schäffer|Schaeff.]]) [[P. Kumm.]]  (1871)
+|synonyms =*''Agaricus cervinus'' <small>Schaeff. (1774)</small>
+*''Rhodosporus cervinus''  <small>(Schaeff.) [[J. Schröt.]] (1889)</small>
+*''Pluteus atricapillus'' <small>([[August Johann Georg Karl Batsch|Batsch]]) [[Victor Fayod|Fayod]] (1889)</small>
+}}
+{{mycomorphbox 
+| name = Pluteus cervinus
+| whichGills = free 
+| capShape = flat
+| capShape2=umbonate 
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=saprotrophic
+| sporePrintColor=salmon
+| sporePrintColor2=reddish-brown
+| howEdible=edible}}
+
+'''''Pluteus cervinus''''', commonly known as the '''deer shield''',<ref name="BMS" /> '''deer mushroom''', or '''fawn mushroom''',<ref>National Audubon Society Field Guide to North American Mushrooms, 2006</ref> is a species of [[fungus]] in the order [[Agaricales]]. Fruit bodies are [[agaric]]oid (mushroom-shaped). ''Pluteus cervinus'' is [[saprotrophic]] and fruit bodies are found on rotten logs, roots, tree stumps, sawdust, and other wood waste. It is common in Europe and eastern North America.     
+
+==Etymology==
+The species epithet, ''cervinus'', means "deer-like"" and refers to the colour of the cap (described as "rehfarbig" in [[Jacob Christian Schäffer]]'s original 1774 description).<ref name="Schaeffer"/>
+
+==Description==
+The [[Pileus (mycology)|cap]] typically grows up to {{Convert|12|cm|frac=4}} in diameter.<ref name="tfb">{{Cite book |last=Francis-Baker |first=Tiffany |title=Concise Foraging Guide |date=2021 |publisher=[[Bloomsbury Publishing|Bloomsbury]] |isbn=978-1-4729-8474-6 |series=[[The Wildlife Trusts]] |location=London |pages=149}}</ref> Initially it is bell-shaped and often wrinkled when young. Later it expands to a convex shape.<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/255/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=255-54 |orig-date=1979}}</ref> The cap can be deer-brown, but varies from light ochre-brown to dark brown, with a variable admixture of grey or black. The centre of the cap may be darker.<ref name=":1">{{cite book |last1=Trudell |first1=Steve |url=https://books.google.com/books?id=WevHvt6Tr8kC&pg=PA144 |title=Mushrooms of the Pacific Northwest |last2=Ammirati |first2=Joe |publisher=Timber Press |year=2009 |isbn=978-0-88192-935-5 |series=Timber Press Field Guides |location=Portland, OR |pages=144}}</ref> The cap surface is smooth and matt to silky-reflective. The cap skin shows dark radial fibres when seen through a lens, indicating that the microscopic cuticle structure is filamentous. The [[Lamella (mycology)|gills]] are initially white, but soon show a distinctive pinkish sheen,<ref name=":1" /> caused by the ripening spores.
+
+The stipe is 5–12&nbsp;cm long and 0.5–2&nbsp;cm in diameter, usually thicker at the base. It is white and covered with brown vertical fibrils. The flesh is soft and white.<ref name=":1" /> The fruit body has a mild to earthy radish smell<ref name=":1" /> and a mild taste at first, which may become slightly bitter.<ref name="Kuo">
+{{cite web |last=Kuo |first=Michael |date=December 2004 |title=Pluteus cervinus: The Deer Mushroom |url=http://www.mushroomexpert.com/pluteus_cervinus.html |access-date=August 8, 2013}}</ref>
+
+The spores are elliptical, smooth and measure approximately 7.0–8.0 × 5.0–5.5&nbsp;[[μm]]. The [[hypha]]e lack [[clamp connection]]s. The [[cystidia]] are thick-walled with apical projections. The [[spore print]] is pinkish brown.<ref name="Justo2014" />
+
+=== Similar species ===
+Similar species include ''[[Pluteus atromarginatus]]'', which has a dark brown edge to the gills; ''[[Pluteus rangifer|P.&nbsp;rangifer]]'', a subarctic species; ''[[Pluteus elaphinus|P.&nbsp;elaphinus]]'' in eastern North America; ''[[Pluteus hongoi|P.&nbsp;hongoi]]'' which typically has a paler cap and occurs in Eurasia and eastern North America; and ''[[Pluteus exilis|P.&nbsp;exilis]]'' which typically produces fruit bodies in spring and occurs in western North America.<ref name="Justo2014"/> Similarly coloured species of ''[[Entoloma]]'' have gills that are attached to the stipe (not free) and distinctive, angular spores.
+
+==Distribution and habitat==
+''Pluteus cervinus'' grows on stumps and wood debris.<ref name="tfb" />
+
+It is common in Europe (April to December)<ref name="tfb" /> and eastern North America, but rare and possibly introduced in western North America.<ref name="Justo2014" />
+
+==Uses==
+Although a poor-quality [[edible mushroom]]<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |publisher=Firefly Books |year=2010 |isbn=978-1-55407-651-2 |location=Buffalo, NY |page=159}}</ref><ref name="Kuo" /> with an unremarkable flavour (and not preserving well), young specimens can be added to other cooked dishes.<ref name="tfb" /><ref name="Miller 2006">{{cite book |last1=Miller Jr. |first1=Orson K. |author-link=Orson K. Miller Jr. |title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi |last2=Miller |first2=Hope H. |publisher=[[FalconGuide]] |year=2006 |isbn=978-0-7627-3109-1 |location=Guilford, CN |pages=203}}</ref>
+
+==Gallery==
+<gallery>
+Image:Pluteus cervinus in situ.jpg|Mature ''Pluteus cervinus''
+Image:Young Pluteus cervinus in situ.jpg|Young ''Pluteus cervinus''
+Image:Pluteus.cervinus.cystidia.400x.JPG|[[Cystidium]] with apical projections
+Image:Pluteus.cervinus.spores.1000x.jpg|[[Basidiospores]]
+Image:Pluteus cervinus01.jpg|''Pluteus cervinus''
+</gallery>
+
+==See also==
+*[[List of Pluteus species|List of ''Pluteus'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name=BMS>{{cite web |author=Holden L. |url=https://www.britmycolsoc.org.uk/field_mycology/english-names |title=English names for fungi April 2022 |date=April 2022|publisher=[[British Mycological Society]] |accessdate=2023-07-16}}</ref>
+
+<ref name="Justo2014">{{Cite journal |url=http://www.clarku.edu/faculty/dhibbett/Reprints%20PDFs/PDFs_2014/justo-et-al-2014-pluteus.pdf |title=Molecular phylogeny and phylogeography of Holarctic species of ''Pluteus'' section ''Pluteus'' (Agaricales: Pluteaceae), with description of twelve new species |volume=180 |date=2014 |journal=Phytotaxa |first1=Alfredo |last1=Justo |page=1 |doi=10.11646/phytotaxa.180.1.1 |url-status=dead |archive-url=https://web.archive.org/web/20160304051701/http://www.clarku.edu/faculty/dhibbett/Reprints%20PDFs/PDFs_2014/justo-et-al-2014-pluteus.pdf |archive-date=2016-03-04 }}</ref>
+
+<ref name="Schaeffer">{{Cite book |author =Schäffer JC |year=1774 |title=Fungorum qui in Bavaria et Palatinatu circa Ratisbonam Nascuntur icones nativis coloribus expressae 4 |publisher=	Typis Zunkelianis |location=Regensburg}}</ref>
+}}
+
+==Further reading==
+*Régis Courtecuisse, Bernard Duhem : ''Guide des champignons de France et d'Europe'' (Delachaux & Niestlé, 1994-2000).  {{ISBN|2-603-00953-2}}
+
+{{Taxonbar|from=Q790598}}
+
+[[Category:Edible fungi]]
+[[Category:Pluteus|cervinus]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1774]]
+[[Category:Taxa named by Jacob Christian Schäffer]]
+[[Category:Fungus species]]

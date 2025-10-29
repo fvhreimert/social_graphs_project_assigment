@@ -1,0 +1,53 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = 2011-10-09 Hygrophorus russula (Schaeff.) Kauffman 175022.jpg
+| genus = Hygrophorus
+| species = russula
+| authority = ([[Jacob Christian Schäffer|Schaeff.]]) [[Calvin Henry Kauffman|Kauffman]] (1918)
+| synonyms_ref = <ref name=IndexFungorum>{{cite web |url=http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=102423 |title=Fungorum synonymy: ''Hygrophorus russula'' |publisher=CAB International |work=Species Fungorum |access-date=23 October 2015}}</ref>
+| synonyms = *''Agaricus russula'' Schaeff. (1774)
+}}
+{{Mycomorphbox
+| name = ''{{PAGENAME}}''{{italic title}}
+| hymeniumType = gills
+| capShape = convex
+| whichGills = adnate
+| whichGills2 = decurrent
+| stipeCharacter = bare
+| sporePrintColor = white
+| howEdible = choice
+| howEdible2 = edible
+}}
+
+'''''Hygrophorus russula''''', commonly known as the '''pinkmottle woodwax''', '''false russula''', or '''russula-like waxy cap''',<ref name="Huffman 2008">{{cite book |author=Huffman DM |url=https://books.google.com/books?id=tl2fVAHuej4C&pg=PA85 |title=Mushrooms and Other Fungi of the Midcontinental United States (Bur Oak Guide) |publisher=University of Iowa Press |year=2008 |isbn=9781587297250 |location=Iowa City, Iowa |page=85}}</ref> is a species of fungus native to North America and Europe.
+
+== Taxonomy ==
+German naturalist [[Jacob Christian Schäffer]] described the species as ''Agaricus russula'' in 1774.<ref name=Schaeffer1774>{{cite book |title=Fungorum qui in Bavaria et Palatinatu Nascuntur Icones |volume=1 |author=Schaeffer JC. |year=1774 |language=la |page=58 }}</ref> The species name is derived from its reddish coloration, reminiscent of members of the genus ''[[Russula]]''.<ref name=kauffman1918/> French botanist [[Claude Casimir Gillet]] placed it in the genus ''[[Tricholoma]]'' in 1878, before American [[naturalist]] [[Calvin Henry Kauffman]] transferred it to ''[[Hygrophorus]]'' in 1918. Though Kauffman thought it resembled ''Tricholoma'', he held that its waxy gills showed it to be better suited to the genus ''Hygrophorus''.<ref name=kauffman1918>{{cite book | title=	The Agaricaceae of Michigan | series = Publications Mich. geol. biol. Surv., Biol. Ser. 5 26|page= [https://archive.org/details/agaricaceaeofmic01kauf/page/185 185] |year=1918| author = Kauffman CH | publisher=Wynkoop, Hallenbeck Crawford Co. |location= Lansing, Michigan | url=https://archive.org/details/agaricaceaeofmic01kauf}}</ref>
+
+== Description ==
+The cap is hemispherical before flattening out with age, though the cap margin remains inrolled. Reaching {{convert|5-12|cm|in|abbr=on|frac=4}} in diameter, it has a base colour of white or pink with streaks of pink, wine-red or purple.<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=130–131|oclc=797915861}}</ref> The cap surface is sticky when young. The firm flesh is pink or white and has a mild scent and flavour.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=406}}</ref> The crowded gills are [[decurrent]]. White when young, they become discoloured with pink and wine-red stains. The [[stipe (mycology)|stipe]] is {{convert|2-10|cm|in|abbr=on|frac=4}} high and {{convert|1.5-3.5|cm|in|abbr=on|frac=4}} wide. The [[spore print]] is white, the smooth oval spores measuring 6–8 by 3–5&nbsp;μm under the microscope.<ref name="Bessette 1997">{{cite book |vauthors=Bessette A, Bessette AR, Fischer DW |title=Mushrooms of Northeastern North America |year=1997 |publisher=Syracuse University Press |location=Syracuse, New York |isbn=978-0-8156-0388-7 |pages=145 |url=https://books.google.com/books?id=T2uU12XcRD4C&pg=PA145}}</ref><ref name=":0" />
+
+=== Similar species ===
+It can be distinguished from russulas by its non-brittle stipe.<ref name="arora86"/> The edible but poor ''[[Hygrophorus purpurascens]]'' is similar but has a [[veil (mycology)|veil]] and grows under conifers.<ref name=Roody2003>{{cite book |author=Roody WC. |title=Mushrooms of West Virginia and the Central Appalachians |publisher=University Press of Kentucky |location=Lexington, Kentucky |year=2003 |page=143 |isbn=0-8131-9039-8 |url=https://books.google.com/books?id=5HGMPEiy4ykC&pg=PA143}}</ref>
+
+== Distribution and habitat ==
+It is native to North America and Europe.<ref>{{cite book |last=Bas C |url=https://books.google.com/books?id=Z-xGzC7Nic4C&pg=PA121 |title=Flora Agaricina Neerlandica |date=1990 |publisher=CRC Press |isbn=9789061919711 |volume=2 |pages=121}}</ref> In eastern North America, it appears under oak from August to October,<ref name="Bessette 1997" /> later on the West Coast.<ref name="audu" /> It is more common in the east of the continent than the west.<ref name="arora86"> {{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/123/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=123–24 |orig-date=1979}}</ref> The fruit bodies, or mushrooms, can be abundant some years, especially after rainfall, sometimes appearing in arcs or [[fairy ring]]s.<ref name="Huffman 2008" />
+
+== Uses ==
+The mushroom is [[edible mushroom|edible]] but sources differ as to its quality.<ref name="Huffman 2008"/><ref name="Bessette 1997"/><ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |orig-year=2005 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=86}}</ref><ref name=":0" />
+
+==See also==
+*[[List of Hygrophorus species|List of ''Hygrophorus'' species]]
+
+==References==
+{{Reflist|30em}}
+
+{{Commons-inline}}
+{{Taxonbar|from=Q2714680}}
+
+[[Category:Hygrophorus|russula]]
+[[Category:Edible fungi]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1774]]
+[[Category:Taxa named by Jacob Christian Schäffer]]
+[[Category:Fungus species]]

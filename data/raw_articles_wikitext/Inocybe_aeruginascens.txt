@@ -1,0 +1,62 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Inocybe aeruginascens.jpg
+| image_caption = ''Inocybe aeruginascens''
+| taxon = Inocybe aeruginascens
+| authority = [[Margit Babos|Babos]] (1968)
+}}
+{{mycomorphbox
+| name = ''Inocybe aeruginascens''
+| whichGills = adnate
+| whichGills2 = emarginate
+| capShape = conical
+| capShape2 = convex
+| hymeniumType= gills
+| stipeCharacter= bare
+| ecologicalType=mycorrhizal
+| sporePrintColor=tan
+| howEdible=psychoactive}}
+
+'''''Inocybe aeruginascens''''' is a member of the [[Inocybe|genus ''Inocybe'']] which is widely distributed in Europe. The species was first documented by I. Ferencz in Ócsa, Hungary on June 15, 1965.<ref name="MCR"/>
+
+==Description==
+''Inocybe aeruginascens'' is a small [[mycorrhizal]] [[mushroom]] with a [[conic]] to [[wikt:convex|convex]] cap which becomes plane in age and is often [[wikt:fibrillose|fibrillose]] near the margin. It is usually less than 5&nbsp;cm across, has a slightly darker blunt umbo and an incurved margin when young.  The cap color varies from buff to light yellow brown, usually with greenish stains which disappear when the mushroom dries. The gills are [[wikt:adnate|adnate]] to nearly free, numerous, colored pale brown, grayish brown, or tobacco brown.  The [[basidiocarp|fruit body]] has greenish tones and bruises blue where damaged.  The [[spores]] are smooth and [[ellipsoid]], measuring 6–9.5 x 4.5 [[micrometre]]s and forming a clay brown spore print.  The stem is 2–7&nbsp;cm long, 3 to 8&nbsp;mm thick, and is equal width for the whole length, sometimes with some swelling at the base. It is solid, pale grey, becoming bluish green from the bottom up.  The stem is fibrous and appears to be covered with fine powder near the top. It has a partial veil which often disappears in age and an unpleasant soapy odor.
+
+==Distribution and habitat==
+''Inocybe aeruginascens'' is widely distributed in temperate areas and has been reported in central Europe and western North America.{{Citation needed|date=August 2012}} It grows in moist sandy soils in a mycorrhizal relationship with poplar, linden, oak and willow trees.
+
+==Edibility==
+No [[toxicology]] information exists on ''Inocybe aeruginascens'' currently, however a minimum of "23 unintentional intoxications" were reported in 1982 by Drewitz and Babos. Unintentional consumption could be due to the similarity of ''[[Marasmius oreades]]''. The symptoms of "intoxication" were hallucinogenic, leading [[Jochen Gartz|Gartz]] and Drewitz to eventually discover the first source of [[psilocybin]] in any ''Inocybe'' species.<ref name="Jensen2004"/><ref>{{Cite news|date=2018-11-19|title=Aeruginascin|url=https://psychedelicreview.com/compound/aeruginascin/|access-date=2021-09-07|website=Psychedelic Science Review|language=en-US}}</ref> There are no known deaths directly related to consumption, however edibility is not yet conclusive.
+
+==Biochemistry==
+''Inocybe aeruginascens'' contains the formerly known alkaloids [[psilocybin]], [[psilocin]], [[baeocystin]], as well a newly discovered [[indoleamine]] 4-phosphoryloxy-''N,N,N''-tri[[methyl]][[tryptamine]]. [[Jochen Gartz]] named this new substance [[aeruginascin]] after the mushroom species.<ref name="MCR"/><ref name="Jensen2006"/> Aeruginascin is the ''N''-tri[[methyl]] [[Analog (chemistry)|analogue]] of [[psilocybin]]. ''Inocybe aeruginascens'' and ''[[Pholiotina cyanopus]]'' are the only known natural sources of aeruginascin.
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Inocybe species|List of ''Inocybe'' species]]
+*[[List of Psilocybin mushrooms]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="MCR">{{cite web |url=http://www.museocivico.rovereto.tn.it/context.jsp?ID_LINK=111258&area=279 |title=Museo Civico di Rovereto}}</ref>
+
+<ref name="Jensen2004">{{cite thesis |url=http://webdoc.sub.gwdg.de/diss/2004/jensen/jensen.pdf <!-- permalink: http://hdl.handle.net/11858/00-1735-0000-0006-B076-F -->|title=Tryptamines as Ligands and Modulators of the Serotonin 5‑HT2A Receptor and the Isolation of Aeruginascin from the Hallucinogenic Mushroom ''Inocybe aeruginascens'' |first=Niels |last=Jensen |year=2004 |publisher=Georg-August-Universität Göttingen |format=PDF}}</ref>
+
+<ref name="Jensen2006">{{Cite journal|last1=Jensen |first1=Niels |last2=Gartz |first2=Jochen |last3=Laatsch |first3=Hartmut |doi=10.1055/s-2006-931576 |title=Aeruginascin, a Trimethylammonium Analogue of Psilocybin from the Hallucinogenic Mushroom ''Inocybe aeruginascens'' |journal=Planta Medica |volume=72 |issue=7 |pages=665–666 |date=June 2006 |pmid=16673333 |s2cid=260281286 |url=http://wwwuser.gwdg.de/~ucoc/laatsch/168_Aeruginascin_col.pdf |url-status=dead |archiveurl=https://web.archive.org/web/20110524153555/http://wwwuser.gwdg.de/~ucoc/laatsch/168_Aeruginascin_col.pdf |archivedate=May 24, 2011 }}</ref>
+
+}}
+
+==External links==
+* [http://leda.lycaeum.org/?ID=10410 Extraction and analysis of indole derivatives from fungal biomass] {{Webarchive|url=https://web.archive.org/web/20070528084240/http://leda.lycaeum.org/?ID=10410 |date=2007-05-28 }}
+* [http://leda.lycaeum.org/?ID=10430 New Aspects of the Occurrence, Chemistry, and Cultivation of European Hallucinogen Mushrooms] {{Webarchive|url=https://web.archive.org/web/20060510124306/http://leda.lycaeum.org/?ID=10430 |date=2006-05-10 }}
+
+{{Hallucinogenic mushrooms}}
+{{Taxonbar|from=Q76852}}
+
+[[Category:Inocybe|aeruginascens, Inocybe]]
+[[Category:Psychoactive fungi]]
+[[Category:Psychedelic tryptamine carriers]]
+[[Category:Fungi described in 1968]]
+[[Category:Fungi of Europe]]
+[[Category:Fungus species]]

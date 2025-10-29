@@ -1,0 +1,71 @@
+{{Short description|Species of mushroom-forming fungus}}
+{{Use dmy dates|date=April 2025}}
+{{Use Oxford spelling|date=April 2025}}
+{{Speciesbox 
+| image = 2008-11-16 Gomphidius maculatus (Scop.) Fr 29283.jpg
+| taxon = Gomphidius maculatus
+| authority = ([[Scop.]]) [[Elias Magnus Fries|Fr.]] (1838)
+| synonyms_ref = <ref name="Species Fungorum synonymy: Gomphidius maculatus"/>
+| synonyms = *''Agaricus maculatus'' {{au|Scop. (1772)}}
+*''Gomphidius gracilis'' {{au|[[Miles Joseph Berkeley|Berk]] (1854)}}
+*''Paxillus gracilis'' {{au|(Berk.) [[Quél.]] (1880)}}
+*''Gomphidius furcatus'' {{au|[[Charles Horton Peck|Peck]] (1899)}}
+*''Gomphidius maculatus'' var. ''furcatus'' {{au|(Peck) [[Rolf Singer|Singer]] (1949)}}
+*''Leucogomphidius maculatus'' {{au|(Scop.) [[Kotl.]] & [[Zdeněk Pouzar|Pouzar]] (1972)}}
+}}
+
+'''''Gomphidius maculatus''''', commonly known as the '''larch slime spike''',<ref name=":0">{{Cite book |last=Siegel |first=Noah |title=Mushrooms of Cascadia: A Comprehensive Guide to Fungi of the Pacific Northwest |last2=Schwarz |first2=Christian |date=September 1, 2024 |publisher=Backcountry Press |isbn=9781941624197 |location=Humboldt County, CA |pages=122}}</ref> is a species of mushroom in the family [[Gomphidiaceae]].<ref name="Miller 2006"/> It is widely distributed in Europe and North America, where it forms [[mycorrhiza]]l associations with [[larch]] trees. It is an [[introduced species]] in New Zealand. While not known to be poisonous, it is slimy and could potentially accumulate heavy metals.<ref name=":0" />
+
+==Taxonomy==
+
+It was first [[species description|described]] scientifically by naturalist [[Giovanni Antonio Scopoli]] in 1772. [[Elias Magnus Fries]] transferred it to the genus ''[[Gomphidius]]'' in 1838, giving it the name by which it is known today. The [[botanical name|specific epithet]] ''maculatus'' is derived from the [[Latin]] word for "spotted".<ref name="Pacioni 1981"/> The [[type (biology)#type locality|type locality]] was [[Carniola]], a historical region that now comprises parts of present-day Slovenia.<ref name="Mcnabb 1970"/>
+
+==Description==
+
+The cap ([[pileus (mycology)|cap]]) of ''Gomphidius maculatus'' measures 2–9&nbsp;cm in diameter and is initially convex, becoming plano-convex or flattened with maturity. Sometimes it may develop a slight [[umbo (mycology)|umbo]] (central raised area). The cap surface is glutinous (sticky and slimy) in damp conditions and glabrous (smooth). Its colouration ranges from pinkish fawn to pale reddish-brown, often with light orange in the centre, fading to pallid pinkish fawn or dingy white towards the margins. A distinctive characteristic of this species is its tendency to readily stain black when damaged. The cap margins are strongly inrolled when young, becoming moderately inrolled at maturity.<ref name="Mcnabb 1970"/>
+
+The gills ([[lamellae (mycology)|lamellae]] are somewhat distant to distantly spaced, [[decurrent]] (running down the stipe), thick with bluntly rounded edges. They often branch dichotomously and may have transverse veins or wrinkles towards the margins. The gills are 2–8&nbsp;mm deep, initially white, becoming dingy white and finally sooty grey at maturity.<ref name="Mcnabb 1970"/>
+
+The [[stipe (mycology)|stipe]] is 3.5–10&nbsp;cm long, tapering towards the base, measuring 7–11&nbsp;mm in diameter at the apex and 4–7&nbsp;mm at the base. It is central, solid or slightly stuffed, with longitudinal fibrils. The stem is white to dingy white, with a distinctive bright yellow colouration at the base, and readily blackens when handled. Numerous small glandular dots are present on the stem, initially reddish-brown but blackening with age. The flesh is white to brownish-white in the upper portion, slowly turning reddish when exposed to air, and yellow towards the base. The basal [[mycelium]] is yellow.<ref name="Mcnabb 1970"/>
+
+The [[spore print]] is dark grey, appearing black when deposited thickly. The spores are dark melleous (honey-coloured) to dark brown, subfusiform (somewhat spindle-shaped) with a slight depression or flattening in the suprahilar region (above the [[hilum (botany)|hilum]]), and measure 17.5–23.5 by 6.5–8&nbsp;μm. They have slightly thickened walls, are smooth, and lack a [[germ pore]].<ref name="Mcnabb 1970"/>
+
+When treated with chemical reagents, the [[trama (mycology)|context]] (flesh) of the fungus turns dull greyish-green with [[ferrous sulphate]] (FeSO<sub>4</sub>) and rose pink darkening to brick red with ammonium hydroxide (NH<sub>4</sub>OH). The fungus has a mild taste.<ref name="Mcnabb 1970"/>
+
+==Habitat and distribution==
+{{Mycomorphbox
+| name = ''{{PAGENAME}}''{{italic title}}
+| hymeniumType = gills
+| capShape = convex
+| whichGills = adnate
+| stipeCharacter = bare
+| sporePrintColor = olive
+| sporePrintColor2 = black
+| ecologicalType = parasitic
+| howEdible = not recommended
+| howEdible2 = unpalatable
+}}
+''Gomphidius maculatus'' has a wide distribution in the northern hemisphere, where it forms [[mycorrhiza]]l associations with [[larch]] trees. It has also been [[introduced species|introduced]] to new Zealand.<ref name="Mcnabb 1970"/>
+
+==References==
+{{Reflist|refs=
+
+<ref name="Mcnabb 1970">{{cite journal |last=McNabb |first=R.F.R. |title=A record of ''Gomphidius maculatus'' (Agaricales) in New Zealand |journal=New Zealand Journal of Botany |volume=8 |issue=3 |pages =320–325 |year=1970 |doi=10.1080/0028825X.1970.10429132|bibcode=1970NZJB....8..320M }}</ref>
+
+<ref name="Miller 2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=219|author-link1=Orson K. Miller Jr.}}</ref>
+
+<ref name="Pacioni 1981">{{cite book |last1=Pacioni |first1=G. |last2=Lincoff |first2=G.H. |title=Simon & Schuster's Guide to Mushrooms |url=https://books.google.com/books?id=LydcGycgWZ0C&pg=PA233 |year=1981 |publisher=Simon and Schuster |isbn=978-0-671-42849-5 |page=233}}</ref>
+
+<ref name="Species Fungorum synonymy: Gomphidius maculatus">{{cite web |title=GSD Species Synonymy: ''Gomphidius maculatus'' (Scop.) Fr. |url=https://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=209063 |publisher=[[Species Fungorum]] |accessdate=21 April 2021}}</ref>
+
+}}
+
+{{Taxonbar|from=Q129556}}
+
+[[Category:Boletales]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1772]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of New Zealand]]
+[[Category:Fungus species]]

@@ -1,0 +1,58 @@
+{{short description|Species of fungus}}
+{{speciesbox
+| image = Pseudohydnum gelatinosum Abernethy Forest.jpg
+| image_caption = ''Pseudohydnum gelatinosum'', [[Abernethy Forest]], [[Scotland]]
+| taxon = Pseudohydnum gelatinosum
+| authority = ([[Giovanni Antonio Scopoli|Scop.]]) [[P.Karst.]] (1868)
+| synonyms = *''Hydnum gelatinosum'' <small>Scop. (1772)</small>
+}}
+
+{{ mycomorphbox
+| name            = Pseudohydnum gelatinosum
+| hymeniumType    = teeth
+| capShape        = no
+| ecologicalType  = saprotrophic
+| howEdible       = edible
+}}
+
+'''''Pseudohydnum gelatinosum''''', commonly known as the '''toothed jelly fungus''', '''cat's tongue''', or '''jelly tooth''',<ref name="BMS" /> is a species of [[fungus]] in the order [[Auriculariales]]. Its common names refer to its [[gelatinous]] consistency and [[hydnoid]] (toothed) undersurface. Found in Eurasia and North America, the mushroom is [[Edible mushroom|edible]].
+
+== Description ==
+The gelatinous fruit bodies are whitish to light grayish or tan, {{Convert|2-7|cm|abbr=off|frac=4}} wide and tall, with teeth up to {{Convert|3|mm|frac=16}} long.<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/671/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, California |pages=671 |orig-date=1979}}</ref> The [[spore print]] is white.<ref name=":02">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=108}}</ref> It has little to no flavour.<ref name="Arora1986" />
+
+== Taxonomy ==
+A [[subspecies]], ''Pseudohydnum gelatinosum'' ssp. ''pusillum'', is found in [[North America]].<ref name="Spirin 2023" /> It is the only toothed jelly fungus known in the region.<ref name=":02" />
+
+== Distribution and habitat ==
+The species was thought to be [[Cosmopolitan distribution|cosmopolitan]], but recent [[DNA]] evidence suggests that it is confined to Europe and [[northern Asia]], with superficially similar (but distinct) [[taxa]] elsewhere.<ref name="Zhou 2022" /> ''P.&nbsp;gelatinosum'' grows on dead [[conifer]] wood.<ref name="Roberts 2011" />
+
+The North American species can be found near both coasts, between November– February on the west and July–September in other places.<ref name=":02" /> Western specimens usually have a distinct vertical stalk compared to those in the east.<ref name="Arora1986" />
+
+== Uses ==
+The jelly tooth is [[Edible mushroom|edible]], even raw, although can benefit from [[marination]].<ref name="Arora1986" /><ref>{{Cite journal |last1=Stoyneva-Gärtner |first1=M. P. |last2=Uzunov |first2=B. A. |last3=Dimitrova |first3=P. |date=June 15, 2017 |title=Jelly-like algae and fungi used as food in Bulgaria |journal=International Journal of Nutrition and Health Sciences |volume=2 |issue=1 |pages=6–9}}</ref> It is consumed as a [[wild food]] in parts of [[Bulgaria]], [[Russia]], and [[Siberia]].<ref name="Boa 2004" />
+
+==References==
+{{Reflist|refs=
+
+<ref name="BMS">{{cite web |author=Holden L. |url=https://www.britmycolsoc.org.uk/resources/english-names/ |title=English names for fungi 2022 |date=April 2022 |publisher=[[British Mycological Society]] |accessdate=2022-12-06}}</ref>
+
+<ref name="Zhou 2022">{{cite journal | author=Zhou H, Liu H, Gates GM, Wu F, Dai Y, Cooper JA. | year=2022 | title=Phylogeny and diversity of the genus ''Pseudohydnum'' (Auriculariales, Basidiomycota) | journal=Journal of Fungi | volume=8 | issue=7 | page=658 |doi=10.3390/jof8070658| pmid=35887415 | pmc=9325116 | doi-access=free }}</ref>
+
+<ref name="Roberts 2011">{{cite book |vauthors=Roberts P, Evans S |title=The Book of Fungi |year=2011 |publisher=University of Chicago Press |location=Chicago, Illinois |page=453 |isbn=978-0-226-72117-0}}</ref>
+
+<ref name="Boa 2004">{{cite book |author=Boa ER. |title=Wild Edible Fungi: A Global Overview of Their Use and Importance to People |url=https://books.google.com/books?id=Zd2NlcNZgvcC&pg=PA138 |year=2004 |publisher=Food & Agriculture Organization |isbn=978-92-5-105157-3 |page=138}}</ref>
+
+<ref name="Spirin 2023">{{cite journal | author=Spirin V, Malysheva V, Viner I, Dudka V, Grebenc T, Miettinen O | year=2023 | title=Taxonomy and multigene phylogeny of ''Pseudohydnum'' (Auriculariales, Basidiomycota) | journal=Mycological Progress | volume=22 | issue=6 |doi=10.1007/s11557-023-01895-4| doi-access=free | hdl=20.500.12556/DiRROS-16576-b511a502-e6f0-911f-ba59-34147b859cbc | hdl-access=free }}</ref>
+}}
+
+{{Taxonbar|from=Q206711}}
+
+
+[[Category:Auriculariales]]
+[[Category:Fungi described in 1772]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Taxa named by Giovanni Antonio Scopoli]]
+[[Category:Fungus species]]
+
+{{Agaricomycotina-stub}}

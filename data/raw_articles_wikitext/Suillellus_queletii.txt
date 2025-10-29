@@ -1,0 +1,76 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = 2010-08-09 Boletus queletii Schulzer 97433.jpg
+| genus = Suillellus
+| species = queletii
+| authority = ([[Stephan Schulzer von Müggenburg|Schulzer]]) Vizzini, Simonini & Gelardi (2014)
+| synonyms_ref = <ref name="urlFungorum synonymy: Suillellus queletii"/>
+| synonyms =
+*''Boletus queletii'' <small>Schulzer (1885)</small>
+*''Versipellis queletii'' <small>(Schulzer) [[Quél.]] (1886)</small>
+*''Dictyopus queletii'' <small>(Schulzer) Quél.</small>
+*''Tubiporus queletii'' <small>(Schulzer) [[Rene Maire|Maire]] (1937)</small>  
+}}
+{{ mycomorphbox
+| name            = Suillellus queletii
+| hymeniumType    = pores
+| capShape        = convex
+| whichGills      = adnexed
+| stipeCharacter  = bare
+| ecologicalType  = mycorrhizal
+| howEdible       = edible
+| howEdible2      = caution
+}}
+
+'''''Suillellus queletii''''' (formerly '''''Boletus queletii'''''), commonly known as  the '''deceiving bolete''', is an uncommon, [[edible mushroom]] in the genus ''[[Suillellus]]''.
+
+==Naming==
+Originally [[species description|described]] by [[Stephan Schulzer von Müggenburg]] in 1885 as a species of ''[[Boletus]]'', the fungus was transferred to ''[[Suillellus]]'' in 2014.  The epithet ''queletii'' was given in honour of [[Lucien Quélet]].<ref name="Schulzer 1885"/><ref name="Vizzini 2014"/>
+
+In 1796 [[Christiaan Hendrik Persoon]] described a type of [[bolete]] under the name ''Boletus erythropus'' and in the next 200 years the same name was widely used for a well-known species having red pores.  But recently it was discovered that Persoon's mushroom had orange pores, that usage of the name ''B. erythropus'' was invalid, and now the red-pored species (after a separate change to the [[genus]] too) has to be called ''[[Neoboletus luridiformis]])''.  It is best not to use the ambiguous name ''Boletus erythropus'' any more, but according to Funga Nordica the fungus described by Persoon was actually ''Suillellus queletii''.<ref name="FungaNordica"/><ref name=SF/><ref name=SF3/>
+
+==Description==
+The [[pileus (mycology)|cap]] is hemispherical, latter flattening out, appearing olive to reddish-brown, rarely also dark red.  The [[trama (mycology)|flesh]] is yellow, turning blue when cut.  The pores are initially yellow, soon become orange, and finally can be reddish.<ref name=Eyssartier/>  The [[stipe (mycology)|stipe]] is smooth and golden yellow and the flesh has a slightly acrid taste.<ref name="Garnweidner 1994"/>
+
+The [[spore]] powder is olive and under the microscope the spores appear somewhat spindle-shaped and measure about 10-14&nbsp;μm × 5-7&nbsp;μm.<ref name=Eyssartier/><ref name="FungaNordica"/>
+
+==Distribution and habitat==
+This [[mycorrhizal]] mushroom can be found in [[deciduous forest]], at lower altitudes, under [[beech]], [[oak]] or [[hazel]]. <ref name=Eyssartier/><ref name="FungaNordica"/>
+
+It is uncommon in Europe and considered [[endangered species|endangered]] in the Czech Republic.<ref name="Mikšik 2012"/>  In Asia, it has been recorded in Taiwan.<ref name="Yeh 1980"/>
+
+==References==
+{{Reflist|refs=
+
+<ref name=Eyssartier>{{cite book |author1=Eyssartier, G.  |author2=Roux, P. |title=Le guide des champignons France et Europe |language=French |publisher=Belin |year=2013 |page=98 |isbn=978-2-7011-8289-6 }} </ref>
+
+<ref name="FungaNordica"> {{cite book |editor-first1=Thomas |editor-last1=Knudsen |editor-first2=J. |editor-last2=Vesterholt |title=Funga Nordica Agaricoid, boletoid, clavarioid, cyphelloid and gasteroid genera |publisher=Nordsvamp |location=Copenhagen |year=2018 |page=218 |isbn=978-87-983961-3-0 }}</ref>
+
+<ref name="Garnweidner 1994">{{cite book |author=Garnweidner E. |title=Mushrooms and Toadstools of Britain and Europe |year=1994 |publisher=Collins}}</ref>
+
+<ref name="Mikšik 2012">{{cite journal |author=Mikšik M. |title=Rare and protected species of boletes of the Czech Republic |journal=Field Mycology |year=2012 |volume=13 |issue=1 |pages=8–16 |doi=10.1016/j.fldmyc.2011.12.003|doi-access=free }}</ref>
+
+<ref name="Schulzer 1885">{{cite journal |author=Schulzer S. |title=Einige neue Pilz-Species und Varietäten aus Slavonien |journal=Hedwidia |year=1885 |volume=24 |issue=4 |pages=129–151 (see p.&nbsp;143) |language=German}}</ref>
+
+<ref name=SF>{{cite web |url=http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=550748 |title=the ''Suillellus queletii'' page |work=Species Fungorum |publisher=Royal Botanic Gardens Kew |access-date=2020-05-29 }}  </ref>
+
+<ref name=SF3>Species Fungorum actually has a page for an 1801 use of the name ''Boletus erythropus'' for ''Suillellus queletii'', see {{cite web |url=http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=476845 |title=''Boletus erythropus'' sensu Persoon ... |work=Species Fungorum |publisher=Royal Botanic Gardens Kew |access-date=2020-05-31 }}  </ref>
+
+<ref name="urlFungorum synonymy: Suillellus queletii">{{cite web |title=GSD Species Synonymy: ''Suillellus queletii'' (Schulzer) Vizzini, Simonini & Gelardi |url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=550748 |publisher=Species Fungorum. CAB International |access-date=2014-11-24}}</ref>
+
+<ref name="Vizzini 2014">{{cite journal |author=Vizzini A. |title=Nomenclatural novelties |year=2014 |issue=188 |page=1 |issn=2049-2375 |url=http://www.indexfungorum.org/Publications/Index%20Fungorum%20no.188.pdf |journal=Index Fungorum }}</ref>
+
+<ref name="Yeh 1980">{{cite journal |author=Yeh K-W, Chen Z-C. |title=The boletes of Taiwan |journal=Taiwania |year=1980 |volume=25 |issue=1 |pages=166–184 |url=http://tai2.ntu.edu.tw/taiwania/pdf/tai.1980.25.166.pdf}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|550748}}
+
+{{Taxonbar|from=Q26203737}}
+
+[[Category:Suillellus|queletii]]
+[[Category:Fungi described in 1885]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungus species]]

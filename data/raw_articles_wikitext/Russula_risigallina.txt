@@ -1,0 +1,44 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = 2012-06-15 Russula risigallina (Batsch) Saccardo 228083.jpg
+| genus = Russula
+| species = risigallina
+| authority = ([[August Batsch|Batsch]]) [[Sacc.]] (1915)
+| synonyms = {{hidden begin|title = List}}
+* ''Agaricus chamaeleontinus'' <small>Lasch (1828)</small>
+* ''Agaricus luteus'' <small>Huds. (1778)</small>
+* ''Agaricus ochraceus'' <small>Alb. & Schwein. (1805)</small>
+* ''Agaricus risigallinus'' <small>Batsch (1786)</small>
+* ''Agaricus vitellinus'' <small>Pers. (1801)</small>
+* ''Russula acetolens'' <small>Rauschert (1989)</small>
+* ''Russula armeniaca'' <small>Cooke (1888)</small>
+* ''Russula chamaeleontina'' <small>(Lasch) Fr. (1838)</small>
+* ''Russula lutea'' <small>(Huds.) Gray (1821)</small>
+* ''Russula luteorosella'' <small>Britzelm. (1879)</small>
+* ''Russula ochracea'' <small>Fr. (1838)</small>
+* ''Russula vitellina'' <small>Gray (1821)</small>
+* ''Russulina chamaeleontina'' <small>(Lasch) F. Kauffman (1909)</small>
+* ''Russulina lutea'' <small>(Huds.) J. Schröt. (1889)</small>
+* ''Russulina ochracea'' <small>(Fr.) J. Schröt. (1889)</small>
+* ''Russulina singeriana'' <small>Bon (1986)</small>
+* ''Russulina vitellina'' <small>(Gray) J. Schröt. (1889)</small>
+{{hidden end}}
+}}
+
+'''''Russula risigallina''''' is a species of [[mushroom]]. It was previously known as ''R.&nbsp;chamaeleontina''. It is a small yellow russula that is [[edible mushroom|edible]] and good-tasting, although identifying the species correctly can be difficult.
+This mushroom can be found in various countries throughout [[Europe]].<ref>{{Cite web|url=http://www.eol.org/pages/997390|title = Russula risigallina (Batsch) Sacc. 1915 - Encyclopedia of Life}}</ref>
+
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q1586855|from2=Q5222750|from3=Q108332286}}
+
+[[Category:Russula|risigallina]]
+[[Category:Fungi described in 1786]]
+[[Category:Fungi of Europe]]
+[[Category:Edible fungi]]
+[[Category:Fungus species]]
+
+
+{{Russulales-stub}}

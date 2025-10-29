@@ -1,0 +1,32 @@
+{{Short description|Species of fungus}}
+{{single source|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption =
+| taxon = Gymnopilus dulongjiangensis
+| authority = [[Mu Zang|M.Zang]] (1987)
+}}
+
+'''''Gymnopilus dulongjiangensis''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]]. Found in China, it was [[species description|described]] as new to science in 1987 by [[Mu Zang]].<ref name="Zang 1987"/>
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Zang 1987">{{cite journal |author=Zang M. |title=Some new and noteworthy higher fungi from eastern Himalayas |journal=Acta Botanica Yunnanica |year=1987 |volume=9 |issue=1 |pages=81–88}}</ref>
+
+}}
+
+{{Taxonbar|from=Q5624778}}
+
+[[Category:Fungi described in 1987]]
+[[Category:Fungi of China]]
+[[Category:Gymnopilus|dulongjiangensis]]
+[[Category:Fungus species]]
+[[Category:Taxa named by Mu Zang]]
+
+
+{{hymenogastraceae-stub}}

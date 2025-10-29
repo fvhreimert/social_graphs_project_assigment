@@ -1,0 +1,48 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = 2015-08-19 Amanita hemibapha (Berk. & Broome) Sacc 591749.jpg
+| taxon = Amanita hemibapha
+| authority = ([[Miles Joseph Berkeley|Berk.]] & [[Christopher Edmund Broome|Broome]]) [[Pier Andrea Saccardo|Sacc.]]
+| synonyms = ''Agaricus hemibaphus'' <small>Berk. & Broome</small>
+}}
+{{mycomorphbox
+| name = ''Amanita hemibapha''
+| whichGills = free
+| capShape = convex
+| capShape2 = flat
+| hymeniumType=gills
+| stipeCharacter=ring and volva
+| ecologicalType=mycorrhizal
+| sporePrintColor=white
+| howEdible=choice}}
+
+'''''Amanita hemibapha''''', commonly known as the '''half-dyed slender Caesar''', is a species of [[agaric]] found in [[southeast Asia]] and [[Oceania]],<ref>{{cite journal |vauthors =Vrinda KB, Pradeep CK, Kumar SS |year=2005 |title=Occurrence of a lesser known edible ''Amanita'' in the western ghats of Kerala |journal=Mushroom Research |volume=14 |issue=1 |pages=5–8}}</ref> although some distribution reports may refer to different taxa.<ref>{{cite web |url=http://eticomm.net/~ret/amanita/species/hemibaph.html |title=''Amanita hemibapha'' (Berk. & Broome) Sacc. |author =Tulloss R |work=Amanita studies |access-date=2010-02-12}}</ref>
+
+== Toxicity ==
+The variant ''Amanita hemibapha var. ochracea'' found in China has been reported to cause dizziness and nausea after eaten in large quantities. Thus, human consumption is generally not recommended.<ref>[http://www.kib.cas.cn/kxcb/kpwz/201107/P020110712612795462511.pdf 云南野生蘑菇中毒防治手册 2011.05]</ref> The species is also noted to be confusable with the lethally toxic ''[[Amanita subjunquillea]]''.
+
+== See also ==
+{{Portal|Fungi}}
+* [[List of Amanita species|List of ''Amanita'' species]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{Commons category}}
+* {{IndexFungorum|202755}}
+* {{MycoBank|202755}}
+
+{{Amanitas}}
+{{Taxonbar|from=Q1614992}}
+
+{{DEFAULTSORT:Amanita Hemibapha}}
+[[Category:Amanita|hemibapha]]
+[[Category:Fungi of Asia]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1887]]
+[[Category:Taxa named by Miles Joseph Berkeley]]
+[[Category:Taxa named by Christopher Edmund Broome]]
+[[Category:Fungus species]]
+
+{{Amanitaceae-stub}}

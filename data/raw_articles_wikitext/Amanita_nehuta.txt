@@ -1,0 +1,64 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{Speciesbox
+| image = Amanita nehuta 39675.jpg
+| image_caption =  From [[Auckland]], New Zealand
+| genus = Amanita
+| species = nehuta
+| authority = [[G.S.Ridl.]] (1991)
+| synonyms = 
+}}
+{{Mycomorphbox
+| name = ''Amanita nehuta''
+| whichGills = free
+| capShape = flat
+| capShape2 = convex
+| howEdible = unknown
+| hymeniumType = gills
+| stipeCharacter = volva
+| ecologicalType = mycorrhizal
+| sporePrintColor = white
+}}
+{{stack end}}
+
+'''''Amanita nehuta''''', also called '''Maori dust amanita''', is a species of [[fungus]] in the family [[Amanitaceae]].It has only a dark ring rather than a universal veil and white spores. Abundant in [[New Zealand]], it can be found growing under ''[[Leptospermum]]'' and ''[[Nothofagus]]'' species.
+
+==Taxonomy==
+The species was first described by New Zealand mycologist [[Geoff Ridley]] in 1991.
+
+==Description==
+{{multiple image
+   | align     = left
+   | width     = 100
+   | footer    = Closer view of the [[Lamella (mycology)|gills]] (left) and spores (right) of ''Amanita nehuta''
+   | image1    = Amanita nehuta 45430.jpg
+   | alt1      = Gills of ''Amanita nehuta''
+   | image2    = Amanita nehuta 39820.jpg
+   | alt2      = Spores of ''Amanita nehuta''
+  }}
+Growing on the ground usually in late summer, the cap is {{Convert|2.5-6.5|cm|abbr=off|frac=2}} wide, plano-convex to plano-depressed, buff, non-viscid, with a striate margin. The volval remnants are pulverulent on the center raised into wart-like peaksor warts or radial ridges, colored pale sepia. Gills are crowded and free, measure {{Convert|6–7|mm|abbr=out|frac=32}} wide, and appear white to pale buff. The short gills are subtruncate. Its [[Stipe (mycology)|stipe]] is 20–75 × 4–11&nbsp;mm, [[hollow (mycology)|hollow]], exannulate, with a smooth to subfloccose upper stem and smooth lower stem. The surface is white, pale buff, or very pale grayish sepia in color like the cap. The basal bulb is clavate to bulbous, 10–16&nbsp;mm in diameter. The base has a rim or band of powdery volva, the same color as on the cap. The stem has no ring.<ref name="Tulloss1">{{cite web |last=Tulloss R. E. |title=Amanita nehuta |url=http://www.njcc.com/~ret/amanita/species/nehutAmanitahtml}}</ref>
+
+The spores measure 6.5–9 × 5.5–8 (-8.5) µm and are subglobose to broadly ellipsoid to ellipsoid and inamyloid. They are white in color. Clamps are absent at the bases of the [[basidia]]. The flesh is white, with a very pale area under the skin in the center.
+
+=== Similar species ===
+''Amanita nehuta'' is said to be similar to ''[[Amanita farinosa|A. farinosa]]'', ''[[Amanita obsita|A. obsita]]'', ''[[Amanita subvaginata|A. subvaginata]]'' and ''[[Amanita xerocybe|A. xerocybe]]''. All these species appear to have a cap surface that gelatinizes late in development so that the volva remains intimately connected to the cap skin well into maturity of the fruiting body. For this reason, the cap often remains powdery looking well into maturity.<ref name="Tulloss1" />
+
+==Distribution and habitat==
+
+This species was originally described from [[Wellington]], [[New Zealand]], associated with many types of ''[[Nothofagus]]'', ''[[Leptospermum]]'', and ''[[Kunzea]]''. It is also known from the South Island of New Zealand.<ref name="Tulloss1"/>
+
+==See also==
+*[[List of Amanita species|List of ''Amanita'' species]]
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==External links==
+*{{IndexFungorum|355193}}
+{{Amanitas}}
+{{Taxonbar|from=Q4739878}}
+
+[[Category:Amanita|nehuta]]
+[[Category:Fungi of New Zealand]]
+[[Category:Fungi described in 1991]]
+[[Category:Fungus species]]

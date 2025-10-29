@@ -1,0 +1,44 @@
+{{Short description|Species of fungus}}
+{{single source|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption =
+| taxon = Gymnopilus armillatus
+| authority = [[William Alphonso Murrill|Murrill]] (1940)
+}}
+{{mycomorphbox
+| name = Gymnopilus armillatus
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+
+'''''Gymnopilus armillatus''''' is a [[species]] of [[mushroom]]-forming [[fungus]] in the family [[Hymenogastraceae]].
+
+==Description==
+The [[pileus (mycology)|cap]] is {{convert|5|to|10|cm|in|1}} in diameter.<ref name="isbn0-945345-39-9">{{cite book |author=Hesler LR. |title=North American Species of ''Gymnopilus'' (Mycologia Memoir Series: No 3) |publisher=Lubrecht & Cramer Ltd |location=Knoxville, Tennessee |year=1969 |page=31 |isbn=0-945345-39-9}}</ref>
+
+==Habitat and distribution==
+''Gymnopilus armillatus'' has been found growing on the root of a living [[Liquidambar|sweetgum]] tree, in Florida in December.<ref name="isbn0-945345-39-9"/>
+
+==See also==
+{{Portal|Fungi}}
+* [[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q5624716}}
+
+[[Category:Gymnopilus|armillatus]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by William Alphonso Murrill]]
+[[Category:Fungus species]]
+
+
+{{Hymenogastraceae-stub}}

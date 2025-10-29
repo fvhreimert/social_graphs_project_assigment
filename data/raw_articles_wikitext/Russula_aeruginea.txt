@@ -1,0 +1,80 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = 2005-08-18 Russula aeruginea 14354 mod.jpg
+| status = G5
+| status_system = TNC
+| status_ref = <ref name=NS>{{cite NatureServe |id=2.881356 |title=''Russula aeruginea'' |access-date=20 May 2025}}</ref>
+| genus = Russula
+| species = aeruginea
+| authority = [[Elias Magnus Fries|Fr.]] (1863)
+}}
+{{Mycomorphbox
+| name = ''{{PAGENAME}}''{{italic title}}
+| hymeniumType = gills
+| capShape = convex
+| capShape2 = depressed
+| whichGills = adnexed
+| whichGills2 = adnate
+| stipeCharacter = bare
+| sporePrintColor = white
+| ecologicalType = mycorrhizal
+| howEdible = edible
+}}
+
+'''''Russula aeruginea''''', also known as the '''grass-green russula''', the '''tacky green russula''', or the '''green russula''', is an edible ''[[Russula]]'' mushroom. Widely distributed in northern [[temperate]] regions, it is usually found under [[birch]], mostly in pine forests.
+
+==Taxonomy==
+The species was first [[species description|described]] in [[Elias Magnus Fries]]'s 1863 work ''Monographia Hymenomycetum Sueciae''.<ref name="urlMycoBank"/> The [[botanical name|specific epithet]] ''aeruginea'' is derived from the [[Latin]] ''aeruginus'', referring to the tarnished color of [[copper]].<ref name="Evenson 1997"/> It is commonly known variously as the "tacky green Russula",<ref name="Laessoe 2002"/> the "grass-green Russula",<ref name="Garnweidner 1994"/> or the "green Russula".<ref name="Arora 1986"/>
+
+==Description==
+The [[pileus (mycology)|cap]] is flat when young, soon funnel shaped and weakly striped; somewhat sticky and shiny, pale green to light grey-green, more rarely olive green. It is often {{convert|4 to 10|cm|abbr=on}} in diameter. The closely spaced [[lamella (mycology)|gills]] are pale cream when young, later becoming light yellow when the spores mature. The [[stipe (mycology)|stipe]] is white, occasionally with rust-coloured spots at the base, often rather short with longitudinal furrows. It measures {{convert|5–8|cm|1|abbr=on}} long by {{convert|1–2|cm|1|abbr=on}} thick.<ref name="Courtecuisse 1999"/> The [[trama (mycology)|flesh]] is white, brittle and without scent, with a mild taste.<ref name="Garnweidner 1994"/>
+
+The [[spore print]] is cream-yellow. The [[Basidiospore|spores]] are spherical to oval with ridges and warts on the surface, and measure 6–8 by 6–7&nbsp;[[μm]].<ref name="Evenson 1997"/>
+
+===Similar species===
+The very poisonous [[death cap]] can have a similar appearance, especially from above.{{citation needed|date=May 2025}}
+
+Green specimens of [[Russula xerampelina|''R.&nbsp;xerampelina'']] (the crab brittlegill) are similar,<ref name="Nilper 1977"/> but always smell of cooked shellfish.<ref name="Garnweidner 1994"/> ''[[Russula grisea|R.&nbsp;grisea]]'' and ''[[Russula parazurea|R.&nbsp;parazurea]]'' are also similar.<ref name="Arora 1986" />
+
+==Habitat and distribution==
+The fruit bodies grow on the ground in woods, in troops in leaf litter or in grass. It is [[ectomycorrhiza]]l with [[birch]], but also with found under conifers, particularly [[pine]] and [[spruce]].<ref name="Laessoe 2002" /> It is widely distributed in northern [[temperate]] zones. Fruiting occurs from July to November in Europe,<ref name="Courtecuisse 1999" /> and in later summer to autumn in North America.<ref name="Evenson 1997" /> The fungus is also found in East Africa.<ref name="Dugan 2011" />
+
+==Uses==
+The mushrooms are [[edible mushroom|edible]].<ref name="Arora 1986"/>
+
+==See also==
+*[[List of Russula species|List of ''Russula'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Arora 1986">{{cite book |author=Arora D. |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=Ten Speed Press |location=Berkeley, USA |year=1986 |pages=95|isbn=0-89815-169-4 |url-access=registration |url=https://archive.org/details/mushroomsdemysti00aror_0/page/95 }}</ref>
+
+<ref name="Courtecuisse 1999">{{cite book |author=Courtecuisse R. |year=1999 |title=Mushrooms of Britain and Europe |series=Collins Wildlife Trust Guides |location=London, UK |publisher=Harpercollins |pages=715–6 |isbn=978-0-00-220012-7}}</ref>
+
+<ref name="Dugan 2011">{{cite book |author=Dugan FM. |title=Conspectus of World Ethnomycology |year=2011 |publisher=American Phytopathological Society |location=St. Paul, Minnesota |isbn=978-0-89054-395-5 |page=68}}</ref>
+
+<ref name="Evenson 1997">{{cite book |author=Evenson VS. |title=Mushrooms of Colorado and the Southern Rocky Mountains |url=https://books.google.com/books?id=EAeDeyqZLq0C&pg=PA71 |year=1997 |publisher=Big Earth Publishing |isbn=978-1-56579-192-3 |page=71}}</ref>
+
+<ref name="Garnweidner 1994">{{cite book |author=Garnweidner E. |title=Mushrooms and Toadstools of Britain and Europe |publisher=Collins |year=1994}}</ref>
+
+<ref name="Laessoe 2002">{{cite book |author=Laessoe T. |year=2002 |title=Mushrooms |location=London |publisher=Dorling Kindersley Adult |edition=2nd |series=Smithsonian Handbooks |isbn=978-0-7894-8986-9 |page=186}}</ref>
+
+<ref name="Nilper 1977">{{cite book |vauthors=Nilson S, Persson O |year=1977 |title=Fungi of Northern Europe 2: Gill-Fungi |publisher=Penguin |isbn=0-14-063006-6 |page=122}}</ref>
+
+<ref name="urlMycoBank">{{cite web |title=''Russula aeruginea'' Lindblad, Monographia Hymenomycetum Sueciae 2: 198 (1863) |url=http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=122898&Fields=All |publisher=[[MycoBank]]. International Mycological Association |accessdate=2013-12-07}}</ref>
+
+}}
+
+==External links==
+* {{Commons-inline|Russula aeruginea}}
+
+{{Taxonbar|from=Q1323740}}
+
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1863]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Russula|aeruginea]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]

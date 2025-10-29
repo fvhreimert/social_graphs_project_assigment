@@ -1,0 +1,68 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Jack o' Lantern Mushroom Fungus.png
+| genus = Omphalotus
+| species = illudens
+| authority = ([[Lewis David de Schweinitz|Schwein.]]) Bresinsky & Besl
+}}
+{{mycomorphbox 
+| name = ''Omphalotus illudens''
+| whichGills = decurrent 
+| capShape = infundibuliform 
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=saprotrophic
+| sporePrintColor=yellow
+| howEdible=poisonous
+}}
+
+'''''Omphalotus illudens''''', commonly known as the '''eastern jack-o'lantern mushroom''', is a North American species of fungus.
+
+== Description ==
+It forms a large, orange [[mushroom]]. The caps grow up to {{Convert|15|cm|frac=4}} wide. The gills are decurrent and the stem is up to 15&nbsp;cm long. The flesh is orange and the [[spore print]] is white to cream.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=476}}</ref>
+
+Its gills often exhibit a weak green [[bioluminescence]] when fresh. This green glow has been mentioned in several journal articles, which state that the phenomenon can persist up to 40–50 hours after the mushroom has been picked.<ref>{{cite journal |last1=Vanden Hoek |first1=Todd, L. |last2=Erickson |first2=Timothy |last3=Hryborczuk |first3=Daniel |last4=Narasimhan |first4=Kris |title=Jack O'Lantern Mushroom Poisoning |journal=Annals of Emergency Medicine |date=May 1991 |volume=20|issue=5|pages=559–561 |doi=10.1016/S0196-0644(05)81617-8|pmid=2024797 }}</ref>{{vn|date=March 2020}} It is believed that this display serves to attract insects to the mushroom's gills at night, which can then distribute its spores across a wider area.<ref>{{cite journal |last1=Oliveira |first1=Anderson, G. |last2=Stevani |first2=Cassius, V. |last3=Waldenmeier |first3=Hans, E. |last4=Viviani |first4=Vadim |last5=Emerson |first5=Jillian, M. |last6=Loros |first6=Jennifer, J. |last7=Dunlap |first7=Jay, C. |title=Circadian Control Sheds Light on Fungal Bioluminescence |journal=Current Biology |date=March 2015 |volume=25 |issue=7 |pages=964–8 |doi=10.1016/j.cub.2015.02.021|pmid=25802150 |pmc=4382382 |doi-access=free}}</ref>
+
+=== Similar species ===
+''Omphalotus'' ''lludens'' is replaced by [[Omphalotus subilludens|''O.&nbsp;subilludens'']] on the [[Gulf Coast]], and [[Omphalotus olivascens|''O.&nbsp;olivascens'']] is found in California.<ref name="audu" /> ''[[Armillaria tabescens]]'' forms small, dull orange caps.<ref name="audu" />
+
+''Omphalotus illudens'' is sometimes confused with edible [[chanterelle]]s, but can be distinguished by its thicker, fleshier appearance, tendency to form large clusters, and clearly separated caps when young. Unlike chanterelles, ''O.&nbsp;illudens'' is poisonous to humans when eaten, whether raw or cooked. Although some older literature claims the name is [[synonym (taxonomy)|synonymous]] with [[Omphalotus olearius|''O.&nbsp;olearius'']], [[phylogenetic]] analysis confirms the two as distinct species.<ref name="Kirchmair2004" />
+
+== Habitat and distribution ==
+''Omphalotus illudens'' is often found in clumps on decaying stumps, buried roots, or at the base of hardwood trees in eastern North America (June–November).<ref name="audu" />
+
+==Toxicity==
+The poisonous chemical compounds [[illudin]]&nbsp;S and illudin&nbsp;M were isolated from ''O.&nbsp;illudens''.<ref name="Anchel 1950">{{cite journal|author=Anchel, M.|author2=Herbey, A.|author3=Robbins, W.J. |title=Antibiotic Substances from Basidiomycetes: VII. Clitocybe illudens |year=1950 |journal=Proceedings of the National Academy of Sciences of the United States of America|volume=36 |issue=5 |pages=300–305  |doi=10.1073/pnas.36.5.300|pmc=1063187 |pmid=15417544|bibcode=1950PNAS...36..300A|doi-access=free}}</ref><ref>{{ cite journal | title = Structure-Activity Relationship of Illudins : Analogs with Improved Therapeutic Index |author1=McMorris, T. C. |author2=Kelner, M. J. |author3=Wang, W. |author4=Estes, L. A. |author5=Montoya, M. A. |author6=Taetle, R. | year = 1992 | journal = [[Journal of Organic Chemistry]] | volume = 57 | issue = 25 | pages = 6876–6883 | doi = 10.1021/jo00051a037 }}</ref> In addition to their antibacterial and antifungal effects, illudins appear to be the cause of human toxicity when these mushrooms are eaten raw or cooked, causing vomiting, cramps, and diarrhea. [[Muscarine]] has also been indirectly implicated in toxicity,<ref name=Clark1913/> but modern studies to demonstrate its presence in ''O.&nbsp;illudens'' are needed.
+
+The [[cytotoxicity|cytotoxic]] effect of illudin is of interest for treating some cancers, but illudin itself is too poisonous to use directly so it must first be chemically modified. Inside human cells, illudin&nbsp;S reacts with DNA and creates a type of DNA damage that blocks [[Transcription (genetics)|transcription]]. This block can only be relieved by a repair system called [[nucleotide excision repair]]. Damage in non-transcribed DNA areas is left unrepaired by the cell. This property was exploited by the company [[MGI Pharma]] to develop an illudin-derivative called [[Irofulven]] for use as a cancer treatment. Its application is still in the experimental phase.{{Citation needed|date=September 2015}}<ref>National Center for Biotechnology Information. "PubChem Compound Summary for CID 148189, Irofulven" ''PubChem'', https://pubchem.ncbi.nlm.nih.gov/compound/Irofulven . Accessed 16 October, 2020.</ref>
+
+==Gallery==
+<gallery>
+File:2007-08-05 Omphalotus illudens (Schwein.) Bresinsky & Besl 1018098506.jpg|Close-up
+File:2011-12-20 Omphalotus illudens (Schwein.) Bresinsky & Besl 190464.jpg|Underside
+File:Jack o' Lantern Mushroom Fungus.png|Cluster with U.S. quarter for size reference
+File:081224 Jack O' Lantern NC.jpg|Displaying bioluminescence
+File:Glowing Jacks.png|In light and darkness
+File:Jack o' Lantern Mushroom Fungus Clusters.png|Clusters growing at the base of an oak tree
+File:2012-09-25 Omphalotus illudens (Schwein.) Bresinsky & Besl 270109.jpg|Growing near trunk
+File:2012-08-12 Omphalotus illudens (Schwein.) Bresinsky & Besl 248346.jpg|Specimens
+File:Omphalotus illudens (Schwein.) Bresinsky & Besl 268693.jpg|Clusters
+</gallery>
+
+==See also==
+*[[List of bioluminescent fungi]]
+
+==References==
+{{Reflist|refs=
+
+<ref name=Kirchmair2004>{{cite journal |doi=10.2307/3762142 |vauthors=Kirchmair M, Morandell S, Stolz D, Pöder R, Sturmbauer C |year=2004 |title=Phylogeny of the genus ''Omphalotus'' based on nuclear ribosomal DNA-sequences |journal=Mycologia |volume=96 |issue=6 |pages=1253–60 |url=http://www.mycologia.org/cgi/reprint/96/6/1253.pdf |accessdate=2010-05-26 |jstor=3762142 |pmid=21148949}}</ref>
+<ref name=Clark1913>{{cite journal |author1=Clark, Ernest D. |author2=Smith, Clayton S. |year=1913 |title=Toxicological Studies on the Mushrooms Clitocybe illudens and Inocybe infida |journal=Mycologia |volume=5 |issue=4 |pages=224–232 |jstor=3753387 |doi=10.2307/3753387}}</ref>
+
+}}
+
+{{Taxonbar|from=Q7090729}}
+
+[[Category:Bioluminescent fungi]]
+[[Category:Omphalotus|illudens]]
+[[Category:Poisonous fungi]]
+[[Category:Fungus species]]

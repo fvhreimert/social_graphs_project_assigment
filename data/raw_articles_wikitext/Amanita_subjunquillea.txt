@@ -1,0 +1,63 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| name = East Asian Death cap
+| image = Tamagotakemodoi.jpg
+| image_alt = 
+| image_caption = 
+| status = 
+| status_system = 
+| status_ref = 
+| genus = Amanita
+| species = subjunquillea
+| authority = [[Sanshi Imai|S. Imai]] (1933)<ref name="Imai（1933）">Sanshi Imai (1933) Studies on the Agaricaceae of Japan I. Volvate Agarics in Hokkaido.The botanical magazine (Tokyo)(植物学雑誌) 47, p.423-432. {{doi|10.15281/jplantres1887.47.423}}</ref>
+| synonyms = 
+| synonyms_ref = 
+}}
+{{Mycomorphbox
+| name = ''Amanita subjunquillea''
+| whichGills = free
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=ring and volva
+| ecologicalType=mycorrhizal
+| sporePrintColor=white
+| howEdible=deadly
+}}
+
+'''''Amanita subjunquillea''''', also known as the '''East Asian death cap''' is a [[mushroom]] of the large genus ''[[Amanita]]'', which occurs in [[East Asia|East]] and [[Southeast Asia]]. Potentially deadly if ingested, it is closely related to the death cap ''[[Amanita phalloides|A. phalloides]]''.
+
+Initially little reported, the toxicity of ''A. subjunquillea'' has been well established; a study in [[Korea]] revealed it to have similar effects to ''A. phalloides'', namely delayed [[Gastrointestinal tract|gastrointestinal]] symptoms, [[hepatotoxicity]], and a 12.5% mortality.<ref>{{in lang|ko}}  Rho HJ, Kim JH, Kang HR, Lee MK, Hyun SH, Kang YM, Lee JM, Kim NS (2000)"Clinical manifestations of ''Amanita subjunquillea'' poisoning" ''Korean J Med''. '''58'''(4):453–461</ref> The species killed five people out of six who ingested them in [[Hebei]], [[China]], in 1994.<ref>[http://www.kib.cas.cn/kxcb/kpwz/201107/P020110712612795462511.pdf 云南野生蘑菇中毒防治手册 2011.05]</ref>
+
+An all-white variety, ''Amanita subjunquillea'' var. ''alba'' is known from southwestern China, [[Japan]], and Northern [[India]].
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Amanita species|List of ''Amanita'' species]]
+*[[List of deadly fungus species]]
+
+==References==
+{{Reflist}}
+
+== External links ==
+* [http://www.amanitaceae.org/ Amanitaceae.org]
+** [http://www.amanitaceae.org?Amanita+subjunquillea Amanitaceae.org > ''Amanita subjunquillea''] 
+** [http://www.amanitaceae.org?Amanita+subjunquillea+var.+alba Amanitaceae.org > ''Amanita subjunquillea'' var. ''alba'']
+* [https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000143395.html 自然毒のリスクプロファイル：タマゴタケモドキ（''Amanita subjunquillea'')　テングタケ科テングタケ属] (in Japanese) [[Ministry of Health, Labour and Welfare]]
+* [http://mushroomsindex.com/result0018.htm きのこ図鑑・撮れたてドットコム by 柳沢まきよし > タマゴタケモドキ] (in Japanese) Morphological images
+
+{{Amanitas}}
+{{Poisonous Amanitas}}
+{{Taxonbar|from=Q1615505}}
+
+{{DEFAULTSORT:Amanita Subjunquillea}}
+[[Category:Amanita|subjunquillea]]
+[[Category:Poisonous fungi]]
+[[Category:Deadly fungi]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of China]]
+[[Category:Fungi described in 1933]]
+[[Category:Taxa named by Sanshi Imai]]
+[[Category:Fungus species]]
+
+
+{{Amanitaceae-stub}}

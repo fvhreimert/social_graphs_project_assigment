@@ -1,0 +1,53 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Xerocomus armeniacus.jpg
+| genus = Rheubarbariboletus
+| species = armeniacus
+| authority = ([[Lucien Quélet|Quél.]])  Vizzini, Simonini & Gelardi (2015)
+| synonyms = *''Boletus armeniacus'' <small>Quél. (1885)</small>
+*''Xerocomus armeniacus'' <small>(Quél.) Quél. (1888)</small>
+*''Xerocomellus armeniacus'' <small>([[Lucien Quélet|Quél.]]) Šutara (2008)</small>
+}}
+
+'''''Rheubarbariboletus armeniacus''''' is a small mushroom in the family [[Boletaceae]] native to Europe. It was formerly placed in the genera ''[[Boletus]]'', ''[[Xerocomus]]'', and ''[[Xerocomellus]]''. It acquired its current name when it was transferred to genus ''[[Rheubarbariboletus]]'' in 2015.
+
+==Taxonomy==
+French naturalist [[Lucien Quélet]] described this species as ''Boletus armeniacus'' in 1885,<ref name="Quélet 1885"/> before placing it in the genus ''[[Xerocomus]]'' in his 1888 work ''Flore mycologique de la France et des pays limitrophes'' (''Mycological flora of France and neighbouring countries'').<ref name="Quélet 1888"/>
+
+It was transferred to the new genus ''[[Xerocomellus]]'' described by Czech mycologist Josef Šutara in 2008,<ref name="Šutara 2008"/> and then to ''[[Rheubarbariboletus]]'' in 2015.<ref name="Vizzini 2015"/>
+
+==Description==
+, [[Sardinia]], Italy]]
+The [[pileus (mycology)|cap]] is initially globular before expanding to become convex and flattening somewhat; it grows to a diameter of {{convert|2|–|6|cm|in|1|abbr=on|frac=8}}. The cap margin initially adheres to the stipe and has a tendency to become lobed or undulated in age. The cap surface is first somewhat [[pubescent (botany)|pubescent]] but later becomes smooth and hairless, and may develop cracks in age. Its color is orangish-[[apricot (color)|apricot]], aging to [[ochre]]. Tubes are initially pale yellow, but become more vivid in age, and eventually develop greenish-yellow to greenish-olive tones. They will become pale blue upon with bruising. The pores are circular or a bit angular, with the same coloring and bruising reaction as the tubes. The robust [[stipe (mycology)|stipe]] measures {{convert|3|–|8|cm|in|1|abbr=on|frac=8}} long by {{convert|0.5|–|1.5|cm|in|1|abbr=on|frac=8}} thick. It is usually thicker in the middle or lower region, and its base roots into the [[substrate (biology)|substrate]]. The top part of the stipe is yellow; under this the coloration tends to be masked by a dense and fine reticulation that becomes brown to brownish-crimson in age. In some specimens the stipe cuticle cracks and pointed patches lift from the surface. The [[trama (mycology)|flesh]] is pale yellow in the cap, with a narrow strip of pinkish-yellow under the [[cap cuticle|cuticle]]; in the stipe, the flesh is orange-ochre, with a reddish tint. The flesh sometimes shows a slight and temporary color change to blue when cut or otherwise injured, but this feature is not consistent. It has a pleasant odor and a fruity-acid taste.<ref name="Alessio 1985"/> The base of the stem has a green-blue reaction with iron salts (FeSO<sub>4</sub>).<ref name=":Collins2">{{Cite book |last=Buczacki |first=Stefan |title=Collins fungi guide |date=2012 |publisher=Collins |isbn=978-0-00-724290-0 |location=London |oclc=793683235}}</ref>
+
+[[Basidiospore|Spores]] are [[wikt:fusiform|fusiform]] (spindle shaped), measuring 10–15 by 4.5–6&nbsp;[[micrometre|μm]]. The [[basidia]] (spore-bearing cells) are club-shaped, four-spored, and contain internal oil droplets; they measure 28–35 by 9–12&nbsp;μm. The [[cystidia]] are fusiform, [[hyaline]] (translucent), and 40–55 by 9–12&nbsp;μm.<ref name="Alessio 1985"/>
+
+==Ecology==
+It has been recorded forming [[ectomycorrhiza]]l association with white poplar (''[[Populus alba]]'') in Hungary.<ref name="Jakucs 2002"/> Its ectomycorrhizae contain bright yellow [[biological pigment|pigments]], especially the [[rhizomorph]]s, and have warts on the outer surfaces of both the rhizomorphs and the mantle. The ectomycorrhizae of ''R.&nbsp;armeniacus'' cannot be reliably distinguished from those of ''[[Xerocomus subtomentosus]]''.<ref name="Palfner 1995"/>
+
+==References==
+{{Reflist|refs=
+
+<ref name="Alessio 1985">{{cite book |author=Alessio CL. |title=''Boletus'' Dill. ex L. (''sensu lato'') |year=1985 |publisher=Biella Giovanna |location=Saronno |pages=302–05 |language=Italian}}</ref>
+
+<ref name="Jakucs 2002">{{cite journal |author=Jakucs E. |title=Ectomycorrhizae of ''Populus alba'' L. in south Hungary |journal=Phyton (Horn, Austria) |year=2002 |volume=42 |issue=2 |pages=199–210 |url=http://www.landesmuseum.at/pdf_frei_remote/PHY_42_2_0199-0210.pdf}}</ref>
+
+<ref name="Palfner 1995">{{cite journal |author=Palfner G, Agerer R. |title=Sind die Ektomykorrhizen von ''Xerocomus subtomentosus'' und ''X.armeniacus'' anatomisch unterscheidbar?|trans-title=Are the ectomycorrhizae of ''Xerocomus subtomentosus'' and ''X. armeniacus'' anatomically distinguishable? |journal=Zeitschrift für Mykologie |year=1995 |volume=61 |pages=45–58 |issue=1 |language=German |url=http://www.dgfm-ev.de/sites/default/files/ZM611045Palfner.pdf }}</ref>
+
+<ref name="Quélet 1885">{{cite journal |author=Quélet L. |title=Comptes Rendus de l´Association Française pour l´Avancement des Sciences |year=1885 |volume=13 |pages=277–86 |language=French}}</ref>
+
+<ref name="Quélet 1888">{{cite book |author=Quélet L. |title=Flore mycologique de la France et des pays limitrophes |year=1888 |publisher=Octave Doin |location=Paris |page=419 |language=French}}</ref>
+
+<ref name="Šutara 2008">{{cite journal |author=Šutara J. |title=''Xerocomus'' s. l. in the light of the present state of knowledge |journal=Czech Mycology |year=2008 |volume=60 |issue=1 |pages=29–62 |doi=10.33585/cmy.60104 |url=http://web.natur.cuni.cz/cvsm/CM60104F.pdf}}</ref>
+
+<ref name="Vizzini 2015">{{cite journal |author=Vizzini A. |title=Nomenclatural novelties |journal=Index Fungorum |date=26 June 2015 |page=1 |issn=2049-2375 |url=http://www.indexfungorum.org/Publications/Index%20Fungorum%20no.244.pdf}}</ref>
+
+}}
+
+{{Taxonbar|from=Q54371403|from2=Q923521}}
+
+[[Category:Boletaceae]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi described in 1885]]
+[[Category:Taxa named by Lucien Quélet]]
+[[Category:Fungus species]]

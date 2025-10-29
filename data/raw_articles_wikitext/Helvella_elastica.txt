@@ -1,0 +1,83 @@
+{{Short description|Species of fungus}}
+{{For|other fungi with a similar name|elfin saddle}}
+{{Speciesbox
+| image = Helvella elastica.jpg
+| status = G4
+| status_system = TNC
+| status_ref = <ref name=NS>{{cite NatureServe |id=2.637164 |title=''Helvella elastica'' |access-date=26 May 2025}}</ref>
+| taxon = Helvella elastica
+| authority = [[Jean Baptiste François Pierre Bulliard|Bull.]] (1785)
+| synonyms = * ''Leptopodia elastica'' <small>(Bull.) [[Boud.]] (1907)</small>
+}}
+{{mycomorphbox
+| name = ''Helvella elastica''
+| whichGills = NA
+| capShape = convex
+| hymeniumType = smooth
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = white
+| howEdible = caution
+}}
+
+'''''Helvella elastica''''', commonly known as the '''flexible Helvella''',<ref name="Tylutki 1979" /> '''elastic saddle''',<ref name="urlRogers Mushrooms"/> or '''brown elfin saddle''',<ref name="Arora 1986" /> is a species of [[fungus]] in the family [[Helvellaceae]] of the order [[Pezizales]]. It has a roughly saddle-shaped yellow-brown [[pileus (mycology)|cap]] atop a whitish [[stipe (mycology)|stipe]]. It grows on soil in woods in Eurasia and North America. 
+
+== Description ==
+
+The [[ascocarp|fruit body]] of the fungus is grayish or olive-brown, saddle- or mitral-shaped (i.e., resembling a double [[mitre]]) and is attached only to the top of the stipe; it may be up to {{convert|3.5|cm|1|abbr=off|frac=4}} wide.<ref name=":1" /><ref name="Jordan 2004" /> The underside is white.<ref name=":0">{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=282–283|language=en}}</ref> The [[stipe (mycology)|stipe]] is white, solid or filled with loosely stuffed [[hypha]]e, has a smooth surface, and is up to {{convert|8|cm|1|abbr=on|frac=8}} long by {{convert|1|cm|1|abbr=on|frac=8}} thick.<ref name="Tylutki 1979"/> The [[trama (mycology)|flesh]] of ''H.&nbsp;elastica'' is brittle and thin. The odor and taste are indistinct.<ref name="Jordan 2004"/>
+
+===Microscopic characteristics===
+
+The [[Basidiospore|spores]] are oblong to elliptical in shape, translucent ([[hyaline]]), contain one central oil drop (''guttulate''), and have dimensions of 18–22 by 10–14&nbsp;[[μm]]; young spores have coarse surface warts, while older ones are smooth. The spore-bearing cells, the [[ascus|asci]], are 260 by 17–19&nbsp;μm. The [[paraphyses]] (sterile cells interspersed between the asci) are club-shaped, filled with oil drops, sometimes branched, and are 6–10&nbsp;μm at the apex.<ref name="Tylutki 1979"/>
+
+=== Similar species ===
+The closely related fungus ''[[Helvella albipes]]'' has a thicker stipe and a two- to four-lobed cap.<ref name="Tylutki 1979" /> ''[[Helvella compressa|H.&nbsp;compressa]]'' and ''[[Helvella latispora|H.&nbsp;latispora]]'' have cap edges that are curled upward, rather than inward as in ''H.&nbsp;elastica''.<ref name=":1">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=28}}</ref><ref name="urlme" /> ''[[Helvella maculata|H.&nbsp;maculata]]'' has a similar cap but a ribbed stem. ''[[Gyromitra infula]]'' has an orange and more defined cap.<ref name=":1" />
+
+== Habitat and distribution ==
+
+This fungus is typically found fruiting singly, scattered, or clustered together on the ground or on wood in [[conifer]]ous and [[deciduous]] woods.<ref name="McKnight 1987"/> It has been found in Europe,<ref name="Jordan 2004" /> Japan,<ref name="Nagao 2002"/> China,<ref name="Zhuang 2004"/> and western North America.<ref name="Orr 1979"/> It is present in summer and fall.<ref name=":0" />
+
+== Potential toxicity ==
+
+Consumption of this fungus is not recommended as similar species in the family [[Helvellaceae]] contain the toxin [[gyromitrin]].<ref name="Horgen 1985" />
+
+== Fibrinolytic activity ==
+
+A 2005 Korean study investigated the ability of extracts from 67 different mushroom species to perform [[fibrinolysis]], the process of breaking down [[blood clot]]s caused by the protein [[fibrin]]. ''H.&nbsp;elastica'' was one of seven species that had this ability; the activity of the extract was 60% of that of [[plasmin]], the [[scientific control|positive control]] used in the experiment.<ref name="Kim 2005"/>
+
+== References ==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Arora 1986">{{cite book |author=Arora D. |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/813/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, California |year=1986 |orig-date=1979 |edition=2nd |pages=813}}</ref>
+
+
+<ref name="Horgen 1985">{{cite book |vauthors=Horgen PA, Ammirati JF, Traquair JA |title=Poisonous Mushrooms of the Northern United States and Canada |publisher=University of Minnesota Press |location=Minneapolis, Minnesota |year=1985 |page=259 |isbn=0-8166-1407-5 |url=https://books.google.com/books?id=nhWbsGB7z4cC&pg=PA259}}</ref>
+
+<ref name="Jordan 2004">{{cite book |author=Jordan M. |title=The Encyclopedia of Fungi of Britain and Europe |publisher=Frances Lincoln |location=London, UK |year=2004 |page=52 |isbn=0-7112-2379-3 |url=https://books.google.com/books?id=ULhwByKCyEwC&pg=PA52}}</ref>
+
+<ref name="Kim 2005">{{cite journal |doi= 10.4489/KJM.2005.33.1.018 |vauthors=Kim JH, Yoo KH, Seok SJ, Kim YS |year=2005 |title=Screening of fibrinolytic activities of extracts from wild mushrooms collected in Mt. Chilgap of Korea |journal=Korean Journal of Mycology |volume=33 |issue=1 |pages=18–21|url=http://www.ndsl.kr/soc_img/society/mycology/GNHHDL/2005/v33n1/GNHHDL_2005_v33n1_18.pdf |doi-access=free }}</ref>
+
+<ref name="McKnight 1987">{{cite book |vauthors=McKnight VB, McKnight KH |title=A Field Guide to Mushrooms, North America |publisher=Houghton Mifflin |location=Boston, Massachusetts |year=1987 |page=45 |isbn=0-395-91090-0 |url=https://books.google.com/books?id=kSdA3V7Z9WcC&pg=PA45}}</ref>
+
+<ref name="Nagao 2002">{{cite journal |author=Nagao H. |year=2002 |title=Fungal flora in Chiba Pref., central Japan (III) Ascomycetes: Plectomycetes and Discomycetes |journal=Journal of the Natural History Museum and Institute Chiba  |volume=5 |pages=111–32 |language=ja}}</ref>
+
+<ref name="Orr 1979">{{cite book |author=Orr, Dorothy B |author2=Orr RT |title=Mushrooms of Western North America |publisher=University of California Press |location=Berkeley, California |year=1979 |page=30 |isbn=0-520-03656-5}}</ref>
+
+<ref name="Tylutki 1979">{{cite book |author=Tylutki EE |title=Mushrooms of Idaho and the Pacific Northwest |publisher=University Press of Idaho |location=Moscow, Idaho |year=1979 |page=76 |isbn=0-89301-062-6}}</ref>
+
+<ref name="urlme">{{cite web |url=http://www.mushroomexpert.com/helvella_elastica.html |title=''Helvella elastica'' |publisher=MushroomExpert.com |author=Kuo M. |date=August 2012 |access-date=2014-01-03}}</ref>
+
+<ref name="urlRogers Mushrooms">{{cite web|author=Phillips R |url=http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6324~gid~~source~gallerydefault.asp |title=Rogers Mushrooms &#124; Mushroom Pictures & Mushroom Reference |access-date=2009-05-06 |url-status=dead |archive-url=https://web.archive.org/web/20081121112652/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6324~gid~~source~gallerydefault.asp |archive-date=2008-11-21 }}</ref>
+
+<ref name="Zhuang 2004">{{cite journal |author=Zhuang WY |year=2004 |title=Preliminary survey of the Helvellaceae from Xinjiang, China |journal=Mycotaxon |volume=90 |issue=1 |pages=35–42 |url=http://www.cybertruffle.org.uk/cyberliber/59575/0090/001/0035.htm}}</ref>
+
+}}
+
+{{Taxonbar|from=Q1324963}}
+
+[[Category:Helvella|elastica]]
+[[Category:Fungi described in 1785]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]

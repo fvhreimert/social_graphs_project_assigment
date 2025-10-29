@@ -1,0 +1,50 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image =  Panaeolina castaneifolia (Murrill) Bon 206562.jpg
+| image_caption = Panaeolina castaneifolia
+| genus = Panaeolus
+| species = castaneifolia
+| authority = ([[William Alphonso Murrill|Murrill]]) [[Marcel Bon|Bon]]
+}}
+{{mycomorphbox
+| name = ''Panaeolina castaneifolia''
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = campanulate
+| capShape2 = convex
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=saprotrophic
+| sporePrintColor=blackish-brown
+| howEdible=unknown}}
+
+'''''Panaeolina castaneifolia''''' is a rare and widely distributed little brown mushroom.
+
+It has dark brown, coarsely roughened spores which resemble those of ''[[Panaeolina foenisecii]]''.
+
+== Description ==
+*'''Cap''': {{convert|2|–|4|cm|abbr=on}}, often with small wrinkles, hygrophanous, dark brown when moist drying to ochre buff.  Often with a darker zone around the margin as it dries.
+*'''Gills''': Broad, not crowded, adnexed, dark brown.
+*'''Stipe''': {{convert|4|–|6|cm|abbr=on}} x {{convert|4|–|6|mm|abbr=on}}, pruinose, cartilaginous, the same color as the cap or pale ochre.  
+*'''Spores''': Dark purplish brown, rough. 12–16 x 7–9 micrometers, almond shaped, [[wikt:verrucose|verrucose]], with small germ pore.
+*'''Odor''': Rather strong.
+*'''Taste''': Unpleasant.
+*'''Microscopic features''': Basidia four spored, pleurocystidia look like basidia and are dark brown, cheilocystidia abundant, fusoid-ventricose or subcylindric.
+*'''Edibility''': Non-Toxic, potentially contains small quantities of psychoactive alkaloids.
+
+==Habitat and formation==
+'''Panaeolina castaneifolia''' grows in along roadsides and grassy fields. This species was first found in New York City and has been documented as far south as Texas.  This mushroom is often mistaken for ''[[Panaeolina foenisecii]]'', and has similar microscopic features but can be distinguished by its thicker stem and more unpleasant taste.  It also resembles ''[[Panaeolus subbalteatus]]'' and can be distinguished from that species by its roughened brown spores.
+
+==References==
+*{{cite book | first=Paul | last=Stamets | year=1996 | title=Psilocybin Mushrooms of the World | publisher=Ten Speed Press | location=Berkeley | isbn=0-9610798-0-0}}
+
+== External links ==
+* [http://www.cybertruffle.org.uk/cyberliber/59350/0040/006/0685.htm Mycologia - Panaeolus castaneifolia description by AH Smith]
+* [http://www.cybertruffle.org.uk/cyberliber/59350/0015/001/0017.htm Mycologia - Original description as Psilocybe castaneifolia]
+* [http://www.sporeworksgallery.com/Subgenus-Panaeolina/Rough_spored_Panaeolus Rough Spored Panaeoloideae spore comparison]
+
+{{Taxonbar|from=Q7129773}}
+
+[[Category:Bolbitiaceae]]
+[[Category:Fungus species]]
+[[Category:Taxa named by William Alphonso Murrill]]

@@ -1,0 +1,54 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+ | image = Am.echin.jpg
+ | genus = Amanita
+ | species = echinocephala
+ | authority = ([[Carlo Vittadini|Vittad.]]) [[Lucien Quélet|Quél.]] (1872)
+ | synonyms = *''Amanita solitaria'' <small>([[Jean Baptiste François Pierre Bulliard|Bull.]]:[[Elias Magnus Fries|Fr.]]) Fr.</small>
+}}
+{{mycomorphbox
+| name = ''Amanita echinocephala''
+| whichGills = free
+| capShape = convex
+| capShape2 = flat
+| hymeniumType= gills
+| stipeCharacter= ring
+| ecologicalType = mycorrhizal
+| sporePrintColor=white
+| howEdible=caution
+}}
+
+'''''Amanita echinocephala''''' is a large, whitish or ivory-coloured [[mushroom]] with a characteristic spiny, or warty-looking [[Pileus (mycology)|cap]]. '''''A. solitaria''''' is a [[Synonym (taxonomy)|synonym]] and opinions are divided as to which name takes precedence. It lives on chalky soils with [[beech]] trees, and appears earlier than most mushrooms of similar size in southern [[England]]. It frequently occurs singly or in small groups, resulting in it being referred to as the '''solitary amanita''' or, more specifically, '''European solitary lepidella'''. It is very [[drought-tolerant]].
+
+
+
+==Taxonomy==
+It was first described as ''Agaricus echinocephalus'' in 1835 by the Italian [[mycologist]] [[Carlo Vittadini]], before being placed in ''[[Amanita]]'' by [[Lucien Quélet]] and hence receiving its current [[Binomial nomenclature|binomial name]]. It derives its [[specific name (botany)|specific epithet]] ''echinocephala'' from the [[Ancient Greek|Greek]] ''echino-'' "hedgehog" and ''kephale'' "head".<ref name="Liddell1980">{{cite book |author=[[Henry George Liddell|Liddell, Henry George]] and [[Robert Scott (philologist)|Robert Scott]] |title=A Greek-English Lexicon |title-link=A Greek-English Lexicon |publisher=[[Oxford University Press]] |year=1980 |isbn=0-19-910207-4 |edition=Abridged |location=United Kingdom}}</ref><ref>{{cite book |last=Seymour |first=Jacqueline |title=Mushrooms & Toadstools in colour |publisher=Stafford Pemberton Publishing |year=1978 |isbn=0-904681-43-2 |location=Crows Nest, NSW |page=36}}</ref> It has been placed in the ''Lepidella'' section of the Amanitaceae by some authors, because of its lack of a well formed volva. ''Amanita solitaria'' ([[Jean Baptiste François Pierre Bulliard|Bull.]]:[[Elias Magnus Fries|Fr.]]) Fr. is considered a synonym here but according to many modern authors (subject specialists in ''[[Amanita]]'', e.g., C.&nbsp;Bas or R.E.&nbsp;Tulloss) it is a valid name for this species.
+
+==Description==
+The [[Pileus (mycology)|cap]] can be up to {{convert|15|cm|in|frac=2|abbr=off}} in diameter, and is white to ivory, or silver-grey in colour. It is covered in raised pyramidal warts, that become less well defined, and less frequent towards the margin. These are remnants of the [[universal veil]] which covers the mushroom in its earliest stages. The young buttons are darker, and sometimes shaped like a two tier loaf, with a ring of raised scales around the base. The white to ivory [[Stipe (mycology)|stipe]] is {{convert|8|–|16|cm|frac=2|abbr=on}} high and {{convert|2|–|3|cm|frac=4|abbr=on}} wide, with several rings of upturned scales towards the bulbous base. It is fairly deeply rooted, often laterally below the surface. The [[Annulus (mycology)|ring]] is thin and fragile, often adhering to the stipe. The [[Lamella (mycology)|gills]] are cream, but sometimes have a slight green tint.<ref name="C&D1995">{{cite book| author = Regis Courtecuisse and Bernard Duhem |edition=British | year =1995 | title = Mushrooms and Toadstools of Britain and Europe | publisher = Harper Collins | isbn = 0-00-220025-2}}</ref>
+They are largely free of the stipe, but sometimes have a small decurrent tooth. The flesh is white, and is said to have an unpleasant smell.<ref name="Phillips06">{{cite book | author = Roger Phillips | year = 2006  | title = Mushrooms | publisher = Pan MacMillan | isbn = 0-330-44237-6|page=151}}</ref>
+
+===Similar species===
+Because the two species often share the same growing ground, ''A.&nbsp;echinocephala'', and ''A.&nbsp;strobiliformis'' have both been erroneously identified as ''Amanita solitaria'' in the past.
+
+*''[[Amanita strobiliformis]]'' lives in the same locations, often at the same time. It is a more robust mushroom, with large, thick but flat patches on the cap, and typically has noticeable hanging veil remnants around the cap margin. With a delicate mealy ring.<ref name=Phillips06/>
+* ''[[Amanita vittadinii]]'' has conical warts on the cap, and has recurved scales right to the underside of the ring. It is usually found on heavier soils.<ref name=C&D1995/>
+
+==Distribution and habitat==
+''A. echinocephala'' occurs in Britain, Europe, [[Western Asia]], and [[North Africa]]. It appears in Britain during summer, and early autumn. It grows in light, dry [[calcareous]] soils with both broad leaved, (usually beech [[Beech|Fagus]]) and [[coniferous]] trees. It is quite [[drought-tolerant]], giving rise to the suspicion that Southern England could be at the northern extent of its range. It occurs with [[hardwood]]s on calcareous soils, often associated with Limes (''[[Tilia]]'') in the Czech Republic, sometimes together with ''A.&nbsp;strobiliformis''.<ref>{{cite journal |last=Borovicka |first=J |year=2006|title=Notes on ''Amanita strobiliformis'' and related species of the section ''Lepidella''. |journal=Mykol. Sborn. |volume=83 |issue=2 |pages=43–46 |language=Czech}}</ref>
+
+==Edibility==
+Pronounced edible by some, but probably best avoided in case of confusion with other poisonous ''Amanita'' species. This mushroom is rare and protected. It is on the United Kingdom Red Data List. It was reported that this species [[bioaccumulation|hyperaccumulates]] silver.<ref>{{cite journal |last1=Borovicka |first1=J |year=2007|title=Hyperaccumulation of silver by ''Amanita strobiliformis'' and related species of the section ''Lepidella''. |journal=Mycol. Res. |volume=111 |issue=11 |pages=1339–1344 |doi=10.1016/j.mycres.2007.08.015 |pmid=18023163 |last2=Randa |first2=Z |last3=Jelínek |first3=E |last4=Kotrba |first4=P |last5=Dunn |first5=CE |display-authors=etal}}</ref> There are also reports about [[nephrotoxicity|nephrotoxic]] effects similar to ''[[Amanita smithiana|A. smithiana]]''.<ref>{{cite web |url=http://ndt.oxfordjournals.org/content/early/2011/09/29/ndt.gfr511.full |title=Amanita poisonings resulting in acute, reversible renal failure: New cases, new toxic Amanita mushrooms |website=ndt.oxfordjournals.org |access-date=17 January 2022 |archive-url=https://web.archive.org/web/20150311071522/http://ndt.oxfordjournals.org/content/early/2011/09/29/ndt.gfr511.full |archive-date=11 March 2015 |url-status=dead}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Amanitas}}
+{{Taxonbar|from=Q2713909}}
+
+[[Category:Amanita|echinocephala]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi described in 1835]]
+[[Category:Fungus species]]

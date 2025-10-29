@@ -1,0 +1,40 @@
+{{Short description|Species of fungus}}
+{{single source|date=October 2025}}
+{{no footnotes|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption =
+| taxon = Gymnopilus brevipes
+| authority = ([[John Burton Cleland|Cleland]]) Grgur.
+| synonyms =
+}}
+{{mycomorphbox
+| name = Gymnopilus brevipes
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+
+'''''Gymnopilus brevipes''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]].
+
+==See also==
+{{Portal|Fungi}}
+[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==External links==
+*[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=443283 Index Fungorum]
+
+{{Taxonbar|from=Q5624736}}
+
+{{DEFAULTSORT:Gymnopilus brevipes}}
+[[Category:Gymnopilus|brevipes]]
+[[Category:Taxa named by John Burton Cleland]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

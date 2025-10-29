@@ -1,0 +1,60 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Lactarius rupestris.jpg
+| genus = Lactifluus
+| species = rupestris
+| authority = (Wartchow) Silva-Filho & Wartchow (2019)
+| range_map = Brazil State Pernambuco.svg
+| range_map_caption = Known only from the [[type locality (biology)|type locality]] in the Brazilian state of [[Pernambuco]] (red)
+| synonyms = * ''Lactarius rupestris'' <small>Wartchow (2010)</small>
+}}
+{{mycomorphbox
+| name = ''Lactifluus rupestris''
+| whichGills = decurrent
+| capShape =
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=mycorrhizal
+| sporePrintColor=
+| howEdible= unknown
+}}
+
+'''''Lactifluus rupestris''''' is a species of [[mushroom]] in the family [[Russulaceae]]. Described as a new species in 2010, it is known only from the [[semi-arid climate|semi-arid]] region in the [[Vale do Catimbau National Park|National Park of Catimbau]] of Brazil. The mushroom is characterized by a stout [[basidiocarp|fruit body]] with a smooth and sticky orange [[pileus (mycology)|cap]] up to {{convert|7|cm|in|abbr=on}} in diameter. The [[lamella (mycology)|gills]] on the underside of the cap are closely spaced and frequently [[anastomosis|anastomosed]]. The [[stipe (mycology)|stem]] is {{convert|35|–|45|mm|in|abbr=on}} long by {{convert|18|–|21|mm|in|abbr=on}} thick. The mushrooms exude a sparse cream-colored [[latex]] when cut or injured.
+
+==Discovery and classification==
+The species was found in the Brazilian [[semi-arid climate|semi-arid]] region in the [[Vale do Catimbau National Park|National Park of Catimbau]], in July 2007. It was described as new to science in a 2010 ''[[Mycotaxon]]'' publication by Felipe Wartchow of the [[Universidade Federal de Pernambuco]]. The [[specific name (botany)|epithet]] ''rupestris'' refers to the [[campos rupestres]] montane savanna—the [[ecoregion]] where the [[type (biology)|type]] species was collected.<ref name=Wartchow2010/>
+
+The authors note that the fungus does not readily fit into any of the infrageneric (i.e., below the level of genus) [[classification (biology)|classification]] schemes outlined by previous authorities. For example, although ''L.&nbsp;rupestris'' has several characteristics that make the [[section (biology)|section]] ''Edules'' proposed by Annemieke Verbeken a somewhat close match,<ref name=Verbeken2001/><ref name=Verbeken1999/> the taxon cannot be included because the surface of its cap is neither sufficiently [[wikt:areolate|areolate]] (cracked) nor dry enough, and its spores are excessively ornamented in comparison.<ref name=Wartchow2010/>
+
+==Description==
+The [[pileus (mycology)|cap]] of ''L.&nbsp;rupestris'' is {{convert|60|–|70|mm|in|abbr=on}}, concave to somewhat funnel-shaped, with a central depression. Its color is orange at the center to brownish-orange towards the margin. The cap surface is somewhat sticky, and the texture is either smooth to slightly cracked. It has an indistinct layer of matted mycelial "hairs". The margin lacks striations and grooves, and is curled inward slightly. The [[lamellae (mycology)|gills]] are slightly [[decurrent]] (running slightly down the length of the stem), [[cream (color)|cream]]-[[Salmon (color)|salmon]] in color, and crowded closely together. They are up to {{convert|3|mm|in|abbr=on}} broad and are frequently branched. The gill edges are smooth, and the same color as the gill face. There are several tiers of lamellulae (short gills that do not extend fully from the cap margin to the stem) interspersed between the gills. The [[stipe (mycology)|stem]] is {{convert|35|–|45|mm|in|abbr=on}} long by {{convert|18|–|21|mm|in|abbr=on}} thick, centrally attached to the stem, cylindrical, and tapers slightly near the base. It is pale [[ochre|ochraceous]]-salmon, and slight longitudinal ribs can be seen with a magnifying glass. The [[trama (mycology)|flesh]] is spongy, pale yellow-ochre in the cap, and cream-yellow in the stem. The [[latex]] is cream-colored to roughly the same color as the gills, and not abundant.<ref name=Wartchow2010/>
+
+===Microscopic characteristics===
+The [[spore]]s are roughly [[wikt:ellipsoid|ellipsoid]] to roughly spherical, and typically measure 7–8.5 by 6–7&nbsp;[[micrometre|μm]]. The ornamentation on the spore surface is [[amyloid (mycology)|amyloid]] ([[staining]] blue to blue-black in [[Melzer's reagent]]) and finely wart-like, with each wart ranging to 0.5–0.7&nbsp;μm high. The warts are interconnected by thin ridges, but the ridges do not form a complete [[wikt:reticulum|reticulum]]. The [[hilum (botany)|hilar]] appendage (the part of a spore once attached to the basidium via the [[sterigma]]) ranges in shape from narrowly obtuse to somewhat conical; the [[plage (mycology)|plage]] is not very distinct, but has an amyloid spot. The [[basidia]] (spore-bearing cells in the [[hymenium]]) are 35–50 by 8–11&nbsp;μm, club-shaped, and bear mainly four, but sometimes two long (6–10&nbsp;μm) [[sterigma]]ta.<ref name=Wartchow2010/>
+
+Pseudopleurocystidia{{#tag:ref|Pseudocystidia are modified lactiferous (latex-containing) hyphae found in species of the genus ''Lactifluus'' that are similar in form to true [[cystidia]]. They are typically thinner than basidia, and often cylindrical to spindle-shaped although their shape can be quite variable. Unlike true cystidia, they lack [[septum|septa]] at their bases. In fresh specimens they are filled with oily latex, while in dried specimens the latex becomes crystallized.<ref name=Verbeken1999/>|group=nb}} are very scarce on the gill faces; when present, they are thin-walled, 170&nbsp;μm long by 24&nbsp;μm wide, with brownish refractive contents, and arise from deep in the tissue of the [[hymenophore]]. The edge of the gill is sterile (lacking basidia), and has marginal cells that are 30–45 by 4–6&nbsp;μm, cylindrical to somewhat [[wikt:sinuous|sinuous]] (curvy), thin-walled, and [[hyaline]] (translucent). The tissue of the cap has abundant sphaerocysts (spherical, swollen cells common to the [[Russulaceae]]) and measure 25–65 by 24–50&nbsp;μm, in addition to filamentous hyphae that are up to 10&nbsp;μm wide. Lactiferous (latex-containing) hyphae are common in the cap tissue. They are up to 15&nbsp;μm wide with a longitudinal orientation. Although they diverge from the trama somewhat (spreading out from the center of the gill), they do not form projecting pseudocystidia. The subhymenium (the layer of cells directly under the hymenium) is made of club-shaped to nearly spherical cells that are 16–27 by 9–17&nbsp;μm. The tissue that comprises the hymenophore is made of several parts. It contains abundant, nearly [[wikt:isodiametric|isodiametric]] (17–25 by 13–18&nbsp;μm) cells, and filamentous hyphae that measure 3.5–6.5&nbsp;μm; lactiferous hyphae are frequent, up to 7–12&nbsp;μm wide, straight and only occasionally branching. The [[pileipellis|cap cuticle]] is a trichoderm—meaning the outermost hyphae emerge roughly parallel, like hairs, perpendicular to the cap surface. It is up to 140&nbsp;μm thick and comprises two layers. The upper layer, the suprapellis, is made of plentiful, colorless hyphae that are 20–51 by 4–6&nbsp;μm, thin-walled (up to 0.5&nbsp;μm), and range in shape from obtuse to somewhat acute to knob-like or pear-shaped. The lower layer of the cap cuticle, the subpellis, is made of both plentiful hyphae that are 3–8&nbsp;μm wide and somewhat more inflated colorless cells up to 10–18&nbsp;μm wide. ''Lactifluus rupestris'' does not have [[clamp connection]]s in its hyphae.<ref name=Wartchow2010/>
+
+==Habitat and distribution==
+ in Brazil.]]
+The mushroom was found buried with up to two-thirds of the stem in sandy soil near several shrubs ([[Fabaceae]], subfamily [[Mimosoideae]] and others) in a semi-arid region, after heavy precipitation. The species is known only from the [[type locality (biology)|type locality]] in [[Vale do Catimbau National Park]] in Brazil, in the state of [[Pernambuco]]. It fruits at an elevation of {{convert|900|to|1000|m|ft|abbr=on}}. This is part of the biodiverse [[cerrado]] ecoregion, in an area known as the ''[[campos rupestres]]''. Although the fungus is suspected to be [[mycorrhiza]]l (like all ''[[Lactarius (fungus)|Lactarius]]''), there was a wide diversity of plant species growing in the open, dry forest where the mushroom was found (including members of the tree families [[Euphorbiaceae]], [[Fabaceae]], [[Myrtaceae]], [[Nyctaginaceae]], and [[Polygonaceae]]—all known to form mycorrhizal associations), so the authors did not speculate on any specific interactions.<ref name=Wartchow2010/>
+
+==Notes==
+<references group="nb" />
+
+==References==
+{{Reflist|refs=
+<ref name=Verbeken1999>{{cite journal |author=Verbeken A, Wallern R. |title=Studies in tropical African species. 7. A synopsis of the section ''Edules'' and a review on the edible species |journal=Belgian Journal of Botany |year=1999 |volume=132 |issue=2 |pages=175–84 |jstor=20794452}}</ref>
+
+<ref name=Verbeken2001>{{cite journal |author=Verbeken A. |title=Studies in tropical African ''Lactarius'' species |journal=Mycotaxon |year=2001 |volume=77 |pages=435–44 |url=http://www.cybertruffle.org.uk/cyberliber/59575/0077/0435.htm}}</ref>
+
+<ref name=Wartchow2010>{{cite journal |author=Wartchow F, Cavalcanti MAQ. |title=''Lactarius rupestris'' – a new species from the Brazilian semi-arid region |journal=Mycotaxon |year=2010 |volume=112 |pages=55–63 |doi=10.5248/112.55|doi-access=free }}</ref>
+
+}}
+
+{{Taxonbar|from=Q3295065}}
+{{Good article}}
+
+[[Category:Lactarius|rupestris]]
+[[Category:Fungi described in 2010]]
+[[Category:Fungi of Brazil]]
+[[Category:Fungus species]]

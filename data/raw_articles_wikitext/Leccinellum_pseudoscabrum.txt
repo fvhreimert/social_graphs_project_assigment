@@ -1,0 +1,30 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Leccinum pseudoscabrum1.JPG
+| image_caption =
+| genus = Leccinellum 
+| species = pseudoscabrum
+| authority = (Kallenb.) Mikšík (2017)
+| synonyms = * ''Leccinum brunneobadium'' <small>(J. Blum) Lannoy & Estadès (1994)</small>
+}}
+{{ mycomorphbox
+| name             = Leccinellum pseudoscabrum
+| whichGills       = adnate
+| capShape         = convex
+| hymeniumType     = pores
+| stipeCharacter   = bare
+| ecologicalType   = mycorrhizal
+| howEdible        = edible
+}}
+
+'''''Leccinellum pseudoscabrum''''' is an edible species of [[fungus]] in the [[Boletaceae|bolete]] family.
+
+==External links==
+* {{Commons category-inline}}
+
+{{Taxonbar|from1=Q107929163|from2=Q3829329|from3=Q22285760}}
+[[Category:Leccinellum|pseudoscabrum]]
+[[Category:Fungus species]]
+
+
+{{boletales-stub}}

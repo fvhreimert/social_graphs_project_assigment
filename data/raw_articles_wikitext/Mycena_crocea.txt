@@ -1,0 +1,68 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{Taxobox
+| image = Mycena luteopallens2.jpg
+| image_caption =
+| regnum = [[Fungi]]
+| divisio = [[Basidiomycota]]
+| classis = [[Agaricomycetes]]
+| ordo = [[Agaricales]]
+| familia = [[Mycenaceae]]
+| genus = ''[[Mycena]]''
+| species = '''''M. crocea'''''
+| binomial = ''Mycena crocea''
+| binomial_authority = Maas Geesteranus (1991)
+| synonyms = ''Marasmius nucicola'' McDougall (1925)<br/> ''Mycena luteopallens'' sensu A. H. Smith (1947) non type
+}}
+{{mycomorphbox
+| name = ''Mycena crocea''
+| hymeniumType = gills
+| capShape = conical
+| capShape2 = convex
+| whichGills = adnate
+| stipeCharacter = bare
+| sporePrintColor = white
+| ecologicalType = saprotrophic
+| howEdible = unknown
+}}
+{{stack end}}
+
+'''''Mycena crocea''''', commonly known as the '''walnut mycena''', is a species of [[mushroom]] in the family [[Mycenaceae]].
+
+The small mushroom has a bright yellow, conical to broadly convex [[pileus (mycology)|cap]] up to {{convert|15|mm|in|1|abbr=on}} in diameter. The [[stipe (mycology)|stem]] is tough and thin, up to {{convert|20|mm|in|1|abbr=on}} tall, bright yellow at the top becoming progressively  orange towards the base. The [[lamella (mycology)|gills]] are adnate, subdistant, and yellowish, becoming lighter in age; and the [[spore print]] is white.
+
+The mushroom is [[saprobic]] and found exclusively on hickory nuts and walnuts in eastern North America.
+
+==Taxonomy==
+It was first described as ''Marasmius nucicola'' in 1925 but that name could not be used in ''Mycena''.{{citation needed|date=January 2012}} The mushroom is [[common name|commonly]] known as the "walnut mycena" and was previously and commonly misidentified as ''Mycena luteopallens''.<ref name="MaasG_1991" />
+
+The [[specific name (botany)|specific epithet]] ''crocea'' refers to the orange color.
+
+==Description==
+The [[pileus (mycology)|cap]] is vivid yellow, conical to broadly convex [[pileus (mycology)|cap]] and up to {{convert|15|mm|in|1|abbr=on}} in diameter.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=426}}</ref> When young the cap tends to be conical or bell-shaped becoming plane or flat at maturity. The margin is striated.  The surface is moist, glabrous, and somewhat [[hygrophanous]]. The flesh is thin, pallid, and yellowish. The odor and taste are not distinctive. The [[lamella (mycology)|gills]] have an adnate attachment and are a pale yellowish color. They are subdistantly spaced.  The sturdy [[stipe (mycology)|stem]] is {{convert|10|to|20|mm|in|1|abbr=on}} long by {{convert|1|to|1.5|mm|in|2|abbr=on}} thick.  The stipe is central, equal (i.e., roughly equal in thickness at the top and bottom), and dark orange to yellowish.<ref name=MaasG_1991/>
+
+The species is regarded as nonpoisonous, but is not necessarily edible.<ref name="Miller 2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=134|author-link=Orson K. Miller Jr.}}</ref>
+
+===Microscopic characteristics===
+The [[spore]]s are 7–9 x 4–5&nbsp;μm, smooth, and elliptical, and weakly amyloid to inamyloid. [[Pleurocystidia]] and cheilocystidia are present.<ref name=MaasG_1991/> The [[spore print]] is white.<ref name="audu" />
+
+===Similar species===
+''[[Mycena strobilinoides]]'' is similar to ''M.&nbsp;crocea'', but is found in needle beds under conifers.  ''[[Atheniella adonis]]'' has a fragile stem and a more reddish-pink coloration.{{citation needed|date=January 2012}} ''[[Atheniella aurantiidisca]]'' has a conical cap.<ref name="audu" />
+
+==Habitat and distribution==
+''Mycena crocea'' are found on hickory nuts and walnuts in eastern North America.<ref name="audu" />
+
+==References==
+{{Reflist|refs=
+
+<ref name=MaasG_1991>{{cite journal |author=Maas Geesteranus RA. |title=Studies in Mycenas. Additions and corrections, Part 1|journal=Proc. Kon. Ned. Akad. V. Wetensch. |volume=94 |pages=377–403 |year=1991 }}</ref>
+
+}}
+
+{{Taxonbar|from=Q5244920}}
+
+[[Category:Mycena|crocea]]
+[[Category:Fungi described in 1991]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Rudolf Arnold Maas Geesteranus]]
+[[Category:Fungus species]]

@@ -1,0 +1,70 @@
+{{Improve sources|date=January 2024}}
+{{speciesbox
+| image = Scleroderma citrinum.jpg
+| taxon = Scleroderma citrinum
+| authority = [[Christian Hendrik Persoon|Pers.]]
+}}
+{{mycomorphbox 
+| name = Scleroderma citrinum
+| whichGills = NA 
+| capShape = no 
+| hymeniumType= gleba
+| stipeCharacter= NA
+| ecologicalType=mycorrhizal
+| sporePrintColor=purple-black
+| howEdible=poisonous}}
+
+
+'''''Scleroderma citrinum''''', commonly known as the '''common earthball''',<ref>{{Cite web |url=http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |title=List of Recommended English Names For Fungi in the UK. |archive-url=https://web.archive.org/web/20110716083053/http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |archive-date=2011-07-16 |website=Fungi 4 Schools |publisher=British Mycological Society |access-date=2007-09-17}}</ref> '''pigskin poison puffball''',<ref>{{cite web |date=January 2005 |url=http://library.fws.gov/CCPs/oxbow_final05.pdf |title=Oxbow National Wildlife Refuge: Final Comprehensive Conservation Plan, January 2005 |publisher=U.S. Fish and Wildlife Service |p=195 |via=library.fws.gov |access-date=2007-09-17}}</ref> or '''common earth ball''',<ref>{{cite journal |author=Falandysz J |title=Mercury in mushrooms and soil of the Tarnobrzeska Plain, south-eastern Poland |journal=J Environ Sci Health A |volume=37 |issue=3 |pages=343–52 |date=March 2002 |doi=10.1081/ese-120002833 |pmid=11929073 |s2cid=24124204 }}</ref> is a species of [[Scleroderma (fungus)|earthball]] fungus.
+
+== Description ==
+The fruit bodies grow to {{convert|10|cm|frac=2}} broad and 6&nbsp;cm high with a yellowish [[peridium]], or outer skin.<ref name=Arora1986>{{Cite book |last=Arora |first=David |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/708/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, California |year=1986 |orig-date=1979 |edition=2nd |pages=708}}</ref>
+
+Earthballs are superficially similar to, and considered look-alikes of, the edible [[puffball]] (particularly ''[[Apioperdon pyriforme]]''), but whereas the puffball has a single opening on top through which the [[spore]]s are dispersed, the earthball just breaks up to release the spores. Moreover, ''S.&nbsp;citrinum'' has much firmer flesh and a dark [[gleba]] (interior) much earlier in development than puffballs. ''Scleroderma citrinum'' has no stem but is attached to the soil by [[mycelial]] cords. The peridium is thick and firm, usually ochre yellow externally with irregular warts.
+
+== Distribution and habitat ==
+Found in Europe and in North America, it is the most common species of earthball fungus in the [[United Kingdom]] and occurs widely in woods, heathland and in short grass from autumn to winter. ''S.&nbsp;citrinum'' has two synonyms, ''S.&nbsp;aurantium'' (Vaill.) and ''Scleroderma vulgare'' Horn.<ref>{{cite journal |author=Pekşen, Aysun and Gürsel Karaca |year=2003 |title=Macrofungi of Samsun Province |url=http://journals.tubitak.gov.tr/botany/issues/bot-03-27-3/bot-27-3-3-0204-3.pdf |journal=Turkish Journal of Botany |volume=27 |pages=173–184}}</ref>
+
+== Ecology ==
+''Scleroderma citrinum'' is an [[ectomycorrhiza]]l fungus with a [[symbiotic]] relationship with tree species, and can influence the diversity of soil bacterial communities under some tree species.{{cn|date=August 2025}}
+
+The earthball may be parasitized by ''[[Pseudoboletus parasiticus]]''.
+
+== Toxicity ==
+''Scleroderma citrinum'' is [[mushroom poisoning|poisonous]]<ref name=Arora1986/> and can be mistaken with [[truffle]]s by inexperienced mushroom hunters. Ingestion of ''S.&nbsp;citrinum'' can cause [[gastrointestinal distress]] in humans and animals. Some individuals may experience [[lacrimation]], [[rhinitis]] and [[rhinorrhea]], and [[conjunctivitis]] from exposure to its spores.<ref>{{cite magazine |date=October 2006 |url=http://www.svims.ca/ff0610.pdf |title=Reflections on Mushroom Poisoning – Part III |magazine=Fungifama: The Newsletter of the South Vancouver Island Mycological Society |via=svims.ca |access-date=2007-09-17}}</ref><ref>{{Cite web |last=Hoffman |first=Ursula |url=http://www.nemf.org/files/lincoff/beginners/poison.html |title=Poisonous Mushrooms in Northeastern North America |archive-url=https://web.archive.org/web/20040607082012/http://www.nemf.org/files/lincoff/beginners/poison.html |archive-date=2004-06-07 |publisher=NorthEast Mycological Federation, Inc. |access-date=2007-09-17}}</ref>
+
+Pigments found in the fruiting body of ''S.&nbsp;citrinum'' Pers. are [[sclerocitrin]], [[norbadione&nbsp;A]], [[xerocomic acid]], and [[badione&nbsp;A]].
+
+==Notes==
+{{Reflist}}
+
+==References==
+*{{cite book
+  | last = Buckzacki
+  | first = Stefan
+  |author2=John Wilkinson
+   | title = Mushrooms and Toadstools (Collins Gem Guide)
+  | publisher = Wm. Collins Sons & Co. Ltd.
+  | year = 1982
+  | isbn = 0-00-458812-6}}
+*{{cite book
+  | last = Wakefield
+  | first = Elsie M.
+  | title = The Observer's Book of Common Fungi (Observer's Pocket Series No. 19)
+  | publisher = [[Frederick Warne & Co|Frederic Warne & Co]] Ltd.
+  | edition = 3rd printing
+  | year = 1964
+  | oclc = 748994120   <!-- ISBN not valid; unable to find a valid one | isbn = 0-914140-79-6 --> }}
+
+==External links==
+*[http://healing-mushrooms.net/archives/scleroderma-citrinum.html Medicinal Mushrooms] Description, bioactive compounds, medicinal properties
+*[http://www.mushroomexpert.com/scleroderma_citrinum.html Mushroom Expert] Additional information
+
+{{Taxonbar|from=Q1210127}}
+
+[[Category:Fungi of Europe]]
+[[Category:Poisonous fungi]]
+[[Category:Puffballs]]
+[[Category:Fungus species]]
+[[Category:Taxa named by Christiaan Hendrik Persoon]]
+[[Category:Scleroderma]]

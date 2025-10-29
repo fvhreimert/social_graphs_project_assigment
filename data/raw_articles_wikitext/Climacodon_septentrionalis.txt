@@ -1,0 +1,52 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Climacodon septentrionalis 134149.jpg
+| genus = Climacodon
+| species = septentrionalis
+| authority = ([[Elias Fries|Fr.]]) [[P.Karst.]] (1881)
+| synonyms_ref = <ref>Index Fungorum</ref>
+| synonyms = *''Hydnum septentrionale'' <small>Fr. (1821)</small>
+*"Hericium septentrionale" <small>(Fr.) Pat. (1900)</small>
+*''Steccherinum septentrionale'' <small>(Fr.) Banker (1906)</small>
+*''Creolophus septentrionalis'' <small>(Fr.) Banker (1912)</small>
+*"Pleurodon septentrionalis" <small>(Fr.) Ricken (1928)</small>
+}}
+
+'''''Climacodon septentrionalis''''', commonly known as the northern tooth fungus or the white rot fungus, is a species of shelf fungus in the phylum [[Basidiomycota]].<ref name=":0">{{Cite web |title=Climacodon septentrionalis |url=https://www.messiah.edu/Oakes/fungi_on_wood/teeth%20and%20spine/species%20pages/Climacodon%20septentrionalis.htm |access-date=2022-05-05 |website=www.messiah.edu}}</ref> It is white in color and can be found in large clusters on the trunks of trees.<ref name=":1">{{Cite web |title=Climacodon septentrionalis (MushroomExpert.Com) |url=http://www.mushroomexpert.com/climacodon_septentrionalis.html |access-date=2022-05-05 |website=www.mushroomexpert.com}}</ref> This species is a plant pathogen native to North America.<ref name=":0" />
+
+== Taxonomy ==
+''Climacodon septentrionalis'' was originally described by [[Elias Magnus Fries]] in 1821 under the genus ''[[Hydnum]]''.<ref>{{Cite web |title=Hydnum septentrionale Fr. |url=https://www.gbif.org/species/164688318 |access-date=2022-05-05 |website=www.gbif.org |language=en}}</ref><ref>{{Cite web |title=Index Fungorum - Names Record |url=http://www.indexfungorum.org/names/NamesRecord.asp?RecordID=214200 |access-date=2022-05-05 |website=www.indexfungorum.org}}</ref> It was later transferred to ''[[Climacodon]]'' in 1881 by [[Petter Adolf Karsten|Petter Karsten]].<ref>{{Cite web |title=Loading... |url=https://www.mycobank.org/page/Name%20details%20page/name/Climacodon%20septentrionalis |access-date=2022-05-05 |website=www.mycobank.org}}</ref>
+
+== Description ==
+
+Individual caps are semicircular or kidney-shaped and can reach up to {{convert|30|cm|frac=2}} across and {{convert|2.5-5|cm|abbr=on|frac=8}} at the base.<ref name=":0" /><ref name=":1" /> They typically occur in large groups that can reach {{convert|80|cm|abbr=on|frac=2}} in height.<ref name=":0" /><ref name=":1" /> Young caps range from mostly white to a yellow-cream color, and slowly become a yellow-brown as they age.<ref name=":0" /><ref name=":1" /> The caps tend to persist for multiple weeks, allowing [[algae]] to grow, giving them a slightly green appearance.<ref name=":1" /> The cap surface can be rough or even hairy, and can have concentric rings radiating out from the base.<ref name=":1" /> The underside of the cap has many white spines that reach 1&nbsp;cm in length and also yellow with age.<ref name=":0" />
+
+{{gallery|mode=packed
+|Climacodon septentrionale 4.jpg|Underside of cap
+}}
+
+== Habitat and distribution ==
+The species is a common cause of heart rot in hardwood trees in their native range,<ref name=":0" /><ref name=":1" /> It can be found on the trunks of living and recently deceased trees, especially [[beech]] (''Fagus'') and [[maple]] (''Acer'') species.<ref name=":0" /><ref name=":1" /> 
+
+It is native to northeastern North America (August–October),<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=220}}</ref> ranging from southern Canada to Kentucky, and as far west as the [[Great Plains]].<ref name=":0" /><ref name=":1" /><ref>{{Cite web |title=Climacodon septentrionalis (Fr.) P.Karst. |url=https://www.gbif.org/species/2541815 |access-date=2022-05-05 |website=www.gbif.org |language=en}}</ref>
+
+== Nematode predation ==
+''Climacodon septentrionalis'' was the first observed species of fungus outside of ''[[Agaricus]]'' to secrete a toxin that it uses to immobilize and kill fungiphagous [[nematode]]s.<ref name=":2">{{Cite journal |last1=Tanney |first1=Joey B. |last2=Hutchison |first2=Leonard J. |date=2012-01-01 |title=The production of nematode-immobilizing secretory cells by Climacodon septentrionalis |url=https://www.sciencedirect.com/science/article/pii/S1340354012700050 |journal=Mycoscience |language=en |volume=53 |issue=1 |pages=31–35 |doi=10.1007/s10267-011-0128-1 |s2cid=84826380 |issn=1340-3540|url-access=subscription |doi-access=free }}</ref><ref>{{Cite journal |last1=Soares |first1=Filippe Elias de Freitas |last2=Sufiate |first2=Bruna Leite |last3=de Queiroz |first3=José Humberto |date=2018-02-01 |title=Nematophagous fungi: Far beyond the endoparasite, predator and ovicidal groups |journal=Agriculture and Natural Resources |language=en |volume=52 |issue=1 |pages=1–8 |doi=10.1016/j.anres.2018.05.010 |issn=2452-316X|doi-access=free }}</ref> The mycelium of this species grows secretory cells the protrude outwards and develop branches that produce the substance in small droplets.<ref name=":2" /> When a nematode comes in contact with a droplet, they become encased in it, and their motion is completely inhibited.<ref name=":2" /> Death after contact occurs within several hours, but the rate at which a nematode was decomposed varied greatly, ranging from a few weeks to several days.<ref name=":2" /> 
+
+==Uses==
+''C. septentrionalis'' is edible but not palatable due to its tough flesh and bitter taste.<ref name=":0" /><ref name=":1" />
+
+=== Novel compounds ===
+''Climacodon septentrionalis'' produces some compounds with potential uses.<ref name=":3">{{Cite journal |last1=Wu |first1=Jing |last2=Tsujimori |first2=Megumi |last3=Hirai |first3=Hirofumi |last4=Kawagishi |first4=Hirokazu |date=2011 |title=Novel compounds from the mycelia and fruiting bodies of Climacodon septentrionalis |journal=Bioscience, Biotechnology, and Biochemistry |volume=75 |issue=4 |pages=783–785 |doi=10.1271/bbb.100849 |issn=1347-6947 |pmid=21512224|s2cid=27572379 |doi-access=free }}</ref> [[Ester|Esters]] are natural or synthetic, fragrant compounds that can be found in perfumes and flavorings, or used in paints, solvents, insecticides, and more.<ref name=":4">{{Cite web |title=ester {{!}} Description, Types, & Reactions {{!}} Britannica |url=https://www.britannica.com/science/ester-chemical-compound |access-date=2022-05-07 |website=www.britannica.com |language=en}}</ref> The mycelium of this species produces esters that could be used in perfumes.<ref name=":3" /><ref name=":4" /> The compound [[furaneol]] is a commonly used in the cooking industry as a flavoring, with different forms having tastes ranging from a strawberry or pineapple to a caramel or honey flavor.<ref>{{Cite web |last=PubChem |title=Furaneol |url=https://pubchem.ncbi.nlm.nih.gov/compound/19309 |access-date=2022-05-07 |website=pubchem.ncbi.nlm.nih.gov |language=en}}</ref> The furaneol found in ''C.&nbsp;septentrionalis'' is extracted from its fruiting bodies, and has a strawberry-like flavor and taste.<ref name=":3" />
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q5133380}}
+
+[[Category:Fungi described in 1821]]
+[[Category:Fungal plant pathogens and diseases]]
+[[Category:Inedible fungi]]
+[[Category:Phanerochaetaceae]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]

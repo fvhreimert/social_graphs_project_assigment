@@ -1,0 +1,62 @@
+{{short description|Species of mushroom in the family Mycenaceae}}
+{{stack begin}}
+{{Speciesbox
+| image =
+| image_caption =
+| genus = Mycena
+| species = mustea
+| authority = Har. Takah.
+| range_map = Map of Japan with highlight on 14 Kanagawa prefecture.svg
+| range_map_caption = Known only from [[Kanagawa]], Japan
+}}
+{{mycomorphbox
+| name = ''Mycena mustea''
+| hymeniumType=gills
+| capShape = conical
+| whichGills = adnexed
+| stipeCharacter=bare
+| sporePrintColor=white
+| ecologicalType=saprotrophic
+| howEdible=unknown
+}}
+{{stack end}}
+
+'''''Mycena mustea''''' is a species of [[mushroom]] in the family [[Mycenaceae]].<ref name=Fungorum/> First described as a new species in 2007, the fungus is known only from [[Kanagawa]], Japan, where it grows on dead fallen twigs in lowland forests. The mushroom's dull violet to grayish-violet [[pileus (mycology)|cap]], initially covered with a fine whitish powder, becomes smooth as it matures, and eventually reaches a diameter of up to {{convert|10|mm|in|abbr=on}}. The [[stipe (mycology)|stem]] is slender, up to {{convert|90|mm|in|abbr=on}} long, and is covered with stiff white hairs at the base. Underneath the cap are distantly spaced pale brownish [[lamella (mycology)|gills]] that are narrowly attached to the stem. Microscopic characteristics of the mushroom include the weakly [[amyloid (mycology)|amyloid]] spores (turning bluish to black when [[staining|stained]] with [[Melzer's reagent]]), the club-shaped cheilocystidia ([[cystidia]] on the gill edge) featuring one or more short knob-like protuberances, the absence of pleurocystidia (cystidia on the gill face), the [[diverticulum|diverticulate]] [[pileipellis|cap cuticle]] hyphae, and the absence of [[clamp connection]]s.
+
+==Taxonomy, naming, and classification==
+The species was first collected in Japan by Hiraku Takahashi in 1999, and reported as a new species in a 2007 publication. The [[specific name (botany)|specific epithet]] is the [[Latin]] word ''mustea'', meaning "fresh". The Japanese name is ''Sumire-ashinagatake''.<ref name=Takahaski2007/>
+
+The infrageneric [[classification (biology)|classification]] of the fungus is unclear, and depends on what [[Taxonomy (biology)|taxonomic]] characters are deemed most important. According to Takahashi, the mushroom's violet [[pigment]], the [[inamyloid (mycology)|inamyloid]] (not staining when treated with [[Melzer's reagent]]) hymenophoral tissue ([[hymenium]]-bearing tissue), and the smooth hyphae of the outer layer of stem suggest a placement in the [[section (botany)|section]] ''Adonideae'' (Fr.) Quel., as defined by the Dutch ''Mycena'' specialist [[Rudolph Arnold Maas Geesteranus|Maas Geesteranus]].<ref name=MaasGeesteranus1980/> However, if greater taxonomic emphasis is placed on the weakly amyloid basidiospores, it would be more appropriate in the section ''Fragilipedes'' (Fr.) Quél.<ref name=Takahaski2007/>
+
+==Description==
+The [[Pileus (mycology)|cap]] is conical to convex to bell-shaped, occasionally with a low and broad [[umbo (mycology)|umbo]], and reaches {{convert|7|to|10|mm|in|abbr=on}} in diameter. When moist, it is partly translucent, and grooves corresponding to the position of the gills under the cap can be seen. The surface is somewhat [[hygrophanous]]—it changes color as it loses or absorbs moisture. The surface is initially [[wikt:pruinose|pruinose]]—covered with what appears to be a fine white powder (remnants of the [[universal veil]] that covered the immature fruit body)—but this soon sloughs off, leaving it smooth. The cap surface is a dull violet color when young, then becomes somewhat paler near the margin. The [[trama (mycology)|flesh]] is up to 0.5&nbsp;mm thick, white, and lacks any distinctive odor and taste. The slender [[Stipe (mycology)|stem]] is {{convert|40|to|90|mm|in|abbr=on}} long by {{convert|0.5|to|1.5|mm|in|abbr=on}} thick, cylindrical, centrally attached to the cap, and hollow. Its surface is dry, dull violet to grayish-violet over the entire length. Like the cap surface, it is initially entirely pruinose, but becomes smooth in maturity. The base of the stem is covered with sharp, straight, and stiff white hairs. The [[Lamella (mycology)|gills]] are narrowly attached to the stem, and distantly spaced, with between 15 and 19 gills reaching the stem. The gills are up to 1.2&nbsp;mm broad, thin, and pale brownish. The gill edges are pruinose, and the same color as the gill faces.<ref name=Takahaski2007/>
+
+===Microscopic characteristics===
+The [[spore]]s are roughly [[wikt:ellipsoid|ellipsoid]] and measure 11–12 by 6–7&nbsp;μm. They are smooth, colorless, inamyloid to weakly amyloid, and thin-walled. The [[basidia]] (spore-bearing cells) are 28–37 by 8–10&nbsp;μm, club-shaped, and mostly four-spored. The cheilocystidia ([[cystidia]] on the gill edge) are club-shaped, abundant, and measure 30–45 by 8–11&nbsp;μm. They form a sterile gill edge. Near their tips they have one or more short knob-like [[wikt:excrescence|excrescences]] (outgrowths) that are colorless, and thin-walled. ''M.&nbsp;mustea'' does not have cystidia on the gill face (pleurocystidia). The hymenophoral tissue is made of hyphae that are 5–16&nbsp;μm wide, cylindrical (often somewhat inflated) with thin walls, smooth, colorless, and inamyloid. The [[Pileipellis|cap cuticle]] is made of parallel, bent-over hyphae that are 2–6&nbsp;μm wide, cylindrical, and covered with scattered, warty or finger-like hyaline (translucent) thin-walled [[diverticulum|diverticulae]]. The layer of hyphae under the cap cuticle are parallel, hyaline or pale violet, [[dextrinoid]] (turning reddish to reddish-brown in Melzer's reagent), and contain short and inflated cells that are up to 25&nbsp;μm wide. The stem cuticle is made of parallel, bent-over thin-walled hyphae that are 2–6&nbsp;μm wide, cylindrical, smooth, and hyaline or pale violet. The stem tissue is made of longitudinally running, cylindrical hyphae that are 8–15&nbsp;μm wide, smooth, colorless, and dextrinoid. [[Clamp connection]]s are absent in all tissues.<ref name=Takahaski2007/>
+
+===Similar species===
+''Mycena mustea'' is similar to the North American species ''[[Mycena umbrinovinosa|M.&nbsp;umbrinovinosa]]'', which is distinguished by having a [[wine (color)|vinaceous]]-brown to purplish-black cap, irregularly shaped cheilocystidia that are covered at their tips with long, [[flexuous]] excrescences, and clamp connections. ''Mycena mustea'' is also similar to the European species ''[[Mycena urania|M.&nbsp;urania]]'', which differs in its blackish-violet cap, broadly club-shaped cheilocystidia covered with numerous, evenly spaced warts, and clamp connections. ''Mycena mustea'' also resembles the Japanese ''[[Mycena fonticola|M.&nbsp;fonticola]]'', a species described concurrently with ''M.&nbsp;mustea''. Unlike that of ''M.&nbsp;fonticola'', the cap of ''M.&nbsp;mustea'' typically becomes pale grayish-purple when mature; the cheilocystidia have several short finger-like excrescences at their tips; and the stem cuticle is made up of smooth hyphae. In contrast, the cap of ''M.&nbsp;fonticola'' becomes dark violet-brown when mature; there are no excrescences on the cheilocystidia; and the hyphae of the stem cuticle are sparsely covered with diverticulae that resemble warts or fingers.<ref name=Takahaski2007/>
+
+==Habitat and distribution==
+''Mycena mustea'' is known only from [[Kanagawa]], Japan. The mushroom is found growing solitary to scattered on dead fallen twigs in lowland forests dominated by the hornbeam carpinus (''[[Carpinus tschonoskii]]'') and the Chinese evergreen oak (''[[Quercus myrsinaefolia]]'').<ref name=Takahaski2007/>
+
+==References==
+{{Reflist|refs=
+
+<ref name=Fungorum>{{cite web |url=http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=532060 |title=Index Fungorum – Names Record |publisher=CAB International |website= |access-date=2010-01-01}}</ref>
+
+<ref name=MaasGeesteranus1980>{{cite journal |author=Maas Geesteranus RA |title=Studies in Mycenas 15. A tentative subdivision of the genus ''Mycena'' in the northern Hemisphere |journal=Persoonia |volume=11 |pages=93–120}}</ref>
+
+<ref name=Takahaski2007>{{cite journal |author=Takahashi H. |year=2007 |title=Eight new species of the genus ''Mycena'' from central Honshu, Japan |journal=Mycoscience |volume=48 |issue=6 |pages=342–57 |doi=10.1007/s10267-007-0376-2|s2cid=85093542 |doi-access=free }}</ref>
+
+}}
+
+==External links==
+*[http://www7a.biglobe.ne.jp/~har-takah/page082.html The Agaricales in Southwestern Islands of Japan] {{Webarchive|url=https://web.archive.org/web/20120324052719/http://www7a.biglobe.ne.jp/~har-takah/page082.html |date=2012-03-24 }} Images of the [[holotype]] specimen
+{{Good article}}
+{{Taxonbar|from=Q2837246}}
+
+[[Category:Mycena|mustea]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi described in 2007]]
+[[Category:Fungus species]]

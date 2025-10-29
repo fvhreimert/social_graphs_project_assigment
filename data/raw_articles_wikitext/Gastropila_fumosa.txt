@@ -1,0 +1,60 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Gastropila fumosa 159487.jpg
+| image_caption =
+| genus = Gastropila
+| species = fumosa
+| authority = ([[Sanford Myron Zeller|Zeller]]) [[P.Ponce de León]] (1976)
+| synonyms_ref = <ref name="urlMycoBank: Gastropila fumosa"/>
+| synonyms = *''Calvatia fumosa'' <small>Zeller (1947)</small>
+*''Handkea fumosa'' <small>(Zeller) [[Hanns Kreisel|Kreisel]] (1989)</small>
+}}
+{{mycomorphbox
+| name = ''Gastropila fumosa''
+| capShape = no
+| hymeniumType = gleba
+| whichGills = NA
+| stipeCharacter = NA
+| ecologicalType = mycorrhizal
+| sporePrintColor = brown
+| howEdible = unknown
+}}
+
+'''''Gastropila fumosa''''' is a species of [[puffball]] in the family [[Agaricaceae]]. It was first [[species description|described]] as ''Calvatia fumosa'' by American mycologist [[Sanford Myron Zeller]] in 1947,<ref name="Zeller 1947"/> and later transferred to ''[[Gastropila]]'' in 1976.<ref name="Ponce de León 1976"/> Some authors place it instead in the genus ''[[Handkea]]'', [[circumscription (taxonomy)|circumscribed]] by [[Hanns Kreisel]] in 1989.<ref name="Kreisel 1989"/>
+
+==Description==
+The [[basidiocarp|fruit body]] is anywhere from golf ball size to baseball size, round to oval, {{convert|3–8|cm|abbr=on|frac=8}} broad, thick, at first smooth and white, soon becoming grayish to brownish.<ref name="Arora 1986" /> The [[spores]] are firm and white at first, then yellowish or olive, and then dark brown and powdery.<ref name="Arora 1986" /> The species has an unpleasant smell while developing.<ref>{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=268-269|language=en}}</ref> Its [[edible mushroom|edibility]] is unknown.<ref name="Arora 1986"/>
+
+==Distribution and habitat==
+The species fruits singly, in groups, or in small clusters on soil in [[spruce]]-[[fir]] forests in the [[Rocky Mountains]] and westward in the summer and fall.<ref name="McKnight 1987"/>
+
+==References==
+{{Reflist|refs=
+
+<ref name="Arora 1986">{{cite book |author=Arora D. |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/688/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, California |year=1986 |orig-date=1979 |edition=2nd |pages=688-89}}</ref>
+
+<ref name="Kreisel 1989">{{cite journal |author=Kreisel H. |title=Studies in the ''Calvatia'' complex (Basidiomycetes) |journal=Nova Hedwigia |year=1989 |volume=48 |pages=281–296}}</ref>
+
+<ref name="McKnight 1987">{{cite book |vauthors=McKnight VB, McKnight KH |title=A Field Guide to Mushrooms: North America | series=Peterson Field Guides |publisher=Houghton Mifflin |location=Boston, Massachusetts |year=1987 |page=352 |isbn=0-395-91090-0 |url=https://books.google.com/books?id=kSdA3V7Z9WcC&pg=PA352}}</ref>
+
+<ref name="Ponce de León 1976">{{cite journal |author=Ponce De León P. |title=Notes on the genus ''Gastropila'' |journal=Phytologia |year=1976 |volume=33 |issue=7 |pages=455–466}}</ref>
+
+<ref name="urlMycoBank: Gastropila fumosa">{{cite web |title=''Gastropila fumosa'' (Zeller) P. Ponce de León :458, 1976 |url=http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=261478&Fields=All |publisher=[[MycoBank]]. International Mycological Association |accessdate=2013-02-13}}</ref>
+
+<ref name="Zeller 1947">{{cite journal |author=Zeller SM |title=More notes on Gasteromycetes |journal=Mycologia |year=1947 |volume=39 |issue=3 |pages=282–312 (see p.&nbsp;300) |jstor=3755205 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0039/003/0300.htm |doi=10.2307/3755205|url-access=subscription }}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|284733}}
+
+{{Taxonbar|from=Q4561643}}
+
+[[Category:Agaricaceae]]
+[[Category:Fungi described in 1947]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]
+[[Category:Taxa named by Sanford Myron Zeller]]
+
+
+{{agaricaceae-stub}}

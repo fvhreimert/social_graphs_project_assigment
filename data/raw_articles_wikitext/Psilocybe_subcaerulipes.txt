@@ -1,0 +1,100 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = 
+| genus = Psilocybe
+| species = subcaerulipes
+| authority = Hongo (1958)
+| synonyms_ref = <ref name="Guzman2013"/>
+| synonyms = ''Psilocybe argentipes'' <small>K. Yokoy. (1976)</small><br>
+''Psilocybe taiwanensis'' <small>E. Horak, [[Gastón Guzmán|Guzmán]] & Desjardin (2010)</small><br>
+''Psilocybe thaizapoteca'' <small>Guzmán, Karunar. & Ram.-Guill. (2012)</small>
+}}
+{{mycomorphbox
+| name = ''Psilocybe subcaerulipes''
+| whichGills = adnate
+| capShape = conical
+| capShape2= convex
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=saprotrophic
+| sporePrintColor=purple-brown
+| howEdible=psychoactive
+}}
+
+'''''Psilocybe subcaerulipes''''' (commonly known as '''hikageshibiretake''' in [[Japanese language|Japanese]]) is a species of [[fungus]] in the family [[Hymenogastraceae]]. It is in the section ''Zapotecorum'' of the genus ''[[Psilocybe]]'', other members of this section include ''[[Psilocybe muliercula]]'', ''[[Psilocybe angustipleurocystidiata]]'', ''[[Psilocybe aucklandii]]'', ''[[Psilocybe collybioides]]'', ''[[Psilocybe kumaenorum]]'', ''[[Psilocybe zapotecorum]]'', ''[[Psilocybe pintonii]]'', ''[[Psilocybe graveolens]]'', ''[[Psilocybe moseri]]'', ''[[Psilocybe zapotecoantillarum]]'', ''[[Psilocybe zapotecocaribaea]]'', and ''[[Psilocybe antioquiensis]]''.<ref name="Guzman2012"/><ref name="Ramirez-Cruz2013"/> It occurs in east and southeast Asia. [[Basidiocarp|Fruit bodies]] grow on the ground in woody debris, and typically stand {{convert|6|to|8|cm|in|1|abbr=on}} tall with [[pileus (mycology)|caps]] that are {{convert|2.5|to|5|cm|in|1|abbr=on}} in diameter. They are [[chestnut (color)|chestnut]] brown (or lighter brown if dry), and stain blue if bruised or handled. The species is a [[Psilocybin mushroom|psychoactive]] mushroom, and contains the [[hallucinogenic]] compounds [[psilocybin]] and [[psilocin]]. There have been reports of poisoning caused by the accidental consumption of this mushroom. It has been used in research, specifically, to test the effects of its consumption of marble-burying in mice, an [[animal model]] of [[obsessive-compulsive disorder]].
+
+==History==
+The species was first described in 1958 by Japanese mycologist Tsuguo Hongo. It is known as '''Hikageshibiretake''' ("shadow numbness mushroom") in Japanese.
+
+==Description==
+The fruit bodies of ''Psilocybe subcaerulipes'' have [[pileus (mycology)|caps]] that are {{convert|2.5|to|6|cm|in|1|abbr=on}} in diameter, initially conic or bell-shaped but expanding to become convex, then finally somewhat flattened in maturity. A well-defined [[umbo (mycology)|umbo]] (a rounded elevation resembling a nipple) is typically present. The cap color is [[chestnut (color)|chestnut]] brown when wet, but the species is [[hygrophanous]], and when dried, changes color to become a lighter shade of brown. As is characteristic of psilocybin-containing species, ''P.&nbsp;subcaerulipes'' stains blue where it has been bruised or injured. The cap margins of young specimens are usually curved inwards, and have irregular, wavy edges; young specimens may also have fragments of the [[partial veil]] hanging off the margin. The whitish partial veil is similar to those of the genus ''[[Cortinarius]]''—cobwebby, and made of silky fibrils. When the cap expands and the veil rips, the fibrils remains briefly as an annular zone on the stem, before fading into nothing.<ref name=Stamets2003/>
+
+The [[lamella (mycology)|gills]] have an [[adnation|adnate]] or [[wikt:adnexed|adnexed]] attachment to the stem, which later becomes seceding (pulled away from the stem). The gills are a grayish-orange color initially, later turning purple-brown with whitish edges. The [[stipe (mycology)|stem]] is {{convert|6|to|8|cm|in|1|abbr=on}} long and {{convert|0.2|to|0.4|cm|in|1|abbr=on}} thick, and has roughly the same width throughout its length, except for a widening at the base due to the whitish [[rhizomorph]]s present. Initially a whitish color, it matures to become yellowish, then brown or reddish brown. It may have white veil fragments attached to the lower two-thirds of its length, and has a pseudorhiza at the base.<ref name=Guzman2013/>
+
+===Microscopic features===
+Viewed in deposit, as with a [[spore print]], the [[basidiospore|spores]] are a dark purple-brown color. Viewed microscopically, spores are roughly [[wikt:ellipsoid|ellipsoid]] in shape, with dimensions of (5–) 6–7.5 (–8) by (3–) 4–4.5 (–5) by (3–) 3.5–4&nbsp;[[micrometre|μm]]. The spore-bearing cells, the [[basidia]], are four-spored. The pleurocystidia are (11‒) 15‒20 (‒32) × (3‒) 4‒6 (‒10.5)&nbsp;[[micrometre|μm]], hyaline, polymorphous with many forms – ventricose-capitate or broadly globose, subclavate, subfusoid to sublageniform, sometimes subcylindric or ventricose, usually a short neck but sometimes with two or three necks, occasionally irregularly branching. The cheilocystidia (cystidia located on the gill edge) are (11‒) 14‒22 (‒40) × (3‒) (4‒) 5‒7 (19)&nbsp;[[micrometre|μm]], and are shaped like the pleurocystidia.   The pileocystidia (cystidia located on the cap surface) are hyaline, (8‒) 10‒30 (‒40) × (4‒) 5‒7 (‒10)&nbsp;[[micrometre|μm]] and have very irregular forms - globose, subglobose, capitate or ventricose.  The caulocystidia (cystidia located on the gill stipe) are (11‒) 14‒22 (‒40) × (3‒) (4‒) 5‒7 (19)&nbsp;[[micrometre|μm]], and are shaped like the pleurocystidia.   The pileocystidia are hyaline, (13‒) 15‒38 (‒46) × 4‒8 (‒9.5)&nbsp;[[micrometre|μm]], polymorphous, subglageniform, clavate or fusoid.<ref name=Guzman2013/>
+
+==Habitat and distribution==
+This species grows in groups, or clustered together on the ground on soil that is rich in woody debris. It has been noted to grow near the tree species ''[[Cryptomeria japonica]]'' (known locally as Sugi),''[[Taiwania]]'', ''[[Quercus glauca]]'' (Japanese Blue Oak), and ''[[Pinus taeda]]'' (Loblolly Pine). It has been found in Japan (specifically, in [[Kyoto]], [[Osaka]], [[Shiga]], [[Saitama Prefecture|Saitama]], [[Niigata Prefecture|Niigata]], and [[Miyagi Prefecture|Miyagi]]),<ref name=Yokoyama1976/> [[Jeju Province]] in [[South Korea]],<ref name="Ko&Jeun2014"/> [[Taiwan]] and [[Thailand]].<ref name=Guzman2013/>
+
+==Bioactive compounds==
+{{multiple image|caption_align=center|header_align=center
+| align = right
+| direction = vertical
+| width = 140
+| image1 = Psilocybin, Kekulé, skeletal formula of canonical psilocybin.svg
+| caption1 = Psilocybin
+| image2 = Psilocin Structural Formulae V.1.svg
+| caption2 = Psilocin
+}}
+The presence of the [[hallucinogenic]] compounds [[psilocybin]] and [[psilocin]] have been confirmed by using [[thin-layer chromatography]] and [[column chromatography]] as the [[analytical chemistry|analytical]] methods. The concentration of psilocybin varied considerably depending on the locations the specimens were collected; on the basis of [[dry matter|dry weights]] of the specimens, the values were from 0.003% to 0.55%. The same report also established the presence of the fungal [[steroid]]s [[ergosterol]] and [[ergosterol peroxide]].<ref name=Koike1981/>
+
+==Effects of consumption==
+There have been several Japanese reports of intoxication following accidental consumption of this species. In a report of five cases of unintentional ingestion in [[Miyagi Prefecture]] from the period 1980–84, [[anxiety]] and [[panic]] were common to all poisoning victims, even if the anxiety was preceded by an initial period of [[euphoria]].<ref name=Musha1986/> In a later analysis of 10 cases of poisoning by this species, Musha and colleagues noted that poisoning "produced alterations of consciousness but also disturbances of consciousness such as strong drowsiness, short-term sleeping, fluctuation of vigilance and stuporous state with amnesia."<ref name=Musha1988/>
+
+The effects of ''P.&nbsp;subcaerulipes'' consumption on obsessive-compulsive disorder (OCD) have been tested using marble-burying behavior in mice, a commonly used animal model of OCD. When presented with an aversive [[stimulus (physiology)|stimulus]] such as shocks, puffs of air, or noxious food, rodents will exhibit a behavior called "defensive burying", where they will displace bedding material with their nose and forepaws; the marble-burying test takes advantage of this behavior by measuring how many glass marbles a rodent will bury under the effect of different stimuli.<ref name=Thomas2009/> In the experiments, when mice consumed ''P.&nbsp;subcaerulipes'', it significantly inhibited their marble-burying behavior, but, unlike an equivalent dose of purified psilocybin, did not affect [[locomotor activity]].  Further, the mushroom was more effective than purified psilocybin in inhibiting the behavior, and lower doses were required. Based on these results, the authors suggest that the mushroom has the potential "to be efficient in clinical obsessive-compulsive disorder therapy".<ref name=Matsushima2009/>
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Guzman2012">{{cite journal |last=Guzmán |first=Gastón |authorlink=Gastón Guzmán  |title= New Taxonomical and Ethnomycological Observations on Psilocybe S.S. From Mexico, Africa and Spain |journal=Acta Botanica Mexicana |year=2012 |volume=100 |pages=79–106 |doi=10.21829/abm100.2012.32 |url=http://dialnet.unirioja.es/descarga/articulo/3988750.pdf|doi-access=free }}</ref>
+
+<ref name="Guzman2013">{{cite journal |last1=Guzmán |first1=Gastón |authorlink=Gastón Guzmán |last2=Cortes-Perez |first2=Alonso |last3=Ramirez-Guillen |first3=Florencia |title= The Japanese hallucinogenic mushrooms ''Psilocybe'' and a new synonym of ''P. subcaerulipes'' with three asiatic species belong to section Zapotecorum (Higher Basidiomycetes) |journal=International Journal of Medicinal Mushrooms |year=2013 |volume=15 |issue=6 |pages=607–615 |doi=10.1615/intjmedmushr.v15.i6.90|pmid=24266384 }}</ref>
+
+<ref name="Ko&Jeun2014">{{cite journal |last1=Ko |first1=Pyung Yeol |last2=Jeun |first2=Yong Chull |title= Study on Species Diversity of Indigenous Mushrooms in Jeju |journal=Mycology News |year=2014 |volume=26 |pages=21–22 |url=http://www.papersearch.net/view/detail.asp?detail_key=17006662}}</ref>
+
+<ref name=Koike1981>{{cite journal |vauthors=Koike Y, Wada K, Kusano G, Nozoe S |year=1981 |title=Isolation of psilocybin from ''Psilocybe argentipes'' and its determination in specimens of some mushrooms |journal=Journal of Natural Products |volume=44 |issue=3 |pages=362–65 |doi=10.1021/np50015a023 |bibcode=1981JNAtP..44..362K }}</ref>
+
+<ref name=Matsushima2009>{{cite journal |doi=10.1271/bbb.90095 |vauthors=Matsushima Y, Shirota O, Kikura-Hanajiri R, Goda Y, Eguchi F |year=2009 |title=Effects of ''Psilocybe argentipes'' on marble-burying behavior in mice |journal=Bioscience, Biotechnology, and Biochemistry |volume=73 |issue=8 |pages=1866–68 |pmid=19661714 |doi-access=free }}</ref>
+
+<ref name=Musha1986>{{cite journal |vauthors=Musha M, Ishii A, Tanaka F, Kusano G |year=1986 |title=Poisoning by Hallucinogenic mushroom Hikageshibiretake (''Psilocybe argentipes'' K. Yokoyama) indigenous to Japan |journal=Tohoku Journal of Experimental Medicine |volume=148 |issue=1 |pages=73–78 |doi=10.1620/tjem.148.73 |pmid=3705065 |doi-access=free }}</ref>
+
+<ref name=Musha1988>{{cite journal |vauthors=Musha M, Kusano G, Tanaka F, Gotoh Y, Ishii A |year=1988 |title=Poisoning by the hallucinogenic mushroom Hikageshibiretake ''Psilocybe argentipes'' with special regard to the subjective experiences during psilocybin intoxication |journal=Psychiatria et Neurologia Japonica |volume=90 |issue=4 |pages=313–33 |pmid=3413259}}</ref>
+
+<ref name="Ramirez-Cruz2013">{{cite journal |last1=Ramírez-Cruz |first1=Virginia |last2=Guzmán |first2=Gastón
+|last3= Villalobos-Arámbula |first3=Alma Rosa |last4=Rodríguez |first4=Aarón |last5=Matheny |first5=Brandon |last6= Sánchez-García |first6=Marisol |last7=Guzmán-Dávalos |first7=Laura |title=Phylogenetic inference and trait evolution of the psychedelic mushroom genus ''Psilocybe'' sensu lato (Agaricales)|journal=Botany |year=2013 |volume=91 |issue=9 |pages=573–591 |doi=10.1139/cjb-2013-0070|bibcode=2013Botan..91..573R |doi-access=free }}</ref>
+
+<ref name=Stamets2003>{{cite book |title=Psilocybin Mushrooms of the World: An Identification Guide |last=Stamets P.|year=2003 |publisher=[[Ten Speed Press]] |location=Berkeley, CA |isbn=978-0-89815-839-7 |pages=87–88 |url=https://books.google.com/books?id=3rIDqBRKv4sC&q=yokoyama%20psilocybe&pg=PA87 |accessdate=2010-10-17}}</ref>
+
+<ref name=Thomas2009>{{cite journal |doi=10.1007/s00213-009-1466-y |vauthors=Thomas A, Burant A, Bui N, Graham D, Yuv-Paylor LA, Paylor R |year=2009 |title=Marble burying reflects a repetitive and perseverative behavior more than novelty-induced anxiety |journal=Psychopharmacology |volume=204 |issue=2 |pages=361–73 |pmid=19189082 |pmc=2899706 }}</ref>
+
+<ref name=Yokoyama1976>{{cite journal |author=Yokoyama T. |year=1976 |title=A new hallucinogenic mushroom, ''Psilocybe argentipes'' K. Yokoyama sp. nov. from Japan |journal=Transactions of the Mycological Society of Japan |volume=17 |pages=349–54}}</ref>
+}}
+
+==External links==
+* {{IndexFungorum|304497}}
+* [http://toolate.s7.coreserver.jp/kinoko/fungi/psilocybe_argentipes/index.htm Several photos]
+* [https://archive.today/kinoko-ya.sakura.ne.jp/01eng7/psilocybe_argentipes01.htm Photo of fruit bodies]
+* [http://www.ne.jp/asahi/mushroom/tokyo/Psathyrella/hikagesibire/hikagesibire.htm Photos of spores and cheilocystidia]
+
+{{Hallucinogenic mushrooms}}
+{{Psychedelics}}
+{{Taxonbar|from=Q7255941}}
+
+[[Category:Entheogens]]
+[[Category:Psychoactive fungi]]
+[[Category:Psilocybe|subcaerulipes]]
+[[Category:Psychedelic tryptamine carriers]]
+[[Category:Fungi described in 1958]]
+[[Category:Fungi of Asia]]
+[[Category:Fungus species]]

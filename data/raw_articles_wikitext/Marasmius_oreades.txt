@@ -1,0 +1,68 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Michigan_Marasmius_oreades.jpg
+| image_caption =
+| status = G5
+| status_system = TNC
+| status_ref = <ref name=NS>{{cite NatureServe |id=2.881228 |title=''Marasmius oreades'' |access-date=2 May 2025}}</ref>
+| genus = Marasmius
+| species = oreades
+| authority = ([[James Bolton|Bolton]]) [[Elias Magnus Fries|Fr]] (1836)
+}}
+{{mycomorphbox 
+| name = ''Marasmius oreades''
+| whichGills = adnexed
+| capShape = convex
+| capShape2 = umbonate
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=saprotrophic
+| sporePrintColor=white
+| howEdible=choice
+}}
+
+'''''Marasmius oreades''''', also known as the '''fairy ring mushroom''', '''fairy ring champignon''' or '''Scotch bonnet''', is a mushroom native to North America and Europe. Its common names can cause confusion, as many other mushrooms grow in [[fairy ring]]s, such as the edible ''[[Agaricus campestris]]'' and the poisonous ''[[Chlorophyllum molybdites]]''. It also resembles some toxic species, but is itself a choice [[edible mushroom]].
+
+==Description==
+
+The [[Pileus (mycology)|cap]] is {{convert|1–5|cm|frac=2|abbr=off}} across;<ref>{{Cite book |last1=Sisson |first1=Liv |url= |title=Fungi of Aotearoa: a curious forager's field guide |last2=Vigus |first2=Paula |date=2023 |publisher=Penguin Books |isbn=978-1-76104-787-9 |location=Auckland, New Zealand |pages=122 |oclc=on1372569849}}</ref> it is bell-shaped with a somewhat inrolled margin at first, becoming broadly convex with an even or uplifted margin. It usually retains a slight [[Umbo (mycology)|central bump]] and is dry, smooth, pale tan or buff (occasionally white), or reddish tan; it usually changes color markedly as it dries out; the margin is sometimes faintly lined.<ref name="Kuo">[http://www.mushroomexpert.com/marasmius_oreades.html Marasmius oreades] (MushroomExpert.com)</ref>
+
+The bare, pallid, and tough stem<ref name=":1">{{cite book |last1=Trudell |first1=Steve |url=https://books.google.com/books?id=WevHvt6Tr8kC |title=Mushrooms of the Pacific Northwest |last2=Ammirati |first2=Joe |publisher=Timber Press |year=2009 |isbn=978-0-88192-935-5 |series=Timber Press Field Guides |location=Portland, OR |pages=113–114}}</ref> grows up to about {{convert|2-6|cm|in|frac=2|abbr=on}} tall and {{convert|2-6|mm|in|frac=16|abbr=on}} in diameter.<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=27, 188–189|oclc=797915861}}</ref>
+
+The gills are attached to the stem or free from it,<ref name="Kuo"/> fairly thick and spaced apart, and white or pale tan, with a [[cyanide]]-like odor<ref name=":1" /> and producing a white [[spore print]].<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=458}}</ref> The [[Basidiospore|spores]] measure 7–10&nbsp;[[μm]] × 4–6&nbsp;μm; they are smooth, elliptical, and [[inamyloid]]. [[Cystidia]] are absent. The [[pileipellis]] is without broom cells.<ref name="Kuo"/>
+
+
+
+=== Similar species ===
+It can resemble ''[[Marasmius nigrodiscus|M.&nbsp;nigrodiscus]]''.<ref name="audu" />
+
+This mushroom can be mistaken for the toxic ''[[Clitocybe dealbata]]'' or ''[[Clitocybe rivulosa|C.&nbsp;rivulosa]]'', which have closely spaced decurrent gills.<ref name=":0" /> The latter lacks an umbo and is white to grey in color.
+
+Some species of the ''[[Collybia]]'', ''[[Marasmiellus]]'', ''[[Micromphale]]'', and ''[[Strobilurus (fungus)|Strobilurus]]'' genera are also similar, sometimes requiring microscopic analysis to differentiate.<ref name=":1" />
+
+== Distribution and habitat ==
+''Marasmius oreades'' grows extensively throughout North America, especially the east where they are also more diverse,<ref name=":1" /> and Europe in the summer and autumn (May–November in the UK),<ref name="tfb">{{Cite book |last=Francis-Baker |first=Tiffany |title=Concise Foraging Guide |date=2021 |publisher=[[Bloomsbury Publishing|Bloomsbury]] |isbn=978-1-4729-8474-6 |series=[[The Wildlife Trusts]] |location=London |pages=141}}</ref> or year-round in warmer climates. It appears in grassy areas such as lawns,<ref name=":1" /> meadows, and even dunes in coastal areas.
+
+It grows gregariously in troops, arcs, or [[Fairy ring|rings]] (type&nbsp;II, which causes the grass to grow and become greener).{{Citation needed|date=March 2025}}
+
+== Edibility ==
+
+
+Aside from its similarity to toxic species, ''M.&nbsp;oreades'' is a choice [[edible mushroom]].<ref name="Miller 2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=196|author-link=Orson K. Miller Jr.}}</ref> Mycologist [[David Arora]] calls it "one of the few [<nowiki/>[[little brown mushrooms]]] worth learning".<ref name="Arora">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/228/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=208–209 |orig-date=1979}}</ref> The mushroom reportedly has a firm, chewy texture and a meaty, spicy flavor. The mushrooms can be stored dry.<ref name=":2">{{Cite book |last=Russell |first=Bill |title=Field Guide to Wild Mushrooms of Pennsylvania and the Mid-Atlantic |date=2006 |publisher=Pennsylvania State University Press |isbn=0-271-02891-2 |location=University Park, PA |pages=37 |oclc=64510388}}</ref>
+
+Traditionally, the stems (which tend to be fibrous and unappetizing) are cut off and the caps are threaded and dried in strings. While used in foods such as soups and stews, its sweet taste lends it to baked goods such as cookies. The sweet taste may be due to the presence of [[trehalose]], a type of sugar that allows the mushroom to resist death by [[desiccation]].<ref>[http://botit.botany.wisc.edu/toms_fungi/mar2003.html Marasmius oreades, the fairy ring mushroom, leprechaun.] Tom Volk's Fungus of the Month for March 2003</ref>{{Better source needed|reason=The current source is insufficiently reliable ([[WP:NOTRS]]).|date=March 2025}} When exposed to water after being completely dried out, the trehalose is digested as the cells completely revive, causing cellular processes, including the creation of new spores, to begin again.
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Commons category-inline|Marasmius oreades|''Marasmius oreades''}}
+
+{{Taxonbar|from=Q752492}}
+{{Authority control}}
+
+[[Category:Edible fungi]]
+[[Category:Fungi found in fairy rings]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Marasmius|oreades]]

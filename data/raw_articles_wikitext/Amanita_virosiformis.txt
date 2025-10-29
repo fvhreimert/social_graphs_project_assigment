@@ -1,0 +1,40 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| name=Narrow-spored destroying angel 
+| image= 
+| taxon=Amanita virosiformis
+| authority=([[William Murrill|Murrill]]) Murrill
+| synonyms = ''Amanita tenuifolia'' (Murrill) Murrill 
+}}
+{{mycomorphbox
+| name=''Amanita virosiformis''
+| whichGills=free
+| capShape=convex
+| capShape2=flat
+| hymeniumType=gills
+| stipeCharacter=ring and volva
+| ecologicalType=mycorrhizal
+| sporePrintColor=white
+| howEdible=deadly
+}}
+'''''Amanita virosiformis''''', commonly known as the '''narrow-spored destroying angel''', is a poisonous [[basidiomycete]] [[fungus]], one of many in the genus ''[[Amanita]]''. Originally described from [[Florida]], it is found from coastal North Carolina through to eastern Texas in the southeastern United States.<ref>{{cite web |url=http://www.njcc.com/~ret/amanita/species/virosifo.html |title=Amanita virosiformis (Murrill) Murrill = A. tenuifolia (Murrill) Murrill |website=www.njcc.com |url-status=dead |archive-url=https://web.archive.org/web/20110714185525/http://www.njcc.com/~ret/amanita/species/virosifo.html |archive-date=2011-07-14}}</ref>
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Amanita species|List of ''Amanita'' species]]
+*[[List of deadly fungi]]
+
+==References==
+{{Reflist}}
+
+{{Poisonous Amanitas}}
+{{Amanitas}}
+{{Taxonbar|from=Q4739888}}
+
+[[Category:Amanita|virosiformis]]
+[[Category:Deadly fungi]]
+[[Category:Poisonous fungi]]
+[[Category:Fungi of the United States]]
+[[Category:Fungi described in 1941]]
+[[Category:Fungi without expected TNC conservation status]]
+[[Category:Fungus species]]

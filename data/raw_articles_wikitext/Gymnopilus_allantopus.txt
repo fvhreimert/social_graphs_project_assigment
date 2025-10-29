@@ -1,0 +1,43 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Gymnopilus allantopus (Berk.) Pegler 620619.jpg
+| image_caption =
+| genus = Gymnopilus
+| species = allantopus
+| authority = (Berk.) Pegler
+| synonyms =
+}}
+{{mycomorphbox
+| name = ''Gymnopilus allantopus''
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=}}
+
+'''''Gymnopilus allantopus''''' is a [[species]] of [[mushroom]] in the family [[Hymenogastraceae]]. It is commonly known as the '''golden wood fungus'''.
+
+==Description==
+In Australia, ''Gymnopilus allantopus'' is extremely common in the [[Perth]] region, most often seen on fallen logs and branches of ''[[Banksia]]'' species. ''G. allantopus'' produces fruit bodies from May to July, and also produces masses of fan-like white mycelium in the wood of the trees it infects, which can be seen at any time of the year.
+
+The fungus is easily identified in the field by its bright gills that develop rusty spots when old, a white flap on the margin of young caps, and white fan-like mycelium. It has a bright ochre brown spore print. Most often the fruit bodies have a straight stem but if the specimens emerge from the side of a log the stem curves upwards due to [[geotropism]].<ref>Bougher, N. L. (2009). Fungi of the Perth Region and Beyond: A self-managed field book. Western Australian Naturalists‟ Club (Inc.), Perth, Western Australia. Date Accessed: http://www.fungiperth.org.au 20/08/2014</ref>
+
+==Taxonomy==
+Previously in [[Western Australia]], ''Gymnopilus allantopus'' was incorrectly referred to as the northern hemisphere species ''[[Gymnopilus penetrans]]''. It was also given the provisional name ''Gymnopilus austrosapineus'' to distinguish small specimens from large ones sent in the 19th century from Australia to M. J. Berkeley in [[England]]. He named the large specimens as ''G. allantopus'' in 1845 and referred to it as a "very noble" species. Recent studies have revealed that Berkeley was sent only the largest specimens and he had wrongly assumed all specimens would be large-sized. Hence the name ''G. austrosapineus'' was determined to be superfluous because ''G. allantopus'' produces both small and large specimens.<ref>Bougher, N. L. (2009). Fungi of the Perth Region and Beyond: A self-managed field book. Western Australian Naturalists‟ Club (Inc.), Perth, Western Australia. Date Accessed: http://www.fungiperth.org.au 20/08/2014</ref>
+
+==See also==
+* [[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=331584 Index Fungorum]
+
+{{Taxonbar|from=Q5624710}}
+
+[[Category:Gymnopilus|allantopus]]
+[[Category:Fungus species]]

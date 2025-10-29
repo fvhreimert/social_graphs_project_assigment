@@ -1,0 +1,48 @@
+{{Short description|Species of bolete fungus}}
+{{Use dmy dates|date=April 2025}}
+{{Use Oxford spelling|date=April 2025}}
+{{Speciesbox
+| image = 2006 Leccinum albostipitatum crop.jpg
+| taxon = Leccinum albostipitatum
+| authority = den Bakker & [[Noordel.]] (2005)
+}}
+{{ mycomorphbox
+| name             = Leccinum albostipitatum
+| whichGills       = adnexed
+| capShape         = infundibuliform
+| hymeniumType     = pores
+| stipeCharacter   = bare
+| ecologicalType   = mycorrhizal
+| howEdible        = 
+}}
+
+'''''Leccinum albostipitatum''''' is a species of [[bolete]] fungus in the family [[Boletaceae]].<ref name="CoL_6P5FV"/> This large, orange-capped mushroom forms beneficial relationships with poplar trees across Europe. First described scientifically in 2005, it was previously confused with similar orange species but can be distinguished by its white [[stipe (mycology)|stipe]] with fine scales that darken with age and its [[trama (mycology)|flesh]] that changes colour when cut. The mushroom grows in [[Populus|poplar]] stands and [[mixed forest]]s throughout [[Scandinavia]] and mountainous areas of central Europe.
+
+==Taxonomy==
+
+''Leccinum albostipitatum'' was [[species description|scientifically described]] by the mycologists Hendrik den Bakker and [[Machiel Noordeloos]] in 2005, following comparison of ''Populus''‑associated collections previously identified as ''[[Leccinum aurantiacum]]'' or ''[[Leccinum leucopodium]]''. The [[holotype]] (M.E. Noordeloos 96134, herbarium L) was gathered on 10 September 1996 at Monte Bella, [[Trento]], Italy. [[morphology (biology)|Morphological]] characters of [[stipe (mycology)|stipe]] ornamentation and [[pileus (mycology)|cap]] colour distinguished it from related European taxa.<ref name="den Bakker 2005"/>
+
+==Description==
+
+The cap reaches 80–250&nbsp;mm in diameter and is hemispherical when young, maturing to convex or plano‑convex. Its surface is finely tomentose and fibrillose, displaying a vivid orange that may fade toward the margin in older fruit‑bodies and often cracks slightly with age. The stipe measures 50–270&nbsp;mm in length and 15–50&nbsp;mm in thickness, initially whitish and densely clothed in fine white squamules that darken to light brown in mature specimens; handling typically induces a clear blue bruise. The [[trama (mycology)|flesh]] is white in the stipe base but turns vinaceous to greyish‑black when cut in the cap. Tubes are 9–30&nbsp;mm deep, adnate to slightly [[decurrent]], with pores about 0.5&nbsp;mm wide that bruise brown. Microscopically, spores measure (9.5–)11.0–17.0 by 4.0–5.5&nbsp;μm, spindle-shaped ([[fusiform]]) with a conical apex and shallow suprahilar depression. [[Basidia]] are 25–35 by 7.5–11.0&nbsp;μm and four‑spored. Hymenial cystidia measure 20–45 by 7–10&nbsp;μm (lageniform). The cap cutical ([[pileipellis]]) is a cutis of narrow cylindrical elements (35–80 by 4.0–15.5&nbsp;μm) that appear yellowish‑brown in water. [[Caulocystidia]] are 15–65 by 10.0–16.0&nbsp;μm, clavate to fusiform. [[Clamp connection]]s are absent.<ref name="den Bakker 2005"/>
+
+==Habitat and distribution==
+
+''Leccinum albostipitatum'' grows solitary or in groups (gregariously) in [[mixed forest]]s and poplar stands, strictly in [[ectomycorrhiza]]l association with ''[[Populus]]'' species. It is not recorded from the Netherlands but is common in [[Scandinavia]] and the [[montane]] regions of central Europe, becoming rare at lower altitudes. Known localities include Monte Bella, Italy, [[Sommauthe]]/[[Beaumont-en-Argonne]] ([[Champagne-Ardenne]], France), and [[Sogndal]] ([[Sogn og Fjordane]], Norway).<ref name="den Bakker 2005"/>
+
+==References==
+{{Reflist|refs=
+
+<ref name="CoL_6P5FV">{{Catalogue of Life |id=6P5FV |title=''Leccinum albostipitatum'' den Bakker & Noordel. |access-date=21 April 2025}}</ref>
+
+<ref name="den Bakker 2005">{{cite journal |last1=den Bakker |first1=H.C. |last2=Noordeloos |first2=M.E. |title=A revision of European species of ''Leccinum'' Gray and notes on extralimital species |journal=Persoonia |year=2005 |volume=18 |issue=4 |pages=511–574 |url=http://www.repository.naturalis.nl/document/570067 |format=PDF}} {{open access}}</ref>
+
+}}
+
+{{Taxonbar|from=Q20078216}}
+
+[[Category:Leccinum|albostipitatum]]
+[[Category:Fungi described in 2005]]
+[[Category:Fungi of Europe]]
+[[Category:Taxa named by Machiel Noordeloos]]
+[[Category:Fungus species]]

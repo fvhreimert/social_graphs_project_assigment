@@ -1,0 +1,27 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = 2012-09-03 Ramaria aurea crop.jpg
+| image_caption =
+| genus = Ramaria
+| species = aurea
+| authority = (Schaeff.) Quél. 1888
+}}
+
+'''''Ramaria aurea''''' is a [[coral mushroom]] in the family [[Gomphaceae]]. It is found in North America and Europe. It is similar to ''[[Ramaria flava|R. flava]]''; both species are [[edible]].<ref name="Miller 2006">{{cite book|last=Miller Jr.|first=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=350|author-link=Orson K. Miller Jr.}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{MycoBank|87682}}
+
+{{Taxonbar|from=Q1479710}}
+
+[[Category:Gomphaceae]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1888]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]
+
+
+{{Gomphales-stub}}

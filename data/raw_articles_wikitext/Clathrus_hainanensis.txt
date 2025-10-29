@@ -1,0 +1,36 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image =
+| image_caption = 
+| genus = Clathrus
+| species = hainanensis
+| authority = X.L. Wu
+}}
+{{mycomorphbox
+| name = ''Clathrus hainanensis''
+| hymeniumType=gleba
+| capShape=no
+| whichGills=no
+| stipeCharacter=NA
+| sporePrintColor =olive-brown
+| ecologicalType=saprotrophic
+}}
+
+'''''Clathrus hainanensis''''' is a species of [[fungus]] in the [[stinkhorn]] family. Found in [[Hainan]], China, it was described as new to science in 1998.<ref name="urlMycoBank:Clathrus hainanensis"/>
+
+==References==
+{{Reflist|refs=
+
+<ref name="urlMycoBank:Clathrus hainanensis">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=447117 |title=''Clathrus hainanensis'' X.L. Wu 1998  |publisher=International Mycological Association |work=MycoBank |accessdate=2010-10-29}}</ref>
+
+}}
+
+{{Taxonbar|from=Q5128566}}
+
+[[Category:Phallales]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi described in 1998]]
+[[Category:Fungus species]]
+
+
+{{Phallales-stub}}

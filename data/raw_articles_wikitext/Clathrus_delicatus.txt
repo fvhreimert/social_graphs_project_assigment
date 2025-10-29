@@ -1,0 +1,40 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = 2008-08-11 Clathrus delicatus Berk. & Broome (1875) 16877.jpg
+| genus = Clathrus
+| species = delicatus
+| authority= [[Miles Joseph Berkeley|Berk.]] & [[Christopher Edmund Broome|Broome]] (1873)
+| synonyms_ref = <ref name="urlMycoBank:Clathrus delicatus"/>
+| synonyms = ''Clathrella delicata'' <small>(Berk. & Broome) [[Eduard Fischer (mycologist)|E.Fisch.]] (1886)</small>
+}}
+{{mycomorphbox
+| name = ''Clathrus delicatus''
+| hymeniumType=gleba
+| capShape=no
+| whichGills=no
+| stipeCharacter=NA
+| sporePrintColor =olive-brown
+| ecologicalType=saprotrophic
+| howEdible=unknown
+}}
+
+'''''Clathrus delicatus''''' is a species of [[fungus]] in the [[stinkhorn]] family. It originates from Sri Lanka and India.<ref name="urlMycoBank:Clathrus delicatus"/>
+
+==References==
+{{Reflist|refs=
+
+<ref name="urlMycoBank:Clathrus delicatus">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=199877 |title=''Clathrus delicatus'' Berk. & Broome 1875    |publisher=International Mycological Association |work=MycoBank |accessdate=2010-10-29}}</ref>
+
+}}
+
+{{Taxonbar|from=Q5128565}}
+
+[[Category:Phallales]]
+[[Category:Fungi described in 1873]]
+[[Category:Fungi of Asia]]
+[[Category:Taxa named by Miles Joseph Berkeley]]
+[[Category:Taxa named by Christopher Edmund Broome]]
+[[Category:Fungus species]]
+
+
+{{Phallales-stub}}

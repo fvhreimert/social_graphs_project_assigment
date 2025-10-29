@@ -1,0 +1,82 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Psilocybe stuntzii 2.jpg
+| genus = Psilocybe
+| species = stuntzii
+| authority = [[Gastón Guzmán|Guzmán]] & [[J. Ott]]
+}}
+{{mycomorphbox 
+| name = ''Psilocybe stuntzii''
+| whichGills = adnate 
+| whichGills2 = sinuate
+| capShape = convex
+| capShape2 = umbonate 
+| hymeniumType=gills
+| stipeCharacter=ring
+| ecologicalType=saprotrophic
+| sporePrintColor=purple-brown
+| howEdible=psychoactive
+}}
+
+'''''Psilocybe stuntzii''''', also known as  '''Stuntz's blue legs''' and '''blue ringers''' it is a [[psilocybin mushroom]] of the family [[Hymenogastraceae]], having [[psilocybin]] and [[psilocin]] as main active compounds.
+
+==Taxonomy==
+The mushroom is named in honor of mycologist [[Daniel Stuntz]] of the [[University of Washington]].<ref>{{cite book |author=Stamets P. |url=https://books.google.com/books?id=3u-DyDXgQiEC&pg=PA152 |title=Psilocybin Mushrooms of the World: An Identification Guide |publisher=Ten Speed Press |year=1996 |isbn=0-89815-839-7 |location=Berkeley, California |page=152 |quote=This species ... was named in honor of Dr. Daniel Stuntz, who made the type collections.}}</ref> 
+
+==Description==
+The [[pileus (mycology)|pileus]] is {{convert|0.5–3.5|cm|frac=4}}, obtusely [[conic]] to convex, expanding to convex-umbonate or flat with age.<ref name=":0">{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=209}}</ref> The margin is translucent-striate when moist and uplifted in age. It is [[hygrophanous]], glabrous, dark chestnut brown while lighter towards the center. The pileus is olive-greenish at times, fading to a pale yellowish brown or pale yellow.<ref name=":0" /> It is viscid when moist from a gelatinous [[Pellicle (biology)|pellicle]], staining slightly greenish-blue when injured or with age.
+
+The [[Lamella (mycology)|gills]] are [[adnation|adnate]] or [[sinuate]] or [[adnexed]], close to sub-distant and moderately broad, yellowish brown at first, soon violet brown or chocolate brown to blackish violet, and uniform or somewhat mottled, with whitish edges. The [[spore print]] is dark violaceous brown.<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/372/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=372 |orig-date=1979}}</ref>
+
+The [[Stipe (mycology)|stipe]] is 2–7.5&nbsp;cm x 1.5–6&nbsp;mm, equal or slightly enlarged at the base, cylindric or subcylindric, twisted striate at times, flexuous, [[glabrousness (botany)|glabrous]] to slightly fibrillose, dry, stuffed with a pith and becoming hollow, and white or whitish silky to ochraceous or brownish fibrillose. The partial veil is thinly membranous, leaving a fragile [[Annulus (mycology)|annulus]] that becomes more noticeable as it darkens with spores. It stains blue-green when injured, most noticeably on the ring.<ref name=":0" />
+
+The taste and odor are [[farinaceous]].
+
+===Microscopic features===
+The '''spores''' are 8.2–13.5 x (6) 7.1–7.7 x 5.5–6.6&nbsp;[[μm]], subrhomboid in face view, subellipsoid in side view, with a hilar appendage visible and a truncate apex with a broad germ pore, thick walled, and dingy yellow brown.
+
+The basidia are 16.5–33 x 5.5–8.8 μm, 4-spored, and [[hyaline]]. [[Pleurocystidia]] are absent and [[cheilocystidia]] are 22–30 x 4.4–6.6&nbsp;μm, abundant, forming a sterile band, hyaline, lageniform, fusiform-lanceolate or fusoid-ampullaceous, with an elongate and flexuous neck, and are 1–2.2&nbsp;μm in diameter, sometimes irregularly branched. Clamp connections are present.
+
+==Habitat and distribution==
+ ]]
+
+''Psilocybe stuntzii'' is found growing scattered to [[gregarious]] to cespitose, rarely solitary, in [[conifer]] wood chips and bark mulch, in soils rich in woody debris, and in new lawns of freshly laid sod or any newly mulched garden throughout the western region of the [[Pacific Northwest]].<ref name=":0" /> It appears from late July through December, being observed all year long in the [[Seattle]] area, also reportedly appearing in [[California]], rarely as far south as [[Santa Cruz, California|Santa Cruz]]. There was a time when this mushroom appeared in over 40 percent of all new lawns and mulched in areas in the [[Puget Sound]] region of the Pacific Northwest. Due to a disappearance of pastures south of Seattle in the Tukwila-Kent-Auburn areas, this mushroom now only appears sporadically in certain new lawns which are well fertilized and manicured.{{Citation needed|date=May 2016}}
+
+==Edibility==
+This mushroom is hallucinogenic. Additionally, it closely resembles the highly toxic ''[[Galerina marginata]]'', and several poisonings have been attributed to collectors consuming ''G. marginata'' after mistaking them for hallucinogenic ''P.&nbsp;stuntzii''.<ref name=Stamets1996>{{cite book |author=Stamets P. |title=Psilocybin Mushrooms of the World: An Identification Guide |publisher=Ten Speed Press |location=Berkeley, California |year=1996 |page=195 |isbn=0-89815-839-7 |url=https://books.google.com/books?id=3u-DyDXgQiEC&pg=PA195}}</ref>
+
+==See also==
+*[[Psilocybin mushrooms]]
+*[[List of Psilocybin mushrooms]]
+
+==Notes==
+{{Reflist}}
+
+==References==
+*Mycologia 68(6): 1261 (1977)
+*{{cite book | first=Paul | last=Stamets | year=1996 | title=Psilocybin Mushrooms of the World | publisher=Ten Speed Press | location=Berkeley | isbn=0-9610798-0-0}}
+*Guzmán, G. The Genus ''Psilocybe'': A Systematic Revision of the Known Species Including the History, Distribution and Chemistry of the Hallucinogenic Species. Beihefte zur Nova Hedwigia Heft 74. J. Cramer, Vaduz, Germany (1983) [now out of print].
+*{{Cite journal 
+| last1 = Guzmán | first1 =  Gastón
+| last2 = Ott | first2 = Jonathan
+| title = Description and chemical analysis of a new species of hallucinogenic ''Psilocybe'' from the Pacific Northwest 
+| journal = Mycologia 
+| volume = 68 
+| issue = 6 
+| pages = 1261–1267 
+|date=Nov–Dec 1976
+| pmid = 1034878
+| jstor = 3758762
+| doi = 10.2307/3758762
+}}
+
+{{Hallucinogenic mushrooms}}
+{{Taxonbar|from=Q7255938}}
+
+[[Category:Entheogens]]
+[[Category:Psychoactive fungi]]
+[[Category:Psilocybe|stuntzii]]
+[[Category:Psychedelic tryptamine carriers]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Gastón Guzmán]]
+[[Category:Fungus species]]

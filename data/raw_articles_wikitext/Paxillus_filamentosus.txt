@@ -1,0 +1,50 @@
+{{Short description|Species of fungus}}
+{{Taxobox
+| name = ''Paxillus filamentosus'' {{Italic title}}
+| image = Paxillus filamentosus 25465.jpg
+| regnum = [[Fungi]]
+| divisio = [[Basidiomycota]]
+| classis = [[Agaricomycetes]]
+| ordo = [[Boletales]]
+| familia = [[Paxillaceae]]
+| genus = ''[[Paxillus]]''
+| species = '''''P. filamentosus'''''
+| binomial = ''Paxillus filamentosus''
+| binomial_authority =  ([[Scop.]]) [[Elias Magnus Fries|Fr.]] (1838)
+| synonyms = ''Agaricus filamentosus'' <small>Scop. (1772)</small><br>
+''Paxillus rubicundulus'' <small>[[P.D.Orton]] (1969)</small>
+}}
+{{mycomorphbox 
+| name = ''Paxillus filamentosus''
+| whichGills = decurrent 
+| capShape = depressed 
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=mycorrhizal
+| sporePrintColor=brown
+| howEdible=unknown}}
+'''''Paxillus filamentosus''''', commonly known as the '''alder roll-rim''', is a [[basidiomycete]] [[fungus]] which is associated with alder (''[[Alnus]]'') in northern Europe and southwestern [[Greenland]],<ref name=Knudson2006/> and North America.<ref name=Seura1970/> It closely resembles ''[[Paxillus involutus]]'', but its [[basidiocarp|fruit bodies]] are generally smaller.<ref name=Michell2006/>
+
+Some sources regard '''''Paxillus rubicundulus''''' as a synonym,<ref>{{Cite web|title=P. rubicundulus « boletales.com|url=https://boletales.com/genera/paxillus/p-rubicundulus/|access-date=2021-07-06|website=boletales.com}}</ref> but MycoBank and Index Fungorum treat it as different species.<ref>{{Cite web|title=Paxillus rubicundulus|url=https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20#/335673|access-date=2021-07-06|website=www.mycobank.org}}</ref><ref>{{Cite web|title=Index Fungorum - Names Record|url=http://www.indexfungorum.org/names/NamesRecord.asp?RecordID=335673|access-date=2021-07-06|website=www.indexfungorum.org}}</ref>
+
+==References==
+{{Reflist|refs=
+
+<ref name=Knudson2006>{{cite book |last=Knudson |first=Henning |title=Arctic and Alpine Mycology 6 |publisher=Museum Tusculanum Press |location=Copenhagen, Denmark |date=2006 |page=12 |isbn=87-635-1277-7 |url=https://books.google.com/books?id=5OxJHNY6PGcC&pg=PA12}}</ref>
+
+<ref name=Michell2006>{{cite book |last=Michell |first=Kate |title=Field Guide to Mushrooms and Other Fungi of Britain and Europe |publisher=New Holland Publishers |date=2006 |page=94 |isbn=1-84537-474-6|url=https://books.google.com/books?id=X96A6iQwvV4C&pg=PA94}}</ref>
+
+<ref name=Seura1970>{{cite book |author=Suomen Metsätieteellinen Seura |title=Acta Forestalia Fennica |url=https://books.google.com/books?id=RfXzAAAAMAAJ |year=1970 |publisher=Suomen Metsätieteellinen Seura}}</ref>
+
+}}
+
+==External links==
+*{{MycoBank|438797}}
+
+{{Taxonbar|from=Q4458295}}
+
+[[Category:Paxillaceae]]
+[[Category:Fungi described in 1772]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]

@@ -1,0 +1,81 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Russula cyanoxantha.JPG
+| image_caption = ''Russula cyanoxantha''
+| genus = Russula
+| species = cyanoxantha
+| authority = ([[Jacob Christian Schäffer|Schaeff.]]) [[Elias Magnus Fries|Fr.]] (1863)
+| synonyms = {{hidden begin|title = List}} 
+* ''Agaricus cyanoxanthus'' <small>Schaeff. (1774)</small>
+* ''Agaricus pectinatus'' var. ''cyanoxanthus'' <small>(Schaeff.) Duby (1830)</small>
+* ''Russula vesca'' var. ''cyanoxantha'' <small>(Schaeff.) Fr. (1849)</small>
+* ''Russula variata'' <small>Banning (1881)</small>
+* ''Russula cyanoxantha'' var. ''variata'' <small>(Banning) Singer (1934)</small>
+* ''Russula cutefracta'' <small>Cooke (1881)</small>
+* ''Russula cyanoxantha'' var. ''cutefracta'' <small>(Cooke) Sarnari (1992)</small>
+* ''Russula cyanoxantha'' f. ''cutefracta'' <small>(Cooke) Sarnari (1993)</small>
+* ''Russula lilacina'' <small>Quél. ex Gillet (1884)</small>
+* ''Russula cyanoxantha'' f. ''pallida'' <small>Singer (1923)</small>
+* ''Russula cyanoxantha'' f. ''peltereaui'' <small>Singer (1925)</small>
+* ''Russula peltereaui'' <small>(Singer) Moreau (1996)</small>
+* ''Russula cyanoxantha'' f. ''atroviolacea'' <small>J.E. Lange (1938)</small>
+* ''Russula flavoviridis'' <small>Romagn. (1962)</small>
+* ''Russula cyanoxantha'' var. ''flavoviridis'' <small>(Romagn.) Sarnari (1992)</small>
+* ''Russula cyanoxantha'' var. ''subacerba'' <small>Reumaux (1996)</small>
+{{hidden end}}
+}}
+{{mycomorphbox
+| name = ''Russula cyanoxantha''
+| whichGills = adnate
+| capShape = flat
+| capShape2= convex
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=mycorrhizal
+| sporePrintColor=white
+| howEdible=choice
+}}
+
+'''''Russula cyanoxantha''''', commonly known as the '''charcoal burner''' or '''variegated russula''',<ref name=Arora1986>{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/94/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=94–95 |orig-date=1979}}</ref> is a [[basidiomycete]] mushroom. It can be confused for a number of other members of its genus. Found mostly in Europe (with North American counterparts), it is an [[edible mushroom]].
+
+==Description==
+The most salient characteristic is the weak gills, which feel greasy to the touch, are flexible and do not break. The cap is {{Convert|4-18|cm|abbr=on|frac=4}} wide, convex at first and later flattened, and greenish to bright brown; they vary considerably in color.<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=108–109|oclc=797915861}}</ref> The white-to-cream [[Lamella (mycology)|gills]] are sometimes forked<ref name="audu" /> and are not as brittle as most other members of the genus.<ref name=Arora1986/> The stipe is pure white, slightly convex underneath, from {{Convert|2.5-12|cm|abbr=on|frac=4}} in height and {{Convert|1–5|cm|abbr=on|frac=4}} in diameter.<ref name=":0" /><ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=196}}</ref>
+
+The spores are white,<ref name=":0" /> as is the [[spore print]].<ref name="audu" /> The stipe does not produce a salmon reaction when rubbed with [[ferrous sulphate]].<ref name=Arora1986/>
+
+=== Similar species ===
+
+The cap of the grey-green ''[[Russula grisea]]'' is more blue-grey but has violet or green hues with light cream gills; it also grows in mixed forests, particularly under beech, and more rarely in [[conifer]]ous forests. ''[[Russula olivacea]]'' also may have a variegated cap, but produces yellow spores.<ref name=":0" /> ''[[Russula aeruginea|R.&nbsp;aeruginea]]'' is greenish and has forked gills. ''[[Russula variata|R.&nbsp;variata]]'' is frequently forked and found in the east. ''[[Russula versicolor|R.&nbsp;versicolor]]'' has yellowish, unforked gills.<ref name="audu" />
+
+==Habitat and distribution==
+''Russula cyanoxantha'' grows in slightly [[Soil pH|acidic]], but nutrient-rich soil. Like all ''Russulas'', it is a [[mycorrhiza]]l fungus. It is found most commonly in [[beech]] forests, and often in deciduous or mixed forests.
+
+It is possible that only European specimens are actually ''R.&nbsp;cyanoxantha''.<ref name="audu" /> It has been described as appearing from July to October in eastern North America and the [[Mountain states]], and from October to January further west.<ref name="audu" />
+
+==Uses==
+The [[edible mushroom]]<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |orig-year=2005 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=137}}</ref> is suitable for many kinds of preparation; the flesh is not as hard as that of many other edible Russulas. It has a mild,<ref name=":0" /> nutty taste, but is also appreciated by maggots.<ref name="Arora1986" />
+
+== In culture ==
+It was designated "Mushroom of the Year" in 1997 by the German Association of Mycology.
+
+==See also==
+*[[List of Russula species|List of ''Russula'' species]]
+
+==References==
+{{reflist}}
+
+*E. Garnweidner. ''Mushrooms and Toadstools of Britain and Europe''. Collins. 1994.
+
+==External links==
+*{{Wikispecies-inline}}
+*{{Commons-inline|Russula cyanoxantha}}
+* [https://web.archive.org/web/20060907234148/http://www.mtsn.tn.it/russulales-news/tx_photos.asp?index=5391 Russulales News page on ''Russula cyanoxantha'']
+
+{{Taxonbar|from=Q246696}}
+
+[[Category:Russula|cyanoxantha]]
+[[Category:Fungi of Europe]]
+[[Category:Edible fungi]]
+[[Category:Taxa named by Jacob Christian Schäffer]]
+[[Category:Fungi described in 1774]]
+[[Category:Fungus species]]

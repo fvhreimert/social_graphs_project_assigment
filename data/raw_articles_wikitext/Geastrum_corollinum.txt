@@ -1,0 +1,44 @@
+{{Speciesbox
+| image = Geastrum corollinum.jpg
+| genus = Geastrum
+| species = corollinum
+| authority = ([[Batsch]]) [[László Hollós|Hollós]] (1904)
+| synonyms_ref = <ref name="urlMycoBank: Geastrum corollinum"/>
+| synonyms = ''Lycoperdon corollinum'' <small>Batsch (1783)</small><br>
+''Lycoperdon recolligens'' <small>[[With.]] (1792)</small><br>
+''Geastrum recolligens'' <small>(With.) Desvaux (1809)</small><br>
+''Geastrum mammosum'' <small>[[Chevall.]] (1826)</small>
+}}
+{{mycomorphbox 
+| capShape =no 
+| hymeniumType=gleba 
+| whichGills=NA
+| stipeCharacter=NA
+| ecologicalType=saprotrophic 
+| sporePrintColor=brown 
+| howEdible=inedible 
+}}
+'''''Geastrum corollinum''''' is an inedible species of [[mushroom]] belonging to the genus ''[[Geastrum]]'',<ref name="Miller 2006">{{cite book|last=Miller Jr.|first=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuides]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=446|author-link=Orson K. Miller Jr.}}</ref> or earthstar fungi. First [[species description|described]] scientifically by German naturalist [[August Johann Georg Karl Batsch]] in 1792 as ''Lycoperdon corollinum'',<ref name=Batsch1792/> it was transferred to the genus ''[[Geastrum]]'' by [[László Hollós]] in 1904.<ref name=Hollos1904/>
+
+==References==
+{{Reflist|refs=
+
+<ref name=Batsch1792>{{cite book |author=Batsch AJGK. |title=Elenchus fungorum |page=151 |language=Latin}}</ref>
+
+<ref name=Hollos1904>{{cite book |author=Hollós L. |title=Die Gasteromyceten Ungarns |year=1904 |page=154 |language=German}}</ref>
+
+<ref name="urlMycoBank: Geastrum corollinum">{{cite web |title=''Geastrum corollinum'' (Batsch) Hollós 1904 |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=118893 |publisher=[[MycoBank]]. International Mycological Association |accessdate=2012-02-10}}</ref>
+
+}}
+
+{{Taxonbar|from=Q5223613}}
+
+[[Category:Geastrum|corollinum]]
+[[Category:Fungi of Europe]]
+[[Category:Inedible fungi]]
+[[Category:Taxa named by August Batsch]]
+[[Category:Fungi described in 1792]]
+[[Category:Fungus species]]
+
+
+{{Geastrales-stub}}

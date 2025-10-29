@@ -1,0 +1,45 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = 
+| image_caption = 
+| taxon = Gymnopilus subearlei
+| authority = R.Valenz., [[Gastón Guzmán|Guzmán]] & J.Castillo (1981)
+| synonyms = 
+}}
+{{mycomorphbox
+| name = Gymnopilus subearlei
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=psychoactive
+}}
+
+'''''Gymnopilus subearlei''''' is a [[species]] of [[mushroom]]-forming [[fungus]] in the family [[Hymenogastraceae]].
+
+==Description==
+The cap is bright yellow to pale off-white yellow with amber fibrous scales, and ranges from 0.25 — 1.25in. in diameter.
+The stem is 0.25 — 2in. long and 0.06 — 0.25in. wide. It is white, fibrous, and stains yellow to brown where handled. The flesh of this mushroom stains blue and it contains the hallucinogen [[psilocybin]].<ref name=GuzmanDavalos2006>{{cite journal |author=Guzmán-Dávalos L. |journal=International Journal of Medicinal Mushrooms |year=2006 |volume=8 |issue=3 |pages=289–293 |issn=1521-9437 |doi=10.1615/intjmedmushr.v8.i3.110 |title=A New Bluing, Probably Hallucinogenic Species of Gymnopilus P. Karst. (Agaricomycetideae) from Mexico}}</ref> It has a yellowish-orange spore print.
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==Phylogeny==
+This species is in the lepidotus-subearlei infrageneric grouping of the genus ''[[Gymnopilus]]''.<ref name=Guzman-Davalos2003>{{cite journal |vauthors=Guzman-Davalos L, Mueller G, Cifuentes J, Miller AN, Santerre A |title=Traditional infrageneric classification of ''Gymnopilus'' is not supported by ribosomal DNA sequence data |journal=Mycologia  |year=2003 |pages=1204–14}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q5624994}}
+
+[[Category:Gymnopilus|subearlei]]
+[[Category:Fungi described in 1981]]
+[[Category:Taxa named by Gastón Guzmán]]
+[[Category:Fungus species]]
+
+
+{{Hymenogastraceae-stub}}

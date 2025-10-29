@@ -1,0 +1,67 @@
+{{Short description|Species of fungus}}
+{{Distinguish|Psilocybe subaeruginosa}}
+{{Speciesbox
+| image = 
+| image_caption = 
+| genus = Psilocybe
+| species = subaeruginascens
+| authority = Hohnel
+}}{{mycomorphbox
+| name = ''Psilocybe subaeruginascens''
+| whichGills = adnate
+| whichGills2 = 
+| capShape = campanulate
+| capShape2 = conical
+| hymeniumType = gills
+| stipeCharacter = ring
+| ecologicalType = saprotrophic
+| sporePrintColor = blackish-brown
+| howEdible = psychoactive
+}}
+
+'''''Psilocybe subaeruginascens''''' is a [[psychedelic mushroom]] which has [[psilocybin]]<ref>{{Cite book |last=ministerrådet |first=Nordiska |title=Occurrence and use of hallucinogenic mushrooms containing psilocybin alkaloids |date=2009 |publisher=Nordiska ministerrådets förlag |isbn=978-92-893-1836-5 |location=Copenhagen |page=64}}</ref> and [[psilocin]] as main active compounds.  This mushroom is closely related to ''Psilocybe ovoideocystidiata''.{{citation needed|date=June 2025}}
+
+==Description==
+The cap is 20–30&nbsp;mm, and conical, to  broadly [[campanulate]] (bell-shaped) or umbonate. It has a striated,  ivory or pale-gray/brown colour, with a blue-green tinge and is [[hygrophanous]]. It does not change colour in reaction to [[Potassium hydroxide|KOH]].<ref name="Silva et al. 2014"/><ref name="Horak et al. 2006"/>
+
+The tough white [[Stipe (mycology)|stipe]] measures 40-65 x 2–3&nbsp;mm. It is smooth to finely hairy though its base has conspicuous white [[rhizoid]]s and [[Mycelium|mycelial]] strands attached to substrate. It has a fragile, fleeting, white [[Annulus (mycology)|ring]] left by its [[partial veil]]. It bruises blue-green where damaged. The flesh is tough, white, blues when touched and its odor is unpleasant.<ref name="Horak et al. 2006"/>
+
+The [[Lamella (mycology)|gills]] are a pale brown, to yellowish brown color when young, becoming dark brown with white fringed edges in age. They have an adnate attachment, are crowded and somewhat forked.<ref name=":0">{{Cite book |last=Stamets |first=Paul |title=Psilocybin mushrooms of the world: an identification guide |date=1996 |publisher=Ten Speed Press |isbn=978-0-89815-839-7 |location=Berkeley, Calif |pages=152–153}}</ref> Its [[spore print]] is dark brown or black.<ref name="Horak et al. 2006"/>
+
+=== Microscopic Features ===
+The [[spore]]s measure 8-9.5x 5-6.5 x 4.5-5.5 μm, and are elliptical to subrhomboid in face view and almond-shaped in side view. They have thick-walls (1-1.3 μm in diameter), with distinct [[germ pore]] at its apex, and are smooth and opaque. The [[Basidium|basidia]] are 24-30 x 6-8 μm in size, and are cylindrical. They have 4 spores each, and have [[sterigma]]ta that are up to 7 μm long.<ref name="Horak et al. 2006"/><ref name="Silva et al. 2014"/>
+
+The [[Cystidium|cheilocystidia]] measure 18-24 x 6-10 μm, and are spindle to urn-shaped, with a rounded or slightly swollen apex. The apex is sometimes covered in a thin, transparent crust. The spores have thin-walls, and are transparent. [[Cystidium|Pleurocystidia]] and [[Cystidium|caulocystidia]] absent. [[Clamp connection]]s are present.
+
+The [[hypha]]e of the [[pileipellis]] run in parallel to the cap surface, and are transparent, to pale yellow. They are 4-10 μm in diameter and are non-gelatinized, and non-incrusted, with no distinct terminal cells. The [[Pellis|subpellis]] is made up of transparent, irregularly interwoven, thin-walled hyphae.<ref name="Horak et al. 2006"/> The [[Pellis|stipitipellis]] has parallel, transparent to yellowish brown, thin-walled hyphae that are 5–7 μm wide.<ref name="Silva et al. 2014"/>
+
+==Distribution and habitat==
+''Psilocybe subaeruginascens'' grows in gregariously and in [[cespitose]] clusters in wood chips, piles of leaves, and woody debris in urban areas and along trails and roads in deciduous forests and gardens. It is occasionally found in dung. It is found from April to July in southern Japan and subtropical Indonesia .<ref name=":0" />
+
+== Use ==
+A study in 1981 found that the mycelium of ''P. subaeruginascens'' has a psilocybin concentration of .017-.018%.<ref>{{Cite journal |last1=Koike |first1=Yutaka |last2=Wada |first2=Kohko |last3=Kusano |first3=Genjiro |last4=Nozoe |first4=Shigeo |last5=Yokoyama |first5=Kazumasa |date=May 1981 |title=Isolation of Psilocybin From Psilocybe argentipes and Its Determination in Specimens of Some Mushrooms |url=https://pubs.acs.org/doi/abs/10.1021/np50015a023 |journal=Journal of Natural Products |language=en |volume=44 |issue=3 |pages=362–365 |doi=10.1021/np50015a023 |bibcode=1981JNAtP..44..362K |issn=0163-3864}}</ref> In his book ''Psilocybin Mushrooms of the World: An Identification Guide'', [[Paul Stamets]] describes the mushrooms as moderately potent.<ref name=":0" /> Possession of this mushroom is banned in Japan.<ref>{{Cite journal |last1=Gonmori |first1=Kunio |last2=Yokoyama |first2=Kazumasa |date=March 2009 |title=[Acute encephalopathy caused by cyanogenic fungi in 2004, and magic mushroom regulation in Japan] |journal=Chudoku Kenkyu: Chudoku Kenkyukai Jun Kikanshi = the Japanese Journal of Toxicology |volume=22 |issue=1 |pages=61–69 |issn=0914-3777 |pmid=19344063}}</ref>
+
+It can [[oxidize]] [[naphthalene]].<ref>{{Cite book |last=Rosenberg |first=E. |title=Microorganisms to Combat Pollution |date=1993 |publisher=Springer Netherlands |isbn=978-94-011-1672-5 |location=Dordrecht |page=355}}</ref>
+
+==See also==
+*[[List of Psilocybin mushrooms]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Horak et al. 2006">{{Cite journal |last1=Horak |first1=Egon |last2=Desjardin |first2=Dennis D |date=June 2006 |title=Agaricales of Indonesia. 6. Psilocybe (Strophariaceae) from Indonesia (Java, Bali, Lombok) |url=https://www.researchgate.net/publication/259600119 |journal=[[Sydowia]] |volume=58 |pages=15–37}}</ref>
+
+<ref name="Silva et al. 2014">{{Cite journal |last1=Silva |first1=P. S. |last2=Silveira |first2=R. M. B. |last3=Cortez |first3=V. G. |date=December 2014 |title=Notes on Deconica and Psilocybe (Agaricales) from the southern border of Atlantic forest and Pampa biomes of Brazil |url=https://www.verlag-berger.at/detailview?no=2482 |journal=Sydowia|issue=66 |pages=217–228 |doi=10.12905/0380.sydowia66(2)2014-0217 |issn=0082-0598}}</ref>
+
+}}
+
+*Guzman, G. The Genus Psilocybe: A Systematic Revision of the Known Species Including the History, Distribution and Chemistry of the Hallucinogenic Species. Beihefte zur Nova Hedwigia Heft 74. J. Cramer, Vaduz, Germany (1983) [now out of print].
+
+{{Hallucinogenic mushrooms}}
+{{Taxonbar|from=Q10644848}}
+
+[[Category:Entheogens]]
+[[Category:Psychoactive fungi]]
+[[Category:Psilocybe|subaeruginascens]]
+[[Category:Psychedelic tryptamine carriers]]
+[[Category:Fungus species]]

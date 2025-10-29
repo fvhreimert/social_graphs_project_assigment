@@ -1,0 +1,67 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Psilocybe_quebecensis.jpg
+| genus = Psilocybe
+| species = quebecensis
+| authority = Ola'h & R. Heim 1967
+}}
+{{mycomorphbox 
+| name = ''Psilocybe quebecensis''
+| whichGills = adnate 
+| whichGills2 = sinuate
+| capShape = convex
+| capShape2=conical 
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=saprotrophic
+| sporePrintColor=purple-brown
+| howEdible=psychoactive
+}}
+
+'''''Psilocybe quebecensis''''' is a moderately active [[hallucinogen]]ic [[mushroom]] in the section Aztecorum, having [[psilocybin]] and [[psilocin]] as main active compounds. Native to [[Quebec]], it is the most northern known [[psilocybin]] mushroom after ''Psilocybe semilanceata'' in northern Scandinavia.<ref>{{Cite journal 
+| last1 = Oláh | first1 = G. M. 
+| title = The fine structure of Psilocybe quebecensis 
+| journal = Mycopathologia et Mycologia Applicata 
+| volume = 49 
+| issue = 4 
+| pages = 321–338 
+|date=April 1973
+| pmid = 4122667
+| quote = [...] the so far known most northern ''Geophila'' exhibiting psychodysleptic action.
+ | doi=10.1007/bf02050725
+| s2cid = 6371933 
+}} {{closed access}}</ref>
+Macroscopically this mushroom somewhat resembles ''[[Psilocybe baeocystis]]''.
+
+==Etymology==
+Named for the province [[Quebec]], where it was discovered.
+
+== Description ==
+*'''Cap''': {{convert|1|-|3|cm|in|2|abbr=on}} ({{convert|3.5|cm|in|2|abbr=on|disp=or}}) in diameter. Nearly [[hemispheric]] to [[wikt:convex|convex]] at first, becoming [[subcampanulate]] to more or less plane when mature, viscid and even to translucent-striate when moist, [[hygrophanous]],   brownish to straw colored, yellowish to milk white when dry. Surface smooth, may become finely wrinkled with age,  flesh whitish. Readily stains blue-green where injured.
+*'''Gills''': Adnate, thin, moderately broad to swollen in the middle. Grayish yellow with green tones becoming dark brown at maturity,  with the edges remaining whitish.
+*'''Spore Print''': Dark purplish brown.
+*'''[[Stipe (mycology)|Stipe]]''': {{convert|2|-|3.5|cm|in|2|abbr=on}} ({{convert|4.5|cm|in|2|abbr=on|disp=or}}) long by {{convert|1|-|2|mm|in|3|abbr=on}} ({{convert|2.5|mm|in|3|abbr=on|disp=or}}) thick. Equal, slightly subbulbous, smooth to striate, brittle, tough, and fibrous, base is furnished with long conspicuous [[rhizomorphs]]. Yellowish or brownish towards the base, whitish when dry, partial veil cortinate, and soon disappearing,  no [[Annulus (mycology)|annulus]] present, readily bruises blue.
+*'''Taste''': Somewhat farinaceous
+*'''Odor''': Farinaceous
+*'''Microscopic features''': Spores [[ellipsoid]] to [[subovoid]] in side and face view some spores mango shaped, 8.8–11&nbsp;μm (16&nbsp;μm) × 6.6–7.7&nbsp;μm (8.8&nbsp;μm). [[Basidia]] 15–20&nbsp;μm  (28&nbsp;μm) 4-spored. [[Pleurocystidia]] present, 12–25&nbsp;μm (35&nbsp;μm) × (3&nbsp;μm) 5–10&nbsp;μm (15&nbsp;μm), relatively polymorphic, often fusiform-ventricose or ampullaceous. [[Cheilocystidia]] (18&nbsp;μm) 22–36&nbsp;μm × 5.5–8.8&nbsp;μm (10&nbsp;μm), fusoid-ampullaceous with an extended neck, 2–3.3&nbsp;μm thick, abundant, forming a sterile band, sometimes with a hyaline viscous drop at the apex.
+
+==Habitat and formation==
+Solitary to gregarious, rarely cespitose, on rotting wood, particularly in the outwashes of streams in the decayed-wood substratum of alder, birch, fir and spruce in the late summer and fall. Reported from [[Quebec, Canada]] specifically in the [[Jacques-Cartier River]] Valley, fruiting at a temperature of {{convert|6|to|15|°C|°F}} from summer to late October. Recently found in the United States ([[Michigan]]). Originally discovered in 1966, P.Quebecensis has also been confirmed growing in at least one area within Cape Breton, Nova Scotia.
+
+==References==
+{{Reflist}}
+
+==Further reading==
+*{{cite book | first=Paul | last=Stamets | year=1996 | title=Psilocybin Mushrooms of the World | publisher=Ten Speed Press | location=Berkeley | isbn=0-9610798-0-0}}
+*Guzman, G. The Genus Psilocybe: A Systematic Revision of the Known Species Including the History, Distribution and Chemistry of the Hallucinogenic Species. Beihefte zur Nova Hedwigia Heft 74. J. Cramer, Vaduz, Germany (1983) [now out of print].
+*Ola'h, Gyorgy Miklos & Heim, R. 1967. Une nouvelle espèce nord-américaine de Psilocybe hallucinogène: ''Psilocybe quebecensis''. Comptes Rendus Hebdomadaires des Séances de l'Académie des Sciences 264: 1601-1604.
+
+{{Hallucinogenic mushrooms}}
+{{Taxonbar|from=Q7255929}}
+
+[[Category:Entheogens]]
+[[Category:Psychoactive fungi]]
+[[Category:Psilocybe|quebecensis]]
+[[Category:Psychedelic tryptamine carriers]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]

@@ -1,0 +1,53 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Gomphidius roseus.jpg
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=iucn>{{cite iucn |author=Dahlberg, A. |year=2019 |errata=2022 |title=''Gomphidius roseus'' |volume=2019 |article-number=e.T122090530A222970232 |doi=10.2305/IUCN.UK.2019-3.RLTS.T122090530A222970232.en |access-date=1 July 2024}}</ref>
+| genus = Gomphidius
+| species = roseus
+| authority = ([[Elias Magnus Fries|Fr.]]) [[Cornelius Anton Jan Abraham Oudemans|Oudem.]] (1867)
+}}
+{{Mycomorphbox
+| name = ''Gomphidius roseus''
+| whichGills = decurrent
+| capShape = flat
+| capShape2= convex
+| hymeniumType=gills
+| stipeCharacter=ring
+| ecologicalType=parasitic
+| sporePrintColor=blackish-brown
+| howEdible=edible
+}}
+
+'''''Gomphidius roseus''''', commonly known as the '''rosy spike-cap''' or '''pink gomphidius''', is a [[gilled mushroom]] found in [[Europe]]. Although it has [[Lamella (mycology)|gills]], it is a member of the order [[Boletales]], along with the boletes. It is a coral pink-capped mushroom which appears in pine forests in autumn, always near the related mushroom ''[[Suillus bovinus]]'', on which it appears to be [[Parasitism|parasitic]].
+
+== Taxonomy ==
+
+''Gomphidius roseus'' was initially described by [[Sweden|Swedish]] mycologist [[Elias Magnus Fries]] as ''Agaricus glutinosus β roseus'' in 1821,<ref>{{cite book |title=Systema mycologicum, sistens fungorum ordines, genera et species huc usque cognitas [Taxonomical System for Mycology, consisting of an ordering of the fungi, genera and species, as currently understood], Vol. 1 |last=Fries |first=Elias Magnus |author-link=Elias Magnus Fries|year=1821 |page=315|language=la}}</ref> before he elevated it to species status and gave its current genus and binomial name in 1838. The genus name is derived from the [[Ancient Greek|Greek]]  'γομφος' ''gomphos'' meaning "plug" or "large wedge-shaped nail".<ref>{{cite book|last=Liddell | first= Henry George | last2= Scott | first2= Robert |year=1980|title=Greek-English Lexicon, Abridged Edition|publisher=Oxford University Press, Oxford, UK|isbn=978-0-19-910207-5|url=https://archive.org/details/lexicon00lidd}}</ref> The [[specific name (botany)|specific epithet]] ''roseus'' is the [[Latin]] adjective "pink".<ref>{{cite book|last= Simpson | first= Don P. | title = Cassell's Latin Dictionary  | publisher = Cassell Ltd.| year = 1979|edition = 5|location = London|page = 883| isbn=978-0-304-52257-6}}</ref>
+
+== Description ==
+
+The mushroom has a coral-pink [[pileus (mycology)|cap]] up to {{convert|5|cm|in|round=0.5|abbr=on}} in diameter, though sometimes larger, which is initially convex and later flattens and becomes a more brick-like colour with maturity. Often slimy or sticky as with other members of the genus, its cap lacks the blackish markings of the related ''[[Gomphidius glutinosus|G. glutinosus]]''.<ref name=Nilper>{{cite book| last= Nilson | first=Sven | last2= Persson | first2=Ole | year = 1977 | title = Fungi of Northern Europe 1: Larger Fungi (Excluding Gill-Fungi) | publisher = Penguin|isbn=978-0-14-063005-3|page=112}}</ref> The [[stipe (mycology)|stipe]] is {{convert|2.5|–|4.5|cm|in|abbr=on}} high and 0.4–1&nbsp;cm wide and bears an indistinct [[annulus (mycology)|ring]]. It is white with a pinkish or wine-coloured tint and often flushed yellow at the base. The whitish flesh may also be tinged pink and has little taste or smell. The decurrent [[lamella (mycology)|gills]] are grey, and the [[spore print]] is brownish-black.<ref name=Phillips06>{{cite book| first= Roger | last= Phillips | year = 2006  | title = Mushrooms | publisher = Pan MacMillan | isbn = 978-0-330-44237-4|pages=270–71}}</ref>
+
+== Distribution and habitat ==
+
+An uncommon fungus, ''Gomphidius roseus'' is found in Europe, but not in [[North America]]. A similar pinkish species, ''[[Gomphidius subroseus|G. subroseus]]'' occurs in North America.<ref name=Arora2nd>{{cite book |first=David | last=Arora |year=1986 |title=Mushrooms Demystified |publisher=Ten Speed Press |isbn=978-0-89815-169-5 |page=[https://archive.org/details/mushroomsdemysti00aror_0/page/483 483] |url=https://archive.org/details/mushroomsdemysti00aror_0/page/483 }}</ref> ''G. roseus'' is found in Ukraine.<ref>{{cite journal |last1=Akulov |first1=O.Yu |last2=Pryidiuk |first2=M.P. |title=] The preliminary checklist of boletoid fungi of Ukraine |journal=Pagine di Micologia |date=2007 |volume=27 |issue=117-144 |url=https://www.researchgate.net/profile/Mykola-Prydiuk/publication/323320519_The_preliminary_checklist_of_boletoid_fungi_of_Ukraine/links/5a8da6cea6fdcc808c0e4934/The-preliminary-checklist-of-boletoid-fungi-of-Ukraine.pdf}}</ref> It is found in pine woods, particularly ''[[Pinus sylvestris]]'', associated with ''[[Suillus bovinus]]'', and is often hidden in undergrowth.<ref name=Haas69>{{cite book | last = Haas |first=Hans | year = 1969 | title = The Young Specialist looks at Fungi |page=52| publisher = Burke | isbn= 978-0-222-79409-3}}</ref> Fruiting bodies sprout in the autumn.<ref name=Phillips06/>
+
+== Ecology ==
+
+Like other members of the family Gomphidiaceae, ''Gomphidius roseus'' has been thought to be [[ectomycorrhizal]], forming symbiotic relationship with their host trees. However, it is found exclusively with the related  Jersey cow mushroom (''[[Suillus bovinus]]''), and is now thought to be [[parasitism|parasitic]] upon its [[mycelia|mycelium]].<ref name="Olsson 2000"/> This is evidenced by microscopic examination, which shows that ''G.&nbsp;roseus'' inserts [[Haustorium|haustoria]] in plant root cells and does not produce significant mycelium itself. Furthermore, ''G.&nbsp;roseus'' is never found growing in isolation, only with ''S.&nbsp;bovinus'' though the latter species is found without the former.<ref name="Olsson 2000">{{cite journal |vauthors=Olsson PA, Munzenberger B, Mahmood S, Erland S |year=2000 |title=Molecular and anatomical evidence for a three-way association between ''Pinus sylvestris'' and the ectomycorrhizal fungi ''Suillus bovinus'' and ''Gomphidius roseus'' |journal=Mycological Research |volume=104 |issue=11 |pages=1372–78  |doi=10.1017/S0953756200002823|url=http://lup.lub.lu.se/record/146986 }}</ref><!-- cites previous 2 sentences -->
+
+== Edibility ==
+
+''Gomphidius roseus'' is not known to be [[Toxin|toxic]] but is reported to be of poor quality and hence not recommended for picking.<ref name=Phillips06/><ref name=Lamaison05>{{cite book |title=The Great Encyclopedia of Mushrooms |last=Lamaison |first=Jean-Louis |author2=Polese, Jean-Marie |year=2005 |publisher=Könemann |isbn=978-3-8331-1239-3|page=34}}</ref>
+
+== References ==
+{{commons category}}
+{{Reflist}}
+
+{{Taxonbar|from=Q1931554}}
+
+[[Category:Boletales]]
+[[Category:Fungi of Europe]]
+[[Category:Fungus species]]

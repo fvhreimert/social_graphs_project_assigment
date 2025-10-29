@@ -1,0 +1,126 @@
+{{Short description|Species of edible musroom}}
+{{more footnotes|date=April 2022}}
+{{Speciesbox
+| image = Seta de cardo (Pleurotus eryngii), 2012-10-03, DD 01.JPG
+| image_alt = Two Pleurotus eryngii mushrooms, one standing up and another laying on its side with its cap facing away from the camera.
+| genus = Pleurotus
+| species = eryngii
+| authority = ([[A. P. de Candolle|DC.]]) [[Lucien Quélet|Quél.]] 1872
+}}
+{{mycomorphbox 
+| name = ''Pleurotus eryngii''
+| whichGills = decurrent 
+| capShape = depressed
+| capShape2=offset 
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=saprotrophic
+| sporePrintColor=white
+| howEdible=choice}}
+
+'''''Pleurotus eryngii''''' (also known as '''king trumpet mushroom''', '''French horn mushroom''', '''eryngi''', '''king oyster mushroom''', '''king brown mushroom''', '''boletus of the steppes,'''{{#tag:ref|The name "boletus of the steppes" is misleading as ''Pleurotus eryngii'' is a gilled mushroom in order [[Agaricales]], and ''Boletus'' is a genus of mushrooms with pores rather than gills in order [[Boletales]].|group=Note}} '''trumpet royale''', '''aliʻi oyster''') is an [[edible mushroom]] native to [[Mediterranean Basin|Mediterranean]] regions of Europe, the Middle East, and North Africa, but also [[fungiculture|grown]] in many parts of Asia.<ref name=iprime/>
+
+==Taxonomy==
+Its species name is derived from the fact that it grows in association with the roots of ''[[Eryngium campestre]]'' or other ''[[Eryngium]]'' plants (English names: 'sea holly' or 'eryngo'). ''P. eryngii'' is a [[species complex]], and a number of [[variety (botany)|varieties]] have been described, with differing plant associates in the carrot family ([[Apiaceae]]).
+* ''Pleurotus eryngii'' var. ''eryngii'' <small>(DC.) Quél 1872</small> – associated with ''Eryngium'' ssp.
+* [[Pleurotus eryngii var. ferulae|''Pleurotus eryngii'' var. ''ferulae'' <small>(Lanzi) Sacc.</small>]] <small>1887</small> – associated with ''[[Ferula communis]]''<ref name=israel/>
+* ''Pleurotus eryngii'' var. ''tingitanus'' <small>Lewinsohn 2002</small> – associated with ''[[Ferula tingitana]]''<ref name=israel/>
+* ''Pleurotus eryngii'' var. ''elaeoselini'' <small>Venturella, Zervakis & La Rocca 2000</small> – associated with ''[[Elaeoselinum asclepium]]''<ref name=vent00/><ref name=estrada10/>
+* ''Pleurotus eryngii'' var. ''thapsiae'' <small>Venturella, Zervakis & Saitta 2002</small> – associated with ''[[Thapsia garganica]]''<ref name=vent02/>
+Other specimens of ''P. eryngii'' have been reported in association with plants in the genera ''[[Ferulago]]'', ''[[Cachrys]]'', ''[[Laserpitium]]'', and ''[[Diplotaenia]]'', all in Apiaceae.<ref name=zerv01/>
+
+Molecular studies have shown ''[[Pleurotus nebrodensis]]'' to be closely related to, but distinct from, ''P. eryngii''.<ref name=zerv01/> ''[[Pleurotus fossulatus]]'' may be another closely related species.<ref name=zerv01/>
+
+==Description==
+]]
+''Pleurotus eryngii'' is the largest species in the oyster mushroom genus, ''[[Pleurotus]]'', which also contains the oyster mushroom ''[[Pleurotus ostreatus]]''. It has a thick, meaty white stem and a small tan cap (in young specimens). Its natural range extends from the [[Atlantic Ocean]] through the [[Mediterranean Basin]] and [[Central Europe]] into [[Western Asia]] and [[India]].<ref name=zerv01/> Unlike other species of ''Pleurotus'', which are primarily [[wood-decay fungus|wood-decay fungi]], the ''P. eryngii'' complex are also weak [[parasite]]s on the roots of [[herbaceous plant]]s in the carrot family ([[Apiaceae]]), although they may also be [[fungiculture|cultured]] on organic wastes.<ref name=zerv01/><ref name=mushnews/>
+
+=== Verification ===
+{{cleanup section|reason=Too finely focused on a particular study. Morphological + genetic grouping is useful though, and we should attempt to match these with varieties and put them in the taxonomy section. A passing mention of what can be used to distinguish them molecularly (RAPD) and what can't (ITS) can be kept.|date=April 2022}}
+, [[Spain]]]]
+
+Sequence analysis of the ITS1–5.8S rDNA–ITS2 of ''P. eryngii'' and the control strains ''P. ostreatus'' and ''P. ferulae'', demonstrated that the DNA regions share almost 99% of sequence identity, indicating closely related mushroom strains. ITS1–5.8S rDNA–ITS2 sequence analysis is DNA sequencing used to confirm the mushroom species at hand, although it does distinguish variants in the mushroom species. RAPD are superior to DNA sequence-based methods with distinguishing strains in species. To verify the mushroom strains RAPD was used, and DNA fragments were amplified from the total cellular DNA. Verification of ''Pleurotus eryngii'' strains was assessed using ITS sequence analysis and RAPD fingerprinting. Analysis of the DNA fragment pattern showed that the 22 ''P. eryngii'' strains were clearly distinguished from the control strains ''P. ostreatus'' and ''P. ferulae'', and could be categorized into five subgroups:
+* Group 1- commonly showed widely spaced gills under the convex cap. They tended to form small fruiting bodies. Eastern Europe. 24-25C optimum growth
+* Group 2- funnel-shaped cap phenotype with a stout stem. Members in this group grew faster than other mushrooms. They required 15–16 d from the fructification for harvest whereas the others required 18–21 d.
+* Group 3- shared similar morphological characteristics; they formed thin fruiting bodies with a small convex cap. Strains KNR2514 and KNR 2522
+* Group 4- resembled group I mushrooms morphologically but grew at around 27 °C.
+* Group 5- was collected from Iran; they grew as mycelia but hardly formed fruiting bodies. In this group, we only succeeded in generating fruiting bodies for KNR2517, which had a wide, white, convex cap. Their optimal growth temperature was the lowest among the strains tested (19–21 °C), which may reflect their geographical origin.
+
+=== Phylogeny ===
+
+''Pleurotus'' populations growing on [[umbellifer]]s seem to have recently diverged through a [[sympatric speciation]] process, that is based on both intrinsic reproductive barriers and extrinsic ecogeographical factors.{{citation needed|date=May 2022}}
+
+''Pleurotus eryngii'' is a [[Saprotrophic nutrition|saprotrophic]] fungus. Saprotrophic fungi use the process of chemoheterotrophic extracellular digestion involved in the processing of decayed organic matter. They are also an NTF, [[nematode-trapping fungi]], that survives by trapping and digesting nematodes working as a natural pesticide. These fungi produce trapping devices to capture, kill, and digest nematodes as food sources. Traps are not only the weapons that NTF use to capture and infect nematodes but also an important indicator of their switch from a saprophytic to a predacious lifestyle. ''Pleurotus eryngii'' can live both saprophytically on organic matter and as predators by capturing tiny animals. The development of traps shows their evolutionary importance of them. They provide a crucial role in obtaining nutrients and may confer competitive advantages over non-predatory fungi. This fungal carnivorism diverged from saprophytism about 419 million years ago (Mya), after the origin of nematodes about 550–600 Mya. This following evolution of the fungi after the nematode suggests the co-evolution of the species. Phylogenetic analysis suggested that NTF have a common ancestor and the ability to capture nematodes has been an important trait for speciation and diversification within the clade.{{citation needed|date=May 2022}}
+
+''P. eryngii'' extract reduced the number of ''[[Panagrellus]]'' sp. larvae after 24 h by 90%.  ''P. eryngii'' fungus has predatory activity against ''Panagrellus'' sp. larvae due to toxin production and negatively affects ''[[Meloidogyne javanica]]'' eggs and juveniles development.{{citation needed|date=May 2022}}
+
+==Uses==
+
+The mushroom has a good shelf life and is cultivated widely. It has little flavor or aroma when raw. When cooked, it develops rich [[umami]] flavor and a meaty texture. When cultivating [[Random amplified polymorphic DNA]] (RAPD) can be used in the mushroom industry for the classification and maintenance of high-quality mushroom spawns.{{citation needed|date=August 2022}} ''P. eryngii'', are commercially produced, edible mushrooms, with ''P. eryngii'' making up 30% of the Korean edible mushroom market since its introduction in 1995.{{citation needed|date=August 2022}} It is commonly used as a meat substitute in many vegan recipes.{{citation needed|date=August 2022}}
+
+''Pleurotus eryngii'' may contain chemicals that stimulate the immune system.<ref name="pmid = 18577373"/> Dietary intake of ''Pleurotus eryngii'' may function as cholesterol-lowering dietary agent.<ref>{{Cite journal|title = Dietary effect of Pleurotus eryngii on biochemical function and histology in hypercholesterolemic rats|journal = Saudi Journal of Biological Sciences|date = Oct 2011|issn = 1319-562X|pmc = 3730794|pmid = 23961153|pages = 403–409|volume = 18|issue = 4|doi = 10.1016/j.sjbs.2011.07.001|first1 = Nuhu|last1 = Alam|first2 = Ki Nam|last2 = Yoon|first3 = Jae Seong|last3 = Lee|first4 = Hae Jin|last4 = Cho|first5 = Mi Ja|last5 = Shim|first6 = Tae Soo|last6 = Lee}}</ref>
+
+Like some other ''Pleurotus'' species, ''P. eryngii'' attacks [[nematodes]] and may provide a control method for these parasites when they infect cats and dogs.{{citation needed|date=November 2019}}
+
+It is very frequently used in [[Apulian cuisine]]. An example of this is when it is put on top of [[orecchiette]].
+
+<gallery mode="packed" widths="160px" heights="160px">
+File:Korean barbecue - cutting a king oyster mushroom with scissors.jpg|In [[Korean barbeque]]
+File:Mushroom ramyeon.png|With ''[[ramyeon]]''
+File:Cardoncelli e scalogno.jpg|With [[scallions]]
+</gallery>
+
+==See also==
+*[[Medicinal fungi]]
+*[[List of Pleurotus species|List of ''Pleurotus'' species]]
+
+==Notes==
+{{Reflist|group=Note}}
+
+==References==
+{{Reflist| refs=
+
+
+<ref name=iprime>[http://home.iprimus.com.au/reville1/Methods/culinary/Mushroomrecipes.htm]  {{webarchive |url=https://web.archive.org/web/20060518013642/http://home.iprimus.com.au/reville1/Methods/culinary/Mushroomrecipes.htm |date=May 18, 2006 }}{{self-published inline|date=May 2022}}</ref>
+
+<!-- not used
+<ref name=kippo>[http://www.kippo.or.jp/KansaiWindowHtml/News/2002-e/20020501_NEWS.HTML]  {{webarchive |url=https://web.archive.org/web/20051215123408/http://www.kippo.or.jp/KansaiWindowHtml/News/2002-e/20020501_NEWS.HTML |date=December 15, 2005 }}</ref> -->
+
+<ref name=mushnews>{{cite journal |last1=Estrada |first1=Alma E. Rodriguez |last2=Royse |first2=Daniel J. |title=''Pleurotus eryngii'' and ''P. nebrodensis'': from the wild to commercial production |journal=Mushroom News |volume=56 |issue=2 |date=February 2008 |page=4 |url=https://www.thefreelibrary.com/Pleurotus+eryngii+and+P.+nebrodensis%3A+from+the+wild+to+commercial...-a0176049778 }}</ref>
+
+<ref name=zerv01>{{cite journal |last1=Venturella |first1=Giuseppe |last2=Zervakis |first2=Georgios I. |last3=Papadopoulou |first3=Kalliopi |title=Genetic polymorphism and taxonomic infrastructure of the ''Pleurotus eryngii'' species-complex as determined by RAPD analysis, isozyme profiles and ecomorphological characters |journal=Microbiology |date=1 November 2001 |volume=147 |issue=11 |pages=3183–3194 |doi=10.1099/00221287-147-11-3183 |doi-access=free |pmid=11700370 }}</ref>
+
+<ref name=estrada10>{{cite journal |last1=Estrada |first1=Alma E. Rodriguez |last2=Jimenez-Gasco |first2=Maria del Mar |last3=Royse |first3=Daniel J. |title=''Pleurotus eryngii'' species complex: Sequence analysis and phylogeny based on partial EF1α and RPB2 genes |journal=Fungal Biology |date=May 2010 |volume=114 |issue=5–6 |pages=421–428 |doi=10.1016/j.funbio.2010.03.003 |pmid=20943152 }}</ref>
+
+<ref name="pmid = 18577373">{{cite journal |last1=Nozaki |first1=Hirofumi |last2=Itonori |first2=Saki |last3=Sugita |first3=Mutsumi |last4=Nakamura |first4=Kimihide |last5=Ohba |first5=Kiyoshi |last6=Suzuki |first6=Akemi |last7=Kushi |first7=Yasunori |title=Mushroom acidic glycosphingolipid induction of cytokine secretion from murine T cells and proliferation of NK1.1 α/β TCR-double positive cells in vitro |journal=Biochemical and Biophysical Research Communications |date=August 2008 |volume=373 |issue=3 |pages=435–439 |doi=10.1016/j.bbrc.2008.06.047 |pmid=18577373 }}</ref>
+
+<ref name=israel>{{cite journal |last1=Lewinsohn |first1=D. |last2=Wasser |first2=S. P. |last3=Reshetnikov |first3=S. V. |last4=Hadar |first4=Y. |last5=Nevo |first5=E. |title=The ''Pleurotus eryngii'' species-complex in Israel: distribution and morphological description of a new taxon |journal=Mycotaxon |volume=81 |pages=51–67 |year=2002 |url=https://www.mycotaxon.com/vol/abstracts/81/81.51.html }}</ref>
+
+<ref name=vent00>{{cite journal |last1=Venturella |first1=G. |last2=Zervakis |first2=G. |last3=La Rocca |first3=S. |title=''Pleurotus eryngii'' var. ''elaeoselini'' var. nov. from Sicily |journal=Mycotaxon |volume=76 |pages=419–427 |year=2000 |url=http://www.mycotaxon.com/vol/abstracts/76/76.419.html }}</ref>
+
+<ref name=vent02>{{cite journal |last1=Venturella |first1=G. |last2=Zervakis |first2=G. |last3=Saitta |first3=A. |title=''Pleurotus eryngii'' var. ''thapsiae'' var. nov. from Sicily |journal=Mycotaxon |volume=81 |pages=69–74 |year=2002 |url=http://www.mycotaxon.com/vol/abstracts/81/81.69.html }}</ref>
+
+}}
+
+===Sources===
+* {{cite journal |last1=Ravash |first1=Rudabe |last2=Shiran |first2=Behrouz |last3=Alavi |first3=Aziz-Allah |last4=Bayat |first4=Fereshteh |last5=Rajaee |first5=Saeideh |last6=Zervakis |first6=Georgios I. |title=Genetic variability and molecular phylogeny of ''Pleurotus eryngii'' species-complex isolates from Iran, and notes on the systematics of Asiatic populations |journal=Mycological Progress |date=May 2010 |volume=9 |issue=2 |pages=181–194 |doi=10.1007/s11557-009-0624-2 |bibcode=2010MycPr...9..181R | s2cid=19342206 }}
+* {{cite journal |last1=Venturella |first1=Giuseppe |last2=Zervakis |first2=Georgios I. |last3=Papadopoulou |first3=Kalliopi |title=Genetic polymorphism and taxonomic infrastructure of the Pleurotus eryngii species-complex as determined by RAPD analysis, isozyme profiles and ecomorphological characters |journal=Microbiology |date=1 November 2001 |volume=147 |issue=11 |pages=3183–3194 |doi=10.1099/00221287-147-11-3183 |doi-access=free |pmid=11700370 }}
+* {{cite journal |last1=Ro |first1=Hyeon-Su |last2=Kim |first2=Sung Soon |last3=Ryu |first3=Jae San |last4=Jeon |first4=Che-Ok |last5=Lee |first5=Tae Soo |last6=Lee |first6=Hyun-Sook |title=Comparative studies on the diversity of the edible mushroom Pleurotus eryngii: ITS sequence analysis, RAPD fingerprinting, and physiological characteristics |journal=Mycological Research |date=1 June 2007 |volume=111 |issue=6 |pages=710–715 |doi=10.1016/j.mycres.2007.03.016 |pmid=17604148 }}
+* {{cite journal |last1=Su |first1=Hao |last2=Zhao |first2=Yong |last3=Zhou |first3=Jing |last4=Feng |first4=Huihua |last5=Jiang |first5=Dewei |last6=Zhang |first6=Ke-Qin |last7=Yang |first7=Jinkui |title=Trapping devices of nematode-trapping fungi: formation, evolution, and genomic perspectives: Trapping devices of nematode-trapping fungi |journal=Biological Reviews |date=February 2017 |volume=92 |issue=1 |pages=357–368 |doi=10.1111/brv.12233 |pmid=26526919 |s2cid=31294847 }}
+* {{cite journal |last1=Sufiate |first1=Bruna Leite |last2=Soares |first2=Filippe Elias de Freitas |last3=Moreira |first3=Samara Silveira |last4=Gouveia |first4=Angélica de Souza |last5=Monteiro |first5=Thalita Suelen Avelar |last6=Freitas |first6=Leandro Grassi de |last7=Queiroz |first7=José Humberto de |title=Nematicidal action of Pleurotus eryngii metabolites |journal=Biocatalysis and Agricultural Biotechnology |date=1 October 2017 |volume=12 |pages=216–219 |doi=10.1016/j.bcab.2017.10.009 |url=http://www.locus.ufv.br/handle/123456789/21936 |url-access=subscription }}
+* {{cite journal |last1=Rajarathnam |first1=S. |last2=Bano |first2=Zakia |last3=Miles |first3=Philip G. |title=Pleurotus mushrooms. Part I A. morphology, life cycle, taxonomy, breeding, and cultivation |journal=CRC Critical Reviews in Food Science and Nutrition |date=1 January 1987 |volume=26 |issue=2 |pages=157–223 |doi=10.1080/10408398709527465 |pmid=3322683 }}
+* {{cite web |title=fungus - Outline of classification of fungi |url=https://www.britannica.com/science/fungus/Outline-of-classification-of-fungi |website=Britannica |date=21 July 2024 }}
+
+==External links==
+{{Commons category-inline}}
+*[https://web.archive.org/web/20161101191016/http://www.world-mushroom.com/eryngii/e_eryngii.htm ''Pleurotus eryngii'' photos]
+
+{{Taxonbar|from=Q901105}}
+
+[[Category:Pleurotaceae]]
+[[Category:Fungi of Europe]]
+[[Category:Edible fungi]]
+[[Category:Parasitic fungi]]
+[[Category:Carnivorous fungi]]
+[[Category:Fungi in cultivation]]
+[[Category:Fungus species]]

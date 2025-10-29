@@ -1,0 +1,39 @@
+{{Short description|Species of fungus}}
+{{single source|date=October 2025}}
+{{no footnotes|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption =
+| taxon = Gymnopilus micromegas
+| authority = ([[Miles Joseph Berkeley|Berk.]]) Manjula
+| synonyms =
+}}
+{{mycomorphbox
+| name = Gymnopilus micromegas
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+}}
+
+'''''Gymnopilus micromegas''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]].
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==External links==
+*''[https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=108034 Gymnopilus micromegas]'' at [[Index Fungorum]]
+
+{{Taxonbar|from=Q5624876}}
+
+{{DEFAULTSORT:Gymnopilus micromegas}}
+[[Category:Gymnopilus|micromegas]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

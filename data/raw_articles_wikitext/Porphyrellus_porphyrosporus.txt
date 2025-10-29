@@ -1,0 +1,60 @@
+{{Speciesbox
+| image = Porphyrellus_porphyrosporus_Mexico.jpg
+| image_caption =  
+| genus = Porphyrellus
+| species = porphyrosporus
+| authority = ([[Elias Magnus Fries|Fr.]] & [[Christopher Theodor Hök|Hök]]) [[Jean-Edouard Gilbert|E.-J.Gilbert]] (1931)
+| synonyms_ref = <ref name="urlMycoBank: Porphyrellus porphyrosporus"/>
+| synonyms = *''Boletus porphyrosporus'' <small>Fr. & Hök (1835)</small>
+*''Phaeoporus porphyrosporus'' <small>(Fr. & Hök) Bataille (1908)</small>
+*''Tylopilus porphyrosporus'' <small>(Fr. & Hök) [[A.H.Sm.]] & [[Harry Delbert Thiers|Thiers]] (1971)</small>
+}}
+{{mycomorphbox
+| name = ''Porphyrellus porphyrosporus''
+| whichGills = adnate
+| capShape =convex
+| hymeniumType=pores
+| stipeCharacter=bare
+| ecologicalType=mycorrhizal
+| sporePrintColor=purple
+| sporePrintColor2=brown
+| howEdible = inedible
+}}
+
+'''''Porphyrellus porphyrosporus''''', commonly known as the '''dusky bolete''', is a rare [[fungus]] belonging to the family [[Boletaceae]]. With its purple-brown [[pileus (mycology)|cap]] and [[stipe (mycology)|stem]], ''P.&nbsp;porphyrosporus'' is not easy to spot, despite its large size. It is a large (both cap diameter and stem length up to 15&nbsp;cm) brown [[bolete]]. Found in Europe and North America in summer and autumn, the species occurs under trees.
+
+==Description==
+This mushroom has a dark brown cap, usually with a paler margin.<ref name=":1">{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=228|access-date=2024-04-30|archive-date=2024-04-30|archive-url=https://web.archive.org/web/20240430113424/https://books.google.com/books?id=WevHvt6Tr8kC|url-status=live}}</ref> Initially convex, caps expand and sometimes become irregularly lobed. It is {{convert|6|to|15|cm|abbr=on|frac=4}} in diameter<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=315|oclc=797915861}}</ref> when fully expanded, and the caps have soft buff flesh with a [[wine (color)|vinaceous]] tinge. The tubes are similar in colour to the cap, and when cut or bruised, turn blue-green.<ref name=":1" /> The stem is {{convert|5|to|16|cm|in|abbr=on|frac=8}} tall and {{convert|1|to|3|cm|in|1|abbr=on|frac=8}} in diameter, equal or clavate,<ref name=":0" /> tobacco brown and slightly velvety to the touch when young, becoming smooth as the fruit body matures. The flesh is white, producing blue stains which change color.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=351}}</ref> The mushroom has a mild to pungent smell and a mild to bitter taste.<ref name="audu" /> The [[spore print]] is reddish-brown.<ref name="audu" />
+
+=== Similar species ===
+It might overlap with ''[[Porphyrellus atrofuscus|P.&nbsp;atrofuscus]]'' and ''[[Porphyrellus olivaceobrunneus|P.&nbsp;olivaceobrunneus]]''.<ref name="audu" /> ''[[Tylopilus griseocarneus]]''<ref name="audu" /> and [[Porphyrellus indecisus|''T.&nbsp;indecisus'']] are similar.<ref name=":0" />
+
+
+
+==Distribution and habitat==
+It is a widespread species of Europe, especially in the north, but is nowhere particularly common. It can be found in northern North America.<ref name="audu" />
+
+The [[basidiocarp|fruit bodies]] appear from late summer to autumn,<ref name="audu" /> often in small groups, associated with broad-leaved trees such as [[beech]]<ref name="audu" /> and [[oak]].
+
+==Edibility==
+One guide lists the species as edible,<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |publisher=Firefly Books |year=2010 |isbn=978-1-55407-651-2 |location=Buffalo, NY |page=281}}</ref> while another considers it "probably edible".<ref name="urlCalifornia Fungi: Tylopilus porphyrosporus">{{cite web |title=''Tylopilus porphyrosporus'' |url=http://www.mykoweb.com/CAF/species/Tylopilus_porphyrosporus.html |url-status=dead |archive-url=https://web.archive.org/web/20171209155916/http://www.mykoweb.com/CAF/species/Tylopilus_porphyrosporus.html |archive-date=2017-12-09 |access-date=2011-02-23 |work=California Fungi |vauthors=Wood M, Stevens F}}</ref>
+
+==References==
+{{Reflist|refs=
+
+<ref name="urlMycoBank: Porphyrellus porphyrosporus">{{cite web |title=''Porphyrellus porphyrosporus'' (Fr. & Hök) E.-J. Gilbert 1931 |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=254070 |publisher=[[MycoBank]]. International Mycological Association |access-date=2011-10-01 |archive-date=2011-09-30 |archive-url=https://web.archive.org/web/20110930170802/http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=254070 |url-status=live }}</ref>
+
+}}
+
+== Further reading ==
+* Mushrooms and Toadstools of Britain and Europe, [[Stefan Buczacki]] (HarperCollins, 1992)
+
+{{Taxonbar|from=Q1187583}}
+
+[[Category:Porphyrellus|porphyrosporus]]
+[[Category:Edible fungi]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1835]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]

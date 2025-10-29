@@ -1,0 +1,97 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Boletus regius 37212.jpg
+| image_caption = ''Butyriboletus regius'' in Austria
+| taxon = Butyriboletus regius
+| authority = ([[Julius Vincenz von Krombholz|Krombh.]]) [[David Arora|D.Arora]] & J.L.Frank (2014)
+| synonyms = *''Boletus regius'' <small>Krombh. (1832)</small>
+*''Boletus appendiculatus'' var. ''regius'' <small>Konr.</small>
+*''Boletus subtomentosus'' ssp. ''cerasinus'' <small>Martin</small>
+}}
+{{ mycomorphbox
+| name            = Butyriboletus regius
+| hymeniumType    = pores
+| capShape        = convex
+| whichGills      = adnexed
+| stipeCharacter  = bare
+| sporePrintColor = olive-brown
+| ecologicalType  = mycorrhizal
+| howEdible       = choice
+}}
+
+'''''Butyriboletus regius''''' (formerly '''''Boletus regius'''''), commonly known as the '''royal bolete''' or '''red-capped butter bolete''', is a [[basidiomycete]] species of fungus in the genus ''[[Butyriboletus]]''. It has a pink cap, yellow [[trama (mycology)|flesh]], and a reticulate pattern on the [[stipe (mycology)|stem]].
+ 
+The mushroom is found in North America, Europe, and China. North America specimens stain blue when exposed to air, but European specimens do not, or only stain weakly. Both are [[edible mushroom|edible]] and considered choice.
+
+==Taxonomy==
+The species was first described and illustrated by [[Julius Vincenz von Krombholz]] in 1832.<ref name="von Krombholz 1832"/> [[Common name]]s for the mushroom include the red-capped butter bolete<ref name="Bessette 2000"/> and the royal bolete.<ref name="BMS"/>
+
+''Butyriboletus regius'' was formerly [[classification (biology)|classified]] as a member of the [[section (biology)|section]] ''Appendiculati'' of the genus ''Boletus''.<ref name="Snell 1970"/> [[Molecular phylogenetics|Molecular]] analysis demonstrated that this and related "butter bolete" species, including ''[[Boletus appendiculatus]]'', are [[phylogenetic]]ally distinct from ''Boletus'', and the new genus ''[[Butyriboletus]]'' was created to contain them.<ref name="Arora 2014"/>
+
+[[Harry D. Thiers]] described a similar mushroom from [[California]] as ''B.&nbsp;regius'',<ref name=thiers75/> though it is not the same species.{{Citation needed|date=June 2025}}
+
+==Description==
+ Thiers, collected in California]]
+
+The [[pileus (mycology)|caps]] are convex or flat, reaching a diameter of {{convert|6–20|cm|abbr=on|frac=4}} wide.<ref name=Arora1986>{{Cite book |last=Arora |first=David |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/526/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |year=1986 |orig-date=1979 |edition=2nd |pages=526}}</ref> The cap surface is pink to red, occasionally with hints of yellow or brown,<ref name="Arora1986" /> more so around the margin. Initially velvety to slightly [[Trichome#Plant trichomes|tomentose]] (hairy) when young,<ref name="Arora1986" /> these minute hairs tend to slough off with age, and the cap develops wrinkles and pits. The cap [[trama (mycology)|flesh]] is yellow, usually slowly and erratically bruising blue in North American specimens.<ref name="Arora1986" /> In Europe, it does not stain when exposed to air<ref name="bolcom" /> or stains weakly.<ref name="Ellis 1990" />
+
+The pores on the underside of the cap are angular and measure about 1–2 per millimetre. The color of the pore surface is bright yellow to start, but eventually darkens somewhat, and will stain blue with damage. The depth of the tubes comprising the pores extends to {{convert|0.8–2.5|cm|1|abbr=on|frac=4}}.<ref name="Bessette 2000" />
+
+The [[stipe (mycology)|stem]] measures {{convert|5–14|cm|abbr=on|frac=4}} long and {{convert|2.5–6|cm|abbr=on|frac=4}} thick, typically with a thick, bulbous base.<ref name="Arora1986" /> It is solid (i.e., not hollow), and a bright yellow color, often with reddish tones, particularly near the base of the stem.<ref name="Arora1986" /> The stem surface can be covered with fine yellow reticulations either throughout its length, or just on the upper portion.<ref name="Arora1986" /> The [[spore print]] is olive-brown.<ref name="Arora1986" /> The smooth, [[hyaline]] (translucent) [[basidiospore|spore]]s are roughly elliptical to somewhat [[wikt:fusoid|fusoid]] (wider in the middle and tapering toward the ends) to more or less cylindrical, and have dimensions of 12–17 by 4–5&nbsp;[[μm]].<ref name="Bessette 2000" />
+
+[[Chemical tests in mushroom identification|Chemical tests]] can be used to help identify ''B.&nbsp;regius'' in the field. The [[cap cuticle]] will stain a pale purple color if [[Iron(II) sulfate|FeSO<sub>4</sub>]] is applied; this same test will turn the flesh grayish.<ref name="Bessette 2000"/>
+
+==Habitat and distribution==
+''Butyriboletus regius'' is an [[ectomycorrhiza]]l species with a broad [[host (biology)|host]] range,<ref name="Smith 2008"/> associating with [[oak]] and [[conifer]]s, especially [[fir]]. The fruit bodies grow singly, scattered, or grouped together. In North America, they usually appear from August to November, although they also appear between May and June. The North American distribution includes the [[Pacific Northwest]] states of California, [[Oregon]], and [[Washington (state)|Washington]], where its frequency of occurrence ranges from "rare to locally abundant".<ref name="Bessette 2000"/> It is rare in Europe, appearing on the [[Regional Red List]] of several countries<ref name="Koune 2001"/> and being considered [[endangered species|endangered]] in the [[Czech Republic]].<ref name="Mikšik 2012"/> The species has also been recorded from China.<ref name="Chiu 1948"/>
+
+==Uses==
+Both European and California species are considered choice [[edible mushroom|edibles]],<ref name="mykoweb" /> but the latter can be [[maggot]]-infested.<ref name="Arora1986" />
+
+==See also==
+{{Portal|Fungi}}
+*[[List of North American boletes]]
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Arora 2014">{{cite journal |vauthors=Arora D, Frank JL |title=Clarifying the butter Boletes: a new genus, ''Butyriboletus'', is established to accommodate ''Boletus'' sect. ''Appendiculati'', and six new species are described |journal=Mycologia |year=2014 |volume=106 |issue=3 |pages=464–80 |doi=10.3852/13-052 |pmid=24871600|s2cid=207708824 }}</ref>
+
+<ref name=bolcom>{{cite web| title=''Boletus regius'' Krombh.| publisher=Boletales.com| url=http://boletales.com/genera/boletus/b-regius/| first=Boris| last=Assyov| access-date=2011-04-06}}</ref>
+
+<ref name=thiers75>{{cite book| last=Thiers| first=Harry D.| author-link=Harry D. Thiers| year=1975| title=California Mushrooms: A Field Guide to the Boletes| publisher=Hafner Press| location=New York, New York| url=http://www.mykoweb.com/boletes/index.html}}</ref>
+
+<ref name=mykoweb>{{cite web|url=http://www.mykoweb.com/CAF/species/Boletus_regius.html |title=''Boletus regius'' |publisher=California Fungi |first1=Michael |last1=Wood |first2=Fred |last2=Stevens |access-date=2011-04-06 |url-status=dead |archive-url=https://web.archive.org/web/20110606051140/http://www.mykoweb.com/CAF/species/Boletus_regius.html |archive-date=2011-06-06 }}</ref>
+
+<ref name="Bessette 2000">{{cite book |title=North American Boletes |vauthors=Bessette AE, Roody WC, Bessette AR |year=2000 |publisher=Syracuse University Press |location=Syracuse, New York |page=147 |isbn=978-0-8156-0588-1}}</ref>
+
+<ref name="BMS">{{cite web |url=http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |title=List of recommended English Names for Fungi in the UK |publisher=[[British Mycological Society]] |year=2003 |access-date=2012-09-03 |archive-url=https://web.archive.org/web/20110716083053/http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf# |archive-date=2011-07-16 |url-status=dead }}</ref>
+
+<ref name="Chiu 1948">{{cite journal |author=Chiu W.F. |title=The boletes of Yunnan |journal=Mycologia |year=1948 |volume=40 |issue=2 |pages=199–231 (see p. 224) |jstor=3755085 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0040/002/0224.htm |doi=10.2307/3755085|url-access=subscription }}</ref>
+
+<ref name="Ellis 1990">{{cite book |author=Ellis J.P. |title=Fungi without Gills (Hymenomycetes and Gasteromycetes): An Identification Handbook| url=https://books.google.com/books?id=vowdIZ7GqD4C&pg=PA46 |year=1990 |publisher=Springer |isbn=978-0-412-36970-4 |pages=46}}</ref>
+
+<ref name="Koune 2001">{{cite book |author=Koune J.-P. |title=Threatened Mushrooms in Europe |url=https://books.google.com/books?id=PL94uDj8yBEC&pg=PA29 |year=2001 |publisher=Council of Europe |isbn=978-92-871-4666-3 |page=29}}</ref>
+
+<ref name="Mikšik 2012">{{cite journal |author=Mikšik M. |title=Rare and protected species of boletes of the Czech Republic |journal=Field Mycology |year=2012 |volume=13 |issue=1 |pages=8–16 |doi=10.1016/j.fldmyc.2011.12.003|doi-access=free }}</ref>
+
+<ref name="Smith 2008">{{cite book |vauthors=Smith SE, Read DJ |title=Mycorrhizal Symbiosis |url=https://books.google.com/books?id=qLciOJaG0C4C&pg=PA198 |year=2008 |publisher=Academic Press |isbn=978-0-12-370526-6 |page=198}}</ref>
+
+<ref name="Snell 1970">{{cite book |last=Snell |first=Walter |last2=Dick |first2=Esther A. |author-link1=Wally Snell |title=The Boleti of Northeastern North America |year=1970 |publisher=J. Cramer |location=Lehre, Germany |pages=74–5 |isbn=978-0854860166}}</ref>
+
+<ref name="von Krombholz 1832">{{cite book |author=von Krombholz J.V. |title=Naturgetreue Abblidungen und Beschreibungen der essbaren, schädlichen und verdächtigen Schwämme |trans-title=Realistic Illustrations and Descriptions of Edible, Harmful, and Suspicious Fungi |year=1832 |volume=2 |location=Prague |publisher=In Commission in der J. G. Calve'schen Buchhandlung, 1831–1846 |page=3, t. 7 |url=https://www.biodiversitylibrary.org/page/15574368 |language=German}}</ref>
+
+}}
+
+==External links==
+*{{Commons category-inline|italic=on}}
+*{{IndexFungorum|803323}}
+
+{{Taxonbar|from1=Q96637355|from2=Q1062508}}
+
+[[Category:Butyriboletus|regius]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1832]]
+[[Category:Fungi of China]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]

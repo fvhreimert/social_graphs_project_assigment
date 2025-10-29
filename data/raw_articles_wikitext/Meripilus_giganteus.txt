@@ -1,0 +1,73 @@
+{{stack begin}}
+{{Speciesbox
+| image = Meripilus giganteus (Karst 1882).jpg
+| image_caption = 
+| genus = Meripilus
+| species = giganteus
+| authority = <small>([[Pers.]]) [[Petter Adolf Karsten|Karst.]] (1882)</small>
+| synonyms = *''Boletus giganteus'' <small>Pers. (1794)</small>
+}}
+{{mycomorphbox 
+| name = ''Meripilus giganteus''
+| hymeniumType = pores
+| capShape = offset
+| capShape2 = no
+| whichGills = decurrent 
+| stipeCharacter = NA
+| sporePrintColor = white
+| ecologicalType = saprotrophic
+| howEdible = edible
+}}
+{{stack end}}
+
+'''''Meripilus giganteus''''' is a [[polypore]] [[fungus]] in the family [[Meripilaceae]]. It causes a [[white rot]] in various types of broadleaved trees, particularly [[beech]] (''Fagus''), but also ''[[Abies]]'', ''[[Picea]]'', ''[[Pinus]]'', ''[[Quercus]]'' and ''[[Ulmus]]'' species. This [[bracket fungi|bracket fungus]], commonly known as the '''giant polypore''' or '''black-staining polypore''', is often found in large clumps at the base of trees, although [[fruiting bodies]] are sometimes found some distance away from the trunk, parasitizing the roots. ''M. giganteus'' has a [[circumboreal]] distribution in the [[northern Hemisphere]], and is widely distributed in Europe. In the field, it is recognizable by the large, multi-capped fruiting body, as well as its pore surface that quickly darkens black when bruised or injured.
+
+==Description==
+The [[basidiocarp]]s consist of numerous [[Rosette (botany)|rosette]]-like flattened fan-shaped [[Pileus (mycology)|pilei]]; they are typically {{convert|50|–|150| cm|in}}, rarely {{convert|250| cm|in}} in diameter and {{convert|10|–|50| cm|in}}, rarely {{convert|90| cm|in}} high. The individual caps, up to {{convert|10|-|50| cm|in}}, rarely {{convert|90| cm|in}} in diameter and {{convert|1|–|5|cm|in}} thick, arise from a common [https://en.wiktionary.org/wiki/basal basal] stem. pilei.]] The weight is {{convert|10|-|50|kg}}, but the heaviest specimen can reach {{convert|90|kg}}.
+
+The color of the cap surface is pale tan to dull chestnut brown in young specimens but darkens in age to become concentric zones ([https://en.wiktionary.org/wiki/zonate zonate]) of various shades of brown.
+
+The surface is also finely [https://en.wiktionary.org/wiki/appressed-fibrillose fibrillose] with tiny scales ([https://en.wiktionary.org/wiki/squamules squamules]). There are 3 to 6 pores per millimeter on the underside; the pore surface bruises brown and black, helping to distinguish it from the similar species ''[[Grifola frondosa]]''.
+
+Infection of a tree is often through a dead tap root, and decay is largely restricted to roots, and then mainly on the underside. Infected trees often show thinning of the outer crown due to impaired root function. Tree failure is due to brittle fracture of degraded lateral roots.<ref>Fungal Strategies of Wood Decay in Trees - Schartze, Engels and Mattheck (2000)</ref>
+
+;Microscopic features
+[[Spore]]s are roughly spherical to ovoid or ellipsoid in shape, with typical dimensions of 6–6.5&nbsp;×&nbsp;5.5–6&nbsp;[[micrometre|μm]]. Under a microscope, they appear translucent ([[hyaline]]), smooth, and [[nonamyloid]], meaning that they do not absorb stain from [[Melzer's reagent]].<ref name=LarsenLombard1988>{{cite journal |doi=10.2307/3807709 |jstor=3807709 |title=The Status of Meripilus giganteus (Aphyllophorales, Polyporaceae) in North America |journal=Mycologia |volume=80 |issue=5 |pages=612–21 |year=1988 |last1=Larsen |first1=Michael J |last2=Lombard |first2=Frances F }}</ref> The [[basidia]]&mdash;the spore-bearing cells&mdash;are club-shaped, 4-spored, and are 22&ndash;40 by 7&ndash;8&nbsp;μm.<ref name="Ryvarden2 1993">{{cite book |author=Ryvarden L. |title=European Polypores (Part 2)|publisher=Lubrecht & Cramer Ltd. |location=Oslo, Norway |year=1993 |pages=395–97|isbn=978-82-90724-12-7}}</ref>
+
+Polypore fungi may be further distinguished by the type of hyphae that makes up their fruiting body. ''M. giganteus'' has a so-called monomitic hyphal system, as its [[fruiting body]] is composed of only vegetative hyphae.<ref name=Schmidt2006p23>{{cite book |author=Schmidt O.|title=Wood and Tree Fungi: Biology, Damage, Protection, and Use |publisher=Springer |location=Berlin |year=2006 |page=23 |isbn=978-3-540-32138-5}}</ref>
+
+==Edibility==
+
+The giant polypore was previously considered inedible, due to its very coarse flesh and mildly acidic taste,<ref>Bondartsev AS. (1953). ''The Polyporaceae of the European USSR and Caucasia''. Akad. Nauk SSSR Bot. Inst. Komarova. [In Russian, translated by Israel Prog. Sci. Transl.] Jerusalem, 1971. 725 pp.</ref> but more recent sources list it as edible.<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |pages=300–1}}</ref><ref name="Miller 2006">{{cite book|last=Miller Jr.|first=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuides]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=421|author-link=Orson K. Miller Jr.}}</ref> Younger specimens may be more palatable; one author notes that it is "eaten in Japan".<ref name=Schmidt2006p23/> Also, it may be mistakenly consumed because of its resemblance with the edible species commonly known as Hen of the Woods (''[[Grifola frondosa]]'') which is regarded as much better tasting.<ref name="Miller 2006" />
+
+==Habitat and distribution==
+
+This mushroom can be found growing on hardwoods, more rarely on conifers. According to Ryvarden and Gilbertson in their monograph on the polypores of Europe, ''M. giganteus'' grows especially on ''[[Quercus]]'' and ''[[Fagus (tree)|Fagus]]'' tree species, but it has also been collected on the hardwoods ''[[Acer (genus)|Acer]]'', ''[[Aesculus]]'', ''[[Alnus]]'', ''[[Betula]]'', ''[[Castanea (genus)|Castanea]]'', ''[[Celtis]]'', ''[[Corylus]]'', ''[[Eucalyptus]]'', ''[[Laurus]]'', ''[[Myrica]]'', ''[[Persea]]'', ''[[Pittosporum]]'', ''[[Platanus]]'', ''[[Populus]]'', ''[[Prunus]]'', ''[[Pyrus]]'', ''[[Tilia]]'', ''[[Ulmus]]''; it has also been found growing on the coniferous species ''[[Abies]]'', ''[[Larix]]'', and ''[[Pinus]]''.<ref name="Ryvarden2 1993" />
+
+''M. giganteus'' has a [[circumboreal]] distribution in the northern hemisphere.<ref>Schmidt, 2006, p. 197.</ref> It has been collected from [[Europe]], [[Scandinavia]], the area formerly known as the [[USSR]], [[Iran]] and [[Turkey]].<ref>Niemela T, Uotila P. "Lignicolous macrofungi from Turkey and Iran." (1977). ''Karstenia''''' 17'''(1): 33–9.</ref> Although many field guides list it as occurring in North America, this is due to confusion with the related ''M. sumstinei''; ''M. giganteus'' is not found in [[North America]].<ref name="urlUntitled Document">{{cite web |url=http://www.missourimycologicalsociety.org/vouchers-v1.asp?funginum=218 |title=Missouri Mycological Society Voucher Specimens: ''Meripilus giganteus'' |access-date=2008-11-09 |url-status=dead |archive-url=https://web.archive.org/web/20101023115035/http://www.missourimycologicalsociety.org/vouchers-v1.asp?funginum=218 |archive-date=2010-10-23 }}</ref><ref name=LarsenLombard1988/> A study of the frequency of occurrence of [[wood-decay fungus|wood-decay fungi]] on street trees and park trees in [[Hamburg]], Germany found that ''M. giganteus'' was the most common species.<ref>Seehan G. (1979). "Holzerstörende Pilze an Straßen- und Parkbäumen in Hamburg." ''Mitt. Dtsch. Dendrolog. Ges''. '''71''': 193–221.</ref>
+
+==Similar species==
+The polypore fungus ''Grifola frondosa'' is similar in overall appearance, but may be distinguished by its more greyish cap, and larger pores.<ref name="Ryvarden2 1993"/> ''[[Bondarzewia berkeleyi]]'' or "Berkeley's polypore" is often confused with ''M. giganteus'' (or ''M. sumstinei'') in eastern North America but can be distinguished by its lack of black-bruising and much larger pores.<ref>{{Cite web|url = http://www.wildmanstevebrill.com/Mushrooms.Folder/Black-stainingPolypore.html|title = Black-Staining Polypore|last = Brill|first = Steve}}</ref>
+
+==References==
+{{Reflist}}
+
+===Cited literature===
+*{{cite book |author=Schmidt O.|title=Wood and Tree Fungi: Biology, Damage, Protection, and Use |publisher=Springer |location=Berlin |year=2006 |isbn=978-3-540-32138-5}}
+
+== External links ==
+*[http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=414455 Index Fungorum] synonyms
+*[https://web.archive.org/web/20070820101227/http://nt.ars-grin.gov/fungaldatabases/ USDA ARS Fungal Database]
+*[https://www.flac.uk.com/wp-content/uploads/2009/12/Monograph-on-Meripilus-giganteus.pdf Meripilus: A new perspective]
+*[http://www.mushroomexpert.com/meripilus_giganteus.html Mushroom Expert]
+*[http://www.messiah.edu/Oakes/fungi_on_wood/poroid%20fungi/species%20pages/Meripilus%20sumstinei.htm Fungi on Wood]
+
+{{Taxonbar|from=Q2030825}}
+
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1794]]
+[[Category:Fungal tree pathogens and diseases]]
+[[Category:Meripilaceae]]
+[[Category:Fungi of Europe]]
+[[Category:Taxa named by Christiaan Hendrik Persoon]]
+[[Category:Fungus species]]

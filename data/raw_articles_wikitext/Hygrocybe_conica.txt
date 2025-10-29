@@ -1,0 +1,73 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Hygrocybe conica (2005 11 07) 1.jpg
+| image_caption = ''Hygrocybe conica'', Netherlands
+| genus = Hygrocybe
+| species = conica
+| authority = ([[Jacob Christian Schäffer|Schaeff.]]) [[P.Kumm.]] (1871)
+| synonyms =
+{{collapsible list|bullets=true
+|''Agaricus conicus'' <small>Schaeff. 1774</small>
+|''Agaricus tristis'' <small>Pers. 1801</small>
+|''Godfrinia conica'' (Schaeff.) <small>Maire 1902</small>
+|''Hygrocybe chloroides'' <small>(Malençon) Kovalenko</small>
+|''Hygrophorus conicus'' <small>(Schaeff.) Fr.</small>
+|''Hygrocybe conicopalustris'' <small>R. Haller Aar</small>}}
+}}
+{{Mycomorphbox
+| name = ''Hygrocybe conica''{{italic title}}
+| hymeniumType = gills
+| capShape = conical
+| whichGills = emarginate
+| stipeCharacter = bare
+| sporePrintColor = white
+| howEdible = unknown
+}}
+
+'''''Hygrocybe conica''''' is a [[species]] of [[agaric]] (gilled mushroom) in the [[family (biology)|family]] [[Hygrophoraceae]]. In the UK it has been given the recommended English name of '''blackening waxcap''',<ref name="BMS" /> since all parts of the [[basidiocarp]] (fruit body) blacken with age. In North America it is commonly known as the '''witch's hat''', '''conical wax cap''' or '''conical slimy cap'''. ''Hygrocybe conica'' is known to be a [[species complex|complex]] of at least eleven closely related species<ref name="Cannon" /> and as such is widespread in Eurasia, North America, and elsewhere.
+
+==Taxonomy==
+The species was first [[species description|described]] from Bavaria in 1774 by German polymath [[Jacob Christian Schäffer]], who named it ''Agaricus conicus''.<ref name="Schaeffer 1774"/> [[Paul Kummer]] transferred it to the genus ''[[Hygrocybe]]'' in 1871.<ref name="Kummer 1871"/> Recent [[Molecular phylogenetics|molecular]] research, based on [[cladistic]] analysis of [[DNA sequences]], has confirmed that ''Hygrocybe conica'' belongs in ''[[Hygrocybe]]'' [[sensu stricto]].<ref name="Lodge 2014"/> However, it has also indicated that the name is currently applied to at least eleven closely related but genetically distinct taxa worldwide.<ref name=Cannon/>
+
+==Description==
+[[Basidiocarp]]s are [[agaricoid]], the cap narrowly conical at first becoming [[umbo (mycology)|umbonate]] and often lobed, up to {{Convert|10|cm|frac=4}} across. The cap surface is smooth and finely fibrillose, moist or viscid at first, variously yellow to orange or scarlet. The [[lamella (mycology)|lamellae]] (gills) are waxy, white to pale yellow or greyish. The [[stipe (mycology)|stipe]] (stem) is up to {{Convert|20|cm|abbr=on|frac=2}} long,<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/116/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=116-117 |orig-date=1979}}</ref> smooth but fibrillose and streaky, yellow to orange-red, whitish towards base, lacking a [[annulus (mycology)|ring]]. All parts become duller and grey with age, finally becoming entirely black.<ref name="Boertmann" /> The flesh is yellowish and stains black.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=399}}</ref> The [[spore print]] is white, the spores (under a microscope) smooth, [[inamyloid]], [[ellipsoid]], measuring about 8.5 to 11.5 by 5 to 7.5&nbsp;[[μm]].<ref name=Boertmann/>
+
+A number of other species in the genus may appear similar.<ref name="audu" />
+
+==Distribution and habitat==
+''Hygrocybe conica'' is widely distributed across North America, Europe, and Asia, as well as [[Australia]] and [[New Zealand]], being found in summer and autumn. In Europe, it is typical of [[waxcap grassland]]s, a declining habitat due to changing agricultural practices. It is one of the commonest waxcaps, however, and is also found in dunes, road verges, and other habitats.<ref name=Boertmann/> In North America it is often found in [[conifer]] woodland.<ref name=Miller/> Though ''H.&nbsp;conica'' occurs in Australia, principally near urban areas, many collections originally assigned to this species are the similar ''[[Hygrocybe astatogala|H. astatogala]]''.<ref>{{cite book | author= Young AM| year =2005 | title = Fungi of Australia: Hygrophoraceae | publisher = (Australian Biological Resources Study) CSIRO |location= Canberra, ACT | isbn = 978-0-643-09195-5}}</ref>
+
+==Edibility==
+The edibility of ''H. conica'' is unknown and it may be [[Mushroom poisoning|poisonous]].<ref name="Miller2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=62}}</ref><ref>{{cite book | author = Nilsson S, Persson O| year = 1977 | title = Fungi of Northern Europe 2: Gill-Fungi | publisher = Penguin |location= New York, New York | isbn = 978-0-14-063006-0 }}</ref> [[David Arora]] suggests that reported poisonings may have been caused by other species, but that ''H.&nbsp;conica'' may cause minor adverse effects (such as lightheadedness) and is unsubstantial.<ref name="Arora1986" />
+
+==References==
+{{Reflist|refs=
+
+<ref name="Kummer 1871">{{cite book |author=Kummer P. |title=Der Führer in die Pilzkunde |year=1871 |publisher=C.&nbsp;Luppe |location=Zerbst |page=111 |language=German |url=https://www.biodiversitylibrary.org/page/34209641#page/119/mode/1up}}</ref>
+
+<ref name="Schaeffer 1774">{{cite book |author=Schaeffer, Julius C. |title=Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones |year=1774 |volume=4 |location=Regensburg |page=2 |language=Latin |url=https://www.biodiversitylibrary.org/page/3887484|publisher=Apud J.J. Palmium }}</ref>
+
+<ref name="BMS">{{cite web |author=Holden L. |url=https://www.britmycolsoc.org.uk/resources/english-names/ |title=English names for fungi |publisher=[[British Mycological Society]] |accessdate=2022-07-31}}</ref>
+
+<ref name=Cannon>{{cite web |author=Cannon P. |url=https://fungi.myspecies.info/sites/fungi.myspecies.info/files/Project%20report%20to%20DEFRA%204.pdf |title=Systematics, barcoding and ecology of fungi from waxcap grasslands in Britain |year=2012 |accessdate=2022-07-31}}</ref>
+
+<ref name="Lodge 2014">{{cite journal |author=Lodge DJ |title=Molecular phylogeny, morphology, pigment chemistry and ecology in Hygrophoraceae (Agaricales) |journal=Fungal Diversity |year=2014 |volume=64 |issue=1 |pages=1–99 |doi=10.1007/s13225-013-0259-0 |s2cid=220615978 |display-authors=etal|url=https://iris.unito.it/bitstream/2318/136089/1/1205754_Molecular%20phylogeny.pdf |doi-access=free }} {{open access}}</ref>
+
+<ref name=Boertmann>{{cite book |title=The genus ''Hygrocybe'' |edition=2nd |author=Boertmann D. |year=2010 |publisher=Danish Mycological Society |location=Copenhagen |pages=200 |isbn=978-87-983581-7-6}}</ref>
+
+<ref name=Miller>{{cite book |title=Mushrooms of North America |author=Miller OK. |year=979 |publisher=E.P. Dutton}}</ref>
+
+}}
+
+{{Taxonbar|from=Q1434668}}
+
+[[Category:Hygrocybe|conica]]
+[[Category:Fungi described in 1774]]
+[[Category:Fungi of New Zealand]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Australia]]
+[[Category:Fungi of Asia]]
+[[Category:Hygrophoraceae]]
+[[Category:Taxa named by Jacob Christian Schäffer]]
+[[Category:Fungus species]]

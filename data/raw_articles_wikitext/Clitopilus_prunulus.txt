@@ -1,0 +1,80 @@
+{{Speciesbox
+| image = Clitopilus prunulus - BC, 2024.jpg
+| genus = Clitopilus
+| species = prunulus
+| authority = ([[Giovanni Antonio Scopoli|Scop.]] ex [[Elias Magnus Fries|Fr.]]) [[Paul Kummer|P. Kumm.]]
+| synonyms = ''Agaricus prunulus'' Scop., 1772<br>
+''Agaricus orcella'' [[Jean Baptiste François Pierre Bulliard|Bull.]], 1793<br>
+''Paxillopsis prunulus'' (Scop.) J.E.Lange<br>
+''Pleuropus prunulus'' (Scop.) Murrill
+}}
+{{mycomorphbox
+| name = ''Clitopilus prunulus''
+| whichGills = decurrent
+| capShape = convex
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = saprotrophic
+| sporePrintColor = pink
+| howEdible = choice
+| howEdible2 = caution
+}}
+
+'''''Clitopilus prunulus''''', commonly known as '''the miller''' or the '''sweetbread mushroom''',<ref name="urlClitopilus prunulus (MushroomExpert.Com)">{{cite web |url=http://www.mushroomexpert.com/clitopilus_prunulus.html |title=''Clitopilus prunulus'' (MushroomExpert.Com) |access-date=2009-01-20}}</ref> is a [[basidiomycete]] mushroom. It has a grey to white cap, decurrent gills, and pink spores.
+
+It is found in grasslands in Europe and North America.<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=153}}</ref> Growing solitary to gregarious in open areas of conifer/hardwood forests; common under Bishop pine (''[[Pinus muricata]]'') along the coast north of San Francisco; fruiting shortly after the fall rains. It is edible.
+
+==Taxonomy==
+[[County of Tyrol|Tyrolean]] naturalist [[Giovanni Antonio Scopoli]] described the miller as ''Agaricus prunulus'' in 1772.<ref>{{cite book | last=Scopoli | first=Giovanni Antonio | title=Flora Carniolica | edition=Edn 2 | volume=2 | page=437 | year=1772 | url=http://bibdigital.rjb.csic.es/ing/Libro.php?Libro=983&Pagina=471 | publisher=Impensis Ioannis Pauli Krauss, bibliopolae vindobonensis | access-date=2017-11-08 | archive-date=2017-11-08 | archive-url=https://web.archive.org/web/20171108204824/http://bibdigital.rjb.csic.es/ing/Libro.php?Libro=983&Pagina=471 | url-status=dead }}</ref> French mycologist [[Jean Baptiste François Pierre Bulliard|Pierre Bulliard]] called it ''Agaricus orcella'' in 1793. German botanist [[Paul Kummer]] erected the genus ''[[Clitopilus]]'' and gave the miller its current name in 1871.<ref name=Kummer1871/> ''C.&nbsp;prunulus'' is the [[type species]] of the genus, the limits of which have been redefined more than once.<ref name="kluting14"/>
+
+Populations from Yunnan and Taiwan previously considered consistent with ''C.&nbsp;prunulus'' were described as a separate species—''[[Clitopilus amygdaliformis]]''—in 2007.<ref name=yang07/>
+
+Its common names—the miller and sweetbread mushroom—are derived from its distinctive smell.
+
+==Description==
+The [[pileus (mycology)|cap]] is initially convex when young, but in maturity flattens out, usually with a shallow central depression; the margin is often inrolled.<ref name=":1">{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=141}}</ref> The cap ranges from white to light gray or yellow. It has a characteristic feel similar to the touch of [[chamois skin]], usually being dry,<ref name=":1" /> but is sticky when moist. It measures {{convert|2 to 10|cm|abbr=on|frac=4}} in diameter. The [[lamella (mycology)|gills]] are [[decurrent]] in attachment to the stipe, spaced together rather closely, and whitish, although they often develop a pinkish hue in age.<ref name=":1" />
+
+The [[stipe (mycology)|stipe]] is {{convert|2|to|8|cm|in|sigfig=2|abbr=on|frac=8}} long × 4–15&nbsp;mm thick and white or sometimes grayish;<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=156|oclc=797915861}}</ref> it may be located off-center or enlarged at the base.<ref name=":1" /> The mushroom has a mealy odor, somewhat like cucumber.<ref name="Wood1994">{{cite journal | vauthors = Wood WF, Brandes ML, Watson RL, Jones RL, Largent DL | year = 1994 | title = ''trans''-2-Nonenal, the cucumber odor of mushrooms | journal = [[Mycologia]] | volume = 86 | issue = 4| pages = 561–563 | doi = 10.1080/00275514.1994.12026450 }}</ref> The [[spore print]] is pink. The spores are 9–12 × 5–6.5&nbsp;[[μm]].<ref name="isbn1-58729-627-6">{{cite book |first1=Rosanne A. | last1=Healy |last2=Huffman | first2= Donald R. |first3=Lois H. |last3= Tiffany |first4=George | last4=Knaphaus |title=Mushrooms and Other Fungi of the Midcontinental United States (Bur Oak Guide) |publisher=University of Iowa Press |location=Iowa City |year=2008 |page=75 |isbn=978-1-58729-627-7}}</ref> Scopoli described it smelling like freshly ground flour.
+
+The variant ''C. prunulus'' var. ''orcellus'' has a slimy cap and white colors.
+
+=== Chemistry ===
+The cucumber odor of this species has been attributed to ''trans''-2-nonenal, which is present at a concentration of 17&nbsp;[[μg]] per gram of crushed tissue.<ref name="Wood1994" /> ''C.&nbsp;prunulus'' contains the [[volatility (chemistry)|volatile]] compound [[1-Octen-3-ol|1-octen-3-ol]], making it unpalatable to the coastal Pacific Northwest banana slug, ''[[Ariolimax columbianus]]''.<ref>{{cite journal |vauthors=Wood WF, Archer CL, Largent DL |year=2001 |title=1-Octen-3-ol, a banana slug antifeedant from mushrooms |journal=Biochemical Systematics and Ecology |volume=29 |issue=5 |pages=531–533 |doi=10.1016/s0305-1978(00)00076-4 |pmid=11274773}}</ref>
+
+=== Similar species ===
+The poisonous ''[[Clitocybe rivulosa]]'' (fool's funnel) looks similar. The miller has pink spores whereas those of the fools funnel are white, the gills of the miller are more easily pulled away, and the miller smells of raw pastry. The miller also prefers woodland whereas fool's funnel is a grassland species.<ref>{{cite book |last=Wright |first=John |title=River Cottage Handbook No. 1 Mushrooms |publisher=Bloomsbury Publishing PLC |year=2007 |isbn=978-0-7475-8932-7 |location=London}}</ref>
+
+The poisonous ''[[Clitocybe dealbata]]'' has a similar cap color, but a white spore print.<ref name=":0" />
+
+Other potential lookalikes include ''[[Clitocybe phyllophila]]'',  ''[[Clitocybe subconnexa|C.&nbsp;subconnexa]]'', ''[[Cuphophyllus angustifolius]]'', ''[[Leucocybe connata]]'', and ''[[Leucocybe candicans|L.&nbsp;candicans]]''.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=507}}</ref>
+
+== Distribution and habitat ==
+''C.&nbsp;prunulus'' may be found growing on the ground in hardwood and coniferous woods<ref name=":1" /> in the summer and autumn.
+
+''C. prunulus'' has been recorded from [[Varsey Rhododendron Sanctuary]] in [[Sikkim]],<ref>{{cite journal | title=Diversity and conservation of wild mushrooms in Sikkim with special reference to Barsey Rhododendron Sanctuary | vauthors = Das K | date=2010 | journal = NeBIO | volume = 1 | issue = 2 | pages=1–13 | url=https://www.researchgate.net/publication/264886696 }}</ref> and from under [[Quercus suber|cork oak]] in [[Morocco]].<ref>{{cite journal|vauthors=Yakhlef SB, Kerdouh B, Mousain D, Ducousso M, Duponnois R, Abourouh M|title=Phylogenetic diversity of Moroccan cork oak woodlands fungi|journal=Biotechnol. Agron. Soc. Environ.|date=2009|volume=13|issue=4|pages=521–28|url=http://www.pressesagro.be/base/index.php/base/article/viewFile/419/406}}</ref> It is found in [[Valdaysky National Park]] in Russia.<ref name="kluting14" />
+
+A specimen identified as ''C.'' cf ''prunulus'' collected from Kermandie Track in southern [[Tasmania]] was related though basal to other collections of the species.<ref name="kluting14" />
+
+==Edibility==
+
+The species is considered edible and choice, but resembles some poisonous species.<ref name=":0" /><ref name=Arora1986>{{Cite book |last=Arora |first=David |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/240/mode/2up |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |orig-date=1979 |edition=2nd |pages=240–41}}</ref>
+
+==References==
+{{Reflist|refs=
+
+<ref name="kluting14">{{cite journal|last1=Kluting | first1=Kerri L. | last2= Bergemann | first2=Sarah E. | last3= Baroni | first3=Timothy J.|title=Toward a stable classification of genera within the Entolomataceae: A phylogenetic re-evaluation of the ''Rhodocybe-Clitopilus'' clade |journal=Mycologia|date=2014|volume=106|issue=6|pages=1127–1142|doi=10.3852/13-270|url=https://www.researchgate.net/publication/263704444|pmid=24987124|s2cid=40696041}}</ref>
+
+<ref name=Kummer1871>{{cite book |title=Der Führer in die Pilzkunde |edition=1 |last=Kummer | first= Paul|author-link=Paul Kummer |year=1871 |location=Zerbst, Germany |publisher=Luppe |page=97|language=de|url=https://www.biodiversitylibrary.org/page/34209666}}</ref>
+
+<ref name=yang07>{{cite journal |author=Zhu L. Yang |title=''Clitopilus amygdaliformis'', a new species from tropical China |journal=Mycotaxon |date=2007 |volume=100 |pages=241–246 |url=http://groups.kib.cas.cn/klpb/yzl/tnh_fblw/201201/P020140126480674881440.pdf}}</ref>
+}}
+
+==External links==
+*{{commonscatinline}}
+
+{{Taxonbar|from=Q856834}}
+
+[[Category:Edible fungi]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi described in 1772]]
+[[Category:Fungus species]]

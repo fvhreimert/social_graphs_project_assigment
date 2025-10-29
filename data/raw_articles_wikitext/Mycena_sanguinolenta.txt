@@ -1,0 +1,155 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{Speciesbox
+| image = Mycena_sanguinolenta_Van_Damme.jpg
+| image_caption =
+| genus = Mycena
+| species = sanguinolenta
+| authority = ([[Johannes Baptista von Albertini|Alb.]] & [[Lewis David de Schweinitz|Schwein.]]) [[Paul Kummer|P.Kumm.]] (1871)
+| synonyms_ref = <ref name="urlMycoBank: Mycena sanguinolenta"/>
+| synonyms = *''Agaricus sanguinolentus'' <small>Alb. & Schwein. (1805)</small>
+*''Galactopus sanguinolentus'' <small>(Alb. & Schwein.) [[William Alphonso Murrill|Murrill]] (1916)</small>
+}}
+{{mycomorphbox
+| name = ''Mycena sanguinolenta''
+| hymeniumType = gills
+| capShape = conical
+| capShape2= convex
+| whichGills = adnate
+| stipeCharacter = bare
+| sporePrintColor = white
+| ecologicalType = saprotrophic
+| howEdible = unknown
+}}
+{{stack end}}
+
+'''''Mycena sanguinolenta''''', commonly known as the '''bleeding bonnet''', the '''smaller bleeding Mycena''', or the '''terrestrial bleeding Mycena''', is a species of [[mushroom]] in the family [[Mycenaceae]]. It is a common and widely distributed species, and has been found in North America, Australia, and Eurasia. The fungus produces reddish-brown to reddish-purple [[basidiocarp|fruit bodies]] with conic to bell-shaped [[pileus (mycology)|caps]] up to {{convert|1.5|cm|1|abbr=on}} wide held by slender [[stipe (mycology)|stipes]] up to {{convert|6|cm|abbr=on}} high. When fresh, the fruit bodies will "bleed" a dark reddish-purple [[latex|sap]]. The similar ''[[Mycena haematopus|M.&nbsp;haematopus]]'' is larger and grows on decaying wood, usually in clumps. ''M.&nbsp;sanguinolenta'' contains [[alkaloid]] pigments that are unique to the species, may produce an [[antifungal]] compound, and is [[bioluminescent]]. The [[edible mushroom|edibility]] of the mushroom has not been determined.
+
+==Taxonomy==
+First called ''Agaricus sanguinolentus'' by [[Johannes Baptista von Albertini]], the species was transferred to the genus ''[[Mycena]]'' in 1871 by German [[Paul Kummer]],<ref name=Kummer1871/> when he raised many of Fries' "tribes" to the rank of genus. The [[specific name (botany)|specific epithet]] is derived from the [[Latin]] word ''sanguinolentus'' and means "bloody".<ref name=Wakefield1950/> It is [[common name|commonly]] known as the "bleeding bonnet"<ref name=BMS/> the "smaller bleeding Mycena",<ref name=Roody2003/> or the "terrestrial bleeding Mycena".<ref name=Arora1986/>
+
+The fungus is [[classification (biology)|classified]] in the [[section (biology)|section]] ''Lactipedes'' along with other latex-producing species.<ref>Smith 1947, pp. 132–33.</ref> A [[Molecular phylogenetics|molecular phylogenetic]] analysis of several dozen European ''Mycena'' species suggests that ''M.&nbsp;sanguinolenta'' is closely related to {{species|M|ycena|galopus}}. Other phylogenically related species include {{species|M|ycena|galericulata}} and {{species|M|ycena|haematopus}}.<ref name=Harder2010/>
+
+==Description==
+{{multiple image
+| direction = vertical
+| width     = 200
+| image1    = Mycena_sanguinolenta_gills.jpg
+| caption1  = The gills are distantly spaced and have edges that are dark reddish brown.
+| image2    = Mycena sanguinolenta3 - lindsey.jpg
+| caption2  = The mushroom "bleeds" red latex when injured.
+}}
+The [[pileus (mycology)|cap]] is either convex or conic when young, with its margin pressed against the stipe. As it expands, it becomes broadly convex or bell-shaped, ultimately reaching a diameter of {{convert|3–15|mm|1|abbr=on}}.<ref name=Arora1986/> The surface is initially covered with a dense whitish-grayish coating or powder that is produced by delicate microscopic cells, but these cells soon collapse and disappear, leaving the surface naked and smooth. The surface is moist with an opaque margin that soon developing furrows. The cap color is variable but always some shade of bright or dull reddish brown with a dull grayish-brown margin. The [[trama (mycology)|flesh]] is thin, not very fragile, sordid reddish, and exudes a reddish latex when cut. The odor and taste are not distinctive.<ref name="Smith p.146-49"/>
+
+The [[lamella (mycology)|gills]] are [[wikt:adnate|adnate]] or slightly toothed, and well-spaced. They are narrow to moderately broad, sordid reddish to grayish, with even edges that are dark reddish brown. The [[stipe (mycology)|stipe]] is {{convert|2–6|cm|1|abbr=on}} long, 1–1.5&nbsp;mm thick, equal in width throughout, and fragile. The base of the stipe is covered with coarse, stiff white hairs, while the remainder is covered with a drab powder that soon sloughs off to leave the stipe polished, and more or less the same color as the cap. It also exudes a bright or dull-red juice when cut or broken.<ref name="Smith p.146-49">Smith 1947, pp. 146–49.</ref> The [[edible mushroom|edibility]] of the mushroom is unknown—but it is considered too insubstantial to be of culinary interest.<ref name=Roody2003/><ref name=Arora1986/>
+
+The [[spore]]s are 8–10 by 4–5&nbsp;[[μm]], roughly [[wikt:ellipsoid|ellipsoid]], and only weakly [[amyloid (mycology)|amyloid]]. The [[basidia]] (spore-bearing cells) four-spored (occasionally two- or three-spored). The pleurocystidia ([[cystidia]] on the face of a gill) are rare to scattered or sometimes quite abundant, narrowly to broadly [[wikt:ventricose|ventricose]], measuring 36–54 by 8–13&nbsp;μm. They are filled with a sordid-reddish substance. The cheilocystidia (cystidia on the gill edge) are similar to the pleurocystidia or shorter and more obese, and very abundant. The flesh if the gill is made of broad hyphae the cells of which are often [[wikt:vesiculose|vesiculose]] (covered with [[Vesicle (biology and chemistry)|vesicles]]) in age, and [[staining|stain]] pale reddish brown in iodine. The flesh of the cap is covered with a thin [[wikt:pellicle|pellicle]], and the hypoderm (the layer of cells immediately underneath the pellicle) is moderately well-differentiated. The remainder of the cap flesh is [[wikt:floccose|floccose]] and filamentous, and all except the pellicle stain pale [[wine (color)|vinaceous]]-brown in iodine. [[wikt:lactiferous|Lactiferous]] (latex-producing) hyphae are abundant.<ref name="Smith p.146-49"/>
+
+{{Chembox
+| Name = Sanguinone A
+| ImageFile = Sanguinone A.svg
+| IUPACName = (8a''S'')-5-Oxo-2,4,5,7,8,8a,9,10-octahydro-1''H''-4,6,8,10a-tetraazacyclopenta[''cd'']pyrene-1-carboxylic acid
+| Section1 = {{Chembox Identifiers
+   | CASNo = 950842-09-8
+| CASNo_Ref = {{Cascite|changed|EPA}}
+| ChEBI = 197897
+| DTXSID = DTXSID301046327
+   | PubChem = 135796734
+   | ChemSpiderID = 28284374
+   | EINECS = 
+   | RTECS = 
+   | SMILES = c1c2c3c([nH]1)C(=O)C4=NCN[C@@H]5C4=C3N(CC5)C(C2)C(=O)O
+   | StdInChI = 1S/C15H14N4O3/c20-14-11-9-6(4-16-11)3-8(15(21)22)19-2-1-7-10(13(9)19)12(14)18-5-17-7/h4,7-8,16-17H,1-3,5H2,(H,21,22)/t7-,8?/m0/s1
+   | StdInChIKey = BWNDFVAUUSWIHO-JAMMHHFISA-N
+   }}
+| Section2 = {{Chembox_Properties
+   | C=15 | H=14 | N=4 | O=3
+   | Appearance = 
+   | Odor =
+   | Density =
+   | MeltingPtC = 
+   | BoilingPtC =
+   | Solubility = 
+   | RefractIndex = <!--törésmutató-->
+   | VaporPressure = 
+   | LogP = <!--oktanol/víz-->
+   }}
+}}
+===Chemistry===
+The fruit bodies contain the blue [[alkaloid]] pigments, sanguinones A and B, unique to this species. It also has the red-colored alkaloid sanguinolentaquinone. The sanguinones are structurally related to mycenarubin&nbsp;A, made by ''[[Mycena rosea|M.&nbsp;rosea]]'', and the [[discorhabin]]s, a series of compounds produced by [[Marine (ocean)|marine]] [[sponge]]s. Although the function of the sanguinones is not known, it has been suggested that they may have "an ecological role ... beyond their contribution to the color of the fruiting bodies, ... since predators rarely feed on fruiting bodies".<ref name=Peters2007/>  When grown in [[pure culture]] in the laboratory, the fungus produces the [[antifungal]] compound {{nowrap|hydroxystrobilurin-D}}.<ref name=Backens1988/> ''M.&nbsp;sanguinolenta'' is one of over 30 ''Mycena'' species that is [[bioluminescent]].<ref name=Desjardin2008/>
+
+===Similar species===
+The other "bleeding Mycena" ({{species|M|ycena|haematopus}}) is readily distinguished from ''M.&nbsp;sanguinolenta'' by its larger size, different color, growth on rotting wood, and presence of a sterile band of tissue on the margin of the cap. Further, ''M.&nbsp;sanguinolenta'' consistently has red-edged gills, while the gill edges of ''M.&nbsp;haematopus'' are more variable.<ref name=Ammirati2009/> The similarly named {{species|M|ycena|subsanguinolenta}} has red to orange juice, is slightly yellower, and does not have pleurocystidia. {{species|M|ycena|plicatus}} has a similar furrowed cap, but also has a tough stipe and does not ooze liquid when injured.<ref name=Arora1986/> ''Mycena'' specialist [[Alexander H. Smith]] has noted a "striking" resemblance to {{species|M|ycena|debilis}}, but this species has different colors (pale vinaceous brown or sordid brown when faded), produces uncolored latex, and does not have differently-colored gill edges.<ref name=Smith1935/>
+
+==Distribution and habitat==
+''Mycena sanguinolenta'' is common and widely distributed. It has been found from [[Maine]] to [[Washington (state)|Washington]] and south to [[North Carolina]] and [[California]] in the United States, and from [[Nova Scotia]] to [[British Columbia]] in Canada.<ref name="Smith p.146-49"/> In Jamaica, it has been collected at an elevation of {{convert|1800|m|ft|abbr=on}}.<ref name=Dennis1968/> The distribution includes Europe (Britain,<ref name=Hughes1957/> Germany,<ref name=Gerhardt1990/> The Netherlands,<ref name=Arnolds2009/> Norway,<ref name="urlMycena sanguinolenta"/> Romania<ref name=Silaghi1959/> and Sweden)<ref name=Ruhling1990/> and Australia.<ref name=Young2005/> In Asia, it has been collected from the [[alpine zone]] of the [[Changbai Mountains]] in [[Jilin Province, China]],<ref name=Yuguang2010/> and from the provinces of [[Ōmi Province|Ōmi]] and [[Yamashiro Province|Yamashiro]] in Japan.<ref name=Hongo1953/>
+
+The fruit bodies grow in groups on leaf mold, moss beds, or needle carpets during the spring and fall.<ref name="Smith p.146-49"/> It is common in forests of [[fir]] and [[beech]],<ref name=Peters2007/> and prefers to grow in soil of high acidity.<ref name=Ruhling1990/>
+
+==See also==
+*[[List of bioluminescent fungi]]
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=Ammirati2009>{{cite book |vauthors=Ammirati J, Trudell S |title=Mushrooms of the Pacific Northwest: Timber Press Field Guide (Timber Press Field Guides) |publisher=Timber Press |location=Portland, Oregon |year=2009 |page=127 |isbn=978-0-88192-935-5}}</ref>
+
+<ref name=Arnolds2009>{{cite journal |vauthors=Arnolds E, Veerkamp M |year=2009 |title=Nieuwsbrief paddenstoelenmeetnet - 10 |trans-title=Newsletter mushrooms network-10 |journal=Coolia |volume=52 |issue=3 |pages=125–42 |language=Dutch}}</ref>
+
+<ref name=Arora1986>{{cite book |author=Arora D. |title=Mushrooms Demystified: a Comprehensive Guide to the Fleshy Fungi |publisher=Ten Speed Press |location=Berkeley, CA |year=1986 |page=232 |isbn=0-89815-169-4 |url=https://books.google.com/books?id=L-4ajFDPlxgC&pg=PA232}}</ref>
+
+<ref name=Backens1988>{{cite journal |vauthors=Backens S, Steglich W, Bauerle J, Anke T |year=1988 |title=Antibiotics from Basidiomycetes .28. Hydroxystrobilurin-D, an antifungal antibiotic from cultures of ''Mycena sanguinolenta'' (Agaricales) |journal=Liebigs Annalen der Chemie |issue=5 |pages=405–09 |doi=10.1002/jlac.198819880506 |language=German |issn=0170-2041}}</ref>
+
+<ref name="BMS">{{cite web |author=Holden L. |url=http://www.britmycolsoc.org.uk/library/english-names/ |title=English names for fungi 2014 |date=July 2014 |publisher=[[British Mycological Society]] |access-date=2016-02-07 |archive-date=2015-09-23 |archive-url=https://web.archive.org/web/20150923194645/http://www.britmycolsoc.org.uk/library/english-names/ |url-status=dead }}</ref>
+
+<ref name=Dennis1968>{{cite journal |doi=10.2307/4107821 |author=Dennis RWG. |year=1968 |title=Some Agaricales from the Blue Mountains of Jamaica |journal=Kew Bulletin |volume=22 |issue=1 |pages=73–85 |jstor=4107821|bibcode=1968KewBu..22...73D }}</ref>
+
+<ref name=Desjardin2008>{{cite journal |vauthors=Desjardin DE, Oliveira AG, Stevani CV |year=2008 |title=Fungi bioluminescence revisited |journal=Photochemical & Photobiological Sciences |volume=7 |issue=2 |pages=170–82 |doi=10.1039/b713328f |pmid=18264584 |bibcode=2008PhPhS...7..170D |citeseerx=10.1.1.1033.2156 }}</ref>
+
+<ref name=Gerhardt1990>{{cite journal |author=Gerhardt E. |year=1990 |title=Checkliste der Großpilze von Berlin (West) 1970–1990 |journal=Englera |volume=13 |issue=13 |pages=3–5, 7–251 |doi=10.2307/3776760 |jstor=3776760 |language=German}}</ref>
+
+<ref name=Harder2010>{{cite journal |vauthors=Harder CB, Læssøe T, Kjøller R, Frøslev TG |year=2010 |title=A comparison between ITS phylogenetic relationships and morphological species recognition within ''Mycena'' sect. ''Calodontes'' in Northern Europe |journal=Mycological Progress |volume=9 |issue=3 |pages=395–405 |doi=10.1007/s11557-009-0648-7|bibcode=2010MycPr...9..395H |s2cid=20653008 }}</ref>
+
+<ref name=Hongo1953>{{cite journal |author=Hongo T. |year=1953 |title=Larger fungi of the provinces of Omi and Yamashiro (5) |journal=Journal of Japanese Botany |volume=28 |issue=11 |pages=330–36}}</ref>
+
+<ref name=Hughes1957>{{cite journal |doi=10.2307/4109111 |vauthors=Hughes CG, Phillips HH |year=1957 |title=A list of Oxfordshire fungi |journal=Kew Bulletin |volume=12 |issue=1 |pages=97–106 |jstor=4109111|bibcode=1957KewBu..12...97H }}</ref>
+
+<ref name=Kummer1871>{{cite book |title=Der Führer in die Pilzkunde |last=Kummer P. |year=1871 |publisher=Zerbst |page=107 |language=German}}</ref>
+
+<ref name=Peters2007>{{cite journal |doi=10.1021/np070179s |vauthors=Peters S, Spitelier P |year=2007 |title=Sanguinones A and B, blue pyrroloquinoline alkaloids from the fruiting bodies of the mushroom ''Mycena sanguinolenta''|journal=Journal of Natural Products |volume=70 |issue=8 |pages=1274–77 |pmid=17658856}}</ref>
+
+<ref name=Roody2003>{{cite book |author=Roody WC. |title=Mushrooms of West Virginia and the Central Appalachians |publisher=University Press of Kentucky |location=Lexington, KY |year=2003 |page=187 |isbn=0-8131-9039-8 |url=https://books.google.com/books?id=5HGMPEiy4ykC&pg=PA187}}</ref>
+
+<ref name=Ruhling1990>{{cite journal |vauthors=Rühling A, Tyler G |year=1990 |title=Soil factors influencing the distribution of macrofungi in oak forests of southern Sweden |journal=Holarctic Ecology |volume=13 |issue=1 |pages=11–18 |issn=0105-9327 |doi=10.1111/j.1600-0587.1990.tb00584.x|bibcode=1990Ecogr..13...11R }}</ref>
+
+<ref name=Silaghi1959>{{cite journal |last=Silaghi |first=Gheorghe |year=1959 |title=Specii de ''Mycena'' noi pentru micoflora R.P.R. |trans-title=New species of ''Mycena'' for the mycological flora of the People's Republic of Rumania |journal=Studii și cercetări de biologie |publisher=The Academy of the People's Republic of Romania. Cluj branch (Academia Republicii Populare Romîne. Filiala Cluj) |volume=X |issue=2 |pages=195–202 |language=ro}}</ref>
+
+<ref name=Smith1935>{{cite journal |doi=10.2307/2435962 |author=Smith AH. |year=1935 |title=Studies in the genus ''Mycena''. I |journal=American Journal of Botany |volume=22 |issue=10 |pages=858–77  |jstor=2435962}}</ref>
+
+<ref name=Young2005>{{cite book |author=Young AM. |title=A Field Guide to the Fungi of Australia |publisher=UNSW Press |location=Sydney, Australia |year=2005 |pages=160–61 |isbn=0-86840-742-9 |url=https://books.google.com/books?id=ysgx509xB-AC&pg=PA160}}</ref>
+
+<ref name=Wakefield1950>{{cite book |vauthors=Wakefield EM, Dennis RW |title=Common British fungi: a guide to the more common larger Basidiomycetes of the British Isles |year=1950 |publisher=P. R. Gawthorn |location=London |page=155}}</ref>
+
+<ref name=Yuguang2010>{{cite journal |vauthors=Yu-guang F, Tolgor B |year=2010 |title=Checklist of macrofungi collected from different forests in Changbai Mountain (I): alpine zone |journal=Journal of Fungal Research |volume=8 |issue=1 |pages=32–34, 47 |issn=1672-3538 |language=Chinese}}</ref>
+
+<ref name="urlMycena sanguinolenta">{{cite web |url=http://home.online.no/~araronse/Mycenakey/sanguinolenta.htm |title=''Mycena sanguinolenta'' |author=Aronsen A |work=A key to the Mycenas of Norway |access-date=2009-09-26 |url-status=dead |archive-url=https://web.archive.org/web/20101012000611/http://home.online.no/~araronse/Mycenakey/sanguinolenta.htm |archive-date=2010-10-12 }}</ref>
+
+<ref name="urlMycoBank: Mycena sanguinolenta">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=205959 |title=''Mycena sanguinolenta'' (Alb. & Schwein.) P. Kumm. 1871  |publisher=International Mycological Association |work=MycoBank |access-date=2010-09-26}}</ref>
+
+}}
+
+===Cited text===
+*{{cite book |title=North American species of ''Mycena'' |author=Smith AH. |year=1947 |location=Ann Arbor |publisher=University of Michigan Press}}
+
+{{Good article}}
+{{Taxonbar|from=Q785648}}
+
+[[Category:Bioluminescent fungi]]
+[[Category:Mycena|sanguinolenta]]
+[[Category:Fungi described in 1805]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Lewis David de Schweinitz]]
+[[Category:Taxa named by Johannes Baptista von Albertini]]
+[[Category:Fungus species]]

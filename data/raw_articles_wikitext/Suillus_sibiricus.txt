@@ -1,0 +1,158 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Suillus sibiricus 72212.jpg
+| genus = Suillus
+| species = sibiricus
+| authority = ([[Rolf Singer|Singer]]) Singer (1945)
+| synonyms_ref = <ref name=SpeciesFungorum/>
+| synonyms = *''Ixocomus sibiricus'' <small>Singer (1938)</small>
+*''Boletus sibiricus'' <small>(Singer) [[Alexander Hanchett Smith|A.H.Sm.]] (1949)</small>
+}}
+
+'''''Suillus sibiricus''''' is a [[mushroom]]-forming [[fungus]] in the family [[Suillaceae]]. In North America, it is [[common name|commonly]] called the '''Siberian slippery jack'''. [[Phylogenetic]] analysis has shown that ''S.&nbsp;sibiricus'' is closely related to ''[[Suillus umbonatus|S.&nbsp;umbonatus]]'' and ''[[Suillus americanus|S.&nbsp;americanus]]'', and may in fact be [[conspecificity|conspecific]] with the latter species.
+
+The [[basidiocarp|fruit bodies]] have slimy [[pileus (mycology)|caps]] in wet weather, which can reach diameters of up to {{convert|10|cm|abbr=on}}. On the underside of the cap are yellow angular pores that bruise a pinkish to cinnamon colour. The [[stipe (mycology)|stem]] is up to {{convert|8|cm|abbr=on}} tall and {{convert|2.5|cm|1|abbr=on}} wide and typically has a [[annulus (mycology)|ring]], a remnant of the [[partial veil]] that covers the fruit body in its early development.
+
+It is found in mountains of Europe, North America, and Siberia, strictly associated with several species of [[Pinus|pine]] tree. Due to its specific habitat and rarity in Europe, it has been selected for inclusion in several [[regional Red List]]s.
+
+==Taxonomy==
+
+{{cladogram|title=
+|clade=
+{{clade
+|style=font-size:75%;line-height:75%
+|label1=
+|1={{clade
+    |1=''S. umbonatus'' (Western North America)
+    |2={{clade
+        |1='''''S. sibiricus''''' (USA-[[Arizona]])
+        |2={{clade
+            |1=''S. americanus'' (USA-[[Michigan]])
+            |2='''''S. sibiricus''''' (Nepal)
+            |3='''''S. sibiricus''''' (China-[[Jilin]])
+            |4='''''S. sibiricus''''' (China-[[Yunnan]])
+           }}
+       }}
+   }}
+}}
+|caption=Possible phylogenetic relationships of ''S.&nbsp;sibiricus'' and related species with an eastern Asian/eastern North American disjunct distribution.<ref name=Wu2000/>
+}}
+The species was first described scientifically under the name ''Ixocomus sibiricus'' by American mycologist [[Rolf Singer]] in 1938, based on material that was collected under ''[[Pinus cembra]]'' var. ''sibirica'' in the [[Altai Mountains]] of central Asia.<ref name=Singer1938/> In 1945, he transferred it to ''Suillus''.<ref name=Singer1945/> [[Alexander H. Smith]] called the species ''Boletus sibiricus'' in 1949,<ref name=Smith1949/> but this is today considered a [[synonym (taxonomy)|synonym]].<ref name=SpeciesFungorum/> Singer named the [[subspecies]]  ''S.&nbsp;sibiricus'' subsp. ''helveticus'' in 1951,<ref name=Singer1951/> based on material collected  by [[Jules Favre (naturalist)|Jules Favre]] from Switzerland in 1945. [[Roy Watling]] later considered this a ''[[nomen nudum]]''—not published with an adequate description, and therefore failing to qualify as a formal scientific name.<ref name=Watling1965/>
+
+According to Singer's 1986 arrangement, ''S.&nbsp;sibiricus'' is [[classification (biology)|classified]] in the subsection ''Latiporini'' of [[section (biology)|section]] ''Suillus'' in the genus ''Suillus''. Section ''Suillus'' includes species with glandular dots on the stem, and a [[partial veil]] which becomes [[wikt:appendiculate|appendiculate]] on the cap edge. Characteristics of species in subsection ''Latiporini'' include cinnamon-coloured [[spore print]]s without an olive tinge, and wide pores on the underside of the cap (wider than 1&nbsp;mm when mature). Other species in the subsection include ''[[Suillus flavidus|S.&nbsp;flavidus]]'', ''[[Suillus umbonatus|S.&nbsp;umbonatus]]'', ''[[Suillus punctatipes|S.&nbsp;punctatipes]]'', and ''[[Suillus americanus|S.&nbsp;americanus]]''.<ref name=Singer1986/>
+
+A [[phylogenetic]] analysis of various eastern Asian and eastern North American [[disjunct distribution|disjunct]] ''Suillus'' species revealed that ''S.&nbsp;sibiricus'' forms a well-supported [[clade]] with ''S.&nbsp;americanus'' and ''S.&nbsp;umbonatus'';<ref name=Wu2000/> these relationships are corroborated by a previous analysis (1996), which used a larger sampling of ''Suillus'' species to determine [[Taxonomy (biology)|taxonomic]] relationships in the genus.<ref name=Kretzer1996/> Within this clade, ''S.&nbsp;umbonatus'' and U.S. ''S.&nbsp;sibiricus'' can be separated from the rest of the group. However, the phylogenetic relationships among the tested isolates determined from different methods of analysis are not always consistent and could not be established with confidence. In general, there is little phylogenetic divergence detected in this clade.<ref name=Wu2000/>
+
+{{mycomorphbox
+| name = ''Suillus sibiricus''
+| whichGills = adnate
+| whichGills2 = decurrent
+| capShape = convex
+| capShape2 = flat
+| hymeniumType = pores
+| stipeCharacter = ring
+| stipeCharacter2 = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = brown
+| howEdible = edible
+| howEdible2 = allergenic
+}}
+==Description==
+
+
+The [[basidiocarp|fruit body]] of ''Suillus sibiricus'' is a medium-sized [[bolete]]. The [[Pileus (mycology)|cap]] is at first hemispherical and straw yellow, but expands with maturity and finally flattens out becoming darker with reddish brown spots or fibrils. The cap diameter is up to {{convert|10|cm|abbr=on}}. The cap [[cuticle]] is [[wikt:mucilaginous|mucilaginous]] especially when moist and can be peeled off. A [[partial veil]] extends from the stem to the cap periphery in immature specimens. In mature specimens, it is obliterated leaving a felty [[Annulus (mycology)|ring]] around the [[Stipe (mycology)|stem]] and fragments hanging from the cap periphery. The [[Hymenium|tubes]] are initially yellow but become brown, [[Wiktionary:adnate|adnate]] or slightly [[Wiktionary:decurrent|decurrent]]. The pores are angular, wider than 1&nbsp;mm in diameter and the same colour as the tubes but stain dirty pink or [[wine (color)|vinaceous]] when bruised.<ref name=Arora1986/> The tubes that make up the pores are {{convert|7 to 10|mm|1|abbr=on}} long.<ref name=Thiers1975/> Droplets can be present and these leave dark brown spots after drying out.<ref name=Hinkova/>
+
+The stem is cylindrical, up to {{convert|8|cm|abbr=on}} tall and {{convert|2.5|cm|1|abbr=on}} wide. It is yellow, becoming pink to red towards the base and covered throughout with granules which become darker as the fruit body matures. The partial veil, and later ring, is cottony, off-white and attached to the top third stem.<ref name=Hinkova/> Because the ring is [[wikt:fugacious|fugacious]] (short-lived) it is not always present; it is thought that fruit bodies that develop in dry conditions are less likely to have a ring.<ref name=Snell1961/> The [[Trama (mycology)|flesh]] is pale yellow and stains red-brown when bruised. At first firm, with maturity it becomes increasingly soft. The [[spore deposit]] is coloured brown. The [[Basidiospore|spores]] are [[Wiktionary:ellipsoid|ellipsoid]], sized 9–12 by 3.8–4.5&nbsp;[[μm]], thin-walled, and smooth when seen through a [[light microscopy|microscope]].<ref name=Hinkova/> The basidia (spore-bearing cells) are club-shaped, four-spored, and measure 22–34 by 5–8&nbsp;μm.<ref name=Thiers1975/> The [[Trama (mycology)|flesh]] reddens and then blackens when [[potassium hydroxide]] solution is applied. With [[iron(II) sulfate]] solution, the flesh slowly discolours to grey.<ref name=mushroomexpert/>
+
+===Similar species===
+In North America, ''[[Suillus americanus]]'' has a similar appearance, but a more easterly distribution. It is associated with [[eastern white pine]]. Although some authors have tried to distinguish between the two with by using width of the stem, or by differences in fruit body colouration, it is acknowledged that these characteristics are variable, and depend on environmental factors.<ref name=mushroomexpert/> The phylogenetic analysis of Wu and colleagues (2000) suggests that the two taxa may be the same, although more samples from different geographical areas will be needed to verify this.<ref name=Wu2000/>
+
+==Distribution and habitat==
+. [[Rila]] mountain, [[Bulgaria]]]]
+
+''Suillus sibiricus'' has been recorded in parts of Europe, North America and Siberia. The fungus forms strict [[Mycorrhiza|ectomycorrhizal]] associations with [[Pinus|pine]]s of the subgenus ''[[Strobus]]''. These include [[Swiss pine]] (''Pinus cembra'') in the [[Alps]] and [[Tatras]] of central Europe,<ref name=nagrzyby/> [[Macedonian pine]] (''P.&nbsp;peuce'') in the [[Balkans]],<ref name=33threatened/> [[western white pine]] (''P.&nbsp;monticola'') and [[limber pine]] (''P.&nbsp;flexilis'') in the [[Pacific Northwest]] of [[North America]],<ref name=mushroomexpert/><ref name=Grand1968/> ''[[Pinus banksiana|P.&nbsp;banksiana]]'' in [[Quebec, Canada]],<ref name=Snell1961/> and [[Siberian pine]] (''P.&nbsp;sibirica'') and [[Siberian dwarf pine]] (''P.&nbsp;pumila'') in [[Siberia]] and the [[Russian Far East]].<ref name=floranimal/> The range of the fungus is hence limited by the distribution of the host tree. ''S.&nbsp;sibiricus'' has also been shown to be able to form ectomycorrhizae with the Himalayan species ''[[Pinus wallichiana|P.&nbsp;wallichiana]]'' in [[pure culture]] conditions in the laboratory.<ref name=Sagar2005/>
+
+The fungus is rare in Europe and its distribution typically corresponds with high elevations at or near the alpine [[tree line]]. It is found in at least 11 countries,{{#tag:ref|European countries in which ''S.&nbsp;sibiricus'' is found include Austria, Bulgaria, Czech Republic, France, Germany, Italy, Macedonia, Montenegro, Poland, Slovakia and Switzerland.<ref name=33threatened/><ref name=nagrzyby/><ref name=protectedME/><ref name=redlistMK/>|group=nb}} and has been included in the [[Regional Red List|Red List]] of 8 countries.{{#tag:ref|European countries in which ''S.&nbsp;sibiricus'' is red listed or protected include Austria, Bulgaria, France, Germany, Macedonia (preliminary Red List), Montenegro (protected but not red listed), Poland, Slovakia and Switzerland.<ref name=33threatened/><ref name=nagrzyby/><ref name=protectedME/><ref name=redlistMK/>|group=nb}} It is considered [[critically endangered]] in the Czech Republic.<ref name="Mikšik 2012"/> The [[European Council for Conservation of Fungi]] (ECCF) has suggested ''Suillus sibiricus'' be listed in Appendix&nbsp;II of the [[Convention on the Conservation of European Wildlife and Natural Habitats|Bern Convention]].<ref name=33threatened/> Factors that threaten the habitat of ''S.&nbsp;sibiricus'' include [[deforestation]] and construction of [[skiing]] [[piste]]s and other infrastructure for [[winter sport]]s.<ref name=33threatened/>
+
+The fungus fruits in summer and autumn in Europe, and in western North America where it often occurs abundantly.<ref name=mushroomexpert/><ref name=rogersmushrooms/> The North American distribution extends south to [[Nuevo Leon]], Mexico.<ref name=Garcia1981/>
+
+==Edibility==
+
+''Suillus sibiricus'' is reportedly [[edible mushroom|edible]], but it is without any commercial or culinary value.<ref name=Hinkova/><ref name=33threatened/><ref name=rogersmushrooms/> It is one of over 200 species of mushrooms frequently collected for consumption in Nepal.<ref name=Christensen2008/> Its taste has been described variously by authors as sour (Europe) and not distinctive or slightly bitter (North America). Its odour is not distinctive.<ref name=Arora1986/><ref name=Hinkova/> It can cause allergic reactions.<ref name=Arora1986/>
+
+==See also==
+*[[List of North American boletes]]
+
+==Notes==
+<references group="nb" />
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=33threatened>{{cite book |vauthors=Dahlberg A, Croneborg H |title=33 Threatened Fungi in Europe |publisher=Swedish Species Information Centre |location=Uppsala, Sweden |year=2003 |pages=11, 74–75|url=http://www.artdata.slu.se/Bern_Fungi/ECCF%2033_T-PVS%20(2001)%2034%20rev_medium%20resolution.pdf | access-date=2010-07-22}}</ref>
+
+<ref name=Arora1986>{{cite book |author=Arora D.|author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/498/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |year=1986 |orig-date=1979 |edition=2nd |pages=498–99}}</ref>
+
+<ref name=Christensen2008>{{cite journal |vauthors=Christensen M, Bhattarai S, Devkota S, Larsen HO |year=2008 |title=Collection and use of wild edible fungi in Nepal |journal=Economic Botany |volume=62 |issue=1 |pages=12–23 |doi=10.1007/s12231-007-9000-9|s2cid=6985365 }}</ref>
+
+<ref name=floranimal>{{cite web |url=http://www.floranimal.ru/pages/flora/m/4985.html |language=Russian |title=Maslyonok Sibirskiy (''Suillus sibiricus'') |publisher=florAnimal |access-date=2010-07-22}}</ref>
+
+<ref name=Garcia1981>{{cite journal |vauthors=Garcia J, Castillo J |year=1981 |title=Species of Boletaceae and Gomphidaceae fungi known in Nuevo Leon Mexico |journal=Boletin de la Sociedad Mexicana de Micologia |volume=15 |pages=121–98 |language=Spanish}}</ref>
+
+<ref name=Grand1968>{{cite journal |author=Grand LF. |year=1968 |title=Conifer associates and mycorrhizal synthesis of some Pacific Northwest ''Suillus'' species |journal=Forest Science |volume=14 |issue=3 |pages=304–12}}</ref>
+
+<ref name=Hinkova>{{cite book |author=Ts. Hinkova |year=1986 |title=Нашите Гъби |page=28 |publisher=Zemizdat (Bulgaria) |trans-title=Our Mushrooms}}</ref>
+
+<ref name=Kretzer1996>{{cite journal |vauthors=Kretzer A, Li Y, Szaro T, Bruns TD |year=1996 |title=Internal transcribed spacer sequences from 38 recognized species of ''Suillus'' sensu lato: Phylogenetic and taxonomic implications |journal=Mycologia |volume=88 |issue=5 |pages=776–85 |doi=10.2307/3760972 |jstor=3760972}}</ref>
+
+<ref name="Mikšik 2012">{{cite journal |author=Mikšik M. |title=Rare and protected species of boletes of the Czech Republic |journal=Field Mycology |year=2012 |volume=13 |issue=1 |pages=8–16 |doi=10.1016/j.fldmyc.2011.12.003|doi-access=free }}</ref>
+
+<ref name=mushroomexpert>{{cite web | title=''Suillus sibiricus'' |author=Michael Kuo |publisher=Mushroom Expert | url=http://www.mushroomexpert.com/suillus_sibiricus.html | access-date=2010-07-22}}</ref>
+
+<ref name=nagrzyby>{{cite web |url=http://www.nagrzyby.pl/index.php?artname=gatunek&id=705 |language=Polish |title=Maślak syberyjski ''Suillus sibiricus'' |publisher=NaGrzyby |access-date=2010-07-22}}</ref>
+
+<ref name=protectedME>{{cite web |title=Protected Species of Macromycetes in the Republic of Montenegro | year=2006 |vauthors=Kasom G, Miličković N |publisher=Institute for the Protection of Nature of Montenegro |url=http://www.wsl.ch/eccf/Montenegro_species.pdf |access-date=2010-07-22}}</ref>
+
+<ref name="redlistMK">{{cite report |author=Karadelev M. | year=2000 |title=A Preliminary Red List of Macromycetes in the Republic of Macedonia by Institute of Biology, Faculty of Natural Science, Skopje |publisher=European Council for the Conservation of Fungi |issue=10 |pages=7–10 |url=http://www.wsl.ch/eccf/newsletter10.pdf |access-date=2010-07-22}}</ref>
+
+<ref name=rogersmushrooms>{{cite web |title=''Suillus sibiricus'' |publisher=Rogers Plants Ltd. |url=http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6827.asp |author=Phillips R |work=Rogers Mushrooms |access-date=2010-07-22}}</ref>
+
+<ref name=Sagar2005>{{cite journal |vauthors=Sagar A, Lakhanpal TN |year=2005 |title=Pure culture synthesis of ''Pinus wallichiana'' ectomycorrhiza with ''Suillus sibiricus'' |journal=Indian Phytopathology |volume=58 |issue=3 |pages=323–25 |issn=0367-973X}}</ref>
+
+<ref name=Singer1938>{{cite journal |author=Singer R. |year=1938 |title=Sur les genres ''Ixocomus'', ''Boletinus'', ''Phylloporus'', ''Gyrodon'' et ''Gomphidius'' |trans-title=On the genera ''Ixocomus'', ''Boletinus'', ''Phylloporus'', ''Gyrodon'' and ''Gomphidius'' |journal=Revue de Mycologie |volume=3 |pages=35–53 |language=French}}</ref>
+
+<ref name=Singer1945>{{cite journal |author=Singer R. |year=1945 |title=The Boletineae of Florida with notes on extralimital species. II. The Boletaceae (Gyroporoideae) |journal=Farlowia |volume=2 |issue=2 |pages=223–303}}</ref>
+
+<ref name=Smith1949>{{cite book |title=Mushrooms in their Natural Habitats |author=Smith AH. |year=1949 |publisher=Hafner |location=New York |isbn=0-02-852420-9 |page=220}}</ref>
+
+<ref name=Singer1951>{{cite journal |author=Singer R. |year=1949 |title=The Agaricales in Modern Taxonomy |journal=Lilloa |volume=22 |issue=2 |page=657}}</ref>
+
+<ref name=Singer1986>{{cite book |author=Singer R. |title=The Agaricales in Modern Taxonomy |edition=4th |publisher=Koeltz Scientific Books |location=Königstein im Taunus, Germany |year=1986 |page=756 |isbn=3-87429-254-1}}</ref>
+
+<ref name=Snell1961>{{cite journal |doi=10.2307/3756270 |last1=Snell |first1=Walter |last2=Dick |first2=Esther A. |author-link1=Wally Snell |year=1961 |title=Notes on Boletes. XIV |journal=Mycologia |volume=53 |issue=3 |pages=228–36 |jstor=3756270}} {{subscription required}}</ref>
+
+<ref name=SpeciesFungorum>{{cite web |url=http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=291287 |title=Species synonymy: ''Suillus sibiricus'' (Singer) Singer |publisher=CAB International |work=Index Fungorum |access-date=2010-07-22}}</ref>
+
+<ref name=Thiers1975>{{cite book |title=California Mushrooms: A Field Guide to the Boletes |author=Thiers HD. |year=1975 |publisher=Hafner Press |location=New York |isbn=978-0-02-853410-7 |url=http://www.mykoweb.com/boletes/species/Suillus_sibiricus.html |access-date=2010-07-22}}</ref>
+
+<ref name=Watling1965>{{cite journal |author=Watling R. |year=1965 |title=Notes on British boleti |journal=Botanical Journal of Scotland |volume=40 |issue=1 |pages=100–20 |doi=10.1080/03746606508685128}}</ref>
+
+<ref name=Wu2000>{{cite journal |vauthors=((Wu Q-X)), Mueller GM, Lutzoni FM, ((Huang Y-Q)), ((Guo S-Y)) |year=2001 |title=Phylogenetic and biogeographic relationships of eastern Asian and eastern North American disjunct ''Suillus'' species (Fungi) as inferred from nuclear ribosomal RNA ITS sequences |journal=Molecular Phylogenetics and Evolution |pmid=11020303 |volume=17 |issue=1 |pages=37–47 |doi=10.1006/mpev.2000.0812 |url=http://www.lutzonilab.net/data/13Wuetal_MolPhyEvo2000.pdf}}</ref>
+
+}}
+
+==External links==
+* [http://www.funghiitaliani.it/index.php?showtopic=15580 Images of ''Suillus sibiricus'' at FunghiItaliani]
+* [http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6827.asp ''Suillus sibiricus'' at RogersMushrooms]
+
+{{Good article}}
+{{Taxonbar|from=Q452729}}
+
+[[Category:Suillus|sibiricus]]
+[[Category:Fungi described in 1945]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Edible fungi]]
+[[Category:Taxa named by Rolf Singer]]
+[[Category:Fungus species]]

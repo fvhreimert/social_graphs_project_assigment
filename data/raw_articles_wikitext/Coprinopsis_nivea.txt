@@ -1,0 +1,54 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = 2014-02-18 Coprinopsis nivea (Pers.) Redhead, Vilgalys & Moncalvo 404556.jpg
+| genus = Coprinopsis
+| species = nivea
+| authority = ([[Christiaan Hendrik Persoon|Pers.]]) [[Scott Alan Redhead|Redhead]], [[Rytas J. Vilgalys|Vilgalys]] & [[Jean-Marc Moncalvo|Moncalvo]] (2001)
+| synonyms = ''Agaricus niveus'' <small>[[Christiaan Hendrik Persoon|Pers.]] (1801)</small><br>
+''Coprinus niveus'' <small>[[Elias Magnus Fries|Fr.]] (1838)</small><br>
+''Coprinus latisporus'' <small>[[P. D. Orton|P.D.Orton]] (1972)</small><br>
+''Coprinus niveus var. parvisporus'' <small>[[Fred van de Bogart|Bogart]] (1975)</small>
+| image2 = Schneeweisse Tintlinge.jpg
+}}
+{{Mycomorphbox
+| name = ''Coprinopsis nivea''
+| hymeniumType = gills
+| capShape = campanulate
+| whichGills = adnate
+| stipeCharacter = bare
+| sporePrintColor = black
+| ecologicalType = saprotrophic
+| howEdible = unknown
+}}
+
+'''''Coprinopsis nivea''''', commonly known as the '''snowy inky cap'''<ref>{{Cite book |last=Siegel |first=Noah |title=Mushrooms of Cascadia: A Comprehensive Guide to Fungi of the Pacific Northwest |last2=Schwarz |first2=Christian |date=September 1, 2024 |publisher=Backcountry Press |isbn=9781941624197 |location=}}</ref> or '''snowy inkcap''', is a species of [[mushroom]] producing [[fungus]] in the family [[Psathyrellaceae]].<ref>{{Cite web |title=Mycobank Database - Coprinopsis nivea |url=https://www.mycobank.org/page/Name%20details%20page/name/Coprinopsis%20nivea}}</ref><ref>{{Cite web |title=Species Fungorum - Coprinopsis nivea (Pers.) Redhead, Vilgalys & Moncalvo, in Redhead, Vilgalys, Moncalvo, Johnson & Hopple, Taxon 50(1): 229 (2001) |url=http://www.speciesfungorum.org/Names/GSDSpecies.asp?RecordID=474625 |access-date=2022-07-17 |website=www.speciesfungorum.org}}</ref>
+
+== Taxonomy ==
+It was first [[Species description|described]] in 1801 by the German mycologist [[Christiaan Hendrik Persoon]] who classified it as ''Agaricus niveus.''<ref>{{Cite web |title=Species Fungorum - Agaricus niveus Pers., Syn. meth. fung. (Göttingen) 2: 400 (1801) |url=http://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=476775 |access-date=2022-07-17 |website=www.speciesfungorum.org}}</ref>
+
+In 1838 it was reclassified as ''Coprinus niveus'' by the Swedish mycologist [[Elias Magnus Fries]].<ref>{{Cite web |title=Species Fungorum - Coprinus niveus (Pers.) Fr., Epicr. syst. mycol. (Upsaliae): 246 (1838) [1836-1838] |url=http://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=232960 |access-date=2022-07-17 |website=www.speciesfungorum.org}}</ref><ref>{{Cite book |last=Fries |first=Elias Magnus |url=https://archive.org/details/bub_gb_fUU-AAAAcAAJ/page/246/mode/2up |title=Epicrisis systematis mycologici seu synopsis hymenomycetum |date=1836 |publisher=Upsaliae : Acad. |others=Bavarian State Library |page=246}}</ref>
+
+In 2001 [[Phylogenetics|phylogentic]] analysis restructured the ''[[Coprinus]]'' genus and it was reclassified as ''Coprinopsis nivea'' by the mycologists [[Scott Alan Redhead]], [[Rytas J. Vilgalys]] & [[Jean-Marc Moncalvo]].<ref>{{cite journal |author=Redhead SA |first1=Scott A |author2=Vilgalys R |author3=Moncalvo J-M |author4=Johnson J |author5=Hopple JS |author6=Hopple, John S |author7=Johnson, Jacqui |author8=Moncalvo, Jean-Marc |author9=Vilgalys, Rytas |year=2001 |title=''Coprinus'' Pers. and the disposition of ''Coprinus'' species ''sensu lato'' |journal=Taxon |volume=50 |issue=1 |pages=203&ndash;241 |doi=10.2307/1224525 |jstor=1224525}}</ref>
+
+== Description ==
+''Coprinopsis nivea'' is a small inkcap mushroom which grows in wetland environments.
+
+'''Cap:''' 1.5–3&nbsp;cm. Starts egg shaped expanding to become [[campanulate]] (bell shaped). Covered in white powdery fragments of the veil when young. '''Gills:''' Start white before turning grey and ultimately black and deliquescing (dissolving into an ink-like black substance). Crowded and adnate or free. '''Stem:''' 3–9&nbsp;cm long and 4-7mm in diameter. White with a very slightly bulbous base which may present with white tufts similar to that of the cap. '''Spore print:''' Black. '''Spores:''' Flattened ellipsoid and smooth with a germ pore. 15-19 x 8.5-10.5 μm. '''Taste:''' Indistinct. '''Smell:''' Indistinct.<ref name=":0">{{Cite book |last=Buczacki |first=Stefan |title=Collins fungi guide |date=2012 |publisher=Collins |isbn=978-0-00-724290-0 |location=London |oclc=793683235}}</ref><ref name=":1">{{Cite web |title=Coprinopsis nivea, a rare inkcap mushroom |url=https://www.first-nature.com/fungi/coprinopsis-nivea.php |access-date=2022-07-17 |website=www.first-nature.com}}</ref>
+
+== Etymology ==
+The [[specific epithet]] ''nivea'' (originally ''niveus'') is Latin for snowy or snow-covered.<ref>{{Cite web |title=Latin Definition for: niveus, nivea, niveum (ID: 27911) - Latin Dictionary and Grammar Resources - Latdict |url=http://www.latin-dictionary.net/definition/27911/niveus-nivea-niveum |access-date=2022-07-20 |website=www.latin-dictionary.net}}</ref> This is a reference to the powdery white appearance of this mushroom.
+
+== Habitat and distribution ==
+Grows in small trooping or tufting groups on old [[Cow dung|dung]], especially that of cows<ref name="Pauline et al 2022">{{cite journal |last1=Pauline |first1=N'Douba Amako |last2=Claude |first2=Kouassi Kouadio |last3=Clovis |first3=Koffi N'Dono Boni |last4=Allal |first4=Douira |last5=Koutoua |first5=Ayolié |date=2022 |title=Coprophilous fungi of Daloa city: New species for the fungal flora of Côte d'Ivoire |url= |doi=10.30574/gscbps.2022.20.3.0362 |journal=GSC Biological and Pharmaceutical Sciences |volume=20 |issue=3 |pages=251–260|doi-access=free }}</ref> and horses, Summer through late Autumn. Widespread and recorded quite regularly.<ref name=":0" />
+
+== Similar species ==
+
+* ''[[Coprinopsis pseudonivea]].''
+
+== References ==
+{{Reflist}}
+{{Taxonbar|from=Q28492325}}
+
+[[Category:Psathyrellaceae]]
+[[Category:Coprinopsis]]
+[[Category:Fungus species]]

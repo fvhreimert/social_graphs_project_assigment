@@ -1,0 +1,48 @@
+{{short description|Species of mushroom}}
+{{single source|date=October 2025}}
+{{Speciesbox
+| image = Gymnopilus chrysopellus (Berk. & M.A. Curtis) Murrill 846265.jpg
+| image_caption = ''Gymnopilus chrysopellus'' in San Juan, Puerto Rico, US
+| taxon = Gymnopilus chrysopellus
+| authority = ([[Miles Joseph Berkeley|Berk.]] & [[Moses Ashley Curtis|M.A. Curtis]]) [[William Murrill|Murrill]]
+| synonyms = 
+}}
+{{mycomorphbox
+| name = ''Gymnopilus chrysopellus''
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+
+'''''Gymnopilus chrysopellus''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]].
+
+==Description==
+The [[pileus (mycology)|cap]] is {{convert|2.5|to|4|cm|in|1}} in diameter.<ref name="isbn0-945345-39-9">{{cite book |author=Hesler LR. |title=North American Species of ''Gymnopilus'' (Mycologia Memoir Series: No 3) |publisher=Lubrecht & Cramer Ltd |location=Knoxville, Tennessee |year=1969 |pages=45–46 |isbn=0-945345-39-9}}</ref>
+
+==Habitat and distribution==
+''Gymnopilus chrysopellus'' has been found growing on dead wood in [[Cuba]].<ref name="isbn0-945345-39-9"/>
+
+==See also==
+{{Portal|Fungi}}
+[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=451329 Index Fungorum]
+
+{{Taxonbar|from=Q5624757}}
+
+{{DEFAULTSORT:Gymnopilus chrysopellus}}
+[[Category:Gymnopilus|chrysopellus]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

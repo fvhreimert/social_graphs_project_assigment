@@ -1,0 +1,73 @@
+{{Speciesbox
+| image = Gymnopilus_luteofolius_Washington.jpg
+| image_caption =
+| taxon = Gymnopilus luteofolius
+| authority = ([[Charles Horton Peck|Peck]]) [[Rolf Singer|Singer]] (1951)
+| synonyms = *''Agaricus luteofolius'' <small>Peck (1875)</small>
+*''Pholiota luteofolius'' <small>(Peck) [[Sacc.]] (1887)</small>
+}}
+{{mycomorphbox
+| name = ''Gymnopilus luteofolius''
+| whichGills = adnate
+| capShape = convex
+| hymeniumType = gills
+| stipeCharacter = ring
+| ecologicalType = saprotrophic
+| sporePrintColor = reddish-brown
+| howEdible = unknown
+}}
+
+'''''Gymnopilus luteofolius''''', commonly known as the '''purple gym'''<ref name=":0">{{Cite book |last=Siegel |first=Noah |title=Mushrooms of Cascadia: A Comprehensive Guide to Fungi of the Pacific Northwest |last2=Schwarz |first2=Christian |date=September 1, 2024 |publisher=Backcountry Press |isbn=9781941624197 |location=Humboldt County, CA |pages=138}}</ref> or '''yellow-gilled gymnopilus''', is a large and widely distributed [[mushroom]]. It has a rusty orange [[spore print]] and a bitter taste. It can be found throughout North America.
+
+==Taxonomy==
+
+''Gymnopilus luteofolius'' was first [[species description|described]] as ''Agaricus luteofolius'' by [[Charles Horton Peck]] in 1875.  It was renamed ''Pholiota luteofolius'' by [[Pier Andrea Saccardo]] in 1887, and was given its current name by mycologist [[Rolf Singer]] in 1951.<ref name="Singer"/>
+
+==Description==
+
+The [[Basidiocarp|fruit bodies]] have reddish to purplish to yellow [[pileus (mycology)|cap]]s {{convert|2 to 11|cm|frac=4}} in diameter, which can stain bluish-green.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=652}}</ref> This cap surface is covered with fasciculate scales that start out purplish, soon fade to brick red, and finally fades to yellow as the mushroom matures.  The [[Trama (mycology)|context]] is reddish to light lavender, fading to yellowish as the mushroom matures. The [[lamella (mycology)|gills]] have [[adnation|adnate]] attachment and start off yellow, turning rusty brown as the spores mature.  The [[stipe (mycology)|stipe]] is the same color as the cap, often dusted with rusty-brown [[Basidiospore|spores]], fibrillose, measuring 3–9 by 3–10&nbsp;mm thick, equal to enlarged near the base. The stipe often has greenish stains near the base.  The taste is bitter.<ref name="Hesler"/>
+
+The spores are bright rusty brown [[spore print|in deposit]],<ref name="Stamets" /> measuring 6–8.5 x 4–4.5&nbsp;[[μm]], ellipsoid to subellipsoid, inequilateral, roughened and [[dextrinoid]], with no germ pore.  The [[basidium|basidia]] measure 24–28 x 6–7&nbsp;μm and are 4-spored.  The basidioles are often brown. The pleurocystidia ([[cystidia]] on the gill face) measures 30–38 x 5–10&nbsp;μm, hyaline, fusoid to subventricose.  The cystidia on the gill edge (cheilocystidia) measures 23–28 x 4–7&nbsp;μm, ventricose to flash shaped, often [[capitate]].  The lamellar flesh (trama) is made up of parallel hyphae 5–18&nbsp;μm across, frequently [[septate]], with yellowish [[biological pigment|pigment]] that is dissolved by potassium hydroxide. The pileus trama is interwoven, and the [[cap cuticle|pileus cuticle]] has brown tufts of brown incrusted hyphae. The pileocystidia measure 44–53&nbsp;μm, and are club-shaped, [[cylindrical]] or [[ventricose]] terminal elements on the hyphae that forms the scales on the cap. [[Cystidia]] on the stipe (caulocystidia) are 20–63 x 3–15 μm, club shaped, [[ventricose]] or flask shaped.  The gill trama and pileus trama are pale yellowish-brown in [[potassium hydroxide|KOH]] and reddish brown in [[Melzer's reagent]]. [[Clamp connections]] are present.<ref name="Hesler"/>
+
+{{gallery|mode=packed
+|Gymnopilus_luteofolius_Washington_pair.jpg|In youth
+|Gymnopilus_luteofolius_Washington_gills.jpg|Undersides
+|Gymnopilus_luteofolius_spores_1000x.jpg|Spores
+}}
+
+=== Similar species ===
+It resembles ''[[Tricholomopsis rutilans]]'', which has a white spore print.<ref name="audu" />
+
+==Habitat and distribution==
+It grows in dense clusters on dead hardwoods and conifers in North America, where it is common. It appears generally from June to October, or September to March on the West Coast.<ref name="audu" />
+
+==Potential uses==
+Its edibility is unknown. Mycologist [[David Arora]] notes that the related ''[[Gymnopilus aeruginosus|G.&nbsp;aeruginosus]]'' is [[Psychoactive mushroom|psychoactive]].<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/409/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=409-10 |orig-date=1979}}</ref>
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Singer">{{cite book |author=Singer R. |year=1951 |title=The Agaricales in Modern Taxonomy |series=Lilloa |volume=22 |page=560}}</ref>
+
+<ref name="Stamets">{{cite book | first=Paul | last=Stamets | year=1996 | title=Psilocybin Mushrooms of the World | publisher=Ten Speed Press | location=Berkeley | isbn=0-9610798-0-0}}</ref>
+
+<ref name="Hesler">{{cite book | first=L. R. | last=Hesler | year=1969 | title=North American Species of ''Gymnopilus'' | publisher=Hafner Publishing Company | location=Knoxville, Tennessee }}</ref>
+
+}}
+
+==External links==
+{{Commons category}}
+*{{Cite journal |doi=10.2307/3761920 |last1=Guzmán-Dávalos |first1=Laura |last2=Mueller |first2=Gregory M. |last3=Cifuentes |first3=Joaquín |last4=Miller |first4=Andrew N. |last5=Santerre |first5=Anne |title=Traditional infrageneric classification of ''Gymnopilus'' is not supported by ribosomal DNA sequence data |journal=Mycologia |volume=95 |issue=6 |pages=1204–1214 |date=Nov–Dec 2003 |pmid=21149021 |jstor=3761920 |url=http://www.mycologia.org/cgi/reprint/95/6/1204.pdf}}
+
+{{Hallucinogenic mushrooms}}
+{{Taxonbar|from=Q5624857}}
+
+[[Category:Fungi described in 1875]]
+[[Category:Fungi of North America]]
+[[Category:Gymnopilus|luteofolius]]
+[[Category:Taxa named by Charles Horton Peck]]
+[[Category:Fungus species]]

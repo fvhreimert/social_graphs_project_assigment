@@ -1,0 +1,63 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{Speciesbox
+| image = 2011-11-28 Hygrocybe virescens (Hesler & A.H. Sm.) Montoya & Bandala 185782.jpg
+| image_caption =
+| taxon = Hygrocybe virescens
+| authority = ([[Lexemuel Ray Hesler|Hesler]] & [[A.H.Sm.]]) Montoya & Bandala (2007)
+| synonyms = ''Hygrophorus virescens'' <small>Hesler & A.H.Sm. (1963)</small>
+}}
+{{mycomorphbox
+| name = ''Hygrocybe virescens''
+| whichGills =adnexed
+| capShape =flat
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=saprotrophic
+| sporePrintColor=white
+| sporePrintColor2=
+| howEdible=unknown
+}}
+{{stack end}}
+
+'''''Hygrocybe virescens''''', commonly known as the '''lime-green waxy cap''',<ref name=Arora1986/> is a species of [[agaric]] [[mushroom]] in the family [[Hygrophoraceae]]. The lime-green colored [[mushroom]] has a limited geographical distribution, having been reported only from [[California]], [[Washington (state)|Washington]], and Mexico.
+
+==Taxonomy==
+The species was originally named ''Hygrophorus virescens'' by American mycologists [[Lexemuel Ray Hesler]] and [[Alexander H. Smith]] in their 1963 [[monograph]] of North American ''Hygrophorus'' species.<ref name=Hesler1963/> In 2007, the species was transferred to the genus ''[[Hygrocybe]]''.<ref name=Montoya2007/>
+
+==Description==
+The [[pileus (mycology)|cap]] is {{convert|2 to 5|cm|abbr=on|frac=8}} wide, conical or convex when young, but becoming flat in maturity; the margin often curves up in age. The cap color can be variable: when young it is yellow with some orange, later becoming lime green. The cap surface is smooth, moist but not sticky, in age the margin becomes rimose (covered with a network of cracks and small crevices) and often splits into lobes. The [[trama (mycology)|context]] is lime green and very fragile. The odor and taste are not distinctive. The [[lamella (mycology)|gills]] have an adnexed attachment to the stem and are attached to the top of the stipe by a tooth; the color is whitish with lime green tones near the cap, with paler serrate (appearing saw-toothed) edges. The [[stipe (mycology)|stipe]] is {{convert|3 to 6|cm|abbr=on|frac=8}} long, and {{convert|0.3 to 0.8|cm|1|abbr=on|frac=8}} thick and lime green in color. The base of the stem is whitish, moist or dry, and in age develops grooves, or striations. The stem is hollow, and tapers somewhat in width towards the top.<ref name=Hesler1963/>
+
+The [[Basidiospore|spore]]s are ellipsoid, smooth, and [[inamyloid]], with dimensions of 7–10 by 5–6.5&nbsp;[[μm]]. The [[basidia]] (spore-bearing cells) are 40–55 by 7–10&nbsp;μm, 2- and 4-spored; there are no [[pleurocystidia]] nor cheilocystidia.<ref name=Hesler1963/>
+
+===Similar species===
+According to mycologists Steve Trudell and Joe Ammirati, the species is very similar to the European ''[[Hygrocybe citrinovirens]]'' and may be the same species.<ref name=Ammirati2009/>
+
+{{gallery|mode=packed
+|Hygrocybe virescens 186049.jpg|Close view of the stem apex and gills
+}}
+
+==Habitat and distribution==
+''Hygrocybe virescens'' appears to be limited in distribution to [[California]], [[Washington (state)|Washington]] (based on a single collection in [[Seattle]]), and [[Veracruz|Veracruz State]], [[Mexico]].<ref name=Montoya2005/> In California<ref name=Arora1986/> and Washington,<ref name=Ammirati2009/> it is found fruiting in association with [[Sequoia sempervirens|redwood]] trees;<ref name=Arora1986/> the collections in Mexico were among grass and in gardens, near cypress hedges (genus ''[[Cupressus]]'').<ref name=Montoya2005/> It is rarely collected.<ref name=Ammirati2009/>
+
+==References==
+{{Reflist|refs=
+
+<ref name=Ammirati2009>{{cite book |vauthors=Ammirati J, Trudell S |title=Mushrooms of the Pacific Northwest: Timber Press Field Guide (Timber Press Field Guides) |publisher=Timber Press |location=Portland, Oregon |year=2009 |page=65 |isbn=978-0-88192-935-5 |url=https://books.google.com/books?id=WevHvt6Tr8kC&pg=PA65}}</ref>
+
+<ref name=Arora1986>{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/118/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=118 |orig-date=1979}}</ref>
+
+<ref name=Hesler1963>{{cite book |vauthors=Hesler LR, Smith AH |title=North American Species of ''Hygrophorus'' |url=https://archive.org/details/northamer00hesl |year=1963 |publisher=University of Tennessee Press |location=Knoxville, Texas }}</ref>
+
+<ref name=Montoya2005>{{cite journal |vauthors=Montoya L, Bandala VM, Jarvio D |year=2005 |title=New records of ''Hygrocybe'' from the Gulf of Mexico area |journal=Mycotaxon |volume=91 |pages=471–80}}</ref>
+
+<ref name=Montoya2007>{{cite journal |vauthors=Montoya L, Bandala V |year=2007 |title=''Hygrophorus virescens'' is transferred to ''Hygrocybe'' |journal=Mycotaxon |volume=99 |pages=345–46}}</ref>
+
+}}
+
+{{Taxonbar|from=Q5955877}}
+
+[[Category:Hygrocybe|virescens]]
+[[Category:Fungi described in 1963]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]

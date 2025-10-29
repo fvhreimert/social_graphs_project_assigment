@@ -1,0 +1,93 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = 2010-11-20 Cuphophyllus pratensis.jpg
+| taxon = Cuphophyllus pratensis
+| authority = ([[Jacob Christian Schäffer|Schaeff.]]) [[Marcel Bon|Bon]] (1985)
+| synonyms_ref=<ref name=Fungorum/>
+| synonyms = *''Agaricus pratensis'' {{Small|Schaeff. (1774)}}
+*''Hygrophorus pratensis'' {{small|(Schaeff.) [[Elias Magnus Fries|Fr.]]) (1836)}}
+*''Camarophyllus pratensis'' {{small|(Schaeff.) [[Paul Kummer|P.Kumm.]] (1871)}}
+*''Hygrophorus karstenii'' {{small|[[Sacc.]] & [[Cub.]] (1887)}}
+*''Hygrocybe pratensis'' {{small|(Schaeff.) [[William Murrill|Murrill]]  (1914)}}
+}}
+{{Mycomorphbox
+| name = ''{{PAGENAME}}''{{italic title}}
+| hymeniumType = gills
+| capShape = umbonate
+| capShape2 = depressed
+| whichGills = decurrent
+| stipeCharacter = bare
+| sporePrintColor = white
+| ecologicalType = mycorrhizal
+| howEdible = choice
+| howEdible2 = edible
+}}
+'''''Cuphophyllus pratensis''''' is a [[species]] of [[agaric]] (gilled mushroom) in the [[family (biology)|family]] [[Hygrophoraceae]]. It has been given the recommended English name of '''meadow waxcap''' in the UK<ref name=BMS/> and in North America has variously been called the '''meadow waxy cap''',<ref name=Roody2003/> '''salmon waxy cap''',<ref name=Bessette2007/> and '''butter meadowcap'''.<ref name="McKnight1987"/>
+
+The species has a widespread, mainly [[temperate]] distribution, occurring in grassland in Europe and in woodland elsewhere. The [[basidiocarp]]s (fruit bodies) are edible and are occasionally collected and sold commercially.
+
+==Taxonomy==
+The species was first described in 1774 by the German mycologist and naturalist [[Jacob Christian Schäffer]] as ''Agaricus pratensis''. It was subsequently combined in a number of different genera, before being transferred to ''[[Hygrocybe]]'' in 1914. The [[specific name (botany)|specific epithet]] comes from [[Latin]] "pratensis" (= growing in meadows).<ref name=Rea1922/> [[Molecular phylogenetics|Molecular]] research, based on [[cladistic]] analysis of [[DNA sequences]], has found that ''Hygrocybe pratensis'' does not belong in ''Hygrocybe'' ''[[sensu stricto]]'' but to the genus ''[[Cuphophyllus]]''.<ref name=Babos2011/>
+
+==Description==
+The [[basidiocarp]]s are [[agaricoid]]. The [[Pileus (mycology)|cap]] is convex at first, becoming flat, [[umbonate]], or slightly depressed when expanded, up to {{Convert|6|cm|frac=4}} across.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=392}}</ref> The cap surface is smooth and dry, pale salmon to orange-buff. The [[lamella (mycology)|lamellae]] (gills) are waxy, pale, and [[decurrent gills|decurrent]] (widely attached to and running down the stipe). The [[stipe (mycology)|stipe]] (stem) is up to {{Convert|7|cm|abbr=on|frac=4}} long, smooth, cylindrical or tapering to the base, and creamy in colour.<ref name="audu" /> The flesh is whitish with a mild smell and taste (sometimes unpleasant).<ref name="audu" /> The [[spore print]] is white, the spores (under a microscope) smooth, [[inamyloid]], ellipsoid, about 5.5 to 6.5 by 4.0 to 5.0&nbsp;[[μm]].<ref name=Boertmann/>
+
+===Similar species===
+''Cuphophyllus berkeleyi'' is very similar, but fruit bodies are white (sometimes being considered a variety of ''C.&nbsp;pratensis'').<ref name=Boertmann/> The placeholder species ''[[C.&nbsp;graveolens]]'' is similar, as is ''[[Cuphophyllus colemannianus|C.&nbsp;colemannianus]]''.<ref name=audu/> ''[[Hygrophorus nemoreus]]'' is an [[ectomycorrhiza]]l species, growing in woodland with oaks, and has a distinctly mealy smell.<ref name=Boertmann/> There is also ''[[Hygrophorus pudorinus|H.&nbsp;pudorinus]]''.<ref name=audu />
+
+==Distribution and habitat==
+The meadow waxcap has a widespread distribution, mainly occurring in [[temperate]] zones. It has been recorded in Europe, North Africa, North and South America, northern Asia, Australia, and New Zealand.<ref name=GBIF/><ref name="Roberts 2011"/> Like other waxcaps, it grows in old, unimproved, short-sward grassland (pastures and lawns) in Europe, but in woodland elsewhere. Recent research suggests waxcaps are neither [[mycorrhiza]]l nor [[saprotrophic]] but may be associated with mosses.<ref name="Seitzman"/>
+
+==Conservation==
+In Europe, ''C. pratensis'' is typical of [[waxcap grassland]]s, a declining habitat due to changing agricultural practices. Though the species is one of the commoner members of the genus, it nonetheless appears on the official or provisional national [[red list]]s of threatened fungi in a few European countries, including the Czech Republic,<ref name=Czechredlist/> Germany (Bavaria),<ref name=Bavarianredlist/> and Poland.<ref name=Polishredlist/>
+
+==Edibility==
+
+The fruit bodies are edible<ref name=Boertmann/><ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |orig-date= 2005 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=74}}</ref> and in some countries are seasonally collected for commercial sale in local markets.
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="BMS">{{cite web |author=Holden L. |url=https://www.britmycolsoc.org.uk/resources/english-names/ |title=English names for fungi 2022 |date=April 2022 |publisher=[[British Mycological Society]] |accessdate=2022-12-06}}</ref>
+
+<ref name=Roody2003>{{cite book |author=Roody WC |year=2003 |title=Mushrooms of West Virginia and the Central Appalachians |publisher=University Press of Kentucky |location=Lexington |isbn=978-0-8131-9039-6 |page=121 |url=https://books.google.com/books?id=5HGMPEiy4ykC&q=hygrophorus%20pratensis&pg=PA121}}</ref>
+
+<ref name=Bessette2007>{{cite book |title=Mushrooms of the Southeastern United States |vauthors=Bessette AE, Roody WC, Bessette AR |year=2007 |publisher=Syracuse University Press |location=Syracuse, New York |isbn=978-0-8156-3112-5 |page=143 |url=https://books.google.com/books?id=IB1Gv3jZMmAC&q=collybia%20cookei&pg=PA143}}</ref>
+
+<ref name="McKnight1987">{{Cite book |vauthors=McKnight VB, McKnight KH |title=A Field Guide to Mushrooms, North America |publisher=Houghton Mifflin |location=Boston |year=1987 |page=197 |isbn=978-0-395-91090-0 |url=https://books.google.com/books?id=kSdA3V7Z9WcC&q=Boletellus%20mirabilis&pg=PA197}}</ref>
+
+<ref name=Rea1922>{{cite book |title=British Basidiomycetaceae: A Handbook of the Larger British Fungi |author=Rea C. |author-link=Carleton Rea |year=1922 |publisher=Cambridge University Press |location=Cambridge, UK |pages=799 }}</ref>
+
+<ref name=Babos2011>{{cite journal |vauthors=Babos M, Halász K, Zagyva T, Zöld-Balogh Á, Szegő D, Bratek Z |year=2011 |title=Preliminary notes on dual relevance of ITS sequences and pigments in ''Hygrocybe'' taxonomy |journal=Persoonia |volume=26 |pages=99–107 |doi=10.3767/003158511X578349|pmid=22025807 |pmc=3160800 }}</ref>
+
+<ref name=Boertmann>{{cite book |title=The genus ''Hygrocybe'' |edition=2nd |author=Boertmann D. |year=2010 |publisher=Danish Mycological Society |location=Copenhagen |pages=200 |isbn=978-87-983581-7-6}}</ref>
+
+<ref name=Fungorum>{{cite web |title=GSD Species Synonymy: ''Cuphophyllus pratensis'' (Pers.) Bon, Docums Mycol. 14(no. 56): 10 (1985) |url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=105223 |publisher=[[Species Fungorum]] |accessdate=2022-01-15}}</ref>
+
+<ref name=GBIF>{{cite web |title=Global Biodiversity Information Facility: ''Hygrocybe pratensis'' |url=http://data.gbif.org/species/3345082/ |publisher=Global Biodiversity Information Facility |accessdate=2012-01-10}}</ref>
+
+<ref name="Roberts 2011">{{cite book |vauthors=Roberts P, Evans S |title=The Book of Fungi |year=2011 |publisher=Chicago University Press |location=Chicago, USA |pages=656 |isbn=978-0-226-72117-0}}</ref>
+
+<ref name="Seitzman">{{cite journal |vauthors=Seitzman BH, Ouimette A, Mixon RL, Hobbie EA, Hibbett DS |year=2011 |title=Conservation of biotrophy in Hygrophoraceae inferred from combined stable isotope and phylogenetic analyses |journal=Mycologia |volume=103 |issue=2 |pages=280–290 |doi=10.3852/10-195 |pmid=21139028|s2cid=318326 }}</ref>
+
+<ref name=Czechredlist>{{cite web |title=Red list of fungi (macromycetes) of the Czech Republic |url=http://web.natur.cuni.cz/cvsm/ |publisher=Czech Scientific Society for Mycology |accessdate=2012-01-10}}</ref>
+
+<ref name=Bavarianredlist>{{cite web |title=Rote Liste gefährdeter Großpilze Bayerns |url=http://www.lfu.bayern.de/natur/rote_liste_pilze/doc/roteliste_grosspilze.pdf |publisher=Bayerisches Landesamt für Umwelt |accessdate=2012-01-10 |archive-date=2019-08-24 |archive-url=https://web.archive.org/web/20190824130322/https://www.lfu.bayern.de/natur/rote_liste_pilze/doc/roteliste_grosspilze.pdf |url-status=dead }}</ref>
+
+<ref name=Polishredlist>{{cite web  |title=Czerwona Lista grzybów Polski  |url=http://www.grzyby.net/lista.htm  |accessdate=2012-01-10  |url-status=dead  |archiveurl=https://web.archive.org/web/20120425071726/http://www.grzyby.net/lista.htm  |archivedate=2012-04-25  }}</ref>
+
+}}
+
+{{Taxonbar|from=Q934772}}
+
+[[Category:Edible fungi]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Australia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Jacob Christian Schäffer]]
+[[Category:Hygrophoraceae]]
+[[Category:Fungi described in 1774]]
+[[Category:Fungi of New Zealand]]
+[[Category:Fungi of South America]]
+[[Category:Fungus species]]

@@ -1,0 +1,38 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Área de Proteção Ambiental Quilombos do Médio Ribeira Thomas-Fuhrmann (16).jpg
+| image_caption = ''Clathrus chrysomycelinus'' in Brazil
+| genus = Clathrus
+| species = chrysomycelinus
+| authority = [[Friedrich Alfred Gustav Jobst Møller|Møller]]
+| synonyms_ref = <ref name="urlMycoBank:Clathrus chrysomycelinus"/>
+| synonyms = 1898 ''Clathrella chrysomycelina'' <small>(Möller) [[Eduard Fischer (mycologist)|E. Fisch.]]</small>
+}}
+{{mycomorphbox
+| name = ''Clathrus chrysomycelinus''
+| hymeniumType=gleba
+| capShape=no
+| whichGills=no
+| stipeCharacter=NA
+| sporePrintColor=olive-brown
+| ecologicalType=saprotrophic
+}}
+
+'''''Clathrus chrysomycelinus''''' is a species of [[fungus]] in the [[stinkhorn]] family. It is found in South America<ref name="urlMycoBank:Clathrus chrysomycelinus"/> and reported from [[New Zealand]], although the equivalence of the species is yet to be determined.<ref>{{Cite web|title=''Clathrus chrysomycelinus'' Möller|url=https://www.nzor.org.nz/names/19888b05-e05f-44c5-8077-8931c1b02273|url-status=live|access-date=28 November 2021|website=[[New Zealand Organisms Register]]|archive-url=https://web.archive.org/web/20211019205204/https://www.nzor.org.nz/names/19888b05-e05f-44c5-8077-8931c1b02273 |archive-date=2021-10-19 }}</ref> The fungus grows up to 60 mm across by 100 mm tall.<ref>{{Cite book |last=Sisson |first=Liv |title=Fungi of Aotearoa |publisher=Penguin Books |year=2023 |isbn=978-1-76104-787-9 |pages=263}}</ref> 
+
+==References==
+{{Reflist|refs=
+
+<ref name="urlMycoBank:Clathrus chrysomycelinus">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=195429 |title=''Clathrus chrysomycelinus'' Möller 1895 |publisher=International Mycological Association |work=MycoBank |accessdate=2010-10-29}}</ref>
+
+}}
+
+{{Taxonbar|from=Q5128563}}
+
+[[Category:Phallales]]
+[[Category:Fungi of South America]]
+[[Category:Fungi described in 1898]]
+[[Category:Fungus species]]
+
+
+{{Phallales-stub}}

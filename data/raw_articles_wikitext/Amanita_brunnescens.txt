@@ -1,0 +1,63 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| name = Brown star-footed amanita
+| image = Amanita brunnescens.jpg
+| taxon = Amanita brunnescens
+| authority = [[George Francis Atkinson|G.F.Atk.]] (1918)
+}}
+{{Mycomorphbox
+| name = ''Amanita brunnescens''
+| whichGills = free
+| capShape = convex
+| hymeniumType = gills
+| stipeCharacter = ring and volva
+| ecologicalType = mycorrhizal
+| sporePrintColor = white
+| howEdible = unknown
+}}
+
+'''''Amanita brunnescens''''', also known as the '''brown American star-footed amanita'''<ref name="A. brunnescens@Amanita Studies">{{cite web |last=Tulloss|first=R.|url=http://www.amanitaceae.org/?Amanita+brunnescens|title=''Amanita brunnescens'' G. F. Atk. |work=Amanitaceae.org  |accessdate=2012-12-27}}</ref><ref name="NGSWG">{{NGSWG}}</ref> or '''cleft-footed amanita''' is a native North American [[mushroom]] of the large genus ''[[Amanita]]''. It differs from ''[[Amanita phalloides|A. phalloides]]'' (the death cap) by its fragile [[Volva (mycology)|volva]] and tendency to bruise brown.
+
+==Taxonomy==
+Originally presumed to be the highly toxic ''[[Amanita phalloides]]'' (the death cap) by renowned American mycologist [[Charles Horton Peck]], it was described and named by [[George F. Atkinson]] of [[Cornell University]]. He named it after the fact that it bruised brown.<ref name="Litten75">{{cite journal |author=Litten W. |year=1975 |title=The most poisonous mushrooms |journal=[[Scientific American]] |volume=232 |issue=3 |pages=90–101 |bibcode=1975SciAm.232c..90L |doi=10.1038/scientificamerican0375-90 |pmid=1114308}}</ref>
+
+== Description ==
+''Amanita brunnescens'' has a mostly brown [[Pileus (mycology)|cap]], with possible tones of olive, grey, or red. At maturity the cap is often around {{Convert|8-9|cm|abbr=off|frac=4}} wide. The cap margins lack [[universal veil]] remnants. The shape of the cap can be bell-shaped to convex, becoming planar as it matures. The flesh within the cap is mostly white or cream and can bruise brown. The characteristic ''[[Amanita]]'' gills are free from the [[Stipe (mycology)|stipe]] and white. The stipe is also white, with a smooth basal bulb that distinctly splits into a "cleft-foot". It stains reddish-brown on the lower half, especially when handled, and averages about 9&nbsp;cm tall. A [[partial veil]] is present, often white with possible brown coloration. There is no [[Volva (mycology)|volva]], but there may be volval remnants if the [[Sporocarp (fungus)|fruiting body]] is excavated carefully, that are white to brownish.<ref name="A. brunnescens@Amanita Studies" />
+
+The odor, if present, is of raw potatoes. a piece of the stipe may need to be cut in order to detect the faint scent.<ref name="A. brunnescens@Amanita Studies" />
+
+The [[spore print]] is white, and "the [[spore]]s measure (7.0-) 8.0–9.2 (-9.5) × (6.5-) 7.2–8.5 (-9.2) μm and are globose to subglobose (occasionally broadly [[ellipsoid]]) and [[Amyloid (mycology)|amyloid]]. [[Clamp connection|Clamps]] are absent from bases of [[Basidium|basidia]]."<ref name="A. brunnescens@Amanita Studies" />
+
+=== Variations ===
+''Amanita brunnescens'' var. ''pallida'' is almost identical to the description above, but with a white cap color.<ref name="A. brunnescens@Amanita Studies" />
+
+=== Similar species ===
+''A. brunnescens''<nowiki/>' most distinguishing features are the characteristic ''Amanita'' stature with warts and partial veil, as well as the cleft foot and reddening base.
+
+Successful mushroom identification relies on the collection of mature, healthy and undamaged specimens. ''Amanitas'' can be separated from other agarics by their (usually) tall and slender stature, presence of universal veil remnants and/or a volva, and sometimes a partial veil. Other genera with volvas include ''[[Volvariella]]'' and ''[[Volvopluteus]]'' which will never have a partial veil or universal veil remnants on the cap. Those genera also have pink spore prints instead of ''Amanita''<nowiki/>'s white.<ref>{{Cite web |title=The Genus Amanita (MushroomExpert.Com) |url=https://www.mushroomexpert.com/amanita.html |access-date=2024-01-30 |website=www.mushroomexpert.com}}</ref><ref>{{Cite journal |last1=Miller |first1=Orson K. |last2=Jenkins |first2=David T. |date=March 1978 |title=A Taxonomic and Nomenclatural Study of the Genus Amanita Section Amanita for North America |url=http://dx.doi.org/10.2307/3759051 |journal=Mycologia |volume=70 |issue=2 |pages=474 |doi=10.2307/3759051 |jstor=3759051 |issn=0027-5514|url-access=subscription }}</ref>
+
+[[Section (biology)|Section]] ''Validae'', to which ''A. brunnescens'' belongs, can be distinguished from other ''Amanita'' sections via the smooth bulbous base without a volva, stipe with a partial veil, and no veil remnants hanging off of cap margin. Other ''Amanita'' sections have either a conspicuous volva or a concentric/scaly stipe base.<ref>{{Cite web |title=Sections of the genus Amanita - Amanitaceae.org - Taxonomy and Morphology of Amanita and Limacella |url=http://www.amanitaceae.org/?Sections+of+Amanita |access-date=2024-01-30 |website=www.amanitaceae.org}}</ref>
+
+''[[Blusher|Amanita amerirubescens]]'' has an indistinct (sometimes a little swollen) stipe base, a brassy yellow to reddish cap, and when young, yellowish warts on cap. This species also reddens.<ref>{{Cite web |title=Amanita amerirubescens - Amanitaceae.org - Taxonomy and Morphology of Amanita and Limacella |url=http://www.amanitaceae.org/?Amanita+amerirubescens |access-date=2024-01-30 |website=www.amanitaceae.org}}</ref>
+
+''[[Amanita flavorubens]]'' is similar to ''A. amerirubescens'', but has a yellower cap and warts that retain their yellow color for longer.<ref>{{Cite web |title=Amanita flavorubens - Amanitaceae.org - Taxonomy and Morphology of Amanita and Limacella |url=http://www.amanitaceae.org/?Amanita+flavorubens |access-date=2024-01-30 |website=www.amanitaceae.org}}</ref>
+
+''[[Amanita asteropus]]'' is the European version of ''A. brunnescens''.<ref>{{Cite web |title=Amanita asteropus - Amanitaceae.org - Taxonomy and Morphology of Amanita and Limacella |url=http://www.amanitaceae.org/?Amanita+asteropus |access-date=2024-01-30 |website=www.amanitaceae.org}}</ref>
+
+==Toxicity==
+It is of unknown edibility and may be poisonous.<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |publisher=Firefly Books |year=2010 |isbn=978-1-55407-651-2 |location=Buffalo, NY |page=31}}</ref>
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Amanita species|List of ''Amanita'' species]]
+
+==References==
+{{Reflist}}
+{{Amanitas}}
+{{Poisonous Amanitas}}
+{{Taxonbar|from=Q1614835}}
+
+[[Category:Amanita|brunnescens]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1918]]
+[[Category:Fungus species]]

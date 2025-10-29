@@ -1,0 +1,130 @@
+{{Short description|Genus of fungus}}
+{{pp-move}}
+{{stack begin}}
+{{Automatic taxobox
+| image = Polyozellus multiplex -Haida Guaii.jpg
+| taxon = Polyozellus
+| authority = [[William Murrill|Murrill]] 1910
+| subdivision_ranks = Species
+| subdivision = * ''P. atrolazulinus''
+* ''[[Polyozellus multiplex|P. multiplex]]''
+* ''P. mariae''
+* ''P. marymargaretae''
+* ''P. purpureoniger''
+}}
+{{mycomorphbox
+| name = ''Polyozellus''
+| whichGills = no
+| capShape = infundibuliform
+| hymeniumType = ridges
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = white
+| howEdible = edible
+}}
+{{stack end}}
+{{Italic title}}
+'''''Polyozellus'''''  is a fungal [[genus]] in the [[family (biology)|family]] Thelephoraceae, a grouping of [[mushroom]]s known collectively as the [[leathery earthfans]]. Previously considered a [[monotypic taxon|monotypic]] genus, it now contains the ''Polyozellus multiplex'' [[species complex]]. The genus name is derived from the [[Greek language|Greek]] ''poly'' meaning ''many'', and ''oz'', meaning ''branch''. It is [[common name|commonly]] known as the '''blue chanterelle''', the '''clustered blue chanterelle''', '''bluefan''',<ref>Siegel, Noah; Schwarz, Christian (September 1, 2024). ''Mushrooms of Cascadia: A Comprehensive Guide to Fungi of the Pacific Northwest''. Humboldt County, CA: Backcountry Press. p. 45. {{ISBN|9781941624197}}.</ref> or, in [[Alaska]], the '''black chanterelle'''. The distinctive [[basidiocarp|fruit body]] of this species comprises blue- to purple-colored clusters of vase- or spoon-shaped [[Pileus (mycology)|caps]] with veiny wrinkles on the undersurface that run down the length of the [[Stipe (mycology)|stem]].
+
+''Polyozellus'' has had a varied [[Taxonomy (biology)|taxonomic]] history and has been [[classification (biology)|reclassified]] several times at both the [[family (biology)|family]] and genus level.  The [[range (biology)|range]] of ''Polyozellus'' includes North America and eastern Asia, where it grows on the ground of [[temperate coniferous forest|coniferous forests]], usually under [[spruce]] and [[fir]] trees. It contains [[edible mushroom|edible]] species, and has been harvested for commercial purposes.
+
+==Taxonomy==
+
+The first published [[species description|description]] of the species was written by botanist [[Lucien Marcus Underwood|Lucien M. Underwood]] in 1899, based on a specimen found the previous year in the woods of [[Mount Desert, Maine]]. Although he called the new species a ''[[Cantharellus]]'', he noted that "the plant is a remarkable one and from its habit might well form a distinct genus since it has little in common with ''Cantharellus'' except its fold-like gills."<ref name=Underwood1899/> In 1910, [[William Murrill]] transferred it to the new genus ''Polyozellus''; Murrill thought the compound structure of the stem to be a sufficiently unique characteristic to warrant it being separated from ''Cantharellus'' species, which have simpler stem structures.<ref name=Murrill1910/> In 1920, specimens from a Japanese collection compiled by A.&nbsp;Yasuda were sent to mycologist [[Curtis Gates Lloyd]], who believed the fungus to be a new species and named it ''Phyllocarbon yasudai''.<ref name=Lloyd1921/>
+
+ of ''[[Gomphus clavatus]]'', shown here.]]
+No further collections of the fungus were reported until 1937, when it was found in [[Quebec]], Canada.<ref name=Mounce1937/> The next year, Paul Shope considered the genus ''Polyozellus'' to be superfluous, pointed out that the compound [[basidiocarp|fruit bodies]] and the wrinkled [[hymenium]] were instead consistent with the genus ''[[Craterellus]]''.<ref name=Shope1938/> In 1939, American mycologist [[Lee Oras Overholts]], in a letter to the journal ''[[Mycologia]]'', opined that both of these authors had overlooked a 1925 publication by [[Calvin Henry Kauffman]], who made notes and photos of the species collected in the [[Rocky Mountains]] of [[Wyoming]] and [[Colorado]], and in the [[Cascade Range|Cascade Mountains]] of [[Washington (U.S. state)|Washington]] and [[Oregon]].<ref name=Kauffman1925/> Kauffman believed the species to be merely "a very extreme growth condition" of ''Cantharellus clavatus'' (now known as ''[[Gomphus clavatus]]'') and suggested there was no reason for transferring the species to the genus ''Craterellus''.<ref name=Overholts1939/> Mycologists [[Alexander Hanchett Smith|Alexander H.&nbsp;Smith]] and [[Elizabeth Eaton Morse]], in their 1947 publication on ''Cantharellus'' species in the United States, placed the species in a new section ''Polyozellus'', but did not separate it from the genus ''Cantharellus''; they defined the distinguishing characteristics of ''Polyozellus'' as the small, roughened, [[hyaline]] spores and the color change of the flesh in [[potassium hydroxide]] solution, adding that "the spores are unusual for the genus but in our estimation do not warrant excluding the species."<ref name=Smith1947/>
+]]
+In 1953, Rokuya Imazeki took into consideration differences in [[Basidiospore|spore]] characteristics: species in the genus ''Cantharellus'' were not known to have spores that were subglobose (roughly spherical) and tuberculate (covered with wart-like projections) like ''Polyozellus''; however, these spore characteristics were common in species in the family Thelephoraceae (''Cantharellus'' belongs in a different family, the [[Cantharellaceae]]). Other characteristics linking the blue chanterelle with the Thelephoraceae included the dark color, the strong odor (especially in dried specimens), and the presence of [[thelephoric acid]], a mushroom [[pigment]] common in the family. Taken together, these factors led Imazeki to propose the new family Phylacteriaceae.<ref name=Sawada1952/> The suggested family-level [[Taxonomy (biology)|taxonomical]] change was not accepted by other authors; for example, in 1954, Seiichi Kawamura renamed it ''Thelephora multiplex''.<ref name=Kawamura1954/>
+
+In 2017, researchers from eastern Europe and North America collaborated on a molecular phylogeny of the previously monotypic ''Polyozellus multiplex''.<ref>{{Cite journal |last1=Voitk |first1=Andrus |last2=Saar |first2=Irja |last3=Trudell |first3=Steven |last4=Spirin |first4=Viacheslav |last5=Beug |first5=Michael |last6=Kõljalg |first6=Urmas |date=2017-11-02 |title=Polyozellus multiplex (Thelephorales) is a species complex containing four new species |url=https://www.tandfonline.com/doi/full/10.1080/00275514.2017.1416246 |journal=Mycologia |language=en |volume=109 |issue=6 |pages=975–992 |doi=10.1080/00275514.2017.1416246 |pmid=29494282 |s2cid=4149082 |issn=0027-5514|url-access=subscription }}</ref> They determined that ''Polyozellus'' contains five species that are distinguished by spore size and geographic region: the small-spored ''[[Polyozellus multiplex|P.&nbsp;multiplex]]'' and ''P.&nbsp;atrolazulinus'' and the large-spored ''P.&nbsp;mariae, P.&nbsp;marymargaretae'', and ''P.&nbsp;purpureoniger.'' As of 2022, both [[Index Fungorum]]<ref name="urlFungorum" /> and [[MycoBank]]<ref name="urlStalpers2009" /> list ''Polyozellus'' as being within the family [[Thelephoraceae]], a grouping of mushrooms commonly known as the [[leathery earthfans]].<ref name="Pilz p17 2003">Pilz ''et al''., p. 17.</ref>
+
+[[Common name]]s for this genus include the blue chanterelle and the clustered blue chanterelle.<ref name="Ammirati1987" /> In [[Alaska]], where specimens typically have very dark-colored fruit bodies, it is called the black chanterelle,<ref name="Pilz p38 2003">Pilz ''et al''., p. 38.</ref> although this name is shared with some ''[[Craterellus]]'' species.<ref name="Arora1991" />
+
+==Habitat and distribution==
+{{multiple image
+ | footer    = ''Polyozellus'' grows in a [[mycorrhiza]]l association with conifers like [[spruce]] ''(example left)'' and [[fir]] ''(right)''.
+ | image1    = Picea glauca tree.jpg
+ | width1    = 105
+ | link1     = Picea glauca
+ | caption1  = 
+ | image2    = Abies lasiocarpa 7458.jpg
+ | width2    = 120
+ | link2     = Abies lasiocarpa
+ | caption2  = 
+ | align     = right
+}}
+''Polyozellus'' grows in [[coniferous forest|coniferous woods]] under [[spruce]] and [[fir]],<ref name=Bessette1992/> and more frequently at higher elevations.<ref name=Ammirati1987/> It is most often encountered in summer and fall.<ref name=Bigelow1978/>
+
+This genus is northern and [[alpine climate|alpine]] in distribution, and rarely encountered. Collections have been made in the United States (including [[Maine]], [[Oregon]], [[Colorado]], [[New Mexico]], and Alaska), Canada ([[Quebec]] and [[British Columbia]]),<ref name=Mounce1937/><ref name=Smith1947/><ref name=Arora1986/><ref name=Pomerleau1978/> China,<ref name=Lee2003/> Japan, and Korea.<ref name=Imazeki1953/> The [[disjunct distribution]] of the genus in North America and East Asia has been noted to occur in a number of other fungal species as well.<ref name=Yang2005/> In the American [[Pacific Northwest]], the genus is found in September and October.<ref>{{Cite web |title=Seasonal Chart for Edible Mushrooms |url=https://www.centraloregonmushroomclub.com/Mushroom-Seasons.htm?m=102&s=866 |access-date=2024-03-31 |website=Central Oregon Mushroom Club |archive-date=2024-03-31 |archive-url=https://web.archive.org/web/20240331075937/https://www.centraloregonmushroomclub.com/Mushroom-Seasons.htm?m=102&s=866 |url-status=dead }}</ref> It is also found in the [[Queen Charlotte Islands]] (off the northern Pacific coast of Canada), where it is commercially harvested.<ref name="urlFungi of Haida Gwaii"/>
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=Ammirati1987>{{cite book |vauthors=Ammirati JF, McKenny M, Stuntz DE |title=The New Savory Wild Mushroom |publisher=University of Washington Press |location=Seattle, Washington  |year=1987 |page=31 |isbn=978-0-295-96480-5}}</ref>
+
+<ref name=Arora1986>{{cite book |author=Arora D. |title=Mushrooms Demystified: a Comprehensive Guide to the Fleshy Fungi |publisher=Ten Speed Press |location=Berkeley, California |year=1986 |page=[https://archive.org/details/mushroomsdemysti00aror_0/page/668 668] |isbn=978-0-89815-169-5 |url=https://archive.org/details/mushroomsdemysti00aror_0/page/668 }}</ref>
+
+<ref name=Arora1991>{{cite book |author=Arora D. |title=All that the Rain Promises and more: A Hip Pocket Guide to Western Mushrooms |publisher=Ten Speed Press |location=Berkeley, California |year=1991 |page=12 |isbn=978-0-89815-388-0 |url=https://books.google.com/books?id=87ct90d4B9gC&pg=PA12}}</ref>
+
+<ref name=Bessette1992>{{cite book |vauthors=Bessette A, Fischer DH |title=Edible Wild Mushrooms of North America: A Field-to-Kitchen Guide |publisher=University of Texas Press |location=Austin, Texas |year=1992 |page=31 |isbn=978-0-292-72080-0 |url=https://books.google.com/books?id=zsJN7NZutTAC&pg=PA31}}</ref>
+
+<ref name=Bigelow1978>{{cite journal |author=Bigelow HE. |year=1978 |title=The cantharelloid fungi of New England and adjacent areas |jstor=3759354 |journal=Mycologia |volume=70 |issue=4  |pages=707–56 |doi=10.2307/3759354 |issn=0027-5514}} ''Polyozellus'' information is found on pages 711–12.</ref>
+
+<ref name=Imazeki1953>{{cite journal |author=Imazeki R. |year=1953 |title=''Polyozellus multiplex'' and the family Phylacteriaceae |journal=Mycologia |volume=45 |issue=4 |pages=555–61 | jstor = 4547729|doi=10.1080/00275514.1953.12024295 }}</ref>
+
+<ref name=Kauffman1925>{{cite journal |author=Kauffman C. |year=1925 |title=The fungus flora of Mt Hood, with some new species |journal=Papers of the Michigan Academy of Science, Arts and Letters |volume=5 |pages=115–48}}</ref>
+
+<ref name=Kawamura1954>{{cite book |author=Kawamura S. |year=1954 |title=Icones of Japanese Fungi |volume=6 |publisher=Kazama-Shobo |location=Tokyo |page=638}}</ref>
+
+<ref name=Lee2003>{{cite journal |vauthors=Lee IS, Nishikawa A |title=''Polyozellus multiplex'', a Korean wild mushroom, as a potent chemopreventive agent against stomach cancer |journal=Life Sciences |volume=73 |issue=25 |pages=3225–34 |year=2003 |pmid=14561527 |doi=10.1016/j.lfs.2003.06.006}}</ref>
+
+<ref name=Lloyd1921>{{cite journal |author=Lloyd CG. |year=1921 |title=Botanical notes |journal=Mycological Writings |volume=6 |page=1066}}</ref>
+
+<ref name=Mounce1937>{{cite journal |vauthors=Mounce I, Jackson HA |year=1937 |title=Two Canadian collections of ''Cantharellus multiplex'' |journal=Mycologia |volume=29 |issue=3 |pages=286–8 |doi=10.2307/3754283 |jstor=3754283}}</ref>
+
+<ref name=Murrill1910>{{cite journal |author=Murrill WA. |year=1910 |title=Chanterel |journal=North American Flora |volume=9 |pages=167–71}}</ref>
+
+<ref name=Overholts1939>{{cite journal |author=Overholts LM. |year=1939 |title=''Cantharellus multiplex'' again |jstor=3754572 |journal=Mycologia |volume=31 |issue=2 |pages=231–233 |doi=10.2307/3754572}}</ref>
+
+<ref name=Pomerleau1978>{{cite journal |vauthors=Pomerleau R, Cooke WB |year=1978 |title=The cantharelloid fungi of New England and adjacent areas |jstor=3759354 |journal=Mycologia |volume=70 |issue=4 |pages=707–56 |doi=10.2307/3759354}}</ref>
+
+<ref name=Sawada1952>{{cite journal |author=Sawada M. |year=1952 |title=Studies on pigment in fungi (I). On the distribution of thelephoric acid in fungi |journal=Journal of the Japanese Forestry Society |volume=34 |pages=110–13}}</ref>
+
+<ref name=Shope1938>{{cite journal |author=Shope PF. |year=1938 |title=Further notes on ''Cantharellus multiplex'' |jstor=3754462 |journal=Mycologia |volume=30 |issue=4 |pages=372–74 |doi=10.2307/3754462}}</ref>
+
+<ref name=Smith1947>{{cite journal |vauthors=Smith AH, Morse EE |year=1947 |title=The genus ''Cantharellus'' in the Western United States |jstor=3755192 |journal=Mycologia |volume=39 |issue=5 |pages=497–534 |doi=10.2307/3755192 |issn=0027-5514 |pmid=20264537}}</ref>
+
+<ref name=Underwood1899>{{cite journal |author=Underwood LM. |year=1899 |title=A new ''Cantharellus'' from Maine |journal=Bulletin of the Torrey Botanical Club |volume=26 |issue=5 |pages=254–5 |url=https://www.biodiversitylibrary.org/page/710161 |doi=10.2307/2477751 |jstor=2477751}}</ref>
+
+<ref name="urlFungi of Haida Gwaii">{{cite web |url=http://www.geog.ubc.ca/biodiversity/eflora/FungiofHaidaGwaii.html |vauthors=Kroeger P, Ceska O, Roberts C, Kendrick B |title=Fungi of Haida Gwaii |publisher=E-Flora BC |year=2007 |access-date=2009-07-07}}</ref>
+
+<ref name="urlFungorum">{{cite web |title=Genus Record Details: ''Polyozellus'' Murrill |url=http://www.indexfungorum.org/Names/genusrecord.asp?RecordID=18327 |publisher=[[Index Fungorum]]. CAB International |access-date=2015-01-07}}</ref>
+
+<ref name="urlStalpers2009">{{cite web |title=''Polyozellus'' Murrill |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=18327 |publisher=[[MycoBank]]. International Mycological Association |access-date=2015-01-07}}</ref>
+
+<ref name=Yang2005>{{cite book |title=Evolutionary Generics of Fungi |author=Yang ZL. |editor=Xu J |chapter=Diversity and Biogeography of Higher Fungi in China |year=2005 |publisher=Horizon Bioscience |location=Norfolk, UK |isbn=978-1-904933-15-1 |pages=35–61}}</ref>
+
+}}
+
+==Cited literature==
+
+* {{cite book |title=Ecology and management of commercially harvested chanterelle mushrooms. General Technical Report PNW-GTR-576 |vauthors=Pilz D, Norvell L, Danell E, Molina R |year=2003 |publisher=Department of Agriculture, Forest Service, Pacific Northwest Research Station|location=Portland, OR |url=http://www.fs.fed.us/pnw/pubs/pnw_gtr576.pdf |access-date=2009-09-23}}
+
+==External links==
+{{Commons category|Polyozellus multiplex}}
+{{Wikispecies|Polyozellus multiplex}}
+*{{MycoBank|18327|124246|name2=''P. multiplex''}}
+* [http://www.mykoweb.com/CAF/species/Polyozellus_multiplex.html California Fungi] Photo and further information
+
+{{featured article}}
+{{Taxonbar|from=Q2509354}}
+
+[[Category:Thelephorales]]
+[[Category:Thelephorales genera]]
+[[Category:Edible fungi]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of North America]]
+[[Category:Medicinal fungi]]
+[[Category:Monotypic Basidiomycota genera]]
+[[Category:Taxa named by William Alphonso Murrill]]

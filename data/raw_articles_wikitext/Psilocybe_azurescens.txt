@@ -1,0 +1,89 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Psilocybe azurescens 123020.jpg
+| genus = Psilocybe
+| species = azurescens
+| authority = [[Paul Stamets|Stamets]] & [[Jochen Gartz|Gartz]] (1995)
+| synonyms =
+}}
+{{mycomorphbox 
+| name = ''Psilocybe azurescens''
+| whichGills = adnate
+| whichGills2= sinuate
+| capShape = convex
+| capShape2 = umbonate
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = saprotrophic
+| sporePrintColor = blackish-brown
+| sporePrintColor2 = purple
+| howEdible = psychoactive}}
+
+'''''Psilocybe azurescens'''''—commonly known as the '''flying saucer mushroom''', '''blue angel''' '''mushroom''', or '''azure psilocybin mushroom'''—is a species of [[psychedelic mushroom]] whose main active compounds are [[psilocybin]] and [[psilocin]]. It is among the most potent of the [[tryptamine]]-bearing mushrooms, containing up to 1.8% [[psilocybin]], 0.5% psilocin, and 0.4% [[baeocystin]] by dry weight, averaging to about 1.1% psilocybin and 0.15% psilocin. It belongs to the family [[Hymenogastraceae]] in the order [[Agaricales]].
+
+== Description ==
+The cap ([[Pileus (mycology)|pileus]]) of ''Psilocybe azurescens'' is {{convert|3|-|10|cm|in|1|abbr=on}} in diameter. It has a  conic to convex shape, expanding to broadly convex and eventually flattening with age with a pronounced, persistent broad [[umbo (mycology)|umbo]]. Its  surface is smooth and [[viscous]] when moist, covered by a separable gelatinous [[pellicle (mycology)|pellicle]]. It is chestnut to ochraceous brown to caramel in color, often becoming pitted with dark blue or bluish black zones. It is  [[hygrophanous]], fading to light straw color in drying and  strongly bruising blue when damaged. Its margin is even, sometimes irregular and eroded at maturity.  At first, it is slightly incurved, though it becomes decurved with time. The cap is translucent striate and often leaves a fibrillose annular zone in the upper regions of the [[stipe (mycology)|stipe]]
+
+The [[Lamella (mycology)|lamellae]] are ascending, and have a sinuate to adnate attatchment. They are brown and stain black when injured. They are close, and two-tiered, with whitish edges. The [[spore print]] is a dark purplish brown to purplish black.
+
+The stipe is {{convert|9|-|20|cm|in|1|abbr=on}} in length and {{convert|3|-|6|mm|in|1|abbr=on}}. It is  thick, silky white to dingy brown with age. It is hollow at maturity, and composed of twisted, cartilaginous tissue. The base of the stipe thickens downwards, is often curved, and is characterized by coarse white aerial tufts of [[mycelium]], often with azure tones. The mycelium surrounding the stipe base is densely [[rhizomorphic]] (i.e., root-like), silky white, tenaciously holding the wood-chips together.
+
+The taste of this mushroom is extremely bitter, while it is odorless to starchy smelling.
+
+== Habitat and distribution ==
+
+''P. azurescens'' occurs naturally along a small area of the [[West Coast of the United States]], including in parts of Oregon and California.<ref>{{cite journal|last1=Guzman|first1=Gaston|last2=Allen|first2=John W.|last3=Gartz|first3=Jochen|title=A Worldwide Geographical Distribution of the Neurotropic Fungi, An Analysis and Discussion|journal=Annali del Museo Civico di Rovereto|date=1998|volume=14|pages=219, 223|url=https://www.researchgate.net/publication/237398624|access-date=4 September 2017}}</ref> It has been regularly found as far south as [[Depoe Bay, Oregon]], and as far north as [[Grays Harbor County, Washington]]. Its primary locations are clustered around the [[Columbia River]] Delta: the first type collections were made in [[Hammond, Oregon]], near [[Astoria, Oregon|Astoria]]. It is also quite prevalent north of the Columbia River in Washington, from [[Long Beach, Washington|Long Beach]] north to [[Westport, Washington|Westport]]. Some feral specimens have also been reported in Stuttgart, Germany. While infrequent, the mushroom can sometimes be found around decaying wood in the [[Willamette Valley]] of Oregon, which decriminalized psilocybin in 2020. [[Ilwaco, Washington]] also has a large population, but harvesting is a potential misdemeanor that is enforced by local law enforcement agencies.
+
+The species' preferred environment ranges from [[caespitose]] (growing in tight, separated clusters) to [[gregarious]] on [[deciduous]] wood-chips and/or in sandy soils rich in [[wikt:lignicolous|lignicolous]] (woody) debris. The mushroom has an affinity for coastal dune grasses.<ref name="world">{{cite book | first=Paul | last=Stamets | year=1996 | title=Psilocybin Mushrooms of the World | publisher=Ten Speed Press | location=Berkeley | isbn=0-9610798-0-0}} p. 95.</ref> In aspect it generates an extensive, dense, and tenacious mycelial mat (''[[collyboid]]''). ''P. azurescens'' causes the whitening of wood. Fruitings begin in late September and continue until "late December and early January", according to mycologist Paul Stamets.<ref name="world"/> ''Psilocybe azurescens'' has been cultivated in many countries including [[Germany]],<ref name="dist">{{Cite journal |author=[[Gastón Guzmán]], John W. Allen, Jochen Gartz |date=1998|title=A worldwide geographical distribution of the neurotropic fungi, an analysis and discussion|url=http://www.museocivico.rovereto.tn.it/UploadDocs/104_art09-Guzman%20&%20C.pdf|journal=Annali del Museo Civico di Rovereto|issue=14|pages=189–280}} (on Fondazione Museo Civico di Rovereto)</ref> the [[Netherlands]], [[New Zealand]], the [[United Kingdom]], and its native [[United States]] (especially in [[California]], [[New Mexico]], [[Ohio]], [[Oregon]], [[Washington (state)|Washington]],<ref>{{Cite web |last=Busby |first=Mattha |date=2023-03-13 |title=The People Secretly Growing Magic Mushrooms in the Wild |url=https://www.vice.com/en/article/guerilla-gardeners-magic-mushrooms/ |access-date=2025-02-10 |website=VICE |language=en-US}}</ref> [[Vermont]], [[Wisconsin]], and [[Pennsylvania]]).<ref name="dist"/>
+
+== Legal status ==
+
+Possession and/or cultivation of this species is illegal in a number of countries, including in the United States under federal law. However, the states of Oregon and Colorado, as well as  the cities of Seattle, Washington; Oakland, California; Santa Cruz, California; and Ann Arbor, Michigan have decriminalized possession of personal amounts of psilocybin mushrooms. It is considered a [[Misuse of Drugs Act 1975|Class A Drug]] in New Zealand.
+
+== Effects ==
+{{See also|Psilocybin#Effects}}Wood lover's paralysis, a form of temporary paralysis or weakness, has been reported anecdotally after the ingestion of P. azurescens mushrooms. <ref>{{Cite journal |last1=Van Court |first1=R. C. |last2=Wiseman |first2=M. S. |last3=Meyer |first3=K. W. |last4=Ballhorn |first4=D. J. |last5=Amses |first5=K. R. |last6=Slot |first6=J. C. |last7=Dentinger |first7=B. T. M. |last8=Garibay-Orijel |first8=R. |last9=Uehling |first9=J. K. |date=2022-04-01 |title=Diversity, biology, and history of psilocybin-containing fungi: Suggestions for research and technological development |url=https://www.sciencedirect.com/science/article/pii/S1878614622000095 |journal=Fungal Biology |volume=126 |issue=4 |pages=308–319 |doi=10.1016/j.funbio.2022.01.003 |pmid=35314062 |bibcode=2022FunB..126..308V |issn=1878-6146}}</ref> [[Baeocystin]] is present in fruiting bodies, with trace amounts of [[norbaeocystin]]. Psilocybin concentration decreases with age. <ref name=":0">{{Cite journal |last1=Windsor |first1=Coleton |last2=Kreynes |first2=Anna E |last3=Chilton |first3=Jeff S |last4=Chioffi |first4=William A |last5=Niebergall |first5=Christopher |last6=Dodds |first6=Kelsey |date=2025-02-17 |title=Development of Psilocybe Mushroom Species Reference Material—Cultivation Parameters and Chemical Profiles |url=https://academic.oup.com/jaoac/advance-article/doi/10.1093/jaoacint/qsaf007/8019671 |journal=Journal of AOAC International |article-number=qsaf007 |language=en |doi=10.1093/jaoacint/qsaf007 |pmid=39960890 |issn=1060-3271|doi-access=free }}</ref>
+{| class="wikitable sortable" style="text-align:center;"
+|+ Alkaloid concentration of fresh psilocybin mushrooms<ref>{{citation |url=http://www.erowid.org/plants/mushrooms/mushrooms_info4.shtml |title=Approximate Alkaloid Content of selected Psilocybe mushrooms |publisher=Erowid.org |access-date=2012-10-08}}</ref><ref name=":0" />
+|-
+! Name !! Psilocybin [% of weight] !! Psilocin [% of weight] !! Baeocystin [% of weight] !! Total [% of weight] 
+|-
+| ''Psilocybe azurescens''
+| {{center|1.33}}
+| {{center|0.2}}
+| {{center|0.35}}
+| {{center|2.51}}
+|-
+| ''[[Psilocybe cubensis]]''
+| {{center|0.63}} 
+| {{center|0.60}}
+| {{center|0.025}}
+| {{center|1.26}}
+|}
+
+==See also==
+
+*[[List of psilocybin mushrooms]]
+
+==References==
+
+{{reflist}}
+
+==External links==
+
+{{Commons category}}
+*[https://images.google.com/images?q=Psilocybe%20azurescens ''Psilocybe azurescens'' on Google Images]
+*[https://web.archive.org/web/20070311025653/http://www.shroomery.org/8700/Psilocybe-azurescens-taxonomy-paper ''Psilocybe azurescens'' taxonomy paper]
+*[http://www.erowid.org/plants/mushrooms/mushrooms_cultivation_az2.shtml ''Psilocybe azurescens'' cultivation]
+*[https://www.erowid.org/plants/mushrooms/mushrooms_images1.shtml#psil-az ''Psilocybe azurescens'' Images]
+
+{{Hallucinogenic mushrooms}}
+{{Psychedelics}}
+{{Taxonbar|from=Q1939109}}
+
+[[Category:Entheogens]]
+[[Category:Fungi described in 1995]]
+[[Category:Psychoactive fungi]]
+[[Category:Psilocybe|azurescens]]
+[[Category:Psychedelic tryptamine carriers]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]

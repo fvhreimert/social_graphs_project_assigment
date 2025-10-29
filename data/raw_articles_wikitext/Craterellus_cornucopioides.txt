@@ -1,0 +1,97 @@
+{{Speciesbox
+ | image = Craterellus cornucopioides JPG1.jpg
+ | status = LC
+ | status_system = IUCN3.1
+ | status_ref = <ref name=IUCN>{{cite iucn |last1=Dahlberg |first1=A. |year=2024 |title=''Craterellus cornucopioides'' |volume=2024 |article-number=e.T122090489A122090908 |access-date=20 October 2024}}</ref>
+ | genus = Craterellus
+ | species = cornucopioides
+ | authority = ([[Carl Linnaeus|L.]]) [[Christiaan Hendrik Persoon|Pers.]]
+}}
+{{mycomorphbox 
+| name = ''Craterellus cornucopioides''
+| hymeniumType = ridges
+| capShape = infundibuliform
+| whichGills = decurrent
+| stipeCharacter = bare
+| sporePrintColor = cream
+| sporePrintColor2 = buff
+| ecologicalType = mycorrhizal
+| howEdible = choice
+}}
+
+'''''Craterellus cornucopioides''''' is a species of fungus [[Common name|commonly]] known as the '''horn of plenty''',<ref name=Arora1986>{{Cite book |last=Arora |first=David |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/666/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, California |year=1986 |orig-date=1979 |edition=2nd |pages=666–68}}</ref> '''black chanterelle''', '''black trumpet''', or '''trumpet of the dead'''. It forms a funnel-shaped grayish mushroom, which is found in North America, Eurasia, and Australia. It is [[edible mushroom|edible]].
+
+==Description==
+The fruiting body is shaped like a funnel expanded at the top, the stalk seamless with the cap, which is {{convert|0.5-8|cm|frac=4|abbr=off}} wide.<ref name="Arora1986" /> They grow up to about {{convert|10|cm|frac=2|abbr=on}} in height,<ref name=Phillips/><ref name="Courtecuisse2"/><ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=273–274|oclc=797915861}}</ref> exceptionally {{convert|15|cm|frac=2|abbr=on}}.<ref name="Bon"/><ref name="Courtecuisse1"/> The upper and inner surface is black or dark gray, and rarely yellow.<ref name=":0" /> The lower and outer fertile surface is a much lighter shade of gray. The fertile surface is more or less smooth but may have decurrent wrinkles.<ref name="Arora1986" /> It may have a dusting of spores, which are buff in [[Spore print|deposit]].<ref name="Arora1986" />
+
+The size of the elliptical spores is in the range of 8–11&nbsp;[[μm]] × 5–7&nbsp;μm.<ref name="Arora1986" /> The [[basidia]] are two-spored.
+
+{{gallery|mode=packed
+|Craterellus.cornucopioides.1000x.DIC.jpg|Spores 1000x
+}}
+
+===Similar species===
+
+''Craterellus cornucopioides'' has a smooth spore-bearing surface, but the rare, distantly related ''[[Cantharellus cinereus]]'' has rudimentary gills.<ref name="Bon"/>  The colour and smooth undersurface make ''C.&nbsp;cornucopioides'' very distinctive.<ref name=Arora1986/>
+
+The forms ''[[Craterellus fallax]]'' (with a different spore colour ''en&nbsp;masse'') and ''[[Craterellus konradii|C.&nbsp;konradii]]'' (with a yellowish fruiting body) have been defined as separate species, but [[DNA profiling|DNA studies]] now show that the latter should be considered part of ''C.&nbsp;cornucopioides''.<ref name=Kuo2/><ref name=C_fallax/>
+
+''[[Polyozellus multiplex]]'' has a purplish tint and ''[[Pseudocraterellus undulatus|Craterellus sinuosus]]'' tends to be more wrinkled beneath with yellower spores.<ref name=Arora1986/>
+
+{{gallery|mode=packed
+|2010-08-24 Craterellus cinereus (Pers.) Quél 100703 cropped.jpg|''[[Cantharellus cinereus]]''
+}}
+
+==Distribution and habitat==
+, New York]]
+
+This fungus is found in woods in North America, Europe, East Asia,<ref name=GBIF/> and Australia.<ref>{{Cite web |date=2018-04-14 |title=Craterellus cornucopioides – Horn of Plenty |url=https://fungimap.org.au/craterellus-cornucopioides-horn-of-plenty/ |access-date=2024-05-20 |language=en-US}}</ref><ref name=":1">{{Cite book |last=Fuhrer |first=Bruce |title=A Field Guide to Australian Fungi |publisher=Bloomings Books Pty Ltd |year=2016 |isbn=978-1-876473-51-8 |edition=Revised |location=Melbourne, Australia |pages=287}}</ref>  In the American [[Pacific Northwest]], it grows from November to March.<ref>{{Cite web |title=Seasonal Chart for Edible Mushrooms |url=https://www.centraloregonmushroomclub.com/Mushroom-Seasons.htm?m=102&s=866 |access-date=2024-03-31 |website=Central Oregon Mushroom Club}}</ref> It mainly grows under [[beech]], [[oak]] or other [[broad-leaved trees]], especially in moss in moist spots on heavy [[calcareous]] soil.<ref name="Bon"/><ref name="Courtecuisse1"/> In Europe it is generally common, but seems to be rare in some countries such as the [[Netherlands]]. It appears from June to November,<ref name="Courtecuisse2"/> and in the United Kingdom, from August to November.<ref name="tfb">{{Cite book |last=Francis-Baker |first=Tiffany |title=Concise Foraging Guide |date=2021 |publisher=[[Bloomsbury Publishing|Bloomsbury]] |isbn=978-1-4729-8474-6 |series=[[The Wildlife Trusts]] |location=London |page=112}}</ref> In Australia, they grow in rainforest gullies, often associated with [[Nothofagus|''Northofagus sp.'']],<ref name=":1" /> appearing from January to May.{{citation needed|date=October 2024}}
+
+Because the mushroom tends to be blackish, it easily blends in with [[leaf litter]] on the [[forest floor]]. Some who hunt the species say it is like looking for black holes in the ground.<ref name=Kuo1/> It grows in groups.<ref name=Arora1986/>
+
+==Uses==
+
+Despite their unpalatable appearance, horns of plenty are [[Edible mushroom|edible]] and choice.<ref name="Courtecuisse1"/><ref name=":0" /> According to a Portuguese study, 100 grams of dried ''C.&nbsp;cornucopioides'' contain 69.45&nbsp;g of [[protein]], 13.44&nbsp;g of carbohydrates (mostly [[mannitol]], a [[sugar alcohol]]) and 4.88 g of fat, amounting to 378 [[calories]]. They contain [[fatty acid]]s, primarily of the [[polyunsaturated]] variety, as well as [[phenol]]s, [[flavonoid]]s and 87&nbsp;mg of [[vitamin&nbsp;C]].<ref name="Food and Chemical Toxicology">{{cite journal|last=Barros|first=Lillian |author2=Telma Cruz |author3=Paula Baptista |author4=Leticia M. Estevinho |author5=Isabel C.F.R. Ferreira|title=Wild and commercial mushrooms as source of nutrients and nutraceuticals|journal=Food and Chemical Toxicology|date=February 2008|volume=46|issue=8 |pages=2742–2747|doi=10.1016/j.fct.2008.04.030|pmid=18538460 |hdl=10198/743 |url=https://bibliotecadigital.ipb.pt/bitstream/10198/743/1/Wild%20and%20commercial%20mushrooms%20as%20source%20of%20nutrients%20and%20nutraceuticals.pdf|hdl-access=free}}</ref> Along with ''[[Cantharellus cibarius]]'' (golden chanterelles) they are also a significant source of biologically active [[vitamin&nbsp;B12]], containing 1.09–2.65 μg/100 g dry weight.<ref>{{cite journal |vauthors=Watanabe F, Schwarz J, Takenaka S, Miyamoto E, Ohishi N, Nelle E, Hochstrasser R, Yabuta Y |title=Characterization of vitamin B₁₂compounds in the wild edible mushrooms black trumpet (Craterellus cornucopioides) and golden chanterelle (Cantharellus cibarius) |journal=J Nutr Sci Vitaminol (Tokyo) |volume=58 |issue=6 |pages=438–41 |date=2012 |pmid=23419403 |doi=10.3177/jnsv.58.438 |url=|doi-access=free }}</ref>
+
+When dried, ''C.&nbsp;cornucopioides'' acquires [[black truffle]] notes; in this form it can be crumbled as a condiment.<ref>{{cite book |last=Meuninck |first=Jim |title=Foraging Mushrooms Oregon: Finding, Identifying, and Preparing Edible Wild Mushrooms |date=2017 |publisher=[[Falcon Guides]] |isbn=978-1-4930-2669-2 |page=10}}</ref>
+
+==In culture==
+The [[Cornucopia]], in [[Greek mythology]], referred to the magnificent horn of the nymph [[Amalthea (mythology)|Amalthea]]'s goat (or of herself in goat form), that filled itself with whatever meat or drink its owner requested. It has become the symbol of plenty.
+
+A possible origin for the name "trumpet of the dead" is that the growing mushrooms were seen as being played as trumpets by dead people under the ground.{{or|date=March 2024}} This name is translated to '''trompette de mort''' (French)<ref name=Arora1986/> and '''trompeta de la mort''' (Catalan).
+
+It is one of several species that may be called ''[[djondjon]]'' in Haitian.
+
+==References==
+{{Reflist|refs=
+
+<ref name="Bon">Marcel Bon: ''The Mushrooms and Toadstools of Britain and North-Western Europe'' Hodder & Stoughton {{ISBN|0-340-39935-X}}.</ref>
+
+<ref name="Courtecuisse1">Courtecuisse, Régis (1999) "Collins Guide to the Mushrooms of Britain and Europe" HarperCollins, London {{ISBN|0-00-220012-0}}.</ref>
+
+<ref name="Courtecuisse2">Courtecuisse, R. & Duhem, B. (1994) "Guide des champignons de France et d'Europe" Delachaux et Niestlé, {{ISBN|2-603-00953-2}}, also available in English.</ref>
+
+<ref name=GBIF>See the [http://data.gbif.org/species/2554662/ entry in the Global Biodiversity Information Facility].</ref>
+
+<ref name=Kuo1>Kuo, M. (2006, February). ''Craterellus cornucopioides''. See [http://www.mushroomexpert.com/craterellus_cornucopioides.html the MushroomExpert.Com article].</ref>
+
+<ref name=Kuo2>Kuo, M. (2003, June). ''The Cantharellus/Craterellus clade.''  Retrieved from the MushroomExpert.Com Web site: [http://www.mushroomexpert.com/cantharellus_clade.html]</ref>
+
+<ref name=C_fallax>{{cite journal|last1=Matheny|first1=Patrick Brandon|last2=Austin|first2=Emily A.|last3=Birkebak|first3=Joshua M.|last4=Wolfenbarger|first4=Aaron D.|title=Craterellus fallax, a Black Trumpet mushroom from eastern North America with a broad host range|journal=Mycorrhiza|date=3 July 2010|volume=20|issue=8|pages=569–575|doi=10.1007/s00572-010-0326-2|pmid=20602121|s2cid=22745958|url=http://www.bio.utk.edu/matheny/Site/Publications_files/Matheny_etal_Craterellus_fallax_M.2010.pdf|access-date=5 October 2014}}</ref>
+
+<ref name=Phillips>Roger Phillips: ''Mushrooms and other fungi of Great Britain & Europe'' (1981), Pan Books Ltd., London.</ref>
+
+}}
+
+==External links==
+{{Commons category}}
+* [https://web.archive.org/web/20090826045821/http://mushroom-collecting.com/mushroomtrumpet.html Mushroom-collecting.com: Craterellus cornucopioides]
+* [https://web.archive.org/web/20091003025535/http://www.mykoweb.com/CAF/species/Craterellus_cornucopioides.html MykoWeb California Fungi: Craterellus cornucopioides]
+
+{{Taxonbar|from=Q857903}}
+
+[[Category:Cantharellales]]
+[[Category:Edible fungi]]
+[[Category:Fungi of Europe]]
+[[Category:Fungus species]]
+[[Category:Fungal taxa named by Carl Linnaeus]]

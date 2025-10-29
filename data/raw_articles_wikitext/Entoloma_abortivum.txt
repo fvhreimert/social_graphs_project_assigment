@@ -1,0 +1,61 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Armillaria gallica 57535.jpg
+| image_caption =  ''Entoloma abortivum'' parasitizing the fruit bodies of ''[[Armillaria gallica]]''
+| genus = Entoloma
+| species = abortivum
+| authority = ([[Miles Joseph Berkeley|Berk.]] & [[Moses Ashley Curtis|M.A. Curtis]]) [[Marinus Anton Donk|Donk]] (1949)
+| synonyms_ref = <ref name="urlFungorum"/>
+| synonyms = ''Agaricus abortivus'' <small>Berk. & M.A.Curtis (1859)</small><br>
+''Clitopilus abortivus'' <small>(Berk. & M.A.Curtis) [[Sacc.]]</small><br>
+''Rhodophyllus abortivus'' <small>(Berk. & M.A.Curtis) [[Rolf Singer|Singer]] (1969)</small>
+}}
+{{ mycomorphbox
+| name            = Entoloma abortivum
+| hymeniumType    = gills
+| capShape        = 
+| whichGills      =
+| stipeCharacter  = 
+| sporePrintColor = 
+| ecologicalType  = mycorrhizal
+| ecologicalType2  = parasitic
+| howEdible       = edible
+| howEdible2      = caution
+}}
+
+'''''Entoloma abortivum''''', commonly known as the '''aborted entoloma'''<ref name=Spahr2009/> or '''shrimp of the woods''', is an mushroom in the [[Entolomataceae]] family of [[fungi]]. First named ''Clitopilus abortivus'' by [[Miles Joseph Berkeley]] and [[Moses Ashley Curtis]], it was given its current name by the Dutch mycologist [[Marinus Anton Donk]] in 1949.<ref name=Donk1949/>
+
+The grayish cap is up to {{Convert|8|cm}} wide. The stem is up to 9&nbsp;cm long and {{Convert|1.4|cm|abbr=on|frac=8}} thick. The smell is mealy and the [[spore print]] is pinkish.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=508}}</ref>
+
+It was once believed that the honey mushroom, ''[[Armillaria mellea]]'', was parasitizing the ''Entoloma'', but research<ref>{{Cite web|url=http://www.cybertruffle.org.uk/cyberliber/59350/0093/005/0841.htm|title = Mycologia 93 (5): 841, 2001}}</ref> has indicated that the inverse is true—the ''Entoloma'' parasitizes the honey mushroom.
+
+In Mexico it is called ''Totlcoxcatl'' ('turkey wattle') due to its irregular shape.<ref>{{cite book |last1=Dorr |first1=Alex |title=The Little Book of Mushrooms |date=2023 |publisher=Adams Media |isbn=978-1-5072-1959-1}}</ref> Caution should be used in identifying the species before eating,<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |publisher=Firefly Books |year=2010 |isbn=978-1-55407-651-2 |location=Buffalo, NY |page=157}}</ref> with similar species such as ''[[Entoloma sinuatum]]'' being poisonous.<ref name="Miller 2006">{{cite book |last1=Miller Jr. |first1=Orson K. |author-link=Orson K. Miller Jr. |title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi |last2=Miller |first2=Hope H. |publisher=[[FalconGuide]] |year=2006 |isbn=978-0-7627-3109-1 |location=Guilford, CN |pages=215}}</ref> 
+
+==See also==
+*[[List of Entoloma species|List of ''Entoloma'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name=Donk1949>{{citation |author=Donk MA. |year=1949 |title=Bulletin du Jardin Botanique de Buitenzorg |volume=18 |page=157}}</ref>
+
+<ref name=Spahr2009>{{cite book |author=Spahr DL. |title=Edible and Medicinal Mushrooms of New England and Eastern Canada |publisher=North Atlantic Books |location=Richmond, California |year=2009 |pages=155–60 |isbn=9781556437953 |url=https://books.google.com/books?id=nFZ-lwRXuNYC&pg=PA155}}</ref>
+
+<ref name="urlFungorum">{{cite web |title=Synonyms: ''Entoloma abortivum'' (Berk. & M.A. Curtis) Donk, ''Bull. bot. Gdns Buitenz.'' '''18''': 157 (1949)  |url=http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=297232 |publisher=[[Index Fungorum]]. [[CAB International]] |access-date=2012-11-04}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|297232}}
+
+{{Taxonbar|from=Q5235788}}
+
+[[Category:Entolomataceae]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1859]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Miles Joseph Berkeley]]
+[[Category:Fungus species]]
+
+
+{{Agaricales-stub}}

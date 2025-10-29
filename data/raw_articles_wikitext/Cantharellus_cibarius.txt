@@ -1,0 +1,80 @@
+{{short description|Species of fungus}}
+{{for|other fungi that share the common name golden chanterelle|Golden chanterelle}}
+{{Speciesbox
+|image=Chanterelle Cantharellus cibarius.jpg
+|genus=Cantharellus
+|species=cibarius
+|authority=[[Elias Magnus Fries|Fr.]] (1821)
+|synonyms=
+{{collapsible list|bullets=true
+ |title=<small>Species synonymy</small><ref name="urlMycoBank: Cantharellus cibarius">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=200345 |title=''Cantharellus cibarius'' Fr. 1821 |publisher=International Mycological Association |work=MycoBank }}</ref>
+ |''Agaricus cantharellus'' <small>[[Carl Linnaeus|L.]] (1753)</small>
+ |''Merulius cantharellus'' <small>(L.) [[Johannes Antonius Scopoli|Scop.]] (1772)</small>
+ |''Cantharellus vulgaris'' <small>[[Samuel F. Gray|Gray]] (1821)</small>
+ |''Merulius cibarius'' <small>(Fr.) [[Gérard Daniel Westendorp|Westend.]] (1857)</small>
+ |''Cantharellus rufipes'' <small>[[Claude-Casimir Gillet|Gillet]] (1878)</small>
+ |''Cantharellus cibarius'' var. ''amethysteus'' <small>[[Lucien Quélet|Quél.]] (1883)</small>
+ |''Cantharellus cibarius'' var. ''rufipes'' <small>(Gillet) [[Mordecai Cubitt Cooke|Cooke]] (1883)</small>
+ |''Cantharellus amethysteus'' <small>(Quél.) [[Pier Andrea Saccardo|Sacc.]] (1887)</small>
+ |''Craterellus amethysteus'' <small>(Quél.) Quél. (1888)</small>
+ |''Craterellus cibarius'' <small>(Fr.) Quél. (1888)</small>
+ |''Merulius amethysteus'' <small>(Quél.) [[Otto Kuntze|Kuntze]] (1891)</small>
+ |''Alectorolophoides cibarius'' <small>(Fr.) [[Franklin Sumner Earle|Earle]] (1909)</small>
+ |''Chanterel cantharellus'' <small>(L.) [[William Alphonso Murrill|Murrill]] (1910)</small>
+ |''Cantharellus edulis'' <small>Sacc. (1916)</small>
+ |''Cantharellus pallens'' <small>[[Afred Pilát|Pilát]] (1959)</small>
+ |''Cantharellus cibarius'' var. ''amethysteus'' <small>(Quél.) [[Bruno Cetto|Cetto]] (1987)</small>
+ }}
+}}
+{{mycomorphbox
+|name=''Cantharellus cibarius''
+|whichGills=decurrent
+|capShape=infundibuliform
+|hymeniumType=ridges
+|stipeCharacter=bare
+|ecologicalType=mycorrhizal
+|sporePrintColor=yellow
+|sporePrintColor2=cream
+|howEdible=choice
+}}
+
+'''''Cantharellus cibarius''''' ([[Latin]]: ''cantharellus'', "[[chanterelle]]"; ''cibarius'', "culinary")<ref>{{Cite web|url=https://en.wiktionary.org/wiki/cibarius|title=cibarius - Wiktionary|website=en.wiktionary.org|access-date=2019-08-31}}</ref> is the '''golden chanterelle''', the [[type species]] of the chanterelle genus ''[[Cantharellus]]''. It is also known as '''girolle''' (or ''girole'').<ref name="first">{{cite web |title=''Cantharellus cibarius'' Fr. - Chanterelle |url=https://www.first-nature.com/fungi/cantharellus-cibarius.php |publisher=First Nature |access-date=27 January 2020 |date=2020}}</ref><ref>{{cite web|url=https://nature.mdc.mo.gov/discover-nature/field-guide/golden-chanterelle-girolle|title=Golden chanterelle (girolle)|publisher=Missouri Department of Conservation|date=2020|access-date=27 January 2020}}</ref>
+
+Despite its characteristic features, ''C.&nbsp;cibarius'' can be confused with species such as the poisonous ''[[Omphalotus illudens]]''. The golden chanterelle is a commonly consumed and choice [[Edible mushroom|edible]] species.
+
+== Taxonomy ==
+At one time, all yellow or golden chanterelles in North America had been classified as ''Cantharellus cibarius''. Using [[DNA analysis]], they have since been shown to be a group of related species known as the ''Cantharellus cibarius'' group or species complex, with ''C.&nbsp;cibarius sensu stricto'' restricted to Europe.<ref name=mushexp/><ref name=buyck2016/><ref name=thorn2017/> In 1997, ''[[Cantharellus formosus|C.&nbsp;formosus]]'' (the Pacific golden chanterelle) and ''C.&nbsp;cibarius'' var. ''roseocanus'' were identified,<ref name=Redhead1997>{{cite journal |last1=Redhead |first1=S.A. |last2=Norvell |first2=L.L. |last3=Danell |first3=E. |year=1997 |title=''Cantharellus formosus'' and the Pacific Golden Chanterelle harvest in Western North America |periodical=[[Mycotaxon]] |volume=65 |pages=285–322 |url=http://www.cybertruffle.org.uk/cyberliber/59575/0065/0285.htm}}</ref> followed by ''[[Cantharellus cascadensis|C.&nbsp;cascadensis]]'' in 2003<ref name=Dunham2003>{{cite journal |author1=Dunham, S.M. |author2=O'Dell, T.E. |author3=Molina, R. |year=2003 |title=Analysis of nrDNA sequences and microsatellite allele frequencies reveals a cryptic chanterelle species ''Cantharellus cascadensis sp. nov.'' from the American Pacific Northwest |periodical=Mycological Research |volume=107 |issue=10 |pages=1163–77 |doi=10.1017/s0953756203008475 |pmid=14635765}}</ref> and ''[[Cantharellus californicus|C.&nbsp;californicus]]'' in 2008.<ref name=Arora2008>{{cite journal |last1=Arora |first1=D. |last2=Dunham |first2=S.M. |year=2008 |url=http://www.davidarora.com/uploads/arora_dunham_chanterelles.pdf |title=A new, commercially valuable chanterelle species, ''Cantharellus californicus sp. nov.'', associated with live oak in California, USA |periodical=Economic Botany |volume=62 |issue=3 |pages=376–91 |doi=10.1007/s12231-008-9042-7 |s2cid=19220345 |access-date=2018-09-01 |archive-date=2018-12-22 |archive-url=https://web.archive.org/web/20181222203750/http://www.davidarora.com/uploads/arora_dunham_chanterelles.pdf |url-status=dead }}</ref> In 2018, an Asian species belonging to the ''C.&nbsp;cibarius'' complex has been described and [[DNA sequencing|sequenced]], [[Cantharellus anzutake|''C.&nbsp;anzutake'']], recorded in Japan and Korea.<ref>{{Cite journal |last1=Buyck |first1=Bart |last2=Hofstetter |first2=Valérie |last3=Ryoo |first3=Rhim |last4=Ka |first4=Kang-Hyeon |last5=Antonín |first5=Vladimír |date=2020-12-22 |title=New Cantharellus species from South Korea |journal=MycoKeys |language=en |volume=76 |pages=31–47 |doi=10.3897/mycokeys.76.58179 |issn=1314-4049 |pmc=7772287 |pmid=33384572 |doi-access=free }}</ref><!--several other species recently described/split off from C. cibarius-->
+
+== Description ==
+The mushroom is easy to detect and recognize in nature.<ref name="first" /> The body is {{convert|3-15|cm|frac=2|abbr=off}} wide<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/662/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, California |pages=662-64 |orig-date=1979}}</ref> and {{convert|5-10|cm|frac=2|abbr=on}} tall. The color varies from yellow to dark yellow.<ref name="first" /><ref name="forbes">{{cite web |author1=Dyson Forbes |date=13 April 2017 |title=Learn about chanterelle mushrooms |url=http://wildfoods.ca/blog/chanterelles/ |access-date=27 January 2020 |publisher=Forbes Wild Foods}}</ref> Red spots will appear on the cap of the mushroom if it is damaged.<ref>{{Cite web |title=Cantharellus 'cibarius' |url=https://www.mushroomexpert.com/cantharellus_cibarius.html |access-date=2019-10-22 |website=MushroomExpert.Com}}</ref> Chanterelles have a faint aroma and flavor of [[apricot]]s.<ref name="first" /><ref name="forbes" /> The [[spore print]] is yellowish.<ref name="Arora1986" />
+
+=== Similar species ===
+''Cantharellus cibarius'' can resemble species such as the dangerously poisonous ''[[Omphalotus illudens]]'' (eastern jack-o'lantern)<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |publisher=Firefly Books |year=2010 |isbn=978-1-55407-651-2 |location=Buffalo, NY |page=248}}</ref> and ''[[Hygrophoropsis aurantiaca]]'' (the false chanterelle).<ref name="Arora1986" />
+
+== Distribution and habitat ==
+The species grows in Europe from [[Scandinavia]] to the [[Mediterranean Basin]], mainly in [[deciduous]] and [[conifer]]ous forests<ref name="first" /><ref name="forbes" /><ref name="mushexp" /><ref name="buyck2016" /> and typically from June to December.<ref name="tfb">{{Cite book |last=Francis-Baker |first=Tiffany |title=Concise Foraging Guide |date=2021 |publisher=[[Bloomsbury Publishing|Bloomsbury]] |isbn=978-1-4729-8474-6 |series=[[The Wildlife Trusts]] |location=London |pages=110}}</ref>
+
+==Uses==
+A commonly eaten and favored mushroom, the chanterelle is typically harvested from late summer to late fall in its European distribution.<ref name="first" />
+
+Chanterelles are used in many culinary dishes,<ref name="first" /><ref name="forbes" /> but watery specimens are more susceptible to rot.<ref name="Arora1986" /> The mushrooms can be preserved by either drying or freezing. The use of an oven for drying is not recommended because it can make the mushroom bitter.<ref name="first" />
+
+==References==
+{{Reflist|refs=
+<ref name=buyck2016>{{cite journal |last1=Buyck |first1=Bart |last2=Hofstetter |first2=Valérie |last3=Olariaga |first3=Ibai |title=Setting the Record Straight on North American ''Cantharellus'' |journal=Cryptogamie, Mycologie |date=September 2016 |volume=37 |issue=3 |pages=405–417 |doi=10.7872/crym/v37.iss3.2016.405|s2cid=89596664 }}</ref>
+<ref name=mushexp>{{cite web |last1=Kuo |first1=Michael |title=Cantharellus 'cibarius' |url=https://www.mushroomexpert.com/cantharellus_cibarius.html |website=MushroomExpert.Com |access-date=2018-09-01}}</ref>
+<ref name=thorn2017>{{cite journal |last1=Thorn |first1=R. Greg |last2=Kim |first2=Jee In |last3=Lebeuf |first3=Renée |last4=Voitk |first4=Andrus |title=The golden chanterelles of Newfoundland and Labrador: a new species, a new record for North America, and a lost species rediscovered |journal=Botany |date=June 2017 |volume=95 |issue=6 |pages=547–560 |doi=10.1139/cjb-2016-0213 |url=http://nlmushrooms.ca/publications/2017-1%20chanterelles.pdf |access-date=2 October 2019 |archive-date=5 August 2021 |archive-url=https://web.archive.org/web/20210805034354/http://nlmushrooms.ca/publications/2017-1%20chanterelles.pdf |url-status=dead }}</ref>
+}}
+
+==External links==
+*{{Commons-inline|italic=on}}
+
+{{Taxonbar|from=Q188749}}
+{{Authority control}}
+
+[[Category:Cantharellus|cibarius]]
+[[Category:Edible fungi]]
+[[Category:Fungi in cultivation]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi described in 1821]]
+[[Category:Fungus species]]

@@ -1,0 +1,43 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+|image=Tricholoma acerbum.JPG
+|image_alt=
+|image_caption=
+|genus=Tricholoma
+|species=acerbum
+|authority=([[Jean Baptiste François Pierre Bulliard|Bull.]]) [[Lucien Quélet|Quél.]] (1872)
+|synonyms_ref=<ref name="MycoBank">{{cite web |title=''Tricholoma aestuans'' (Fr.) Gillet :102, 1874 |url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=193656 |publisher=[[MycoBank]]. International Mycological Association |access-date=2016-07-07}}</ref>
+|synonyms=
+*''Agaricus acerbus'' <small>[[Jean Baptiste François Pierre Bulliard|Bull.]] (1792)</small>
+*''Gyrophila acerba'' <small>([[Jean Baptiste François Pierre Bulliard|Bull.]]) [[Lucien Quélet|Quél.]] (1886)</small>
+|status=VU
+|status_system=IUCN3.1
+|status_ref=<ref name="iucn status 12 November 2021">{{cite iucn |author=Brandrud, T.-E. |date=2015 |title=''Tricholoma acerbum'' |volume=2015 |article-number=e.T76265852A76266227 |doi=10.2305/IUCN.UK.2015-4.RLTS.T76265852A76266227.en |access-date=12 November 2021}}</ref>
+}}
+
+'''''Tricholoma acerbum''''' is a [[mushroom]] of the [[agaric]] family [[Tricholomataceae]].<ref>{{cite web|author1=<!-- not stated -->|title=Tricholoma acerbum|url=https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=181706|website=NCBI taxonomy|publisher=National Center for Biotechnology Information|access-date=19 December 2017|location=Bethesda, MD|language=English|quote=Lineage( full ) cellular organisms; Eukaryota; Opisthokonta; Fungi; Dikarya; Basidiomycota; Agaricomycotina; Agaricomycetes; Agaricomycetidae; Agaricales; Tricholomataceae; Tricholoma }}</ref>  It is found in [[Europe]] and [[North America]], in temperate, deciduous oak forests. 
+
+It has [[Mycorrhiza|mycorrhizal]] associations with [[oak]], [[chestnut]], [[Tilia|linden]] and [[hazel]] trees. In southern Europe, it has been reported to grow in [[Mesotrophic soil|mesotrophic]] to [[Base-richness|base-rich]], though not in [[Calcareous|calcereous]] soils, though in Norway and Russia, it has been observed in calcareous soils.<ref name=":0">{{Cite report |url=http://www.iucnredlist.org/details/76265852/0 |title=Tricholoma acerbum: Brandrud, T.-E.: The IUCN Red List of Threatened Species 2015: e.T76265852A76266227 |last=IUCN |date=2015-04-23 |publisher=International Union for Conservation of Nature |doi=10.2305/iucn.uk.2015-4.rlts.t76265852a76266227.en |language=en}}</ref> 
+
+It is listed as endangered to critically endangered in various countries in northern, western and central Europe. It is threatened by [[deforestation]], loss of forest grazing and the shift in [[silviculture]] from oak to conifer species, which causes its habitat to be [[Habitat fragmentation|fragmented]] and or entirely degraded. The IUCN recommends oak forest reserves to be set aside, and for cattle grazing to be reintroduced in many cases, to assure good habitat quality for ''Tricholoma acerbum''.<ref name=":0" /> 
+
+It is considered edible.<ref name=":0" />
+
+==See also==
+*[[List of North American Tricholoma species|List of North American ''Tricholoma'' species]]
+*[[List of Tricholoma species|List of ''Tricholoma'' species]]
+*[[List of fungi by conservation status]]
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q3998691}}
+
+[[Category:Fungi described in 1792]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Tricholoma|acerbum]]
+[[Category:Fungus species]]
+
+
+{{Tricholomataceae-stub}}

@@ -1,0 +1,54 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Bol.poro.jpg
+| genus = Xerocomellus
+| species = porosporus
+| authority = (Imler ex Watling) Šutara (2008)
+| synonyms = 
+* ''Boletus porosporus'' <small> Imler ex Watling (1968)</small>
+* ''Xerocomus porosporus'' <small>Imler</small>
+}}
+{{mycomorphbox
+| name = ''Xerocomellus porosporus''
+| capShape = convex
+| hymeniumType=pores
+| stipeCharacter=bare
+| sporePrintColor=olive-brown
+| howEdible= edible
+| howEdible2= unpalatable
+}}
+
+'''''Xerocomellus porosporus''''' is a small wild mushroom in the family [[Boletaceae]]. These mushrooms  have tubes and pores instead of gills beneath their [[Pileus (mycology)|caps]]. It is commonly known as the '''sepia bolete'''.<ref name="urlRogers Mushrooms | Mushroom Pictures & Mushroom Reference">{{Cite web|url=http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~5641~gid~~source~gallerydefault.asp|title=Rogers Mushrooms &#124; Mushroom Pictures & Mushroom Reference|access-date=2009-03-23|url-status=dead|archiveurl=https://web.archive.org/web/20110101025323/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~5641~gid~~source~gallerydefault.asp|archivedate=2011-01-01}}</ref>
+
+==Taxonomy==
+This bolete was described and given the scientific name ''Xerocomus porosporus'' in 1958 by Louis Imler (1900 - 1993), who was the founder of the Antwerp Mycological Circle. The currently accepted scientific name ''Xerocomellus porosporus'' dates from a 2008 publication by Czech mycologist Josef Å utara, whose studied in detail morphological character of this and other closely related boletes – since further supported by DNA studies.<ref>{{Cite journal |last=Šutara |first=Josef |date=2008-07-04 |title=Xerocomus s. l. in the light of the present state of knowledge. |url=https://czechmycology.org/article/60104 |journal=Czech Mycology |volume=60 |issue=1 |pages=29–62 |doi=10.33585/cmy.60104 |access-date=2025-10-18|url-access=subscription }}</ref>
+
+==Description==
+When fully expanded, the [[Pileus (mycology)|caps]] are up to {{convert|8|cm|in}} in diameter, and are soon cracked or [https://web.archive.org/web/20110615141333/http://www.bioimages.org.uk/html/p2/p29169.php fissured.] Varying in colour from putty beige to dull brown,<ref name=C&D1995>{{Cite book| vauthors = Courtecuisse R, Duhem B  | year = 1995 | title = Mushrooms and Toadstools of Britain and Europe (British version) | publisher = Harper Collins | isbn = 0-00-220025-2}}</ref> or olivaceous.<ref name = "MarcelBon87">{{Cite book| author = Bon M | year = 1987 | title = The Mushrooms and Toadstools of Britain and North Western Europe | publisher = Hodder and Stoughton | isbn = 0-340-39935-X}}</ref>
+The [[Stipe (mycology)|stem]] is usually olivaceous with a red zone in the upper part or with imperceptible reddish spots in the lower part; more yellow at the apex, and bruises brown.  It darkens to dark brick or [[wine (color)|vinaceous]] towards the base. The tubes are {{convert|13|to|20|cm|in}} long, initially lemon yellow, later olivaceous, and they bruise bluish. The pores are narrow, 0.2&ndash;0.5&nbsp;mm in diameter, angular, lemon yellow, and darken later.<ref name="pmid12951793"/> They also bruise blue. The flesh is pale lemon yellow or buff in the cap, and chrome yellow in the stem apex. Hyphae without clamp connections. No amyloid or dextrinoid reactions were observed in any part of the fruit body.<ref name="pmid12951793" />
+
+The spores give an olive-brown [[spore print]].<ref name="Phillips06">{{Cite book| author = Phillips R | year = 2006  | title = Mushrooms | publisher = Pan MacMillan | isbn = 0-330-44237-6}}</ref> At microscopic level this bolete has truncate (chopped off) spores;<ref name="Arora2nd">{{Cite book |author=Arora D |year=1986 |title=Mushrooms Demystified |publisher=Ten Speed Press |isbn=0-89815-169-4 |url-access=registration |url=https://archive.org/details/mushroomsdemysti00aror_0 }}</ref> the spore dimensions are 13&ndash;15 by 4&ndash;5&nbsp;[[micrometre|μm]].<ref name="isbn0-412-36970-2">{{Cite book|vauthors=Ellis JB, Ellis MB |title=Fungi without Gills (Hymenomycetes and Gasteromycetes): an Identification Handbook |publisher=Chapman and Hall |location=London |year=1990 |page=45 |isbn=0-412-36970-2}}</ref>
+
+==Distribution and habitat==
+''Xerocomellus porosporus'' appears occasionally in the autumn, and grows singly or in small groups in mixed [[deciduous]] woods, particularly with [[oak]], [[Carpinus|hornbeams]], and [[beech]]. This species is widespread in northern [[temperate zones]], but somewhat rare in Europe.<ref name="pmid12951793">{{Cite journal|doi=10.1017/S0953756203007901 |vauthors=Peintner U, Ladurner H, Simonini G|title=''Xerocomus cisalpinus'' sp. nov., and the delimitation of species in the''X. chrysenteron'' complex based on morphology and rDNA-LSU sequences|journal=Mycological Research |volume=107 |issue=Pt 6 |pages=659–79|year=2003|pmid=12951793}}</ref><ref name=Phillips06/>
+
+==Edibility==
+''Xerocomellus porosporus'' is edible but of little culinary value, being bland, and mushy when cooked.<ref name="Phillips06" />
+
+==See also==
+* [[List of Boletus species|List of ''Boletus'' species]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=511897 Index Fungorum - Names Record]
+* [https://www.mycobank.org/Simple%20names%20search Mycobank - Simple name search] Search for ''Xerocomellus porosporus''
+
+{{Taxonbar|from=Q2501490}}
+
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Boletaceae]]
+[[Category:Fungi described in 1958]]
+[[Category:Fungus species]]

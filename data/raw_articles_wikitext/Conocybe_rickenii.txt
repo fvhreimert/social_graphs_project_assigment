@@ -1,0 +1,56 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{Speciesbox
+| image = Conocybe rickenii, Cumbria.JPG
+| image_caption = Two ''Conocybe rickenii'', England
+| genus = Conocybe
+| species = rickenii
+| authority = ([[Jul.Schäff.]]) [[Robert Kühner|Kühner]] (1935)
+| synonyms_ref = <ref name="urlFungorm synonymy: Conocybe rickenii">{{cite web |title=Synonymy: ''Conocybe rickenii'' (Jul. Schäff.) Kühner |url=http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=254394 |publisher=Species Fungorum. CAB International |access-date=2014-01-21}}</ref>
+| synonyms = *''Galera rickenii'' <small>Jul.Schäff. (1930)</small>
+*''Conocybe siliginea'' f. ''rickenii'' <small>(Jul.Schäff.) Arnolds (2003)</small>
+}}
+{{mycomorphbox
+| name =''Conocybe rickenii''
+| whichGills =adnate
+| capShape =conical
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=saprotrophic
+| sporePrintColor=brown
+| sporePrintColor2=
+| howEdible=caution
+}}
+{{stack end}}
+
+'''''Conocybe rickenii''''' is a mushroom from the genus ''[[Conocybe]]''. Its [[edible mushroom|edibility]] is disputed, and it has the appearance of a typical [[little brown mushroom]] with a small, conical [[pileus (mycology)|cap]], and long, thin [[stipe (mycology)|stem]]. In colour, it is generally a cream-brown, lighter on the stem, and it has a thin layer of [[trama (mycology)|flesh]] with no distinct smell or taste. It is a [[coprophilous fungi|coprophilous fungus]], feeding off dung and it is most common on very rich soil or growing directly from dung. It can be found in Europe, Australia and Pacific islands.
+
+==Taxonomy==
+''Conocybe rickenii'' was first described in 1930 by German mycologist [[Julius Schäffer]] and named ''Galera rickenii''. It was reclassified by [[Robert Kühner]], who placed it in the genus ''Conocybe''.<ref name="Phillips"/>
+
+==Description==
+
+
+''Conocybe rickenii'' has a conical cap of {{convert|1|to|2.5|cm|in|1}} across, which is an ochre-brown, sometimes becoming a little more grey at the centre. The stem is typically {{convert|40|to|70|mm|in}} in height, by {{convert|1|to|2|mm|in|2}} in thickness, and is whitish cream, darkening to a dirty brown with age. The thin layer of flesh is grey-brown in the cap, while lighter in the stem. It has ochre-cream (later darkening to rusty-ochre) gills,<ref name="Phillips">{{cite book |title= Mushrooms and Other Fungi of Great Britain and Europe|last= Phillips|first= Roger|year= 1981|publisher= [[Pan Books]]|location= London|isbn= 0-330-26441-9|page= 154}}</ref> which are adnate,<ref name="Pegler">{{cite book |title= Mushrooms and Toadstools|last= Pegler|first= David N.|year= 1983|publisher= Mitchell Beazley Publishing|location= London|isbn= 0-85533-500-9|page= 162}}</ref> leaving a brown spore print. The spores themselves are elliptic to oval, measuring between 10–20&nbsp;[[micrometre|μm]] by 6–12&nbsp;μm. It has two-spored [[basidia]], and a cellular [[cap cuticle]].<ref name="Phillips"/>
+
+It is generally a little larger than the slightly more common coprophilous ''[[Conocybe pubescens|C.&nbsp;pubescens]]'',<ref>Pegler, 162</ref> while it can be differentiated from other dung-loving ''Conocybe'' by its two-spored basidia, large spores and the fact it does not have lecythiform (flask-shaped) [[caulocystidia]].<ref name="Hemmes"/>
+
+==Edibility==
+British mycologist [[Roger Phillips (mycologist)|Roger Phillips]] lists the edibility as unknown,<ref name="Phillips"/> while [[David Pegler]] considers it inedible.<ref name="Pegler"/> The flesh has no distinct smell or taste.<ref name="Phillips"/>
+
+==Distribution and habitat==
+
+''Conocybe rickenii'' grows on extremely [[Fertility (soil)|rich soil]], especially on [[feces|dung]] and [[compost heap]]s.<ref name="Phillips"/> It can be found in very large numbers in gardens where horse manure has been used to enrich the soil.<ref name="Pegler"/> It can be found in Europe,<ref name="Phillips"/> Australia,<ref>{{cite web |url= http://biocache.ala.org.au/occurrences/search?q=lsid:urn:lsid:catalogueoflife.org:taxon:d6f62a2b-2dc5-11e0-98c6-2ce70255a436:col20120124#tab_recordsView|title=Occurrence search: ''Conocybe rickenii'' |access-date=2014-01-21 |work=Atlas of Living Australia |publisher=[[Global Biodiversity Information Facility]] (GBIF)}}</ref> and [[Pacific islands]] and the United States.<ref name="Hemmes">{{cite book |title= Mushrooms of Hawai'i|last= Hemmes|first= Don E.|author2=Desjardin, Dennis E.|year= 2002|publisher= Ten Speed Press|isbn= 978-1-58008-339-3|page= 56|url= https://books.google.com/books?id=xbEC2PrmZZkC&q=%22Conocybe+rickenii%22&pg=PA56|access-date= 29 March 2009}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q5162125}}
+
+[[Category:Bolbitiaceae]]
+[[Category:Fungi described in 1930]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of Oceania]]
+[[Category:Fungi of North America]]
+[[Category:Fungi without expected TNC conservation status]]
+[[Category:Fungus species]]

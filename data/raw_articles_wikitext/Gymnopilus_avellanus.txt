@@ -1,0 +1,44 @@
+{{Short description|Species of fungus}}
+{{single source|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption =
+| taxon = Gymnopilus avellanus
+| authority = [[David Pegler|Pegler]] (1965)
+| synonyms_ref = <ref name="Species Fungorum synonymy"/>
+| synonyms = *''Agaricus avellanus'' {{small|[[Mordecai Cubitt Cooke|Cooke]] & [[George Edward Massee|Massee]] (1889)}}
+*''Flammula avellanea'' {{small|[[Sacc.]] (1891)}}
+}}
+{{mycomorphbox
+| name = Gymnopilus avellanus
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+
+'''''Gymnopilus avellanus''''' is a species of [[mushroom]]-forming [[fungus]] in the family [[Hymenogastraceae]].
+
+==See also==
+{{Portal|Fungi}}
+* [[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Species Fungorum synonymy">{{cite web |title=GSD Species Synonymy: ''Gymnopilus avellanus'' Pegler, Aust. J. Bot. 13(2): 326 (1965) |url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=331585 |publisher=[[Species Fungorum]] |access-date=6 July 2021}}</ref>
+
+}}
+
+{{Taxonbar|from=Q5624731}}
+
+[[Category:Gymnopilus|avellanus]]
+[[Category:Fungi described in 1965]]
+[[Category:Fungus species]]
+
+
+{{Hymenogastraceae-stub}}

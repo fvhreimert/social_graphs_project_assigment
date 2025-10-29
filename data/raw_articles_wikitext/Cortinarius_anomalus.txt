@@ -1,0 +1,93 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{Speciesbox
+| image = Cortinarius anomalus - Lindsey.jpg
+| genus = Cortinarius
+| species = anomalus
+| authority = ([[Elias Magnus Fries|Fr.]]) Fr. (1836)
+| synonyms_ref = <ref name="urlMycoBank: Cortinarius anomalus"/>
+| synonyms = 
+*''Agaricus anomalus'' <small>Fr. (1818)</small>
+*''Dermocybe anomala'' <small>([[Christian Hendrik Persoon|Pers.]]) [[Friedrich Otto Wünsche|Wünsche]] (1877)</small>
+}}
+{{mycomorphbox
+| name = ''Cortinarius anomalus''
+| whichGills = adnate
+| whichGills2 = emarginate
+| capShape = convex
+| capShape2 = flat
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor =
+| howEdible = inedible
+}}
+{{stack end}}
+
+'''''Cortinarius anomalus''''', also known as the '''variable webcap''', is a [[basidiomycete]] fungus of the genus ''[[Cortinarius]]''. It produces a medium-sized [[mushroom]] with a grayish-brown [[pileus (mycology)|cap]] up to {{convert|5|cm|abbr=on|frac=8}} wide, gray-violet [[lamella (mycology)|gills]] and a whitish [[stipe (mycology)|stem]] with pale yellow belts below.
+
+The mushroom grows solitarily or in scattered groups on the ground in [[deciduous forest|deciduous]] and [[coniferous forest]]s. It is found throughout the [[temperate]] zone of the [[Northern Hemisphere]].
+
+==Taxonomy==
+The species was first described as ''Agaricus anomalus'' by [[Elias Magnus Fries]] in 1818.<ref name="Fries 1818"/> Fries later transferred it to the genus ''[[Cortinarius]]'' in 1838 in his ''Epicrisis Systematis Mycologici''.<ref name="Fries 1838"/> [[Friedrich Otto Wünsche]] placed it in ''[[Dermocybe]]'' as ''Dermocybe anomala''.<ref name="urlMycoBank: Dermocybe anomala"/>
+
+[[Phylogenetic]] analysis suggests that ''Cortinarius anomalus'' is closely related to ''[[Cortinarius collinitus]]'', [[Cortinarius odorifer|''C.&nbsp;odorifer'']], and [[Cortinarius violaceus|''C.&nbsp;violaceus'']].<ref name="Peintner 2001"/>
+
+The fungus is [[common name|commonly]] known as the "variable webcap".<ref name="English Common Names"/> The [[specific name (botany)|specific epithet]] ''anomalus'' is derived from the [[Latin]] word for "paradoxical".<ref name="Evenson 1997"/>
+
+==Description==
+The [[pileus (mycology)|cap]] is up to {{convert|5|cm|abbr=on|frac=8}} wide, initially almost spherical, then expanded convex and finally flattened. The cap has a broad, blunt and low [[umbo (mycology)|umbo]], which frequently lies in a depression since the margin which is initially rolled inward, then straight, often becomes turned upward. The [[pileipellis|cap cuticle]] is dry and difficult to peel. The cap surface is dry or humid, non-shiny in the center, but shiny towards the margin which is covered with fibrils when young. The cap is almost uniformly colored dirty rusty-brown or ashy-brown to grayish-tan, sometimes slightly paler towards the margin, with or without a faint grayish-violet tinge when young.<ref name="Pilat 1961"/>
+
+The [[lamella (mycology)|gills]] are moderately crowded, about {{convert|4|mm|abbr=on|frac=16}} wide when mature, thin, and whitish-blue, grayish-blue or pale [[lilac (color)|lilac]] when young. As the mushroom matures, the gill color rapidly fades and soon becomes brown, then a rusty-clay color, without any trace of the blue characteristic of young specimens. The gill attachment to the [[stipe (mycology)|stem]] is adnate (fused to the stem) and emarginate (notched). The edge of the gills is pale, and the edge ranges from finely denticulate (with a very finely toothed margin) to straight.<ref name="Pilat 1961"/>
+
+The stem is {{convert|6–8|cm|abbr=on|frac=16}} long and {{convert|0.5–0.8|cm|abbr=on|frac=16}} thick, cylindrical above, slightly club-shaped below, and usually somewhat curved. It is initially very fibrillose, later silvery shiny and wavy, violet or grayish violet at the apex when young, more gray or grayish-brown at the base. The violet coloring soon disappears and then the stem is whitish or pale clay brownish and silkily fibrillose. Beneath the cap there is a golden yellow ring-like region. On the rest of the stem there are sometimes remnants of the [[partial veil]] as yellowish-saffron hairy tufts, which form incomplete rings or scattered minute scales. The cortina (a cobweb-like partial veil consisting of silky fibrils) is thick, whitish, and lasts only a short time.<ref name="Pilat 1961"/>
+
+The [[trama (mycology)|flesh]] in the cap is thin, rarely thicker than {{convert|0.5|cm|abbr=on|frac=16}}, whitish to pale violet or pale lilac in the upper part of the stem when young, but soon fading, grayish-white in the lower part of the stem. Its smell is faintly fruity, and its taste mild.<ref name="Pilat 1961"/> It is considered inedible.<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=174}}</ref>
+
+The [[spore deposit]] is rusty-brown. The [[Basidiospore|spores]] are spherical to egg-shaped, with a distinct apiculus (the part of a spore which attaches to the [[sterigmata]] at the end of a basidium), finely verrucose, 5.7–9 by 7–8.5&nbsp;[[μm]]. The [[basidia]] (spore-bearing cells) are four-spored and measure 30–40 by 8–9&nbsp;μm.<ref name="Pilat 1961"/>
+
+{{gallery|mode=packed
+|Cortinarius.anomalus2.-.lindsey.jpg|Cap underside
+}}
+
+===Similar species===
+''[[Cortinarius alboviolaceus]]'' is silvery-white to gray-violet when young and has a thick, white fibrillose veil, a bulkier stem, and elliptical spores.<ref name="Evenson 1997"/> [[Cortinarius caninus|''C.&nbsp;caninus'']] has a browner cap when young, with more developed veil remnants, which are also browner.<ref>{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=150}}</ref> ''[[Laccaria ochropurpurea]]'' has a white spore print.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=633}}</ref>
+
+==Habitat and distribution==
+''Cortinarius anomalus'' is a common species in [[deciduous forest|deciduous]], [[mixed forest|mixed]], or more rarely [[coniferous forest|coniferous woods]]. The fruit bodies appear late in the summer and autumn throughout the [[temperate]] zone of the Northern Hemisphere.<ref name="Pilat 1961"/>
+
+==See also==
+*[[List of Cortinarius species|List of ''Cortinarius'' species]]
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="English Common Names">{{cite web |url=http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |title=Recommended English Names for Fungi in the UK |publisher=[[British Mycological Society]] |access-date=2012-04-04 |archive-url=https://web.archive.org/web/20110716083053/http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |archive-date=2011-07-16 |url-status=dead }}</ref>
+
+<ref name="Evenson 1997">{{cite book |title=Mushrooms of Colorado and the Southern Rocky Mountains |author=Evenson VS |year=1997 |publisher=Westcliffe Publishers |isbn=978-1-56579-192-3 |page=120 |url=https://books.google.com/books?id=EAeDeyqZLq0C&q=Cortinarius+anomalus&pg=PA120 |access-date=2010-08-01}}</ref>
+
+<ref name="Fries 1818">{{cite book |title=Observationes mycologicae |volume=2 |author=Fries EM |year=1818 |page=73 |language=la}}</ref>
+
+<ref name="Fries 1838">{{cite book |title=Epicrisis Systematis Mycologici |author=Fries EM |year=1838 |page=286 |language=la}}</ref>
+
+<ref name="Peintner 2001">{{cite journal |vauthors=Peinterber U, Bougher NL, Castellano MA, Moncalvo JM, Moser MM, Trappe JM, Vilgalys R |year=2001 |title=Multiple origins of sequestrate fungi related to ''Cortinarius'' (Cortinariaceae) |journal=American Journal of Botany |volume=88 |issue=12 |pages=2168–79 |jstor=3558378 |pmid=21669649 |doi=10.2307/3558378}}</ref>
+
+<ref name="Pilat 1961">{{cite book |title=Mushrooms and other Fungi |vauthors=Pilat Á, Ušák O |year=1961 |publisher=Peter Nevill |location=London |page=113}}</ref>
+
+<ref name="urlMycoBank: Cortinarius anomalus">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=209878 |title=''Cortinarius anomalus'' (Fr.) Fr. 1838 |publisher=International Mycological Association |work=MycoBank |access-date=2010-08-07}}</ref>
+
+<ref name="urlMycoBank: Dermocybe anomala">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=455659 |title=''Dermocybe anomala'' (Pers.) Wünsche |publisher=International Mycological Association |work=MycoBank |access-date=2010-08-07}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|209878}}
+
+{{Taxonbar|from=Q2511458}}
+
+[[Category:Cortinarius|anomalus]]
+[[Category:Fungi described in 1818]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Europe]]
+[[Category:Inedible fungi]]
+[[Category:Fungus species]]

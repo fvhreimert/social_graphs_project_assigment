@@ -1,0 +1,82 @@
+{{short description|Species of fungus}}
+{{about|the fungus|the brain of a calf|Calf's brains|the construction term|Bullnose}}
+{{Speciesbox
+| image = Gyromitra gigas 85397.jpg
+| genus = Discina (fungus)
+| species =gigas
+| authority = ([[Julius Vincenz von Krombholz|Krombh.]]) [[Finn-Egil Eckblad|Eckblad]] (1968)<ref name=Eckblad1968/>
+| synonyms = {{hidden begin|title = List}} 
+*''Helvella gigas'' <small>Krombh. (1834)</small><ref name=Krombholz1834/>
+*''Gyromitra gigas'' <small>(Krombh.) Quél. (1873)</small><ref name=Krombholz1834/>
+*''Neogyromitra gigas'' <small>(Krombh.) [[S.Imai]] (1938)</small><ref name=Imai1938/>
+*''Maublancomyces gigas'' <small>(Krombh.) [[Wilhelm Gustav Franz Herter|Herter]] (1950)</small>
+*''Gyromitra curtipes'' <small>Fr. (1861)</small>
+*''Helvella curtipes'' <small>(Fr.) P. Karst. (1871)</small>
+*''Maublancomyces curtipes'' <small>(Fr.) Herter (1951)</small>
+*''Gyromitra gigas'' var. ''pumila'' <small>Velen. (1934)</small>
+*''Gyromitra ussuriensis'' <small>Lj.N. Vassiljeva (1950)</small>
+*''Neogyromitra ussuriensis'' <small>(Lj.N. Vassiljeva) Raitv. (1964)</small>
+{{hidden end}}
+| synonyms_ref = <ref name="urlMycoBank: Gyromitra gigas"/>
+}}
+{{mycomorphbox
+| name = ''Discina gigas''
+| hymeniumType=smooth
+| capShape = convex
+| whichGills = no
+| stipeCharacter=bare
+| sporePrintColor=yellow
+| sporePrintColor2=buff
+| ecologicalType=saprotrophic
+| ecologicalType2=mycorrhizal
+| howEdible=caution}}
+
+'''''Discina gigas''''', commonly known as the '''snow mushroom''', '''snowbank false morel''', '''walnut''',<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/800/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, California |pages=800-801 |orig-date=1979}}</ref> '''giants false morel''',<ref>{{cite web |url= https://www.britmycolsoc.org.uk/library/english-names |title= Gyromitra gigas · giants false morel |access-date= 2021-05-21 |work= The British Mycological Society |archive-date= 2022-02-05 |archive-url= https://web.archive.org/web/20220205063207/https://www.britmycolsoc.org.uk/library/english-names }}</ref><ref>{{cite web|url= https://species.nbnatlas.org/species/NBNSYS0000019570 |title= Gyromitra gigas · giants false morel |access-date=2021-05-21 |work= NBN Atlas }}</ref><ref>{{cite web|url= https://inaturalist.nz/taxa/131537-Gyromitra-gigas |title= Giant's False Morel (Gyromitra gigas) |access-date=2021-05-21 |work= Ninaturalist.nz }}</ref> '''snow morel''', '''snow false morel''', '''calf brain''', or '''bull nose''', is a species of [[fungus]] and a member of the [[Ascomycota]] found in Europe.
+
+It is referred to as one of the [[false morel]]s, due to its similar appearance and occurrence in the spring and early summer in similar habitats to true morels (''[[Morchella]]'' ssp.).
+
+==Taxonomy==
+The species was first described scientifically by [[Julius Vincenz von Krombholz]] as ''Helvella gigas''.<ref name=Krombholz1834/>
+
+==Description==
+The tannish, wrinkled cap grows up to {{Convert|10|cm|frac=4}} broad and 6&nbsp;cm tall.<ref name="Arora1986" /> The whitish stalk is typically almost as thick as the cap, up to 10&nbsp;cm long and broad.<ref name="Arora1986" />
+
+=== Similar species ===
+Many of the common names of ''Discina gigas'' refer to both its resemblance to true morels, ''[[Morchella]]'' ssp., and to the related genus ''[[Gyromitra]]''.<ref name="volk" />
+
+A very similar and directly related species, ''D.&nbsp;montana'', occurs in North America; it apparently has larger spores than ''D.&nbsp;gigas''.<ref name="Miller 2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuides]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|page=509|author-link=Orson K. Miller Jr.}}</ref> While both species are reportedly [[Edible mushroom|edible]] in small amounts if thoroughly cooked, eating is not recommended due to their similarity to more toxic species of mushrooms.<ref name="volk" /><ref>{{cite book |last1=Trudell |first1=Steve |last2=Ammirati |first2=Joe |chapter=Gyromitra montana |chapter-url={{GBurl|WevHvt6Tr8kC|p=281}} |title=Mushrooms of the Pacific Northwest |date=2009 |publisher=Timber Press |isbn=978-1-60469-141-2 |page=281 }}</ref>
+
+==Toxicity==
+It contains small quantities of [[hydrazines]];<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |publisher=Firefly Books |year=2010 |isbn=978-1-55407-651-2 |location=Buffalo, NY |page=363}}</ref> its content in [[gyromitrin]] was scientifically assessed by Viernstein et al. (1980) and resulted of about 1mg per kg of fresh mushroom (roughly 1,500-fold less compared to that of ''[[Gyromitra esculenta]]''). Though no casualties have been ascribed to its consumption, parboiling is still highly recommended. Some guides have listed it as being edible if properly prepared.<ref name="Arora1986" /> However, consumption is not recommended due to variability and similarity to other more toxic species of ''Gyromitra''.<ref name="volk" />
+
+This fungus has been banned for sale in France since 1991 due to potential toxicity, the effects of which would cause a fairly rare fatal neurodegenerative disease, [[amyotrophic lateral sclerosis]] (ALS).<ref name="sciencesetavenir-maladie-de-charcot">{{cite news |last1=Kaldy |first1=Pierre |title=Un champignon lié à des cas de maladie de Charcot: la fin d'une énigme médicale vieille de plus de dix ans |trans-title=Fungus Linked to Lou Gehrig's Disease: End to a Ten-Year-Old Medical Enigma |url=https://www.sciencesetavenir.fr/sante/os-et-muscles/un-champignon-lie-a-des-cas-de-maladie-de-charcot_157084 |work=Sciences et Avenir |date=4 September 2021 |language=fr }}</ref><ref>{{cite journal |last1=Lagrange |first1=E. |last2=Vernoux |first2=J.P. |last3=Reis |first3=J. |last4=Palmer |first4=V. |last5=Camu |first5=W. |last6=Spencer |first6=P.S. |title=An amyotrophic lateral sclerosis hot spot in the French Alps associated with genotoxic fungi |journal=Journal of the Neurological Sciences |date=August 2021 |volume=427 |article-number=117558 |doi=10.1016/j.jns.2021.117558 |pmid=34216974 }}</ref>
+
+==References==
+{{Reflist|refs=
+
+<ref name=volk>{{cite web |title=Tom Volk's Fungus of the Month: ''Gyromitra esculenta'' |date=May 2002 |author=Volk T. |url=http://botit.botany.wisc.edu/toms_fungi/may2002.html |access-date=2011-05-03}}</ref>
+
+<ref name=Eckblad1968>{{cite journal |author=Eckblad FE. |title=The genera of the operculate discomycetes |journal=Nytt Magasin for Botanik |year=1968 |volume=15 |issue=1–2 |pages=1–191 (see p. 99)}}</ref>
+
+<ref name=Imai1938>{{cite journal |author=Imai S. |title=Symbolae ad floram mycologicum asiae orientalis II |journal=Botanical Magazine Tokyo |year=1938 |volume=52 |issue=619 |pages=357–63|doi=10.15281/jplantres1887.52.357 |doi-access=free }}</ref>
+
+<ref name=Krombholz1834>{{cite book |author=von Krombholz JV |title=Naturgetreue Abbildungen und Beschreibungen der Schwämme |year=1834 |volume=3 |pages=1–36 |language=German}}</ref>
+
+<ref name="urlMycoBank: Gyromitra gigas">{{cite web |title=''Gyromitra gigas'' (Krombh.) Cooke 1878 |url=http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=121618&Fields=All |publisher=[[MycoBank]]. International Mycological Association |access-date=2012-11-04}}</ref>
+
+}}
+
+==Further reading==
+* {{cite thesis |last1=Havasi |first1=Juliette |title=Toxicité des champignons du genre Gyromitra et effets sur la santé humaine |trans-title=Toxicity of Gyromitra mushrooms en effects on human health |date=18 December 2023 |url=https://dumas.ccsd.cnrs.fr/DUMAS/dumas-04388608v1 |language=fr }}
+* {{cite journal |last1=Spencer |first1=Peter S. |last2=Palmer |first2=Valerie S. |last3=Kisby |first3=Glen E. |last4=Lagrange |first4=Emmeline |last5=Horowitz |first5=B. Zane |last6=Valdes Angues |first6=Raquel |last7=Reis |first7=Jacques |last8=Vernoux |first8=Jean-Paul |last9=Raoul |first9=Cédric |last10=Camu |first10=William |title=Early-onset, conjugal, twin-discordant, and clusters of sporadic ALS: Pathway to discovery of etiology via lifetime exposome research |journal=Frontiers in Neuroscience |date=13 February 2023 |volume=17 |doi=10.3389/fnins.2023.1005096 |doi-access=free |pmid=36860617 |pmc=9969898 }}
+
+== External links ==
+
+* {{Commons category-inline|italic=on}}
+{{Taxonbar|from=Q107643749|from2=Q2627281}}
+
+[[Category:Discinaceae]]
+[[Category:Fungi described in 1834]]
+[[Category:Fungi of Europe]]
+[[Category:Snowbank fungi]]
+[[Category:Fungus species]]

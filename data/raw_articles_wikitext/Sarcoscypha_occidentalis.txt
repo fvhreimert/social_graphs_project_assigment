@@ -1,0 +1,162 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Sarcoscypha occidentalis 46129.jpg
+| image_caption =
+| taxon = Sarcoscypha occidentalis
+| authority = ([[Lewis David de Schweinitz|Schwein.]]) [[Pier Andrea Saccardo|Sacc.]] (1889)
+| synonyms_ref = <ref name="urlSpecies Fungorum - Species synonymy"/>
+| synonyms = *''Peziza occidentalis'' <small>Schwein. (1832)</small>
+*''Geopyxis occidentalis'' <small>(Schwein.) [[Andrew Price Morgan|Morgan]] (1902)</small>
+*''Plectania occidentalis'' <small>(Schwein.) [[Fred Jay Seaver|Seaver]] (1928)</small>
+}}
+{{mycomorphbox
+| name = ''Sarcoscypha occidentalis''
+| whichGills = no
+| capShape = no
+| hymeniumType = smooth
+| stipeCharacter = bare
+| ecologicalType = saprotrophic
+| howEdible = unknown 
+}}
+
+'''''Sarcoscypha occidentalis''''', commonly known as the '''stalked scarlet cup''' or the '''western scarlet cup''', is a species of [[fungus]] in the family [[Sarcoscyphaceae]] of the [[Pezizales]] order. [[Phylogenetic]] analysis has shown that it is most closely related to other ''[[Sarcoscypha]]'' species that contain large oil droplets in their [[spore]]s. ''S.&nbsp;occidentalis'' has an [[Fungi imperfecti|imperfect]] form ([[Asexual reproduction|reproducing asexually]]), classified as ''Molliardiomyces occidentalis''.
+
+The [[Ascocarp|fruit bodies]] have small, bright red cups up to {{convert|2|cm|in|1|abbr=on|frac=4}} wide atop a slender whitish [[stipe (mycology)|stem]] up to {{convert|1|cm|abbr=on|frac=4}} long. The species is distinguished from the related ''[[Sarcoscypha coccinea|S.&nbsp;coccinea]]'' and ''[[Sarcoscypha austriaca|S.&nbsp;austriaca]]'' by differences in distribution, fruiting season, and structure. The fungus can be found in North America and Asia. A [[saprobic]] species, it is found growing on [[hardwood]] twigs, particularly those that are partially buried in moist and shaded [[humus]]-rich soil.
+
+==Taxonomy==
+The fungus, originally collected from [[Muskingum County, Ohio]], was named ''Peziza occidentalis'' by [[Lewis David de Schweinitz]] in 1832.<ref name="Schweinitz1832" /> It was assigned its current name by  [[Pier Andrea Saccardo]] in 1888.<ref name="Saccardo1888" /> [[Andrew Price Morgan]] renamed the species ''Geopyxis occidentalis'' in 1902 because of a perceived similarity with ''[[Geopyxis hesperidea]]'',<ref name="Morgan1902" /> but the name change was not adopted by subsequent authors. In 1928, [[Fred Jay Seaver]] overturned Saccardo's naming and applied the name ''Plectania'' to ''[[Sarcoscypha coccinea]]'' and other red cup fungi.<ref name="Seaver1928" /> In later [[Taxonomy (biology)|taxonomic]] revisions, [[Richard P. Korf]] reinstated the genus name ''[[Sarcoscypha]]''.<ref name="Korf1953" /><ref name="Korf1972" />
+
+===Phylogeny===
+
+The [[phylogenetic]] relationships in the genus ''Sarcoscypha'' were analyzed by Francis Harrington in the late 1990s.<ref name=Harrington1998/><ref name=Harrington1997/> The [[cladistics|cladistic]] analysis combined comparison of [[DNA sequence|sequences]] from the [[internal transcribed spacer]] in the non-functional [[RNA]] with fifteen traditional [[morphology (biology)|morphological]] characters, such as [[spore]] features, fruit body shape, and degree of hair curliness. Based on this analysis, ''S.&nbsp;occidentalis'' is part of a [[clade]] of evolutionarily related taxa that includes the species ''[[Sarcoscypha dudleyi|S.&nbsp;dudleyi]]'', ''[[Sarcoscypha emarginata|S.&nbsp;emarginata]]'', ''[[Sarcoscypha hosoyae|S.&nbsp;hosoyae]]'', ''[[Sarcoscypha korfiana|S.&nbsp;korfiana]]'' and ''[[Sarcoscypha mesocyatha|S.&nbsp;mesocyatha]]''.<ref name=Harrington1998/> All of these species contain large oil droplets in their spores, in contrast to the other major clade of ''Sarcoscypha'' (containing the [[type species]] ''S.&nbsp;coccinea''), characterized by having smaller, more numerous droplets.<ref name=Harrington1997/> The species most closely related to ''S.&nbsp;occidentalis'' is ''S.&nbsp;mesocyatha'', known only from [[Hawaii]].<ref name=Hemmes2002/>
+
+{{cladogram|align=left|title=
+| clade=
+{{clade
+|style=font-size:75%;line-height:75%
+| label1=
+| 1={{clade
+     |1=''[[Sarcoscypha coccinea|S. coccinea]]'' and four other ''Sarcoscypha'' spp.
+     |2={{clade
+        |1={{clade
+           |1={{clade
+              |1=''[[Sarcoscypha korfiana|S. korfiana]]''
+              |2={{clade
+                 |1='''''S. occidentalis'''''
+                 |2=''[[Sarcoscypha mesocyatha|S. mesocyatha]]''
+                }}
+              }}
+         |2={{clade
+            |1={{clade
+               |1=''[[Sarcoscypha dudleyi|S. dudleyi]]''
+               |2=''[[Sarcoscypha emarginata|S. emarginata]]''
+              }}
+            |2=''[[Sarcoscypha hosoyae|S. hosoyae]]''
+           }}
+        }}
+}}}}}}
+| caption=Phylogeny and relationships of ''S.&nbsp;occidentalis'' and related species based on [[internal transcribed spacer|ITS]] sequences and [[morphology (biology)|morphological]] characteristics.<ref name=Harrington1998/>}}
+{{clear}}
+
+=== Subdivision ===
+A Jamaican [[variety (botany)|variety]] has been named (as ''Plectania occidentalis'' var. ''jamaicensis''); it has a pinker hymenium.<ref name="Dennis1954" />
+
+==== Anamorph form ====
+Anamorphic or [[fungi imperfecti|imperfect fungi]] are those that seem to lack a sexual stage in their [[biological life cycle|life cycle]], and typically reproduce by the process of [[mitosis]] in structures called [[conidia]]. In some cases, the sexual stage—or [[teleomorph, anamorph and holomorph|teleomorph]] stage—is later identified, and a teleomorph-anamorph relationship is established between the species. The [[International Code of Botanical Nomenclature]] permits the recognition of two (or more) names for one and the same organisms, one based on the teleomorph, the other(s) restricted to the anamorph.
+
+The anamorphic state of ''S.&nbsp;occidentalis'' is ''Molliardiomyces occidentalis'', described by [[John W. Paden]]. This form produces smooth, colorless [[conidiophore]]s (specialized stalks that bear conidia) measuring 20–230 by 2–3.2&nbsp;μm. The conidia are roughly spherical to [[wikt:ovoid|ovoid]], smooth, translucent ([[hyaline]]), and 4.6–7.0 by 3.0–3.8&nbsp;μm.<ref name="Paden1984" />
+
+=== Etymology ===
+The [[specific name (botany)|specific epithet]] ''occidentalis'', derived from the [[Latin]] word for "western", may refer to the distribution of the species in the [[Western Hemisphere]]. It is [[common name|commonly]] known as the stalked scarlet cup<ref name="Roody2003" /> or the western scarlet cup.<ref name="McKnight1987" />
+
+==Description==
+Depending on their age, the fruit bodies of ''S.&nbsp;occidentalis'' may range in shape from deep cups to saucers to discs in maturity, and they can reach diameters up to {{convert|2|cm|abbr=off|frac=8}}. In young specimens, the edges of the cup are curled inwards, and crenulate (with small rounded scallops); the cup edges in older specimens become laciniate (with jagged edges cut into irregular segments). The cups rest atop a [[stipe (mycology)|stem]] that is small to medium-sized, up to {{convert|30|mm|in|1|frac=4}} long and 1.5–2&nbsp;mm thick,<ref name=Harrington1990/> and attached centrally or to the side to the underside of the cup. The base of the stem may be covered with translucent "hairs".<ref name=Kanouse1948/> The fertile spore-bearing inner surface of the cups, the [[hymenium]], is bright red but fades to yellow or orange when dry. It is smooth or becomes so with time.<ref name=Denison1972/> The fruit bodies are fleshy to rubbery when fresh, but become leathery when dry.<ref name=Harrington1990/> The [[trama (mycology)|flesh]] is thin and has no distinctive odor or taste, nor culinary value.<ref name=Roody2003/>
+
+
+''Excipulum'' is a term used to refer to the tissue or tissues containing the hymenium of an ascomycete fruit body. The ectal excipulum (outer tissue layer) is thin (20–30&nbsp;[[μm]] thickness), made of a tissue type known as ''texura porrecta'', consisting of more or less parallel [[hypha]]e all in one direction, with wide lumina and non-thickened walls. The medullary excipulum (middle tissue layer) is thick (200–600&nbsp;μm) and made of ''textura intricata'', a tissue layer made of irregularly interwoven hyphae with distinct spaces between the hyphae. The [[ascus|asci]] (filamentous structures in which the [[ascospore]]s develop) are cylindrical with gradually tapering bases, eight-spored, and measure 240–280 by 12–15&nbsp;μm. The ascospores have ellipsoidal to roughly cylindrical shapes, usually with blunt ends, and measure 19–22 by 10–12&nbsp;μm. They have smooth surfaces and usually contain two large oil drops. The [[paraphyses]] (sterile, filamentous hyphae present in the hymenium) are cylindrical, 2–3&nbsp;μm thick, barely enlarged at their apices, straight, and mostly unbranched above. They may sometimes [[anastomosis|anastomose]], but do not form a conspicuous network.<ref name=Denison1972/> The paraphyses contain numerous red [[granule (cell biology)|granules]].<ref name=Healy2008/>
+
+===Similar species===
+{{multiple image
+| align = right
+| caption_align = center
+| image1 = Microstoma floccosum 13099.jpg
+| width1 = 200
+| alt1 = 
+| caption1 = ''Microstoma floccosum''
+| image2 = Scutellinia scutellata Dan Molter crop.jpg
+| width2 = 150
+| alt2 = 
+| caption2 = ''Scutellinia scutellata''
+| footer = 
+}}
+''S. occidentalis'' is frequently confused with ''S.&nbsp;coccinea'', but is distinguished macroscopically from this species by its smaller fruit bodies, smaller spores, and less hairy exterior. The two also differ in seasonal and geographic distribution: ''S.&nbsp;occidentalis'' fruits from late spring to early autumn in the United States, while ''S.&nbsp;coccinea'' fruits earlier in spring,<ref name="Harrington1990" /> and is distributed in eastern North America, in the midwest, in the valleys between the Pacific coast and the Sierras and Cascades, as well as Europe, Africa, Australia, and India.<ref name=Denison1972/> Another eastern North American species, ''[[Sarcoscypha austriaca|S.&nbsp;austriaca]]'', has scarlet fruit bodies up to {{convert|6|cm|in|1|abbr=on|frac=2}} wide, and fruits in early spring.<ref name=Miller2006/>
+
+''S.&nbsp;occidentalis'' may also be mistaken for ''[[Microstoma floccosum]]'', which occurs in the same habitat. ''M.&nbsp;floccosum'', however, has taller cups and is covered with stiff white hairs.<ref name=Seaver1904/> Another cup-fungus, ''[[Scutellinia scutellata]]'', is disc-shaped without a stem, and is fringed with black hairs around its rim.<ref name=Roody2003/> ''[[Melastiza]]'' species usually lack stems and ''[[Phillipsia domingensis]]'' produces purplish or dark red cups with white undersides.<ref>{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=45}}</ref>
+
+==Distribution and habitat==
+
+The fungus is found in North America east of the [[Rocky Mountains]], and at higher elevations in [[Central America]] and the [[Caribbean]].<ref name="Denison1972" /> It has also been collected in Japan<ref name="Nagao2002" /> and Taiwan.<ref name="Liou1977" />
+
+As a [[saprobic]] fungus, ''S. occidentalis'' is part of a community of fungi that play an important role in the forest ecosystem by breaking down the complex insoluble molecules [[cellulose]] and [[lignin]] of wood and leaf litter into smaller [[oligosaccharide]]s that may be used by a variety of microbes.<ref name="Edwards2008" /> Fruit bodies of ''S.&nbsp;coccinea'' may grow either solitarily, scattered or grouped together on sticks, twigs, and fragments of dead wood,<ref name="Denison1972" /> usually somewhat decomposed and partially buried in the top {{convert|5|cm|in|1|abbr=on|frac=2}} of soil and forest litter. It prefers soil that is moist and shaded and has a high content of [[humus]]. Like all ''Sarcoscypha'' species, it prefers the wood of [[angiosperm]]s, such as [[oak]], [[maple]], and [[basswood]];<ref name="Harrington1990" /> one field guide notes a preference for [[shagbark hickory]].<ref name="Healy2008" />
+
+== References ==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=Denison1972>{{cite journal |author=Denison WC. |year=1972 |title=Central American Pezizales. IV. The genera ''Sarcoscypha'', ''Pithya'', and ''Nanoscypha'' |jstor=3757876 |journal=Mycologia |volume=64 |issue=3 |pages=609–23 |doi=10.2307/3757876}}</ref>
+
+<ref name=Dennis1954>{{cite journal |author=Dennis RWG. |year=1954 |title=Operculate Discomycetes from Trinidad and Tobago |jstor=4108810 |journal=Kew Bulletin |volume=9 |issue=3 |pages=417–21 |doi=10.2307/4108810}}</ref>
+
+<ref name=Edwards2008>{{cite journal |author1=Edwards IP |author2=Upchurch RA |author3=Zak DR. |year=2008 |title=Isolation of fungal cellobiohydrolase I genes from sporocarps and forest soils by PCR |journal=Applied and Environmental Microbiology |pmid=18408067 |volume=74 |issue=11 |pmc=2423022 |pages=3481–89 |doi=10.1128/AEM.02893-07|bibcode=2008ApEnM..74.3481E }}</ref>
+
+<ref name=Harrington1990>{{cite journal |author=Harrington FA. |year=1990 |title=''Sarcoscypha'' in North America (Pezizales, Sarcoscyphaceae) |journal=Mycotaxon |volume=38 |pages=417–58 |url=http://www.cybertruffle.org.uk/cyberliber/59575/0038/0417.htm}}</ref>
+
+<ref name=Harrington1997>{{cite journal |author1=Harrington FA |author2=Potter D. |year=1997 |title=Phylogenetic relationships within ''Sarcoscypha'' based upon nucleotide sequences of the internal transcribed spacer of nuclear ribosomal DNA |jstor=3761080 |journal=Mycologia |volume=89 |issue=2 |pages=258–67 |doi=10.2307/3761080 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0089/002/0258.htm|url-access=subscription }}</ref>
+
+<ref name=Harrington1998>{{cite journal |author=Harrington FA. |year=1998 |title=Relationships among ''Sarcoscypha'' species: evidence from molecular and morphological characters |jstor=3761299 |journal=Mycologia |volume=90 |issue=2 |pages=235–43 |doi=10.2307/3761299 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0090/002/0235.htm|url-access=subscription }}</ref>
+
+<ref name=Healy2008>{{cite book |author1=Healy RA |author2=Huffman DR |author3=Tiffany LH |author4=Knaphaus G. |title=Mushrooms and Other Fungi of the Midcontinental United States |series=Bur Oak Guide |publisher=University of Iowa Press |location=Iowa City, Iowa |year=2008 |page=291 |isbn=978-1-58729-627-7 |url=https://books.google.com/books?id=tl2fVAHuej4C&pg=PA291}}</ref>
+
+<ref name=Hemmes2002>{{cite book |author1=Hemmes DE |author2=Desjardin D. |title=Mushrooms of Hawai'i: An Identification Guide |publisher=Ten Speed Press |location=Berkeley, California |year=2002 |page=141 |isbn=1-58008-339-0 |url=https://books.google.com/books?id=xbEC2PrmZZkC&pg=PA141}}</ref>
+
+<ref name=Kanouse1948>{{cite journal |author=Kanouse BC. |year=1948 |title= The genus ''Plectania'' and its segregates in North America |jstor=3755155 |journal=Mycologia |volume=40 |issue=4 |pages=482–97 |doi=10.2307/3755155 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0040/004/0482.htm|url-access=subscription }}</ref>
+
+<ref name=Korf1953>{{cite journal |author=Korf RP. |year=1953 |title=The new rules of typification as they affect ''Sarcoscypha'' and ''Velutaria'' |journal=Mycologia |volume=45 |issue=2 |pages=296–301 |jstor=4547696 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0045/002/0296.htm|doi=10.1080/00275514.1953.12024269 |url-access=subscription }}</ref>
+
+<ref name=Korf1972>{{cite journal |author=Korf RP. |year=1972 |title=A synoptic key to the genera of the Pezizales |jstor=3758070 |journal=Mycologia |volume=64 |issue=5 |pages=937–94 |doi=10.2307/3758070 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0064/005/0937.htm|url-access=subscription }}</ref>
+
+<ref name=Liou1977>{{cite journal |author1=Lious S-C |author2=Chen Z-C. |year=1977 |title=Notes on Taiwan Discomycetes. Part I. Pezizales and Helotiales |journal=Taiwania |volume=22 |issue=1 |pages=29–43 |issn=0372-333X |url=http://tai2.ntu.edu.tw/taiwania/pdf/tai.1977.22.1.29.pdf }}</ref>
+
+<ref name=McKnight1987>{{cite book |author1=McKnight VB |author2=McKnight KH. |title=A Field Guide to Mushrooms: North America |publisher=Houghton Mifflin |location=Boston, Massachusetts |year=1987 |page=208 |isbn=0-395-91090-0 |url=https://books.google.com/books?id=kSdA3V7Z9WcC&pg=PA208-IA2}}</ref>
+
+<ref name=Miller2006>{{cite book |author1=Miller HR |author2=Miller OK. |title=North American Mushrooms: a Field Guide to Edible and Inedible Fungi |publisher=Falcon Guide |location=Guilford, Connecticut |year=2006 |page=536 |isbn=0-7627-3109-5 |url=https://books.google.com/books?id=zjvXkLpqsEgC&pg=PA536}}</ref>
+
+<ref name=Morgan1902>{{cite journal |author=Morgan AP. |year=1902 |title=The Discomycetes of the Miami Valley, Ohio |journal=The Journal of Mycology |volume=8 |issue=4 |pages=179–92 |jstor=3752419 |doi=10.2307/3752419 |url=http://www.cybertruffle.org.uk/cyberliber/59805/0008/004/0179.htm|url-access=subscription }}</ref>
+
+<ref name=Nagao2002>{{cite journal |author1=Nagao H |author2=Fukiharu T. |year=2002 |title=Fungal flora in Chiba Pref., central Japan (III) ascomycetes: Plectomycetes and Discomycetes |journal=Journal of the Natural History Museum and Institute, Chiba|issue=5 |pages=111–32 |issn=1340-2684 |language=Japanese}}</ref>
+
+<ref name=Paden1984>{{cite journal |author=Paden JW. |year=1984 |title=A new genus of Hyphomycetes with teleomorphs in the Sarcoscyphaceae (Pezizales, Sarcoscyphineae) |journal=Canadian Journal of Botany |volume=62 |issue=2 |pages=211–8 |doi=10.1139/b84-035}}</ref>
+
+<ref name=Roody2003>{{cite book |author=Roody WC. |title=Mushrooms of West Virginia and the Central Appalachians |publisher=University Press of Kentucky |location=Lexington, Kentucky |year=2003 |page=470 |isbn=0-8131-9039-8 |url=https://books.google.com/books?id=5HGMPEiy4ykC&pg=PA470}}</ref>
+
+<ref name=Saccardo1888>{{cite journal |author=Saccardo PA. |year=1888 |title=Discomyceteae et Phymatosphaeriaceae |journal=Sylloge Fungorum |volume=8 |page=154 |language=Latin}}</ref>
+
+<ref name=Seaver1904>{{cite journal |title=The Discomycetes of eastern Iowa |author=Seaver FJ. |year=1904 |journal=Bulletin from the Laboratories of Natural History of the State University of Iowa |page=60 |isbn=9780608416786 |url=https://books.google.com/books?id=poEVAAAAYAAJ&pg=RA1-PA60}}</ref>
+
+<ref name=Seaver1928>{{cite book |title=The North American cup-fungi (Operculates) |author=Seaver FJ. |year=1928 |page=193 |publisher=Self published |location=New York, New York |url=https://www.biodiversitylibrary.org/page/4716278}}</ref>
+
+<ref name=Schweinitz1832>{{cite journal |author=von Schweinitz LD. |year=1832 |title=Synopsis fungorum in America boreali media degentium |journal=Transactions of the American Philosophical Society |volume=4 |jstor=1004834 |issue=2 |pages=141–316 |language=Latin |doi=10.2307/1004834}}</ref>
+
+<ref name="urlSpecies Fungorum - Species synonymy">{{cite web |url=http://www.indexfungorum.org/Names/SynSpecies.asp?RecordID=237832 |title=Species synonymy: ''Sarcoscypha occidentalis'' (Schwein.) Sacc. |publisher=[[CAB International]] |work=Species Fungorum |access-date=2010-04-02}}</ref>
+
+}}
+
+{{Taxonbar|from=Q2086507}}
+{{good article}}
+
+[[Category:Sarcoscyphaceae]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1832]]
+[[Category:Fungi of Central America]]
+[[Category:Taxa named by Lewis David de Schweinitz]]
+[[Category:Fungus species]]

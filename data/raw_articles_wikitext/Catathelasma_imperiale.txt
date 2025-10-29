@@ -1,0 +1,83 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Catathelasma (10.3897-mycokeys.62.36633) Figure 2C.png
+| image_caption = ''Catathelasma imperiale'', China
+| genus = Catathelasma
+| species = imperiale
+| authority = ([[P. Karst.]]) [[Rolf Singer|Singer]] (1940)
+| status = NT
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN/>
+| synonyms_ref = <ref name=urlMycoBank/>
+| synonyms =1845 ''Agaricus imperialis'' <small>N. Lund ([[nom. illegit.]])</small> <br>
+1879 ''Armillaria imperialis'' <small>P. Karst.</small><br>
+1886 ''Omphalia imperialis'' <small>(P. Karst.) [[Lucien Quélet|Quél.]]</small><br>
+1891 ''Mastoleucomyces imperialis'' <small>(P. Karst.) [[Otto Kuntze|Kuntze]]</small><br>
+1914 ''Armillaria nobilis'' <small>[[William Alphonso Murrill|Murrill]]</small><br>
+1914 ''Clitocybe imperialis'' <small>(P. Karst.) [[Adalbert Ricken|Ricken]]</small><br>
+1922 ''Biannularia imperialis'' <small>(P. Karst.) [[Günther Beck von Mannagetta und Lerchenau|Beck]]</small><br>
+1927 ''Armillariella imperialis'' <small>(P. Karst.) [[Paul Konrad|Konrad]] & [[André Maublanc|Maubl.]]</small>
+}}
+{{Mycomorphbox
+| name = ''Catathelasma imperiale''
+| hymeniumType = gills
+| capShape = convex
+| whichGills = decurrent
+| stipeCharacter = ring
+| sporePrintColor = white
+| ecologicalType = mycorrhizal
+| howEdible = edible
+}}
+'''''Catathelasma imperiale''''', also known as '''''Catathelasma imperialis''''',<ref>{{Cite web |title=Catathelasma imperiale |website=MushroomExpert.Com |url=https://www.mushroomexpert.com/catathelasma_imperiale.html |access-date=2023-09-11 }}</ref> and commonly known as the '''imperial mushroom''',<ref name=Arora1986>{{Cite book |last=Arora |first=David |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/195/mode/2up |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |orig-date=1979 |edition=2nd |pages=195}}</ref> '''Hutsul mushroom''', or '''korban''', is a species of [[agaric]] (gilled mushroom) in the family [[Biannulariaceae]]. [[Basidiocarp]]s (fruit bodies) are stocky, with a double [[annulus (mycology)|annulus]] (ring), and a tapering to rooting [[stipe (mycology)|stipe]] (stem).
+
+The species is [[ectomycorrhiza]]l with conifers and is found in continental Europe and Asia. Reports from North America are unconfirmed and may refer to ''[[Catathelasma evanescens]]'' or similar species.<ref name=Vizzini2020/> The fruit bodies are edible and collected for food in China and elsewhere. The species is widespread but uncommon and is assessed as globally "near threatened" on the [[IUCN Red List of Threatened Species]].<ref name=IUCN/>
+
+==Taxonomy==
+''Catathelasma imperiale'' was first described from Sweden in 1845 by Norwegian botanist Nicolai Lund as ''Agaricus imperialis'', but this name is [[Nomen illegitimum|illegitimate]] since two earlier (and different) fungi had already been described under the same name. The species was first legitimately described, as ''Armillaria imperialis'', by Finnish [[mycologist]] [[Petter Adolf Karsten]] in 1879. In 1922 the Austrian botanist [[Günther Beck von Mannagetta und Lerchenau]] created the new genus ''Biannularia'' for this species, making it ''Biannularia imperialis''. In 1940, Singer transferred it to the existing genus ''Catathelasma'', considering the two genera to be synonymous.<ref name=Singer1940/> Recent DNA research confirms this synonymy.<ref name=Vizzini2020/>
+
+The epithet "''imperiale''", meaning "imperial" refers to the (at times) imposing size of the fruit bodies.
+
+==Description==
+
+The fruit bodies are [[agaric]]oid with a [[pileus (mycology)|pileus]] (cap) that is convex and sticky at first becoming flat or slightly depressed and dry, {{convert|8–40|cm}} in diameter, orange brown to hazel brown, with darker patches. The [[Lamella (mycology)|lamellae]] (gills) are whitish to cream, [[decurrent]], crowded, and sometimes forked. The [[stipe (mycology)|stipe]] (stem) is compact, {{convert|5–18|cm|abbr=on}} long, tapering to the base, often rooting and partly buried, pale brown with a double ring. The fruit body has a mealy or cucumber-like smell. The [[spore print]] is white. Microscopically, the spores are subcylindrical, often fusoid, 12.5–16.0 × 5.0–6.5&nbsp;[[μm]], smooth, and [[Amyloid (mycology)|amyloid]]. The [[hypha]]e have [[clamp connections]].<ref name=Vizzini2020/>
+
+==Habitat and distribution==
+
+''Catathelasma imperiale'' is an [[ectomycorrhiza]]l species, forming an association with [[conifer]]s, particularly [[spruce]].<ref name=Vizzini2020/><ref name=Ge2020/>
+
+Originally described from Scandinavia, it has been recorded from most northern countries in continental Europe as far south as Italy. It has also been recorded in Asia from China, Korea, and Japan.<ref name="IUCN" /> Records from North America are uncertain, since [[DNA sequencing]] of specimens determined as "''C.&nbsp;imperiale''" have (to date) proven to belong to ''[[Catathelasma evanescens|C.&nbsp;evanescens]]'' or ''[[Catathelasma ventricosum|C.&nbsp;ventricosum]]''.<ref name="Vizzini2020" />
+
+==Conservation==
+
+The species is legally protected in Poland and is included in the Red Lists of 15 European countries. It is considered declining everywhere due to forest [[eutrophication]], habitat destruction, and habitat change. ''Catathelasma imperiale'' has consequently been assessed as "near threatened" on the [[IUCN Red List of Threatened Species]].<ref name=IUCN/>
+
+==Edibility==
+
+
+Although it can be discouragingly tough,<ref name="Arora1986" /> the species is edible and collected for food in [[China]], [[Bhutan]], [[Ukraine]], and [[Russia]].<ref name="Boa 2004"/><ref name="mushroaming"/> In [[Ukraine]], it is known as ''korban'', or the ''Hutsul mushroom'', because it is common among the [[Hutsuls]] who are said to be experts at finding it. In the [[Carpathian Mountains]], it grows in coniferous and spruce forests at an altitude of {{convert|400–1000|m}} In the Hutsul culinary tradition, it is often dried, powdered, and used as a spice in gravies, [[kulish]], stews, and bakes. It is also used as a meat substitute in patties during [[Lent]].<ref>{{cite book |url=https://www.unisg.it/assets/ADG_UCRAINA_WEB_2.pdf?fbclid=IwAR1qqAGPhvk9ZUBwhz6FClXLyOt97Fqojz5T1_MNAiP0HR7T6I2AoQpnwEU |script-title=uk:Ковчег смаку. Україна. Їжа, знання та історії гастрономічної спадщини |trans-title=Ark of taste. Ukraine. Food, knowledge and stories of gastronomic heritage |language=uk |year=2022 |publisher=Університет гастрономічних наук [University of Gastronomic Sciences] |isbn=979-1280673015 |page=149}}</ref>
+
+==References==
+{{Reflist|2|refs=
+
+<ref name=IUCN>{{cite web |url=https://www.iucnredlist.org/species/147158431/147715294 |title=Imperial Mushroom: ''Catathelasma imperiale'': The IUCN Red List of Threatened Species |access-date=2023-01-17}}</ref>
+
+<ref name=Ge2020>{{cite journal |doi=10.3897/mycokeys.62.36633 |title=The genus Catathelasma (Catathelasmataceae, Basidiomycota) in China |year=2020 |last1=Ge |first1=Zai-Wei |last2=Wu |first2=Jian-Yun |last3=Hao |first3=Yan-Jia |last4=Zhang |first4=Qingying |last5=An |first5=Yi-Feng |last6=Ryberg |first6=Martin |journal=MycoKeys |issue=62 |pages=123–138 |pmid=32076385 |pmc=7010842 |doi-access=free }}</ref>
+
+<ref name=Singer1940>{{cite journal |title=Notes sur quelques Basidiomycètes |journal=Revue de Mycologie |author=Singer R. |year=1940 |volume=5 |pages=3–13 |language=French}}</ref>
+
+<ref name=urlMycoBank>{{cite web |url=https://www.mycobank.org/page/Name%20details%20page/name/Catathelasma%20imperiale |title=''Catathelasma imperiale'' (P. Karst.) Singer 1940 |publisher=International Mycological Association |work=MycoBank |access-date=2023-01-17}}</ref>
+
+<ref name=mushroaming>{{cite web |url=http://mushroaming.com/Bhutan_Mushrooms |title=''Bhutan Mushroom Tours'' |publisher=Bhutan Mushroom Tours |work=Mushroaming |access-date=2020-08-03}}</ref>
+
+<ref name="Boa 2004">{{cite book |author=Boa ER. |title=Wild Edible Fungi: A Global Overview of Their Use and Importance to People |url=https://books.google.com/books?id=Zd2NlcNZgvcC&pg=PA138 |year=2004 |publisher=Food & Agriculture Organization |isbn=978-92-5-105157-3 |page=138}}</ref>
+
+<ref name=Vizzini2020>{{cite journal |vauthors=Vizzini A, Consiglio G, Marchetti M |year=2020 |title=Insights into the Tricholomatineae (Agaricales, Agaricomycetes): a new arrangement of Biannulariaceae and ''Callistosporium'', Callistosporiaceae fam. nov., ''Xerophorus'' stat. nov., and ''Pleurocollybia'' incorporated into ''Callistosporium'' |journal=Fungal Diversity |volume=101 |pages=211–259 |doi=10.1007/s13225-020-00441-x|s2cid=211729095 }}</ref>
+}}
+
+{{Taxonbar|from=Q973516}}
+
+[[Category:Fungi of Europe]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi described in 1879]]
+[[Category:Taxa named by Petter Adolf Karsten]]
+[[Category:Fungus species]]

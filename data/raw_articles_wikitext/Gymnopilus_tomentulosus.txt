@@ -1,0 +1,38 @@
+{{Short description|Species of fungus}}
+{{more citations needed|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption = 
+| taxon = Gymnopilus tomentulosus
+| authority = B.J. Rees
+| synonyms = 
+}}
+{{mycomorphbox
+| name = Gymnopilus tomentulosus
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=}}
+'''''Gymnopilus tomentulosus''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]].<ref>{{Cite journal |last=Rees |first=B.J. |last2=Orlovich |first2=D.A. |last3=Marks |first3=P.B.D. |date=April 1999 |title=Treading the fine line between small-statured Gymnopilus and excentrically stipitate Galerina species in Australia |url=https://linkinghub.elsevier.com/retrieve/pii/S0953756208602932 |journal=Mycological Research |volume=103 |issue=4 |pages=427–442 |doi=10.1017/s095375629800745x |issn=0953-7562|url-access=subscription }}</ref>
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{reflist}}
+
+==External links==
+*''[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=460496 Gymnopilus tomentulosus]'' at [[Index Fungorum]]
+
+{{Taxonbar|from=Q5625024}}
+
+[[Category:Gymnopilus|tomentulosus]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

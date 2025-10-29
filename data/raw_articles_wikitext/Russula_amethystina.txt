@@ -1,0 +1,41 @@
+{{Speciesbox
+|image = Russula amethystina.jpg
+|image_caption =
+|genus = Russula
+|species = amethystina
+|authority = [[Lucien Quélet|Quélet]] (1897)
+}}
+{{mycomorphbox 
+| name = ''Russula amethystina''
+| whichGills = free 
+| capShape = flat 
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = white
+| howEdible = unknown
+}}
+
+'''''Russula amethystina''''' is a conspicuous mushroom, which appears sporadically from mid-summer until the autumn under [[spruce]] and [[fir]] trees. In [[Northern Europe]], it is very rare. It is not easy to distinguish from similarly coloured ''[[Russula]]'' species, and practically identical to ''[[Russula turci]]''. 
+
+==Description==
+The cap ranges from 3 to 12&nbsp;cm in diameter and varies in colour between violet, lilac, wine-red and wine-red-brown. The cap skin can be pulled off from the edge, right to the centre. The gills are from cream to bright yellow. The spores are yellow, subglobose, with small warts.<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=103–104|oclc=797915861}}</ref> The spore print is cream to light orange in color. The hollow stipe ranges from 3 to 6 cm in length and 1 to 2 cm in width; it is initially white, later becoming yellowish or brownish.<ref name=":0" />
+
+Similar species include ''[[Russula turci]]'', which may smell like iodine near the base of the stalk;<ref name=":0" /> otherwise it can only be distinguished by microscopic differences in [[spore]] texture. ''R. lilacea'' and ''R. murrillii'' are also similar.<ref name=":0" />
+
+==See also==
+*[[List of Russula species|List of ''Russula'' species]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+*{{cite book |title=Danske storsvampe. Basidiesvampe |author=J.H. Petersen and J. Vesterholt (eds.) |publisher=Gyldendal. Viborg, Denmark |year=1990 |isbn=87-01-09932-9}}
+*[http://www.mtsn.tn.it/russulales-news/tx_photos.asp?index=5085 Image from the Russulales news web site] {{Webarchive|url=https://web.archive.org/web/20060427010053/http://www.mtsn.tn.it/russulales-news/tx_photos.asp?index=5085 |date=2006-04-27 }}
+
+{{Taxonbar|from=Q470350}}
+
+[[Category:Russula|amethystina]]
+[[Category:Fungi of Europe]]
+[[Category:Taxa named by Lucien Quélet]]
+[[Category:Fungus species]]

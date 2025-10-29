@@ -1,0 +1,81 @@
+
+{{Short description|Species of fungus}}
+{{Use dmy dates|date=January 2024}}
+{{Speciesbox
+| image = Cviscosa wiki.jpg
+| image_caption = ''Calocera viscosa''. [[Durmitor National Park]], Montenegro
+| taxon = Calocera viscosa
+| authority = ([[Christiaan Hendrik Persoon|Pers.]]) [[Elias Magnus Fries|Fr.]] (1827)
+| synonyms = ''Clavaria viscosa'' <small>Pers. (1794)</small><br />
+''Clavaria aurea'' <small>[[Humb.]] (1793) ([[nom. illegit.]])</small><br />
+''Calocera flammea'' <small>[[Wallr.]] (1833)</small><br />
+''Calocera cavarae'' <small>[[Bres.]] (1896)</small><br />
+''Calocera viscosa'' var. ''cavarae'' <small>(Bres.) McNabb (1965)</small>
+}}
+{{Mycomorphbox
+| name = ''Calocera viscosa''
+| hymeniumType = smooth
+| whichGills = no
+| capShape = no
+| stipeCharacter = bare
+| ecologicalType = saprotrophic
+| sporePrintColor = white
+}}
+
+'''''Calocera viscosa''''' is a species of [[fungus]] in the family [[Dacrymycetaceae]]. In the United Kingdom, it has the recommended English name of '''yellow stagshorn'''.<ref name="BMS"/> In North America it is variously called '''coral jelly fungus''',<ref name="McKnight 1987"/> '''jelly staghorn''',<ref name="McKnight 2021"/> '''yellow false coral''',<ref name=Bessette/> '''yellow tuning fork''',<ref name="Rhodes2013"/> and '''jelly antler'''.<ref name="Winkler2022"/>
+
+The [[basidiocarp]]s (fruit bodies) are small, gelatinous, bright golden yellow, and branched. ''Calocera viscosa'' grows on logs and dead wood of [[conifer]]s. It is a common species throughout Europe and has also been recorded from North America, Asia, and Australia.
+
+==Taxonomy==
+The species was originally described as ''Clavaria aurea'' by the German naturalist and explorer [[Alexander von Humboldt]] in 1793, but the name is [[nom. illegit.|illegitimate]] since it had already been used for a different species.<ref name="Roberts2011"/> The species was legitimately described as ''Clavaria viscosa'' from Germany in 1794 by South African-born mycologist [[Christiaan Hendrik Persoon]]. It was transferred to the genus ''[[Calocera]]'' by Swedish mycologist [[Elias Magnus Fries]] in 1827.
+
+A white fungus from Italy was described as ''Calocera cavarae'' in 1896, but later studies suggested that this was only an aberrant form of ''C.&nbsp;viscosa'' lacking yellow pigments.<ref name="Reid1988"/><ref name="Roberts1994"/>
+
+==Description==
+''Calocera viscosa'' forms bright golden to orange-yellow (rarely white), firmly gelatinous fruit bodies up to {{Convert|10|cm|frac=4}} tall, with a paler stem and coral-like branches.<ref name="McNabb1965"/> 
+
+The fruit bodies are too slight to be of culinary interest.<ref name=Arora1986/>
+
+===Microscopic characters===
+[[Hypha]]e lack [[clamp connection]]s. The [[basidia]] are two-spored and typical of the Dacrymycetaceae. The [[spore]]s are weakly allantoid (sausage-shaped), 8 to 12.5 by 3.5 to 4.5&nbsp;[[μm]], thin-walled, becoming tardily once-septate.<ref name="McNabb1965"/><ref name="Reid1974"/>
+
+=== Similar species ===
+Similar species include ''[[Calocera cornea]]'' and ''[[Calocera furcata|C.&nbsp;furcata]]'', as well as ''[[Ramariopsis corcea]]'' and ''[[Clavulinopsis corniculata]]''.<ref name=":0">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=88}}</ref>
+
+==Habitat and distribution==
+''Calocera viscosa'' is a [[wood-decay fungus]], found on logs and dead wood of [[conifer]]s.<ref name=Arora1986>{{Cite book |last=Arora |first=David |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/674/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, California |year=1986 |orig-date=1979 |edition=2nd |pages=674-75}}</ref> It was originally described from Germany and is common throughout Europe, but has also been recorded from North America, Asia, and Australia.<ref name="McNabb1965"/><ref name="Reid1974"/> It appears from October to March on the West Coast of North America, and July to September elsewhere on the continent.<ref name=":0" />
+
+==References==
+{{Reflist|2|refs=
+
+<ref name="BMS">{{cite web |author=Holden L. |url=https://www.britmycolsoc.org.uk/resources/english-names |title=English names for fungi 2022 |date=April 2022 |publisher=[[British Mycological Society]] |access-date=10 February 2024 |archive-date=23 September 2015 |archive-url=https://web.archive.org/web/20150923194645/http://www.britmycolsoc.org.uk/library/english-names/ |url-status=dead }}</ref>
+
+<ref name="McKnight 1987">{{cite book |vauthors=McKnight KH, McKnight VB  |title=A Field Guide to Mushrooms: North America | series=Peterson Field Guides |publisher=Houghton Mifflin |location=Boston, Massachusetts |year=1987 |pages=429 |isbn=0-395-91090-0 |url=https://books.google.com/books?id=kSdA3V7Z9WcC&pg=PA252}}</ref>
+
+<ref name="McKnight 2021">{{cite book |vauthors=McKnight KB, Rohrer JR, Ward KM, McKnight KH |title=Field Guide to Mushrooms of North America | series=Peterson Field Guides |publisher=Houghton Mifflin |location=Boston, Massachusetts |year=2021 |pages=416 |isbn=0544236114 }}</ref>
+
+<ref name=Bessette>{{cite book|last=Bessette|first=Alan E.|title=Mushrooms of Northeastern North America|year=1997|publisher=Syracuse University Press|location=Syracuse, New York|isbn=0815603886}}</ref>
+
+<ref name="Rhodes2013">{{cite book |author= Rhodes LH |year=2013 |title=Mushrooms and Macrofungi of Ohio and the Midwestern States |publisher=Ohio State University |pages=163}}</ref>
+
+<ref name="Winkler2022">{{cite book |author=Winkler D |year=2022 |title=Fruits of the forest: A field guide to Pacific Northwest edible mushrooms |publisher=Mountaineers Books |pages=384 |isbn=1680515314 }}</ref>
+
+<ref name="McNabb1965">{{cite journal |last1=McNabb |first1=RF |title=Taxonomic studies in the Dacrymycetaceae: II. ''Calocera'' (Fries) Fries |journal=New Zealand Journal of Botany |date=1965 |volume=3 |issue=1 |pages=31–58 |doi=10.1080/0028825X.1965.10428712|doi-access=free }}</ref>
+
+<ref name="Reid1974">{{cite journal |author=Reid DA |year=1974 |title=A monograph of the British Dacrymycetales |journal=Transactions of the British Mycological Society |volume=62 |pages=433–494}}</ref>
+
+<ref name="Reid1988">{{cite journal |author=Reid DA |year=1988 |title=''Calocera viscosa'' var. ''cavarae'', a white variant of the species new to Britain |journal=Transactions of the British Mycological Society |volume=91 |pages=705-707}}</ref>
+
+<ref name="Roberts1994">{{cite journal |author=Roberts P |year=1994 |title=Profiles of fungi No. 61: ''Calocera viscosa'' var. ''cavarae'' |journal=Mycologist |volume=8 |pages=61}}</ref>
+
+<ref name="Roberts2011">{{cite journal |author=Roberts P |year=2011 |title=Alexander von Humboldt’s fungal collections at Kew |journal=Kew Bulletin |volume=66 |pages=1-4}}</ref>
+}}
+
+{{Taxonbar|from=Q256970}}
+
+[[Category:Dacrymycetes]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1794]]
+[[Category:Taxa named by Christiaan Hendrik Persoon]]
+[[Category:Fungus species]]

@@ -1,0 +1,52 @@
+{{Short description|Variety of fungus}}
+{{DISPLAYTITLE:''Panaeolus papilionaceus'' var. ''parvisporus''}}
+{{Taxobox
+| name = ''Panaeolus papilionaceus var. parvisporus''
+| image = Panaeolus papilionaceus var. parvisporus.jpg
+| regnum = [[Fungi]]
+| divisio = [[Basidiomycota]]
+| classis = [[Agaricomycetes]]
+| ordo = [[Agaricales]]
+| familia = [[Bolbitiaceae]]
+| genus = ''[[Panaeolus]]''
+| species = ''[[Panaeolus papilionaceus|P. papilionaceus]]''
+| varietas = '''''P. papilionaceus var. parvisporus'''''
+| trinomial = ''Panaeolus papilionaceus var. parvisporus''
+| trinomial_authority = [[Ew. Gerhardt|Ewald Gerhardt]]
+| synonyms = ''Panaeolus campanulatus sensu auct. brit.''<ref name=sab>"''sensu auct. brit.''" means "according to British authors".</ref><br/>
+''Panaeolus retirugis sensu auct. brit.''<ref name=sab/>
+}}
+{{Mycomorphbox
+| name = ''Panaeolus papilionaceus'' var. ''parvisporus''
+| whichGills = adnexed
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=saprotrophic
+| sporePrintColor=black
+| howEdible=edible
+| howEdible2=caution 
+}}
+
+'''''Panaeolus papilionaceus'' var. ''parvisporus''''' is a [[little brown mushroom]] that grows in horse or cow dung and is in the genus ''[[Panaeolus]]''.
+
+==Description==
+
+The cap is up to 5&nbsp;cm across, grayish brown, not hygrophanous, conic to campanulate in age.  The cap margin is '''not''' adorned with remnants of the partial veil. The stem is 10&nbsp;cm by 2.5&nbsp;mm, fibrous and [[wikt:pruinose|pruinose]]. The gills are [[wikt:adnexed|adnexed]] and close, with one or two tiers of intermediate gills.
+
+Some collections are allegedly mildly psychoactive, containing [[psilocybin]].
+
+==Edibility==
+Though neither particularly choice in flavor nor substantial in mass,  it is nonetheless edible. No member of the genus ''[[Panaeolus]]'' is known to be toxic.
+
+==References==
+{{Reflist}}
+*{{Cite book | first=Paul | last=Stamets | year=1996 | title=Psilocybin Mushrooms of the World | publisher=Ten Speed Press | location=Berkeley | isbn=0-9610798-0-0}}
+
+==External links==
+* [https://mushroomobserver.org/observer/observation_search?pattern=Panaeolus+papilionaceus+parvisporus Observations] on [[Mushroom Observer]]
+
+{{Hallucinogenic mushrooms}}
+{{Taxonbar|from=Q7129789}}
+
+[[Category:Panaeolus|papilionaceus var. parvisporus]]

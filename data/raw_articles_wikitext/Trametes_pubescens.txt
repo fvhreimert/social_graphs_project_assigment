@@ -1,0 +1,32 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Trametes-pubescens-samtige-tramete.jpg
+| genus = Trametes
+| species = pubescens
+| authority = ([[Schumach.]]) [[Albert Pilát|Pilát]] (1939)
+| synonyms = * ''Trametes velutina'' <small>(P. Karst.) G. Cunn. (1965)</small>
+}}
+
+'''''Trametes pubescens''''' is a small, thin species of [[polypore]], or bracket [[fungus]]. It has a cream-colored, finely velvety cap surface. Unlike most other turkey tail-like species of ''Trametes'', the cap surface lacks strongly contrasting zones of color.
+
+''Trametes pubescens'' is an annual, saprobic fungus, a decomposer of the deadwood of hardwoods, growing in clusters on logs, stumps and downed branches. (It is rarely reported on conifer wood.)
+It is a purported [[plant pathogen]], infecting peach and nectarine trees.<ref>{{cite web|url=http://www.mushroomexpert.com/trametes_pubescens|title=Trametes pubescens|work=mushroomexpert.com}}</ref> It is inedible.<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=317}}</ref>
+
+The genome of ''T. pubescens'' has been published in 2017 by Zoraide Granchi and coworkers from the OPTIBIOCAT project.<ref>{{cite journal| pmc=5323618 | pmid=28232439 | doi=10.1128/genomeA.01643-16
+| volume=5 | title=Genome Sequence of the Basidiomycete White-Rot Fungus Trametes pubescens FBCC735 | year=2017 | author1=Granchi Z | author2=Peng M | author3=Chi-A-Woeng T | author4=de Vries RP |author5=Hildén K |author6= Mäkelä MR | journal=Genome Announc | issue=8 | page=e01643-16}}</ref> The genome contains 39.7 million bases. The consortium estimates that there are 14,451 different genes, which is quite average among saprobic wood-rotting species. The sequencing has been performed in Leiden, The Netherlands.<ref>{{cite web|url=http://www.genomescan.nl |title=OPTIBIOCAT partner GenomeScan}}</ref>
+
+==References==
+{{Commons|Trametes pubescens}}
+{{Reflist}}
+
+{{Taxonbar|from1=Q1315033|from2=Q49608250}}
+
+[[Category:Fungal tree pathogens and diseases]]
+[[Category:Inedible fungi]]
+[[Category:Stone fruit tree diseases]]
+[[Category:Polyporaceae]]
+[[Category:Fungi described in 1939]]
+[[Category:Fungus species]]
+
+
+{{Polyporales-stub}}

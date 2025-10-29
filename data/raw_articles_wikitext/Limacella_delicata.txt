@@ -1,0 +1,29 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Limacella delicata a1.jpg
+| image_caption =
+| genus = Limacella
+| species = delicata
+| authority = [[Elias Magnus Fries|(Fr.)]] [[Franklin Sumner Earle|Earle]] ex Konr. & Maubl. (1930)
+}}
+
+'''''Limacella delicata''''' is a mushroom species in the genus ''[[Limacella]]''.  It is also sometimes known under the synonym '''''Limacella glioderma''''' (Fr.) Maire.<ref name="Fungorum"/>
+
+The reddish cap is up to {{Convert|8|cm|frac=2}} wide. The whitish [[Lamella (mycology)|gills]] are often adnexed then become free. The stalk is up to 12&nbsp;cm long and 1.5&nbsp;cm thick; it has a ring, above which it is whitish. The [[spore print]] is white.<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/291/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=291-292 |orig-date=1979}}</ref>
+
+== References ==
+{{Reflist|refs=
+
+<ref name="Fungorum">{{cite web |title=Species synonymy: ''Limacella delicata'' (Fr.) Earle ex Konr. & Maubl. |url=http://www.speciesfungorum.org/Names/GSDspecies.asp?RecordID=623946 |publisher=Species Fungorum. CAB International |accessdate=2017-06-18 }}</ref>
+
+}}
+
+{{Taxonbar|from=Q1305809}}
+
+[[Category:Amanitaceae]]
+[[Category:Fungi of Europe]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]
+
+
+{{Amanitaceae-stub}}

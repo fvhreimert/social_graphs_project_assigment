@@ -1,0 +1,59 @@
+{{Short description|Species of fungus}}
+{{Species box
+| image = TricholomaSejunctum.JPG
+| image_caption =
+| taxon = Tricholoma sejunctum
+| authority = ([[James Sowerby|Sowerby]]) [[Quél.]] (1872)<ref name="Quélet 1872"/>
+| synonyms = *''Agaricus sejunctus'' <small>Sowerby (1799)</small><ref name="Sowerby 1799"/>
+}}
+{{mycomorphbox 
+| name = ''Tricholoma sejunctum''
+| hymeniumType = gills
+| capShape = convex
+| whichGills = adnexed 
+| stipeCharacter = bare
+| sporePrintColor = white
+| ecologicalType = mycorrhizal
+| howEdible = unknown
+}}
+
+'''''Tricholoma sejunctum''''' (colloquially '''yellow blusher''' in the eastern regions of North America)<ref>{{cite book|title=Mushrooms and Their Use|author=Charles Horton Peck|pages=216}}</ref> is a mushroom that appears across much of the Northern Hemisphere and is associated with pine forests.
+
+==Description==
+The cap is {{Convert|3-8|cm|frac=4}} wide, greenish-brownish yellow, and slightly moist; it has dark fibrils near the center. The gills and stipe are whitish-yellow, the latter growing up to {{Convert|10|cm|frac=4}} long.<ref name="audu2">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=494}}</ref><ref name=":0" /> The odor is mild to mealy and the taste mild to unpleasant.<ref name=":0">{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=106–107}}</ref>
+
+=== Similar species ===
+''[[Tricholoma flavovirens]]'' is usually larger and fleshier, with more solid yellow gills and stipe and a less fibrillose cap.<ref name=":0" /> Other similar species include ''[[Tricholoma arvernense]]'', and [[Tricholoma viridilutescens|''T.&nbsp;viridilutescens'']].<ref name=":0" />
+
+== Distribution and habitat ==
+In North America, it appears on the [[Pacific Northwest|Northwest]] coast and in the east.<ref name="audu2" />
+
+== Edibility ==
+There is some confusion as to the certain identification of the species, so it is considered unsafe for eating.<ref name=":0" /> While classified as inedible by some field guides,<ref name="Miller 2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=127}}</ref> it seems to have been traditionally consumed in much of world without noted ill effects.{{Citation needed|date=September 2021}} More recently, in Europe it has been identified as responsible for [[mushroom poisoning|poisonings]].{{Citation needed|date=February 2021}}
+
+The species is reportedly consumed in China's [[Yunnan]] province, where it is generally known as 荞面菌 ([[Pinyin]]: ''qiao mian jun''; lit. 'Buckwheat Noodle Mushroom') on account of this property, despite the fact that its proper name is 黄绿口蘑 (lit. 'Yellow Green Mouth Mushroom').{{Citation needed|date=September 2021}}
+
+==See also==
+*[[List of North American Tricholoma|List of North American ''Tricholoma'']]
+*[[List of Tricholoma species|List of ''Tricholoma'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Quélet 1872">{{cite journal |author=Quélet L. |title=Les Champignons du Jura et des Vosges |journal=Mémoires de la Société d'Émulation de Montbéliard |year=1872  |volume=5 (II) |pages=43–332 (see p.&nbsp;72) |language=French}}</ref>
+
+<ref name="Sowerby 1799">{{cite book |author=Sowerby J. |title=Coloured Figures of English Fungi |year=1799 |volume=2 |publisher=J.&nbsp;Davis |location=London |page=54}}</ref>
+
+}}
+
+{{Taxonbar|from=Q1650982}}
+
+[[Category:Tricholoma|sejunctum]]
+[[Category:Fungi described in 1799]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Taxa named by James Sowerby]]
+[[Category:Fungus species]]
+
+
+{{Tricholomataceae-stub}}

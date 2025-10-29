@@ -1,0 +1,66 @@
+{{Short description|Species of fungus}}
+{{Use dmy dates|date=April 2025}}
+{{Use Oxford spelling|date=April 2025}}
+{{Speciesbox
+| status = NT
+| status_system = IUCN3.1
+| status_ref = <ref name="iucn"/>
+| image = Sarcodon leucopus 77512.jpg
+| image_caption = In [[Akademgorodok]], [[Novosibirsk]], Russia
+| taxon = Sarcodon leucopus
+| authority = ([[Pers.]]) [[Maas Geest.]] & [[Nannf.]] (1969)
+| synonyms_ref =
+| synonyms = *''Hydnum leucopus'' {{au|Pers. (1825)}}
+}}
+
+'''''Sarcodon leucopus''''' is a species of [[tooth fungus]] in the family [[Bankeraceae]].<ref name="CoL_79M43"/> It is found in Asia and Europe, where it grows in association with pine trees. The fungus produces a pale brown [[basidiocarp|fruiting body]] up to 20&nbsp;cm across, with thin downward-pointing spines on its underside that start whitish and age to purplish-brown. It is considered [[near-threatened]] by the [[IUCN]] and [[endangered species|endangered]] in Switzerland.
+
+==Taxonomy==
+
+The fungus was [[species description|described]] as new to science in 1825 by [[Christian Hendrik Persoon]].<ref name="Persoon 1825"/> The mycologists [[Rudolph Arnold Maas Geesteranus]] and [[John Axel Nannfeldt]] transferred it to the genus ''[[Sarcodon]]'' in 1969.<ref name="Maas Geesteranus 1969"/>
+
+==Description==
+
+''Sarcodon leucopus'' produces a fleshy, pale brown fruit body ([[basidiocarp]]) up to 20&nbsp;cm in diameter, borne on a central or slightly off‑centre [[stipe (mycology)|stipe]]. When young, the cap ([[pileus (mycology)|pileus]]) is cushion‑shaped (pulvinate) before flattening out or developing a shallow central depression. Its surface is initially covered in a fine, velvety down (velutinate), soon becoming smooth (glabrous) yet remaining soft in fresh specimens.<ref name="Ryvarden 2024"/> The surface of older caps later cracks to form shiny scales.<ref name="Maas Geesteranus 1975"/> Colouration ranges from medium brown to a pale purplish‑brown. On the underside, the [[hymenophore]] ([[spore]]-producing region) consists of slender spines up to 5&nbsp;mm long that run down the stipe ([[decurrent]]); these begin whitish, then age through grey and brown to purplish‑brown.<ref name="Ryvarden 2024"/> The [[stipe (mycology)|stipe]] measures {{convert|4|–|8|cm|in|abbr=on}} long by {{convert|2|–|6|cm|in|1|abbr=on}} thick.<ref name="Maas Geesteranus 1975"/>
+
+The [[trama (mycology)|flesh]] (context) is white, soft and fibrous, up to 1&nbsp;cm thick, and often emits a spicy odour; the taste is distinctly bitter. When cut, the context may stain greenish to pink. The stipe measures up to 7&nbsp;cm tall by 2–3&nbsp;cm wide, is cylindrical (sometimes slightly flattened or eccentric), and is finely felted at first before becoming fibrillose (with fibre‑like threads) or entirely smooth; it is whitish when young, often turning grey or greenish towards the base with age.<ref name="Ryvarden 2024"/>
+
+Microscopically, the hyphae bear [[clamp connection]]s and can reach 20&nbsp;μm in width. The [[basidiospore]]s are brown, coarsely angular and irregularly outlined, measuring 7–9 by 5–7&nbsp;μm.<ref name="Ryvarden 2024"/>
+
+===Chemistry===
+
+The fruit bodies of ''Sarcodon leucopus'' contain novel compounds called sarcoviolins that have been shown to have [[antioxidant|antioxidative]] and [[Alpha-glucosidase inhibitor|α-glucosidase inhibitory]] activity in laboratory experiments.<ref name="Ma 2014"/>
+
+==Habitat and distribution==
+
+''Sarcodon leucopus'' forms ectomycorrhizal partnerships with pine trees (''Pinus'' spp.), producing its fruit bodies on the soil beneath these hosts. Its range follows that of its pine associates across the circumpolar boreal forest, although it becomes rather scarce north of the Arctic Circle.<ref name="Ryvarden 2024"/> The fungus is considered [[endangered species|endangered]] in Switzerland.<ref name="Senn-Irlet 2007"/>
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="CoL_79M43">{{Catalogue of Life |id=79M43 |title=''Sarcodon leucopus'' (Pers.) Maas Geest. & Nannf. |access-date=20 April 2025}}</ref>
+
+<ref name="iucn">{{Cite iucn |title=''Sarcodon leucopus'' |last1=Arnolds |first1=E. |last2=Gonçalves |first2=S.C. |last3=Brandrud |first3=T.-E. |last4=von Bonsdorff |first4=T. |article-number= e.T75124883A75124951 |year=2019 |doi=10.2305/IUCN.UK.2019-2.RLTS.T75124883A75124951.en |access-date=19 March 2024}}</ref>
+
+<ref name="Ma 2014">{{cite journal |last1=Ma |first1=K |last2=Han |first2=J. |last3=Bao |first3=L. |last4=Wei |first4=T. |last5=Liu |first5=H. |title=Two sarcoviolins with antioxidative and α-glucosidase inhibitory activity from the edible mushroom ''Sarcodon leucopus'' collected in Tibet |journal=Journal of Natural Products |year=2014 |volume=77 |issue=4 |pages=942–947 |doi=10.1021/np401026b |pmid=24645629|bibcode=2014JNAtP..77..942M }}</ref>
+
+<ref name="Maas Geesteranus 1969">{{cite journal |last=Maas Geesteranus |first=R.A. |author2=Nannfeldt JA. |title=The genus ''Sarcodon'' in Sweden in the light of recent investigation |journal=Svensk Botanisk Tidskrift |year=1969 |volume=63 |pages=401–440 (see p.&nbsp;415)}}</ref>
+
+<ref name="Maas Geesteranus 1975">{{cite journal |last=Maas Geesteranus |first=R.A. |title=Die terrestrischen Stachelpilze Europas |journal=Verhandelingen Koninklijke Nederlandse Akademie van Wetenschappen Afdeling Natuurkunde |year=1975 |volume=65 |series=2 |page=103 |language=German}}</ref>
+
+<ref name="Persoon 1825">{{cite book |last=Persoon |first=C.H. |title=Mycologia Europaea |year=1825 |volume=2 |publisher=Palm |location=Erlangen |page=158 |url=http://www.librifungorum.org/Image.asp?ItemID=297&ImageFileName=0158b.jpg |language=la}}</ref>
+
+<ref name="Ryvarden 2024">{{cite book |last=Ryvarden |first=Leif |year=2024 |title=Hydnoid Genera – A World Synopsis |series=Synopsis Fungorum |volume=50 |publisher=Fungiflora |location=Oslo |page=57 |url=https://www.fungiflora.no/synopsis-50-hydnoid-genera}}{{OA}}</ref>
+
+<ref name="Senn-Irlet 2007">{{cite report |last1=Senn-Irlet |first1=B. |last2=Bieri |first2=G. |last3=Egli |first3=S. |title=Lista Rossa Macromiceti. Lista Rossa delle specie minacciate in Svizzera. UV-0718-I |year=2007 |location=Bern |publisher=Ufficio federale dell'ambiente |language=it |url=http://www.bafu.admin.ch/publikationen/publikation/00055/index.html?lang=fr&lang=it}}</ref>
+
+}}
+
+{{Taxonbar|from=Q10671799}}
+
+[[Category:Sarcodon|leucopus]]
+[[Category:Fungi described in 1825]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Taxa named by Christiaan Hendrik Persoon]]
+[[Category:Fungus species]]

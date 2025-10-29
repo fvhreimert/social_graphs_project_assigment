@@ -1,0 +1,89 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Verpa conica by Ron Pastorino.jpg
+| image_caption =
+| genus = Verpa
+| species = conica
+| authority = ([[O.F.Müll.]]) [[Sw.]] (1815)
+| synonyms_ref = <ref name="urlMycoBank" />
+| synonyms = *''Phallus conicus'' <small>O.F.Müll. (1775)</small><br>
+*''Leotia conica'' <small>(O.F.Müll.) [[Pers.]] (1801)</small>
+*''Relhanum conicum'' <small>(O.F.Müll.) [[Samuel Frederick Gray|Gray]] (1821)</small>
+*''Monka conica'' <small>(O.F.Müll.) [[Otto Kuntze|Kuntze]] (1898)</small>
+}}
+{{mycomorphbox
+| name = ''Verpa conica''
+| whichGills = free
+| capShape = ovate
+| hymeniumType = gleba
+| stipeCharacter = bare
+| howEdible=edible
+| howEdible2=caution
+}}
+
+'''''Verpa conica''''', commonly known as the '''bell morel''' or the '''early morel''', is a species of [[fungus]] in the family [[Morchellaceae]]. Sometimes mistaken for a [[true morel]], this species is characterized by a [[pileus (mycology)|cap]] resembling a [[thimble]] that is freely attached to the [[stipe (mycology)|stipe]].
+
+==Taxonomy==
+The species was first described under the name ''Phallus conicus'' by [[Otto Friedrich Müller]] in 1775. Later authors have moved the taxon to various genera: Persoon placed in ''[[Leotia]]'' in 1801, [[Samuel Frederick Gray]] transferred it ''Relhanum'' in 1821, while [[Otto Kuntze]] moved it to ''Monka'' in 1898. The species was transferred to ''[[Verpa]]'' by [[Olof Swartz]] in 1814.<ref name="urlMycoBank" />
+
+==Description==
+Fruiting bodies have a smooth [[pileus (mycology)|cap]] that is bell-shaped or conical, and {{convert|1 to 4|cm|abbr=on|frac=8}} tall and broad;<ref name="urlVerpa conica (MushroomExpert.Com)" /><ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=393–394|oclc=797915861}}</ref> it is attached to the top of the stipe only, the margin of the cap is free &ndash; hanging like a skirt. The underside of the cap is [[tan (color)|tan]] to dark brown in color. The [[stipe (mycology)|stipe]], which measures {{convert|2 to 12|cm|abbr=on|frac=8}} by {{convert|1 to 3|cm|1|abbr=on|frac=8}} thick, is whitish<ref>{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=278–279|language=en}}</ref> and either equal or slightly thicker than the base;<ref name=":0" /> the stipe surface is either smooth or slightly fuzzy.<ref name="Healy2008" /> It is generally hollow, although young specimens may be filled with cotton-like [[hypha]]e. The [[trama (mycology)|flesh]] is thin and brittle, and the cap can be easily broken off the stipe.
+
+[[David Arora]] notes that sometimes a variety with a wrinkled cap can be found, somewhat resembling a ''[[Gyromitra]]''.<ref name="Arora1986" />
+
+===Microscopic features===
+The [[spore]]s are elliptical, smooth, colorless,<ref name=":0" /> and [[hyaline]], with dimensions of 28–34 by 15–19&nbsp;[[μm]]. The [[Ascus|asci]] are typically 500–550 by 21–27&nbsp;μm, and eight spored. The [[paraphyses]] are club-shaped, branched, and [[septate]].<ref name="Tylukti1979" />
+
+===Similar species===
+Since the cap is free in ''V.&nbsp;conica,'' it is easily distinguishable from true [[morels]], which attach at the base of the cap. ''V.&nbsp;conica'' mushrooms attach at the top of the cap—so they are even distinguishable from half-free morels (e.g. ''[[Morchella semilibera]]''). This mushroom also tends to be filled with a cotton material, whereas morels are hollow all of the way through.
+
+Other similar species include ''[[Verpa bohemica]]'', which has a more wrinkled cap,<ref name=":1">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=38}}</ref> ''[[Morchella semilibera]]'',<ref name=":0" /> and species of ''[[Phallus (fungus)|Phallus]]'', which smell of sewage or rotten meat.<ref name=":1" />
+
+==Distribution and habitat==
+The species can be found in North America from the West Coast (from March to June) to the Northeast (from April to May).<ref name=":1" />
+
+It grows singly, scattered, or in groups on the ground in both [[hardwood]] and [[conifer]]ous forests, often in river valleys, or along stream banks.<ref name="Tylukti1979" /> It often fruits in late spring, usually near morel season. It has been reported to fruit abundantly in the [[chaparral]] [[scrubland]] in southern California.<ref name="Arora1986" />
+
+==Uses==
+===As a food product===
+
+
+''Verpa'' species should always be cooked thoroughly and, if being eaten for the first time, restricted to small portions to test tolerance.<ref name="Jordan2004" /><ref name="Weber1980" /><ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=363}}</ref>
+
+===As an antioxidant===
+
+There is evidence that ''V.&nbsp;conica'' may contain compounds that function as an [[antioxidant]]. While not necessarily recommended for consumption, it is possible that an extract from ''V.&nbsp;conica'' could be used as an antioxidant supplement. A study done on the antioxidant activity of various mushroom species indicates that this species of ''Verpa'' does particularly well in reducing power. They also do well in binding iron, which may be related to [[peroxidation]] protection.<ref name="xyjournalfood" />
+
+==References==
+{{reflist|colwidth=30em|refs=
+
+<ref name="Arora1986">{{cite book |author=Arora D. |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/794/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, California |year=1986 |orig-date=1979 |edition=2nd |pages=794–95}}</ref>
+
+
+<ref name="Healy2008">{{cite book |vauthors=Healy RA, Huffman DR, Tiffany LH, Knaphaus G |title=Mushrooms and Other Fungi of the Midcontinental United States |url=https://archive.org/details/mushroomsotherfu00huff_958/page/n311 |url-access=limited |series=Bur Oak Guide |publisher=University of Iowa Press |location=Iowa City, Iowa |year=2008 |page=297 |isbn=978-1-58729-627-7}}</ref>
+
+<ref name="Jordan2004">{{cite book |author=Jordan M. |title=The Encyclopedia of Fungi of Britain and Europe |publisher=Frances Lincoln |location=London, UK |year=2004 |page=57 |isbn=0-7112-2379-3}}</ref>
+
+<ref name="Tylukti1979">{{cite book |author=Tylutki EE. |title=Mushrooms of Idaho and the Pacific Northwest |publisher=University Press of Idaho |location=Moscow, Idaho |year=1979 |page=42 |isbn=0-89301-062-6}}</ref>
+
+<ref name="urlMycoBank">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=241570 |title=''Verpa conica'' (O.F. Müll.) Sw. 1814 |publisher=International Mycological Association |work=MycoBank |access-date=2011-05-06}}</ref>
+
+<ref name="urlVerpa conica (MushroomExpert.Com)">{{cite web |url=http://www.mushroomexpert.com/verpa_conica.html |title=''Verpa conica'' |date=January 2005 |author=Kuo M |work=MushroomExpert.Com |access-date=2011-05-06}}</ref>
+
+<ref name="Weber1980">{{cite book |vauthors=Weber NS, Smith AH |title=The Mushroom Hunter's Field Guide |publisher=University of Michigan Press |location=Ann Arbor, Michigan |year=1980 |page=39 |isbn=0-472-85610-3 |url=https://books.google.com/books?id=TYI4f6fqrfkC&pg=RA1-PA39}}</ref>
+
+<ref name="xyjournalfood">{{Cite journal |last1=Elmastas |first1=Mahfuz |last2=Isildak |first2=Omer |last3=Turkekul |first3=Ibrahim |last4=Temur |first4=Nuri |year=2007| title=Determination of antioxidant activity and antioxidant compounds in wild edible mushrooms |journal=Journal of Food Composition and Analysis| volume=20| issue=3–4| pages=337–345 |doi=10.1016/j.jfca.2006.07.003}}</ref>
+
+}}
+
+{{Morchellaceae}}
+{{Taxonbar|from=Q1417061}}
+
+[[Category:Morchellaceae]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1775]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Otto Friedrich Müller]]
+[[Category:Fungus species]]

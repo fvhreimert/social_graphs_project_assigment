@@ -1,0 +1,30 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Hygrophorus nemoreus 20061029wb.jpg
+| image_caption =
+| genus = Hygrophorus
+| species = nemoreus
+| authority = ([[Christiaan Hendrik Persoon|Pers.]]) [[Elias Magnus Fries|Fr.]] (1838)
+| synonyms_ref = <ref>{{cite web |url=http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=184013 |title=''Hygrophorus nemoreus'' (Bull.) Fr. |publisher=CAB International |work=Index Fungorum |access-date=2024-12-08}}</ref>
+| synonyms = *''Agaricus nemoreus'' <small>Pers. (1801)</small>
+*''Camarophyllus nemoreus'' <small>(Pers.) P. Kumm. (1871)</small>
+}}
+
+'''''Hygrophorus nemoreus''''' is an edible species of [[fungus]] in the genus ''[[Hygrophorus]]''.
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Commons category-inline}}
+*{{IndexFungorum|184013}}
+
+{{Taxonbar|from=Q1749162}}
+
+[[Category:Fungi described in 1801]]
+[[Category:Hygrophorus|nemoreus]]
+[[Category:Taxa named by Christiaan Hendrik Persoon]]
+[[Category:Fungus species]]
+
+
+{{Hygrophoraceae-stub}}

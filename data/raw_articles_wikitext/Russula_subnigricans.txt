@@ -1,0 +1,53 @@
+{{Speciesbox
+| image = 
+| genus = Russula
+| species = subnigricans
+| authority = [[Tsuguo Hongo|Hongo]] (1955)<ref name="Hongo(1955)">Tsuguo Hongo (1955) Notes Japanese Larger Fungi(6). The Journal of Japanese Botany（植物研究雑誌）30(3), p.73-76.{{doi|10.51033/jjapbot.30_3_3843}}</ref>
+}}
+{{mycomorphbox
+| name = ''Russula subnigricans''
+| whichGills =  free
+| capShape = convex
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = white
+| howEdible = poisonous
+|howEdible2 = deadly
+}}
+
+'''''Russula subnigricans''''', known as the '''rank russula''',<ref name="Arora 1986">{{cite book |author=Arora D. |url=https://archive.org/details/mushroomsdemysti00aror_0/page/90 |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=Ten Speed Press |year=1986 |isbn=978-0-89815-169-5 |location=Berkeley, California |pages=90-91 |url-access=registration}}</ref> or '''Nise-Kurohatsu''' ([[Japanese language|Japanese]]), meaning "false [[Russula nigricans|blackening russula]]" is a [[basidiomycete]] [[mushroom]] of the genus ''[[Russula]]'' found in East Asia. It is [[Mushroom poisoning|poisonous]].
+
+==Taxonomy==
+The species was named by Japanese mycologist [[Tsuguo Hongo]] in 1955.<ref name="Hongo(1955)" />
+
+The name was formerly applied to the North American fungus ''Russula eccentrica'' in [[California]].<ref>{{cite web |year=2007 |title=California Fungi:''Russula eccentrica'' |url=http://www.mykoweb.com/CAF/species/Russula_eccentrica.html |url-status=dead |archiveurl=https://web.archive.org/web/20080510145729/http://www.mykoweb.com/CAF/species/Russula_eccentrica.html |archivedate=2008-05-10 |accessdate=2008-02-12 |work=The Fungi of California website |publisher=Mykoweb |vauthors=Wood M, Stevens F}}</ref> It has been reclassified as ''Russula cantharellicola'', where it grows in association with ''[[Quercus agrifolia]]'' (coast live oak) trees in [[California oak woodland]] habitats.<ref>[http://openjournals.wsu.edu/index.php/pnwfungi/article/view/1279 Openjournals.wsu.edu: "A new species of Russula, subgenus Compactae from California"] (2014).</ref>
+
+==Description==
+The flesh turns pale red when cut, but does not turn black, unlike ''[[Russula nigricans]]''.<ref name="Hongo(1955)" />
+
+== Toxicity ==
+''Russula subnigricans'' is a [[poisonous mushroom]],<ref name="Arora 1986" /> and has been responsible for mushroom poisoning in [[Taiwan]] and Japan. The effect is a serious one, [[rhabdomyolysis]].
+
+The toxins responsible are the very unusual [[cycloprop-2-ene carboxylic acid]] (a&nbsp;toxic molecule consisting of only 10 atoms) and Russuphelin&nbsp;A (a&nbsp;heavily chlorinated [[polyphenolic]]).<ref>{{cite web|url=http://uk.reuters.com/article/scienceNews/idUKTRE54N1HI20090524|archive-url=https://web.archive.org/web/20090530114445/http://uk.reuters.com/article/scienceNews/idUKTRE54N1HI20090524|url-status=dead|archive-date=May 30, 2009|title=Experts identify toxic compound in deadly mushroom |last=Editorial |website=Reuters.com|access-date=19 January 2018}}</ref><ref>{{cite journal|vauthors=Takahashi A, Agatsuma T, Matsuda M, Ohta T, Nunozawa T, Endo T, Nozoe S |year=1992|title=Russuphelin A, a new cytotoxic substance from the mushroom ''Russula subnigricans'' Hongo. |journal=Chem Pharm Bull  |volume=40 |issue=12 |pages=3185–88 |pmid=1294320 |doi=10.1248/cpb.40.3185|doi-access=free }}</ref>
+
+==See also==
+* [[List of deadly fungi]]
+* [[List of Russula species|List of ''Russula'' species]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://blog.mycology.cornell.edu/2013/12/30/a-deadly-russula/ Cornell University Mycology Blog:  "A deadly Russula"]
+*{{Wikispecies-inline}}
+
+{{Taxonbar|from=Q7382388}}
+
+[[Category:Russula|subnigricans]]
+[[Category:Fungi of China]]
+[[Category:Fungi of Japan]]
+[[Category:Fungi of North America]]
+[[Category:Deadly fungi]]
+[[Category:Fungi described in 1955]]
+[[Category:Fungus species]]

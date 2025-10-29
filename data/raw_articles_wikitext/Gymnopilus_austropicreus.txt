@@ -1,0 +1,42 @@
+{{Short description|Species of fungus}}
+{{single source|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption =
+| taxon = Gymnopilus austropicreus
+| authority = B.J.Rees (2001)
+}}
+{{mycomorphbox
+| name = ''Gymnopilus austropicreus''
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+
+'''''Gymnopilus austropicreus''''' is a species of [[mushroom]]-forming [[fungus]] in the family [[Hymenogastraceae]]. It is found in Australia.<ref name="Rees & Strid 2001"/>
+
+==See also==
+{{Portal|Fungi}}
+* [[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Rees & Strid 2001">{{cite journal |last1=Rees |first1=B.J. |last2=Strid |first2=Å. |year=2001 |title=Relationships between Australian and Northern Hemisphere ''Gymnopilus'' species I |journal=Australasian Mycologist |volume=20 |issue=1 |pages=29–48}}</ref>
+
+}}
+
+{{Taxonbar|from=Q5624727}}
+
+[[Category:Gymnopilus|austropicreus]]
+[[Category:Fungi described in 2001]]
+[[Category:Fungi of Australia]]
+[[Category:Fungus species]]
+
+
+{{Hymenogastraceae-stub}}

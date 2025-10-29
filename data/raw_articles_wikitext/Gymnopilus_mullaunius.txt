@@ -1,0 +1,40 @@
+{{Short description|Species of fungus}}
+{{single source|date=October 2025}}
+{{no footnotes|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption =
+| taxon = Gymnopilus mullaunius
+| authority = Grgur.
+| synonyms =
+}}
+{{mycomorphbox
+| name = Gymnopilus mullaunius
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+}}
+
+'''''Gymnopilus mullaunius''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]].
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==External links==
+*''[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=443280 Gymnopilus mullaunius]'' at [[Index Fungorum]]
+
+{{Taxonbar|from=Q5624887}}
+
+{{DEFAULTSORT:Gymnopilus mullaunius}}
+[[Category:Gymnopilus|mullaunius]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Cheryl A. Grgurinovic]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

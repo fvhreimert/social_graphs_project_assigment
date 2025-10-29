@@ -1,0 +1,33 @@
+{{Short description|Species of fungus}}
+{{unreferenced|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption =
+| genus = Gymnopilus
+| species = anomalus
+| authority = ([[Peck]]) [[Murrill]]
+| synonyms =
+}}
+{{Mycomorphbox
+| name = ''Gymnopilus anomalus''
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=}}
+
+'''''Gymnopilus anomalus''''' is a [[species]] of [[mushroom]] in the family [[Hymenogastraceae]].
+
+==See also==
+* [[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+{{Taxonbar|from=Q10763387}}
+
+[[Category:Gymnopilus|anomalus]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

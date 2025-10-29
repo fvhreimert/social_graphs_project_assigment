@@ -1,0 +1,42 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image =  L.shimeji.jpg
+| image2 = Lyophyllum shimeji 1999 1102 Niigata (2).jpg
+| image_caption =
+| genus = Lyophyllum
+| species = shimeji
+| authority = (Kawam.) Hongo <small>1971</small>
+| synonyms = 
+}}
+
+'''''Lyophyllum shimeji''''', [[common name|commonly]] known as the '''hon-shimeji''' is an [[edible mushroom|edible]] species of [[fungus]] in the family [[Lyophyllaceae]] that grows in pine forests, often near man-made roads. It was originally only known from [[Japan]], [[Korea]] and [[China]], but presently has a known distribution that includes Russia, Estonia, [[Scandinavia]], Czechia and Spain, as well as USA and Canada.<ref>{{cite web|url=https://www.gbif.org/species/2530742|title=''Lyophyllum shimeji'' (Kawam.) Hongo|access-date=4 December 2021|publisher=[[Global Biodiversity Information Facility]]}}</ref><ref name=":0">{{Cite journal |last1=Larsson |first1=Ellen |last2=Sundberg |first2=Henrik |title=Lyophyllum shimeji, a species associated with lichen pine forest in northern Fennoscandia |url=https://www.researchgate.net/publication/226582676 |journal=Mycoscience |publication-date=2011 |volume=52 |issue=5 |pages=289–295 |doi=10.1007/S10267-010-0104-1 |via=ResearchGate|doi-access=free }}</ref> It is particularly widespread in lichen pine forests in Sweden, Finland and Norway, after being confirmed from these countries as late as 2011.<ref name=":0" />
+
+==Ecology==
+''Lyophyllum shimeji'' grows in pine forests.
+
+==Edibility==
+This species is considered edible.<ref>[http://www.recipetips.com/glossary-term/t--38085/honshimeji-mushroom.asp Honshimeji Mushroom], RecipeTips.com. Brown Beech (Buna shimeji), White Beech (Bunapi shimeji), and the Pioppino (Agrocybe aegerita) mushrooms.</ref> Several groups, such as [[Takara Bio]]<ref>[http://v3.espacenet.com/textdoc?DB=EPODOC&IDX=JP2001120059&F=0 METHOD FOR ARTIFICIALLY CULTURING LYOPHYLLUM SHIMEJI], TAKARA AGURI KK, JP2001120059. [http://v3.espacenet.com/textdoc?DB=EPODOC&IDX=JP2007143565&F=0 ARTIFICIAL CULTIVATION METHOD OF LYOPHYLLUM SHIMEJI], TAKARA BIO INC, JP2007143565.</ref> and [[Yamasa]],<ref>[http://v3.espacenet.com/textdoc?DB=EPODOC&IDX=JP2006271234&F=0 NEW STRAIN OF LYOPHYLLUM SHIMEJI AND USE OF THE SAME], YAMASA SHOYU KK, JP2006271234. [http://v3.espacenet.com/textdoc?DB=EPODOC&IDX=JP2007054044&F=0 METHOD FOR ARTIFICIALLY CULTURING LYOPHYLLUM SHIMEJI AND CULTURE MEDIUM], Yamasa Shoyu KK, JP2007054044.</ref> have patented methods to cultivate ''hon-shimeji'', and the cultivated mushroom is available from several manufacturers in Japan.<ref>[http://www.maitake.co.jp/01select/04_2_honshimeji.html 雪国本しめじ] {{webarchive|url=https://web.archive.org/web/20071215144114/http://www.maitake.co.jp/01select/04_2_honshimeji.html |date=2007-12-15 }}, Yukiguni Maitake Co., Ltd. {{in lang|ja}}</ref><ref>[http://www.yamasa.com/shimeji/index.html ヤマサほんしめじ] {{Webarchive|url=https://web.archive.org/web/20071224091341/http://www.yamasa.com/shimeji/index.html |date=2007-12-24 }}, [[Yamasa]] Corporation. {{in lang|ja}}</ref><ref>{{cite web |url=https://www.hokto-kinoko.co.jp/corporate/kenkyu/dokujigijyutsu/shinsyukaihatsu/honshimeji/ |script-title=ja:ホンシメジ Lyophyllum shimeji — ホンシメジの新品種開発 — Hon Shimej — New Cultivar Development |website=Hokuto Corporation |access-date=2022-02-05 }}</ref>
+
+==Similar species==
+''Lyophyllum shimeji'' is similar in appearance to the edible species ''[[Lyophyllum decastes]]'' and toxic species ''[[Lyophyllum loricatum]]'', ''[[Lyophyllum connatum]]'', ''[[Clitocybe dilatata]]'', and those of the ''[[Entoloma]]'' genus are also similar in appearance.
+
+== Gallery ==
+<gallery widths="140px" heights="140px" mode="packed">
+File:Lyophyllum shimeji (23714945052).jpg
+File:Lyophyllum shimeji 112133.jpg
+File:Lyophyllum shimeji cultivés Kyôto.jpg
+File:Lyophyllum shimeji.jpg
+</gallery>
+
+==References==
+{{reflist}}
+
+{{Taxonbar|from=Q1054803}}
+
+[[Category:Lyophyllaceae]]
+[[Category:Fungi described in 1971]]
+[[Category:Fungi of Japan]]
+[[Category:Fungus species]]
+
+
+{{Agaricales-stub}}

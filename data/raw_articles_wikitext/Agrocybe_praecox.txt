@@ -1,0 +1,137 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Agrocybe_praecox_cupertino.jpg
+| image_caption = 
+| genus = Agrocybe
+| species = praecox
+| authority = ([[Christiaan Hendrik Persoon|Pers.]]) [[Victor Fayod|Fayod]]
+| synonyms = 
+}}
+{{mycomorphbox
+| name = ''Agrocybe praecox''
+| whichGills = adnexed
+| capShape = convex
+| hymeniumType = gills
+| stipeCharacter = ring
+| ecologicalType = saprotrophic
+| sporePrintColor = brown
+| howEdible = not recommended
+}}
+
+'''''Agrocybe praecox''''', commonly known as the '''spring agrocybe''', '''early agrocybe''',<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/469/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=469-70 |orig-date=1979}}</ref> or '''spring fieldcap''', is a species of fungus. According to modern analysis, it is one of a cluster of closely similar species, known as the ''A.&nbsp;praecox'' complex.
+
+It appears early in the year in woods, gardens, and fields in Eurasia, North Africa, and North America. It is of debatable culinary interest.
+
+== Taxonomy ==
+The mushroom was first described by [[Christiaan Hendrik Persoon]] in 1800 as ''Agaricus praecox''. In 1889, [[Victor Fayod]] devised the new genus ''Agrocybe'' and made ''A.&nbsp;praecox'' the [[type species]].<ref name="IF" />
+
+A 1990 study by Timothy Flynn and O.&nbsp;K. Miller finds that ''A.&nbsp;praecox'' is one of four species which are indistinguishable using superficial characteristics but which can be separated through their habitat and location.<ref name="FlynnMiller" /><ref name="Kuo" /> If this proposal is accepted, the cluster consists of ''A.&nbsp;molesta'' and three other species which do not yet have proper names, but which are referred to as "Flynn & Miller Species I–III".  The three provisional species correspond to the older names ''A.&nbsp;acericola'', ''A.&nbsp;elatella'', ''A.&nbsp;praecox'', and ''A.&nbsp;sphaleromorpha'' combined; and their synonyms.<ref name="FN" /><ref name="ChampQuebec" />  According to the traditional system, various detailed morphological characteristics can be used to choose between the species, but such is variation amongst individuals that it is difficult to achieve a consistent identification in this way.
+
+The Latin [[epithet]] ''praecox'' ('early')<ref name=":0">{{cite book |last1=Trudell |first1=Steve |url=https://books.google.com/books?id=WevHvt6Tr8kC |title=Mushrooms of the Pacific Northwest |last2=Ammirati |first2=Joe |publisher=[[Timber Press]] |year=2009 |isbn=978-0-88192-935-5 |series=Timber Press Field Guides |location=Portland, OR |pages=178–179}}</ref> is related to the word "precocious" and refers to the fact that this species often appears early in the year.
+
+== Description ==
+''Agrocybe praecox'' belongs to a group of species which are difficult to distinguish consistently.<ref name="Bon" /><ref name="Courtecuisse" /><ref name="FN" /><ref name="Moser" />
+
+The [[Pileus (mycology)|cap]] is up to {{Convert|10|cm|abbr=off|sp=us|frac=2}} wide,<ref name="Arora1986" /> bun-shaped and brownish then convex and lightening to tannish<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=663}}</ref> (beige when dry and yellowish-brown when moist), and smooth. [[Veil (mycology)|Veil]] remnants are often visible around the rim.<ref name="audu" /> The [[Lamella (mycology)|gills]] are initially pale grayish, later brown.<ref name="audu" /> The [[Stipe (mycology)|stem]] is pale, {{Convert|4 to 12|cm|abbr=on|frac=4}} long and up to about 2&nbsp;cm thick, with a fragile ring. They often have white [[mycelial cords]] at the base.<ref name="audu" /> The odor and taste are floury.<ref name="Courtecuisse" /><ref name="FN" /> The taste may be bitter.<ref name="Bon" />
+
+The [[Basidiospore|spores]] are 8–10 x 5–7 [[μm]],<ref name="FN" /> elliptical,<ref name="Arora1986" /> and brown [[Spore print|en masse]].<ref name="audu" />
+
+=== Similar species ===
+The following species are closely related to ''A.&nbsp;praecox'', according to ''[[Index Fungorum]]'' and other sources.<ref name="IF" />
+
+ {| border="1"
+!Species, author & date
+!Description & References
+!Relation to ''A. praecox''
+|-
+|''Agrocybe acericola'' (Peck) Singer (1950)
+|Found on woody debris in hardwood forests, cap yellow-brown, often veined or wrinkled in the centre.  May be the same as Flynn & Miller Species III.<ref name=KuoAacericola/>
+|Not distinguished from ''A. praecox'' in Funga Nordica.<ref name=FN/>
+|-
+|''Agrocybe dura'' (Bolton) Singer (1936)
+|This is a synonym of ''A. molesta'' (the name ''A. dura'' is preferred by Funga Nordica).<ref name=Bon/><ref name=Courtecuisse/><ref name=FN/>
+|See ''A. molesta''. 
+|-
+|''Agrocybe elatella'' (P. Karst.) Vesterh. (1989) (= ''A. paludosa'')
+|Grows amongst moss in marshes and fens.
+|Smaller with more slender stipe, hygrophanous, stem not bulbous.<ref name=Courtecuisse/><ref name=FN/><ref name=Moser/>
+|-
+|''Agrocybe gibberosa'' (Fr.) Fayod (1889)
+|Synonym of ''A. praecox''.<ref name=FN/><ref name=IF1/>
+|Same.
+|-
+|''Agrocybe molesta'' (Lasch) Singer (1978) (= ''A. dura'')
+|This is certainly a distinct species which grows in grass,<ref name=Bon/><ref name=Courtecuisse/><ref name=FN/> but according to Flynn & Miller it is part of the ''A. praecox'' complex, and the only species which gets its nutrition from grass (rather than wood chips).<ref name=FlynnMiller/><ref name=Kuo/>
+|It is bigger and fleshier than ''A. praecox'',<ref name=Bon/><ref name=Courtecuisse/><ref name=Moser/> the cap surface develops superficial cracks<ref name=Bon/><ref name=Courtecuisse/><ref name=FN/><ref name=Moser/> and the spores are somewhat bigger.<ref name=Bon/><ref name=FN/>
+|-
+|''Agrocybe paludosa'' (J.E. Lange) Kühner & Romagn. (1953)
+|This is a synonym of ''A. elatella''.<ref name=Courtecuisse/><ref name=FN/>
+|See ''A. elatella''.
+|-
+|''Agrocybe sphaleromorpha'' (Bull.) Fayod (1889)
+|Not distinguished from ''A. praecox'' in Funga Nordica<ref name=FN/>
+|Smaller, having a bulbous stipe, found in pasture.<ref name=Bon/><ref name=Courtecuisse/><ref name=Moser/>
+|-
+|Flynn & Miller Species I (1990)
+|Temporary name for first proposed new species.<ref name=FlynnMiller/>
+|Grows in gardens on wood chip mulch.<ref name=Kuo/><ref name=ChampQuebec/>
+|-
+|Flynn & Miller Species II (1990)
+|Temporary name for second proposed new species.<ref name=FlynnMiller/>
+|Grows on wood litter in [[Coniferous forest|coniferous]] or [[Aspen|aspen forests]] in western North America.<ref name=Kuo/><ref name=ChampQuebec/>
+|-
+|Flynn & Miller Species III (1990)
+|Temporary name for third proposed new species.<ref name=FlynnMiller/>
+|Grows on wood litter in [[Broadleaf forest|broadleaf forests]] (especially with maples) in eastern North America.  May be the same as ''A. acericola''.<ref name=Kuo/><ref name=ChampQuebec/>
+|}
+Another similar species is ''[[Agrocybe smithii|A. smithii]]''.<ref name=":0" />
+
+== Habitat and distribution ==
+It can grow alone or gregarious in grass, compost, or on wood debris in woods and gardens.<ref name="audu" /> Like other ''Agrocybes'', it is a [[Saprotrophic nutrition|saprophyte]].
+
+It has a widespread distribution in North America<ref name="Kuo" /> (spring to summer),<ref name="audu" /> Europe, Asia,<ref name="Asef 2020">{{cite book |author=Asef M.R. |title=Field guide of Mushrooms of Iran |publisher=Iran-Shanasi Press |location=Tehran|year=2020|page=360 |isbn=978-600-8351-42-9}}</ref> and North Africa.<ref name="Courtecuisse" />  Also it has been reported from Mongolia, Siberia, Sri Lanka, South Korea, Japan, New Zealand, Argentina and Colombia.<ref name="GBIF" />
+
+== Uses ==
+The species is not flavorful but is sometimes considered [[Edible mushroom|edible]],<ref name=":0" /><ref name="Miller 2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|page=272|author-link=Orson K. Miller Jr.}}</ref> but because it belongs to a group, it may overlap with some inedible taxa.<ref name="Arora1986" /> According to one French source, due to its bitterness and soft consistency, it is best left aside.<ref name=Armorance/>  One site says that it is edible but needs to be well cooked.<ref name=FirstNature/> Roger Phillips lists it as inedible.<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=226}}</ref>
+
+==References==
+{{Reflist|refs=
+
+<ref name=Armorance>See [http://armorance.free.fr/valchamp/champi493.htm the Armorance web site] (in French) on the natural history of [[Brittany]].</ref>
+
+<ref name=ChampQuebec>See [https://www.flickr.com/groups/myco-quebec/discuss/72157602291926880/?search=Cl%C3%A9+Agrocybe this "Champignons du Québec" page] (in French) for a key incorporating the same relationships.</ref>
+
+<ref name=Bon>{{cite book |author =Marcel Bon |title=The Mushrooms and Toadstools of Britain and North-Western Europe |publisher=Hodder & Stoughton |year=1987 |page=262 |isbn=978-0-340-39935-4 }}</ref>
+
+<ref name=Courtecuisse>{{cite book |author1=Courtecuisse, R.  |author2=Duhem, B. |title=Guide des champignons de France et d'Europe |publisher=Delachaux et Niestlé |year=1994 |page=360 |isbn=978-2-603-00953-6}}  Also available in English.</ref>
+
+<ref name=FirstNature>See [http://www.first-nature.com/fungi/agrocybe-praecox.php the First Nature site].</ref>
+
+<ref name=FlynnMiller>{{cite journal |title=Biosystematics of ''Agrocybe molesta'' and sibling species allied to ''Agrocybe praecox'' in North America and Europe |journal=Mycological Research |author=Timothy Flynn |author2=O. K. Miller |year=1990 |volume=94 |issue=8 |pages=1103–1110 |doi=10.1016/s0953-7562(09)81341-5}}  A synopsis is available online at [http://www.sciencedirect.com/science/article/pii/S0953756209813415 the Science direct site].
+</ref>
+
+<ref name=FN>{{cite book |author1=Henning Knudsen |author2=Jan Vesterholt |title=Funga Nordica |publisher=Nordsvamp |location=Copenhagen |year=2008 |page=828}}.  Here ''A. praecox'' is admitted to be a complex of species including ''A. acericola'' and ''A. sphaleromorpha''.</ref>
+
+<ref name=GBIF>See the [http://www.discoverlife.org/mp/20m?kind=Agrocybe+praecox Global Biodiversity Information Facility map], which provides hyperlinks to records with geographical location.</ref>
+
+<ref name=IF>For instance, search [http://www.speciesfungorum.org/Names/Names.asp Species Fungorum] with genus name = "Agrocybe" to find the related species.  ''A. praecox'' is [http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=356699 here].</ref>
+
+<ref name=IF1>[http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=356699 This page] of Species Fungorum shows synonyms of ''A. praecox''.</ref>
+
+<ref name=Kuo>Kuo, M. (2006, September). ''Agrocybe praecox''. See [http://www.mushroomexpert.com/agrocybe_praecox.html the MushroomExpert.Com article].</ref>
+
+<ref name=KuoAacericola>Kuo, M. (2006, September). ''Agrocybe acericola''. See [http://www.mushroomexpert.com/agrocybe_acericola.html the MushroomExpert.Com article].</ref>
+
+<ref name=Moser>See {{cite book |author =Meinhard Moser |author-link =Meinhard Moser  |translator = Simon Plant|title=Keys to Agarics and Boleti |publisher=Roger Phillips |location=London |year=1983 |page=290 |isbn=978-0-9508486-0-0}}</ref>
+
+}}
+
+{{Taxonbar|from=Q1471958}}
+
+[[Category:Strophariaceae]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Africa]]
+[[Category:Fungi described in 1800]]
+[[Category:Taxa named by Christiaan Hendrik Persoon]]
+[[Category:Fungus species]]

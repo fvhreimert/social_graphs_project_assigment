@@ -1,0 +1,56 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{Speciesbox
+| image = Corts 008.jpg
+| genus = Phlegmacium
+| species = triumphans
+| authority = ([[Elias Magnus Fries|Fr.]]) [[Axel Gudbrand Blytt|A.Blytt]] 1905
+| synonyms = ''Cortinarius triumphans'' <small>[[Elias Magnus Fries|Fr.]] (1838)</small><br>
+''Gomphos triumphans'' <small>[[Otto Kuntze|Kuntze]] (1891)</small><br>
+''Cortinarius crocolitus'' <small>[[Lucien Quélet|Quél.]] (1879)</small><br>
+''Gomphos crocolitus'' <small>[[Otto Kuntze|Kuntze]] (1891)</small><br>
+''Phlegmacium crocolitum'' <small>[[Adalbert Ricken|Ricken]] (1912)</small><br>
+''Cortinarius triumphans var. minor'' <small>Rob. Henry (1958)</small><br>
+''Cortinarius triumphans f. spectabilis'' <small>[[Patrick Reumaux|Reumaux]] (1999)</small>
+}}
+{{mycomorphbox
+| name = ''Phlegmacium triumphans''
+| whichGills = adnate
+| capShape = convex
+| hymeniumType = gills
+| stipeCharacter = ring
+| ecologicalType = mycorrhizal
+| sporePrintColor = reddish-brown
+| howEdible = unknown
+}}
+{{stack end}}
+
+'''''Phlegmacium triumphans''''', also known as the '''birch webcap''', or '''yellow girdled webcap''' is a [[basidiomycete]] [[mushroom]] in the family [[Cortinariaceae]].<ref>{{Cite web |title=Species Fungorum - Phlegmacium triumphans (Fr.) A. Blytt |url=http://www.speciesfungorum.org/Names/GSDSpecies.asp?RecordID=651713 |access-date=2023-01-15 |website=www.speciesfungorum.org}}</ref> It is found in Europe and regarded as edible by some authorities. However, others call it suspect and it resembles deadly species.
+
+==Taxonomy==
+The species was first was described by Swedish mycologist [[Elias Magnus Fries]] in 1838; its generic name derived from the [[Latin]] ''cortina'' "veil", and the specific ''triumphans'' "triumphing".<ref>{{cite book|author = Simpson DP| title = Cassell's Latin Dictionary  | publisher = Cassell Ltd.| year = 1979|edition = 5|location = London|pages = 883| isbn=0-304-52257-0}}</ref> It is considered the same species as ''Cortinarius crocolitus'' Quélet by some authorities. It was a member of the subgenus ''Phlegmacium'' within the genus ''[[Cortinarius]]''; mushrooms of this group have sticky (or slimy in wet weather) caps and dry stipes.<ref name=Nilper>{{cite book | author = Nilson S & Persson O | year = 1977 | title = Fungi of Northern Europe 1: Larger Fungi (Excluding Gill-Fungi) | publisher = Penguin|isbn=0-14-063005-8|page=88}}</ref>
+
+In 1905 it was reclassified as ''Phlegmacium triumphans'' by the Norwegian mycologist [[Axel Gudbrand Blytt]] however it remained known as ''Cortinarius triumphans'' until 2022 when a genomic study moved this and many other ''Cortinarius'' species to the ''[[Phlegmacium]]'' genus.<ref name=":2">{{Cite journal |last=Liimatainen |first=Kare |last2=Kim |first2=Jan T. |last3=Pokorny |first3=Lisa |last4=Kirk |first4=Paul M. |last5=Dentinger |first5=Bryn |last6=Niskanen |first6=Tuula |date=2022-01-01 |title=Taming the beast: a revised classification of Cortinariaceae based on genomic data |url=https://doi.org/10.1007/s13225-022-00499-9 |journal=Fungal Diversity |language=en |volume=112 |issue=1 |pages=89–170 |doi=10.1007/s13225-022-00499-9 |issn=1878-9129|hdl=2299/25409 |hdl-access=free }}</ref>
+
+==Description==
+It has a 5&ndash;12&nbsp;cm (2&ndash;5&nbsp;in) diameter [[pileus (mycology)|cap]] which is yellowish in colour-darker in the centre and paler on the edges. The [[stipe (mycology)|stipe]] is 7&ndash;17&nbsp;cm (3&ndash;7&nbsp;in) high and 1&ndash;2.5&nbsp;cm (0.4&ndash;1&nbsp;in) thick and swollen at the base, and is white up top and yellow lower down and bears the tan or brown remnants of the veil. The adnate [[Lamella (mycology)|gills]], which are hidden by a cream or white veil when young, are cream or lilac early on, and darken with the spores, which give a rusty coloured [[spore print]]. The almond-shaped spores measure 10&ndash;12.5&nbsp;×&nbsp;5.5&ndash;7&nbsp;[[micrometre|μm]]. The flesh is cream-coloured and the taste is mild.<ref name=Nilper/><ref name=Phillips06>{{cite book | last = Phillips |first=Roger | year = 2006  | title = Mushrooms | publisher = Pan MacMillan | isbn = 0-330-44237-6|page= 185}}</ref>
+
+==Distribution and habitat==
+''Phlegmacium triumphans'' appear under [[birch]] trees in autumn (fall) in [[Europe]], and [[Asia]] where it is widespread, but local. It is also reported from north eastern [[North America]]. It has a [[mycorrhizal]] relationship with birch trees (''[[Betula]]'').<ref name=Phillips06/>
+
+==Edibility==
+Although some mushroom guides list it as edible,<ref name=Nilper/> others treat it with suspicion,<ref name=Phillips06/> as many webcaps have been found to have toxins, not in the least the similarly brown-coloured [[lethal webcap]]s. This being the case, it is probably best to avoid it. Thomas Laessoe's 1998 book 'Mushrooms', describes the taste as bitter, with a not unpleasant smell.<ref name=T.Laessoe>{{cite book | author = Thomas Laessoe | year = 1998 | title = Mushrooms (flexi bound) | publisher = Dorling Kindersley | isbn = 0-7513-1070-0}}</ref>
+
+==See also==
+*[[List of Cortinarius species|List of ''Cortinarius'' species]]
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q2511449}}
+
+[[Category:Cortinarius|triumphans]]
+[[Category:Fungi of Europe]]
+[[Category:Fungus species]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungi described in 1838]]

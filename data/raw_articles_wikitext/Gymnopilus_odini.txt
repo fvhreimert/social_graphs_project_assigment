@@ -1,0 +1,36 @@
+{{Short description|Species of fungus}}
+{{unreferenced|date=October 2025}}
+{{Speciesbox
+| image = Gymnopilus odinii 1.jpg
+| image_caption =
+| taxon = Gymnopilus odini
+| authority = ([[Elias Magnus Fries|Fr.]]) Bon & P. Roux
+| synonyms =
+}}
+{{mycomorphbox
+| name = ''Gymnopilus odini''
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+
+'''''Gymnopilus odini''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]].
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+{{Taxonbar|from=Q5624905}}
+
+[[Category:Gymnopilus|odini]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

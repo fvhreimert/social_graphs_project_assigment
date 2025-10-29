@@ -1,0 +1,51 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Psilocybe_mescaleroensis_from_New_Mexico.jpg
+| genus = Psilocybe
+| species = mescaleroensis
+| authority = [[Gastón Guzmán|Guzmán]], Walstad, E.Gándara & Ram.-Guill. (2007)
+}}
+{{mycomorphbox
+| name = ''Psilocybe mescaleroensis''
+| whichGills = adnate
+| whichGills2 = adnexed
+| capShape = conical
+| capShape2 = convex
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = saprotrophic
+| sporePrintColor = purple-brown
+| howEdible = psychoactive
+}}
+
+'''''Psilocybe mescaleroensis''''' is a [[psychedelic mushroom]] which has [[psilocybin]] and [[psilocin]] as main active compounds.   This mushroom is closely related to ''[[Psilocybe hopii]]'' and ''[[Psilocybe cyanescens]]''.  It was brought to scientific attention by Lee Walstad.
+
+==Description==
+
+*'''Cap''': 2 – 6&nbsp;cm, convex to subumbonate, brownish-yellow, hygrophanous, margin striate when moist, often with an orangish center, broad umbo and wavy margin.  Has a separable gelatinous pellicle.   Bruising bluish where damaged.
+*'''Gills''': Cream color when young, chocolate brown in age, with adnate to adnexed attachment.
+*'''Spores''': Dark chocolate brown, subrhomboid to subovoid, thick-walled, 9 - 12 x 6 - 8 [[μm]].  
+*'''Stipe''': 5 – 10&nbsp;cm long, .5 to 2&nbsp;cm thick, white, sometimes with light orange patches, fibrillose, equal to slightly enlarged near the top.  Annulus fragile and membranous, white or dusted with dark brown spores.  Stem base with rhizomorphic mycelium. Bluing where damaged.
+*'''Taste''': Slightly farinaceous.
+*'''Odor''': Slightly farinaceous.
+*'''Microscopic features''': Pleurocystidia absent.  Cheilocystidia 20 - 30 x 6 [[μm]], fusiform or ventricose-rostrate, sometimes forked.
+
+==Distribution and habitat==
+Grows scattered to gregariously on dead grasses, in [[grasslands]] and [[savanna]] near [[ponderosa pine]] woodlands, often near [[gopher (animal)|gopher]] holes.  Found in the summer and fall in Lincoln County, NM. So far it has only been collected in or near the [[type locality (biology)|type locality]].
+
+
+
+==References==
+* Guzmán, Gastón, Lee Walstad, Etelvina Gándara & Florencia Ramírez-Guillén. (2007). [http://www.cybertruffle.org.uk/cyberliber/59575/0099/0223.htm A new bluing species of ''Psilocybe'', section ''Stuntzii'' from New Mexico, U.S.A.] ''Mycotaxon'' 99: 223–226.
+
+{{Hallucinogenic mushrooms}}
+{{Taxonbar|from=Q7255901}}
+
+[[Category:Fungi described in 2007]]
+[[Category:Fungi of North America]]
+[[Category:Entheogens]]
+[[Category:Psychoactive fungi]]
+[[Category:Psilocybe|mescaleroensis]]
+[[Category:Psychedelic tryptamine carriers]]
+[[Category:Taxa named by Gastón Guzmán]]
+[[Category:Fungus species]]

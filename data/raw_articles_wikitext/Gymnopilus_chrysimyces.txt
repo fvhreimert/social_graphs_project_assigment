@@ -1,0 +1,44 @@
+{{Short description|Species of fungus}}
+{{single source|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption =
+| taxon = Gymnopilus chrysimyces
+| authority = ([[Miles Joseph Berkeley|Berk.]]) Manjula
+| synonyms =
+}}
+{{mycomorphbox
+| name = Gymnopilus chrysimyces
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+
+'''''Gymnopilus chrysimyces''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]].
+
+==Medicinal==
+In a 1982 study, this species was shown to contain [[hemagglutinins]]. Proteins from ''G. chrysimyces'' showed activity towards rat [[erythrocytes]], while proteins from ''Lentinus squarrosulus'' showed activity towards guinea pig and mouse erythrocytes. The [[agglutination (biology)|agglutination]] of proteins from the two species showed that both have more than one hemagglutinin.<ref>{{cite journal |title=Hemagglutinating activity in extracts of mycelia from submerged mushroom cultures |journal=Applied and Environmental Microbiology |date=October 1982 |first=PC |last=Banjoree |author2=Ghosh, A.K. |author3=Sengupta, S.  |volume=44 |issue=4 |pages=1009–1011 |url=http://aem.asm.org/content/44/4/1009.full.pdf+html |format=PDF |access-date=2013-09-11}}</ref>
+
+==See also==
+{{Portal|Fungi}}
+[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=108032 Index Fungorum]
+
+{{Taxonbar|from=Q5624753}}
+
+{{DEFAULTSORT:Gymnopilus chrysimyces}}
+[[Category:Gymnopilus|chrysimyces]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

@@ -1,0 +1,51 @@
+{{Short description|Species of inedible fungus in the genus Polyporus}}
+{{Speciesbox
+| image = Polyporus arcularius (8841097306).jpg
+| genus = Lentinus
+| species = arcularius
+| authority = (Batsch) Zmitr. 2010 
+| synonyms = * ''Polyporus arcularius'' <small>(Batsch) Fries 1821</small>
+}}
+{{Mycomorphbox
+| name = ''{{PAGENAME}}''| hymeniumType = pores
+| capShape = convex
+| whichGills = decurrent
+| stipeCharacter = bare
+| sporePrintColor = cream
+| ecologicalType = saprotrophic
+| howEdible = inedible
+| capShape2 = depressed
+| sporePrintColor2 = white
+}}
+
+'''''Lentinus arcularius''''', also known as the '''spring polypore''', is a ubiquitous species of [[fungus]] in the family [[Polyporaceae]].<ref name=":0">{{cite web|url=http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=22387&Fields=All|title= Polyporus arcularius in Mycobank}}</ref><ref>{{Cite web |title=Species Fungorum - Names Record |url=http://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=543135 |access-date=2022-05-22 |website=www.speciesfungorum.org}}</ref>
+
+==Taxonomy==
+It was first documented in 1783 by German naturalist [[August Batsch]] under the name ''Boletus arcularius''. It was later renamed to ''Polyporus arcularius'' in 1821 by Swedish mycologist [[Elias Magnus Fries]] before being recently (2010) transferred to the genus ''Lentinus''.<ref name=":0" />
+
+== Description ==
+The cap is {{convert|1–8|cm|frac=4}} in diameter and convex to depressed in shape. It is pale tan to dark brown and may have small scales, while the margin has fine hairs.<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/563/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=563 |orig-date=1979}}</ref> The [[hymenium]] is decurrent, has hexagonal pores, and is cream to brown in color. The stipe is central, bare, scaly, and brownish. The odor is not distinct.<ref>{{Cite web |title=Polyporus arcularius (MushroomExpert.Com) |url=http://www.mushroomexpert.com/polyporus_arcularius.html |access-date=2022-05-22 |website=www.mushroomexpert.com}}</ref> The [[spore print]] is cream to white.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=276}}</ref>
+
+It is too small and tough to be of culinary interest.<ref name="Arora1986" />
+
+{{gallery|mode=packed
+|Polyporus.arcularius.002.COPY.jpg|Pores on underside
+}}
+
+==Distribution and habitat==
+It has been found on all continents, but has primarily been documented in the United States, Austria, Mexico, Australia, and Japan.<ref>{{Cite web |title=Polyporus arcularius (Batsch) Fr. |url=https://www.gbif.org/species/5246898/metrics |access-date=2022-05-22 |website=www.gbif.org |language=en}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Commons category-inline|Polyporus arcularius|''Polyporus arcularius''}}
+* {{Wikispecies-inline|Polyporus arcularius|''Polyporus arcularius''}}
+{{Taxonbar|from=Q968142}}
+
+[[Category:Polyporaceae]]
+[[Category:Fungi described in 1821]]
+[[Category:Inedible fungi]]
+[[Category:Fungus species]]
+
+{{Polyporales-stub}}

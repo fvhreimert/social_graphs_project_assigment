@@ -1,0 +1,115 @@
+{{Short description|Species of mushrooms}}
+{{For|the fictional character|Matsutake Kaoru}}
+{{stack begin}}
+{{Speciesbox
+| image = Matsutake.jpg
+| image2 = W matutake4111.jpg
+| image_caption = Matsutake
+| status = VU
+| status_system = IUCN3.1
+| status_ref =<ref>{{cite iucn |last=Brandrud | first = Tor-Erik |date=2020 |title=''Tricholoma matsutake'' |volume=2020 |article-number=e.T76267712A177054645 |doi=10.2305/IUCN.UK.2020-3.RLTS.T76267712A177054645.en |access-date=19 November 2021}}</ref>
+| taxon = Tricholoma matsutake
+| authority = ([[S.Ito]] & [[Sanshi Imai|Imai]]) [[Rolf Singer|Singer]] (1943)<ref name="auto">{{Cite web|url=https://www.gbif.org/en/species/5241820|title=Tricholoma matsutake (S.Ito & S.Imai) Singer|website=www.gbif.org}}</ref>
+| synonyms = *''Armillaria ponderosa'' <small>[[Pier Andrea Saccardo|Sacc.]] (1887)</small>
+*''Armillaria matsutake var. matsutake'' <small>S.Ito & [[Sanshi Imai|Imai]] (1925)</small>
+*''Armillaria matsutake var. formosana'' <small>S.Ito & [[Sanshi Imai|Imai]] (1931)</small><ref name="auto"/>
+*''Tricholoma nauseosum'' <small>([[Axel Gudbrand Blytt|A.Blytt]]) Kytov. (1989)</small><ref name="auto"/>
+}}
+{{Mycomorphbox
+| name = ''Tricholoma matsutake''
+| hymeniumType=gills
+| capShape = convex
+| whichGills = adnexed
+| stipeCharacter=ring
+| sporePrintColor=white
+| ecologicalType=mycorrhizal
+| howEdible=choice
+}}
+{{stack end}}
+{{Infobox Chinese
+| s = 
+| l = 
+| p = 
+| hangul = 
+| hanja = 
+| rr = 
+| mr = 
+| kanji = 松茸
+| hiragana = まつたけ
+| katakana = マツタケ
+| romaji = matsutake
+| c = 
+| j = 
+| mi = 
+| ci = 
+| altname = 
+}}
+
+{{Nihongo|'''Matsutake'''|松茸/マツタケ|lead=yes}}, '''''Tricholoma matsutake''''', is a species of choice edible [[mycorrhiza]]l mushroom that grows in Eurasia and North America. It is prized in [[Japanese cuisine]] for its distinct aroma.
+
+==Etymology==
+The common name and specific epithet, ''matsutake'', in use since the late 19th century, derives from Japanese ''matsu'' (pine tree) and ''take''  (mushroom).<ref name="m-w">{{cite web |title=Matsutake |url=https://www.merriam-webster.com/dictionary/matsutake |publisher=Merriam-Webster Dictionary |access-date=4 October 2021 |date=2021}}</ref>
+
+== Description ==
+The cap, stem, and gills are initially white then discolor brownish. Similarly dark fibrils appear on the cap and stalk. The cap can reach up to {{Convert|35|cm}} across while the stem is up to {{Convert|15|cm|abbr=on|frac=4}} long and 5&nbsp;cm thick.<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/191/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |page=191 |orig-date=1979}}</ref> A ring is usually present. The flesh is white and firm, with a cinnamon-like aroma. The [[spore print]] is white.<ref name="Arora1986" />
+
+=== Similar species ===
+In Japan, several closely related species have been found, including ''[[Tricholoma bakamatsutake]]'' (''baka-matsutake'' – 'fool's matsutake' in Japanese), [[Tricholoma fulvocastaneum|''T.&nbsp;fulvocastaneum'']] (''nise-matsutake'' – 'fake matsutake'), and ''[[Tricholoma robustum|T.&nbsp;robustum]]'' (''matsutake-modoki'' – 'imitation of matsutake'). Of those species, only baka-matsutake has a taste similar to that of matsutake. Both baka-matsutake and nise-matsutake grow in [[Fagaceae]] forests, while matsutake-modoki grows in the same [[pine]] forests as the genuine matsutake.<ref>{{Cite journal |last1=Yamanaka |first1=Takashi |last2=Yamada |first2=Akiyoshi |last3=Furukawa |first3=Hitoshi |date=2020-03-01 |title=Advances in the cultivation of the highly-prized ectomycorrhizal mushroom Tricholoma matsutake |journal=Mycoscience |language=en |volume=61 |issue=2 |pages=49–57 |doi=10.1016/j.myc.2020.01.001 |issn=1340-3540 |doi-access=free}}</ref>
+
+In the North American [[Pacific Northwest]], [[Tricholoma murrillianum|''T.&nbsp;murrillianum'']] is found in [[conifer]]ous forests of one or more of the following tree species: [[western hemlock]], [[Douglas fir]], [[Noble fir]], [[Shasta red fir]], [[Sugar pine]], [[Ponderosa pine]], or [[Lodgepole pine]]. In California and parts of Oregon, it is also associated with hardwoods, including [[Tanoak]], [[Madrone]], [[Rhododendron]], [[Salal]], and [[Manzanita]]. In northeastern North America, the closely related mushroom ''[[Tricholoma magnivelare]]'' is generally found in [[Jack pine]] forests.<ref>{{Cite journal |last1=Trudell |first1=Steven A. |last2=Xu |first2=Jianping |last3=Saar |first3=Irja |last4=Justo |first4=Alfredo |last5=Cifuentes |first5=Joaquin |date=May 2017 |title=North American matsutake: names clarified and a new species described |journal=Mycologia |volume=109 |issue=3 |pages=385–387 |doi=10.1080/00275514.2017.1326780 |issn=0027-5514 |pmid=28609221 |s2cid=205448035}}</ref> A 2000 report categorized ''T.&nbsp;nauseosum'' as a synonym of ''T.&nbsp;matsutake''.<ref>{{cite journal |last1=Bergius |first1=Niclas |last2=Danell |first2=Eric |date=5 November 2000 |title=The Swedish matsutake (''Tricholoma nauseosum'' syn. T. matsutake): Distribution, Abundance and Ecology |journal=Scandinavian Journal of Forest Research |volume=15 |issue=3 |pages=318–325 |doi=10.1080/028275800447940 |s2cid=83741330}}</ref>
+
+== Distribution and habitat ==
+Matsutake mushrooms grow in East Asia, South Asia ([[Bhutan]]), and Southeast Asia ([[Laos]]), parts of Europe such as [[Estonia]], [[Finland]], [[Norway]], [[Poland]], Sweden, and along the Pacific coasts of Canada and the United States.
+
+Matsutake mushrooms grow under trees and are usually concealed under [[plant litter|litter]] on the [[forest floor]], forming a [[mycorrhiza|symbiotic relationship]] with roots of various tree species. In [[Korea]] and Japan, matsutake mushrooms are most commonly associated with ''[[Pinus densiflora]]''.<ref>Ashburne, John, "[http://search.japantimes.co.jp/cgi-bin/fl20111016x1.html In search of the Holy Grail of mushrooms]", ''[[The Japan Times]]'', 16 October 2011, p. 7.</ref> In China, matsutake ({{zh|c=松茸|hp=sōngróng}}) is mainly distributed in the northeast and southwest regions. In the northeast, the growth of matsutake depends on the ''P.&nbsp;densiflora'', its distribution is the same as that of ''P.&nbsp;densiflora''.<ref name=赤松>{{ Cite web |url = http://www.forestry.gov.cn/main/5534/20221212/093147043964052.html |title = 赤松赤胆忠心松茸共生共荣 |author = 刘玉波 |date = 2022-12-12|publisher = www.forestry.gov.cn |language = zh |access-date = 2023-02-05 }}</ref> [[Longjing, Jilin|Longjing City]], [[Jilin|Jilin Province]], China is known as the "Hometown of Matsutake". "天佛指山/Tianfozhi Mountain" in Longjing has been approved as a national nature reserve by the [[State Council of China]]. This is the first nature reserve for an edible mushroom and its [[ecosystem]] in China.<ref name=赤松/>
+
+<gallery mode="packed" widths="130px" heights="130px">
+File:Tricholoma matsutake - National Museum of Nature and Science, Tokyo - DSC06852.JPG
+File:豊丘村産松茸.jpg
+File:松茸 (6285432404).jpg
+File:Fresh matsutake.jpg
+</gallery>
+
+== Ecology ==
+The candy cane plant or sugarstick, ''[[Allotropa virgata]]'', parasitizes these mushrooms by deriving nourishment from the fungal [[mycelia]] via its root system.<ref>{{Cite web |last=Moore |first=Andy |title=Allotropa Virgata |url=https://matsiman.com/allotropa.htm |url-status=live |archive-url=https://web.archive.org/web/20011007215641/http://www.matsiman.com:80/allotropa.htm |archive-date=2001-10-07 |access-date=2021-09-26 |website=Matsiman.com}}</ref> These plants can be used to signal hunters of the mushrooms, both human and animal, to the location of the fungus' underground mycelia. Additionally, insects are also known to target these mushrooms as food and a place to lay their eggs, limiting the amount of the mushrooms that can be harvested by human gatherers.
+
+Matsutake are hard to find because of their specific growth requirements, the rarity of appropriate forest and terrain, and competition from wild animals such as squirrels, rabbits, and deer for the once-yearly harvest of mushrooms. Domestic production of matsutake in Japan has also been sharply reduced over the latter half of the 20th century due to the pine-killing [[nematode]] ''[[Bursaphelenchus xylophilus]].''
+
+== Market ==
+
+Matsutake is prized in [[Japanese cuisine]] for its distinct spicy-aromatic odor.<ref>{{cite book |last1=Ashkenazi |first1=Michael |url=https://books.google.com/books?id=Ley_r5VldNUC&q=matsutake&pg=PA49 |title=Food culture in Japan |last2=Jacob |first2=Jeanne |publisher=Greenwood Publishing Group |year=2003 |isbn=978-0-313-32438-3 |page=49}}</ref><ref>{{Cite web |title=Play That Fungi Music |url=http://www.time.com/time/specials/packages/article/0,28804,1988463_1988989_1988987,00.html |archive-url=https://web.archive.org/web/20100517085004/http://www.time.com/time/specials/packages/article/0,28804,1988463_1988989_1988987,00.html |archive-date=May 17, 2010}}</ref> The annual harvest of matsutake in Japan is now less than 1,000 tons, with the Japanese mushroom supply largely made up by imports from China, Korea, the Pacific Northwest, [[British Columbia]], and northern Europe.<ref>{{in lang|ja}} [http://www.j-cast.com/2007/09/26011666.html 輸入マツタケに異変　中国産激減、フィンランド参戦], J-CAST, 2007/9/26.</ref> This results in prices in the Japanese market highly dependent on quality, availability, and origin that can range from as high as {{Convert|1000|$/kg|abbr=off}} for domestically harvested matsutake at the beginning of the season to as low as {{convert|2|$/lb|$/kg|order=flip|abbr=on|2}}, though the average value for imported matsutake is about {{Convert|90|$/kg|abbr=on}}.<ref>Matsutani, Minoru, "[http://search.japantimes.co.jp/cgi-bin/nn20101109i1.html Japan's long love affair with 'matsutake']", ''[[The Japan Times]]'', 9 November 2010, p. 3.</ref>
+
+In the 1940s, the abundance of the mushrooms in Japan made them accessible to the general public after long being considered a luxury good, but after the decline of these mushrooms in the region, [[international trade]] for them created a fluctuating market that sometimes became very lucrative for the regions of the world that these mushrooms grow in, such as [[Yunnan|Yunnan Province]] of Southwest China. Very few countries other than Korea had a preexisting economy for matsutake, and Japanese speculators scoped out regions to market the fungi. Certain regions garner a higher price as well, with regions such as North America seeing a higher price by weight than regions such as those in Southwest China.{{Citation needed|date=February 2024}} 
+
+The price gathered for matsutake in Japan can vary based on the state of the mushroom. Frozen or dried matsutake are less sought after than fresh ones in luxury markets, meaning that the international trade must be done at a quick pace to keep the mushrooms from decaying.<ref>{{Citation |title=NOTES |date=2022-04-26 |work=What a Mushroom Lives For |pages=213–234 |publisher=Princeton University Press|doi=10.2307/j.ctv20rsk4m.14 }}</ref>
+
+<gallery mode="packed" widths="130px" heights="130px">
+File:Matsutake gohan (2016-11-29) 01.jpg|In ''[[takikomi gohan]]''
+File:Songi-jorim.jpg|In ''[[jorim]]''
+File:Jisaku Kaiseki Ryori 08.jpg|Fried
+File:Dried matsutake mushrooms.jpg|Dried
+File:Sesame oil with matsutake mushrooms.jpg|With [[sesame oil]]
+</gallery>
+
+== See also ==
+* [[Agaricus subrufescens|Himematsutake]]: the "princess matsutake"
+* [[List of Tricholoma species|List of ''Tricholoma'' species]]
+* [[Medicinal fungi]]
+* {{Annotated link|The Mushroom at the End of the World|''The Mushroom at the End of the World''}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Commons category-inline|Tricholoma matsutake}}
+
+{{Japanese food and drink}}
+{{Non-timber forest products}}
+{{Taxonbar|from=Q509308}}
+{{Authority control}}
+
+[[Category:East Asian cuisine]]
+[[Category:Edible fungi]]
+[[Category:Japanese cuisine terms]]
+[[Category:Non-timber forest products]]
+[[Category:Tricholoma|matsutake]]

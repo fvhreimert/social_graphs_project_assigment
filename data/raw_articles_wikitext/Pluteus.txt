@@ -1,0 +1,83 @@
+{{Short description|Genus of fungi}}
+{{About|the genus of fungi|other uses|Pluteus (disambiguation)}}
+{{Automatic taxobox
+|image = Pluteus.cervinus2.-.lindsey.jpg
+|image_caption = ''[[Pluteus cervinus]]''
+|taxon = Pluteus
+|authority = [[Elias Magnus Fries|Fr.]]
+|type_species = ''Pluteus cervinus''
+|type_species_authority = ([[Schaeff.]]) [[P.Kumm.]]
+|subdivision_ranks = Species
+|subdivision =
+''[[Pluteus brunneidiscus]]''<br/>
+''[[Pluteus cervinus]]''<br/>
+''[[Pluteus cyanopus]]''<br/>
+''[[Pluteus glaucus]]''<br/>
+''[[Pluteus leoninus]]''<br/>
+''[[Pluteus nevadensis]]''<br/>
+''[[Pluteus nigroviridis]]''<br/>
+''[[Pluteus readiarum]]''<br/>
+''[[Pluteus salicinus]]''<br/>
+''[[Pluteus villosus]]''
+}}
+{{Mycomorphbox 
+| name = Pluteus
+| whichGills = free 
+| capShape = flat 
+| capShape2 = convex
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=saprotrophic
+| sporePrintColor=pink
+| howEdible=edible
+| howEdible2=psychoactive
+}}
+
+'''''Pluteus''''' is a large [[genus]] of [[fungi]] with over 300 species.  They are wood rotting [[saprobic|saprobes]] with pink [[spore print]]s and [[lamella (mycology)|gills]] that are free from the [[stipe (mycology)|stem]].
+
+The Latin word ''Pluteus'' means ''shed or penthouse''.<ref>[https://books.google.com/books?id=TYI4f6fqrfkC&pg=RA5-PA2186 The mushroom hunter's field guide] By Alexander Hanchett Smith, Nancy S. Weber</ref>
+
+== Characteristics of the genus ==
+Characteristics of the ''Pluteus'' genus are:<ref>Meinhard Moser, translated by Simon Plant: ''Keys to Agarics and Boleti'' (Roger Phillips 1983)  {{ISBN|0-9508486-0-3}}</ref><ref>Courtecuisse, R. & Duhem, B. (1994) "Guide des champignons de France et d'Europe" Delachaux et Niestlé {{ISBN|2-603-00953-2}}, also available in English</ref>
+#These fungi grow on wood or wood remains.
+#The spore powder is deep pink, soon giving a pink tint to the initially pale gills.
+#The gills are free from the stipe.
+#There is no volva or ring (exception: the rare recently reclassified North American species ''P. mammillatus'', previously ''Chamaeota sphaerospora'').<ref>[https://nickrentlab.siu.edu/NickrentPDFs/Minnis2006.pdf A. M. Minnis, W. J. Sundberg et al., ''Annulate Pluteus'' species, a study of the genus ''Chamaeota'' in the United States", MYCOTAXON Vol. 96 pp. 31-39, April-June 2006]</ref>
+#Microscopically, they often have abundant, distinctive [[cystidium|cystidia]].  The spores are smooth and roughly egg-shaped.
+
+''Pluteus'' is separated from ''[[Volvariella]]'' due to the lack of a [[Volva (mycology)|volva]], and from ''[[Entoloma]]'' by growing on wood and by microscopic features (''Entolomas'' have angular spores).
+
+==Naming==
+The name ''Pluteus'' was established in 1837 by the founding mycologist [[Elias Magnus Fries]] at a time when agaric mushrooms were first being assigned to different genera.
+<ref name=IndexFungorum>{{cite web |url=http://www.indexfungorum.org/names/NamesRecord.asp?RecordID=18315 |title=''Pluteus'' page |work=Species Fungorum |publisher=Royal Botanic Gardens Kew |access-date=2021-01-28 }}</ref>
+
+The Latin word "pluteus" has various meanings related to military protective structures and its signification here may be that of a shield (the shape of the cap).
+<ref name=Lewis1>{{cite web |url=https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0060:entry=pluteus&highlight=pluteus |title=pluteus  |work=A Latin Dictionary |first1=Charlton T. |last1=Lewis |first2=Charles |last2=Short |publisher=Perseus Digital Library |access-date=2021-01-28}}</ref>
+<ref name=FirstNature>Etymology section of {{cite web |url=https://www.first-nature.com/fungi/pluteus-atromarginatus.php |title="Pluteus atromarginatus (Singer) Kuhner - Blackedged Shield" |work=First Nature |access-date=2021-01-28}}</ref>
+<ref>[https://books.google.com/books?id=TYI4f6fqrfkC&pg=RA5-PA2186 The mushroom hunter's field guide] By Alexander Hanchett Smith, Nancy S. Weber</ref>
+
+==Remarks on particular species==
+
+Some of these mushrooms are edible including ''P. petasatus'' and ''[[Pluteus cervinus|P. cervinus]]'', though most people rate their taste and consistency as average at best.
+
+''Pluteus cervinus'' is the best known species in Europe and North America.
+
+Several species of this genus bruise blue and contain [[psilocybin]]<ref>[http://www.museocivico.rovereto.tn.it/UploadDocs/104_art09-Guzman%20&%20C.pdf G. Guzmán, J. W. Allen & J. Gartz, "A Worldwide Geographical Distribution of the Neurotropic Fungi, an Analysis and Discussion"]</ref> including ''[[Pluteus brunneidiscus]]'',<ref>Justo, A. & M.L. Castro. (2007). "Observations in ''Pluteus'' section Pluteus in Spain: Two new records for Europe". ''Mycotaxon'' '''102''': 209–220.</ref> ''[[Pluteus salicinus]]'', ''[[Pluteus cyanopus]]'', ''[[Pluteus glaucus]]'', ''[[Pluteus nigroviridis]]'', ''[[Pluteus phaeocyanopus]]'' and ''[[Pluteus villosus]]''.<ref>[http://www.svims.ca/ff0608.pdf Fungifama site]</ref>
+
+==See also==
+*[[List of Pluteus species|List of ''Pluteus'' species]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* [http://www.mushroomexpert.com/pluteus.html M. Kuo "The Genus ''Pluteus''"]
+* {{Cite journal |author=Gastón Guzmán  |author-link=Gastón Guzmán  |author2=John W. Allen  |author3=Jochen Gartz|date=1998|title=A worldwide geographical distribution of the neurotropic fungi, an analysis and discussion|url=http://www.museocivico.rovereto.tn.it/UploadDocs/104_art09-Guzman%20&%20C.pdf|journal=Annali del Museo Civico di Rovereto|issue=14|pages=189–280}} (on Fondazione Museo Civico di Rovereto)
+* {{Commons-inline|Pluteus}}
+
+{{Taxonbar|from=Q1156750}}
+{{Authority control}}
+
+[[Category:Pluteus| ]]
+[[Category:Agaricales genera]]
+[[Category:Taxa named by Elias Magnus Fries]]

@@ -1,0 +1,35 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Amanita liquii.jpg
+| taxon = Amanita liquii
+| authority = [[Zhu Yang|Yang]] [[M. Weiß|Weiß]] & [[F. Oberwinkler|Oberwinkler]], 2004
+}}
+{{mycomorphbox 
+| name = ''Amanita liquii''
+| whichGills = free 
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=volva
+| ecologicalType=mycorrhizal
+| sporePrintColor=white
+| howEdible=unknown
+}}
+
+'''''Amanita liquii''''', also known as the '''dark-faced ringless amanita''', is a species of [[agaric]] that fruits from July to September.
+
+This large and robust agaric ([[pileus (mycology)|cap]] diameter up to {{Convert|14|cm|abbr=off|disp=or|frac=2}}, [[stipe (mycology)|stem]] length up to 17&nbsp;cm) is distinguishable by its very dark, sometimes almost black, overall colour. The scientific name is taken from the Chinese hero [[Li Kui (novel character)|Li Kui]] (sometimes spelled '''Li Qui'''), who had a dark face.
+
+It is associated with [[fir]]s and [[pine]]s in south-western China up to an altitude of 4,000 metres.
+
+==References==
+* Yang ZL, Weiss M & Oberwinkler F. (2004) [http://www.mycologia.org/cgi/reprint/96/3/636 New species of ''Amanita'' from the eastern Himalaya and adjacent regions]
+{{Amanitas}}
+{{Taxonbar|from=Q1946163}}
+
+[[Category:Amanita|liquii]]
+[[Category:Fungi of China]]
+[[Category:Fungi described in 2004]]
+[[Category:Fungus species]]
+
+
+{{Amanitaceae-stub}}

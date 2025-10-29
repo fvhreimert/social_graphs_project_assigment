@@ -1,0 +1,41 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = 
+| taxon = Amanita subpallidorosea
+| authority = Hai J. Li
+}}
+
+'''''Amanita subpallidorosea''''' is a [[mushroom]] of the large genus ''[[Amanita]]'', which occurs under oaks in southern China and Taiwan.
+
+== Description ==
+''Amanita subpallidorosea'' is a medium-sized mushroom, and predominantly white. The [[pileus (mycology)|cap]] is initially conical, before becoming more convex and flattening, sometimes with a central boss. Measuring {{convert|3|to|6.5|cm|frac=4|abbr=off}} in diameter, the cap is white initially, before developing a pale pink, more prominently in the centre and paler at the margins. It can be slightly sticky when wet. The flesh is white. The crowded [[lamella (mycology)|gills]] are free and around {{Convert|4|mm|frac=8}} deep. The [[stipe (mycology)|stipe]] is {{convert|7|to|12|cm|frac=4|abbr=on}} high and {{convert|0.6|to|1.4|cm|frac=4|abbr=on}} thick, is white, cream or pale buff in colour and bears a thin white membranous [[annulus (mycology)|ring]]. The bulb at the base is {{convert|1.5|to|3|cm|frac=4|abbr=on}} across. The [[spore print]] is white, and the round [[amyloid (mycology)|amyloid]] spores are 8–12 x 8–12&nbsp;[[μm]] viewed under a microscope. Their surface is smooth. The mushroom turns yellow when [[potassium hydroxide]] is applied to it.<ref name="Li15">{{cite journal |vauthors=Li HJ, Xie JW, Zhang S, et al |year=2015 |title=''Amanita subpallidorosea'', a new lethal fungus from China |url=https://www.researchgate.net/publication/277896481 |journal=Mycological Progress |volume=14 |issue=43 |pages=11 |doi=10.1007/s11557-015-1055-x |s2cid=16617626}}</ref>
+
+=== Similar species ===
+It can be distinguished from ''[[Amanita pallidorosea]]'' as the latter's cap has a pronounced boss and its spores are smaller when viewed under a microscope. Other lethal amanitas in China are generally white.<ref name="Li15" />
+
+It is closely related to the [[destroying angel]] mushrooms ''[[Amanita virosa|A. virosa]]'' and ''[[Amanita ocreata|A. ocreata]]''.<ref name="lethal">{{cite journal |vauthors=Cai Q, Cui YY, Yang ZL |year=2016 |title=Lethal Amanita species in China |url=https://www.researchgate.net/publication/305751191 |journal=Mycologia |volume=108 |issue=5 |pages=993–1009 |doi=10.3852/16-008 |pmid=27474516 |s2cid=7992902}}</ref>
+
+== Distribution and habitat ==
+''A. subpallidorosea'' is found under oaks of the genera ''[[Quercus]]'' and ''[[Cyclobalanopsis]]'' in [[Guizhou]] province as well as Taiwan.<ref name="Li15" />
+
+== Toxicity ==
+Two people died in 2014 after eating mushrooms picked near [[Zunyi]] in [[Guizhou]] province in southwestern China; investigations led to the [[species description|description]] of ''Amanita subpallidorosea'' in 2015.<ref name=lethal/> Molecular analysis found it to be closely related to the destroying angel species ''A. virosa'' and ''A. ocreata''.<ref name=Li15/> The mushrooms all belong to a clade within the section ''Phalloideae'', a large group of highly toxic mushrooms responsible for the deaths of many people worldwide.<ref name=lethal/>
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Amanita species|List of ''Amanita'' species]]
+*[[List of deadly fungi]]
+
+==References==
+{{Reflist}}
+{{Amanitas}}
+{{Poisonous Amanitas}}
+{{Taxonbar|from=Q44109348}}
+
+[[Category:Amanita|subpallidorosea]]
+[[Category:Poisonous fungi]]
+[[Category:Deadly fungi]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of China]]
+[[Category:Fungi described in 2015]]
+[[Category:Fungus species]]

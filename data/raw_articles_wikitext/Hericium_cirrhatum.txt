@@ -1,0 +1,45 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Hericium cirrhatum. The Tiered Tooth. Kilmaurs, East Ayrshire.jpg
+| genus = Hericium
+| species = cirrhatum
+| authority = (Nikol) [[Pers.]] (1950)
+| synonyms = *''Creolophus cirratus'' <small>Scop. (1801)</small>
+*''Hydnum diversidens''<small> Fr., (1821)</small> *''Creolophus cirrhatus'' <small>([[Pers.]]) P. Karst., (1879)</small>
+*''Hericium diversidens'' <small>([[Elias Magnus Fries|Fr.]]) Nikol. (1961)</small> *''Hydnum cirrhatum'' <small>[[Pers.]] (1794)</small>
+}}
+
+
+'''''Hericium cirrhatum''''' is a [[saprotroph]]ic [[fungus]], commonly known as the '''tiered tooth fungus''' or '''spine face'''.<ref name="petetosvn"/><ref name="umg">[https://ultimate-mushroom.com/edible/287-hericium-cirrhatum.html The Ultimate Mushroom Guide]</ref> The species is edible and good eating<ref name="petetosvn">{{cite book |last=Phillips |first=Roger |title=Mushrooms|year=2006 |publisher= |location=Macmillan |isbn=0-330-44237-6 |page=327}}</ref> when young. It has a texture not unlike tender meat or fish. The flesh is cream in colour with an attractive smell when young, but it develops a very unpleasant odour in older specimens.<ref name="ftne"/><ref name="umg"/> 
+
+==Appearance==
+The appearance of the fruit body is bracket-like, but without a stem and usually the spines are hang in tiers like icicles.<ref name="petetosvn"/> The upper surface is often rough with sterile spines and scales present.<ref name="petetosvn"/> DNA analysis places it in the order Russulales.<ref name="umg"/> Each tier can be 5 to 10cms across and 2 to 3cms thick with spines a little over 1cm long.<ref name="umg"/> It tends to occur for only a couple of years at any given site.<ref name="umg"/>
+
+''Hericium cirrhatum'' can be mistaken for ''[[Hydnum rufescens]]'' or ''[[Hydnum repandum]]'', however these species have a cap that is smooth. ''[[Hericium erinaceus]]'' is another Red Data List species with a more obviously spherical fruiting body and it has much longer spines.<ref name="umg"/>
+
+===Etymology===
+The generic name 'Hericium', refers to the fertile spines found in this group and means 'pertaining to a hedgehog'. These spines also gave rise to the species name 'cirrhatum' that translates as 'having tendrils'.<ref name="ftne"/> 
+
+==Habitat & distribution==
+
+''Hericium cirrhatum'' grows on dead standing [[hardwood]] trees, fallen wood or tree stumps of species such as beech (''[[Fagus sylvatica]]'') in old established deciduous woodlands. It has also been recorded on sycamore ''[[Acer pseudoplatanus]]'', birch ''[[Betula]]'' spp., ash ''[[Fraxinus]]'' spp., oak ''[[Quercus robur]]'' and elm ''[[Ulmus]]'' spp.<ref name="petetosvn"/><ref>[http://www.basidiochecklist.info/DisplayResults.asp?intGBNum=16988 Checklist of the British and Irish Basidiomycota]</ref> and is found from July to November in Britain.<ref name="ftne">[https://www.first-nature.com/fungi/hericium-cirrhatum.php First Nature]</ref> It is vulnerable but was removed from the Red Data List in 2006.<ref name="petetosvn"/>  As a rare species it is not illegal to pick the fruiting bodies however consideration should be taken to quantity collected to help preserve.<ref name="bms">{{cite web |url=https://www.britmycolsoc.org.uk/field_mycology/conservation/red-data-list |title=Red Data List of Threatened British Fungi |website=britmycolsoc.org.uk |access-date=2025-02-15}}</ref>
+
+The NBN Database lists only 176 records in Britain of which only 11 are confirmed and none are shown in Scotland although the photographed specimens were found in [[Kilmaurs]], [[East Ayrshire]].<ref>[https://species.nbnatlas.org/species/BMSSYS0000008012 NBN Atalas]</ref> It is nowhere common, but records show it to be present in southern England, particularly in the [[New Forest]] and in some parts of central and southern mainland Europe.<ref name="ftne" />
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Commons category-inline|Hericium cirrhatum}}
+*[https://www.youtube.com/watch?v=yCocFkuWtkk Video with narration on the Tiered Tooth Fungus]
+
+{{Taxonbar|from=Q1245962}}
+
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1794]]
+[[Category:Russulales]]
+[[Category:Fungi of Europe]]
+[[Category:Fungus species]]
+
+
+{{Russulales-stub}}

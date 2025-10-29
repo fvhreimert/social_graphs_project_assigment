@@ -1,0 +1,40 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image =
+| image_caption =
+| genus = Clathrus
+| species = baumii
+| authority = [[Paul Christoph Hennings|Henn.]]
+| synonyms_ref = <ref name="urlMycoBank:Clathrus baumii"/>
+| synonyms = 1933 ''Clathrella baumii'' <small>(Henn.) [[Eduard Fischer (mycologist)|E. Fisch.]]</small>
+}}
+{{mycomorphbox
+| name = ''Clathrus baumii''
+| hymeniumType=gleba
+| capShape=no
+| whichGills=no
+| stipeCharacter=NA
+| sporePrintColor =olive-brown
+| ecologicalType=saprotrophic
+}}
+
+'''''Clathrus baumii''''' is a species of [[fungus]] in the [[stinkhorn]] family. It was named by [[Paul Christoph Hennings]] in 1903, based on specimens found in [[Angola]] in 1899.<ref name=Hennings1903/>
+
+==References==
+{{Reflist|refs=
+
+<ref name=Hennings1903>{{cite book |title=Kunene-Sambesi-Expedition |author=Baum H. |year=1903 |publisher= |location= |page=164}}</ref>
+
+<ref name="urlMycoBank:Clathrus baumii">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=224626 |title=''Clathrus baumii'' Henn. 1903 |publisher=International Mycological Association |work=MycoBank |accessdate=2010-10-29}}</ref>
+
+}}
+
+{{Taxonbar|from=Q5128555}}
+
+[[Category:Phallales]]
+[[Category:Fungi of Africa]]
+[[Category:Fungi described in 1933]]
+[[Category:Fungus species]]
+
+
+{{Phallales-stub}}

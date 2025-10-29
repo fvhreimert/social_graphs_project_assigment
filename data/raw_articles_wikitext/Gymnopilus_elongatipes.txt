@@ -1,0 +1,39 @@
+{{Short description|Species of fungus}}
+{{single source|date=October 2025}}
+{{no footnotes|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption =
+| taxon = Gymnopilus elongatipes
+| authority = Z.S. Bi
+| synonyms =
+}}
+{{mycomorphbox
+| name = Gymnopilus elongatipes
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+
+'''''Gymnopilus elongatipes''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]].
+
+==See also==
+{{Portal|Fungi}}
+[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==External links==
+*''[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=129506 Gymnopilus elongatipes]'' at [[Index Fungorum]]
+
+{{Taxonbar|from=Q5624781}}
+
+{{DEFAULTSORT:Gymnopilus elongatipes}}
+[[Category:Gymnopilus|elongatipes]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

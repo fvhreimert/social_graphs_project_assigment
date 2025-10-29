@@ -1,0 +1,48 @@
+{{Speciesbox
+| image = Leucopaxillus gentianeus 288519.jpg
+| genus= Leucopaxillus
+| species = gentianeus
+| authority = ([[Quél.]]) [[Kotl.]] (1966)
+| synonyms_ref = <ref name="urlMycoBank: Leucopaxillus gentianeus"/>
+| synonyms = ''Clitocybe gentianea'' <small>Quél. (1873)</small>
+}}
+{{mycomorphbox 
+| name = ''Leucopaxillus gentianeus''
+| whichGills = adnate
+| capShape = convex
+| capShape2 = flat
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = white
+| howEdible = inedible
+}}
+
+'''''Leucopaxillus gentianeus''''' is a bitter-tasting, inedible mushroom<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=67}}</ref> commonly known as the '''bitter false funnelcap''', or the '''bitter brown leucopaxillus'''. A common synonym is ''Leucopaxillus amarus''. The species was first [[species description|described]] in 1873 as ''Clitocybe gentianea'' by French mycologist [[Lucien Quélet]]. [[František Kotlaba]] transferred it to ''Leucopaxillus'' in 1966.<ref name="Kotlaba 1966"/>
+
+The [[Pileus (mycology)|pileus]] ranges from {{Convert|4-12|cm}} wide and the [[Stipe (mycology)|stipe]] from {{Convert|4-6|cm|abbr=on}} long.<ref name="Miller 2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=119}}</ref> It has a mild to pungent smell and a bitter taste, rendering it inedible.<ref name=Arora1986>{{Cite book |last=Arora |first=David |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/168/mode/2up |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |orig-date=1979 |edition=2nd |pages=168}}</ref> The bitter taste is caused by a [[triterpene]] called [[cucurbitacin]]&nbsp;B.<ref name="Clericuzio 2004"/> The [[spore print]] is white.<ref name=Arora1986/>
+
+The species can resemble ''[[Leucopaxillus tricolor|L.&nbsp;tricolor]]'' and ''[[Russula compacta]]''.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=485}}</ref>
+
+==References==
+{{Reflist|refs=
+
+<ref name="Clericuzio 2004">{{cite journal |vauthors=Clericuzio M, Mella M, Vita-Finzi P, Zema M, Vidari G |title=Cucurbitane triterpenoids from ''Leucopaxillus gentianeus'' |journal=Journal of Natural Products |volume=67 |issue=11 |pages=1823–8|year=2004 |pmid=15568769 |doi=10.1021/np049883o}}</ref>
+
+<ref name="Kotlaba 1966">{{cite journal |title=Distribution of ''Leucopaxillus gentianeus'' (Quél.) comb. nov. in Czechoslovakia and notes on its nomenclature |journal=Ceská Mykologie |year=1966 |volume=20 |issue=4 |pages=229–36}}</ref>
+
+<ref name="urlMycoBank: Leucopaxillus gentianeus">{{cite web |title=''Leucopaxillus gentianeus'' (Quél.) Kotl., Ceská Mykologie 20 (4): 230 (1966) |url=http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=14558&Fields=All |publisher=[[MycoBank]]. International Mycological Association |access-date=2013-10-03}}</ref>
+
+}}
+
+==External links==
+*[http://www.mushroomexpert.com/leucopaxillus_gentianeus.html Mushroom Expert] Description and more information
+
+{{Taxonbar|from=Q3913757}}
+
+[[Category:Tricholomataceae]]
+[[Category:Fungi described in 1873]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi found in fairy rings]]
+[[Category:Fungus species]]

@@ -1,0 +1,73 @@
+{{stack begin}}
+{{Speciesbox
+| image = Laccaria amethystina LC0370.jpg
+| genus = Laccaria
+| species = amethystina
+| authority = ([[William Hudson (botanist)|Huds.]]) [[Mordecai Cubitt Cooke|Cooke]]
+| synonyms = {{center| ''Laccaria laccata var. amethystina'' <small> (Cooke) Rea</small> <br/>
+''Laccaria hudsonii'' <small> [[Dénes Pázmány|Pázmány]] (1994)</small>}}
+}}
+{{Mycomorphbox 
+| name=Laccaria amethystina
+| whichGills=adnate 
+| whichGills2=decurrent 
+| capShape=convex 
+| capShape2=depressed
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=mycorrhizal
+| sporePrintColor=white
+| howEdible=edible
+}}
+{{stack end}}
+
+'''''Laccaria amethystina''''', commonly known as the '''amethyst deceiver''', or '''amethyst laccaria''',<ref name=Arora1986>{{Cite book |last=Arora |first=David |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/172/mode/2up |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |orig-date=1979 |edition=2nd |pages=172–173}}</ref> is a small brightly colored mushroom. Because its bright [[amethyst (color)|amethyst]] coloration fades with age and weathering, it becomes difficult to identify, hence the common name "deceiver". This common name is shared with its close relation ''[[Laccaria laccata|L.&nbsp;laccata]]'', which also fades and weathers. Recently{{when|date=July 2025}}, some of the other species in the genus have been given the common name of "deceiver".
+
+It is found mainly in Northern [[temperate zones]], in [[deciduous]] and [[conifer]]ous forests, though it is reported to occur in tropical [[Central America|Central]] and [[South America]] as well. The mushroom is edible, but can absorb [[arsenic]] from the soil.
+
+==Taxonomy==
+This species was first described in 1778 by well-known English botanist and apothecary [[William Hudson (botanist)|William Hudson]] as ''Agaricus amethystinus'', and later put into the genus ''[[Laccaria]]'' by [[Mordecai Cubitt Cooke]]. The amethyst deceiver has had many binomials over a great many years, but reference to the amethyst coloration is featured in most of these. It was once placed in the genus ''[[Collybia]]'', as ''Collybia amethystina'', which was probably due in part to its tough collybioid-like stem. Its present binomial places it in ''Laccaria'', with the [[specific name (botany)|specific epithet]] ''amethystina'', a pairing first used by Cooke in 1884. In 1922 it was named as a [[Variety (botany)|variety]] of [[Laccaria laccata|''L.&nbsp;laccata'']], var. ''amethystina'' (Cooke) Rea, which is now a synonym.
+
+==Description==
+
+
+The [[Pileus (mycology)|cap]] is up to {{Convert|6|cm|frac=4}} in diameter, and is initially convex, later flattening,<ref name="tfb">{{Cite book |last=Francis-Baker |first=Tiffany |title=Concise Foraging Guide |date=2021 |publisher=[[Bloomsbury Publishing|Bloomsbury]] |isbn=978-1-4729-8474-6 |series=[[The Wildlife Trusts]] |location=London |pages=138}}</ref> typically with a central depression (navel).<ref name="Arora1986" /> When moist it is a deep purplish lilac, which fades upon drying out. It is sometimes slightly scurfy at the center,<ref name="Phillips06">{{cite book |author=Phillips |first=Roger |title=Mushrooms |publisher=Pan MacMillan |year=2006 |isbn=978-0-330-44237-4}}</ref> and has pale striations at the margin.<ref name="T.Laessoe">{{cite book |author=Laessoe |first=Thomas |title=Mushrooms (flexi bound) |publisher=Dorling Kindersley |year=1998 |isbn=978-0-7513-1070-2}}</ref>  The [[Stipe (mycology)|stem]] is the same colour as the cap, and has whitish fibrils at the base, which become mealy at the top.<ref name=Phillips06/> It is fibrous, hollow, fairly tough when rolled in the fingers, with dimensions of {{convert|0.6 to 7|cm|abbr=on|frac=8}} long by {{convert|0.1 to 0.7|cm|abbr=on|frac=16}} thick.<ref name=Phillips06/> The [[trama (mycology)|flesh]] is without a distinctive taste or smell, and is thin, with pale lilac coloration.<ref name=Phillips06/> The [[Lamella (mycology)|gills]] are colored as the cap, often quite distantly spaced, and are dusted by the white spores; their attachment to the stem is sinuate&mdash;having a concave indentation before attaching to the stem.<ref name=Phillips06/>
+
+===Microscopic characteristics===
+The [[Basidiospore|spores]] are spherical and [[hyaline]], and bear pointed spines ([[echinulate]]) that are long relative to the size of the spore; they typically have dimensions of 7&ndash;10 by 7&ndash;10&nbsp;[[μm]]. The [[basidia]], the spore-bearing cells, are club-shaped and hyaline, and are 30&ndash;64.5 by 8.5&ndash;14&nbsp;μm.<ref name="Mueller1992">Mueller, 1992. [https://archive.org/stream/systematicsoflac30muel#page/71/mode/1up p 71]–[https://archive.org/stream/systematicsoflac30muel#page/72/mode/1up 72].</ref>
+
+=== Similar species ===
+There are several purplish species in North America that were formally labeled as ''L.&nbsp;amethystina'' before [[Gregory M. Mueller]] described them as distinct species in 1984.<ref>Muller, 1984.</ref> ''[[Laccaria amethysteo-occidentalis]]'' is found in western North America.<ref name="Arora1986" /> Besides geographical difference, ''L. amethysteo-occidentalis'' differs from ''L.&nbsp;amethystina'' in several ways: ecologically, the former occurs only in association with [[conifers]], while the latter occurs mainly with [[hardwoods]] of the order [[Fagales]]. The sporocarp of ''L. amethysteo-occidentalis'' is on average larger than that of ''L.&nbsp;amethystina'', and has a deeper purple coloration, that fades to [[wine (color)|vinaceous]] rather than brownish shades. The spores are also quite distinct between the two, in that the spores of ''L. amethysteo-occidentalis'' are not as strongly globose as those of ''L. amethystina'', being generally of a subglobose or even broadly ellipsoid shape, and additionally having much shorter spines than the spores of ''L.&nbsp;amethystina''.<ref name="Mueller1984b">Mueller, 1984. [http://www.cybertruffle.org.uk/cyberliber/59575/0020/001/0105.htm p 105].</ref><ref name="Mueller1992b">Mueller, 1992. [https://archive.org/stream/systematicsoflac30muel#page/70/mode/2up p 70–71]</ref><ref name="Mueller1997a">Mueller, 1997. page: [http://www.fieldmuseum.org/research_collections/botany/botany_sites/fungi/mushroom.html ''Laccaria amethysteo-occidentalis''] {{Webarchive|url=https://web.archive.org/web/20090317182522/http://www.fieldmuseum.org/research_collections/botany/botany_sites/fungi/mushroom.html |date=2009-03-17 }}</ref>
+
+Another species that was segregated by Mueller from ''L.&nbsp;amethystina'' is ''L.&nbsp;vinaceobrunnea'', a species found in the [[Gulf Coast]] region of the southern United States. ''L.&nbsp;vinaceobrunnea'' is distinguished from ''L.&nbsp;amethystina'' and ''L.&nbsp;amethysteo-occidentalis'' macroscopically by color, with the former species having a deep purple color only in very young specimens, which soon fades to a violaceous- or reddish-brown color, and eventually to dull orange-brown or buff color with age. Its spore features are intermediate between ''L.&nbsp;amethystina'' and ''L.&nbsp;amethysteo-occidentalis'', having a subglobose to broadly ellipsoid shape like ''L.&nbsp;amethysteo-occidentalis'' (rather than the strongly globose shape of ''L.&nbsp;amethystina'' spores) and long spines characteristic of ''L.&nbsp;amethystina''.<ref name="Mueller1984d">Mueller, 1984. [http://www.cybertruffle.org.uk/cyberliber/59575/0020/001/0115.htm p 115].</ref><ref name="Mueller1992c">Mueller, 1992. [https://archive.org/stream/systematicsoflac30muel#page/72/mode/2up p 73]</ref><ref name="Mueller1997c">Mueller, 1997. page: [http://www.fieldmuseum.org/research_collections/botany/botany_sites/fungi/species/L.vinaceo/mushroom.html ''Laccaria vinaceobrunnea''] {{Webarchive|url=https://web.archive.org/web/20090317211430/http://www.fieldmuseum.org/research_collections/botany/botany_sites/fungi/species/L.vinaceo/mushroom.html |date=2009-03-17 }}</ref> The [[pileipellis]] of ''L. vinaceobrunnea'' is unique within ''Laccaria'', having a distinct [[wiktionary:palisadoderm|palisadoderm]], rather than the undifferentiated type or [[wiktionary:fascicle|fasciculate]] [[Pileipellis#Trichoderm|trichoderm]] that is characteristic of other species of ''Laccaria''.<ref name="Mueller1984d" /><ref name="Mueller1992c" /><ref name="Mueller1997c" /><ref name="Mueller1984c">Mueller, 1984. [http://www.cybertruffle.org.uk/cyberliber/59575/0020/001/0109.htm p 109].</ref> ''L.&nbsp;vinaceobrunnea'' is also somewhat distinguished by habitat, being highly specific in association with ''[[Quercus virginiana]]''. ''L.&nbsp;amethystina'' is also often associated with this species, but is associated with many other tree species in the [[Fagales]] as well.<ref name="Mueller1984d" /><ref name="Mueller1992c" /><ref name="Mueller1997c" />
+
+In 1988, a third species of purple ''Laccaria'', '''''L.&nbsp;gomezii''''', was described by Mueller as distinct from ''L.&nbsp;amethystina''. This species is associated with ''[[Quercus]]'' and is endemic to the [[cloud forests]] of [[Central America]] and northern [[South America]] (habitats in which ''L.&nbsp;amethystina'' also occurs). ''L.&nbsp;gomezii'' is similar to ''L.&nbsp;vinaceobrunnea'' in a number of characteristics, but the fresh sporocarp is a darker purple than either ''L.&nbsp;vinaceobrunnea'' or ''L.&nbsp;amethystina''. Its lamellae distinguish it from other members of the ''L.&nbsp;amethystina'' group, with ''L.&nbsp;gomezii'' having attached to subdecurrant, very closely spaced lamellae, in contrast to the sinuate to arcuate, narrowly attached lamellae of other species in this group. The spores of ''L.&nbsp;gomezii'' are similar to those of ''L.&nbsp;vinaceobrunnea'' and ''Laccaria amethysteo-occidentalis'', and it lacks the distinct pileipellis hyphae of ''L.&nbsp;vinaceobrunnea''.<ref>{{Cite journal| volume = 33| pages = 223–227| last = Mueller| first = Gregory M.|author2=Singer, Rolf |author-link2=Rolf Singer | title = ''Laccaria gomezii'', a new agaric species for the querceta of Colombia and Costa Rica|url=http://www.cybertruffle.org.uk/cyberliber/59575/0033/0223.htm| journal = Mycotaxon| year = 1988}}</ref><ref name="Mueller1992d">Mueller, 1992. [https://archive.org/stream/systematicsoflac30muel#page/78/mode/2up p 78–79]</ref>
+
+== Distribution and habitat ==
+The species is common in most [[temperate zones]] of Europe (June–December),<ref name="tfb" /> Asia, [[Central America|Central]], [[South America|South]], and eastern [[North America]]. It grows solitary to scattered with a variety of [[deciduous]] and [[conifer]]ous trees, with which it is [[mycorrhizal]]ly associated, though it most commonly occurs with trees in the [[Fagales]].<ref name="T.Laessoe" /> It appears in late summer to early winter, and often with [[beech]];<ref name="Phillips06" /> in Central and South America, it more commonly grows in association with [[oak]].<ref name="Mueller1992" /> Research has shown that ''L.&nbsp;amethystina'' is a so-called "[[ammonia fungus]]", an ecological classification referring to those fungi that grow abundantly on soil after the addition of ammonia, or other nitrogen-containing material;<ref>{{cite journal |last1=Imamura A. |first1=Akio |year=2001 |title=Report on ''Laccaria amethystina'', newly confirmed as an ammonia fungus |journal=Mycoscience |volume=42 |issue=6 |pages=623&ndash;25 |doi=10.1007/BF02460961 |s2cid=85769621|doi-access=free }}</ref> the congeneric species ''[[Laccaria bicolor]]'' is also an ammonia fungus.<ref name="Mueller1992" />
+
+== Edibility ==
+As with other members of the genus, this species is [[Edible mushroom|edible]],<ref name="Arora1986" /> though generally not considered choice.{{citation needed|date=December 2010}} While not inherently toxic, in soils that are polluted with [[arsenic]], it can [[bioaccumulate]] a high concentration of that element.<ref name="T.Laessoe" /> The gills of nontoxic specimens should be cleaned thoroughly.<ref name="tfb" />
+
+== Notes ==
+{{Reflist}}
+
+==References==
+*{{Cite journal| volume = 20| issue = 1| pages = 101–116| last = Mueller| first = Gregory M.| title = New North American species of ''Laccaria'' (Agaricales)|url=http://www.cybertruffle.org.uk/cyberliber/59575/0020/001/0101.htm| journal = [[Mycotaxon]]| year = 1984}} (Archived at: CYBERLIBER: an Electronic Library for Mycology.)
+*{{Cite journal| issn = 0015-0746| last = Mueller| first = Gregory M.| title = Systematics of ''Laccaria'' (Agaricales) in the continental United States and Canada, with discussions on extralimital taxa and descriptions of extant types|url=https://archive.org/stream/systematicsoflac30muel#page/n5/mode/2up| journal = Fieldiana Botany|volume = 30|pages=1–158| year = 1992}} (Archived at: [[Archive.org]].)
+*{{Cite web| last = Mueller| first = Gregory M.| title = The mushroom genus ''Laccaria'' in North America| year = 1997| url = http://www.fieldmuseum.org/research_collections/botany/botany_sites/fungi/index.html| archive-url = https://web.archive.org/web/20090317171320/http://www.fieldmuseum.org/research_collections/botany/botany_sites/fungi/index.html| archive-date = 2009-03-17| url-status = dead}} [[Field Museum of Natural History]]. Retrieved 2010-12-12.
+
+==External links==
+* {{Commons category-inline|Laccaria amethystina}}
+* [https://web.archive.org/web/20090403130901/http://www.indexfungorum.org/Names/SynSpecies.asp?RecordID=433576 Index Fungorum]
+
+{{Taxonbar|from=Q28492278}}
+
+[[Category:Laccaria|amethystina]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of Asia]]
+[[Category:Edible fungi]]
+[[Category:Ammonia fungi]]
+[[Category:Taxa named by William Hudson (botanist)]]
+[[Category:Fungus species]]

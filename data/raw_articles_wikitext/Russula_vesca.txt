@@ -1,0 +1,57 @@
+{{Short description|Basidiomycete mushroom of the genus ''Russula''}}
+{{Speciesbox
+| image = Russ.ves.jpg
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name="iucn status 18 November 2021">{{cite iucn |author=Dahlberg, A. |date=2019 |title=''Russula vesca'' |volume=2019 |article-number=e.T122090747A122091073 |doi=10.2305/IUCN.UK.2019-3.RLTS.T122090747A122091073.en |access-date=18 November 2021}}</ref>
+| genus = Russula
+| species = vesca
+| authority = [[Elias Magnus Fries|Fr.]] (1836)
+}}
+{{mycomorphbox
+| name = ''Russula vesca''
+| whichGills = free
+| capShape = convex
+| capShape2 = flat
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = white
+| howEdible = edible
+}}
+
+'''''Russula vesca''''', known by the [[common name]]s of '''bare-toothed Russula''' or '''the flirt''', is a [[basidiomycete]] [[mushroom]] of the genus ''[[Russula]]''.
+
+== Taxonomy ==
+''Russula vesca'' was described, and named by the eminent Swedish mycologist [[Elias Magnus Fries]] (1794–1878). The [[specific name (botany)|specific epithet]] is the feminine of the [[Latin]] adjective ''vescus'', meaning "edible".<ref name="Nilper">{{cite book | author = Nilson S & Persson O | year = 1977 | title = Fungi of Northern Europe 2: Gill-Fungi | publisher = Penguin|isbn=0-14-063006-6|page=120}}</ref>
+
+== Description ==
+The skin of the cap typically does not reach the margins (resulting in the common names). The [[Pileus (mycology)|cap]] is 5–10&nbsp;cm wide, flat, convex, or with slightly depressed centre, weakly sticky, colour brownish to dark brick-red. Taste mild. [[Lamella (mycology)|Gills]] close apart, white. The [[Stipe (mycology)|stipe]] narrows toward the base, 2–7&nbsp;cm long, 1.5–2.5&nbsp;cm wide, white. It turns deep salmon when rubbed with iron salts ([[Ferrous sulfate]]).<ref name=Phillips06>{{cite book | author = Roger Phillips | year = 2006  | title = Mushrooms | publisher = Pan MacMillan | isbn = 0-330-44237-6}}</ref> The [[spore print]] is white.
+
+== Distribution and habitat ==
+''Russula vesca'' appears in summer or autumn, and grows primarily in [[deciduous]] forests in Europe, and North America.<ref name=Arora2nd>{{cite book |author=David Arora |year=1986 |title=Mushrooms Demystified |publisher=Ten Speed Press |isbn=0-89815-169-4 |url-access=registration |url=https://archive.org/details/mushroomsdemysti00aror_0 }}</ref>
+
+== Edibility ==
+''Russula vesca'' is considered [[edible mushroom|edible]] and good, with a mild nutty flavour.<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |orig-date=2005 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=147}}</ref> In some countries, including [[Russia]], [[Ukraine]] and [[Finland]] it is considered entirely edible even in the raw state.
+
+== See also ==
+*[[List of Russula species|List of ''Russula'' species]]
+
+== References ==
+{{Reflist}}
+
+* "Danske storsvampe.  Basidiesvampe" [a key to Danish basidiomycetes] J.H. Petersen and J. Vesterholt eds. Gyldendal. Viborg, Denmark, 1990.  {{ISBN|87-01-09932-9}}
+
+==External links==
+*{{Commons category-inline|Russula vesca}}
+
+{{Taxonbar|from=Q851539}}
+
+{{Authority control}}
+
+[[Category:Russula|vesca]]
+[[Category:Fungi described in 1836]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Edible fungi]]
+[[Category:Fungus species]]

@@ -1,0 +1,38 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+|image = Cantharellus amethysteus 2012-09-28.jpg
+|genus = Cantharellus
+|species = amethysteus
+|authority = (Quél.) Sacc. 1887
+|synonyms =
+}}{{Mycomorphbox
+| name = ''{{PAGENAME}}''{{italic title}}
+| hymeniumType = ridges
+| capShape = flat
+| whichGills = decurrent
+| stipeCharacter = bare
+| sporePrintColor = white
+| ecologicalType = mycorrhizal
+| howEdible = edible
+| capShape2 = depressed
+| sporePrintColor2 = yellow
+}}
+'''''Cantharellus amethysteus''''', the '''amethyst chanterelle''', is a [[species]] of [[Cantharellus]] from Europe.<ref>{{cite web|url=http://www.mycobank.org/BioloMICS.aspx?TableKey=14682616000000067&Rec=250059&Fields=All|title= Cantharellus amethysteus in MycoBank}}</ref>
+
+== Description ==
+''Cantharellus amethysteus'' is an edible<ref>{{Cite web |title=Cantharellus amethysteus, Amethyst Chanterelle mushroom |url=https://www.first-nature.com/fungi/cantharellus-amethysteus.php |access-date=2022-07-07 |website=www.first-nature.com}}</ref> chanterelle species with white flesh which turns yellow as it ages.
+
+'''Cap:''' 5-10cm. Flat topped to start with depression forming. Downy texture with irregular, wavy edges. '''Stem:''' 3-4cm. Tapers downwards, often flattened or twisted. '''Veins/ridges:''' Thick and decurrent. Paler colour than the cap.  '''Taste:''' Mild. '''Smell:''' Mild and pleasant, faint smell of apricots. '''Spore print:''' white to palish yellow sometimes with a pink tinge. '''Spores:''' Cylindrical to elongated ellipsoid, smooth, non-amyloid. 8-10 x 5.5-6 μm.<ref>{{Cite book |last=Buczacki |first=Stefan |title=Collins fungi guide |date=2012 |publisher=Collins |isbn=978-0-00-724290-0 |location=London |oclc=793683235}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Commonscat-inline|Cantharellus amethysteus|''Cantharellus amethysteus''}}
+* {{Wikispecies-inline|Cantharellus amethysteus|''Cantharellus amethysteus''}}
+
+{{Taxonbar|from=Q2527495}}
+
+[[Category:Cantharellus|amethysteus]]
+[[Category:Fungi described in 1887]]
+[[Category:Fungus species]]

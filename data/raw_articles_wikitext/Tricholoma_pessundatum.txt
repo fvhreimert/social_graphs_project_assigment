@@ -1,0 +1,63 @@
+{{Short description|Species of fungus}}
+{{Species box
+| image = Tricholoma pessundatum 176487.jpg
+| taxon = Tricholoma pessundatum
+| authority = ([[Elias Magnus Fries|Fr.]]) [[Quél.]] (1872)
+| synonyms_ref = <ref name="urlMycoBank: Tricholoma pessundatum"/>
+| synonyms =
+*''Agaricus pessundatus'' <small>Fr. (1821)</small>
+*''Gyrophila equestris'' var. ''pessundata'' <small>(Fr.) Quél. (1886)</small>
+*''Gyrophila pessundata'' <small>(Fr.) Quél. (1888)</small>
+}}
+
+'''''Tricholoma pessundatum''''' is a [[mushroom]] of the [[agaric]] genus ''[[Tricholoma]]''.
+
+== Taxonomy ==
+First described as ''Agaricus pessundatus'' by [[Elias Magnus Fries]] in 1821, it was transferred to the genus ''[[Tricholoma]]'' by [[Lucien Quélet]] in 1872.<ref name="Quélet 1872" />
+
+== Description ==
+The orangish cap is up to {{Convert|18|cm|frac=4}} across, with a lighter margin, and is viscid when wet. The [[Lamella (mycology)|gills]] are white but develop stains and vary in attachment. The stem is up to {{Convert|14|cm|abbr=on|frac=4}} long. The [[spore print]] is white.<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/185/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=185 |orig-date=1979}}</ref>
+
+It has a sour meal odor.<ref name="Miller 2006">{{cite book |last=Miller Jr. |first=Orson K. |title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi |last2=Miller |first2=Hope H. |publisher=[[FalconGuide]] |year=2006 |isbn=978-0-7627-3109-1 |location=Guilford, CN |pages=127}}</ref>
+
+=== Similar species ===
+A very similar species to the European mushroom is ''[[Tricholoma muricatum]]'', which differs only in microscopic details.<ref name=":0">{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=105}}</ref>
+
+== Toxicity ==
+It contains toxins which can cause severe [[gastrointestinal upset]].<ref name="Miller 2006" />
+
+==See also==
+*[[List of North American Tricholoma|List of North American ''Tricholoma'']]
+*[[List of Tricholoma species|List of ''Tricholoma'' species]]
+
+==References==
+{{Mycomorphbox
+| name = ''{{PAGENAME}}''{{italic title}}
+| hymeniumType = gills
+| capShape = convex
+| whichGills = adnexed
+| stipeCharacter = bare
+| sporePrintColor = white
+| ecologicalType = mycorrhizal
+| whichGills2 = free
+| howEdible = poisonous
+| howEdible2 = allergenic
+}}{{Reflist|refs=
+
+<ref name="Quélet 1872">{{cite journal |author=Quélet L. |title=Les Champignons du Jura et des Vosges |journal=Mémoires de la Société d'Émulation de Montbéliard |year=1872 |volume=5 |issue=2 |pages=43–332 (see p.&nbsp;77) |language=fr}}</ref>
+
+<ref name="urlMycoBank: Tricholoma pessundatum">{{cite web |title=''Tricholoma pessundatum'' (Fr.) Quél. :77, t. 95, 1872 |url=http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=123104&Fields=All |publisher=[[MycoBank]]. International Mycological Association |access-date=2013-03-23}}</ref>
+
+}}
+
+{{Taxonbar|from=Q5398217}}
+
+[[Category:Tricholoma|pessundatum]]
+[[Category:Fungi described in 1821]]
+[[Category:Fungi of North America]]
+[[Category:Poisonous fungi]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]
+
+
+{{Tricholomataceae-stub}}

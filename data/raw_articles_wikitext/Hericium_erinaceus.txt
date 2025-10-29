@@ -1,0 +1,141 @@
+<!-- IF ADDING INFORMATION ABOUT BRAIN FUNCTION, PLEASE SEE THE TALK PAGE. There are many research papers at the preliminary level related to brain function; however, per WP:MEDASSESS, WP:MEDRS and protocols inherent to encyclopedias, Wikipedia cannot cite these. To make appreciable claims on a medicine's effectiveness, sources representing Phase III clinical research and meta-analyses must be cited. Primary research, although important to this process, does not represent a mature enough level and is not appropriate for medical encyclopedic use. -->
+{{Short description|Edible mushroom}}
+{{for|the other species named hedgehog mushroom|Hydnum repandum}}
+{{Speciesbox
+| image = Lion's-mane mushroom imported from iNaturalist photo 29576097 on 21 March 2024.jpg
+| image_caption = Specimen on fallen log
+| taxon = Hericium erinaceus
+| authority = ([[Jean Baptiste François Pierre Bulliard|Bull.]]) [[Christian Hendrik Persoon|Persoon]] (1797)
+| synonyms =
+*''Hydnum erinaceus'' {{small|Bull. (1781)}}
+* ''Clavaria erinaceus''
+* ''Dryodon erinaceus''
+}}
+{{mycomorphbox
+| name =
+| capShape = no
+| hymeniumType = teeth
+| stipeCharacter = NA
+| ecologicalType = saprotrophic
+| sporePrintColor = white
+| howEdible = choice
+| whichGills = NA
+}}
+
+'''''Hericium erinaceus''''', commonly known as '''lion's mane''', '''''yamabushitake''''', '''bearded tooth fungus''', or '''bearded hedgehog''',<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/615/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, California |pages=615-16 |orig-date=1979}}</ref><ref>{{cite magazine |year=2015 |title=Reforestation: Traditional Methods Have to Change |url=https://www.sierraforestlegacy.org/NR_SFVoiceNewsletter/2015-06-12_V8N2.php |url-status=live |archive-url=https://web.archive.org/web/20230404154404/https://www.sierraforestlegacy.org/NR_SFVoiceNewsletter/2015-06-12_V8N2.php |archive-date=2023-04-04 |access-date=2021-12-06 |magazine=The Sierra Forest Voice |volume=8 |issue=2}}</ref> is a species of [[tooth fungus]]. It tends to grow in a single clump with dangling spines longer than {{Convert|1|cm|abbr=off|frac=4}}. It can be mistaken for other ''[[Hericium]]'' species that grow in the same areas. 
+
+Native to [[North America]] and Eurasia, the mushrooms are common during late summer and autumn on [[hardwoods]], particularly [[American beech]] and [[maple]]. It is typically considered [[saprophytic]], as it mostly feeds on dead trees. It can also be found on living trees, usually in association with a wound.
+
+It is an [[edible mushroom]] and used in [[traditional Chinese medicine]]. It is generally safe to eat, but its medicinal effectiveness, safety in supplements, and active compounds are unproven.<ref name="livertox" /><ref name="opss" />
+
+== Etymology ==
+Both the Latin genus name {{wikt-lang|la|Hericium}} and the species name {{wikt-lang|la|erinaceus}} mean 'hedgehog' in [[Latin]]. This is also reflected by the [[German language|German]] name, {{lang|de|Igel-Stachelbart}} (literally, 'hedgehog-goatee'), and some of its common English names, such as ''bearded hedgehog'' and ''hedgehog mushroom''.<ref name="drugs">{{cite web |date=23 November 2020 |title=Lion's mane mushroom |url=https://www.drugs.com/npp/lion-s-mane-mushroom.html |url-status=live |archive-url=https://web.archive.org/web/20230605020203/https://www.drugs.com/npp/lion-s-mane-mushroom.html |archive-date=5 June 2023 |access-date=2 September 2021 |publisher=Drugs.com}}</ref> It is known in Japan as {{lang|ja-Latn|yamabushitake}} ([[Kanji]]: {{lang|ja-Hani|山伏茸}}, [[Katakana]]: {{lang|ja-Kana|ヤマブシタケ}}) in reference to the [[yamabushi]] or mountain [[Asceticism|ascetics]] of the [[syncretism|syncretistic]] religion known as [[Shugendo]]; while in [[Chinese language|Chinese]], it is known as {{lang|zh-Latn|hóutóugū}} ({{zh |t=猴頭菇 |s=猴头菇 |j=hau4 tou4 gu1 |first=s }}) meaning "monkey-head mushroom", in Korea as ''noru gungdeng-i beoseot'' ({{lang|ko|노루궁뎅이버섯}}) meaning "[[Siberian roe deer|deer]] butt mushroom", and in Europe and the United States as ''lion's mane''.<ref>{{cite book |doi=10.1016/B978-0-08-102081-4.00011-3 |chapter=Biologically Functional Compounds from Mushroom-Forming Fungi |title=Natural Products and Drug Discovery |date=2018 |last1=Kawagishi |first1=Hirokazu |pages=309–326 |isbn=978-0-08-102081-4 }}</ref>
+
+== Description ==
+
+
+The [[fruit bodies]] of ''H. erinaceus'' are large, irregular bulbous tubercules. They are {{Convert|5-40|cm|abbr=off|frac=2}} in diameter<ref name="Sokół-2016">{{cite journal |last1=Sokół |first1=Sławomir |last2=Golak-Siwulska |first2=Iwona |last3=Sobieralski |first3=Krzysztof |last4=Siwulski |first4=Marek |last5=Górka |first5=Katarzyna |title=Biology, cultivation, and medicinal functions of the mushroom Hericium erinaceum |journal=Acta Mycologica |date=29 January 2016 |volume=50 |issue=2 |doi=10.5586/am.1069 }}</ref> and dominated by crowded, hanging, spore-producing spines, which are {{Convert|1–5|cm|abbr=on|frac=4}} long or longer.<ref name="Wald-2004">{{Cite journal |last1=Wald |first1=Paul |last2=Pitkkänen |first2=Sini |last3=Boddy |first3=Lynne |date=December 2004 |title=Interspecific interactions between the rare tooth fungi ''Creolophus cirrhatus'', ''Hericium erinaceus'' and ''H. coralloides'' and other wood decay species in agar and wood |journal=Mycological Research |volume=108 |issue=12 |pages=1447–1457 |doi=10.1017/s0953756204001340 |pmid=15757181 }}</ref><ref name="Davis-2012">{{Cite book |last1=Davis |first1=R. Michael |last2= Sommer |first2= Robert |last3=Menge |first3=John A. |title=Field Guide to Mushrooms of Western North America |publisher=[[University of California Press]] |year=2012 |isbn=978-0-520-95360-4 |location=Berkeley |pages=280–281 |oclc=797915861 }}</ref>
+
+The hyphal system is [[monomitic]], [[amyloid]], and composed of thin- to thick-walled [[hypha]]e that are approximately 3–15&nbsp;[[μm]] (microns) wide. The hyphae also contain clamped [[Septum|septa]] and [[gloeoplerous]] elements (filled with oily, resinous substances), which can come into the [[hymenium]] as gloeocystidia.
+
+The [[basidia]] are 25–40&nbsp;μm long and 5–7&nbsp;μm wide, contain four [[Basidiospore|spores]] each and possess a basal clamp. The white amyloid spores measure approximately 5–7&nbsp;μm in length and 4–5&nbsp;μm in width. The spore shape is described as subglobose to short ellipsoid and the spore surface is smooth to finely roughened.<ref name="Sokół-2016"/><ref name="Wald-2004" />
+
+=== Development ===
+It has been observed that ''H.&nbsp;erinaceus'' can fruit intermittently for 20 years on the same dead tree. It is hypothesized that ''H.&nbsp;erinaceus'' can survive for 40 years.<ref name="Sokół-2016" /> The mating system of ''H.&nbsp;erinaceus'' species found in the U.S. was shown to be [[Mating in fungi|bifactorially heterothallic]].<ref name="Ginns-1985">{{Cite journal |last=Ginns |first=J. |date=1985-09-01 |title=Hericium in North America: cultural characteristics and mating behavior |url=http://www.nrcresearchpress.com/doi/10.1139/b85-215 |journal=Canadian Journal of Botany |language=en |volume=63 |issue=9 |pages=1551–1563 |doi=10.1139/b85-215 |bibcode=1985CaJB...63.1551G |issn=0008-4026 |access-date=2020-11-26 |archive-date=2023-04-04 |archive-url=https://web.archive.org/web/20230404154402/http://www.nrcresearchpress.com/doi/10.1139/b85-215 |url-status=live |url-access=subscription }}</ref>
+
+The [[Dikaryotic|monokaryotic]] mycelium growth of ''H.&nbsp;erinaceus'' is slower than [[dikaryotic]] growth and only a relatively low percentage of monokaryotic cultures yield fruitbodies. Monokaryotic fruitbodies are also smaller than dikaryotic fruitbodies.<ref name="Sokół-2016" /> The monokaryotic mycelium was found to produce fusoid to subglobose [[chlamydospore]]s of 6–8 x 8–10&nbsp;μm size. These spores can stay viable for more than seven years and be stored under anaerobic conditions.{{cn|date=January 2021}} Chlamydospore germination requires 30 to 52 hours, with a germination success rate of 32 to 54%.<ref name="Ginns-1985" />
+
+Spore production is highest at midday, relative to temperature increase and a decrease of relative humidity. Daily trends toward lower relative humidity can favor sporulation, however, levels of relative humidity that are too low do not favor high total spore production.<ref>{{Cite journal |last=McCracken |first=F. I. |date=1970 |title=Spore Production of ''Hericium erinaceus'' |journal=Phytopathology |volume=60 |issue=11 |pages=1639 |doi=10.1094/Phyto-60-1639 }}</ref>
+
+===Mycochemistry===
+
+''H. erinaceus'' contains diverse [[phytochemical]]s, including [[polysaccharide]]s, such as [[β-glucan]], as well as [[hericenone]]s and [[erinacine]]s.<ref name="drugs" /> From its [[essential oil]], 77 [[aroma compound|aroma]] and flavor compounds were identified, including [[hexadecanoic acid]] (26% of total oil composition), [[linoleic acid]] (13%), [[phenylacetaldehyde]] (9%) and [[benzaldehyde]] (3%), and other oils, such as 2-methyl-3-furanthiol, {{Nowrap|2-ethylpyrazine}} and 2,6-diethylpyrazine.<ref>{{Cite journal |last1=Miyazawa |first1=Mitsuo |last2=Matsuda |first2=Naoki |last3=Tamura |first3=Naotaka |last4=Ishikawa |first4=Ryuuzou |date=8 December 2011 |title=Characteristic Flavor of Volatile Oil from Dried Fruiting Bodies of ''Hericium erinaceus'' (Bull.: Fr.) Pers |journal=Journal of Essential Oil Research |language=en |volume=20 |issue=5 |pages=420–423 |doi=10.1080/10412905.2008.9700046 }}</ref> Low concentrations of [[ergosterol]] are present.<ref name="drugs" />
+
+=== Similar species ===
+Similar species in the genus include ''[[Hericium americanum|H. americanum]]'' and ''[[Hericium coralloides|H.&nbsp;coralloides]]'',<ref name="Davis-2012" /> both found in eastern North America.<ref name="Cornell Small Farms-2015">{{Cite web |date=2015-04-06 |title=Lion's Mane: A new candidate for profitable forest mushroom cultivation |url=https://smallfarms.cornell.edu/2015/04/lions-mane/ |url-status=live |archive-url=https://web.archive.org/web/20230404222346/https://smallfarms.cornell.edu/2015/04/lions-mane/ |archive-date=2023-04-04 |access-date=2020-11-26 |website=Cornell Small Farms |language=en-US}}</ref> Additional species with a resemblance include ''[[Donkia pulcherrima]]'', ''[[Radulomyces copelandii]]'' and some within ''[[Sarcodontia]]''.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=163}}</ref>
+
+== Distribution and habitat ==
+In Europe, the fruit bodies of ''H.&nbsp;erinaceus'' are mainly produced annually from August to November.<ref>{{Cite book |title=Distribution, ecology and status of 51 macromycetes in Europe: results of the ECCF Mapping Programme |vauthors=Fraiture A, Otto P |publisher=European Council for the Conservation of Fungi |year=2015 |isbn=978-90-823525-5-9 |oclc=922038479 }}</ref> In North America, they appear from October to February in the west, from July to October in the Mountain states, and from September to February in the east.<ref name="audu" />
+
+In the wild, lion's mane is usually associated with a tree wound and causes a [[White rot|white pocket rot]]. Decayed tissue becomes spongy and eventually disintegrates to form a cavity. The distinctive fruiting bodies ([[Basidiocarp|basidiocarps]]) generally appear near the edges of old wounds in autumn.<ref name=":0">{{cite report |title=''A Field Guide to Insects and Diseases of California Oaks'' |last1=Swiecki |first1=Tedmund J. |last2=Bernhardt |first2=Elizabeth A. |date=2006 |publisher=U.S. Forest Service Treesearch Department |doi=10.2737/PSW-GTR-197 |location=Albany, California |pages=100–101 |department=Pacific Southwest Research Station |series=Gen. Tech Rep. PSW-GTR-197}} {{PD-inline}}</ref> It may be a tree [[parasite]], possibly indicating an [[endophytic]] habitat.{{Citation needed|date=November 2024}} 
+
+''H.&nbsp;erinaceus'' hosts in North America include maple, ash, oaks, and eucalyptus.<ref name=":0" /> In California, lion's mane has been found on [[Quercus agrifolia|coast live oak]], [[Quercus chrysolepis|canyon live oak]], [[Quercus wislizeni|interior live oak]], [[Quercus kelloggii|California black oak]], [[Quercus douglasii|blue oak]], and [[Quercus lobata|valley oak]].<ref name=":0" />
+
+Lion's mane is able to withstand cold temperatures and frost conditions.<ref name="Boddy-2011">{{Cite journal|last1=Boddy|first1=Lynne|last2=Crockatt|first2=Martha E.|last3=Ainsworth|first3=A. Martyn|date=2011-04-01|title=Ecology of ''Hericium cirrhatum'', ''H. coralloides'' and ''H. erinaceus'' in the UK|journal=Fungal Ecology|series=Conservation underground: Fungi in a changing world|volume=4|issue=2|pages=163–173|doi=10.1016/j.funeco.2010.10.001|bibcode=2011FunE....4..163B |issn=1754-5048}}</ref>
+
+== Ecology ==
+
+===Disease===
+''Brennandania lambi'' ([[Acari]]: [[species:Pygmephoroidea|Pygmephoroidea]]) is a mite pest of fungi culture in China. This mite can develop and reproduce on the mycelium of ''H.&nbsp;erinaceus''. Farm hygiene and heat treatments are the most important pest management strategies that should be followed to counter this acarus.<ref>{{Cite journal |last1=Wu |first1=Jufang |last2=Zhang |first2=Zhi-Qiang |date=March 1993 |title=Host feeding, damage and control of the mushroom pest, Brennandania lambi (Acari: Pygmephoroidea) in China |journal=Experimental and Applied Acarology |language=en |volume=17 |issue=3 |pages=233–240 |doi=10.1007/BF00118440 }}</ref>
+
+===Competition with other fungi===
+''Hericium'' species are good competitors against other wood colonisers. They show the ability to maintain their place on dead wood, also when confronted with secondary colonizers, such as ''[[Trametes versicolor]]'' and ''[[Stereum hirsutum]]''.<ref name="Sokół-2016" /> ''Hericium erinaceus'' has shown to be slightly more competitive than other fungi tooth species, including ''[[Creolophus cirrhatus]]'' and ''H.&nbsp;coralloides''.<ref>{{Cite journal |last1=Wald |first1=Paul |last2=Pitkkänen |first2=Sini |last3=Boddy |first3=Lynne |date=December 2004 |title=Interspecific interactions between the rare tooth fungi Creolophus cirrhatus, Hericium erinaceus and H. coralloides and other wood decay species in agar and wood |journal=Mycological Research |language=en |volume=108 |issue=12 |pages=1447–1457 |doi=10.1017/S0953756204001340 |pmid=15757181 }}</ref>
+
+== Conservation ==
+Although ''H. erinaceus'' is native to Europe, it has been [[IUCN Red List|red listed]] in several European countries due to poor [[germination]] and establishment. <ref>{{cite web |title=Hericium erinaceus (Bearded Tooth) |url=https://www.iucnredlist.org/species/70401627/70401637#population |website=IUCN Red List |access-date=3 March 2025}}</ref>
+
+== Cultivation ==
+In fungi cultivation, fungal [[Strain (biology)|strains]] are analogous to plant varieties in crop breeding.<ref name="Cornell Small Farms-2015" /> Fungal strains comprise clonal descendants of a single isolation from one fungal colony in a pure culture.<ref>{{Cite journal|last1=Dijkshoorn|first1=L.|last2=Ursing|first2=B.M.|last3=Ursing|first3=J.B.|date=2000-05-01|title=Strain, clone and species: comments on three basic concepts of bacteriology|journal=Journal of Medical Microbiology|language=en|volume=49|issue=5|pages=397–401|doi=10.1099/0022-1317-49-5-397|pmid=10798550|issn=0022-2615|doi-access=free}}</ref> The production of ''H.&nbsp;erinaceus'' is widespread in Asia, mostly using extensive production practices on wood logs or stumps.<ref name="drugs" />
+
+Although there is considerable scientific research about ''Hericium'' spp., they are not commonly industrially produced in the West. Accordingly, there are few commercially available strains in the U.S. or Europe and little or no breeding for higher yield or other favorable traits has occurred.<ref name="Cornell Small Farms-2015" />  Production trials in Egypt report yields of ''H.&nbsp;erinaceus'' averaging at 165&nbsp;g per 1&nbsp;kg medium.<ref name="Hassan-2007">{{cite journal|last1=Hassan|first1=F.R.H|title=Cultivation of the Monkey Head Mushroom (''Hericium erinaceus'') in Egypt|journal=Journal of Applied Sciences Research|volume=3|issue=10|pages=1229–1233|year=2007|url=http://www.aensiweb.com/old/jasr/jasr/2007/1229-1233.pdf|access-date=2020-11-26|archive-date=2023-04-04|archive-url=https://web.archive.org/web/20230404152901/http://www.aensiweb.com/old/jasr/jasr/2007/1229-1233.pdf|url-status=live}}</ref>
+
+In North America, its production occurs only on a small scale. Most of it is intensive indoor production with only a few small outdoor sites where log cultivation is practiced.<ref name="Cornell Small Farms-2015" />
+
+===Substrate requirements===
+As a [[saprophyte]] that occurs on dead wood,<ref name="drugs" /> ''H.&nbsp;erinaceus'' requires adequate [[Substrate (biology)|substrate]] factors, including suitable carbon and nitrogen sources, a certain pH value and ideal [[carbon-to-nitrogen ratio]].<ref>{{Cite journal |last1=Gonkhom |first1=Didsanutda |last2=Luangharn |first2=Thatsanee |last3=Hyde |first3=Kevin D. |last4=Stadler |first4=Marc |last5=Thongklang |first5=Naritsada |date=2022-08-31 |title=Optimal conditions for mycelial growth of medicinal mushrooms belonging to the genus Hericium |journal=Mycological Progress |language=en |volume=21 |issue=9 |page=82 |doi=10.1007/s11557-022-01829-6|s2cid=251994082 |doi-access=free |bibcode=2022MycPr..21...82G }}</ref><ref name="He-2017">{{cite journal |last1=He |first1=Xirui |last2=Wang |first2=Xiaoxiao |last3=Fang |first3=Jiacheng |last4=Chang |first4=Yu |last5=Ning |first5=Ning |last6=Guo |first6=Hao |last7=Huang |first7=Linhong |last8=Huang |first8=Xiaoqiang |last9=Zhao |first9=Zefeng |title=Structures, biological activities, and industrial applications of the polysaccharides from Hericium erinaceus (Lion's Mane) mushroom: A review |journal=International Journal of Biological Macromolecules |date=April 2017 |volume=97 |pages=228–237 |doi=10.1016/j.ijbiomac.2017.01.040 |pmid=28087447 }}</ref> 
+
+Many different substrates have been used to successfully cultivate this mushroom. Depending on the type of cultivation, the substrate can be either solid (artificial log) or liquid (submerged culture and deep submerged culture). 
+
+The solid substrate is most commonly a mixture of [[sawdust]] of [[hardwood]] or [[conifer]] containing different complements that may include [[wheat bran]], wheat [[straw]], [[soybean meal]], [[corn meal]], [[rice bran]], and rice straw. For example, ''H.&nbsp;erinaceus'' strains grow on beech sawdust substrate enriched with [[wheat bran]] (20%), [[rye]] grain (25%), [[soybean meal]] (7%), [[rapeseed]] meal (10%), or meat-[[osseous]] flour (6%).<ref name="Hassan-2007" /> 
+
+An example of a liquid substrate composition can be [[glucose]] for the carbon source, soybean powder, corn powder, and wheat bran powder as a complex nitrogen source.<ref name="He-2017" /> The pH values most suitable for the favorable growth of ''H. erinaceus'' were in the range of 5.0–9.0, with pH 6.0 as optimal.<ref name="Nguyen-2018">{{Cite journal |last1=Nguyen |first1=Bich Thuy Thi |last2=Ngo |first2=Nghien Xuan |last3=Le |first3=Ve Van |last4=Nguyen |first4=Luyen Thi |last5=Tran |first5=Anh Dong |last6=Nguyen |first6=Lam Hai Thi |date=2018-10-19 |title=Identification of Optimal Culture Conditions for Mycelial Growth and Cultivation of Monkey Head Mushrooms (Hericium erinaceus (Bull.: fr.) Pers) |journal=Vietnam Journal of Agricultural Sciences |language=en |volume=1 |issue=2 |pages=117–126 |doi=10.31817/vjas.2018.1.2.01 |doi-access=free }}</ref>
+
+===Climate requirements===
+''Hericium erinaceus'' requires a humid environment for its growth: 85 to 90% of relative humidity in the air.<ref name="Sokół-2016" /> The incubation temperature most suitable for the [[Mycelium|mycelial]] growth of ''H. erinaceus'' was found to be 25&nbsp;°C,<ref name="Nguyen-2018" /> and the optimum temperature for vegetative growth was 26&nbsp;°C.<ref name="Nguyen-2018" /> ''H.&nbsp;erinaceus'' is unable to grow with a [[water potential]] lower than -5 Mpa.<ref name="Boddy-2011" />
+
+===Techniques===
+The artificial cultivation of ''H. erinaceus'' was first reported in China in 1988. It is cultivated using artificial logs, bottles, and polypropylene bags. However, this type of artificial cultivation is not suitable for industrialized production due to its low yield and long cultivation cycles.<ref name="He-2017" />
+
+Submerged culture is a type of artificial cultivation of ''H.&nbsp;erinaceus'' whereby the fungus is grown in a liquid medium. Using this method, a large number of mycelia can be obtained quickly.<ref name="He-2017" /> Bioactive compounds can be sourced from the fruiting bodies, submerged-cultivated mycelial biomass, or liquid-cultivated broth. Growers optimize the culture medium composition to obtain simultaneously high yields of ''H.&nbsp;erinaceus'' mycelial biomass, [[exopolysaccharides]], and [[polysaccharide]]s.{{cn|date=November 2020}} Submerged [[fermentation]] is preferable for the production of mycelial biomass and biologically active metabolites in order to produce a more uniform biomass and [[extract]] products.<ref>{{Cite journal |date=2020-05-01 |title=Impact of Substrate Volume on Oyster Mushroom Fruiting Bodies Production |journal=Assiut Journal of Agricultural Sciences |volume=51 |issue=2 |pages=154–169 |doi=10.21608/ajas.2020.117203 |issn=2356-9840 |doi-access=free}}</ref>
+
+Growth regulators, such as [[2,4-Dichlorophenoxyacetic acid]] and [[gibberellin]], were observed to have an advantageous effect on spore germination.<ref>{{Cite journal |last1=Zhixue |first1=Feng |last2=Xiwen |first2=Liu |last3=Lu Yaohuan |title=A Study on the Effect and Mechanism of 2,4 - D and Gibberellin on Hericium erinaceus |journal=Acta Edulis Fungi |volume=5 |issue=3 |date=1998 |pages=44–49 |doi=10.16488/j.cnki.1005-9873.1998.03.009 }}</ref> Other technologies, such as red and green laser light of low intensity, stimulated spore germination as well as the vegetative growth of mycelium.<ref>{{Cite journal |last1=Poyedinok |first1=Natalia L. |last2=Potemkina |first2=Janna V. |last3=Buchalo |first3=Asja S. |last4=Negriyko |first4=Anatoliy M. |last5=Grygansky |first5=Andriy P. |date=2000 |title=Stimulation with Low-Intensity Laser Light of Basidiospore Germination and Growth of Monokaryotic Isolates in the Medicinal Mushroom Hericium erinaceus (Bull.: Fr.) Pers. (Aphyllophoromycetideae) |journal=International Journal of Medicinal Mushrooms |volume=2 |issue=4 |pages=4 |doi=10.1615/IntJMedMushr.v2.i4.140 }}</ref> [[Argon]] and [[helium]] [[laser]]s also contributed to the acceleration of fruit body development by 36–51%.<ref name="Sokół-2016" /><ref>{{Cite journal |last1=Poyedinok |first1=Natalia L. |last2=Buchalo |first2=Asja S. |last3=Negriyko |first3=Anatoliy M. |last4=Potemkina |first4=Janna V. |last5=Mykchaylova |first5=Oksana B. |date=2003 |title=The Action of Argon and Helium-Neon Laser Radiation on Growth and Fructification of Culinary-Medicinal Mushrooms Pleurotus ostreatus (Jacq.:Fr.) Kumm., Lentinus edodes (Berk.) Singer, and Hericium erinaceus(Bull.:Fr.)Pers |journal=International Journal of Medicinal Mushrooms |language=en |volume=5 |issue=3 |pages=8 |doi=10.1615/InterJMedicMush.v5.i3.70 }}</ref>
+
+===Wild strains===
+Wild strains of ''Hericium'' spp. can be isolated and cultivated by first gathering fruiting bodies from fallen trees in the natural habitat. The fruiting bodies can then be opened to attain pieces of their inner spore-producing tissue. This tissue is then placed onto [[Petri dish]]es with [[Agar plate|agar]] to cultivate fungal colonies at 25&nbsp;°C. After several transfers to new Petri dishes to verify the purity of the strain, it can be kept at −80&nbsp;°C for long-term storage.<ref name="Grace-2015">{{Cite journal |last1=Grace |first1=Jeanne |last2=Mudge |first2=Kenneth W. |date=2015 |title=Production of Hericium sp. (Lion's Mane) mushrooms on totem logs in a forest farming system |journal=Agroforestry Systems |language=en |volume=89 |issue=3 |pages=549–556 |doi=10.1007/s10457-015-9790-1 |bibcode=2015AgrSy..89..549G }}</ref>
+
+==Uses==
+
+=== Culinary ===
+ with grilled ''H.&nbsp;erinaceus'']]
+
+The edible fruiting bodies are common in [[gourmet]] cooking, with young specimens considered the best.<ref>{{Cite book|last1=Davis|first1=R. Michael |title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|page=29|oclc=797915861 }}</ref> Alongside [[shiitake]] (''Lentinus edodes'') and [[Pleurotus|oyster]] (''Pleurotus ostreatus'') mushrooms, ''H.&nbsp;erinaceus'' is used as a specialty mushroom in recipes.<ref name="Grace-2015"/><ref>{{cite book |doi=10.1002/9780470650622.ch2 |chapter=Speciality Mushrooms and Their Cultivation |title=Horticultural Reviews |date=1996 |last1=Royse |first1=Daniel J. |pages=59–97 |isbn=978-0-471-16529-3 }}</ref>
+
+''H. erinaceus'' fruiting bodies contain 57% [[carbohydrate]]s (8% as [[dietary fiber]]), 4% [[fat]], and 22% [[protein (nutrient)|protein]].<ref name="Mau-2001">{{cite journal |last1=Mau |first1=Jeng-Leun |last2=Lin |first2=Hsiu-Ching |last3=Ma |first3=Jung-Tsun |last4=Song |first4=Si-Fu |title=Non-volatile taste components of several speciality mushrooms |journal=Food Chemistry |date=June 2001 |volume=73 |issue=4 |pages=461–466 |doi=10.1016/S0308-8146(00)00330-7 }}</ref>
+
+=== Traditional and contemporary uses ===
+Used in [[traditional Chinese medicine]] for centuries, ''H.&nbsp;erinaceus'' is commonly marketed as a dietary supplement,<ref name="livertox">{{cite web |date=5 January 2024 |title=Lion’s Mane (''Hericium erinaceus'') |url=https://www.ncbi.nlm.nih.gov/books/NBK599740/ |access-date=6 May 2025 |publisher=LiverTox, US National Institute of Diabetes and Digestive and Kidney Diseases}}</ref><ref name=drugs/> but lacks sufficient [[scientific evidence]] for safety or effectiveness, and quality can vary due to inconsistent processing and labeling.<ref name="opss">{{cite web |date=2020-07-29 |title=Mushrooms in dietary supplements |url=https://www.opss.org/article/mushrooms-dietary-supplements |access-date=2025-05-19 |website=Operation Supplement Safety |publisher=Consortium for Health and Military Performance}}</ref>
+
+Though it is a generally safe edible mushroom, its efficacy and specific active compounds remain unconfirmed ''[[in vivo]]''.<ref name="livertox" />
+
+==See also==
+* [[Medicinal fungi]]
+* [[Yamabushi]]
+
+==References==
+{{Reflist}}
+
+{{Portal bar|Fungi|Food}}
+{{Taxonbar|from=Q19737}}
+{{Authority control}}
+
+[[Category:Russulales]]
+[[Category:Chinese edible mushrooms]]
+[[Category:Edible fungi]]
+[[Category:Fungi in cultivation]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of California]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1781]]
+[[Category:Taxa named by Jean Baptiste François Pierre Bulliard]]
+[[Category:Fungus species]]

@@ -1,0 +1,49 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = 2021-07-31 Agaricus benesii (Pilát) Pilát 1361238.jpg
+| image_caption = 
+| taxon = Agaricus benesii
+| authority = ([[Albert Pilát|Pilát]]) Pilát (1951)
+| synonyms = {{Specieslist
+ |Psalliota benesii|Pilát (1925)
+ }}
+}}
+
+'''''Agaricus benesii'''''<ref>Kibby, pg. 163</ref> is an [[agaric]] [[mushroom]] of the genus ''[[Agaricus]]'' known in English as the 	'''mull mushroom'''.<ref>{{cite web | url=https://www.britmycolsoc.org.uk/field_mycology/english-names | title=The British Mycological Society | access-date=2024-01-25 | archive-date=2022-11-03 | archive-url=https://web.archive.org/web/20221103000333/https://www.britmycolsoc.org.uk/field_mycology/english-names | url-status=dead }}</ref> This mushroom can be distinguished by a white [[cap (mycology)|cap]] that bruises pinkish-red when injured, a scaly lower stipe, and a [[conifer]] habitat. Similar to ''[[Agaricus californicus]]'' and ''[[Agaricus xanthodermus|A. xanthodermus]]'', the cap discolors brown in age. A distinguishing feature of ''A. californicus'' and ''[[Agaricus xanthodermus|A. xanthodermus]]'', however, is a thickened [[annulus (mycology)|annulus]] at the margin, a [[phenol]]ic odor, and a yellowing [[bruise]], instead of red.<ref name="Boa"/> In the case of Agaricus xanthodermus, it occurs quickly, though faintly to not at all in the case of ''A. californicus''. Another similar species, ''[[Agaricus bernardii]]'', also stains red and has white flesh, but differentiates on its larger bulk, a sheathing veil, briny odor, and different habitat, namely [[grass]].<ref name="Boa">{{cite book|last=Boa|first=Eric|title=Wild Edible Fungi: A Global Overview (FAO)|publisher=Daya Books|year=2007|pages=131|isbn=978-81-7035-498-7|url=https://books.google.com/books?id=ZKQL8FAbjvwC&q=Agaricus+benesii}}</ref>
+
+==Description==
+The [[pileus (mycology)|cap]] is {{convert|4|–|8|cm|in|1|abbr=on}} broad; it has a convex shape which, in age, becomes flat. The [[trama (mycology)|flesh]] is white, moderately thick, and firm. The odor is pungent, even though the mushroom has a mild taste. When injured, it turns a pinkish-red. The surface is white, dry, and innately fibrillose. At the margin, it is finely scaled, though it discolors into a [[brown]]ish shade in age.<ref>{{cite book|last=Venturella|first=Giuseppe|title=The mycological flora of the Ficuzza Wood-Rocca Busambra territory (North Sicily, Italy)|publisher=Mycotaxon|location=Cornell University|year=2001|page=63|isbn=978-0-930845-11-7 |url=https://books.google.com/books?id=G_JEAAAAYAAJ&q=Agaricus+benesii|access-date=2009-08-20}}</ref>
+
+The [[stipe (mycology)|stem]] is {{convert|5|–|11|cm|in|1|abbr=on}} tall and {{convert|1|–|2|cm|in|1|abbr=on}} thick. The stem extends to the enlarged base. At maturity, the stem is stuffed. The surface is white, and turns smooth at the apex, while it is finely scaled below. The [[partial veil]] is white, membranous, and two layered. The upper surface is striate, while the lower surface is composed of scaly patches, forming a small, superior annulus. The flesh is white, though it stains red quickly when injured.<ref>Kibby, pg. 41</ref>
+
+The [[lamella (mycology)|gills]] are initially unattached to the stem, packed close together, and are pinkish-brown; in age they become blackish-brown.<ref>{{cite book|last=Noordeloos|first=M.E.|author2=Th. W. Kuyper|author3=E. C. Vellinga|title=Volume 5 of Flora Agaricina Neerlandica: Critical Monographs on Families of Agarics and Boleti Occurring in the Netherlands|editor=E. C. Vellinga|publisher=CRC Press|year=2001|edition=Illustrated|volume=5|page=41|isbn=978-90-5410-495-7 |url=https://books.google.com/books?id=YaBiXhgkfccC&q=Agaricus+benesii|access-date=2009-08-20}}</ref>
+[[Spore]]s are 5–6 by 3–4&nbsp;[[micrometre|μm]], smooth, and elliptical. The [[spore print]] is a blackish-brown color.<ref>Kibby, pg. 42</ref>
+
+==Habitat==
+Found under [[Monterey Cypress]] and pines, ''Agaricus benesii'' are often in small groups or by themselves. In addition, they fruit from mid to late [[winter]].<ref name="MYKOWEB">{{cite web|url=http://www.mykoweb.com/CAF/species/Agaricus_benesii.html|title=''Agaricus benesii''|last=Wood|first=Michael|author2=Fred Stevens|year=2008|publisher=Michael Woods|access-date=2009-08-20}}</ref>
+
+==See also==
+{{Mycomorphbox
+| name = ''{{PAGENAME}}''{{italic title}}
+| hymeniumType = gills
+| capShape = convex
+| capShape2 = flat
+| whichGills = free
+| stipeCharacter = ring
+| sporePrintColor = brown
+| howEdible = caution
+}}
+*[[List of Agaricus species|List of ''Agaricus'' species]]
+
+==References==
+;Specific
+*{{cite book|last=Kibby|first=Geoffrey|title=Guide to Mushrooms and Toadstools of Britain and Europe|publisher=Philip's|location=Cornell University|year=2006|edition=Illustrated|isbn=978-0-540-08936-9 |url=https://books.google.com/books?id=3AJFAAAAYAAJ&q=Agaricus+benesii}}
+;General
+{{reflist|2}}
+
+{{Taxonbar|from=Q4353719}}
+
+[[Category:Agaricus|benesii]]
+[[Category:Fungi described in 1925]]
+[[Category:Fungi of Europe]]
+[[Category:Fungus species]]

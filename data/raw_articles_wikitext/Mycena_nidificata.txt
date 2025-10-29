@@ -1,0 +1,60 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{Speciesbox
+| image =
+| image_caption =
+| genus = Mycena
+| species = nidificata
+| authority = Har. Takah.
+| range_map = Map of Japan with highlight on 14 Kanagawa prefecture.svg
+| range_map_caption = Known only from [[Kanagawa]], Japan
+}}
+{{mycomorphbox
+| name = ''Mycena nidificata''
+| hymeniumType=gills
+| capShape = conical
+| whichGills = adnate
+| stipeCharacter=bare
+| sporePrintColor=white
+| ecologicalType=saprotrophic
+| howEdible=unknown
+}}
+{{stack end}}
+
+'''''Mycena nidificata''''' is a species of [[fungus]] in the family [[Mycenaceae]] of the [[Agaricales]].<ref name=Fungorum/> First collected in 2000 and reported as a new species in 2007, it is known only from [[Kanagawa]], Japan, where it grows on the [[forest floor|floor]] of [[oak]] forests. The dark brown irregularly wrinkled [[pileus (mycology)|cap]] measures up to {{convert|25|mm|in|1|abbr=on}} in diameter. The cap is supported by a thin [[stipe (mycology)|stem]] up to {{convert|50|mm|in|abbr=on}} long, which is covered at the base by a whitish hairlike growth, and attached to white, cord-like [[rhizomorph]]s—aggregations of [[mycelium]] that resemble plant roots. The underside of the cap features thin, distantly spaced grayish [[lamella (mycology)|gills]] that have distinct veins running between them. At a microscopic level, distinguishing characteristics include the [[inamyloid]] spores (turning dark blue to black when [[staining|stained]] with [[Melzer's reagent]]), the club-shaped cheilocystidia ([[cystidia]] on the gill edges) with finger-like appendages, the [[diverticulum|diverticulate]] cells in the outer layer of cap and stem, and the presence of [[clamp connection]]s.
+
+==Taxonomy, naming, and classification==
+''Mycena nidificata'' was first collected in 2000 by Japanese mycologist Haruki Takahashi, and reported as new along with seven other Mycenas in a 2007 publication. The [[specific name (botany)|specific epithet]] is derived from the [[Latin]] word ''nidificata'', meaning "nidificate"—"to make a nest". Its Japanese name is ''Yamiiro-kunugitake'' (ヤミイロクヌギタケ).<ref name=Takahashi2007/>
+
+According to Takahashi, the inamyloid spores, the diverticulate [[pileipellis|cap cuticle]] hyphae, and the dark [[pigment]] in the gill hyphae suggest that the fungus is best [[classification (biology)|classified]] in the [[section (botany)|section]] ''Hiemales'' of the genus ''[[Mycena]]''. Because of its medium-sized, partly collybioid fruit bodies (i.e., small to medium-sized with white [[spore print]]s and convex caps, similar to species once placed in the genus ''[[Collybia]]''), the white cord-like [[rhizomorph]]s, and its distinctly intervenose gills, it has an isolated position within the section.<ref name=Takahashi2007/>
+
+==Description==
+The [[Pileus (mycology)|cap]] is initially conical to convex to bell-shaped, then flattened in age, ultimately reaching {{convert|10|to|25|mm|in|1|abbr=on}} in diameter. The center of the cap is irregularly wrinkled to pitted, but less so toward the grooved margin. It is [[hygrophanous]] (changing color as it loses or absorbs water), dry, initially pruinose (covered with what appears to be a fine white powder), but soon becomes smooth. The color is blackish-brown at the center, dark brown to reddish-brown farther outward, and becoming much paler at the margin; sometimes the cap is evenly dark brown. The [[Trama (mycology)|flesh]] is up to 1&nbsp;mm thick and white, and does not have any distinctive taste and odor. The [[Stipe (mycology)|stem]] is {{convert|40|to|50|mm|in|abbr=on}} long by {{convert|1.5|to|2|mm|in|abbr=on}} wide, cylindrical, slightly enlarged at the base, central, slender, and hollow. The stem surface is dry, pruinose over the entire length, and does not become smooth with age. It is pale brownish at the top, and gradually becomes dark brown toward the base. The base is covered with a white [[mycelium|mycelial]] hairlike growth (a [[Trichome#Plant trichomes|tomentum]]) that is attached to white cord-like [[rhizomorph]]s on the substratum. The [[Lamella (mycology)|gills]] are fused to the stem, and distantly spaced, with between 15 and 18 gills reaching the stem. The gills are up to 2.5&nbsp;mm broad, thin, grayish, and have distinct veins running between them. The gill edges are the same color as the gill faces.<ref name=Takahashi2007/>
+
+===Microscopic characteristics===
+The [[spore]]s are roughly [[wikt:ellipsoid|ellipsoid]] and measure 8–11 by 5–6&nbsp;[[micrometre|μm]]. They are smooth, colorless, [[inamyloid]], and thin-walled. The [[basidia]] (the spore-bearing cells) are 28–35 by 7–8&nbsp;μm, club-shaped, and mostly four-spored. The abundant cheilocystidia ([[cystidia]] on the gill edge) are club-shaped, measure 30–45 by 10–15&nbsp;μm, and form a sterile gill edge. They have several irregularly cylindrical to knob-like apical appendages measuring 3–11 by 2–5&nbsp;μm, which are colorless and thin-walled. Pleurocystidia (cystidia on the gill face) are absent in ''M.&nbsp;nidificata''. The [[hymenophore|hymenophoral]] ([[hymenium]]-bearing) tissue is made of smooth, thin-walled [[hypha]]e that are 6–26&nbsp;μm wide, cylindrical (but often inflated), and contain brownish [[pigment]] in the [[cytoplasm]]. These hyphae are dextrinoid, meaning they will turn reddish to reddish-brown in the presence of Melzer's reagent. The [[Pileipellis|cap cuticle]] is made of parallel, bent-over hyphae that are 3–10&nbsp;μm wide, cylindrical. The hyphae are smooth or covered with scattered, warty or finger-like [[diverticulum|diverticulae]]. Under the cap cuticle is a layer of parallel hyphae containing cytoplasmic brownish pigment. The hyphae are dextrinoid, and contain short and inflated cells that are up to 40&nbsp;μm wide. The stem cuticle is made of parallel, bent-over hyphae 3–8&nbsp;μm wide, which are similar in appearance to the hyphae of the cap cuticle. The caulocystidia (cystidia on the stem) are relatively sporadic; they are cylindrical, diverticulate, colorless, thin-walled, and measure 45–60 by 4–8&nbsp;μm. The stem tissue is composed of longitudinally arranged, cylindrical hyphae that are 10–25&nbsp;μm wide, dextrinoid, smooth, and have cytoplasmic brownish pigment. [[Clamp connection]]s are present in the stem tissues, and at the [[septum|septa]] at the bases of the basidia.<ref name=Takahashi2007/>
+
+===Similar species===
+''[[Mycena granulifera]]'', a species originally described from Brazil, is comparable to ''M.&nbsp;nidificata'' in having inamyloid spores, club-shaped cheilocystidia with finger-like outgrowths, and diverticulate cap cuticle hyphae. ''M.&nbsp;granulifera'' differs in forming a whitish, wrinkled cap and club-shaped to roughly spindle-shaped pleurocystidia. ''Mycena nidificata'' also bears some resemblance to the European species ''[[Mycena flos-nivium|M.&nbsp;flos-nivium]]'', which is distinguished by having cylindrical, amyloid spores, gills without veins between them, and an absence of cord-like rhizomorphs.<ref name=Takahashi2007/>
+
+==Habitat and distribution==
+''Mycena nidificata'' is known only from [[Kanagawa]], Japan. The mushroom is found growing solitary or scattered, on dead fallen twigs in forests dominated by the [[oak]] species ''[[Quercus castanopsis]]''. Fruiting occurs from May to September.<ref name=Takahashi2007/>
+
+==References==
+{{Reflist|refs=
+
+<ref name=Fungorum>{{cite web |url=http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=532061 |title=Index Fungorum – Names Record |publisher=CAB International |access-date=2010-01-01}}</ref>
+
+<ref name=Takahashi2007>{{cite journal |author=Takahashi H. |year=2007 |title=Eight new species of the genus ''Mycena'' from central Honshu, Japan |journal=Mycoscience |volume=48 |issue=6 |pages=342–57 |doi=10.1007/s10267-007-0376-2|s2cid=85093542 |doi-access=free }}</ref>
+
+}}
+
+==External links==
+*[https://web.archive.org/web/20120324052723/http://www7a.biglobe.ne.jp/~har-takah/page084.html The Agaricales in Southwestern Islands of Japan] Images of the [[holotype]] specimen
+{{Good article}}
+{{Taxonbar|from=Q6946898}}
+
+[[Category:Mycena|nidificata]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi described in 2007]]
+[[Category:Fungus species]]

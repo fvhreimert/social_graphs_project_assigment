@@ -1,0 +1,65 @@
+{{Speciesbox
+| image = Tiny_Russula_paludosa_(Appelrussula)_at_Rozendaal_castle_park_-_panoramio.jpg
+| image_caption = 
+| genus = Russula
+| species = paludosa
+| authority = Britzelm. (1891)
+| synonyms = ''R. elatior'' <small>Lindbl. (1901)</small><br />
+''R. fragaria'' <small>[[Otakar Kudrna|Kudrna]] (1919)</small><br />
+''[[Russula integra|R. integra]]'' var. ''paludosa'' <small>(Britzelm.) [[Rolf Singer|Singer]] (1923)</small><br />
+''[[Russula integra|R. integra]]'' var. ''rubrotincta'' <small>[[Charles Horton Peck|Peck]] (1902)</small><br />
+''R. olgae'' <small>[[Josef Velenovský|Velen.]] (1920)</small>
+}}
+{{mycomorphbox
+| name             = Russula paludosa
+| whichGills       = decurrent 
+| capShape         = convex
+| hymeniumType     = gills
+| stipeCharacter   = bare
+| ecologicalType   = mycorrhizal
+| sporePrintColor  = ochre
+| sporePrintColor2 = 
+| howEdible        = edible
+}}
+
+'''''Russula paludosa''''' is an edible species of [[fungus|mushroom]] within the large genus ''[[Russula]]''. It is common to Europe and North America.
+
+==Description==
+
+The [[Pileus (mycology)|cap]] is convex to depressed and is coloured a distinctive bloody red, pink, crimson or purple. Sometimes it may show a yellowish or orange tinge in the centre. It may measure between 6 and 20&nbsp;cm in diameter. The [[Trama (mycology)|flesh]] is white with a mild taste and without scent; it quickly becomes soft and spongy and also greyish. The crowded [[Gill (mycology)|gills]] are cream coloured when young, and become yellow with age. They are adnexed and are generally thin. Their edges may sometimes occur reddish. The [[Amyloid (mycology)|amyloid]], elli [[spore]]s measure 8&ndash;10 by 7&ndash;10 [[Micrometre|μm]] are warty and are covered by an incomplete mesh. The [[Stipe (mycology)|stem]] is white, sometimes with a pink hue, slightly clubbed. It may measure 5 to 15&nbsp;cm in height and up to 3&nbsp;cm in diameter.
+
+==Distribution, ecology and habitat==
+''R. paludosa'' is [[mycorrhizal]] and occurs in [[coniferous forest|coniferous woodland]]s and in peat bogs of Europe and North America; preferably under [[pine]] trees, where it forms mycorrhizae. Locally it can be very common.
+
+==Edibility==
+The mushroom is edible<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=150}}</ref> and is a common good in [[Finland|Finnish]] markets.<ref>{{cite book|title=Pocket Guide to Mushrooms and Toadstools | first=David N. |last=Pegler |year=1981 |page=26 |publisher=Mitchell Beazley Publishers |location=London |isbn=978-0-85533-366-9}}</ref> Yet it may easily be mistaken for ''[[Russula emetica]]'', which is poisonous.
+
+==See also==
+*[[List of Russula species|List of ''Russula'' species]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+*{{cite book|title=The Mushrooms and Toadstools of Britain and North Western Europe |last= Bon |first=Marcel |authorlink= Marcel Bon |year=1987 | publisher= Hodder and Stoughton |isbn = 0-340-39935-X}}
+*{{cite web|url=http://www.commanster.eu/commanster/Mushrooms/Russula/SuRussula/Russula.paludosa.html |title=Russula paludosa |first=J.K. |last=Lindsey | work=Ecology of Commanster}}
+*{{cite book|first=Edmund |last= Garnweidner | title=Mushrooms and Toadstools of Britain and Europe | publisher= Collins |year= 1994 |isbn=978-0-261-67406-6}}
+
+==External links==
+{{IndexFungorum|206457}}<br>
+{{MycoBank|206457}}
+* [https://www.first-nature.com/fungi/russula-paludosa.php Russula paludosa in First Nature]
+*{{Commons category-inline}}
+*{{Wikispecies-inline}}
+{{Taxonbar|from=Q618295}}
+
+[[Category:Russula|paludosa]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1891]]
+[[Category:Taxa named by Max Britzelmayr]]
+[[Category:Fungus species]]
+
+
+{{russulales-stub}}

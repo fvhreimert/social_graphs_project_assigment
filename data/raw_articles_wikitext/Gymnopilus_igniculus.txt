@@ -1,0 +1,37 @@
+{{Short description|Species of fungus}}
+{{single source|date=October 2025}}
+{{no footnotes|date=October 2025}}
+{{Speciesbox
+| image = Gymnopilus igniculus 490721.jpg
+| image_caption =
+| taxon = Gymnopilus igniculus
+| authority = Deneyer, P.-A. Moreau & Wuilb.
+| synonyms =
+}}
+{{mycomorphbox
+| name = Gymnopilus igniculus
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+
+'''''Gymnopilus igniculus''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]].
+
+==See also==
+[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==External links==
+*''[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=384328 Gymnopilus igniculus]'' at [[Index Fungorum]]
+
+{{Taxonbar|from=Q5624830}}
+
+[[Category:Gymnopilus|igniculus]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

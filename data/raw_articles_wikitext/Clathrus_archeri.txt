@@ -1,0 +1,68 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Clathrus_archeri.jpg
+| image_caption = Octopus stinkhorn with suberumpent&nbsp;eggs
+| genus = Clathrus
+| species = archeri
+| authority = ([[Miles Joseph Berkeley|Berk.]]) [[Donald M. Dring|Dring]] 1980
+| synonyms_ref = <ref name="urlFungorum synonymy: Clathrus archeri"/>
+| synonyms = *''Lysurus archeri'' <small>Berk. (1859)</small>
+* ''Anthurus archeri'' <small>(Berk.) [[E.Fisch.]] (1886)</small>
+* ''Aserophallus archeri'' <small>(Berk.) [[Otto Kuntze|Kuntze]] (1891)</small>
+* ''Pseudocolus archeri'' <small>(Berk.) [[Curtis Gates Lloyd|Lloyd]] (1913)</small>
+* ''Schizmaturus archeri'' <small>(Berk.) [[Locq.]] (1977)</small>
+}}
+{{mycomorphbox
+| name = ''Clathrus archeri''
+| hymeniumType = gleba
+| capShape = no
+| whichGills = no
+| stipeCharacter = NA
+| sporePrintColor =olive-brown
+| ecologicalType = saprotrophic
+| howEdible = unknown
+}}
+
+'''''Clathrus archeri''''' (synonyms ''Lysurus archeri'', ''Anthurus archeri'', ''Pseudocolus archeri''), commonly known as '''octopus stinkhorn'''<ref>{{Cite book |last1=Sisson |first1=Liv |url=https://www.worldcat.org/title/on1372569849 |title=Fungi of Aotearoa: a curious forager's field guide |last2=Vigus |first2=Paula |date=2023 |publisher=Penguin Books |isbn=978-1-76104-787-9 |location=Auckland, New Zealand |pages=263 |oclc=on1372569849}}</ref> or '''devil's fingers''',<ref>[http://www.kew.org/science-conservation/plants-fungi/clathrus-archeri-devils-fingers Clathrus archeri (devil's fingers)]</ref> is a [[fungus]] which has a global distribution. This species was first described in 1980 in a collection from [[Tasmania]].<ref>{{Cite journal |last=Dring |first=D. M. |date=1980 |title=Contributions towards a Rational Arrangement of the Clathraceae |journal=Kew Bulletin |volume=35 |issue=1 |pages=1–ii |doi=10.2307/4117008|jstor=4117008 |bibcode=1980KewBu..35....1D }}</ref> The young fungus erupts from a suberumpent egg by forming into four to seven elongated slender arms initially erect and attached at the top. The arms then unfold to reveal a pinkish-red interior covered with a dark-olive [[spore]]-containing [[gleba]]. In maturity it smells like putrid flesh.
+
+== Description ==
+''Clathrus archeri'' grows in 2 distinct stages, first an egg stage followed by the fungal "arms" emerging. In the first stage, it forms a white ball-like egg shape, usually {{convert|2-3|cm|frac=8|abbr=on}} in diameter.<ref name=":2" /> Next, the [[thallus]] emerges from the egg in a starfish-like shape with 4-6 arms on average (up to 8).<ref name=":2" /> Each arm can grow up to {{convert|10|cm|frac=4|abbr=on}} in length and is coated in gleba on the upper surface. [[Fruiting bodies]] produce a red-orange color due to the production of [[carotenoid]]s. The spores are oblong, smooth, and 3.5–6 x 1.5–2&nbsp;[[μm]] in size.<ref name=":2">{{Cite journal |last1=Arora |first1=David |last2=Burk |first2=William R. |date=May 1982 |title=Clathrus Archeri , A Stinkhorn New to North America |url=https://www.tandfonline.com/doi/full/10.1080/00275514.1982.12021535 |journal=Mycologia |language=en |volume=74 |issue=3 |pages=501–504 |doi=10.1080/00275514.1982.12021535 |issn=0027-5514|url-access=subscription }}</ref> As other members of the family [[Phallaceae]], the strong putrid smell of the gleba shows [[convergent evolution]] with some [[angiosperm]] flowers called [[Zoophily#Fly pollination (myophily and sapromyophily)|sapromyophilous]] flowers.<ref name=":0">{{Cite journal |last1=Johnson |first1=S.D. |last2=Jürgens |first2=A. |date=October 2010 |title=Convergent evolution of carrion and faecal scent mimicry in fly-pollinated angiosperm flowers and a stinkhorn fungus |journal=South African Journal of Botany |language=en |volume=76 |issue=4 |pages=796–807 |doi=10.1016/j.sajb.2010.07.012|doi-access=free }}</ref>
+
+In a laboratory setting, ''C. archeri'' was found to grow best in {{convert|26|C}} on a compost agar medium with a [[pH]] of 6.0.<ref name=":1">{{Cite journal |last=Mykchaylova |first=Oksana |date=January 2022 |title=Morphological Characteristics of the Culture ''Clathrus Archeri'' (Phallaceae, Basidiomycota) |url=https://www.researchgate.net/publication/358234688 |journal=Polish Journal of Natural Science |volume=36 |pages=283–298 |via=ResearchGate}}</ref> Under these conditions, the thallus grew an average of {{convert|2.9|mm|frac=32|abbr=on}} a day over 4 weeks and in a radial shape. ''C.&nbsp;archeri'' produces white and fluffy [[mycelium]] and eventually turns a pink color. Mycelia strands are {{convert|0.5|-|1.5|mm|frac=64|abbr=on}} in diameter and branch in a tree-like manner. Fungal [[hypha]]e create irregularly shaped [[Vesicle (biology and chemistry)|vesicle]]s that contain [[lipid]]s. On the surface of the hyphae, [[calcium oxalate]] crystals are secreted. It is hypothesized that this outer layer of crystals creates a protective hydrophobic layer around the hyphae.<ref name=":1" /> ''C.&nbsp;archeri'' forms unstable perforate septal pore caps; this may suggest that perforation formation in ''Phallomycetidae'' begins later in comparison to similar groups.<ref>{{Citation |last1=Hibbett |first1=D. S. |title=14 Agaricomycetes |date=2014 |url=http://link.springer.com/10.1007/978-3-642-55318-9_14 |work=Systematics and Evolution |pages=373–429 |editor-last=McLaughlin |editor-first=David J. |place=Berlin, Heidelberg |publisher=Springer Berlin Heidelberg |language=en |doi=10.1007/978-3-642-55318-9_14 |isbn=978-3-642-55317-2 |access-date=2022-05-07 |last2=Bauer |first2=R. |last3=Binder |first3=M. |last4=Giachini |first4=A. J. |last5=Hosaka |first5=K. |last6=Justo |first6=A. |last7=Larsson |first7=E. |last8=Larsson |first8=K. H. |last9=Lawrey |first9=J. D. |editor2-last=Spatafora |editor2-first=Joseph W.|url-access=subscription }}</ref>
+
+=== Chemistry ===
+''Clathrus archeri'' produces [[Chemical compound|compounds]] similar to the scent of rotting flesh. This compound production supports evidence of [[convergent evolution]] between fungi and angiosperms. This scent is used by the fungus to attract flies to serve as agents for spore dispersal.
+
+== Habitat and distribution ==
+''Clathrus archeri'' is commonly found in environments with abundant decaying organic matter. It is most common in leaf litter and mulch, in both woodlands and grasslands. Saprophytes prefer areas with high moisture or water, access to oxygen, neutral pH, and low-medium temperatures.
+
+The species is believed to be endemic to [[southern Africa]], [[New Zealand]] and [[Australia]], but has been spreading to other continents and is often [[Invasive species|invasive]].<ref name=":0" /> ''Clathrus archeri'' now has a global distribution and has been naturalised in [[Europe]] and [[North America]]. It was first discovered in the [[United Kingdom|UK]] over a century ago (~1914) and has spread across much of Europe. ''Clathrus archeri'' was likely introduced via [[wool]] fabric in supplies for [[World War I|WWI]]. As [[climate change]]s drive niche habitat loss, ''Clathrus archeri'' is expected to become threatened in Australia but is expected to expand to northeast Europe.<ref>{{Cite journal |last1=Pietras |first1=Marcin |last2=Kolanowska |first2=Marta |last3=Selosse |first3=Marc-André |date=2021-03-01 |title=Quo vadis? Historical distribution and impact of climate change on the worldwide distribution of the Australasian fungus Clathrus archeri (Phallales, Basidiomycota) |journal=Mycological Progress |language=en |volume=20 |issue=3 |pages=299–311 |doi=10.1007/s11557-021-01669-w |s2cid=232378205 |issn=1861-8952|doi-access=free |bibcode=2021MycPr..20..299P }}</ref> The expansion of ''Clathrus archeri'' in Europe is further supported by its invasion into 2 new [[Romania]]n sites in July 2013.<ref>{{Cite journal |last1=Bîrsan |first1=Ciprian |last2=Cojocariu |first2=Ana |last3=Cenușă |first3=Elena |date=2014-09-22 |title=Distribution and Ecology of Clathrus archeri in Romania |url=https://www.notulaebiologicae.ro/index.php/nsb/article/view/9389 |journal=Notulae Scientia Biologicae |language=en |volume=6 |issue=3 |pages=288–291 |doi=10.15835/nsb639389 |issn=2067-3264|doi-access=free }}</ref> Furthermore, ''Clathrus archeri'' has been found in 90 sites in [[Poland]] as of 2013, 65% of which are located in forests.<ref>{{Cite journal |last=Szczepkowski |first=Andrzej |date=April 2012 |title=Obce gatunki sromotnikowatych Phallaceae w lasach Polski |url=https://www.researchgate.net/publication/264810233 |journal=Studia i Materiały Centrum Edukacji Przyrodniczo-Leśnej |volume=33 |pages=279–295 |via=www.researchgate.net}}</ref> Recent modeling studies in Poland expect the alien species to occur in areas with a thick layer of snow, which does not melt in winter, at higher altitudes, where the water deficit is low.<ref>{{Cite journal |last1=Bîrsan |first1=Ciprian |last2=Mardari |first2=Constantin |last3=Copoţ |first3=Ovidiu |last4=Tănase |first4=Cătălin |date=2021 |title=Modelling the potential distribution and habitat suitability of the alien fungus Clathrus archeri in Romania |url=http://www.doiserbia.nb.rs/Article.aspx?ID=1821-21582102241B |journal=Botanica Serbica |language=en |volume=45 |issue=2 |pages=241–250 |doi=10.2298/BOTSERB2102241B |s2cid=240201318 |issn=1821-2158|doi-access=free }}</ref>
+
+Recently, ''C. archeri'' var. ''alba'' with white tentacles or arms has been reported from the Shola Forests in the [[Western Ghats]], Kerala, India.<ref name="Mohanan2011">{{cite book |author=Mohanan, C. |title=''Macrofungi of Kerala'' |publisher=Kerala Forest Research Institute |year=2011 |isbn=978-81-85041-73-5 |location=Kerala, India.}}</ref>
+
+== Ecology ==
+''Clathrus archeri'' grows best in environments rich in decaying vegetation. The fungus is a saprotroph. It is most commonly found in [[leaf litter]] or [[mulch]] below vegetation. The most abundant acid secreted by the fungus is [[oxalic acid]], this acid binds to metal [[cation]]s and increases the [[bioavailability]] of some minerals.<ref name=":1" /> Fungal mycelium exhibits calcium pooling which changes soil pH and availability of [[phosphorus]] for surrounding flora.<ref name=":1" />
+
+==Edibility==
+Due to the rotting stench of stinkhorns, there are no common culinary applications. [[David Arora]] recounts trying to eat the young 'eggs', which are contained in a gelatinous layer of spore mucilage and left an unpleasant aftertaste for hours.<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/774/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, California |pages=774-75 |orig-date=1979}}</ref>
+
+==References==
+{{Reflist|refs=
+<ref name="urlFungorum synonymy: Clathrus archeri">{{cite web |title=GSD Species Synonymy: ''Clathrus archeri'' (Berk.) Dring |url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=112728 |publisher=Species Fungorum. CAB International |access-date=2015-12-08}}</ref>
+}}
+
+==External links==
+{{Commons and category|Clathrus archeri|Clathrus archeri}}
+* ''Clathrus archeri'' discussed on [[Radio New Zealand|RNZ]] ''[[Critter of the Week]]'', [https://www.rnz.co.nz/national/programmes/afternoons/collections/critter-of-the-week/audio/2018882523/critter-of-the-week-the-devil-s-fingers-fungus 17 March 2023]
+
+{{Taxonbar|from=Q1757951}}
+
+[[Category:Phallales]]
+[[Category:Fungi described in 1859]]
+[[Category:Fungi native to Australia]]
+[[Category:Fungi of New Zealand]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Miles Joseph Berkeley]]
+[[Category:Fungus species]]

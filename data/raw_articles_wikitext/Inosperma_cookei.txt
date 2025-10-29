@@ -1,0 +1,97 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{speciesbox 
+| image = Inocybe cookei 20080913w.JPG
+| image_caption = 
+| image_alt = Four light yellow mushrooms growing from dark soil. One has been pulled from the Earth, and lies on its side.
+| taxon = Inosperma cookei
+| authority = ([[Giacomo Bresadola|Bres.]]) Matheny & Esteve-Rav., 2019
+| synonyms_ref = <ref name="urlMycoBank: Inocybe cookei"/>
+| synonyms =''Inocybe cookei''<small>Bres</small><br />
+''Inocybe kuthanii'' <small>Stangl & J.Veselský</small><br />
+''Inocybe cookei'' var. ''kuthanii'' <small>(Stangl & J.Veselský) Kuyper</small>
+}}
+{{mycomorphbox
+| name             = ''Inosperma cookei''
+| whichGills       = adnexed
+| capShape         = campanulate
+| hymeniumType     = gills
+| stipeCharacter   = bare
+| ecologicalType   = mycorrhizal
+| sporePrintColor  = brown
+| howEdible        = poisonous
+}}
+{{stack end}}
+
+'''''Inosperma cookei''''', [[common name|commonly known]] as the '''straw fibrecap''', is a species of [[mushroom]] in the family [[Inocybaceae]]. It was first described in 1892 by [[Giacomo Bresadola]], and is named in honour of [[Mordecai Cubitt Cooke]]. The species is found in Europe, Asia, and North America. It produces small mushrooms of an [[ochre]] colour, with a prominent [[umbo (mycology)|umbo]], fibres on the [[pileus (mycology)|cap]] and a distinctive bulb at the base of the [[stipe (mycology)|stem]]. It grows from soil in [[mixed forest|mixed woodland]], and is encountered in summer and autumn, though is not common. Ecologically, it feeds through use of [[ectomycorrhiza]]. ''Inosperma cookei'' has been described as both [[mushroom poisoning|toxic]] and non-toxic, but either way, is not advised for consumption.
+
+==Taxonomy and naming==
+{{cladogram|align=left|title=
+|clade=
+{{clade
+|style=font-size:75%;line-height:75%
+|label1=
+|1={{clade
+    |1={{clade
+       |1=''I. maculatum'' f. ''fulvum''
+       |2=''[[Inosperma maculatum|I. maculatum]]''
+       }}
+    |2={{clade
+       |1='''''I. cookei'''''
+       |2=''[[Inosperma quietiodor|I. quietiodor]]''
+       }}
+    |3={{clade
+        |1=''[[Inosperma rhodiolum|I. rhodiolum]]''
+        |2=''[[Inosperma adaequatum|I. adaequatum]]''
+        |3=''[[Inosperma erubescens|I. erubescens]]''
+        }}
+    }}
+}}
+|caption=Phylogeny and relationships of ''I.&nbsp;cookei'' and related species in section ''Maculata'' based on [[Internal transcribed spacer|ITS]], large-subunit, and mitochondrial small-subunit [[rRNA]] sequence data.<ref name="Larsson"/>
+}}
+''Inocybe cookei'' was first described by [[Giacomo Bresadola]] in 1892;<ref name="urlMycoBank: Inocybe cookei"/> the [[specific name (botany)|specific epithet]] ''cookei'' honours the British mycologist [[Mordecai Cubitt Cooke]].<ref name=Rea1922>{{cite book |title=British Basidiomycetaceae: a Handbook to the Larger British Fungi |author=Rea, Carleton |author-link=Carleton Rea |year=1922 |publisher=Cambridge University Press |location=Cambridge, UK |page=205 |url=https://www.biodiversitylibrary.org/page/17128040}}</ref> Mycologists J. Stangl and J. Veselský described ''Inocybe kuthanii'' in 1979,<ref>{{cite journal |title=''Inocybe kuthanii'' sp. nov. Eine neue Art in Sektion ''Rimosae'', Stirps '' Cookei'' Heim gehörend. (Beiträge zur Kenntnis seltenerer Inocyben. Nr. 15) |journal=Ceská Mykologie |year=1979 |author1=Stangl, J. |author2=Veselský, J. |volume=33 |issue=3 |pages=134–37 |language=German}}</ref> which was later described as a [[variety (botany)|variety]] of ''Inocybe cookei'' (''Inocybe cookei'' var. ''kuthanii'') by Thom Kuyper in 1986,<ref>{{cite journal |title=A revision of the genus ''Inocybe'' in Europe. I. Subgenus ''Inosperma'' and the smooth-spored species of subgenus ''Inocybe'' |journal=Persoonia Supplement |year=1986 |author=Kuyper, T.W. |volume=3 |page=51}}</ref> but [[MycoBank]] now lists both names as [[Synonym (taxonomy)|synonyms]] of ''I.&nbsp;cookei''.<ref name="urlMycoBank: Inocybe cookei">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=223073 |title=''Inocybe cookei'' |publisher=[[MycoBank]]. International Mycological Association|access-date=2010-12-23}}</ref> The mushroom is [[common name|commonly known]] as the straw fibrecap.<ref name="Sterry"/>
+
+Within ''[[Inocybe]]'', it is placed within the [[subgenus]] ''Inosperma'',<ref name="Larsson"/> and was previously categorised within the [[section (botany)|section]] ''Rimosae''.<ref name="Kew"/> However, [[Molecular phylogenetics|phylogenetic analysis]] has shown that section ''Rimosae'' as formerly defined does not form a [[monophyletic]] group (that is, descended from a single exclusive ancestor), and former ''Rimosae'' species are better grouped into two [[cladistics|clades]], ''Maculata'' and ''Rimosae''. Phylogenetic analysis has placed the species in the clade ''Maculata''. Other species joining ''I.&nbsp;cookei'' in the ''Maculata'' clade include ''[[Inocybe maculata|I.&nbsp;maculata]]'', ''[[Inocybe quietiodor|I.&nbsp;quietiodor]]'', ''[[Inocybe rhodiola|I.&nbsp;rhodiola]]'', ''[[Inocybe adaequata|I.&nbsp;adaequata]]'', and ''[[Inocybe erubescens|I.&nbsp;erubescens]]''.<ref name="Larsson">{{cite journal |author1=Larsson, E. |author2=Ryberg, M. |author3=Moreau, P.-A. |author4=Mathiesen, Å. Delcuse |author5=Jacobsson, S. |year=2009 |title=Taxonomy and evolutionary relationships within species of section ''Rimosae'' (''Inocybe'') based on ITS, LSU and mtSSU sequence data |journal=Persoonia |volume=23 |pages=86–98 |url=http://www.persoonia.org/Issue/23/08.pdf |doi=10.3767/003158509X475913 |pmid=20198163 |pmc=2802730 |access-date=2010-09-29 |archive-url=https://web.archive.org/web/20110727172529/http://www.persoonia.org/Issue/23/08.pdf |archive-date=2011-07-27 |url-status=dead }}</ref>
+
+A 2019 multigene phylogenetic study by Matheny and colleagues found that ''I. cookei'' and its relatives in the subgenus ''Inosperma'' were only distantly related to the other members of the genus ''Inocybe''. ''[[Inosperma]]'' was raised to genus rank and the species became ''Inosperma cookei''.<ref>{{cite journal |doi=10.1080/00275514.2019.1668906|title=Genera of Inocybaceae: New skin for the old ceremony|year=2020|last1=Matheny|first1=P. Brandon|last2=Hobbs|first2=Alicia M.|last3=Esteve-Raventós|first3=Fernando|journal=Mycologia|volume=112|issue=1|pages=83–120|pmid=31846596|s2cid=209407151|url=https://figshare.com/articles/dataset/Genera_of_Inocybaceae_New_skin_for_the_old_ceremony/11388705 |url-access=subscription}}</ref>
+
+==Description==
+''Inosperma cookei'' has a conical or bell-shaped [[pileus (mycology)|cap]] of between {{convert|2|and|5|cm|in}} in diameter. As the mushrooms age, the cap becomes flatter, and an [[umbo (mycology)|umbo]] becomes prominent. The margin of the cap frequently cracks towards the centre. The cap is an [[ochre]] colour, and the upper surface is covered in long fibres.<ref name="Phillips"/> The silky fibres thickly cover the cap, starting and the centre and extending to the cap's margin.<ref name="Jordan"/> The species has a whitish or ochre [[stipe (mycology)|stem]] of {{convert|30|to|60|mm|in}} in height by {{convert|4|to|8|mm|in}} in thickness.<ref name="Phillips"/> There is a distinctive [[wikt:marginate|marginate]] bulb at the base of the stem,<ref name="Kibby"/> and no [[Annulus (mycology)|ring]].<ref name="Jordan"/> The [[Trama (mycology)|flesh]] is white, becoming yellow with age.<ref name="Jordan"/> ''Inosperma cookei'' mushrooms have closely packed adnexed [[lamella (mycology)|gills]] (gills that are attached to the stem only on part of their depth).<ref name="Phillips">{{cite book |title= Mushrooms and Other Fungi of Great Britain and Europe|author= Phillips, Roger|year= 1981|publisher= [[Pan Books]]|location= London|isbn= 0-330-26441-9|page=149}}</ref><ref name="Pegler"/> Gills on young mushrooms are whitish, then become a grey-tinged pale ochre before becoming [[cinnamon]] yellow.<ref name="Jordan"/>
+
+===Microscopic features===
+''Inosperma cookei'' leaves a [[Snuff (tobacco)|snuff]]-brown [[spore print]]. The [[spore]]s themselves are [[bean]]-shaped,<ref name="Phillips"/> measuring from {{convert|5.5|to|10|um}} by {{convert|4|to|6|um}}. The walls of the spores (which are around {{convert|0.5|um}} thick) can be smooth or slightly wrinkled, and there is a distinct depression just above the hilum (the scar where the spore was once attached to the [[basidium]]).<ref name="Kew">{{cite journal |title=Basidiospore form in the British species of ''Inocybe'' |author1=Pegler, D.N. |author2=Young, T.W.K. |journal=Kew Bulletin |year=1972 |pages=499–537 |volume=26 |issue=3 |doi=10.2307/4120316|jstor=4120316 }}</ref> The basidia are four-spored, and the thin-walled, gill-edge [[cheilocystidia]] are pear-shaped.<ref name="Jordan"/>
+
+===Similar species===
+{{multiple image
+| footer = ''[[Inocybe praetervisa|I.&nbsp;praetervisa]]'' (left) and ''[[Inocybe rimosa|I.&nbsp;rimosa]]'' (right) are lookalikes.
+| image1 = Inocybe praetervisa 21502.jpg
+| width1 = {{#expr: (150 * 2304 / 3072) round 0}}
+| image2 = Inocybe rimosa.jpg
+| width2 = {{#expr: (150 * 800 / 600) round 0}}
+}}
+The species can be differentiated from the similar ''[[Inocybe praetervisa|I. praetervisa]]'' by its spores; the latter "has irregular, lumpy spores".<ref name="Kibby"/> ''[[Inocybe rimosa]]'', the split fibrecap, is also similar in appearance; the rarer ''I.&nbsp;cookei'' can be differentiated by the smell of honey and the marginate bulb.<ref name="Sterry"/> The colouration, as well as the thick stem with a bulb, are features shared by two other species of ''Inocybe''; ''[[Inocybe mixtilis|I.&nbsp;mixtilis]]'' and ''[[Inocybe cryptocystis|I.&nbsp;cryptocystis]]''.<ref>{{cite journal |title=Two new species of ''Inocybe'' (Cortinariales) from Spain, with a comparative type study of some related taxa |author=Esteve-Raventós, Fernando |journal=Mycological Research |volume=105 |issue=9 |pages=1137–43 |year=2001 |doi=10.1016/s0953-7562(08)61978-4}}</ref> Another fragrant ''Inocybe'' is ''[[Inocybe pyriodora|I.&nbsp;pyriodora]]'', which has an odor resembling cinnamon, or ripe pears in mature specimens; unlike ''I.&nbsp;cookei'', it lacks a bulb at the base of its stem, and bruises a reddish colour when handled or with age.<ref name=Arora1986>{{cite book |author=Arora, D. |author-link=David Arora |title=Mushrooms Demystified: a Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |location=Berkeley, California |year=1986 |page=[https://archive.org/details/mushroomsdemysti00aror_0/page/459 459] |isbn=0-89815-169-4 |url-access=registration |url=https://archive.org/details/mushroomsdemysti00aror_0/page/459 }}</ref>
+
+==Distribution and habitat==
+''Inosperma cookei'' is an occasional to frequent mushroom, found growing in mixed woodland on the ground.<ref name="Phillips"/><ref name="Kibby">{{cite book |title=Mushrooms and Toadstools of Britain and Northern Europe |last=Kibby |first=Geoffrey |year=2003 |publisher=[[Hamlyn (publishers)|Hamlyn]] |isbn=978-0-7537-1865-0 |page=99}}</ref> It is [[ectomycorrhizal]],<ref name="Mexico"/> and grows from summer to late autumn,<ref name="Phillips"/> solitarily or in "trooping groups".<ref name="Jordan">{{cite book |title=The Encyclopedia of Fungi of Britain and Europe |author=Jordan, Michael |author-link=Michael Jordan (mycologist) |year=2004 |publisher=[[Frances Lincoln]] |isbn=978-0-7112-2378-3 |page=287}}</ref> It has been recorded in Europe,<ref name="Phillips"/> Russia,<ref>{{cite journal |title=''Inocybe'' (Basidiomycota, Agaricales) from Kamchatka (Siberia, Russia): taxonomy and ecology |author1=Peintner, U |author2=Horak, E. |journal=Sydowia |pages=198–241 |volume=54 |issue=2 |year=2002}}</ref> China,<ref>{{cite book |title=The Macrofungus Flora of China's Guangdong Province |last=Bi |first=Zhishu |author2=Zheng, Guoyang |author3=Li, Taihui  |year=1993 |publisher=Chinese University Press |isbn=978-962-201-556-2 |page=428}}</ref> Mexico,<ref name="Mexico">{{cite journal |author1=Reverchon, Frédérique |author2=Ortega-Larrocea, María d.P. |author3=Pérez-Moreno, Jesús |author4=Peña-Ramírez, Víctor M. |author5=Siebe, Christina |year=2010 |title=Changes in community structure of ectomycorrhizal fungi associated with ''Pinus montezumae'' across a volcanic soil chronosequence at Sierra Chichinautzin, Mexico |journal=Canadian Journal of Forest Research |volume=40 |issue=6 |pages=1165–74 |doi=10.1139/X10-062|hdl=10072/40103 |hdl-access=free }}</ref> and the United States.<ref>{{cite journal |author=Kauffman, C.H. |year=1917 |title=Tennessee and Kentucky Fungi |journal=[[Mycologia]] |volume=9 |issue=3 |pages= 159–66 |jstor=3753332 |issn=0027-5514 |doi=10.2307/3753332|url=https://www.biodiversitylibrary.org/part/246177 }}</ref>
+
+==Toxicity and edibility==
+''Inosperma cookei'' has been described as both [[mushroom poisoning|poisonous]] (due to the presence of [[muscarine]] compounds)<ref name="Kibby"/> and non-toxic.<ref name="Pegler"/> Consumption of mushrooms containing muscarine compounds could lead to a number of physiological effects, including: excess [[salivation]], [[lacrimation]], uncontrolled [[urination]] or [[defecation]], [[gastrointestinal problem]]s and [[emesis]] (vomiting); this array of symptoms may also be known by the acronym [[SLUDGE syndrome|SLUDGE]].<ref name="Hall">{{cite book |title=Edible and Poisonous Mushrooms of the World |url=https://archive.org/details/ediblepoisonousm00hall |url-access=limited |last=Hall |first=Ian Robert |author2=Buchanan, Peter K. |author3=Stephenson, Steven L. |author4=Yun, Wang |author5= Cole, Anthony L.J.  |year=2003 |publisher=[[Timber Press]] |isbn=978-0-88192-586-9 |pages=[https://archive.org/details/ediblepoisonousm00hall/page/n108 108]–109}}</ref> Other potential effects include a drop in [[blood pressure]], [[sweating]], and death due to [[respiratory failure]].<ref name="Hall"/> The flesh of the mushroom has a mild taste and a slight smell of honey.<ref name="Sterry">{{cite book |title= Complete Guide to British Mushrooms & Toadstools |author1=Sterry, Paul |author2=Hughes, Barry |year=2009 |publisher=[[HarperCollins]] |isbn=978-0-00-723224-6 |page=192}}</ref><ref name="Phillips"/> Regardless of its actual toxicity or edibility, it is considered "best avoided".<ref name="Pegler">{{cite book |title=Mushrooms and Toadstools |last=Pegler |first=David N. |year=1983 |publisher=Mitchell Beazley Publishing |location=London |isbn=0-85533-500-9 |page=85}}</ref>
+
+==See also==
+{{portal|fungi}}
+*[[List of Inocybe species|List of ''Inocybe'' species]]
+
+==References==
+{{Reflist|colwidth=30em}}
+
+{{Good article}}
+{{Taxonbar|from=Q6036493}}
+
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Inosperma|cookei]]
+[[Category:Poisonous fungi]]
+[[Category:Fungi described in 1892]]
+[[Category:Taxa named by Giacomo Bresadola]]
+[[Category:Fungus species]]

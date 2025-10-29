@@ -1,0 +1,87 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = 2010-08-06 Cordyceps militaris 1.jpg
+| image_caption = 
+| genus = Cordyceps
+| species = militaris
+| authority = ([[Carl Linnaeus|L.]]) [[Elias Magnus Fries|Fr.]] (1818)
+| synonyms_ref = <ref name="urlFungorum synonymy: Cordyceps militaris"/>
+| synonyms = 
+''Clavaria militaris'' <small>L. (1753)</small><br>
+''Sphaeria militaris'' <small>(L.) J.F. Gmel. (1792)</small><br>
+''Cordylia militaris'' <small>(L.) Fr. (1818)</small><br>
+''Hypoxylon militare'' <small>(L.) Mérat, (1821)</small><br>
+''Xylaria militaris'' <small>(L.) Gray (1821)</small><br>
+''Corynesphaera militaris'' <small>(L.) Dumort. (1822)</small><br>
+''Kentrosporium militare'' <small>(L.) Wallr. (1844)</small><br>
+''Torrubia militaris'' <small>(L.) Tul. & C. Tul. (1865)</small>
+}}
+
+'''''Cordyceps militaris''''', commonly known as the '''caterpillar fungus''',<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/882/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, California |pages=882 |orig-date=1979}}</ref> is a species of [[fungus]] in the family [[Cordycipitaceae]], and the [[type species]] of the genus ''[[Cordyceps]]'', which consists of hundreds of species.<ref>{{Cite journal |last1=Ng |first1=T B |last2=Wang |first2=H X |date=2010-02-18 |title=Pharmacological actions of Cordyceps, a prized folk medicine |url=https://academic.oup.com/jpp/article/57/12/1509/6147429 |journal=Journal of Pharmacy and Pharmacology |language=en |volume=57 |issue=12 |pages=1509–1519 |doi=10.1211/jpp.57.12.0001 |issn=0022-3573 |pmid=16354395 |s2cid=35081231|url-access=subscription }}</ref> The species was originally [[species description|described]] by [[Carl Linnaeus]] in 1753 as ''Clavaria militaris''.<ref name="urlFungorum synonymy: Cordyceps militaris"/> ''Cordyceps militaris'' parasitizes insects and is used in [[traditional Chinese medicine]].
+
+It is commonly marketed as a [[dietary supplement]] for various health benefits but lacks sufficient [[scientific evidence]] for safety or effectiveness, and quality can vary due to inconsistent processing and labeling.
+
+==Description==
+The fungus forms {{Convert|1–8|cm|frac=4}} high, club-shaped<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=381–382|oclc=797915861}}</ref> and orange/red fruiting bodies, which grow out of dead underground pupae. The club is covered with the [[Stroma (fungus)|stroma]], into which the actual fruit bodies, the [[perithecia]], are inserted. The surface appears roughly punctured. The inner fungal tissue is whitish to pale orange.
+
+===Microscopic features===
+
+The spores are smooth, hyaline, long-filiform, and often septate. They decompose to maturity in 3–7&nbsp;[[μm]] × 1–1.2&nbsp;μm sub pores. The [[Ascus|asci]] are long and cylindrical. Sometimes an [[Teleomorph, anamorph and holomorph|anamorphic]] state, which is ''[[Isaria]]'', is found. Masses of white [[mycelia]] form around the parasitized insect; however, these may not be of the same species.
+
+=== Similar species ===
+There are over 400 wild ''Cordyceps'' species.<ref>{{cite journal |last=Sung |first=Gi-Ho |author2=Nigel L. Hywel-Jones |author3=Jae-Mo Sung |author4=J. Jennifer Luangsa-ard |author5=Bhushan Shrestha |author6=Joseph W. Spatafora |name-list-style=amp |year=2007 |title=Phylogenetic classification of Cordyceps and the clavicipitaceous fungi |journal=Stud Mycol |volume=57 |issue=1 |pages=5–59 |doi=10.3114/sim.2007.57.01 |pmc=2104736 |pmid=18490993}}</ref> Some similar species include ''C.''&nbsp;''sobolifera'', ''Elaphocordyceps capitata'', and [[Tolypocladium ophioglossoides|''E.''&nbsp;''ophioglossoides'']].<ref name=":0" />
+
+== Distribution and habitat ==
+Many authors consider ''C. militaris'' quite common, spread throughout the Northern Hemisphere,<ref>[https://www.dgfm-ev.de/presse-und-aktuelles/pilz-des-jahres/pilz-des-jahres-2007-puppen-kernkeule Pilz des Jahres] 2007: ''Cordyceps militaris'' (L.) Link, Puppenkernkeule</ref> and fruiting bodies appear in Europe from August to November.
+
+==Uses==
+{{Mycomorphbox
+| name = ''Cordyceps militaris''{{italic title}}
+| hymeniumType = smooth
+| capShape = no
+| whichGills = no
+| stipeCharacter = bare
+| ecologicalType = parasitic
+| howEdible = edible
+| howEdible2 = inedible
+}}
+
+''C. militaris'' can be cultivated in a variety of media, including [[silkworm]] [[pupae]], [[rice]], and liquid nutrition.{{citation needed|date=May 2025}} It is cultivated in China, Vietnam, Taiwan, and Indonesia.<ref>{{cite web |title=Taiwanese company cultivates cordyceps in Indonesia |url=https://en.antaranews.com/news/108304/taiwanese-company-cultivates-cordyceps-in-indonesia |website=Antara News |language=en |date=10 December 2016}}</ref>
+
+It is considered inedible or "probably edible" by North American field guides.<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=379}}</ref><ref name=":0" /> In Asia the fruiting body is cooked as a mushroom in dishes like [[chicken soup]],<ref>{{cite web |title=虫草花淮山杞子鸡汤 |url=https://www.xinshipu.com/zuofa/680388 |website=心食谱}}</ref> pork bone soup<ref>{{cite web |title=Cordyceps militaris pork bone soup |url=https://simplechinesefood.com/recipe/cordyceps-militaris-pork-bone-soup |website=Simple Chinese Food}}</ref> and [[hot pot]]. It is approved as a [[novel food]] in China.{{citation needed|date=May 2025}}
+
+It is commonly marketed as a [[dietary supplement]] for various health benefits but lacks sufficient [[scientific evidence]] for safety or effectiveness, and quality can vary due to inconsistent processing and labeling.<ref name="opss">{{cite web |date=2020-07-29 |title=Mushrooms in dietary supplements |url=https://www.opss.org/article/mushrooms-dietary-supplements |access-date=2025-05-19 |website=Operation Supplement Safety |publisher=Consortium for Health and Military Performance}}</ref>
+
+''C. militaris'' crops can be affected by pathogenic [[mold]]s that parasitize and kill the fungus.<ref>{{cite journal |last1=Nguyen |first1=Trung Thanh |last2=Le |first2=Thi Nguyen-Gia |last3=Nguyen |first3=Thuan Huy |title=First report of emerging fungal pathogens of Cordyceps militaris in Vietnam |journal=Scientific Reports |date=17 October 2023 |volume=13 |issue=1 |page=17669 |doi=10.1038/s41598-023-43951-9 |doi-access=free|pmid=37848482 |pmc=10582018 }}</ref><ref>{{cite journal |last1=Peng |first1=Huanhuan |last2=Cong |first2=Yunlong |last3=Zhao |first3=Yitong |last4=Liu |first4=Zhenghui |last5=Li |first5=Yu |title=Trichoderma gamsii, a new pathogen causing disease on cultivated mushroom Cordyceps militaris in China |journal=Crop Protection |date=October 2024 |volume=184 |article-number=106864 |doi=10.1016/j.cropro.2024.106864}} [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4849502 preprint]</ref>
+
+===Phytochemistry ===
+
+''C. militaris'' produces [[cordycepin]], a [[nucleoside]] analog of [[adenosine]].<ref name="Tuli Sharma Sandhu Kashyap 2013 pp. 863–869">{{cite journal |last1=Tuli |first1=Hardeep S. |last2=Sharma |first2=Anil K. |last3=Sandhu |first3=Sardul S. |last4=Kashyap |first4=Dharambir |title=Cordycepin: A bioactive metabolite with therapeutic potential |journal=Life Sciences |publisher=Elsevier BV |volume=93 |issue=23 |year=2013 |issn=0024-3205 |doi=10.1016/j.lfs.2013.09.030 |pages=863–869|pmid=24121015 }}</ref>
+
+=== Drug production ===
+For cordycepin to accumulate, the fungus also produces [[pentostatin]] to protect cordycepin from adenosine deaminase. Pentostatin (''Nipent'') is used in [[chemotherapy]] for people with [[hairy cell leukemia]].<ref>{{cite web |title=Pentostatin |url=https://www.drugs.com/mtm/pentostatin.html |publisher=Drugs.com |access-date=20 May 2025 |date=17 March 2025}}</ref>
+
+==Gallery==
+<gallery>
+File:Cordyceps militaris jar.jpg|A jar of dry ''C.&nbsp;militaris'' fruiting body
+</gallery>
+
+==References==
+{{Reflist|refs=
+
+<ref name="urlFungorum synonymy: Cordyceps militaris">{{cite web |title=GSD Species Synonymy: ''Cordyceps militaris'' (L.) Fr. |url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=237604 |publisher=Species Fungorum. CAB International |access-date=2014-05-20}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|237604}}
+*{{commons category-inline}} 
+*{{Wikispecies-inline| Cordyceps}}
+
+{{Taxonbar|from=Q2118699}}
+
+[[Category:Cordyceps|militaris]]
+[[Category:Fungi described in 1753]]
+[[Category:Fungal taxa named by Carl Linnaeus]]
+[[Category:Fungus species]]
+[[Category:Fungi in cultivation]]

@@ -1,0 +1,78 @@
+{{Short description|Species of fungus}}
+{{speciesbox
+| image = Scleroderma_cepa.jpg
+| image_alt = A group of three round, flattened, brown fungal fruiting bodies are arranged on the ground. One of the fruiting bodies is in situ, half-emerged from the soil. The other two have been removed so that the fungal hyphae on the underside, which rooted it to the soil, are visible. One of the uprooted fruiting bodies is intact, and part of it is stained dark brown. The other is cut in half, and the cross section displays black gleba surrounded by a thin, white, protective layer known as the peridium. 
+| taxon = Scleroderma cepa
+| authority = [[Christian Hendrik Persoon|Pers.]] (1801)
+}}
+{{Mycomorphbox
+| name = ''{{PAGENAME}}''{{italic title}}
+| hymeniumType = gleba
+| capShape = no
+| whichGills = no
+| stipeCharacter = NA
+| sporePrintColor = white
+| sporePrintColor2 = purple-black
+| ecologicalType = mycorrhizal
+| howEdible = poisonous
+}}
+ 
+'''''Scleroderma cepa''''', commonly known as the '''smooth earthball''' or '''onion earthball''',<ref name="Arora1986"/><ref name="iNat"/> is a species of [[gasteroid]] fungus up to {{convert|6|cm|frac=4}} in width. It has a worldwide distribution and is [[mushroom poisoning|poisonous]].
+
+== Description ==
+The [[Basidiocarp|fruiting body]] is [[gasteroid]], meaning that the spores are formed and mature internally. The fruiting body consists of [[spore]]-bearing substance called [[gleba]] surrounded by a protective layer known as the [[peridium]]. The fruiting body can be found fully buried, above-ground (epigeous), or partially exposed. It is rounded or irregularly lobed, often flattened, and is {{convert|1.5 to 6|cm|frac=4}} wide. The base is sometimes pinched or folded. 
+
+''S. cepa'' is attached to the ground by a clump of [[mycelium]]. It has no [[stipe (mycology)|stipe]], but occasionally the mycelium clump aggregates into a pseudostipe.<ref name="mykoweb" /> 
+
+The peridium is tough and up to 1.5&nbsp;mm thick. The surface is dry and can have tiny scales or be smooth. With age, the peridium becomes finely cracked or areolate, especially on the top surface. ''S.&nbsp;cepa'' appears white when young and turns to pale brown or yellowish brown over time. It bruises vinaceous or darker brown where it has been rubbed or handled. At maturity, the peridium splits open, releasing the spores. 
+
+The gleba is firm and whitish when young, remaining firm and turning purple-black with interspersed white mycelia over time. At maturity, the gleba becomes powdery and dull brown.<ref name="Bessette2023"/><ref name="mykoweb" />
+
+===Microscopic features===
+
+
+The spores are near-spherical and measure 7–12.5&nbsp;[[μm]]. The spore surface is brownish, has no reticulation, and is covered with spines up to 2&nbsp;μm.<ref name="Bessette2023"/><ref name="mykoweb"/>
+
+===Similar species===
+The species looks similar to some other earthballs in ''[[Scleroderma]]'', especially ''S.&nbsp;citrinum'' (the common earthball). ''S.&nbsp;citrinum'' has raised warts and reticulate spores, in contrast to ''S.&nbsp;cepa''{{'}}s smooth (though often cracked) surface and spiny spores. It may require microscopy to reliably identify species in this group.<ref name="Arora1986" /> 
+
+It can be differentiated from the various puffballs (i.e. ''[[Calvatia]]'', ''[[Lycoperdon]]'', etc.) by its thick, tough peridium and firm gleba that is never soft or semi-liquid. <ref name="mykoweb" /> 
+
+==Habitat and distribution==
+''S. cepa'' can be solitary, scattered, or found in groups. It can occur in sparse grass, woodlands, landscaped areas, or on [[disturbed ground]]. It fruits in summer and fall in watered areas or after rain.<ref name="Bessette2023"/><ref name="Phillips2010"/><ref name="mykoweb" /> It is [[ectomycorrhiza]]l.{{Citation needed|date=July 2025}}
+
+It has a worldwide distribution and is especially common in North America, Europe, and Australia.<ref name="iNat" /> It occurs throughout the United States, but is more abundant in the Eastern US.<ref name="MushroomExpert"/>
+
+== Toxicity ==
+The species is [[Mushroom poisoning|poisonous]], causing [[gastrointestinal upset]].<ref name="Arora1986" />
+
+== Uses ==
+It is used as a [[soil inoculant]] in [[agriculture]] and [[horticulture]].{{Citation needed|date=July 2025}}
+
+== References ==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Phillips2010">{{cite book |last1=Phillips |first1=Roger |last2=Kibby |first2=Geoffrey |last3=Foy |first3=Nicky |last4=Phillips |first4=Roger |title=Mushrooms and other fungi of North America |date=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=334 |edition=2nd}}</ref>
+
+<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/709/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, California |year=1986 |orig-date=1979 |edition=2nd |pages=709-710}}</ref>
+
+
+<ref name="Bessette2023">{{cite book |last1=Bessette |first1=Alan E. |last2=Bessette |first2=Arleen R. |last3=Hopping |first3=Michael |title=A field guide to the mushrooms of Georgia |date=2023 |publisher=The University of Georgia Press |location=Athens |isbn=978-0-8203-6269-4 |page=581}}</ref>
+
+<ref name="iNat">{{cite web |title=Onion Earthball (Scleroderma cepa) |url=https://www.inaturalist.org/taxa/118147-Scleroderma-cepa |website=iNaturalist |access-date=31 October 2024 |language=en}}</ref>
+
+<ref name="mykoweb">{{cite web |last1=Stevens |first1=Michael Wood & Fred |title=California Fungi: Scleroderma cepa |url=https://www.mykoweb.com/CAF/species/Scleroderma_cepa.html |website=www.mykoweb.com |access-date=31 October 2024}}</ref>
+
+<ref name="MushroomExpert">{{cite web |title=The Genus Scleroderma (MushroomExpert.Com) |url=https://www.mushroomexpert.com/scleroderma.html |website=www.mushroomexpert.com |access-date=31 October 2024}}</ref>
+}}
+
+{{Taxonbar|from=Q1611092}}
+
+[[Category:Scleroderma]]
+[[Category:Fungi described in 1801]]
+[[Category:Fungus species]]
+[[Category:Fungi of Australia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Poisonous fungi]]
+[[Category:Taxa named by Christiaan Hendrik Persoon]]

@@ -1,0 +1,54 @@
+{{Speciesbox
+| image = Russula decolorans.jpg
+| status = G5
+| status_system = TNC
+| status_ref = <ref name=NS>{{cite NatureServe |id=2.881383 |title=''Russula decolorans'' |access-date=20 May 2025}}</ref>
+| genus = Russula
+| species = decolorans
+| authority = [[Elias Magnus Fries|Fr.]], 1838  
+}}{{Mycomorphbox
+| name = ''Russula decolorans''{{italic title}}
+| hymeniumType = gills
+| capShape = convex
+| capShape2 = depressed
+| whichGills = adnate
+| whichGills2 = adnexed
+| stipeCharacter = bare
+| sporePrintColor = yellow
+| sporePrintColor2 = ochre
+| ecologicalType = mycorrhizal
+| howEdible = edible
+| howEdible2 = caution
+}}
+'''''Russula decolorans''''', commonly known as the '''graying russula''',<ref name="Arora 1986">{{Cite book |last=Arora |first=David |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/91/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, California |year=1986 |orig-date=1979 |edition=2nd |pages=91-92}}</ref> is a ''[[Russula]]'' mushroom found in forests. Although [[Edible mushroom|edible]], it resembles several questionable species.
+
+==Description==
+The [[Pileus (mycology)|cap]] is convex to plane or depressed, red to orange and viscid when moist.<ref name="Arora 1986" /> The cap grows up to {{Convert|15|cm|frac=4}} wide and the stalk is up to {{Convert|12|cm|abbr=on|frac=4}} long.<ref name="Arora 1986"/> The gills are pale, turning yellowish and sometimes staining grayish.<ref name="Arora 1986" /> The flesh is white and blackens upon bruising; it has a mild taste and odour.<ref name="Arora 1986" /> The [[spore print]] is pale ochre.<ref name="Arora 1986" />
+
+==Habitat==
+It grows alone or in groups in mixed woods and under [[conifer]] trees.<ref name="Arora 1986"/>
+
+==Uses==
+The [[edible mushroom]]<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |orig-year=2005 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=146}}</ref> is commonly harvested for food in Finland.<ref name="Ohenoja 1984">{{cite journal|last=Ohenoja|first=Esteri |author2=Koistinen, Riitta |date=1984|title= Fruit body production of larger fungi in Finland. 2: Edible fungi in northern Finland 1976—1978|journal=Annales Botanici Fennici|volume=21|issue=4|pages=357–66|jstor=23726151}}</ref> However, it is not recommended to eat wild specimens, as it has several lookalikes with unknown edibility.<ref name="Arora 1986"/>
+
+==See also==
+*[[List of Russula species|List of ''Russula'' species]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+*E. Garnweidner. ''Mushrooms and Toadstools of Britain and Europe''. Collins. 1994.
+
+==External links==
+{{Taxonbar|from=Q2028199}}
+
+[[Category:Russula|decolorans]]
+[[Category:Fungi of Europe]]
+[[Category:Edible fungi]]
+[[Category:Fungus species]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungi described in 1821]]
+
+
+{{Russulales-stub}}

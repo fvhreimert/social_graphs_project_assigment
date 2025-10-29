@@ -1,0 +1,137 @@
+{{Taxobox
+| image = Melanoleuca melaleuca 325844 Koller 121121.jpg
+| image_caption = 
+| regnum = [[Fungi]]
+| divisio = [[Basidiomycota]]
+| classis = [[Agaricomycetes]]
+| ordo = [[Agaricales]]
+| familia = [[Tricholomataceae]]
+| genus = ''[[Melanoleuca]]''
+| species = '''''M. melaleuca'''''
+| binomial = ''Melanoleuca melaleuca''
+| binomial_authority = ([[Christian Hendrik Persoon|Persoon]]) [[William Alphonso Murrill|Murrill]]
+| synonyms_ref = <ref name="urlMycoBank: Melanoleuca melaleuca"/>
+| synonyms = 1801 ''Agaricus melaleucus'' <small>Pers.</small><br/>
+1871 ''Tricholoma melaleucum'' <small>(Pers.) [[Paul Kummer|P.Kumm.]]</small><br/>
+1886 ''Gyrophila melaleuca'' <small>(Pers.) [[Lucien Quélet|Quél.]]</small><br/>
+1887 ''Melaleuca vulgaris'' <small>[[Narcisse Théophile Patouillard|Pat.]]</small><br/>
+1889 ''Boletopsis melaleuca'' <small>(Pers.) [[Victor Fayod|Fayod]]</small><br/>
+1897 ''Melanoleuca vulgaris'' <small>(Pat.) Pat.</small>
+}}
+{{mycomorphbox
+| name = ''Melanoleuca melaleuca''
+| whichGills = emarginate
+| capShape = convex
+| capShape2 = umbonate
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = saprotrophic
+| sporePrintColor = white
+| howEdible = unknown
+}}
+
+'''''Melanoleuca melaleuca''''' is a species of [[mushroom]] in the family [[Tricholomataceae]], and it is the [[type species]] of its genus ''[[Melanoleuca]]''.  It is difficult to distinguish from other related species firstly because it is variable, secondly because the taxonomic criteria are often based on characteristics which have later been found to be variable, and thirdly because there is much disagreement between authorities as to an exact species definition.
+
+== Taxonomy ==
+The species name was originated by the Swedish mycologist [[Christian Hendrik Persoon]] in his 1801 publication ''Synopsis Methodica Fungorum'',<ref name="Persoon1801" /> as ''Agaricus melaleucus''. This formed the basis for the genus name ''Melanoleuca'' which was invented by [[Narcisse Théophile Patouillard]] in 1897 as a variant of ''Melaleuca''.<ref name="Patouillard2" />
+
+Patouillard had originally named the genus ''Melaleuca'' in 1887 and called the type species ''M.&nbsp;vulgaris'', presumably to avoid a [[tautonym]].<ref name="Patouillard1" />  In 1897 Patouillard changed the name of the genus to ''Melanoleuca''.<ref name="Patouillard2" />  According to modern nomenclatural rules, the older genus name should normally take precedence, but an exception has been made by the [[International Botanical Congress]] and ''Melanoleuca'' has been declared a ''[[nomen conservandum]]'', or a name which is to be considered valid regardless of the rules of precedence.<ref name="Nomenclature" />
+
+The American mycologist [[William Murrill]] devised the name ''Melanoleuca melaleuca'' in a 1911 article in the journal ''[[Mycologia]]''.<ref name="Murrill1911" /> If that is a valid name, again following modern rules, it should take precedence over ''Melanoleuca vulgaris'' as it refers to the original species name ''melaleucus''. In any case, Species Fungorum gives ''M.&nbsp;vulgaris'' as a synonym of ''M.&nbsp;polioleuca'', rather than of ''M.&nbsp;melaleuca'',<ref name="IF1" /> and Bon implies that ''M.&nbsp;vulgaris'' is equivalent to only part of ''M.&nbsp;melaleuca''.<ref name="Bon" />
+
+In certain treatments of the genus, including Funga Nordica<ref name="FN" /> and Flora Agaricina Neerlandica,<ref name="FAN" /> ''M. melaleuca'' is defined as having no [[cheilocystidia]], but molecular analysis by Vizzini et al. makes it clear that these cystidia may sometimes appear and sometimes be missing in the same species of ''Melanoleuca'', implying that this feature should not be used to characterize the mushroom.<ref name="Vizzini" />  Other treatments specify ''M.&nbsp;melaleuca'' as having [[wikt:fusiform|fusiform]] cheilocystidia, but recognize a separate taxa (considered as a synonym), '''M.&nbsp;graminicola''', as having no cheilocystidia.<ref name="KR" /><ref name="Kuo" /><ref name="Moser" /> ''[[Index Fungorum]]'' treats the latter as a separate species.<ref name="IF3" />
+
+In Species Fungorum (the part of ''Index Fungorum'' which evaluates current names), apart from the valid entry of ''M.&nbsp;melaleuca'', there is an invalid one designated "''Melanoleuca melaleuca sensu'' NCL"<ref name="sensuNCL" /> which is said to be equivalent to the current ''M.&nbsp;polioleuca''.<ref name="IF2" /> According to Courtecuisse, ''M.&nbsp;polioleuca'' is distinguished by having a dense white "pruina" (a powdery covering) on the stem and by the flesh inside the stem being dark cinnamon rather than pale.<ref name="Courtecuisse" />
+
+According to its definition (which is admitted to be in need of revision), Funga Nordica also lists ''Melanoleuca brachyspora'', ''M.&nbsp;brevispora'', ''M.&nbsp;robertiana'' and ''M.&nbsp;stridula'' as synonyms.<ref name="FN" />
+
+The older treatments use various characteristics to delimit the species, for instance Moser distinguishes ''M.&nbsp;melaleuca'' as not having a [[pruinose]] cap, with a long stem in relation to the cap diameter, having a dark brownish cap colour, with stem not coarsely striate, and having white stem flesh.
+
+===Etymology===
+Both the genus and species name of ''Melanoleuca melaleuca'' come from the same Ancient Greek words for black (μέλας / melas) and white (λευκόν / leukon).<ref name="Liddell1" /><ref name="Liddell2" />
+
+== Description ==
+
+The cap is {{Convert|2–8|cm|frac=4}} wide, low convex, often with a low [[Umbo (mycology)|umbo]], smooth, dark brown fading to greyish brown.<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=157|oclc=797915861}}</ref> The [[Lamella (mycology)|gills]] are whitish, crowded, and usually emarginately attached to the [[Stipe (mycology)|stipe]] but can be adnate to decurrent.<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/169/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=169–170 |orig-date=1979}}</ref>
+The odor and taste are mild.<ref name=":0" />
+
+The stipe is 2–8&nbsp;cm long and up to 1&nbsp;cm thick, similarly coloured to the cap but lighter, with brown fibrils.<ref name=":0" /> The [[Basidiospore|spores]] are 6.5–8.5 x 5–6&nbsp;[[μm]], elliptical with [[amyloid]] warts (staining blue in [[Melzer's reagent]]). The [[spore print]] is white.<ref name=":0" />
+The [[cheilocystidia]] may be [[wikt:fusiform|fusiform]] or missing.<ref name="Bon" /><ref name="FAN" /><ref name="FN" /><ref name="KR" /><ref name="Kuo" />
+
+=== Similar species ===
+Due partly to the confused taxonomic definitions, this mushroom is very difficult to identify with certainty.  Various authorities imply that around ''M.&nbsp;melaleuca'' there is a complex of closely related species without clear dividing lines, and that the current analysis (which varies from one author to another) requires more clarification.<ref name="FAN" /><ref name="FN" /><ref name="KR" />  Much of the taxonomic work on ''Melanoleuca'' has been done in Europe and the status of North American specimens is less certain.<ref name="Kuo" />  However a 2012 paper by Vizzini et al. proposes updated definitions based on [[DNA analysis]] and suggests that some progress on these issues is being made.<ref name="Vizzini" />
+
+A similar-looking species is [[Melanoleuca angelesiana|''M.&nbsp;angelesiana'']], which does not have [[cystidia]] on its gills like ''M.&nbsp;melaleuca''.<ref name=":0" />
+
+==Distribution and habitat==
+It is a widely distributed species, known from Asia, Africa, Europe, North America, and Oceania.<ref name="Zhishu1993" /> It can be found in grassy places in woods, roadsides, and [[heathland]].
+
+Like all ''Melanoleuca'' it is [[saprophytic]], feeding on organic litter and not being associated with particular types of tree.<ref name="FN" />
+
+==Edibility==
+This species is reported to be [[edible mushroom|edible]] in both Europe and North America,<ref name=KR/><ref name=Moser/><ref name=":0" /> although information for the latter continent was unknown as late as 2006.<ref name="Miller 2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=113}}</ref> The confusion described in the previous section does not imply any particular culinary danger because (as far as is known) the closely related species are also edible.<ref name=Bon/>
+
+==References==
+{{Reflist|refs=
+<ref name=Bon>Bon states that all species of ''Melanoleuca'' seem to be edible in "{{cite book |author=Marcel Bon |title=The Mushrooms and Toadstools of Britain and North-Western Europe |publisher=Hodder & Stoughton |year=1987 |page=164 |isbn=0-340-39935-X }}"</ref>
+
+<ref name=Courtecuisse>{{cite book |author1=Courtecuisse, R.  |author2=Duhem, B.  |name-list-style=amp |title=Guide des champignons de France et d'Europe |publisher=Delachaux et Niestlé |year=1994 |page=204 |isbn=2-603-00953-2}}  Also available in English.</ref>
+
+<ref name=FAN>See "{{cite book |author=C. Bas, Th.W. Kuyper, M.E. Noordeloos et E.C. Vellinga |title=Volume 4 of Flora Agaricina Neerlandica: Critical Monographs on Families of Agarics and Boleti Occurring in the Netherlands |publisher=CRC Press |location=Florida |year=1999 |page=153 }}"  An on-line preview is available through Google Books at [https://books.google.com/books?id=ablJJike0eYC&pg=PA153].</ref>
+
+<ref name=FN>For ''M. melaleuca'' and all the species mentioned, see "{{cite book |author-link=Henning Knudsen |editor2-link=Jan Vesterhout |title=Funga Nordica |publisher=Nordsvamp |location=Copenhagen |year=2008 |pages=347–348}}"  The key to ''Melanoleuca'' from this work is available on-line in French as part of a "Champignons de Québec" [[Flickr]] forum at [https://www.flickr.com/groups/myco-quebec/discuss/72157623987786648/].</ref>
+
+<ref name=IF1>[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=462669 This Index Fungorum link] shows ''M. polioleuca'' as the current name of ''M. vulgaris''.</ref>
+
+<ref name=IF2>[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=462657 This Index Fungorum link] is for the invalid "''sensu'' NCL" interpretation.</ref>
+
+<ref name=IF3>''M. graminicola'' is in Species Fungorum [http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=252430 here] as a separate species. (Two different invalid meanings of ''M.&nbsp;graminicola'' are listed.)</ref>
+
+<ref name=KR>{{cite book |author=[[Robert Kühner]] & [[Henri Romagnesi]] |title=Flore analytique des champignons supérieurs (agarics, bolets, chanterelles) |publisher=Masson |location=Paris |year=1974 |language=French |pages=146–147|isbn=2-225-53713-5}}  This gives ''M. humilis'', ''M. brevipes'', ''M. melaleuca'' and ''M. graminicola'' as a few classical examples of species in the group of ''M. melaleuca'', whose innumerable forms can't be specified at present.</ref>
+
+<ref name=Kuo>See the Mushroom Expert entries on [http://www.mushroomexpert.com/melanoleuca.html#melaleuca the genus, including ''M. melaleuca''] and ''[http://www.mushroomexpert.com/melanoleuca_graminicola.html M. graminicola]''.</ref>
+
+<ref name=Liddell1>{{cite web |url=http://perseus.uchicago.edu/cgi-bin/philologic/getobject.pl?c.43:4:66.LSJ |title=λευκόν |work=A Greek-English Lexicon; Machine readable text |author1=Henry George Liddell |author2=Robert Scott |publisher=Tufts University, Oxford) |access-date=2017-06-12}}</ref>
+
+<ref name=Liddell2>{{cite web |url=http://perseus.uchicago.edu/cgi-bin/philologic/getobject.pl?c.45:9:102.LSJ |title=μέλας |work=A Greek-English Lexicon; Machine readable text |author1=Henry George Liddell |author2=Robert Scott |publisher=Tufts University, Oxford) |access-date=2017-06-12}}</ref>
+
+<ref name=Moser>See {{cite book |author=[[Meinhard Moser]], translated by Simon Plant |title=Keys to Agarics and Boleti |publisher=Roger Phillips |location=London |year=1983 |pages=147–149 |isbn=0-9508486-0-3}}</ref>
+
+<ref name=Murrill1911>{{cite journal |title=Illustrations of fungi – IX |journal=[[Mycologia]] |author=Murrill WA. |year=1911 |volume=3 |issue=4 |pages=165–69 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0003/004/0165.htm |doi=10.2307/3753083|jstor=3753083 |url-access=subscription }}</ref>
+
+<ref name=Nomenclature>
+See article 14 and appendix IIIB of "{{cite book|title=International Code of Botanical Nomenclature (VIENNA CODE) |author=J. McNeill |year=2006 |location=Vienna |publisher=A.R.G. Gantner Verlag KG |isbn=3-906166-48-1 |url=http://ibot.sav.sk/icbn/main.htm |display-authors=etal |url-status=dead |archiveurl=https://web.archive.org/web/20121006231936/http://ibot.sav.sk/icbn/main.htm |archivedate=2012-10-06 }}"
+</ref>
+
+<ref name=Patouillard1>{{cite book |title=Les Hyménomycètes d'Europe. Anatomie et Classification des Champignons Supérieurs |author=Patouillard N. |year=1887 |location=Paris |publisher=Paul Klincksieck |volume=4 |page=96 |language=French }}</ref>
+
+<ref name=Patouillard2>The justification for the name ''Melanoleuca'' is the entry in Patouillard's book in which he simply refers to two species with that spelling instead of ''Melaleuca'' - perhaps the alteration was a mistake.  {{cite book |title=Exploration scientifique de la Tunisie. Catalogue raisonné des plantes cellulaires de la Tunisie. |author=Patouillard N. |year=1897 |location=Paris |publisher=Imprimerie Nationale |page=22 |language=French |url=https://books.google.com/books?id=EloYAAAAYAAJ}} 
+</ref>
+
+<ref name=Persoon1801>{{cite book |title=Synopsis Methodica Fungorum |author=Persoon CH. |year=1801 |location=Gottingen |publisher=Apud H. Dieterich |page=355 |url=https://books.google.com/books?id=UugVAAAAYAAJ&q=Synopsis%20methodica%20fungorum&pg=RA2-PA355 |language=Latin}}</ref>
+
+<ref name=sensuNCL>
+"''sensu'' NCL" means "in the sense of {{cite book |title=New check list of British agarics and boleti |author=R. W. G. Dennis, P. D. Orton & F. Bayard Hora |year=1960 |location=London & New York |publisher=Cambridge University Press}}"  This is also largely available on the internet as transactions of the [[British Mycological Society]] (for instance http://www.cybertruffle.org.uk/cyberliber/59351/0043/index.htm#2).
+</ref>
+
+<ref name="urlMycoBank: Melanoleuca melaleuca">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=288051 |title=''Melanoleuca melaleuca'' (Pers.) Murrill 1911 |publisher=International Mycological Association |work=MycoBank |access-date=2010-12-09}}</ref>
+
+<ref name=Vizzini>{{cite journal |title=A preliminary ITS phylogeny of Melanoleuca (Agaricales), with special reference to European taxa |journal=Mycotaxon |first1=Alfredo |last1=Vizzini |first2=Roberto |last2=Para |first3=Roberto |last3=Fontenla |first4=Stefano |last4=Ghignone |first5=Enrico |last5=Ercole |year=2012 |volume=118 |issue=1 |pages=361–381 |doi=10.5248/118.361|hdl=2318/91488 |url=https://iris.unito.it/bitstream/2318/91488/1/ITS.pdf |hdl-access=free }}</ref>
+
+<ref name=Zhishu1993>{{cite book |vauthors=Zhishu B, Zheng G, Taihui L |title=The Macrofungus Flora of China's Guangdong Province (Chinese University Press) |publisher=Columbia University Press |location=New York, NY |year=1993 |page=328 |isbn=962-201-556-5 |url=https://books.google.com/books?id=0cAered-vqYC&q=Melanoleuca%20melaleuca&pg=PA328}}</ref>
+
+}}
+
+{{Taxonbar|from=Q6811485}}
+
+[[Category:Edible fungi]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Africa]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Oceania]]
+[[Category:Tricholomataceae]]
+[[Category:Fungi described in 1801]]
+[[Category:Taxa named by Christiaan Hendrik Persoon]]
+[[Category:Fungi without expected TNC conservation status]]
+[[Category:Fungus species]]

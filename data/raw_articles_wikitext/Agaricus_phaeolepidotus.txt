@@ -1,0 +1,37 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = 
+| taxon = Agaricus phaeolepidotus
+| authority = ([[F.H.Møller]]) F.H.Møller (1952)<ref name="Møller 1952"/>
+| synonyms_ref = <ref name="urlFungorum: Agaricus phaeolepidotus"/>
+| synonyms = ''Psalliota phaeolepidota'' <small>F.H.Møller (1952)</small>
+}}
+
+'''''Agaricus phaeolepidotus''''' (dusky scaled mushroom
+<ref>{{Cite web |url=https://www.britmycolsoc.org.uk/field_mycology/english-names |title=Archived copy |access-date=2024-01-25 |archive-date=2022-11-03 |archive-url=https://web.archive.org/web/20221103000333/https://www.britmycolsoc.org.uk/field_mycology/english-names |url-status=dead }}</ref> is a species of [[fungus]] in the family [[Agaricaceae]]. A European species, the [[agaric]] was first [[species description|described]] scientifically in 1952 by [[F.H.Møller]].<ref name="urlFungorum: Agaricus phaeolepidotus"/>
+
+==See also==
+{{Portal|Fungi}}
+* [[List of Agaricus species|List of ''Agaricus'' species]]
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Møller 1952">{{cite journal |author=Møller FH. |title=Danish ''Psalliota'' Species. Preliminary Studies for a Monograph on the Danish Psalliotae. Part 2 |journal=Friesia |year=1952 |volume=4 |issue=3 |pages=135–242 (see p. 204)}}</ref>
+
+<ref name="urlFungorum: Agaricus phaeolepidotus">{{cite web |title=Species Synonymy: ''''Agaricus phaeolepidotus'' |url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=292300|publisher=Species Fungorum. [[CAB International]] |accessdate=2014-01-08}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|292300}}
+
+{{Taxonbar|from=Q4519918}}
+
+[[Category:Agaricus|phaeolepidotus]]
+[[Category:Fungi described in 1952]]
+[[Category:Fungi of Europe]]
+[[Category:Fungus species]]
+
+
+{{Agaricaceae-stub}}

@@ -1,0 +1,62 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Lactarius corrugis 54984.jpg
+| genus = Lactifluus
+| species = corrugis
+| authority = ([[Charles Horton Peck|Peck]]) [[Otto Kuntze|Kuntze]] (1891)
+| synonyms_ref = <ref name="urlMycoBank: Lactarius corrugis"/>
+| synonyms = *''Lactarius corrugis'' <small>Peck (1880)</small>
+}}
+{{mycomorphbox
+| name = ''Lactifluus corrugis''
+| whichGills = adnate
+| capShape = convex
+| capShape2 = depressed
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = white
+| howEdible = choice
+}}
+
+'''''Lactifluus corrugis''''' (formerly '''''Lactarius corrugis'''''), commonly known as the '''corrugated-cap milky''',<ref name="Bessette 2009"/> is an edible species of [[fungus]] in the family [[Russulaceae]].<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |url=https://archive.org/details/mushroomsotherfu0000phil |url-access=registration |year=2010 |orig-year=2005 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=[https://archive.org/details/mushroomsotherfu0000phil/page/107 107]}}</ref>
+
+==Taxonomy==
+The species was first described by American mycologist [[Charles Horton Peck]] in 1880.<ref name="Peck 1879" />
+
+==Description==
+The brownish-red cap is {{Conv|4-12|cm|frac=4}} wide, and is usually dusted by a light bloom (turning dark when touched).<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=187}}</ref> The gills are light yellow and leak white latex,<ref name="audu" /> which stains brown.<ref name="Miller2006" /> The stem is {{Convert|4-13|cm|abbr=on|frac=4}} long and {{Convert|1.5-2.5|cm|abbr=on|frac=8}}.<ref name="audu" /> The [[spore print]] is white.<ref name="audu" />
+
+It resembles ''[[Lactifluus volemus]]'',<ref name="Miller2006" /> the latex of which also stains brown.<ref name="Miller2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=94}}</ref> Additionally, ''[[Lactifluus hygrophoroides|L.&nbsp;hygrophoroides]]'' has a pinkish-orange cap.<ref name="audu" />
+
+== Habitat and distribution ==
+The mushroom can be found under [[oak]] trees in eastern North America between July and September.<ref name="audu" />
+
+== Uses ==
+''L. corrugis'' is considered a choice [[edible mushroom]].<ref name="Miller2006" />
+
+== See also ==
+*[[List of Lactifluus species|List of ''Lactifluus'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Bessette 2009">{{cite book |vauthors=Bessette AR, Bessette A, Harris DM |title=Milk Mushrooms of North America: A Field Guide to the Genus ''Lactarius'' |publisher=Syracuse University Press |location=Syracuse |year=2009 |page=166 |isbn=978-0-8156-3229-0}}</ref>
+
+<ref name="Peck 1879">{{cite journal |title=Report of the Botanist (1878) |journal=Annual Report on the New York State Museum of Natural History |year=1879 |author=Peck CH. |volume=32 |pages=17–72}}</ref>
+
+<ref name="urlMycoBank: Lactarius corrugis">{{cite web |url=http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=411456&Fields=All |title=''Lactarius corrugis'' (Peck) Kuntze (1891) |publisher=International Mycological Association |work=MycoBank |access-date=2014-10-05}}</ref>
+
+}}
+
+{{Taxonbar|from=Q612163}}
+
+[[Category:Lactifluus|corrugis]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1880]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Charles Horton Peck]]
+[[Category:Fungus species]]
+
+
+{{Russulales-stub}}

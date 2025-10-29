@@ -1,0 +1,102 @@
+{{Short description|Species of edible fungus}}
+{{Speciesbox
+| image = Tremella fuciformis 337510.jpg
+| image_caption =
+| taxon = Tremella fuciformis
+| authority = [[Miles Joseph Berkeley|Berk.]] (1856)
+| synonyms = *''Nakaiomyces nipponicus'' <small>Kobayasi (1939)</small>
+}}
+{{Mycomorphbox
+| name            = 
+| hymeniumType    = smooth
+| capShape        = no
+| whichGills      = NA
+| stipeCharacter  = NA
+| sporePrintColor = white
+| ecologicalType  = parasitic
+| howEdible       = choice
+}}
+
+'''''Tremella fuciformis''''' is a [[species]] of [[fungus]]; it produces white, frond-like, gelatinous [[basidiocarps]] (fruiting bodies). It is widespread, especially in the [[tropics]], where it can be found on the dead branches of broadleaf trees. This fungus is commercially cultivated and is one of the most popular fungi in the [[Chinese cuisine|cuisine]] and [[Chinese medicine|medicine]] of [[China]].<ref name="Stamets">{{cite book|last=Stamets|first=Paul|author-link=Paul Stamets|title=Growing gourmet and medicinal mushrooms = [Shokuyo oyobi yakuyo kinoko no sabai]|edition=3rd|year=2000|publisher=[[Ten Speed Press]]|location=[[Berkeley, California|Berkeley, California, USA]]|isbn=978-1-58008-175-7|pages=402–406|chapter=Chapter 21: Growth Parameters for Gourmet and Medicinal Mushroom Species}}</ref> ''T.&nbsp;fuciformis'' is commonly known as '''snow fungus''', '''snow ear''', '''silver ear fungus''', '''white jelly mushroom''', and '''white cloud ears'''.<ref name="Stamets" />
+
+''T. fuciformis'' is a parasitic [[yeast]], and grows as a slimy, mucus-like film until it encounters its preferred hosts, various species of ''[[Annulohypoxylon]]'' (or possibly ''[[Hypoxylon]]'') fungi, whereupon it then invades, triggering the aggressive [[Mycelium|mycelial growth]] required to form the fruiting bodies.<ref name="Stamets" /><ref name="mycologia" />
+
+==Description==
+Fruit bodies are gelatinous, watery white, up to {{convert|7.5|cm|in|abbr=off|0}} across (larger in cultivated specimens), and composed of thin but erect, seaweed-like, branching fronds, often crisped at the edges. Microscopically, the [[hypha]]e are [[clamp connection|clamped]] and occur in a dense gelatinous matrix. [[Haustoria|Haustorial cells]] arise on the hyphae, producing filaments that attach to and penetrate the hyphae of the host. The [[basidia]] are tremelloid (ellipsoid, with oblique to vertical septa), 10–13&nbsp;[[μm]] × 6.5–10&nbsp;μm, sometimes stalked. The [[Basidiospore|spores]] are ellipsoid, smooth, 5–8&nbsp;μm × 4–6&nbsp;μm, and germinate by hyphal tube or by [[yeast]] cells.<ref name="Chen1998"/><ref name="Roberts&Meijer1997"/>
+
+===Similar species===
+
+''[[Ductifera pululahuana]]'' is more opaque, as is ''[[Sebacina sparassoidea]]'', which grows on the ground.<ref name=":0">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=86}}</ref> 
+
+== Taxonomy ==
+
+''Tremella fuciformis'' was first described in 1856 by English [[mycologist]] [[Miles Joseph Berkeley]], based on collections made in [[Brazil]] by botanist and explorer [[Richard Spruce]].<ref name="Berkeley1856" /> In 1939, Japanese mycologist [[Yosio Kobayasi]] described ''Nakaiomyces nipponicus'', a similar-looking fungus that differed by having scattered, dark spines on its surface. Later research, however, showed that the fruit bodies were those of ''Tremella fuciformis'' parasitized by an [[ascomycete]], ''[[Ceratocystis epigloeum]]'', that formed the dark spines.<ref name="Guerrero1971" /> ''Nakaiomyces nipponicus'' is therefore a [[synonym (biology)|synonym]] of ''T.&nbsp;fuciformis''.
+
+In [[Mandarin Chinese]], it is called [[wikt:银耳|银耳]] (pinyin: ''yín ěr''; literally "silver ear"), [[wikt:雪耳|雪耳]] (pinyin: xuě ěr; literally "snow ear"); or [[wikt:白木耳|白木耳]] (pinyin: ''bái mù ěr'', literally "white [[wood ear]]"), and in Japanese it is called ''shiro kikurage'' ([[wikt:シロキクラゲ|シロキクラゲ]], lit. "white tree jellyfish"). In [[Vietnam]], it is called ''nấm tuyết'' or ''ngân nhĩ''.
+
+According to [[Paul Stamets]], common names for ''T. fuciformis'' include: white jelly mushroom, yin er, white jelly fungus, white jelly leaf ("shirokikurage"), silver ear mushroom, snow mushroom, and chrysanthemum mushroom.<ref name="Stamets" />
+
+== Distribution and habitat ==
+''Tremella fuciformis'' is known to be a parasite of ''[[Hypoxylon]]'', a genus of [[Wood-decay fungus|woodrot pathogens]] sometimes call "cramp balls."<ref name="Chen1998"/> Many of these species were reassigned to a new genus, ''[[Annulohypoxylon]]'', in 2005<ref name="mycologia">{{cite journal|last1=Hsieh|first1=Huei-Mei|last2=Ju|first2=Yu-Ming|last3=Rogers|first3=Jack D.|editor-last=Natvig|editor-first=Don|date=July–August 2005|title=Molecular phylogeny of Hypoxylon and closely related genera|journal=[[Mycologia]]|volume=97|issue=4|pages=844–865|location=[[Lawrence, Kansas|Lawrence, Kansas, USA]]|publisher=[[Mycological Society of America|The Mycological Society of America]]|issn=1557-2536|id=[[International Standard Serial Number|Print ISSN]]: [http://www.worldcat.org/issn/0027-5514 0027-5514]|pmid=16457354|doi=10.3852/mycologia.97.4.844|ref=mycologia}}</ref> including its preferred host, ''[[Annulohypoxylon archeri]]'',<ref name="Stamets" /><ref name="mycologia" /> the species routinely used in commercial cultivation. Following its host, fruit bodies are typically found on dead, attached or recently fallen branches of broadleaf trees.
+
+The species is mainly [[tropical]] and [[subtropical]], but extends into [[temperate]] areas in Asia and North America. It is known throughout South and Central America,<ref name="Lowy 1971"/> the Caribbean,<ref name="Lowy 1971"/> parts of North America,<ref name ="Kuo"/> sub-Saharan Africa,<ref name="Roberts2001"/> southern and eastern Asia,<ref name="Chen1998"/> Australia,<ref name ="Australian Fungi"/> New Zealand (although this may be an NZ indigenous species),<ref name="NZFUNGI">{{cite web |title=Tremella fuciformis Berk. 1856 - Biota of NZ |url=https://biotanz.landcareresearch.co.nz/scientific-names/1cb1a7ee-36b9-11d5-9548-00d0592d548c |website=New Zealand Fungi Names Databases (NZFUNGI) |publisher=[[Landcare Research]] |access-date=3 June 2022 |archive-date=24 February 2022 |archive-url=https://web.archive.org/web/20220224085800/https://biotanz.landcareresearch.co.nz/scientific-names/1cb1a7ee-36b9-11d5-9548-00d0592d548c |url-status=live }}</ref> and the Pacific Islands.<ref name ="Olive1958"/><ref name="Hemmes&Desjardin2002"/>
+
+==Uses==
+]]
+''Tremella fuciformis'' has been cultivated in China since at least the nineteenth century.<ref name="Chang"/>{{rp|159}} Initially, suitable wooden poles were prepared and then treated in various ways in the hope that they would be colonized by the fungus. This haphazard method of cultivation was improved when poles were inoculated with spores or mycelium. Modern production only began, however, with the realization that both the ''Tremella'' and its host species needed to be inoculated into the substrate to ensure success. The "dual culture" method, now used commercially, employs a sawdust mix inoculated with both fungal species and kept under optimal conditions.<ref name="Chang"/>{{rp|327}} The most popular species to pair with ''T.&nbsp;fuciformis'' is its preferred host, ''[[Annulohypoxylon archeri]]''.<ref name="Stamets" /> Estimated production in China in 1997 was 130,000 tonnes. ''T.&nbsp;fuciformis'' is also cultivated in other East Asian countries, with some limited cultivation elsewhere.<ref name="Chang"/>{{rp|327}}
+
+In [[Chinese cuisine]], ''T. fuciformis'' is traditionally used in sweet dishes. While tasteless, it is valued for its gelatinous texture as well as its supposed [[Medicinal fungi|medicinal]] benefits.<ref name="Chang"/>{{rp|329}} Most commonly, it is used to make a [[Tong sui|dessert soup]] called ''luk mei'' ({{lang|zh|六味}}) in [[Cantonese]], often in combination with [[jujube]]s, dried [[longan]]s, and other ingredients. It is also used as a component of a drink and as an ice cream. Since cultivation has made it less expensive, it is now additionally used in some savoury dishes.<ref name="Chang"/>{{rp|329}}
+In [[Vietnamese cuisine]], it is often used in Chè (Vietnamese pronunciation: [cɛ̂]), a Vietnamese term that refers to any traditional Vietnamese sweet beverage, dessert soup or pudding.
+
+=== Cosmetics ===
+''T. fuciformis'' extract is used in women's beauty products from China, Korea, and Japan. The fungus reportedly increases moisture retention in the skin and prevents senile degradation of micro-blood vessels in the skin, reducing wrinkles and smoothing fine lines. Other anti-aging effects come from increasing the presence of [[superoxide dismutase]] in the brain and liver; it is an [[enzyme]] that acts as a potent [[antioxidant]] throughout the body, particularly in the skin. It can also be used for anti-inflammatory purposes. The medical benefits that come from this organism are vast, ranging from boosting immune health to lowering heart disease.<ref> {{cite journal | last1=Ma | first1=Xia | last2=Yang | first2=Meng | last3=He | first3=Yan | last4=Zhai | first4=Chuntao | last5=Li | first5=Chengliang | title=A review on the production, structure, bioactivities and applications of Tremella polysaccharides | journal=International Journal of Immunopathology and Pharmacology | publisher=SAGE Publications | volume=35 | year=2021 | issn=2058-7384 | doi=10.1177/20587384211000541 | page=205873842110005| pmid=33858263 | s2cid=233259839 | doi-access=free | pmc=8172338 }}</ref> ''T. fuciformis'' is also known in [[Chinese medicine]] for nourishing the lungs,<ref>{{cite journal|vauthors=Reshetnikov SV, Wasser SP, Duckman I, Tsukor K|year=2000|title=Medicinal value of the genus ''Tremella'' Pers. (Heterobasidiomycetes) (review)|journal=International Journal of Medicinal Mushrooms|volume=2|issue=3|pages=345–67|doi=10.1615/IntJMedMushr.v2.i3.10}}</ref> and increasing the body's [[Yin and yang|yin]] energy.<ref>{{Cite book |last=Dunlop |first=Fuchsia |author-link=Fuchsia Dunlop |title=The Food of Sichuan |publisher=[[W. W. Norton & Company]] |year=2019 |isbn=9781324004837 |location=New York |page=449}}</ref>
+
+==See also==
+* {{Portal-inline|Fungi}}
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Berkeley1856">{{cite journal |author=Berkeley MJ. |year=1856 |title=Decades of Fungi LXI-LXII: Rio Negro fungi |journal=Hooker's Journal of Botany and Kew Garden Miscellany |volume=8 |pages=272–280 }}</ref>
+
+<ref name="Guerrero1971">{{cite journal |doi=10.2307/3758062 |author=Guerrero RT. |year=1971 |title=On the real nature of the "setae" in ''Tremella fuciformis'' |jstor=3758062 |journal=Mycologia |volume=63 |issue=4 |pages=920–924 }}</ref>
+
+<ref name="Chen1998">{{cite book |title=Morphological and molecular studies in the genus ''Tremella'' |last=Chen C-J. |year=1998 |publisher=J. Cramer |location=Berlin |isbn=3-443-59076-4 |pages=225}}</ref>
+
+<ref name="Roberts&Meijer1997">{{cite journal |author=Roberts P, de Meijer AAR. |year=1997 |title=Macromycetes from the state of Paraná, Brazil. 6. Sirobasidiaceae & Tremellaceae |journal=Mycotaxon |volume=64 |pages=261–283 }}</ref>
+
+<ref name="Lowy 1971">{{cite book |author= Lowy B. |title=Flora Neotropica 6: Tremellales |publisher=Hafner |location=New York |year=1971 |isbn=0-89327-220-5 }}</ref>
+
+<ref name ="Kuo">{{cite web |url=http://www.mushroomexpert.com/tremella_fuciformis.html |title=Tremella fuciformis (MushroomExpert.Com) |access-date=2010-06-10 |archive-date=2010-12-18 |archive-url=https://web.archive.org/web/20101218122726/http://mushroomexpert.com/tremella_fuciformis.html |url-status=live }}</ref>
+
+<ref name="Roberts2001">{{cite journal |doi=10.2307/4119434 |author=Roberts P. |year=2001 |title=Heterobasidiomycetes from Korup National Park, Cameroon |jstor=4119434 |journal=Kew Bulletin |volume=56 |issue=1 |pages=163–187 |bibcode=2001KewBu..56..163R }}</ref>
+
+<ref name="Australian Fungi">Australian Fungi Checklist {{cite web |url=http://www.rbg.vic.gov.au/dbpages/cat/index.php/fungicatalogue/name/11045 |title=ICAF - Tremella fuciformis |access-date=2010-06-10 |url-status=dead |archive-url=https://web.archive.org/web/20110318210419/http://www.rbg.vic.gov.au/dbpages/cat/index.php/fungicatalogue/name/11045 |archive-date=2011-03-18 }}</ref>
+
+<ref name ="Olive1958">{{cite journal |doi=10.2307/2483023 |author=Olive LS. |year=1958 |title=The lower Basidiomycetes of Tahiti (continued) |jstor=2483023 |journal=Bulletin of the Torrey Botanical Club |volume=85 |issue=2 |pages=89–110 }}</ref>
+
+<ref name="Hemmes&Desjardin2002">{{cite book |author= Hemmes DE, Desjardin DE. |title=Mushrooms of Hawai'i: an identification guide |publisher=Ten Speed Press  |year=2002 |isbn=1-58008-339-0 }}</ref>
+
+<ref name="Chang">{{cite book |last=Chang |first=Shu-Ting |author2=Miles, Philip G.  |title=Mushrooms: Cultivation, Nutritional Value, Medicinal Effect, and Environmental Impact|edition=2nd |year=2004|publisher=CRC Press |location= Boca Raton, Florida|isbn=0-8493-1043-1|chapter=''Tremella'' - Increased Production by a Mixed Culture Technique}}</ref>
+}}
+
+==External links==
+*{{Commons category-inline}}
+
+{{Taxonbar|from=Q1309195}}
+{{Authority control}}
+
+[[Category:Tremella|fuciformis]]
+[[Category:Edible fungi]]
+[[Category:Fungi in cultivation]]
+[[Category:Fungi of Africa]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Australia]]
+[[Category:Fungi of Central America]]
+[[Category:Fungi of New Zealand]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of the Caribbean]]
+[[Category:Fungi of South America]]
+[[Category:Fungi described in 1856]]
+[[Category:Taxa named by Miles Joseph Berkeley]]
+[[Category:Fungus species]]

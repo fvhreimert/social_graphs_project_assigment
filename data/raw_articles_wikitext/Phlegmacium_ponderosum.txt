@@ -1,0 +1,56 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Cortinarius ponderosus AR.JPG
+| genus = Phlegmacium
+| species = ponderosum
+| authority = ([[Alexander H. Smith|A.H.Sm.]]) Niskanen & Liimat. (2022)
+| synonyms = *''Cortinarius ponderosus'' <small>[[Alexander H. Smith|A.H.Sm.]] (1939)</small>
+}}
+{{mycomorphbox
+| name = ''Phlegmacium ponderosum''
+| whichGills = adnate
+| capShape = convex
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = yellow
+| howEdible = caution
+}}
+
+'''''Phlegmacium ponderosum''''', also known as the '''Ponderous Cortinarius''', is a large species of [[mushroom]] producing [[fungus]] in the family [[Cortinariaceae]].<ref>{{Cite web |title=Species Fungorum - Phlegmacium ponderosum (A.H. Sm.) Niskanen & Liimat. |url=http://www.speciesfungorum.org/Names/GSDSpecies.asp?RecordID=559017 |access-date=2023-01-14 |website=www.speciesfungorum.org}}</ref>
+== Taxonomy ==
+It was described in 1939 by the American mycologist [[Alexander H. Smith]] who classified it as ''Cortinarius ponderosus.''<ref name=":1">{{Cite journal |last=Smith |first=Alexander H. |date=1939 |title=Studies in the Genus Cortinarius I |url=https://www.biodiversitylibrary.org/item/46236#page/10/mode/1up |journal=Contributions from the University of Michigan Herbarium |location=Ann Arbor |publisher=University Herbarium, University of Michigan |volume=2 |page=6 |via=biodiversitylibrary.org}}</ref>
+
+In 2022 the species was transferred from ''Cortinarius'' and reclassified as ''Phlegmacium ponderosum'' based on genomic data.<ref name=":2">{{Cite journal |last1=Liimatainen |first1=Kare |last2=Kim |first2=Jan T. |last3=Pokorny |first3=Lisa |last4=Kirk |first4=Paul M. |last5=Dentinger |first5=Bryn |last6=Niskanen |first6=Tuula |date=2022-01-01 |title=Taming the beast: a revised classification of Cortinariaceae based on genomic data |url=https://doi.org/10.1007/s13225-022-00499-9 |journal=Fungal Diversity |language=en |volume=112 |issue=1 |pages=89–170 |doi=10.1007/s13225-022-00499-9 |issn=1878-9129|hdl=2299/25409 |hdl-access=free }}</ref>
+
+=== Etymology ===
+The [[specific epithet]] ''ponderosum'' (originally ''ponderosus'') is named for the ''[[Pinus ponderosa]]'' trees which Smith observed the mushrooms growing under.<ref name=":1" />
+
+== Description ==
+This mushroom is one of the largest mushrooms in the family Cortinariaceae, with a convex cap that ranges from {{Cvt|10–30|cm|round=0.5}}<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=261–262|oclc=797915861}}</ref> and becomes plane in age. It often has an olive metallic tinge, and the surface is viscid, often with small rusty brown scales.<ref name=":0" /> The margin is ocher and remains inrolled until the mushroom is fully mature. The flesh of the mushroom is yellow-white, thick and firm, with a mild to sour odor.<ref name=":0" /> The gills are rusty brown, [[wikt:adnate|adnate]]<ref name=":0" /> and slightly [[wikt:decurrent|decurrent]]. The stalk is {{Cvt|8-20|cm|round=0.5}} thick, 4–10 cm wide, and bulbous at the base.<ref name=":0" /> It has a slimy yellow universal veil, and the [[Partial veil|cortina]] leaves a rusty brown hairy area on the upper stalk. The [[Basidiospore|spores]] are brown and elliptical.<ref name=":0" />
+
+Its edibility is unknown, but it is not recommended due to its similarity to deadly [[Mushroom poisoning|poisonous]] species.<ref name=":0" />
+
+===Similar species===
+''[[Cortinarius infractus]]'' is a similar species that usually has a smaller cap.<ref name=":0" /> ''[[Boletus edulis]]'' also has a thick stem.
+
+== Habitat and distribution ==
+Smith observed the mushrooms growing under ''Pinus ponderosa'' and [[Oak|''Quercus'']] (Oak) species near [[Cave City, Oregon|Cave City]] in [[Oregon]] and under [[Spruce]] trees near [[Crescent City, California|Crescent City]], [[California]].<ref name=":1" />
+
+==See also==
+*[[List of Cortinarius species|List of ''Cortinarius'' species]]
+
+==References==
+{{Reflist}}
+
+== External links ==
+* [http://www.scmycoflora.org/genera/cortinarius/cortinarius-species.php ''Cortinarius ponderosus'']
+* [https://web.archive.org/web/20070927233507/http://mushroomobserver.org/observer/show_name/711 Cortinarius ponderosus photo]
+* [https://web.archive.org/web/20070928083614/http://www.wildrockies.org/Fungal-Jungal/cortpond.htm Cortinarius ponderosus info]
+
+{{Taxonbar|from=Q5173323}}
+
+[[Category:Cortinarius|ponderosus]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1939]]
+[[Category:Fungus species]]

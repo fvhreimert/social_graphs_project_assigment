@@ -1,0 +1,67 @@
+{{Short description|Species of fungus}}
+{{speciesbox
+| name = Orange peel fungus
+| image = Aleuria aurantia (Orange Peel Fungus).JPG
+| image_caption =
+| taxon = Aleuria aurantia
+| authority = ([[Christiaan Hendrik Persoon|Pers.]]) [[Karl Wilhelm Gottlieb Leopold Fuckel|Fuckel]], 1870
+| synonyms = *''Peziza aurantia''<small> Pers. 1800</small>
+*''Scodellina aurantia''<small> (Pers.) [[Samuel Frederick Gray|Gray]]</small>
+}}
+{{ mycomorphbox
+| name             = ''Aleuria aurantia''
+| whichGills       = no
+| capShape         = no
+| hymeniumType     =smooth
+| stipeCharacter   = NA
+| ecologicalType   = saprotrophic
+| sporePrintColor  = white
+| howEdible        = edible
+}}
+
+'''''Aleuria aurantia''''' ('''orange peel fungus''') is a widespread ascomycete [[fungus]] in the order [[Pezizales]]. The bright orange, cup-shaped [[ascocarp]]s often resemble orange peels strewn on the ground,<ref name=":1">{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=285–286|language=en}}</ref> giving this species its [[common name]].
+
+==Taxonomy==
+[[Christiaan Hendrik Persoon]] described the orange peel as ''Peziza aurantia'' in 1800. The specific epithet is the [[Latin]] word ''aurantia'' "orange". [[Karl Wilhelm Gottlieb Leopold Fuckel]] placed it the genus ''[[Aleuria]]'' in 1870.
+
+==Description==
+The orange [[fruiting body]] is {{Convert|1–10|cm|abbr=off|frac=4}} wide, cup-shaped, externally fuzzy,<ref name=":12">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=41}}</ref> and often misshapen due to crowding from other fruiting bodies.<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=406–407|oclc=797915861}}</ref> The flesh is fragile.<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/837/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, California |pages=837 |orig-date=1979}}</ref> The [[Ascospore|spores]] produce a white [[spore print]],<ref name=":0" /><ref name=":12" /> and scatter in visible clouds when disturbed.<ref name=":1" />
+
+A variety with smaller spores appears in the [[Pacific Northwest]].<ref name="Arora1986" />
+
+It is fairly uniquely, resembling a discarded [[Orange (fruit)|orange]] peel more than other fungi. ''[[Aleuria rhenana]]'', ''[[Melastiza chateri]]'', and species of ''[[Otidea]]'' may be vaguely similar.<ref name="Arora1986" />
+
+{{gallery|mode=packed
+|Aleuria aurantia 1.jpg|Growing in [[Hamburg]], Germany
+}}
+
+=== Similar species ===
+Similar species include ''[[Acervus epispartius]]'',<ref name=":12" /> ''[[Caloscypha fulgens]]'', ''[[Sarcoscypha coccinea]]'', ''[[Sowerbyella rhenana]]'', and members of the genera ''[[Melastiza]]'', ''[[Otidea]]'', ''[[Peziza]]'', ''[[Pithya]]'', and ''[[Pulvinula]]''.<ref name=":12" /><ref name=":0" /> Particularly In Europe, ''A.''{{Nbsp}}''aurantia'' may be confused with species of ''Otidea'' or ''[[Caloscypha]]'' which are [[Mushroom poisoning|poisonous]] or of unknown [[Edible mushroom|edibility]].
+
+==Distribution and habitat==
+The orange peel fungus grows throughout North America, from November to March in the West and May to November in the East.<ref name=":12" /> It can also be found in south Chile{{Citation needed|date=January 2025}} and in Europe.<ref name="tfb">{{Cite book |last=Francis-Baker |first=Tiffany |title=Concise Foraging Guide |date=2021 |publisher=[[Bloomsbury Publishing|Bloomsbury]] |isbn=978-1-4729-8474-6 |series=[[The Wildlife Trusts]] |location=London |pages=103}}</ref> It fruits mainly on bare clay or disturbed soil.<ref name="Arora1986" />
+
+==Uses==
+It is generally regarded as edible,<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |publisher=Firefly Books |year=2010 |isbn=978-1-55407-651-2 |location=Buffalo, NY |page=368}}</ref> though difficult to collect intact<ref name=":1" /> and not necessarily choice. It can be served in thin slices and preserved by drying.<ref name="tfb" />
+
+==References==
+{{Reflist}}
+
+==Further reading==
+*Nilsson, S. & Persson, O. 1977. ''Fungi of Northern Europe 1: Larger Fungi (Excluding Gill Fungi)''. Penguin Books.
+*Yao, Y.-J., and B. M. Spooner. 1995. Notes on British taxa referred to ''Aleuria''. Mycological Research 99:1515-1518.
+*Seaver, F. J. 1914. North American species of ''Aleuria'' and ''Aleurina''. Mycologia 6:273-278.
+
+{{Taxonbar|from=Q1251715}}
+
+{{DEFAULTSORT:Aleuria Aurantia}}
+[[Category:Pyronemataceae]]
+[[Category:Edible fungi]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi described in 1794]]
+[[Category:Taxa named by Christiaan Hendrik Persoon]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]
+
+
+{{Pezizomycetes-stub}}

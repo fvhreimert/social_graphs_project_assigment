@@ -1,0 +1,45 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Ganoderma_tsugae.jpg
+| genus = Ganoderma
+| species = tsugae
+| authority = Murrill
+}}
+{{Mycomorphbox
+| name = ''Ganoderma tsugae''
+| whichGills = adnate
+| capShape = flat
+| hymeniumType = pores
+| stipeCharacter = bare
+| ecologicalType = saprotrophic
+| ecologicalType2 = parasitic
+| sporePrintColor = brown
+| howEdible = too hard to eat
+}}
+
+'''''Ganoderma tsugae''''', also known as '''hemlock varnish shelf''', is a flat [[polypore]] mushroom of the genus ''[[Ganoderma]]''.
+
+==Habitat==
+In contrast to ''[[Lingzhi mushroom|Ganoderma lucidum]]'', to which it is closely related and which it closely resembles, ''G. tsugae'' tends to grow on [[conifer]]s, especially [[tsuga|hemlock]]s.<ref>). Retrieved June 15, 2007.</ref>
+
+== Uses ==
+Like ''G. lucidum'', ''G. tsugae'' is non-poisonous but generally considered inedible,<ref>{{cite book |last=Meuninck |first=Jim |title=Foraging Mushrooms Oregon: Finding, Identifying, and Preparing Edible Wild Mushrooms |date=2017 |publisher=[[Falcon Guides]] |isbn=978-1-4930-2669-2 |page=56}}</ref> because of its solid woody nature; however, teas and extracts made from its fruiting bodies supposedly allow medicinal use of the compounds it contains, although this is controversial within the scientific community. A hot water extraction or tea can be very effective for extracting the [[polysaccharide]]s; however, an alcohol or alcohol/glycerin extraction method is more effective for the [[triterpenoid]]s.<ref>Gary Emberger, [[Messiah College]], [http://www.messiah.edu/Oakes/fungi_on_wood/poroid%20fungi/species%20pages/Ganoderma%20tsugae.htm ''Ganoderma tsugae''], 2006. Retrieved June 16, 2007.</ref>
+
+The fresh, soft growth of the "lip" of ''G. tsugae'' can be sautéed and prepared much like other edible mushrooms. While in this nascent stage it is not woody, it can still be tough and chewy.
+
+=== Medicinal ===
+Like ''G. lucidum'', ''G. tsugae'' is purported to have medicinal properties including use for dressing a skin wound.<ref>Ching-Hua Su1, et al., [[Taipei Medical University]], [http://knowledge.biotec.or.th/doc_upload/200412115910.doc Sacchachitin, a Skin Wound Dressing Material from ''Ganoderma tsugae''] {{Webarchive|url=https://web.archive.org/web/20070717050506/http://knowledge.biotec.or.th/doc_upload/200412115910.doc|date=2007-07-17}}, 2004. Retrieved June 16, 2007.</ref> Though [[phylogenetic]] analysis has begun to better differentiate between many closely related species of ''Ganoderma'';<ref>Soon Gyu Hong, Hack Sung Jung, [http://www.mycologia.org/cgi/content/full/96/4/742 Phylogenetic analysis of ''Ganoderma'' based on nearly complete mitochondrial small-subunit ribosomal DNA sequences], ''Mycologia'' July/August 2004 vol. 96 no. 4 742–55.</ref> there is still disagreement as to which have the most medicinal properties. Natural and artificial variations (e.g. growing conditions and preparation) can also effect the species' medicinal value.{{Citation needed|date=May 2017}}
+
+Studies in mice have shown that ''G. tsugae'' shows several potential medicinal benefits including anti-tumor activity through some of the active polysaccharides found in ''G.&nbsp;tsugae''.<ref>Mizuno T, Wang G, Zhang J et al: Reishi, Ganoderma lucidum and Ganoderma tsugae: bioactive substances and medicinal effects. Food Rev Intl 1995; 11(1):151-166</ref><ref>Mayuzumi I, Okamoto H & Li J: [https://www.ncbi.nlm.nih.gov/pubmed/7765245 Antitumor active protein-containing glycans from the Chinese mushroom songshan lingzhi, Ganoderma tsugae mycelium]. Biosci Biotechnol Biochem 1994; 58(7):1202-1205.</ref> ''G.&nbsp;tsugae'' has also been shown to significantly promote wound healing in mice as well as markedly increase the proliferation and migration of [[fibroblast]] cells in culture.<ref>Su CH, Sun CS, Juan SW et al: [https://www.ncbi.nlm.nih.gov/pubmed/9916772 Development of fungal mycelia as skin substitutes: effects on wound healing and fibroblast]. Biomaterials 1999; 20(1):61-68.</ref>
+
+==References==
+{{Commons category|Ganoderma tsugae}}
+{{Reflist}}
+
+{{Taxonbar|from=Q5521451}}
+
+[[Category:Ganoderma|tsugae]]
+[[Category:Dietary supplements]]
+[[Category:Inedible fungi]]
+[[Category:Medicinal fungi]]
+[[Category:Fungus species]]

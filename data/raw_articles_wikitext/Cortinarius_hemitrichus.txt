@@ -1,0 +1,67 @@
+{{Short description|Species of mushroom}}
+{{stack begin}}
+{{Speciesbox
+| image = Cortinarius hemitrichus - Lindsey.jpg
+| genus = Cortinarius
+| species = hemitrichus
+| authority = ([[Christian Hendrik Persoon|Pers.]]) [[Elias Magnus Fries|Fr.]]
+| synonyms_ref = <ref name="urlFungorum synonymy: Cortinarius hemitrichus"/>
+| synonyms =''Agaricus hemitrichus'' <small>Pers.</small><br>
+''Hydrocybe hemitricha'' <small>(Pers.) [[Meinhard Michael Moser|M.M. Moser]]</small>
+}}
+{{mycomorphbox
+| name = ''Cortinarius hemitrichus''
+| whichGills = emarginate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter= bare
+| ecologicalType=mycorrhizal
+| sporePrintColor=
+| howEdible=inedible
+}}
+{{stack end}}
+
+'''''Cortinarius hemitrichus''''', also known as the '''frosty webcap''', is a [[basidiomycete]] [[mushroom]] of the genus ''[[Cortinarius]]''. Young mushrooms are characterized by their brown cone-shaped [[pileus (mycology)|cap]]s covered with dense white fibrils.
+
+==Taxonomy==
+The species was first described as ''Agaricus hemitrichus'' by [[Christian Hendrik Persoon]] in 1801.<ref name=Persoon1801/> [[Elias Magnus Fries]] transferred to the genus ''[[Cortinarius]]'' in 1838.<ref name=Fries1838/> The name ''Hydrocybe hemitricha'', published by [[Meinhard Michael Moser|M.M. Moser]] in 1953,<ref name=Moser1953/> reflects a different placement of the species.<ref name="urlFungorum synonymy: Cortinarius hemitrichus"/>
+
+The mushroom is [[common name|commonly]] known as the "frosty webcap".<ref name=EnglishCommonNames/>
+
+==Description==
+[[image:Cortinarius.hemitrichus2.-.lindsey.jpg|thumb|left|The gills are distantly spaced and have an emarginate attachment to the stem]]
+The [[pileus (mycology)|cap]] is {{convert|2|–|4.5|cm|in|1|abbr=on}} wide, convex, with a flattish or more pointed [[umbo (mycology)|umbo]] (occasionally the umbo may be lacking), watery date brown, [[hygrophanous]]. In damp weather the cap surface is almost chestnut brown in young specimens, in dry weather grayish-brown to tan brown. The surface is soon silky and the margin almost white from floccose, white fibrils (these are easily washed off by rain), otherwise only very slightly whitish fibrillose, finally even bare. When the tip of the [[stipe (mycology)|stem]] is hollow, the cap which is thinly fleshy and quite tough. The [[lamella (mycology)|gills]] are  distantly spaced, grayish-earthy, then ochraceous ferruginous, later almost cinnamon, broadly emarginate (notched), {{convert|5|–|8|mm|in|1|abbr=on}} broad, slightly ventricose, with lightly scalloped edge. The stem is cylindrical, quite slender, usually slightly crooked, {{convert|5|–|6|cm|in|abbr=on}} long and {{convert|3|–|6|mm|in|abbr=on}} thick, light brown inside with thin, winding fibers, then eventually hollow. It is white, covered with silky fibrils on the surface, often with an ephemeral white zone in the middle which may be poorly developed, otherwise pale dirty gray, with steel gray to violet tinge at the apex. The [[trama (mycology)|flesh]] is watery brown in damp weather, then much lighter, whitish with brownish tinge. It has a mild taste, and is almost without odor.<ref name=Pilat1961/> However, it is inedible.<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=189}}</ref>
+
+The [[spore print|spore dust]] is rusty-brown. The [[spore]]s are egg-shaped, obliquely pointed, yellowish rusty brown, with fine warts and dots on the surface, and measure 8–9 by 4.5–5&nbsp;[[micrometre|μm]].<ref name=Pilat1961/>
+
+==Distribution and habitat==
+It grows in both [[deciduous forest|deciduous]] and [[coniferous forest]]s, often beneath [[birch]]es, scattered throughout Europe and North America.<ref name=Pilat1961/>
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Cortinarius species|List of ''Cortinarius'' species]]
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=EnglishCommonNames>{{cite web |url=http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |title=Recommended English Names for Fungi in the UK |publisher=[[British Mycological Society]] |access-date=2012-04-04 |archive-url=https://web.archive.org/web/20110716083053/http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |archive-date=2011-07-16 |url-status=dead }}</ref>
+
+<ref name=Fries1838>{{cite book |title=Epicrisis Systematis Mycologici |author=Fries EM. |year=1838 |page=302 |language=la}}</ref>
+
+<ref name=Persoon1801>{{cite book |title=Synopsis methodica fungorum |author=Persoon CH. |year=1801 |page=296 |language=la}}</ref>
+
+<ref name=Moser1953>{{cite book |title=Kleine Kryptogamenflora von Mitteleuropa - Die Blätter- und Bauchpilze (Agaricales und Gastromycetes) |volume=II |author= Moser MM. |year=1953 |page=168}}</ref>
+
+<ref name=Pilat1961>{{cite book |title=Mushrooms and other Fungi |last=Pilat Á, Ušák O. |year=1961 |publisher=Peter Nevill |location=London |page=121b }}</ref>
+
+<ref name="urlFungorum synonymy: Cortinarius hemitrichus">{{cite web |url=http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=232850 |title=''Cortinarius hemitrichus'' (Pers.) Fr. |publisher=CAB International |work=Species Fungorum |access-date=2010-08-01}}</ref>
+
+}}
+
+{{Taxonbar|from=Q4347253}}
+
+[[Category:Cortinarius|hemitrichus]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Inedible fungi]]
+[[Category:Fungus species]]

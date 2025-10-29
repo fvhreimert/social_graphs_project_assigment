@@ -1,0 +1,68 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Artomyces pyxidatus.jpg
+| taxon = Artomyces pyxidatus
+| authority = ([[Christian Hendrik Persoon|Pers.]]) [[Walter Jülich|Jülich]] (1982)
+| synonyms_ref = <ref name="urlMycoBank: Artomyces pyxidatus"/>
+| synonyms = *''Clavaria pyxidata'' <small>Pers. (1794)</small>
+*''Merisma pyxidatum'' <small>(Pers.) [[Curt Sprengel|Spreng.]] (1827)</small>
+*''Clavaria coronata'' <small>[[Lewis David de Schweinitz|Schwein.]] (1832)</small>
+*''Clavaria petersii'' <small>[[Miles Joseph Berkeley|Berk.]] & [[Moses Ashley Curtis|M.A.Curtis]] (1873)</small>
+*''Clavicorona coronata'' <small>(Schwein.) Doty (1947)</small>
+*''Clavicorona pyxidata'' <small>(Pers.) Doty (1947)</small>
+}}
+{{mycomorphbox 
+| name = ''Artomyces pyxidatus''
+| whichGills = no 
+| capShape = no 
+| hymeniumType = smooth
+| stipeCharacter = NA
+| ecologicalType = saprotrophic
+| sporePrintColor = white
+| howEdible = edible}}
+
+'''''Artomyces pyxidatus''''' is a [[Coral fungi|coral fungus]] that is commonly called '''crown coral''' or '''crown-tipped coral fungus'''. Its most characteristic feature is the crown-like shape of the tips of its branches. The [[botanical name|epithet]] ''pyxidatus'' means "box-like"—a reference to this shape.<ref name="Henrici 2012"/>
+
+== Description ==
+The hard, coral-like fruiting bodies reach {{Convert|4-10|cm|frac=2}} tall.<ref name="audu" /> The colour ranges from cream to semi-tan.<ref name=":0">{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=250–251|language=en}}</ref> The branches rise in ringlike arrangements resembling a crown.<ref name=":0" /> [[Basidia]] and basidiospores are produced on the surfaces of the branches. The [[spore print]] is white.<ref name="audu" />
+
+The [[sesquiterpene]] compounds pyxidatols A-C, tsuicoline&nbsp;E and omphadiol have been obtained from the liquid culture of this fungus.<ref name="Zheng 2008" />
+
+=== Similar species ===
+DNA evidence and microscopy indicates that the species is closely related to members of the genera ''[[Russula]]'' and ''[[Lentinellus]]'', as well as ''[[Auriscalpium vulgare]]''.<ref name=":0" /> ''[[Artomyces piperatus]]'' is found on the North American West Coast.<ref name="audu" /> Other similar species include ''Clavulina avellanea'', ''[[Clavulina cristata|C.&nbsp;cristata]]'', ''C.&nbsp;divaricata'', ''C.&nbsp;piperata'', and ''C.&nbsp;taxophila''.<ref name=":0" /> Additionally, ''[[Ramaria stricta]]'' is similar but lacks crown-like tips.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=129, 152}}</ref>
+
+== Distribution and habitat ==
+In eastern North America, ''A. pyxidatus'' appears on decaying wood from June to September.<ref name="audu" /> It can be observed throughout [[Northern Canada]] during the growing season. In Britain, it was recorded in 2011, almost 116 years after its previous reliable report, a collection made by mycologist [[Carleton Reale]] on 20 October 1886. Two subsequent records have been provided in Britain since 2011; one by Yvonne Davidson in Kent in 2018, and one by Cameron Ambler in East Sussex in 2021. Found in Kent in 2023<ref name="Austin2023">{{cite web |last1=Austin |first1=Yvette |date=16 November 2023 |title=Ecologist finds rare form of fungus in Kent |url=https://www.bbc.co.uk/news/uk-england-kent-67424013 |access-date=16 November 2023 |website=BBC News |publisher=BBC}}</ref> It is widespread but uncommon in Western Europe. They are also widely found in the pine forest of northeastern India, known as the "eight sisters of India".{{Citation needed|date=October 2021}}
+
+== Uses ==
+Although usually found in insubstantial quantities,<ref name="Miller 2006">{{cite book |last1=Miller Jr. |first1=Orson K. |author-link=Orson K. Miller Jr. |title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi |last2=Miller |first2=Hope H. |publisher=[[FalconGuide]] |year=2006 |isbn=978-0-7627-3109-1 |location=Guilford, CN |pages=346}}</ref> these fungi are considered [[edible mushroom|edible]] raw,<ref name="Henrici 2012" /> but are better cooked. According to one guide, it is best served when fried with chopped potatoes.<ref>{{cite book |last=Meuninck |first=Jim |title=Foraging Mushrooms Oregon: Finding, Identifying, and Preparing Edible Wild Mushrooms |date=2017 |publisher=[[Falcon Guides]] |isbn=978-1-4930-2669-2 |page=80}}</ref>
+
+The fungus are known to be served as meal amongst the tribal groups of [[Northeast India]] since time immemorial.{{Citation needed|date=October 2021}}
+
+==References==
+{{Reflist|refs=
+
+<ref name="Henrici 2012">{{cite journal |vauthors=Henrici A, Mahler N |title=''Artomyces pyxidatus'' refound in Britain |journal=Field Mycology |year=2012 |volume=14 |issue=1 |pages=31–32 |doi=10.1016/j.fldmyc.2012.12.009|doi-access=free }}</ref>
+
+<ref name="urlMycoBank: Artomyces pyxidatus">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=110490 |title=''Artomyces pyxidatus'' (Pers.) Jülich 1982 |publisher=International Mycological Association |work=MycoBank |access-date=2011-01-18}}</ref>
+
+<ref name="Zheng 2008">{{cite journal |vauthors=((Zheng Y-B)), ((Lu C-H)), ((Zheng Z-H)), ((Lin X-J)), ((Su W-J)), ((Shen Y-M)) |year=2008 |title=New sesquiterpenes from edible fungus ''Clavicorona pyxidata'' |journal=Helvetica Chimica Acta |volume=91 |issue=11 |pages=2174–80 |doi=10.1002/hlca.200890235}}</ref>
+
+}}
+
+==External links==
+*{{Commons category-inline}}
+*[http://botit.botany.wisc.edu/toms_fungi/jun2001.html ''Clavicorona pyxidata'' at Tom Volk's Fungi]
+
+{{Taxonbar|from=Q2511507}}
+
+[[Category:Russulales]]
+[[Category:Fungi described in 1794]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Edible fungi]]
+[[Category:Taxa named by Christiaan Hendrik Persoon]]
+[[Category:Fungus species]]
+
+
+{{Russulales-stub}}

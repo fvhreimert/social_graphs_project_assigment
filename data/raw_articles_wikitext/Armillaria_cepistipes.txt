@@ -1,0 +1,38 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Fungi 1 (3974037525).jpg
+| image_caption =
+| taxon = Armillaria cepistipes
+| authority = [[Velen.]] (1920)
+| synonyms =
+* European Biological Species (EBS) B<ref name="Banik">{{cite journal |last1=Banik |first1=Mark T. |last2=Burdsall |first2=Harold H. |title=Assessment of Compatibility among Armillaria cepistipes, A. sinapina, and North American Biological Species X and XI, Using Culture Morphology and Molecular Biology |journal=Mycologia |date=September 1998 |volume=90 |issue=5 |pages=798 |doi=10.2307/3761321}}</ref>
+* North American Biological Species (NABS) XI<ref name="Banik"/>
+* ''Armillaria bulbosa'' {{au|(Barla) Marxmuller 1982 '''non''' Romagn.}}<ref name=Marxmuller1982>{{cite journal |author=Marxmüller H |year=1982 |title=Étude morphologique des ''Armillaria'' ''ss''. ''str''. à anneau |trans-title=Morphological study of ''Armillaria'' ''sensu stricto'' with rings |journal=Bulletin de la Société Mycologique de France |volume=98 |pages=87–124 |language=fr}}</ref>
+}}
+
+'''''Armillaria cepistipes''''' is a common wood-rotting basidiomycete fungus found in most forests in Central Europe.<ref name="Heinzelmann et al. 2012"></ref> Armillaria cepistipes is a species of [[mushroom]] in the family [[Physalacriaceae]]. This is a weakly [[plant pathogen]]ic species that is typically found growing at the base of [[deciduous trees]] that have previously been stressed by another pathogen.<ref name="Armillaria cepistipes">{{cite web|url=http://imfc.cfl.scf.rncan.gc.ca/maladie-disease-eng.asp?geID=1000059 |title=''Armillaria cepistipes'' |publisher=Natural Resources Canada: Canadian Forest Service |date=2009 |accessdate=2009-04-17 |url-status=dead |archiveurl=https://web.archive.org/web/20110706182000/http://imfc.cfl.scf.rncan.gc.ca/maladie-disease-eng.asp?geID=1000059 |archivedate=2011-07-06 }}</ref> The [[mycelium]] of the fungus is [[bioluminescent]].<ref name="Mihail 2015"/>
+
+==See also==
+* [[List of Armillaria species|List of ''Armillaria'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Mihail 2015">{{cite journal |author=Mihail JD. |title=Bioluminescence patterns among North American ''Armillaria'' species |journal=Fungal Biology |year=2015 |volume=119 |issue=6 |pages=528–537 |doi=10.1016/j.funbio.2015.02.004 |pmid=25986550}}</ref>
+<ref name="Heinzelmann et al. 2012">{{citation |author=Heinzelmann, Renate, Daniel Rigling, and Simone Prospero.|title=Population genetics of the wood-rotting basidiomycete Armillaria cepistipes in a fragmented forest landscape |article=Fungal Biology |year=2012 |volume=116 |issue=9 |pages=985-994
+|doi=10.1016/j.funbio.2012.07.002}}</ref>
+}}
+
+{{Taxonbar|from=Q2214936}}
+
+[[Category:Armillaria|cepistipes]]
+[[Category:Bioluminescent fungi]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungal tree pathogens and diseases]]
+[[Category:Fungi described in 1920]]
+[[Category:Taxa named by Josef Velenovský]]
+[[Category:Fungus species]]
+
+
+{{Physalacriaceae-stub}}

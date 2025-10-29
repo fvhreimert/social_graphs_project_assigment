@@ -1,0 +1,61 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{Speciesbox
+| image = Leucoagaricus-Americanus1.jpg
+| image_caption = 
+| genus = Leucoagaricus
+| species = americanus
+| authority = ([[Charles Horton Peck|Peck]]) Vellinga (2000)
+| synonyms = *''Agaricus americanus'' <small>(Peck)</small>
+*''Lepiota americana''  <small>(Peck) [[Sacc.]]</small>
+*''Lepiota bresadolae''  <small>Schulzer</small>
+*''Agaricus americanus''  <small>Peck (1869)</small>
+*''Leucocoprinus americanus''  <small>(Peck) Redhead (1979)</small>
+*''Leucocoprinus biornatus''  <small>sensu auct. brit., auct. eur. (2005)</small>
+| synonyms_ref = <ref name=cf>{{cite web|last=Wood|first=Michael|title=California Fungi—''Leucoagaricus americanus''|url=http://www.mykoweb.com/CAF/species/Leucoagaricus_americanus.html|work=Mykoweb|publisher=California Fungi|author2=Fred Stevens }}</ref>
+}}
+{{Mycomorphbox
+| name = ''Leucoagaricus americanus''
+| whichGills = free
+| capShape = flat
+| capShape2 = convex
+| hymeniumType = gills
+| stipeCharacter = ring
+| ecologicalType = saprotrophic
+| sporePrintColor = white
+| howEdible = poisonous
+}}
+{{stack end}}
+
+'''''Leucoagaricus americanus''''', commonly known as the '''American parasol''',<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/301/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=301 |orig-date=1979}}</ref> is a species of fungus in the genus ''[[Leucoagaricus]]''. It is widely distributed in North America, mostly east of the [[Rocky Mountains]]. It is [[saprobic]] and grows on sawdust, wood chips, stumps, and the ground.
+
+==Taxonomy==
+The species was first described by American mycologist [[Charles Horton Peck]] in 1869.
+
+==Description==
+The [[pileus (mycology)|cap]] is oval in shape when immature, becoming convex to flat when fully grown, reaching up to {{Convert|3–15|cm|frac=4}} wide.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=567}}</ref> The cap feels dry and smooth at the beginning, but gradually gets reddish to reddish brown scales. It is white in color but reddens with maturity or after being handled.<ref name="mkuo">Kuo, M. (2005, October). ''Leucoagaricus americanus''. Retrieved from the MushroomExpert.Com Web site: http://www.mushroomexpert.com/leucoagaricus_americanus.html</ref> The [[lamella (mycology)|gills]] are free from the [[Stipe (mycology)|stipe]] and lie close together. They appear white when young and are stained pinkish to maroon. The stipe is 7–14&nbsp;cm long, often enlarged at or below the middle and tapering toward the base. It appears white at first, staining or aging pink or reddish brown. It feels smooth with its silky hairs. The [[Biological membrane|membranous]] [[Universal veil|veil]] leaves a white double edged [[annulus (mycology)|ring]] on the upper stipe that may disappear in age.<ref name="rm">{{cite web |last=Rogers Mushrooms |title=Leucoagaricus americanus |url=http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6288.asp |url-status=dead |archive-url=https://web.archive.org/web/20111109003156/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6288.asp |archive-date=2011-11-09}}</ref>
+
+The [[spores]] are white to cream in color and measure 8–10 x 6–7.5&nbsp;[[μm]].<ref name="cf" /> The [[Trama (mycology)|flesh]] is white throughout. It bruises yellow to orange when young but dries reddish when mature. The flesh is thick and discolors when cut, bruised or damaged.<ref name="rm" />
+
+It is reported to be edible, but not recommended for consumption because of possible confusion with toxic species like ''[[Chlorophyllum molybdites]]''.<ref name="rm" />
+
+==Distribution and habitat==
+It is widely distributed in its native North America,<ref name="rm" /> though more common east of the [[Rocky Mountains]]; it is [[saprobic]], and grows on sawdust, on wood chips, on stumps, and on the ground.<ref name="mkuo" />
+
+==See also==
+*[[List of Leucoagaricus species|List of ''Leucoagaricus'' species]]
+
+==References==
+{{Commons}}
+{{Reflist}}
+
+{{Taxonbar|from=Q4042816}}
+
+[[Category:Leucoagaricus|americanus]]
+[[Category:Fungi described in 1869]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Charles Horton Peck]]
+[[Category:Fungus species]]
+
+
+{{Agaricaceae-stub}}

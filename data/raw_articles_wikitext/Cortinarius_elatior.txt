@@ -1,0 +1,49 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = 2009-09-15 Cortinarius elatior Fr 57078 crop.jpg
+| genus = Cortinarius
+| species = elatior
+| authority = [[Elias Magnus Fries|Fr.]] (1801)
+| synonyms_ref = <ref name="urlMycoBank: Cortinarius elatior"/>
+| synonyms = ''Agaricus elatus'' Pers.
+}}{{Mycomorphbox
+| name = ''{{PAGENAME}}''{{italic title}}
+| hymeniumType = gills
+| capShape = conical
+| whichGills = adnate
+| stipeCharacter = cortina
+| sporePrintColor = reddish-brown
+| ecologicalType = mycorrhizal
+| howEdible = unknown
+| capShape2 = umbonate
+}}
+'''''Cortinarius elatior''''' is a species of mushroom native to Europe which is commonly known as the '''wrinkled webcap''' due to the cap's tendency to wrinkle with age.
+
+== Description ==
+''Cortinarius elatior'' is a large webcap mushroom with white flesh.
+
+'''Cap:''' 5-11cm. Starts conical before flattening with an [[Umbo (mycology)|umbo]]. The cap may become sticky and slimy when wet and lined when older usually with white veil remnants on the edges. '''Stem:''' 5-8cm. Tapers down to the base such that it has a pointed appearance which is wider at the top. Partial veil is pale violet to blue in colour forming and indistinct ring zone. '''Gills:''' Cream turning reddish-brown with age. Spacing is distant and attachment to the stipe is adnate. '''Spore print:''' Reddish-brown. '''Spores:''' Almond to lemon shaped with warts. 11-15 x 7.5-9 μm. '''Taste:''' Indistinct. '''Smell:''' Sweet like honey but not pleasant.<ref>{{Cite book |last=Buczacki |first=Stefan |title=Collins fungi guide |date=2012 |publisher=Collins |isbn=978-0-00-724290-0 |location=London |oclc=793683235}}</ref>
+
+==See also==
+*[[List of Cortinarius species|List of ''Cortinarius'' species]]
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="urlMycoBank: Cortinarius elatior">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=216676 |title=''Cortinarius elatior'' Fr. 1838 |publisher=International Mycological Association |work=MycoBank |accessdate=28 May 2016}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|216676}}
+
+{{Taxonbar|from=Q1805407}}
+
+[[Category:Cortinarius|elatior]]
+[[Category:Fungi described in 1801]]
+[[Category:Fungi of Europe]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]
+
+
+{{Cortinariaceae-stub}}

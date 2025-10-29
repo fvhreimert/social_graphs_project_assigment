@@ -1,0 +1,32 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Gymnopilus zenkeri.jpg
+| image_caption = 
+| taxon = Gymnopilus zenkeri
+| authority = ([[Henn.]]) [[Rolf Singer|Singer]] (1951)
+| synonyms = *''Pholiota zenkeri'' <small>Henn. (1901)</small>
+}}
+
+'''''Gymnopilus zenkeri''''' is a species of [[agaric]] fungus in the family [[Hymenogastraceae]]. Originally [[species description|described]] by German mycologist [[Paul Christoph Hennings]] in 1901 as ''Pholiota zenkeri'',<ref name="Hennings 1901"/> it was transferred to  the genus ''[[Gymnopilus]]'' by [[Rolf Singer]] in 1951.<ref name="Singer 1949"/> The fungus is found in Africa.<ref name="Hennings 1901"/>
+
+==See also==
+*[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Hennings 1901">{{cite journal |author=Hennings P. |title=Beiträge zur Flora von Afrika. XXI. Fungi. camerunenses novi. III |journal=Botanische Jahrbücher für Systematik, Pflanzengeschichte und Pflanzengeographie  |year=1901 |volume=30 |pages=39–57 |language=German |url=https://www.biodiversitylibrary.org/page/211251}}</ref>
+
+<ref name="Singer 1949">{{cite book |author=Singer R. |year=1949 |title=The Agaricales in Modern Taxonomy |series=Lilloa |volume=22 |page=561}}</ref>
+
+}}
+
+{{Taxonbar|from=Q5625049}}
+
+[[Category:Fungi described in 1901]]
+[[Category:Fungi of Africa]]
+[[Category:Gymnopilus|zenkeri]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

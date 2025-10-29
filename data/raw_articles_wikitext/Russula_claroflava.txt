@@ -1,0 +1,58 @@
+{{Speciesbox
+| image = 2010-08-11 Russula claroflava Grove. ss. Melz, & Zv., J. Schff 98988.jpg
+| genus = Russula
+| species = claroflava
+| authority  = [[William Bywater Grove|Grove]] (1888)
+}}
+{{mycomorphbox 
+| name = ''Russula claroflava''
+| whichGills =  free
+| capShape = convex
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = ochre
+| howEdible = choice
+}}
+
+'''''Russula claroflava''''', commonly known as the '''yellow russula''',<ref name="arora86" /> '''yellow swamp russula''' or '''yellow swamp brittlegill''', is a [[basidiomycete]] mushroom of the genus ''[[Russula]]''. It has a yellow [[pileus (mycology)|cap]], white [[lamella (mycology)|gills]] and [[stipe (mycology)|stipe]] and bruises grey.
+
+The species is found in wet places under [[birch]] and [[aspen]] woodlands across Europe and North America. It is mild-tasting and regarded as a good [[edible mushroom]].
+
+==Taxonomy==
+It was [[species description|described]] in 1888 by [[William Bywater Grove]], based on a specimen from [[Sutton Park, West Midlands|Sutton Park]] in the English Midlands.<ref name="Grove 1888"/> Its [[specific name (botany)|specific epithet]] is derived from the [[Latin]] ''clarus'' 'bright' or 'clear', and ''flava'' 'light yellow'.<ref>{{cite book|title=Fungi of Northern Europe 2: Gill-Fungi|vauthors=Nilson S, Persson O|publisher=Penguin|year=1977|isbn=0-14-063006-6|page=114}}<!--https://books.google.ca/books?id=s0A4AAAAMAAJ&pg=RA3-PA265#v=onepage&q=&f=false original pub in case it's any use :p--></ref>
+
+==Description==
+This medium-sized member of the genus ''[[Russula]]'' has a [[pileus (mycology)|cap]] that is an egg-yolk yellow. Measuring {{convert|4–12|cm|round=0.5|abbr=on}} in diameter,<ref name=arora86/> it is slightly sticky when moist,<ref name=":0">{{Cite book|title=The pocket guide to wild mushrooms: helpful tips for mushrooming in the field|last=Holmberg, Pelle.|date=2013|publisher=Skyhorse|others=Marklund, Hans, 1937-, Hedström, Ellen.|isbn=9781620877319|location=New York|oclc=816030405}}</ref> and leaves and other debris often stick to it. There is usually a slight depression in the centre of mature specimens, with the margin becoming furrowed. The [[pileus (mycology)|cap]] is half peeling. The [[stipe (mycology)|stem]] is 3–8&nbsp;cm long,<ref name=arora86/> white, fairly firm, straight and 1–2&nbsp;cm thick. Its [[Lamella (mycology)|gills]] are pale ochre, and are adnexed to almost free. All parts turn dark grey on aging or bruising.<ref name=":0" /> The smell is fruity and the [[spore print]] is pale ochre, and the oval warty spores average 9.5 x 8&nbsp;[[μm]].<ref name=Phillips06>{{cite book| author = Phillips R | year = 2006  | title = Mushrooms |page= 40 | publisher = Pan MacMillan|location=London | isbn = 0-330-44237-6}}</ref>
+
+===Similar species===
+The edible but acrid ''[[Russula ochroleuca]]'' resembles this species, but has a duller yellow cap.<ref name=arora86>{{cite book |last=Arora |author-link=David Arora |first=David |year=1986 |title= Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |edition=2nd |location=Berkeley |publisher=Ten Speed Press |isbn=0-89815-169-4 |pages=92|url-access=registration |url=https://archive.org/details/mushroomsdemysti00aror_0/page/92 }}</ref> ''[[Russula risigallina|R.&nbsp;lutea]]'' is also similar.<ref name="arora86" />
+
+==Distribution and habitat==
+''Russula claroflava'' appears in summer and autumn, usually with birch (''[[Betula]]''), or aspen (''[[Populus]]''), on heaths and moors, preferring damp places near ponds or lakes, often occurring in [[sphagnum]]. It is occasionally found in drier places. It occurs in Britain,<ref name=Phillips06/> across northern Europe, and throughout North America.
+
+==Edibility==
+This mushroom is [[edible mushroom|edible]] and good, with a mild taste, both in Europe and North America.<ref name=Phillips06/><ref name=arora86/>
+
+==See also==
+*[[List of Russula species|List of ''Russula'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Grove 1888">{{cite journal |author=Grove WB. |title=Wayside notes |journal=[[The Midland Naturalist]] |year=1888 |volume=11 |pages=265–266 |url=https://archive.org/stream/midlandnaturali00socigoog#page/n283/mode/2up}}</ref>
+
+}}
+
+==Cited literature==
+*Marcel Bon, ''The Mushrooms and Toadstools of Britain and North Western Europe''.
+*Courtecuisse and Duhem, ''Mushrooms and Toadstools of Britain and Europe''.
+
+{{Taxonbar|from=Q1462183}}
+
+[[Category:Russula|claroflava]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1888]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]

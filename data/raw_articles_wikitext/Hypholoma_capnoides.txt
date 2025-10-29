@@ -1,0 +1,50 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Hypholoma-capnoides.jpg
+| genus = Hypholoma
+| species = capnoides
+| authority = ([[Elias Magnus Fries|Fr.]]) [[P.Kumm.]] (1871)
+| synonyms = *''Agaricus capnoides'' <small>Fr. (1818)</small>
+}}
+{{mycomorphbox 
+| name = ''Hypholoma capnoides''
+| whichGills = adnate 
+| capShape = convex 
+| hymeniumType = gills
+| stipeCharacter = ring
+| ecologicalType = saprotrophic
+| sporePrintColor = purple-brown
+| howEdible = caution
+}}
+
+'''''Hypholoma capnoides''''',<ref>Kummer P (1871) ''Führ. Pilzk. (Zwickau)'': 72.</ref> commonly known as the '''conifer tuft''',<ref>{{Cite book |last=Siegel |first=Noah |title=Mushrooms of Cascadia: A Comprehensive Guide to Fungi of the Pacific Northwest |last2=Schwarz |first2=Christian |date=September 1, 2024 |publisher=Backcountry Press |isbn=9781941624197 |location=Humboldt County, CA |pages=113}}</ref> is a mushroom in the family [[Strophariaceae]]. Found in both the Old and New World, it grows on decaying wood and is [[edible mushroom|edible]], though may resemble some [[Mushroom poisoning|poisonous]] species.
+
+== Description ==
+The cap is up to {{Convert|8|cm|abbr=off|frac=2}} in diameter with yellow-to-orange-brownish or matt yellow colour, sometimes viscid.<ref name=":0">{{cite book |last1=Trudell |first1=Steve |url=https://books.google.com/books?id=WevHvt6Tr8kC |title=Mushrooms of the Pacific Northwest |last2=Ammirati |first2=Joe |publisher=Timber Press |year=2009 |isbn=978-0-88192-935-5 |series=Timber Press Field Guides |location=Portland, OR |pages=206}}</ref> It is convex then flattens in age.<ref name="tfb">{{Cite book |last=Francis-Baker |first=Tiffany |title=Concise Foraging Guide |date=2021 |publisher=[[Bloomsbury Publishing|Bloomsbury]] |isbn=978-1-4729-8474-6 |series=[[The Wildlife Trusts]] |location=London |pages=167}}</ref> The stipe is yellowish, somewhat rust-brown below, growing to {{Convert|12|cm|abbr=on|frac=4}} long.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=667}}</ref> The flesh is yellow.<ref name="tfb" /> The taste is mild, compared to most ''Hypholomas'' which are bitter.<ref name="Gerhardt2006">Gerhardt E (2006) ''BLV Handbuch Pilze.'' BLV, München. Seite&nbsp;244. {{ISBN|3-8354-0053-3}}.</ref>
+
+The [[Lamella (mycology)|gills]] are initially pale orangish-yellow, pale grey when mature, later darker purple to brown.<ref name="audu" /> The [[spore print]] is dark burgundy to brown.<ref name="audu" />
+
+=== Similar species ===
+The poisonous ''[[Hypholoma fasciculare]]'' (sulphur tuft) is more common in many areas. ''H.&nbsp;capnoides'' has greyish gills due to the dark color of its [[basidiospore|spores]], whereas sulphur tuft has greenish gills. It could also perhaps be confused with the deadly ''[[Galerina marginata]]'' or the good edible ''[[Kuehneromyces mutabilis]]''.<ref name="Gerhardt2006" />
+
+Additionally, it resembles members of ''[[Flammula]]'' and ''[[Pholiota]]''.<ref name="audu" />
+
+== Distribution and habitat ==
+Like its poisonous relative ''[[Hypholoma fasciculare|H.&nbsp;fasciculare]]'' ('sulphur tuft'), ''H.&nbsp;capnoides'' grows in clusters on decaying wood,<ref name=":0" /> for example in tufts on old tree stumps, in North America, Europe, and Asia.<ref name=":0" />
+
+== Edibility ==
+Though edible when cooked,<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |publisher=Firefly Books |year=2010 |isbn=978-1-55407-651-2 |location=Buffalo, NY |page=216}}</ref><ref name="tfb" /> it could be confused with some poisonous species.
+
+== References ==
+{{reflist}}
+<!-- 
+* Most content from up to March 2020 taken from [[:de:Graublättriger Schwefelkopf|the German page]].
+ -->
+{{Taxonbar|from=Q1543695}}
+
+[[Category:Edible fungi]]
+[[Category:Hypholoma|capnoides]]
+[[Category:Fungi described in 1818]]
+[[Category:Fungi of Europe]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]

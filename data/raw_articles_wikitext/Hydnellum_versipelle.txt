@@ -1,0 +1,44 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Sarcodon versipellis 311428.jpg
+| image_caption =
+| genus = Hydnellum
+| species = versipelle
+| authority = (Fr.) E.Larss., K.H.Larss. & Kõljalg<ref name="Larsson 2019">{{Cite journal|author1=Larsson|author2=Svantesson|author3=Miscevic|author4=Kõljalg|author5=Larsson|date=2019|title=Reassessment of the generic limits for Hydnellum and Sarcodon (Thelephorales, Basidiomycota)|journal=MycoKeys|volume=54|pages=31–47|doi=10.3897/mycokeys.54.35386|pmid=31231164|pmc=6579789 |doi-access=free }}</ref>
+| synonyms_ref = <ref name="urlFungorum synonymy: Sarcodon versipellis"/>
+| synonyms = 
+* ''Hydnum versipelle'' <small>[[Elias Magnus Fries|Fr.]] (1861)</small>
+* ''Hydnum suave'' <small>[[Bres.]] (1884)</small>
+* ''Phaeodon versipellis'' <small>(Fr.) [[Henn.]] (1898)</small>
+* ''Hydnum versipelle'' var. ''suave'' <small>(Bres.) Trotter (1925)</small>
+* ''Hydnum crassum'' <small>[[K.A.Harrison]] (1961)</small>
+* ''Sarcodon versipellis'' <small>(Fr.) [[Nikol.]] (1961)</small>
+}}
+
+'''''Hydnellum versipelle''''' is a species of [[tooth fungus]] in the family [[Bankeraceae]]. It was originally [[species description|described]] by [[Elias Fries]] in 1861 as ''Hydnum versipelle''. [[Taisiya Lvovna Nikolayeva]] transferred it to the genus ''[[Sarcodon]]'' in 1961.<ref name="Nikolayeva 1961"/> ''Hydnum crassum'', published by [[Kenneth A. Harrison]] in 1961,<ref name="Harrison 1961"/> is a [[synonym (biology)|synonym]].<ref name="urlFungorum synonymy: Sarcodon versipellis"/> The species is found in Europe and North America.
+
+==References==
+{{Reflist|refs=
+
+<ref name="Harrison 1961">{{cite report |author=Harrison KA |title=The Stipitate Hydnums of Nova Scotia |work=Publications of the Department of Agriculture Canada |location=Ottawa, Canada |publisher=Research Branch, Canada Department of Agriculture |year=1961 |volume=1099 |pages=1–60 (see p.&nbsp;29) |url=https://www.biodiversitylibrary.org/page/39011849}} {{open access}}</ref>
+
+<ref name="Nikolayeva 1961">{{cite book |author=Nikolayeva TL |title=Флора споровых растений СССР |trans-title=Flora plantarum cryptogamarum URSS. Fungi. Familia Hydnaceae |year=1961 |volume=6 |issue=2 |location=Moscow; Leningrad |page=283 |oclc=25895155}}</ref>
+
+<ref name="urlFungorum synonymy: Sarcodon versipellis">{{cite web |title=GSD Species Synonymy: ''Sarcodon versipellis'' (Fr.) Nikol. |url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=338811 |publisher=Species Fungorum. CAB International |access-date=2016-02-09}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|338811}}
+
+{{Taxonbar|from=Q10437081}}
+
+[[Category:Fungi described in 1861]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Hydnellum|versipelle]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]
+
+
+{{Agaricomycetes-stub}}

@@ -1,0 +1,52 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = BoletusLupinus01.jpg
+| genus = Rubroboletus
+| species = lupinus
+| authority = ([[Elias Magnus Fries|Fr.]]) Costanzo, Gelardi, Simonini & Vizzin (2015)
+| synonyms_ref = <ref name="urlFungorum synonymy: Rubroboletus lupinus"/>
+| synonyms = *''Boletus luridus'' var. ''lupinus'' <small>(Fr.) E.-J.Gilbert</small>
+*''Boletus lupinus'' <small>Fr. (1838)</small>
+*''Dictyopus tuberosus'' var. ''lupinus'' <small>(Fr.) Quél. (1886)</small>
+*''Suillellus lupinus'' <small>(Fr.) Blanco-Dios (2015)</small>
+}}
+{{mycomorphbox
+| name = ''Rubroboletus lupinus''
+| whichGills = adnate
+| capShape = convex
+| hymeniumType = pores
+|sporePrintColor = olive-brown
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| howEdible = unknown
+}}
+'''''Rubroboletus lupinus''''', commonly known as the '''wolf bolete''', is a [[bolete]] fungus of the genus ''[[Rubroboletus]]''. Originally [[species description|described]] by [[Elias Magnus Fries]] in 1838 as species of ''[[Boletus]]'', it was transferred to ''[[Rubroboletus]]'' in 2015,<ref name="Vizzini 2015"/> a genus [[circumscription (taxonomy)|circumscribed]] to host other allied reddish-colored, blue-staining bolete species forming a distinct clade.<ref name="Zhao 2014"/> The species epithet is derived from the [[Latin]] word ''lupus'', meaning "wolf".
+
+Molecular studies have revealed considerable genetic variation among European populations of ''R. lupinus'', placing it in a clade sister to ''[[Rubroboletus dupainii]]''.<ref name="Loizides 2019"/> The species is found in warm [[broad-leaved]] forests, forming [[ectomycorrhizal]] associations with various species of oak (''[[Quercus]]'') and sweet chestnut (''[[Castanea (plant)|Castanea]]'').
+
+==References==
+{{Reflist|refs=
+
+<ref name="Loizides 2019">{{cite journal |title=Present status and future of boletoid fungi (Boletaceae) on the island of Cyprus: cryptic and threatened diversity unraveled by 10-year study. |vauthors=Loizides M, Bellanger JM, Assyov B, Moreau PA, Richard F |journal=Fungal Ecology |volume=41 |issue=13 |pages=65–81 |year=2019 |doi=10.1016/j.funeco.2019.03.008 }}</ref>
+
+<ref name="urlFungorum synonymy: Rubroboletus lupinus">{{cite web |title=GSD Species Synonymy: ''Rubroboletus lupinus'' (Fr.) Costanzo, Gelardi, Simonini & Vizzini |url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=551144 |publisher=Species Fungorum. CAB International |access-date=2015-06-22}}</ref>
+
+<ref name="Vizzini 2015">{{cite journal |author=Vizzini A. |title=Nomenclatural novelties |journal=Index Fungorum |issue=233 |date=March 24, 2015 |url=http://www.indexfungorum.org/Publications/Index%20Fungorum%20no.233.pdf}}</ref>
+
+<ref name="Zhao 2014">{{cite journal |vauthors=Zhao K, Wu G, Yang ZL |title=A new genus, ''Rubroboletus'', to accommodate ''Boletus sinicus'' and its allies |journal=Phytotaxa |volume=188 |issue=2 |pages=61–77 |doi=10.11646/phytotaxa.188.2.1}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|551144}}
+
+{{Taxonbar|from=Q20721676}}
+
+[[Category:Rubroboletus|lupinus]]
+[[Category:Fungi described in 1838]]
+[[Category:Fungi of Europe]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]
+
+
+{{Boletales-stub}}

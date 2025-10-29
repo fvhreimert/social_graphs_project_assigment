@@ -1,0 +1,64 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+|status = LC
+|status_system = IUCN3.1
+|status_ref = <ref name=iucn>{{Cite iucn |title=''Phylloporus pelletieri'' |author=Kałucka, I.L. & Svetasheva, T. |name-list-style=amp |article-number=e.T75118539A75118555 |date=2019 |doi=10.2305/IUCN.UK.2019-2.RLTS.T75118539A75118555.en |access-date=19 March 2024}}</ref>
+| image = Rohrbacher Goldblatt crop.jpg
+| image_caption =
+| genus = Phylloporus
+| species = pelletieri
+| authority = ([[Lév.]]) [[Lucien Quélet|Quél.]] (1888)
+| synonyms_ref = <ref name="urlMycoBank: Phylloporus pelletieri"/>
+| synonyms = ''Agaricus pelletieri'' <small>Lév. (1867)</small><br />
+''Clitocybe pelletieri'' <small>(Lév.) Gillet (1874)</small><br />
+''Paxillus pelletieri'' <small>(Lév.) Velenovsky (1920)</small><br />
+''Xerocomus pelletieri'' <small>(Lév.) Manfr.Binder (1999)</small>
+}}
+{{ mycomorphbox
+| name             = Phylloporus pelletieri
+| whichGills       = decurrent
+| capShape         = flat
+| hymeniumType     = gills
+| stipeCharacter   = bare
+| ecologicalType   = mycorrhizal
+| howEdible        =
+}}
+
+'''''Phylloporus pelletieri''''', commonly known as the '''golden-gilled bolete''', is a species of [[fungus]] in the family [[Boletaceae]].
+
+==Taxonomy==
+The species was first described by French mycologist [[Joseph-Henri Léveillé]] in 1867 under the name ''Agaricus pelletieri''.<ref name="Leveille1867" /> [[Lucien Quélet]] transferred it to ''[[Phylloporus]]'' in 1888.<ref name="Quelet1888" />
+
+==Description==
+The underside of its [[Pileus (mycology)|cap]] bears [[lamella (mycology)|lamellae]] (gill-like structures) rather than the pores common in the [[Boletales]]. The reddish, domed cap is smooth with a velvety texture, while the lamellae are bright yellow.<ref>Pegler, D. & Spooner, B. (1992) The Mushroom Identifier. Apple Press, London.</ref> The [[Stipe (mycology)|stem]] supporting the cap is also yellow with a red-brown [[Veil (botany)|veil]].<ref>[http://www.grzyby.pl/index.html Fungi of Poland] (July 2003).</ref>{{Unreliable source?|date=August 2011}}
+
+==Distribution and habitat==
+
+The golden-gilled bolete forms [[mycorrhiza]]l relationships with broadleaved trees such as [[beech]] and [[conifer]]ous trees such as [[fir]] or [[pine]].<ref name=coe/> The [[basidiocarp|fruit bodies]] are produced in summer and autumn.<ref name=coe/>
+
+Although rare, the golden-gilled bolete has a widespread distribution in Europe and reaches into Asia.<ref name=coe>[http://www.nature.coe.int/CP21/tpvs34e.htm European Council for Conservation of Fungi (2001) Datasheets of threatened mushrooms of Europe, candidates for listing in Appendix I of the Convention. Bern Convention Standing Committee.]</ref> It inhabits [[Temperate broadleaf and mixed forests|broadleaf]] or coniferous forests in [[montane]] or [[sub-alpine]] regions, where it is associated with [[acidic soil|acidic]] or sandy soils.<ref name=coe/>
+
+==Ecology==
+
+The species is threatened by air pollution and forestry plantations, which can destroy its natural habitat.<ref name="coe" /> It is short-listed for inclusion in Appendix&nbsp;I of the [[Convention on the Conservation of European Wildlife and Natural Habitats]], otherwise known as the Bern Convention, by the [[European Council for Conservation of Fungi]] (ECCF), and included on the [[Regional Red List|Red List]]s of 12 European countries.<ref>[http://www.artdata.slu.se/Bern_Fungi/Bern_Fungi.htm The distribution, status and habitat requirement of the 33 fungal candidates for listing in Appendix I of the Bern Convention] (June 2003)</ref> Other conservation recommendations include the mapping of existing sites and a reduction in air pollution, together with restrictions on forestry practice at known locations.<ref name="coe" />
+
+==References==
+{{ARKive attribute}}
+{{Reflist|34em|refs=
+
+<ref name=Leveille1867>{{cite book |vauthors=Crouan PL, Crouan HM |title=Florule de Finistère, Contenant des Descriptions de 360 Espèces Nouvelles de Sporogames, des Nombreuses Observations |year=1867 |page=81 |language=French}}</ref>
+
+<ref name=Quelet1888>{{cite book |author=Quélet L. |title=Flore mycologique de la France et des pays limitrophes |page=409 |language=French}}</ref>
+
+<ref name="urlMycoBank: Phylloporus pelletieri">{{cite web |title=''Phylloporus pelletieri'' (Lév.) Quél. 1888 |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=183177 |publisher=[[MycoBank]]. International Mycological Association |access-date=2011-08-03}}</ref>
+
+}}
+
+{{Taxonbar|from=Q249595}}
+
+[[Category:Phylloporus|pelletieri]]
+[[Category:Fungi described in 1867]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Taxa named by Joseph-Henri Léveillé]]
+[[Category:Fungus species]]

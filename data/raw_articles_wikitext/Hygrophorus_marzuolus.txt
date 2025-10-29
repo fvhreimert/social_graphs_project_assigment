@@ -1,0 +1,65 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Marzschnecklinge.jpg
+| image_caption =
+| genus = Hygrophorus
+| species = marzuolus
+| authority = ([[Elias Magnus Fries|Fr.]]) [[Giacomo Bresadola|Bres.]] (1893)<ref name="Bresadola 1893"/>
+| synonyms_ref = <ref name="urlMycoBank: Hygrophorus marzuolus"/>
+| synonyms =
+  {{Plainlist|
+*''Agaricus marzuolus'' <small>Fr. (1821)</small>
+*''Limacium camarophyllum'' subsp. ''marzuolum'' <small>(Fr.) [[Josef Herink|Herink]] (1949)</small>
+*''Clitocybe marzuolus'' <small>(Fr.) [[Pier Andrea Saccardo|Sacc.]] (1887)</small>
+  }}
+}}
+
+'''''Hygrophorus marzuolus''''', commonly known as the '''March mushroom''', is a [[species]] of [[fungus]] in the family [[Hygrophoraceae]]. It is known from Asia, Europe, and North America, where it grows on the ground in [[mixed forest]]s at high elevations.
+
+==Taxonomy==
+The species was originally [[species description|described]] by [[Elias Magnus Fries]] in 1821 as ''Agaricus marzuolus'', and transferred to  ''[[Hygrophorus]]'' in 1893 by [[Giacomo Bresadola]].<ref name="urlMycoBank: Hygrophorus marzuolus"/> It is [[common name|commonly]] known as the "March mushroom".<ref name="McKnight 1987"/>
+
+==Description==
+The fruit bodies have [[pileus (mycology)|caps]] that are broadly convex, measuring {{convert|2.5|–|11|cm|in|1|abbr=on}} in diameter. Their surfaces are smooth and sticky, with a pale greyish-brown center and darker brown to blackish-grey margin. The distantly spaced, broad [[lamella (mycology)|gills]] have an [[adnation|adnate]] to adnexed attachment to the [[stipe (mycology)|stipe]], and two tiers of intervening lamellulae (short gills). The gills are initially white before turning gray to bluish-gray in age. The whitish stipe measures {{convert|3|–|10|cm|in|abbr=on}} long by {{convert|1|–|2.5|cm|in|1|abbr=on}} thick, and is either equal in width throughout or tapers slightly towards the base. The stipe is smooth except for a few tufts of hairs near the top. Immediately underneath the [[cap cuticle]], the [[trama (mycology)|flesh]] of the cap is water-soaked; elsewhere in the cap, it is gray-tinted with a sheen, while in the stipe it is dull white. It lacks any appreciable odor or taste.<ref name="Bessette 1995"/> It is considered [[edible mushroom|edible]] in Europe, where it is prized in some regions.<ref name="Overall 2004"/>
+
+The thin-walled, elliptical [[basidiospore|spores]] measure 6.5–8.5 by 4.5–5&nbsp;[[micrometre|μm]]. The [[basidia]] (spore-bearing cells) are narrowly club-shaped, four-spored, and measure 42–55 by 5.4–8.1&nbsp;μm.<ref name="Bessette 1995"/>
+
+==Habitat and distribution==
+''Hygrophorus marzuolus'' is a [[mycorrhiza]]l fungus. Associations have been noted with the trees ''[[Abies alba]]'', and sometimes with ''[[Picea excelsa]]'' and ''[[Pinus sylvestris]]''.<ref name="Kraft 1958"/> Fruit bodies grow singly to scattered or sometimes in clusters on the forest floor in [[plant litter|duff]] or in [[moss]]. It fruits under conifers, often [[fir]] and [[Engelmann spruce]], typically at high elevations. A [[snowbank mushroom]], it is associated with melting snow, and fruiting is initiated under snowbanks. The fungus has been recorded from the mountains of [[Idaho]], [[Montana]], [[Oregon]], [[Washington (state)|Washington]], northern [[Arizona]], and northern [[California]].<ref name="Bessette 1995"/> The European distribution extends from the French [[Pyrenees]] to the region of [[Prague]].<ref name="Kraft 1958"/> In Asia, it has been reported from Pakistan.<ref name="Razaq 2005"/>
+
+==See also==
+* [[List of Hygrophorus species|List of ''Hygrophorus'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Bessette 1995">{{cite book |vauthors=Bessette A, ((Miller OK Jr)), Bessette AR, Miller HR |title=Mushrooms of North America in Color: A Field Guide Companion to Seldom-Illustrated Fungi |publisher=Syracuse University Press |location=Syracuse, New York |year=1995 |pages=50–1 |isbn=0-8156-2666-5}}</ref>
+
+<ref name="Bresadola 1893">{{cite journal |author=Bresadola G. |title=Di due specie interessanti di funghi della fIora micologica italiana |journal=Atti della Reale Accademia degli Agiati di Rovereto |year=1893 |volume=11 |page=3 |language=Italian}}</ref>
+
+<ref name="Kraft 1958">{{cite journal |author=Kraft MM. |title=Sur la repartition d{{'}}''Hygrophorus marzuolus'' (Fr.) Bres. |trans-title=On the distribution of ''Hygrophorus marzuolus'' (Fr.) Bres. |journal=Bericht der Schweizerischen Botanischen Gesellschaft |year=1958 |volume=68 |pages=254–88 |language=French}}</ref>
+
+<ref name="McKnight 1987">{{cite book |vauthors=McKnight VB, McKnight KH |title=A Field Guide to Mushrooms: North America |series=Peterson Field Guides |publisher=Houghton Mifflin |location=Boston, Massachusetts |year=1987 |page=207 |isbn=0-395-91090-0 |url=https://books.google.com/books?id=kSdA3V7Z9WcC&pg=PA207}}</ref>
+
+<ref name="Overall 2004">{{cite journal |author=Overall A. |title=As mad as a March......mushroom! |journal=Field Mycology |year=2004 |volume=5 |issue=4 |pages=116–8 |doi=10.1016/S1468-1641(10)60265-4 |url=http://londonfungusgroup.org.uk/fieldmycologyhygrophorousmarzoulos.pdf }}</ref>
+
+<ref name="Razaq 2005">{{cite journal |vauthors=Razaq A, Shahzad S |title=''Hygrophorus marzuolus'', a new report from Pakistan |journal=Pakistan Journal of Botany |year=2005 |volume=37 |issue=4 |pages=1031–2 |issn=0556-3321}}</ref>
+
+<ref name="urlMycoBank: Hygrophorus marzuolus">{{cite web |url=http://www.mycobank.org/Biolomics.aspx?Table=Mycobank&MycoBankNr_=181113 |title=''Hygrophorus marzuolus'' (Fr.) Bres. 1893 |publisher=[[MycoBank]]. International Mycological Association |access-date=2013-09-12}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|181113}}
+
+{{Taxonbar|from=Q727534}}
+
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1821]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Hygrophorus|marzuolus]]
+[[Category:Snowbank fungi]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]

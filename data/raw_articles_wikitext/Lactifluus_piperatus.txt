@@ -1,0 +1,145 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+ | image = Lactarius piperatus 98569.jpg
+ | genus = Lactifluus
+ | species = piperatus
+ | authority = ([[Carl Linnaeus|L.]]) [[Henri François Anne de Roussel|Roussel]] (1806)
+ | synonyms_ref = <ref name="urlMycoBank"/>
+ | synonyms = ''Agaricus piperatus'' <small>L. (1753)</small><br>
+''Agaricus acris'' <small>[[Bull.]] (1785)</small><br>
+''Agaricus lactifluus'' var. ''piperatus'' <small>(L.) Pers.</small><br>
+''Lactaria piperata'' <small>(L.) Pers.</small><br>
+''Lactarius piperatus'' (L.) [[Christian Hendrik Persoon|Pers.]] (1797)<br>
+''Lactifluus piperatus'' <small>(L.) [[Otto Kuntze|O.Kuntze]] (1891)</small>
+}}
+{{mycomorphbox
+| name = ''Lactifluus piperatus''
+| whichGills = decurrent
+| capShape = convex
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = white
+| howEdible = edible
+| howEdible2 = caution
+}}
+
+'''''Lactifluus piperatus''''' ([[Synonyms (taxonomy)|synonym]] '''''Lactarius piperatus'''''), commonly known as the '''blancaccio''', is a [[basidiomycete]] fungus of the genus ''[[Lactifluus]]''. It was the original [[type species]] of the genus ''[[Lactarius (fungus)|Lactarius]]'', before being moved to ''Lactifluus''.
+
+The fruiting body is a creamy-white mushroom which is funnel-shaped when mature, with exceptionally crowded [[lamella (mycology)|gills]]. It bleeds a whitish peppery-tasting [[latex|milk]] when cut. Widely distributed across Europe and eastern North America, ''L.&nbsp;piperatus'' has been accidentally introduced to Australia. [[Mycorrhiza]]l, it forms a symbiotic relationship with various species of deciduous tree, including [[beech]], and [[hazel]], and fruiting bodies are found on the forest floor in [[deciduous]] woodland.
+
+Despite often being considered [[Edible mushroom|edible]], it reportedly contains toxins and has a poor flavor, but can be used as a seasoning when dried.
+
+==Taxonomy==
+The species was one of many named by [[Carl Linnaeus]], who officially described it in Volume Two of his ''[[Species Plantarum]]'' (1753) as ''Agaricus piperatus'',<ref name="Linnaeus1753" /> the [[specific name (botany)|specific epithet]] deriving from the [[Latin]] adjective ''piperatus'', meaning "peppery".<ref name="Simpson1979" /> For many years, Tyrolian naturalist [[Giovanni Antonio Scopoli]] was considered the author of the first description, until a 1987 revision of the [[International Code of Botanical Nomenclature]] began considering primary works describing fungi from as far back as 1753, instead of only 1821 (based on the work of Swedish naturalist [[Elias Magnus Fries]]).<ref name="Esser1994" />
+
+''Lactifluus piperatus'' was the original [[type species]] of the genus ''[[Lactarius (fungus)|Lactarius]]''. However, after the finding that ''Lactarius'' actually represented more than one genus,<ref name=Buyck2008/> the species ''[[Lactarius torminosus]]'' was conserved as type for that genus.<ref name=Buyck2010/><ref name="Norvell2011"/><ref name="Barrie2011"/> Thus, ''L.&nbsp;piperatus'' is now the type species of ''Lactifluus'', which was split from ''Lactarius'' and contains mainly tropical milk-caps, but also some species of the north temperate zone.<ref name="verbeken2013"/> [[Phylogenetic]] research showed that [[Lactifluus glaucescens|''L.&nbsp;glaucescens'']], sometimes considered only a variety of ''L.&nbsp;piperatus'', is a distinct species in Europe.<ref name=DeCrop2014/> Furthermore, the existence of at least ten lineages worldwide, with no overlap among continents, was shown for the group around ''L.&nbsp;piperatus'', suggesting that populations in North America might actually be distinct species.<ref name=DeCrop2014/>
+
+It is commonly known as the peppery milk cap,<ref name="Phillips1981"/> pepper milkcap,<ref name=Peterson1998/> peppery Lactarius,<ref name="Marshall2003"/> peppery milk mushroom,<ref name="Russell2006"/> white peppery milk-cap, or other similar names. Similarly, in German it is known as the ''Pfeffermilchling'' ("pepper milk cap").<ref name=Zeitlmayr1976/>
+
+==Description==
+
+The [[pileus (mycology)|cap]] is {{convert|6-16|cm|frac=4}} across, convex, and depressed in the center; it is creamy-white (staining tannish in age),<ref name="Arora1986" /> [[Glabrousness|glabrous]] but not glossy; it may crack in dry areas.<ref name=Haas1969/> The [[stipe (mycology)|stipe]] is white in colour, smooth,<ref name="Pegler1983"/> {{convert|2-8|cm|round=0.5|abbr=on}} long and {{convert|1-3|cm|frac=4|abbr=on}} thick,<ref name="Arora1986" /> and cylindrical, sometimes tapering towards the base.<ref name="Phillips1981"/> There is a thick layer of firm white flesh, and the [[decurrent]] [[Lamella (mycology)|gills]] are particularly crowded and narrow, sharing the white colouration of the stem but becoming creamy with age.<ref name="Phillips1981"/><ref name="Pegler1983"/> As with other species of ''Lactarius'',<ref name="Phillips1981"/> there is abundant milk ([[latex]]), which is white,<ref name="Pegler1983"/> and dries olive-green.<ref name=Laessoe1998/> It has a white [[spore print]] with [[wikt:elongate|elongate]], [[elliptic]] or [[amyloid]] [[spore]]s which are ornamented, as with ''[[Lactifluus vellereus|L.&nbsp;vellereus]]''. The spores measure from 4.5&ndash;9.5 by 5&ndash;8&nbsp;[[μm]], are roundish to elliptical,<ref name="Arora1986" /> and have tiny warts.<ref name="Phillips1981"/><ref name="Pegler1983"/>
+
+'' is similar but has a stouter stipe and a large, woolly cap.]]
+=== Similar species ===
+
+''L. vellereus'' is larger with a thick stipe, woolly cap and less crowded gills,<ref name=Zeitlmayr1976/> but is not as tall.<ref name="Phillips1981"/> ''[[Russula delica]]'' is similar in colour and shape, though has adnate blue-green tinged gills and no milk.<ref name=Haas1969/> ''[[Lactifluus deceptivus|L.&nbsp;deceptivus]]'' is also similar, but is differentiated by its less crowded gills, firmer cap margin and less acrid milk.<ref name=Roody2003/> Close to ''L.&nbsp;piperatus'' is ''[[Lactifluus glaucescens|L.&nbsp;glaucescens]]'', which is differentiated by its milk that dries with a greenish colour.<ref name="urlKuo"/>
+
+==Distribution and habitat==
+''Lactifluus piperatus'' in the wide sense, i.e. including probably several species,<ref name=DeCrop2014/> is found in Europe,<ref name="Phillips1981"/> the [[Black Sea]] region in northeastern [[Turkey]],<ref name=Sesli2007/> and eastern and central North America east of [[Minnesota]].<ref name=Arora1986/> It has been accidentally introduced into [[Australasia]], where it is found under introduced and native trees.<ref name="Hall2003"/><ref name=Fuhrer2005/> It is found on the floor in [[deciduous]] woodland, particularly under [[beech]] (''Fagus''), and can be found throughout summer and autumn and into early winter.<ref name="Phillips1981"/><ref name=Haas1969/> It is relatively common, though not as common as the similar ''L.&nbsp;vellereus''.<ref name="Phillips1981"/> ''L.&nbsp;piperatus'' is found solitarily or in scattered groups.<ref name="Jordan2004"/> It is sometimes found growing together with ''[[Russula cyanoxantha]]''.<ref name=Haas1969/>
+
+==Ecology==
+It is a common food source for [[red squirrel]]s.<ref name="Camazine1984" /> It is one of several species parasitized by ''[[Hypomyces lactifluorum]]'' (the lobster mushroom).<ref name="Arora1986" />
+
+==Edibility==
+The species contains [[Mycotoxin|toxins]], but despite being described by some authors as inedible<ref name="Jordan2004" /> or even [[Mushroom poisoning|poisonous]],<ref name="Hall2003" /><ref name="Miller2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=97}}</ref> ''Lactifluus piperatus'' is often considered [[Edible mushroom|edible]].<ref name="Phillips1981" /><ref name="Marshall2003" /><ref name="Pegler1983" /> It is not recommended by some owing simply to its unpleasant taste.<ref name="Phillips1981" /> It is difficult to digest when eaten raw, but is used as a seasoning when dried; it is also sometimes eaten fresh after [[parboiling]], though its taste is still unappetising.<ref name="Phillips1981" /> Some recommend [[frying]] it in butter with bacon and onion,<ref name="Zeitlmayr1976" /> [[pickling]] it,<ref name="Russell2006" /> or baking it in a pie or pastry.<ref name="Haas1969" /> The milk has a very hot and acrid taste,<ref name="Phillips1981" /> which is removed if boiled.<ref name="Pegler1983" /> The mushroom used to be highly regarded in [[Russia]],<ref name="Molokhovets1992" /> where it would be picked in dry seasons when other edible species were less available.<ref name="Pegler1983" /> The mushroom is also popular in [[Finland]], where cooks boil it repeatedly (disposing of the water each time), and then store it in salt water and refrigerate it, then pickle it or serve it in salads.<ref name="urlKuo" /> When eaten fresh and raw, the mushroom has been known to cause an [[Irritation|irritant reaction]] on the lips and tongue, which subsides after an hour.<ref name="Spoerke1994" /> The close ''L.&nbsp;glaucescens'' has been reported to be poisonous,<ref name="Metzler1992" /> but it has been speculated that the "poisonings" were caused by the extremely strong, peppery taste, rather than by the presence of actual poisons.<ref name="urlKuo" />
+
+When parasitized by the lobster mushroom, ''L.&nbsp;piperatus'' forms part of an unusual and highly regarded dish in North America. Once colonized by the parasite, an orange-red crust forms over the surface of the mushroom, and the taste becomes delicious as the parasite infiltrates its host's tissues.<ref name="Arora1986" />
+
+==Other uses==
+Because of the presence of [[auxin]]s in ''L.&nbsp;piperatus'' [[metabolite]]s, it can be applied as a [[Cutting (plant)|rooting hormone]] to aid the growth of seedlings of various species of plants, including [[hazel]], [[beech]] and [[oak]].<ref name=Mohan1999/> In the 19th century, it was used as a [[folk medicine|folk cure]] for [[tuberculosis]], though it had no effect.<ref name=Rolfe1974/> In more recent times, it has been found that ''L.&nbsp;piperatus'' can be used as an [[Antiviral drug|antiviral]] agent, and the latex has been used against viral [[wart]]s.<ref name=Hoffman1999/>
+
+==See also==
+*[[List of Lactifluus species|List of ''Lactifluus'' species]]
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=Arora1986>{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/71/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=71 |orig-date=1979}}</ref>
+
+<ref name="Barrie2011">{{Cite journal |author=Barrie F. |title=Report of the General Committee: 11 |journal=Taxon |volume=60 | issue=4 | year=2011 |pages=1211–1214 |doi=10.1002/tax.604026 |doi-access=free |bibcode=2011Taxon..60.1211B }}</ref>
+
+<ref name=Buyck2008>{{cite journal |vauthors=Buyck B, Hofstetter V, Eberhardt U, Verbeken A, Kauff F |year=2008|title=Walking the thin line between ''Russula'' and ''Lactarius'': the dilemma of ''Russula'' subsect. ''Ochricompactae''. |journal=Fungal Diversity |volume=28 |pages=15–40 |url=http://www.fungaldiversity.org/fdp/sfdp/28-2.pdf }}</ref>
+
+<ref name=Buyck2010>{{Cite journal |vauthors=Buyck B, Hofstetter V, Verbeken A, Walleyn R |title=Proposal to conserve ''Lactarius'' nom. cons. (Basidiomycota) with conserved type |journal=Taxon |volume=59 |year=2010 |pages=447–453 |doi=10.1002/tax.591031 |doi-access=free }} {{open access}}</ref>
+
+<ref name=Camazine1984>{{cite journal |author=Camazine S |author2=Lupo AT Jr. | date=1984 |title=Labile Toxic Compounds of the Lactarii: The Role of the Laticiferous Hyphae as a Storage Depot for Precursors of Pungent Dialdehydes |journal= Mycologia |volume= 76 |publisher= Mycological Society of America | issue= 2| pages= 355–358 | doi= 10.2307/3793113 |jstor= 3793113 }}</ref>
+
+<ref name=DeCrop2014>{{cite journal |vauthors=De Crop E, Nuytinck J, Van de Putte K, Lecomte M, Eberhardt U, Verbeken A | date=2014 |title=''Lactifluus piperatus'' (Russulales, Basidiomycota) and allied species in Western Europe and a preliminary overview of the group worldwide |journal=Mycological Progress |volume=13 | issue=3 | pages=493–511  | doi=10.1007/s11557-013-0931-5 | bibcode=2014MycPr..13..493D | s2cid=18795528 }}</ref>
+
+<ref name=Esser1994>{{cite book |vauthors=Esser K, Lemke PA | title = The Mycota: A Comprehensive Treatise on Fungi as Experimental Systems for Basic and Applied Research | publisher = Springer | year=  1994| pages = 181| isbn = 3-540-66493-9}}</ref>
+
+<ref name=Fuhrer2005>{{cite book | author=Fuhrer B. | year=2005 | title=A Field Guide to Australian Fungi |publisher=Blooming Books | isbn=1-876473-51-7}}</ref>
+
+<ref name=Haas1969>{{cite book | author=Haas H. | year=1969 | title=The Young Specialist looks at Fungi | pages=74 |publisher=Burke | isbn=0-222-79409-7}}</ref>
+
+<ref name="Hall2003">{{cite book |title=Edible and Poisonous Mushrooms of the World |author= Hall IR | year= 2003 | publisher=Timber Press | isbn= 978-0-88192-586-9 | pages= 156}}</ref>
+
+<ref name=Hoffman1999>{{cite book |title=Cancer and the Search for Selective Biochemical Inhibitors |author= Hoffman EJ | url= https://books.google.com/books?id=WiIVBWKJhYwC&q=%22Lactarius+piperatus%22&pg=RA1-PA178 | access-date= 2008-08-16 | year= 1999 | publisher= CRC Press | isbn= 978-0-8493-9118-7 |pages=178}}</ref>
+
+<ref name="Jordan2004">{{cite book |title=The Encyclopedia of Fungi of Britain and Europe | author= Jordan M. | year= 2004 | publisher=Frances Lincoln | isbn=978-0-7112-2378-3 | pages=305}}</ref>
+
+<ref name="urlKuo">{{Cite web |url= http://www.mushroomexpert.com/lactarius_piperatus.html | title=''Lactarius piperatus'' |access-date=2009-01-11 | author= Kuo M. | publisher=MushroomExpert.com }}</ref>
+
+<ref name=Laessoe1998>{{cite book | author=Laessoe T. | year=1998 | title=Mushrooms (flexi bound) | publisher=Dorling Kindersley | isbn=0-7513-1070-0}}</ref>
+
+<ref name=Linnaeus1753>{{cite book | author=Linnaeus C. | author-link=Carl Linnaeus | title=Species Plantarum: Tomus II | publisher=Holmiae. (Laurentii Salvii). | year=1753| pages=1173 |language=la}}</ref>
+
+<ref name="Marshall2003">{{cite book |title=Mushroom Book |author= Marshall NL |url= https://books.google.com/books?id=S9pn8CAQY1YC&q=%22Lactarius+piperatus%22&pg=PA92 |access-date=2008-08-16 |year=2003 |publisher= Kessinger Publishing |isbn= 978-0-7661-3776-9 |pages= 92}}</ref>
+
+<ref name=Metzler1992>{{cite book |title=Texas Mushrooms |author=Metzler S. | url=https://books.google.com/books?id=HRtfvVigMmsC&q=%22Lactarius+piperatus%22&pg=PA121 | access-date= 2008-08-16 | year= 1992 | publisher= University of Texas Press | isbn= 978-0-292-75125-5 | pages=121}}</ref>
+
+<ref name=Mohan1999>{{cite book |title=Somatic Embryogenesis in Woody Plants | author= Mohan Jain S | author2= Gupta PK | author3= Newton, RJ. |url= https://books.google.com/books?id=kcOpOB39QuMC&q=%22Lactarius+piperatus%22&pg=PT454 | access-date= 2008-08-16 |year= 1999 | publisher= Springer |isbn= 978-0-7923-3070-7 |pages= 434}}</ref>
+
+<ref name="Norvell2011">{{Cite journal |author=Norvell LL |title=Report of the Nomenclature Committee for Fungi: 16 |journal=Taxon |volume=60 |year=2011 |issue=1 |pages=223–226 |doi=10.1002/tax.601023 |doi-access=free |bibcode=2011Taxon..60..223N }}</ref>
+
+<ref name=Molokhovets1992>{{cite book |title=Classic Russian Cooking | author= Molokhovets E | author2= Stetson Toomre, J. |url= https://books.google.com/books?id=ttlCGJxfLRUC&q=%22Lactarius+piperatus%22&pg=PA95 | access-date= 2008-08-16 |author3=Stetson Toomre, Joyce |year=1992 | publisher=Indiana University Press | isbn=978-0-253-21210-8 |pages=95}}</ref>
+
+<ref name=Peterson1998>{{cite book |title= A Field Guide to Mushrooms |vauthors=Peterson RT, McKnight KH | url=https://books.google.com/books?id=kSdA3V7Z9WcC&q=%22Lactarius+piperatus%22&pg=RA1-PA333 |access-date= 2008-08-16 |year= 1998| publisher=Mariner Books |isbn=978-0-395-91090-0 |pages=333}}</ref>
+
+<ref name="Pegler1983">{{cite book | title=Mushrooms and Toadstools |author=Pegler DN | year=1983 | publisher=Mitchell Beazley Publishing | location=London | isbn=0-85533-500-9 | pages=77}}</ref>
+
+<ref name="Phillips1981">{{cite book | title=Mushrooms and Other Fungi of Great Britain and Europe | author=Phillips R. | year=1981 |publisher=Pan Books | location=London | isbn=0-330-26441-9 | pages=77}}</ref>
+
+<ref name=Rolfe1974>{{cite book |title=The Romance of the Fungus World |author= Rolfe FW |url= https://books.google.com/books?id=BQBNC8pABzoC&q=%22Lactarius+piperatus%22&pg=PA140 |access-date= 2008-08-16 |year= 1974 |publisher= Courier Dover Publications |isbn= 978-0-486-23105-1 | page=140}}</ref>
+
+<ref name=Roody2003>{{cite book |title=Mushrooms of West Virginia and the Central Appalachians |author=Roody WC |year= 2003 |publisher=University Press of Kentucky |isbn= 978-0-8131-9039-6 |pages= 88 |access-date= 2008-08-18 |url= https://books.google.com/books?id=5HGMPEiy4ykC&q=%22Lactarius+piperatus%22&pg=PA88}}</ref>
+
+<ref name="Russell2006">{{cite book |title=Field Guide to Wild Mushrooms of Pennsylvania and the Mid-Atlantic |author= Russell B. |url= https://books.google.com/books?id=vLgjr5p0XFkC&q=%22Lactarius+piperatus%22&pg=PA136 |access-date=2008-08-16 |year= 2006|publisher= Penn State Press |isbn= 978-0-271-02891-0 |pages=79}}</ref>
+
+<ref name=Sesli2007>{{cite journal |author=Sesli E.|year=2007 |title=Preliminary checklist of macromycetes of the East and Middle Black Sea regions from Turkey |journal=Mycotaxon |volume=99 |pages=71–74 |url=http://www.mycotaxon.com/resources/checklists/sesli-v99-checklist.pdf |access-date=2014-09-19}} {{open access}}</ref>
+
+<ref name=Simpson1979>{{cite book | author = Simpson DP | title = Cassell's Latin Dictionary | publisher = Cassell Ltd. | year=1979 | edition = 5th | location = London | pages = 883 | isbn = 0-304-52257-0}}</ref>
+
+<ref name="Spoerke1994">{{cite book |title= Handbook of Mushroom Poisoning |vauthors=Spoerke DG, Rumack BH |url= https://books.google.com/books?id=WPWsZNvOqVAC&q=%22Lactarius+piperatus%22&pg=PA356 |access-date= 2008-08-16 |year= 1994 |publisher=CRC Press|isbn= 978-0-8493-0194-0 |pages=356}}</ref>
+
+<ref name="urlMycoBank">{{cite web |title=''Lactifluus piperatus'' (L.) Roussel 1806 |url=http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=316624&Fields=All |publisher=International Mycological Association |work=MycoBank |access-date=2014-10-18}}</ref>
+
+<ref name="verbeken2013">{{Cite journal |vauthors=Verbeken A, Nuytinck J |title=Not every milkcap is a ''Lactarius'' |journal=Scripta Botanica Belgica |volume=51 |year=2013 |pages=162–168 |url=http://fungi.fr/Html/VerbekenNuytinckLactarius.pdf
+}}</ref>
+
+<ref name=Zeitlmayr1976>{{cite book |author=Zeitlmayr L. |year=1976 |title=Wild Mushrooms: An Illustrated Handbook |publisher=Garden City Press, Hertfordshire |isbn=0-584-10324-7 |pages=87}}</ref>
+
+}}
+
+{{good article}}
+{{Taxonbar|from=Q1323824}}
+
+[[Category:Lactifluus|piperatus]]
+[[Category:Fungi described in 1753]]
+[[Category:Medicinal fungi]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungal taxa named by Carl Linnaeus]]
+[[Category:Fungus species]]

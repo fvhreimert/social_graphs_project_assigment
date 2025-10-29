@@ -1,0 +1,37 @@
+{{Short description|Species of fungus}}
+{{unreferenced|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption =
+| taxon = Gymnopilus baileyi
+| authority = ([[Miles Joseph Berkeley|Berk.]] & [[Christopher Edmund Broome|Broome]]) [[David Pegler|Pegler]]
+| synonyms =
+}}
+{{mycomorphbox
+| name = Gymnopilus baileyi
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+
+'''''Gymnopilus baileyi''''' is a [[species]] of [[mushroom]] in the family [[Hymenogastraceae]].
+
+==See also==
+{{Portal|Fungi}}
+* [[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+{{Taxonbar|from=Q5624732}}
+
+{{DEFAULTSORT:Gymnopilus baileyi}}
+[[Category:Gymnopilus|baileyi]]
+[[Category:Taxa named by Miles Joseph Berkeley]]
+[[Category:Taxa named by Christopher Edmund Broome]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

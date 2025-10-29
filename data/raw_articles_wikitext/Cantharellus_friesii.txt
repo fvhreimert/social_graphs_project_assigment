@@ -1,0 +1,48 @@
+{{Short description|Species of fungus}}
+{{more citations|date=March 2024}}
+{{Speciesbox
+| image = Cantharellus friesii IMG 3438 r.JPG
+| genus = Cantharellus
+| species = friesii
+| authority = [[Quél.]] (1872)
+| synonyms_ref = <ref name="urlFungorum"/>
+| synonyms = *''Merulius friesii'' <small>(Quél.) [[Otto Kuntze|Kuntze]] (1891)</small>
+}}
+{{mycomorphbox 
+| name = ''Cantharellus friesii''
+| whichGills = decurrent 
+| capShape = infundibuliform 
+| hymeniumType = ridges
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = yellow
+| howEdible = edible
+}}
+
+'''''Cantharellus friesii''''', the '''orange''' or '''velvet chanterelle''', is a [[fungus]] native to [[Asia]] and [[Europe]].<ref name=bmsname/>  The [[pileus (mycology)|cap]] color varies from deep yellow to reddish orange and is 2–4&nbsp;cm wide.  It occurs in [[beech]], [[fir]] and [[spruce]] forests.  ''C. friesii'' is considered a good [[edible mushroom]], but because of its rarity, it deserves to be mindfully managed with limited use of fungicides if discovered on residential or commercial property. Harvesting the fruit bodies of the fungus will allow for further propagation of the species as its spores are dispersed along the collector's travels.  The [[botanical name|specific epithet]] ''friesii'' honors the mycologist [[Elias Magnus Fries]].
+
+==References==
+{{Reflist|refs=
+
+<ref name=bmsname>{{cite web |url=http://www.britmycolsoc.org.uk/library/english-names/ |title=English Names for Fungi |publisher=British Mycological Society |accessdate=2011-03-25 |archive-date=2015-09-23 |archive-url=https://web.archive.org/web/20150923194645/http://www.britmycolsoc.org.uk/library/english-names/ |url-status=dead }}</ref>
+
+<ref name="urlFungorum">{{cite web |title=GSD Species Synonymy: ''Cantharellus friesii'' Quél. |url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=204760 |publisher=Species Fungorum. CAB International |accessdate=2014-05-18}}</ref>
+
+}}
+
+*{{cite book |author=Krieglsteiner G.J. |title=Die Großpilze Baden-Württembergs |volume=2 |publisher=Verlag Eugen Ulmer| location=Stuttgart| year=2000 |isbn=3-8001-3531-0 |language=German}}
+
+==External links==
+*{{IndexFungorum|204760}}
+
+{{Taxonbar|from=Q596896}}
+
+[[Category:Cantharellus|friesii]]
+[[Category:Fungi described in 1869]]
+[[Category:Fungi of Asia]]
+[[Category:Edible fungi]]
+[[Category:Fungi of Europe]]
+[[Category:Fungus species]]
+
+
+{{Agaricomycetes-stub}}

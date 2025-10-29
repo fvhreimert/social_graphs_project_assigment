@@ -1,0 +1,82 @@
+{{Short description|Species of fungus}}
+{{Use dmy dates|date=August 2025}}
+{{Use New Zealand English|date=August 2025}}
+{{stack begin}}
+{{Speciesbox
+| name = Basket fungus
+| image = Basket fungi. (Ileodictyon cibarium) (34047210845).jpg
+| image_caption = 
+| taxon = Ileodictyon cibarium
+| authority = [[Tul.]] & C. Tul. (1844)
+}}
+{{mycomorphbox
+| name = ''Ileodictyon cibarium''
+| hymeniumType = gleba
+| capShape = no
+| whichGills = no
+| stipeCharacter = NA
+| sporePrintColor = olive-brown
+| ecologicalType = saprotrophic
+| howEdible = caution
+}}
+{{stack end}}
+
+'''''Ileodictyon cibarium''''' is a [[saprotrophic]] species of [[fungus]] in the [[family (biology)|family]] [[Phallaceae]]. It is native to [[Australia]] and [[New Zealand]], where it is commonly known as the '''basket fungus''' or the '''white basket fungus''', alluding to its [[basidiocarp|fruit bodies]], shaped like a round or oval ball with interlaced or latticed branches, resembling [[polyhedra]] similar to closed [[fullerene]]s.<ref>{{cite journal |title=Ileodictyon cibarium, The basket fungus as a buckyball |first1=Graham W. |last1=Gooday |first2=John |last2=Zerning |journal=Mycologist |volume=11 |number=4 |doi=10.1016/S0269-915X(97)80105-X |pages=184–186 |date=1997 |issn=0269-915X }}</ref> Although the immature spherical fruitbodies are reportedly edible, the mature fruit body is foul-smelling and partly covered with a [[gleba|slime layer]] containing [[spore]]s ([[gleba]]) on the inner surfaces.
+
+== Taxonomy and etymology ==
+''Ileodictyon cibarium'' was originally described by [[Edmond Tulasne]] and [[Charles Tulasne]] in a paper by [[Étienne Raoul]] in 1844.<ref name=":0">{{Cite journal |last=Raoul |first=Étienne |date=1844 |title=Choix de Plantes de la Nouvelle-Zelande |url=https://www.biodiversitylibrary.org/page/41531781 |journal=Ann. Sci. Nat., Bot. |volume=3e |issue=Sér. 2 |pages=114}}</ref> The type specimen was collected in New Zealand.<ref name=":0" /><ref name=":1">{{Cite web |title=Ileodictyon cibarium Tul. & C. Tul. 1844 - Biota of NZ |url=https://biotanz.landcareresearch.co.nz/scientific-names/1cb18f1e-36b9-11d5-9548-00d0592d548c |access-date=2022-08-16 |website=biotanz.landcareresearch.co.nz}}</ref><ref>{{Cite journal |last=May |first=Tom W. |date=2003-09-01 |title=The status of names and records of Australian macrofungi |url=https://doi.org/10.1080/0028825X.2003.9512857 |journal=New Zealand Journal of Botany |volume=41 |issue=3 |pages=379–389 |doi=10.1080/0028825X.2003.9512857 |s2cid=85295490 |issn=0028-825X|url-access=subscription }}</ref>
+
+The [[Māori language]] has 35 different names referring to ''I. cibarium''. These include '''tūtae kēhua''' ("ghost droppings"), '''tūtae whatitiri''', and '''whareatua''' ("house of the devil"), '''kōkirikiriwhetū''', '''kōpurawhetū''', '''korokorowhetū''', '''wheterau''', '''popowhaitiri''', '''tikowhatitiri''', '''paruwhatitiri''', '''matakupenga''', and '''tūtae whetū'''.<ref>{{cite web |title=tūtae whetū - Māori Dictionary |url=https://maoridictionary.co.nz/word/40079 |website=maoridictionary.co.nz |access-date=27 July 2021}}</ref><ref name="Pallante">{{cite web |last1=Pallante |first1=Joseph |title=The Alienness of White Basket Fungus |url=https://nzfungi.com/the-alienness-of-white-basket-fungus/ |website=NZFungi |access-date=23 July 2021 |date=19 July 2020 |archive-url=https://web.archive.org/web/20210723012305/https://nzfungi.com/the-alienness-of-white-basket-fungus/ |archive-date=23 July 2021}}</ref>
+
+== Description ==
+
+Prior to the opening of the outer skin, the fruit body is egg-shaped and white to greyish. After opening, it is a whitish mesh-like ball measuring up to 25&nbsp;cm in diameter.<ref name=":2">{{Cite web |date=November 2017 |orig-date=August 2013 |others=Compiled by V Ryan for QMS Gasteromycetes Workshop |title=''Ileodictyon cibarium'' |url=http://qldfungi.org.au/wp-content/uploads/FoQs/I-Misc/Ileodictyon-cibarium.pdf |publisher=Queensland Mycological Society |language=en}}</ref> The different growth stages of ''L. cibarium'' were illustrated by John Buchanan.<ref>{{Cite Q|Q106827962}}</ref><ref>{{Cite book |last=Buchanan |first=John |title=Botanical Notebook, 1866-1886, MS-41 |location=Auckland War Memorial Museum Tāmaki Paenga Hira |pages=161}}</ref>
+
+''Ileodictyon cibarium'' is similar to and sometimes confused with ''[[Ileodictyon gracile]]'' (smooth cage fungus), which is also native to Australia. The two species are both whitish, mesh balls of similar size, but can be differentiated by characteristics of the receptacle arms that form the mesh.<ref name=":3" /> ''I. cibarium'' has a thicker mesh<ref>{{Cite web |last=Kuo |first=M. |date=August 2022 |title=''Ileodictyon gracile'' (MushroomExpert.Com) |url=http://www.mushroomexpert.com/ileodictyon_gracile.html |access-date=2022-08-17 |website=www.mushroomexpert.com}}</ref> with arms that are wrinkled, about 5 times wider, elliptical in cross section, and not thickened where the arms meet, compared to ''I. gracile.''<ref>{{Cite web |date=November 2017 |orig-date=August 2013 |others=Compiled by V Ryan for QMS Gasteromycetes Workshop |title=''Ileodictyon gracile''|url=https://qldfungi.org.au/wp-content/uploads/FoQs/I-Misc/Ileodictyon-gracile.pdf |publisher=Queensland Mycological Society |language=en}}</ref><ref name=":3" />
+
+==Ecology==
+
+The strongly smelling [[gleba]] is used to attract flies as a part of the fungi's reproductive cycle, in order for flies to disperse spores to new locations.<ref name="ForgottenForest">{{cite q|Q135894239|pp=19-21}}</ref>
+
+==In Māori culture==
+
+''Ileodictyon cibarium'' is associated with the presence of gods in [[Māori mythology]]. Several of the names for the species refer to [[whaitiri]], the [[atua]] and personification of thunder, this is because of the frequent appearance of ''I. cibarium'' fruit bodies following thunderstorms, while others describe the baskets as the fishing nets of [[Taramainuku]], a god associated with the [[Matariki]] star cluster.<ref name="ForgottenForest"/> The unopened fruiting bodies are a traditional food source, especially in the [[Hawkes Bay]] area, cooked in the ashes of a fire or in a [[hāngī]]. The fungus may be the namesake of the town [[Waipukurau]], with the name suggesting a watering hole where ''I. cibarium'' is soaked before eating.<ref name="ForgottenForest"/>
+
+== Popularity ==
+
+In a 2018 poll, ''I. cibarium'' was ranked second by [[Manaaki Whenua – Landcare Research]] for its pick as New Zealand's national fungus, being defeated by ''[[Entoloma hochstetteri]]''.<ref>{{cite web |title=New Zealand's favourite fungus has been revealed |url=https://www.rnz.co.nz/news/national/359177/new-zealand-s-favourite-fungus-has-been-revealed |website=[[Radio New Zealand]] |access-date=27 July 2021 |language=en-nz |date=8 June 2018}}</ref>
+
+==Distribution and habitat==
+''Ileodictyon cibarium'' is native to New Zealand and Australia and has also been introduced to Chile, Brazil, Africa and England.<ref name=":3">{{CiteQ|Q113536473}}</ref><ref>{{CiteQ|Q113536686}}</ref><ref>{{cite book |last1=Laessoe |first1=T |last2=Pegler |first2=DN |last3=Spooner |first3=B |title=British Puffballs, Earthstars and Stinkhorns: An Account of the British Gasteroid Fungi |publisher=Royal Botanic Gardens |location=Kew, UK |year=1995 |page=184 |isbn=0-947643-81-8}}</ref> It grows alone or clustered together near woody debris, in lawns, gardens, and cultivated soil, along roads, in forest.<ref name=":2" />
+
+==Edibility==
+The immature fruitbodies are [[edible mushroom|edible]] and a traditional [[Māori people|Māori]] food source in New Zealand.<ref name="ForgottenForest"/>
+
+==Gallery==
+<gallery>
+File:Native Plants Plate 5. From the book Te Ika a Maui, or, New Zealand and its inhabitants (cropped - basket fungus).jpg|1855 illustration by James Erxleben
+File:Ileodictyon cibarium at Ōtari-Wilton's Bush.jpg|Immature fruitbodies
+File:Ileodictyon cibarium at the University of Canterbury.jpg|Immature fruitbody (left) and an emerged basket (right)
+File:Ileodictyon cibarium. (Basket fungus) (51331123521).jpg|''I. cibarium'' basket emerging from the fruitbody
+File:Ileodictyon cibarium 135154838.jpg|A forested area of ''I. cibarium''
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+*[https://biotanz.landcareresearch.co.nz/scientific-names/1cb18f1e-36b9-11d5-9548-00d0592d548c ''Ileodictyon cibarium'' in the NZFUNGI database]
+*[http://www.mushroomexpert.com/ileodictyon_cibarium.html Mushroom Expert]
+*[https://avh.ala.org.au/occurrences/search?q=taxa%3A%22Ileodictyon+cibarium%22#tab_mapView ''Ileodictyon cibarium'' occurrence data from Australasian Virtual Herbarium]
+*''Ileodictyon cibarium'' discussed in [[Radio New Zealand|RNZ]] ''[[Critter of the Week]]'', [https://www.rnz.co.nz/national/programmes/afternoons/audio/2018854393/critter-of-the-week-the-tutae-kehua 19 August 2022]
+
+{{Taxonbar|from=Q5997602}}
+
+[[Category:Phallales]]
+[[Category:Fungi described in 1844]]
+[[Category:Fungi of New Zealand]]
+[[Category:Fungi of Australia]]
+[[Category:Taxa named by Edmond Tulasne]]
+[[Category:Taxa named by Charles Tulasne]]
+[[Category:Fungus species]]

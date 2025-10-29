@@ -1,0 +1,135 @@
+{{Short description|Species of mushroom}}
+{{Speciesbox
+| image = Clitocybe nuda (Fr.) H.E. Bigelow & A.H. Sm 267650.jpg
+| image_caption = Wood blewit
+| genus = Collybia
+| species = nuda
+| authority = ([[Jean Baptiste François Pierre Bulliard|Bull.]]) [[Z.M. He]] & [[Zhu L. Yang]] (2023)
+| synonyms_ref = <ref name="urlMycoBank"/>
+| synonyms = ''Agaricus nudus'' <small>[[Jean Baptiste François Pierre Bulliard|Bull.]] (1790)</small><br>
+''Cortinarius nudus'' <small>(Bull.) [[Samuel Frederick Gray|Gray]] (1821)</small><br>
+''Gyrophila nuda'' <small>(Fr.) Quél. (1886)</small><br>
+''Lepista nuda'' <small>([[Jean Baptiste François Pierre Bulliard|Bull.]]) [[Mordecai Cubitt Cooke|Cooke]] (1871)</small><br>
+''Tricholoma nudum'' <small>([[Jean Baptiste François Pierre Bulliard|Bull.]]) [[Paul Kummer|P.Kumm.]] (1871)</small><br>
+''Rhodopaxillus nudus'' <small>(Bull.) [[René Maire|Maire]] (1913)</small>
+''Tricholoma personatum'' var. ''nudum'' <small>(Bull.) [[Johannes Rick|Rick]] (1961)</small>
+}}
+{{mycomorphbox
+| name = ''Collybia nuda''
+| hymeniumType = gills
+| capShape = convex
+| capShape2 = umbonate
+| whichGills = emarginate
+| stipeCharacter = bare
+| sporePrintColor = buff
+| ecologicalType = saprotrophic
+| howEdible = choice
+}}
+
+'''''Collybia nuda''''', commonly known as the '''blewit'''<ref name=arora/> or '''wood blewit'''<ref>{{cite news|last1=Mance|first1=Kim|title=A Mushroom Cave in France That'll Make You Feel Like You're Shrooming |url=https://www.cntraveler.com/stories/2013-03-03/gourmet-mushroom-cave-loire-valley-france-vacation|access-date=5 January 2018|publisher=Condé Nast|date=3 March 2013}}</ref><ref>{{cite news|title=Bluefoot Mushroom|url=https://www.washingtonpost.com/archive/lifestyle/food/2002/02/20/bluefoot-mushroom/45b7ddbb-6b59-47d8-a78d-2de5b019e415/|newspaper=Washington Post|access-date=5 January 2018}}</ref> and previously described as ''Lepista nuda'' and ''Clitocybe nuda'', is a species of fungi. Described by [[Pierre Bulliard]] in 1790, it was also known as ''Tricholoma nudum'' for many years. It is morphologically similar and related to the field blewit, ''[[Collybia personata]]''; both mushrooms were reassigned to the genus ''[[Collybia]]'' in 2023.<ref name="Clitocybaceae-2023">{{Cite journal |last1=He |first1=Zheng-Mi |last2=Chen |first2=Zuo-Hong |last3=Bau |first3=Tolgor |last4=Wang |first4=Geng-Shen |last5=Yang |first5=Zhu L. |date=November 2023 |title=Systematic arrangement within the family Clitocybaceae (Tricholomatineae, Agaricales): phylogenetic and phylogenomic evidence, morphological data and muscarine-producing innovation |url=https://link.springer.com/10.1007/s13225-023-00527-2 |journal=Fungal Diversity |language=en |volume=123 |issue=1 |pages=1–47 |doi=10.1007/s13225-023-00527-2 |issn=1560-2745 |s2cid=265474036|url-access=subscription }}</ref>
+
+The species is native to Europe and North America. It is found in both [[conifer]]ous and [[deciduous]] woodlands. It has been cultivated in [[United Kingdom|Britain]], the [[Netherlands]] and [[France]]. It is a widely consumed [[edible mushroom]].
+
+==Taxonomy==
+The French mycologist [[Jean Baptiste François Pierre Bulliard|Pierre Bulliard]] described the wood blewit in his work ''Herbier de la France'' in 1790 as ''Agaricus nudus'', reporting that it was common in the woods all year. He wrote of two varieties: one whose gills and cap are initially light violet and mature to burgundy, while the other has wine-coloured gills that intensify in colour with age. He added that the first variety was often confused with ''[[Cortinarius violaceus]]'', though it has a "nude" cap and no spidery web veil unlike the other species.<ref name=Bulliard1790/>  English naturalist [[James Bolton]] gave it the name ''Agaricus bulbosa''—the bulbous agaric—in his ''An History of Fungusses growing about Halifax'' in 1791. He noted that it was rare in the region, though had found some in [[Ovenden]].<ref name=bolton1791/>
+
+German mycologist [[Paul Kummer]] placed it in the genus ''Tricholoma'' in 1871,<ref name=Kummer1871/> the same year that English botanist [[Mordecai Cubitt Cooke]] placed it in ''Lepista''.<ref name=Cooke1871/> It was known by these names for many years, with some authors accepting ''Lepista'' and while others retained the wood blewit in ''Tricholoma''. In 1969 [[Howard E. Bigelow]] and [[Alexander H. Smith]] reviewed ''Lepista'' and reclassified it as a [[subgenus]] of ''Clitocybe''<ref name=bigelow1969/> Finnish mycologist Harri Harmaja has called for the sinking of ''Lepista'' into ''Clitocybe'', with ''C.&nbsp;nebularis'' as the type species of the latter genus.<ref name="harmaja">Harmaja, H. (2003). Notes on ''Clitocybe s. lato'' (Agaricales). Ann. Bot. Fennici 40: 213-218.</ref> Hence the wood blewit is classified as either ''Lepista nuda'' or ''Clitocybe nuda''.<ref name="Alvaradoetal2015"/>
+
+A 2015 genetic study found that the genera ''Collybia'' and ''Lepista'' were closely related to the core clade of ''Clitocybe'', but that all three were polyphyletic, with many members in lineages removed from other members of the same genus and instead more closely related to the other two. To complicate matters, the wood blewit is not closely related to the type species of ''Lepista'', ''L.&nbsp;densifolia''. Alvarado and colleagues declined to define the genera but proposed several options and highlighted the need for a wider analysis.<ref name="Alvaradoetal2015"/>
+
+This species was reassigned to the genus ''[[Collybia]]'' in 2023.<ref>{{Cite journal |last1=He |first1=Zheng-Mi |last2=Chen |first2=Zuo-Hong |last3=Bau |first3=Tolgor |last4=Wang |first4=Geng-Shen |last5=Yang |first5=Zhu L. |date=November 2023 |title=Systematic arrangement within the family Clitocybaceae (Tricholomatineae, Agaricales): phylogenetic and phylogenomic evidence, morphological data and muscarine-producing innovation |url=https://link.springer.com/10.1007/s13225-023-00527-2 |journal=Fungal Diversity |language=en |volume=123 |issue=1 |pages=1–47 |doi=10.1007/s13225-023-00527-2 |issn=1560-2745|url-access=subscription }}</ref>
+
+=== Names ===
+The species is commonly known as the wood blewit. Cooke called it the amethyst lepista,<ref name=Cooke1871/> [[John Sibthorp]] called it the blue-gilled agaric in his 1794 work ''Flora Oxoniensis''.<ref name=sibthorp1794/>
+
+==Description==
+This mushroom can range from lilac to purple-pink. Some North American specimens are duller and tend toward tan, but usually have purplish tones on the stem and gills. Younger specimens are lighter with more convex caps, while mature specimens have a darker color and flatter cap, ranging from {{Cvt|4-15|cm|frac=4}} in diameter.<ref name="Davis-2012">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=25, 151–152|oclc=797915861}}</ref> The gills are attached to the short, stout stem, which is about {{Cvt|2-6|cm|frac=8}} long and 1–2.5&nbsp;cm wide,<ref name="Davis-2012" /> sometimes larger at the base.<ref name="Trudell-2009">{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=93}}</ref> Wood blewits have a very distinctive odor, which has been likened by one author to that of frozen orange juice.<ref name="arora"/>
+
+Wood blewits can be easily distinguished by their odor, as well as by their [[spore print]], which is white to pale pink.<ref name="illinois" />
+
+
+=== Similar species ===
+Wood blewits can be confused with certain blue or purple species of the genus ''[[Cortinarius]]'',<ref name="Davis-2012"/> including the uncommon ''[[Cortinarius camphoratus|C.&nbsp;camphoratus]]'',<ref name="JordanFG" /> many of which may be poisonous. ''Cortinarius'' mushrooms often have the remains of a veil under their caps and a ring-like impression on their stem. ''Cortinarius'' species produce a rusty brown spore print after several hours on white paper. Their brown spores often dust their stems and objects beneath them.<ref name="illinois">{{cite book |author1=McFarland, Joe |author2=Mueller, Gregory M | year = 2009 | title = Edible Wild Mushrooms of Illinois & Surrounding States: A Field-To-Kitchen Guide | publisher = University of Illinois Press | isbn = 978-0-252-07643-5|pages=57–58|url=https://books.google.com/books?id=79oteRx6Bh4C&q=%22wood+blewit%22&pg=PA57}}</ref>
+
+The species also resembles ''[[Collybia brunneocephala]]'', ''[[Clitocybe tarda]]'', ''[[Laccaria amethysteo-occidentalis]]'', and ''Lepista subconnexa''.<ref name="Davis-2012" /> It could be confused for members of the rare Texas genus ''[[Asproinocybe]]''.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=499}}</ref>
+
+== Distribution and habitat ==
+The wood blewit is found in Europe and North America and is becoming more common in Australia and New Zealand, where it appears to have been introduced. In Australia it has developed a relationship with some eucalyptus species and gorse; with an entirely different growth pattern and differs slightly in appearance to its European ''Lepista nuda'' cousins. 
+
+It is a [[saprotrophic]] species, growing on decaying leaf litter. In the United Kingdom, it appears from September through to December.
+
+Soil analysis of soil containing mycelium from a wood blewit [[fairy ring]] under Norway spruce (''[[Picea abies]]'') and Scots pine (''[[Pinus sylvestris]]'') in southeast Sweden yielded fourteen halogenated low molecular weight organic compounds, three of which were brominated and the others chlorinated. It is unclear whether these were metabolites or pollutants. Brominated compounds are unknown as metabolites from terrestrial fungi.<ref>{{cite journal|title=Analysis of halogenated organic compounds in coniferous forest soil from a Lepista nuda (wood blewitt) fairy ring | journal=Chemosphere |issn=0045-6535|author= Hjelm, Olof |year=1996 |volume=32| issue=9 |pages=1719–28 |doi=10.1016/0045-6535(96)00089-6| bibcode=1996Chmsp..32.1719H }}</ref>
+
+The form ''glaucocana'' is found in mountainous environs.<ref name="Trudell-2009" />
+
+==Ecology==
+In Australia, male [[satin bowerbird]]s collect blue objects to decorate their bowers with. A young male was reported to have collected wood blewits to this end near [[Braidwood, New South Wales|Braidwood]] in southern New South Wales.<ref>{{cite journal |author1=Todd F. Elliott |author2=Peter A. Marshall |title= Animal-Fungal Interactions 1: Notes on Bowerbird's Use of Fungi | journal= Australian Zoologist|year= 2016 |volume= 38|issue= 1|pages= 59–61 | doi=10.7882/AZ.2015.032}}</ref>
+
+==Edibility==
+Wood blewits are good [[edible mushroom]]s.<ref name="Miller 2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=183|author-link=Orson K. Miller Jr.}}</ref>
+
+Blewits can be eaten as a cream sauce or [[sautéed]] in [[butter]].<ref>{{cite book |last=Meuninck |first=Jim |title=Foraging Mushrooms Oregon: Finding, Identifying, and Preparing Edible Wild Mushrooms |date=2017 |publisher=[[Falcon Guides]] |isbn=978-1-4930-2669-2 |page=103}}</ref> They can also be cooked like [[tripe]] or as [[omelette]] filling, and also make good [[stew]]ing mushrooms.<ref name = "Mabey01"/> They have a strong flavour, so they combine well with leeks or onions.<ref name = "JordanFG"/>
+
+Wood blewits can be dried,<ref name="Davis-2012" /> or can be preserved in olive oil or white vinegar after blanching.<ref name = "JordanFG"/>
+
+The wood blewit has been cultivated in [[United Kingdom|Britain]], the [[Netherlands]] and [[France]].<ref name = "Carluccio03"/> Cultivated wood blewits are said not to taste as good as wild wood blewits.<ref name = "JordanFG"/>
+
+== Gallery ==
+<gallery>
+File:Lepista nuda LC0372.jpg
+File:Clitocybe nuda 60302.jpg
+File:Edible fungi in basket 2022 G5.jpg
+File:Lepista nuda (27105376950).jpg
+File:2002-12-28 Clitocybe nuda (Fr.) H.E. Bigelow & A.H. Sm 289.jpg
+File:Lepista nuda 2022 G1.jpg
+</gallery>
+
+==References==
+{{Reflist|refs=
+
+<ref name="Alvaradoetal2015">{{cite journal |vauthors=Alvarado P, Moreno G, Vizzini A, Consiglio G, Manjón JL, Setti L |title=''Atractosporocybe'', ''Leucocybe'' and ''Rhizocybe'', three new clitocyboid genera in the Tricholomatoid clade (Agaricales) with notes on ''Clitocybe'' and ''Lepista'' |journal=Mycologia |volume=107 |issue=1 |pages=123–36 |year=2015 |pmid=25344261 |doi=10.3852/13-369 |s2cid=22901826 |url=http://www.mycologia.org/cgi/pmidlookup?view=short&pmid=25344261|hdl=2318/152676 |hdl-access=free }}</ref>
+
+<ref name="arora">{{Cite book |last=Arora |first=David |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/153/mode/2up |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |orig-date=1979 |edition=2nd |pages=153–154}}</ref>
+
+<ref name=bigelow1969>{{cite journal | title=The status of ''Lepista''—a new section of ''Clitocybe'' |vauthors=Bigelow HE, Smith AH | journal= Brittonia | doi=10.2307/2805523 | year=1969 |volume = 21|issue = 2|pages= 144–77|jstor=2805523 |s2cid=29545895 }}</ref>
+
+<ref name=bolton1791>{{cite book | author=Bolton J | year=1791 | url=https://books.google.com/books?id=MiMhAQAAMAAJ&pg=PT498 | title=An History of Fungusses growing about Halifax | page= 147 | volume=Appendix | publisher=Self-published}}</ref>
+
+<ref name=Bulliard1790>{{cite book |title=Herbier de la France |author=Bulliard JPF |author-link=Jean Baptiste François Pierre Bulliard|year=1790 |publisher=Chez l'auteur, Didot, Debure, Belin |location=Paris |volume=8 |page=plate 439 |url=https://www.biodiversitylibrary.org/page/4303760 |language=fr}}</ref>
+
+<ref name = "Carluccio03">{{cite book | author = Carluccio A | author-link = Antonio Carluccio | year = 2003 | title = The Complete Mushroom Book | publisher = Quadrille | isbn = 978-0-8478-2556-1 |pages=88}}</ref>
+
+<ref name=Cooke1871>{{cite book |title=Handbook of British Fungi, with Full Descriptions of All the Species, and Illustrations of the Genera |author=Cooke M.C. |year=1871 |volume=1 |publisher=Macmillan and Co. |location=London |page=192 |url=https://www.biodiversitylibrary.org/page/4292096}}</ref>
+
+<ref name = "JordanFG">{{cite book | author = Jordan P | year = 2006 | title = Field Guide to Edible Mushrooms of Britain and Europe | publisher = New Holland Publishers | isbn = 978-1-84537-419-8|pages=76–77, 150}}</ref>
+
+<ref name=Kummer1871>{{cite book |title=Der Führer in die Pilzkunde |edition=1 |author=Kummer P |author-link=Paul Kummer |year=1871 |location=Zerbst, Germany |publisher=Luppe |page=132 |language=de |url=https://www.biodiversitylibrary.org/page/34209701}}</ref>
+
+<ref name = "Mabey01">{{cite book | author = Mabey R | author-link = Richard Mabey | year = 2004 | title = Food for Free | publisher = HarperCollins | isbn = 978-0-00-718303-6}}</ref>
+
+<ref name=sibthorp1794>{{cite book |title=Flora Oxoniensis, Exhibens Plantas in Agro Oxoniensi Sponte Crescentes | url=https://books.google.com/books?id=0f1eAAAAcAAJ&pg=PA346 | author = Sibthorp J | year=1794 | page=346 | publisher=Fletcher, Hanwell & Cook | location=Oxford, United Kingdom}}</ref>
+
+<ref name="urlMycoBank">{{cite web |title=''Collybia nuda'' (Bull.) Z.M. He & Zhu L. Yang |url=https://www.mycobank.org/details/708/598881|website=www.mycobank.org|publisher=[[MycoBank]]. International Mycological Association |access-date=2024-11-17}}</ref>
+}}
+
+==External links==
+*{{Commons category-inline|Lepista nuda}}
+*{{Wikispecies-inline|Clitocybe nuda|''Clitocybe nuda''}}
+* [http://www.sekj.org/PDF/anb40-free/anb40-213.pdf Harmaja, H. (2003). Notes on ''Clitocybe s. lato'' (Agaricales). Ann. Bot. Fennici 40: 213-218.]
+* [http://www.mykoweb.com/CAF/keys/Clitocybe_key.pdf Denise Gregory's key to ''Clitocybe'' in California]
+* [https://web.archive.org/web/20090107023310/http://mushroom-collecting.com/mushroomblewits.html "Mushroom-Collecting.com - The Blewit"]
+* [http://www.mushroomexpert.com/clitocybe_nuda.html "Clitocybe nuda / Lepista nuda: The Blewit"] by Michael Kuo
+* [http://botit.botany.wisc.edu/toms_fungi/nov98.html Clitocybe nuda - Tom Volk's Fungus of the Month for November 1998]
+* [https://books.google.com/books?id=87ct90d4B9gC&dq=arora+rain+blewit&pg=RA31-PA2 All that Rain Promises and More - Blewit]
+* [https://www.atlasobscura.com/places/la-cave-des-roches-mushroom-caves La Cave des Roches] - caves in France where cultivated Clitocybe nuda are grown.
+
+{{Taxonbar|from=Q29362}}
+
+[[Category:Clitocybe|nuda]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1790]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi in cultivation]]
+[[Category:Taxa named by Jean Baptiste François Pierre Bulliard]]
+[[Category:Fungus species]]

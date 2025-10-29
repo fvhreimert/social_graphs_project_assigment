@@ -1,0 +1,57 @@
+{{Speciesbox 
+| image =Humidicutis marginata 95664.jpg
+| image_caption =
+| genus = Humidicutis
+| species = marginata
+| authority = ([[Charles Horton Peck|Peck]]) [[Rolf Singer|Singer]]
+| synonyms_ref = 
+| synonyms = {{unbulleted list
+ |''Hygrophorus marginatus'' <small>Peck</small>
+ |''Hygrocybe marginata'' <small>(Peck) [[William Alphonso Murrill|Murrill]]</small>
+ |''Tricholoma marginatum'' <small>(Peck) Singer</small>
+ }}
+}}
+{{mycomorphbox 
+| name = ''Humidicutis marginata''
+| whichGills = adnexed 
+| capShape = umbonate
+| hymeniumType= gills
+| stipeCharacter= bare
+| ecologicalType=saprotrophic
+| sporePrintColor=white
+| howEdible=edible
+}}
+
+'''''Humidicutis marginata''''' is a [[Agaricales|gilled]] [[fungus]] of the [[Hygrophoraceae|waxcap]] family.
+
+==Taxonomy==
+The species was first described as ''Hygrophorus marginatus'' by [[Charles Horton Peck]] in 1876.<ref name=Peck1876/> [[William Alphonso Murrill]] called it ''Hygrocybe marginata'' in 1916.<ref name=Murrill1916/> It was transferred to the new genus ''[[Humidicutis]]'' by [[Rolf Singer]] in 1958,<ref name=Singer1958/> who had previously placed it in ''[[Tricholoma]]''.<ref name=Singer1943/>
+
+==Description==
+The orangish cap is up to {{Convert|4|cm|frac=4}} wide and the yellowish stipe {{Convert|9|cm|abbr=on|frac=4}} long. The [[spore print]] is white.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=396}}</ref>
+
+==Distribution and habitat==
+It is found in North America under trees.<ref name="audu" />
+
+==Edibility==
+It is considered edible with a pleasant taste, but one guide says it is "not worthwhile".<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |url=https://archive.org/details/mushroomsotherfu0000phil |url-access=registration |year=2010 |orig-year= 2005 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=[https://archive.org/details/mushroomsotherfu0000phil/page/74 74]}}</ref>
+
+==References==
+{{Reflist|refs=
+
+<ref name=Murrill1916>{{cite journal |author=Murrill WA. |year=1916 |title=Agaricaceae tribe Agariceae |journal=North American Flora |volume=9 |issue=6 |pages=375–421}}</ref>
+
+<ref name=Peck1876>{{cite journal |author=Peck CH. |year=1876 |title=Report of the Botanist (1874) |journal=Annual Report on the New York State Museum of Natural History |volume=28 |pages=31–88}}</ref>
+
+<ref name=Singer1943>{{cite journal |doi=10.2307/3754706 |author=Singer R. |year=1943 |title=Type studies on Basidiomycetes. II |jstor=3754706 |journal=Mycologia |volume=35 |issue=2 |pages=142–63}}</ref>
+
+<ref name=Singer1958>{{cite journal |author=Singer R. |year=1958 |title=Fungi Mexicani, series secunda - Agaricales |journal=Sydowia |volume=12 |pages=221–34}}</ref>
+
+}}
+
+{{Taxonbar|from=Q10527084}}
+
+[[Category:Edible fungi]]
+[[Category:Hygrophoraceae]]
+[[Category:Fungus species]]
+[[Category:Taxa named by Charles Horton Peck]]

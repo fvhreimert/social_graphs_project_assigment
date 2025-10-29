@@ -1,0 +1,71 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Bjerkandera.adusta.-.lindsey.jpg
+| taxon = Bjerkandera adusta
+| authority = ([[Willd.]]) [[P.Karst.]] (1880)<ref name="Karsten 1879"/>
+}}
+{{Mycomorphbox
+| name = ''{{PAGENAME}}''{{italic title}}
+| hymeniumType = pores
+| capShape = no
+| whichGills = no
+| stipeCharacter = NA
+| sporePrintColor = white
+| ecologicalType = saprotrophic
+| howEdible = inedible
+}}
+'''''Bjerkandera adusta''''', commonly known as the '''smoky polypore'''<ref name="Ostry 2011"/> or '''smoky bracket''', is a species of [[fungus]] in the family [[Phanerochaetaceae]]. It is a [[plant pathogen]] that causes [[white rot]] in live trees, but most commonly appears on dead wood.
+
+==Taxonomy==
+The species was first [[species description|described]] scientifically as ''Boletus adustus'' by [[Carl Ludwig Willdenow]] in 1787.<ref name="Willdenow 1787" /> The [[Whole genome sequencing|genome sequence]] of ''Bjerkandera adusta'' was reported in 2013.<ref name="Ruiz-Dueñas 2013" /> 
+
+==Description==
+The fungus grows in shelflike [[fruit bodies]] which often overlap. The caps are up to {{Convert|7|cm|frac=4}} wide and {{Convert|6|mm|frac=8}} thick,<ref name=Arora1986>{{Cite book |last=Arora |first=David |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/596/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |year=1986 |orig-date=1979 |edition=2nd |pages=596-97}}</ref><ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=224}}</ref> tomentose to hairy, and buff in colour.<ref name=":0">{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=256|language=en}}</ref>
+
+{{gallery|mode=packed
+|Bjerkandera adusta bottom view.jpg|Bottom view with [[Polypore|pores]] (tubes) visible
+}}
+
+===Similar species===
+''[[Bjerkandera fumosa]]'' is similar; its flesh has a dark line near the base of the tubes. Some members of the genera ''[[Stereum]]'' and ''[[Trametes]]'' are also similar.<ref name=":0" />
+
+== Habitat ==
+The species is often found on decaying wood.<ref name=":0" />
+
+== Potential uses ==
+The species is inedible.<ref>{{cite book |last=Phillips |first=Roger |url=https://archive.org/details/mushroomsotherfu0000phil |title=Mushrooms and Other Fungi of North America |publisher=Firefly Books |year=2010 |isbn=978-1-55407-651-2 |location=Buffalo, NY |page=[https://archive.org/details/mushroomsotherfu0000phil/page/317 317] |url-access=registration}}</ref>
+
+Because it produces [[enzyme]]s that can degrade [[polycyclic aromatic hydrocarbon]]s, such as those used in synthetic textile [[dyeing|dyes]], there has been research interest in investigating the fungus for possible use in [[bioremediation]].<ref name="Singh 2015" /><ref name="Kadri 2017" /> The research on these lignin-degrading enzymes produced by ''Bjerkandera adusta,'' such as versatile peroxidase, has also shown in studies to be able to decolorize synthetic melanin. This feature may allow ''Bjerkandera adusta'' to be utilized for melanin decolorization in future cosmetic applications.<ref>{{Cite journal|last1=Baik|first1=Jina|last2=Purkayastha|first2=Anwesha|last3=Park|first3=Kyung Hye|last4=Kang|first4=Taek Jin|date=Sep 2021|title=Functional Characterization of Melanin Decolorizing Extracellular Peroxidase of Bjerkandera adusta|journal=Journal of Fungi|volume=7|issue=9|pages=10|doi=10.3390/jof7090762|pmid=34575800|pmc=8466778|doi-access=free}}</ref>
+
+==References==
+{{Reflist|refs=
+
+<ref name="Kadri 2017">{{cite journal |first1=Tayssir |last1=Kadri |first2=Tarek |last2=Rouissi |first3=Satinder |last3=Kaur Brar |first4=Maximiliano |last4=Cledon |first5=Saurabhjyoti |last5=Sarma |first6=Mausam |last6=Verma |year=2017 |title=Biodegradation of polycyclic aromatic hydrocarbons (PAHs) by fungal enzymes: A review |journal=Journal of Environmental Sciences |volume=51 |pages=52–74 |pmid=28115152 |doi=10.1016/j.jes.2016.08.023|url=http://espace.inrs.ca/id/eprint/5160/1/P3032.pdf }}</ref>
+
+<ref name="Karsten 1879">{{cite journal |author=Karsten, P. |title=Symbolae ad mycologiam Fennicam. VI |journal=Meddelanden Af Societas Pro Fauna et Flora Fennica |year=1879 |volume=5 |pages=15–46 |language=Latin}}</ref>
+
+<ref name="Ostry 2011">{{cite book |author1=Ostry, M.E. |author2=O'Brien, J.G. |author3=Anderson, N.A. |title=Field Guide to Common Macrofungi in Eastern Forests and Their Ecosystem Functions |url=https://books.google.com/books?id=MYUxDc1JAAcC&pg=PA31 |year=2011 |publisher=Government Printing Office |isbn=978-0-16-088611-9 |page=31}}</ref>
+
+<ref name="Ruiz-Dueñas 2013">{{cite journal |author1=Ruiz-Dueñas, Francisco J. |author2=Lundell, Taina |author3=Floudas, Dimitrios |author4=Nagy, Laszlo G. |author5=Barrasa, José M. |author6=Hibbett, David S. |author7=Martínez, Angel T. |year=2013 |title=Lignin-degrading peroxidases in Polyporales: an evolutionary survey based on 10 sequenced genomes |journal=Mycologia |volume=105 |issue=6 |pages=1428–1444 |doi=10.3852/13-059 |pmid=23921235|hdl=10261/96105 |s2cid=14165783 |hdl-access=free }}</ref>
+
+<ref name="Singh 2015">{{cite journal |author1=Singh, R. |author2=Eltis, L.D. |year=2015 |title=The multihued palette of dye-decolorizing peroxidases |journal=Archives of Biochemistry and Biophysics |volume=574 |pages=56–65 |pmid=25743546 |doi=10.1016/j.abb.2015.01.014}}</ref>
+
+<ref name="Willdenow 1787">{{cite book |author=von Willdenow CL. |title=Florae Berolinensis Prodromus |year=1787 |page=392 |language=Latin}}</ref>
+
+}}
+
+==External links==
+*{{Commonscat inline|italic=on}}
+
+{{Taxonbar|from=Q531200}}
+
+[[Category:Phanerochaetaceae]]
+[[Category:Fungi of Europe]]
+[[Category:Fungal plant pathogens and diseases]]
+[[Category:Fungi described in 1787]]
+[[Category:Inedible fungi]]
+[[Category:Taxa named by Carl Ludwig Willdenow]]
+[[Category:Fungus species]]
+
+
+{{Polyporales-stub}}

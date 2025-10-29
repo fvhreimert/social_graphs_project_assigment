@@ -1,0 +1,48 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Stropharia ambigua.jpg
+| taxon = Stropharia ambigua
+| authority = ([[Charles Horton Peck|Peck]]) [[Sanford Myron Zeller|Zeller]] (1914)
+| synonyms = *''Hypholoma ambiguum'' <small>Peck (1898)</small>
+}}
+{{mycomorphbox
+| name=''Stropharia ambigua''
+| whichGills=adnate
+| capShape=convex
+| hymeniumType=gills
+| stipeCharacter=ring
+| ecologicalType=saprotrophic
+| sporePrintColor=purple-brown
+| howEdible=unknown
+}}
+
+'''''Stropharia ambigua''''', sometimes known as the '''questionable Stropharia''' or '''ambiguous stropharia''',<ref>{{Cite book |last=Siegel |first=Noah |title=Mushrooms of Cascadia: A Comprehensive Guide to Fungi of the Pacific Northwest |last2=Schwarz |first2=Christian |date=September 1, 2024 |publisher=Backcountry Press |isbn=9781941624197 |location=Humboldt County, CA |pages=116}}</ref> is a [[saprotrophic nutrition|saprotrophic]] [[agaric]] mushroom, commonly fruiting in [[leaf litter]] and [[wood chips]] in the [[Pacific Northwest]]. Its edibility is debated.
+
+==Description==
+The [[cap (mycology)|cap]] is {{convert|3 to 15|cm|abbr=on|frac=4}} broad, obtuse to convex, becoming flat or uplifted in age; it has a smooth surface, is slimy when moist, and yellowish.<ref name="hunter" /> The edge may have bits of white [[Veil (mycology)|veil]] hanging from it.<ref name=":1" /> The [[flesh (mycology)|flesh]] is white, thick, and soft. The [[gill (mycology)|gills]] are pale gray and gradually darkens to purplish-gray or purplish-black.<ref name="hunter"/> The gills occasionally pull away from the stipe with age.<ref name="hip">{{cite book | last = Arora | first = David |author-link=David Arora | title = All That the Rain Promises and More: A Hip Pocket Guide to Western Mushrooms | publisher = Ten Speed Press | date = 1991 | pages = 126 | url = https://books.google.com/books?id=87ct90d4B9gC&pg=PA126 | isbn = 978-0-89815-388-0 }}</ref>
+
+The [[stipe (mycology)|stipe]] is {{convert|6 to 18|cm|abbr=on|frac=4}} long, 1–2&nbsp;cm wide,<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=216–217|oclc=797915861}}</ref> and is stuffed or hollow. It may have bits of white veil hanging from it and, less commonly, a brittle ring.<ref name=":1">{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=210–211}}</ref> The veil is soft and white. The [[spore print]] is dark purplish to nearly black.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=686}}</ref> The species fruits in the spring and fall.<ref name="hunter"/> It does not have a [[volva (mycology)|volva]].<ref name="hip"/> The species has been said to taste like old leaves.<ref name="Demystified" />
+
+=== Similar species ===
+Within the genus, it can resemble ''[[Stropharia aeruginosa]]'', ''[[Stropharia coronilla|S.&nbsp;coronilla]]'',<ref name=":0" /> ''[[Stropharia riparia|S.&nbsp;riparia]]'',<ref name=":1" /> and ''[[Stropharia semiglobata|S.&nbsp;semiglobata]]''.<ref name=":0" /> ''[[Leratiomyces percevalii]]'' is another potential lookalike.<ref name="audu" />
+
+== Distribution and habitat ==
+''Stropharia ambigua'' appears in late fall as a solitary to scattered mushroom or in groups on rich [[humus]], usually under [[conifer]]s. It can also be found with [[alder]] and other [[hardwood]]s in the [[Pacific Coast]].<ref name="Demystified">{{Cite book |last=Arora |first=David |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/377/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |year=1986 |orig-date=1979 |edition=2nd |pages=377–78}}</ref> It has frequently been found in disturbed areas, such as where wood was handled.<ref name="hunter">{{cite book|last1=Smith|first1=Alexander Hanchett|url=https://books.google.com/books?id=TYI4f6fqrfkC&pg=PA225|title=The Mushroom Hunter's Field Guide|last2=Weber|first2=Nancy S.|date=1980|publisher=University of Michigan Press|isbn=978-0-472-85610-7|pages=225–226}}</ref> The species will colonize outdoor mushroom beds after wood chips have been decomposed by a primary [[saprotroph]].<ref name=Stamets2000>{{cite book | last = Stamets | first = Paul | title = Growing gourmet and medicinal mushrooms | publisher = Ten Speed Press | date = 2000 | page = 12 | url = https://books.google.com/books?id=y1fnacRg1AYC&pg=PA12 | isbn = 978-1-58008-175-7}}</ref> It favors a cold and damp environment.<ref name="hip"/>
+
+== Edibility ==
+[[Alexander Hanchett Smith]] and Nancy S. Weber state that the species is not poisonous.<ref name="hunter" /> Contrarily, one source regards it as possibly poisonous.<ref name="Fuller1986">{{cite book |last=Multiple authors |first=Fuller Thomas C.; McClintock, Elizabeth May |url=https://books.google.com/books?id=GDpCNKm7xTQC&pg=PA53 |title=Poisonous Plants of California |date=1986 |publisher=University of California Press |isbn=978-0-520-05569-8 |page=53}}</ref> Because of conflicting reports on its edibility, the authors [[David Arora]], [[Orson K. Miller,&nbsp;Jr.]] and Hope Miller do not recommend eating the species.<ref name="hip" /><ref name="Miller2006">{{cite book |last=K. Miller |first=Orson |url=https://books.google.com/books?id=zjvXkLpqsEgC&pg=PA256 |title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi |author2=Miller, Hope |date=2006 |publisher=Globe Pequot |isbn=978-0-7627-3109-1 |page=256}}</ref>
+
+== References ==
+{{Reflist}}
+
+==External links==
+* {{Commons-inline}}
+* [http://www.mushroomexpert.com/stropharia_ambigua.html ''Stropharia ambigua'']
+
+{{Taxonbar|from=Q7624795}}
+
+[[Category:Strophariaceae]]
+[[Category:Fungi described in 1898]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Charles Horton Peck]]
+[[Category:Fungus species]]

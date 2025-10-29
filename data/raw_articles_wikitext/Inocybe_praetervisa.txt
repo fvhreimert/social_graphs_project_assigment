@@ -1,0 +1,60 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Inocybe praetervisa 21502.jpg
+| image_caption = 
+| genus = Inocybe
+| species = praetervisa
+| authority = [[Lucien Quélet|Quél.]] (1883)
+| synonyms = ''Astrosporina praetervisa'' <small>([[Lucien Quélet|Quél.]]) [[Joseph Schröter|Schröt]] (1889)</small>
+}}
+{{mycomorphbox
+| name             = ''Inocybe praetervisa''
+| whichGills       = adnexed
+| capShape         = campanulate
+| hymeniumType     = gills
+| stipeCharacter   = bare
+| ecologicalType   = mycorrhizal
+| sporePrintColor  = brown
+| howEdible        = caution
+| howEdible2       = poisonous
+}}
+
+'''''Inocybe praetervisa''''' is a small, yellow and brown mushroom in the family [[Inocybaceae]], distinguished from other members of the genus by its unusual [[spore]]s and bulb. The unusual spores led to the species being named the [[type species]] of the now-abandoned genus ''Astrosporina''; recent studies have shown that such a genus could not exist, as the species with the defining traits do not form a [[monophyletic]] group. However, it is a part of several [[clade]]s within the genus ''[[Inocybe]]''. ''I.&nbsp;praetervisa'' grows on the ground in woodland, favouring [[beech]] trees, and is found in Europe, North America and Asia. It is inedible and probably [[mushroom poisoning|poisonous]] due to the presence of [[muscarine]]. The ingestion of muscarine can lead to [[SLUDGE syndrome]], and could potentially lead to death due to [[respiratory failure]].
+
+==Taxonomy and naming==
+''Inocybe praetervisa'' was [[species description|first described]] by [[Lucien Quélet]] in the first volume of [[Giacomo Bresadola]]'s  1883 publication ''Fungi tridentini''.<ref>{{cite journal |title=Fungi tridentini |journal=Fungi Tridentini |author=Bresadola, Giacomo. |year=1883 |volume=1 |issue=3 |pages=27–42 |language=Latin}}</ref> The species was moved to the genus ''Astrosporina'' by [[Joseph Schröter]] in 1889,<ref>{{cite book |title=Kryptogamen-Flora von Schlesien |volume=3–1(1) |year=1885 |author=Schröter, Joseph. |page=576 |language=German}}</ref> but this was rejected, and the name ''Astrosporina praetervisa'' is now considered an obligate [[synonym (taxonomy)|synonym]].<ref>"[http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=240227 ''Inocybe praetervisa'']". MycoBank. The International Mycological Association. Accessed 13 October 2010.</ref> ''Astrosporina praetervisa'' was the type species of the no longer recognised genus.<ref>"[http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=17116 ''Astrosporina'']". MycoBank. The International Mycological Association. Accessed 23 October 2010.</ref> The [[specific name (botany)|specific epithet]] ''praetervisa'' comes from the [[Latin]] word meaning "overlooked".<ref>{{cite book |title= British Basidiomycetae: a handbook to the larger British Fungi|last= Rea|first= Carleton|year= 1968|publisher= [[Cambridge University Press]]|page= 209}}</ref>
+
+Within the genus ''Inocybe'', ''I.&nbsp;praetervisa'' has been placed in the [[subgenus]] ''Inocybe''. Mycologist [[Rolf Singer]] places the species in the [[Section (botany)|section]] ''Marginatae''; mycologist Thom Kuyper considers ''Marginatae'' a [[supersection]], and includes ''I.&nbsp;praetervisa'' along with ''[[Inocybe abietis|I.&nbsp;abietis]]'', ''[[Inocybe calospora|I.&nbsp;calospora]]'' and ''[[Inocybe godeyi|I.&nbsp;godeyi]]''. [[Phylogenetics]] has shown that, in addition to the large [[clade]] of subgenus ''Inocybe'', ''I.&nbsp;praetervisa'' forms a clade with ''I.&nbsp;calospora'', ''[[Inocybe lanuginosa|I.&nbsp;lanuginosa]]'' and ''[[Inocybe leptophylla|I.&nbsp;leptophylla]]''. The species are similar in that all four have [[basidiospore]]s with small [[wikt:nodule|nodules]]; it was this feature that defined the genus ''Astrosporina'', with then ''A.&nbsp;praetervisa'' as its type species. However, when phylogenetic analysis later concluded that nodulose-spored ''Inocybe'' species do not form a [[monophyletic]] group, the name ''Astrosporina'' was deemed inappropriate at a generic level. But it may be considered useful at a lower level to refer to the [[clade]] of the four ''Inocybe'' species. Of those four, ''I.&nbsp;praetervisa'' is most closely related to ''I.&nbsp;calospora'', with which it forms a smaller and closer clade.<ref>{{cite journal |author1=Matheny, P. Brandon |author2=Liu, Yajuan J. |author3=Ammirati, Joseph F. |author4=Hall, Benjamin D. |year= 2002|title= Using RPB1 sequences to improve phylogenetic inference among mushrooms (''Inocybe'', Agaricales)|journal= American Journal of Botany|publisher= Botanical Society of America|volume= 89|issue= 4|pages= 688–98|issn= 0002-9122|doi=10.3732/ajb.89.4.688|pmid=21665669|doi-access= free}}</ref> A different study also found the close relationship between ''I.&nbsp;praetervisa'' and ''I.&nbsp;calospora''; it also named ''[[Incyocybe teraturgus|I.&nbsp;teraturgus]]'' as a part of the clade containing ''I.&nbsp;praetervisa'', ''I.&nbsp;calospora'', ''I.&nbsp;lanuginosa'' and ''I.&nbsp;leptophylla''.<ref>{{cite journal|author1= Kropp, Bradley R.|author2= Matheny, P. Brandon|year= 2004|title= Basidiospore homoplasy and variation in the ''Inocybe chelanensis'' group in North America|journal= Mycologia|publisher= Mycological Society of America|volume= 96|issue= 2|pages= 295–309|url= http://www.clarku.edu/faculty/dhibbett/Reprints%20PDFs/Kropp%26Matheny.2004.pdf|doi= 10.2307/3762065|jstor= 3762065|pmid= 21148856|access-date= 2010-10-25|archive-date= 2010-06-08|archive-url= https://web.archive.org/web/20100608102107/http://www.clarku.edu/faculty/dhibbett/Reprints%20PDFs/Kropp%26Matheny.2004.pdf|url-status= dead}}</ref>
+
+==Description==
+''Inocybe praetervisa'' has a bell-shaped (later expanding) [[pileus (mycology)|cap]] of {{convert|3|to|5|cm|in}} in diameter, which is a yellowish-brown colour. It is [[fibre|fibrous]], and splits from the margin (which curves inwards<ref name="Sterry"/>) to the centre. The [[stipe (mycology)|stem]] is from {{convert|5|to|6|cm|in}} in height, and from {{convert|3|to|8|mm|in}} thick. It is white, maturing to a pale straw-yellow, and the whole stem is [[wikt:farinaceous|farinaceous]], meaning it is covered in particles resembling [[Flour|meal]].<ref name="Phillips">{{cite book |title= Mushrooms and Other Fungi of Great Britain and Europe|author= Phillips, Roger|year= 1981|publisher= [[Pan Books]]|location= London|isbn= 0-330-26441-9|page=153}}</ref> The stem has a distinct bulb at the base, which is moderately [[wikt:marginate|marginate]],<ref name="Sterry"/><ref name="Phillips"/> and lacks a [[Annulus (mycology)|ring]].<ref name="Jordan"/> The [[trama (mycology)|flesh]] is white, and discolours to yellowish in the stem. The [[lamella (mycology)|gills]] are initially whitish, but later become a [[clay]]-brown with toothed, white edges.<ref name="Sterry"/><ref name="Phillips"/> They are adnexed, meaning they connect to the stem by only part of their depth, and are crowded closely together.<ref name="Sterry"/>
+
+===Microscopic features===
+''Inocybe praetervisa'' leaves a clay-brown [[spore print]], while the [[spore]]s themselves are rectangular with a large number of "distinct, angular knobs".<ref name="Phillips"/> In size, the spores measure between {{convert|10|and|12|um}} in length by between {{convert|7|and|9|um}} in width. ''Inocybe praetervisa'' has both [[Cystidium|pleuro- and cheilocystidia]] which are relatively [[Spindle (textiles)|spindle]]-shaped with apical encrustation. The cystidia have [[hyaline]] or pale yellow [[cell wall|walls]].<ref name="Phillips"/>
+
+===Similar species===
+The species can be differentiated from the similar ''[[Inocybe cookei|I.&nbsp;cookei]]'' by its "irregular, lumpy spores".<ref name="Kibby">{{cite book |title= Mushrooms and Toadstools of Britain and Northern Europe|last= Kibby|first= Geoffrey|year= 2003|publisher= [[Hamlyn (publishers)|Hamlyn]]|isbn= 978-0-7537-1865-0|page= 99}}</ref> It is also similar to ''[[Inocybe rimosa|I.&nbsp;rimosa]]'', but differs in the presence of a bulb.<ref name="Sterry">{{cite book |title= Complete Guide to British Mushrooms & Toadstools|author1=Sterry, Paul |author2=Hughes, Barry |year= 2009|publisher= [[HarperCollins]]|isbn= 978-0-00-723224-6|page= 196}}</ref> Another species that can be differentiated by the lack of a bulb is ''[[Inocybe numerosigibba|I.&nbsp;numerosigibba]]''.<ref>{{cite book |title= The taxonomic studies of the genus ''Inocybe''|last= Kobayashi|first= Takahito|year= 2002|publisher= J. Cramer|isbn= 978-3-443-51046-6|page= 63}}</ref>
+
+==Habitat and distribution==
+''Inocybe praetervisa'' is an [[ectomycorrhizal]] species,<ref>{{cite journal |author1=Cline, E. T. |author2=Ammirati, J. E. |author3=Edmonds, R. L. |year= 2005|title= Does proximity to mature trees influence ectomycorrhizal fungus communities of Douglas-fir seedlings?|journal= New Phytologist|publisher= [[Blackwell Publishing]]|volume= 166|issue= 3|pages= 993–1009|issn= 0028-646X |pmid=15869658 |doi=10.1111/j.1469-8137.2005.01387.x|doi-access= }}</ref> and is found on the ground in [[mixed forest|mixed]], [[deciduous forest|deciduous]] or even [[coniferous forest|coniferous woodland]]. It typically favours [[beech]].<ref name="Sterry"/><ref name="Phillips"/><ref name="Roger">Phillips, Roger. "[http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6453~gid~~source~gallerydefault.asp Inocybe praetervisa] {{Webarchive|url=https://web.archive.org/web/20101231161816/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6453~gid~~source~gallerydefault.asp |date=2010-12-31 }}" RogersMushrooms.com. Accessed 13 October 2010.</ref> Mushrooms grow solitarily or in "trooping groups"<ref name="Jordan"/> in late summer and throughout autumn, though it is not commonly encountered species.<ref name="Phillips"/> It is found in Europe, Asia and North America.<ref name="Bi">{{cite book |title= The Macrofungus Flora of China's Guangdong Province|last= Bi|first= Zhishu |author2=Zheng, Guoyang |author3=Li, Taihui|year= 1993|publisher= Chinese University Press|isbn= 978-962-201-556-2|page= 434}}</ref>
+
+==Edibility and toxicity==
+The species has a mild, indistinct taste, and a faint smell of flour.<ref name="Phillips"/><ref name="Jordan">{{cite book|author=Jordan, Michael|author-link=Michael Jordan (mycologist)|year=1995|title=The Encyclopedia of Fungi of Britain and Europe|publisher=David & Charles|page=294|isbn=0-7153-0129-2}}</ref> Mycologist Roger Phillips describes its edibility as "suspect", recommending that it be avoided,<ref name="Phillips"/> and notes that it is possible that the species is [[poisonous mushroom|poisonous]]; most species of ''Inocybe'' have been shown to contain poisonous chemicals.<ref name="Roger"/> Mycologist Ian Robert Hall lists the mushroom as containing the poisonous compound [[muscarine]]. Consumption of muscarine could lead to a number of physiological effects, including: excess [[salivation]], [[lacrimation]], uncontrollable [[urination]] and [[defecation]], [[gastrointestinal problem]]s and [[emesis]] (vomiting); this array of symptoms is also known by the acronym [[SLUDGE syndrome|SLUDGE]].<ref name="Hall">{{cite book |title= Edible and Poisonous Mushrooms of the World|last= Hall|first= Ian Robert|author2= Buchanan, Peter K.|author3= Stephenson, Steven L.|author4= Yun, Wang|author5= Cole, Anthony L. J.|year= 2003|publisher= [[Timber Press]]|isbn= 978-0-88192-586-9|pages= 108–109}}</ref> Other potential effects include a drop in [[blood pressure]], [[sweating]] and death due to [[respiratory failure]].<ref name="Hall"/>
+
+==See also==
+*[[List of Inocybe species|List of ''Inocybe'' species]]
+
+==References==
+{{Reflist|2}}
+
+{{Good article}}
+{{Taxonbar|from=Q3914318}}
+
+[[Category:Inocybe|praetervisa]]
+[[Category:Fungi described in 1883]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Asia]]
+[[Category:Poisonous fungi]]
+[[Category:Taxa named by Lucien Quélet]]
+[[Category:Fungus species]]

@@ -1,0 +1,72 @@
+{{Speciesbox
+| image = Hericium abietis 109093.jpg
+| genus = Hericium
+| species = abietis
+| authority = ([[James Robert Weir|Weir]] ex [[Ernest Everett Hubert|Hubert]]) [[K.A.Harrison]] (1964)
+| synonyms_ref = <ref name="urlMycoBank: Hericium abietis"/>
+| synonyms = ''Hydnum abietis'' <small>Weir ex Hubert (1931)</small>
+}}
+{{mycomorphbox
+| name = ''Hericium abietis''
+| capShape = no
+| hymeniumType= teeth
+| stipeCharacter = NA
+| ecologicalType = parasitic
+| sporePrintColor = white
+| howEdible = choice
+}}
+
+'''''Hericium abietis''''',<ref>''Abietis'', "of ''[[Abies]]''", the fir genus.</ref> commonly known as the '''conifer coral hericium''',<ref name="Arora 1986"/> '''bear's head''', or '''western coral hedgehog''', is a species of [[tooth fungus]]. It produces a cream white [[basidiocarp|fruit body]] up to {{convert|10–75|cm|0|abbr=on}} tall and wide.
+
+The mushroom grows on [[conifer]] stumps or logs in North America, fruiting from after the start of the fall rains to mid-season. It is [[edible mushroom|edible]].
+
+==Taxonomy==
+The species was first described as ''Hydnum abietis'' by American botanist [[James Robert Weir]] in 1931. Weir collected the [[type (biology)|type]] specimens in 1916, near the [[Priest River (Idaho)|Priest River]] in [[Idaho]]. [[Kenneth Archibald Harrison]] transferred it to the genus ''[[Hericium]]'' in 1964.<ref name="Harrison 1964"/> The mushroom is commonly known as the "bear's head"<ref name="Tylutki II 1987"/> or the "western coral hedgehog".<ref name="McKnight 1987"/>
+
+==Description==
+
+
+The fruit body comprises a compact, branched mass originating from a thick, tough base with long spines hanging down. Its color ranges from white to creamy, light yellowish, to [[salmon (color)|salmon]]-[[buff (color)|buff]].<ref name="Arora 1986" /> The hanging spines are usually {{convert|0.5–1|cm|1|abbr=on|frac=8}} long, although some may be as long as {{convert|2.5|cm|1|abbr=on|frac=8}}; they are soft and brittle and typically grow as clusters at the tips of the branches.<ref name="Arora 1986" /> The fruit bodies are typically {{convert|10 to 75|cm|0|abbr=on}} wide and tall, but can attain massive sizes; one noted specimen was about {{convert|100|lb|kg}}.<ref name="Arora 1986"/>
+
+''Hericium abietis'' produces a white [[spore print]]. The [[Basidiospore|spores]] are spherical or nearly so, smooth to slightly roughened, [[amyloid (mycology)|amyloid]], and measure 4.5–5.5 by 4–5&nbsp;[[μm]].<ref name="Arora 1986"/> The [[hypha]]e are monomitic (consisting of only generative hyphae), and they have [[clamp connection]]s.<ref name="Tylutki II 1987"/>
+
+===Similar species===
+''[[Hericium erinaceus]]'' is a lookalike spine fungus. It can be distinguished by its more compact fruit body structure that lacks multiple branches, in which the hanging spines all originate from a single thick [[tubercle]].<ref name="Tylutki II 1987"/> In ''[[Hericium coralloides]]'', the spines line the undersides of the branches, unlike ''H.&nbsp;abietis'', whose spines are arranged in clusters at the tip of branches.<ref name="Bessette 1987"/>
+
+===Uses===
+''Hericium abietis'' is [[edible mushroom|edible]]<ref>{{cite book |last=Meuninck |first=Jim |title=Foraging Mushrooms Oregon: Finding, Identifying, and Preparing Edible Wild Mushrooms |date=2017 |publisher=[[Falcon Guides]] |isbn=978-1-4930-2669-2 |page=60}}</ref> and choice. [[David Arora]] suggests that cooking the mushroom produces a flavor similar to fish and that it is suitable for [[saute]]ing, [[marinating]], or preparing as a [[curry (dish)|curry]] dish.<ref name="Arora 1986"/>
+
+==Habitat and distribution==
+''Hericium abietis'' causes a [[white rot]] of [[conifer]]s; this is a form of [[wood decay]] featuring a selective attack on [[lignin]] and [[hemicellulose]] in wood.<ref name="Tylutki II 1987"/> The fruit bodies grow singly or occasionally in small groups on the dead wood of conifers, especially [[Douglas-fir]].<ref name="Arora 1986"/> It can also be cultivated on conifer sawdust or logs.<ref name="Xiao 1997"/> The species is found throughout North America.<ref name="Bessette 1987"/>
+
+==References==
+{{Reflist|refs=
+
+<ref name="Arora 1986">{{cite book |author=Arora D.  |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/614/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, California |year=1986 |orig-date=1979 |edition=2nd |pages=614}}</ref>
+
+<ref name="Bessette 1987">{{cite book |author=Sundberg W, Bessette A. |title=Mushrooms: A Quick Reference Guide to Mushrooms of North America |series=Macmillan Field Guides |publisher=Collier Books |location=New York, New York |year=1987 |page=30 |isbn=0-02-063690-3}}</ref>
+
+<ref name="Harrison 1964">{{cite journal |author=Harrison KA. |title=New or little known North American stipitate Hydnums |journal=Canadian Journal of Botany |year=1964 |volume=42 |issue=9 |pages=1205–33 |doi=10.1139/b64-116}}</ref>
+
+<ref name="McKnight 1987">{{cite book |author=McKnight VB, McKnight KH. |title=A Field Guide to Mushrooms: North America | series=Peterson Field Guides |publisher=Houghton Mifflin |location=Boston, Massachusetts |year=1987 |page=92 |isbn=0-395-91090-0 |url=https://books.google.com/books?id=kSdA3V7Z9WcC&pg=PA92}}</ref>
+
+<ref name="Tylutki II 1987">{{cite book |author=Tylukti EE. |title=Mushrooms of Idaho and the Pacific Northwest. Vol. 2 Non-gilled Hymenomycetes |year=1987 |publisher=The University of Idaho Press |location=Moscow, Idaho |pages=139–40 |isbn=0-89301-097-9}}</ref>
+
+<ref name="urlMycoBank: Hericium abietis">{{cite web |title=''Hericium abietis'' (Weir ex Hubert) K.A. Harrison 1964 |url=http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=12792&Fields=All |publisher=[[MycoBank]]. International Mycological Association |access-date=2012-09-21}}</ref>
+
+<ref name="Xiao 1997">{{cite journal |author=Xiao GP, Chapman B. |title=Cultivation of ''Hericium abietis'' on conifer sawdust |journal=Canadian Journal of Botany |year=1997 |volume=75 |issue=7 |pages=1155–7 |doi=10.1139/b97-827}}</ref>
+
+}}
+
+==External links==
+* {{Commons category-inline|italic=on}}
+*{{IndexFungorum|331940}}
+*[http://www.mykoweb.com/CAF/species/Hericium_abietis.html Hericium abietis] at mykoweb.com
+
+{{Taxonbar|from=Q5738468}}
+
+[[Category:Russulales]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1931]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]

@@ -1,0 +1,142 @@
+{{stack begin}}
+{{Speciesbox
+| image = Polyporus alveolaris.jpg
+| image_caption = 
+| genus = Neofavolus 
+| species = alveolaris
+| authority = ([[Augustin Pyramus de Candolle|DC.]]) Sotome & T. Hatt. (2012)
+| synonyms_ref = <ref name="urlMycoBank: Polyporus alveolaris" />
+| synonyms = {{hidden begin|title=List}}
+{{unbulleted list
+|''Merulius alveolaris'' <small>DC. (1815)</small>
+|''Boletus mori'' <small>([[Cyro Pollini|Pollini]]) Pollini (1816)</small>
+|''Hexagonia mori'' <small>Pollini (1816)</small>
+|''Cantharellus alveolaris'' <small>(DC.) [[Elias Magnus Fries|Fr.]] (1821)</small>
+|''Daedalea broussonetiae'' <small>Cappelli (1821)</small>
+|''Polyporus mori'' <small>(Pollini) Fr. (1821)</small>
+|''Favolus extratropicus'' <small>Fr. (1825)</small>
+|''Favolus mori'' <small>(Pollini) Fr. (1825)</small>
+|''Favolus canadensis'' <small>[[Johann Friedrich Klotzsch|Klotzsch]] (1832)</small>
+|''Favolus europaeus'' <small>Fr. (1838)</small>
+|''Favolus ohioensis'' <small>[[Jean Pierre François Camille Montagne|Mont.]] (1856)</small>
+|''Polyporus favoloides'' <small>[[Jacques Emile Doassans|Doass.]] & [[Narcisse Théophile Patouillard|Pat.]] (1880)</small>
+|''Favolus alveolaris'' <small>(DC.) [[Lucien Quélet|Quél.]] (1883)</small>
+|''Favolus striatulus'' <small>[[Job Bicknell Ellis|Ellis]] & [[Benjamin Matlack Everhart|Everh.]] (1897)</small>
+|''Hexagonia alveolaris'' <small>(DC.) [[William Alphonso Murrill|Murrill]] (1904)</small>
+|''Hexagonia micropora'' <small>Murrill (1904)</small>
+|''Favolus microporus'' <small>(Murrill) [[Pier Andrea Saccardo|Sacc.]] & [[Domenico Saccardo|D.Sacc.]] (1905)</small>
+|''Hexagonia striatula'' <small>(Ellis & Everh.) Murrill (1907)</small>
+|''Favolus kauffmanii'' <small>[[Curtis Gates Lloyd|Lloyd]] (1916)</small>
+|''Favolus whetstonei'' <small>Lloyd (1916)</small>
+|''Favolus peponinus'' <small>Lloyd (1917)</small>
+|''Polyporellus alveolaris'' <small>(DC.) [[Marcel Pilát|Pilát]] (1936)</small>
+|''Polyporus alveolaris'' <small>[[Appollinaris Semenovich Bondartsev|Bondartsev]] & [[Rolf Singer|Singer]]</small><ref name="Bondartsev1941" />
+|''Polyporus tenuiparies'' <small>Laferr. & Gilb. (1990)</small>
+}}
+{{hidden end}}
+}}
+{{mycomorphbox
+| name = ''Neofavolus alveolaris''
+| whichGills =decurrent
+| capShape =offset
+| hymeniumType=pores
+| stipeCharacter=bare
+| ecologicalType= saprotrophic
+| sporePrintColor=white
+| sporePrintColor2=
+| howEdible=edible
+| howEdible2=inedible
+}}
+{{stack end}}
+
+'''''Neofavolus alveolaris''''', commonly known as the '''hexagonal-pored polypore''',<ref name="urlPolyporus alveolaris" /> is a species of [[fungus]] in the family [[Polyporaceae]]. It causes a [[white rot]] of dead [[hardwood]]s. Found on sticks and decaying logs, its distinguishing features are its yellowish to orange scaly [[pileus (mycology)|cap]], and the hexagonal or diamond-shaped pores. It is found in Eurasia and Australia; once thought to be widely distributed in North America, these specimens may belong to ''[[Neofavolus americanus]]''.
+
+==Taxonomy==
+The first scientific [[species description|description]] of the fungus was published in 1815 by [[Augustin Pyramus de Candolle]], under the name ''Merulius alveolaris''.<ref name="DeCandolle1815" /> In 1821, it was [[sanctioned name|sanctioned]] by [[Elias Magnus Fries]] as ''Cantharellus alveolaris''. It was transferred to the genus ''Polyporus'' in a 1941 publication by [[Appollinaris Semenovich Bondartsev]] and [[Rolf Singer]].<ref name="Bondartsev1941" /> It was transferred to its current genus in 2012.
+
+The [[genus]] name is derived from the [[Greek language|Greek]] meaning "many pores", while the [[specific name (botany)|specific epithet]] ''alveolaris'' means "with small pits or hollows".<ref name="urlMushroomExpert" />
+
+==Description==
+
+The kidney-shaped [[Pileus (mycology)|caps]] are cream with reddish scales, measuring {{convert|1.5–6|cm|1|abbr=on|frac=2}} across and {{Convert|5-10|mm|frac=4}} thick near the base; the light flesh hardens with age.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=279}}</ref> The whit
+[[]]
+ish [[stipe (mycology)|stipe]] widens into the cap, measuring 0.5–1&nbsp;cm long and 3–7&nbsp;mm thick.<ref name="audu" /> The pores are whitish, maturing to yellow, and cover the stipe (decurrent); they are 0.5–3&nbsp;mm across and rectangular to hexagonal, being rounder near the margin.<ref name="audu" /> The [[spore print]] is white.<ref name="audu" />
+
+{{gallery|mode=packed
+|Polyporus alveolaris pores.jpg|Pores on the stipe
+}}
+
+===Microscopic features===
+The [[Basidiospore|spores]] are narrowly elliptical and smooth, [[hyaline]], with dimensions of 11–14.5&nbsp;×&nbsp;4–5&nbsp;[[μm]]. The [[basidia]] are club-shaped and four-spored, with dimensions of 28–42&nbsp;×&nbsp;7–9&nbsp;μm.<ref name="urlEoL" />
+
+===Similar species===
+North American specimens may be ''[[Neofavolus americanus]]'', with [[DNA sequencing]] possibly the only method of distinction.<ref name="audu" />
+
+''[[Polyporus craterellus]]'' bears a resemblance to ''P.&nbsp;alveolaris'', but the former species has a more prominent stalk and does not have the reddish-orange colors observed in the latter.<ref name="Roody2003" /> ''[[Polyporus mcmurphyi]]'' and related species have larger caps and a more defined stem.<ref name="audu" /> ''[[Favolus brasiliensis]]'' lacks orange tones and ''[[Cerioporus squamosus]]'' is larger.<ref name="audu" />
+
+ growing on a [[twig]]]]
+
+==Habitat and distribution==
+''Neofavolus alveolaris'' is found growing singly or grouped together on branches and twigs of [[hardwood]]s, commonly on [[shagbark hickory]] in the spring and early summer.<ref name="Healy2003" /> It has been reported growing on the dead hardwoods of genera ''[[Acer (genus)|Acer]]'', ''[[Castanea (genus)|Castanea]]'', ''[[Cornus (genus)|Cornus]]'', ''[[Corylus]]'', ''[[Crataegus]]'', ''[[Erica (plant)|Erica]]'', ''[[Fagus (tree)|Fagus]]'', ''[[Fraxinus]]'', ''[[Juglans]]'', ''[[Magnolia]]'', ''[[Morus (plant)|Morus]]'', ''[[Populus]]'', ''[[Pyrus]]'', ''[[Robinia]]'', ''[[Quercus]]'', ''[[Syringa]], [[Tilia]]'', and ''[[Ulmus]]''.<ref name="Ryvarden1993" />
+
+This species has been collected in Europe (Czechoslovakia,<ref name="Kotlaba1957" /> Italy,<ref name="Govi1970" /> and Portugal),<ref name="Melo1978" /> China,<ref name="Zhuang2001" /> and Australia.<ref name="May2003" /> It was once thought to be widely distributed in eastern North America, but these specimens may belong to ''N.&nbsp;americanus''.<ref name="urlMushroomExpert" /><ref name="Healy2003" /><ref name="audu" /> 
+
+==Uses==
+
+This mushroom is [[Edible mushroom|edible]] when young.<ref name="Miller 2006">{{cite book|last=Miller Jr.|first=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuides]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=418|author-link=Orson K. Miller Jr.}}</ref> It has been described as "edible but tough",<ref name="emberger" /> with toughness increasing with age, and not having "all that distinctive of a flavor".<ref name="video" /> Another reference lists the species as inedible.<ref name="bessette" />
+
+A [[polypeptide]] with [[antifungal]] properties has been isolated from the fresh fruit bodies of this species. Named alveolarin, it inhibits the growth of the species ''[[Botrytis cinerea]]'', ''[[Fusarium oxysporum]]'', ''[[Mycosphaerella arachidicola]]'', and ''[[Physalospora piricola]]''.<ref name="Wang2004" />
+
+==References==
+{{reflist|colwidth=30em|refs=
+
+<ref name="Bondartsev1941">{{cite journal |vauthors=Bondartsev A, Singer R |year=1941 |title=Zur Systematik der Polyporaceae |journal=Annales Mycologici |volume=39 |pages=43–65 |language=de}}</ref>
+
+<ref name="DeCandolle1815">{{cite book |author=De Candolle AP. |year=1815 |title=Flore française. Vol 6, 3rd. ed |page=43 |language=fr}}</ref>
+
+<ref name="Govi1970">{{cite journal |author=Govi G. |year=1970 |title= Italian Polyporacea. Part VIII |journal=Monti e Boschi |volume=21 |issue=4 |pages=45–54 |language=it}}</ref>
+
+<ref name="Healy2003">{{cite book |author1=Healy RA |author2=Huffman DR. |author3=Tiffany LH |author4=Knaphaus G. |title=Mushrooms and Other Fungi of the Midcontinental United States |series=Bur Oak Guide |publisher=University of Iowa Press |location=Iowa City |year=2008 |page=207 |isbn=978-1-58729-627-7|url=https://books.google.com/books?id=tl2fVAHuej4C&q=Polyporus%20alveolaris&pg=PA207}}</ref>
+
+<ref name="Kotlaba1957">{{cite journal |vauthors=Kotlaba F, Pouzar Z |year=1957 |title=New or little known Polyporaceae in Czechoslovakia II |journal=Česká Mykologie |volume=11 |issue=4 |pages=214–24 |language=cs}}</ref>
+
+<ref name="May2003">{{cite book |title=Fungi of Australia |vauthors=May TW, Milne J, Shingles S, Jones RH |year=2008 |publisher=CSIRO Publishing |isbn=978-0-643-06907-7 |page=196 |url=https://books.google.com/books?id=mTJsa5a3ZpcC&q=Polyporus%20alveolaris&pg=PA196}}</ref>
+
+<ref name="Melo1978">{{cite journal |author=Melo I. |year=1978 |title=''Buglossoporus pulvinus'' new record and ''Polyporus mori'' new record 2 species of Polyporaceae which are new for Portugal |journal=Boletim da Sociedade Broteriana |volume=52 |pages=277–84 |language=pt}}</ref>
+
+<ref name="Roody2003">{{cite book |author=Roody WC. |title=Mushrooms of West Virginia and the Central Appalachians |publisher=University Press of Kentucky |location=Lexington, Kentucky |year=2003 |page=362 |isbn=0-8131-9039-8 |url=https://books.google.com/books?id=5HGMPEiy4ykC&q=Polyporus%20alveolaris&pg=PA362}}</ref>
+
+<ref name="Ryvarden1993">{{cite book |author=Ryvarden L. |author-link=Leif Ryvarden |title=European Polypores (Part 2 European Polypores) |publisher=Lubrecht & Cramer Ltd |year=1993 |page=559 |isbn=82-90724-12-8}}</ref>
+
+<ref name="urlEoL">{{cite web |url=http://www.eol.org/pages/191558|title=''Polyporus alveolaris'' (DC.) Bondartsev & Singer 1941 - Encyclopedia of Life |access-date=2009-01-30}}</ref>
+
+<ref name="urlMushroomExpert">{{cite web |url=http://www.mushroomexpert.com/polyporus_alveolaris.html |title=''Polyporus alveolaris''|author=Kuo M |work=MushroomExpert.Com |access-date=2009-01-30}}</ref>
+
+<ref name="urlMycoBank: Polyporus alveolaris">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=304136 |title=''Polyporus alveolaris'' (DC.) Bondartsev & Singer 1941 |publisher=International Mycological Association |work=Mycoank |access-date=2011-01-29}}</ref>
+
+<ref name="urlPolyporus alveolaris">{{cite web|url=http://www.messiah.edu/Oakes/fungi_on_wood/poroid%20fungi/species%20pages/Polyporus%20alveolaris.htm |title=''Polyporus alveolaris'' |work=Fungi on Wood |author=Embis G |publisher=Messiah College |access-date=2009-01-30}}</ref>
+
+<ref name="Wang2004">{{cite journal |vauthors=Wang H, Ng TB, Liu Q |title=Alveolarin, a novel antifungal polypeptide from the wild mushroom ''Polyporus alveolaris'' |journal=Peptides |volume=25 |issue=4 |pages=693–96 |year=2004 |pmid=15165727 |doi=10.1016/j.peptides.2004.01.026|s2cid=36727221 }}</ref>
+
+<ref name="Zhuang2001">{{cite book |title=Higher Fungi of Tropical China |last=Zhuang W. |year=2001 |publisher=Mycotaxon Ltd. |location=Cornell University |isbn=978-0-930845-13-1 |page=274}}</ref>
+
+<ref name="emberger">{{cite web |last1=Emberger |first1=Gary |url=https://www.messiah.edu/Oakes/fungi_on_wood/poroid%20fungi/species%20pages/Neofavolus%20alveolaris.htm |website=Messiah College Oakes Museum of Natural History |title= Neofavolus alveolaris |access-date=15 April 2020}}</ref>
+
+<ref name="video">{{cite web |title=Video: On Hexagonal-Pored Polypores |url=https://therichestfare.snappages.com/blog/2017/05/03/video-on-hexagonal-pored-polypores |website=The Richest Fare |access-date=15 April 2020}}</ref>
+
+<ref name="bessette">{{Cite book| publisher = Syracuse University Press| isbn = 978-0-8156-0388-7| last = Bessette| first = Alan E.| title = Mushrooms of Northeastern North America| date = 1997-09-01}}</ref>
+
+}}
+
+{{Taxonbar|from1=Q1807951|from2=Q24977368}}
+
+[[Category:Polyporus|alveolaris]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1815]]
+[[Category:Fungi of Australia]]
+[[Category:Fungi of China]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of Asia]]
+[[Category:Polyporaceae]]
+[[Category:Taxa named by Augustin Pyramus de Candolle]]
+[[Category:Fungus species]]

@@ -1,0 +1,47 @@
+{{Speciesbox
+| image = Russ.fell.jpg
+| genus = Russula
+| species = fellea
+| authority = ([[Elias Magnus Fries|Fr.]]) Fr.
+}}
+{{mycomorphbox 
+| name = ''Russula fellea''
+| whichGills =  adnexed
+| capShape = convex
+| capShape2 = flat
+| hymeniumType = gills
+| stipeCharacter = bare
+| sporePrintColor = white
+| howEdible = inedible
+}}
+
+The [[mushroom]] '''''Russula fellea''''' goes by the [[common name]] of the '''geranium-scented russula''', or '''bitter russula''' and is a  member of the genus ''[[Russula]]'', all of which are commonly known as '''brittlegills'''.  It is straw or honey coloured and in Britain grows in beech woods during autumn. It is inedible.
+
+==Taxonomy==
+It was first described and named in 1821 by the Swedish mycologist [[Elias Magnus Fries]], initially as ''Agaricus felleus'', before being placed in the genus ''Russula'' in 1838. Its [[specific name (botany)|specific epithet]] is derived from the [[Latin]] adjective ''felleus'' meaning "biliary", in reference to its bitter taste, reminiscent of [[bile]].
+
+==Description==
+The [[pileus (mycology)|cap]] is usually 4–9&nbsp;cm wide, and convex, flattening later, and often with a broad central boss ([[Umbo (mycology)|umbo]]). It is sometimes furrowed at the margin when mature. The similarly coloured, but paler [[stipe (mycology)|stipe]] is firm and stout, and is 2–6&nbsp;cm high by 1–2&nbsp;cm wide. The [[Lamella (mycology)|gills]] are adnexed, and are the same colour as the stem, giving a [[spore print]] that is white to pale cream. The flesh is white, and does not change colour on cutting. It tastes hot,<ref name=Phillips06>{{cite book | author = Roger Phillips | year = 2006  | title = Mushrooms | publisher = Pan MacMillan | isbn = 0-330-44237-6|page=42}}</ref> and often has a bitter tang.  The smell is variously reported to resemble geraniums,<ref name=Phillips06/> or apple sauce.<ref name=Lamaison05>{{cite book |title=The Great Encyclopedia of Mushrooms |last=Lamaison |first=Jean-Louis |author2=Polese, Jean-Marie  |year=2005 |publisher=Könemann |isbn=3-8331-1239-5|page=41}}</ref>
+
+==Distribution and habitat==
+'''''Russula fellea''''' appears in autumn, and is found with beech (''[[Beech|Fagus]]'') in Britain, but in [[Europe]] it sometimes occurs with spruce (''[[Picea]]''). It is normally associated with well-drained acid soils, and is widespread in the northern [[temperateness|temperate]] zones; [[Great Britain|Britain]]; [[Europe]], and [[Asia]]. It is not present in [[North America]] where it is replaced by the closely related ''[[Russula simillima|R.simillima]]''.<ref name=T.Laessoe>{{cite book | author = Thomas Laessoe | year = 1998 | title = Mushrooms (flexi bound) | publisher = Dorling Kindersley | isbn = 0-7513-1070-0}}</ref> It grows in [[deciduous]] and [[coniferous]] woods, and forests.
+
+==Edibility==
+This mushroom is inedible, having a very hot bitter taste.<ref name=Phillips06/>
+
+==See also==
+*[[List of Russula species|List of ''Russula'' species]]
+
+==References==
+{{Reflist}}
+
+* {{Commons-inline|Russula fellea}}
+
+{{Taxonbar|from=Q775406}}
+
+[[Category:Russula|fellea]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Inedible fungi]]
+[[Category:Fungus species]]
+[[Category:Taxa named by Elias Magnus Fries]]

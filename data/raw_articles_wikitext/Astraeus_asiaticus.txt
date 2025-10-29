@@ -1,0 +1,45 @@
+{{Short description|Species of fungus}}
+{{speciesbox
+| image = Het phok เห็ดเผาะ Astraeus asiaticus.jpg
+| image_caption = Het pho เห็ดเผาะ ''Astraeus asiaticus'' in [[Sakon Nakhon]], northeast of Thailand
+| genus = Astraeus (fungus)
+| species = asiaticus
+| authority = Phosri, M.P.Martín & [[Roy Watling|Watling]] (2007)
+}}
+{{mycomorphbox
+| name = ''Astraeus asiaticus''
+| capShape = no
+| whichGills = NA
+| stipeCharacter = NA
+| hymeniumType = gleba
+| ecologicalType = mycorrhizal
+| sporePrintColor = brown
+}}
+
+'''''Astraeus asiaticus''''' is a species of [[Astraeus (fungus)|false earthstar]] in the family [[Diplocystaceae]]. Described as a new species in 2007, it was originally found in north and northeastern areas of Thailand, where it grows in sandy or [[laterite]]-rich soil in dry lowland [[dipterocarp]] forests. The species has a wide distribution in Asia.<ref name=Phosri2007/>
+
+Anti-cancer Properties: This mushroom found in the forests of Bankura and Birbhum districts of [[West Bengal]] in [[India]] has been found to contain chemicals that fights against cancer. According to an article published in the science journal Nature, ‘kurkure chhatu’ (astraeus asiaticus), a wild edible mushroom commonly found in these regions, contains powerful bioactive compounds that can kill cancer cells while sparing the healthy ones.
+
+Researchers at the cancer research unit at Post-Graduate Department of [[Ramakrishna Mission Vivekananda Centenary College]], [[Kolkata]] have discovered potent anticancer and antioxidant properties in astraeus asiaticus. The extracts from the mushroom which is consumed by locals for its unique taste can significantly destroy cancer cells, particularly in cases of cervical, breast and lung cancers and prevent the growth of cancerous tumours leaving normal cells unharmed. <ref>https://www.newindianexpress.com/xplore/2025/Mar/10/could-there-be-a-cure-for-cancer-in-mushrooms-of-bengal-forest</ref><ref>https://timesofindia.indiatimes.com/city/kolkata/birbhum-bankura-mushroom-can-fight-cancer-nature-publishes-rahara-rkm-scientist-study/articleshow/118743309.cms</ref>
+ 
+
+==See also==
+*''[[Astraeus odoratus]]''
+
+==References==
+{{Reflist|refs=
+
+<ref name=Phosri2007>{{cite journal |vauthors=Phosri C, Martín MP, Sihanonth P, Whalley AJ, Watling R |title=Molecular study of the genus ''Astraeus'' |journal=Mycological Research |volume=111 |issue=3 |pages=275–86 |year=2007 |pmid=17360168 |doi=10.1016/j.mycres.2007.01.004}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|122650}}
+
+{{Taxonbar|from=Q4811182}}
+
+{{DEFAULTSORT:Astraeus Asiaticus}}
+[[Category:Boletales]]
+[[Category:Fungi described in 2007]]
+[[Category:Fungi of Asia]]
+[[Category:Fungus species]]

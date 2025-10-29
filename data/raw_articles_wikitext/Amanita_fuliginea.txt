@@ -1,0 +1,55 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+|image= Amanita fuliginea Hongo 803897.jpg
+|image_alt= Amanita fuliginea found growing under mixed woods of hardwoods and pine trees in Tsukuba, Ibaragi, Japan
+|image_caption=''Amanita fuliginea'' found growing under mixed woods of [[hardwood]]s and [[pine tree]]s in [[Tsukuba]], [[Ibaraki Prefecture|Ibaragi]], [[Japan]]
+| taxon = Amanita fuliginea
+| authority = [[Tsuguo Hongo|Hongo]] (1953)
+}}
+{{mycomorphbox
+| name = ''Amanita fuliginea''
+| whichGills = free
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=ring and volva
+| ecologicalType=mycorrhizal
+| sporePrintColor=white
+| howEdible=deadly
+}}
+
+'''''Amanita fuliginea''''', commonly known as the '''east Asian brown death cap''', is a species of deadly [[poisonous mushroom]] in the family [[Amanitaceae]]. The fruit bodies have convex, dark gray to blackish [[pileus (mycology)|caps]] measuring {{convert|3|–|6|cm|in|abbr=on}} in diameter. The [[lamella (mycology)|gills]], largely free from attachment to the [[stipe (mycology)|stipe]], are white and have short gills (lamellulae) interspersed. The [[basidiospore|spores]] are roughly spherical, [[amyloid (mycology)|amyloid]], and typically measure 8–11 by 7–9.5&nbsp;[[micrometre|μm]]. The species was [[species description|described]] as new to science by Japanese mycologist [[Tsuguo Hongo]] in 1953.<ref name="Hongo 1953" /> ''A.&nbsp;fuliginea'' is classified in ''[[Amanita]]'' section ''Phalloideae'', which contains the infamous [[Amanita bisporigera|destroying angel]].
+
+The mushroom is common in China, where it has caused poisonings.<ref name="urlAmanitaceae: Amanita fuliginea" /> A review of cases in southern China found that between 1994 and 2012, it was responsible for the poisoning of 352 people (of 852 total cases), resulting in 79 deaths (of 183 total).<ref name="chen14">{{cite journal | title=Investigation and analysis of 102 mushroom poisoning cases in Southern China from 1994 to 2012 | url=https://www.researchgate.net/publication/263574634 |author=Zuohong Chen & Ping Zhang & Zhiguang Zhang |journal = Fungal Diversity | year=2014|volume= 64|pages=123–31|doi= 10.1007/s13225-013-0260-7| s2cid=5341127 }}</ref> The deadly α and β [[amatoxin|amanitin]]s have been isolated from this fungus alongside an additional unidentified [[phallotoxin]].<ref name="Deng 2011"/> Findings indicate that the concentrations of amatoxins and phallotoxins in ''A.&nbsp;fuliginea'' vary among its tissues and developmental stages. Toxin levels were found to be highest in the gills, with peak concentrations occurring during the fruiting body's vigorous growth stage.<ref name="Zhou 2017"/>
+
+==See also==
+*[[List of Amanita species|List of ''Amanita'' species]]
+*[[List of deadly fungus species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Deng 2011">{{cite journal |vauthors=Deng WQ, Li TH, Xi PG, Gan LX, Xiao ZD, Jiang ZD |title=Peptide toxin components of ''Amanita exitialis'' basidiocarps |journal=Mycologia |year=2011 |volume=103 |issue=5 |pages=946–9 |doi=10.3852/10-319 |pmid=21471295|s2cid=21838589 |url=https://zenodo.org/record/1038605 }}</ref>
+
+<ref name="Hongo 1953">{{cite journal |author =Hongo T. |title=Larger fungi of the provinces of Omi and Yamashiro (4) |journal=Journal of Japanese Botany |year=1953 |volume=28 |pages=69–75|doi=10.51033/jjapbot.28_3_3541}}</ref>
+
+<ref name="urlAmanitaceae: Amanita fuliginea">{{cite web |author =Tulloss RE |title=''Amanita fuliginea'' |url=http://www.amanitaceae.org/?Amanita%20fuliginea |publisher=Amanitaceae.org |accessdate=2014-11-30}}</ref>
+
+<ref name="Zhou 2017">{{cite journal |vauthors=Zhou Q, Tang SS, He ZM, Luo T, Chen ZH, Zhang P |title=Amatoxin and phallotoxin concentrations in amanita fuliginea: Influence of tissues, developmental stages and collection sites |journal=Mycoscience |year=2017 |volume=58 |issue=4 |pages=267–273 |doi=10.1016/j.myc.2017.03.003 |doi-access=free }}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|292451}}
+
+{{Amanitas}}
+{{Poisonous Amanitas}}
+{{Taxonbar|from=Q19595858}}
+
+[[Category:Fungi described in 1953]]
+[[Category:Fungi of Asia]]
+[[Category:Deadly fungi]]
+[[Category:Amanita|fuliginea]]
+[[Category:Fungus species]]
+
+
+{{Agaricales-stub}}

@@ -1,0 +1,69 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{Speciesbox
+| image = Limacella illinita 5775848.jpg
+| image_caption =
+| genus = Zhuliangomyces
+| species = illinitus
+| authority = (Fries) Redhead<ref name=aman>{{cite web|title=''Limacella illinita''|url=http://www.amanitaceae.org/?Zhuliangomyces%20illinitus|work=Amanitaceae.org}}</ref>
+| synonyms = *''Agaricus illinitus''
+*''Limacella illinita''
+*''Mastocephalus illinitus''
+| synonyms_ref = 
+}}
+{{Mycomorphbox
+| name = ''Zhuliangomyces illinitus''
+| whichGills = free
+| capShape = convex
+| capShape2 = flat
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = saprotrophic
+| sporePrintColor = cream
+| sporePrintColor2 = white
+| howEdible = unknown
+}}
+{{stack end}}
+
+'''''Zhuliangomyces illinitus''''' is a mushroom-forming fungus species of genus ''Zhuliangomyces'' in the family [[Amanitaceae]] in the order [[Agaricales]]. It has recently been known as '''''Limacella illinita''''', and previously as ''Agaricus illinitus'' and ''Mastocephalus illinitus''. The fungus is known for its distinctive slimy cap, for which it is commonly known as the '''dripping slimecap''' or the '''overflowing slimy stem'''.<ref name=aman/> As ''L.&nbsp;illinita'', it was commonly known as the '''white limacella'''.<ref name=Arora1986>{{Cite book |last=Arora |first=David |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/292/mode/2up |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |orig-date=1979 |edition=2nd |pages=292}}</ref>
+
+== Taxonomy ==
+''Zhuliangomyces illinitus'' was originally described by [[Elias Magnus Fries|Elias M. Fries]] in 1812 as a member of ''[[Lepiota]]'', and later changed (again by Fries) in 1874 to the subgroup ''Viscosae.''<ref name=":0">{{Cite web |title=Papers of the Michigan Academy of Science, Arts, and Letters. v.30 (1944). |url=https://hdl.handle.net/2027/mdp.39015071693472?urlappend=%3Bseq=3 |access-date=2023-11-06 |website=HathiTrust | hdl=2027/mdp.39015071693472?urlappend=%3Bseq=3 |language=en}}</ref> Amanitella Maire reclassified ''Agaricus illinitus'' as ''Limacella'' ''illinita'' in 1914.<ref name=":0" /> ''Z.&nbsp;illinitus'' is part of the Amanitaceae family, with its closest relatives being the ''Limacella'' and ''[[Amanita]]'' genera, the species originally belonging to the ''Limacella'' genus until 2018''.''<ref name=":1">{{Cite journal |last=Hutchison |first=Leonard J. |date=1988 |title=Notes on Limacella Illinita in Pure Culture |url=https://www.tandfonline.com/doi/full/10.1080/00275514.1988.12025507 |journal=Mycologia |language=en |volume=80 |issue=1 |pages=111–114 |doi=10.1080/00275514.1988.12025507 |issn=0027-5514|url-access=subscription }}</ref> Though ''Zhuliangomyces''<nowiki/>'s placement was originally based on the similar morphologies between itself and the ''Amanita'' genus, a phylogenetic analysis performed in 2000 confirmed this through both [[Maximum parsimony (phylogenetics)|maximum parsimony]] and [[Maximum likelihood estimation|maximum likelihood]] analyses.<ref>{{Cite journal |last1=Moncalvo |first1=Jean-Marc |last2=Lutzoni |first2=François M. |last3=Rehner |first3=Stephen A. |last4=Johnson |first4=Jacqui |last5=Vilgalys |first5=Rytas |date=2000 |title=Phylogenetic Relationships of Agaric Fungi Based on Nuclear Large Subunit Ribosomal DNA Sequences |url=http://academic.oup.com/sysbio/article/49/2/278/1687075/Phylogenetic-Relationships-of-Agaric-Fungi-Based |journal=Systematic Biology |language=en |volume=49 |issue=2 |pages=278–305 |doi=10.1093/sysbio/49.2.278 |pmid=12118409 |issn=1076-836X|url-access=subscription }}</ref>
+
+In 2018, a study proposed splitting the ''Limacella'' genus into three separate genera, due to morphological differences in members’ stipes and pileus structures, with ''L.&nbsp;illinita'' being reclassified as ''Myxoderma illinitum.''<ref name=":2">{{Cite journal |last=Yang, Cai, & Cui |date=2018 |title=Phylogeny, diversity and morphological evolution of Amanitaceae |url=https://www.austriaca.at/buecher/files/Biosystematics_and_Ecology_Series/Biodiversity_and_Ecology_of_Fungi_Lichens_and_Mosses/110_82191_yang_359-380.pdf;internal&action=dialog.ebc.action&Parameter=uid=ggraner |journal=Biosystematics and Ecology |volume=34 |pages=359–380}}</ref> Due to the pre-existence of a [[Cyanobacteria]] clade by the same name, the new genera was then renamed ''Zhuliangomyces'' by Scott A. Redhead'','' giving ''Myxoderma illinitum'' the new classification ''Zhuliangomyces illinitus.''<ref>{{Cite web |title=Genus Record Details |url=https://www.indexfungorum.org/Names/genusrecord.asp?RecordID=555403 |access-date=2023-11-06 |website=www.indexfungorum.org}}</ref>
+
+== Description ==
+The cap ([[Pileus (mycology)|pileus]]) is whitish or gray-brown and between {{Convert|2–7|cm|frac=4}} in width. The caps are roundish at first and typically become convex then plane with age. They can have a broad umbo, with a smooth or slimy surface, and slimy veil remnants hanging from the margin.<ref name="Rogers">{{cite web |title=Limacella illinita |url=http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6342.asp |url-status=dead |archive-url=https://web.archive.org/web/20111107082243/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6342.asp |archive-date=2011-11-07 |publisher=Rogers Mushrooms}}</ref><ref name="Book ref">{{cite book |last=Bessette |first=Alan |title=Mushrooms of northeastern North America |author2=Arleen Rainis Bessette |author3=David William Fischer |publisher=[[Syracuse University Press]] |year=1997 |isbn=0-8156-2707-6 |location=New York |page=194 |chapter=Gilled Mushrooms |chapter-url=https://books.google.com/books?id=T2uU12XcRD4C&q=Limacella+illinita&pg=PA194}}</ref> The gills are white. They are free from the stalk, non-waxy, close, broad, and white in color.<ref name="Rogers" /><ref name="Book ref" /> The spores are between 4–6.5&nbsp;[[μm]], smooth, and generally spherical.<ref name="Rogers" /><ref name="Book ref" /><ref name=":3">{{Cite book |last1=Bessette |first1=Alan E. |url=https://www.degruyter.com/document/doi/10.7560/318157/html |title=Mushrooms of the Gulf Coast States: A Field Guide to Texas, Louisiana, Mississippi, Alabama, and Florida |last2=Bessette |first2=Arleen F. |last3=Lewis |first3=David P. |date=2019-12-31 |publisher=University of Texas Press |isbn=978-1-4773-1816-4 |doi=10.7560/318157}}</ref> The [[spore print]] is white.<ref name="Arora1986" />
+
+The stalk is typically 5–10&nbsp;cm long and can stain brown when bruised. It tapers a bit towards the top. It is fleshy, soft and has a ring. White in color, it is also sticky and slimy,<ref name="Rogers" /><ref name="Book ref" /> as is the flesh of the fruit body.<ref name="Rogers" /><ref name="Book ref" /> Its edibility is unknown, with the slime being a deterrent against culinary interest.<ref name="Arora1986" />
+
+The translucent slime on the fresh cap is part of the [[universal veil]] of the fungus that does not leave the volva when mature.<ref name=":3" /> This slimy veil is a key difference between the ''Zhuliangomyces'' genus and its relative ''Amanita.'' Another difference between the two is that the uppermost layer of [[hyphae]] of ''Z.&nbsp;illinitus''<nowiki/>' pileus is composed of narrow, subcylindrical terminal cells.<ref name=":2" /> For the newly defined ''Zhuliangomyces'', the key difference between members of this genus and the ''Limacella'' genus is the lack of a rudimentary annulus and the presence of slimy, smooth stalk.<ref name=":2" />
+
+== Ecology ==
+According to Hutchinson (1998), the fungus was expected to be facultatively [[mycorrhiza]]l, in which the fungus draws its nutrients from a symbiotic relationship with plant roots. However, in a laboratory setting, it was found that this species does not form ectomycorrhizal relationships with plant roots.<ref name=":1" /> It has since been assumed that the members of this species are [[Saprotrophic nutrition|saprobic]], although more research is required to fully determine this. This mushroom can be found in North America, parts of Europe, and China.<ref name=":4">{{Cite journal |last1=Cui |first1=Yang-Yang |last2=Cai |first2=Qing |last3=Tang |first3=Li-Ping |last4=Liu |first4=Jian-Wei |last5=Yang |first5=Zhu L. |date=2018 |title=The family Amanitaceae: molecular phylogeny, higher-rank taxonomy and the species in China |url=https://link.springer.com/10.1007/s13225-018-0405-9 |journal=Fungal Diversity |language=en |volume=91 |issue=1 |pages=5–230 |doi=10.1007/s13225-018-0405-9 |issn=1560-2745|url-access=subscription }}</ref> It is typically found scattered in temperate mixed forests, swamps, and grass lawns, growing in scattered formations.<ref name=":4" />
+
+== Biology ==
+
+
+''Zhuliangomyces illinitus'' is not currently considered economically important for humans, and its full ecological impact is unknown. In 2007, a study identified 4 unique bioactive compounds produced by ''Z.&nbsp;illinitus in vitro''.<ref name=":5">{{Cite journal |last1=Gruhn |first1=Nina |last2=Schoettler |first2=Sylvia |last3=Sterner |first3=Olov |last4=Anke |first4=Timm |date=2007-12-01 |title=Biologically Active Metabolites from the Basidiomycete Limacella illinita (Fr.) Murr. |journal=Zeitschrift für Naturforschung C |language=en |volume=62 |issue=11–12 |pages=808–812 |doi=10.1515/znc-2007-11-1206 |issn=1865-7125|doi-access=free }}</ref> Two illinitones (compounds 1 and 2) and one limcellone (compound 3), along with compound 4a, 11-Desoxyeleganthol, were isolated from the fermentative product of ''Z.&nbsp;illinitus.'' Compounds 2 and 3 exhibited some cytotoxic effects, while Compound 1 exhibited nematocidal activity when introduced to ''[[Caenorhabditis elegans]]''. Compounds 1 and 3 both also inhibited the growth of plant shoots at high concentrations, with Compound 1 also affecting root growth.<ref name=":5" /> The biological activity of Compound 4a remains undescribed. None of the isolated molecules displayed any antibacterial properties.<ref name=":5" />
+
+==Distribution and habitat==
+''L. illinita'' is widely distributed in North America and often found in Europe. These can habitat singly, scattered, or in groups in [[wood]]s, [[Field (agriculture)|field]]s, [[lawn]]s, [[road]]sides and [[sand dune]]s.<ref name="Arora1986" />
+
+In North America, the mushrooms are in season between August or July and October or November.<ref name="Rogers" /><ref name="Book ref" />
+
+==Bioactive compounds==
+
+
+A study in 2007 discovered four new [[Bioactive compound|bioactive]] [[Chemical compound|compound]]s from [[basidiomycete]]s, isolated from [[Fermentation (biochemistry)|fermentations]] of ''L.&nbsp;illinita'': Illinitone A that exhibited weak [[phytotoxic]] and moderate nematicidal activities against ''Caenorhabditis elegans'', Illinitone B that was moderately [[cytotoxic]], Limacellone that exhibited weak [[cytotoxic]] and [[phytotoxic]] activities and muurolane sesquiterpene 4a that was found to be inactive in the assays performed there.<ref>{{cite journal|last=Gruhn|first=Nina|author2=Sylvia Schoettler |author3=Olov Sterner |author4=Timm Anke |title=Biologically active metabolites from the basidiomycete Limacella illinita (Fr.) Murr.|journal=Zeitschrift für Naturforschung C|year=2007|volume=62|issue=11–12|pmid=18274282|pages=808–812|publisher=Department of Biotechnology, University of Kaiserslautern.|location=Germany|doi=10.1515/znc-2007-11-1206|s2cid=19327597|issn=0939-5075|doi-access=free}}</ref>
+
+== References ==
+{{Reflist}}
+
+{{Taxonbar|from=Q104862057|from2=Q3915457}}
+
+[[Category:Amanitaceae]]
+[[Category:Fungus species]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Europe]]
+[[Category:Taxa named by Elias Magnus Fries]]

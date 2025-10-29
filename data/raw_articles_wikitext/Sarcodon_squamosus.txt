@@ -1,0 +1,35 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = 2009-11-30 Sarcodon squamosus 1 29275.jpg
+| image_caption =
+| genus = Sarcodon
+| species = squamosus
+| authority = ([[Schaeff.]]) [[P.Karst]] (1889)
+| synonyms_ref = 
+| synonyms = ''Hydnum squamosum''<small>Schaeff. (1774)</small>
+}}
+
+'''''Sarcodon squamosus''''' is a species of [[Basidiomycota|basidiomycete]] [[fungus]] in the genus ''[[Sarcodon]]''.
+
+== Description ==
+It is an edible mushroom that was previously regarded as a subspecies of ''[[Sarcodon imbricatus]]''. For many years, ''S. imbricatus'' was described associated with both spruce and pine, although the latter forms were smaller and noted to be more palatable by mushroom hunters in Norway. [[Molecular phylogenetics|Molecular]] analysis of the DNA revealed the two forms to be distinct genetically, and thus populations of what had been described as ''S.&nbsp;imbricatus'' were now assigned to ''Sarcodon squamosus'', which includes collections in the British Isles and the Netherlands.The mushroom often grows in large [[fairy ring]]s near [[pine heath]]s and in rocky flat soil. The cap is {{Convert|10 to 25|cm|frac=2}} wide,<ref name="tfb">{{Cite book |last=Francis-Baker |first=Tiffany |title=Concise Foraging Guide |date=2021 |publisher=[[Bloomsbury Publishing|Bloomsbury]] |isbn=978-1-4729-8474-6 |series=[[The Wildlife Trusts]] |location=London |pages=122}}</ref> shallowly funnel-shaped. The color is white, turning brownish-purple with age.<ref name="tfb" /> The [[pileipellis]] has dark scales that are placed in concentric circles. They belong to growing areas with old trees where both the forest type and the growth type have a long continuity and they do not withstand complete felling.
+
+== Edibility and uses ==
+When young, the smell is pleasant and the taste is mild; older mushrooms may taste bitter.<ref name="Luontoportti" /> It can be cooked and mixed with other mushrooms, and stored in oil or [[cider vinegar]].<ref name="tfb" />
+
+From the point of view of [[Natural dye|mushroom dyeing]], it is significant as one of the only mushroom species that can dye with shades of blue.<ref>{{cite book|author=Pertti Salo, Tuomo Niemelä, Ulla Salo|date=2006|isbn=951-0-30359-3|location=Helsinki|publisher=WSOY : Luonnontieteellinen keskusmuseo, kasvimuseo|title=Suomen sieniopas}}<!-- auto-translated by Module:CS1 translator --></ref> Brown shades are obtained from young mushrooms, while older, almost mature ones give rarer shades of blue, turquoise and green.<ref name="Luontoportti">{{cite web|access-date=2017-11-25|title=Luontoportti: Männynsuomuorakas ''Sarcodon squamosus''|url=http://www.luontoportti.com/suomi/fi/sienet/mannynsuomuorakas}}<!-- auto-translated by Module:CS1 translator --></ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{IndexFungorum|450938}}
+
+{{Taxonbar|from=Q3845782}}
+
+[[Category:Fungi described in 1774]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Sarcodon|squamosus]]
+[[Category:Taxa named by Jacob Christian Schäffer]]
+[[Category:Fungus species]]

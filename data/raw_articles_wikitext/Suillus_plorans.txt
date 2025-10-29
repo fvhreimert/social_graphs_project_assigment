@@ -1,0 +1,40 @@
+{{Short description|Species of fungus}}
+{{Expand German|topic=scitech|Zirben-Röhrling|date=December 2013}}
+{{Expand Romanian|topic=scitech|Suillus plorans|date=March 2021}}
+
+{{Speciesbox
+| image = Suillus plorans 211063.jpg
+| genus = Suillus
+| species = plorans
+| authority = ([[Léon Louis Rolland|Rolland]]) [[Otto Kuntze|Kuntze]] (1898)
+| synonyms_ref = <ref name="urlMycoBank: Suillus plorans"/>
+| synonyms = ''Boletus plorans'' <small>Rolland (1889)</small>
+}}
+
+'''''Suillus plorans''''' is an [[edible mushroom|edible]] species of [[mushroom]] in the genus ''[[Suillus]]''. The species was originally named ''Boletus plorans'' by [[Léon Louis Rolland]] before transferred to ''[[Suillus]]'' by [[Otto Kuntze]] in 1898.<ref name=Kuntze1898/> Although known as a predominantly European fungus, the species was recorded in Mexico in 1982.<ref name=Cappello1982/>
+
+==References==
+{{Reflist|refs=
+
+<ref name=Cappello1982>{{cite journal |author=Cappello S, Cifuentes J. |title=New records of the genus ''Suillus'' (Boletaceae) from Mexico |journal=Boletin de la Sociedad Mexicana de Micologia |year=1982 |issue=17 |pages=196–206 |language=Spanish}}</ref>
+
+<ref name=Kuntze1898>{{cite book |author=Kuntze O. |title=Revisio generum plantarum |year=1898 |volume=3 |location=Leipzig, Germany |publisher=A. Felix |language=Latin |page=535 |url=https://www.biodiversitylibrary.org/page/3752}}</ref>
+
+<ref name="urlMycoBank: Suillus plorans">{{cite web |url=http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=26660&Fields=All |title=''Suillus plorans'' (Rolland) Kuntze 1898 |publisher=[[MycoBank]]. International Mycological Association  |accessdate=2012-04-07}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|356929}}
+
+{{Taxonbar|from=Q205568}}
+
+[[Category:Suillus|plorans]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of Mexico]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1889]]
+[[Category:Fungi without expected TNC conservation status]]
+
+
+{{Boletales-stub}}

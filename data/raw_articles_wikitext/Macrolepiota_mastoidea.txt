@@ -1,0 +1,62 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Zitzen-Riesenschirmling Macrolepiota mastoidea.JPG
+| genus = Macrolepiota
+| species = mastoidea
+| authority =  (Fr.) Singer, 1951
+| synonyms =  *''Agaricus mastoideus'' Fr., 1821
+*''Lepiota mastoidea'' (Fr.) P. Kumm., 1871
+*''Lepiota excoriata'' subsp. mastoidea (Fr.) Quél.1888
+*''Leucocoprinus mastoideus'' (Fr.) Singer 1939
+*''Lepiotophyllum mastoideum'' (Fr.) Locq., 1942
+*''Agaricus gracilentus'' Krombh., 1836
+*''Lepiota rickenii'' Velen., 1939
+*''Lepiota excoriata'' var. konradii Huijsman, 1943
+*''Lepiota konradii'' Huijsman ex P.D. Orton, 1960
+}}
+{{Mycomorphbox
+| name = ''Macrolepiota mastoidea''
+| hymeniumType = gills
+| capShape = umbonate
+| whichGills = free
+| stipeCharacter = ring
+| sporePrintColor = white
+| ecologicalType = saprotrophic
+| howEdible = edible
+| capShape2 = flat
+| sporePrintColor2 = cream
+}}
+
+'''''Macrolepiota mastoidea''''' is a species of [[mushroom]] producing [[fungus]] in the family [[Agaricaceae]].<ref name=":0">{{Cite web |title=Species Fungorum - Macrolepiota mastoidea (Fr.) Singer, Lilloa 22: 417 (1951) |url=http://www.speciesfungorum.org/Names/GSDSpecies.asp?RecordID=299971 |access-date=2022-07-29 |website=www.speciesfungorum.org}}</ref><ref>{{Cite web |title=Mycobank Database - Macrolepiota mastoidea |url=https://www.mycobank.org/page/Name%20details%20page/name/Macrolepiota%20mastoidea |access-date= |website=Mycobank Database - www.mycobank.org}}</ref>
+
+== Taxonomy ==
+It was first [[Species description|described]] by many mycologists throughout the 1800s and classified variously as ''Agaricus gracilentus'', ''Agaricus mastoideus'', ''Agaricus umbonatus'' with each [[Synonym (taxonomy)|synonym]] then undergoing its own extensive period of reclassification.<ref name=":0" /> It got its current name ''Macrolepiota mastoidea'' in 1951 when classified by the German mycologist [[Rolf Singer]].<ref>{{Cite web |title=Lilloa 22 (1949) |url=http://www.lillo.org.ar/journals/index.php/lilloa/issue/view/149 |access-date=2022-07-29 |website=www.lillo.org.ar |page=417 |language=es-ES}}</ref>
+
+== Description ==
+It grows up to {{Convert|15|cm|frac=4}} wide and tall. The cap is white with brown scales in the center. The stem has a [[Annulus (mycology)|ring]] and is enlarged at the base.<ref name="tfb">{{Cite book |last=Francis-Baker |first=Tiffany |title=Concise Foraging Guide |date=2021 |publisher=[[Bloomsbury Publishing|Bloomsbury]] |isbn=978-1-4729-8474-6 |series=[[The Wildlife Trusts]] |location=London |pages=146}}</ref>
+
+=== Similar species ===
+It can appear similar to some toxic ''[[Chlorophyllum]]'' species.<ref name=":1" />
+
+== Habitat and distribution ==
+This species is found in Europe<ref name=":1" /> from August to November.<ref name="tfb" />
+
+== Edibility ==
+The species is reported to be [[Edible mushroom|edible]], sans the tough stem,<ref name="tfb" /> but it can appear similar to some toxic species.<ref name=":1">{{Cite web |title=Macrolepiota mastoidea, Slender Parasol, identification |url=https://www.first-nature.com/fungi/macrolepiota-mastoidea.php |access-date=2022-07-29 |website=www.first-nature.com}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{MycoBank|299971}}
+
+{{Taxonbar|from=Q206727}}
+
+[[Category:Edible fungi]]
+[[Category:Agaricaceae]]
+[[Category:Fungus species]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungi described in 1821]]
+
+
+{{Agaricales-stub}}

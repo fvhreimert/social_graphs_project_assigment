@@ -1,0 +1,58 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image =Leucopaxillus albissimus (4496737529).jpg
+| image_caption =
+| genus= Leucopaxillus
+| species = albissimus
+| authority = ([[Charles Horton Peck|Peck]]) [[Rolf Singer|Singer]] (1939)
+| synonyms = *''Agaricus albissimus'' <small>Peck (1873)</small>
+}}
+{{mycomorphbox
+| name = ''Leucopaxillus albissimus''
+| whichGills = decurrent
+| capShape = convex
+| capShape2 = flat
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = saprotrophic
+| sporePrintColor = white
+| howEdible = inedible
+}}
+
+'''''Leucopaxillus albissimus''''', commonly known as the '''large white leucopaxillus''',<ref name=Arora1986>{{Cite book |last=Arora |first=David |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/164/mode/2up |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |orig-date=1979 |edition=2nd |pages=167–168}}</ref> is a species of mushroom that lives as a [[saprobe]], decaying the litter under [[conifer]]ous trees. It produces a large white fruiting body that is unusually resistant to decay. It is considered inedible.
+
+==Description==
+The species is generally white, with ''albissimus'' meaning 'whitest' in [[Latin]].<ref name=":0">{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=111}}</ref>
+
+The [[pileus (mycology)|cap]] is {{Convert|4–20|cm|frac=2}} wide, exceptionally up to 40&nbsp;cm,<ref name=Arora1986/> and slowly changes from convex to plane; occasionally the disc is depressed. When young, the margin is incurved and faintly striate. The cap's surface is dry, unpolished, and smooth; in moderate weather, it becomes scaled and a shade of cream to cream-buff.<ref>McKenny et al.: p. 83</ref> As it ages, the cap's surface turns buff-tan. Overall, the [[trama (mycology)|flesh]] is white, moderately thick, and has a mild odor.<ref name="Expert">{{cite web|url=https://www.mushroomexpert.com/leucopaxillus_albissimus.html|title=Leucopaxillus albissimus|last=Kuo|first=M.|date=February 2007|publisher=MushroomExpert.Com |access-date=2009-06-18}}</ref>
+
+The [[lamella (mycology)|gills]] are crowded, broad, and [[decurrent]]. Although they are originally cream-colored, the gills turn buff-tan with age.<ref name=Arora1986/> Varying from 3–7&nbsp;cm in length, the [[stipe (mycology)|stipe]] is 2.5–4&nbsp;cm thick, stout, and often enlarged at the base. The surface of the stipe varies from smooth to finely-scaled and is a cream color when young; it may turn buff-tan in age. When handled, it bruises pale buff-brown at the base.<ref>Arora (1991): p. 58</ref>
+
+The [[spore print]] is white. The elliptical [[basidiospore|spores]] are ornamented with [[Amyloid (mycology)|amyloid]] warts. The spores measure 5–7 x 3.5–5&nbsp;[[μm]].<ref name="Lincoff1981">{{cite book |author=Lincoff GH| title=The Audubon Society field guide to North American mushrooms | year=1981 | publisher=Alfred A. Knopf | isbn=0-394-51992-2}}</ref>
+
+The species demonstrates a tendency not to rot, with the biological reason for this unknown.<ref name=":0" /><ref name="urlRogers">{{cite web |title=Rogers Mushrooms ; Mushroom Pictures & Mushroom Reference |url=http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6336.asp |url-status=dead |archive-url=https://web.archive.org/web/20080704141421/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6336.asp |archive-date=2008-07-04 |access-date=2009-06-18}}</ref><ref>{{cite web |last=Wood |first=Michael |author2=Stevens, Fred |title=California Fungi—Leucopaxillus albissimus |url=https://www.mykoweb.com/CAF/species/Leucopaxillus_albissimus.html |access-date=2009-06-18 |publisher=MykoWeb}}</ref>
+
+{{gallery|mode=packed
+|Leucopaxillus albissimus spores.jpg|Spores
+}}
+
+=== Similar species ===
+''[[Leucopaxillus gentianeus]]'' is closely related. ''[[Clitocybe]]'' species may appear similar due to the decurrent gills.<ref>{{Cite book |last1=Davis |first1=R. Michael |title=Field Guide to Mushrooms of Western North America |last2=Sommer |first2=Robert |last3=Menge |first3=John A. |publisher=[[University of California Press]] |year=2012 |isbn=978-0-520-95360-4 |location=Berkeley |pages=138 |oclc=797915861}}</ref>
+
+== Habitat ==
+Primarily residing under [[conifer]]s and hardwoods, ''L.&nbsp;albimissus'' is often scattered or gregarious in arcs or rings. It fruits from mid to late winter in California, and in autumn in other parts of North America.<ref>Miller: sp. 160</ref>
+
+==Edibility==
+It is considered inedible,<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |publisher=Firefly Books |year=2010 |isbn=978-1-55407-651-2 |location=Buffalo, NY |page=67}}</ref> resisting all but the most thorough cooking.<ref name=Arora1986/>
+
+==References==
+{{Reflist|2}}
+
+{{Taxonbar|from=Q6534177}}
+
+[[Category:Fungi described in 1873]]
+[[Category:Fungi of North America]]
+[[Category:Inedible fungi]]
+[[Category:Taxa named by Charles Horton Peck]]
+[[Category:Tricholomataceae]]
+[[Category:Fungus species]]

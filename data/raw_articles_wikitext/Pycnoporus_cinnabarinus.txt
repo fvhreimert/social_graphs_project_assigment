@@ -1,0 +1,52 @@
+{{Short description|Species of fungus}}
+{{Italic title}}
+{{Speciesbox
+| image= Pycnoporus cinnabarinus (Jacq.) P. Karst 153.jpg
+| genus = Pycnoporus
+| species = cinnabarinus
+| authority = ([[Jacq.]]) [[P.Karst.]] (1881)
+| synonyms = 
+*''Boletus cinnabarinus'' <small>Jacq. (1776)</small>
+*''Trametes cinnabarina''  <ref>{{cite web |title=Trametes cinnabarina |url=https://www.messiah.edu/Oakes/fungi_on_wood/poroid%20fungi/species%20pages/Trametes%20cinnabarina.htm |website=www.messiah.edu |access-date=6 June 2024}}</ref>
+}}{{Mycomorphbox
+| name = ''Pycnoporus cinnabarinus''
+| hymeniumType = pores
+| capShape = NA
+| whichGills = NA
+| stipeCharacter = NA
+| ecologicalType = saprotrophic
+| howEdible = inedible
+}}
+
+'''''Pycnoporus cinnabarinus''''', also known as the '''cinnabar polypore''', is a saprophytic, [[white rot]] decomposer.
+
+Its [[sporocarp (fungi)|fruit body]] is a bright orangish [[shelf fungus]] up to {{Convert|12|cm|frac=4}} across and {{Convert| 1.5|cm|abbr=on|frac=8}} thick. It stains dark in [[KOH test|potassium hydroxide]].<ref name="Arora19862">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/597/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=597 |orig-date=1979}}</ref> There 2–4 pores per mm. The [[spore print]] is white.<ref name="Arora19862" />
+
+It is common in many areas and is widely distributed throughout the world.{{Citation needed|date=June 2025}} It is inedible.<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |url=https://archive.org/details/mushroomsotherfu0000phil |url-access=registration |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=[https://archive.org/details/mushroomsotherfu0000phil/page/304 304]}}</ref> It produces [[cinnabarinic acid]] to protect itself from bacteria.<ref>Eggert C. Laccase-catalyzed formation of cinnabarinic acid is responsible for antibacterial activity of Pycnoporus cinnabarinus. ''Microbiol Res''. 1997;152(3):315-318. {{doi|10.1016/S0944-5013(97)80046-8}}</ref>
+
+== Ecology ==
+''Pycnoporus cinnabarinus'' contribute to forest ecological heath by breaking down [[lignin]] in the wood of dead trees.<ref>{{Cite journal |last1=X. |first1=Geng |last2=K. |first2=Li |date=2002-11-01 |title=Degradation of non-phenolic lignin by the white-rot fungus Pycnoporus cinnabarinus |url=https://doi.org/10.1007/s00253-002-1124-3 |journal=Applied Microbiology and Biotechnology |volume=60 |issue=3 |pages=342–346 |doi=10.1007/s00253-002-1124-3 |pmid=12436317 |issn=0175-7598|url-access=subscription }}</ref> Its ability to break down lignin facilitates nutrient cycling in mostly deciduous and temperate woodlands that contain hardwoods. Although primarily recognized as a saprophytic fungus, it has also been observed in [[Mycorrhiza|mycorrhizal]] relationships under certain forest conditions which is not fully understood.<ref>{{Cite journal |last1=Garibay-Orijel |first1=Roberto |last2=Córdova |first2=Juan |last3=Cifuentes |first3=Joaquín |last4=Valenzuela |first4=Ricardo |last5=Estrada-Torres |first5=Arturo |last6=Kong |first6=Alejandro |date=June 2009 |title=Integrating wild mushrooms use into a model of sustainable management for indigenous community forests |url=https://linkinghub.elsevier.com/retrieve/pii/S0378112709002497 |journal=Forest Ecology and Management |language=en |volume=258 |issue=2 |pages=122–131 |doi=10.1016/j.foreco.2009.03.051|bibcode=2009ForEM.258..122G |url-access=subscription }}</ref>
+
+This species has also drawn attention for its potential biotechnological applications one of which includes natural flavor production and [[green chemistry]].<ref>{{Cite journal |last1=Lesage-Meessen |first1=Laurence |last2=Lomascolo |first2=Anne |last3=Bonnin |first3=Estelle |last4=Thibault |first4=Jean-Francois |last5=Buleon |first5=Alain |last6=Roller |first6=Marc |last7=Asther |first7=Michele |last8=Record |first8=Eric |last9=Ceccaldi |first9=Benoit Colonna |last10=Asther |first10=Marcel |date=2002 |title=A Biotechnological Process Involving Filamentous Fungi to Produce Natural Crystalline Vanillin from Maize Bran |url=https://doi.org/10.1385/abab:102-103:1-6:141 |journal=Applied Biochemistry and Biotechnology |volume=102-103 |issue=1–6 |pages=141–154 |doi=10.1385/abab:102-103:1-6:141 |issn=0273-2289|url-access=subscription }}</ref>
+
+== Uses ==
+
+=== Biotechnical applications ===
+One of the notable uses of ''P. cinnabarinus'' involving biotechnology is its ability to produce enzymes such as [[Laccase|laccases]] and [[Oxidase|oxidases]]. Particularly its well studied use in the bioconversion of [[ferulic acid]] to [[vanillin]], a valuable natural flavoring agent. This fungus demonstrates potential for natural vanillin production without the addition of synthetic chemicals.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Commons inline|italic=on}}
+
+{{Taxonbar|from=Q205101}}
+
+[[Category:Fungi described in 1776]]
+[[Category:Inedible fungi]]
+[[Category:Polyporaceae]]
+[[Category:Fungus species]]
+
+
+{{Polyporales-stub}}
+{{plant-disease-stub}}

@@ -1,0 +1,39 @@
+{{Short description|Species of fungus}}
+{{single source|date=October 2025}}
+{{no footnotes|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption =
+| taxon = Gymnopilus chilensis
+| authority = [[Rolf Singer|Singer]]
+| synonyms =
+}}
+{{mycomorphbox
+| name = Gymnopilus chilensis
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+
+'''''Gymnopilus chilensis''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]].
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==External links==
+*[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=331587 Index Fungorum]
+
+{{Taxonbar|from=Q5624751}}
+
+{{DEFAULTSORT:Gymnopilus chilensis}}
+[[Category:Gymnopilus|chilensis]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

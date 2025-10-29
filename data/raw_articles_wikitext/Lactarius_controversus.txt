@@ -1,0 +1,61 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{Speciesbox
+| image = Lactarius controversus.jpg
+| genus = Lactarius
+| species = controversus
+| authority = ([[Christian Hendrik Persoon|Pers.]]) (1800)
+}}
+{{mycomorphbox
+| name = ''Lactarius controversus''
+| whichGills = decurrent
+| capShape = depressed
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=mycorrhizal
+| sporePrintColor=white
+| howEdible=inedible
+}}
+{{stack end}}
+
+'''''Lactarius controversus''''', commonly known as the '''poplar milkcap''',<ref name="Arora2nd" /> is a large funnel-capped [[fungus]] within the genus ''[[Lactarius (fungus)|Lactarius]]'', which are collectively known as 'milk caps'. They all exude milky drops (lactate) from the flesh and gills when damaged.
+
+The species is classified as inedible but has sometimes been collected in Eurasia.
+
+==Taxonomy==
+Accredited to [[Christian Hendrik Persoon]], one of the fathers of [[mycology]].
+
+==Description==
+It is distinguishable mainly by rosy markings on the upper [[pileus (mycology)|cap]] surface, often arranged in concentric rings, and its pinkish-buff [[Lamella (mycology)|gills]]. Like other fungi in the genus, it has crumbly, rather than fibrous, flesh, and when this is broken the fungus exudes a white milky latex. Mature specimens are funnel-shaped, with [[decurrent gills]] and a concave [[pileus (mycology)|cap]] from {{convert|5 to 20|cm|frac=2}} in diameter.<ref name="Arora2nd" /> The [[Stipe (mycology)|stipe]] is up to 7&nbsp;cm long.<ref name="Arora2nd" /> The flesh is firm and the [[spore print]] is creamy to pinkish.<ref name="Arora2nd" />
+
+=== Similar species ===
+The species is similar to several white milk-caps in the genus ''[[Lactifluus]]'' which however are only distantly related: The 'fleecy milk-cap' ''[[Lactifluus vellereus]]'', its sister species ''[[Lactifluus bertillonii|L.&nbsp;bertillonii]]'', and the 'peppery milk-cap' ''[[Lactifluus piperatus|L.&nbsp;piperatus]]''<ref name="Arora2nd" /> all lack the pinkish gills and 'rosy' cap markings.
+
+{{gallery|mode=packed
+|Lact.cont(3).jpg|Close-up of cap
+|Lact.cont(2).jpg|Cap underside
+}}
+
+==Distribution and habitat==
+It is found in Europe, including [[Great Britain|Britain]], and usually grows with species of ''[[Salix]]'' (goat willow or creeping willow) on [[heath]]s and moors. It is uncommon.<ref name="Phillips06">{{cite book | author = Roger Phillips | year = 2006  | title = Mushrooms | publisher = Pan MacMillan | isbn = 0-330-44237-6}}</ref> It is widespread in North America growing with [[aspen]], [[Populus|poplar]], and [[willow]]. Found in the aspen forests of the [[Sierra Nevada]], and has been noted in [[New Mexico]].<ref name="Arora2nd">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/70/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=70-71 |orig-date=1979}}</ref>
+
+==Edibility==
+The mushroom is considered inedible due to its very acrid taste (producing a burning sensation) ,<ref name="Arora2nd" /> but is eaten and even commercially collected in southeastern European countries such as [[Serbia]] and [[Turkey]].<ref>{{cite journal|url=https://www.researchgate.net/publication/276868135|title=Edible mycorrhizal species Lactarius controversus Pers. 1800 as a source of antioxidant and cytotoxic agents|date=January 2015|journal=Hemijska Industrija |volume=17(00):17-17|doi=10.2298/HEMIND141229017N|last1=Novakovic|first1=Aleksandra|last2=Karaman|first2=Maja|last3=Milovanovic|first3=Ivan|last4=Belovic|first4=Miona|last5=Raseta|first5=Milena|last6=Radusin|first6=Tanja|last7=Ilic|first7=Nebojsa|issue=2|pages=113–122|doi-access=free}}</ref>
+
+==See also==
+*[[List of Lactarius species|List of ''Lactarius'' species]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Commons-inline|italic=1}}
+
+{{Taxonbar|from=Q1575309}}
+
+[[Category:Lactarius|controversus]]
+[[Category:Inedible fungi]]
+[[Category:Fungi described in 1800]]
+[[Category:Fungi of Europe]]
+[[Category:Taxa named by Christiaan Hendrik Persoon]]
+[[Category:Fungus species]]

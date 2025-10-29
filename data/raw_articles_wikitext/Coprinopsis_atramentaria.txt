@@ -1,0 +1,98 @@
+{{Short description|Species of fungus}}
+{{About|a mushroom|its namesake|Common ink}}
+{{Good article}}
+{{stack begin}}
+{{Speciesbox
+| image = Coprinopsis atramentaria 3 - Lindsey.jpg
+| image_caption = 
+| status = G5
+| status_system = TNC
+| status_ref = <ref name=NS>{{cite NatureServe |id=2.921285 |title=''Coprinopsis atramentaria'' |access-date=23 April 2025}}</ref>
+| genus = Coprinopsis
+| species = atramentaria
+| authority = ([[Jean Baptiste François Pierre Bulliard|Bull.]]) Redhead, Vilgalys & Moncalvo (2001)
+| synonyms = ''Coprinus atramentarius''
+}}
+{{Mycomorphbox
+| name = ''Coprinopsis atramentaria''
+| whichGills = free
+| capShape = ovate
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = saprotrophic
+| sporePrintColor = blackish-brown
+| howEdible = edible
+| howEdible2 = poisonous
+}}
+{{stack end}}
+
+'''''Coprinopsis atramentaria''''', commonly known as the '''alcohol inky cap''''',''<ref>{{Cite book |last=Siegel |first=Noah |title=Mushrooms of Cascadia: A Comprehensive Guide to Fungi of the Pacific Northwest |last2=Schwartz |first2=Christian |date=September 1, 2024 |publisher=Backcountry Press |isbn=9781941624197 |location=Humboldt County, California |publication-date= |pages=91}}</ref> '''common ink cap''', '''tippler's bane''', or '''inky cap''', is a species of [[fungus]]. It is the second best-known [[ink cap]] after ''[[Coprinus comatus]]'', its former [[genus|congener]]. The grey-brown [[pileus (mycology)|cap]] is initially bell-shaped before opening, after which it flattens and disintegrates. The flesh is thin and the taste mild.
+
+It is a widespread and common throughout the Northern Hemisphere. Clumps of mushrooms arise after rain from spring to autumn, commonly in urban and [[disturbed habitat]]s such as [[vacant lot]]s and lawns, as well as grassy areas.  It can be eaten, but due to the presence of [[coprine]] within the mushroom, it is [[poison]]ous when consumed with [[alcoholic beverage|alcohol]], as it heightens the body's sensitivity to [[ethanol]] in a similar manner to the anti-alcoholism drug [[disulfiram]].
+
+== Taxonomy ==
+The common ink cap was first described by French naturalist [[Jean Baptiste François Pierre Bulliard|Pierre Bulliard]] in 1786 as ''Agaricus atramentarius'' before being placed in the large genus ''[[Coprinus]]'' in 1838 by [[Elias Magnus Fries]]. The [[specific name (botany)|specific epithet]] is derived from the [[Latin]] word ''atramentum'' "ink".<ref name=Nilper>{{cite book | author = Nilson S & Persson O | year = 1977 | title = Fungi of Northern Europe 1: Larger Fungi (Excluding Gill-Fungi) | publisher = Penguin|isbn=0-14-063005-8|page=72}}</ref>
+
+The genus was formerly considered to be a large one with well over 100 species. However, [[Molecular phylogenetics|molecular analysis]] of DNA sequences showed that most species belonged in the family [[Psathyrellaceae]], distinct from the [[type species]] that belonged to the [[Agaricaceae]]. It was given its current binomial name in 2001 as a result, as this and other species were moved to the new genus ''[[Coprinopsis]]''.<ref name="Red01">{{cite journal|year=2001|title=''Coprinus'' Pers. and the disposition of ''Coprinus'' species ''sensu lato''.|journal=Taxon|volume=50|issue=1|pages=203–41|doi=10.2307/1224525|jstor=1224525|author1=Redhead, Scott A|author2=Vilgalys, Rytas|author3=Moncalvo, Jean-Marc|author4=Johnson, Jacqui|author5=Hopple Jr. John S|publisher=International Association for Plant Taxonomy (IAPT) |bibcode=2001Taxon..50..203R }}</ref>
+
+The term "tippler's bane" is derived from its ability to create acute sensitivity to alcohol, similar to [[disulfiram]] (Antabuse).<ref name="arora86">{{Cite book |last=Arora |first=David |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/347/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |year=1986 |orig-date=1979 |edition=2nd |pages=347–48}}</ref> Other common names include common ink cap and inky cap. The black liquid that this mushroom releases after being picked was once used as ink.<ref>Hall, Ian; ''et al''. (August 1, 2003). ''Edible and Poisonous Mushrooms of the World''. Timber Press. Portland, Oregon. {{ISBN|978-0-88192-586-9}}. p. 198.</ref>
+
+==Description==
+
+Measuring {{convert|3-10|cm|frac=8}} in diameter, the greyish or brownish-grey [[pileus (mycology)|cap]]<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=206|oclc=797915861}}</ref> is furrowed, initially bell-shaped, and later more convex, splitting at the margin.<ref name="arora86" /> It melts from the outside in.<ref name="arora86" /> The very crowded [[Lamella (mycology)|gills]] are free; they are white at first, then grey or pinkish and turn black and deliquesce.<ref name="arora86" />
+
+The [[stipe (mycology)|stipe]] measures {{Cvt|5-17|cm|frac=8}} high by 1–2&nbsp;cm thick,<ref name=":0" /> is grey in colour, and lacks a ring. In young groups, the stems may be obscured by the caps.<ref>{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=196–197}}</ref> The [[spore print]] is black<ref>{{Cite book |last1=Pouliot |first1=Alison |url=https://books.google.com/books?id=6gQlEAAAQBAJ&dq=%22spore+print%22+%22Coprinopsis+atramentaria%22&pg=PA116 |title=Wild Mushrooming: A Guide for Foragers |last2=May |first2=Tom |date=March 2021 |publisher=[[Csiro Publishing]] |isbn=978-1-4863-1174-3 |pages=116 |language=en}}</ref><ref>{{Cite book |last=Baroni |first=Timothy J. |url=https://books.google.com/books?id=5eC-DgAAQBAJ&dq=%22spore+print%22+%22Coprinopsis+atramentaria%22&pg=PA330 |title=Mushrooms of the Northeastern United States and Eastern Canada |date=2017-07-12 |publisher=Timber Press |isbn=978-1-60469-634-9 |pages=330 |language=en}}</ref> and the almond-shaped [[basidiospore|spores]] measure 8–11 by 5–6&nbsp;[[μm]].<ref name="Phillips06">{{cite book | last = Phillips |first=Roger | year = 2006  | title = Mushrooms | publisher = Pan MacMillan | isbn = 0-330-44237-6|page= 258}}</ref> The [[trama (mycology)|flesh]] is thin and pale grey in colour.<ref name="arora86" />
+
+{{gallery|mode=packed
+|A group of common ink cap mushrooms.jpg|A group of young specimens
+}}
+
+=== Similar species ===
+It can resemble several less common species in its genus.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=597}}</ref>
+
+==Distribution and habitat==
+
+
+
+''Coprinopsis atramentaria'' occurs across the [[Northern Hemisphere]], including Europe, North America, and Asia,<ref>{{cite web|url=https://www.grzyby.pl/coprinus-site-Kees-Uljee/species/atrament.htm|title=Coprinus atramentarius (Bull.: Fr.) Fr. - Epicrisis: 243. 1838.|last=Uljé |first=Kees|work=Coprinus (studies in coprinus)|access-date=2009-07-31}}</ref> but has also been found in [[Australia]],<ref name=Fuh05>{{cite book |title=A Field Guide to Australian Fungi |author=Fuhrer B|year=2005|page=43|publisher=Bloomings Books|location=Melbourne|isbn=1-876473-51-7}}</ref> where it has been recorded from such urban locations as the [[Royal Botanic Gardens, Sydney|Royal Botanic Gardens]] in [[Sydney]] and around [[Lake Torrens National Park|Lake Torrens]],<ref name="Clel76">{{cite book | author= Cleland JB | year =1976| title = Toadstools and mushrooms and other larger fungi of South Australia | publisher = South Australian Government Printer |page =159}}</ref> and also in South Africa.<ref>{{cite journal |title=South African fungi 10: New species, new records and some new observations |first1=Derek A. |last1=Reid |first2=Albert |last2=Eicker |year=1999 |pages=169–97 |journal=Mycotaxon |volume=73}}<!-- http://www.mycotaxon.com/vol/73.html --></ref> Recent finds of ink caps (photographs inserted on the right) in [[Dunedin]] on [[New Zealand]]'s South Island have been identified as ''C.&nbsp;atramentaria'' and ''[[Coprinellus micaceus]]'', a related species which also releases a black ink once used for printing<ref>Hall, Ian; et al. (August 1, 2003). Edible and Poisonous Mushrooms of the World. Timber Press. Portland, Oregon. ISBN 978-0-88192-586-9. p. 198</ref> (though the exact species is still to be confirmed){{Better source needed|reason=A newer source that confirms whether the mushrooms are C. atramentaria or C. micaceus is necessary to fully update this sentence.|date=December 2022}} in the process known as deliquescence. 
+ 
+Like many ink caps, it grows in tufts. It is commonly associated with buried wood and is found in grassland, meadows, [[disturbed ground]], and open terrain from late spring to autumn. Fruiting bodies have been known to push their way up through [[Asphalt concrete|asphalt]]<ref name=Fuh05/> and even tennis courts.{{sfn|Ramsbottom|1953|p=128}} It is also common in urban areas and appears in vacant lots, and tufts of fungi can be quite large and fruit several times a year. If dug up, the [[mycelium]] can often be found originating on buried dead wood.{{sfn|Ramsbottom|1953|p=196}}
+
+==Toxicity and uses==
+
+, [[Kolkata]]]]
+
+The mushrooms are considered edible when young, but consuming them within a few hours of alcohol results in [[Disulfiram-alcohol reaction|disulfiram-like symptoms]].{{sfn|Benjamin|1995|p=284}}<ref name=michelot1992>{{cite journal |last1=Michelot |first1=Didier |title=Poisoning by ''Coprinus atramentarius'' |journal=Natural Toxins |volume=1 |issue=2 |pages=73–80 |year=1992 |pmid=1344910 |doi=10.1002/nt.2620010203 }}</ref> This interaction has only been known since the early part of the 20th century. Symptoms include facial reddening, nausea, vomiting, [[malaise]], agitation, [[palpitations]], and tingling in limbs, arising five to ten minutes after consumption of alcohol.{{sfn|Benjamin|1995|p=288}} If no more alcohol is consumed, they will generally subside over two or three hours. Symptom severity is proportional to the amount of alcohol consumed, becoming evident when blood alcohol concentration reaches 5&nbsp;mg/dl, and prominent at concentrations of 50–100&nbsp;mg/dl. Disulfiram has, however, been known to cause [[myocardial infarction]] (heart attack).<ref>{{EMedicine|article|817759|Disulfiramlike Mushroom Toxicity}}</ref> The symptoms can occur if even a small amount of alcohol is consumed up to three days after eating the mushrooms, although they are milder as more time passes.{{sfn|Benjamin|1995|p=289}} Rarely, a [[cardiac arrhythmia]], such as [[atrial fibrillation]] on top of [[supraventricular tachycardia]], may develop.{{sfn|Benjamin|1995|p=289}} Because of these effects, in some cases, the mushroom has been used to cure [[alcoholism]].<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=235}}</ref>
+
+The fungus contains a cyclopropylglutamine compound called [[coprine]].{{sfn|Benjamin|1995|p=286}} Its active metabolite, {{nowrap|1-aminocyclopropanol}}, blocks the action of an enzyme, [[acetaldehyde dehydrogenase]], which breaks down [[acetaldehyde]] in the body.<ref>{{cite journal |last1=Marchner |first1=H. |last2=Tottmar |first2=O. |title=A Comparative Study on the Effects of Disulfiram, Cyanamide and 1-Aminocyclopropanol on the Acetaldehyde Metabolism in Rats |journal=Acta Pharmacologica et Toxicologica |volume=43 |issue=3 |pages=219–32 |year=1978 |pmid=707135 |doi=10.1111/j.1600-0773.1978.tb02258.x }}</ref> Acetaldehyde is an intermediate [[metabolite]] of [[ethanol]] and is responsible for most symptoms of a [[hangover]]; its effect on autonomic [[Adrenergic receptor#.CE.B2 receptors|β receptors]] is responsible for the [[vasomotor]] symptoms.{{sfn|Benjamin|1995|p=286}}
+
+Treatment involves reassuring the patient that the often frightening symptoms will pass, rehydration (fluid replacement) for fluid loss from vomiting, and monitoring for [[cardiac arrhythmia]]s.{{sfn|Benjamin|1995|p=290}}
+
+Large and prolonged doses of coprine were found to have [[gonadotoxic effects]] on rats and dogs in testing.<ref>{{cite journal |last1=Jönsson |first1=Monica |last2=Lindquist |first2=Nils Gunnar |last3=Plöen |first3=Leif |last4=Ekvärn |first4=Sven |last5=Kronevi |first5=Tony |title=Testicular lesions of coprine and benzcoprine |journal=Toxicology |volume=12 |issue=2 |pages=89–100 |year=1979 |pmid=473235 |doi=10.1016/0300-483X(79)90035-0 |bibcode=1979Toxgy..12...89J }}</ref>
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Coprinopsis species|List of ''Coprinopsis'' species]]
+
+== Notes ==
+{{Reflist|2}}
+
+==References==
+* {{cite book |last=Benjamin |first=Denis R. |title=Mushrooms: poisons and panaceas—a handbook for naturalists, mycologists and physicians |publisher=WH Freeman and Company |location=New York |year=1995 |isbn=0-7167-2600-9}}
+*{{cite book |last=Ramsbottom |first=J |year=1953 |title=Mushrooms & Toadstools |publisher=Collins |isbn=1-870630-09-2}}
+
+==Further reading==
+{{Commons category|Coprinopsis atramentaria}}
+* {{cite book | last = North| first = Pamela | year = 1967 | title = Poisonous Plants and Fungi in colour | publisher = Blandford Press & Pharmacological Society of Great Britain }}
+
+{{Taxonbar|from=Q728673}}
+
+{{DEFAULTSORT:Coprinopsis Atramentaria}}
+[[Category:Acetaldehyde dehydrogenase inhibitors]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1786]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Coprinopsis|atramentaria]]
+[[Category:Taxa named by Jean Baptiste François Pierre Bulliard]]
+[[Category:Fungus species]]

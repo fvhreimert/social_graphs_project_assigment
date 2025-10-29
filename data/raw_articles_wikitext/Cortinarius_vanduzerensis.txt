@@ -1,0 +1,107 @@
+{{Short description|Species of fungus}}
+{{Good article}}
+{{stack begin}}
+{{Speciesbox
+| image = Cortinarius vanduzerensis 134617.jpg
+| image_caption =
+| genus = Cortinarius
+| species = vanduzerensis
+| authority = [[A.H.Sm.]] & [[James Trappe|Trappe]] (1972)
+}}
+{{mycomorphbox
+| name = ''Cortinarius vanduzerensis''
+| whichGills = adnate
+| whichGills2 = adnexed
+| capShape = conical
+| capShape2 = campanulate
+| hymeniumType = gills
+| stipeCharacter = cortina
+| ecologicalType = mycorrhizal
+| sporePrintColor = reddish-brown
+| howEdible = unknown
+}}
+{{stack end}}
+
+'''''Cortinarius vanduzerensis''''' is a species of fungus described as new to science in 1972. The [[basidiocarp|fruit bodies]] of the fungus, or [[mushroom]]s, have a slimy dark [[chestnut (color)|chestnut]]-brown [[pileus (mycology)|cap]] that becomes deeply radially grooved or [[wikt:corrugated|corrugated]] in maturity, and reaches diameters of up to {{convert|8|cm|abbr=on|frac=8}}. The [[lamella (mycology)|gills]] on the underside of the cap are initially pinkish-buff before becoming pale brown when the [[Basidiospore|spores]] mature. The [[stipe (mycology)|stem]] is lavender, measuring {{convert|10–18|cm|abbr=on|frac=4}} long and {{convert|1–2|cm|abbr=on|frac=8}} thick. The mushroom produces a rusty-brown [[spore print]], with individual spores measuring 12–14 by 7–8&nbsp;[[μm]].
+
+The [[edible mushroom|edibility]] of the species is unknown and it resembles [[poisonous mushrooms]]. It is known only from the [[Pacific Northwest]] region of North America, where it grows under [[conifer]]s such as [[spruce]], [[Tsuga|hemlock]], and [[Douglas-fir]].
+
+==Taxonomy==
+The species was described in 1972 by mycologists [[Alexander H. Smith]] and [[James M. Trappe]], based on specimens they found in [[Cascade Head]] in [[Tillamook County, Oregon]], in October and November 1970.<ref name=Smith1972/> The species had also been called ''[[Cortinarius elatior]]'', but that name refers to a European species.<ref name=Trudell2009/>  Within the genus ''[[Cortinarius]]'', ''C.&nbsp;vanduzerensis'' is [[classification (biology)|classified]] in the [[subgenus]] ''Myxacium''.<ref name=Smith1972/> This subgenus includes species in which both the cap and stem are sticky as a result of a glutinous [[universal veil]].<ref name=Kibby2009/> Based on the [[nucleic acid sequence]] similarity in the [[internal transcribed spacer]] region, ''C.&nbsp;vanduzerensis'' is closely related to the European and North American ''[[Cortinarius mucifluus|C.&nbsp;mucifluus]]'' and the Costa Rican species ''[[Cortinarius costaricensis|C.&nbsp;costaricensis]]''.<ref name=Ammirati2007/>
+
+A [[common name]] for the species is the "pointed Cortinarius", while the [[specific name (botany)|specific epithet]] ''vanduzerensis'' refers to the [[H. B. Van Duzer Forest State Scenic Corridor|H.&nbsp;B. van Duzer Forest]] where the species was originally collected.<ref name=SchalkwijkBarendsen1991/>
+
+==Description==
+Young [[basidiocarp|fruit bodies]] of ''C.&nbsp;vanduzerensis'' are covered with a slimy [[universal veil]];<ref name=SchalkwijkBarendsen1991/> the slime layer persists on the [[pileus (mycology)|cap]] of young mushrooms, or in moist weather. The shape of the cap is oval to conical with the margin initially [[wikt:appressed|appressed]], expanding to broadly conic or somewhat flattened in maturity, eventually reaching diameters of {{convert|3.5–9|cm|abbr=on|frac=4}}.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=646}}</ref> The cap color is initially chestnut-brown to black, but becomes paler brown as it matures. The surface is radially wrinkled or corrugated, especially near the margin. The [[trama (mycology)|flesh]] is pallid but soon pale cinnamon-buff. The odor and taste are not distinctive. A drop of [[Iron(II) sulfate|FeSO<sub>4</sub>]] solution (a reagent commonly used in [[Chemical tests in mushroom identification|mushroom identification]]) applied to the surface of the cap will turn olive-green.<ref name=Smith1972/>
+
+The [[lamella (mycology)|gills]] are pinkish-buff when young (in unopened caps), dull cinnamon-brown at maturity when the spores mature. They are packed close together, and are adnate or adnexed. The [[stipe (mycology)|stem]] is {{convert|7–20|cm|abbr=on|round=0.5}} long,<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=266|oclc=797915861}}</ref> {{convert|1–2|cm|abbr=on|frac=8}} thick,<ref name="audu" /> narrowed slightly to the base. It is pallid within but slowly cinnamon buff at least near the base. The stem surface has a thick slime-veil, and is [[lavender (color)|lavender]] to light purple on the upper portion, but darker on the lower portion. Sometimes the [[universal veil]] breaks up into concentric zones over the lower third of the stem.<ref name=Smith1972/>
+
+The [[edible mushroom|edibility]] of the mushroom is not known.<ref name="urlCalifornia"/> [[David Arora]] notes that it is "much too slippery to be of value".<ref name=Arora1986/> It is also not recommended due to its similarity to deadly [[Mushroom poisoning|poisonous]] species.<ref name=":0" />
+
+The [[spore print]] is a rusty-brown color. In face view, the [[Basidiospore|spores]] are broadly elliptic to [[wikt:ovate|ovate]] (egg-shaped), while in profile they appear broadly inequilateral; they have dimensions of 12–14 by 7–8&nbsp;[[μm]]. The spore surface is roughened with warts, and they lack an [[germ pore|apical pore]]. The spores contain two [[nucleus (cell)|nuclei]].<ref name=Horton2006/> The [[basidia]] (spore-bearing cells in the [[hymenium]]) are four-spored, broadly club-shaped, and have contents that are often in the form of yellow masses or [[granule (cell biology)|granules]] when [[staining|stained]] in [[Melzer's reagent]]. The cheilocystida ([[cystidia]] on the gill edge) are club-shaped, sometimes with an abruptly tapering point, and measure 17–26 by 9–15&nbsp;μm. There are no pleurocystidia (cystidia on the gill face). The gill tissue is made of [[hypha]]e that are arranged in a roughly parallel fashion (subparallel); there are also brownish to orange-brown fat-containing hyphae present. The epicutis (outer layer of tissue) of the cap is made of a turf of gelatinous hyphae that measure 2.5–6&nbsp;μm wide; [[clamp connection]]s are absent to rare in the hyphae. The veil hyphae are 4–8&nbsp;μm wide, and [[hyaline]] (translucent) to yellow when mounted in a dilute solution of [[potassium hydroxide|KOH]]. The hyphae of the cortex of the stem are subparallel, and clamps are present.<ref name=Smith1972/>
+
+{{gallery|mode=packed
+|Cortinarius vanduzerensis 123893.jpg|The cap develops deep radial grooves as it matures.
+|Cortinarius vanduzerensis 134696.jpg|The gills are closely packed and dull cinnamon-brown at maturity.
+}}
+
+===Similar species===
+{{multiple image|caption_align=center|header_align=center
+| align = right
+| image1 = Cortinarius cylindripes 92529.jpg
+| width1 = {{#expr: (120 * 3166 / 1566) round 0}}
+| caption1 = ''Cortinarius cylindripes''
+| image2 = Cortinarius elatior Rossdorf GedSperber.jpg
+| width2 = {{#expr: (120 * 2816 / 2122) round 0}}
+| caption2 = ''[[Cortinarius elatior]]''
+}}
+Smith and Trappe noted a similarity to the European ''Cortinarius elatior'', but this species has violet gills at first.<ref name=Smith1972/> ''[[Cortinarius collinitis|C.&nbsp;collinitis]]'' has a lighter brown slimy cap, with glutinous bands on the stem that are rarely tinged purple. A third species in this group, ''[[Cortinarius cylindripes|C.&nbsp;cylindripes]]'' has a lighter colored, sometimes wrinkled cap, and gills that are pale purple when young with fringed edges.<ref name="urlCalifornia"/> ''[[Cortinarius stillatitius|C.&nbsp;stillatitius]]'' is a related European species found in coniferous (sometimes in [[mixed forest|mixed]]) forests.<ref name=Trudell2009/>  Another glutinous, dark-brown capped species with which ''C.&nbsp;vanduzerensis'' might be confused is ''[[Phaeocollybia spadicea]]'', but this species has pseudorhiza (a subterranean elongation of the stem) at the stem base and gills that are free from attachment to the stem.<ref name=GTR/>
+
+==Habitat and distribution==
+]]
+
+''Cortinarius vanduzerensis'' is a [[mycorrhiza]]l mushroom that grows in association with [[conifer]] trees.<ref name="urlKuo"/> The fruit bodies grow solitarily, scattered, in [[fairy ring|rings]] or in groups under [[spruce]], [[Tsuga|hemlock]],<ref name=Smith1972/><ref name=SchalkwijkBarendsen1991/> and [[Douglas-fir]].<ref name=Barroetavena2007/> The mushroom is known only from the [[Pacific Northwest]] region of North America,<ref name=Arora1986/> including the [[Queen Charlotte Islands]] on the north Coast of [[British Columbia, Canada]].<ref name="urlFungi of Haida Gwaii"/> It fruits in the autumn and early winter,<ref name=Arora1986/> or in the late summer in western Canada.<ref name=SchalkwijkBarendsen1991/> Its frequency of occurrence has been described variously as "very common",<ref name=Trudell2009/> to "fairly common",<ref name=Arora1986/> or "rare" everywhere except Oregon".<ref name=SchalkwijkBarendsen1991/>
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=Ammirati2007>{{cite journal |vauthors=Ammirati J, Garnica S, Halling RE, Mata M, Mueller GM, Carranza J |title=New ''Cortinarius'' species associated with ''Quercus'' and ''Comarostaphylis'' in Costa Rica |journal=Canadian Journal of Botany |year=2007 |volume=85 |issue=9 |pages=794–812 |doi=10.1139/B07-067 |bibcode=2007CaJB...85..794A |url=http://www.nybg.org/bsci/res/hall/boletes/Costa-Rica%20Cortinarius.pdf |access-date=2011-02-19 |archive-url=https://web.archive.org/web/20110628213910/http://www.nybg.org/bsci/res/hall/boletes/Costa-Rica%20Cortinarius.pdf |archive-date=2011-06-28 |url-status=dead }}</ref>
+
+<ref name=Arora1986>{{cite book |author=Arora D. |location=Berkeley, California |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/432/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |year=1986 |orig-date=1979 |edition=2nd |pages=432}}</ref>
+
+<ref name=Barroetavena2007>{{cite journal |vauthors=Barroetaveña C, Cázares E, Rajchenberg M |year=2007 |title=Ectomycorrhizal fungi associated with ponderosa pine and Douglas-fir: a comparison of species richness in native western North American forests and Patagonian plantations from Argentina |journal=Mycorrhiza |volume=17 |issue=5 |pages=355–373 |pmid=17345105 |doi=10.1007/s00572-007-0121-x|bibcode=2007Mycor..17..355B |s2cid=195074175 }}</ref>
+
+<ref name=GTR>{{cite report |title=Handbook to Additional Fungal Species of Special Concern in the Northwest Forest Plan. General Technical Report PNW-GTR-572. Part 7: Species ''Gyromitra montana'' to ''Phaeocollybia fallax'' |vauthors=Castellano MA, Cázares E, Fondrick B, Dreisbach T |publisher=United States Department of Agriculture, Forest Service |date=January 2003 |url=http://www.fs.fed.us/pnw/pubs/gtr572/partb6.pdf }}</ref>
+
+<ref name=Horton2006>{{cite journal |author=Horton TR |title=The number of nuclei in basidiospores of 63 species of ectomycorrhizal Homobasidiomycetes |journal=Mycologia |year=2006  |volume=98 |issue=2 |pages=233–8 |pmid=16894968 |doi=10.3852/mycologia.98.2.233}}</ref>
+
+<ref name=Kibby2009>{{cite journal |vauthors=Kibby G, Burnham A, Henrici A |title=''Cortinarius'' subgenus ''Myxacium'' |journal=Field Mycology |year=2009 |volume=10 |issue=2 |pages=41–55 |url=http://www.britmycolsoc.org.uk/download_file/view/109/ |format=PDF |doi=10.1016/s1468-1641(10)60500-2|doi-access=free }}</ref>
+
+<ref name=SchalkwijkBarendsen1991>{{cite book |author=Schalkwijk-Barendsen HME. |title=Mushrooms of Western Canada |publisher=Lone Pine Publishing |location=Edmonton, Canada |year=1991 |page=[https://archive.org/details/mushroomsofweste0000scha/page/296 296] |isbn=0-919433-47-2 |url=https://archive.org/details/mushroomsofweste0000scha/page/296 }}</ref>
+
+<ref name=Smith1972>{{cite journal |vauthors=Smith AH, Trappe JM |title=The higher Fungi of Oregon's Cascade Head Experimental Forest and Vicinity – I. The genus ''Phaeocollybia'' (Agaricales) and notes and descriptions of other species in the Agaricales |journal=Mycologia |volume=64 |issue=5 |year=1972 |pages=1138–53 |jstor=3758079 |doi=10.2307/3758079}}</ref>
+
+<ref name=Trudell2009>{{cite book |vauthors=Trudell S, Ammirati J |title=Mushrooms of the Pacific Northwest: Timber Press Field Guide (Timber Press Field Guides) |url=https://archive.org/details/mushroomspacific00trud_400 |url-access=limited |publisher=Timber Press |location=Portland, Oregon |year=2009 |page=[https://archive.org/details/mushroomspacific00trud_400/page/n237 160] |isbn=978-0-88192-935-5}}</ref>
+
+<ref name="urlCalifornia">{{cite web |url=http://www.mykoweb.com/CAF/species/Cortinarius_vanduzerensis.html |title=''Cortinarius vanduzerensis'' |vauthors=Wood M, Stevens F |work=California Fungi  |access-date=2011-02-19}}</ref>
+
+<ref name="urlFungi of Haida Gwaii">{{cite web |url=http://www.geog.ubc.ca/biodiversity/eflora/FungiofHaidaGwaii.html |title=Macrofungi of Haida Gwaii (Queen Charlotte Islands) |year=2010 |work=E-Flora BC: Electronic Atlas of the Plants of British Columbia (eflora.bc.ca) |publisher=Lab for Advanced Spatial Analysis, Department of Geography, University of British Columbia, Vancouver |vauthors=Kroeger P, Ceska O, Roberts C, Kendrick B |access-date=2011-02-19}}</ref>
+
+<ref name="urlKuo">{{cite web |url=http://www.mushroomexpert.com/cortinarius_vanduzerensis.html |title=''Cortinarius vanduzerensis''|author=Kuo M. |date=February 2005 |work=MushroomExpert.Com |access-date=2011-02-19}}</ref>
+
+}}
+
+==External links==
+*{{Commons-inline}}
+*{{IndexFungorum|312190}}
+
+{{Taxonbar|from=Q4036575}}
+
+[[Category:Cortinarius|vanduzerensis]]
+[[Category:Fungi described in 1972]]
+[[Category:Fungi of Canada]]
+[[Category:Fungi of the United States]]
+[[Category:Taxa named by Alexander H. Smith]]
+[[Category:Taxa named by James Trappe]]
+[[Category:Fungi without expected TNC conservation status]]
+[[Category:Fungus species]]

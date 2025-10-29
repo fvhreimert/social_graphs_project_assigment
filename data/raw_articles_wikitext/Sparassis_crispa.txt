@@ -1,0 +1,68 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Grote sponszwam (Sparassis crispa). 09-11-2023. (d.j.b).jpg
+| taxon = Sparassis crispa
+| authority = ([[Franz Xaver von Wulfen|Wulfen]]) [[Elias Magnus Fries|Fr.]] (1821)
+| synonyms = 
+* ''Clavaria crispa'' <small>Wulfen (1781)</small>
+}}
+{{mycomorphbox
+| name = ''Sparassis crispa''
+| whichGills = no
+| capShape = no
+| hymeniumType= smooth
+| stipeCharacter= NA
+| stipeCharacter2= bare
+| ecologicalType= saprotrophic
+| sporePrintColor= white
+| sporePrintColor2= cream
+| howEdible= choice
+}}
+
+'''''Sparassis crispa''''' is a species of [[fungus]] in the family [[Sparassidaceae]]. It is sometimes called '''cauliflower fungus''',<ref name=Phillips/> or '''cauliflower mushroom'''.<ref>{{cite journal |title=Natural Products and Biological Activity of the Pharmacologically Active Cauliflower Mushroom ''Sparassis crispa'' |first=Takashi |last=Kimura |date=18 March 2013 |doi=10.1155/2013/982317 |journal=BioMed Research International |volume=1 |pages=1–9 |pmid=23586068 |pmc=3613060 |doi-access=free }}</ref><ref>{{cite book |page=84 |url=https://books.google.com/books?id=xmUuDwAAQBAJ&pg=PA84 |title=The Complete Mushroom Hunter, Revised: Illustrated Guide to Foraging, Harvesting, and Enjoying Wild Mushrooms - Including New Sections on Growing Your Own Incredible Edibles and Off-season Collecting |first=Gary |last=Lincoff |publisher=Quarry Books |year=2017 | isbn=978-1-63159-301-7 }}</ref>
+
+==Description==
+''S. crispa'' grows in an entangled globe that is up to {{convert|24|cm|-1}} in diameter, with larger specimens weighing up to {{Convert|30|lb|order=flip}} or more.<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/657/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, California |pages=657 |orig-date=1979}}</ref> The lobes, which carry the spore-bearing surface, are flat and wavy, resembling lasagna noodles, coloured white to creamy yellow. When young they are tough and rubbery but later they become soft. They are [[monomitic]].<ref name="Laessoe2019"/> The odour is pleasant and the taste of the flesh mild.
+
+The [[spore print]] is cream, the smooth oval spores measuring about 5–7&nbsp;[[μm]] by 3.5–5&nbsp;μm.<ref name=Bon/><ref name="Laessoe2019"/> The flesh contains [[clamp connection]]s.<ref name=Kibby/>
+
+=== Similar species ===
+The less well-known ''S.&nbsp;brevipes'', found in Europe, can be distinguished by its less crinkled, zoned folds and lack of clamp connections.<ref name="Kibby" /><ref name="Laessoe2019" /> In the North American [[Pacific Northwest]], a lookalike species ''[[Sparassis|S.&nbsp;radicata]]'' (possibly a synonym)<ref name="Arora1986" /> can be found from August to November.<ref>{{Cite web |date=2024-03-12 |title=Seasonal Chart for Edible Mushrooms |url=https://www.centraloregonmushroomclub.com/seasonal-chart-for-edible-mushrooms/ |access-date=2025-08-30 |website=Central Oregon Mushroom Club}}</ref> ''[[Sparassis spathulata|S.&nbsp;spathulata]]'' may replace the species in eastern North America.<ref name="Arora1986" />
+
+==Distribution and habitat==
+This species is fairly common in [[Great Britain]] and temperate Europe (but not in the [[Subarctic climate|boreal zone]]), from July to November.<ref name="tfb">{{Cite book |last=Francis-Baker |first=Tiffany |title=Concise Foraging Guide |date=2021 |publisher=[[Bloomsbury Publishing|Bloomsbury]] |isbn=978-1-4729-8474-6 |series=[[The Wildlife Trusts]] |location=London |pages=121}}</ref> It is a [[Wood-decay fungus#Brown rot|brown rot fungus]], found growing parasitically at the base of [[conifer]] trunks,<ref name="Arora1986" /> often [[pine]]s, but also [[spruce]], [[Cedrus|cedar]], [[larch]] and others.<ref name="Kibby" /><ref name="Laessoe2019" />
+
+{{gallery|mode=packed
+|Cauliflower fungus, Ehrenbach.jpg|Sparassis crispa growing at the base of a pine tree near [[Ehrenbach]], Germany
+|Sparassis crispa JPG1.jpg|Specimen in [[Tervuren]], Belgium
+}}
+
+==Uses==
+It is considered a good [[edible fungus]] when young and fresh,<ref name="Bon" /> but is difficult to clean. (A&nbsp;toothbrush and running water are recommended.) One French cookbook, which gives four recipes for this species, says that grubs and pine needles can get caught up in holes in the jumbled mass of flesh. The ''Sparassis'' should be blanched in boiling water for 2–3 minutes before being added to the rest of the dish.<ref name="Jaunault" /><ref name="Phillips" /> It should be cooked slowly.<ref name="Miller 2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuides]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|page=438|author-link1=Orson K. Miller Jr.}}</ref> It can also be preserved in oil, cold water or by drying.<ref name="tfb" /> Stored specimens may attract [[maggot]]s.<ref name="Arora1986" />
+
+==References==
+{{Reflist|refs=
+
+<ref name=Bon>{{cite book |author=Marcel Bon |title=The Mushrooms and Toadstools of Britain and North-western Europe |publisher=Domino Books Ltd. |location=7 Bond Street, St. Helier, Jersey |year=1987 |page=308 |isbn=978-0-340-39935-4 }}</ref>
+
+<ref name=Jaunault>{{cite book |author=Frédéric Jaunault |author2=Jean-Luc Brillet |title=Toutes les bases de la cuisine aux champignons |publisher=Editions Ouest-France |location=13 rue du Breil, Rennes, France |year=1981 |page=183 |language=French |isbn=2-7373-2275-8 }}</ref>
+
+<ref name=Kibby>{{cite book |author=Geoffrey Kibby |title=Mushrooms and Toadstools of Britain & Europe Vol. 1 |publisher=Geoffrey Kibby |year=2017 |page=82 |isbn=978-0-9572094-2-8 }}</ref>
+
+<ref name="Laessoe2019">{{cite book |first1=H. |last1=Læssøe |first2=Jens |last2=Petersen |title=Fungi of Temperate Europe |publisher=Princeton University Press |year=2019 |page=954 |isbn=978-0-691-18037-3 }}</ref>
+
+<ref name=Phillips>{{cite book |author=Roger Phillips |title=Mushrooms and other fungi of Great Britain & Europe |publisher=Pan Books |location=Cavaye Place, London SW10 9PG |year=1998 |page=255 }}</ref>
+}}
+
+==External links==
+*{{commons category-inline|2=''Sparassis crispa''}}
+
+{{Taxonbar|from=Q36992}}
+
+[[Category:Polyporales]]
+[[Category:Fungus species]]
+[[Category:Edible fungi]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1781]]
+[[Category:Taxa named by Franz Xaver von Wulfen]]

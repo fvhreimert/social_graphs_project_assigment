@@ -1,0 +1,72 @@
+{{Short description|Species of fungus}}
+{{Speciesbox 
+| image = Rettichhelmling002.JPG
+| image_caption = 
+| genus = Mycena
+| species = pura
+| authority = ([[Christian Hendrik Persoon|Pers.]]) [[Paul Kummer|P. Kumm.]]
+}}
+{{mycomorphbox
+| name            = Mycena pura
+| hymeniumType    = gills
+| capShape        = flat
+| whichGills      = adnexed
+| stipeCharacter  = bare
+| sporePrintColor = white
+| ecologicalType  = saprotrophic
+| howEdible       = poisonous
+}}
+
+'''''Mycena pura''''', commonly known as the '''lilac mycena''',<ref name=Arora1986>{{Cite book |last=Arora |first=David |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/230/mode/2up |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |orig-date=1979 |edition=2nd |pages=230–231}}</ref> '''lilac bonnet''',<ref>{{cite web |url=http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |title=Recommended English Names for Fungi in the UK |publisher=[[British Mycological Society]] |url-status=dead |archive-url=https://web.archive.org/web/20110716083053/http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |archive-date=2011-07-16 }}</ref> is a species of [[mushroom]] in the family [[Mycenaceae]].
+
+==Taxonomy==
+First called ''Agaricus prunus'' in 1794 by [[Christian Hendrik Persoon]], it was assigned its current name in 1871 by German [[Paul Kummer]].<ref name=Kummer1871>{{cite book |title=Der Führer in die Pilzkunde |author=Kummer P.|year=1871 |publisher=Zerbst |page= 107}}</ref>
+
+==Description==
+''Mycena pura'' is a tiny to medium-sized mushroom that can grow in a variety of hues, frequently with purple undertones. The cap ranges from {{Convert|2 to 6|cm|frac=4}} in size.<ref name=":1">{{Cite web |title=Mycena pura: The Ultimate Mushroom Guide |url=https://ultimate-mushroom.com/poisonous/47-mycena-pura.html |access-date=2023-04-06 |website=Mushroom Identification - Ultimate Mushroom Library |language=en}}</ref> It is violet to purple when young but can change color with age. It can be convex, flat, or bell-shaped. The gills are pale or pinkish in color and get cross veins as they age. The stem is {{Convert|4 to 10|cm|abbr=on|frac=4}} long and {{Convert|2 to 6|mm|frac=8}} thick.<ref name=":1" /> It is colored like the cap, hollow, and the same shade. There is no [[Annulus (mycology)|ring]] on the mushroom. It has a radish-like scent. The spores are white<ref name=":0">{{Cite book |last1=Davis |first1=R. Michael |title=Field Guide to Mushrooms of Western North America |last2=Sommer |first2=Robert |last3=Menge |first3=John A. |publisher=[[University of California Press]] |year=2012 |isbn=978-0-520-95360-4 |location=Berkeley |pages=181–182 |oclc=797915861}}</ref> and produce a white [[spore print]].<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=433}}</ref>
+
+It produces a faint [[bioluminescence]], visible at night.<ref>{{Cite web |date=2022-02-08 |title=Lilac Bonnet (Mycena pura) Identification - |url=https://totallywilduk.co.uk/2022/02/08/lilac-bonnet-mycena-pura-identification/ |access-date=2025-05-27 |website=Totally Wild UK |language=en-GB}}</ref>
+
+=== Similar species ===
+Similar species include ''[[Clitocybe nuda]]'', ''[[Laccaria amethysteo-occidentalis]]'', ''[[Mycena purpureofusca|M.&nbsp;purpureofusca]],''<ref name=":0" /> and ''[[Mycena pelianthina|M.&nbsp;pelianthina]]''.<ref name="audu" />
+
+==Distribution and habitat==
+It is widely dispersed across North America and can be found beneath [[conifer]]s or occasionally [[hardwood]]s as decomposing forest litter.<ref name="audu" />
+
+==Ecology==
+
+''Mycena pura'' is known to [[bioaccumulate]] the element [[boron]].<ref>{{cite journal |author= Vetter Y. |year= 1995 |title= Boron content of edible mushrooms of Hungary|journal=Zeitschrift für Lebensmittel-Untersuchung und -Forschung |volume=201 |issue=6 |pages=524–27|doi= 10.1007/BF01201576 |pmid= 8585328 |s2cid= 82014966 }}</ref>
+
+==Toxicity==
+Given that it includes the toxin [[muscarine]], it should not be consumed.<ref name=becker/> ''M.&nbsp;pura'' does not appear to have any [[Psilocybin mushroom|psychedelic]] characteristics.<ref name=":1" />
+
+Despite the presence of toxins,<ref name="Miller 2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=169|author-link=Orson K. Miller Jr.}}</ref> some guides list ''M.&nbsp;pura'' as [[edible mushroom|edible]].<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |orig-year=2005 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=95}}</ref>
+
+==Bioactive compounds==
+''Mycena pura'' contains the chemical puraquinonic acid, a [[sesquiterpene]]. This compound induces mammalian cells (specifically, the [[cell line]] [[HL60]]) to differentiate into [[granulocyte]]- or [[macrophage]]-like cells. The fungus also contains the [[Fungicide|antifungal]] metabolite [[strobilurin&nbsp;D]], previously found in ''[[Cyphellopsis anomala]]''.<ref name=becker>{{cite journal |vauthors= Becker U, Erkel G, Anke T, Sterner O|year=1997 |title=Puraquinonic acid, a novel inducer of differentiation of human HL-60 promyelocytic leukemia cells from ''Mycena pura'' (Pers. Ex Fr.) |journal=Natural Product Research |volume=9 |issue=3 |pages=229–36 |doi= 10.1080/10575639708048319 }}</ref>
+
+==Gallery==
+<gallery>
+Mycena pura 11.jpg
+Mycena pura 3.jpg
+Mycena pura 33.jpg
+Mycena pura JPG2.jpg
+Mycena pura2 - lindsey.jpg
+</gallery>
+
+==See also==
+*[[List of bioluminescent fungus species]]
+*''[[Mycena rosea]]''
+
+==References==
+{{Reflist}}
+
+*{{Commons category-inline}}
+
+{{Taxonbar|from=Q1500783}}
+
+[[Category:Bioluminescent fungi]]
+[[Category:Mycena|pura]]
+[[Category:Fungi of Europe]]
+[[Category:Taxa named by Christiaan Hendrik Persoon]]
+[[Category:Fungus species]]

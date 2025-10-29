@@ -1,0 +1,111 @@
+{{Speciesbox
+| image = 2011-06-30 Pleurotus cornucopiae 3 70824.jpg
+| genus = Pleurotus
+| species = cornucopiae
+| authority = ([[Jean-Jacques Paulet|Paulet]]) Rolland (1910)
+| synonyms = 
+''Dendrosarcus cornucopiae'' <br>
+''Pleurotus sapidus''
+}}
+{{mycomorphbox
+| name = ''Pleurotus cornucopiae''
+| whichGills = decurrent
+| capShape = offset 
+| hymeniumType = gills
+| stipeCharacter = ring
+| ecologicalType = saprotrophic
+| ecologicalType2 = parasitic
+| sporePrintColor = white
+| howEdible = edible
+}}
+
+'''''Pleurotus cornucopiae''''' is a species of edible fungus in the genus ''[[Pleurotus]]'', It is quite similar to the better-known ''[[Pleurotus ostreatus]]'', and like that species is cultivated and sold in markets in Europe and China, but it is distinguished because its gills are very decurrent, forming a network on the stem.
+
+==Naming==
+The species name means "of the [[Cornucopia]]" (horn of plenty), which is appropriate since the mushrooms are edible and sometimes take on a shape similar to a [[drinking horn]].
+
+The original definition of this species, or [[basionym]], was made by [[Jean-Jacques Paulet]] in 1793 as ''Dendrosarcos cornucopiae''.  At a time when most [[Agaric|gilled mushrooms]] were lumped into genus ''[[Agaricus]]'', Paulet invented genus ''Dendrosarcos'', later Latinised to ''Dendrosarcus'', for those having an excentric or missing stipe.  In fact those fungi have not been found to be a closely related group, and today the name only has historical interest, though the taxonomic rules imply that it still needs to be recorded.<ref name=SF1/><ref name=SF2/><ref name=Paulet/>  In 1871 in his "Führer in die Pilzkunde" ("Guide to Mycology"), [[Paul Kummer]] introduced ''Pleurotus'' as a genus,<ref name=Kummer/> but the allocation of ''P. cornucopiae'' to it was only done later in 1910 by [[Léon Louis Rolland]].<ref name=SF2/>
+
+The synonym ''Pleurotus sapidus'' due to Schulzer (1873) is sometimes seen
+
+The English name "Branched Oyster Mushroom" has been given to this species.<ref name=FirstNature/>
+
+==Description==
+The following sections use the given references throughout.<ref name=Bon/><ref name=Courtecuisse/><ref name=FN/><ref name=Moser/>
+
+===General===
+*The cap grows to about {{Convert|15|cm|frac=4}} wide, whitish when young then darkening to brownish with age.<ref name="tfb">{{Cite book |last=Francis-Baker |first=Tiffany |title=Concise Foraging Guide |date=2021 |publisher=[[Bloomsbury Publishing|Bloomsbury]] |isbn=978-1-4729-8474-6 |series=[[The Wildlife Trusts]] |location=London |pages=128}}</ref> At most there may be very slight traces of the veil.
+*The stem is always present, may be forked and can vary from excentric to fairly central.  Each stem may be up to about 12&nbsp;cm long and up to 2&nbsp;cm thick.
+*The whitish [[Lamella (mycology)|gills]] are [[decurrent]] down the stem and [[Anastomosis|anastomose]] (criss-cross), becoming a network of ridges at the bottom.  
+*The flesh is firm and white.<ref name="tfb" /> The strong smell has an [[aniseed]] element and is also floury when the mushroom is cut.  The taste is floury.<ref name=Eyssartier/><ref name=Moser/><ref name=FN/>
+
+===Microscopic characteristics===
+*The flesh may be [[Hypha#Classification based on cell wall and overall form|monomitic]] (as with ordinary fragile mushrooms) or [[Hypha#Classification based on cell wall and overall form|dimitic]], having extra thick-walled hyphae which give the flesh a tougher consistency, especially when older.<ref name=FN/>
+*The spores in the form of an rather elongated ellipsoid are around 8-12&nbsp;μm by 3.5-5.5&nbsp;μm.
+*There are no [[Cystidium|cystidia]].
+
+=== Similar species ===
+'' in a German market]]
+''Pleurotus cornucopiae'' is quite similar to the well-known food mushroom ''[[Pleurotus ostreatus]]'', being distinguished because in the latter case, the gills are not very [[decurrent]] and the cap colour is slate or bluish grey. Another species, [[Pleurotus pulmonarius|''P.&nbsp;pulmonarius'']] has a comparable cap colour to ''P.&nbsp;cornucopiae'' but the gills on the stipe are similar to ''P.&nbsp;ostreatus''.
+
+It is even more closely related to the yellow-capped "golden oyster mushroom", ''[[Pleurotus citrinopileatus]]'', which is native to eastern Asia.  The forms are easily distinguishable by the cap colour, but they are sometimes considered to be just varieties of the same species, and as a consequence golden oyster mushrooms are sometimes identified using the older scientific name ''Pleurotus cornucopiae''.<ref name="Royse" />  However, according to the mycological reference "Species Fungorum", these are two separate species.<ref name="SF3" />
+
+== Distribution and habitat ==
+This mushroom is [[saprobic]] on dead wood and can also be a weak [[parasite]].<ref name="FN" /> It occurs stumps and fallen trunks of oak, beech, elm, and other broad-leaved trees.
+
+Appearing from spring to late summer, it is distributed in the wild throughout Europe (from August to November),<ref name="tfb" /> where it varies locally between common and fairly rare.<ref name="Courtecuisse" />  It is also reported from the U.S. and Mexico.<ref name="GBIF" />
+
+==Ecology==
+It is a mild parasite of broad-leaved trees.<ref name="FN" />
+
+==Uses==
+This mushroom is edible and it is cultivated in a manner similar to ''[[Pleurotus ostreatus|P.&nbsp;ostreatus]]'', though less extensively.<ref name="Mushroomers" /> Specimens are best collected young and with the tougher stems dicarded.<ref name="tfb" />
+
+A Chinese paper evaluated several commercially available varieties of ''P.&nbsp;cornucopiae'' and reported that it in the Shanghai area an appropriate growth medium is cotton-seed hulls and wood-chips, with 65% water content.<ref name="Shi" />  Another paper (actually treating the yellow-topped form) also suggested pasteurized switch grass as a useful substrate, though the yield was less than with cotton-seed hulls and straw.<ref name="Royse" />
+
+==References==
+{{Reflist|refs=
+
+<ref name=Bon>{{cite book |author =Marcel Bon |title=The Mushrooms and Toadstools of Britain and North-Western Europe |publisher=Hodder & Stoughton |year=1987 |page=120 |isbn=978-0-340-39935-4 |author-link=Marcel Bon }}</ref>
+
+<ref name=Courtecuisse>{{cite book |author1=Courtecuisse, R.  |author2=Duhem, B. |title=Champignons de France et d'Europe |language=French |publisher=Delachaux et Niestlé |year=2013 |page=190 |isbn=978-2-603-02038-8 }}  Also available in English.</ref>
+
+<ref name=Eyssartier>{{cite book |author1=Eyssartier, G.  |author2=Roux, P. |title=Le guide des champignons France et Europe |language=French |publisher=Belin |year=2013 |page=974 |isbn=978-2-7011-8289-6 }}</ref>
+
+<ref name=FirstNature>{{cite web |url=http://www.first-nature.com/fungi/pleurotus-cornucopiae.php |title=Pleurotus cornucopiae (Paulet) Rolland - Branched Oyster Mushroom |accessdate=2017-02-10 }}</ref>
+
+<ref name=FN>{{cite book |editor-first1=H. |editor-last1=Knudsen |editor-first2=J. |editor-last2=Vesterholt |title=Funga Nordica Agaricoid, boletoid and cyphelloid genera |publisher=Nordsvamp |location=Copenhagen |year=2008 |page=322 |isbn=978-87-983961-3-0}}</ref>
+
+<ref name=GBIF>See the [https://www.gbif.org/species/2526649 Global Biodiversity Information Facility page], which provides hyperlinks to records with geographical location.</ref>
+
+<ref name=Kummer>{{cite book |author =Paul Kummer |title=Der Führer in die Pilzkunde. Anleitung zum methodischen, leichten und sichern Bestimmen der in Deutschland vorkommenden Pilze, mit Ausnahme der Schimmel- und allzu winzigen Schleim- und Kern-Pilzchen. |trans-title=The guide to mycology. Introduction to methodical, easy and reliable identification of mushrooms occurring in Germany, with the exception of moulds and tiny slime moulds and Pyrenomycetes.  |language=German |publisher=E. Luppe  |location=Zerbst |year=1871 |page=104 |url=https://www.biodiversitylibrary.org/page/34209706#page/112/mode/1up |author-link=Paul Kummer }}</ref>
+
+<ref name=Moser>See {{cite book |author =Meinhard Moser |author-link =Meinhard Moser  |translator = Simon Plant|title=Keys to Agarics and Boleti |publisher=Roger Phillips |location=London |year=1983 |page=63 |isbn=978-0-9508486-0-0}}</ref>
+
+<ref name=Mushroomers>{{cite web |url=http://mushroomersclub.blogspot.fr/2012/07/12-some-of-most-important-cultivated.html |title=Some of the Most Important Cultivated Oyster Mushroom Species |accessdate=2017-02-18 }}</ref>
+
+<ref name=Paulet>{{cite book |author=Jean-Jacques Paulet |title=Traité des Champignons |publisher=L'Imprimerie Nationale Exécutive du Louvre |year=1793 |volume=2 |page=119 |url=https://www.biodiversitylibrary.org/item/25510#page/9/mode/1up |doi=10.5962/bhl.title.5417 |author-link=Jean-Jacques Paulet }}</ref>
+
+<ref name=Royse>{{cite journal |author1=Royse DJ |title=Yield, mushroom size and time to production of Pleurotus cornucopiae (oyster mushroom) grown on switch grass substrate spawned and supplemented at various rates. |journal=Bioresource Technology |year=2004 |volume=91 |issue=1 |pages=85–91 |doi=10.1016/S0960-8524(03)00151-2 |pmid=14585625 }}  Note that since the abstract mentions yellow [[basidiomata]] (fruiting bodies), this paper is actually referring to ''P. citrinopileatus'' as ''P. cornucopiae''.</ref>
+
+<ref name=SF1>For the original name, see {{cite web |url=http://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=455726 |title=''Dendrosarcus cornucopiae'' page|work=Species Fungorum|publisher=Royal Botanic Gardens Kew |accessdate=2017-02-11}}</ref>
+
+<ref name=SF2>For ''Dendrosarcus'' and also the current name and synonyms, see {{cite web |url=http://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=355897 |title=''Pleurotus cornucopiae'' page|work=Species Fungorum|publisher=Royal Botanic Gardens Kew |accessdate=2017-02-11}}</ref>
+
+<ref name=SF3>For the relation to ''P. citrinopileatus'', see {{cite web |url=http://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=303973 |title=''Species Fungorum'' ''Pleurotus cornucopiae'' page|work=Species Fungorum|publisher=Royal Botanic Gardens Kew |accessdate=2017-02-11}}</ref>
+
+<ref name=Shi>{{cite journal |author1=Shi Xiujuan |title=Screening of ''Pleurotus cornucopiae'' varieties and culture media suitable to Baoshan local conditions. |journal=Acta Agriculturae Shanghai |year=2009 |volume=25 |number=3 |pages=137–139 |language=Chinese |url=https://www.cabdirect.org/cabdirect/abstract/20093321992 }}</ref>
+
+}}
+
+==External links==
+*{{Commons-inline}}
+*{{IndexFungorum|355897}}
+*{{NCBI taxid|5321|''Pleurotus cornucopiae'' }}
+
+{{Taxonbar|from=Q834124}}
+
+[[Category:Fungal tree pathogens and diseases]]
+[[Category:Pleurotaceae]]
+[[Category:Edible fungi]]
+[[Category:Fungus species]]

@@ -1,0 +1,39 @@
+{{Short description|Species of fungus}}
+{{speciesbox
+| image = Astraeus sirindhorniae 1C.png
+| image_caption = Fruit bodies in the field; bar=2.5&nbsp;cm
+| genus = Astraeus (fungus)
+| species = sirindhorniae
+| authority = [[Roy Watling|Watling]], Phosri, Sihanonth, A.W.Wilson & M.P.Martín (2014)
+}}
+{{mycomorphbox
+| name = ''Astraeus sirindhorniae''
+| capShape = no
+| hymeniumType = gleba
+| whichGills = NA
+| stipeCharacter = NA
+| ecologicalType = mycorrhizal
+| sporePrintColor = brown
+}}
+
+'''''Astraeus sirindhorniae''''' is a species of [[Astraeus (fungus)|false earthstar]] in the family [[Diplocystaceae]]. ''A.&nbsp;sirindhorniae'' can be distinguished from close relatives ''[[Astraeus odoratus|A. odoratus]]'', ''[[Astraeus asiaticus|A. asiaticus]]'' and ''[[Astraeus hygrometricus|A. hygrometricus]]'' by differences in fruit body size, spore size, spore ornamentation, and peridium structure. The fungus was discovered in [[Phu Khieo Wildlife Sanctuary]] in northeastern Thailand, as part of a project to document the [[biodiversity]] of [[mycorrhiza]]l fungi. The [[botanical name|specific epithet]] ''sirindhorniae'' honors [[Princess Maha Chakri Sirindhorn]] on the occasion the 84th birthday of her father, [[King Bhumibol Adulyadej]]. Known only from north and northeastern [[Thailand]], ''A.&nbsp;sirindhorniae'' is suspected to be [[ectomycorrhiza]]l with members of the [[Dipterocarpaceae]], although this has not yet been proven.<ref name="Phosri 2014"/>
+
+==References==
+{{Reflist|refs=
+
+<ref name="Phosri 2014">{{cite journal |vauthors=Phosri C, Watling R, Suwannasai N, Wilson A, Martín MP |title=A new representative of star-shaped fungi: ''Astraeus sirindhorniae'' sp. nov. from Thailand |journal=PLOS ONE |year=2014 |volume=9 |issue=5 |article-number=e71160 |doi=10.1371/journal.pone.0071160 |pmid=24806455 |pmc=4012956|bibcode=2014PLoSO...971160P |doi-access=free }} {{open access}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|803956}}
+
+{{Taxonbar|from=Q19595958}}
+
+[[Category:Boletales]]
+[[Category:Fungi described in 2014]]
+[[Category:Fungi of Asia]]
+[[Category:Fungus species]]
+
+
+{{Boletales-stub}}

@@ -1,0 +1,41 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Clathrus treubii.jpg 
+| image_caption = ''Clathrus treubii'' found at Bukit Kiara, Kuala Lumpur, Malaysia
+| genus = Clathrus
+| species = treubii
+| authority = ([[Georges Eugène Bernard|Bernard]]) [[Curtis Gates Lloyd|Lloyd]]
+| synonyms_ref = <ref name="urlMycoBank:Clathrus treubii"/>
+| synonyms =
+1906 ''Clathrella treubii'' <small>G.E. Bernard</small><br>
+1940 ''Colus treubii'' <small>(G.E. Bernard) [[Israel G. Reichert|Reichert]]</small>
+}}
+{{mycomorphbox
+| name = ''Clathrus treubii''
+| hymeniumType=gleba
+| capShape=no
+| whichGills=no
+| stipeCharacter=NA
+| sporePrintColor =olive-brown
+| ecologicalType=saprotrophic
+}}
+
+
+'''''Clathrus treubii''''' is a species of [[fungus]] in the [[stinkhorn]] family. It is found in Indonesia and Malaysia.<ref name="urlMycoBank:Clathrus treubii"/>
+
+==References==
+{{Reflist|refs=
+
+<ref name="urlMycoBank:Clathrus treubii">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=218546 |title=''Clathrus treubii'' (Bernard) Lloyd 1907 |publisher=International Mycological Association |work=MycoBank |accessdate=2010-10-29}}</ref>
+
+}}
+
+{{Taxonbar|from=Q5128570}}
+
+[[Category:Phallales]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi described in 1906]]
+[[Category:Fungus species]]
+
+
+{{Phallales-stub}}

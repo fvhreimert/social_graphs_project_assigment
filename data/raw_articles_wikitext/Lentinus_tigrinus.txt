@@ -1,0 +1,63 @@
+{{Short description|Species of fungus}}
+{{Expand German|topic=scitech|Getigerter_Sägeblättling|date=December 2015}}
+{{Speciesbox
+| image = Lentinus tigrinus.JPG
+| image2 = Lentinus tigrinus (Philippines) 04.jpg
+| genus = Lentinus
+| species = tigrinus
+| authority = ([[Jean Baptiste François Pierre Bulliard|Bull.]]) [[Elias Magnus Fries|Fr.]] (1825)
+| synonyms_ref = <ref name="urlMycoBank: Lentinus tigrinus"/><ref name="urlMycoBank: Lentinus dunalii"/><ref name="urlMycoBank: Pocillaria fimbriata"/><ref name="Hibbett 1994"/>
+| synonyms = 
+''Agaricus tigrinus'' <small>Bull. (1782)</small><br/>
+''Omphalia tigrina'' <small>(Bull.) Gray (1821)</small><br/>
+''Clitocybe tigrina'' <small>(Bull.) [[Paul Kummer|P. Kumm]] (1871)</small><br/>
+''Pocillaria tigrina'' <small>(Bull.) [[Otto Kuntze|Kuntze]] (1891)</small><br/>
+''Lentodium tigrinum'' <small>(Bull.) [[Franklin Sumner Earle|Earle]] (1909)</small><br/>
+''Panus tigrinus'' <small>(Bull.) [[Rolf Singer|Singer]] (1951)</small><br/>
+''Pleurotus tigrinus'' <small>(Bull.) [[Robert Kühner|Kühner]] (1980)</small><br/>
+''Polyporus gerdai'' <small>D. Krüger (2004)</small><br/>
+''Agaricus dunalii'' <small>DC. (1815)</small><br/>
+''Lentinus dunalii'' <small>(DC.) Fr. (1825)</small><br/>
+''Pocillaria dunalii'' <small>(DC.) Kuntze (1891)</small><br/>
+''Lentinus tigrinus var. dunalii'' <small>(DC.) [[Carleton Rea|Rea]] (1922)</small><br/>
+''Lentinus tigrinus var. dunalii'' <small>(DC.) [[Henri Romagnesi|Romagn.]] ex [[Marcel Bon|Bon]]  (1985)</small>
+''Agaricus denticulatus'' <small>[[Lewis David von Schweinitz|Schwein.]] (1822)</small><br/>
+''Lentinus schweinitzii'' <small>Fr. (1825)</small><br/>
+''Lentinus contortus'' <small>Fr. (1836)</small><br/>
+''Lentinus ravenelii'' <small>[[Miles Joseph Berkeley|Berk.]] & M.A. Curtis (1849)</small><br/> 
+''Lentinus fimbriatus'' <small>Curr. (1863)</small><br/>
+''Pocillaria fimbriata'' <small>(Curr.) Kuntze (1891)</small><br/>
+''Lentodium squamulosum'' <small>[[Andrew Price Morgan|Morgan]] (1895)</small><br/>
+''Panus tigrinus var. squamulosus'' <small>(Morgan) Rosinski and Robinson. (1986)</small><br/>
+''Lentinus ghattasensis'' <small>[[Paul Christoph Hennings|Henn.]] (1898)</small>
+}}
+
+'''''Lentinus tigrinus''''' is a [[mushroom]] in the [[Polyporaceae]] family. It is classified as nonpoisonous.<ref name="Miller 2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=147|author-link=Orson K. Miller Jr.}}</ref> It has been reported that the mushrooms have significant [[antioxidant]] and [[antimicrobial]] activity.<ref>{{Cite journal|last=Sevindik|first=Mustafa|date=2018-11-01|title=Investigation of Antioxidant/Oxidant Status and Antimicrobial Activities of Lentinus tigrinus|journal=Advances in Pharmacological Sciences|volume=2018|pages=1–4|language=en|doi=10.1155/2018/1718025|pmc=6236708|pmid=30515206|doi-access=free}}</ref>
+
+The caps are {{Convert|2-4|cm|frac=4}} wide. It produces a white [[spore print]].<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=278}}</ref>
+
+==References==
+{{Reflist|refs=
+
+<ref name="Hibbett 1994">{{cite journal |last1=Hibbett |first1=David S. |last2=Tsuneda |first2=Akihika |last3=Murakami |first3=Shigeyuki |year=1994 |title=The Secotioid Form of ''Lentinus tigrinus'': Genetics and Development of a Fungal Morphological Innovation |journal=American Journal of Botany |volume=81 |issue=4 |pages=466–478 |doi=10.2307/2445497|jstor=2445497 }}</ref>
+
+<ref name="urlMycoBank: Lentinus dunalii">{{cite web |url=http://www.mycobank.org/Biolomics.aspx?Table=Mycobank&MycoBankNr_=169024 |title=''Lentinus dunalii'' (DC.) Fr. (1825) |publisher=International Mycological Association |work=MycoBank |access-date=2015-10-05}}</ref>
+
+<ref name="urlMycoBank: Lentinus tigrinus">{{cite web |url=http://www.mycobank.org/Biolomics.aspx?Table=Mycobank&MycoBankNr_=164542 |title=''Lentinus tigrinus'' (Bull.) Fr. (1825) |publisher=International Mycological Association |work=MycoBank |access-date=2015-10-05}}</ref>
+
+<ref name="urlMycoBank: Pocillaria fimbriata">{{cite web |url=http://www.mycobank.org/BioloMICS.aspx?Link=T&TableKey=14682616000000067&Rec=85343&Fields=All |title=''Pocillaria fimbriata'' (Curr.) Kuntze (1891) |publisher=International Mycological Association |work=MycoBank |access-date=2015-10-05}}</ref>
+}}
+
+==Further reading==
+* {{cite web |url=http://media.wix.com/ugd/b65817_9aa21547bf374564b90c29cb7b7e18fb.pdf |title=Lentinoid and polyporoid fungi, two generic conglomerates containing important medicinal mushrooms in molecular perspective |vauthors=Zmitrovic IV, Kovalenko AE |name-list-style=amp |publisher=International Journal of Medicinal Mushrooms |work=18(1) |pages=23–38}}
+
+{{Taxonbar|from=Q1513219}}
+
+[[Category:Fungal plant pathogens and diseases]]
+[[Category:Polyporaceae]]
+[[Category:Fungi of Europe]]
+[[Category:Taxa named by Jean Baptiste François Pierre Bulliard]]
+[[Category:Fungus species]]
+
+
+{{Polyporales-stub}}

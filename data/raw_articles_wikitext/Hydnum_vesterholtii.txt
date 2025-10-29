@@ -1,0 +1,28 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = 
+| image_alt = 
+| image_caption = 
+| genus = Hydnum
+| species = vesterholtii
+| authority =  Olariaga, Grebenc, Salcedo & M.P. Martín
+}}
+'''''Hydnum vesterholtii''''' is a species of fungus in the family [[Hydnaceae]] native to the southern and Central Europe and southwestern China.<ref name=feng16/><ref name=vizzini12/>
+
+== References ==
+{{Reflist|refs=
+<ref name=feng16>{{cite journal | title=Multilocus phylogenetic analyses reveal unexpected abundant diversity and significant disjunct distribution pattern of the Hedgehog Mushrooms (''Hydnum'' L.) | journal=Scientific Reports | volume=6 | at =25586 | vauthors=Feng B, Wang XH, Ratkowsky D, Gates G, Lee SS, Grebenc T, Yang ZL | doi=10.1038/srep25586 | pmid=27151256 | pmc=4858670 | year=2016 | bibcode=2016NatSR...625586F }}</ref>
+
+<ref name=vizzini12>{{cite journal | vauthors = Vizzini A, Picillo B, Ercole E, Voyron S, Contu M  | year=2013 | title= Detecting the variability of ''Hydnum ovoideisporum'' (Agaricomycetes, Cantharellales) on the basis of Italian collections, and ''H. magnorufescens'' sp. nov| journal = Mycosphere| volume= 4| issue= 1| pages= 32–44 |doi = 10.5943/mycosphere/4/1/2 | url=http://www.mycosphere.org/pdf/MC4_1_No2.pdf | doi-access= free}}</ref>
+
+}}
+
+{{Taxonbar|from=Q48965882}}
+
+[[Category:Fungi described in 2012]]
+[[Category:Fungi of Europe]]
+[[Category:Hydnum|vesterholtii]]
+[[Category:Fungus species]]
+
+
+{{Agaricomycetes-stub}}

@@ -1,0 +1,128 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Panus-conchatus.jpg
+| image_caption =
+| genus = Panus
+| species = conchatus
+| authority =  ([[Jean Baptiste François Pierre Bulliard|Bull.]]) [[Elias Magnus Fries|Fr.]] (1838)
+| synonyms_ref = <ref name="urlMycoBank: Panus conchatus"/>
+| synonyms =
+* ''Agaricus conchatus'' <small>Bull. (1787)</small>
+* ''Agaricus inconstans'' var. ''conchatus'' <small>(Bull.) [[Pers.]] (1801)</small>
+* ''Lentinus conchatus'' <small>(Bull.) [[J.Schröt.]] (1889)</small>
+* ''Pocillaria conchata'' <small>(Bull.) [[Otto Kuntze|Kuntze]] (1891)</small>
+* ''Lentinopanus conchatus'' <small>(Bull.) [[Albert Pilát|Pilát]] (1941)</small>
+* ''Panus torulosus'' var. ''conchatus'' <small>(Bull.) [[Calvin Henry Kauffman|Kauffman]] (1918)</small>
+}}
+{{mycomorphbox
+| name = ''Panus conchatus''
+| whichGills = decurrent
+| capShape = convex
+| capShape2 = flat
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = saprotrophic
+| sporePrintColor = white
+| howEdible = caution
+}}
+
+'''''Panus conchatus''''', commonly known as the '''lilac oysterling''', '''smooth panus''', or '''conch panus''',<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/138/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=138-139 |orig-date=1979}}</ref> is a species of fungus. Despite being a [[lamella (mycology)|gilled]] species, [[phylogenetic]] analysis has shown it is closely related to the pored species found in the family [[Polyporaceae]].
+
+The [[basidiocarp|fruit bodies]] are characterized by a smooth, [[lilac (color)|lilac]]- or [[tan (color)|tan]]-colored [[pileus (mycology)|cap]], and [[decurrent]] gills. The fungus is [[saprophytic]] and fruits on the decomposing wood of a wide variety of [[deciduous]] and [[conifer]]ous trees throughout the Northern Hemisphere. 
+
+==Taxonomy==
+The species was originally [[species description|described]] under the name ''Agaricus conchatus'' by French mycologist [[Jean Baptiste François Pierre Bulliard]] in volume 7 of his 1787 ''Herbier de la France''.<ref name="Bulliard 1787"/> [[Elias Magnus Fries]] transferred it to the genus ''[[Panus]]'' in 1838.<ref name="Fries 1838"/>
+
+''Panus conchatus'' mushrooms have an extremely variable [[morphology (biology)|morphology]] that changes with the age of the fruitbodies. Young specimens are pliable and fleshy, colored lilac to purple, and have a monomitic [[hypha]]l system (containing only generative hyphae). Old fruitbodies lose the coloring and develop a tough texture. They have a dimitic hyphal system, containing both generative and skeletal hyphae. Because of this variability in fruitbody morphology, the fungus has been described several times under different names by different mycologists.<ref name="Pegler 1983"/> The following are heterotypic [[synonym (biology)|synonyms]] of ''Panus conchatus'' (based on a different [[type (biology)|type]]):<ref name="urlMycoBank: Panus conchatus"/>
+*''Agaricus flabelliformis'' [[Jacob Christian Schäffer|Schaeff.]] (1774)<ref name="Schaffer 1774"/>
+*''Agaricus carneotomentosus'' [[August Batsch|Batsch]] (1783)<ref name="Batsch 1783"/>
+*''Panus monticola'' Berk (1851)<ref name="Berkeley 1851"/>
+*''Panus vaporarius'' [[Bagl.]] (1865)<ref name="Baglietto 1865"/>
+*''Lentinus percomis'' [[Miles Joseph Berkeley|Berk.]] & [[Christopher Edmund Broome|Broome]] (1875)<ref name="Berkeley 1874"/>
+*''Lentinus divisus'' [[Stephan Schulzer von Müggenburg|Schulzer]] (1879)<ref name="Schulzer 1878"/>
+*''Lentinus bresadolae'' Schulzer (1885)<ref name="Schulzer 1885"/>
+*''Lentinus carneotomentosus''  [[Joseph Schröter|J.Schröt.]] (1889)<ref name="Schröter 1885"/>
+*''Lentinus obconicus'' [[Charles Horton Peck|Peck]] (1906)<ref name="Peck 1906"/>
+
+=== Phylogeny ===
+The general growth form, or [[habit (biology)|habit]], of ''P.&nbsp;conchatus'' is ''[[Pleurotoid fungi|pleurotoid]]'', referring to its growth on wood, the presence of gills, and roughly semicircular-shaped caps and off-center stem attachment to the cap. A study of this and various other pleurotoid species using [[phylogenetic]] analysis determined that despite the presence of gills, ''P.&nbsp;conchatus'' is closely related to mushrooms with pores, hence their placement in the [[Polyporaceae]] family.<ref name="Thorn 2000" />
+
+=== Etymology ===
+The [[specific name (botany)|specific epithet]] ''conchatus'' is derived from the [[Latin language|Latin]] word meaning "shell-like".<ref name="urlPLEUROTOID species in the Pacific Northwest">{{cite web |author=Brown DE |year=2003 |title=PLEUROTOID species in the Pacific Northwest |url=http://www.svims.ca/council/Pleuro.htm |access-date=2009-04-05 |publisher=Pacific Northwest Key Council}}</ref> It is [[common name|commonly]] known as the lilac oysterling.<ref name="BMS" />
+
+== Description ==
+The [[pileus (mycology)|cap]] is {{convert|3 to 17|cm|frac=2}} wide<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=236}}</ref><ref name="Arora1986" /> and initially convex before flattening and sometimes becoming centrally depressed in age.<ref name="Arora1986" /> The cap is [[tan (color)|tan]], [[lilac (color)|lilac]] or reddish-brown, and smooth ([[glabrousness (botany)|glabrous]]); in age the surface may crack into small flattened scales.<ref name="urlCalifornia Fungi: Panus conchatus" /> The cap margin is [[wikt:inrolled|inrolled]] and often has a wavy or lobed outline. The [[trama (mycology)|flesh]] is tough and whitish. The [[lamella (mycology)|gills]] are attached decurrently (running down the length of the stem) and are narrow and often forked. The gills initially have a violet tinge, but later become light yellow<ref name="audu" /> or reddish-violet. The [[stipe (mycology)|stem]] is {{convert|1.5 to 5|cm|abbr=on|frac=4}} long<ref name="audu" /> and {{convert|0.5|to|3|cm|abbr=on|frac=8}} thick,<ref name="Arora1986" /> roughly the same color as the cap, but covered with violet hairs; it is attached to the cap laterally, or off-center.<ref name="Orr 1979" /> The [[spore print]] is white.<ref name="audu" />
+
+Viewed microscopically, [[spore]]s are elliptical, smooth, and non-[[amyloid]], with dimensions of 5–7 by 2.5–3.5&nbsp;[[μm]]. The [[pleurocystidia]] are either enlarged in the middle (''ventricose'') or enlarged and spherical at the tip (''capitate''); these cells have dimensions of 35–45 by 8–11&nbsp;μm.<ref name="urlMushroomExpert" />
+
+=== Similar species ===
+It can resemble ''[[Panus lecomtei]]'' and ''[[Pseudoarmillariella ectypoides]]''.<ref name="audu" />
+
+==Habitat and distribution==
+''Panus conchatus'' is a [[saprobic]] species—deriving nutrition from rotting or decaying organic matter. Fruit bodies can be found on [[hardwood]] stumps, logs and sticks, usually crowded together in clusters.<ref name="Orr 1979"/> Typical [[host (biology)|hosts]] include wood of deciduous trees—especially [[beech]], [[Populus|poplar]], [[birch]], and [[oak]], and less frequently on [[Fraxinus|ash]] and [[elm]]. Coniferous hosts include [[fir]], [[spruce]], [[pine]], and [[Taxus|yew]].<ref name="Pegler 1983"/>
+
+Found throughout the Northern Hemisphere,<ref name="Johnson 1994"/> this species has been collected in North America<ref name="Orr 1979"/> and Europe.<ref name="urlRogers"/> It can be found in eastern North America from April to August and on the West Coast from December to June.<ref name="audu" />
+
+==Potential uses==
+Although believed to be non-toxic<ref name="urlCalifornia Fungi: Panus conchatus"/> and sometimes eaten when young, ''P.&nbsp;conchatus'' is not recommended for consumption due to its tough and leathery texture.<ref name="urlMushroomExpert"/><ref name="Miller 2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=161|author-link=Orson K. Miller Jr.}}</ref>
+
+''Panus conchatus'' contains a [[laccase]], a [[polyphenol oxidase]] enzyme. These enzymes have potential in industrial applications for [[Bleaching of wood pulp|pulp bleaching]], [[wastewater treatment]] in mills, and removal of [[phenol]]ic compounds in the food industry. Most laccases have an [[active site]] containing four [[copper]] molecules, and are known as [[multicopper oxidase|blue copper phenol oxidases]]. ''P.&nbsp;conchatus'', however, contains a white laccase that lacks the typical blue copper color.<ref name="Zhou 2014"/> The crudely purified enzyme has been used for pulp bleaching<ref name="Mo 2006"/> and wastewater decoloration in experimental studies.<ref name="Ding 2012"/>
+
+==References==
+{{Reflist|30em|refs=
+
+<ref name="Baglietto 1865">{{cite journal |author=Baglietto F. |title=Materiali per la Micologia italiana |journal=Commentario della Società Crittogamologica Italiana |year=1865 |volume=2 |issue=2 |pages=261–265 |language=it}}</ref>
+
+<ref name="Batsch 1783">{{cite book |author=Batsch AJGK. |title=Elenchus fungorum |year=1783 |page=89 |language=la, de |url=http://caliban.mpipz.mpg.de/batsch/elenchus1/high/IMG_5218.html}}</ref>
+
+<ref name="Berkeley 1851">{{cite journal |author=Berkeley MJ. |title=Decades of fungi. Decades XXXII, XXXIII. Sikkim Himalaya fungi, collected by Dr. J.D. Hooker |journal=Hooker's Journal of Botany and Kew Garden Miscellany |year=1851 |volume=3 |pages=39–49 |url=https://www.biodiversitylibrary.org/page/780848}}</ref>
+
+<ref name="Berkeley 1874">{{cite journal |vauthors=Berkeley MJ, Broome CE |title=Enumeration of the fungi of Ceylon. Part II |journal=Botanical Journal of the Linnean Society |year=1874 |volume=14 |pages=29–141 (see p.&nbsp;42) |url=https://www.biodiversitylibrary.org/page/237811|doi=10.1111/j.1095-8339.1873.tb00301.x}}</ref>
+
+<ref name="BMS">{{cite web |author=Holden L. |title=English Names for fungi 2014 |url=http://www.britmycolsoc.org.uk/library/english-names/ |publisher=British Mycological Society |access-date=2016-01-11 |archive-date=2015-09-23 |archive-url=https://web.archive.org/web/20150923194645/http://www.britmycolsoc.org.uk/library/english-names/ |url-status=dead }}</ref>
+
+<ref name="Bulliard 1787">{{cite book |author=Bulliard JBF. |title=Herbier de la France |year=1787 |volume=7 |page=plate 298 |language=fr |url=http://bibdigital.rjb.csic.es/Imagenes/O_BUL_Herb_France_3/BUL_Herb_France_3_010.pdf }}</ref>
+
+<ref name="Ding 2012">{{cite conference |vauthors=Ding S, Wang J |title=Preparation of immobilized ''Panus conchatus'' bio-balls for fur dye wastewater |book-title=Proceedings of the 2012 Second International Conference on Electric Technology and Civil Engineering |year=2012 |publisher=IEEE Computer Society |location=Washington, DC, USA |pages=2005–2009 |isbn=978-0-7695-4704-6}}</ref>
+
+<ref name="Fries 1838">{{cite book |author=Fries EM. |title=Epicrisis Systematis Mycologici, seu Synopsis Hymenomycetum |year=1838 |location=Uppsala, Sweden |publisher=Typographia Academica |page=398 |url=http://www.cybertruffle.org.uk/cyberliber/02485/0398.htm |language=la}}</ref>
+
+<ref name="Johnson 1994">{{cite journal |vauthors=Johnson JE, Methven AS |title=''Panus conchatus'': cultural characters and mating data |journal=[[Mycologia]] |year=1994 |volume=86 |issue=1 |pages=146–50 |jstor=3760731 |doi=10.2307/3760731}}</ref>
+
+<ref name="Mo 2006">{{cite journal |vauthors=Mo JL, Fu SY, Zhan HY |title=Improving laccase activity of ''Panus conchatus'' by mutagenesis and used for biobleaching |journal=Transactions of China Pulp and Paper |year=2006 |volume=21 |pages=29–33}}</ref>
+
+<ref name="Orr 1979">{{cite book |vauthors=Orr DB, Orr RT |title=Mushrooms of Western North America |publisher=University of California Press |location=Berkeley, California |year=1979 |page=251 |isbn=0-520-03656-5}}</ref>
+
+<ref name="Peck 1906">{{cite journal |author=Peck CH. |title=New species of fungi |journal=Bulletin of the Torrey Botanical Club |year=1906 |volume=33 |issue=4 |pages=213–221 |url=https://www.biodiversitylibrary.org/page/13173971 |doi=10.2307/2478763|jstor=2478763 }}</ref>
+
+<ref name="Pegler 1983">{{cite book |author=Pegler DN. |title=The genus ''Lentinus''. A World Monograph |series=Kew Bulletin Additional Series |volume=10 |location=London, UK |publisher=Her Majesty's Stationery Office |isbn=978-0-11-242627-1 |pages=134–136}}</ref>
+
+<ref name="Schaffer 1774">{{cite book |author=Schaeffer JC. |title=Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones |year=1774 |volume=4 |location=Regensburg |page=20 |url=https://www.biodiversitylibrary.org/item/24262#page/318/mode/1up |language=la}}</ref>
+
+<ref name="Schröter 1885">{{cite book |author=Schröter J. |title=Kryptogamen-Flora von Schlesien |year=1885 |volume=3–1(1) |publisher=Cramer |location=Lehre, Germany |page=554 |language=de}}</ref>
+
+<ref name="Schulzer 1878">{{citation |author=Schulzer S. |title=Mycologische Beiträge. III |year=1878 |volume=28 |pages=423–436 |language=de |url=https://www.biodiversitylibrary.org/page/16400002}}</ref>
+
+<ref name="Schulzer 1885">{{cite journal |author=Schulzer S. |title=Einige neue Pilz-Species und Varietäten aus Slavonien |journal=Hedwigia |year=1885 |volume=24 |issue=4 |pages=129–151 |language=de, la |url=https://www.biodiversitylibrary.org/page/481538}}</ref>
+
+<ref name="Thorn 2000">{{cite journal |vauthors=Thorn RG, Moncalvo JM, Reddy CA, Vilgalys R |year=2000 |title=Phylogenetic analyses and the distribution of nematophagy support a monophyletic pleurotaceae within the polyphyletic pleurotoid-lentinoid fungi |journal=Mycologia |volume=92 |issue=2 |pages=241–52 |jstor=3761557 |doi=10.2307/3761557}}</ref>
+
+<ref name="urlCalifornia Fungi: Panus conchatus">{{cite web |vauthors=Wood M, Stevens F |url=http://www.mykoweb.com/CAF/species/Panus_conchatus.html |title=California Fungi: ''Panus conchatus'' |access-date=2009-04-05}}</ref>
+
+<ref name="urlMushroomExpert">{{cite web |author=Kuo M |url=http://www.mushroomexpert.com/panus_conchatus.html |title=''Panus conchatus'' |publisher=MushroomExpert.com |access-date=2009-04-05}}</ref>
+
+<ref name="urlMycoBank: Panus conchatus">{{cite web |title=''Panus conchatus'' (Bull.) Fr. 1838 |url=http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=18391&Fields=All |publisher=[[MycoBank]]. International Mycological Association |access-date=2015-01-11}}</ref>
+
+<ref name="urlRogers">{{cite web |url=http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6572.asp |archive-url=https://web.archive.org/web/20080516190925/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6572.asp |url-status=dead |archive-date=2008-05-16 |title=Rogers Mushrooms &#124; Mushroom Pictures & Mushroom Reference |publisher=Rogers Mushrooms |access-date=2009-04-05 }}</ref>
+
+<ref name="Zhou 2014">{{cite journal |vauthors=Zhou P, Fu C, Fu S, Zhan H |title=Purification and characterization of white laccase from the white-rot fungus ''Panus conchatus'' |journal=BioResources |year=2014 |volume=9 |issue=2 |pages=1964–1976 |url=http://ojs.cnr.ncsu.edu/index.php/BioRes/article/download/BioRes_09_2_1964_Zhou_White_Laccase_Fungus/2622 |doi=10.15376/biores.9.2.1964-1976|doi-access=free }}</ref>
+
+}}
+
+{{Taxonbar|from=Q1807172}}
+
+[[Category:Polyporaceae]]
+[[Category:Fungi described in 1787]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]

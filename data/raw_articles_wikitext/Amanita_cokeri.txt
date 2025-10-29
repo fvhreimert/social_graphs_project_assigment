@@ -1,0 +1,62 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{Speciesbox
+| image = Amanita cokeri 52268.jpg
+| genus = Amanita
+| species = cokeri
+| authority = (E.-J.Gilbert & [[Robert Kühner|Kühner]]) E.-J.Gilbert
+| synonyms_ref = <ref name="urlMycoBank: Amanita cokeri"/>
+| synonyms = ''Lepidella cokeri'' <small>E.-J.Gilbert & Kühner (1928)</small><br>
+''Aspidella cokeri'' <small>(E.-J.Gilbert & Kühner) E.-J.Gilbert (1940)</small>
+}}
+{{mycomorphbox
+| name = ''Amanita cokeri''
+| hymeniumType = gills
+| capShape = convex
+| whichGills = free
+| stipeCharacter = ring and volva
+| sporePrintColor = white
+| ecologicalType2 = 
+| howEdible = poisonous
+| ecologicalType = mycorrhizal
+}}
+{{stack end}}
+
+'''''Amanita cokeri''''', commonly known as '''Coker's amanita'''<ref name=NGSWG>{{NGSWG}}</ref> and '''solitary lepidella''',<ref name=McKnight>{{cite book|last=McKnight|first=Kent H.|title=A field guide to mushrooms, North America|year=1987|publisher=Houghton Mifflin|location=Boston|isbn=0-395-42101-2|edition=2.|author2=McKnight, Vera B. McKnight |author3= illustrations by Vera B.|page=222}}</ref> is a [[poisonous mushroom]] in the family [[Amanitaceae]].<ref name="Miller20062">{{cite book|last=Miller Jr.|first=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=46}}</ref> First described as ''Lepidella cokeri'' in 1928, it was transferred to the genus ''[[Amanita]]'' in 1940.
+
+== Taxonomy ==
+''Amanita cokeri'' was first described as ''Lepidella cokeri'' by mycologists E.-J.Gilbert and Robert Kühner in 1928. It was in 1940 when the species was transferred from genus ''Lepidella'' to ''[[Amanita]]'' by Gilbert.<ref name="urlMycoBank: Amanita cokeri">{{cite web |title=''Amanita cokeri'' (E.-J. Gilbert & Kühner) E.-J. Gilbert |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=355702 |accessdate=2011-03-01 |work=MycoBank |publisher=International Mycological Association}}</ref> Presently, ''A. cokeri'' is placed under genus ''[[Amanita]]'' and section ''Roanokenses''. The epithet ''cokeri'' is in honour of American mycologist and botanist [[William Chambers Coker]].<ref name="roody">{{cite book |last=Roody |first=William C. |title=Mushrooms of West Virginia and the Central Appalachians |publisher=University Press of Kentucky |year=2003 |isbn=0-8131-9039-8 |location=Lexington |page=50}}</ref><ref name="bessette">{{cite book |last=Bessette |first=A. E. |title=Mushrooms of the southeastern United States |publisher=Syracuse Univ. Press |year=2007 |isbn=978-0-8156-3112-5 |edition=1 |location=Syracuse |page=106}}</ref>
+
+==Description==
+
+Its [[pileus (mycology)|cap]] is white in colour, and {{convert|7|-|15|cm|abbr=off|frac=2}} across. It is oval to convex in shape. The surface is dry but sticky when wet. The cap surface is characterized by large pointed warts, white to brown in colour.<ref name="Kuo">{{cite web |url=https://www.mushroomexpert.com/amanita_cokeri.html |title=''Amanita cokeri'' |author=Kuo M. |date=August 2003 |work=MushroomExpert.com |accessdate=2011-03-01}}</ref>
+
+[[Lamella (mycology)|Gill]]s are closely spaced and free from the stem. They are cream at first, but can turn white as the mushroom matures. Short-gills are frequent. [[stipe (mycology)|Stem]] is white, measuring {{convert|10|-|20|cm|abbr=on|frac=2}} long and {{convert|1|-|2|cm|abbr=on|frac=4}} thick. It tapers slightly to the top, smooth to shaggy in texture. There is a ring, thick and often double-edged, the underside being tissuelike. The universal veil hangs from the top of the stipe.<ref name=Fergus/> The basal bulb is considerably large in size, with concentric circles of down-turned scales. The volval remnants stick to it and cause irregular patches.<ref name=Fergus>{{cite book|last=Fergus|first=C. Leonard|title=Common edible and poisonous mushrooms of the northeast|year=2003|publisher=Stackpole Books|location=Mechanicsburg|isbn=0-8117-2641-X|edition=1st|author2=Fergus, Charles|page=22}}</ref>
+
+Spores are white, elliptical and [[amyloid]]. They measure 11–14 x 6–9 [[micrometre|μm]], and feel smooth. [[Trama (mycology)|Flesh]] is white, and shows no change when exposed. There is no distinctive odour,<ref name=McKnight/><ref name="Kuo"/> but some specimens may develop the smell of decaying protein.<ref name=tulloss>{{cite web|last=Tulloss|first=RE|title=''Amanita cokeri''|url=http://www.amanitaceae.org/?Amanita+cokeri|publisher=Amanitaceae.org|accessdate=24 October 2012}}</ref>
+
+===Similar species===
+''[[Amanita solitaria]]'' is a closely related species, though a completely different European taxa.<ref name=Fuller>{{cite book|last=Fuller|first=Thomas C.|title=Poisonous plants of California|url=https://archive.org/details/bub_gb_0-op0XwlDmQC|year=1986|publisher=University of California Press|location=Berkeley|isbn=0-520-05568-3|author2=McClintock, Elizabeth|page=[https://archive.org/details/bub_gb_0-op0XwlDmQC/page/n49 43]}}</ref> The notable similarity is that both it and ''A. cokeri'' are double-ringed.<ref name=solitaria>{{cite web|last=Tulloss|first=RE|title=''Amanita solitaria''|url=http://www.amanitaceae.org/?Amanita%20solitaria|publisher=Amanitaceae.org|accessdate=24 October 2012}}</ref> ''[[Amanita timida|A. timida]]'', from the tropical South Asia, resembles ''A. cokeri'' in its volval structure, thick and notable ring and the large bulbal base.<ref name=bas>{{cite book|last=Bas|first=Cornelis|title=Morphology and subdivision of ''Amanita'' and a monograph on its section Lepidella|year=1969|page=390}}</ref><ref name=timida>{{cite web|last=Tulloss|first=RE|title=''Amanita timida''|url=http://www.amanitaceae.org/?Amanita%20timida|publisher=Amanitaceae.org|accessdate=24 October 2012}}</ref>
+
+== Distribution and habitat ==
+''A. cokeri'' inhabits mixed coniferous or deciduous woods and also grows on the ground. It grows mainly on oak and pine trees, and leaves a white deposit. It grows isolated or in groups.<ref name="rogers">{{cite web|last=Phillips|first=Roger|title=''Amanita cokeri''|url=http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~5526.asp|publisher=Rogers Mushrooms|accessdate=24 October 2012|url-status=dead|archiveurl=https://web.archive.org/web/20111106115459/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~5526.asp|archivedate=6 November 2011}}</ref> It is mostly distributed in southeastern North America.<ref name="gibbons">{{cite book|last=Gibbons|first=Whit|title=Poisonous plants and venomous animals of Alabama and adjoining states|year=1990|publisher=University of Alabama Press|location=Tuscaloosa|isbn=0-8173-0442-8|author2=Haynes, RR.|author3= Thomas, JL.|author4= with a foreword by Geller, Robert J.|page=28}}</ref>  It fruits from July to November.<ref name="rogers" />
+
+== Toxicity ==
+In a study, the presence of non-protein [[amino acid]]s 2-amino-3-cyclopropylbutanoic acid and 2-amino-5-chloro-4-pentenoic acid was revealed. The former acid was found to be toxic to the fungus ''[[Cercospora kikuchii]]'', the arthropod ''[[Oncopeltus fasciatus]]'' and the bacteria ''[[Agrobacterium tumefaciens]]'', ''[[Erwinia amylovora]]'', and ''[[Xanthomonas campestris]]''. The toxicity for bacteria could be eliminated by adding [[isoleucine]] to the medium. The other acid did not prove toxic.<ref name="Drehmel">{{cite journal |last=Drehmel |first=Dennis C. |author2=Chilton, William Scott |year=2002 |title=Characterization and toxicity of ''Amanita cokeri'' extract |journal=Journal of Chemical Ecology |volume=28 |issue=2 |pages=333–41 |doi=10.1023/A:1017986108720 |issn=0098-0331 |pmid=11925071 |s2cid=7986407}}</ref>
+
+== See also ==
+{{Portal|Fungi}}
+*[[List of Amanita species|List of ''Amanita'' species]]
+
+==References==
+{{Reflist|2}}
+
+==External links==
+{{Amanitas}}
+{{Taxonbar|from=Q1951851}}
+
+[[Category:Amanita|cokeri]]
+[[Category:Poisonous fungi]]
+[[Category:Fungi described in 1928]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]

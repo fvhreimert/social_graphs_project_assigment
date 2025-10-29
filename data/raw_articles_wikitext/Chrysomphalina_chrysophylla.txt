@@ -1,0 +1,37 @@
+{{Short description|Species of fungus}}
+{{Taxobox 
+| image = Chrysomphalina chrysophylla 20090811wa.JPG
+| image_width = 240px
+| image_caption = ''Chrysomphalina chrysophylla''
+| regnum = [[Fungi]]
+| divisio = [[Basidiomycota]]
+| classis = [[Agaricomycetes]]
+| ordo = [[Agaricales]]
+| familia = [[Hygrophoraceae]]
+| genus = '''''[[Chrysomphalina]]'''''
+| species = ''C. chrysophylla''
+| binomial =  ''Chrysomphalina chrysophylla''
+| binomial_authority = ([[Elias Magnus Fries|Fr.]]) Clémençon (1982)
+}}
+
+'''''Chrysomphalina chrysophylla''''' is a [[species]] of mushroom with a north [[temperate]] distribution. Described by Elias Magnus Fries in 1821, it was placed in the genus ''[[Chrysomphalina]]'' by Swiss mycologist Heinz Clémençon in 1982.<ref name="Clémençon 1982"/>
+
+The yellow caps are {{Convert|1-5|cm|frac=4}} wide and the stems {{Convert|1-4|cm|abbr=on|frac=4}} long. The [[spore print]] is yellowish. It may resemble ''[[Chrysomphalina aurantiaca|C.&nbsp;aurantiaca]]'' or ''[[Gerronema strombodes]]''.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=391}}</ref>
+
+==References==
+{{Reflist|refs=
+
+<ref name="Clémençon 1982">{{cite journal |author=Clémençon H. |title=Kompendium der Blätterpilze Europäische omphalinoide Tricholomataceae |journal=Zeitschrift für Mykologie |year=1982 |volume=48 |issue=2 |pages=195–237 |language=German |url=http://www.dgfm-ev.de/sites/default/files/ZM482195Clemencon.pdf }}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|109679}}
+
+{{Taxonbar|from=Q10510673}}
+
+[[Category:Fungi of Europe]]
+[[Category:Hygrophoraceae]]
+[[Category:Fungi described in 1821]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]

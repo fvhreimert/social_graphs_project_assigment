@@ -1,0 +1,35 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Leotia viscosa 20040822.jpg
+| image_caption =
+| taxon = Leotia viscosa
+| authority = [[Elias Magnus Fries|Fr.]] (1822)
+}}
+{{mycomorphbox 
+| name = Leotia viscosa
+| whichGills =  NA
+| capShape =convex
+| hymeniumType=smooth
+| stipeCharacter=bare
+| ecologicalType= saprotrophic
+| sporePrintColor=white
+| howEdible=unknown}}
+'''''Leotia viscosa''''', commonly known as '''chicken lips''',<ref name=":0">{{Cite book |last=Arora |first=David |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/874/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, California |year=1986 |orig-date=1979 |edition=2nd |pages=874-75}}</ref> as well as '''jelly baby''' and '''green jelly drops''',<ref>{{cite web |title=Green Mushroom, 20 Different Types - Chicken Lips |url=https://agriinnovationhub.com/blog/green-mushroom-20-different-types/#Chicken_Lips |website=agriinnovationhub.com |publisher=Agri Innovation Hub |access-date=2024-08-14 |archive-url=https://web.archive.org/web/20240522014211/https://agriinnovationhub.com/blog/green-mushroom-20-different-types/#Chicken_Lips |archive-date=2024-05-22 |date=2024-05-16 |url-status=live}}</ref> is a species of [[mushroom]] in the [[Leotiaceae]] family. Its stipe is yellow<ref>{{Cite web |last=Kuo |first=M. |title=Leotia lubrica (MushroomExpert.Com) |url=https://www.mushroomexpert.com/leotia_lubrica.html |access-date=2024-06-13 |website=www.mushroomexpert.com}}</ref> and the [[pileus (mycology)|cap]] is green.<ref>{{Cite web |last=Wood |first=Michael |last2=Stevens |first2=Fred |title=California Fungi—Leotia viscosa |url=https://www.mykoweb.com/CAF/species/Leotia_viscosa.html}}</ref><ref>{{Cite web |title=Leotia lubrica, Jellybaby, identification |url=https://www.first-nature.com/fungi/leotia-lubrica.php |access-date=2024-06-13 |website=www.first-nature.com}}</ref> The cap comes in a variety of shapes.<ref name=":0" /><ref>{{Cite web |title=Leotia lubrica (Scop.) Pers. 1797 {{!}} Species |url=https://biodiversity.bt/species/show/5402 |access-date=2024-06-13 |website=Bhutan Biodiversity Portal |language=en}}</ref>
+
+The species grows under [[oak]] trees or on dead logs.<ref name=":0" /> It is regarded as nonpoisonous.<ref name=":0" />
+
+==References==
+{{reflist}}
+
+==External links==
+* ''[http://www.mushroomexpert.com/leotia_viscosa.html Leotia viscosa]'' at [http://www.mushroomexpert.com Mushroom Expert]
+
+{{Taxonbar|from=Q6527249}}
+
+[[Category:Helotiales]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1822]]
+[[Category:Fungus species]]
+
+
+{{Helotiales-stub}}

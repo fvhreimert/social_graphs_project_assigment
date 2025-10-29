@@ -1,0 +1,54 @@
+{{stack begin}}
+{{Taxobox
+| image = Tectella patellaris.jpg
+| image_caption =
+| regnum = [[Fungi]]
+| divisio = [[Basidiomycota]]
+| classis = [[Agaricomycetes]]
+| ordo = [[Agaricales]]
+| familia = [[Mycenaceae]]
+| genus = ''[[Tectella]]''
+| species = '''''T. patellaris'''''
+| binomial = ''Tectella patellaris''
+| binomial_authority = (Fr.) Murrill
+}}
+{{mycomorphbox
+| name = ''Tectella patellaris''
+| hymeniumType = gills
+| capShape = infundibuliform
+| whichGills = free
+| stipeCharacter = bare
+| stipeCharacter2 = NA
+| sporePrintColor = white
+| ecologicalType = saprotrophic
+| howEdible = inedible
+}}
+{{stack end}}
+'''''Tectella patellaris''''', commonly known as the '''veiled panus''', is a species of [[mushroom]] in the family [[Mycenaceae]]. The small, inconspicuous, dull brown mushroom is found in groups or clusters on the decaying wood of broad-leaved trees.  Young specimens are easily recognized by the presence of a partial veil, as there are no other agarics that lack a stipe and have a partial veil.
+
+==Description==
+The [[pileus (mycology)|cap]] may be somewhat viscid when wet. Dimensions of the cap are approximately 0.5–2.0&nbsp;cm across.  The fruit body is generally small, brown, and clamshell-shaped. ''Tectella patellaris'' often lacks a true [[stipe (mycology)|stem]], but may include a very short one:<ref name="Central"/> the stipitate point of attachment manifests as a lateral extension of the pileus, ranging from 0.1 to 0.3&nbsp;cm.<ref name=Phillips/> The [[lamella (mycology)|gills]] radiate from this central point of attachment. This mushroom is [[saprobic]] and found on fallen logs of hardwoods in North America and Europe.  The [[specific name (botany)|specific epithet]] ''patellaris'' means "dish shaped".<ref name="Central"/> The mushroom is [[common name|commonly]] known as the "Veiled Panus".<ref name="Central"/> The snuff brown gills of young specimens are covered with a buff white ephemeral partial veil that may be absent in older specimens.  The spore deposit from ''Tectella patellaris'' is white.<ref name="Central">{{cite book | last = C. Roody | first = William | authorlink = | title = Mushrooms of West Virginia and the Central Appalachians | publisher = University Press of Kentucky | year = 2003 | location = | page = 28 | url = https://books.google.com/books?id=5HGMPEiy4ykC&pg=PA28 | doi = | id = | isbn = 978-0-8131-9039-6 }}</ref>
+The species is inedible.<ref name=Phillips>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |url=https://archive.org/details/mushroomsotherfu0000phil |url-access=registration |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=[https://archive.org/details/mushroomsotherfu0000phil/page/245 245]}}</ref>
+
+===Microscopic characteristics===
+The [[spore]]s are 3–4&nbsp;×&nbsp;1–1.5&nbsp;[[μm]], smooth, and cylindrical, and weakly amyloid. Spores are white in mass. Cheilocystidia are present on gill edges.<ref name="Central"/>
+
+===Similar species===
+''Tectella patellaris'' can be distinguished from other saprophytic, white-spored, pendulous species by the presence of its partial veil and unique lamellar attachment.  ''Panellus stipticus'' is tougher, lacks the partial veil, and is luminescent.  ''[[Crepidotus mollis]]'' and ''[[Crepidotus applanatus]]'' are brown-spored.
+
+==Habitat and distribution==
+'' Tectella patellaris'' is widely distributed in North America and Europe and due to its inconspicuous and unassuming presence, may be more common than is reported.<ref name="Central"/>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q7692811}}
+
+[[Category:Mycenaceae]]
+[[Category:Fungi described in 1838]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of New Zealand]]
+[[Category:Fungi of North America]]
+[[Category:Inedible fungi]]
+[[Category:Fungus species]]

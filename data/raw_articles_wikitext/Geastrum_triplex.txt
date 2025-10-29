@@ -1,0 +1,222 @@
+{{Short description|Species of fungus in the family Geastraceae}}
+{{pp-move-indef}}
+{{speciesbox
+| image = Geastrum triplex - Bola Creek.jpg
+| image_caption =
+| image_alt = A light gray-brown flattened sacs with pointy "beaks" on top. The sac is resting on thick, rough-surfaced fleshy rays that curl downwards and raise the sac above the ground. On the ground are pieces of decaying wood, twigs and leaves.
+| taxon = Geastrum triplex
+| authority = [[Franz Wilhelm Junghuhn|Jungh.]]
+| synonyms = ''Geastrum indicum'' <small>([[Johann Friedrich Klotzsch|Klotzsch]]) [[Stephan Rauschert|Rauschert]]</small><br>
+''Geastrum michelianum'' <small>[[Worthington George Smith|W.G. Sm.]]</small><br>
+''Geastrum tunicatus'' var. ''michelianus'' <small>(W.G. Sm.) [[Pier Andrea Saccardo|Sacc.]]</small>
+}}
+{{mycomorphbox
+| name= ''Geastrum triplex''
+| capShape=no
+| hymeniumType=gleba
+| whichGills      = NA
+| stipeCharacter  = NA
+| ecologicalType=saprotrophic
+| sporePrintColor=brown
+| howEdible=inedible
+}}
+
+'''''Geastrum triplex''''' is a species of [[fungus]] commonly known as the '''collared earthstar''', the '''saucered earthstar''', or the '''triple earthstar'''—and less commonly by the alternative species name ''Geastrum indicum''. It is the largest member of the [[genus]] ''Geastrum'' (or [[Geastrum|earthstar fungi]]) and expanded mature specimens can reach up to {{convert|11.5|cm|1|sp=us|frac=4}} across.
+
+Immature [[basidiocarp|fruit bodies]] are spherical—somewhat resembling [[puffball]]s with pointed beaks—and are partially or completely buried in the ground. As the fungus matures, the outer layer of tissue (the [[exoperidium]]) splits into four to eight pointed segments that spread outwards and downwards, lifting and exposing the spherical inner [[spore]] sac. The spore sac contains the [[gleba]], a mass of spores and fertile [[mycelial]] tissue that when young is white and firm, but ages to become brown and powdery. Often, a layer of the exoperidium splits around the perimeter of the spore sac so that it appears to rest in a collar or saucer. Atop the spore sac is a small pointed beak, the [[peristome]], which has a small hole from which [[basidiospore|spores]] may be released.
+
+Found in the [[detritus]] and [[leaf litter]] of [[hardwood forest]]s, the species is widespread and can be found in Eurasia, [[Australasia]], and the Americas. It is used in the [[traditional medicine]]s of [[Indigenous peoples of the Americas|native North America]] and China. Fruit bodies have been [[analytical chemistry|analyzed chemically]] to determine their [[lipid]] content, and various chemical [[derivative (chemistry)|derivatives]] of the fungal sterol [[ergosterol]] have been identified.
+
+==Taxonomy==
+
+The species was first described scientifically by German botanist [[Franz Wilhelm Junghuhn]], as ''Geaster triplex'' in 1840. The earlier genus name ''Geaster'', introduced by Italian botanist [[Pier Antonio Micheli]] in 1727 in ''Nova Plantarum Genera'', is considered an [[orthographical variant]] of ''Geastrum''.<ref name="Demoulin1984"/> Junghuhn, who was living in Indonesia and extensively surveyed its fungal flora, discovered the [[type (biology)|type specimen]] on [[Mount Gede|Mount Panggerangi]] on the island [[Java]], at an elevation between {{convert|3000 to 5000|ft|m|order=flip}}. Today, the type specimen is kept at the [[National Herbarium of the Netherlands]] in [[Leiden]].<ref name="Sunhede1989"/> The [[morphology (biology)|morphological]] feature used by Junghuhn to differentiate ''G.&nbsp;triplex'' from other similar earthstars was the collar-like structure of the inner layer of the exo[[peridium]].<ref name="Junghuhn1840"/> American mycologist [[Curtis Gates Lloyd]] would later erroneously suggest that the species was a "giant form" of ''[[Geastrum saccatum|G.&nbsp;saccatum]]''.<ref name="Lloyd1907"/>
+
+Several authors have regarded ''Geastrum indicum'' as the correct name for ''G.&nbsp;triplex''.<ref name="Smith1982"/> This is because ''G.&nbsp;indicum''—a species described by [[Johann Friedrich Klotzsch]] in 1832 as ''Cycloderma indicum''<ref name="Klotsch1832"/> and then moved to ''Geastrum'' by [[Stephan Rauschert]] in 1959<ref name="Rauschert1959"/><ref name="urlMycoBank: Geastrum indicum"/>—may be the same species as ''G.&nbsp;triplex''. If it is in fact the same species, the first published name (i.e., ''G.&nbsp;indicum'') has [[binomial nomenclature|nomenclatorial]] priority according to the rules of the [[International Code of Botanical Nomenclature]]. More recently, several authors argue that ''G.&nbsp;indicum'' should be rejected as a ''[[nomen dubium]]'' and ''G.&nbsp;triplex'' maintained as the correct name for the species.<ref name="Sunhede1989"/><ref name="Dorfelt1984"/><ref name="Dorfelt1987"/><ref name="Mornard1993"/>
+
+Stellan Sunhede's 1989 [[monograph]] of European species of ''Geastrum'' follows V.&nbsp;J. Staněk's concept<ref name="Pilat1958"/> for the infrageneric (below the level of genus) placement of ''Geastrum'', and places ''G.&nbsp;triplex'' with species that do not incorporate and encrust forest debris ([[section (biology)|section]] Basimyceliata). ''G.&nbsp;triplex'' is further categorized in subsection Laevistomata, which includes species with a fibrillose peristome—that is, made of parallel, thin, thread-like filaments. Within subsection Laevistomata it is in [[wikt:stirp|stirps]] Triplex, due to its [[wikt:delimited|delimited]] (with a distinct restricting edge) or irregularly torn peristome.<ref name="Sunhede1989"/>
+
+The [[specific name (botany)|specific epithet]] ''triplex'' means "threefold" and refers to the three-layered [[peridium]].<ref name="Roody2003"/> ''Geastrum triplex'' has acquired several [[common name|vernacular names]], including the collared earthstar,<ref name="Schalkwijk-Barendsen1991"/><ref name="Phillips2006"/> the saucered earthstar,<ref name="Arora1986"/> and the triple earthstar.<ref name="Rogers2006"/>
+
+==Description==
+{{Multiple image|direction=vertical|image1=Geastrum triplex 55657.jpg|image2=Geastrum triplex 55663.jpg|width=200|caption1=The exoperidium splits to form a saucerlike platform that holds the endoperidium.|caption2=The upper surface of the rays may be divided into sections by cracks and fissures.|alt1=Overhead view of a tan to light brown fungus. A roughly spherical sac rests on a saucer-shaped ring of tissue that is attached to five thick strips of tissue. The top of the sac has a small opening that appears to be made of numerous small fibers. The whole structure lies on a bed of sticks and leaves.|alt2=A close-up of a pointed ray of fungus tissue at the base of a tan spherical object. The surface of the ray is brown, and due to numerous cracks and fissures, has a pattern of block-like areas similar to cracked dried mud.}}
+
+Like all [[mushroom]]s, the [[basidiocarp|fruit body]] of ''G.&nbsp;triplex'' is the visible part of a larger organism. Hidden from sight are masses of nearly invisible fungal threads called [[mycelium]], which form the active feeding and growing structures of the fungus. The fruit body—created when environmental conditions such as temperature, moisture, and nutrient availability are optimal—is designed to produce and disseminate [[spore]]s. ''Geastrum triplex'' has the largest fruit body of the [[Geastrum|earthstar]] mushrooms.<ref name="Schalkwijk-Barendsen1991"/> The immature fruit body is typically {{convert|1 to 5|cm|abbr=on|frac=4}} in diameter and up to {{convert|8 to 10|cm|abbr=on|frac=4}} broad or exceptionally 11.5&nbsp;cm<ref name="Roody2003"/> with the rays spread out.
+
+The fruit body is composed of a roughly spherical to egg-shaped structure, the endoperidium, topped by an opening, the [[ostiole]], covered by fragments of tissue that form a small pointed beak (a&nbsp;[[peristome]]). The endoperidium typically lacks any sort of stem (being [[Sessility (botany)|sessile]]); it is grayish brown to "wood brown" when young but light yellow-brown in dried, unopened specimens. The outer tissue layer, the exoperidium, develops splits which radiate from the apex and form between four and eight rays that separate from the endoperidium. The latter's thin and papery envelope surrounds a mass of spores and fertile tissue known as the [[gleba]]. The central part of the gleba contains a pseudocolumella (a&nbsp;[[sporangium#Internal structures|columella]] not attached to the stalk) that is typically cylindrical or club-shaped and extends up from the base; its value for identification is limited due to the variability in persistence, size, structure and shape within the genus.<ref name="Bates2004" />
+
+The exoperidium's rays are {{convert|2 to 4|cm|abbr=on|frac=4}} long and up to {{Convert|4|mm|abbr=on|frac=16}} thick.<ref name="Foy1991" /> The outer surface of the rays (the lower surface, after expansion) and unopened specimens have a rough texture. In several ''Geastrum'' species, dirt and debris adhere to the underside; this is not the case in ''G.&nbsp;triplex''. The inner fleshy layers (upper surface) of these rays are near "wood brown" in color when dried, and have a layer of surface tissue that cracks into patches. There is a great deal of variation, however, to the extent in which the upper surface tissue of the rays crack: this tissue layer may also remain closely attached as a sheet over the unsegmented part of the outer wall with the part adhering to the rays variously cracked and sometimes finally peeling off in places.<ref name="Smith1951" />
+
+In ''G.&nbsp;triplex'', the bases of the rays usually break around the perimeter of the endoperidium to form a saucerlike platform or receptacle in which the endoperidium rests. However, not all specimens form this receptacle, leading to possible confusion with other ''Geastrum'' species. [[Curtis Gates Lloyd]] claimed that in tropical regions, with an abundance of high temperatures and humidity, the fungus expands rapidly, which is more conducive to the fleshy layer breaking away to form a receptacle; in more [[temperate]] areas this effect would not be as pronounced and "usually does not occur at all".<ref name="Lloyd1907"/>
+
+The endoperidium is {{convert|1 to 3|cm|abbr=on|frac=8}} in diameter by {{convert|0.9 to 2|cm|abbr=on|frac=8}} high,<ref name="Miller2006"/> sessile, and a dull grayish brown. The peristome is made of radially arranged fibrils that clump together at the apex in groups of unequal length to form an opening that appears jagged or torn.<ref name="Smith1951"/> The circular area bordering the peristome is a paler color.<ref name="Kibby1994" />{{Verification needed|date=June 2025}}
+
+===Microscopic characteristics===
+[[image:Geastrum triplex 55660.jpg|thumb|The [[basidiospore]]s are spherical, 3.5–4.5&nbsp;[[μm]] wide, and covered with warts.|alt=About two dozen round objects that are brownish and translucent, and covered with small bumps. Gradation lines run horizontally through the middle of the image.|left]]
+
+The spore sac contains the [[gleba]], which is composed of a pseudocolumella, unbranched threads (the [[capillitium]]), the spore-bearing cells ([[basidia]]) and the [[basidiospore|spores]] themselves;<ref name="Ellis1990"/> all of these microscopic elements have certain characteristic features that help distinguish ''G.&nbsp;triplex'' from other superficially similar earthstars. The spores are thought to be dispersed by the wind sucking them out when it blows over the hole, or when falling raindrops hit the flexible endoperidium, creating a puff of air that forces the spores through the ostiole.<ref name="Kibby1994" />
+
+The spores are spherical, and 3.5–4.5&nbsp;[[μm]] in diameter. They are covered with short narrow abruptly terminating projections of a translucent ([[hyaline]]) substance, which turn a pale cinnamon brown in [[potassium hydroxide]], and a dark dull brown (nearly [[sepia (color)|sepia]]) when stained with [[iodine]]. The capillitium is made of what appears to be encrusted cylindrical filaments 3–6&nbsp;μm in diameter, of a color varying from hyaline to dull yellowish brown in [[potassium hydroxide]], and yellowish in iodine; its walls are thickened to the point where the interior ([[Lumen (anatomy)|lumen]]) appears as only a line.<ref name="Smith1951"/> Either two or four spores are attached to the basidia, and the [[sterigmata]] (extensions of the basidia that attach the spores) are long, up to 20&nbsp;μm. ''Geastrum triplex'' does not have [[cystidia]].<ref name="Jordan2004"/>
+
+===Similar species===
+{{multiple image
+| image1            = Geastrum saccatum.jpg
+| width1            = 188
+| alt1              = A light brown spherical sac with a pointy dark-brown "beak" on top. The sac is resting on thick, smooth-surfaced fleshy rays that curl downwards and raise the sac above the ground. On the ground are pieces of decaying wood, twigs and leaves.
+| caption1          = 
+| image2            = Geastrum fimbriatum 20050923 566.jpg
+| width2            = 165
+| alt2              = A whitish spherical sac with a small pointy "beak" on top. The sac is resting on six smooth-surfaced fleshy rays. On the ground are dirt, pieces of decaying wood, small stones, and leaves.
+| caption2          = 
+| footer            = ''[[Geastrum saccatum|G.&nbsp;saccatum]]'' (left) and ''[[Geastrum fimbriatum|G.&nbsp;fimbriatum]]'' (right) are distinguished from ''G.&nbsp;triplex'' by color, the lack of a "collar", and smaller size.
+}}
+
+''Geastrum triplex'' may be confused with ''G.&nbsp;saccatum'' or ''[[Geastrum fimbriatum|G.&nbsp;fimbriatum]]'', as the rays do not always crack around the perimeter to form a bowl under the spore case. However, it is larger than either of these species.<ref name="Healy2008"/> The combination of characteristics which distinguish ''G.&nbsp;triplex'' from other earthstars include the lack of debris adhering to the outer surfaces, the saucer-like base in which the spore case is seated, the relatively large size, the fibrillose peristome and the paler area surrounding the peristome separating it from the rest of the endoperidium.<ref name="Smith1951"/> Unlike some other ''Geastrum'' species, the rays of ''G.&nbsp;triplex'' are not [[hygroscopic]]: they do not open and close in response to changes in humidity.<ref name="Arora1986"/>
+
+==Habitat and distribution==
+
+
+''Geastrum triplex'' is a [[saprobic]] fungus:<ref name="urlMushroomExpert.Com)"/> it derives nutrients from decomposing organic matter. The fruit bodies are usually found growing singly or more commonly in groups in [[hardwood forest]]s where much [[humus]] has accumulated; in Mexico, they have been collected in [[tropical deciduous forest]].<ref name="Esqueda2003"/> Fruit bodies are often found around well-rotted tree stumps;<ref name="Healy2008"/> they are initially almost buried in the loose [[forest floor|duff]], but emerge during maturity as the downward curling of the rays exposes the spore sac. Old fruit bodies are persistent, and may survive the winter to be found the following spring or summer.<ref name="Smith1951"/> A Dutch study reported a propensity for ''G.&nbsp;triplex'' to grow on soil made [[calcium]]-rich from washed-out [[chalk]] of crushed shells on bicycling paths.<ref name="Brouwer2009"/> It is described as common in North America and Europe.<ref name="Phillips2006"/><ref name="Foy1991"/> One author states it is commonly found under [[beech]] trees.<ref name="Kibby1994"/>
+
+''Geastrum triplex'' has a widespread distribution, and has been collected in Asia (China,<ref name="Liu1984"/> Korea<ref name="Jung1995"/> Iran,<ref name="Saber1989"/> and Turkey),<ref name="Kose2006"/> Australia,<ref name="Cunningham1926"/><ref name="Cunningham1944"/> Europe (Belgium,<ref name="Demoulin1968"/> Czech Republic,<ref name="Kupka1966"/> Sweden,<ref name="Larsson1958"/> and the Canary Islands),<ref name="Eckblad1975"/> and Africa (Congo,<ref name="Dissing1962"/> South Africa).<ref name="Bottomley1948"/> In North America, its range extends north to Canada<ref name="Schalkwijk-Barendsen1991"/> and south to Mexico,<ref name="Esqueda2003"/> including the whole [[continental United States]] and Hawaii.<ref name="Smith1982"/><ref name="Foy1991"/> In Central and South America the fungus has been reported from Panama,<ref name="Garner1956"/> Trinidad and Tobago,<ref name="Reid1977"/> Argentina,<ref name="Spegazzini1927"/><ref name="Soto2000"/> Brazil,<ref name="Baseia2003"/> and Chile.<ref name="Torpoco1998"/>
+
+==Uses==
+
+===Edibility===
+Although the fruit bodies are nonpoisonous,<ref name="Miller2006"/> they are tough and fibrous, and considered of "no alimentary interest".<ref name="Arora1986"/><ref name="Tyndalo1985"/> Mycologist [[David Arora]] says that they are reputed to be [[edible mushroom|edible]] when immature—when the gleba is still white and firm—but adds that they are rarely found in this form.<ref name="Arora1986"/>
+
+===In traditional medicine===
+Earthstars were used medicinally by the [[indigenous peoples of the Americas]]. The [[Blackfoot]] called them ''{{nowrap|ka-ka-toos}}'', meaning "fallen stars", and according to legend, they were an indication of supernatural events.<ref name="Hobbs1995"/> The [[Cherokee]] put fruit bodies on the navels of babies after childbirth until the withered umbilical cord fell off, "both as a prophylactic and a therapeutic measure".<ref name="Mooney1932"/> In [[traditional Chinese medicine]], ''G.&nbsp;triplex'' is used to reduce [[inflammation]] in the respiratory tract, and to stanch bleeding and reduce swelling.<ref name="Ying1987"/>
+
+===Chemistry===
+The fruit bodies of ''G.&nbsp;triplex'' have been [[analytical chemistry|chemically analyzed]] and shown to contain a number of [[bioactive compound]]s, including fungal [[sterol]]s such as ergosta-4,6,8,(14),22-tetraen-3-one,5,6-dihydroergosterol, [[ergosterol]], and peroxyergosterol. The fungus also contains various [[fatty acid]]s, notably [[myristic]], [[palmitic acid|palmitic]], [[stearic]], [[oleic]], [[alpha-linolenic acid|alpha-linolenic]], and [[linoleic]] acid.<ref name="Torpoco1998"/>
+
+==References==
+{{Reflist|colwidth=30em|refs=
+<ref name="Arora1986">{{cite book |author=Arora D. |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/703/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, California |year=1986 |orig-date=1979 |edition=2nd |pages=703}}</ref>
+
+
+<ref name="Baseia2003">{{cite journal |vauthors=Baseia IG, Cavalcanti MA, Milanez AI |year=2003 |title=Additions to our knowledge of the Genus ''Geastrum'' (Phallales: Geastraceae) in Brazil |journal=Mycotaxon |volume=85 |pages=409–15 |url=http://www.cybertruffle.org.uk/cyberliber/59575/0085/0409.htm}}</ref>
+
+<ref name="Bates2004">{{Cite thesis |degree=MSc |title=Arizona Members of the Geastraceae and Lycoperdaceae (Basidiomycota, Fungi) |page=34 |url=http://www.azfungi.org/stbates/STBThesis1.pdf |author=Bates ST. |year=2004 |publisher=Arizona State University |url-status=dead |archive-url=https://web.archive.org/web/20080907081640/http://www.azfungi.org/stbates/STBThesis1.pdf |archive-date=2008-09-07 }}</ref>
+
+<ref name="Bottomley1948">{{cite journal |author=Bottomley AM. |year=1948 |title=Gasteromycetes of South Africa |journal=Bothalia |volume=4 |issue=3 |pages=473–810|doi=10.4102/abc.v4i3.1859 |doi-access=free |bibcode=1948Botha...4..474B }}</ref>
+
+<ref name="Brouwer2009">{{cite journal |vauthors=Brouwer E, Braat M, van Hoek B, Noteboom R, Oplaat C, de Peijper R, Smits M, Klok P |year=2009 |title=WAD'N GEZWAM! De invloed van schelpenpaden op de paddenstoelendiversiteit van Terschelling|trans-title=The influence of shell-covered paths on the fungus diversity of Terschelling |journal=Coolia |volume=52 |issue=1 |pages=7–17 |language=nl}}</ref>
+
+<ref name="Cunningham1926">{{cite journal |author=Cunningham GH|year=1926 |title=The Gasteromycetes of Australasia. IV. Species of the genus ''Geaster'' |journal=Proceedings of the Linnean Society of New South Wales |volume=51 |issue=206, part 2 |pages=72–93 |url=https://www.biodiversitylibrary.org/page/35117765}}</ref>
+
+<ref name="Cunningham1944">{{cite book |title=The Gasteromycetes of Australia and New Zealand |author=Cunningham GH. |year=1944 |publisher=McIndoe |location=Dunedin, New Zealand |page=201}}</ref>
+
+<ref name="Demoulin1968">{{cite journal |author=Demoulin V. |year=1968 |title=Gasteromycetes de Belgique: Sclerodermatales, Tulostamatales, Lycoperdales|journal=[[Bulletin du Jardin Botanique National de Belgique]] |volume=38 |issue=1|pages= 1–101 |jstor=3667475 |doi=10.2307/3667475 |language=fr}}</ref>
+
+<ref name="Demoulin1984">{{cite journal |author=Demoulin V. |year=1984 |title=Typification of ''Geastrum'' Pers.: Pers. and its orthographic variant ''Geaster'' (Gasteromycetes) |jstor=1220990 |journal=Taxon |volume=33 |issue=3 |pages=498–501 |doi=10.2307/1220990}}</ref>
+
+<ref name="Dissing1962">{{cite journal |vauthors=Dissing H, Lange M |year= 1962 |title=Gasteromycetes of Congo |jstor= 3667249 |journal=Bulletin du Jardin botanique de l'État à Bruxelles |volume=32 |issue=4 |pages=325–416 |doi=10.2307/3667249}}</ref>
+
+<ref name="Dorfelt1984">{{cite journal |vauthors= Dörfelt H, Müller-Uri C |year=1984 |title=Beitrag zur Systematik der Geastrales |trans-title=Contributions to the systematics of the Geastrales |journal=Feddes Repertorium |volume=95 |issue= 9–10|pages=701–77 |language=de |doi=10.1002/fedr.4910950920|doi-access=free }}</ref>
+
+<ref name="Dorfelt1987">{{cite journal |vauthors=Dörfelt H, Heklau H |year=1987 |title=Beitrag zur Systematik der Geastrales&nbsp;II |trans-title=Contributions to the systematics of the Geastrales&nbsp;II |journal=Feddes Repertorium |volume=98 |issue=5–6 |pages=357–68 |language=de |doi=10.1002/fedr.4910980505|doi-access=free }}</ref>
+
+<ref name="Eckblad1975">{{cite journal |author=Eckblad F-E. |year=1975|title=Additions and corrections to the Gasteromycetes of the Canary Islands |journal=Norwegian Journal of Botany |volume=22 |issue=4 |pages=243–48}}</ref>
+
+<ref name="Ellis1990">{{cite book |vauthors=Ellis JB, Ellis MB |title=Fungi without Gills (Hymenomycetes and Gasteromycetes): an Identification Handbook |publisher=Chapman and Hall |location=London |year=1990 |pages=226–27 |isbn=0-412-36970-2}}</ref>
+
+<ref name="Esqueda2003">{{cite journal |vauthors=Esqueda M, Herrera T, Perez-Siva E, Sanchez A |year=2003 |title=Distribution of ''Geastrum'' species from some priority regions for conservation of biodiversity of Sonora, Mexico |journal=Mycotaxon |volume=87 |pages=445–56 |url=http://www.cybertruffle.org.uk/cyberliber/59575/0087/0445.htm |access-date=2010-02-08 |archive-url=https://web.archive.org/web/20150924003735/http://www.cybertruffle.org.uk/cyberliber/59575/0087/0445.htm |archive-date=2015-09-24 |url-status=dead }}</ref>
+
+<ref name="Foy1991">{{cite book |vauthors=Foy N, Phillips R, Kibby G |title=Mushrooms of North America |publisher=Little, Brown |location=Boston |year=1991 |isbn=0-316-70613-2}}</ref>
+
+<ref name="Garner1956">{{cite journal |author=Garner JHB. |year=1956 |title=Gasteromycetes from Panama and Costa Rica |jstor=3755385 |journal=Mycologia |volume=48 |issue=5 |pages=757–64 |doi=10.2307/3755385}}</ref>
+
+<ref name="Healy2008">{{cite book |vauthors=Healy RA, Huffman DR, Tiffany LH, Knaphaus G|title=Mushrooms and Other Fungi of the Midcontinental United States (Bur Oak Guide) |url=https://archive.org/details/mushroomsotherfu00huff|url-access=limited|publisher=University of Iowa Press |location=Iowa City, Iowa |year=2008 |page=[https://archive.org/details/mushroomsotherfu00huff/page/n257 243] |isbn=978-1-58729-627-7}}</ref>
+
+<ref name="Hobbs1995">{{cite book |author=Hobbs CJ. |title=Medicinal Mushrooms: An Exploration of Tradition, Healing & Culture |publisher=Culinary Arts |location=Portland, Oregon |year=1995 |pages=19, 108–109 |isbn=1-884360-01-7}}</ref>
+
+<ref name="Jordan2004">{{cite book |author=Jordan M. |title=The Encyclopedia of Fungi of Britain and Europe |publisher=Frances Lincoln |location=London |year=2004 |page=361 |isbn=0-7112-2378-5 |url=https://books.google.com/books?id=3PBEAAAAYAAJ&q=Ascocoryne+sarcoides&pg=PA63}}</ref>
+
+<ref name="Jung1995">{{cite journal |author=Jung HS. |year= 1995 |title=Fungal flora of Ullung Island: (VI). On ascomycetous, auriculariaceous, and gasteromycetous fungi |journal=Korean Journal of Mycology |volume=23 |issue=1 |pages=1–9}}</ref>
+
+<ref name="Junghuhn1840">{{cite journal |author=Junghung F. |year=1840 |title=Nova genera et species plantarum florae Javanicae |journal=Tijdschrift voor Natuurlijke Geschiedenis en Physiologie |volume=7 |pages=5–6 |language=la |url=https://books.google.com/books?id=mk8-AAAAcAAJ&q=%22Nova+genera+et+species+plantarum+florae+Javanicae%22&pg=PA5}}</ref>
+
+<ref name="Kibby1994">{{cite book |author=Kibby G. |title=An Illustrated Guide to Mushrooms and Other Fungi of North America |publisher=Lubrecht & Cramer |location=Italy |year=1994 |page=162 |isbn=0-681-45384-2}}</ref>
+
+<ref name="Klotsch1832">{{cite journal |author=Klotsch JF. |year=1832 |title=Mycologische Berichtigungen |trans-title=Mycological Corrections |journal=Linnaea |volume=7 |pages=193–204 |language=de}}</ref>
+
+<ref name="Kose2006">{{cite journal |vauthors=Kose S, Gezer K, Gokler I, Tukoglu A |year=2006 |title=Macrofungi of Bekilli (Denizli) district |journal=Turkish Journal of Botany |volume=30 |issue=4 |pages=267–72}}</ref>
+
+<ref name="Kupka1966">{{cite journal |author=Kupka J. |year=1966 |title=''Geastrum triplex'' found in Bilina |journal=Mykologicky Sbornik |volume=43 |issue=5–6 |pages=83–84}}</ref>
+
+<ref name="Larsson1958">{{cite journal |author=Larsson BMP. |year=1958 | title=Gasteromycetstudier. I. ''Geaster triplex'' Jungh. funnen på Kinnekulle|trans-title=Studies on Gasteromycetes. I. ''Geastrum triplex'' Jungh. found on Kinnekulle |journal=Svensk Botanisk Tidskrift |volume=52 |issue=2 |pages=284–90 |language=sv}}</ref>
+
+<ref name="Liu1984">{{cite journal |author=Liu B. |year=1984|title=The Gasteromycetes of China |journal=Nova Hedwigia |volume=74 |pages=1–235}}</ref>
+
+<ref name="Lloyd1907">{{cite journal |author=Lloyd CG. |year=1907 |url=https://archive.org/stream/mycologicalwriti02lloyiala#page/309/mode/1up |title=New notes on the Geasters |journal=Mycological Notes |volume=25 |pages=309–17}}</ref>
+
+<ref name="Miller2006">{{cite book |vauthors=Miller HR, Miller OK |author2-link=Orson K. Miller Jr. |title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi |publisher=[[FalconGuides]] |location=Guilford, Connecticut |year=2006 |page=447 |isbn=978-0-7627-3109-1}}</ref>
+
+<ref name="Mooney1932">{{cite book |title=The Swimmer Manuscript: Cherokee Sacred Formulas and Medicinal Prescriptions. Bulletin 99 |author=Mooney J|author-link=James Mooney |year=1932 |publisher=Smithsonian Institution, Bureau of American Ethology |location=Washington, D.C. |page=124 |url=https://archive.org/stream/swimmermanuscrip00moon#page/124/mode/2up}}</ref>
+
+<ref name="Mornard1993">{{cite journal |author=Mornard J. |year=1993 |title=Contribution à La connaissance des champignons de Maine-et-Loire. 2-Gastéromycètes |trans-title=Contribution to the knowledge of fungi from Maine-et-Loire: Gasteromycetes |journal=[[Bulletin de la Société Mycologique de France]] |volume=109 |issue=3 |pages=149–63 |language=fr}}</ref>
+
+<ref name="Pilat1958">Published in: {{cite book |title=Gasteromycetes, Houby-Břichatky. Flora ČSR B1 |trans-title=Gasteromycetes-Puffballs|language=cs |author=Pilát A. |year=1958 |publisher=Nakladatelstvi Československé Akademie Vĕd |location=Prague, Czechoslovakia}}</ref>
+
+<ref name="Rauschert1959">{{cite journal |author=Rauschert S. |year=1959 |title=Beitrag zur Nomenklatur mitteleuropaischer Gasteromyceten |trans-title=Contribution to the Nomenclature of Central European Gasteromycetes |journal=Zeitschrift für Pilzkunde |volume=25 |issue=2 |pages=50–55 |language=de}}</ref>
+
+<ref name="Reid1977">{{cite journal |author=Reid DA. |year=1977 |title=Some Gasteromycetes from Trinidad and Tobago |jstor=4119418 |journal=Kew Bulletin |volume=31 |issue=3 |pages=657–90 |doi=10.2307/4119418|bibcode=1977KewBu..31..657R }}</ref>
+
+<ref name="Rogers2006">{{cite book |title=The Fungal Pharmacy: Medicinal Mushrooms of Western Canada |author=Rogers RD. |year=2006 |publisher=Prairie Diva Press |location=Edmonton, Canada |isbn=0-9781358-1-4 |page=95}}</ref>
+
+<ref name="Roody2003">{{cite book |author=Roody WC. |title=Mushrooms of West Virginia and the Central Appalachians |publisher=University Press of Kentucky |location=Lexington, Kentucky |year=2003 |page=443 |isbn=0-8131-9039-8 |url=https://books.google.com/books?id=5HGMPEiy4ykC&q=geastrum+triplex&pg=PA443}}</ref>
+
+<ref name="Saber1989">{{cite journal |author=Saber M. |year=1989 |title=New records of Aphyllophorales and Gasteromycetes for Iran |journal=Iranian Journal of Plant Pathology |volume=25 |issue=1–4 |pages=21–26}}</ref>
+
+<ref name="Schalkwijk-Barendsen1991">{{cite book |author=Schalkwijk-Barendsen HME. |title=Mushrooms of Western Canada |publisher=Lone Pine Publishing |location=Edmonton, Canada |year=1991 |page=[https://archive.org/details/mushroomsofweste0000scha/page/351 351] |isbn=0-919433-47-2 |url=https://archive.org/details/mushroomsofweste0000scha/page/351 }}</ref>
+
+<ref name="Smith1951">{{cite book |title=Puffballs and their Allies in Michigan|author=Smith AH. |year=1951 |publisher=University of Michigan Press |location=Ann Arbor, Michigan |pages=86–87 |oclc=1002833}}</ref>
+
+<ref name="Smith1982">{{cite journal |vauthors=Smith CW, Ponce de Léon P |year=1982 |title=Hawaiian geastroid fungi |jstor=3792856 |journal=Mycologia |volume=74 |issue=5 |pages=712–17 |doi=10.2307/3792856}}</ref>
+
+<ref name="Spegazzini1927">{{cite journal |author=Spegazzini C. |year=1927 |title=Gasteromicetas Argentinas |trans-title=Argentinian Gasteromycetes |journal=Physis |volume=8 |pages=421–35}}</ref>
+
+<ref name="Soto2000">{{cite journal |vauthors=Soto MK, Wright JE |year=2000 |title=Taxonomía del género ''Geastrum ''(Basidiomycetes, Lycoperdales) en la Provincia de Buenos Aires, Argentina |trans-title=Taxonomy of the genus ''Geaster'' in the province of Buenos Aires, Argentine |journal=Boletin de la Sociedad Argentina de Botanica |volume=34 |pages=185–201 |language=es}}</ref>
+
+<ref name="Sunhede1989">{{cite book |title=Geastraceae (Basidiomycotina): morphology, ecology, and systematics with special emphasis on the north European species |author=Sunhede S. |year=1989 |series=Synopsis Fungorum, '''1''' |publisher=Fungiflora |location=Oslo, Norway |isbn=82-90724-05-5 |page=535}}</ref>
+
+<ref name="Torpoco1998">{{cite journal |vauthors=Torpoco V, Garbarino JA |year=1998|title=Studies on Chilean fungi. I. Metabolites from ''Geastrum triplex'' Jungh |journal=Boletin de la Sociedad Chilena de Quimica |volume=43 |issue=2 |pages=227–29}}</ref>
+
+<ref name="Tyndalo1985">{{cite book |vauthors=Tyndalo V, Rinaldi A |title=The Complete Book of Mushrooms |publisher=Crescent books |location=Avenel, New Jersey |year=1985 |page=232 |isbn=0-517-51493-1}}</ref>
+
+<ref name="urlMycoBank: Geastrum indicum">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=297724 |title=''Geastrum indicum'' |year=2005 |publisher=International Mycological Association |work=MycoBank |access-date=2010-02-09}}</ref>
+
+<ref name="urlMushroomExpert.Com)">{{cite web |url=http://www.mushroomexpert.com/geastrum_triplex.html |title=''Geastrum triplex'' |author=Kuo M|work=MushroomExpert.Com |year=2008 |access-date=2010-02-07}}</ref>
+
+<ref name="Phillips2006">{{cite book |author=Phillips R. |year=2006 |title=Mushrooms |location=London |publisher=Macmillan |isbn=978-0-330-44237-4| page=335}}</ref>
+
+<ref name="Ying1987">{{cite book |title=Icones of Medicinal Fungi in China |vauthors=((Ying J-Z)), Xiao-Lan M |year=1987 |publisher=Science Press |location=Beijing, China |isbn=978-7-03-000195-5 |pages=527–28}}</ref>
+
+}}
+
+==External links==
+{{Commons}}
+{{Wikispecies}}
+* [http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=119601 Index Fungorum]
+* [https://www.biolib.cz/en/taxon/id60770/ biolib.cz]
+* [https://botany.cz/cs/geastrum-triplex/ botany.cz]
+* [http://www.mykologie.net/index.php/houby/podle-morfologie/gasteromycetes/item/382-geastrum-triplex mykologie.net] (in Czech)
+* [https://www.myko.cz/myko-atlas/Geastrum-triplex/ myko.cz] (in Czech)
+* [https://www.houbareni.cz/houba/hvezdovka_trojita houbareni.cz] (in Czech) 
+* [https://www.funghiitaliani.it/topic/15278--triplex/ funghiitaliani.it] (in Italian) 
+* [https://www.first-nature.com/fungi/geastrum-triplex.php first-nature.com]
+
+{{Taxonbar|from=Q1572277}}
+
+{{Featured article}}
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Australia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of South America]]
+[[Category:Geastrum|triplex]]
+[[Category:Inedible fungi]]
+[[Category:Fungi described in 1840]]
+[[Category:Fungi of Western Asia]]
+[[Category:Fungus species]]

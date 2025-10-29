@@ -1,0 +1,72 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Amanita albocreata 95631.jpg
+| image_caption =
+| genus = Amanita
+| species = albocreata
+| authority = ([[G.F.Atk.]]) J.E.Gilbert (1941)
+| synonyms_ref = <ref name="urlMycoBank: Amanita albocreata"/>
+| synonyms = ''Amanitopsis albocreata'' <small>G.F.Atk. (1902)</small><br/>
+''Vaginata albocreata'' <small>(G.F.Atk.) [[William Alphonso Murrill|Murrill]] (1913)</small>
+}}
+{{mycomorphbox
+| name = ''Amanita albocreata''
+| whichGills = free
+| whichGills2 = adnate
+| capShape = flat
+| capShape2 = convex
+| hymeniumType=gills
+| stipeCharacter=volva
+| ecologicalType=mycorrhizal
+| sporePrintColor=white
+| howEdible=poisonous
+}}
+
+'''''Amanita albocreata''''', also called the '''ringless panther'''<ref name=Tulloss>{{cite web|last=R. E.|first=Tulloss|title=Amanita albocreata G. F. Atk. "Ringless Panther"|url=http://www.njcc.com/~ret/amanita/species/albocrea.html}}</ref> or the '''ringless panther amanita''',<ref name=NGSWG>{{NGSWG}}</ref> is a species of [[fungus]] in the family [[Amanitaceae]]. It was discovered in 1944, by [[William Murrill]]. It is commonly found in the northeastern United States and parts of southeastern Canada. It normally grows between the rainy months of June and August.<ref name="Rogers mushrooms">{{cite news|first=Roger|last=Phillips|title=Amanita albocreata|publisher=Rogers Mushrooms}}</ref>
+
+==Taxonomy==
+First described in 1902 by [[George Francis Atkinson]] under the name ''Amanitopsis albocreata'',<ref name="Atkinson1902" /> the species was then transferred to ''[[Amanita]]'' in 1941 by one Jean-Edouard Gilbert.<ref name="Gilbert1941" />
+
+==Description==
+* '''Cap''': The lengths of the cap can vary from {{Convert|2-8|cm|abbr=off|frac=2}}. It can appear convex or shield-shaped. The cap's disc has been seen colored white to pale yellow, with easily removed flaky patches or warts of whitish volva remnants.<ref name="Rogers mushrooms"/> The center can be tan or creamy yellow in color. Akin to its relative ''[[Amanita frostiana]]'', the cap feels smooth and sticky when moist.<ref>{{cite book|last=Kauffman C. H.|title=The Agaricaceae of Michigan|year=1918|publisher=W.H. Crawford, state printers|pages=622|isbn=9780384287808 |url=https://books.google.com/books?id=f6PhAAAAMAAJ&q=amanita+albocreata|edition=1}}</ref>
+* '''Gills''': Gills can be free or slightly adnate. They are about {{Convert|3–10.5|mm|frac=8}} broad, with a minutely flocculose edge. The short gills are truncate to excavate-truncate with or without an attenuate "tooth" at the juncture with the flesh of the cap. They are cream to pale cream in color.
+* '''Stipe''': The stem, or stipe, measures 80–120 x 6–8 mm. It lacks a ring but consists of a volva. The notable bulb (dimensions 15–22 x 12–20 mm) bears a distinct white collar as do some species with annulate stems, like other ''[[Amanita]]'' species ''[[Amanita multisquamosa|A. multisquamosa]]'', ''[[Amanita velatipes|A. velatipes]]'' and ''[[Amanita pantherina|A. pantherina]]''.
+* '''Spores and microscopic features''': The spores measure (7.3-) 7.7–9.5 (-11.6) x 6.6–8.4 (-9.4) μm and are globose to subglobose or occasionally broadly ellipsoid and inamyloid. Clamps are rare at bases of basidia.<ref name=Metzler>{{cite book|last=Metzler S.|first=Metzler V.|title=Texas Mushrooms-a field guide|year=1992|publisher=University of Texas Press|location=Texas|isbn=978-0-292-75126-2|pages=331|url=https://books.google.com/books?id=HRtfvVigMmsC&q=amanita+albocreata&pg=PA331}}</ref>
+* '''Flesh''': This mushroom has thin and sticky flesh under the cap.<ref name="Rogers mushrooms"/>
+
+==Distribution and habitat==
+This fungus is found in the hardwood-hemlock ([[Tsuga]]) forest of the [[northeastern United States]] and southeastern Canada and of [[boreal forest]] at least as far north as the [[Island of Newfoundland]]. Commonly it is found in coniferous and deciduous forests or open lush green grasslands.<ref name="Rogers mushrooms" />
+
+==Edibility==
+This species is of unknown edibility and is possibly [[Mushroom poisoning|poisonous]].<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=18}}</ref><ref name=Tulloss/>
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Amanita species|List of ''Amanita'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name=Atkinson1902>{{cite journal |title=Preliminary notes on some new species of fungi |journal=Journal of Mycology |author=Atkinson GF. |year=1902 |volume=8 |pages=110–9 |url=http://www.cybertruffle.org.uk/cyberliber/59805/0008/003/0110.htm |doi=10.2307/3752544 |issue=3|jstor=3752544 |url-access=subscription }}</ref>
+
+<ref name=Gilbert1941>{{cite journal |title=Iconographia mycologica, Amanitaceae |journal=Iconographia Mycologica |year=1941 |author=Gilbert E.-J.|issue=1 |volume=27 |page=259}}</ref>
+
+<ref name="urlMycoBank: Amanita albocreata">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=517349 |title=''Amanita albocreata'' (G.F. Atk.) E.J. Gilbert 1941 |publisher=International Mycological Association |work=MycoBank |accessdate=2011-02-15}}</ref>
+ 
+}}
+
+==External links==
+{{Wikispecies}}
+*{{IndexFungorum|17349}}
+
+{{Amanitas}}
+{{Poisonous Amanitas}}
+{{Taxonbar|from=Q4033852}}
+
+[[Category:Amanita|albocreata]]
+[[Category:Fungi of Canada]]
+[[Category:Fungi of the United States]]
+[[Category:Fungi described in 1902]]
+[[Category:Fungi of North America]]
+[[Category:Fungi without expected TNC conservation status]]
+[[Category:Fungus species]]

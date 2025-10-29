@@ -1,0 +1,98 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Körnchen-Röhrling Suillus granulatus 1.jpg
+| image_caption = 
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{cite iucn |last1=Dahlberg |first1=A. |year=2019 |title=''Suillus granulatus'' |volume=2019 |errata=2022 |article-number=e.T122090798A223015752 |doi=10.2305/IUCN.UK.2019-3.RLTS.T122090798A223015752.en |access-date=19 October 2024}}</ref>
+| genus = Suillus
+| species = granulatus
+| authority = ([[Carl Linnaeus|L.]]) [[Henri François Anne de Roussel|Roussel]] (1796)
+| synonyms_ref = <ref name="urlFungorum synonymy: Suillus granulatus"/>
+| synonyms = *''Boletus granulatus'' <small>L. (1753)</small>
+*''Boletus lactifluus'' Sowerby (1809)
+*''Suillus lactifluus'' A.H. Sm. & Thiers (1968)
+*''Suillus Weaverae'' Kretzer & T.D.Bruns (1996)
+}}
+{{mycomorphbox
+| name = ''Suillus granulatus''
+| whichGills = adnate
+| whichGills2 = decurrent
+| capShape = flat
+| capShape2 = convex
+| hymeniumType = pores
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = brown
+| howEdible = edible
+}}
+
+'''''Suillus granulatus''''' is a [[Boletales|pored mushroom]] of the genus ''[[Suillus]]'' in the family [[Suillaceae]]. It has been commonly known as the '''weeping bolete''',<ref name="Eppinger 2006"/> or the '''granulated bolete'''. It is similar to the related ''[[Suillus luteus|S.&nbsp;luteus]]'', but can be distinguished by its ringless [[stipe (mycology)|stalk]].
+
+The species often grows in a [[symbiosis]] ([[mycorrhiza]]) with [[pine]] and is [[edible mushroom|edible]].
+
+==Taxonomy==
+''Suillus granulatus'' was first described by [[Carl Linnaeus]] in 1753 as a species of ''[[Boletus]]''.<ref>{{cite book | author=Linnaeus C | title=Species Plantarum| publisher=Laurentii Salvii |location=Stockholm | year=1753|chapter= Tomus&nbsp;II | volume=12| chapter-url=https://www.biodiversitylibrary.org/page/4254470 | page=1177|language=la}}</ref> It was given its current name by French naturalist [[Henri François Anne de Roussel]] when he transferred it to ''Suillus'' in 1796.<ref name="urlFungorum synonymy: Suillus granulatus"/> ''[[Suillus]]'' is an ancient term for fungi, and is derived from the word "swine". ''Granulatus'' means "grainy" and refers to the granular dots on the upper part of the stem.<ref>{{cite web |last1=O'Reilly |first1=Pat |title=Fascinated by Fungi |url=https://www.first-nature.com/fungi/suillus-granulatus.php |website=First Nature |access-date=26 October 2018}}</ref><ref name="Kuo-SGran">{{cite web |last1=Kuo |first1=Michael |title=Suillus granulatus |url=http://www.mushroomexpert.com/suillus_granulatus.html |website=Mushroom Expert |access-date=26 October 2018}}</ref>
+However, in some specimens the granular dots may be inconspicuous and not darkening with age;<ref name="Kuo-SKey">{{cite web |last1=Kuo |first1=Michael |title=The Genus Suillus |url=http://www.mushroomexpert.com/suillus.html |website=Mushroom Expert |access-date=26 October 2018 |at=Key 83}}</ref> thus the name ''S.&nbsp;lactifluus'', "oozing milk" was formerly applied to this form as it is not notably characterized by granular dots.<ref name="Kuo-SGran"/>
+
+Previously thought to exist in eastern North America, that species has now been confirmed to be the rediscovered ''[[Suillus weaverae]]''.<ref name="McKnight 1987"/><ref>{{Cite web|title=Suillus weaverae|url=http://iucn.ekoo.se/iucn/species_view/415953|access-date=2020-10-01|website=iucn.ekoo.se}}</ref>
+
+==Description==
+
+
+The orange-brown, to brown-yellow [[pileus (mycology)|cap]] is viscid (sticky) when wet, and shiny when dry, and is usually 4 to 12&nbsp;cm in diameter.<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=331–332|oclc=797915861}}</ref> The [[stipe (mycology)|stem]] is pale yellow, of uniform thickness, with tiny brownish granules at the apex, and about 4–8 tall, 1–2&nbsp;cm wide.<ref name=":0" /> It is without a [[annulus (mycology)|ring]]. The tubes and pores are small, pale yellow, and exude pale milky droplets when young. The [[trama (mycology)|flesh]] is also pale yellow.<ref name=":0" />
+
+''Suillus granulatus'' is often confused with ''[[Suillus luteus|S.&nbsp;luteus]]'', which is another common and widely distributed species occurring in the same habitat. ''S.&nbsp;luteus'' has conspicuous a partial veil and ring, and lacks the milky droplets on the pores.<ref name=Min14/><!-- cites previous two sentences -->  
+Also similar is ''[[Suillus brevipes|S.&nbsp;brevipes]]'', which has a short stipe in relation to the cap, and which does not ooze droplets from the pore surface. ''[[Suillus pungens|S.&nbsp;pungens]]'' is also similar.<ref name=":0" />
+
+=== Bioleaching ===
+[[Bioleaching]] is the industrial process of using living organisms to extract metals from ores, typically where there is only a trace amount of the metal to be extracted. It has been found that ''S.&nbsp;granulatus'' can extract [[trace element]]s (titanium, calcium, potassium, magnesium and lead) from [[wood ash]] and [[apatite]].<ref>{{Cite journal|author1-link=Geoffrey Michael Gadd|last=Gadd|first=Geoffrey Michael|year=2010|title=Metals, minerals and microbes: geomicrobiology and bioremediation|journal=Microbiology|volume=156|issue=3|pages=609–643|doi=10.1099/mic.0.037143-0|pmid=20019082|doi-access=free}}</ref>
+
+==Distribution and habitat==
+Grows with ''[[Pinus]]'' (pine trees) on both calcareous and acid soils, and sometimes occurs in large numbers. ''Suillus granulatus'' is the most widespread pine-associating ''Suillus'' species in warm climates.<ref name="Richardson 2000"/> It is common in Britain, Europe. It is associated with Japanese red pine (''[[Pinus densiflora]]'') in South Korea.<ref name=Min14>{{cite journal|vauthors=Min YJ, Park MS, Fong JJ, Seok SJ, ((Han S-K)), Lim YW |title=Molecular Taxonomical Re-classification of the Genus ''Suillus'' Micheli ex S. F. Gray in South Korea |journal= Mycobiology |year= 2014 |volume=42|issue=3 |pages=221–28 | doi=10.5941/MYCO.2014.42.3.221 | pmid=25346598 | pmc=4206787}}</ref>
+A native to the Northern Hemisphere, the fungus has been introduced into Australia under ''[[Pinus radiata]]''. It is also found in Africa, New Zealand, Hawaii, Argentina and southern [[Chile]].<ref name="Simberloff 2010"/>
+
+==Toxicity==
+''Suillus granulatus'' sometimes causes [[contact dermatitis]] to those who handle it.<ref>{{Cite journal |last=Bruhn |first=Johann N. |last2=Soderberg |first2=Milton D. |date=1991 |title=Allergic contact dermatitis caused by mushrooms: A case report and literature review |url=http://link.springer.com/10.1007/BF00462225 |journal=Mycopathologia |language=en |volume=115 |issue=3 |pages=191–195 |doi=10.1007/BF00462225 |issn=0301-486X|url-access=subscription }}</ref>
+
+==Edibility==
+''Suillus granulatus'' is edible and variously considered to be of either good or poor quality.<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |pages=290–91}}</ref><ref name=":0" /> The gelatinous [[pileipellis]] should be removed first,<ref name="Miller 2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|page=358|author-link=Orson K. Miller Jr.}}</ref> and like all ''[[Suillus]]'' species, the tubes are best removed before cooking. It has been reported to cause gastric upset in some cases.<ref name="Miller 2006" /> It is sometimes included in commercially produced mushroom preserves. The fruit bodies—low in fat, high in fiber and carbohydrates, and a source of [[nutraceutical]] compounds—can be considered a [[functional food]].<ref name="Reis 2014"/><!--Cites last sentence-->
+
+==References==
+
+{{Reflist|refs=
+
+<ref name="Eppinger 2006">{{cite book |author=Eppinger M. |title=Field Guide to Mushrooms and Other Fungi of Britain and Europe |url=https://books.google.com/books?id=X96A6iQwvV4C&pg=PA38 |year=2006 |publisher=New Holland Publishers |isbn=978-1-84537-474-7 |page=38}}</ref>
+
+<ref name="McKnight 1987">{{cite book |vauthors=McKnight VB, McKnight KH |title=A Field Guide to Mushrooms: North America | series=Peterson Field Guides |publisher=Houghton Mifflin |location=Boston, Massachusetts |year=1987 |page=208 |isbn=978-0-395-91090-0}}</ref>
+
+<ref name="Reis 2014">{{cite journal |vauthors=Reis FS, Stojković D, Barros L, Glamočlija J, Cirić A, Soković M, Martins A, Vasconcelos MH, Morales P, Ferreira IC |title=Can ''Suillus granulatus'' (L.) Roussel be classified as a functional food? |journal=Food & Function |year=2014 |pmid=25231126 |doi=10.1039/C4FO00619D |volume=5 |issue=11 |pages=2861–9|url=https://bibliotecadigital.ipb.pt/bitstream/10198/12054/3/231.pdf |hdl=10198/12054 }}</ref>
+
+<ref name="Richardson 2000">{{cite book |author=Richardson DM. |title=Ecology and Biogeography of ''Pinus'' |url=https://books.google.com/books?id=YawYOzQmcHEC&pg=PA334 |year=2000 |publisher=Cambridge University Press |isbn=978-0-521-78910-3 |page=334}}</ref>
+
+<ref name="Simberloff 2010">{{cite book |vauthors=Simberloff D, Rejmanek M |title=Encyclopedia of Biological Invasions |url=https://books.google.com/books?id=hq5uc8O5pDQC&pg=PA470 |year=2010 |publisher=University of California Press |isbn=978-0-520-94843-3 |page=470}}</ref>
+
+<ref name="urlFungorum synonymy: Suillus granulatus">{{cite web |url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=291277 |title=GSD Species Synonymy: ''Suillus granulatus'' (L.) Roussel |publisher=Species Fungorum. CAB International }}</ref>
+
+}}
+
+==External links==
+* {{commons category inline|italic=on
+}}
+{{Taxonbar|from=Q1142857}}
+
+[[Category:Suillus|granulatus]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1753]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of Africa]]
+[[Category:Fungi of Australia]]
+[[Category:Fungi native to Australia]]
+[[Category:Fungi of New Zealand]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of South America]]
+[[Category:Fungal taxa named by Carl Linnaeus]]
+[[Category:Fungi of Oceania]]
+[[Category:Fungi without expected TNC conservation status]]
+[[Category:Fungus species]]
+[[Category:Fungi of Turkey]]

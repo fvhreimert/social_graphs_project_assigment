@@ -1,0 +1,78 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+ | image             = Omphalotus olearius.JPG
+ | genus             = Omphalotus
+ | species           = olearius
+ | authority         = ([[A. P. de Candolle|DC.]]) [[Rolf Singer|Sing.]] (1948)
+ | synonyms_ref      = <ref name="urlFungorum synonymy: Omphalotus olearius"/>
+ | synonyms          = *''Agaricus olearius'' <small>DC. (1815)</small>
+*''Agaricus olearius'' subsp. ''phosphoreus'' <small>Battarra ex Pers. (1828)</small>
+*''Dryophila phosphorea'' <small>([[Giovanni Antonio Battarra|Battarra]] ex [[Pers.]]) [[Quél.]] (1888)</small>
+*''Clitocybe olearia'' <small>(DC.) [[René Maire|Maire]] (1933)</small>
+*''Clitocybe phosphorea'' <small>(Battarra ex Pers.) Bohus (1957)</small>
+}}
+
+
+'''''Omphalotus olearius''''',<ref name=":2" /> commonly known as the '''jack-o'-lantern mushroom''', is a poisonous [[Orange (color)|orange]] gilled [[mushroom]] that to an untrained eye appears similar to some [[Cantharellus|chanterelle]]s. It is notable for its [[bioluminescence|bioluminescent]] properties. It is found in woodland areas in Europe, where it grows on decaying stumps, on buried roots or at the base of hardwood trees. A similar, but [[phylogenetics|phylogenetically]] distinct<ref name="Kirchmair2004" /> species found in eastern North America is ''[[Omphalotus illudens]]''.
+
+Unlike chanterelles, ''Omphalotus olearius'' and other ''Omphalotus'' species contain the toxin [[Illudin|illudin S]], and are [[poison]]ous to humans. While not typically lethal, consuming this mushroom leads to very severe [[cramp]]s, [[vomiting]], and [[diarrhea]].<ref>{{Cite journal |last1=Vanden Hoek |first1=T. L. |last2=Erickson |first2=T. |last3=Hryhorczuk |first3=D. |last4=Narasimhan |first4=K. |date=May 1991 |title=Jack o'lantern mushroom poisoning |journal=Annals of Emergency Medicine |volume=20 |issue=5 |pages=559–561 |doi=10.1016/s0196-0644(05)81617-8 |issn=0196-0644 |pmid=2024797}}</ref><ref>{{Cite journal |last1=French |first1=A. L. |last2=Garrettson |first2=L. K. |date=1988 |title=Poisoning with the North American Jack O'Lantern mushroom, Omphalotus illudens |journal=Journal of Toxicology. Clinical Toxicology |volume=26 |issue=1–2 |pages=81–88 |doi=10.3109/15563658808995399 |issn=0731-3810 |pmid=3290510}}</ref>
+
+== Description ==
+''Omphalotus olearius'' is the same shade of orange internally and externally. It does not change color when bruised or sliced, a feature which helps to distinguish it from visibly similar species.<ref name=":03">{{Cite web |last=Kuo |first=Michael |date=8 September 2023 |title=Omphalotus olearius (MushroomExpert.Com) |url=https://www.mushroomexpert.com/omphalotus_olearius.html |access-date=2024-11-06 |website=www.mushroomexpert.com}}</ref> Its bioluminescence, a blue-green color, can be observed in fresh specimens in low light conditions once the [[Human eye|eye]] becomes [[Adaptation (eye)|dark-adapted]]. The whole mushroom does not glow—only the gills do so. This is due to an [[enzyme]] called [[luciferase]], acting upon a compound called [[luciferin]], leading to the emission of light much as [[firefly|fireflies]] do when glowing.<ref name="Oliveira2012" /> Bioluminescence has been shown to aid in the reproduction of fungi by attracting insects to them to spread spores.<ref>{{Cite web |last=Michelson |first=Molly |date=26 March 2015 |title=Why Mushrooms Glow - California Academy of Sciences |url=https://www.calacademy.org/explore-science/why-mushrooms-glow#:~:text=%E2%80%9CRegulation%20implies%20an%20adaptive%20function,can%20all%20be%20proud%20of! |access-date=2024-11-15 |website=www.calacademy.org |language=en}}</ref> However, the jack-o'-lantern mushroom does not use bioluminescence for the purpose of attracting insects, and studies on it have not yet determined the exact purpose of bioluminescence in this species.<ref>{{Cite web |title=The Jack-O'-Lantern Mushroom |url=https://yardandgarden.extension.iastate.edu/article/2005/11-9/jack.html |access-date=2024-11-06 |website=Yard and Garden |language=en}}</ref>
+
+Identifiable characteristics of the jack-o'-lantern mushroom include true, sharp, [[decurrent]], non-forking gills.<ref name=":12">{{Cite web |title=Jack-o'-Lantern |url=https://mdc.mo.gov/discover-nature/field-guide/jack-o-lantern |access-date=2024-11-06 |website=Missouri Department of Conservation |language=en}}</ref> The smell of these mushrooms is non-distinctive. [[Pileus (mycology)|Cap]] size can range from 4–12&nbsp;cm in diameter. The jack-o'-lantern [[Stipe (mycology)|stem]] can vary between {{convert|1|-|2|cm|in|abbr=on}} in thickness and {{convert|3.5|-|9|cm|in|abbr=on}} in total length from attachment to cap to base of stem.<ref name=":03"/>
+
+== Distribution and habitat ==
+''Omphalotus olearius'' are an uncommon find and can be seen in the summer and fall seasons (July–October) in regions of southern Europe. This range includes southern France, the [[Iberian Peninsula]], and other Mediterranean countries.<ref name=":22">{{Cite web |title=Omphalotus olearius, Mushroom identification |url=https://www.first-nature.com/fungi/omphalotus-olearius.php |access-date=2024-11-12 |website=www.first-nature.com}}</ref> This species has also been reported from the [[Western Cape|Western Cape Province]], [[South Africa]].<ref name=":2">{{Cite web |title=Omphalotus olearius (DC.) Sing., 1948 |url=https://www.gbif.org/species/144093932 |access-date=2024-11-26 |website=www.gbif.org |language=en}}</ref> Clusters of jack-o'-lantern mushrooms can be found in forests that contain primarily deciduous trees. The roots, decaying stumps, and bases of hardwoods are their preferred habitat, particularly on the decaying roots of olive trees.<ref name=":22" /><ref name=":03"/>{{mycomorphbox
+| name = ''Omphalotus olearius''
+| whichGills = decurrent
+| capShape = infundibuliform
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=saprotrophic
+| sporePrintColor=yellow
+| howEdible=poisonous 
+}}
+
+== Similar species ==
+Several species of chanterelles may be confused with the jack-o'-lantern mushroom. A characteristic that distinguishes chanterelles from the jack-o'-lantern is the appearance of the gills. Jack-o'-lanterns have sharp, bendable, paper-like gills; chanterelles, however, have false gills that take the appearance of blunt ridges.<ref name=":12"/> Furthermore, if the jack-o'-lantern's stem is peeled, the same shade of orange as the outer flesh, while the chanterelle is paler inside the stem. The Jack-o'-lantern mushroom is also mistaken as the edible [[Laetiporus]] as they have a similar color scheme.
+
+Two common bioluminescent species that can be found in North America are ''[[Omphalotus illudens]]'' and ''[[Omphalotus olivascens]].'' ''Omphalotus olivascens'' is common to southern to central [[California]], while ''Omphalotus illudens'' is found in eastern [[North America]]. Both of these species are poisonous. The similarly poisonous mushroom Tsukiyotake (''[[Omphalotus japonicus]]'', formerly known as ''Lampteromyces japonicus),'' can be found in [[Japan]] and eastern [[Asia]] and is also bioluminescent and contains the same poison, [[illudin]].<ref name=Kirchmair2004/>
+
+==See also==
+*[[List of bioluminescent fungi]]
+
+== Gallery ==
+<gallery>
+File:Omphalotus olearius 33857.jpg|Bioluminescent gills
+File:Jack_O'_Lantern_Mushroom_Closeup;_Omphalotus_olearius.JPG|Close up of gills
+Omphalotus olearius - listast himenofor.jpg
+Omphalotus olearius - listići.jpg
+Omphalotus olearius 1.jpg
+Omphalotus olearius 3.jpg
+Omphalotus olearius100.jpg
+</gallery>
+
+==References==
+{{Reflist|refs=
+
+<ref name=Kirchmair2004>{{cite journal |doi=10.2307/3762142 |vauthors=Kirchmair M, Morandell S, Stolz D, Pöder R, Sturmbauer C |year=2004 |title=Phylogeny of the genus ''Omphalotus'' based on nuclear ribosomal DNA-sequences |journal=Mycologia |volume=96 |issue=6 |pages=1253–60 |url=http://www.mycologia.org/cgi/reprint/96/6/1253.pdf |access-date=2010-05-26 |jstor=3762142 |pmid=21148949}}</ref>
+
+<ref name="urlFungorum synonymy: Omphalotus olearius">{{cite web |title=Synonymy: ''Omphalotus olearius'' (DC.) Singer |url=http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=288943 |publisher=Species Fungorum. CAB International |access-date=2015-09-24}}</ref>
+
+<ref name=Oliveira2012>{{cite journal |doi=10.1039/c2pp25032b |vauthors=Oliveira AG, Desjardin DE, Perry BA, Stevani CV |year=2012 |title=Evidence that a single bioluminescent system is shared by all known bioluminescent fungal lineages |journal=Photochemical and Photobiological Sciences |volume=11 |issue=5 |pages=848–852 |pmid=22495263|doi-access=free }}</ref>
+
+}}
+
+==External links==
+{{Commons category|Omphalotus olearius}}
+* [http://americanmushrooms.com/taxa/Omphalotus_olearius_00.htm AmericanMushrooms.com: Jack O'Lantern Mushroom]
+* [http://botit.botany.wisc.edu/toms_fungi/oct97.html Tom Volk's Fungus of the Month October 1997]
+* [http://www.ipm.iastate.edu/ipm/hortnews/2005/11-9/jack.html Iowa State University Horticulture & Home Pest News]
+
+{{Taxonbar|from=Q1043730}}
+
+[[Category:Bioluminescent fungi]]
+[[Category:Omphalotus|olearius]]
+[[Category:Poisonous fungi]]
+[[Category:Fungi of Europe]]

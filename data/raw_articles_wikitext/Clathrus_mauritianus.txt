@@ -1,0 +1,40 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image =
+| image_caption = 
+| genus = Clathrus
+| species = mauritianus
+| authority = ([[Curtis Gates Lloyd|Lloyd]]) Dring
+| synonyms_ref = <ref name="urlMycoBank:Clathrus mauritianus"/>
+| synonyms = 1910 ''Ithyphallus mauritianus'' <small>(Lloyd) [[Pier Andrea Saccardo|Sacc.]] & Traverso</small><br>
+1917 ''Pseudocolus mauritianus'' <small>Lloyd</small>
+}}
+{{mycomorphbox
+| name = ''Clathrus mauritianus''
+| hymeniumType=gleba
+| capShape=no
+| whichGills=no
+| stipeCharacter=NA
+| sporePrintColor =olive-brown
+| ecologicalType=saprotrophic
+}}
+
+'''''Clathrus mauritianus''''' is a species of [[fungus]] in the [[stinkhorn]] family. It is found in [[Mauritius]].<ref name="urlMycoBank:Clathrus mauritianus"/>
+
+==References==
+{{Reflist|refs=
+
+<ref name="urlMycoBank:Clathrus mauritianus">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=113170 |title=''Clathrus mauritianus'' (Lloyd) Dring 1980   |publisher=International Mycological Association |work=MycoBank |accessdate=2010-10-29}}</ref>
+
+}}
+
+{{Taxonbar|from=Q5128568}}
+
+[[Category:Phallales]]
+[[Category:Fungi of Africa]]
+[[Category:Fungi described in 1910]]
+[[Category:Fungi of Mauritius]]
+[[Category:Fungus species]]
+
+
+{{Phallales-stub}}

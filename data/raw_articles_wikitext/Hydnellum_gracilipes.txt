@@ -1,0 +1,60 @@
+{{Short description|Species of mushroom-forming fungus}}
+{{Use dmy dates|date=April 2025}}
+{{Use Oxford spelling|date=April 2025}}
+{{Speciesbox 
+| image = Hydnellum gracilipes (8122223419).jpg
+| image_alt =
+| image_caption =
+| status = VU
+| status_system = IUCN3.1
+| status_ref = <ref name="iucn status 11 November 2021">{{cite iucn |author=Brandrud, T.-E. |date=2015 |title=''Hydnellum gracilipes'' |volume=2015 |article-number=e.T76170958A76170972 |doi=10.2305/IUCN.UK.2015-4.RLTS.T76170958A76170972.en |access-date=11 November 2021}}</ref>
+| taxon = Hydnellum gracilipes
+| authority = ([[Petter Adolf Karsten|P.Karst.]]) P.Karst. (1879)
+| synonyms_ref = <ref name="urlMycoBank: Hydnellum gracilipes"/>
+| synonyms =
+*''Hydnum gracilipes'' {{au|P.Karst. (1866)}} 
+*''Calodon gracilipes'' {{au|(P.Karst.) P.Karst. (1881)}}
+}}
+
+'''''Hydnellum gracilipes''''' is a species of [[Hydnoid fungi|tooth fungus]] in the family [[Bankeraceae]].  [[Basidiocarp|Fruit bodies]] of the fungus have a pinkish to reddish-brown colour, a delicate texture described as "felty or papery", and flimsy [[stipe (mycology)|stipes]].  ''H.&nbsp;gracilipes'' is found in northern Europe, where it is [[mycorrhiza]]l with [[pine]]. 
+
+==Taxonomy==
+
+The fungus was first [[species description|described]] scientifically in 1886 by the Finnish mycologist [[Petter Karsten]], who called it ''Hydnum gracilipes''. He transferred it to the genus ''[[Hydnellum]]'' in 1879.<ref name="Karsten 1879"/>
+
+==Description==
+
+''Hydnellum gracilipes'' forms small, stalked fruit bodies ([[basidiocarp]]s) with caps ([[pileus (mycology)|pilei]]) up to 3&nbsp;mm across. Young caps are clothed in fine hairs (tomentose), giving them a velvety feel; as they mature these hairs wear off and the surface becomes dull and smooth (glabrous). The overall tone is a pale purplish‑brown, tending toward a more yellowish shade at the centre. On the underside, short downward‑pointing spines reach up to 2&nbsp;mm in length; these are initially pale purplish‑brown and deepen slightly in colour as they age. The [[trama (mycology)|flesh]] (context) is very thin—around 1.5&nbsp;mm thick—and shows a faint two‑layered (duplex) appearance, becoming a gentle purplish‑brown at maturity.<ref name="Ryvarden 2024"/>
+
+The stem ([[stipe (mycology)|stipe]]) measures up to 1.5&nbsp;cm in height and about 4&nbsp;mm in thickness. Like the cap, it begins with a fine, hairy covering and later smooths out, retaining the same colour as the pileus. Under the microscope, the hyphae (filamentous cells) are simple septate—meaning each cell is divided by cross‑walls—and range from 2 to 6&nbsp;[[μm]] in width. The spores produced on the spines are small (4.3–4.6 by 2.7–3.6&nbsp;[[μm]]), pale in colour, and ornamented with tiny surface projections, which help in species identification.<ref name="Ryvarden 2024"/> They are roughly spherical with a diameter of no more than 5&nbsp;μm.<ref name="Ainsworth 2011"/>
+
+==Habitat and distribution==
+
+''Hydnellum gracilipes'' is widely distributed in northern Europe, where it forms [[ectomycorrhiza]]e with [[conifer]]s.<ref name="Kõljalg 2000"/> In Norway, the northern extent of its distribution is in [[Finnmark]].<ref name="Ryvarden 2024"/> Collections made in Scotland have been found by lifting the dense ground cover of common heather (''[[Calluna vulgaris]]''), which the fungus seems to use to as support to compensate for its flimsy stipe.<ref name="Ainsworth 2011"/>
+
+==See also==
+*[[List of fungi by conservation status]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Ainsworth 2011">{{cite journal |last=Ainsworth |first=M. |title=''Hydnellum cumulatum'' and ''H. gracilipes'': two overlooked Scottish hydnoids new to Britain |journal=Field Mycology |year=2011 |volume=12 |issue=4 |pages=139–143 |doi=10.1016/j.fldmyc.2011.09.011 |doi-access=free}}</ref>
+
+<ref name="Karsten 1879">{{cite journal |last=Karsten |first=P.A. |title=Symbolae ad mycologiam Fennicam. VI |journal=Meddelanden Af Societas Pro Fauna et Flora Fennica |year=1879 |volume=5 |pages=15–46 |language=Latin |url=https://www.biodiversitylibrary.org/item/23882#page/49/mode/1up}}</ref>
+
+<ref name="Kõljalg 2000">{{cite journal |last1=Kõljalg |first1=U. |last2=Renvall |first2=P. |title=''Hydnellum gracilipes'': a link between stipitate and resupinate Hymenomycetes |journal=Karstenia |year=2000 |volume=40 |issue=1–2 |pages=71–77|doi=10.29203/ka.2000.355 |doi-access=free}}</ref>
+
+<ref name="Ryvarden 2024">{{cite book |last=Ryvarden |first=Leif |year=2024 |title=Hydnoid Genera – A World Synopsis |series=Synopsis Fungorum |volume=50 |publisher=Fungiflora |location=Oslo |url=https://www.fungiflora.no/synopsis-50-hydnoid-genera |page=31}}{{OA}}</ref>
+
+<ref name="urlMycoBank: Hydnellum gracilipes">{{cite web |title=GSD Species Synonymy: ''Hydnellum gracilipes'' (P. Karst.) P. Karst. |url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=100891 |publisher=Species Fungorum. CAB International |access-date=20 April 2025 }}</ref>
+
+}}
+
+{{Taxonbar |from1=Q10671885 |from2=Q59522098
+}}
+
+[[Category:Hydnellum|gracilipes]]
+[[Category:Fungi described in 1866]]
+[[Category:Fungi of Europe]]
+[[Category:Fungus species]]
+[[Category:Taxa named by Petter Adolf Karsten]]

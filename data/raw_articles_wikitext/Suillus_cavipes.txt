@@ -1,0 +1,53 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Boletus cavipes.jpg
+| genus = Suillus
+| species = cavipes
+| authority = ([[Wilhelm Opatowski|Opat.]]) [[Alexander H. Smith|A.H.Sm.]] & [[Harry D. Thiers|Thiers]] (1964)
+| synonyms_ref = <ref name="urlMycoBank: Suillus cavipes"/>
+| synonyms = ''Boletus cavipes'' <small>Opat. (1836)</small><br>
+''Boletinus cavipes'' <small>(Opat.) [[Károly Kalchbrenner|Kalchbr.]] (1867)</small><br>
+''Euryporus cavipes'' <small>(Opat.) [[Lucien Quélet|Quél.]] (1886)</small><br>
+''Boletopsis cavipes'' <small>(Opat.) [[Paul Hennings|Henn.]] (1900)</small>
+}}
+{{ mycomorphbox
+| name             = Suillus cavipes
+| whichGills       = adnate
+| capShape         = convex
+| hymeniumType     = pores
+| stipeCharacter   = bare
+| ecologicalType   = mycorrhizal
+| howEdible        = edible
+}}
+
+'''''Suillus cavipes''''', commonly known as the '''hollow foot'''<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/494/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=494-95 |orig-date=1979}}</ref> is a species of [[mushroom]] in the genus ''[[Suillus]]''.<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=287}}</ref> The epithet ''cavipes'' ([[Latin]]: 'hollow foot') refers to the hollow [[Stipe (mycology)|stem]].<ref name=":1">{{cite book |last1=Trudell |first1=Steve |url=https://books.google.com/books?id=WevHvt6Tr8kC |title=Mushrooms of the Pacific Northwest |last2=Ammirati |first2=Joe |publisher=Timber Press |year=2009 |isbn=978-0-88192-935-5 |series=Timber Press Field Guides |location=Portland, OR |pages=222}}</ref>
+
+The brownish cap is up to {{Convert|12|cm|frac=4}} wide, dry, fibrillose, sometimes with [[Veil (mycology)|veil]] remnants on the edge.<ref name="Arora1986" /> The pores are buff and usually decurrent.<ref name="Arora1986" /> The stipe is up to 9&nbsp;cm long and 2&nbsp;cm thick, yellowish above, sometimes with a slight [[Annulus (mycology)|ring]], and cap-colored below.<ref name="Arora1986" /> The [[Trama (mycology)|flesh]] is whitish and firm.<ref name="Arora1986" />
+
+It is found in Europe and North America. It is associated with [[larch]] in the Pacific Northwest.<ref name=":1" /> It is [[edible mushroom|edible]].<ref name="Arora1986" />
+
+==See also==
+*[[List of North American boletes]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="urlMycoBank: Suillus cavipes">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=339844 |title=''Suillus cavipes'' (Opat.) A.H. Sm. & Thiers 1964  |publisher=International Mycological Association |work=MycoBank |access-date=2011-01-05}}</ref>
+
+}}
+
+==External links==
+*{{Commons-inline|italic=true}}
+*{{IndexFungorum|339844}}
+
+{{Taxonbar|from=Q1624061}}
+
+[[Category:Edible fungi]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1836]]
+[[Category:Suillus|cavipes]]
+[[Category:Fungus species]]
+
+
+{{Boletales-stub}}

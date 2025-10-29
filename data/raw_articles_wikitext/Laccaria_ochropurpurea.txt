@@ -1,0 +1,29 @@
+{{Short description|Species of edible mushroom}}
+{{Speciesbox
+| image = Laccaria ochropurpurea 22329.jpg
+| genus = Laccaria
+| species = ochropurpurea
+| authority = (Berk.) Peck, 1896
+| synonyms = 
+}}
+
+'''''Laccaria ochropurpurea''''' is a species of fungus. The pinkish to yellowish [[Pileus (mycology)|cap]] ranges from {{Convert|4–13|cm|frac=4}} wide and the [[Stipe (mycology)|stipe]] from {{Convert|5–19|cm|abbr=on|frac=4}} long.<ref name="Miller2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=106}}</ref> The gills are purple and the [[spore print]] is white.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=591}}</ref> It can resemble species such as ''[[Laccaria trullisata|L.&nbsp;trullisata]]'' (found in sand), ''[[Cortinarius torvus]]'', and ''[[Cortinarius lucorum|C.&nbsp;lucorum]]''.<ref name="audu" />
+
+Found under hardwood and [[conifers]] east of the [[Rocky Mountains]] from July to October,<ref name="audu" /> ''L.&nbsp;ochropurpurea'' produces an [[edible mushroom]].<ref>{{cite book |last=Phillips |first=Roger |url=https://archive.org/details/mushroomsotherfu0000phil/page/68 |title=Mushrooms and Other Fungi of North America |publisher=Firefly Books |year=2010 |isbn=978-1-55407-651-2 |location=Buffalo, NY |page=68 |url-access=registration}}</ref><ref name="mushroomexpert">{{cite web |author=Michael Kuo |year=2015 |title=''Laccaria ochropurpurea'' |url=http://www.mushroomexpert.com/laccaria_ochropurpurea.html |access-date=2016-01-21}}</ref>
+
+== References ==
+{{Reflist}}
+
+== External links ==
+*{{Commons-inline}}
+*{{Wikispecies-inline|Laccaria ochropurpurea}}
+
+{{Taxonbar|from=Q3215773}}
+
+[[Category:Laccaria|ochropurpurea]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]
+[[Category:Taxa named by Miles Joseph Berkeley]]
+
+
+{{Agaricales-stub}}

@@ -1,0 +1,56 @@
+{{Short description|Species of fungus}}
+{{stack|
+{{Speciesbox
+| image = Lepiota castanea 70848.jpg
+| genus = Lepiota
+| species = castanea
+| authority = [[Lucien Quélet|Quél.]]}}
+{{mycomorphbox 
+| name = ''Lepiota castanea''
+| whichGills = adnexed
+| capShape = campanulate
+| capShape2 = conical
+| hymeniumType = gills
+| ecologicalType = saprotrophic
+| stipeCharacter = ring
+| sporePrintColor = white
+| howEdible = deadly
+}}}}
+
+'''''Lepiota castanea''''', commonly known as the '''chestnut dapperling''' or '''petite parasol''',<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/307/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=307-8 |orig-date=1979}}</ref> is an uncommon, gilled [[mushroom]] of the genus ''[[Lepiota]]'' in the order [[Agaricales]]. It was described by French mycologist [[Lucien Quélet]] in 1881.
+
+It is known to contain [[amatoxin]]s and is potentially deadly [[Mushroom poisoning|poisonous]].
+
+==Description==
+
+The cap is broadly bell-shaped to flat, white with dark red-brown scales; it is up to 3&nbsp;cm in diameter.<ref name="Arora1986" /> The gills are whitish and the stem is typically chestnut brown and up to 8&nbsp;cm long, with an indistinct [[Annulus (mycology)|ring]].<ref name="Arora1986" />
+
+The flesh is whitish,<ref name="Arora1986" /> with a mild taste. The [[spore print]] is white.<ref name="Arora1986" />
+
+==Habitat==
+It can be found in coniferous and deciduous woodlands, mostly singly or in small groups.<ref name="Arora1986" />
+
+==Toxicity==
+
+Like several other species of the genus ''Lepiota'', it contains potentially fatal [[amatoxin]]s<ref name="Arora1986" /><ref name="Miller2006">{{cite book |last=Miller Jr. |first=Orson K. |title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi |last2=Miller |first2=Hope H. |publisher=[[FalconGuide]] |year=2006 |isbn=978-0-7627-3109-1 |location=Guilford, CN |pages=58}}</ref> which affect the liver.
+
+==See also==
+*[[List of deadly fungi]]
+*[[List of Lepiota species|List of ''Lepiota'' species]]
+
+==References==
+{{Reflist}}
+*E. Garnweidner. ''Mushrooms and Toadstools of Britain and Europe''. Collins. 1994.
+
+{{Taxonbar|from=Q2640668}}
+
+[[Category:Lepiota|castanea]]
+[[Category:Deadly fungi]]
+[[Category:Poisonous fungi]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi described in 1881]]
+[[Category:Taxa named by Lucien Quélet]]
+[[Category:Fungus species]]
+
+
+{{Agaricaceae-stub}}

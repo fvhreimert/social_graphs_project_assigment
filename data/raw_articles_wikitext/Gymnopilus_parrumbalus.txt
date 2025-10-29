@@ -1,0 +1,41 @@
+{{Short description|Species of fungus}}
+{{single source|date=October 2025}}
+{{no footnotes|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption =
+| taxon = Gymnopilus parrumbalus
+| authority = Grgur.
+| synonyms =
+}}
+{{mycomorphbox
+| name = Gymnopilus parrumbalus
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+
+'''''Gymnopilus parrumbalus''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]].
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==External links==
+*''[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=443285 Gymnopilus parrumbalus]'' at [[Index Fungorum]]
+
+{{Taxonbar|from=Q5624925}}
+
+{{DEFAULTSORT:Gymnopilus parrumbalus}}
+[[Category:Gymnopilus|parrumbalus]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Cheryl A. Grgurinovic]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

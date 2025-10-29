@@ -1,0 +1,58 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{Speciesbox
+| image=Amanita nivalis Grev 487508.jpg
+| taxon = Amanita nivalis
+| authority = [[Robert Kaye Greville|Grev.]] 1826
+| synonyms_ref = <ref name=IndexFungorum>{{cite web |url=http://www.speciesfungorum.org/Names/GSDSpecies.asp?RecordID=177200 |title=Synonymy: ''Amanita nivalis'' |publisher=CAB International |work=Species Fungorum |access-date=2012-11-30}}</ref>
+| synonyms = *''Agaricus nivalis'' (Grev.) Loudon (1829)
+*''Amanitopsis nivalis'' (Grev.) Sacc., Syll. (1887)
+*''Pseudofarinaceus nivalis'' (Grev.) Kuntze, Revis. (1891)
+*''Amanitopsis vaginata var. nivalis'' (Grev.) Peck, (1894)
+*''Vaginata nivalis'' (Grev.) Kuntze (1898)
+*''Amanita vaginata var. nivalis'' (Grev.) E.-J. Gilbert (1918)
+*''Amanita vaginata f. nivalis'' (Grev.) Veselý (1933)
+*''Amanitina nivalis'' (Grev.) E.-J. Gilbert (1941)
+}}
+{{mycomorphbox
+| name = ''Amanita nivalis''
+| whichGills = free
+| capShape = ovate
+| capShape2 = umbonate
+| hymeniumType=gills
+| stipeCharacter=volva
+| ecologicalType=mycorrhizal
+| sporePrintColor=white
+}}
+{{stack end}}
+
+'''''Amanita nivalis''''', the '''snow ringless amanita'''<ref name=NGSWG>{{NGSWG}}</ref> or '''mountain grisette''', is a species of [[Basidiomycota|basidomycote]] fungus in the genus ''[[Amanita]]''.
+
+==Taxonomy==
+''A. nivalis'' was first described by the Scottish [[Mycology|mycologist]] [[Robert Kaye Greville]] in 1826 from specimens found growing at high altitudes in the [[Scottish Highlands]]. He gave it the [[Latin]] [[Botanical name|epithet]] ''nivalis'' (of the snow) to indicate the [[Alpine tundra|alpine]] type habitat in which he found it growing rather than to describe its white colour.<ref name="Amanitaceae" />
+
+==Description==
+'s original drawing of ''A. nivalis'']]
+''A. nivalis'' is a small species of fungus which is usually white when young, but becomes tinged with grey or buff as it ages. It is rather variable in appearance over its wide range. The cap is dry, smooth and shiny and may be any size between {{convert|2 and 8|cm|abbr=off|frac=2}}. It becomes slightly sticky when wet. It is hemispherical when young, but flattens out with age and develops a slight [[Umbo (mycology)|umbo]]. Near the rim there are fine radiating striations and the surface of the cap may have a few pieces of the membranous [[Volva (mycology)|volva]] adhering to it. The gills are pale cream, broad, fairly crowded and mostly unconnected to the stem. There are a few irregularly arranged shorter gills with truncated ends. The stem is {{convert|3.8 to 10|cm|abbr=on|frac=2}} long and {{convert|5|to|12|mm|frac=4|1}} wide, hollow and with a smooth surface. There may be a fragile ring, but it soon falls off. The base of the stem grows out of a brittle, sac-like volva which is white or pale yellowish-brown. The spores are nearly spherical, being 10.0 to 13.5&nbsp;micrometres by 8.8 to 12.0&nbsp;μm. This species is said to have an undistinguished odour and flavour.<ref name="Amanitaceae">{{cite web |title=''Amanita nivalis'' |url=http://www.amanitaceae.org/?Amanita+nivalis |access-date=2012-11-30 |publisher=Amanitaceae.org}}</ref><ref name=beli/>
+
+==Distribution and habitat==
+It grows in [[subarctic]] and alpine conditions in [[Europe]] and also in [[Greenland]].<ref name="Amanitaceae" /> It is often associated with low growing willows (''[[Salix]]'' spp.) and birches (''[[Betula]]'' spp.). There have been reports of it occurring at high altitudes in the [[Rocky Mountains]] in North America.<ref name="Amanitaceae" /> The fruit bodies appear singly or in small groups in both silicaceous and limestone areas in summer.<ref name="beli">{{cite web |url=http://www.gobe.si/Gobe/AmanitaNivalis |title=''Amanita nivalis'', beli lupinar |publisher=Gobarsko društvo Lisička Maribor |language=sl |access-date=2012-11-30}}</ref>
+
+==Conservation==
+Although the edibility of this species is unknown, because of its rarity, it is best not to gather it.<ref>{{cite web |url=http://clicamanites.free.fr/Fiches.champignons/amanita.nivalis.html |title=''Amanita nivalis'' Greville |author=Boiron, Patrick |work=Clic'amanites |language=fr |access-date=2012-12-01}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Amanitas}}
+{{Taxonbar|from=Q2059582}}
+
+[[Category:Amanita|nivalis]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of the United States]]
+[[Category:Fungi of Greenland]]
+[[Category:Natural history of Scotland]]
+[[Category:Ecology of the Rocky Mountains]]
+[[Category:Fungi described in 1826]]
+[[Category:Fungi without expected TNC conservation status]]
+[[Category:Fungus species]]

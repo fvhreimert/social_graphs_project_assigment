@@ -1,0 +1,55 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Clitocybe dealbata 1.jpg
+| genus = Clitocybe
+| species = dealbata
+| authority = ([[James Sowerby|Sowerby]]) [[Claude Casimir Gillet|Gillet]] (1874)
+}}
+{{mycomorphbox 
+| name = ''Clitocybe dealbata''
+| whichGills = adnate 
+| capShape = depressed 
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=saprotrophic
+| sporePrintColor=white
+| howEdible=poisonous
+|howEdible2=deadly
+}}
+
+'''''Clitocybe dealbata''''', also known as the '''ivory funnel''', is a small white [[funnel]]-shaped basidiomycete fungus widely found in lawns, meadows and other grassy areas in Europe and North America.
+
+Also known as the '''sweating mushroom''', or '''sweat producing clitocybe''',<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/163/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=163 |orig-date=1979}}</ref> it derives these names from the symptoms of poisoning. It contains potentially deadly levels of [[muscarine]].
+
+==Taxonomy==
+''Clitocybe dealbata'' was initially described by  [[United Kingdom|British]] [[natural history|naturalist]] [[James Sowerby]] in 1799 as ''Agaricus dealbatus'',<ref>See [[:File:Coloured Figures of English Fungi or Mushrooms - t. 123.png]] for the plate which is the original definition of this species.</ref> its specific epithet derived from the [[Late Latin]] verb ''dealbare'' 'to whitewash',<ref>{{cite book  | last = Simpson  | first = D.P.  | title = Cassell's Latin Dictionary  | publisher = Cassell Ltd.  | year = 1979   | edition = 5 | location = London  | pages = 883  | isbn = 0-304-52257-0}}</ref> inexorably calling to mind the Biblical "whited sepulchre", that is outwardly pleasing but inwardly toxic. It gained its current genus name in 1874 when reclassified by French naturalist [[Claude Casimir Gillet]].<ref>Gillet CG (1874) ''Les Hyménomycètes'' 828pp</ref>  However, this species is often considered a synonym of ''[[Clitocybe rivulosa]]''<ref>{{cite journal |last=Kuyper |first=Thomas W. |title=Some taxonomic and nomenclatural changes in the Tricholomataceae, tribus Clitocybeae |journal=Persoonia |volume=16 - 2 |year=1996}}</ref> and according to Bon<ref>{{cite book  | last = Bon | first = Marcel | title = Flore mycologique d'Europe 4 Les clitocybes, omphales et ressemblants | publisher = M. Bon | location = Quai Jeanne d'Arc, 80230 St. Valéry-sur-Somme, France  |date=April 1997 | page = 61 }}</ref> the name ''C.&nbsp;dealbata'' may be invalid (a [[:w:en:Nomen dubium|nomen dubium]]) as [[James Sowerby]]'s definition conflicts with [[Elias Magnus Fries]]'s.
+
+==Description==
+A small white or white dusted with [[Buff (colour)|buff]]-coloured mushroom, the 2–4&nbsp;cm diameter [[Pileus (mycology)|cap]] is flattened to depressed with adnate to decurrent crowded white [[Lamella (mycology)|gills]]. The [[Stipe (mycology)|stipe]] is 2–4&nbsp;cm tall and 0.5–1&nbsp;cm wide. The [[spore print]] is white. There is no distinctive taste or smell.<ref>{{cite book | author = Phillips R | year = 1985 | title = Mushrooms of Great Britain and Europe | publisher = Pan Books | isbn = 0-330-26441-9}}</ref><ref>{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=147|oclc=797915861}}</ref>
+
+It is one of a number of similar poisonous species such as the false champignon (''[[Clitocybe rivulosa]]'') which can be confused with the edible fairy ring champignon (''[[Marasmius oreades]]''),<ref name="Carluccio03">{{cite book | author = Carluccio A | author-link = Antonio Carluccio | year = 2003 | title = The Complete Mushroom Book | publisher = Quadrille | isbn = 1-84400-040-0}}</ref> or miller (''[[Clitopilus prunulus]]'').<ref>{{cite book | author = Nilson S & Persson O | year = 1977 | title = Fungi of Northern Europe 2: Gill-Fungi | publisher = Penguin|isbn=0-14-063006-6|page= 98}}</ref>
+
+==Distribution and habitat==
+The ivory funnel is found in grassy habitats in summer and autumn. Often gregarious, it can form [[fairy ring]]s.<ref>{{cite book | author = Haas H | year = 1969 | title = The Young Specialist looks at Fungi |page= 132| publisher = Burke | isbn = 0-222-79409-7}}</ref> Unfortunately, they often occur in grassy areas where they may be encountered by children or pets. This may increase risk of accidental consumption.<ref name ="Benjamin95">Benjamin DR. (1995). ''Mushrooms, Poisons and Panaceas: A Handbook for Naturalists, Mycologists, and Physicians''. W H Freeman & Co. {{ISBN|0-7167-2649-1}}</ref>
+
+==Toxicity==
+The main toxic component of ''Clitocybe dealbata'' is [[muscarine]], and thus the symptoms are like those of [[nerve agent]] poisoning, namely greatly increased [[saliva]]tion, sweating ([[perspiration]]), and the flow of tears ([[lacrimation]]) within 15–30&nbsp;minutes of ingestion. With large doses, these symptoms may be followed by [[Abdomen|abdominal]] pain, severe [[nausea]], [[diarrhea]], blurred vision, and labored breathing. Intoxication generally subsides within two hours. [[Death]] is rare, but may result from  arrhythmia or [[respiratory failure]] in severe cases. The specific [[antidote]]s are [[CHRM1|M1 receptor]] blockers like [[atropine]], [[scopolamine]] and [[diphenhydramine]].<ref name ="Benjamin95"/>
+
+==See also==
+*[[List of deadly fungi]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://emedicine.medscape.com/article/167398-overview Toxicity, Mushrooms - Muscarine]
+
+{{Taxonbar|from=Q1402263}}
+
+[[Category:Clitocybe|dealbata]]
+[[Category:Deadly fungi]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi found in fairy rings]]
+[[Category:Poisonous fungi]]
+[[Category:Taxa named by James Sowerby]]
+[[Category:Fungus species]]

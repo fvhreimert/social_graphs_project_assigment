@@ -1,0 +1,39 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Ganoderma multipileum 746516.jpg
+| genus = Ganoderma
+| species = multipileum
+| authority = [[Ding Hou]] (1950)
+}}
+{{mycomorphbox 
+| name = ''Ganoderma multipileum''
+| whichGills = no 
+| capShape = offset 
+| capShape2 = no 
+| hymeniumType=pores
+| stipeCharacter=bare
+| stipeCharacter2=NA
+| ecologicalType=saprotrophic
+| ecologicalType2=parasitic
+| sporePrintColor=brown
+| howEdible=edible
+}}
+
+'''''Ganoderma multipileum''''', commonly known as '''lingzhi''' or '''chizhi''', is a species of [[polypore]] mushroom.
+
+Formerly known as ''Ganoderma lucidum'', [[phylogenetic]] analyses published in 2009 revealed that ''G.&nbsp;lucidum'' is primarily a European species, and that the name has been incorrectly applied to Asian collections.<ref name="Wang2009">{{cite journal |vauthors=Wang DM, Wu SH, Su CH, Peng JT, Shih YH, Chen LC |year=2009 |title=''Ganoderma multipileum'', the correct name for ''G. lucidum'' in tropical Asia |journal=Botanical Studies |volume=50 |issue=4 |pages=451–58}}</ref>
+
+''G. multipileum'' is found in [[tropical Asia]]. It has been used as a [[medicinal mushroom]] for over 2,000 years.
+
+==References==
+{{Reflist}}
+
+==External links==
+*''[https://www.researchgate.net/publication/279573034_Ganoderma_multipileum_the_correct_name_for_%27G_lucidum%27_in_tropical_Asia "Ganoderma multipileum, the correct name for G. lucidum in tropical Asia"]'' at [[ResearchGate]]
+*''[http://www.indexfungorum.org/names/NamesRecord.asp?RecordID=344109 G. multipileum]'' at [[Index Fungorum]]
+
+{{Taxonbar|from=Q5521448}}
+
+[[Category:Ganoderma|multipileum]]
+[[Category:Medicinal fungi]]
+[[Category:Fungus species]]

@@ -1,0 +1,59 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Laccocephalum-basilapidoides.jpg
+| image_caption = The [[sporophore]] and [[mycelium]] of ''Laccocephalum basilapidoides''. The stone-like basal portion shows fragments of roots and the vestiges of an ant tunnel. Collected from the south-eastern border of [[Australia]]. Normally found in [[Mallee Woodlands and Shrublands|mallee scrub]].
+| taxon = Laccocephalum basilapidoides
+| authority =  [[Daniel McAlpine|McAlpine]] & [[J. G. O. Tepper|Tepper]] (1895)
+| synonyms_ref = <ref name="urlMycoBank: Laccocephalum basilapidoides"/>
+| synonyms = ''Polyporus basilapidoides'' <small>(McAlpine & Tepper) [[Curtis Gates Lloyd|Lloyd]] (1912)</small>
+}}
+
+'''''Laccocephalum basilapidoides''''', referred to as the '''stone-making fungus''', is a [[fungus]] known only from [[Australia]].
+
+==Taxonomy==
+The species was originally described in 1895 by [[Daniel McAlpine]] & Tepper.<ref name=McAlpine1895/> American mycologist [[Curtis Gates Lloyd]] transferred it to the genus ''[[Polyporus]]'' in 1912,<ref name=Lloyd1915/> but the original name has nomenclatural precedence.<ref name="urlMycoBank: Laccocephalum basilapidoides"/>
+
+==Characteristics==
+''Laccocephalum basilapidoides'' is a solitary [[fungus]] with annual [[hymenophore]]. The woody and pitted [[Pileus (mycology)|pileus]] (13/4-15/4 inches in diameter) is irregularly concave in the middle while convex in the remainder. The [[Pileus (mycology)|pileus]] is brownish fawn with coffee-colored margin, the inner substance of which, however, is thick, whitish, and unchangeable.  Pits are relatively small and conical in the middle whereas larger and elliptical in the surrounding rows. The [[hymenophore]] is greyish-fawn to reddish-brown, solid, and continuous with stem, which consists of adnate tubes and large, crowded, and oval pores. The spores are spherical (44-50 μm in diameter), orange-yellow, and echinulate with spines 3 μm long.  The fawn stem is compressed oval, 1/2*3/4 inches in diameter and 1 inch in length, which rises abruptly from a whitish mycelium 3 inches in height and 13/4*4 inches in diameter. The [[mycelium]] agglutinated grains of the sandy soil to form a stone-like basal portion resembles a concretion of ferruginous sandstone in appearance and almost in density (the whole fungus in the figure weighed as heavy as 13.25 ounces).<ref name=McAlpine1895/>
+
+{{mycomorphbox
+ | name = Laccocephalum basilapidoides
+ | capShape =depressed
+ | hymeniumType=pores
+ | stipeCharacter=bare
+ | ecologicalType=saprotrophic
+ | sporePrintColor=yellow-orange
+ | howEdible=unknown
+ }}
+
+==Nomenclature==
+The nomenclature of ''L. basilapiloides'' is rather weird. It originated from the fungus's stone-like basal portion (basilapidoides = Latin ''basis'' base+ ''lapis'' stone + Greek ''οειδής'' likeness). However, when McAlpine and Tepper first described this species, the name they adopted was actually basilapi'''''l'''''oides. Both ''basilapiloides'' and ''basilapidoides'' were used when Lloyd moved it to genus ''Polyporus''. The term ''basilapidoides'' seems to be more accurate in grammar. The commonly accepted scientific name currently is "Laccocephalum basilapidoides" which differs from either McAlpine and Tepper's description or Lloyd's system.
+
+Synonyms:
+* ''Laccocephalum basilapiloides'' McAlpine & Tepper, 1895
+* ''Polyporus basilapidoides'' (McAlpine & Tepper) Lloyd, 1912
+* ''Polyporus basilapiloides'' (McAlpine & Tepper) Lloyd, 1912
+
+==References==
+{{Reflist|refs=
+
+<ref name=Lloyd1915>{{cite journal |author=Lloyd CG. |title=Synopsis of the stipitate Polyporoids |year=1912 |journal=Mycological Notes |issue=7 |page=115}}</ref>
+
+<ref name=McAlpine1895>{{cite journal |author1=McAlpine, D. |author2=Tepper, J.G.O. |title=A new Australian stone-making fungus, ''Laccocephalum basilapiloides'', McAlp. and Tepp. |journal=Proceedings of the Royal Society of Victoria |year=1895 |volume=7 |pages=166–168|
+url=https://www.biodiversitylibrary.org/page/8659767|authorlink1=Daniel McAlpine}}</ref>
+
+<ref name="urlMycoBank: Laccocephalum basilapidoides">{{cite web |title=''Laccocephalum basilapidoides'' McAlpine & Tepper 1895 |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=248790 |publisher=International Mycological Association |work=MycoBank |accessdate=2011-07-04}}</ref>
+
+}}
+
+{{Taxonbar|from=Q6468154}}
+
+[[Category:Polyporaceae]]
+[[Category:Fungi described in 1895]]
+[[Category:Fungi of Australia]]
+[[Category:Taxa named by Daniel McAlpine]]
+[[Category:Fungus species]]
+[[Category:Taxa named by J. G. O. Tepper]]
+
+
+{{Polyporales-stub}}

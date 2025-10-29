@@ -1,0 +1,46 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Gymnopilus imperialis (Speg.) Singer 403290.jpg
+| image_caption =
+| genus = Gymnopilus
+| species = imperialis
+| authority = ([[Carlo Luigi Spegazzini|Speg.]]) [[Rolf Singer|Singer]]
+| synonyms =
+}}
+{{Mycomorphbox
+| name = ''Gymnopilus imperialis''
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+
+'''''Gymnopilus imperialis''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]]. It was given its current name by mycologist [[Rolf Singer]] in 1951.<ref>{{cite journal |author=Singer R. |year=1951 |title=The Agaricales in modern taxonomy |journal=Lilloa |volume=22 |page=561}}</ref>
+
+==Description==
+The [[pileus (mycology)|cap]] is {{convert|5|to|10|cm|in|1}} in diameter.<ref name="isbn0-945345-39-9">{{cite book |author=Hesler LR. |title=North American Species of ''Gymnopilus'' (Mycologia Memoir Series: No 3) |publisher=Lubrecht & Cramer Ltd |location=Knoxville, Tennessee |year=1969 |pages=28–29 |isbn=0-945345-39-9}}</ref>
+
+==Habitat and distribution==
+''Gymnopilus imperialis'' fruitbodies are cespitose (clumped together at the stem), and are found on trunks or at the bases of living or dead [[frondose]] trees, especially ''[[Eucalyptus]]'' species. This species has been observed fruiting in April, October, and December; it is known from Jamaica and Brazil.<ref name="isbn0-945345-39-9"/>
+
+==See also==
+[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*''[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=298037 Gymnopilus imperialis]'' at [[Index Fungorum]]
+
+{{Taxonbar|from=Q5624828}}
+
+[[Category:Gymnopilus|imperialis]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

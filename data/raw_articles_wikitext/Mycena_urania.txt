@@ -1,0 +1,38 @@
+{{Short description|Species of fungus}}
+{{Speciesbox 
+| image = Mycena urania.png
+| image_caption = 
+| genus = Mycena
+| species = urania
+| authority = ([[Elias Magnus Fries|Fr.]]) [[Lucien Quélet|Quél.]]
+| synonyms = ''Agaricus uranius'' <small>Fr.</small>
+}}
+{{mycomorphbox 
+| name = Mycena urania
+| hymeniumType=gills
+| capShape = conical
+| whichGills = adnate
+| stipeCharacter=bare
+| sporePrintColor=white
+| ecologicalType=saprotrophic
+| howEdible=unknown
+}}
+
+'''''Mycena urania''''', commonly known as the '''violet bonnet''',<ref>{{cite web |url=http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |title=Recommended English Names for Fungi in the UK |publisher=[[British Mycological Society]] |url-status=dead |archive-url=https://web.archive.org/web/20110716083053/http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |archive-date=2011-07-16 }}</ref> is a species of [[mushroom]] in the family [[Mycenaceae]]. First named ''Agaricua uranius'' in 1818 by Swedish mycologist [[Elias Magnus Fries]], it was assigned its current name in 1872 by the French naturalist [[Lucien Quélet]].<ref>{{cite journal |last=Quélet L. |year=1872 |title=Les Champignons de Jura et des Vosges |journal=Mémoires de la Société d'Émulation de Montbéliard|series=2|volume=5 |pages=243}}</ref>
+
+==Description==
+The [[pileus (mycology)|cap]] is initially conic in shape, and expands to hemispheric in maturity, typically reaching {{convert|0.4|to|1|cm|in|1|abbr=on}} in diameter.<ref name="Smith p.270/1"/>
+
+==Distribution==
+A rare species, the North American distribution of ''Mycena urania'' includes Michigan, North Carolina, and Tennessee.<ref name="Smith p.270/1">{{cite book |title=North American species of ''Mycena''. |last=Smith AH. |year=1947 |location=Ann Arbor|publisher=University of Michigan Press |pages=270–71}}</ref> It has also been collected in the Scottish [[Cairngorms]].<ref>{{cite book |title=The Nature of the Cairngorms: Diversity in a Changing Environment |last=Shaw P, Thompson D.|year=2006|publisher=The Stationery Office|location=Edinburgh|isbn=978-0-7486-3294-7|page=154|url=https://books.google.com/books?id=mVp6qGygeVgC&q=Mycena+urania&pg=PA154 |access-date=2009-09-26}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q5938951}}
+
+[[Category:Mycena|urania]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]

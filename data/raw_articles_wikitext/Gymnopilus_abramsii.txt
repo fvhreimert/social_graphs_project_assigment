@@ -1,0 +1,50 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = 
+| image_caption = 
+| taxon = Gymnopilus abramsii
+| authority = [[William Alphonso Murrill|Murrill]] (1917)
+| synonyms = *''Flammula abramsii'' <small>(Murrill) [[Sacc.]] & Trotter (1925)</small>
+}}
+{{mycomorphbox
+| name = ''Gymnopilus abramsii''
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType = gills
+| ecologicalType = saprotrophic
+}}
+
+'''''Gymnopilus abramsii''''' is a species of [[mushroom]]-forming [[fungus]] in the family [[Hymenogastraceae]]. It was first [[species description|described]] by American mycologist [[William Alphonso Murrill|Murrill]] in 1917.<ref name="Murrill 1917" /> The [[Specific epithet (botany)|epithet]] ''abramsii'' commemorates [[LeRoy Abrams]].<ref name="Eggli Newton 2004" />
+
+==Description==
+The [[pileus (mycology)|cap]] is {{convert|4|to|6|cm|in|1|abbr=on}} in diameter.<ref name="Hesler 1969" />
+
+==Habitat and distribution==
+Found in [[California]], ''Gymnopilus abramsii'' grows on soil, and typically fruits in November.<ref name="Hesler 1969" />
+
+==See also==
+{{Portal|Fungi}}
+* [[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Eggli Newton 2004">{{cite book |last1=Eggli |first1=U. |last2=Newton |first2=L.E. |title=Etymological Dictionary of Succulent Plant Names |publisher=Springer Berlin Heidelberg |year=2004 |isbn=978-3-540-00489-9 |url=https://books.google.com/books?id=u2n5vusQ1DEC&pg=PA1| access-date = 20 September 2018 |page=1 }}</ref>
+
+<ref name="Hesler 1969">{{cite book |first1=Hesler |last1=L.R. |title=North American Species of ''Gymnopilus'' (Mycologia Memoir Series: No 3) |publisher=Lubrecht & Cramer |location=Knoxville, Tennessee |year=1969 |page=67 |isbn=0-945345-39-9}}</ref>
+
+<ref name="Murrill 1917">{{cite journal |last1=Murrill |first1=W.A. |year=1917 |title=''Gymnopilus'' |journal=North American Flora |volume=10 |pages=193–215}}</ref>
+
+}}
+
+{{Taxonbar|from=Q5624699}}
+
+[[Category:Gymnopilus|abramsii]]
+[[Category:Fungi described in 1917]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by William Alphonso Murrill]]
+[[Category:Fungus species]]
+
+
+{{Hymenogastraceae-stub}}

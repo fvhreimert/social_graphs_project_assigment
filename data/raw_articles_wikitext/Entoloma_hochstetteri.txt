@@ -1,0 +1,76 @@
+{{Short description|Species of fungus endemic to New Zealand}}
+{{Use New Zealand English|date=January 2025}}
+{{Speciesbox
+| image = Entoloma hochstetteri (Reichardt) G. Stev 99860.jpg
+| image_caption = 
+| image2 = Entoloma hochstetteri 118776419.jpg
+| image2_caption = 
+| genus = Entoloma
+| species = hochstetteri
+| authority = ([[Erwin Reichardt|Reich.]]) [[Greta Stevenson|G.Stev.]]
+| synonyms = 
+}}
+{{mycomorphbox
+| name = ''Entoloma hochstetteri''
+| whichGills = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=bare
+| sporePrintColor= pink
+| ecologicalType = saprotrophic
+| howEdible= unknown
+}}
+
+'''''Entoloma hochstetteri''''', also known as the '''blue pinkgill''', '''sky-blue mushroom''' or similar names, is a species of [[mushroom]] that is native to [[New Zealand]]. The small mushroom is a distinctive all-blue colour, while the [[lamella (mycology)|gills]] have a slight reddish tint from the spores. The blue colouring of the [[Sporocarp (fungi)|fruit body]] is due to [[azulene]] pigments.<ref>{{Cite journal |last1=Jaklitsch |first1=W. M. |last2=Stadler |first2=M. |last3=Voglmayr |first3=H. |date=2012-07-01 |title=Blue pigment in Hypocrea caerulescens sp. nov. and two additional new species in sect. Trichoderma |journal=Mycologia |language=en |volume=104 |issue=4 |pages=925–941 |doi=10.3852/11-327 |issn=0027-5514 |pmc=3432493 |pmid=22453122}}</ref> Whether ''Entoloma hochstetteri'' is poisonous or not is unknown.
+
+This species was one of six native fungi featured in a set of fungal stamps issued in New Zealand in 2002.<ref>Moss MO, Pegler DN. (2003). Recent stamp issues of fungi from New Zealand. ''Mycologist'' 17:176-178.</ref><ref name="urlWNS: NZ008.02 (Native fungi - Entoloma hochstetteri)">{{cite web |url=http://www.wnsstamps.ch/en/stamps/NZ008.02 |title=WNS: NZ008.02 (Native fungi - ''Entoloma hochstetteri'') |format= |accessdate=2008-11-14 |archive-date=2009-01-30 |archive-url=https://web.archive.org/web/20090130132449/http://www.wnsstamps.ch/en/stamps/NZ008.02 |url-status=dead }}</ref> It is also featured on the [[New Zealand fifty-dollar note]].<ref>[https://www.rbnz.govt.nz/notes-and-coins/notes/banknotes-in-circulation/banknote-features-for-each-denomination/50-dollars $50] {{Webarchive|url=https://web.archive.org/web/20210516154902/https://www.rbnz.govt.nz/notes-and-coins/notes/banknotes-in-circulation/banknote-features-for-each-denomination/50-dollars |date=2021-05-16 }}. Reserve Bank of New Zealand.</ref> With ''E. hochstetteri'''s inclusion, this makes it the only banknote in the world which features a mushroom on it.<ref name="Stuff" /> In a 2018 poll, ''E. hochstetteri'' was ranked first by [[Manaaki Whenua – Landcare Research]] for its pick as New Zealand's national fungus.<ref>{{cite web |title=New Zealand's favourite fungus has been revealed |url=https://www.rnz.co.nz/news/national/359177/new-zealand-s-favourite-fungus-has-been-revealed |website=[[RNZ]] |access-date=27 July 2021 |language=en-nz |date=8 June 2018 |archive-date=27 July 2021 |archive-url=https://web.archive.org/web/20210727230756/https://www.rnz.co.nz/news/national/359177/new-zealand-s-favourite-fungus-has-been-revealed |url-status=live }}</ref>
+
+== Naming ==
+The [[Māori language|Māori]] name for the mushroom is {{lang|mi|werewere-kōkako}}, because its colour is similar to the blue [[Wattle (anatomy)|wattle]] of the [[kōkako]] bird.<ref name="Gates">{{cite web |last=Gates |first=Charlie |date=November 2013 |title=Mushroom might yield major value |url=http://www.stuff.co.nz/national/9354061/Mushroom-might-yield-major-value |url-status=live |archive-url=https://web.archive.org/web/20210624203159/http://www.stuff.co.nz/national/9354061/Mushroom-might-yield-major-value |archive-date=24 June 2021 |accessdate=19 June 2021 |website=Stuff.co.nz |publisher=Stuff}}</ref>
+
+==Taxonomy==
+
+The species was first described as ''Cortinarius hochstetteri'' in 1866 by the Austrian mycologist [[Erwin Reichardt]], before being given its current binomial in 1962 by [[Greta Stevenson]]. It is named after the German-Austrian naturalist [[Ferdinand von Hochstetter]].<ref name=Horak_2008/>
+
+In 1976 [[Egon Horak]] combined ''Entoloma hochstetteri'' and ''[[Entoloma aeruginosum]]'' from Japan with ''[[Entoloma virescens]]'' ([[:ja:ソライロタケ]]) , first described from the [[Bonin Islands]] in Japan.<ref>{{cite journal |last=Horak |first=E. |date=1976 |title=On cuboid-spored species of Entoloma (Agaricales) |url=https://www.zobodat.at/pdf/Sydowia_28_0171-0236.pdf |journal=Sydowia |volume=28 |issue= |pages=200–203 |access-date=19 June 2021 |archive-date=24 June 2021 |archive-url=https://web.archive.org/web/20210624203343/https://www.zobodat.at/pdf/Sydowia_28_0171-0236.pdf |url-status=live }}</ref><ref name=Alves_Nascimento/> In 1989 S. Dhancholia recorded ''E. hochstetteri'' in India.<ref name="Dhancholia" /> In 1990 [[Tsuguo Hongo]] from Japan examined ''E. hochstetteri'' and ''E. aeruginosum'' and concluded that they were different taxa, because of difference in the size of the spores and the shape of the pseudocystidia.<ref name=Alves_Nascimento>{{cite journal |last1=Alves |first1=Maria Helena |last2=Nascimento |first2=Cristiano Coelho do |date=2012 |title=Entoloma virescens (Sacc.) E. Horak ex Courtec., 1986 (Agaricales: Entolomataceae): The first record for the Caatinga biome, Ceará, Brazil |url= https://www.biotaxa.org/cl/article/view/8.3.577 |url-access= |journal=Check List |volume=8 |issue=3 |pages=579 |doi=10.15560/8.3.577 |doi-access=free |access-date=19 June 2021}}</ref><ref>Hongo, Tsuguo (1990). "[https://agriknowledge.affrc.go.jp/RN/2010470965.pdf New and Noteworthy agarics from New Zealand] {{Webarchive|url=https://web.archive.org/web/20210624201613/https://agriknowledge.affrc.go.jp/RN/2010470965.pdf |date=2021-06-24 }}". ''Reports of the Tottori Mycological Institute''. '''28''': 129–34.</ref> In 2008 Horak recognised ''E. hochstetteri'' as a different species from ''E. virescens'',<ref>{{cite journal |last1=Largent |first1=David L. |last2=Abell-Davis |first2=Sandra E. |date=2011 |title=Observations on ''Inocephalus virescens'' comb. nov. and ''Alboleptonia stylophora'' from northeastern Queensland |journal=Mycotaxon |volume=116 |pages=238 |doi=10.5248/116.231 |doi-access=free}}</ref> while noting that "it is open to speculation" whether taxa such as ''E. virescens'' are the same species.<ref name=Horak_2008>{{cite book |last=Horak |first=E. |date=2008 |title=Agaricales of New Zealand 1: Pluteaceae (Pluteus, Volvariella), Entolomataceae (Claudopus, Clitopilus, Entoloma, Pouzarella, Rhodocybe, Richoniella) |series=Fungi of New Zealand / Ngā Harore o Aotearoa |volume=5 |location=Hong Kong |publisher=Fungal Diversity Press |pages=148–151 |isbn=978-9-88-993201-5}}</ref>
+
+A similar mushroom is found in Australia and mycologists differ as to whether it is ''E. hochstetteri'', ''E. virescens'' or a separate species.<ref>{{cite journal |last=Boatwright |first=Wayne |date=2017 |title=True Blue – Some Australian Blue Fungi and a Story Behind Nomenclature |url=http://qldfungi.org.au/wp-content/uploads/Newsletter-Qld-Mycologist/QMS-Newsletter-June-2017.pdf |url-access= |journal=The Queensland Mycologist |volume=12 |issue=2 |pages=7 |access-date=19 June 2021 |archive-date=24 June 2021 |archive-url=https://web.archive.org/web/20210624202800/http://qldfungi.org.au/wp-content/uploads/Newsletter-Qld-Mycologist/QMS-Newsletter-June-2017.pdf |url-status=live }}</ref>
+
+==Description==
+''Entoloma hochstetteri'' has a small delicate [[epigeal|epigeous]] (above-ground) [[Sporocarp (fungi)|fruit body]] ([[basidiocarp]]). The [[Pileus (mycology)|cap]] may be up to 4&nbsp;cm (1.4&nbsp;in) in diameter and conical in shape. The cap colour is indigo-blue with a green tint, and is [[wikt:fibrillose|fibrillose]]. The cap margin is striate and rolled inwards. The gill attachment is [[wikt:adnexed|adnexed]] or [[Emarginate gills|emarginate]], gills are thin and 3–5&nbsp;mm wide, essentially the same colour as the cap, sometimes with a yellow tint. The cylindrical [[Stipe (mycology)|stipe]] (stalk) is up to 5&nbsp;cm (2&nbsp;in) long by 0.5&nbsp;cm thick, fibrillose and stuffed. The [[spore print]] is reddish-pink. The [[spore]]s are 9.9–13.2 by 11.8–13.2 [[micrometre|μm]], tetrahedric in shape, [[hyaline]], smooth and thin-walled. The [[basidium|basidia]] are 35.2–44.2 by 8.8–13.2&nbsp;μm, club-shaped, [[hyaline]], and with two or four sterigmata.<ref name=Dhancholia>Dhancholia S. (1989). "[https://wwwops.currentscience.ac.in/Downloads/article_id_058_03_0146_0147_0.pdf ''Entoloma hochstetteri'' (Agaricales) - a new record from India]. ''Current Science'' '''58''' (3): 146–7.</ref>
+
+==Mythology==
+
+
+The [[Ngāi Tūhoe]] describe that the [[North Island kōkako|kōkako]] bird (''Callaeas wilsoni'') got its blue wattles from it rubbing its cheek against the mushroom, thus giving the mushroom the name ''werewere-kōkako''.<ref name=Stuff>{{cite web |last1=Manch |first1=Thomas |title=Are those magic mushrooms on the $50 note? |url=https://www.stuff.co.nz/environment/85986167/are-those-magic-mushrooms-on-the-50-note |website=Stuff |access-date=10 July 2021 |language=en |date=8 November 2016 |archive-date=10 July 2021 |archive-url=https://web.archive.org/web/20210710064603/https://www.stuff.co.nz/environment/85986167/are-those-magic-mushrooms-on-the-50-note |url-status=live }}</ref>
+
+==Habitat and distribution==
+
+''Entoloma hochstetteri'' is common in forests throughout New Zealand,<ref>{{cite web |url=https://fungalguide.landcareresearch.co.nz/WebForms/FG_Genus.aspx?Group=Entoloma&pk=3353 |title=Entoloma |work=Fungal Guide |publisher=Landcare Research |access-date=19 June 2021 |archive-date=24 June 2021 |archive-url=https://web.archive.org/web/20210624202136/https://fungalguide.landcareresearch.co.nz/WebForms/FG_Genus.aspx?Group=Entoloma&pk=3353 |url-status=live }}</ref> where it grows on soil among litter in broadleaf/[[Podocarpus|podocarp]] forest.<ref name=Horak_2008/> It fruits in January to July.<ref name=Horak_2008/>
+
+It was also reported from India in 1989<ref name="Dhancholia" /> and from Australia, though it is unclear whether these are the same species or whether ''E. hochstetteri'' is endemic to New Zealand.<ref name=Horak_2008/>
+
+Attempts of [[Fungiculture|lab cultivation]] of ''Entoloma hochstetteri'' have been made, to no avail.<ref name="TheSpinoff">{{Cite web |last=Sisson |first=Olivia |date=2021-10-25 |title=Could our national fungus become the blue food dye of the future? |url=https://thespinoff.co.nz/kai/25-10-2021/could-our-national-fungus-become-the-blue-food-dye-of-the-future |access-date=2023-01-21 |website=The Spinoff |language=en}}</ref>
+
+==Toxicity==
+Although many members of the genus ''[[Entoloma]]'' are poisonous, the toxicity of this species is unknown. It is being investigated to see if its [[gene cluster]] that is responsible for blue colouring might be used to manufacture a natural blue food dye.<ref name="TheSpinoff" />
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Entoloma species|List of ''Entoloma'' species]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Wikispecies-inline}}
+* {{Commons-inline}}
+* [https://biotanz.landcareresearch.co.nz/scientific-names/1cb1893f-36b9-11d5-9548-00d0592d548c More information from the Landcare Research NZFUNGI database]
+* ''Entoloma hochstetteri'' discussed on ''RNZ Critter of the Week'', [http://www.radionz.co.nz/national/programmes/afternoons/audio/201826216/critter-of-the-week  2 December 2016]
+
+{{Taxonbar|from=Q2602685}}
+
+[[Category:Entolomataceae]]
+[[Category:Fungi of New Zealand]]
+[[Category:Fungi of India]]
+[[Category:Fungus species]]

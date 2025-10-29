@@ -1,0 +1,73 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{Speciesbox
+| image = Cortinarius delibutus - Lindsey.jpg
+| genus = Cortinarius
+| species = delibutus
+| authority = [[Elias Magnus Fries|Fr.]] (1838)
+}}
+{{mycomorphbox
+| name = ''Cortinarius delibutus''
+| whichGills = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = reddish-brown
+| howEdible = inedible
+}}
+{{stack end}}
+
+'''''Cortinarius delibutus''''', also known as the '''bluegill webcap''' or the '''yellow webcap''', is a [[basidiomycete]] [[fungus]] of the genus ''[[Cortinarius]]''. The [[basidiocarp|fruit bodies]] are medium-sized, with shiny yellow [[pileus (mycology)|caps]] on a sticky, yellow-banded club-shaped [[stipe (mycology)|stem]]. The mushroom is found in Europe and North America, usually near [[birch]] or [[beech]] trees.
+
+==Taxonomy==
+The species was first [[species description|described]] scientifically by [[Elias Magnus Fries]] in 1838.<ref name=Fries1838/>
+
+It is [[common name|commonly]] known as the "bluegill webcap",<ref name=McKnight1987/> or the "yellow webcap".<ref name=EnglishCommonNames/>
+
+==Description==
+
+The [[pileus (mycology)|cap]] is {{convert|4|–|8|cm|in|abbr=on}} in diameter, initially pale yellow then darker as it matures, and sandy in the middle. It has a campanulate (like a bell) to convex shape, later becoming flattened, with a very blunt [[umbo (mycology)|umbo]]. The cap is fleshy in the center, but becomes thinner towards the margin. Its surface is smooth and sticky, but eventually becomes covered with silky fibers. The [[lamella (mycology)|gills]] are crowded together, broad, adnexed, and slightly emarginate (notched) at the stem. They are bluish when young, later turning cinnamon as the [[spore]]s mature. The [[stipe (mycology)|stem]] is {{convert|5|–|10|cm|in|abbr=on}} long and about {{convert|1|cm|in|abbr=on}} thick, measuring up to {{convert|2|cm|in|1|abbr=on}} thick in the swollen part of the base. It is quite flexible, faintly bluish at the top when young, white when mature with a faint tinge of yellow, smooth, sticky or shiny, and with a cortina at the top forming an annular zone. It is narrower at the apex and usually clavately thickened at the base, stuffed, then hollow. The [[trama (mycology)|flesh]] is white, then slightly yellowish, soft, with mild taste, sometimes slightly bitter when mature, with no distinguishable odor.<ref name=Pilat1961/> The mushroom is inedible.<ref name=Jordan2004/>
+
+The [[spore]]s are spherical to egg-shaped, drawn into an apiculus at the base, pale rust colored and coarsely verrucose (wart-like), measuring 7–8 by 6.3–6.5&nbsp;[[micrometre|μm]]. The [[basidia]] (spore-bearing cells) are 25–30 by 9–10&nbsp;μm. The [[spore print|spore deposit]] is ochraceous rust.<ref name=Pilat1961/>
+
+===Similar species===
+''[[Cortinarius lewisii]]'' has a dry yellow cap, a dry cream-colored stem with a white basal mycelium, and a dense white yellow partial veil, and flesh that has a musky to radish musky odor.<ref name=Bessette2007/>
+
+==Distribution and habitat==
+The fruit bodies of ''C. delibutus'' grow scattered or in groups on the ground in [[mixed forest|mixed]] and [[deciduous forest|deciduous woods]] in the autumn, mainly beneath [[birch]]es and [[aspen]]s (usually in groups) throughout the [[temperate]] zone of the [[Northern Hemisphere]].<ref name=Pilat1961/> In North America, the fungus is found in the northern U.S. and Canada.<ref name=McKnight1987/>
+
+Fruit bodies are a source of food for the squirrel ''[[Sciurus vulgaris]]''.<ref name="Grönwall1984"/>
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Cortinarius species|List of ''Cortinarius'' species]]
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=Bessette2007>{{cite book |title=Mushrooms of the Southeastern United States |vauthors=Bessette AE, Roody WC, Bessette AR |year=2007 |publisher=Syracuse University Press |location=Syracuse, New York |isbn=978-0-8156-3112-5 |page=126 |url=https://books.google.com/books?id=IB1Gv3jZMmAC&pg=PA126}}</ref>
+
+<ref name=EnglishCommonNames>{{cite web |url=http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |title=Recommended English Names for Fungi in the UK |publisher=[[British Mycological Society]] |access-date=2011-06-30 |archive-url=https://web.archive.org/web/20110716083053/http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |archive-date=2011-07-16 |url-status=dead }}</ref>
+
+<ref name=Fries1838>{{cite book |title=Epicrisis Systematis Mycologici |author=Fries EM |year=1838 |publisher=Typographia Academica |location=Uppsala, Sweden |page=276 |url=https://books.google.com/books?id=kuIUAAAAYAAJ&pg=PA276 |language=Latin}}</ref>
+
+<ref name="Grönwall1984">{{cite journal |vauthors=Grönwall O, Pehrson Å |year=1984 |title=Nutrient content in fungi as a primary food of the red squirrel ''Sciurus vulgaris'' L. |journal=Oecologia (Berlin) |volume=64 |issue=2 |pages=230–31 |jstor=4217450 |doi=10.1007/BF00376875 |pmid=28312343|bibcode=1984Oecol..64..230G |s2cid=28125328 }}</ref>
+
+<ref name=Jordan2004>{{cite book |author=Jordan M. |title=The Encyclopedia of Fungi of Britain and Europe |publisher=Frances Lincoln |location=London, UK |year=2004 |page=271 |isbn=0-7112-2378-5 |url=https://books.google.com/books?id=bFMfytLn3bEC&pg=PA271}}</ref>
+
+<ref name=McKnight1987>{{cite book |vauthors=McKnight VB, McKnight KH |title=A Field Guide to Mushrooms: North America |publisher=Houghton Mifflin |location=Boston, Massachusetts |year=1987 |page=290 |isbn=0-395-91090-0 |url=https://books.google.com/books?id=kSdA3V7Z9WcC&pg=PA290}}</ref>
+
+<ref name=Pilat1961>{{cite book |title=Mushrooms and other Fungi |url=https://archive.org/details/mushroomsotherfu0000pila |url-access=registration |vauthors=Pilat Á, Ušák O |year=1961 |publisher=Peter Nevill |location=London, UK |page=86b}}</ref>
+
+}}
+
+{{Taxonbar|from=Q2511465}}
+
+[[Category:Cortinarius|delibutus]]
+[[Category:Fungi described in 1838]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Inedible fungi]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]

@@ -1,0 +1,56 @@
+{{Short description|Genus of fungi}}
+{{stack begin}}
+{{Automatic_taxobox
+| image = Paragyrodon sphaerosporus 73872.jpg
+| image_upright = 1.09
+| image_caption = ''Paragyrodon sphaerosporus''
+| taxon = Paragyrodon
+| authority = ([[Rolf Singer|Singer]]) Singer (1942)
+| type_species = '''''Paragyrodon sphaerosporus'''''
+| type_species_authority = ([[Charles Horton Peck|Peck]]) Singer (1942)
+| synonyms_ref = <ref name="urlMycoBank: Paragyrodon sphaerosporus"/>
+| synonyms = ''Ixocomus sphaerosporus'' <small>(Peck) [[E.-J.Gilbert]] (1931)</small><br>
+''Gyrodon sphaerosporus'' <small>(Peck) Singer (1940)</small><br>
+''Suillus sphaerosporus'' <small>(Peck) [[A.H.Sm.]] & [[Harry Delbert Thiers|Thiers]] (1964)</small>
+}}
+
+{{mycomorphbox
+| name = ''Paragyrodon sphaerosporus''
+| whichGills = adnate
+| capShape = infundibuliform
+| hymeniumType=pores
+| stipeCharacter=cortina
+| ecologicalType=mycorrhizal
+| sporePrintColor=yellow-brown
+| howEdible=unknown
+}}
+{{stack end}}
+'''''Paragyrodon''''' is a [[genus]] of [[fungi]] in the family [[Paxillaceae]].<ref name=Kirk2008/> It is a [[monotypic]] genus, containing the single species '''''Paragyrodon sphaerosporus'''''. ''Paragyrodon'' was circumscribed by [[Rolf Singer]] in 1942.<ref name=Singer1942/>
+
+== Description ==
+The caps are {{Convert|4-12|cm|frac=4}} wide and a blotchy combination of yellow to brown. The stem is {{Convert|3-7|cm|abbr=on|frac=4}} tall and {{Convert|1.2-3|cm|abbr=on|frac=4}} thick; it stains brown.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=316}}</ref>
+
+== Distribution and habitat ==
+The species is distributed mostly around the [[Great Lakes Region]], however, the species has also been observed further west in [[Kansas]], [[Iowa]] and [[Colorado]].<ref>{{cite web|last1=Kuo|first1=M|title=Paragyrodon sphaerosporus|url=http://www.mushroomexpert.com/paragyrodon_sphaerosporus.html|website=MushroomExpert.Com|access-date=17 August 2014}}</ref>  The species has been associated with the [[white oak]] and the [[gambel oak]] in Colorado.
+
+==See also==
+* [[List of North American boletes]]
+
+==References==
+{{Reflist|refs=
+
+<ref name=Kirk2008>{{cite book |vauthors=Kirk PM, Cannon PF, Minter DW, Stalpers JA |title=Dictionary of the Fungi |edition=10th |publisher=CAB International |location=Wallingford, UK |year=2008 |page=495 |isbn=978-0-85199-826-8}}</ref>
+
+<ref name=Singer1942>{{cite journal |author=Singer R. |title=Das System der Agaricales. II |journal=Annales Mycologici |year=1942 |volume=40 |pages=1–132 (see p.&nbsp;25) |language=German}}</ref>
+
+<ref name="urlMycoBank: Paragyrodon sphaerosporus">{{cite web |title=''Paragyrodon sphaerosporus'' (Peck) Singer 1942 |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=289027 |publisher=[[MycoBank]]. International Mycological Association |access-date=2011-12-03}}</ref>
+
+}}
+
+{{taxonbar |from=Q1937509}}
+[[Category:Paxillaceae]]
+[[Category:Monotypic Boletales genera]]
+[[Category:Taxa named by Rolf Singer]]
+
+
+{{Boletales-stub}}

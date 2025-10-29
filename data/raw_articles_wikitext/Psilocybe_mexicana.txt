@@ -1,0 +1,77 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Psilocybe_mexicana_Veracruz.jpg
+| genus = Psilocybe
+| species = mexicana
+| authority = [[Roger Heim|Heim]] 1957
+| synonyms = ''Psilocybe galindoi'' <small>Guzmán (1978) </small> <br/>
+''Psilocybe armandii'' <small>Guzmán & S.H. Pollock (1979) </small><br/>
+''Psilocybe subacutipilea'' <small>Guzmán, Saldarr., Pineda, G. García & L.-F. Velázquez (1994) </small><br/>
+''Psilocybe pileocystidiata'' (2004) <small>Guzmán & Ram.-Guill</small>
+}}
+{{Mycomorphbox 
+| name = ''Psilocybe mexicana''
+| whichGills = adnate 
+| capShape = conical
+| capShape2=umbonate 
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=saprotrophic
+| sporePrintColor=purple-brown
+| howEdible=psychoactive}}
+
+'''''Psilocybe mexicana''''' is a [[psychedelic mushroom]]. Its first known usage was by the natives of [[North America|North]] and [[Central America]] over 2,000 years ago. Known to the [[Aztecs]] as teonanácatl, from the [[Nahuatl]] ''teotl'' ("god") + ''nanácatl'' ("fungus"). This species was categorized by French botanist [[Roger Heim]].<ref name=Heim1957>{{cite journal |author=Heim R. |year=1957 |title=Notes préliminaires sur les agarics hallucinogènes du Mexique |trans-title=Preliminary notes on the hallucination-producing agarics of Mexico |journal=Revue de Mycologie |volume=22 |issue=1 |pages=58–79 |language=French}}</ref>
+
+It was from this species that Dr. [[Albert Hofmann]], working with specimens grown in his [[Sandoz]] laboratory, first isolated and named the active [[psychedelic]] compounds [[psilocybin]] and [[psilocin]]. Uncertain of whether or not the artificially cultivated mushrooms would retain their natural psychoactive properties, Dr. Hofmann consumed 32 specimens. The following is his account of the experience, published in his classic text, ''The Botany and Chemistry of Hallucinogens'':
+
+<blockquote>As I was perfectly aware that my knowledge of the Mexican origin of the mushrooms would lead me to imagine only Mexican scenery, I tried deliberately to look on my environment as I knew it normally. But all voluntary efforts to look at things in their customary forms and colours proved ineffective. Whether my eyes were closed or open, I saw only Mexican motifs and colours. When the doctor supervising the experiment bent over me to check my blood pressure, he was transformed into an Aztec priest, and I would not have been astonished if he had drawn an obsidian knife. In spite of the seriousness of the situation, it amused me to see how the Germanic face of my colleague had acquired a purely Indian expression. At the peak of the intoxication, about 1{{frac|1|2}} hours after ingestion of the mushrooms, the rush of interior pictures, mostly changing in shape and colour, reached such an alarming degree that I feared I would be torn into this whirlpool of form and colour and would dissolve. After about six hours, the dream came to an end. Subjectively, I had no idea how long this condition had lasted. I felt my return to everyday reality to be a happy return from a strange, fantastic but quite really experienced world into an old and familiar home.</blockquote>
+
+This mushroom is in the species ''Mexicanae''. Other mushrooms in the genus include ''[[Psilocybe atlantis]]'' and ''[[Psilocybe samuiensis]]''. Ramirez-Cruz ''et al.'' (2013) considered ''[[Psilocybe acutipilea]]'' from [[Brazil]] to be a possible synonym of ''Psilocybe mexicana'', in which case it would be the [[senior synonym]], but the [[type (biology)|type specimen]] was too moldy for them to be certain.<ref name="Ramirez-Cruz2013">{{cite journal |last1=Ramírez-Cruz |first1=Virginia |last2=Guzmán |first2=Gastón |last3=Guzmán-Dávalos |first3=Laura |title=Type studies of Psilocybe sensu lato (Strophariaceae, Agaricales) |journal=Sydowia |year=2013 |volume=65 |pages=277–319}}</ref>
+
+==Description==
+
+*'''Cap''': (0.5)1 —  2(3) cm in diameter, [[conic]] to [[wikt:campanulate|campanulate]] or [[subumbonate]] and often with a slight [[wiktionary:Papilla|papilla]], [[hygrophanous]] or [[wikt:glabrescent|glabrescent]], even to striate at the margin, [[ocherous]] to brown or beige to straw color in age, sometimes with blueish or greenish tones, easily turning blue when injured.
+*'''Gills''': [[Adnation|Adnate]] or [[adnexed]], gray to purple-brown with whitish edges.
+*'''Spore Print''': Dark purple-brown
+*'''Stipe''':  4 —  10(12.5) cm tall x 1 —  2(3) mm thick, equal, hollow, straw color to brownish or reddish-brown, becoming darker where injured, [[Annulus (mycology)|annulus]] absent.
+*'''Odor''': [[Farinaceous]]
+*'''Taste''': [[Farinaceous]]
+*'''Microscopic features''': Spores 8 —  12 x 5 —  8 [[μm]]. [[Ovoid]] and smooth.  Cheilocystidia 13–34 [[μm]], fusoid-ampullaceous to sublageniform, sometimes with a forked neck.  Pleurocystidia sublageniform or absent.
+
+''Psilocybe mexicana'' may form [[sclerotia]], a dormant form of the organism, which affords it some protection from wildfires and other natural disasters.<ref>Psilocybin Mushrooms of the World – An Identification Guide, Paul Stamets, 1996. {{ISBN|0-89815-839-7}} p. 24</ref>
+
+==Distribution and habitat==
+''Psilocybe mexicana'' grows alone or in small groups among [[moss]] along roadsides and trails, humid meadows or cornfields, in particular in the grassy areas bordering [[deciduous]] forests. Common at elevations between {{convert|300|-|550|m|ft}}, rare in lower elevations, known only from [[Mexico]], [[Costa Rica]], [[El Salvador]] and [[Guatemala]]. Fruiting takes place from May to October.
+
+==Consumption and cultivation==
+Like several other [[psilocybin mushrooms]] in the [[genus]], ''Psilocybe mexicana'' has been consumed by indigenous [[North America]]n peoples for its [[entheogen]]ic effects.
+
+In the Western world, [[sclerotia]] of ''Psilocybe mexicana'' are sometimes cultivated for [[entheogenic]] use. The sclerotia have a lower content of active substances than the actual mushrooms themselves.
+
+==Gallery==
+<gallery>
+Image:Psilocybe.mexicana.la.primavera.jpg|''Psilocybe mexicana'' from Guadalajara, Jalisco, Mexico
+Image:Psilocybe.mexicana.Alan.jpg|''Psilocybe mexicana'' from Jalisco, Mexico
+File:Psilocybe.mexicana.Xico.JPG|''Psilocybe mexicana'' from Veracruz, Mexico
+Image:Psilocybe mexicana2.jpg| ''Psilocybe mexicana'' drawing
+Image:2012-07-18 Psilocybe mexicana R. Heim 239432.jpg|''Psilocybe mexicana'' from Veracruz, Mexico
+</gallery>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Commons category-inline}}
+* [http://www.stainblue.com/mexicana.html Visionary Mushrooms: Psilocybe mexicana]
+
+{{Hallucinogenic mushrooms}}
+{{Psychedelics}}
+{{Taxonbar|from=Q1477279}}
+
+[[Category:Entheogens]]
+[[Category:Psychoactive fungi]]
+[[Category:Psilocybe|mexicana]]
+[[Category:Psychedelic tryptamine carriers]]
+[[Category:Fungi of South America]]
+[[Category:Fungus species]]
+[[Category:Fungi described in 1957]]

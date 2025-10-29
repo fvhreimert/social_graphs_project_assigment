@@ -1,0 +1,38 @@
+{{short description|Species of mushroom}}
+{{single source|date=October 2025}}
+{{no footnotes|date=October 2025}}
+{{Speciesbox
+| image = Gymnopilus ferruginosus B.J. Rees 230589.jpg
+| image_caption = ''Gymnopilus ferruginosus'' in Silverband Falls, Grampians National Park, Victoria, Australia
+| taxon = Gymnopilus ferruginosus
+| authority = B.J. Rees
+| synonyms = 
+}}
+{{mycomorphbox
+| name = ''Gymnopilus ferruginosus''
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+
+'''''Gymnopilus ferruginosus''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]].
+
+==See also==
+{{Portal|Fungi}}
+[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==External links==
+*''[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=483595 Gymnopilus ferruginosus]'' at [[Index Fungorum]]
+
+{{Taxonbar|from=Q5624791}}
+
+[[Category:Gymnopilus|ferruginosus]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

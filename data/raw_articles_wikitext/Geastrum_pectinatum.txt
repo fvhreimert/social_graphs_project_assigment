@@ -1,0 +1,185 @@
+{{Use dmy dates|date=October 2023}}
+{{Short description|Species of fungus}}
+{{speciesbox
+| image = Geastrum pectinatum 135825.jpg
+| image_caption =
+| taxon = Geastrum pectinatum
+| authority = [[Pers.]] (1801)
+| synonyms_ref =<ref name="urlMycoBank: Geastrum pectinatum"/><ref name=Imai1936/>
+| synonyms =
+''G. plicatum'' <small>[[Berk.]] (1839)</small><br />
+''G. tenuipes'' <small>Berk. (1848)</small><br />
+''G. biplicatum'' <small>Berk. & [[M.A.Curtis]] (1858)</small><br />
+''G. pectinatum'' var. ''tenuipes'' <small>(Berk.) [[John Burton Cleland|Cleland]] & [[Edwin Cheel|Cheel]] (1915)</small>
+}}
+{{mycomorphbox
+|name = ''Geastrum pectinatum''
+|capShape =no
+|hymeniumType=gleba
+| whichGills      = NA
+| stipeCharacter  = NA
+|ecologicalType=saprotrophic
+|sporePrintColor=brown
+|howEdible=inedible
+}}
+
+'''''Geastrum pectinatum''''' is a species of fungus in the [[Geastrales|earthstar family]]. It is [[common name|commonly known]] as the '''beaked earthstar''' or the '''beret earthstar''', in reference to the shape of the [[spore]] sac and its prominent, protruding peristome.
+
+Although young specimens are spherical, [[basidiocarp|fruit body]] development involves the outer layer of tissue splitting open like a star into 7 to 10 pointed rays that eventually bend back to point downward, revealing a small spore sac, {{convert|1 to 2.5|cm|abbr=on|frac=4}} broad. The spore sac is supported by a small radially wrinkled stalk. There is a distinct conical opening (peristome) at the top of the spore sac that is up to {{convert|8|mm|abbr=on|frac=8}} long. The mass of spores and surrounding cells within the sac, the [[gleba]], is dark-brown, and becomes powdery in mature specimens. The spores are spherical, measuring 4 to 6 [[Micrometre|micrometer]]s in diameter, with warts on their surfaces. Like several other earthstars, crystals of [[calcium oxalate]] are present, thought to be involved in fruit body maturation.
+
+''G. pectinatum'' grows on the ground in open woods. Although uncommon, it has a [[cosmopolitan distribution]] and has been collected in Eurasia, the Americas, Australia, and Africa. It is inedible.
+
+==Taxonomy==
+
+[[Christian Hendrik Persoon]] published the first [[species description|description]] of ''Geastrum pectinatum'' in 1801.<ref name=Persoon1801/> In 1860, [[Miles Joseph Berkeley]] and [[Moses Ashley Curtis]] described the species ''Geastrum biplicatum'' (originally named ''Geaster biplicatus''),<ref name=Berkeley1860/> based on specimens sent to them by [[Charles Wright (botanist)|Charles Wright]] that he obtained from the [[Bonin Islands]] during the [[North Pacific Exploring and Surveying Expedition]]. Japanese mycologist [[Sanshi Imai]] considered this identical with ''G.&nbsp;pectinatum'' in a 1936 publication.<ref name=Imai1936/> In 1959, mycologist J.&nbsp;T. Palmer reported comparing the original specimen collected by Persoon with fresh samples of what were then thought to be the distinct species ''G.&nbsp;plicatum'' and ''G.&nbsp;tenuipes'' (named by English naturalist Miles Joseph Berkeley in 1838<ref name=Berkeley1839/> and 1848,<ref name=Berkeley1848/> respectively) and concluded the three specimens were [[synonym (biology)|synonymous]]; the original Persoon specimen was then designated as the [[neotype]].<ref name=Palmer1959/>
+
+In Ponce de Leon's [[classification (biology)|classification]] of ''[[Geastrum]]'', he placed the species in the [[subgenus]] ''Geastrum'', [[section (biology)|section]] ''Geastrum'', as the [[type species|type]] of the subsection ''Sulcostomata'', group Pectinatum. Other species in this group—characterized by a determinate peristome surrounded by a groove—are ''[[Geastrum xerophilum|G.&nbsp;xerophilum]]'', and ''[[Geastrum furfuraceum|G.&nbsp;furfuraceum]]''.<ref name=PoncedeLeon1968/> In Stanek's (1958) infrageneric concept, ''G.&nbsp;pectinatum'' is placed in section ''Perimyceliata'' (encompassing species whereby the mycelial layer covers the entire endoperidium), in subsection ''Glabrostomata'', which includes species with plicate peristomes.<ref name=Pilat1958/>
+
+The [[specific name (botany)|specific epithet]] is derived from the [[Latin]] ''pectinatum'', "like a comb".<ref name=SchalkwijkBarendsen1991/> Its [[common name]]s include the "beaked earthstar" or the "beret earthstar".<ref name=SchalkwijkBarendsen1991/> [[Samuel Frederick Gray]] called it the "comblike shell-puff" in his 1821 "A Natural Arrangement of British Plants".<ref name=Gray1821/>
+
+
+
+== Description ==
+Immature specimens are {{convert|1 to 2|cm|abbr=on|frac=4}} across<ref name="Smith1951" /> and roughly spherical. They begin their development submerged in the ground, but gradually emerge with maturity. The young outer surface is covered with [[mycelia]], which forms a soft, fluffy coat that holds soil and debris.<ref name="PoncedeLeon1968" /> The young fruit bodies often have a rounded knob or protuberance.<ref name="Pegler1995" /> Like other members of genus ''[[Geastrum]]'', ''G.&nbsp;pectinatum'' has a [[basidiocarp|fruit body]] wall that is multilayered. At maturity, the outer layer (the exoperidium) splits open from the top in a stellate (star-shaped) manner into 7–9 rays that support the spore sac contained within the inner wall (the endoperidium). The expanded specimens are up to {{convert|5|cm|abbr=on|frac=4}} broad and {{convert|6|cm|abbr=on|frac=4}} tall.<ref name="SchalkwijkBarendsen1991" /> The rays of the exoperidium bend back (reflex), simultaneously elevating the spore sac above the ground in what is known as the ''fornicate'' condition;<ref name="Smith1982" /> this position exposes the spore sac to more air currents, aiding spore dispersal.<ref name="Evenson1997" /> The surface of the rays often crack to reveal lighter-colored areas, especially along the edges. Together with a well-developed layer of mycelium, the rays are typically bound to fragments of earth or [[forest floor|forest duff]].<ref name="SchalkwijkBarendsen1991" />
+
+The tough and membranous endoperidium comprising the spore sac, purple-brown in color and {{convert|0.5 to 1.5|cm|abbr=on|frac=4}} tall by {{convert|1 to 2.5|cm|abbr=on|frac=4}} wide, is supported by a small stalk—a pedicel—that is {{Convert|3–4|mm|abbr=on|frac=16}} long by {{Convert|7–10|mm|abbr=on|frac=16}} wide and which has a grooved (sulcate) apophysis, or swelling. This ring-shaped swelling is made of remnants from a tissue called the pseudoparenchymatous layer.<ref name=Dissing1962/> When fresh, the pseudoparenchymatous layer is whitish in color, thick and fleshy; it dries to become brown to dark brown while shrinking and often splitting and peeling.<ref name=Pegler1995/> The endoperidium may be [[wikt:pruinose|pruinose]]—covered with fine, white, powder—although the presence of this characteristic has been noted as being somewhat variable.<ref name=Smith1982/><ref name=Esqueda2003/> The spore sac is opened by a single [[wikt:apex|apical]] pore atop a conical "beak", or [[peristome]]. The peristome is ''pectinate''—made of tissue that resembles the teeth of a comb; the [[specific name (botany)|specific epithet]] is named after this characteristic. The peristome is {{convert|2 to 5|mm|2|abbr=on}} long, and comprises 20–32 distinct ridges.<ref name=Pegler1995/> The mass of spores and surrounding cells within the sac, the [[gleba]], is dark-brown, and becomes powdery in mature specimens. Internally, the endoperidium contains a structure called the ''columella'' that is narrowly conical in shape, whitish or pale brown, and extends more than halfway into the gleba.<ref name=Pegler1995/> ''G.&nbsp;pectinatum'' has no distinguishable odor or taste;<ref name=Jordan2004/> like other earthstar mushrooms, it is inedible,<ref name="urlRogers"/> and of "no alimentary interest".<ref name=Tynaldo1985/>
+
+===Microscopic characteristics===
+The [[spore]]s of ''G.&nbsp;pectinatum'' are brown and opaque.<ref name=Smith1982/> They have a roughly spherical shape<ref name=Baseia2003/> and are ornamented with transparent ([[hyaline]]), truncate warts;<ref name=Smith1951/> the diameter is 4–4.5&nbsp;[[μm]], or 5.5–6.5 if the lengths of the warts is included.<ref name=Dennis1953/> Spore-bearing cells, the [[basidia]], are 2- or 4-spored, while [[cystidia]] (specialized sterile cells that occur at the [[hymenial]] surface in some mushrooms) are absent.<ref name=Jordan2004/> The capillitia—a mass of thread-like sterile fibers dispersed among the spores—are light brown and 3–7&nbsp;μm in diameter. They are tapered, thick-walled with a narrow interior, and either smooth or slightly encrusted.<ref name=Pegler1995/>
+
+[[Calcium oxalate]] is a common crystalline compound found in many fungi,<ref name=Whitney1986a/> including the earthstars.<ref name=Horner1983/> The presence of calcium oxalate crystals—apparent as a whitish powder on the surface of the spore sac—has been verified for ''G.&nbsp;pectinatum'' using [[scanning electron microscopy]]. The calcium oxalate crystals occur in the [[tetragonal]] form, known as [[weddellite]].<ref name=Krisai1986/> A study on the related species ''[[Geastrum saccatum]]'' has shown that these crystals are responsible for the characteristic opening ([[dehiscence (botany)|dehiscence]]) of the outer peridial layers.<ref name=Whitney1986b/> The formation of calcium oxalate crystals stretches the layers of the outer walls, pushing apart the inner and outer layers of the peridium.<ref name=Whitney1986b/>
+
+===Similar species===
+
+''Geastrum pectinatum'' has been mistaken for the morphologically similar but smaller species ''[[Geastrum schmideli|G.&nbsp;schmidelii]]''. The latter species lacks vertical striations on the basal portions of the endoperidium, and does not have a [[pseudoparenchymatous]] collar around the stem.<ref name=Dennis1953/> Another similar species, ''[[Geastrum berkeleyi|G.&nbsp;berkeleyi]]'', has a shorter stem and is missing the ridges at the base of the spore sac.<ref name=Hemmes2002/> Further, the color of its spore sac is usually brown, in contrast to the gray-blue of ''G.&nbsp;pectinatum''.<ref name=Hemmes2011/> ''[[Geastrum xerophilum|G.&nbsp;xerophilum]]'' also has a dusting of white powder on the surface of the spore sac, but unlike ''G.&nbsp;pectinatum'', consistently lacks a ring at the base of the pedicel; furthermore, in contrast to ''G.&nbsp;pectinatum'', the spores of ''G.&nbsp;xerophilum'' are yellow and contain oil drops that are readily observable with a microscope.<ref name=Smith1982/> ''[[Geastrum striatum|G.&nbsp;striatum]]'' has smaller fruit bodies than ''G.&nbsp;pectinatum'', and a distinct collar-like apophysis.<ref>Sunhede (1898), p. 426.</ref>
+
+==Habitat and distribution==
+
+This species has been reported to grow solitary or in groups on sandy soil<ref name=Baseia2003/> or rich composted soil<ref name=Smith2005/> in both mixed and [[conifer]]ous forests, often beneath [[Cedrus|cedars]].<ref name=Kibby1994/> In Hawaii, it is usually found growing in [[forest floor|duff]] under coastal ''[[Casuarina]]'' and groves of ''[[Cupressus]]''.<ref name=Hemmes2011/> The species has been noted to occur in late summer and autumn (in Britain and Europe),<ref name=Jordan2004/> but the fruit bodies may dry and persist for some time.<ref name=SchalkwijkBarendsen1991/>
+
+''Geastrum pectinatum'' has a [[cosmopolitan distribution]]. It has been reported from Australia,<ref name=Herbert1953/> and New Zealand,<ref name=Cunningham1944/> Africa (the Congo<ref name=Dissing1962/> and South Africa)<ref name=Dissing1962/> Central America (Costa Rica),<ref name=Calonge2005/> Asia (Northeastern China<ref name=Wang2004/> and Japan),<ref name=Imai1936/> and South America (Brazil).<ref name=Baseia2003/> In Europe, it has been reported from Belgium,<ref name=Demoulin1968/> Ireland,<ref name=Anderson1994/> Germany,<ref name=Winterhoff1981/> the Netherlands,<ref name=DeVries1985/> Norway,<ref name=Hapnes1990/> and Sweden.<ref name=Kers1975/><ref name=Kers1977/><ref name=Andersson2009/> In the Middle East, it has been recorded in Israel,<ref name=Binyamini1994/> and Turkey.<ref name=Kaya2006/> In North America, it is known from the United States<ref name=Smith1951/> (including Hawaii),<ref name=Smith1982/> Canada,<ref name=SchalkwijkBarendsen1991/> and Mexico.<ref name=Vasquez1990/> It is in the [[Regional Red List|Red Data Book]] (documenting rare and endangered species) of Latvia,<ref name=Vimba1997/> and is considered a [[threatened species]] in Poland.<ref name=Wojewoda2000/> North American sources gives its frequency of appearance as "rare",<ref name=SchalkwijkBarendsen1991/><ref name=Smith1951/> but Stellan Sunhede, in his 1989 [[monograph]] on the Geastraceae, considers it one of the most common earthstar mushrooms of northern Europe.<ref>Sunhede (1898), p. 294.</ref>
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=Anderson1994>{{cite journal |author=Anderson R. |year=1994 |title=''Geastrum pectinatum'' Pers. (Gasteromycetes: Lycoperdales), an earth star new to Ireland |journal=Irish Naturalists' Journal |volume=24 |issue=9 |pages=357–60 |jstor=25539887}}</ref>
+
+<ref name=Andersson2009>{{cite journal |author=Andersson U-B. |year=2009 |title=Jordstjärnor i Sverige 1. Kamjordstjärna och kantjordstjärna|trans-title=Swedish earthstars (Gastraceae) I |journal=Svensk Botanisk Tidskrift |volume=103 |issue=2 |pages=113–5 |language=Swedish}}</ref>
+
+<ref name=Baseia2003>{{cite journal |vauthors=Baseia IG, Cavalcanti MA, Milanez AI |year=2003 |title=Additions to our knowledge of the genus ''Geastrum'' (Phallales: Geastraceae) in Brazil |journal=Mycotaxon |volume=85 |pages=409–15 |url=http://www.cybertruffle.org.uk/cyberliber/59575/0085/0409.htm |archive-url=https://archive.today/20121224052103/http://www.cybertruffle.org.uk/cyberliber/59575/0085/0409.htm |url-status=dead |archive-date=24 December 2012 }}</ref>
+
+<ref name=Berkeley1839>{{cite journal |author=Berkeley MJ. |title=Descriptions of exotic fungi in the collection of Sir W.J. Hooker, from memoirs and notes of J.F. Klotzsch, with additions and corrections |journal=Annals and Magazine of Natural History |year=1839 |volume=3 |series=1 |page=399 |url=https://www.biodiversitylibrary.org/page/22160387 |doi=10.1080/03745483909443251}}</ref>
+
+<ref name=Berkeley1848>{{cite journal |author=Berkeley MJ. |title=Decades of fungi. Decade XX. Tasmanian fungi |journal=London Journal of Botany |year=1848 |volume=7 |pages=572–80 |url=https://www.biodiversitylibrary.org/page/777640}}</ref>
+
+<ref name=Berkeley1860>{{cite journal |vauthors=Berkeley MJ, Curtis MA |title=Characters of new fungi, collected in the North Pacific Exploring Expedition by Charles Wright |journal=Proceedings of the American Academy of Arts and Sciences |year=1860 |volume=4 |page=124 |url=https://books.google.com/books?id=RLoAAAAAYAAJ&pg=PA124}}</ref>
+
+<ref name=Binyamini1994>{{cite journal |author=Binyamini N. |year=1994 |title=New records of higher fungi from Israel |journal=Mycoscience |volume=35 |issue=4 |pages=425–8 |doi=10.1007/BF02268518|s2cid=83912595 }}</ref>
+
+<ref name=Calonge2005>{{cite journal |vauthors=Calonge FD, Mata M, Carranza J |title=Contribución al catálogo de los Gasteromycetes (Basidiomycotina, Fungi) de Costa Rica |journal=Anales del Jardín Botánico de Madrid |year=2005 |volume=62 |issue=1 |pages=23–45 |language=Spanish |url=http://rjb.revistas.csic.es/index.php/rjb/article/download/26/25 |format=PDF |doi=10.3989/ajbm.2005.v62.i1.26|doi-access=free |bibcode=2005AJBM...62...23C |hdl=10261/27754 |hdl-access=free }}</ref>
+
+<ref name=Cunningham1944>{{cite book |author=Cunningham GH. |year=1944 |title=Gasteromycetes of Australia and New Zealand |pages=162–3 |publisher=John McIndoe |location=Dunedin, New Zealand}}</ref>
+
+<ref name=Demoulin1968>{{cite journal |author=Demoulin V. |year=1968 |title=Gasteromycetes de Belgique: Sclerodermatales, Tulostomatales, Lycoperdales |journal=Bulletin du Jardin botanique national de Belgique / Bulletin van de National Plantentuin van België |volume=38 |issue=1 |pages=1–101 |doi=10.2307/3667475 |jstor=3667475 |language=French}}</ref>
+
+<ref name=Dennis1953>{{cite journal |author=Dennis RWG. |year=1953 |title=Some West Indian Gasteromycetes |journal=Kew Bulletin |volume=8 |issue=3 |pages=307–28 |doi=10.2307/4115517 |jstor=4115517|bibcode=1953KewBu...8..307D }}</ref>
+
+<ref name=DeVries1985>{{cite journal |author=De Vries GA. |year=1985 |title=''Squamanita odorata'' and ''Geastrum pectinatum'' 2 rare fungi in the forests between Baarn and Hilversum Netherlands |journal=Coolia |volume=28 |issue=3 |pages=53–55 |language=Dutch}}</ref>
+
+<ref name=Dissing1962>{{cite journal |vauthors=Dissing H, Lange M |year=1962 |title=Gasteromycetes of Congo |journal=Bulletin du Jardin botanique de l'État à Bruxelles |volume=32 |issue=4 |pages=325–416 |doi=10.2307/3667249 |jstor=3667249}}</ref>
+
+<ref name=Esqueda2003>{{cite journal |vauthors=Esqueda M, Herrera T, Pérez-Siva E, Sánchez A |year=2003 |title=Distribution of ''Geastrum'' species from some priority regions for conservation of biodiversity of Sonora, Mexico |journal=Mycotaxon |volume=87 |pages=445–56 |url=http://www.cybertruffle.org.uk/cyberliber/59575/0087/0445.htm |access-date=19 April 2011 |archive-url=https://web.archive.org/web/20150924003735/http://www.cybertruffle.org.uk/cyberliber/59575/0087/0445.htm |archive-date=24 September 2015 |url-status=dead }}</ref>
+
+<ref name=Evenson1997>{{cite book |author=Evenson VS. |title=Mushrooms of Colorado and the Southern Rocky Mountains |publisher=Westcliffe Publishers |location=Englewood, Colorado |year=1997 |page=189 |isbn=1-56579-192-4 |url=https://books.google.com/books?id=EAeDeyqZLq0C&pg=PA189}}</ref>
+
+<ref name=Gray1821>{{cite book |author=Gray SF. |year=1821 |title=A Natural Arrangement of British Plants |volume=1 |publisher=Cradock, and Joy |location=London, UK |page=585 |url=https://www.biodiversitylibrary.org/page/30087287}}</ref>
+
+<ref name=Hapnes1990>{{cite journal |vauthors=Hapnes A, Often A |year=1990 |title=''Geastrum'' on islands in Snasa Lake Nord—Trondelag Norway |journal=Blyttia |volume=48 |issue=4 |pages=155–6 |language=Norwegian}}</ref>
+
+<ref name=Hemmes2002>{{cite book |vauthors=Hemmes DE, Desjardin D |title=Mushrooms of Hawaii: An Identification Guide |publisher=Ten Speed Press |location=Berkeley, California |year=2002 |page=86 |isbn=1-58008-339-0}}</ref>
+
+<ref name=Hemmes2011>{{cite journal|vauthors=Hemmes DE, Desjardin DE |title=Earthstars (''Geastrum'', ''Myriostoma'') of the Hawaiian Islands including two new species, ''Geastrum litchiforme'' and ''Geastrum reticulatum'' |journal=Pacific Science |volume=65 |year=2011 |issue=4 |pages=477–496 |url=http://pacificscience.files.wordpress.com/2011/03/early-view-65-4-7.pdf |doi=10.2984/65.4.477 |hdl=10125/29744 |s2cid=86646716 |url-status=dead |archive-url=https://web.archive.org/web/20110823232739/http://pacificscience.files.wordpress.com/2011/03/early-view-65-4-7.pdf |archive-date=23 August 2011 |hdl-access=free }}</ref>
+
+<ref name=Herbert1953>{{cite journal |author=Herbert J. |year=1953 |title=An occurrence of ''Geastrum pectinatum'' Persoon |journal=Queensland Naturalist |volume=14 |issue=4 |page=83}}</ref>
+
+<ref name=Horner1983>{{cite journal |vauthors=Horner HT, Tiffany LH, Cody AM |year=1983 |title=Calcium oxalate bipyramidal crystals on the basidiocarps of ''Geastrum minus'' (Lycoperdales)|journal=Proceedings of the Iowa Academy of Sciences |volume=92 |issue=2 |pages=70–7}}</ref>
+
+<ref name=Imai1936>{{cite journal |author=Imai S. |year=1936 |title=Symbolae ad floram mycologicam Asiae Orientalis. I |trans-title=Contributions to the mycological flora of Eastern Asia |journal=Botanical Magazine (Tokyo) |volume=50 |issue=592 |pages=216–24 |doi=10.15281/jplantres1887.50.216 |doi-access=free }}</ref>
+
+<ref name=Jordan2004>{{cite book |author=Jordan M. |title=The Encyclopedia of Fungi of Britain and Europe |publisher=Frances Lincoln |location=London, UK |year=2004 |page=360 |isbn=0-7112-2379-3}}</ref>
+
+<ref name=Kaya2006>{{cite journal |author=Kaya A. |title=Macrofungi from Andırın (Kahramanmaras) district |journal=Turkish Journal of Botany |year=2006 |volume=30 |issue=2 |pages=85–93 |issn=1300-008X}}</ref>
+
+<ref name=Kers1975>{{cite journal |author=Kers LE. |year=1975 |title=''Trichaster melanocephalus'' new record gasteromycetes a problematic species found in a new locality in Sweden |journal=Svensk Botanisk Tidskrift |volume=69 |issue=2 |pages=175–80 |language=Swedish}}</ref>
+
+<ref name=Kers1977>{{cite journal |author=Kers LE. |year=1977 |title=Some Gasteromycetes from Medelpad Sweden |journal=Svensk Botanisk Tidskrift |volume=71 |issue=1 |pages=79–83 |language=Swedish}}</ref>
+
+<ref name=Kibby1994>{{cite book |author=Kibby G. |title=An Illustrated Guide to Mushrooms and Other Fungi of North America |location=Surrey, UK |publisher=Lubrecht & Cramer Ltd |year=1994 |page=162 |isbn=0-681-45384-2}}</ref>
+
+<ref name=Krisai1986>{{cite journal |vauthors=Krisai I, Mrazek E |year=1986 |title=Calcium oxalate crystals in ''Geastrum'' |journal=Plant Systematics and Evolution |volume=154 |issue=3–4 |pages=325–41 |doi=10.1007/BF00990131|bibcode=1986PSyEv.154..325K |s2cid=30524043 }}</ref>
+
+<ref name=Palmer1959>{{cite journal |author=Palmer JT. |year=1959 |title=Observations on gasteromycetes. VIII. Persoon's specimens of ''Geastrum pectinatum'' Pers. and a reassessment of ''Geastrum plicatum'' Berk. and ''Geastrum tenuipes'' Berk |journal=Persoonia |volume=1 |pages=149–64}}</ref>
+
+<ref name=Pegler1995>{{cite book |vauthors=Laessoe T, Pegler DN, Spooner B |title=British Puffballs, Earthstars and Stinkhorns: an Account of the British Gasteroid Fungi |publisher=Royal Botanic Gardens |location=Kew, UK |year=1995 |page=90 |isbn=0-947643-81-8}}</ref>
+
+<ref name=Persoon1801>{{cite book |author=Persoon CH. |year=1801 |title=Synopsis Methodica Fungorum |location=Göttingen, Sweden |publisher=Apud H. Dieterich |volume=1 |pages=132–3 |url=https://books.google.com/books?id=UugVAAAAYAAJ&pg=RA2-PA132 |language=Latin}}</ref>
+
+<ref name=Pilat1958>Published in: {{cite book |title=Gasteromycetes, Houby-Břichatky. Flora ČSR B1 |trans-title=Gasteromycetes, Puffballs |language=Czech |author=Pilát A. |year=1958 |publisher=Nakladatelstvi Československé Akademie Vĕd |location=Prague, Czechoslovakia}}</ref>
+
+<ref name=PoncedeLeon1968>{{cite journal |author=Ponce de Leon P. |title=A revision of the family Geastraceae |journal=Fieldiana |year=1968 |volume=31 |issue=14 |publisher=Chicago Natural History Museum |location=Chicago, Illinois |pages=309, 327–8 |url=https://www.biodiversitylibrary.org/page/2452202}}</ref>
+
+<ref name=SchalkwijkBarendsen1991>{{cite book |author=Schalkwijk-Barendsen HME. |title=Mushrooms of Western Canada |publisher=Lone Pine Publishing |location=Edmonton, Canada |year=1991 |pages=[https://archive.org/details/mushroomsofweste0000scha/page/350 350–1] |isbn=0-919433-47-2 |url=https://archive.org/details/mushroomsofweste0000scha/page/350 }}</ref>
+
+<ref name=Smith1951>{{cite book |title=Puffballs and their Allies in Michigan |author=Smith AH. |year=1951 |publisher=University of Michigan Press |location=Ann Arbor, Michigan |pages=86–7}}</ref>
+
+<ref name=Smith1982>{{cite journal |vauthors=Smith CW, deLeon PP |year=1982 |title=Hawaiian geastroid fungi |journal=[[Mycologia]] |volume=74 |issue=5 |pages=712–7 |doi=10.2307/3792856 |jstor=3792856}}</ref>
+
+<ref name=Smith2005>{{cite book |author=Smith KN. |title=A Field Guide to the Fungi of Australia |publisher=University of New South Wales Press |location=Sydney, Australia |year=2005 |page=207 |isbn=0-86840-742-9}}</ref>
+
+<ref name=Tynaldo1985>{{cite book |vauthors=Tyndalo V, Rinaldi A |title=The Complete Book of Mushrooms |publisher=Crescent Books |location=Avenel, New Jersey |year=1985 |page=232 |isbn=0-517-51493-1}}</ref>
+
+<ref name="urlRogers">{{cite web|url=http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~5950~gid~~source~gallerydefault.asp |title=''Geastrum pectinatum'' |work=Rogers Mushrooms &#124; Mushroom Pictures & Mushroom Reference |author=Phillips R |publisher=Rogers Plants Ltd |access-date=11 June 2009 |url-status=dead |archive-url=https://web.archive.org/web/20090105231917/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~5950~gid~~source~gallerydefault.asp |archive-date=5 January 2009 }}</ref>
+
+<ref name="urlMycoBank: Geastrum pectinatum">{{cite web |url=http://www.mycobank.org/MB/153421 |title=''Geastrum pectinatum'' Pers. 1801 |publisher=International Mycological Association |work=MycoBank |access-date=16 April 2011}}</ref>
+
+<ref name=Vasquez1990>{{cite journal |vauthors=Vasquez LS, Guzmán-Dávalos L |year=1990 |title=New records of fungi macromycetes for the states of Jalisco Puebla and Zacatecas Mexico |journal=Brenesia |volume=33 |pages=61–74 |language=Spanish}}</ref>
+
+<ref name=Vimba1997>{{cite journal |author=Vimba E. |year=1997 |title=Mycological studies of the Latvian coast of the Baltic Sea and the Gulf of Riga |journal=Proceedings of the Latvian Academy of Sciences Section B Natural Exact and Applied Sciences |volume=51 |issue=5–6 |pages=234–40}}</ref>
+
+<ref name=Wang2004>{{cite journal |vauthors=Wang JR, Bau T |year=2004 |title=Notes on the Basidiomycetes of Jilin Province (VI) |journal=Journal of Fungal Research |volume=2 |issue=4 |pages=40–43 |language=Chinese}}</ref>
+
+<ref name=Whitney1986a>{{cite journal |vauthors=Whitney KD, Arnott HJ |year=1986 |title=Morphology and development of calcium oxalate deposits in ''Gilbertella persicaria'' (Mucorales) |journal=Mycologia |volume=78 |issue=1 |pages=42–51 |doi=10.2307/3793375 |jstor=3793375}}</ref>
+
+<ref name=Whitney1986b>{{cite journal |vauthors=Whitney KD, Arnott HJ |year=1986 |title=Calcium oxalate crystals and basidiocarp dehiscence in ''Geastrum saccatum'' (Gasteromycetes) |journal=Mycologia |volume=78 |issue=4 |pages=649–56 |doi=10.2307/3807778 |jstor=3807778}}</ref>
+
+<ref name=Winterhoff1981>{{cite journal |author=Winterhoff W. |year=1981 |title=Old and new earthstar findings in the drift sand area between Walldorf and Mainz West Germany |journal=Hessische Floristische Briefe |volume=30 |issue=2 |pages=18–27 |language=German}}</ref>
+
+<ref name=Wojewoda2000>{{cite journal |author=Wojewoda W. |year=2000 |title=New localities of rare and threatened species of ''Geastrum'' (Lycoperdales) in Poland |journal= Acta Mycologica|volume=35 |issue=2 |pages=145–51|doi=10.5586/am.2000.017 |doi-access=free }}</ref>
+
+}}
+
+===Cited literature===
+* {{cite book |title=Geastraceae (Basidiomycotina): Morphology, Ecology, and Systematics with Special Emphasis on the North European Species |author=Sunhede S. |year=1989 |series=Synopsis Fungorum, '''1''' |publisher=Fungiflora |location=Oslo, Norway |isbn=82-90724-05-5}}
+
+==External links==
+{{commons category|Geastrum pectinatum}}
+* [http://botany.cz/cs/geastrum-pectinatum/ botany.cz] ''Geastrum pectinatum'' Pers. – hvězdovka dlouhokrká / hviezdovka dlhokŕčková (in Czech)
+
+{{Good article}}
+{{Taxonbar|from=Q3506223}}
+
+[[Category:Geastrum|pectinatum]]
+[[Category:Fungi described in 1801]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Africa]]
+[[Category:Fungi of Australia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of New Zealand]]
+[[Category:Fungi of Central America]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of South America]]
+[[Category:Inedible fungi]]
+[[Category:Fungi of Oceania]]
+[[Category:Taxa named by Christiaan Hendrik Persoon]]
+[[Category:Fungi without expected TNC conservation status]]
+[[Category:Fungus species]]

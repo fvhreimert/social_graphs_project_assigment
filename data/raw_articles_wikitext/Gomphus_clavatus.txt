@@ -1,0 +1,235 @@
+{{short description|Edible species of fungus native to Eurasia and North America}}
+{{featured article}}
+{{Speciesbox
+| image = Gomphus clavatus II Totes Gebirge.jpg
+| image_caption =
+| genus = Gomphus (fungus)
+| species = clavatus
+| authority = ([[Christian Hendrik Persoon|Pers.]]) [[Samuel Frederick Gray|Gray]] (1821)<ref name="Gray 1821"/>
+| synonyms_ref = <ref name="urlMycoBank: Gomphus clavatus"/>
+| synonyms =
+{{collapsible list|bullets=true
+|''Helvella purpurascens'' <small>[[Jacob Christian Schäffer|Schaeff.]] (1774)</small>
+|''Agaricus purpurascens'' <small>(Schaeff.) [[August Johann Georg Karl Batsch|Batsch]] (1783)</small>
+|''Merulius clavatus'' <small>Pers. (1796)</small>
+|''Merulius purpurascens'' <small>(Schaeff.) Pers. (1797)</small>
+|''Cantharellus clavatus'' <small>(Pers.) [[Elias Magnus Fries|Fr.]] (1821)</small>
+|''Gomphora clavata'' <small>(Pers.) Fr. (1825)</small>
+|''Craterellus clavatus'' <small>(Pers.) Fr. (1838)</small>
+|''Thelephora clavata'' <small>(Pers.) [[P.Kumm.]] (1871)</small>
+|''Neurophyllum clavatum'' <small>(Pers.) [[Narcisse Théophile Patouillard|Pat.]] (1886)</small>
+|''Trombetta clavata'' <small>(Pers.) [[Otto Kuntze|Kuntze]] (1891)</small>
+ }}
+}}
+{{mycomorphbox
+| name = ''Gomphus clavatus''
+| hymeniumType = ridges
+| capShape = infundibuliform
+| whichGills = decurrent
+| stipeCharacter = bare
+| sporePrintColor = yellow
+| ecologicalType = mycorrhizal
+| howEdible = edible
+| howEdible2 = allergenic
+}}
+
+'''''Gomphus clavatus''''', [[common name|commonly known]] as '''pig's ears''' or the '''violet chanterelle''', is an [[edible mushroom|edible]] species of fungus in the genus ''[[Gomphus (fungus)|Gomphus]]''. [[Species description|Described]] by [[Jacob Christian Schäffer]] in 1774, ''G.&nbsp;clavatus'' has had several name changes and many alternative scientific names, having been classified in the genus [[Cantharellus]] (also called chanterelles), though it is not closely related to them. The [[basidiocarp|fruit body]] is vase- or fan-shaped with wavy edges to its rim, and grows up to {{convert|15-16|cm|abbr=on|frac=4}} wide and {{convert|17|cm|abbr=on|frac=4}} tall. The upper surface or [[pileus (mycology)|cap]] is orangish-brown to [[Lilac (color)|lilac]], while the lower [[basidiospore|spore]]-bearing surface, the [[hymenium]], is covered in wrinkles and ridges rather than [[lamella (mycology)|gills]] or pores, and is a distinctive purple color.
+
+Typically found in [[Temperate coniferous forest|coniferous forests]] in Eurasia and North America, ''G.&nbsp;clavatus'' is [[mycorrhiza]]l and associated with various [[conifer]]s, particularly [[spruce]]s and [[fir]]s. It is more common at elevations of greater than {{convert|2000|ft|m|abbr=on|sigfig=1}}, in moist, shady areas with plenty of [[leaf litter]]. Although widespread, ''G.&nbsp;clavatus'' has become rare in many parts of Europe and extinct in the British Isles. It has been placed on the national [[Regional Red List|Red Lists]] of threatened fungi in 17 different European countries and is one of 33 species proposed for international conservation under the [[Convention on the Conservation of European Wildlife and Natural Habitats|Bern Convention]].
+
+==Taxonomy==
+German naturalist [[Jacob Christian Schäffer]] described ''Elvela'' (subsequently ''[[Helvella]]'') ''purpurascens'' in 1774.<ref name="Schäffer 1774"/> Austrian naturalist [[Franz Xaver von Wulfen]] gave it the name ''Clavaria elveloides'' in 1781, reporting that it appeared in the [[Abies|fir]] tree forests around [[Klagenfurt]] in August and was common around [[Hüttenberg, Austria|Hüttenberg]]. He recorded that poor people ate it, giving it the local name ''hare's ear''.<ref name="Jacquin 1781"/> In 1796, mycologist [[Christian Hendrik Persoon]] [[species description|described]] ''G.&nbsp;clavatus'' as ''Merulius clavatus'', noting that it grew in grassy locations in woods. He noted it was the same species that Schäffer had described.<ref name="Persoon 1796"/> The [[botanical name|specific epithet]]—derived from the [[Latin language|Latin]] word ''clava'' (club) and meaning "club-shaped"<ref name="Stearn 2004"/>—refers to the shape of young fruit bodies.<ref name="Roody 2003"/> In his 1801 ''Synopsis methodica fungorum'', Persoon placed ''Merulius clavatus'' (recognising two [[variety (botany)|varieties]]—''violaceus'' and ''spadiceus'') in the [[section (botany)|section]] ''Gomphus'' within ''Merulius''.<ref name="Persoon 1801"/>
+
+British botanist [[Samuel Frederick Gray]] used Persoon's name, transferring the violet chanterelle to the genus ''Gomphus'' in 1821.<ref name="Giachini 2011"/> As it was the first named member of the genus it became the [[type species]].<ref name="Giachini 2011"/> The starting date of fungal [[Taxonomy (biology)|taxonomy]] had been set as January&nbsp;1, 1821, to coincide with the date of the works of Swedish naturalist [[Elias Magnus Fries]], which meant the name required [[sanctioned name|sanction]] by Fries (indicated in the name by a colon) to be considered valid.  Thus the species was written as ''Gomphus clavatus'' (Pers.: Fr.) Gray. A 1987 revision of the [[International Code of Botanical Nomenclature]] set the starting date at May&nbsp;1, 1753, the date of publication of the ''[[Species Plantarum]]'', by [[Carl Linnaeus]].<ref name=Esser1994/> Hence, the name no longer requires the ratification of Fries' authority.<ref name="urlMycoBank: Gomphus clavatus"/> Persoon followed suit in treating ''Gomphus'' as a separate genus in his 1825 work ''Mycologia Europaea''.<ref name="Giachini 2011"/> Here he recognized ''M.&nbsp;clavatus'' as the same species as ''Clavaria truncata'' described by [[Casimir Christoph Schmidel]] in 1796, calling the taxon ''Gomphus truncatus''.<ref name="Persoon 1825"/>
+
+Fries himself declined to keep the genus separate,<ref name="Giachini 2011"/> instead classifying ''Gomphus'' as a ''tribus'' ([[subgenus]]) within the genus ''Cantharellus'' in his 1821 work ''[[Systema Mycologicum]]'', the species becoming ''Cantharellus clavatus''. He recognized four varieties: ''violaceo-spadiceus'', ''carneus'', ''purpurascens'' and ''umbrinus''.<ref name="Fries 1821"/> Swiss mycologist [[Louis Secretan]] described three [[taxa]]—''Merulius clavatus carneus'', ''M.&nbsp;clavatus violaceus'' and ''M.&nbsp;clavatus purpurascens''—in his 1833 work ''Mycographie Suisse''.<ref name="Secretan 1833"/> Many of his names have been rejected for [[nomenclature codes|nomenclatural]] purposes because Secretan had a narrow [[species concept]], dividing many taxa into multiple species that were not supported by other authorities, and his works did not use [[binomial nomenclature]] consistently.<ref name="Donk 1962"/><ref name="Demoulin 1974"/> Fries revised his classification in his 1838 book ''Epicrisis Systematis Mycologici seu Synopsis Hymenomycetum'', placing it in a [[series (botany)|series]]—''Deformes''—in the genus ''Craterellus''.<ref name="Fries 1838"/>
+
+
+
+[[Paul Kummer]] raised many of Fries' ''tribus'' (subgenera; not [[Tribe (biology)|tribes]]) to genus rank in his 1871 work ''Der Führer in die Pilzkunde'', classifying the violet chanterelle in the genus ''[[Thelephora]]''.<ref name="Kummer 1871"/> Jacques Emile Doassans and [[Narcisse Théophile Patouillard]] placed it in the genus ''Neurophyllum'' (also spelt ''Nevrophyllum'') in 1886,<ref name="Giachini 2011"/><ref name="Doassans 1886"/> removing it from ''Cantharellus'' on account of its orange spores. [[Charles Horton Peck]] discarded the name in 1887 and returned ''G.&nbsp;clavatus'' to ''Cantharellus''.<ref name="Giachini 2004"/> In 1891, German botanist [[Otto Kuntze]] published ''[[Revisio generum plantarum]]'', his response to what he perceived as poor method in existing nomenclatural practice.<ref name="Kuntze"/> He coined the genus ''Trombetta'' to incorporate the violet chanterelle, hence giving it the name ''Trombetta clavata''.<ref name="Kuntze 1891"/> However, Kuntze's revisionary program was not accepted by the majority of botanists.<ref name="Kuntze"/>
+
+[[Alexander H. Smith]] treated ''Gomphus'' as a section within ''Cantharellus'' in his 1947 review of chanterelles in western North America, as he felt there were no consistent characteristics that distinguished the two genera.<ref name="Smith 1947"/> In 1966 [[E. J. H. Corner]] described a small-spored variety, ''G.&nbsp;clavatus'' var. ''parvispora'', from specimens collected in [[Uganda]];<ref name="Corner 1966"/> it is not considered to have independent [[taxonomy (biology)|taxonomic]] significance.<ref name="urlFungorum: Gomphus clavatus var. parvisporus"/>
+
+Research in the early 2000s combining the use of [[phylogenetic]] analyses of DNA sequences and more traditional [[morphology (biology)|morphology]]-based characters has resulted in a reshuffling of the species concept in ''Gomphus'';<ref name="Giachini 2004" /> as a result, ''G.&nbsp;clavatus'' is considered the only ''Gomphus'' species in North America.<ref name="urlKuo: Gomphus"/> Comparison of the [[DNA sequence]]s of species ''Gomphus brevipes'' and ''G.&nbsp;truncatus'' has shown them to be genetically identical to ''G.&nbsp;clavatus'', and they may be treated as [[synonym (taxonomy)|synonyms]].<ref name="Giachini 2004"/>
+
+''Gomphus clavatus'' is commonly known as pig's ears, alluding to the violet underside and yellowish [[pileus (mycology)|cap]] of the [[basidiocarp|fruit bodies]],<ref name="Persson 1997"/> although this vernacular name is also used for ''[[Discina perlata]]''.<ref name="Evenson 2015"/> Other English [[common name]]s for this species include clustered chanterelle and violet chanterelle.<ref name="Sept 2006"/> Gray coined the name clubbed gomphe.<ref name="Gray 1821"/> In the [[Sherpa language]] of Nepal the fungus is known as ''Eeshyamo'' ("mother-in-law"), as its imposing fruit body is reminiscent of a mother-in-law, who has a dominant role in a [[Sherpa people|Sherpa family]].<ref name="Giri 2009"/>
+
+==Description==
+]]
+
+The [[basidiocarp]]s, or fruit bodies, of immature ''Gomphus clavatus'' are club-shaped and have one cap, but later spread out and have a so-called ''merismatoid'' appearance—several vase-shaped caps rising from a common stem. The fruit body is up to {{convert|20|cm|abbr=on|frac=2}} tall<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/661/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, California |pages=661 |orig-date=1979}}</ref> and {{convert|15|cm|abbr=on|frac=4}} wide; it is fan-shaped with wavy edges. The upper surfaces of the fruit bodies are covered with brown [[hypha]]e (microscopic filaments) that form small, distinct patches towards the margin, but combine to form a continuous felt-like fine-haired area, or [[Trichome#Plant trichomes|tomentum]], over the center of the cap. The color of the upper cap surface is orange-brown to violet, but fades to a lighter brown with age.<ref name="urlCalifornia Fungi: Gomphus clavatus"/> The cap margins of older mushrooms can be quite ragged.<ref name="Lamaison 2005"/> The lower spore-bearing surface—the hymenium—is wrinkled, often with folds and pits, and violet to brown in color. The solid [[stipe (mycology)|stem]], which is continuous with the cap,<ref name="Arora 1991"/> is {{convert|0.8–3|cm|1|abbr=on|frac=8}} wide, {{convert|1–10|cm|abbr=on|frac=4}} tall,<ref name="Smith 1947"/><ref name=":0">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=125}}</ref> and covered with fine hairs that become coarser (hispid) towards the base. It is often compound, with several fruit bodies arising from the basal portion. Fruit bodies may bruise reddish-brown where handled.<ref name="urlKuo: Gomphus clavatus"/> The [[trama (mycology)|flesh]] can be whitish-pink to [[lilac (color)|lilac]] or cinnamon-buff. Thick under the center of the cap, it thins out towards the margins.<ref name="Smith 1947"/> It can be crunchy, though it is softer than that of the chanterelle.<ref name="Lamaison 2005"/> The taste and odor are mild. The [[spore print]] is yellow to orange-yellow.<ref name="Orr 1980"/>
+
+The [[Basidiospore|spores]] are elliptical, wrinkled or slightly warted, and 10–14 by 5–7.5&nbsp;[[μm]].<ref name="urlCalifornia Fungi: Gomphus clavatus" /> They are [[nonamyloid]], meaning they have a negative [[color reaction]] with the [[iodine]] in [[Melzer's reagent]]. The spore-bearing structures, the [[basidia]], are elongated or club-shaped, [[hyaline]] (glassy or translucent), and four-spored, with dimensions of 60–90 by 8.5–11.5&nbsp;μm.<ref name="urlwww.mykoweb.com"/> ''G.&nbsp;clavatus'' does not contain [[cystidia]], the sterile cells associated with basidia in many species. [[Clamp connection]]s are present.<ref name="urlwww.mykoweb.com"/>
+
+===Similar species===
+''[[Gomphus crassipes]]'', found in Spain and North Africa, can only be reliably distinguished from ''G.&nbsp;clavatus'' via microscopy;<ref name="Roberts 2011"/> its basidiospores are generally longer (11–17 by 5.5–7&nbsp;μm) and have a more finely wrinkled surface.<ref name="Giachini 2004"/> ''[[Gomphus ludovicianus]]'' is also macroscopically very similar.<ref name=":0" /> ''[[Pseudocraterellus pseudoclavatus]]'' (formerly classified in ''Gomphus'') is a lookalike species that grows under conifers in the central United States and westward,<ref name="Miller 2006"/> also differing on microscopic characters and reaction to [[potassium hydroxide]].<ref name="Smith 1947"/> ''[[Turbinellus floccosus]]'' and ''[[Turbinellus kauffmanii|T.&nbsp;kauffmanii]]'' are of similar shape but their caps are covered in scales.<ref name="Roody 2003"/> The edible blue chanterelle (''[[Polyozellus multiplex]]'') could be confused with ''G.&nbsp;clavatus'', but has distinctive spores.<ref name="Groves 1979"/>
+
+==Habitat and distribution==
+
+
+Growing on the ground, ''Gomphus clavatus'' mushrooms appear singly, in clusters or clumps, or even occasionally [[fairy ring]]s.<ref name="Smith 1947"/> The species is typically found in [[Temperate coniferous forest|coniferous forest]]s, and with a preference for moist, shady areas with deep [[leaf litter]],<ref name="Orr 1980"/> or rotten wood debris on the ground. It is equally common in older or younger stands of trees.<ref name="Giachini 2004"/><!-- cites previous 1.5 sentences --> Fruit bodies are easily missed because their colors blend with those of the forest floor.<ref name="Kuo 2007"/> It is more common at elevations of greater than {{convert|2000|ft|m|abbr=on|sigfig=1}}.<ref name="Sept 2006"/> ''Gomphus clavatus'' has been reported as forming symbiotic ([[mycorrhizal]]) associations with a variety of trees: ''[[Abies alba]]'',<ref name="Khohkryakov 1956"/> ''[[Abies cephalonica]]'',<ref name="Giachini 2004" /> ''[[Abies firma]]'',<ref name="Masui 1926"/><ref name="Masui 1927"/> ''[[Abies nephrolepis]]'',<ref name="Bulakh 1978"/> ''[[Abies religiosa]]'',<ref name="Valdes-Ramirez 1972"/> ''[[Picea]]'' species,<ref name="Agerer 1998"/> ''[[Pinus densiflora]]'',<ref name="Masui 1926"/><ref name="Masui 1927"/> ''[[Pseudotsuga menziesii]]'',<ref name="Trappe 1960" /> and ''[[Tsuga heterophylla]]''.<ref name="Trappe 1960"/><ref name="Kropp 1982"/> It is also reported with beech (''[[Fagus sylvatica]]'') in Europe.<ref name="Dahlberg 2006"/>
+
+In Asia, ''Gomphus clavatus'' has been reported from China,<ref name="Corner 1966"/> Japan,<ref name="Corner 1966"/> Korea,<ref name="Han 2006"/> Malaysia,<ref name="Jais 2011"/> Nepal,<ref name="Giri 2009"/> and Pakistan.<ref name="Corner 1966"/> European countries where the fungus has been reported include Austria,<ref name="Petersen 1971"/> the Czech Republic,<ref name="Kluzak 1994"/> France,<ref name="Doassans 1886"/> Germany,<ref name="Dorfelt 2003"/> Greece,<ref name="Petersen 1971" /> Italy,<ref name="Petersen 1971" />  Lithuania,<ref name="Urbonas 1990"/> Poland,<ref name="Adamczyk 1996"/> Romania,<ref name="Pop 2001"/> Russia,<ref name="Trappe 1960"/> Sweden,<ref name="Persson 1997"/> Switzerland,<ref name="Petersen 1971" /> and Turkey.<ref name="Sesli 1997"/> In North America, the fungus has been found across Canada,<ref name="Corner 1966"/> Mexico,<ref name="Petersen 1971" /> and the United States<ref name="urlwww.mykoweb.com"/> (October–December on the West Coast and July–October elsewhere),<ref name=":0" /> being abundant in the [[Pacific Northwest]].<ref name="Smith 1947"/>
+
+== Conservation ==
+In Europe, ''Gomphus clavatus'' appears on the national [[Regional Red List|Red Lists]] of threatened fungi in 17 countries and is one of 33 species of fungi proposed for international conservation under the [[Convention on the Conservation of European Wildlife and Natural Habitats|Bern Convention]].<ref name="Dahlberg 2006"/> Due to a substantial decline in sightings,<ref name="Siller 2005"/> ''Gomphus clavatus'' became a legally protected species in Hungary on September 1, 2005.<ref name="Siller 2006"/> It also has legal protection in [[Slovakia]]<ref name="Dahlberg 2006"/> and Slovenia.<ref name="Petkovsek 2004"/> The species formerly occurred in the British Isles, but has not been seen since 1927 and is now regarded as extinct.<ref name=BritishChecklist/> The fungus faces [[habitat loss|loss]] and degradation of its habitat; [[Eutrophication#Terrestrial ecosystems|eutrophication]] (increased [[nitrate]]s in the soil) is another potential threat.<ref name="Dahlberg 2006"/> ''Gomphus clavatus''  was selected as the 1998 ''Pilz des Jahres'' ("Mushroom of the Year") by the [[Deutschsprachige Mykologische Gesellschaft|German Mycological Society]], partly to highlight its vulnerable status.<ref name="DGFM"/>
+
+==Edibility==
+
+''Gomphus clavatus'' is [[edible mushroom|edible]]; it is rated as choice by some,<ref name="Orr 1980"/><ref name="Smith 1980"/> while others find it tasteless<ref name="Davis 2012"/> or experience [[Indigestion|gastric upsets]].<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=246}}</ref> It has an earthy flavor and meaty texture that has been regarded as suiting red meat dishes.<ref name="Kuo 2007"/> Like many edible fungi, consumption may cause gastrointestinal distress in susceptible individuals.<ref name="urlKuo: Gomphus clavatus"/> The flesh becomes bitter with age,<ref name="Orr 1980"/> and older specimens may be infested with insects.<ref name="Davis 2012"/> Insect infestation is unlikely if the weather is cool.<ref name="Smith 1980"/> ''G.&nbsp;clavatus'' has been used for cooking for some time; Fries included it in his 1867 book ''Sveriges ätliga och giftiga svampar'' (''Edible and Poisonous Mushrooms in Sweden''). It is highly regarded by the [[Zapotec peoples|Zapotec people]] of [[Ixtlán de Juárez]] in [[Oaxaca]], Mexico,<ref name="Garibay 2007"/> and the Sherpa people in the vicinity of [[Sagarmatha National Park]] in Nepal.<ref name="Giri 2009"/>
+
+[[Extract]]s prepared from ''G.&nbsp;clavatus'' fruit bodies have a high antioxidant activity,<ref name="Makropoulou 2012"/> and a high concentration of [[phenols|phenolic]] and [[flavonoid]] compounds.<ref name="Sarikurkcu 2015"/> Phenolic compounds identified from the fungus include [[protocatechuic acid]], [[gallic acid]], [[gentisic acid]], [[vanillic acid]], [[syringic acid]], [[cinnamic acid]], [[caffeic acid]], [[ferulic acid]], and [[tannic acid]].<ref name="Puttaraju 2006"/>  In a chemical analysis of collections from the south [[Aegean Region]] of Turkey, the fungus was shown to have [[bioaccumulation|bioaccumulated]] the toxic metal [[cadmium]] to levels exceeding the maximum intake recommended by the European Union [[Scientific Committee on Food]].<ref name="Sarikurkcu 2015"/>
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Adamczyk 1996">{{cite journal |author=Adamczyk J. |year=1996 |title=Les champignons supérieurs des hêtraies du Nord du plateau de Czestochowa (Pologne méridionale) |trans-title=The higher fungi of beech in North Czestochowa Plateau (southern Poland) |journal=Revue de Botanique |volume=150 |pages=1–83 |language=fr |oclc=258624874 }}</ref>
+
+<ref name="Agerer 1998">{{cite journal|vauthors=Agerer R, Beenken L, Christian J |year=1998 |title=''Gomphus clavatus'' (Pers.: Fr.) S. F. Gray. + ''Picea abies'' (L.) Karst |journal=Descriptions of Ectomycorrhizae |volume=3 |pages=25–29}}</ref>
+
+<ref name="Arora 1991">{{cite book |author=Arora D. |title=All that the Rain Promises and More: A Hip Pocket Guide to Western Mushrooms |publisher=Ten Speed Press |location=Berkeley, California |year=1991 |page=7 |isbn=978-0-89815-388-0 |url=https://books.google.com/books?id=87ct90d4B9gC&pg=PA7}}</ref>
+
+<ref name=BritishChecklist>{{cite web|url=http://www.basidiochecklist.info/DisplayResults.asp?intGBNum=12484 |title=''Gomphus clavatus'' (Pers.) Gray, Nat. Arr. Brit. Pl. (London) 1: 638 (1821) |work=Checklist of the British & Irish Basidiomycota |publisher=Royal Botanical Gardens, Kew |access-date=15 September 2011 |url-status=dead |archive-url=https://web.archive.org/web/20111006221559/http://www.basidiochecklist.info/DisplayResults.asp?intGBNum=12484 |archive-date=6 October 2011 }}</ref>
+
+<ref name="Bulakh 1978">{{cite book |author=Bulakh EM. |year=1978 |title=Macromycetes of Fir Forests |publisher=Biocenotic Studies at the Berkhneussuriysk Station. The Academy of Sciences of the USSR Far-eastern Scientific Center Biological Institute |pages=73–81}}</ref>
+
+<ref name="Corner 1966">{{cite journal |author=Corner EJH. |year=1966 |title=A Monograph of the Cantharelloid Fungi |journal=Annals of Botany Memoirs |location=London, UK |publisher=Oxford University Press |volume=2 |pages=1–255}}</ref>
+
+<ref name="Dahlberg 2006">{{cite book |vauthors=Dahlberg A, Croneborg H |title=The 33 Threatened Fungi in Europe (Nature and Environment) |publisher=Council of Europe |location=Strasbourg, Germany |year=2006 |pages=58–60 |isbn=978-92-871-5928-1}}</ref>
+
+<ref name="Davis 2012">{{cite book |vauthors=Davis RM, Sommer R, Menge JA |title=Field Guide to Mushrooms of Western North America |publisher=University of California Press |location=Berkeley, California  |year=2012 |pages=275–276 |isbn=978-0-520-95360-4 |url=https://books.google.com/books?id=obp7jddvjt4C&pg=PA275}}</ref>
+
+<ref name="Demoulin 1974">{{cite journal |author=Demoulin V. |year=1974 |title=Invalidity of names published in Secretan's ''Mycographie Suisse'' and some remarks on the problem of publication by reference |journal=Taxon |volume=23 |issue=5/6 |pages=836–43 |doi=10.2307/1218449|jstor=1218449 |bibcode=1974Taxon..23..836D }}</ref>
+
+<ref name="DGFM">{{cite web |title=1998: ''Gomphus clavatus'' (Pers.: Fr.) S.F.Gray, Schweinsohr [Pig's ear] |url=http://www.dgfm-ev.de/node/1291 |publisher=Deutsche Gesellschaft für Mykologie [German Mycological Society] |language=de |access-date=15 December 2015 |url-status=live |archive-url=https://web.archive.org/web/20150703195955/http://www.dgfm-ev.de/node/1291 |archive-date=3 July 2015}}</ref>
+
+<ref name="Doassans 1886">{{cite journal |vauthors=Doassans MM, Patouillard NT |year=1886 |title=Champignons du Béarn (2<sup>e</sup>liste)|journal=Revue Mycologique |volume=8 |pages=25–28 |language=fr}} (Reprint from "Collected Mycological Papers" chronologically arranged and edited by L. Vogelenzang, Librarian Rijksherarium, Leiden, Amsterdam, vols. 1–3, 1978)</ref>
+
+<ref name="Donk 1962">{{cite journal |author=Donk MA. |year=1962 |title=On Secretan's fungus names |journal=Taxon |volume=11 |issue=5 |pages=170–73 |doi=10.2307/1216724|jstor=1216724 |bibcode=1962Taxon..11..170D }}</ref>
+
+<ref name="Dorfelt 2003">{{cite journal |vauthors=Dörfelt H, Bresinsky A |year=2003 |title=Die Verbreitung und Ökologie ausgewählter Makromyceten Deutschlands |language=de |trans-title=Distribution and ecology of selected macromycetes in Germany |journal=Zeitschrift für Mykologie |volume=69 |issue=2 |pages=177–286 (see p.&nbsp;200) |url=http://www.dgfm-ev.de/sites/default/files/ZM692177Doerfelt.pdf |access-date=2015-12-18 |archive-url=https://web.archive.org/web/20151222093311/http://www.dgfm-ev.de/sites/default/files/ZM692177Doerfelt.pdf |archive-date=2015-12-22 |url-status=dead }}</ref>
+
+<ref name=Esser1994>{{cite book |vauthors=Esser K, Lemke PA |title=The Mycota: A Comprehensive Treatise on Fungi as Experimental Systems for Basic and Applied Research |url=https://archive.org/details/mossflorabritain00libg |url-access=limited |publisher=Springer |location=Heidelberg, Germany |year=1994 |page=[https://archive.org/details/mossflorabritain00libg/page/n93 81] |isbn=978-3-540-66493-2}}</ref>
+
+<ref name="Evenson 2015">{{cite book |author1=Evenson VS |author2=Denver Botanic Gardens. |title=Mushrooms of the Rocky Mountain Region |year=2015 |series=Timber Press Field Guides |publisher=Timber Press |location=Portland Oregon |page=226 |isbn=978-1-60469-576-2}}</ref>
+
+<ref name="Fries 1821">{{cite book |author=Fries EM. |title=Systema Mycologicum |year=1821 |volume=1 |location=Lund, Sweden |page=322 |language=la |url=http://www.librifungorum.org/Image.asp?ItemID=21&ImageFileName=0322b.jpg|archive-url=https://web.archive.org/web/20160817132822/http://www.librifungorum.org/Image.asp?ItemID=21&ImageFileName=0322b.jpg|url-status=usurped|archive-date=August 17, 2016}}</ref>
+
+<ref name="Fries 1838">{{cite book |author=Fries EM. |title=Epicrisis Systematis Mycologici: Seu Synopsis Hymenomycetum |trans-title=A Critical Study of Mycology: A Synopsis of the Hymenomycetes |volume=1–2 |publisher=Regiae Academiae Typographia |location=Uppsala, Sweden |year=1838 |page=633 |url=http://www.librifungorum.org/Image.asp?Nav=yes&FirstPage=292091&LastPage=292716&NextPage=292637 |archive-url=https://web.archive.org/web/20160302031818/http://www.librifungorum.org/Image.asp?Nav=yes&FirstPage=292091&LastPage=292716&NextPage=292637 |url-status=usurped |archive-date=March 2, 2016 |language=la}}</ref>
+
+<ref name="Garibay 2007">{{cite journal|vauthors=Garibay-Orijel R, Caballero J, Estrada-Torres A, Cifuentes J |year=2007 |title=Understanding cultural significance, the edible mushrooms case |journal=Journal of Ethnobiology and Ethnomedicine |volume=3 |issue=4 |article-number=4 |doi=10.1186/1746-4269-3-4 |pmid=17217539 |pmc=1779767 |doi-access=free }}</ref>
+
+<ref name="Giachini 2004">{{cite thesis |author=Giachini A. |year=2004 |url=https://www.researchgate.net/publication/36182579 |title=Systematics, Phylogeny, and Ecology of ''Gomphus'' sensu lato |degree=Ph.D. |publisher=Oregon State University |location=Corvallis, Oregon}}</ref>
+
+<ref name="Giachini 2011">{{cite journal |vauthors=Giachini AJ, Castellano MA |title=A new taxonomic classification for species in ''Gomphus'' sensu lato |journal=Mycotaxon |year=2011 |volume=115 |pages=183–201 |doi=10.5248/115.183|doi-access=free }}</ref>
+
+<ref name="Giri 2009">{{cite journal |vauthors=Giri A, Rana R |year=2009 |title=Ethnomycological knowledge and nutritional analysis of some wild edible mushrooms of Sagarmatha national Park (SNP), Nepal |journal=Journal of Natural History Museum |volume=23 |pages=65–77 |doi=10.3126/jnhm.v23i0.1841 |doi-access=free }}</ref>
+
+<ref name="Gray 1821">{{cite book |author=Gray SF. |year=1821 |title=A Natural Arrangement of British Plants |volume=1 |location=London, UK |page=638 |url=https://books.google.com/books?id=g-EYAAAAYAAJ&pg=PA638}}</ref>
+
+<ref name="Groves 1979">{{cite book |author=Groves JW. |title=Edible and Poisonous Mushrooms of Canada |year=1979 |publisher=Research Branch, Agriculture Canada |location=Ottawa |page=[https://archive.org/details/ediblepoisonousm00grov/page/34 34] |url=https://archive.org/details/ediblepoisonousm00grov/page/34 |isbn=978-0-660-10136-1 }}</ref>
+
+<ref name="Han 2006">{{cite journal |vauthors=Han SK, Park YJ, Choi SK, Lee JO, Choi JH, Sung JM |year=2006 |title=Some unrecorded higher fungi of the Seoraksan and Odaesan National Parks |journal=Mycobiology |volume=34 |issue=2 |pages=56–60 |doi=10.4489/MYCO.2006.34.2.056|pmid=24039471 |pmc=3769548 }}</ref>
+
+<ref name="Jacquin 1781">{{cite book |author=Jacquin NJ. |title=Miscellanea Austriaca ad Botanicum, Chemiam et Historiam Naturalem Spectantia |volume=2 |year=1781 |publisher=J.P.&nbsp;Kraus |location=Vienna |page=99; [http://hdl.handle.net/2027/nyp.33433010774085?urlappend=%3Bseq=715 plate 12:1] |url=http://babel.hathitrust.org/cgi/pt?id=nyp.33433010774085;view=1up;seq=367;size=150 |language=la }}</ref>
+
+<ref name="Jais 2011">{{cite book |vauthors=Jais HM, Tajuddin R, Iffendy KA |title=Macrofungi of a Healthy Campus |url=https://books.google.com/books?id=kL1rCQAAQBAJ&pg=PA41 |publisher=Penerbit USM |isbn=978-983-861-869-4 |page=41|year=2014 }}</ref>
+
+<ref name="Khohkryakov 1956">{{cite book | author=Khohkryakov MK. |year=1956 |chapter=Mycorrhizae |pages=178–81 |editor=Gorlenki MV. |title=Fungi – friends and enemies of man |publisher=Sovetskaya Nauka |location=Moscow, Russia}}</ref>
+
+<ref name="Kluzak 1994">{{cite journal |author=Kluzák Z. |year=1994 |title=''Gomphus clavatus''. A seriously endangered species in the Czech Republic |journal=Zeitschrift für Mykologie |volume=60 |pages=113–16}}</ref>
+
+<ref name="Kropp 1982">{{cite journal |vauthors=Krop BR, Trappe JM |year=1982 |title=Ectomycorrhizal fungi of ''Tsuga heterophylla'' |journal=Mycologia |volume=74 |issue=3 |pages=479–88 |doi=10.2307/3792970 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0074/003/0479.htm|jstor=3792970 |url-access=subscription }}</ref>
+
+<ref name="Kummer 1871">{{cite book |title=Der Führer in die Pilzkunde |edition=1st |author=Kummer P. |author-link=Paul Kummer |year=1871 |location=Zerbst, Germany |publisher=Luppe |page=46 |language=de |url=https://www.biodiversitylibrary.org/page/34209577}}</ref>
+
+<ref name="Kuntze">{{cite web |author=Erickson RF. |url=http://www.botanicus.org/creator/298 |title=Kuntze, Otto (1843–1907) |website=Botanicus.org |access-date=28 November 2015}}</ref>
+
+<ref name="Kuntze 1891">{{cite book |author=Kuntze O. |author-link=Otto Kuntze |title=Revisio generum plantarum:vascularium omnium atque cellularium multarum secundum leges nomenclaturae internationales cum enumeratione plantarum exoticarum in itinere mundi collectarum |publisher=A.&nbsp;Felix |location=Leipzig, Germany |year=1891 |page=873 |url=http://bibdigital.rjb.csic.es/ing/Libro.php?Libro=5480&Pagina=499 |language=la |access-date=2016-02-24 |archive-date=2016-03-04 |archive-url=https://web.archive.org/web/20160304161348/http://bibdigital.rjb.csic.es/ing/Libro.php?Libro=5480&Pagina=499 |url-status=dead }}</ref>
+
+<ref name="Kuo 2007">{{cite book |author=Kuo M. |title=100 Edible Mushrooms |publisher=The University of Michigan Press |location=Ann Arbor, Michigan |year=2007 |page=[https://archive.org/details/100ediblemushroo00kuom/page/163 163] |isbn=978-0-472-03126-9 |url-access=registration |url=https://archive.org/details/100ediblemushroo00kuom/page/163 }}</ref>
+
+<ref name="Lamaison 2005">{{cite book |vauthors=Lamaison JL, Polese JM |title=The Great Encyclopedia of Mushrooms |year=2005 |publisher=Könemann |location=Cologne, Germany |isbn=978-3-8331-1239-3 |page=205}}</ref>
+
+<ref name="Makropoulou 2012">{{cite journal |vauthors=Makropoulou M, Aligiannis N, Gonou-Zagou Z, Pratsinis H, Skaltsounis AL, Fokialakis N |title=Antioxidant and cytotoxic activity of the wild edible mushroom ''Gomphus clavatus'' |journal=Journal of Medicinal Food |year=2012 |volume=15 |issue=2 |pages=216–21 |doi=10.1089/jmf.2011.0107|pmid=21877948 }}</ref>
+
+<ref name="Masui 1926">{{cite journal |author=Masui K.  |year=1926 |title=A study of the mycorrhiza of ''Abies firma'', S. et Z., with special reference to its mycorrhizal fungus ''Cantharellus floccosus'', Schw. | journal=Memoirs of the College of Science. Kyoto Imperial University. Series B |volume=2 |issue=1 |pages=1–84}}</ref>
+
+<ref name="Masui 1927">{{cite journal |author=Masui K. |year=1927 |title=A study of the ectotrophic mycorrhizas of woody plants |journal=Memoirs of the College of Science. Kyoto Imperial State University. Series B |volume=3 |pages=149–279}}</ref>
+
+<ref name="Miller 2006">{{cite book |vauthors=Miller HR, ((Miller OK Jr)) |title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi |publisher=Falcon Guides |location=Guilford, Connecticut |year=2006 |page=328 |isbn=978-0-7627-3109-1}}</ref>
+
+<ref name="Orr 1980">{{cite book |vauthors=Orr DB, Orr RT |title=Mushrooms of Western North America |series=California Natural History Guides |publisher=University of California Press |location=Berkeley, California |year=1980 |page=70 |isbn=978-0-520-03660-4}}</ref>
+
+<ref name="Puttaraju 2006">{{cite journal |vauthors=Puttaraju NG, Venkateshaiah SU, Dharmesh SM, Urs SM, Somasundaram R |title=Antioxidant activity of indigenous edible mushrooms |journal= Journal of Agricultural and Food Chemistry|year=2006 |volume=54 |issue=26 |pages=9764–72 |doi=10.1021/jf0615707|pmid=17177499 |bibcode=2006JAFC...54.9764P }}</ref>
+
+<ref name="Persoon 1796">{{cite journal |author=Persoon CH. |title=Observationes Mycologicae |journal=Annalen der Botanik (Usteri) |year=1795 |volume=15 |pages=1–39 (see p.&nbsp;21) |language=la |url=http://bibdigital.rjb.csic.es/ing/Libro.php?Libro=2024&Pagina=25 |access-date=2015-11-18 |archive-date=2015-11-19 |archive-url=https://web.archive.org/web/20151119111305/http://bibdigital.rjb.csic.es/ing/Libro.php?Libro=2024&Pagina=25 |url-status=dead }}</ref>
+
+<ref name="Persoon 1801">{{cite book |author=Persoon CH. |author-link=Christiaan Hendrik Persoon |year=1801 |title=Synopsis Methodica Fungorum |trans-title=Methodical Synopsis of the Fungi |location=Göttingen, Germany |publisher=Apud H. Dieterich |volume=2 |page=498 |url=http://bibdigital.rjb.csic.es/ing/Libro.php?Libro=3136&Pagina=260 |language=la |access-date=2016-02-25 |archive-date=2016-03-05 |archive-url=https://web.archive.org/web/20160305003555/http://bibdigital.rjb.csic.es/ing/Libro.php?Libro=3136&Pagina=260 |url-status=dead }}</ref>
+
+<ref name="Persoon 1825">{{cite book |author=Persoon CH. |year=1825 |title=Mycologia Europaea |volume=2 |page=9 |url=http://www.librifungorum.org/Image.asp?Nav=yes&FirstPage=112754&LastPage=112982&NextPage=112764  |archive-url=https://web.archive.org/web/20160423120315/http://www.librifungorum.org/Image.asp?Nav=yes&FirstPage=112754&LastPage=112982&NextPage=112764  |url-status=usurped  |archive-date=April 23, 2016  |publisher=Palm |location=Erlangen, Germany |language=la}}</ref>
+
+<ref name="Persson 1997">{{cite book |author=Persson O. |title=The Chanterelle Book |publisher=Ten Speed Press |location=Berkeley, California |year=1997 |page=74 |isbn=978-0-89815-947-9 |url=https://books.google.com/books?id=mrhCV7fC9V0C&pg=PA74}}</ref>
+
+<ref name="Petersen 1971">{{cite journal |author=Petersen RH. |year=1971 |title=The genera ''Gomphus'' and ''Gloeocantharellus'' in North America |journal=Nova Hedwigia |volume=21 |pages=1–118 |oclc=641200 }}</ref>
+
+<ref name="Petkovsek 2004">{{cite journal |vauthors=Al-Sayegh Petkovsek S, Pokorny B, Piltaver A |year=2004 |title=The first list of macrofungi from the wider area of the Salek Valley |journal=Zbornik Gozdarstva in Lesarstva |volume=72 |pages=83–120}}</ref>
+
+<ref name="Pop 2001">{{cite journal |vauthors=Pop A, Soltesz AM |year=2001 |title=Mushrooms from the Barsa Depression (Brasov County) |journal=Contributii Botanice |volume=36 |pages=41–51}}</ref>
+
+<ref name="Roberts 2011">{{cite book |vauthors=Roberts P, Evans S |title=The Book of Fungi |year=2011 |publisher=University of Chicago Press |location=Chicago, Illinois |page=482 |isbn=978-0-226-72117-0}}</ref>
+
+<ref name="Roody 2003">{{cite book |author=Roody WC. |title=Mushrooms of West Virginia and the Central Appalachians |publisher=University Press of Kentucky |location=Lexington, Kentucky |year=2003 |url=https://books.google.com/books?id=5HGMPEiy4ykC&pg=PA135 |page=135 |isbn=978-0-8131-9039-6}}</ref>
+
+<ref name="Sarikurkcu 2015">{{cite journal |vauthors=Sarikurkcu C, Tepe B, Kocak MS, Uren MC |title=Metal concentration and antioxidant activity of edible mushrooms from Turkey |journal=Food Chemistry |year=2015 |volume=175 |pages=549–55 |doi=10.1016/j.foodchem.2014.12.019|pmid=25577119 }}</ref>
+
+<ref name="Schäffer 1774">{{cite book |author= Schäffer JC. |title=Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur Icones |year=1774 |volume=4 |location=Erlangen, Germany |publisher=J.J.&nbsp;Palmium |page=109 |url=https://www.biodiversitylibrary.org/page/3887190 |language=la}}</ref>
+
+<ref name="Secretan 1833">{{cite book |author=Secretan L. |title=Mycographie suisse, ou, Description des champignons qui croissent en Suisse, particulièrement dans le canton de Vaud, aux environs de Lausanne |trans-title=Swiss Mycographie, or description of fungi growing in Switzerland, particularly in the canton of Vaud, near Lausanne |editor=Bonnant PA. |location=Geneva, Switzerland |year=1833 |volume=2 |pages=471–73 |url=https://www.biodiversitylibrary.org/page/2992431 |language=fr}}</ref>
+
+<ref name="Sept 2006">{{cite book |author=Sept DJ. |title=Common Mushrooms of the Northwest: Alaska, Western Canada & the Northwestern United States |publisher=Calypso Publishing |location=Sechelt, Canada |year=2006 |page=72 |isbn=978-0-9739819-0-2}}</ref>
+
+<ref name="Sesli 1997">{{cite journal |author=Sesli E. |year=1997 |title=Two new records of cantharelloid fungi for Turkey |journal=Israel Journal of Plant Sciences |volume=45 |issue=1 |pages=71–74 |doi=10.1080/07929978.1997.10676672 |bibcode=1997IsJPS..45...71S }}</ref>
+
+<ref name="Siller 2005">{{cite journal |vauthors=Siller I, Vasas G, Pal-Fam F, Bratek Z, Zagya I, Fodor L |year=2005 |title=Hungarian distribution of the legally protected macrofungi species |journal=Studia Botanica Hungarica |volume=36 |pages=131–63}}</ref>
+
+<ref name="Siller 2006">{{cite journal |vauthors=Siller I, Dima B, Albert L, Vasas G, Fodor L, Pal-Fam F, Bratek Z, Zagya I |year=2006 |title=Védett nagygombafajok Magyarországon |trans-title=Protected macrofungi in Hungary |language=hu |journal=Mikológiai Közlemények |volume=45 |pages=3–158 |url=http://www.erdorezervatum.hu/node/318 |access-date=2018-04-27 |archive-url=https://web.archive.org/web/20180427184822/http://www.erdorezervatum.hu/node/318 |archive-date=2018-04-27 |url-status=dead }}</ref>
+
+<ref name="Smith 1947">{{cite journal |vauthors=Smith AH, Morse EE |year=1947 |title=The genus ''Cantharellus'' in the Western United States |journal=Mycologia |volume=39 |issue=5 |pages=497–534 [499, 508–10] |jstor=3755192 |doi=10.2307/3755192 |pmid=20264537}}</ref>
+
+<ref name="Smith 1980">{{cite book |vauthors=Smith AH, Smith-Weber N | title=The Mushroom Hunter's Field Guide |page=84 |year=1980 |publisher=University of Michigan Press |location=Ann Arbor, Michigan |isbn=978-0-472-85610-7 |url=https://books.google.com/books?id=TYI4f6fqrfkC&pg=RA1-PA84}}</ref>
+
+<ref name="Stearn 2004">{{cite book |author=Stearn WT. |title=Botanical Latin |publisher=Timber Press |location=Oregon |year=2004 |page=386 |isbn=978-0-88192-627-9 |url=https://books.google.com/books?id=w0hZvTFJUioC&pg=PA386}}</ref>
+
+<ref name="Trappe 1960">{{cite journal |author=Trappe JM. |year=1960 |title=Some probable mycorrhizal associations in the Pacific Northwest. II |journal=Northwest Science |volume=34 |issue=4 |pages=113–117 |language=ru |url=https://www.cabdirect.org/cabdirect/abstract/19600602862 |access-date=27 April 2018}}</ref>
+
+<ref name="Urbonas 1990">{{cite journal |vauthors=Urbonas VA, Matyalis AA, Gritsyus AI |year=1990 |title=Trends of variability of macromycetes, extinguishing species and principles of their protection in Lithuania |journal=Mycology and Phytopathology |volume=24 |pages=385–88}}</ref>
+
+<ref name="urlCalifornia Fungi: Gomphus clavatus">{{cite web |url=http://www.mykoweb.com/CAF/species/Gomphus_clavatus.html |title=California Fungi: ''Gomphus clavatus'' |vauthors=Wood M, Stevens F |website=MyKoWeb |access-date=18 December 2015}}</ref>
+
+<ref name="urlFungorum: Gomphus clavatus var. parvisporus">{{cite web |title=Record Details: ''Gomphus clavatus'' var. ''parvisporus'' Corner |url=http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=349520 |publisher=Index Fungorum. CAB International |access-date=15 December 2015}}</ref>
+
+<ref name="urlKuo: Gomphus">{{cite web |url=http://www.mushroomexpert.com/gomphus.html |title=The Genus ''Gomphus'' |website=MushroomExpert.Com |author=Kuo M. |date=February 2006 |access-date=18 December 2015 |url-status=live |archive-url=https://web.archive.org/web/20151121030622/http://www.mushroomexpert.com/gomphus.html |archive-date=21 November 2015}}</ref>
+
+<ref name="urlKuo: Gomphus clavatus">{{cite web |author=Kuo M. |url=http://www.mushroomexpert.com/gomphus_clavatus.html |title=''Gomphus clavatus'' |website=MushroomExpert.Com |date=February 2006 |access-date=15 September 2011 |url-status=live |archive-url=https://web.archive.org/web/20110818015529/http://www.mushroomexpert.com/gomphus_clavatus.html |archive-date=18 August 2011}}</ref>
+
+<ref name="urlMycoBank: Gomphus clavatus">{{cite web |title=''Gomphus clavatus'' (Pers.) Gray |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=356880 |publisher=[[MycoBank]]. International Mycological Association |access-date=17 December 2015}}</ref>
+
+<ref name="urlwww.mykoweb.com">{{cite web |url=http://www.mykoweb.com/CAF/PDF/Gomphus_clavatus.pdf |title=''Gomphus clavatus'' (Persoon:Fries) S.F. Gray |website=MyKoWeb |access-date=17 December 2015}}</ref>
+
+<ref name="Valdes-Ramirez 1972">{{cite journal |author=Valdés-Ramirez M. |s2cid=37975901 |year=1972 |title=Microflora of a coniferous forest of the Mexican basin |journal=Plant and Soil |volume=36 |issue=1–3 |pages=31–38 |doi=10.1007/BF01373453 |bibcode=1972PlSoi..36...31V }}</ref>
+
+}}
+
+{{Taxonbar|from=Q1478471}}
+
+[[Category:Gomphaceae]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1796]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi found in fairy rings]]
+[[Category:Fungi of Western Asia]]
+[[Category:Taxa named by Christiaan Hendrik Persoon]]
+[[Category:Fungus species]]

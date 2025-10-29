@@ -1,0 +1,105 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{Speciesbox
+| image =Amanita porphyria Alb. & Schwein 355243 2013-08-06 (cropped).jpg
+| image_caption =
+| status = G5
+| status_system = TNC
+| status_ref = <ref name=NS>{{cite NatureServe |id=2.943000 |title=''Amanita porphyria'' |access-date=17 April 2025}}</ref>
+| taxon = Amanita porphyria
+| authority = [[Johannes Baptista von Albertini|Alb.]] & [[Lewis David de Schweinitz|Schwein.]] : [[Elias Magnus Fries|Fr.]]
+| synonyms_ref =
+| synonyms = * Agaricus porphyreus (Alb. & Schwein.) Fr., Syst. mycol. (Lundae) 1: 14 (1821)
+* Agaricus recutitus Fr., Epicr. syst. mycol. (Uppsala): 6 (1838)
+* Amanita recutita (Fr.) Gillet, Hyménomycètes (Alençon): 42 (1874)
+}}
+{{Mycomorphbox
+| name = ''Amanita porphyria''
+| whichGills = free
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=ring and volva
+| ecologicalType=mycorrhizal
+| sporePrintColor=white
+| howEdible=inedible
+}}
+{{stack end}}
+
+'''''Amanita porphyria''''', also known as the '''grey veiled amanita''' or the '''porphyry amanita''',<ref name=NGSWG>{{NGSWG}}</ref> is a fairly common, inedible [[mushroom]] of the genus ''[[Amanita]]'' found in [[Europe]] and [[North America]].
+
+==Taxonomy==
+This fungus was described in 1805 under the current name, ''Amanita porphyria'', by [[Johannes Baptista von Albertini]] and [[Lewis David de Schweinitz]] in their work ''Conspectus Fungorum in Lusatiae superioris agro Niskiensi crescentium e methodo Persooniana'' ("An overview of fungi growing in the area of Niesky in [[Upper Lusatia]], according to the methodology of Persoon").<ref name="Hewitt" /> The name was then sanctioned by [[Elias Magnus Fries]], meaning that the name ''Amanita porphyria'' is given priority even if the normal nomenclatural rules would give precedence to another name{{Snd}}and indeed the Danish mycologist [[Heinrich Christian Friedrich Schumacher]] had already described the same species as ''Agaricus gracilis'' in 1803. The sanctioning can be shown in the author string by means of a colon as in the following: "''A.&nbsp;porphyria'' Alb. & Schwein. : Fr."<ref name="SF1" /><ref name="Hewitt" />
+
+The epithet ''porphyria'' comes from the Ancient Greek word porphúra (πορφύρα), meaning the [[Tyrian purple]] dye.  This colour may be seen in the cap of the mushroom (though it is not always evident).<ref name="liddell" />
+
+==Description==
+'' group. ''A.&nbsp;porphyria'' is in the bottom row, second from the left.]]
+
+The smooth cap is hemispherical when young and later flat, sometimes with grey patches of [[Universal veil|veil]].<ref name="Phillips" /><ref name="FN" /> It is about {{Convert|4–10|cm|abbr=off|frac=2}} in diameter,<ref name="Bon" /><ref name="Eyssartier" /><ref name="FN" /> and brown with either a purplish or a greyish hue.<ref name="Bon" /><ref name="Kuo" /><ref name="FN" /><ref name="Phillips" /><ref name="Laessoe2019" />
+As is normal in the genus, the [[Lamella (mycology)|gills]] are whitish and free from the stem and the spores are white. The gills darken when bruised.<ref>{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=87}}</ref>
+
+The stem is 5–12&nbsp;cm high and 0.6–1.5&nbsp;cm thick, with a basal bulb which may<ref name=Bon/><ref name=Eyssartier/><ref name=Kuo/> or may not<ref name="Laessoe2019"/> be surrounded by a white membranous [[Volva (mycology)|volva]].<ref name=FN/>  The fragile ring is grey-violet<ref name=Bon/><ref name=Eyssartier/> or blackened.<ref name=FN/><ref name=Phillips/>
+
+The flesh is white with a smell of raw potato<ref name=Bon/><ref name=FN/><ref name="Laessoe2019"/> or [[radish]].<ref name=Bon/><ref name=Eyssartier/>
+The [[amyloid]]<ref name=Eyssartier/> spores are almost spherical with a diameter of 8–10&nbsp;μm.<ref name=FN/><ref name="Laessoe2019"/>
+
+=== Similar species ===
+''A. porphyria'' is similar in overall shape and smell to the very common ''[[Amanita citrina|A.&nbsp;citrina]]'', but the cap colour is different and the ring has a grey/violet coloration.<ref name="Bon" /> It can also be confused with the panther cap (''[[Amanita pantherina|A.&nbsp;pantherina]]'')
+
+==Distribution and habitat==
+''A. porphyria'' usually grows on poor soil under [[conifer]]ous trees, especially [[spruce]],<ref name="Laessoe2019"/> but also [[fir]],<ref name=Eyssartier/> [[Tsuga|hemlock]],<ref name=Kuo/> and some [[deciduous]] ones such as [[birch]].<ref name=FN/> It is [[mycorrhiza]]l, living in symbiosis with the trees.<ref name=Kuo/>
+
+It occurs from summer to autumn and is commoner in mountains or further to the north.<ref name=Bon/><ref name=Eyssartier/> In Europe it is very common in [[Boreal ecosystem|boreal]] or [[hemiboreal]] forests but less so in [[temperate]] areas.<ref name=FN/> It is also found in northern North America from east to west. There was some uncertainty whether North American specimens should really be classified under a different name,<ref name=Kuo/> but there is now firm DNA evidence that all the variants actually belong to the same species.<ref name=Amanitaceae/> It has also been recorded in Australia.<ref name=Australia/>
+
+==Toxicity==
+''A. porphyria'' is not suitable for consumption. More importantly, it can easily be confused with much more poisonous species, such as ''[[Amanita phalloides|A.&nbsp;phalloides]]'' (the death cap).<ref name="Phillips" />
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Amanita species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name=Amanitaceae>{{cite web |url=http://www.amanitaceae.org/?Amanita+porphyria |title=''Amanita porphyria'' |website=www.amanitaceae.org |last1=Tulloss |first1=RE |last2=Possiel |first2=L. |date=2020 |access-date=2020-04-12 }}</ref>
+
+<ref name=Australia>{{cite web |url=https://bie.ala.org.au/species/NZOR-6-36990 |title=''Amanita porphyria'' Alb. & Schwein. |work=Atlas of Living Australia |publisher=Commonwealth Scientific and Industrial Research Organisation (CSIRO) |access-date=2020-04-13 }}</ref>
+
+<ref name=Bon>{{cite book |first=Marcel |last=Bon |author-link=Marcel Bon |title=The Mushrooms and Toadstools of Britain and North-Western Europe |publisher=Hodder & Stoughton |year=1987 |page=298 |isbn=0-340-39935-X }}</ref>
+
+<ref name=Eyssartier>{{cite book |author1=Eyssartier, G.  |author2=Roux, P. |title=Le guide des champignons France et Europe |language=French |publisher=Belin |year=2013 |page=296 |isbn=978-2-7011-8289-6 }}</ref>
+
+<ref name=FN>{{cite book |editor-first1=H. |editor-last1=Knudsen |editor-first2=J. |editor-last2=Vesterholt |title=Funga Nordica Agaricoid, boletoid, clavarioid, cyphelloid and gasteroid genera |publisher=Nordsvamp |location=Copenhagen |year=2018 |page=383 |isbn=978-87-983961-3-0 }}</ref>
+
+<ref name=Hewitt>{{cite journal |first1=David |last1=Hewitt |first2=Jason |last2=Karakenian |first3=Peter |last3=Amram |first4=Michaela |last4=Schmull |title=An Early Mycota: Johannes Baptista von Albertini and Lewis David von Schweinitz's Conspectus fungorum in Lusatiae superioris agro Niskiensi crescentium, with a Translation of the Latin Introduction into English |journal=Bartonia; Proceedings of the Philadelphia Botanical Club |date=January 2016 |volume=69 |pages=47–61 |url=https://www.researchgate.net/publication/320058936 |access-date=2020-04-13 }}</ref>
+
+<ref name=Kuo>{{cite web |url=http://www.mushroomexpert.com/amanita_porphyria.html |title=''Amanita porphyria'' |website=the MushroomExpert.Com Web site |last=Kuo |first=M. |date=May 2013 |access-date=2020-04-12 }}</ref>
+
+<ref name="Laessoe2019">{{cite book |first1=H. |last1=Læssøe |first2=Jens |last2=Petersen |title=Fungi of Temperate Europe |publisher=Princeton University Press  |year=2019 |page=362 |isbn=9780691180373 }}</ref>
+
+<ref name=liddell>{{cite web |url=https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3Dporfu%2Fra |title=πορφύρα |work=A Greek-English Lexico|first1=Henry George |last1=Liddell |first2=Robert |last2=Scott |publisher=Perseus Digital Library |access-date=2020-04-13 }}</ref>
+
+<ref name=Phillips>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=33}}</ref>
+
+<ref name=SF1>{{cite web |url=http://www.speciesfungorum.org/Names/GSDSpecies.asp?RecordID=171128 |title=''Amanita porphyria'' page |work=Species Fungorum |publisher=Royal Botanic Gardens Kew |access-date=2020-04-13 }}</ref>
+
+}}
+
+==Further reading==
+* E. Garnweidner. ''Mushrooms and Toadstools of Britain and Europe''. Collins. 1994.
+
+==External links==
+{{Commons category-inline|}}
+{{Amanitas}}
+{{Poisonous Amanitas}}
+* {{IndexFungorum|171128}}
+
+{{Taxonbar|from=Q259135}}
+
+[[Category:Amanita|porphyria]]
+[[Category:Poisonous fungi]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Europe]]
+[[Category:Taxa named by Lewis David de Schweinitz]]
+[[Category:Taxa named by Johannes Baptista von Albertini]]
+[[Category:Fungus species]]

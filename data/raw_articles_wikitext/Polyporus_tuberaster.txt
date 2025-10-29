@@ -1,0 +1,43 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = 2009-05-12 Polyporus tuberaster (Jacq.) Fr 43277.jpg
+| status = G5
+| status_system = TNC
+| status_ref = <ref name=NS>{{cite NatureServe |id=2.911946 |title=''Polyporus tuberaster'' |access-date=18 May 2025}}</ref>
+| genus = Polyporus
+| species = tuberaster
+| authority = 	(Jacquin ex Persoon) Fries 1821
+| synonyms =
+}}
+
+'''''Polyporus tuberaster''''', commonly known as the '''tuberous polypore'''<ref>{{Cite web |title=Polyporus tuberaster, Tuberous Polypore fungus |url=https://first-nature.com/fungi/polyporus-tuberaster.php |access-date=2024-02-16 |website=first-nature.com}}</ref><ref>{{Cite web |last=says |first=Claus S. |title=Tuberous Polypore |url=https://www.wildfooduk.com/mushroom-guide/tuberous-polypore/ |access-date=2024-02-16 |website=Wild Food UK |language=en-GB}}</ref> or '''stone fungus''''',''<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/563/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=563–64 |orig-date=1979}}</ref> is a species of [[fungus]] in the genus ''[[Polyporus]]''.<ref>{{cite web|url=http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=22500&Fields=All|title= Polyporus tuberaster in Mycobank}}</ref> It is easily identified by the fact that it grows from a large [[sclerotium]] that can resemble buried wood or a potato.<ref name="Arora1986" />
+
+The yellow-brown [[Pileus (mycology)|cap]] is {{Convert|4–15|cm|frac=4}} wide<ref name="Arora1986" /> and ranges from convex to flat and even funnel-shaped.<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=337–338|oclc=797915861}}</ref> The whitish [[Stipe (mycology)|stalks]] can grow upwards of 10 cm high and 2–4 cm wide.<ref name=":0" /> The [[Basidiospore|spores]] and [[spore print]] are white.<ref name="Arora1986" /><ref name=":0" />
+
+The species is [[Edible mushroom|edible]] but also tough<ref name=":0" /> unless young and well cooked.<ref name="Arora1986" />
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Mycomorphbox
+| name = ''{{PAGENAME}}''{{italic title}}
+| capShape = depressed
+| capShape2 = umbilicate
+| stipeCharacter = bare
+| sporePrintColor = white
+| ecologicalType = saprotrophic
+| howEdible = edible
+| hymeniumType = pores
+}}
+* {{Commons category-inline|Polyporus tuberaster|''Polyporus tuberaster''}}
+* {{Wikispecies-inline|Polyporus tuberaster|''Polyporus tuberaster''}}
+{{Taxonbar|from=Q829621}}
+
+[[Category:Polyporus|tuberaster]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1821]]
+[[Category:Fungus species]]
+
+
+{{Polyporales-stub}}

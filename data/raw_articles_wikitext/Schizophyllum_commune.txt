@@ -1,0 +1,114 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Schizophyllum commune (Split gill) (33389628036).jpg
+| taxon = Schizophyllum commune
+| authority = [[Elias Magnus Fries|Fr.]] (1815)
+| synonyms =
+* ''Agaricus alneus'' <small>[[Carl Linnaeus|L.]] (1755)</small>
+* ''Agaricus alneus'' <small>Reichard (1780)</small>
+* ''Agaricus multifidus'' <small>[[August Batsch|Batsch]] (1786)</small>
+* ''Apus alneus'' <small>(L.) [[Samuel Frederick Gray|Gray]] (1821)</small>
+* ''Merulius alneus'' <small>(L.) [[J.F.Gmel.]] (1792)</small>
+* ''Merulius alneus'' <small>(Reichard) Schumach. (1803)</small>
+* ''Merulius communis'' <small>(Fr.) Spirin & Zmitr. (2004)</small>
+* ''Schizophyllum alneum'' <small>[[J.Schröt.]] (1889)</small>
+* ''Schizophyllum alneum'' <small>(Reichard) [[Otto Kuntze|Kuntze]] (1898)</small>
+* ''Schizophyllum commune'' var. ''multifidum'' <small>(Batsch) Cooke (1892)</small>
+* ''Schizophyllum multifidum'' <small>(Batsch) Fr. (1875) </small>
+}}
+{{Mycomorphbox
+| name = ''{{PAGENAME}}''{{italic title}}
+| hymeniumType = gills
+| capShape = no
+| whichGills = no
+| stipeCharacter = NA
+| sporePrintColor = white
+| stipeCharacter2 = bare
+| ecologicalType = saprotrophic
+| ecologicalType2 = parasitic
+| howEdible = edible
+}}
+'''''Schizophyllum commune''''' is a species of [[fungus]] in the genus ''[[Schizophyllum]]''. The mushroom resembles undulating waves of tightly packed corals or a loose Chinese fan. '''Gillies''' or '''split-gills''' vary from creamy yellow to pale white in colour. The [[pileus (mycology)|cap]] is {{convert|1–4|cm|in|frac=8}} wide with a dense yet spongey body texture.
+
+It is found on rotting wood throughout the world. This fungus is an [[opportunistic]] environmental [[pathogen]].
+
+== Etymology ==
+''[[Schizophyllum]]'' is derived from [the [[Greek language|Greek]]] ''Schíza'' meaning split because of the appearance of radial, centrally split, gill like folds; ''commune'' means common or shared ownership or ubiquitous.<ref>{{cite journal |last1=Mahajan |first1=Monika |date=March 2022 |title=Etymologia: Schizophyllum commune |journal=Emerg. Infect. Dis. |volume=28 |issue=3 |pages=725 |doi=10.3201/eid2803.211051 |pmc=8888233 |s2cid=247097577 |quote=Citing public domain text from the CDC. |doi-access=free}}</ref>
+
+== Description ==
+''Schizophyllum commune'' is usually described as a morphological species of global distribution, but some research has suggested that it may be a [[species complex]] encompassing several [[cryptic species]] of more narrow distribution, as typical of many mushroom-forming [[Basidiomycota]].<ref>{{cite journal|last1=Taylor|first1=John|last2=Turner|first2=Elizabeth|last3=Townsend|first3=Jeffrey|last4=Dettman|first4=Jeremy|last5=Jacobson|first5=David|title=Eukaryotic microbes, species recognition and the geographic limits of species: examples from the kingdom Fungi|journal=Phil. Trans. R. Soc. B|date=2006|volume=361|issue=1475|pages=1947–1963|doi=10.1098/rstb.2006.1923|pmc=1764934|pmid=17062413}}</ref>
+
+The caps are {{convert|1–4|cm|in|frac=8}} wide with white or grayish hairs. They grow in shelf-like arrangements, without stalks.<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=131–132|oclc=797915861}}</ref> The [[Lamella (mycology)|gills]], which produce [[basidiospore]]s on their surface, split when the mushroom dries out, earning this mushroom the common name '''split gill'''.{{Citation needed|date=March 2025}} The mushrooms can remain dry for decades and then be revived with moisture.<ref name=":0" /> The [[spore print]] is white.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=423}}</ref>
+
+=== Mating ===
+It has a [[Mating in fungi|tetrapolar]] mating system with each cell containing two [[mating-type loci]] (called A and B) that govern different aspects of the mating process, leading to 4 possible [[phenotype]]s after cell fusion. Each locus codes for a mating type sublocus ''(α'' or ''β'') and each type is multi-allelic: the A locus has 9 [[Allele|alleles]] for the ''α'' type and an estimated 32 for its ''β'' type, and the B locus has 9 alleles each for both its ''α'' and ''β'' types. When combined this gives an estimated <math>9 \times 32 \times 9 \times 9 = 23328</math> potential mating type specificities.<ref>{{cite journal |last=Kothe |first=Erika |date=1996 |title=Tetrapolar fungal mating types: Sexes by the thousands |journal=FEMS Microbiology Reviews |volume=18 |issue=1 |pages=65–87 |doi=10.1016/0168-6445(96)00003-4 |pmid=8672296 |doi-access=free}}</ref> This does not mean all different mating types are compatible with one another, because compatibility between haploid individuals exists only when for both the A and the B mating-type locus at least the ''α'' or ''β'' are different. Strains are thus compatible with <math>\left(1 - \frac {1}{ 9 \times 32} \right) \times \left( 1 - \frac {1}{ 9 \times 9} \right) \approx 0.984 = 98.4 \%</math> of the population.<ref>{{cite journal |last=Kothe |first=Erika |date=1996 |title=Tetrapolar fungal mating types: Sexes by the thousands |journal=FEMS Microbiology Reviews |volume=18 |issue=1 |pages=65–87 |doi=10.1016/0168-6445(96)00003-4 |pmid=8672296 |doi-access=free}}</ref>
+
+While all mating types can initially fuse with any other mating type, a fertile [[fruit body]] and subsequent spores will result only if both the A and B loci of the merging cells are compatible. If neither the A nor B are compatible the result is normal [[Monokaryon|monokarytic]] [[mycelium]], and if only one of A or B are compatible, the result is either two mycelia growing in opposite directions (only A compatible) or a "flat" phenotype with no mycelia (only B compatible).<ref name="Kothe 1999">{{cite journal |last1=Vuilleumier|first1=Séverine |year=2013 |title=Transitions from Reproductive Systems Governed by Two Self-Incompatible Loci to One in Fungi |journal=Evolution |volume=67 |issue=2 |pages=501–516 |doi=10.1111/j.1558-5646.2012.01783.x |pmid=23356621}}</ref>
+
+=== Genetics ===
+The [[genome]] of ''Schizophyllum commune'' was sequenced in 2010.<ref>{{citation |date=Jul 2010 | pages = 957–63 | issue = 9 | volume = 28 | author =Robin A Ohm | last2 = De Jong | first2 = JF | last3 = Lugones | first3 = LG | last4 = Aerts | first4 = A | last5 = Kothe | first5 = E | last6 = Stajich | first6 = JE | last7 = De Vries | first7 = RP | last8 = Record | first8 = E | last9 = Levasseur | first9 = A
+ | last10 = Baker | first10 = Scott E | last11 = Bartholomew | first11 = Kirk A | last12 = Coutinho | first12 = Pedro M | last13 = Erdmann | first13 = Susann | last14 = Fowler | first14 = Thomas J | last15 = Gathman | first15 = Allen C | last16 = Lombard | first16 = Vincent | last17 = Henrissat | first17 = Bernard | last18 = Knabe | first18 = Nicole | last19 = Kües | first19 = Ursula | last20 = Lilly | first20 = Walt W | last21 = Lindquist | first21 = Erika | last22 = Lucas | first22 = Susan | last23 = Magnuson | first23 = Jon K | last24 = Piumi | first24 = François | last25 = Raudaskoski | first25 = Marjatta | last26 = Salamov | first26 = Asaf | last27 = Schmutz | first27 = Jeremy | last28 = Schwarze | first28 = Francis W M R | last29 = Vankuyk | first29 = Patricia A | last30 = Horton | first30 = J Stephen | title = Genome sequence of the model mushroom Schizophyllum commune | journal = Nature Biotechnology | doi = 10.1038/nbt.1643 | pmid = 20622885| display-authors = 8 | doi-access = free }}</ref>
+
+== Habitat and distribution ==
+It is common in rotting wood.<ref>{{citation |author1=Guarro, J |title=Developments in Fungal Taxonomy |date=Jul 1999 |journal=Clinical Microbiology Reviews |volume=12 |issue=3 |pages=454–500 |doi=10.1128/CMR.12.3.454 |issn=0893-8512 |pmc=100249 |pmid=10398676 |author2=Genéj |author3=Stchigel, Am}}</ref> It can be found throughout the world,<ref>{{cite web |last1=Kuo |first1=M. |date=2003 |title=''Schizophyllum commune'' |url=https://www.mushroomexpert.com/schizophyllum_commune.html |access-date=18 February 2020 |website=Mushroom Expert}}</ref> year-round in places such as North America.<ref name="audu" />
+
+== Constituents ==
+[[Hydrophobin]] was first isolated from ''S.''&nbsp;''commune''.<ref>{{Cite journal |last1=Wessels |first1=Jgh. |last2=De Vries |first2=Omh. |last3=Asgeirsdottir |first3=S. A. |last4=Schuren |first4=Fhj. |date=1991-08-01 |title=Hydrophobin Genes Involved in Formation of Aerial Hyphae and Fruit Bodies in Schizophyllum. |journal=The Plant Cell |language=en |volume=3 |issue=8 |pages=793–799 |doi=10.1105/tpc.3.8.793 |issn=1040-4651 |pmc=160046 |pmid=12324614}}</ref> Some sources indicate that this mushroom contains [[antitumor]] and [[antiviral]] components.<ref name=":0" />
+
+== As an environmental pathogen ==
+It may be a common cause of fungal infections and related diseases, most commonly that of the lungs.<ref>{{cite journal |last1=Chowdhary |first1=A |last2=Kathuria |first2=S |last3=Agarwal |first3=K |last4=Meis |first4=JF |date=Nov 2014 |title=Recognizing filamentous basidiomycetes as agents of human disease: A review |journal=Med Mycol |volume=52 |issue=8 |pages=782–97 |doi=10.1093/mmy/myu047 |pmid=25202126 |doi-access=free}}</ref> They have also been reported to cause [[sinusitis]] and allergic reactions.<ref name=":0" />
+
+== As food ==
+This mushroom is reportedly edible when young.<ref name="Li et al 2015" />{{Additional citation needed|date=June 2025}} The species was regarded as nonpoisonous by [[Orson K. Miller Jr.]] and Hope H. Miller, who like [[David Arora]] regard it as inedible due to its smallness and toughness.<ref name="Miller 2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=139|author-link=Orson K. Miller Jr.}}</ref><ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/590/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=590–91 |orig-date=1979}}</ref> It is chewed by some natives of [[Madagascar]].<ref name="Arora1986" />
+
+===In North America===
+It is consumed in Mexico ([[Oaxaca]], [[Quintana Roo]] and [[Tabasco]], which are tropical). The preference for tough, rubbery mushrooms in the tropics was explained as a consequence of the fact that tender, fleshy mushrooms quickly rot in the hot humid conditions there, making their marketing problematic.<ref name="Ruan-Soto">{{cite journal|last1=Ruán-Soto|first1=F.|last2=Garibay-Orijel|first2=R.|last3=Cifuentes|first3=J.|journal=Journal of Ethnobiology and Ethnomedicine|date=2006|volume=2|issue=1|page=3|doi=10.1186/1746-4269-2-3|title=Process and dynamics of traditional selling of wild edible mushrooms in tropical Mexico|pmc=1360659|pmid=16393345 |doi-access=free }}</ref>
+
+===In Central America===
+This mushroom is sold in markets in Guatemala.<ref name="Ruan-Soto" />
+
+===In East Asia===
+Known locally in Chinese as ''baishen'' (白参), this mushroom is enjoyed as food in [[Yunnan]], [[China]].<ref name="Zhao et al 2004" />
+
+===In South Asia===
+In [[Northeast India]], in the state [[Manipur]], it is known as ''kanglayen'' and one of the favourite ingredients for [[Manipuri cuisine|Manipuri]]-style pancakes called ''paaknam''. In [[Mizoram]], the local name is ''pasi'' (''pa'' means ''mushroom'', ''si'' means ''tiny'') and it is one of the highest rated edible mushrooms among the Mizo community. {{cn|date=February 2023}}
+
+==Gallery==
+<gallery>
+File:Schizophyllum commune SMCA 02.jpg|''Schizophyllum commune'' in the [[Santa Cruz Mountains]] of California
+File:Schizophyllum commune, Fuzzy Fungi.jpg|''Schizophyllum commune'' [[Elk Grove, Illinois]]
+File:Schizophyllum commune - Nature does pleats.jpg|''Schizophyllum commune'' in [[Missouri]], US
+File:Split-gill bottom shot.jpg|''Schizophyllum commune'' [[Grand Rapids, Michigan]]
+Lõhkislehik.jpg|''Schizophyllum commune'' in [[Estonia]]
+</gallery>
+
+==References==
+{{Reflist|refs=
+<ref name="Li et al 2015">{{cite book|editor-last1=Li|editor-first1=Yu|editor-last2=Li|editor-first2=Taihui|editor-last3=Yang|editor-first3=Zhuliang|editor-last4=Bau|editor-first4=Tolgor|editor-last5=Dai|editor-first5=Yucheng|year=2015|title=中国大型菌物资源图鉴|publisher=中原农民出版社|page=1033|isbn=9787554212561}}</ref>
+
+<ref name="Zhao et al 2004">{{cite journal|year=2004|vauthors=Zhao Q, Yuan LC, Li RC|title=裂褶菌研究进展|journal=食用菌学报|volume=11|issue=1|pages=59–63}}</ref>
+}}
+
+==External links==
+* {{Commons-inline|italic=on}}
+* {{Wikispecies-inline}}
+* [http://www.mykoweb.com/CAF/species/Schizophyllum_commune.html "Schizophyllum commune"], MykoWeb
+* [http://botit.botany.wisc.edu/toms_fungi/feb2000.html "Tom Volk's Fungus of the Month for February 2000]
+
+{{Taxonbar|from=Q941733}}
+
+[[Category:Schizophyllaceae]]
+[[Category:Animal fungal diseases]]
+[[Category:Fungal plant pathogens and diseases]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of South America]]
+[[Category:Fungi of Central America]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Africa]]
+[[Category:Fungi of Australia]]
+[[Category:Fungi described in 1815]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]
+[[Category:Fungal pathogens of humans]]
+[[Category:Rare infectious diseases]]

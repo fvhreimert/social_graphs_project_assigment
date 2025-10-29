@@ -1,0 +1,133 @@
+{{Short description|Species of fungus}}
+{{speciesbox
+ | image               = Polyporus_squamosus_Molter.jpg
+ | taxon               = Cerioporus squamosus
+ | authority           = ([[William Hudson (botanist)|Huds.]]) [[Lucien Quélet|Quélet]] (1886)
+ | synonyms            = ''Polyporus squamosus''
+{{hidden top|title=Species synonymy<ref name="urlFungorum synonymy"/>}}
+*''Agarico-pulpa ulmi'' <small>Paulet</small>
+*''Boletus cellulosus'' <small>Lightf.</small>
+*''Boletus juglandis'' <small>Schaeff.</small>
+*''Boletus maximus'' <small>Schumach.</small>
+*''Boletus michelii'' <small>(Fr.) Pollini</small>
+*''Boletus polymorphus'' <small>Bull.</small>
+*''Boletus rangiferinus'' <small>Bolton</small>
+*''Boletus squamosus'' <small>Huds.</small>
+*''Bresadolia caucasica'' <small>Shestunov</small>
+*''Bresadolia paradoxa'' <small>Speg.</small>
+*''Bresadolia squamosa'' <small>(Huds.) Teixeira</small>
+*''Cerioporus michelii'' <small>(Fr.) [[Lucien Quélet|Quél.]]</small>
+*''Cerioporus rostkowii'' <small>(Fr.) Quél.</small>
+*''Favolus squamosus'' <small>(Huds.) Ames</small>
+*''Melanopus squamosus'' <small>(Huds.) Pat.</small>
+*''Polyporellus rostkowii'' <small>(Fr.) P. Karst.</small>
+*''Polyporellus squamatus'' <small>([[Curtis Gates Lloyd|Lloyd]]) [[Albert Pilát|Pilát]]</small>
+*''Polyporellus squamosus'' <small>(Huds.) [[Petter Karsten|P. Karst.]]</small>
+*''Polyporellus squamosus'' f. ''rostkowii'' <small>(Fr.) Pilát</small>
+*''Polyporus alpinus'' <small>Saut.</small>
+*''Polyporus caudicinus'' <small>[[William Alphonso Murrill|Murrill]]</small>
+*''Polyporus dissectus'' <small>Letell.</small>
+*''Polyporus flabelliformis'' <small>Pers.</small>
+*''Polyporus flabelliformis'' <small>Pers.</small>
+*''Polyporus infundibuliformis'' <small>Rostk.</small>
+*''Polyporus juglandis'' <small>(Schaeff.) Pers.</small>
+*''Polyporus michelii'' <small>Fr.</small>
+*''Polyporus pallidus'' <small>Schulzer</small>
+*''Polyporus retirugis'' <small>(Bres.) Ryvarden</small>
+*''Polyporus rostkowii'' <small>Fr.</small>
+*''Polyporus squamosus'' <small>(Huds.) Quél.</small>
+*''Polyporus squamatus'' <small>Lloyd</small>
+*''Polyporus squamosus'' f. ''michelii'' <small>(Fr.) Bondartsev</small>
+*''Polyporus squamosus'' f. ''rostkowii'' <small>(Fr.) Bondartsev</small>
+*''Polyporus squamosus'' var. ''maculatus'' <small>Velen.</small>
+*''Polyporus squamosus'' var. ''polymorphus'' <small>(Bull.) P.W. Graff</small>
+*''Polyporus ulmi'' <small>Paulet</small>
+*''Polyporus westii'' <small>Murrill</small>
+*''Trametes retirugis'' <small>Bres.</small>
+{{hidden bottom}}
+}}
+{{mycomorphbox
+| name = ''Cerioporus squamosus''
+| whichGills = decurrent
+| capShape = depressed
+| capShape2=offset
+| hymeniumType=pores
+| stipeCharacter=bare
+| ecologicalType=saprotrophic
+| ecologicalType2=parasitic
+| sporePrintColor=white
+| howEdible=edible
+| howEdible2=inedible
+}}
+'''''Cerioporus squamosus''''', [[Synonym (taxonomy)|synonym]] ''Polyporus squamosus'', is a [[basidiomycete]] [[bracket fungus]], with [[common name]]s including '''dryad's saddle''' and '''pheasant's back mushroom'''.<ref name="Spahr2009"/> It has a [[Cosmopolitan distribution|widespread distribution]], being found in Australia, Eurasia, and North America, and it causes a [[white rot]] in the [[heartwood]] of living and dead [[hardwood]] trees.
+
+==Taxonomy==
+The species was first described scientifically by British botanist [[William Hudson (botanist)|William Hudson]] in 1778, who named it ''Boletus squamosus''.<ref name=Hudson1778/> It was given its current name in 1886 by [[Lucien Quélet]] but is still widely known by the [[Elias Magnus Fries]] name ''Polyporus squamosus''.<ref name="Zmitrovich2016" />
+
+=== Etymology ===
+''Squamosus'' comes from the Latin ''squamosus'' meaning covered with scales or scaly,<ref name="Barnhart1988" /> referring to the signature dark brown scales found on the mushroom's cap.
+
+The name "dryad's saddle" refers to creatures in [[Greek mythology]] called [[dryad]]s who could conceivably sit and rest on this mushroom, whereas the ''pheasant's back'' analogy derives from the pattern of colors on the bracket matching that of a [[common pheasant|pheasant]]'s back.
+
+==Description==
+Dryad's saddle is an [[annual plant|annual]]<ref name=Kuo2015 /> mushroom commonly found attached to dead logs and stumps or on living hardwood trees at one point with a thick stem. Generally, the [[basidiocarp|fruit body]] is round and between {{convert|8|–|30|cm|in|frac=2|abbr=off}} across<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=265}}</ref> – exceptionally {{Convert|60|cm|abbr=on}}<ref name="tfb">{{Cite book |last=Francis-Baker |first=Tiffany |title=Concise Foraging Guide |date=2021 |publisher=[[Bloomsbury Publishing|Bloomsbury]] |isbn=978-1-4729-8474-6 |series=[[The Wildlife Trusts]] |location=London |pages=123}}</ref> – and up to {{convert|10|cm|in|frac=2|abbr=on}} thick. The body can be yellow to brown and has "squamules" or scales on its upper side. On the underside one can see the pores that are characteristic of the genus ''[[Cerioporus]]''; they are made up of tubes packed together closely. The tubes are between {{convert|1|and|12|mm|frac=16|abbr=on}} long. The [[stipe (mycology)|stalk]] is {{convert|3-12|cm|in|frac=2|abbr=on}} long and {{Convert|1.5-3.5|cm|abbr=on|frac=2}} thick.<ref name="audu" /><ref name=Spahr2009/> The mushroom's smell resembles that of [[watermelon]] rind.<ref name="Spahr2009" />
+
+The fruit body produces a white [[spore print]].<ref name="audu" /> The spores are 11–15 x 4–5&nbsp;[[μm]] and are long and smooth ellipsoids. They can be found alone, in clusters of two or three, or forming shelves. Young specimens are soft but toughen with age. It is particularly common on dead elm and is also found on living maple trees. The fruit bodies, or "shelves" can grow rapidly. One studied by pioneer botanist Sir [[William J. Hooker]] at Dalbeth, Scotland in 1810 grew to a circumference of {{cvt|2.3|m}} and a weight of {{cvt|15.5|kg}} in four weeks.<ref>{{cite book | last= Hooker | first= Sir William J. | date= 1821 | title= Flora Scotica- Volume 2 | location= London | publisher= Archibald Constable | page= 27 }}</ref>
+
+=== Similar species ===
+In ''[[Polyporus tuberaster]]'', the cap is rounder and the stipe more central, with the scales only dark at the tip.<ref name="audu" />
+
+==Distribution and habitat==
+This organism is common and widespread, being found east of the [[Rocky Mountains]] in the United States (April–October)<ref name="audu" /> and over much of Europe (July–November).<ref name="tfb" /> It is also found in Asia and Australia. It commonly fruits in the spring, occasionally during autumn, and rarely during other seasons. Many mushroom hunters will stumble upon substantially sized mushroom this when looking for [[morel]]s during the spring as both have similar fruiting times.<ref name=Lonsdale1995/>
+
+The species plays an important role in woodland [[ecosystem]]s by decomposing wood, usually [[elm]] or [[maple]],<ref name="Kuo2015" /> but is occasionally a [[parasitism|parasite]] on living trees. Other tree hosts include [[Fraxinus|ash]], [[beech]], [[Aesculus|horse-chestnut]], [[Juglans regia|Persian walnut]], [[Tilia|lime]], [[maple]], [[Platanus|plane]], [[Populus|poplar]], [[magnolia]], and [[willow]].<ref name="Schmidt2006" />
+
+==Uses==
+The species is edible when young<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=298}}</ref> and cooked.<ref name="tfb" /> Specimens can become infested with maggots and become firm, rubbery and inedible as they mature. Cookbooks dealing with preparation generally recommend gathering these while young, slicing them into small pieces and cooking them over a low heat.
+
+Some people value the thick, stiff [[paper]] that can be made from this and many other mushrooms of the genus ''[[Cerioporus]]''.
+
+==Gallery==
+<gallery class="center" widths="160" heights="160" caption="''Polyporus squamosus''">
+File:Polyporus squamosus 01.jpg|Forming "shelves" on the side of a tree
+File:Polyporus squamosus 25052006.jpg|Growing on ground
+File:Żagiew łuskowata Polyporus squamosus.jpg|Shelf growing on tree
+File:Żagiew łuskowata - kapelusz Polyporus squamosus.JPG|Bird's eye view of shelf
+File:Dryad's Saddle - pores.jpg|Growing on an elder (''[[Sambucus nigra]]'') in [[Spier's School|Scotland]]
+File:POLYPORUS SQUAMOSUS (Huds. Fr.) Fr. (5857748241).jpg|Pores
+File:Polyporus squamosus secretion.jpg|Secretion
+File:Polyporus squamosus seepage.jpg|Close-up of secretion
+</gallery>
+
+==References==
+{{Reflist|refs=
+
+<ref name=Hudson1778>{{cite book |title=Flora Anglica |edition=2 |author= Hudson W. |year=1778 |page=626}}</ref>
+
+<ref name=Lonsdale1995>{{cite book |author=Lonsdale D, Butin H. |title=Tree Diseases and Disorders: Causes, Biology, and Control in Forest and Amenity Trees |publisher=Oxford University Press |location=Oxford [Oxfordshire] |year=1995 |pages=170–71|isbn=0-19-854932-6 |url=https://books.google.com/books?id=p7tVCv2EiTgC&q=Polyporus%20squamosus&pg=PA170 |access-date=2010-05-28}}</ref>
+
+<ref name=Barnhart1988>{{cite book |author= Barnhart, Robert K. |title=The Barnhart Dictionary of Etymology: The Core Vocabulary of Standard English |publisher=H. W. Wilson Company |year=1988 |page=1054|isbn=0-8242-0745-9 |url=https://books.google.com/books?id=mFAYAAAAIAAJ |access-date=2021-06-15}}</ref>
+
+<ref name=Schmidt2006>{{cite book |author=Schmidt O.|title=Wood and Tree Fungi: Biology, Damage, Protection, and Use |publisher=Springer |location=Berlin |year=2006 |page=199 |isbn=3-540-32138-1 |url=https://books.google.com/books?id=lMXYJaWbO2YC&q=Polyporus%20squamosus&pg=PA199 |access-date=2010-05-28}}</ref>
+
+<ref name=Spahr2009>{{cite book |author=Spahr DL. |title=Edible and Medicinal Mushrooms of New England and Eastern Canada |publisher=North Atlantic Books |location=Richmond, Calif |year=2009 |pages=131–35 |isbn=978-1-55643-795-3 |url=https://books.google.com/books?id=nFZ-lwRXuNYC&q=Polyporus%20squamosus&pg=PA131 |access-date=2010-05-28}}</ref>
+
+<ref name="urlFungorum synonymy">{{cite web |url=http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=163056 |title=Species synonymy for ''Cerioporus squamosus'' (Huds.) Fr. |publisher=CAB International |work=Species Fungorum |access-date=2019-09-27}}</ref>
+
+<ref name="Zmitrovich2016">{{cite journal|last1=Zmitrovich|first1=Ivan V.|title=Lentinoid and Polyporoid Fungi, Two Generic Conglomerates Containing Important Medicinal Mushrooms in Molecular Perspective|journal=International Journal of Medicinal Mushrooms|date=2016|volume=18|issue=1|pages=23–38|url=https://www.researchgate.net/publication/297731892|access-date=25 May 2016|doi=10.1615/intjmedmushrooms.v18.i1.40|pmid=27279442}}</ref>
+
+<ref name=Kuo2015>{{cite web |url=http://www.mushroomexpert.com/polyporus_squamosus.html |author=Kuo, Michael |title=''Polyporus squamosus'' |access-date=2021-06-15}}</ref>
+}}
+
+==External links==
+* [https://web.archive.org/web/20090107031452/http://mushroom-collecting.com/mushroomdryad.html Mushroom-Collecting.com: Polyporus squamosus – Dryad's Saddle]
+* [http://mushroom-collecting.com/mushroomdryad.html Mushroom-Collecting.com: Dryad's Saddle, Pheasant Back Mushroom, Hawks Wing (Polyporus squamosus)]
+
+{{Taxonbar|from1=Q96934111|from2=Q832812}}
+
+[[Category:Cerioporus|squamosus]]
+[[Category:Edible fungi]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by William Hudson (botanist)]]
+[[Category:Fungus species]]

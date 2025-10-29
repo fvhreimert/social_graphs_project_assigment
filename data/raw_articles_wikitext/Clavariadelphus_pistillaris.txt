@@ -1,0 +1,57 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Clavariadelphus-pistillaris.jpg
+| image_alt =
+| image_caption =
+| genus = Clavariadelphus
+| species = pistillaris
+| authority = ([[Carl Linnaeus|L.]]) [[Marinus Anton Donk|Donk]] (1933)
+| synonyms = ''Clavaria pistillaris'' <small>L.</small>
+}}
+{{Mycomorphbox
+| name = ''{{PAGENAME}}''
+| hymeniumType = smooth
+| capShape = no
+| whichGills = NA
+| stipeCharacter = bare
+| sporePrintColor = white
+| ecologicalType = mycorrhizal
+| howEdible = edible
+| howEdible2 = unpalatable
+}}
+
+'''''Clavariadelphus pistillaris''''', commonly known as the '''common club coral''',<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/632/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, California |pages=632–33 |orig-date=1979}}</ref> is a rare species of [[mushroom]] of the family [[Gomphaceae]] native to Europe and North America.
+
+== Taxonomy ==
+The western North American variety is known as ''C.&nbsp;occidentalis''.<ref>{{cite book |last1=Trudell |first1=Steve |url=https://books.google.com/books?id=WevHvt6Tr8kC |title=Mushrooms of the Pacific Northwest |last2=Ammirati |first2=Joe |publisher=Timber Press |year=2009 |isbn=978-0-88192-935-5 |series=Timber Press Field Guides |location=Portland, OR |pages=239 |language=en}}</ref>
+
+== Description ==
+The mat and wrinkled [[fruiting body]] has the shape of a club with a rounded top. Its length varies between {{Convert|6 and 30|cm|frac=2}} and its width between {{Convert|0.8 and 6|cm|abbr=on|frac=4}}.<ref name="Arora1986" /> The skin is red brown to ocher red, sometimes cinnamon brown with a lilac tint, turning brown when damaged. The spongy flesh is white. The [[spore print]] is pale yellow.<ref>{{Cite web |last=Stevens |first=Michael Wood & Fred |title=California Fungi: Clavariadelphus occidentalis |url=https://www.mykoweb.com/CAF/species/Clavariadelphus_occidentalis.html |access-date=2024-10-06 |website=www.mykoweb.com}}</ref> It has a weak, but pleasant scent.<ref name=":0" />
+
+=== Similar species ===
+Through its appearance it could be mistaken for ''[[Clavariadelphus truncatus|C.&nbsp;truncatus]]'', a species found in [[conifer]]ous montane forests. ''[[Clavariadelphus subfastigiatus|C.&nbsp;subfastigiatus]]'' is also similar.<ref name="Arora1986" />
+
+== Habitat and distribution ==
+Native to Europe and North America,<ref>{{Cite web |title=Clavariadelphus pistillaris, Giant Club fungus, identification |url=https://www.first-nature.com/fungi/clavariadelphus-pistillaris.php |access-date=2024-10-06 |website=www.first-nature.com}}</ref> the rare species grows during summer and autumn, almost exclusively in [[beech]] forest on [[calcareous]] soil on litter and woodchips.<ref name=":0">{{Cite web |title=Common club coral fungus (Clavariadelphus pistillaris) |url=https://www.picturethisai.com/wiki/Clavariadelphus_pistillaris.html |access-date=2024-10-06 |website=PictureThis |language=en}}</ref>
+
+== Uses ==
+The species is recorded as being [[Edible mushroom|edible]].<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=345}}</ref> There have been reports of the mushroom being a "[[nutraceutical]] and/or functional food"<ref>Pereira, Eliana; Barros, Lillian; Martins, Anabela; Ferreira, Isabel C.F.R (Jan 15, 2012). “Towards chemical and nutritional inventory of Portuguese wild edible mushrooms in different habitats”''. Food Chemistry''. '''130'''(2): 394-403. doi:10.1016/j.foodchem.2011.07.057. </ref> due to its high [[antioxidant]] activity and containing [[essential fatty acid]]s.<ref>Dimitrijevic, Marija V.; Mitic, Violeta D.; Nikolic, Jelena S.; Djordjevic, Aleksandra S.; Mutic, Jelena J.; Jovanovic, Vesna P. Stankov; Stojanovic, Gordana S. (Nov 20, 2018). "First Report about Mineral Content, Fatty Acids Composition and Biological Activities of Four Wild Edible Mushrooms". ''Chemistry & Biodiversity.'' '''16'''(2): e1800492. doi:10.1002/cbdv.201800492.</ref>
+
+According to one field guide, the ''americana'' variety of the species usually does not have enough flesh to make it worthwhile to eat.<ref name="Miller 2006">{{cite book|last=Miller Jr.|first=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=343|author-link=Orson K. Miller Jr.}}</ref>
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* {{cite book |first1=Till R. |last1=Lohmeyer |first2=Ute |last2=Künkele |last3=Ditter-Hilkens |first3=Inna |title=Mushrooms |publisher=Parragon Books |location=Bath, UK |year=2006 |isbn=978-1-4054-6399-7}}
+* {{cite book |first= G. J. |last=Keizer |title=Paddenstoelen encyclopedie |year=1997 |publisher=R & B |location=Lisse |isbn=978-90-396-0239-3 |language=nl}}
+
+{{Taxonbar|from=Q378947}}
+
+[[Category:Edible fungi]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1933]]
+[[Category:Fungal taxa named by Carl Linnaeus]]
+[[Category:Fungus species]]
+[[Category:Gomphales]]

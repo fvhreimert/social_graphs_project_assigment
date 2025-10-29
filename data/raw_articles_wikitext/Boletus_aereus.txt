@@ -1,0 +1,211 @@
+{{Distinguish|Boletus aureus}}
+{{Short description|Edible species of fungus}}
+{{Use dmy dates|date=November 2020}}
+{{featured article}}
+{{Speciesbox
+| image = Bronze Roehrling.jpg
+| image_caption = 
+| taxon = Boletus aereus
+| authority = [[Jean Baptiste François Pierre Bulliard|Bull.]] (1789)
+| synonyms = *''Dictyopus aereus'' <small>(Bull.) [[Lucien Quélet|Quél.]] (1886)</small>
+* ''Tubiporus edulis'' subsp. ''aereus'' <small>(Bull.) [[René Maire|Maire]] (1937)</small>
+* ''Boletus edulis'' f. ''aereus'' <small>(Bull.) [[Boris Pavlovich Vasilkov|Vassilkov]] (1966)</small>
+* ''Boletus aereus'' var. ''squarrosus'' <small>De Rezende Pinto (1940)</small>
+* ''Boletus mamorensis'' <small>Redeuilh (1978)</small>
+}}
+{{mycomorphbox
+| name = ''Boletus aereus''
+| hymeniumType = pores
+| capShape = convex
+| whichGills = adnate
+| stipeCharacter = bare
+| sporePrintColor = olive-brown
+| ecologicalType = mycorrhizal
+| howEdible = choice
+}}
+
+'''''Boletus aereus''''', commonly known as the '''queen bolete''',<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/531/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |page=531 |orig-date=1979}}</ref> '''dark cep''', or '''bronze bolete''', is a species of fungus in the family [[Boletaceae]]. Described in 1789 by French mycologist [[Pierre Bulliard]], it is closely related to several other European [[boletes]], including ''[[Boletus reticulatus|B.&nbsp;reticulatus]]'', ''[[Boletus pinophilus|B.&nbsp;pinophilus]]'', and the popular ''[[Boletus edulis|B.&nbsp;edulis]]''. Some populations in North Africa have in the past been classified as a separate species, ''[[Boletus mamorensis|B.&nbsp;mamorensis]]'', which has been shown to be [[Phylogenetics|phylogenically]] conspecific to ''B.&nbsp;aereus'' and is now regarded as a synonym.
+
+The fungus produces [[Basidiospore|spore]]-bearing [[basidiocarp|fruit bodies]] above ground in summer and autumn. The fruit body has a large dark brown [[pileus (mycology)|cap]], which can reach {{convert|30|cm|in|0|abbr=on}} in diameter. Like other boletes, ''B.&nbsp;aereus'' has tubes extending downward from the underside of the cap, rather than [[lamella (mycology)|gills]]. The spores escape at maturity through the tube openings, or pores. The pore surface of the fruit body is whitish when young, but ages to a greenish-yellow. The squat brown [[Stipe (mycology)|stipe]], or stem, is up to 15&nbsp;cm (6&nbsp;in) tall and {{convert|10|cm|0|abbr=on}} thick and partially covered with a raised network pattern, or [[wikt:reticulate|reticulation]].
+
+The fungus predominantly grows in habitats with broad-leaved trees and shrubs, forming symbiotic [[ectomycorrhiza]]l associations in which the underground roots of these plants are enveloped with sheaths of fungal tissue ([[hypha]]e). The cork oak (''[[Quercus suber]]'') is a key [[host (biology)|host]]. A highly prized and sought-after [[edible mushroom]], ''B.&nbsp;aereus'' is widely consumed throughout the [[Mediterranean]].
+
+== Taxonomy ==
+French mycologist [[Pierre Bulliard]] [[species description|described]] ''Boletus aereus'' in 1789.<ref name="Bulliard 1789" /><ref name="urlMycoBank: Boletus aereus" /> The species epithet is the [[Latin]] adjective ''aerěus'', meaning "made with bronze or copper".<ref name="Eggli Newton 2004">{{cite book |last1=Eggli |first1=U. |last2=Newton |first2=L.E. |title=Etymological Dictionary of Succulent Plant Names |publisher=Springer Berlin Heidelberg |year=2004 |isbn=978-3-540-00489-9 |url=https://books.google.com/books?id=u2n5vusQ1DEC&pg=PA3 |access-date=25 September 2018 |page=3}}</ref><ref name="Simpson 1979" /> His countryman [[Lucien Quélet]] transferred the species to the now-obsolete genus ''Dictyopus'' in 1886, which resulted in the [[Synonym (biology)|synonym]] ''Dictyopus aereus'',<ref name="Quélet 1835" /> while [[René Maire]] reclassified it as a [[subspecies]] of ''B.&nbsp;edulis'' in 1937.<ref name="Maire 1937" /> In 1940, Manuel Cabral de Rezende-Pinto published the [[variety (botany)|variety]] ''B.&nbsp;aereus'' var. ''squarrosus'' from collections made in Brazil,<ref name="Rezende Pinto 1940" /> but this taxon is not considered to be [[taxonomy (biology)|taxonomically]] distinct.<ref name="urlFungorum: B. aereus var. squarrosus" />
+
+In works published before 1987, the binomial name was written fully as ''Boletus aereus'' Fr., as the description by Bulliard had been [[sanctioned name|sanctioned]] (''i.e.'', treated as if [[conserved name|conserved]] against earlier [[Homonym (biology)|homonyms]] and competing synonyms) in 1821 by the "father of mycology", Swedish naturalist [[Elias Magnus Fries]]. The starting date for all the [[mycota]] had been set by general agreement as 1 January 1821, the date of Fries' work. The 1987 edition of the [[International Code of Botanical Nomenclature]] revised the rules on the starting date and primary work for names of fungi; names can now be considered valid as far back as 1 May 1753, hence predating publication of Bulliard's work.<ref name="Hawksworth 2001" />
+
+Moroccan collections under the cork oak (''[[Quercus suber]]'') that were initially regarded as ''B.&nbsp;aereus'', were described as a separate species—''[[Boletus mamorensis]]''—in 1978, on the basis of a [[rufous]] [[chestnut (color)|chestnut]] cap and a rooting [[Stipe (mycology)|stipe]], or stem, with a reticulation often limited to the top (apex).<ref name="Redeuilh 1978" /><ref name="Courtecuisse 1999" /> However, [[molecular phylogenetic]] studies by Bryn Dentinger and colleagues in 2010, placed these collections very close to ''B.&nbsp;aereus'', suggesting they are more likely an ecological variant or [[phenotype]], rather than a distinct species.<ref name="Dentinger 2010" /> More recent phylogenetic studies by M. Loizides and colleagues in 2019, have confirmed that ''B. mamorensis'' is a later synonym of ''B. aereus'', since collections identified as the two taxa could not be genetically separated and nested in the same [[clade]].<ref name="Loizides 2019" /> 
+
+American mycologist [[Harry Thiers]] reported ''Boletus aereus'' from [[California]] in 1975; a taxonomic revision of western North American [[Boletus edulis#Related species|porcini]] boletes in 2008 formally established them as a separate species, ''[[Boletus regineus]]''. These differ from ''B.&nbsp;aereus'' by nature of their more gelatinous cap skin ([[pileipellis]]),<ref name="Arora 2008" /> and belong in a different porcini [[lineage (evolution)|lineage]].<ref name="Dentinger 2010" />
+
+''Boletus aereus'' is classified in ''Boletus'' [[section (botany)|section]] ''Boletus'', alongside close relatives such as ''[[Boletus reticulatus|B.&nbsp;reticulatus]]'', ''[[Boletus edulis|B.&nbsp;edulis]]'', and ''[[Boletus pinophilus|B.&nbsp;pinophilus]]''. A genetic study of the four European species found that ''B.&nbsp;aereus'' was [[sister taxon|sister]] to ''B.&nbsp;reticulatus''.<ref name="Beugelsdijk 2008" /> More extensive testing of worldwide taxa revealed that ''B.&nbsp;aereus'' was sister to a lineage that had split into ''B.&nbsp;reticulatus'' and two lineages that had been classified as ''B.&nbsp;edulis'' from southern China and Korea/northern China respectively.<ref name="Dentinger 2010" /> Molecular analysis suggests that the ''B.&nbsp;aereus/mamorensis'' and ''B.&nbsp;reticulatus''/Chinese ''B.'' "edulis" lineages [[genetic divergence|diverged]] around 6 to 7 million years ago.<ref name="Feng 2012" />
+
+=== Common names ===
+
+
+Bulliard gave ''Boletus aereus'' the [[common name]] of ''le bolet bronzé'' (the bronze bolete) in 1789, noting that it was called the ''cep noir'' (black cep) in other countries.<ref name="Bulliard 1789" /> It is commonly known as ''ontto beltza'' (black fungus) in [[Basque language|Basque]], ''porcino nero'' (black piglet) in [[Italian language|Italian]],<ref name="Carluccio 2003" /> and ''Cèpe bronzé'' in [[French language|French]].<ref name="Eyssatier 2011" /> In [[Greek language|Greek]] it is known as ''vasilikό'' (the royal one), or ''kalogeraki'' (little monk).<ref name="Konstantinidis 2009" /> The English common name is ''dark cep'',<ref name="Phillips 2013" /> while the [[British Mycological Society]] also approved the name ''bronze bolete''.<ref name="BMS common names" />
+
+== Description ==
+The [[pileus (mycology)|cap]] is hemispherical to convex, reaching {{convert|15-20|cm|abbr=on|frac=2}} in diameter,<ref name="Arora1986" /> although specimens of {{convert|40|cm|0|abbr=on}} have been found in some cases. Slightly velvety, it is dark brown when young,<ref name="Arora1986" /> greyish-brown, violet brown, or purple brown, often with copper, golden, or olivaceous patches. The stipe is {{convert|5-15|cm|abbr=on|frac=4}} long and {{convert|2-5|cm|abbr=on|frac=4}} thick,<ref name="Arora1986" /> usually shorter than the cap diameter, initially barrel shaped but gradually becoming club shaped and tapering at the base. The stipe is white then brown,<ref name="Arora1986" /> chestnut, or reddish brown in colour, covered in a brown or concolorous reticulation.
+
+As with other boletes, there are [[Hymenophore|tubes]] rather than [[lamella (mycology)|gills]] on the underside of the cap. The tube openings—known as pores—are small and rounded. Whitish when young, they slowly become yellowish or greenish yellow at maturity,<ref name="Arora1986" /> and can turn [[wine (color)|wine]] coloured with bruising. The tubes themselves are initially white, later becoming yellowish or olivaceous. The thick [[trama (mycology)|flesh]] is white, exudes a robust and pleasant smell reminiscent of [[hazelnut]]s, and has a mild sweet taste.<ref name="Lannoy 2001" /><ref name="Estadès 2004" /><ref name="Phillips 2006" /><ref name="Marchand 1985" /><ref name="Alessio 1985" />
+
+The [[basidiospore|spores]] are spindle shaped and measure 10.5–19 by 4–7&nbsp;[[μm]]. The pileipellis is a [[trichodermium]] of interwoven [[septate]] [[hypha]]e, with long cylindrical cells.<ref name="urlBoletales" />
+
+=== Similar species ===
+{{multiple image|caption_align=center | header_align=center
+ | ''Boletus'' lookalikes
+ | align = right
+ | total_width = 400
+ | image1 = Boletus.JPG
+ | width1 = 2272 | height1 = 1704
+ | caption1 = ''B. reticulatus''
+ | image2 = 2008-11-05 Boletus pinophilus Pilát & Dermek 27980 crop.jpg
+ | width2 = 1000 | height2 = 649
+ | caption2 = ''B. pinophilus''
+ | image3 = Boletus edulis JPG9.jpg
+ | width3 = 2212 | height3 = 1659
+ | caption3 = ''B. edulis''
+}}
+
+''[[Boletus reticulatus]]'' is very similar to ''B.&nbsp;aereus'', also occurring during the summer months under broad-leaved trees. It has a paler, often cracked cap and a usually paler stipe covered in a more elaborate and pronounced whitish reticulation, often extending to the stipe base.<ref name="Galli 2007" />
+
+''[[Boletus pinophilus]]'' occurs under [[conifers]], mostly ''[[Pinus sylvestris]]'', and has a reddish-brown cap. Microscopically, it can be separated by the more inflated, club- to spindle-shaped hyphal ends of the pileipellis.<ref name="Breitenbach 1991" />
+
+''[[Boletus edulis]]'' occurs later in the season during lower temperatures, mostly under ''[[Picea]]''. It has a paler viscid cap, and a paler stipe with an acute white reticulation. Microscopically, it has gelatinised hyphal ends in the pileipellis.<ref name="Munoz 2005" />
+
+== Distribution and habitat ==
+]]
+
+The distribution and abundance of ''Boletus aereus'' varies greatly.<ref name="Loizides 2019" /> Found mainly in central and southern Europe as well as north Africa,<ref name="Bartault 1979" /> this species is rare in colder climates such as England.<ref name="Watling 2005" /> It is classified as a [[vulnerable species]] in the Czech Republic<ref name="Mikšik 2012" /> and has been placed on a provisional [[Regional Red List|Red List]] of endangered species of [[Montenegro]].<ref name="Peric 2005" /> Nevertheless, the fungus can be locally abundant; it is the most common bolete in the woodlands of [[Madonie Regional Natural Park]] in northern [[Sicily]].<ref name="Venturella 2001" /> ''Boletus aereus'' has been reported from several other [[island ecology|island ecosystems]] across the [[Mediterranean]], such as [[Corsica]],<ref name="Dentinger 2010" /> [[Cyprus]],<ref name="Loizides 2011" /> [[Lesvos]],<ref name =Lesbos /> and [[Naxos]].<ref name="Polemis 2012" />
+
+Mushrooms are mostly found during hot spells in summer and autumn, growing in [[mycorrhiza]]l association with various broad-leaved trees and [[sclerophyll]]ous shrubs, especially oak (''[[Quercus]]''), beech (''[[Beech|Fagus]]''), chestnut (''[[Chestnut|Castanea]]''), strawberry trees (''[[Arbutus]]''),<ref name="Loizides 2019" /> treeheath (''[[Erica (plant)|Erica]]''), and rockrose (''[[Cistus]]''),<ref name="Loizides et al. 2011" /> showing a preference for [[acidic soils]].<ref name="Courtecuisse 1995" /> Roadsides and parks are common habitats.<ref name="Beugelsdijk 2008" /> The cork oak in particular is an important symbiont, and the distribution of ''B.&nbsp;aereus'' aligns with the tree across Europe and North Africa.<ref name="Feng 2012" /> The [[ectomycorrhiza]]e that ''B.&nbsp;aereus'' forms with sweet chestnut (''[[Castanea sativa]]'') and downy oak (''[[Quercus pubescens]]'') have been described in detail. They are characterized by a lack of hyphal [[clamp connections|clamps]], a [[plectenchymatous]] mantle (made of parallel-orientated hyphae with little branching or overlap), and [[rhizomorph]]s with differentiated hyphae.<ref name="Ceruti 1984" /><ref name="Ceruti 1985" /> A 2007 field study on four species of boletes revealed little correlation between the abundance of fruit bodies and presence of its mycelia below ground, even when soil samples were taken from directly beneath the mushroom; the study concluded that the triggers leading to formation of mycorrhizae and production of the fruit bodies appear to be more complex than previously thought.<ref name="Peintner 2007" />
+
+In the past the fungus had been reported in China.<ref name="Zhishu 1993" /><ref name="Chen 2004" /> However, recent molecular studies show that Asian porcini appear to belong to different species.<ref name="Dentinger 2010" /><ref name="Feng 2012" />
+
+== Uses ==
+
+
+A choice [[edible mushroom|edible species]], ''B.&nbsp;aereus'' is highly appreciated in Southern Europe for its culinary qualities and is considered by many to be gastronomically superior to ''B.&nbsp;edulis''.<ref name="Carluccio 2003" /><ref name=Athanasiou /> In the vicinity of [[Borgo Val di Taro|Borgotaro]] in the [[Province of Parma]] of northern Italy, the four species ''B.&nbsp;edulis'', ''B.&nbsp;aereus'', ''B.&nbsp;reticulatus'' (formerly known as ''B.&nbsp;aestivalis''), and ''B.&nbsp;pinophilus'' have been recognised for their superior taste and officially termed ''Fungo di Borgotaro''. Here, these mushrooms have been collected and exported commercially for centuries.<ref name="Sitta 2008" /> Throughout Spain, it is one of the wild edible fungi most commonly collected for the table, particularly in [[Aragon]], where it is harvested for sale in markets.<ref name="De Roman 2004" /> It is also popular in [[Navarre]], Spain, [[Basque Country (greater region)|Basque Country]], France, and Greece.
+
+When collected, the skin of the cap is left intact, and dirt is brushed off the surface. Pores are left unless old and soft.<ref name="Carluccio 2003" /> ''Boletus aereus'' is especially suited for drying, a process which enhances its flavour and aroma. Like other boletes, the mushrooms can be dried by being sliced and strung separately on twine, then hung close to the ceiling of a kitchen. Alternatively, the mushrooms can be dried by cleaning with a brush (washing is not recommended), and then placed in a wicker basket or [[bamboo steamer]] on top of a boiler or hot water tank. Once dry, they are kept in an airtight jar. They are easily reconstituted by soaking in hot, but not boiling, water for about twenty minutes; the water is infused with the mushroom aroma and can be used as stock in subsequent cooking. When dried, a small amount of the mushroom can improve the taste of less flavoursome fungi-based dishes.<ref name="Carluccio 2003" /><ref name="Zeitlmayr 1976" />
+
+=== Nutritional value ===
+Based on analyses of fruit bodies collected in Portugal, there are 367 [[kilocalorie]]s per 100 grams of bolete (as [[dry matter|dry weight]]). The [[macronutrient]] composition of 100 grams of dried bolete includes 17.9 grams of [[dietary protein|protein]], 72.8 grams of [[carbohydrate]]s, and 0.4 grams of [[dietary fat|fat]]. By weight, fresh fruit bodies are about 92% water. The predominant [[sugar]] is [[trehalose]] (4.7 grams/100 grams dry weight; all following values assume this mass), with lesser amounts of [[mannitol]] (1.3 grams). There are 6 grams of [[tocopherol]]s, the majority of which is [[gamma-tocopherol]] ([[vitamin E]]), and 3.7 grams of [[ascorbic acid]].<ref name="Heleno 2011" />
+
+== References ==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Alessio 1985">{{cite book |author=Alessio CL. |year=1985 |title=''Boletus'' Dill. ex L. (sensu lato) |series=Fungi Europaei |volume=2 |publisher=Libreria editrice Biella Giovanna |location=Saronno, Italy}}</ref>
+
+<ref name="Arora 2008">{{cite journal |author=Arora D. |year=2008 |title=California porcini: three new taxa, observations on their harvest, and the tragedy of no commons |journal=Economic Botany |volume=62 |issue=3 |pages=356–75 |doi=10.1007/s12231-008-9050-7|s2cid=23176365 }}</ref>
+
+<ref name=Athanasiou>{{cite book |author=Athanasiou Z |year=2010 |title=Μανιτάρια, οδηγός αναγνώρισης για 642 είδη |trans-title=Mushrooms: Identification Guide to 642 Species |language=el |publisher=Εκδόσεις Ψύχαλου |location=Athens, Greece |page=295 |isbn=978-960-8455-75-7}}</ref>
+
+<ref name="Bartault 1979">{{cite journal |author=Bartault R. |title=Bolets du Maroc |journal=Bulletin de la Société Mycologique de France |year=1979 |volume=95 |issue=3 |pages=297–318 |language=fr}}</ref>
+
+<ref name="Beugelsdijk 2008">{{cite journal |author1=Beugelsdijk DCM |author2=van der Linde S |author3=Zuccarello GC |author4=den Bakker |author5=Draisma SGA |author6=Noordeloos ME. |year=2008 |title=A phylogenetic study of ''Boletus'' section ''Boletus'' in Europe |journal=Persoonia |pmid=20467482 |volume=20 |issue=1 |pmc=2865352 |pages=1–7 |doi=10.3767/003158508X283692}} {{open access}}</ref>
+
+<ref name="BMS common names">{{cite web |author=Holden L. |title=English Names for fungi 2014 |url=http://www.britmycolsoc.org.uk/library/english-names/ |publisher=British Mycological Society |date=June 2014 |access-date=27 August 2015 |archive-url=https://web.archive.org/web/20150923194645/http://www.britmycolsoc.org.uk/library/english-names/ |archive-date=23 September 2015 |url-status=live }}</ref>
+
+<ref name="Breitenbach 1991">{{cite book |vauthors=Breitenbach J, Kränzlin F |year=1991 |title=Pilze der Schweiz 3(1). Röhrlinge und Blätterpilze |publisher=Verlag Mykologia |location=Luzern, Switzerland |language=de |isbn=978-3-85604-030-7}}</ref>
+
+<ref name="Bulliard 1789">{{cite book |author=Bulliard F. |title=Herbier de la France |year=1789 |volume=9 |location=Paris, France |publisher=Chez l'auteur, Didot, Debure, Belin |at=Pl. 385; fig. II |url=https://www.biodiversitylibrary.org/page/4281451 |language=fr |access-date=20 February 2018 |archive-url=https://web.archive.org/web/20170322204211/http://www.biodiversitylibrary.org/page/4281451 |archive-date=22 March 2017 |url-status=live }}</ref>
+
+<ref name="Carluccio 2003">{{cite book |author=Carluccio A. |author-link=Antonio Carluccio |year=2003 |pages=37–38, 96–97 |title=The Complete Mushroom Book |publisher=Quadrille |location=London, UK |isbn=978-1-84400-040-1}}</ref>
+
+<ref name="Ceruti 1984">{{cite journal |vauthors=Ceruti A, Ceruti Scurti J, Tozzi M |title=Sintesi micorrizica tra ''Boletus aereus'' e ''Quercus pubescens'' |journal=Allonia |volume=26 |pages=5–17 |language=it}}</ref>
+
+<ref name="Ceruti 1985">{{cite journal |vauthors=Ceruti A, Tozzi M, Reitano G |title=Sintesi micorrizica tra ''Boletus aereus'' e ''Castanea sativa'' |journal=Allionia |year=1985 |volume=27 |pages=5–9 |language=it}}</ref>
+
+<ref name="Chen 2004">{{cite book |author=Chen YL |editor1=Kusters K |editor2=Belcher B. |title=Forest Products, Livelihoods and Conservation: case studies of non-timber forest product systems. volume 1 – Asia |chapter=Song rong (''Tricholoma matsutake''), a valuable forest mushroom from China: consumption, development and sustainability |chapter-url=https://books.google.com/books?id=G9x-8pK3K64C&pg=PA85 |year=2004 |publisher=CIFOR |location=Bogor Barat, Indonesia |isbn=978-979-3361-23-9 |pages=79–94 (see p.&nbsp;85)}}</ref>
+
+<ref name="Courtecuisse 1995">{{cite book |vauthors=Courtecuisse R, Duhem B |year=1995 |title=Mushrooms & Toadstools of Britain & Europe |publisher=Harper-Collins |location=London, UK}}</ref>
+
+<ref name="Courtecuisse 1999">{{cite book |author=Courtecuisse R. |title=Mushrooms of Britain and Europe |year=1999 |series=Collins Wildlife Trust Guides |publisher=Harper-Collins |location=London, UK |pages=425–26 |isbn=978-0-00-220012-7}}</ref>
+
+<ref name="De Roman 2004">{{cite journal |vauthors=De Roman M, Boa E |title=Collection, marketing and cultivation of edible fungi in Spain |journal=Micologia Aplicada International |year=2004 |volume=16 |issue=2 |pages=25–33 |url=https://www.uni-due.de/~bbo010/deRoman/De%20Roman,%20Boa%20Micologia%20Aplicada%202004.pdf |access-date=28 August 2015 |archive-url=https://web.archive.org/web/20160304042413/https://www.uni-due.de/~bbo010/deRoman/De%20Roman,%20Boa%20Micologia%20Aplicada%202004.pdf |archive-date=4 March 2016 |url-status=live }}</ref>
+
+<ref name="Dentinger 2010">{{cite journal |vauthors=Dentinger BT, Ammirati JF, Both EE, Desjardin DE, Halling RE, Henkel TW, Moreau PA, Nagasawa E, Soytong K, Taylor AF, Watling R, Moncalvo JM, McLaughlin DJ |title=Molecular phylogenetics of porcini mushrooms (''Boletus'' section ''Boletus'') |journal=Molecular Phylogenetics and Evolution |volume=57 |year=2010 |issue=3 |pages=1276–92 |url=http://static.msi.umn.edu/rreports/2010/211.pdf |doi=10.1016/j.ympev.2010.10.004 |pmid=20970511 |archive-url=https://web.archive.org/web/20130523094609/http://static.msi.umn.edu/rreports/2010/211.pdf |archive-date=23 May 2013 }}</ref>
+
+<ref name="Eyssatier 2011">{{cite book |vauthors=Eyssatier G, Roux P |year=2011 |title=Le guide des champignons France et Europe |publisher=Belin |location=Paris, France |pages=92–93 |isbn=978-2-7011-5428-2 |language=fr}}</ref>
+
+<ref name="Estadès 2004">{{cite journal |vauthors=Estadès A, Lannoy G |year=2004 |title=Les bolets européens |journal=Bulletin Mycologique et Botanique Dauphiné-Savoie |volume=44 |issue=3 |pages=3–79 |language=fr}}</ref>
+
+<ref name="Feng 2012">{{cite journal |vauthors=Feng B, Xu J, Wu G, Zeng NK, Li YC, Bau T, Kost GW, Yang ZL |year=2012 |title=DNA sequence analyses reveal abundant diversity, endemism and evidence for Asian origin of the porcini mushrooms |journal=PLOS ONE |volume=7 |issue=5 |id=e37567 |doi=10.1371/journal.pone.0037567 |article-number=e37567 |pmid=22629418 |pmc=3356339|bibcode=2012PLoSO...737567F |doi-access=free }} {{open access}}</ref>
+
+<ref name="Galli 2007">{{cite book |author=Galli R. |year=2007 |title=I Boleti. Atlante pratico-monographico per la determinazione dei boleti |edition=3rd |publisher=Dalla Natura |location=Milano, Italy |language=it}}</ref>
+
+<ref name="Hawksworth 2001">{{cite book |veditors=McLaughlin DJ, McLaughlin EG |series=The Mycota: A Comprehensive Treatise on Fungi as Experimental Systems for Basic and Applied Research |author=Hawksworth DL. |title=Systematics and Evolution. Part B |volume=7 |chapter=The naming of fungi |publisher=Springer |location=Berlin, Germany |year=2001 |pages=171–92 (see p.&nbsp;181) |isbn=978-3-540-66493-2}}</ref>
+
+<ref name="Heleno 2011">{{cite journal |vauthors=Heleno SA, Barros L, Sousa MJ, Martins A, Santos-Buelga C, Ferreira CF |title=Targeted metabolites analysis in wild ''Boletus'' species |journal=LWT – Food Science and Technology |year=2011 |volume=44 |issue=6 |pages=1343–48 |doi=10.1016/j.lwt.2011.01.017}}</ref>
+
+<ref name="Konstantinidis 2009">{{cite book |author=Konstantinidis G. |year=2009 |title=Μανιτάρια – φωτογραφικός οδηγός μανιταροσυλλέκτη |trans-title=Mushrooms, a Photographic Guide for Collectors |publisher=Published by the author |location=Athens, Greece |page=329 |isbn=978-960-93-1450-3 |language=el}}</ref>
+
+<ref name="Lannoy 2001">{{cite book |vauthors=Lannoy G, Estadès A |year=2001 |title=Les Bolets. Flore mycologique d'Europe |series=Documents Mycologiques Mémoire Hors série no. 6 |pages=1–163 |publisher=Association d'Écologie et de Mycologie |location=Lille, France |language=fr}}</ref>
+
+<ref name =Lesbos>{{cite book |title=100+1 Μανιτάρια: Η έρευνα στη Λέσβο |trans-title=100+1 Mushrooms. Research on Lesvos |year=2013 |language=el |publisher=Fungal Environmental Association/Μανιταρόφιλοι Λέσβου |location=Athens, Greece |pages=128–29 |isbn=978-618-80314-3-2}}</ref>
+
+<ref name="Loizides 2011">{{cite journal |author=Loizides M. |year=2011 |title=''Quercus alnifolia'': The indigenous golden oak of Cyprus and its fungi |journal=Field Mycology |volume=12 |issue=3 |pages=81–88 |doi=10.1016/j.fldmyc.2011.06.004|doi-access=free }}</ref>
+
+<ref name="Loizides et al. 2011">{{cite book |vauthors=Loizides M, Kyriakou T, Tziakouris A |year=2011 |title=Edible & Toxic Fungi of Cyprus |publisher=Published by the authors |isbn=978-9963-7380-0-7 |language=el, en |pages=122–23}}</ref>
+
+<ref name="Loizides 2019">{{cite journal |title=Present status and future of boletoid fungi (Boletaceae) on the island of Cyprus: cryptic and threatened diversity unraveled by 10-year study. |vauthors=Loizides M, Bellanger JM, Assyov B, Moreau PA, Richard F |journal=Fungal Ecology |volume=41 |issue=13 |pages=65–81 |year=2019 |doi=10.1016/j.funeco.2019.03.008 |s2cid=181958289 }}</ref>
+
+<ref name="Maire 1937">{{cite journal |author=Maire R. |title=Fungi Maroccani |journal=Mémoires de la Société des sciences naturelles du Maroc |year=1937 |volume=45 |page=87 |url=http://bibdigital.rjb.csic.es/spa/Libro.php?Libro=3447&Pagina=91 |language=fr |access-date=25 August 2015 |archive-url=https://web.archive.org/web/20160304205542/http://bibdigital.rjb.csic.es/spa/Libro.php?Libro=3447&Pagina=91 |archive-date=4 March 2016 |url-status=live }}</ref>
+
+<ref name="Marchand 1985">{{cite book |author=Marchand A. |year=1971 |title=Les champignons du Nord et du Midi. Tome 1 |location=Perpignan, France |language=fr |isbn=84-499-0649-0}}</ref>
+
+<ref name="Mikšik 2012">{{cite journal |author=Mikšik M. |title=Rare and protected species of boletes of the Czech Republic |journal=Field Mycology |year=2012 |volume=13 |issue=1 |pages=8–16 |doi=10.1016/j.fldmyc.2011.12.003|doi-access=free }}</ref>
+
+<ref name="Munoz 2005">{{cite book |author=Muñoz JA. |year=2005 |title=Fungi Europaei 2: Boletus s.l. |publisher=Edizioni Candusso |location=Italy |isbn=978-88-901057-6-0}}</ref>
+
+<ref name="Peintner 2007">{{cite journal |vauthors=Peintner U, Iotti M, Klotz P, Bonuso E, Zambonelli A |year=2007 |title=Soil fungal communities in a ''Castanea sativa'' (chestnut) forest producing large quantities of ''Boletus edulis sensu lato'' (porcini): where is the mycelium of porcini? |journal=Environmental Microbiology |volume=9 |issue=4 |pages=880–89 |doi=10.1111/j.1462-2920.2006.01208.x |pmid=17359260}}</ref>
+
+<ref name="Peric 2005">{{Cite report |vauthors=Peric B, Peric O |title=The provisory red list of endangered macromycets of Montenegro |url=http://www.wsl.ch/eccf/Montenegro05.pdf |year=2005 |publisher=Eidg. Forschungsanstalt für Wald, Schnee und Landschaft WSL (Swiss Federal Institute for Forest, Snow and Landscape Research) |access-date=28 August 2015 |archive-url=https://web.archive.org/web/20160303205851/http://www.wsl.ch/eccf/Montenegro05.pdf |archive-date=3 March 2016 |url-status=live }}</ref>
+
+<ref name="Phillips 2006">{{cite book |author=Phillips R. |title=Mushrooms |year=2006 |publisher=Pan MacMillan |location=London, UK |isbn=978-0-330-44237-4 |page=275}}</ref>
+
+<ref name="Phillips 2013">{{cite book |author=Phillips R. |title=Mushrooms: A Comprehensive Guide to Mushroom Identification |url=https://books.google.com/books?id=nRKwAAAAQBAJ&pg=PA275 |year=2013 |publisher=Pan Macmillan |location=London, UK |isbn=978-1-4472-6402-6 |page=275}}</ref>
+
+<ref name="Polemis 2012">{{cite journal |vauthors=Polemis E, Dimou D, Tzanoudakis D, Zervakis G |year=2012 |title=Annotated checklist of Basidiomycota (subclass Agaricomycetidae) from the islands of Naxos and Amorgos (Cyclades, Greece) |journal=Annales Botanici Fennici |volume=49 |issue=3 |pages=145–61 |doi=10.5735/085.049.0301|s2cid=86840326 }}</ref>
+
+<ref name="Quélet 1835">{{cite book |author=Quélet L. |title=Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium |trans-title=Handbook of Mushrooms in central Europe, especially France |year=1886 |publisher=Octave Dion |location=Lutetia |page=159 |language=fr |url=https://archive.org/stream/mobot31753000785094#page/158/mode/2up |access-date=23 October 2015 |archive-url=https://web.archive.org/web/20160310154105/http://archive.org/stream/mobot31753000785094#page/158/mode/2up |archive-date=10 March 2016 |url-status=live }}</ref>
+
+<ref name="Redeuilh 1978">{{cite journal |author=Redeuilh G. |year=1978 |title=''Boletus mamorensis'' nov. sp. |journal=Bulletin Trimestriel de la Société Mycologique de France |volume=94 |pages=299–303 |language=fr}}</ref>
+
+<ref name="Rezende Pinto 1940">{{cite journal |author=de Rezende-Pinto MC. |title=Notas micológicas |journal=Brotéria Série Trimestral: Ciências Naturais |year=1940 |volume=9 |issue=3 |pages=91–93 |language=es}}</ref>
+
+<ref name="Simpson 1979">{{cite book |author=Simpson DP. |title=Cassell's Latin Dictionary |publisher=Cassell |year=1979 |edition=5 |location=London, UK |page=27 |isbn=978-0-304-52257-6}}</ref>
+
+<ref name="Sitta 2008">{{cite journal |vauthors=Sitta N, Floriani M |year=2008 |title=Nationalization and globalization trends in the wild mushroom commerce of Italy with emphasis on porcini (''Boletus edulis'' and allied species) |journal=Economic Botany |volume=62 |issue=3 |pages=307–22 |doi=10.1007/s12231-008-9037-4|s2cid=44274570 }}</ref>
+
+<ref name="urlBoletales">{{cite web |url=http://boletales.com/genera/boletus/b-aereus/ |title=''Boletus aereus'' |author=Assyov B. |year=2013 |publisher=Boletales.com |access-date=21 August 2015 |archive-url=https://web.archive.org/web/20150812121742/http://boletales.com/genera/boletus/b-aereus/ |archive-date=12 August 2015 |url-status=live }}</ref>
+
+<ref name="urlFungorum: B. aereus var. squarrosus">{{cite web |title=Record details: ''Boletus aereus'' var. ''squarrosus'' Rezende-Pinto |url=http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=345985 |publisher=Index Fungorum. CAB International |access-date=25 August 2015 |archive-url=https://web.archive.org/web/20150924051740/http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=345985 |archive-date=24 September 2015 |url-status=live }}</ref>
+
+<ref name="urlMycoBank: Boletus aereus">{{cite web |title=''Boletus aereus'' (Viv.) Ricken 1915 |url=http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=50865&Fields=All |publisher=[[MycoBank]]. International Mycological Association |access-date=23 March 2013 |archive-url=https://web.archive.org/web/20170322112512/http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=50865&Fields=All |archive-date=22 March 2017 |url-status=live }}</ref>
+
+<ref name="Venturella 2001">{{cite book |vauthors=Venturella G, Rocca S |title=Fungal Conservation Issues and Solutions |veditors=Moore D, Nauta MN, Evans SE, Rotheroe M |publisher=Cambridge University Press |location=Cambridge, UK |year=2001 |pages=156–61 |chapter=Strategies for conservation of fungi in the Madonie Park, North Sicily |isbn=978-0-521-80363-2 |url=http://fmedicine.ajums.ac.ir/_fmedicine/Documents/Fungal%20Conservation_20130416_092059.pdf#page=166 |archive-url=https://web.archive.org/web/20151002084232/http://fmedicine.ajums.ac.ir/_fmedicine/Documents/Fungal%20Conservation_20130416_092059.pdf#page=166 |archive-date=2 October 2015 }}</ref>
+
+<ref name="Watling 2005">{{cite book |vauthors=Watling R, Hills AE |year=2005 |chapter=Boletes and their allies (revised and enlarged edition) |veditors=Henderson DM, Orton PD, Watling R |title=British Fungus Flora. Agarics and boleti |volume=1 |publisher=Royal Botanic Garden |location=Edinburgh, Scotland}}</ref>
+
+<ref name="Zeitlmayr 1976">{{cite book |author=Zeitlmayr L. |year=1976 |title=Wild Mushrooms: An Illustrated Handbook |publisher=Garden City Press |location=Hertfordshire, UK |isbn=978-0-584-10324-3 |page=96}}</ref>
+
+<ref name="Zhishu 1993">{{cite book |vauthors=Zhishu B, Zheng G, Taihui L |title=The Macrofungus Flora of China's Guangdong Province |publisher=Columbia University Press |location=New York, New York |year=1993 |page=493 |isbn=978-962-201-556-2}}</ref>
+
+}}
+
+{{Taxonbar|from=Q757127}}
+
+[[Category:Basque cuisine]]
+[[Category:Edible fungi]]
+[[Category:Boletus|aereus]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Africa]]
+[[Category:Fungi of China]]
+[[Category:Fungi described in 1789]]
+[[Category:Taxa named by Jean Baptiste François Pierre Bulliard]]
+[[Category:Fungus species]]

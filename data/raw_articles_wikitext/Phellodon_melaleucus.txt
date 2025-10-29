@@ -1,0 +1,46 @@
+{{Short description|Species of fungus}}
+{{Speciesbox 
+| image = Phellodon melaleucus 264419.jpg
+| image_caption = 
+| genus = Phellodon
+| species = melaleucus
+| authority = ([[Sw.]] ex [[Elias Fries|Fr.]]) [[P.Karst.]] (1881)
+| synonyms_ref = <ref name="urlFungorum: Phellodon melaleucus"/>
+| synonyms = *''Hydnum melaleucum'' <small>Sw. ex Fr. (1815)</small>
+*''Hydnellum melaleucum'' <small>(Sw. ex Fr.) P.Karst. (1879)</small>
+}}
+
+'''''Phellodon melaleucus''''', commonly known as the '''grey tooth''',<ref name="BMS"/> is a species of [[tooth fungus]] in the family [[Bankeraceae]]. It was originally [[species description|described]] by [[Elias Magnus Fries]] in 1815 as a species of ''[[Hydnum]]''.<ref name="Fries 1815"/> In 1881, [[Petter Karsten]] included it as one of the original three species in his newly [[circumscription (taxonomy)|circumscribed]] genus ''[[Phellodon]]''.<ref name="Karsten 1881"/> The fungus is widely distributed in Europe and North America, where it associates [[mycorrhizal]]ly with a wide range of [[host (biology)|host]] trees. It is considered [[vulnerable species|vulnerable]] in Switzerland.<ref name="Senn-Irlet 2007"/>
+
+==Description==
+The grey tooth is a small to medium-sized fungus with a leathery or corky fruiting body. On the underside it has pale grayish-brown spines from which spores are released rather  than from [[Lamella (mycology)|gills]]. It may look like a convoluted single fruiting body but in fact each part has a blackish stem, and several caps can fuse together. The cap tends to be concentrically zoned with a reddish-brown to blackish-brown centre and a pale edge. The flesh is greyish-brown, darker near the base of the stem, and smells of [[fenugreek]].<ref name=NIPriority>{{cite web |url=http://www.habitas.org.uk/priority/species.asp?item=21218 |title=''Phellodon melaleucus'' – grey tooth |author=Allen & Mellon Environmental Ltd.|work=Northern Ireland Priority Species |access-date=7 March 2020}}</ref>
+
+==Distribution and habitat==
+This species occurs in various parts of Europe and has been recorded in North America.<ref>{{cite web |url=https://www.first-nature.com/fungi/phellodon-melaleucus.php |title=''Phellodon melaleucus'' (Sw. ex Fr.) P. Karst. - Grey Tooth |publisher=First Nature |access-date=7 March 2020}}</ref> It is uncommon in the United Kingdom and very rare in Ireland. This is an ectomycorrhizal species that forms a [[symbiosis|symbiotic relationship]] with the [[root]]s of various [[plant]]s, usually trees; the [[hypha]]e of the fungus wrap round the rootlets of the host tree, and there is an exchange of nutrients between the two.<ref>{{cite book |title="Mycorrhizae." Encyclopedia of Microbiology |last=Dighton |first=J. |year=2009 |pages=153–162 }}</ref> It is typically found growing on the ground on mossy banks in the vicinity of its hosts. In the British Isles it is associated with various trees including [[oak]], [[beech]], [[sweet chestnut]], [[birch]], [[Scots pine]] and [[spruce]].<ref name=NIPriority/>
+
+==References==
+{{Reflist|refs=
+
+<ref name="BMS">{{cite web |url=http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |title=Recommended English Names for Fungi in the UK |publisher=[[British Mycological Society]] |url-status=dead |archive-url=https://web.archive.org/web/20110716083053/http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |archive-date=2011-07-16 }}</ref>
+
+<ref name="Fries 1815">{{cite book |author=Fries EM. |title=Observationes mycologicae |year=1815 |publisher=Gerhard Bonnier |location=Copenhagen |volume=1 |page=134 |language=la |url=http://www.cybertruffle.org.uk/cyberliber/01532/0134.htm}}</ref>
+
+<ref name="Karsten 1881">{{cite journal |author=Karsten PA. |title=Enumeratio Hydnearum Fr. Fennicarum, systemate novo dispositarum |journal=Revue mycologique, Toulouse |year=1881 |volume=3 |issue=9 |page=19 |language=la |url=https://www.biodiversitylibrary.org/page/11599314}}</ref>
+
+<ref name="Senn-Irlet 2007">{{cite report |vauthors=Senn-Irlet B, Bieri G, Egli S |title=Lista Rossa Macromiceti. Lista Rossa delle specie minacciate in Svizzera. UV-0718-I |year=2007 |location=Bern |publisher=Ufficio federale dell’ambiente |language=it |url=http://www.bafu.admin.ch/publikationen/publikation/00055/index.html?lang=fr&lang=it}}</ref>
+
+<ref name="urlFungorum: Phellodon melaleucus">{{cite web |title=GSD Species Synonymy: ''Phellodon melaleucus'' (Sw. ex Fr.) P. Karst. |url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=414466 |publisher=Species Fungorum. CAB International |access-date=2015-09-18}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|414466}}
+
+{{Taxonbar|from=Q10626909}}
+
+[[Category:Fungi described in 1815]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Inedible fungi]]
+[[Category:Phellodon|melaleucus]]
+[[Category:Fungus species]]

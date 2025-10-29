@@ -1,0 +1,53 @@
+{{Speciesbox
+| image = Russ.atro.jpg
+| genus = Russula
+| species = atropurpurea
+| authority = ([[Julius Vincenz von Krombholz|Krombh.]]) [[Britzelm.]]
+| synonyms = ''Russula krombholzii'' <small>Shaffer</small><br>
+''Russula undulata''<small> Velen.</small>
+}}
+{{mycomorphbox
+| name = ''Russula atropurpurea''
+| whichGills =  adnexed
+| capShape = convex
+|capShape2=flat
+| hymeniumType=gills
+| stipeCharacter= bare
+| sporePrintColor=white
+| ecologicalType=mycorrhizal
+| howEdible=edible}}
+
+'''''Russula atropurpurea''''' is an [[edible mushroom|edible]] member of the genus ''[[Russula]]''. It is dark [[wine (color)|vinaceous]] (red wine-coloured) or purple, and grows with [[deciduous]], or occasionally [[coniferous]] trees. It is [[common name|commonly]] called the '''blackish purple Russula''', or the '''purple brittlegill'''.
+
+==Taxonomy==
+Initially described as ''Agaricus atropurpureus'' by German naturalist [[Julius Vincenz von Krombholz|Julius von Krombholz]] in 1845, and placed in ''[[Russula]]'' by his countryman [[Max Britzelmayr]] in 1893, the binomial name of this mushroom ''R.&nbsp;atropurpurea'' (Krombh.) Britzelm is accepted as being incorrect, and mycologists cannot agree on a suitable replacement.<ref name=Phillips06>{{cite book | author = Phillips R | year = 2006  | title = Mushrooms | publisher = Pan MacMillan | isbn = 0-330-44237-6|pages=22}}</ref>
+
+==Distribution and habitat==
+''Russula atropurpurea'' appears in late summer and autumn. It is common in the northern [[temperateness|temperate]] zones, Europe, Asia, and Eastern North America, and is [[mycorrhizal]] with oak (''[[Quercus]]''),<ref name=T.Laessoe/><ref name=Arora2nd>{{cite book |author=Arora D |author-link=David Arora |year=1986 |title=Mushrooms Demystified |publisher=Ten Speed Press |isbn=0-89815-169-4 |pages=[https://archive.org/details/mushroomsdemysti00aror_0/page/85 85] |url-access=registration |url=https://archive.org/details/mushroomsdemysti00aror_0/page/85 }}</ref> with which it prefers to live. Favouring acid soil, it is occasionally found with beech (''[[Beech|Fagus]]''), or pine (''[[Pinus]]'').<ref name=Phillips06/>
+
+==Description==
+]]
+The [[pileus (mycology)|cap]] is {{convert|4|–|10|cm|in|round=0.5|abbr=on}} in diameter. It is dark reddish purple, with a dark; sometimes almost black centre. At first it is convex, but later flattens, and often has a shallow depression. It can also be lighter in colour, or mottled yellowish. The [[stipe (mycology)|stem]] is firm, white, and turns grey with age. It measures 3–6&nbsp;cm in length and 1–2&nbsp;cm in diameter. The closely set and fairly broad [[Lamella (mycology)|gills]] are adnexed to almost free, and pale cream, giving a [[spore print]] of the same colour. The flesh is white; with a fruity smell, similar to apples. It tastes moderately hot.<ref name=Phillips06/>
+
+The species ''[[Russula brunneviolacea|R.&nbsp;brunneviolacea]]'', and ''[[Russula romelli|R.&nbsp;romellii]]'' are similar, though both have darker spore prints.<ref name=T.Laessoe>{{cite book | author = Laessoe T | year = 1998 | title = Mushrooms (flexi bound) | publisher = Dorling Kindersley | isbn = 0-7513-1070-0}}</ref>
+
+As the fruitbodies mature, the caps become concave to collect water during wet weather, and much of the color washes off the rim.<ref>{{cite web|url=https://www.first-nature.com/fungi/russula-atropurpurea.php|title=Russula atropurpurea, Purple Brittlegill mushroom|website=First Nature}}</ref>
+
+==Spores==
+]]
+The [[spore print]] is Whitish, and the subglobose to globose spores ornamented with warts and ridges measure 7-9 x 6-7 μm.
+
+==Edibility==
+This mushroom is said to be the mildest of the hot-tasting ''Russula'' species. It is [[edible mushroom|edible]] if cooked, although not recommended.
+
+==See also==
+*[[List of Russula species|List of ''Russula'' species]]
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q1784190}}
+
+[[Category:Fungi of Europe]]
+[[Category:Russula|atropurpurea]]
+[[Category:Edible fungi]]

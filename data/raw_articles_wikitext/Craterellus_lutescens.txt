@@ -1,0 +1,46 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Cantharellus lutescens.jpg
+| taxon = Craterellus lutescens
+| authority =  ([[Elias Magnus Fries|Fr.]]) Fr.
+}}
+{{mycomorphbox 
+| name = ''Craterellus lutescens''
+| hymeniumType=ridges
+| capShape = infundibuliform
+| whichGills = decurrent
+| stipeCharacter=bare
+| sporePrintColor=cream
+|sporePrintColor2=salmon
+| ecologicalType=mycorrhizal
+| howEdible=edible
+}}
+
+'''''Craterellus lutescens''''', formerly sometimes called '''''Cantharellus lutescens''''' or '''''Cantharellus xanthopus''''' or '''''Cantharellus aurora''''', commonly known as '''Yellow Foot''', '''camagroc''' in [[Catalan language|Catalan]], craterelle jaune in [[French language|French]], is a species of [[mushroom]].   It is closely related to ''[[Craterellus tubaeformis]]''. Its [[hymenium]] is usually orange or white, whereas the hymenium of ''C. tubaeformis'' is grey. ''C. lutescens'' is also usually found in [[wetland]]s.
+
+==Description==
+The species is more brightly coloured than ''[[Craterellus tubaeformis]]''. The [[cap (mycology)|cap]] is lobed irregularly and is brown to [[bistre]]. The hymenium and [[stipe (mycology)|stipe]] are also more brightly coloured than ''C. tubaeformis''. The hymenium is almost smooth or slightly veined and is pink. The [[Stipe (mycology)|stipe]] is yellow-orange.<ref name="Encyclopedia">{{cite book | last = Multiple authors | title = The Encyclopedia of Mushrooms | publisher = Chanterelle Translations, London | date = 1999 | pages = 204 | isbn = 3-8290-1728-6 }}</ref> The species is edible.<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |url=https://archive.org/details/mushroomsotherfu0000phil |url-access=registration |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=[https://archive.org/details/mushroomsotherfu0000phil/page/251 251]}}</ref>
+
+==Habitat==
+The species can commonly be found in large colonies in some [[coniferous forest]]s, under [[spruce]], mountain [[fir tree]]s, or [[pine]]woods near the seashore.<ref name="Encyclopedia"/>
+
+==Research==
+An [[extract]] of ''Craterellus lutescens'' exhibits inhibitory activity on [[thrombin]].<ref>{{cite journal |last1=Doljak |first1=B. |last2=Stegnar |first2=M. |last3=Urleb |first3=U. |last4=Kreft |first4=S. |last5=Umek |first5=A. |last6=Ciglarič |first6=M. |last7=Štrukelj |first7=B. |last8=Popovič |first8=T. |title=Screening for selective thrombin inhibitors in mushrooms |journal=Blood Coagulation and Fibrinolysis |volume=12 |issue=2 |pages=123–8 |year=2001 |pmid=11302474 |doi=10.1097/00001721-200103000-00006 |s2cid=28411589 }}</ref>
+
+== References ==
+{{Reflist}}
+
+==External links==
+{{Commons category|Craterellus lutescens}}
+* [http://www.mushroomexpert.com/craterellus_aurora.html ''Craterellus aurora''] MushroomExpert.com
+
+{{Taxonbar|from=Q1478429}}
+
+[[Category:Edible fungi]]
+[[Category:Cantharellales]]
+[[Category:Fungi of Europe]]
+[[Category:Fungus species]]
+[[Category:Taxa named by Elias Magnus Fries]]
+
+
+{{Phallales-stub}}

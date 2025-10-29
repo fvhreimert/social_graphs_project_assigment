@@ -1,0 +1,29 @@
+{{Speciesbox
+| image = Geastrum elegans 25989.jpg
+| genus = Geastrum
+| species = elegans
+| authority = [[Vittad.]] (1842)
+| synonyms = *''Geastrum badium'' <small>[[Pers.]] (1809)</small>
+}}
+{{mycomorphbox 
+| capShape = no 
+| hymeniumType = gleba
+| whichGills=NA
+| stipeCharacter=NA
+| ecologicalType = saprotrophic 
+| sporePrintColor = brown
+| howEdible = inedible 
+}}
+
+'''''Geastrum elegans''''' is an inedible species of [[mushroom]] belonging to the genus ''[[Geastrum]]'', or earthstar fungi.
+
+{{Taxonbar|from=Q5529522}}
+
+[[Category:Geastrum|elegans]]
+[[Category:Fungi described in 1842]]
+[[Category:Fungi of Europe]]
+[[Category:Inedible fungi]]
+[[Category:Fungus species]]
+
+
+{{Geastrales-stub}}

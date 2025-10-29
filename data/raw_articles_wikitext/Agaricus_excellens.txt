@@ -1,0 +1,55 @@
+{{short description|Species of mushroom}}
+{{stack begin}}
+{{Speciesbox
+| image =Agaricus_spec._Lindsey_4.jpg
+| image_caption =
+| genus = Agaricus
+| species = excellens
+| authority = F.H.Møller (1952)
+| synonyms =
+*''Scidenweisser egerling''
+*''Psalliota excellens'' (Møller) 
+*''Agaricus macrosporus'' subsp. ''excellens'' (F.H.Møller) Bohus (1978)
+*''Agaricus macrosporus'' var. ''excellens'' (F.H.Møller) Bohus (1990)
+*''Agaricus albertii'' var. ''excellens'' (F.H.Møller) Bohus (1990)
+*''Agaricus urinascens'' var. ''excellens'' (F.H.Møller) Nauta (2000)
+| synonyms_ref = <ref name=rogers>{{cite web|title=Agaricus excellens |url=http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~5486~gid~~source~gallerydefault.asp |publisher=Rogers Mushrooms |url-status=dead |archiveurl=https://web.archive.org/web/20101230181821/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~5486~gid~~source~gallerydefault.asp |archivedate=2010-12-30 }}</ref><ref name=mycobank>{{cite web|title=''Agaricus excellens'' (F.H. Møller) F.H. Møller 1952|url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=292262|publisher=MycoBank|accessdate=30 October 2016}}</ref>  
+}}
+{{Mycomorphbox
+| name = ''Agaricus excellens''
+| whichGills = free
+| capShape = convex
+| capShape2 = flat
+| hymeniumType = gills
+| stipeCharacter = ring
+| ecologicalType = saprotrophic
+| sporePrintColor = purple-black
+| howEdible = edible
+}}
+{{stack end}}
+
+'''''Agaricus excellens''''' ([[French language|French]]: Psaliote Excellente, [[German language|German]]: Riesen-Egerling)<ref name=zipzoo>{{cite web|title=Agaricus excellens |url=http://zipcodezoo.com/Fungi/A/Agaricus_excellens/ |publisher=Zipcode Zoo |url-status=dead |archiveurl=https://web.archive.org/web/20121009014008/http://zipcodezoo.com/Fungi/A/Agaricus_excellens/ |archivedate=2012-10-09 }}</ref> is a rare European [[mushroom]] in the genus ''[[Agaricus]]''.
+
+==Description==
+
+* '''Cap''': It is whitish yellow in color. Spread over {{Convert|10–15|cm|abbr=off|frac=2}} across, it is convex and a bit flat, yellowing slightly at the center especially with age, and densely covered in minute fibrous scales of the same colour. It feels silky.<ref name="rogers"/><ref name=mushlook>{{cite web|title=Agaricus excellens|url=http://klobuk.com/p/103/agaricus-excellens|publisher=MushLook |archive-url=https://web.archive.org/web/20120402224053/http://www.klobuk.com/p/103/agaricus-excellens |archive-date=April 2, 2012}}</ref>
+* '''Stem / Stipe''': Stem is {{Convert|10–14|cm|abbr=on|frac=2}} by {{Convert|2–3.5|cm|abbr=on|frac=2}}, white in color; the [[Annulus (mycology)|ring]] is thick and white. The underside is [[:wikt:scaly|scaly]] or [[fibrillar]].<ref name="rogers"/><ref name="mushlook"/>
+* '''Gills''': The [[gill]]s are pale-pink and free.<ref name="rogers"/><ref name="mushlook"/>
+* '''Spores and microscopic features''': [[Spore print]] is purplish black. Spores are elliptic, measuring 9–12 x 5–7&nbsp;μ.<ref name="rogers"/><ref name="mushlook"/>
+* '''Flesh and smell''': The cap flesh is reddish-white. It tastes sweet and a bit like mushroom, smells slightly of [[aniseed]] and [[almond]].<ref name="rogers"/><ref name="mushlook"/>
+
+==Distribution and habitat==
+Native to Europe, the species is commonly found in [[coniferous]] and [[deciduous]] areas and grows during late autumn to summer amongst grass in open [[woodland]], especially [[spruce]]. It is typically found at altitudes of {{Convert|0 to 3000|ft|abbr=off|order=flip}}.<ref name="zipzoo"/>
+
+==See also==
+*[[List of Agaricus species|List of ''Agaricus'' species]]
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q4691336}}
+
+[[Category:Agaricus|excellens]]
+[[Category:Fungi described in 1952]]
+[[Category:Fungi of Europe]]
+[[Category:Fungus species]]

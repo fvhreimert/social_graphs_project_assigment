@@ -1,0 +1,45 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Suillus mediterraneensis.jpg
+| genus = Suillus
+| species = mediterraneensis
+| authority = (Jacquet. & J.Blum) Redeuilh (1992)
+| synonyms_ref = <ref name="urlMycoBank: Suillus mediterraneensis"/>
+| synonyms = *''Boletus mediterraneensis'' <small>Jacquet. & J.Blum (1969)</small>
+}}
+{{mycomorphbox
+| name = ''Suillus mediterraneensis''
+| ecologicalType = mycorrhizal
+| capShape = convex
+| hymeniumType=pores
+| stipeCharacter= bare
+| sporePrintColor=brown
+| howEdible=edible
+}}
+
+'''''Suillus mediterraneensis''''' is a [[species]] of [[edible mushroom]] in the genus ''[[Suillus]].'' It is found in Europe within [[Forest|Coniferous forests]], [[Mycorrhiza|mycorrhizal]] with two-needled pines ''(Pinus halepensis, P. pinea, P. pinaster).<ref name="Blum1969" />''<ref name=":0">{{Cite web|url=https://boletales.com/genera/suillus/s-mediterraneensis/|title=S. mediterraneensis « boletales.com|website=boletales.com|access-date=2019-09-10}}</ref> Originally named Boletus mediterraneensis in 1969, It was transferred to ''Suillus'' in 1992.<ref name=Redeuilh1992/> It is similar to ''[[Suillus granulatus]],'' but is distinguished by yellowish and not white flesh.<ref name=":0" />
+
+==References==
+{{Reflist|refs=
+
+<ref name=Blum1969>{{cite journal |title=Revisión des bolets (cinquiéme note) |journal=Bulletin de la Société Mycologique de France |year=1969| author=Blum J. |volume=85 |issue=1 |pages=21–65 |language=French}}</ref>
+
+<ref name=Redeuilh1992>{{cite journal |title=Novitates – Combinaison nouvelle |journal=Documents Mycologiques |year=1992 |author=Redeuilh G. |volume=22 |issue=86 |page=40 |language=French}}</ref>
+
+<ref name="urlMycoBank: Suillus mediterraneensis">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=359701 |title=''Suillus mediterraneensis'' (Jacquet. & J. Blum) Redeuilh 1992  |publisher=International Mycological Association |work=MycoBank |accessdate=2010-11-27}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|359701}}
+
+{{Taxonbar|from=Q1225456}}
+
+[[Category:Suillus|mediterraneensis]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1969]]
+[[Category:Fungi of Europe]]
+[[Category:Fungus species]]
+
+
+{{Boletales-stub}}

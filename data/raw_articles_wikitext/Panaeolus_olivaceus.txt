@@ -1,0 +1,67 @@
+{{Speciesbox
+| image = Panaeolus sect. Verrucispora.Georgia.jpg
+| genus = Panaeolus
+| species = olivaceus
+| authority = [[F.H.Møller]] (1945)
+| synonyms = ''Panaeolus castaneifolius''
+| synonyms_ref =
+}}
+{{mycomorphbox
+| name = ''Panaeolus olivaceus''
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = campanulate
+| capShape2 = convex
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = saprotrophic
+| sporePrintColor = black
+| howEdible = psychoactive
+}}
+
+'''''Panaeolus olivaceus''''' is a widely distributed, rarely identified, little brown mushroom that contains the hallucinogen [[psilocybin]]. It is often mistaken for ''[[Panaeolus foenisecii]]'' and is distinguished by its black [[spore print]] and darker [[lamella (mycology)|gill]] coloration when mature alongside a slightly thicker [[stipe (mycology)|stem]]. It is even more easily mistaken for ''[[Panaeolus cinctulus]]'' or ''[[Panaeolus fimicola]]'' and can be distinguished from them both by its slightly roughened spores. It is also easily confused with ''[[Panaeolina castaneifolia]]'', a species which has [[spore]]s that are dark brown and significantly more roughened.
+
+== Description ==
+*'''Cap''': 1 — 4 cm across, Distinctly campanulate then subhemispheric to convex, becoming broadly conic, not fully expanding, incurved margin when young, dark smoky-grayish to dark cinnamon, drying to a straw-yellow or slightly olive-gray color, remaining more reddish-brown towards the center, hygrophanous, smooth, sometimes striated or finely corrugated, flesh thick and firm.
+*'''Gills''': Adnate to adnexed, close, thin, pallid, mottled, slightly olive-greenish, becoming dark purplish gray-black in age, edge whitish.
+*'''Stipe''': 4 — 7.5 cm by 3 — 6 mm thick, equal to slightly tapering at the base, hollow, brittle, [[wikt:pruinose|pruinose]] and slightly striate, no veil remnants. Grayish to ochraceous, tan or purple at the base.
+*'''Spores''': Black, slightly roughened, 12 — 17 x 7 — 10 micrometers, elliptic, rugose or verrucose.
+*'''Microscopic features''': Basidia 24 — 28 x 10 - 12 micrometers. Cheilocystidia 20 — 38 x 5 — 10 micrometers, abundant, neck often flexuous and apices usually obtuse, thin walled and hyaline, pleurocystidia rare or absent, not projecting beyond plane of basidia.
+
+==Habitat and formation==
+''Panaeolus olivaceus'' grows scattered to gregariously in rich grassy areas, from late summer through December, across North and South America, likely more widely distributed; it has been collected in the U.S. states of [[Washington (U.S. state)|Washington]], [[Oregon]], [[Florida (U.S. state)|Florida]], [[Georgia (U.S. state)|Georgia]], [[South Carolina (U.S. state)|South Carolina]], [[Minnesota (U.S. state)|Minnesota]], [[Canada]]'s [[Quebec]], [[New Zealand]] and in the [[United Kingdom]].
+
+
+
+==Gallery==
+<gallery>
+Image:Panaeolus.castaneifolius.one.jpg|Panaeolus olivaceus
+Image:Panaeolus.castaneifolius.two.jpg|Panaeolus olivaceus
+Image:Panaeolus.castaneifolius.three.jpg|Panaeolus olivaceus
+Image:Panaeolus.castaneifolius.four.jpg|Panaeolus olivaceus
+Image:Panaeolus olivaceus.JPG|Panaeolus olivaceus
+Image:Panaeolus olivaceus iv.jpg| Panaeolus olivaceus
+</gallery>
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Panaeolus species|List of ''Panaeolus'' species]]
+
+==References==
+*{{cite book |first=Paul |last=Stamets |year=1996 |title=Psilocybin Mushrooms of the World |publisher=Ten Speed Press |location=Berkeley |isbn=0-9610798-0-0}}
+
+==External links==
+* [https://mushroomobserver.org/observer/observation_search?pattern=Panaeolus+olivaceus Mushroom Observer - Panaeolus olivaceus]
+* [http://www.svims.ca/council/Panaeo.htm Key to Panaeolus in the Pacific Northwest]
+
+{{Hallucinogenic mushrooms}}
+{{Taxonbar|from=Q7129790}}
+
+{{DEFAULTSORT:Panaeolus olivaceus}}
+[[Category:Entheogens]]
+[[Category:Psychoactive fungi]]
+[[Category:Psychedelic tryptamine carriers]]
+[[Category:Fungi of North America]]
+[[Category:Panaeolus|olivaceus]]
+[[Category:Fungi described in 1945]]
+[[Category:Fungus species]]

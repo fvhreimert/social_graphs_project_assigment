@@ -1,0 +1,115 @@
+{{Short description|Species of fungus}}
+{{speciesbox
+| image = Plectania_nannfeldtii_187.jpg
+| image_caption =
+| taxon = Plectania nannfeldtii
+| authority = [[Richard P. Korf|Korf]] (1957)
+| synonyms_ref = <ref name="urlFungorum synonymy: Plectania nannfeldtii"/>
+| synonyms = *''Paxina nigrella'' <small>[[Fred Jay Seaver|Seaver]] (1928)</small>
+*''Macropodia nigrella'' <small>(Seaver) Teng (1963)</small>
+*''Helvella nigrella'' <small>(Seaver) F.L.Tai (1979)</small>
+*''Macroscyphus nigrellus'' <small>(Seaver) Z.S.Bi (1990)</small>
+}}
+{{mycomorphbox
+| name = ''Plectania nannfeldtii''
+| whichGills = no
+| capShape = no
+| hymeniumType = smooth
+| stipeCharacter = bare
+| ecologicalType = saprotrophic
+| howEdible = unknown 
+| sporePrintColor = white
+}}
+
+'''''Plectania nannfeldtii''''', commonly known as '''Nannfeldt's Plectania''', the '''black felt cup''', or the '''black snowbank cup fungus''', is a species of [[fungus]] in the family [[Sarcosomataceae]]. The [[sporocarp (fungi)|fruit bodies]] of this species resemble small, black, goblet-shaped shallow cups up to {{convert|3|cm|abbr=on|frac=8}} wide, with stems up to {{convert|4|cm|abbr=on|frac=8}} long attached to black [[mycelia]].
+
+The fruit bodies, which may appear alone or in groups on the ground in conifer [[forest floor|duff]], are usually attached to buried woody debris, and are commonly associated with melting snow. ''Plectania nannfeldtii'' is found in western North America and in Asia, often at higher elevations. Similar black cup fungi with which ''P.&nbsp;nannfeldtii'' may be confused include ''[[Pseudoplectania vogesiaca]]'', ''[[Pseudoplectania nigrella|P.&nbsp;nigrella]]'', and ''[[Helvella corium]]''.
+
+==Taxonomy==
+
+The species was first described by British mycologist [[Fred Jay Seaver]] in 1928, who called it ''Paxina nigrella'' in his [[monograph]] of the [[cup fungi]] of North America. The [[type specimen]]s were found in 1914 in [[Tolland, Colorado]], by mycologist [[Lee Oras Overholts]];<ref name=Seaver1928/> further collections were reported from Colorado and [[California]] in 1930.<ref name=Seaver1930/> The species has also been referred to as ''Macropodia nigrella'',<ref name=Teng1963/> ''Helvella nigrella'',<ref name=Tai1979/> and ''Macroscyphus nigrellus''.<ref name=Bi1990/>
+
+In 1957 [[Richard P. Korf]] transferred the species to its current name, changing the [[specific name (botany)|specific epithet]] in the process as ''Plectania nigrella'' was already in use (it is a synonym of ''[[Pseudoplectania nigrella]]''). The name chosen by Korf honors the Swedish mycologist [[John Axel Nannfeldt]], responsible for some early advances in the understanding of this fungus and other cup fungi. ''P.&nbsp;nannfeldtii'' is [[classification (biology)|classified]] in Korf's [[section (botany)|section]] ''Plectania'' of the genus ''[[Plectania]]'' because of its [[wikt:ellipsoid|ellipsoid]] [[ascospore]]s.<ref name=Korf1957/> [[Common name|Vernacular]] names for the species include the "black felt cup",<ref name=McKnight1987/>  "Nannfeldt's Plectania",<ref name=Tylukti1979/> or the "black snowbank cup fungus".<ref name=Arora1986/>
+
+==Description==
+
+
+The [[ascocarp|fruit body]] is shallowly cup- or goblet-shaped and may be up to {{convert|3|cm|abbr=on|frac=8}} in diameter. The edges of the cup are somewhat wavy, and remain curled inward until they flare out when they are very old. The external surface is covered with delicate blackish-brown hairs, while the color of the surface underneath is also brownish-black. The surface wrinkles when the fruit body is dry. The internal, convex surface of the cup contains the spore-producing tissue layer known as the [[hymenium]]; it is black. The [[stipe (mycology)|stem]] is thin and may be up to {{convert|4|cm|abbr=on|frac=8}} long with a diameter of 2–3&nbsp;mm, tapering towards the base. Like the fruit body, it is covered in delicate brownish-black hairs, and it is similar in color to the outer surface of the cup. The dense, coarse [[mycelia|mycelium]] at the base of the stem is black.<ref name=Seaver1928/> The [[trama (mycology)|flesh]] is thin and blackish-gray.<ref name=Evenson1997/>
+
+[[Edible mushroom|Edibility]] has not been determined for this species.<ref name=Orr1979/>
+
+===Microscopic features===
+
+In mass, the spores are white.<ref name=Evenson1997/> The [[spore]]s are [[hyaline]] (translucent), [[wikt:ellipsoid|ellipsoid]], with dimensions of 30–35 by 15&nbsp;[[micrometre|μm]].<ref name=Orr1979/> Opinions are divided about the distribution of oil droplets in the spores: Miller says that the spores typically have two oil droplets at either end,<ref name=Miller1967/> Trudell and Ammirati, in their [[field guide]] to mushrooms of the Pacific Northwest, says that the spores "lack large oil drops",<ref name=Trudell2009/> while Evenson claims that there are "numerous tiny oil drops."<ref name=Evenson1997/> The walls of the spores have thin horizontal ridges that are ''cyanophilic'', that is, they are visible with [[light microscopy]] when [[staining|stained]] with [[methyl blue]].<ref name=Li1995/> The spore-bearing cells, the [[ascus|asci]], are about 500&nbsp;μm long and 20&nbsp;μm wide. The asci are operculate, that is, with a flap at one end that opens to discharge the spores.<ref name=Miller1967/> Interspersed between the asci are numerous sterile, [[wikt:filamentous|filamentous]] dark-brown cells called [[paraphyses]] that are slightly enlarged on one end, and 380–420&nbsp;μm long by 4–5&nbsp;μm wide.<ref name=Seaver1928/>
+
+===Similar species===
+{{multiple image
+| align = right
+| image1 = 2008-03-28 Pseudoplectania nigrella cropped.jpg
+| width1 = {{#expr: (150 * 2500 / 1800) round 0}}
+| image2 = Helvella corium.jpg
+| width2 = {{#expr: (150 * 1658 / 1338) round 0}}
+| footer = ''Pseudoplectania nigrella'' (left) and ''Helvella corium'' (right) are lookalike species.}}
+
+Based on external appearance, ''Plectania nannfeldtii'' is similar to ''[[Pseudoplectania vogesiaca]]''. Although this latter species may be difficult to distinguish by its less hairy external fruit body surface, its microscopic characters identify it more definitively: ''P.&nbsp;vogesiaca'' has spores that are much smaller, typically with widths of 12–14&nbsp;μm.<ref name=Seaver1928/> ''[[Helvella corium]]'' is another black cup fungus that appears in the spring; it has smaller spores, whitish margins on the cup edges, and shorter stems than ''P.&nbsp;nannfeldtii''.<ref name=Evenson1997/> ''P.&nbsp;melastoma'' and ''[[Plectania milleri|P.&nbsp;milleri]]'' have, at most, short stipes.<ref>{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=292–293|language=en}}</ref> ''[[Pseudoplectania nigrella]]'' is smaller, with a hairier outer surface, a darker inner cup surface, and a rudimentary stem.<ref name=Trudell2009/>
+
+==Habitat and distribution==
+
+''Plectania nannfeldtii'' is typically found at higher elevations in [[conifer]]ous forests growing on wet twigs or other rotting woody debris, often in or near snow.<ref name=Orr1979/> It often begins its development underneath the snow, reaching maturity as the snowbank recedes to expose it; one source suggests that its metabolic heat may help it melt a path through snow as it grows.<ref name=Trudell2009/> It may grow singly, scattered or in clusters, and has been noted to have a preference for the wood of ''[[Picea engelmannii]]'' and ''[[Abies lasiocarpa]]'' as well as other conifers. In North America, it is found in the Western United States and Canada, where it fruits from late May to early August;<ref name=Miller1967/> it is common in the [[Sierra Nevada]] and in higher elevations of the [[Pacific Coast Ranges]].<ref name="urlCalifornia Fungi: Plectania nannfeldtii"/> Its distribution also includes China<ref name=Teng1963/> and Japan.<ref name=Otani1980/>
+
+==See also==
+*[[Snowbank fungus]]
+
+==References==
+
+{{Reflist|colwidth=30em|refs=
+
+<ref name=Arora1986>{{cite book |author=Arora D. |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/830/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, California |year=1986 |orig-date=1979 |edition=2nd |pages=830-31}}</ref>
+
+
+<ref name=Bi1990>{{cite book |title=Macrofungus flora of the mountainous district of North Guangdong |vauthors=Bi ZS, Zheng G, Li T |year=1990 |page=26 |language=zh}}</ref>
+
+<ref name=Evenson1997>{{cite book |title=Mushrooms of Colorado and the Southern Rocky Mountains |author=Evenson VS |year=1997 |publisher=Westcliffe Publishers |isbn=978-1-56579-192-3 |page=51 |url=https://books.google.com/books?id=EAeDeyqZLq0C&pg=PA51}}</ref>
+
+<ref name=Korf1957>{{cite journal |author=Korf RP |year=1957 |title=Two bulgarioid genera – ''Galiella'' and ''Plectania'' |journal=Mycologia |volume=49 |issue=1 |pages=107–111 |jstor=3755734 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0049/001/0107.htm |doi=10.2307/3755734}}</ref>
+
+<ref name=Li1995>{{cite journal |doi=10.1139/b95-188 |vauthors=((Li L-T)), Kimbrough JW |year=1995 |title=Spore wall ontogeny in ''Pseudoplectania nigrella'' and ''Plectania nannfeldtii'' (Ascomycota, Pezizales) |journal=Canadian Journal of Botany |volume=73 |issue=11 |pages=1761–1767}}</ref>
+
+<ref name=McKnight1987>{{cite book |vauthors=McKnight VB, McKnight KH |title=A Field Guide to Mushrooms, North America |publisher=Houghton Mifflin |location=Boston, Massachusetts |year=1987 |page=35 |isbn=978-0-395-91090-0 |url=https://books.google.com/books?id=kSdA3V7Z9WcC&pg=PA35}}</ref>
+
+<ref name=Miller1967>{{cite journal |author=Miller OK Jr. |year=1967 |title=Notes on Western Fungi. I |journal=Mycologia |volume=59 |issue=3 |pages=504–512 |jstor=3756769 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0059/003/0504.htm |doi=10.2307/3756769}}</ref>
+
+<ref name=Orr1979>{{cite book |vauthors=Orr DB, Orr RT |title=Mushrooms of Western North America |publisher=University of California Press |location=Berkeley, California |year=1979 |page=25 |isbn=978-0-520-03656-7}}</ref>
+
+<ref name=Otani1980>{{cite journal |author=Otani Y. |year=1980 |title=Sarcoscyphineae of Japan |journal=Nippon Kingakukai Kaiho |volume=21 |issue=2 |pages=149–179 |language=ja |issn=0029-0289}}</ref>
+
+<ref name=Seaver1928>{{cite book |title=The North American Cup-Fungi (Operculates) |author=Seaver FJ |year=1928 |publisher=Seaver |location=New York |page=48 |url=https://www.biodiversitylibrary.org/item/26576#62}}</ref>
+
+<ref name=Seaver1930>{{cite journal |doi=10.2307/3753967 |vauthors=Seaver FJ, Shope PF |year=1930 |title=A mycological foray through the mountains of Colorado, Wyoming, and South Dakota |journal=Mycologia |volume=22 |issue=1 |pages=1–8 |jstor=3753967 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0022/001/0001.htm}}</ref>
+
+<ref name=Tai1979>{{cite book |title=Sylloge Fungorum Sinicorum |author=Tai FL |year=1979 |page=157 |language=zh}}</ref>
+
+<ref name=Teng1963>{{cite book |title=Fungi of China [Chung-kuo Ti Chen-chun] |author=Teng SC |year=1963 |page=762 |language=zh}}</ref>
+
+<ref name=Trudell2009>{{cite book |vauthors=Trudell S, Ammirati J |title=Mushrooms of the Pacific Northwest |series=Timber Press Field Guides |publisher=Timber Press |location=Portland, Oregon |year=2009 |page=292 |isbn=978-0-88192-935-5 |url=https://books.google.com/books?id=WevHvt6Tr8kC&pg=PA292}}</ref>
+
+<ref name=Tylukti1979>{{cite book |author=Tylutki EE |title=Mushrooms of Idaho and the Pacific Northwest. Vol I. Discomycetes |publisher=University Press of Idaho |location=Moscow, Idaho |year=1979 |pages=25–26 |isbn=0-89301-062-6}}</ref>
+
+<ref name="urlCalifornia Fungi: Plectania nannfeldtii">{{cite web |url=http://www.mykoweb.com/CAF/species/Plectania_nannfeldtii.html |title=''Plectania nannfeldtii'' |vauthors=Wood M, Stevens F |publisher=MykoWeb |work=California Fungi |access-date=2010-07-07 |url-status=dead |archive-url=https://web.archive.org/web/20110102012735/http://mykoweb.com/CAF/species/Plectania_nannfeldtii.html |archive-date=2011-01-02 }}</ref>
+
+<ref name="urlFungorum synonymy: Plectania nannfeldtii">{{cite web |url=http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=303802 |title=''Plectania nannfeldtii'' Korf |publisher=CAB International |work=Index Fungorum |access-date=2010-07-07}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|303802}}
+
+{{Good article}}
+{{Taxonbar|from=Q7204379}}
+
+[[Category:Pezizales]]
+[[Category:Fungi described in 1928]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Asia]]
+[[Category:Snowbank fungi]]
+[[Category:Fungus species]]

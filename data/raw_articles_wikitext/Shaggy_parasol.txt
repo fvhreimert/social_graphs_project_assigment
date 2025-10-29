@@ -1,0 +1,74 @@
+{{taxobox
+| name = Shaggy parasol
+| image = Chlorophyllum rhacodes LC0093.jpg
+| image_caption = ''Chlorophyllum rhacodes''
+| regnum = [[Fungi]]
+| divisio = [[Basidiomycota]]
+| classis = [[Agaricomycetes]]
+| ordo = [[Agaricales]]
+| familia = [[Agaricaceae]]
+| genus = ''[[Chlorophyllum]]''
+| species_complex = '''''Chlorophyllum rhacodes'' complex'''
+}}
+{{mycomorphbox
+| name = ''Chlorophyllum rhacodes''
+| whichGills = free
+| capShape = umbonate
+| capShape2 = convex
+| hymeniumType = gills
+| stipeCharacter = ring
+| ecologicalType = saprotrophic
+| sporePrintColor = white
+| howEdible = choice
+| howEdible2 = allergenic
+}}
+
+'''Shaggy parasol''' is the [[common name]] for three closely related species of [[mushroom]]: '''''Chlorophyllum rhacodes''''', '''''C.&nbsp;olivieri''''' and '''''C.&nbsp;brunneum''''', found in North America, Europe and [[Southern Africa]]. ''C.&nbsp;brunneum'' is also found in [[Australia]].
+
+==Taxonomy==
+''Chlorophyllum rhacodes'', ''C.&nbsp;olivieri'' and ''C.&nbsp;brunneum'' were formerly known as ''Macrolepiota rhacodes'' or ''Lepiota rhacodes'', but the name was changed on the basis of [[molecular phylogenetic]] evidence demonstrating a closer relationship to ''[[Chlorophyllum molybdites]]'' than to ''[[Macrolepiota procera]]''.<ref>{{cite journal|author1=Vellinga EC |author2=de Kok RPJ |author3=Bruns TD. |year=2003|title=Phylogeny and taxonomy of ''Macrolepiota'' (Agaricaceae) |journal=Mycologia|volume=95|pmid=21156633|issue=3|pages=442–56 |url=http://www.mycologia.org/cgi/content/full/95/3/442 |access-date=2007-11-09 |doi=10.2307/3761886 |jstor=3761886|url-access=subscription }}</ref> The subspecies ''Macrolepiota rhacodes'' var. ''brunneum'' was also elevated to species status as ''Chlorophyllum brunneum''. ''Chlorophyllum olivieri'' is a closely related species that is also eaten as the "Shaggy Parasol".
+
+Many reference works spell the epithet "''rachodes''" rather than "''rhacodes''". The spelling "rachodes" was used by [[Carlo Vittadini|Vittadini]] when he first published the species in 1835, but was erroneous as the Greek word ''rhakos'' 'piece of cloth' should be transcribed as ''rhacos''. [[Index Fungorum]] keeps to the original author's spelling, "''rachodes''".<ref>{{cite web |url=http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=257410 |title=''Chlorophyllum rachodes'' page |work=Species Fungorum |publisher=Royal Botanic Gardens Kew |access-date=2017-05-22}}</ref>
+
+== Description ==
+The shaggy parasol is a large and conspicuous [[agaric]], with thick brown [[scale (zoology)|scales]] and protuberances on its fleshy white [[pileus (mycology)|cap]]. The [[lamella (mycology)|gills]] and [[spore print]] are both white in colour. Its [[stipe (mycology)|stipe]] is slender, but bulbous at the base, is coloured uniformly and bears no patterns. It is fleshy, and a reddish, or [[Maroon (color)|maroon]] discoloration occurs and a pungent odour is evolved when it is cut. The [[egg (biology)|egg]]-shaped caps become wider and flatter as they mature.
+
+In all three species, the cap reaches about {{convert|6|to|20|cm|frac=4}} in width and the stipe grows to {{convert|5|to|20|cm|abbr=on|round=0.5}} tall with a diameter up to 2 to 3&nbsp;cm.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=559–560}}</ref><ref>{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=84|oclc=797915861}}</ref>
+
+{{gallery|mode=packed
+|Knolparasolzwammen. 09-11-2023. (d.j.b).jpg|Two young tuberous ''C.&nbsp;rhacodes''
+|Macrolepiota rhacodes JPG3.jpg|Adult ''C.''&nbsp;''rhacodes '' cap
+}}
+
+=== Similar species ===
+
+The shaggy parasol is similar in appearance to the similarly edible [[parasol mushroom]], ''Macrolepiota procera''. The latter grows considerably larger however, and is more likely to be found in the open than ''C.&nbsp;rhacodes'', which prefers more [[shade (shadow)|shade]] and dislikes open [[pastures]] and [[Field (agriculture)|fields]]. Another distinguishing feature is that ''C.&nbsp;rhacodes'' lacks the brown bands that are on the stem of ''M.&nbsp;procera''.
+
+==Edibility==
+
+The shaggy parasol is popularly praised as an [[edible mushroom]].<ref name="Miller2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=54}}</ref> However, it contains [[toxins]] which can cause [[gastric upset]]s<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |url=https://archive.org/details/mushroomsotherfu0000phil |url-access=registration |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=[https://archive.org/details/mushroomsotherfu0000phil/page/35 35]}}</ref> and some individuals show a strong allergic response to all ''Chlorophyllum'' species, including shaggy parasols.<ref>{{Cite book |last1=Siegel |first1=Noah |title=Mushrooms of Cascadia: A Comprehensive Guide to Fungi of the Pacific Northwest |last2=Schwartz |first2=Christian |date=September 1, 2024 |publisher=Backcountry Press |isbn=9781941624197 |location=Humboldt County, CA |pages=74}}</ref>
+
+While ''Chlorophyllum rhacodes'' and ''C. olivieri'' are considered edible everywhere, ''C.&nbsp;brunneum'' is considered toxic in some European countries as it causes severe gastric upset, although no specific toxin has been identified.<ref>{{cite web |url=http://www.tintling.com/pilzbuch/arten/c/Chlorophyllum_brunneum.html |title=''Chlorophyllum brunneum'' page |work=Tintling |publisher=Karin Montag |access-date=2023-09-26}}</ref>
+
+Furthermore, young shaggy parasols look identical to the poisonous ''[[Chlorophyllum molybdites]]'' (the mushroom that causes the most poisonings in North America yearly).<ref>[http://www.mushroomexpert.com/chlorophyllum_molybdites.html Chlorophyllum molybdites] (MushroomExpert.com)</ref> Checking for a white spore print is essential as ''C.&nbsp;molybdites''{{'}} print is green (older specimens having slightly green gills).<ref name="Miller2006" /> As a result, this mushroom is not recommended for inexperienced hunters.
+
+==References==
+{{Reflist}}
+
+==Further reading==
+{{Commons category|Chlorophyllum rhacodes}}
+* Collins Gem Guide: Mushrooms and Toadstools, [[Stefan Buczacki]] 1982.
+* The Audubon Society Field Guide to North American Mushrooms, Knopf Publishing.
+* The Mushroom Book, Thomas Læssøe & [[Anna Del Conte]], Dorling Kindersley, 1996.
+
+{{Taxonbar|from=Q757119}}
+
+[[Category:Agaricaceae]]
+[[Category:Edible fungi]]
+[[Category:Fungi found in fairy rings]]
+[[Category:Fungi of Australia]]
+[[Category:Fungi native to Australia]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Europe]]
+[[Category:Fungus common names]]
+[[Category:Fungus species]]

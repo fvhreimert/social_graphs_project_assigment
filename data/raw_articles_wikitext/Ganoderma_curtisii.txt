@@ -1,0 +1,60 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Golden reishi imported from iNaturalist photo 314520218 on 27 February 2024.jpg
+| image_caption = Maryland, 2023
+| genus = Ganoderma
+| species = curtisii
+| authority = ([[Berk.]]) [[William Alphonso Murrill|Murrill]] (1908)
+| synonyms_ref = <ref name="urlMycoBank: Ganoderma curtisii"/>
+| synonyms = ''Polyporus curtisii'' <small>Berk. (1849)</small><br>
+''Fomes curtisii'' <small>(Berk.) [[Mordecai Cubitt Cooke|Cooke]] (1885)</small><br>
+''Scindalma curtisii'' <small>(Berk.) [[Otto Kuntze|Kuntze]] (1898)</small>
+}}
+{{mycomorphbox
+| name             =  ''Ganoderma curtisii''
+| whichGills       =  decurrent
+| whichGills2      = subdecurrent 
+| capShape         =  offset
+| hymeniumType     = pores
+| stipeCharacter   = bare
+| ecologicalType   = saprotrophic
+| sporePrintColor  = brown
+}}
+
+'''''Ganoderma curtisii''''' is a wood-decaying [[polypore]] found in eastern North America.
+
+==Taxonomy==
+
+The name was originally established by [[Miles Berkeley]] in 1849 as ''Polyporus curtisii'', and later transferred to the genus ''[[Ganoderma]]'' by [[William Alphonso Murrill]] in 1908. This species is tentative and is a subject of debate as to its viability as a distinct species from North American specimens described as ''[[Ganoderma lucidum|G.&nbsp;lucidum]]'' ([[Ganoderma sessile|''G.&nbsp;sessile'']]), which is much more widely distributed throughout the US. There is also debate about the identities of several species that resemble ''G.&nbsp;lucidum'' and [[Ganoderma tsugae|''G.&nbsp;tsugae'']].
+
+One reason for an alleged synonymy between ''G.&nbsp;sessile'' and ''G.&nbsp;curtisii'' is overlap in habitat, decaying hardwoods. According to Volk, Gilbertson and [[Leif Ryvarden|Ryvarden]], authors of ''North American Polypores'', it is not considered a separate species from ''G. lucidum''. Bessette et al., authors of ''Mushrooms of the Southeastern United States'', echo this and list it as a synonym to ''G.&nbsp;lucidum''.<ref>{{cite book |last1=Bessette |first1=Alan |last2=Bessette |first2=Arleen |first3=Roody |last3=William |last4=Dunway |first4= Dail |title=Mushrooms of the Southeastern United States |publisher=Syracuse University Press |date=2007 |orig-date=1st. Pub. 2007 |page=254}}</ref> [[Paul Stamets]] considers ''G.&nbsp;lucidum'' and ''G.&nbsp;curtisii'' to both be members of a tight-knit [[species complex]].<ref>
+{{cite book |last=Stamets |first=Paul |authorlink=Paul Stamets |title=Mycelium Running |publisher=Ten Speed Press |year=2005 |page=[https://archive.org/details/myceliumrunningh00stam_0/page/228 228] |isbn=978-1-58008-579-3 |url-access=registration |url=https://archive.org/details/myceliumrunningh00stam_0/page/228 }}</ref>
+
+However, several recent molecular studies have shown ''Ganoderma curtisii'' to be genetically distinct from ''G.&nbsp;lucidum'', calling into doubt the synonymy of the two species and supporting previous mycologists' opinion that it is a distinct species.<ref>{{cite journal|url=https://www.researchgate.net/publication/267456447|title=Global diversity of the Ganoderma lucidum complex (Ganodermataceae, Polyporales) inferred from morphology and multilocus phylogeny|first1=Li-Wei|last1=Zhou|first2=Yun|last2=Cao|first3=Sheng-Hua|last3=Wu|first4=Josef|last4=Vlasák|first5=De-Wei|last5=Li|first6=Meng-Jie|last6=Li|first7=Yu-Cheng|last7=Dai|date=25 October 2015|journal=Phytochemistry|volume=114|pages=7–15|access-date=23 September 2018|via=ResearchGate|doi=10.1016/j.phytochem.2014.09.023|pmid=25453909|bibcode=2015PChem.114....7Z }}</ref><ref>{{cite journal|last1=Cao|first1=Yun|last2=Wu|first2=Sheng-Hua|last3=Dai|first3=Yu-Cheng|year=2012|title=Species clarification of the prize medicinal Ganoderma mushroom "Lingzhi"|journal=Fungal Diversity|volume=56|pages=49–62|doi=10.1007/s13225-012-0178-5|s2cid=15239238}}</ref><ref>{{cite journal|doi=10.1080/21501203.2013.774299|title=What is the Chinese "Lingzhi"? – a taxonomic mini-review|journal=Mycology|volume=4|issue=1|pages=1–4|date=March 2013|last1=Yang|first1=Zhu L.|last2=Feng|first2=Bang|s2cid=82834660 |doi-access=free}}</ref> The same studies support the idea that ''G.&nbsp;lucidum'' sensu stricto is actually absent from the North American continent and that the mushroom widely called ''G.&nbsp;lucidum'' in North America is instead ''G.&nbsp;sessile'', a member of the ''Ganoderma resinaceum'' complex, with ''G.&nbsp;curtisii'' as a separate species.
+
+==Description==
+
+This polypore bears a marked resemblance to ''G.&nbsp;lucidum'' and generally has a [[stipe (mycology)|stipe]], sometimes lacking the characteristic red to purple varnished appearance that ''G.&nbsp;lucidum'' possesses. The [[trama (mycology)|flesh]] is spongy in pore tissue and firm in the stipe. The pores bruise brown when damaged.
+
+Its habitat of choice is decaying stumps and roots of [[hardwood]]s, which aligns perfectly with that of ''[[Ganoderma sessile|G.&nbsp;sessile]]''.
+
+==Distribution and habitat==
+The species is primarily found in the [[Southeastern United States]].<ref>Coutler, John (1908) ''Botanical Gazette'', University of Chicago Press, p. 336.</ref><ref>Volk, Tom, Engelbrecht, Kathleen, "Tom Volk's Fungus of the Month", [http://botit.botany.wisc.edu/toms_fungi/mar2005.html ''Ganoderma lucidum'']</ref> Craig and Levetin claim to have observed it in [[Oklahoma]].<ref>{{cite journal |last1=Craig |first1=Rebekah |last2=Levetin |first2=Estelle |year=2000 |title= Multi Year Study of ''Ganoderma'' Biology |journal=Aerobiologia |volume=16 |pages=75–81 |url= http://pollen.utulsa.edu/Ganoderma.pdf|doi=10.1023/A:1007682600175 |s2cid=31860024 }}</ref>
+
+==References==
+{{Reflist|refs=
+
+<ref name="urlMycoBank: Ganoderma curtisii">{{cite web |title=''Ganoderma curtisii'' (Berk.) Murrill 1908 |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=100480 |publisher=[[MycoBank]]. International Mycological Association |access-date=2011-12-23}}</ref>
+
+}}
+
+==External links==
+*[https://mushroomobserver.org/observer/observation_search?pattern=Ganoderma+curtisii ''G. curtisii''] – Images at [[Mushroom Observer]]
+
+{{Taxonbar|from=Q5521447}}
+
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1849]]
+[[Category:Ganoderma|curtisii]]
+[[Category:Taxa named by Miles Joseph Berkeley]]
+[[Category:Fungus species]]

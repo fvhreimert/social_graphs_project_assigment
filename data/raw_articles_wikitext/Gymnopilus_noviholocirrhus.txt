@@ -1,0 +1,42 @@
+{{Short description|Species of fungus}}
+{{more citations needed|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption =
+| taxon = Gymnopilus noviholocirrhus
+| authority = S. Ito & S. Imai
+| synonyms =
+}}
+{{mycomorphbox
+| name = Gymnopilus noviholocirrhus
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+
+'''''Gymnopilus noviholocirrhus''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]]. This species is known only from one locality, on the island of [[Hahajima]], growing on the species ''Celtis boninensis''. It is thought to be extinct.<ref>{{cite journal |last1=Hosaka |first1=Kentaro |title=The Status of Voucher Specimens of Mushroom Species Thought to Be Extinct from Japan |page=61 |url=https://www.kahaku.go.jp/research/publication/botany/download/44_2/L_BNMNS_B44-2_53.pdf}}</ref>
+
+==See also==
+{{Portal|Fungi}}
+* [[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{reflist}}
+
+==External links==
+*''[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=286784 Gymnopilus noviholocirrhus]'' at [[Index Fungorum]]
+
+{{Taxonbar|from=Q5624897}}
+
+{{DEFAULTSORT:Gymnopilus noviholocirrhus}}
+[[Category:Gymnopilus|noviholocirrhus]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

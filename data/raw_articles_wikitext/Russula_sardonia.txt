@@ -1,0 +1,52 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Russ.sard.jpg
+| taxon = Russula sardonia
+| authority = [[Elias Magnus Fries|Fr.]] (1838)
+| synonyms = *''R. drimeia'' <small>[[Mordecai Cubitt Cooke|Cooke]] (1881)</small>
+*''R. chrysodacryon'' <small>[[Rolf Singer|Singer]] (1923)</small>
+*''R. emeticiformis'' <small>[[William Alphonso Murrill|Murrill]] (1938)</small>
+}}
+{{Mycomorphbox 
+| name = ''Russula sardonia''
+| whichGills =  adnexed
+| capShape = convex
+| capShape2 = depressed
+| hymeniumType = gills
+| stipeCharacter = bare
+| sporePrintColor = cream
+| howEdible = inedible
+}}
+
+'''''Russula sardonia''''', commonly known as the '''primrose brittlegill''', is a [[mushroom]] of the genus ''[[Russula]]'', which are commonly known as '''brittlegills'''. The fruiting body, or [[mushroom]], is a reddish-purple, the colour of [[blackberry]] juice, and is found in [[temperate coniferous forest|coniferous woodland]] in summer and autumn. It is inedible, and like many inedible members of the genus, has a hot, peppery taste.
+
+==Taxonomy==
+It was given its present [[binomial name]] by the eminent Swedish [[mycologist]] [[Elias Magnus Fries]] in 1838. The [[specific name (botany)|specific epithet]] ''sardonia'', from the [[Greek language|Greek]], means bitter or acrid, and is a reference to its taste. ''Russula drimeia'' described by [[Mordecai Cubitt Cooke]] in 1881, ''R.&nbsp;chrysodacryon'' by [[Rolf Singer]] in 1923, and ''R.&nbsp;emeticiformis'' by [[William Alphonso Murrill]] in 1938, are [[synonym (biology)|synonyms]]. The name has also been applied to what is now considered ''R.&nbsp;queletii''.
+
+==Description==
+The [[pileus (mycology)|cap]] grows to around {{convert|10|cm|in|round=0.5|abbr=on}} in diameter. It is commonly purplish-red, but brownish, and greenish forms have been recorded. Usually it is darker in colour towards the middle, which is convex when young, but becomes depressed in the centre with age. The [[stipe (mycology)|stem]] is occasionally white, but more commonly is flushed with pale purple-red, and has a grape-like; easily removed bloom. It is 3–8&nbsp;cm tall and 1–1.5&nbsp;cm in diameter. The adnexed to slightly decurrent [[Lamella (mycology)|gills]] are pale primrose yellow, and they darken with age. They are narrow, and exude water droplets when young.(see photograph left) They also turn slowly pink when [[ammonia]] is dropped onto them. This identifies the mushroom to species level, and is a ‘must do’ test for the rarer colour forms. The [[spore print]] is cream.<ref name=Phillips06>{{cite book| author = Roger Phillips | year = 2006  | title = Mushrooms | publisher = Pan MacMillan | isbn = 978-0-330-44237-4|page= 26}}</ref> The flesh is firm, and has a very hot taste, making the mushroom inedible.
+
+===Similar species===
+*''[[Russula torulosa]]'' [[Giacomo Bresadola|Bres.]] grows in the same habitat, and is said to smell strongly of 'raw apple'.<ref name=C&D1995>{{cite book | author = Regis Courtecuisse and Bernard Duhem  | date = 1995 |version=British version | title = Mushrooms and Toadstools of Britain and Europe | publisher = Harper Collins | isbn = 978-0-00-220025-7}}</ref> It has no ammonia reaction.
+*''[[Russula queletii]]'' [[Elias Magnus Fries|Fr.]] which also lives with conifers ''[[Picea]]'' (spruce), and also smells like apples.<ref name=C&D1995/>
+
+==Distribution and habitat==
+''Russula sardonia'' appears in late summer and autumn; growing with ''[[Pinus]]'' (pine) in coniferous woodland, on sandy soils. It is a common mushroom, and is found across Britain, and Northern Europe.<ref name=Phillips06/> It does not occur in North America.
+
+==Edibility==
+This mushroom is inedible, and has a 'pepper hot' taste.<ref name=Phillips06/> Many similar-tasting Russulas are poisonous when eaten raw. The symptoms are mainly gastrointestinal in nature: [[diarrhoea]], vomiting and [[colic]]ky abdominal cramps. The active agent has not been identified but thought to be [[sesquiterpene]]s, which have been isolated from this species<ref>Andina D. ''et al''. (1980). Sesquiterpenes from ''Russula sardonia''. ''Phytochemistry'' '''19''': 93–97</ref> and the related genus ''[[Lactarius (fungus)|Lactarius]]''.<ref>{{cite book |last=Benjamin| first= Denis R. |title=Mushrooms: poisons and panaceas — a handbook for naturalists, mycologists and physicians|page= 369|publisher=WH Freeman and Company| location=New York |year=1995| isbn=978-0-7167-2600-5}}</ref>
+
+==See also==
+* [[List of Russula species|List of ''Russula'' species]]
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q206449}}
+
+[[Category:Fungi described in 1838]]
+[[Category:Fungi of Europe]]
+[[Category:Russula|sardonia]]
+[[Category:Inedible fungi]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]

@@ -1,0 +1,66 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Clitocybe-fragrans-duft-trichterling.jpg
+| genus = Clitocybe
+| species = fragrans
+| authority = ([[With.]]) [[P.Kumm.]] (1871)
+| synonyms_ref = <ref name="urlFungorum: synonymy"/>
+| synonyms = 
+  {{plainlist|
+*''Agaricus fragrans'' <small>With. (1792)</small>
+*''Clitocybe deceptiva'' <small>[[H.E.Bigelow]] (1982)</small>
+*''Clitocybe depauperata'' <small>([[J.E.Lange]]) [[P.D.Orton]] (1960)</small>
+*''Clitocybe fragrans'' var. ''depauperata'' <small>J.E.Lange (1930)</small>
+*''Lepista fragrans'' <small>(With.) [[Harri Harmaja|Harmaja]] (1976)</small>
+*''Omphalia fragrans'' <small>(With.) [[Samuel Frederick Gray|Gray]] (1821)</small>
+*''Pseudolyophyllum fragrans'' <small>(With.) [[Raithelh.]] (1978)</small>
+  }}
+}}
+{{mycomorphbox 
+| name = ''Clitocybe fragrans''
+| whichGills = decurrent 
+| capShape = flat 
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = white
+| howEdible = edible
+| howEdible2 = caution
+}}
+
+'''''Clitocybe fragrans''''' is a species of mushroom with several lookalikes, some of which are [[Mushroom poisoning|poisonous]].
+
+== Description ==
+It is a white mushroom. The [[pileus (mycology)|cap]] ranges from {{Convert|1-5|cm|frac=4}} in diameter.<ref name=":0" /> The gills are somewhat close.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=497}}</ref> The [[stipe (mycology)|stem]] is {{Convert|2-6|cm|abbr=on|frac=8}} long and {{Convert|2–5|mm|frac=16}} wide.<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=148–149|oclc=797915861}}</ref> It has a fragrant odour resembling [[aniseed]].<ref name="audu" /> The [[spore print]] is whitish.<ref name="audu" />
+
+=== Similar species ===
+Within its genus, it notably resembles the deadly ''[[Clitocybe dealbata]]'' (which lacks the anise odour)<ref name=":0" /> and the edible ''[[Clitocybe odora]]'' (the aniseed toadstool).<ref name=":0" />
+
+Other lookalikes lacking the anise scent can be found especially in the genera ''[[Leucocybe]]'', ''[[Rhizocybe]]'', ''[[Singerocybe]]''.<ref name="audu" />
+
+== Distribution and habitat ==
+It can be found throughout Europe growing in [[broadleaf woodland]], from August to December.<ref name="tfb">{{Cite book |last=Francis-Baker |first=Tiffany |title=Concise Foraging Guide |date=2021 |publisher=[[Bloomsbury Publishing|Bloomsbury]] |isbn=978-1-4729-8474-6 |series=[[The Wildlife Trusts]] |location=London |pages=136}}</ref> It can also be found in North America's West Coast and [[Pacific Northwest]] regions under conifers, from October to February.<ref name="audu" />
+
+== Edibility ==
+While [[edible mushroom|edible]], some guides caution against its consumption as it can be confused with deadly [[Mushroom poisoning|poisonous]] species.<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |url=https://archive.org/details/mushroomsotherfu0000phil |url-access=registration |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=[https://archive.org/details/mushroomsotherfu0000phil/page/61 61]}}</ref> It can be preserved by drying.<ref name="tfb" />
+
+==References==
+{{Reflist|refs=
+
+<ref name="urlFungorum: synonymy">{{cite web |title=Synonymy: ''Clitocybe fragrans'' (With.) P. Kumm. |url=http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=232936 |publisher=[[Index Fungorum]]. CAB International |access-date=2012-12-15}}</ref>
+
+}}
+
+==External links==
+* ''[http://www.mykoweb.com/CAF/species/Clitocybe_fragrans.html Clitocybe fragrans]''
+
+{{Taxonbar|from=Q3817466}}
+
+[[Category:Clitocybe|fragans]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1792]]
+[[Category:Fungi of Europe]]
+[[Category:Fungus species]]
+
+
+{{Tricholomataceae-stub}}

@@ -1,0 +1,48 @@
+{{Short description|Species of fungus}}
+{{Speciesbox 
+| image = Mycena aetites.png
+| image_caption = 
+| genus = Mycena
+| species = aetites
+| authority =  ([[Elias Magnus Fries|Fr.]]) [[Lucien Quélet|Quél.]] (1872)
+| synonyms = ''Agaricus aetites'' <small>Fr. (1838)</small><br>
+''Agaricus consimilis'' <small>Cooke</small><br>
+''Agaricus umbelliferus'' <small>Schaeff.</small><br>
+''Mycena cinerea'' <small>Massee & Crossl.</small><br>
+''Mycena consimilis'' <small>(Cooke) Sacc.</small><br>
+''Mycena umbellifera'' <small>(Schaeff.) Quél.</small>
+}}
+{{mycomorphbox 
+| name = ''Mycena aetites''
+| hymeniumType=gills
+| capShape = conical
+| whichGills = adnate
+| stipeCharacter=bare
+| sporePrintColor=white
+| ecologicalType=saprotrophic
+| howEdible=inedible
+}}
+
+'''''Mycena aetites''''', commonly known as the '''drab bonnet''',<ref>{{cite web |url=http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |title=Recommended English Names for Fungi in the UK |publisher=[[British Mycological Society]] |url-status=dead |archive-url=https://web.archive.org/web/20110716083053/http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |archive-date=2011-07-16 }}</ref> is a species of [[mushroom]] in the family [[Mycenaceae]]. First described as ''Agaricus aetites'' by Swedish mycologist [[Elias Magnus Fries]] in 1838, it was assigned its current name in 1872 by [[Lucien Quélet]].<ref>{{cite journal |last= Quélet L.|year=1872 |title=Les Champignons de Jura et des Vosges |journal=Mémoires de la Société d'Émulation de Montbéliard |volume=5 |page=242}}</ref> This rare mushroom is found in Europe.
+
+==Description==
+The [[pileus (mycology)|cap]] is a grey-brown color that is somewhat darker in the center. Initially conical in shape, the cap flattens out in maturity to become bell-shaped; the cap can reach a diameter of up to {{convert|2|cm|in|1|abbr=on}}.<ref name=Jordan2004>{{cite book |author=Jordan M. |title=The Encyclopedia of Fungi of Britain and Europe |publisher=Frances Lincoln |location=London |page=162 |isbn=0-7112-2378-5|url=https://books.google.com/books?id=ULhwByKCyEwC|access-date=2009-09-25 |year=2004}}</ref> The stipe of ''M. aetites'' has a pruinose apex and isglabrous below. The mushrooms has an raphanoid odour.<ref name=":0">{{Cite web|url=http://mycena.no/aetites.htm|title=Mycena aetites|website=mycena.no|access-date=2018-04-04}}</ref>
+
+A similar species is ''[[Mycena abramsii]]''. This species usually grows on woods and have cheilocystidia with a clear acute-neck.<ref name=":0" />
+
+===Ecology===
+''Mycena aetites'' grows on decayed wood and woody debris in temperate ecosystems.<ref name=":0" />
+
+===Edibility===
+''Mycena aetites'' is considered inedible. It has an indistinct taste, and a faint odor of radish.<ref name=Jordan2004/>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q3912823}}
+
+[[Category:Mycena|aetites]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi described in 1838]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]

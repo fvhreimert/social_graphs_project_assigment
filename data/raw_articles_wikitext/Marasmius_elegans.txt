@@ -1,0 +1,49 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Marasmius elegans 598255.jpg
+| image_caption = 
+| genus = Marasmius
+| species = elegans
+| authority = ([[John Burton Cleland|Cleland]]) [[Cheryl Grgurinovic|Grgur.]] (1997)
+| synonyms = *''Collybia elegans'' <small>Cleland (1933)</small>
+}}
+{{mycomorphbox 
+| name = ''Marasmius elegans''
+| whichGills = adnate
+| capShape = convex
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = saprotrophic
+| sporePrintColor = white
+| howEdible=unknown
+}}
+
+'''''Marasmius elegans''''', commonly known as the '''velvet parachute''', is a species of [[fungus]] in the family [[Marasmiaceae]]. It has a reddish-brown [[pileus (mycology)|cap]], and a whitish [[stipe (mycology)|stipe]] with white hairs at the base. It can be found in [[eucalypt]] forests in Australia.<ref name="Bougher 1998"/>
+
+==Taxonomy==
+The species was originally [[species description|described]] as ''Collybia elegans'' by the Australian mycologist [[John Burton Cleland]] in 1933.<ref name="Cleland 1933"/> Cheryl Grgurinovic transferred it to ''[[Marasmius]]'' in a 1997 publication.<ref name="Grgurinovic 1997"/>
+
+==See also==
+*[[List of Marasmius species|List of ''Marasmius'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Bougher 1998">{{cite book |title=Fungi of southern Australia |last=Bougher NL, Syme K. |year=1998 |publisher=University of Western Australia Press |isbn=978-1-875560-80-6 |page=202 |url=https://books.google.com/books?id=BQvjx9M-DTgC&pg=PA202 |access-date=2009-10-09}}</ref>
+
+<ref name="Cleland 1933">{{cite journal |author=Cleland JB. |title=Australian fungi: notes and descriptions. - No. 9 |journal=Transactions and Proceedings of the Royal Society of South Australia |year=1933 |volume=57 |pages=187–94}}</ref>
+
+<ref name="Grgurinovic 1997">{{cite book |author=Grgurinovic C. |title=Larger Fungi of South Australia |publisher=The Botanic Gardens of Adelaide and State Herbarium |location=Adelaide, Australia |year=1997 |page=250 |isbn=0-7308-0737-1}}</ref>
+
+}}
+
+{{Taxonbar|from=Q6754918}}
+
+[[Category:Marasmius|elegans]]
+[[Category:Fungi of Australia]]
+[[Category:Fungi described in 1933]]
+[[Category:Taxa named by John Burton Cleland]]
+[[Category:Fungus species]]
+
+
+{{Marasmiaceae-stub}}

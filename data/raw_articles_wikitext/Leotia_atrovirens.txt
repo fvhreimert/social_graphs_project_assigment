@@ -1,0 +1,30 @@
+{{Short description|Species of fungus}}
+
+{{Speciesbox
+|image = Leotia atrovirens iNaturalist photo 321798663.jpg
+|image_caption = 
+|taxon = Leotia atrovirens
+|authority = Pers.
+}}
+{{mycomorphbox 
+| name = ''Leotia atrovirens''
+| whichGills =  NA
+| capShape =convex
+| hymeniumType=smooth
+| stipeCharacter=bare
+| ecologicalType= saprotrophic
+| sporePrintColor=white
+| howEdible=unknown}}
+
+'''''Leotia atrovirens''''' is a species of [[mushroom]]. The edibility of this mushroom is unknown. The cap is green, but as it matures it becomes dark green. The cap is lumpy, when young it is slimy or sticky. The stem can range from light green to dark green. The spore print is white. It has no gills. The fruiting body is gelatinous. It usually grows near each other in large to small clusters under conifers trees. They also grow well in dead stumps and moist soil.
+
+==External links==
+* ''[http://www.mushroomexpert.com/leotia_atrovirens.html Leotia atrovirens]'' at [http://www.mushroomexpert.com Mushroom Expert]
+
+{{Taxonbar|from=Q6527248}}
+
+[[Category:Helotiales]]
+[[Category:Fungi of North America]]
+
+
+{{Helotiales-stub}}

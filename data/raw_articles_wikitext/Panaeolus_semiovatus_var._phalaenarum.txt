@@ -1,0 +1,56 @@
+{{Short description|Species of fungus}}
+{{DISPLAYTITLE:''Panaeolus semiovatus'' var. ''phalaenarum''}}
+{{Taxobox
+| name = ''Panaeolus semiovatus var. phalaenarum''
+| image = Panaeolus_semiovatus_var_phalaenarum.jpg
+| regnum = [[Fungi]]
+| divisio = [[Basidiomycota]]
+| classis = [[Agaricomycetes]]
+| ordo = [[Agaricales]]
+| familia = [[Bolbitiaceae]]
+| genus = ''[[Panaeolus]]''
+| species = ''[[Panaeolus semiovatus|P. semiovatus]]''
+| varietas = '''''P. semiovatus'' var. ''phalaenarum'''''
+| trinomial = ''Panaeolus semiovatus'' var. ''phalaenarum''
+| trinomial_authority = ([[Elias Magnus Fries|Fr.]]) Ew.Gerhardt
+| synonyms = ''Agaricus phalaenarum''<br/>''Panaeolus phalaenarum''<br/>''Panaeolus egregius''<br />''Panaeolus antillarum''
+}}
+{{Mycomorphbox
+| name = ''Panaeolus semiovatus'' var. ''phalaenarum''
+| whichGills = adnexed
+| capShape = convex
+| hymeniumType = gills
+| stipeCharacter = ring
+| ecologicalType = saprotrophic
+| sporePrintColor = black
+| howEdible = edible
+}}
+
+'''''Panaeolus semiovatus'' var. ''phalaenarum''''' is a common and widely distributed medium-sized grey [[mushroom]] that grows on dung.
+
+''Panaeolus semiovatus'' var. ''phalaenarum'' is often mistaken for ''[[Panaeolus semiovatus]]''.
+
+==Taxonomy==
+The binomial ''[[Panaeolus antillarum]]'' that previously referred to a closely related species, is now reduced to synonymy with ''Panaeolus semiovatus var. phalaenarum'' by [https://web.archive.org/web/20110610202653/http://www.indexfungorum.org/Names/SynSpecies.asp?RecordID=437162 most authorities.]
+
+==Description==
+''Panaeolus semiovatus var. phalaenarum'' is a medium-sized mushroom which has a cap that is 2 to 4&nbsp;cm, convex, and is white to yellowish. Often mistaken for its larger cousin ''[[Panaeolus semiovatus var. semiovatus]]'', from which it differs in being more slender and having no annulus (ring).<ref name = "MarcelBon87">{{Cite book | author = Marcel Bon | year = 1987 | title = The Mushrooms and Toadstools of Britain and North Western Europe | publisher = Hodder and Stoughton | isbn = 0-340-39935-X}}</ref>
+
+This mushroom prefers tropical climates.
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Panaeolus species|List of ''Panaeolus'' species]]
+
+==References==
+{{Reflist}}
+*{{Cite book | first=Paul | last=Stamets | year=1996 | title=Psilocybin Mushrooms of the World | publisher=Ten Speed Press | location=Berkeley | isbn=0-9610798-0-0}}
+
+==External links==
+* [https://mushroomobserver.org/900 Mushroom Observer - Panaeolus semiovatus var. phalaenarum]
+* [https://mushroomobserver.org/2131 Mushroom Observer - Panaeolus semiovatus var. phalaenarum]
+
+{{Taxonbar|from=Q7129792}}
+
+{{DEFAULTSORT:Panaeolus semiovatus var. phalaenarum}}
+[[Category:Panaeolus|semiovatus var. phalaenarum]]

@@ -1,0 +1,85 @@
+{{Short description|Species of fungus}}
+{{Use dmy dates|date=May 2024}}
+{{Speciesbox
+| image =  Cortinarius rubellus 01.jpg
+| image_caption =
+| genus = Cortinarius
+| species = rubellus
+| authority = [[Mordecai Cubitt Cooke|Cooke]], 1887
+| synonyms = ''Cortinarius orellanoides''<small> Rob. Henry</small><br />
+''Cortinarius speciosissimus'' <small>Kühner & Romagn.</small><br />
+''Cortinarius rainierensis'' <br />
+''Dermocybe orellanoides'' <small>(Rob. Henry) [[Meinhard Michael Moser|M.M. Moser]]</small>
+}}
+{{mycomorphbox
+| name = ''Cortinarius rubellus''
+| whichGills = adnate
+| capShape = conical
+| capShape2 = convex
+| hymeniumType = gills
+| stipeCharacter = bare
+| sporePrintColor = cream
+| sporePrintColor2 = yellow
+| ecologicalType = mycorrhizal
+| howEdible = deadly
+}}
+'''''Cortinarius rubellus''''', commonly known as the '''deadly webcap''', is a species of fungus in the family [[Cortinariaceae]], native to high-latitude temperate to subalpine forests of Eurasia and North America. Within the genus it belongs to a group known as the [[Orellani]], all of which are highly toxic. Eating them results in kidney failure, which is often irreversible. The mushroom is generally tan to brown all over, with a conical to convex cap {{convert|2.5|to|8|cm|in|frac=4}} in diameter, adnate gills and a {{convert|5.5|to|11|cm|in|frac=4|abbr=on}} tall [[stipe (mycology)|stipe]].
+
+==Taxonomy==
+British naturalist [[Mordecai Cubitt Cooke]] described ''Cortinarius rubellus'' in 1887 from material collected by a Dr. Carlyle at [[Orton Moss]] near [[Carlisle, Cumbria]].<ref name="Cooke 1887"/> The name was rarely used before 1980, however.<ref name=gasparini07>{{cite journal | title=(1769) Proposal to conserve the name ''Cortinarius speciosissimus'' against ''C. rubellus, C. orellanoides'', and ''C. rainierensis'' (Basidiomycota) | vauthors=Gasparini B, Jacobsson S, Soop K | journal = Taxon |volume = 56|issue= 2|year= 2007 |pages= 596–97| doi=10.1002/tax.562034 |doi-access= free }}</ref> ''Cortinarius orellanoides'' was described by Henry in 1937 from mushrooms growing under bracken (''[[Pteridium aquilinum]]'') and beech in France, while [[Robert Kühner]] and [[Henri Romagnesi]] described ''C. speciosissimus'' (initially ''C. speciosus'', but that name had already been given to another species of webcap) from mushrooms growing in moss among ''[[Vaccinium]]'' in pine and spruce forests of the French and Swiss [[Jura Mountains|Jura]].<ref name="Høiland 1985"/> ''Cortinarius rainierensis'', described in 1950 by [[Alexander H. Smith|Alex H. Smith]] and [[Daniel Elliot Stuntz]] from material collected in [[Mount Rainier National Park]] in the United States,<ref name="Stuntz 1950">{{cite journal |vauthors=Smith AH, Stuntz DE |year= 1950 |title= New or noteworthy Fungi from Mt. Rainier National Park | journal= Mycologia |volume= 42|issue= 1 | pages= 80–134 |doi=10.2307/3755245|jstor= 3755245 }}</ref> is a synonym.<ref>[http://www.pnwfungi.org/index.php/pnwfungi/article/viewFile/1021/662 Cortinarius rubellus Cooke from British Columbia, Canada and Western Washington, USA] {{webarchive|url=https://web.archive.org/web/20160822022659/http://www.pnwfungi.org/index.php/pnwfungi/article/viewFile/1021/662|date=22 August 2016}}</ref> Klaus Høiland reviewed material of ''C. orellanoides'' and ''C. speciosissimus'' and determined that the mushrooms and spores were identical. The only difference was that ''C. orellanoides'' grew in beech and ''C. speciosissimus'' preferred conifers, yet he had also found the latter species growing under beech in Norway. He concluded the name should be ''C. orellanoides'', as that was the older name.<ref name="Høiland 1985"/> Høiland and others had noted that ''C. rubellus'' was likely to be the same species as well.<ref name=gasparini07/> Gasparini queried this, however, because in Cooke's original illustrations of ''C. rubellus'', he noted that the spores were drawn as triangular or fig-shaped and were not consistent with descriptions of ''C. orellanoides'' or ''C. speciosissimus''.<ref name=gasparini04/>
+
+''Cortinarius rubellus'' is one of seven highly toxic species that make up the [[orellani]], a subgenus within genus ''Cortinarius''.<ref name=gasparini04/> In 2007, Bruno Gasparini proposed conserving the name ''C. speciosissimus'' against the other names as it had been chiefly known by this name between 1953 and 1980, and some doubts existed over which names were legitimate. Both ''C. rubellus'' and ''C. orellanoides'' lacked a type specimen and there was a possibility that the description of ''C. rubellus'' could have also applied to ''Cortinarius morrisii''.<ref name=gasparini07/> There was no consensus on the proposal as of 2022.<ref name=CFF2009/>
+
+
+==Description==
+''Cortinarius rubellus'' has a conical to convex (partly flattening to [[Umbo (mycology)|umbonate]] with maturity) [[pileus (mycology)|cap]] of {{convert|2.5|to|8|cm|in|frac=4}} diameter. In colour, it is a tawny to date brown with paler margins, and is covered in fine, fibrous scales. The [[lamella (mycology)|gills]] are ochre- or caramel-coloured, changing to a deeper brown with age as the spores mature. They have an [[Lamella (mycology)#Classification|adnate]] connection to the stipe. The [[stipe (mycology)|stipe]] is {{convert|5.5|to|11|cm|in|frac=4}} tall, and {{convert|0.5|to|1.5|cm|in|frac=8}} thick with a bulbous base. It is the same colour or slightly paler than the cap, and can have yellow fragments of the veil (cortina) attached to its lower half.<ref>{{Cite book|title=The pocket guide to wild mushrooms: helpful tips for mushrooming in the field|last=Holmberg, Pelle.|date=2013|publisher=Skyhorse|others=Marklund, Hans, 1937-, Hedström, Ellen.|isbn=9781620877319|location=New York|oclc=816030405}}</ref> The [[trama (mycology)|flesh]] is cream or pale yellow, but more tan below the [[pileipellis]] and in the stem base. It smells slightly of radishes and has no strong taste.<ref name="Phillips 2006"/><!-- cites para -->
+
+==Distribution and habitat==
+''Cortinarius rubellus'' has been recorded in high-latitude temperate to subalpine forests throughout the northern hemisphere, including subalpine conifer forest in the [[Yatsugatake Mountains]] in [[Yamanashi Prefecture]], central Japan.<ref name="Shibata 2004"/> In North America, it is found in [[British Columbia]] and western [[Washington (state)|Washington]], particularly Mount Rainier National Park.<ref name="Robertson 2006"/> ''C. rubellus'' occurs in Scandinavia and also occurs in the north of the [[British Isles]], generally in wet areas of conifer or mixed conifer and broadleaf woodlands, though it is uncommon.<ref name="Short 1980"/>
+
+==Toxicity==
+''Cortinarius rubellus'' contains [[orellanine]], a powerful [[mycotoxin]]. The danger of poisoning was first recognized in 1972 in Finland, where four cases had occurred, two of which resulted in permanent [[kidney failure]].<ref name="Hulmi 1974"/> In 1979, three people on holiday in near [[Inverness]] were poisoned,<ref name="Short 1980"/> after mistaking it for the [[chanterelle]].<ref name="Phillips 2006"/> Two of the three required [[Kidney transplantation|kidney transplants]].<ref name="Short 1980"/> Twenty-two people were poisoned between 1979 and 1993 in Sweden, nine of whom required a kidney transplant following [[Chronic kidney disease|end stage kidney failure]] (ESRF). Among the edible species they mistook the mushroom for were ''[[Craterellus tubaeformis]]'' and ''[[Hygrophorus]]'' species as well as chanterelles.<ref name="Holmdahl 1995"/> The edible ''[[Craterellus tubaeformis]]'' can be distinguished by its funnel-shaped cap and ridges on the cap's underside rather than gills.<ref name="Lamaison 2005"/> In 1996, one person in Austria ate it while looking for [[Psilocybin mushroom|magic mushrooms]].<ref name="Franz 1996"/>
+
+[[Nicholas Evans]], author of ''The Horse Whisperer'', his wife [[Charlotte Gordon Cumming]], and two other relatives were accidentally poisoned in September 2008 after consuming deadly webcaps that they gathered on holiday. Evans had assumed they were [[cep (mushroom)|ceps]] but overlooked that the mushrooms had gills rather than pores. All four victims were informed that they would require [[kidney transplant]]s in the future. Several years later, Evans received a kidney donated by his daughter, Lauren.<ref>{{cite news|url= https://www.telegraph.co.uk/culture/books/8675690/Nicholas-Evans-I-wanted-to-die.-It-was-so-grim.html |place=London|work=[[The Daily Telegraph]]|first=Elizabeth|last=Grice|title=Nicholas Evans: 'I wanted to die. It was so grim'|date=August 2, 2011}}</ref> The other three eventually received transplants after some searching for donors, despite Charlotte having only eaten three mouthfuls of mushroom; they were instrumental in setting up the charity Give a Kidney.{{citation needed|date=May 2020}}
+
+==See also==
+*[[List of Cortinarius species|List of ''Cortinarius'' species]]
+
+==References==
+{{Reflist|30em|refs=
+
+<ref name=CFF2009>{{cite web | url=http://www.ima-mycology.org/CFF/pdf/comm8ncf091005.pdf | title=Nomenclature CF Commentary 8 | date=6 October 2009 | author=Nomenclature Committee for Fungi | access-date=15 June 2016 | url-status=dead | archive-url=https://web.archive.org/web/20160807232937/http://www.ima-mycology.org/CFF/pdf/comm8ncf091005.pdf | archive-date=7 August 2016 }}</ref>
+
+<ref name="Cooke 1887">{{cite journal  |author=Cooke MC| year=1887|title= New British Fungi| journal= Grevillea |volume=16 |issue=78|pages= 42–49 [44] | url=https://www.biodiversitylibrary.org/page/48300587}}</ref>
+
+<ref name=gasparini04>{{cite journal |author=Gasparini B |title=''Cortinarius'' subgenus ''Orellani'' in Australia and in the world |journal=Australasian Mycologist |year=2004 |volume=23 |issue=2 |pages=62–76 |url=http://media.wix.com/ugd/86d4e0_8dc7de09f7b74fb28367b59a29975599.pdf}}</ref>
+
+<ref name="Høiland 1985">{{cite journal  |author=Høiland K | title=Is ''Cortinarius orellanoides'' an earlier name for ''C. speciosissimus''? | journal= Nordic Journal of Botany|volume = 5|issue =5| pages =489–92|doi=10.1111/j.1756-1051.1985.tb01681.x| year=2008 }}</ref>
+
+<ref name="Holmdahl 1995">{{cite journal  |vauthors=Holmdahl J, Blohmé I|title=Renal transplantation after ''Cortinarius speciosissimus'' poisoning |journal=Nephrol. Dial. Transplant.|volume=10|issue=10|pages=1920–22|date=1995|pmid=8592605|doi=10.1093/ndt/10.10.1920}}</ref>
+
+<ref name="Hulmi 1974">{{cite journal |journal= Duodecim; Lääketieteellinen Aikakauskirja |year=1974 |volume=90 |issue=14 |pages= 1044–50 |title= Mushroom poisoning caused by ''Cortinarius speciosissimus'' | language=Finnish |vauthors=Hulmi S, Sipponen P, Forsström J, Vilska J | pmid=    4426277}}</ref>
+
+<ref name="Franz 1996">{{cite journal  |vauthors=Franz M, Regele H, Kirchmair M, Kletzmayr J, Sunder-Plassmann G, Hörl WH, Pohanka E |title=Magic mushrooms: hope for a 'cheap high' resulting in end-stage renal failure|journal=Nephrol. Dial. Transplant.|volume=11|issue=11|pages=2324–27|date=1996|pmid=8941602|doi=10.1093/oxfordjournals.ndt.a027160}}</ref>
+
+<ref name="Lamaison 2005">{{cite book |vauthors=((Lamaison J-L)), ((Polese J-M)) |title=The Great Encyclopedia of Mushrooms |year=2005 |publisher=Könemann |location=Cologne |isbn=978-3-8331-1239-3 |page=127}}</ref>
+
+<ref name="Phillips 2006">{{cite book |author=Phillips R |title=Mushrooms |year=2006 |publisher=Pan MacMillan |location=London, United Kingdom|isbn=978-0-330-44237-4 |page=186}}</ref>
+
+<ref name="Robertson 2006">{{cite journal | title=''Cortinarius rubellus'' Cooke from British Columbia, Canada and Western Washington, USA | vauthors=Robertson C, Wright L, Gamiet S, Machnicki N, Ammirati J, Birkebak J, Meyer C, Allen A |year=2006| journal= North American Fungi | volume= 1|issue=1|pages= 1–7| url=http://openjournals.wsu.edu/index.php/pnwfungi/article/view/1021 | doi=10.2509/pnwf.2006.001.006| doi-access=free}}</ref>
+
+<ref name="Shibata 2004">{{cite journal  |author=Shibata H|title=''Cortinarius rubellus'', a poisonous species new to Japan | journal  = Mycoscience |volume = 45 | issue = 6| year= 2004|pages =395–97 | doi=10.1007/S10267-004-0198-4|s2cid=84769467 |doi-access=free }}</ref>
+
+<ref name="Short 1980">{{cite journal  |journal = Lancet | year= 1980 |volume=2|issue=8201|pages=942–44 | title=Poisoning by ''Cortinarius speciosissimus'' |vauthors=Short AI, Watling R, MacDonald MK, Robson JS | pmid=6107589 | doi=10.1016/s0140-6736(80)92104-2| s2cid= 21039398 }}</ref>
+
+}}
+
+{{Taxonbar|from=Q944328}}
+
+[[Category:Fungi of Europe]]
+[[Category:Deadly fungi]]
+[[Category:Fungi described in 1838]]
+[[Category:Fungi of North America]]
+[[Category:Cortinarius|rubellus]]
+[[Category:Taxa named by Mordecai Cubitt Cooke]]
+[[Category:Fungus species]]

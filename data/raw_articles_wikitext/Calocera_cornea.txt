@@ -1,0 +1,51 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Calocera cornea 38121.jpg
+| taxon = Calocera cornea
+| authority = ([[August Batsch|Batsch]]) [[Elias Magnus Fries|Fr.]] (1827)
+| synonyms_ref =
+| synonyms = ''Clavaria cornea'' <small>Batsch (1783)</small><br>
+''Corynoides cornea'' <small>(Batsch) [[Samuel Frederick Gray|Gray]] (1821)</small><br>
+''Calocera cornes'' <small>(Batsch) Fr. (1827)</small>
+}}
+{{mycomorphbox
+| name = ''Calocera cornea''
+| hymeniumType = smooth
+| whichGills = no
+| capShape = no
+| stipeCharacter = bare
+| ecologicalType = saprotrophic
+| sporePrintColor = white
+| howEdible = inedible
+}}
+{{commonscat}}
+
+'''''Calocera cornea''''' is a jelly fungus that grows on decaying wood.<ref name=":0">{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=237-238|language=en}}</ref> It is a member of the [[Dacrymycetales]], an order of fungi characterized by their unique "tuning fork" [[basidia]].
+
+Its yellow, finger-like, tapering [[basidiocarp]]s are somewhat gelatinous in texture. In typical specimens the basidiocarps become up to 3&nbsp;mm in diameter, and 2&nbsp;cm in height. The [[hymenium]] covers the sides of the basidiocarps, each basidium producing and forcibly discharging only two [[basidiospore]]s.
+
+It is inedible.<ref name="Miller 2006">{{cite book|last=Miller Jr.|first=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuides]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=496|author-link=Orson K. Miller Jr.}}</ref> ''[[Calocera viscosa]]'' is related.<ref name=":0" />
+
+==References==
+{{Reflist}}
+
+== Further reading ==
+*C.J. Alexopolous, Charles W. Mims, M. Blackwell et al., ''Introductory Mycology, 4th ed.'' (John Wiley and Sons, Hoboken NJ, 2004) {{ISBN|0-471-52229-5}}
+*McNabb R.F.R. 1965a. Taxonomic studies in the Dacrymycetaceae II. ''Calocera'' (Fries) Fries. New Zealand J. Bot. 3: 31–58.
+
+{{Taxonbar|from=Q175548}}
+
+==External links==
+*[https://earthlingnature.wordpress.com/2019/03/01/friday-fellow-club-like-tuning-fork/ Friday Fellow: Club-like Tuning Fork] at Earthling Nature.
+*[http://www.messiah.edu/Oakes/fungi_on_wood/club%20and%20coral/species%20pages/Calocera%20cornea.htm Messiah.edu]
+
+[[Category:Dacrymycetes]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi described in 1783]]
+[[Category:Inedible fungi]]
+[[Category:Taxa named by August Batsch]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]
+
+
+{{Basidiomycota-stub}}

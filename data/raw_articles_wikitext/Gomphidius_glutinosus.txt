@@ -1,0 +1,76 @@
+{{stack begin}}
+{{Speciesbox
+| image = Gomphidius glutinosus 131007.jpg
+| genus = Gomphidius
+| species = glutinosus
+| authority = ([[Jacob Christian Schäffer|Schaeff.]]) [[Elias Magnus Fries|Fr.]]
+| synonyms = ''Agaricus mucosus'' <small>Bull., 1812</small><br />
+''Cortinaria viscida'' <small>[[Samuel Frederick Gray|Gray]], 1821</small>
+| synonyms_ref = 
+}}
+{{mycomorphbox
+| name = Gomphidius glutinosus
+| whichGills = decurrent
+| capShape = flat
+| capShape2 = convex
+| hymeniumType = gills
+| stipeCharacter = ring
+| ecologicalType = mycorrhizal
+| sporePrintColor = blackish-brown
+| howEdible = edible
+| howEdible2 = not recommended
+| ecologicalType2 = parasitic
+}}
+{{stack end}}
+
+'''''Gomphidius glutinosus''''', commonly known as the '''hideous gomphidius''', '''glutinous gomphidius''',<ref>{{Cite book |last=Arora |first=David |title=Mushrooms demystified: a comprehensive guide to the fleshy fungi |date=1986 |publisher=Ten Speed Press |isbn=978-0-89815-169-5 |edition=Second |location=Berkeley}}</ref> '''purple slime spike''',<ref name=":1">{{Cite book |last=Siegel |first=Noah |title=Mushrooms of Cascadia: A Comprehensive Guide to Fungi of the Pacific Northwest |last2=Schwarz |first2=Christian |date=September 1, 2024 |publisher=Backcountry Press |isbn=9781941624197 |location=Humboldt County, CA |pages=124}}</ref> '''slimy spike''',<ref>{{Cite web |last=The Global Fungal Red List Initiative |title=Gomphidius glutinosus |url=https://redlist.info/iucn/species_view/209017 |access-date=2025-10-10 |website=redlist.info |language=en}}</ref> or '''slimy spike-cap''', is a [[gilled mushroom]] found in [[Europe]] & [[North America]]. Although it has [[Lamella (mycology)|gills]], it is a member of the order [[Boletales]], along with the boletes. The fruiting bodies sprout in pine, fir and spruce woodland in Europe in autumn. Initially, are completely covered with a slimy veil, breaking through to reveal a greyish or brownish-capped mushroom with decurrent greyish gills which sometimes resembles a child's [[Spinning top|top]]. Opinions differ on the suitability of this mushroom for the table, some guides hold it in high regard, while others view it with caution.
+
+==Taxonomy==
+''Gomphidius glutinosus'' was initially described by [[Germany|German]] mycologist [[Jacob Christian Schäffer]] as ''Agaricus glutinosus'' in 1774, in his series on fungi of [[Bavaria]] and the [[Palatinate (region)|Palatinate]], ''Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur icones.''<ref name="Schaeffer 1774">{{cite book |author=Schäffer JC. |title=Fungorum qui in Bavaria et Palatinatu circa Ratisbonam nascuntur icones, nativis coloribus expressae |year=1774 |volume=4 |publisher=Apud J.J. Palmium |location=Erlangen, Germany |pages=17–18 |language=la |url=https://www.biodiversitylibrary.org/page/3887499}}</ref> The father of mycology [[Elias Magnus Fries]] gave it its current genus and binomial name in 1838. The genus name is derived from the [[Ancient Greek|Greek]]  'γομφος' ''gomphos'' meaning "plug" or "large wedge-shaped nail".<ref>{{cite book|author=Liddell HJ, Scott R|year=1980|title=Greek-English Lexicon |edition=Abridged |publisher=Oxford University Press, Oxford, UK|isbn=978-0-19-910207-5|url-access=registration|url=https://archive.org/details/lexicon00lidd}}</ref> The [[specific name (botany)|specific epithet]] ''glutinosus'' is the [[Latin]] adjective "sticky".<ref name=Nilper>{{cite book | last1 = Nilson|first1= Sven |first2=Olle |last2=Persson | year = 1977 | title = Fungi of Northern Europe 1: Larger Fungi (Excluding Gill-Fungi) | publisher = Penguin|isbn=978-0-14-063005-3|page=112}}</ref>
+
+British botanist [[Samuel Frederick Gray]] described ''Cortinaria viscida'' the "viscid curtain-stool" in his 1821 work ''A natural arrangement of British plants'',<ref>{{cite book |last1=Gray |first1=Samuel Frederick |title=A natural arrangement of British plants: according to their relations to each other as pointed out by Jussieu, De Candolle, Brown, &c. (part 1) |date=1821 |volume=1 |publisher=Baldwin, Cradock, and Joy |location=London |page=629 |url=https://www.biodiversitylibrary.org/page/30087331}}</ref> concluded by [[Orson K. Miller Jr.]] to be the same species.<ref name=Miller1971>{{cite journal |last=Miller |first= Orson K. |year=1971|title=The Genus ''Gomphidius'' with a Revised Description of the Gomphidiaceae and a Key to the Genera |journal=Mycologia|volume=63|issue=6|pages=1129–1163|doi=10.2307/3757989|jstor= 3757989 }}</ref>
+
+In 1971, Miller described two varieties: ''G. glutinosus'' var. ''purpureus'' from a specimen collected near [[Nordman, Idaho]]. More drab purple to wine-coloured, this taxon is native th the Rockies in Idaho, Montana and Alberta. ''G. glutinosus'' var. ''salmoneus'' was described from [[Kaniksu National Forest]] in Idaho. With a salmon-coloured cap, it is native to northern and central Idaho as far south as [[Payette National Forest]].<ref name=Miller1971/>
+
+Alternate common names in Germany are ''Kuhmaul'' "cow snout",<ref name=Nilper/> and ''Rotzer''.<ref name=Zeitl76>{{cite book|last=Zeitlmayr |first= Linus|year=1976|title=Wild Mushrooms:An Illustrated Handbook|publisher=Garden City Press, Hertfordshire|isbn= 978-0-584-10324-3|pages=93–94}}</ref>
+
+==Description==
+
+Said to resemble a child's [[Spinning top|top]], the mushroom has a dull dark purple, dark brownish or greyish [[pileus (mycology)|cap]] ranging from {{Cvt|3-12|cm|frac=8}} in diameter;<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=202–203|oclc=797915861}}</ref> it has a central boss and an inrolled margin, and is initially convex and later flattens and may develop blackish markings.<ref name=Nilper/> The cap surface is smooth and sticky.<ref name=Miller1971/> As with other members of the genus, the whole mushroom is often covered with slimy or sticky veil when young. The fungus tears free of the veil as it grows, leaving some strands and an indistinct [[annulus (mycology)|ring]].<ref name=Zeitl76/> The white [[stipe (mycology)|stipe]] is 4&ndash;10&nbsp;cm tall and 0.7–2&nbsp;cm wide, and narrows toward the base, which is yellow. The yellow segment stains dark green to black with [[Melzer's reagent]].<ref name=Miller1971/> The whitish flesh may have a wine-coloured tinge and has little taste or smell. The widely spaced decurrent gills are waxy in texture, with a hairy surface from the [[cystidia]].<ref name=Zeitl76/> Sometimes branched, they are initially whitish, then grey and later blackening with [[Basidiospore|spores]]. The [[spore print]] is brownish-black. The large spores are spindle-shaped and measure 17&ndash;20&nbsp;μm long by 5.5&ndash;6&nbsp;μm wide.<ref name=Phillips06>{{cite book | first= Roger | last=Phillips | year = 2006 | title = Mushrooms | publisher = Pan MacMillan | isbn = 978-0-330-44237-4|page=270}}</ref>
+
+=== Similar species ===
+Brownish specimens may be mistaken at a glance for ''[[Suillus luteus]]'', but a look under the cap will see there are gills rather than pores.<ref name="Haas69">{{cite book | last = Haas |first=Hans | year = 1969 | title = The Young Specialist looks at Fungi |page=52| publisher = Burke | isbn= 978-0-222-79409-3}}</ref> Another similar-looking species is ''[[Hygrophorus hypothejus]]'', found in similar habitat though with yellow gills which do not separate from the cap.<ref name="Phillips06" /><ref name="Lamaison05">{{cite book |title=The Great Encyclopedia of Mushrooms |last=Lamaison |first=Jean-Louis |author2=Polese, Jean-Marie |year=2005 |publisher=Könemann |isbn=978-3-8331-1239-3|page=34}}</ref> The North American species ''[[Gomphidius smithii]]'' is similar but has a pale purple to wine-coloured cap.<ref name="Miller1971" />
+
+Other similar species include ''[[Gomphidius oregonensis]]'' and ''[[Gomphidius subroseus]]''.<ref name=":0" />
+
+==Distribution and habitat==
+''Gomphidius glutinosus'' is found in Eurasia and North America up to elevations of 9600&nbsp;ft, and is generally abundant across its range. It occurs in autumn under various species of conifer—both in natural woods and plantations—such as balsam fir (''[[Abies balsamea]]''), Norway spruce (''[[Picea abies]]'') and grand fir (''[[Abies grandis]]''). The mushrooms may be single, scattered, or occasionally growing in clumps.<ref name=Miller1971/><!-- cites previous 3 sentences --> Fruiting bodies sprout in the autumn,<ref name=Phillips06/> to as late as December in northern California.<ref name=Miller1971/>
+
+==Ecology==
+Like other members of the family Gomphidiaceae, ''Gomphidius glutinosus ''has been thought to be [[ectomycorrhizal]], forming symbiotic relationship with their host trees.<ref name="olsson"/> However, there is now evidence that many (and perhaps all) species in this group are [[parasitic]] upon ectomycorrhizal [[boletes]], in relationships that are often highly species-specific, such as ''[[Gomphidius roseus]]'' upon ''[[Suillus bovinus]]''.<ref name="olsson">{{Cite journal 
+| last1 = Olsson | first1 = Pal Axel
+| last2 = Münzenberger | first2 = Babette
+| last3 = Mahmood | first3 = Shahid
+| last4 = Erland | first4 = Susanne
+| title = Molecular and anatomical evidence for a three-way association between ''Pinus sylvestris'' and the ectomycorrhizal fungi ''Suillus bovinus'' and ''Gomphidius roseus''| doi = 10.1017/S0953756200002823 | journal = Mycological Research | volume = 104| issue = 11 | pages = 1372–1378 |date=2000| url = http://portal.research.lu.se/ws/files/2844055/625112.pdf}}</ref>
+
+Two specimens of ''Gomphidius glutinosus'' were found in [[Brechfa Forest]] on the 25th Of July 2009. The only boletus to be found in the vicinity was ''[[Suillus grevillei]]''.
+
+''G. glutinosus'' is a hyper-[[bioaccumulation|accumulating]] fungus that absorbs and concentrates elements such as [[cesium]] more than 10,000-fold over background levels. This property can be used to decontaminate sites contaminated with radioactive [[cesium-137]].<ref>{{cite journal |last=Stamets |first=Paul |date=2011  |title=How Mushrooms Can Clean Up Radioactive Contamination - An 8 Step Plan |url=http://www.permaculture.co.uk/articles/how-mushrooms-can-clean-radioactive-contamination-8-step-plan |journal=Permaculture - Practical Solutions for Self-reliance}}</ref>
+
+==Edibility==
+Opinions differ on the suitability of this mushroom for the table, some guides hold it in high regard,<ref name=Lamaison05/> while others view it with caution.<ref name=Phillips06/> ''Gomphidius glutinosus'' has a mild flavour well-suited for cooking with other mushrooms, and in soups and stews.<ref name=Zeitl76/> It is not suited for drying. Removing the slime and skin of the cap is recommended as soon as possible after picking. Maggots only rarely attack this species.<ref name=Zeitl76/> However, it accumulates heavy metals.<ref name=":1" />
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Commons category-inline}}
+
+{{Taxonbar|from=Q790626}}
+
+[[Category:Boletales]]
+[[Category:Fungi of Europe]]
+[[Category:Edible fungi]]
+[[Category:Taxa named by Jacob Christian Schäffer]]
+[[Category:Fungus species]]

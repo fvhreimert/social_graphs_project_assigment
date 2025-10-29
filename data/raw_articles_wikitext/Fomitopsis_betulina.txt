@@ -1,0 +1,108 @@
+{{Short description|Common bracket fungus}}
+{{Use dmy dates|date=April 2016}}
+{{Speciesbox
+| image = Piptoporus_betulinus_55.jpg
+| status = G5
+| status_system = TNC
+| status_ref = <ref name=NS>{{cite NatureServe |id=2.124134 |title=''Fomitopsis betulina'' |access-date=26 April 2025}}</ref>
+| genus = Fomitopsis
+| species = betulina
+| authority = ([[Jean Baptiste François Pierre Bulliard|Bull.]]) B.K.Cui, M.L.Han & Y.C.Dai (2016)
+| synonyms = *''Boletus betulinus'' <small>Bull. (1788)</small>
+*''Piptoporus betulinus'' <small>(Bull.) [[P.Karst.]] (1881)</small>
+}}
+{{Mycomorphbox
+| name=''Fomitopsis betulina''
+| whichGills=decurrent
+| capShape=no
+| hymeniumType=pores
+| stipeCharacter=NA
+| ecologicalType=parasitic
+| sporePrintColor=white
+| howEdible=inedible
+}}
+
+'''''Fomitopsis betulina''''' (previously '''''Piptoporus betulinus'''''), commonly known as the '''birch polypore''', '''birch bracket''', or '''razor strop''', is a common [[bracket fungus]] and, as the name suggests, grows almost exclusively on [[birch]] trees. The brackets burst out from the bark of the tree, and these [[basidiocarp|fruit bodies]] can last for more than a year.
+
+==Taxonomy==
+The fungus was originally [[species description|described]] by [[Jean Baptiste François Pierre Bulliard|Jean Bulliard]] in 1788 as ''Boletus betulinus''.<ref name="Bulliard 1787"/> It was transferred to the genus ''[[Piptoporus]]'' by [[Petter Karsten]] in 1881.<ref name="Karsten 1881"/> [[Molecular phylogenetic]] studies suggested that the species was more closely related to ''[[Fomitopsis]]'' than to ''Piptoporus'',<ref name="Kim 2005"/><ref name="Ortiz-Santana 2013"/> and the fungus was reclassified to ''Fomitopsis'' in 2016.<ref name="Han 2016"/>
+
+The [[botanical name|specific epithet]] ''betulina'' refers to the genus of the [[host (biology)|host]] plant (''[[Betula]]'').<ref name="Roody 2003"/> [[Common name]]s for the fungus include birch bracket,<ref name="Allaby 2015"/> birch polypore, and razorstrop fungus.<ref name="BMS"/>
+
+==Description==
+The fruit bodies ([[basidiocarp]]s) are pale, with a smooth greyish-brown top surface, while the creamy white  underside has hundreds of pores that contain the [[spore]]s.  The fruit body has a rubbery texture, becoming corky with age.<ref name="Roody 2003"/> Wood decayed by the fungus, and cultures of its [[mycelium]], often smell distinctly of green apples.<ref name=adams1982 /> The [[spore]]s are cylindrical to [[ellipsoid]]al in shape, and measure 3–6 by 1.5–2&nbsp;[[μm]].<ref name="KuoMethven2010">{{cite book|author1=Michael Kuo|author2=Andy Methven|title=100 Cool Mushrooms|url=https://books.google.com/books?id=jhll7DJcnrwC&pg=PA141|year=2010|publisher=University of Michigan Press|isbn=978-0-472-03417-8|page=141}}</ref>
+
+''Fomitopsis betulina'' has a [[Mating in fungi#Tetrapolar and bipolar mating system|bipolar mating system]]<ref name="Adams 1981"/> where [[monokaryon]]s or germinating spores can only mate and form a fertile [[dikaryon]] with an individual that possesses a different mating-type factor. There are at least 33 different mating-type factors within the British population of this fungus.<ref name=Cant1980>{{cite book|last=Cant|first=D|title=Population studies on Piptoporus betulinus with special reference to the mating system|year=1980|publisher=Lancaster University|location=(PhD thesis)}}</ref> These factors are all variants or [[allele]]s of a single gene, as opposed to the [[Mating in fungi#Tetrapolar and bipolar mating system|tetrapolar mating system]] of some other [[Basidiomycota|basidiomycete]] species, which involves two genes.<ref name=Burnett1975>{{cite book|last=Burnett|first=J H|title=Mycogenetics: Introduction to the General Genetics of Fungi|year=1975|publisher=Wiley|isbn=978-0-471-12445-0|pages=390}}</ref>
+
+==Distribution, habitat and ecology==
+
+
+
+''Fomitopsis betulina'' is one of the most common species of [[Wood-decay fungus#Brown rot|brown rot fungi]].<ref name="Pleszczyńska 2017"/> The geographic distribution of ''F.&nbsp;betulina'' appears to be restricted to the [[Northern Hemisphere]], including Northern America, Europe, and Asia.<ref name="Roberts 2011"/> It is only found on [[birch]] trees, including ''[[Betula pendula]]'', ''[[Betula pubescens|B.&nbsp;pubescens]]'', ''[[Betula papyrifera|B.&nbsp;papyrifera]]'', and ''[[Betulina obscura|B.&nbsp;obscura]]''.<ref name="Pleszczyńska 2017"/> There is some doubt about the ability of isolates from the European continent, North America and the British Isles to interbreed.<ref name="Adams 1981"/>
+
+It is a necrotrophic [[parasite]] on weakened birches, and will cause brown rot and eventually death, being one of the most common fungi visible on dead birches. It is likely that the birch bracket fungus becomes established in small wounds and broken branches and may lie dormant for years, compartmentalised into a small area by the tree's own defence mechanisms, until something occurs to weaken the tree. Fire, drought and suppression by other trees are common causes of such stress.<ref name=adams1982>{{cite book|last=Adams|first=T J H|title=''Piptoporus betulinus'': Some aspects of population biology|year=1982|publisher=Exeter University|location=(PhD thesis)|url=https://www.academia.edu/470354}}</ref>
+
+In most infections there is only one fungal individual present, but occasionally several individuals may be isolated from a single tree, and in these cases it is possible that the birch bracket fungus entered after something else killed the tree. These fungal "individuals" can sometimes be seen if a slice of brown-rotted birch wood is incubated in a plastic bag for several days. This allows the white [[mycelium]] of the fungus to grow out of the surface of the wood. If more than one individual [[dikaryon]] is present, lines of [[intraspecific antagonism]] form as the two individual mycelia interact and repel each other.<ref name="Adams 1981"/>
+
+The fungus can harbor a large number of species of insects that depend on it for food and as breeding sites. In a large-scale study of over 2,600 fruit bodies collected in eastern Canada, 257 species of arthropods, including 172 insects and 59 mites, were found.<ref name="WheelerBlackwell1984">{{cite book|author1=Quentin Wheeler|author2=Meredith Blackwell|title=Fungus-Insect Relationships: Perspectives in Ecology and Evolution|url=https://books.google.com/books?id=McUWyL0wsh8C&pg=PA147|year=1984|publisher=Columbia University Press|isbn=978-0-231-05695-3|page=147}}</ref> The fungus is eaten by the [[caterpillar]]s of the [[fungus moth]] ''[[Nemaxera betulinella]]''.<ref name="Gaedike 2015">{{cite book |author=Gaedike, Reinhard |title=Tineidae I: (Dryadaulinae, Hapsiferinae, Euplocaminae, Scardiinae, Nemapogoninae and Meessiinae) |series=Microlepidoptera of Europe |volume=7 |url=https://books.google.com/books?id=1t8zDwAAQBAJ&pg=PA37 |year=2015 |publisher=BRILL |location= Leiden |isbn=978-90-04-28916-1 |pages=37–38}}</ref> Old fruit bodies that have survived the winter are often colonized by the white to pale yellow fungus ''[[Hypocrea pulmonata]]''.<ref name="Ryvarden 2014"/>
+
+==Uses==
+The velvety cut surface of the fruit body was traditionally used as a [[strop]] for finishing the edges on razors,<ref name="Roberts 2011"/> and as a mounting material for insect collections.<ref name="Roody 2003"/> It has also been used as [[tinder]] and [[anesthetic]].<ref name=Phillips/>
+
+It is considered inedible,<ref name=Phillips>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=313}}</ref> except potentially when young.<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/584/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=584-85 |orig-date=1979}}</ref>
+
+=== Research on chemical constituents ===
+''Fomitopsis betulina'' has been widely used in [[traditional medicine]]s, and has been extensively researched for its [[phytochemistry]] and [[pharmacological]] activity.<ref name="Guevara-Gonzalez 2014" /> [[Phytochemical]]s include [[phenolic acid]]s, [[indole]] compounds, [[sterol]]s, and [[triterpene]]s, especially [[betulin]] and [[betulinic acid]].<ref>{{cite journal |vauthors=Sułkowska-Ziaja K et al. |year=2018 |title=Chemical composition and biological activity of extracts from fruiting bodies and mycelial cultures of ''Fomitopsis betulina'' |journal=Mol Biol Rep |volume=45 |issue=6 |pages=2535–2544 |doi=10.1007/s11033-018-4420-4 |pmc=6267243 |pmid=30317427}}</ref>
+
+[[Agaric acid]], found in the fruit body of the fungus, is poisonous to the parasitic [[whipworm]] ''Trichuris trichiura''.<ref name="pmid9851424">{{cite journal |author=Capasso, L. |year=1998 |title=5300 years ago, the Ice Man used natural laxatives and antibiotics |journal=Lancet |volume=352 |issue=9143 |page=1864 |doi=10.1016/S0140-6736(05)79939-6 |pmid=9851424 |s2cid=40027370 |doi-access=free}}</ref> The fungus was carried by "[[Ötzi the Iceman]]" — the 5,300 year old [[mummy]] found in [[State of Tyrol|Tyrol]] — with speculation that the fungus may have been used as a [[laxative]] to expel whipworm.<ref name="pmid9851424" />
+
+==See also==
+*''[[Fomes fomentarius]]'', another fungus carried by Ötzi the Iceman
+
+==References==
+{{Reflist|30em|refs=
+
+<ref name="Adams 1981">{{cite journal |author1=Adams, T.J.H. |author2=Todd, N.K. |author3=Rayner, A.D.M. |title=Antagonism between dikaryons of ''Piptoporus betulinus'' |year=1981 |journal=Transactions of the British Mycological Society |volume=76 |issue=3 |pages=510–513 |doi=10.1016/s0007-1536(81)80085-x|url=http://www.cybertruffle.org.uk/cyberliber/59351/0076/003/0510.htm|url-access=subscription }}</ref>
+
+<ref name="Allaby 2015">{{cite book |author=Allaby, Michael |title=The Dictionary of Science for Gardeners: 6000 Scientific Terms Explored and Explained |url=https://books.google.com/books?id=bFjVCQAAQBAJ&pg=PA76 |year=2015 |publisher=Timber Press |isbn=978-1-60469-715-5 |page=76}}</ref>
+
+<ref name="BMS">{{cite web |url=https://www.britmycolsoc.org.uk/library/english-names/ |author=Holden, Liz |title=English names for fungi |publisher=British Mycological Society |date=March 2016 |access-date=2018-02-04 |archive-date=6 February 2018 |archive-url=https://web.archive.org/web/20180206002453/https://www.britmycolsoc.org.uk/library/english-names/ |url-status=dead }}</ref>
+
+<ref name="Bulliard 1787">{{cite book |author=Bulliard, Jean |year=1787 |title=Herbier de la France |volume=7 |page=plate 312 |language=French}}</ref>
+
+<ref name="Guevara-Gonzalez 2014">{{cite book |author1=Guevara-Gonzalez, Ramon |author2=Torres-Pacheco, Irineo |title=Biosystems Engineering: Biofactories for Food Production in the Century XXI |url=https://books.google.com/books?id=HarBBAAAQBAJ&pg=PA154 |year=2014 |publisher=Springer Science & Business Media |isbn=978-3-319-03880-3 |page=154}}</ref>
+
+<ref name="Han 2016">{{cite journal |author1=Han, M.L. |author2=Chen, Y.Y. |author3=Shen, L.L. |author4=Song, J. |author5=Vlasak, J. |author6=Dai, Y.C. |author7=Cui, B.K. |year=2016 |title=Taxonomy and phylogeny of the brown-rot Fungi: ''Fomitopsis'' and its related genera |journal=Fungal Diversity |volume=80 |issue=1 |pages=343–373 |doi=10.1007/s13225-016-0364-y|s2cid=34923876 |doi-access=free }}</ref>
+
+<ref name="Karsten 1881">{{cite journal |author=Karsten, P.A. |title=Enumeratio Hydnearum Fr. Fennicarum, systemate novo dispositarum |journal=Revue Mycologique, Toulouse |year=1881 |volume=3 |issue=9 |page=17 |language=Latin}}</ref>
+
+<ref name="Kim 2005">{{cite journal |author1=Kim, K.M. |author2=Yoon, Y.-G. |author3=Jung, H.S. |year=2005 |title=Evaluation of the monophyly of ''Fomitopsis'' using parsimony and MCMC methods |journal=Mycology |volume=97 |issue=4 |pages=812–822 |doi=10.1080/15572536.2006.11832773 |pmid=16457351|s2cid=203881210 }}</ref>
+
+<ref name="Ortiz-Santana 2013">{{cite journal |author1=Ortiz-Santana, B. |author2=Lindner, D.L. |author3=Miettinen, O. |author4=Justo, A. |author5=Hibbett, D.S. |year=2013 |title=A phylogenetic overview of the antrodia clade (Basidiomycota, Polyporales) |journal=Mycologia |volume=105 |issue=6 |pages=1391–1411 |doi=10.3852/13-051 |pmid=23935025|s2cid=6647648 }}</ref>
+
+<ref name="Pleszczyńska 2017">{{cite journal |author1=Pleszczyńska, Małgorzata |author2=Lemieszek, Marta K. |author3=Siwulski, Marek |author4=Wiater, Adrian |author5=Rzeski, Wojciech |author6=Szczodrak, Janusz |year=2017 |title=''Fomitopsis betulina'' (formerly ''Piptoporus betulinus''): the Iceman's polypore fungus with modern biotechnological potential |journal=World Journal of Microbiology and Biotechnology |volume=33 |issue=5 |page=83 |pmc=5380686 |doi=10.1007/s11274-017-2247-0|pmid=28378220 }}</ref>
+
+<ref name="Roberts 2011">{{cite book |author1=Roberts, Peter |author2=Evans, Shelley |title=The Book of Fungi |year=2011 |publisher=University of Chicago Press |location=Chicago, Illinois |page=406 |isbn=978-0-226-72117-0}}</ref>
+
+<ref name="Roody 2003">{{cite book |author=Roody, William C. |title=Mushrooms of West Virginia and the Central Appalachians |publisher=University Press of Kentucky |location=Lexington, Kentucky |year=2003 |page=381 |isbn=978-0-8131-9039-6}}</ref>
+
+<ref name="Ryvarden 2014">{{cite book |author1=Ryvarden, Leif |author2=Melo, I. |title=Poroid Fungi of Europe |year=2014 |series=Synopsis Fungorum |volume=31 |publisher=Fungiflora |location=Oslo, Norway |isbn=978-8290724462 |pages=346–347}}</ref>
+
+}}
+
+==External links==
+*{{Commons-inline|italic=on}}
+
+{{Taxonbar|from1=Q96894257|from2=Q865591}}
+
+[[Category:Fomitopsidaceae]]
+[[Category:Fungi described in 1788]]
+[[Category:Medicinal fungi]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Inedible fungi]]
+[[Category:Parasitic fungi]]
+[[Category:Taxa named by Jean Baptiste François Pierre Bulliard]]
+[[Category:Fungus species]]
+[[Category:Ötzi]]

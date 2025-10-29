@@ -1,0 +1,74 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Buchwaldoboletus lignicola 102704.jpg
+| image_caption = Views of the top and underside of the cap of ''Buchwaldoboletus lignicola''
+| image2 = Buchwaldoboletus lignicola 102705.jpg
+| genus = Buchwaldoboletus
+| species = lignicola
+| authority = ([[Franz Joseph Kallenbach|Kallenb.]])  [[Albert Pilát|Pilát]] (1969)
+| synonyms_ref = <ref name="urlMycoBank: Buchwaldoboletus lignicola"/>
+| synonyms =
+  {{plainlist|
+*''Boletus lignicola'' <small>Kallenb. (1929)</small>
+*''Xerocomus lignicola'' <small>(Kallenb.) [[Rolf Singer|Singer]] (1942)</small>
+*''Gyrodon lignicola'' <small>(Kallenb.) [[Heinem.]] (1951)</small>
+*''Phlebopus lignicola'' <small>(Kallenb.) [[M.M.Moser]] ex Groves (1955)</small>
+*''Pulveroboletus lignicola'' <small>(Kallenb.) E.A.Dick & [[Wally Snell|Snell]] (1965)</small>
+  }}
+}}
+
+'''''Buchwaldoboletus lignicola''''' is a species of [[bolete]] fungus in the family [[Boletaceae]] native to Europe and North America. Found on wood, it is actually parasitic on the fungus ''[[Phaeolus schweinitzii]]''. It has a convex yellow- to rusty brown [[pileus (mycology)|cap]], yellow to yellow-brown pores and stipe, and a brown [[spore print]].  Its edibility is unknown.
+
+==Taxonomy and naming==
+Originally described by [[Franz Joseph Kallenbach]] in 1929 as ''Boletus lignicola'',<ref name="Kallenbach 1929"/> it was given its current name by mycologist [[Albert Pilát]] in 1969.<ref name="Pilat 1969"/> He first placed it in the genus ''[[Pulveroboletus]]'' before erecting the new genus ''Buchwaldoboletus'' on account of its occurrence on wood (rather than in the ground), [[decurrent]] and arcuate pores, the yellow [[mycelium]] at the base of the [[stipe (mycology)|stipe]], the blueing [[trama (mycology)|flesh]] and lack of hyphal [[clamp connections|clamps]].<ref name="Santana 2011"/> Other genera in which the species has been placed include ''[[Xerocomus]]'' by [[Rolf Singer]] in 1942,<ref name="Singer 1942"/> ''[[Gyrodon]]'' by [[Paul Heinemann]] in 1951,<ref name="Heinemann 1951"/> and ''[[Phlebopus]]'' by [[Meinhard Moser]] in 1955.<ref name="urlMycoBank: Buchwaldoboletus lignicola"/><ref name="Groves 1962"/> The species name comes from the [[Latin]] words ''lignum'' "wood" and the verb ''cǒlěre'' "to inhabit".<ref name="Simpson 1854"/>
+
+''Buchwaldoboletus lignicola'' is a member of the genus ''[[Buchwaldoboletus]]'', which with the genus ''[[Chalciporus]]'' form group of fungi that is an early offshoot in the family [[Boletaceae]]. Many members appear to be [[parasitism|parasitic]].<ref name="Nuhn 2013"/>
+
+==Description==
+The [[pileus (mycology)|cap]] is convex, becoming more broadly so in age, and measures {{convert|2.5|–|10|cm|in|1|abbr=on}} in diameter. The cap margin has a band of sterile tissue that is rolled inwards when young. The cap surface is initially finely velvety but often develops fines cracks in maturity. Its color is rusty brown to yellow brown.<ref name="Bessette 2000"/> Easily peeled off the mushroom, the skin is separated from the yellow flesh by a thin gelatinous layer, and can in fact be moved back and forth across the cap.<ref name="Santana 2011"/> The flesh may stain blue where it has been cut or otherwise injured, although this reaction is slow to develop, or may not occur at all. The pores are small and angular, measuring 1–3 per millimeter, while the tubes are 3–12&nbsp;mm long. The pore surface is yellowish to brownish yellow in maturity, and stains bluish-green with injury. The stipe measures {{convert|3|–|8|cm|in|abbr=on}} long by {{convert|0.6|–|2.5|cm|in|1|abbr=on}} thick, and is roughly the same width throughout its length, or narrower at the base. There is a yellow [[mycelium]] at the stipe base.<ref name="Bessette 2000"/>
+The smell is mild and sweet, but has occasionally been described as foul in old specimens.<ref name="Santana 2011"/> The [[edible mushroom|edibility]] of ''B.&nbsp;lignicola'' is not known with certainty.<ref name="Bessette 2000"/>
+
+The mushroom produces an olive-brown [[spore print]]. [[Spore]]s are [[ellipsoid]], smooth, and measure 6–10 by 3–4&nbsp;[[micrometre|μm]].<ref name="Bessette 2000"/>
+
+==Distribution, habitat and ecology==
+''Buchwaldoboletus lignicola'' has been recorded across Europe from the far northern subarctic regions south to Switzerland, and North America from [[Ontario]] and [[Quebec]] south to [[Pennsylvania]].<ref name="Santana 2011"/> It is considered [[endangered species|endangered]] in the Czech Republic.<ref name="Mikšik 2012"/>
+
+It is only found where the fungus ''[[Phaeolus schweinitzii]]'' grows, and microscopic tests have revealed it is parasitic on that species.<ref name="Nuhn 2013"/> The two are found with [[coniferous]] trees such as Scots pine (''[[Pinus sylvestris]]''), eastern white pine (''[[Pinus strobus|P. strobus]]'') and European larch (''[[Larix decidua]]''), and less commonly [[deciduous]] trees such as wild cherry (''[[Prunus avium]]'').<ref name="Santana 2011"/>
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Bessette 2000">{{cite book |title=North American Boletes |vauthors=Bessette AE, Roody WC, Bessette AR |year=2000 |publisher=Syracuse University Press |location=Syracuse, New York |isbn=978-0-8156-0588-1 |page=124}}</ref>
+
+<ref name="Groves 1962">{{cite journal |author=Groves JW. |title=''Phlebopus lignicola'' in North America |journal=Mycologia |year=1962 |volume=54 |issue=3 |pages=319–20 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0054/003/0319.htm |doi=10.2307/3756422|jstor=3756422 |url-access=subscription }}</ref>
+
+<ref name="Heinemann 1951">{{cite journal |author=Heinneman P. |title=Champignons récoltés au Congo Belge par Madame Goossens-Fontana I. Boletineae |journal=Bulletin du Jardin Botanique de l'État à Bruxelles |year=1951 |volume=21 |pages=223–346 (see p.&nbsp;238) |doi=10.2307/3666673 |language=French |jstor=3666673}}</ref>
+
+<ref name="Kallenbach 1929">{{cite book |author=Kallenbach F. |title=Die Pilze Mitteleuropas, Band 1, Die Röhrlinge (Boletaceae) |year=1929 |language=German |page=57}}</ref>
+
+<ref name="Mikšik 2012">{{cite journal |author=Mikšik M. |title=Rare and protected species of boletes of the Czech Republic |journal=Field Mycology |year=2012 |volume=13 |issue=1 |pages=8–16 |doi=10.1016/j.fldmyc.2011.12.003|doi-access=free }}</ref>
+
+<ref name="Nuhn 2013">{{cite journal |vauthors=Nuhn ME, Binder M, Taylor AF, Halling RE, Hibbett DS |title=Phylogenetic overview of the Boletineae |journal=Fungal Biology |year=2013 |volume=117 |issue=7–8 |pages=479–511 |doi=10.1016/j.funbio.2013.04.008 |pmid=23931115 |url=https://www.researchgate.net/publication/255732523}}</ref>
+
+<ref name="Pilat 1969">{{cite journal |title=''Buchwaldoboletus''. Genus novum Boletacearum |journal=Friesia |year=1969 |author=Pilát A. |volume=9 |issue=1–2 |pages=217–8}}</ref>
+
+<ref name="Santana 2011">{{cite journal |author1=Ortiz-Santana, Beatriz |author2=Both, Ernst E. |year=2011 |title=A Preliminary Survey of the genus ''Buchwaldoboletus'' |journal=Bulletin of the Buffalo Society of Natural Sciences |volume=40 |pages=1–14 |url=https://www.nrs.fs.usda.gov/pubs/jrnl/2011/nrs_2011_ortiz-santana_001.pdf}}</ref>
+
+<ref name="Simpson 1854">{{cite book |author= Simpson DP. |title=Cassell's Latin Dictionary |publisher = Cassell Ltd |year = 1979 |orig-year=1854 |edition = 5 |location = London |pages=116, 346 |isbn = 0-304-52257-0}}</ref>
+
+<ref name="Singer 1942">{{cite journal |author=Singer R. |title=Das System der Agaricales. II |journal=Annales Mycologici |year=1942 |volume=40 |page=43 |language=German}}</ref>
+
+<ref name="urlMycoBank: Buchwaldoboletus lignicola">{{cite web |title=''Buchwaldoboletus lignicola'' (Kallenb.) Pilát, Friesia, 9 (1-2): 217, 1969 |url=http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=417776&Fields=All |publisher=[[MycoBank]]. International Mycological Association |access-date=2013-05-26}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|298067}}
+
+{{Taxonbar|from=Q10682293}}
+
+[[Category:Boletaceae]]
+[[Category:Fungi described in 1929]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]

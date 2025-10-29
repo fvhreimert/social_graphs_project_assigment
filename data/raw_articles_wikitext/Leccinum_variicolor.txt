@@ -1,0 +1,53 @@
+{{Short description|Species of fungus}}
+{{Species box 
+| image = Leccinum variicolor LC0365.jpg
+| taxon = Leccinum variicolor
+| authority = [[Roy Watling|Watling]] (1969)
+| synonyms = ''Leccinum variicolor'' var. ''bertauxii'' <small>[[Gilbert Lannoy|Lannoy]] & [[Alain Estadès|Estadès]] 1991</small><ref name = "col119133"/><br/>
+''Leccinum variicolor'' f. ''atrostellatum'' <small>Lannoy & [[Alain Estadès|Estadès]] (1991)</small><ref name = "col119133"/><br/>
+''Boletus variicolor'' <small>(Watling) Hlavácek (1989)</small><ref name = "col119131"/><br/>
+''Boletus variicolor'' <small>(Watling) Hlavácek (1988)</small><ref name = "col51536"/><br/>
+''Krombholziella variicolor'' <small>(Watling) [[Josef Šutara|Šutara]] (1982)</small><ref name = "col119128"/><br/>
+''Leccinum variicolor'' var. ''variicolor'' <small>Watling (1969)</small><ref name = "col119132"/><br/>
+''Krombholzia scabra'' var. ''coloratipes'' <small> </small><ref name = "col458"/>
+}}
+{{ mycomorphbox
+| name             = Leccinum variicolor
+| whichGills       = adnate
+| capShape         = convex
+| hymeniumType     = pores
+| stipeCharacter   = bare
+| ecologicalType   = mycorrhizal
+| howEdible        = edible
+}}
+
+'''''Leccinum variicolor''''' is a species of [[bolete]] fungus in the genus ''[[Leccinum]]''.<ref name = "COL"/>
+
+==See also==
+*[[List of Leccinum species|List of ''Leccinum'' species]]
+
+==References==
+{{Reflist|refs=
+<ref name = "col119133">Lannoy, G.; Estades, A. (1991) Contribution à l'étude du genre ''Leccinum'' S.F. Gray. 1. Étude de ''L. variicolor, oxydabile'' et de quelques satellites, formes et variétés, In: Docums Mycol. 21(no. 81):11–26 + 2 pl.</ref>
+
+<ref name = "col119131">Hlavácek, J. (1989) Prehled našich hub hribotvarých - Boletales (6), In: Mykologický Sborník 66(2):49–58</ref>
+
+<ref name = "col51536">Hlavácek, J. (1988) Prehled našich hub hribotvarých - Boletales (3) Rod ''Boletus'' Dillenius ex Linné (1737) - Hrib, In: Mykologický Sborník 65(3):81–86 + 3 pl.</ref>
+
+<ref name = "col119128">Šutara (1982), In: Ceská Mykol. 36(2):83</ref>
+
+<ref name = "col119132">Watling (1969), In: Notes R. bot. Gdn Edinb. 29:268</ref>
+
+<ref name = "col458">{{cite web|url=http://www.speciesfungorum.org |title=Species Fungorum Home Page |publisher=Speciesfungorum.org |date= |accessdate=2022-05-04}}</ref>
+
+<ref name = "COL">{{cite web |url= http://www.catalogueoflife.org/annual-checklist/2011/search/all/key/leccinum+variicolor/match/1|title= Species 2000 & ITIS Catalogue of Life: 2011 Annual Checklist.|author= Bisby F.A.|author2= Roskov Y.R.|author3= Orrell T.M.|author4= Nicolson D.|author5= Paglinawan L.E.|author6= Bailly N.|author7= Kirk P.M.|author8= Bourgoin T.|author9= Baillargeon G.|author10= Ouvrard D. (red.)|year= 2011|publisher= Species 2000: Reading, UK.|accessdate= 24 September 2012}}</ref>
+
+}}
+
+{{Taxonbar|from=Q355571}}
+
+[[Category:Leccinum|variicolor]]
+[[Category:Fungi described in 1969]]
+[[Category:Fungi of Europe]]
+[[Category:Taxa named by Roy Watling]]
+[[Category:Fungus species]]

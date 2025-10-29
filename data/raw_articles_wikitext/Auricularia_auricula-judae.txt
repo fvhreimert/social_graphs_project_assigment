@@ -1,0 +1,213 @@
+{{Short description|Species of fungus}}
+{{Use dmy dates|date=December 2021}}
+{{About|the fungus endemic to Europe|the "wood ear" fungus used in Chinese cuisine|Auricularia heimuer}}
+{{speciesbox
+| name= ''Auricularia auricula-judae''{{Italic title}}
+| image = Jelly Ear, Auricularia auricula-judae, UK 2.jpg
+| image_caption = A young fruit body on fallen wood in England
+| taxon = Auricularia auricula-judae
+| authority = ([[Jean Baptiste François Pierre Bulliard|Bull.]]) [[Joseph Schröter|J.Schröt.]]
+| synonyms_ref = <ref name="Mycobank"/>
+| synonyms = {{collapsible list|title=<small>Species synonymy</small>
+ | 1753 ''Tremella auricula'' <small>[[Carl Linnaeus|L.]]</small>
+ | 1777 ''Peziza auricula'' <small>(L.) [[John Lightfoot (biologist)|Lightf.]]</small>
+ | 1788 ''Merulius auricula'' <small>(L.) [[Albrecht Wilhelm Roth|Roth]]</small>
+ | 1789 ''Tremella auricula-judae'' <small>[[Jean Baptiste François Pierre Bulliard|Bull.]]</small>
+ | 1791 ''Peziza auricula-judae'' <small>(Bull.) Bull.</small>
+ | 1801 ''Tremella auricula-judae'' var. ''caraganae'' <small>[[Christian Hendrik Persoon|Pers.]]</small>
+ | 1812 ''Tremella caraganae'' <small>(Pers.) [[Heinrich von Martius|H. Mart.]]</small>
+ | 1821 ''Gyraria auricularis'' <small>[[Samuel Frederick Gray|Gray]]</small>
+ | 1822 ''Exidia auricula-judae'' <small>(Bull.) Fr.</small>
+ | 1822 ''Auricularia sambuci'' <small>Pers.</small>
+ | 1860 ''Hirneola auricula-judae'' <small>(Bull.) [[Miles Joseph Berkeley|Berk.]]</small>
+ | 1880 ''Hirneola auricula'' <small>(L.) [[Petter Karsten|P. Karst.]]</small>
+ | 1886 ''Auricularia auricula-judae'' var. ''lactea'' <small>[[Lucien Quélet|Quél.]]</small>
+ | 1902 ''Auricularia auricula'' <small>(L.) [[Lucien Marcus Underwood|Underw.]]</small>
+ | 1913 ''Auricularia lactea'' (Quél.) <small>[[René Bigeard|Bigeard]] & H. Guill.</small>
+ | 1943 ''Auricularia auricularis'' <small>(Gray) [[George Willard Martin|G.W. Martin]]</small>
+ | 1949 ''Hirneola auricularis'' <small>(Gray) [[Marinus Anton Donk|Donk]]</small>
+ | 1970 ''Hirneola auricula-judae'' var. ''lactea'' <small>(Quél.) [[Derek Reid|D.A. Reid]]</small>
+ }}
+}}
+{{ mycomorphbox
+| name            = 
+| hymeniumType    = smooth
+| capShape        = no
+| whichGills      = NA
+| stipeCharacter  = NA
+| sporePrintColor = white
+| ecologicalType  = saprotrophic
+| ecologicalType2 = parasitic
+| howEdible       = edible
+}}
+'''''Auricularia auricula-judae''''', [[common name|commonly]] known as '''wood ear''', '''jelly ear''' or historically as '''Jew's ear''', is a species of [[fungus]] in the [[order (biology)|order]] [[Auriculariales]]. [[Basidiocarp]]s (fruit bodies) are brown, gelatinous, and have a noticeably ear-like shape. They grow on wood, especially [[elder tree|elder]]. The [[specific name (botany)|specific epithet]] is derived from the belief that [[Judas Iscariot]] hanged himself from an [[elder tree]].
+
+The fungus can be found throughout the year in Europe, where it normally grows on wood of broadleaf trees and shrubs. ''Auricularia auricula-judae'' was used in [[folk medicine]] as recently as the 19th century for complaints including [[sore throat]]s, sore eyes and [[jaundice]], and as an [[astringent]]. It is [[edible mushroom|edible]] but not widely consumed.
+
+==Taxonomy==
+The species was first described as ''Tremella auricula'' by [[Carl Linnaeus]] in his 1753 ''[[Species Plantarum]]''<ref name=Linn1753/> and later (1789) redescribed by [[Jean Baptiste François Pierre Bulliard]] as ''Tremella auricula-judae''.<ref name="Mycobank"/> In 1822, the Swedish mycologist [[Elias Magnus Fries]] accepted Bulliard's epithet and transferred the species to ''[[Exidia]]'' as ''Exidia auricula-judae''. In so doing, Fries [[Sanctioned name|sanctioned the name]], meaning that the species epithet "''auricula-judae''" takes priority over Linnaeus's earlier "''auricula''". 
+
+The species was given the name ''Auricularia auricula-judae'' in 1888 by [[Joseph Schröter]].<ref name="Mycobank"/> The [[specific name (botany)|specific epithet]] of ''A.&nbsp;auricula-judae'' comprises ''auricula'', the Latin word meaning ''ear'', and ''Judae'', meaning ''of Judas''.<ref name="Harding"/> The name was criticised by the American mycologist [[Curtis Gates Lloyd]], who said "''Auricularia auricula-Judae'' is cumbersome and in addition is a slander on the Jews".<ref name="Lowy"/> Though critical of [[Lucien Marcus Underwood]], saying he "would probably not have known the Jew's ear from the calves' liver", he followed him in using ''Auricularia auricula'', which was in turn used by the American mycologist Bernard Lowy in his monograph on the genus.<ref name="Lowy"/> Despite this, ''Auricularia auricula-judae'' is the valid name for the species.<ref name="Mycobank"/><ref name="IndexFungorum"/>
+
+The species was long thought to be somewhat variable in colour, habitat, and microscopic features but cosmopolitan in distribution, though Lowy considered it a temperate species and doubted that it occurred in the tropics.<ref name="Lowy" /> [[Molecular phylogenetics|Molecular]] research, based on [[cladistic]] analysis of [[DNA sequences]], has, however, shown that ''Auricularia auricula-judae'' as previously understood comprises at least seven different species worldwide.<ref name="wu2015"/><ref name="wu2021"/> Since ''A. auricula-judae'' was originally described from Europe, the name is now restricted to the European species. The commercially cultivated Chinese and East Asian species, still frequently marketed and described as ''A.&nbsp;auricula-judae'' or ''A.&nbsp;auricula'', is ''[[Auricularia heimuer]]'' (black wood ear).<ref name="wu2014"/>
+
+==Vernacular names==
+. It is from the belief [[Judas Iscariot]] hanged himself on an [[elder tree]] that both the [[Botanical name|specific epithet]] ''auricula-judae'' and the common name Jew's ear originate.]]
+
+The fungus is associated with [[Judas Iscariot]] because of the belief that he hanged himself on an elder tree after his betrayal of [[Jesus Christ]].<ref name="Harding"/> Folklore suggests that the ears are Judas's returned spirit,<ref name="Kibby"/> and are all that are left to remind us of his suicide.<ref name="Harding"/> The medieval Latin name ''auricula Judae'' (Judas's Ear) matches the vernacular name in most European languages, such as the French ''oreille de Judas'', or the German ''Judasohr''.<ref name="OED"/> The species was known as "fungus sambuca" among herbalists, in reference to ''[[Sambucus]]'', the generic name for elder.<ref name="Harding"/> The mistranslation "Jew's Ear" appeared in English by 1544.<ref name="OED"/> The English [[common name]] of the fungus was originally "Judas's ear", but this was later shortened to "Judas ear" and then "Jew's ear".<ref name="Harding"/> Common names for the fungus which refer to Judas can be traced back to at least the end of the 16th century;<ref name="Barrett"/> for instance, in the 17th century, [[Thomas Browne]] wrote of the species:
+
+<blockquote>
+In ''Jews' ears'' something is conceived extraordinary from the name, which is in propriety but ''fungus sambucinus'', or an excrescence about the roots of elder, and concerneth not the nation of the Jews, but Judas Iscariot, upon a conceit he hanged on this tree; and is become a famous medicine in quinsies, sore throats, and strangulations, ever since.<ref name="Folk"/>
+</blockquote>
+
+While the term "Jew's meat" was a deprecatory term used for all fungi in the Middle Ages,<ref name="Mabey"/> the term is unrelated to the name "Jew's ear".<ref name="Harding"/> A further change of name to "jelly ear" was recommended in the ''List of Recommended Names for Fungi''.<ref name="Englishnames"/> The idea was criticised by the author Patrick Harding, who considered it "to be the result of political correctness where it is not necessary", and who "will continue to call [the species] Jew's ear", explaining that, while anti-Semitism was commonplace in Britain, the name "Jew's ear" is in reference to Judas, who was a Jew.<ref name="Harding"/> However, the name is no longer favoured; the [[British Mycological Society]] recommends the name "jelly ear".<ref name="Englishnames"/> Other common names include the "ear fungus"<ref name="Allen"/> and the "common ear fungus".<ref name="Boa"/>
+
+==Description==
+{{multiple image
+| align = right
+| direction = vertical
+| width = 200
+| image1 = Auricularia auriculajudae 107928.jpg
+| caption1 = The upper surface of fruit bodies is covered in tiny, downy hairs and may be folded and wrinkled
+| image2 = Old, dark Jew's ear.jpg
+| caption2 = As fruit bodies age, they become darker
+}}
+The fruit body of ''A.&nbsp;auricula-judae'' is normally up to {{convert|9|cm|abbr=on|frac=4}} across and up to {{convert|3|mm|abbr=on|frac=16}} thick. It is often reminiscent of a floppy ear, but can also be cup-shaped. It is attached to the [[substrate (biology)|substrate]] laterally and sometimes by a very short stalk. Fruit bodies have a tough, gelatinous, elastic texture when fresh, but dry hard and brittle.<ref name="Sterry"/> The upper surface is a reddish-tan-brown with a purplish tint and finely [[pilose]] (covered in tiny, grey, downy hairs).<ref name="Sterry"/> It can be smooth, as is typical of younger specimens,<ref name="Barrett"/> or undulating with folds and wrinkles. The colour becomes darker with age.<ref name="Sterry"/> The under surface is a lighter grey-brown and smooth, sometimes folded or wrinkled, and may have "veins", making it appear even more ear-like.<ref name="Sterry"/>
+
+Entirely white fruit bodies are occasionally encountered and were once given the name ''Auricularia lactea'', but they are merely unpigmented forms and often occur in company with ordinary, pigmented fruit bodies.<ref name="Reid1970"/> 
+
+===Microscopic features===
+The spores of ''A.&nbsp;auricula-judae'' are allantoid (sausage-shaped), 15–22 x 5–7&nbsp;[[μm]]; the [[basidia]] are cylindrical, 65–85 × 4–5.5&nbsp;μm, with three transverse septa (internal cross-walls). Hairs on the upper surface are 100–150&nbsp;μm in length and 5–7.5&nbsp;μm in diameter. They are [[hyaline]], thick-walled, and have acute to rounded tips.<ref name="wu2021"/> 
+
+===Similar species===
+In Europe, the only similar species is ''[[Auricularia cerrina]]'', recently described on oak (''Quercus'') from the Czech Republic, but probably more widespread in southern Europe. It can be distinguished by its dark grey to almost black fruit bodies.<ref name="Kout"/> The Asian ''[[Auricularia heimuer]]'' is very similar and has long been confused with ''A.&nbsp;auricula-judae''. It can be distinguished microscopically by its shorter basidia and shorter spores (11–13 × 4–5&nbsp;μm). The American ''[[Auricularia angiospermarum]]'' is also similar, but also has shorter basidia and spores (13–15 × 4.8–5.5&nbsp;μm).<ref name="wu2021"/>
+
+==Habitat, ecology and distribution==
+
+
+''Auricularia auricula-judae'' grows on the wood of [[deciduous]] trees and shrubs, particularly ''[[Sambucus nigra]]'' (elder).<ref name="Sterry"/> It is also common on ''[[Acer pseudoplatanus]]'' (sycamore), ''[[Fagus sylvatica]]'' (beech), ''[[Fraxinus excelsior]]'' (ash), ''[[Euonymus europaeus]]'' (spindle), and in one particular case, the sycamore draining board of an old sink in [[Hatton Garden]].<ref name="Harding"/> It very rarely grows on conifers.<ref name="Kout"/> It favours older branches, where it feeds as a [[saprotroph]] (on dead wood) or a weak [[parasite]] (on living wood),<ref name="Harding"/> and it causes a [[white rot]].<ref name="Worrall"/>
+
+Commonly growing solitarily, it can also be [[wikt:gregarious|gregarious]] (in a group) or [[wikt:caespitose|caespitose]] (in a tuft).<ref name="Lowy658">Lowy 1952, p. 658</ref> Spores are ejected from the underside of the fruit bodies with as many as several hundred thousand an hour, and the high rate continues when the bodies have been significantly dried. Even when they have lost some 90% of their weight through dehydration, the bodies continue to release a small number of spores.<ref name="Ingold" /> It is found all year, but is most common in autumn.<ref name="Phillips" /> 
+
+The species is widespread throughout Europe, but is not known to occur elsewhere.<ref name="wu2021"/> It was formerly thought to be a variable species with a worldwide distribution, but [[Molecular phylogenetics|molecular]] research, based on [[cladistic]] analysis of [[DNA sequences]], has shown that non-European species are distinct. The cultivated "''A.&nbsp;auricula-judae''" of China and East Asia is ''[[Auricularia heimuer]]''<ref name="wu2014"/> and, to a lesser extent, ''[[A.&nbsp;villosula]]''.<ref name="wu2015"/> The North American "''A.&nbsp;auricula-judae''" on broadleaf trees is ''[[Auricularia angiospermarum]]'', with ''[[Auricularia americana]]'' on conifers.<ref name="wu2021"/>
+
+==Uses==
+
+===Culinary use===
+''Auricularia auricula-judae'' has a soft, jelly-like texture. Though edible, it is not held in high culinary regard. It has been likened to "eating an Indian rubber with bones in it",<ref name="Harding"/> while in 19th-century Britain, it was said that "it has never been regarded here as an edible fungus".<ref name="Harding"/> The species is said to be commonly consumed in Poland.<ref name="Boa"/> A related fungus, ''[[Auricularia heimuer]]'', is widely used in East Asian cooking and has often been misidentified as ''A.&nbsp;auricula-judae''.
+
+''Auricularia auricula-judae'' has a mild flavour, which may be considered bland.<ref name="Conte"/> It can be [[Drying (food)|dried]] and rehydrated,<ref name="Acton"/> sometimes swelling to 3–4 times in size.<ref name="Acton"/> The species is not edible when raw, needing to be cooked thoroughly.<ref name="Acton"/> A {{convert|100|g|oz|abbr=on}} reference serving of dried fungus provides {{convert|370|kcal|kJ|order=flip|abbr=off}} of [[food energy]], 10.6&nbsp;g of [[dietary protein|protein]], 0.2&nbsp;g of fat, 65&nbsp;g of [[carbohydrate]], 5.8&nbsp;g [[Ash (analytical chemistry)|ash]], and 0.03%&nbsp;mg of [[carotene]]. Fresh mushrooms contain about 90% moisture.<ref name=Hobbs1995/><ref name=Gilbert1957/> Dried specimens may be ground up into a powder and used to absorb excess liquid in soups and stews, as it rehydrates into tiny fragments.<ref name=Tomblin2007/>
+
+===Medicinal use===
+ [[John Gerard]] recommended ''Auricularia&nbsp;auricula-judae'' for curing a [[sore throat]].]]
+
+''Auricularia auricula-judae'' has been used as a [[medicinal fungus]] by many [[herbalist]]s. It was used as a [[poultice]] to treat inflammations of the eye,<ref name="Mabey"/> as well as a [[palliative]] for throat problems.<ref name="Harding"/> The 16th-century herbalist [[John Gerard]], writing in 1597, recommended ''A.&nbsp;auricula-judae'' for a very specific use; other fungi were used more generally. He recommends the preparation of a liquid extract by boiling the fruit bodies in milk, or else leaving them steeped in beer, which would then be sipped slowly in order to cure a sore throat.<ref name="Harding"/> The resultant broth was probably not dissimilar to the Chinese soups that use ''[[Auricularia cornea]]''.<ref name="Harding"/> [[Carolus Clusius]], writing in 1601, also said that the species could be gargled to cure a sore throat,<ref name="Barrett"/> and [[John Parkinson (botanist)|John Parkinson]], writing in 1640, reported that boiling in milk or steeping in vinegar was "the {{not a typo|onely}} use they are put unto that I know".<ref name="Barrett"/>
+
+Writing in 1694, the herbalist [[John Pechey]] described ''A.&nbsp;auricula-judae'' by saying "It grows to the Trunk of the Elder-Tree. Being dried it will keep a good year. Boyl'd in Milk, or infus'd in Vinegarm 'tis good to gargle the Mouth or Throat in Quinsies, and other inflammations of the Mouth and Throat. And being infus'd in some proper Water, it is good in Diseases of the Eyes."<ref name="Harding"/> The species also saw use as an [[astringent]] due to its ability to absorb water.<ref name="Harding"/> There are recorded medicinal usages from Scotland, where it was again used as a gargle for sore throats, and from Ireland, where, in an attempt to cure [[jaundice]], it was boiled in milk.<ref name="Allen"/> The medicinal use of ''A.&nbsp;auricula-judae'' continued until at least 1860, when it was still sold at [[Covent Garden]]; at the time, it was not considered edible in the United Kingdom.<ref name="Harding"/>
+
+==Cultural depictions==
+The species is referred to in [[Christopher Marlowe]]'s play ''[[The Jew of Malta]]'', where Ithamore proclaims: "The hat he wears, Judas left under the elder when he hanged himself".<ref name="Folk"/><ref name="Marlowe"/> Later, the species was probably partially the inspiration for [[Emily Dickinson]]'s poem beginning "The Mushroom is the Elf of Plants", which depicts a mushroom as the "ultimate betrayer".<ref>{{cite book |last=Dickinson |first=Emily |author-link=Emily Dickinson |date=1924 |title=The Complete Poems Of Emily Dickinson |url=https://en.wikisource.org/wiki/Page:The_complete_poems_of_Emily_Dickinson,_(IA_completepoemsofe00dick_1).pdf/112 |location=Boston, MA |publisher=[[Little, Brown & Co.]] |page=92-93 |access-date=2025-06-09}}</ref> Dickinson had both a religious and naturalistic background, and so it is more than likely that she knew of the common name of ''A.&nbsp;auricula-judae'', and of the folklore surrounding Judas's suicide.<ref name="Harding"/>
+
+{{Quote box |quoted=true |qalign=center |salign=center |width=300px |align=center
+ | quote  =<poem>
+The Mushroom is the Elf of Plants —
+At Evening, it is not —
+At Morning, in a Truffled Hut
+It stop upon a Spot
+
+As if it tarried always
+And yet its whole Career
+Is shorter than a Snake's Delay
+And fleeter than a Tare —
+
+'Tis Vegetation's Juggler —
+The Germ of Alibi —
+Doth like a Bubble antedate
+And like a Bubble, hie —
+
+I feel as if the Grass was pleased
+To have it intermit —
+This surreptitious scion
+Of Summer's circumspect.
+
+Had Nature any supple Face
+Or could she one contemn —
+Had Nature an Apostate —
+That Mushroom — it is Him!</poem>
+|source= From [[Emily Dickinson]]'s "[[Wikisource:The Mushroom is the Elf of Plants —|The Mushroom is the Elf of Plants]]"
+}}
+
+== References ==
+{{Reflist|refs=
+
+<ref name="Mycobank">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=102281 |title=''Auricularia auricula-judae'' (Bull.) J. Schröt. 1888 |publisher=[[MycoBank]]. International Mycological Association |access-date=20 September 2010}}</ref>
+
+<ref name="Englishnames">{{cite web |url=http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |title=Recommended English Names for Fungi in the UK |publisher=[[British Mycological Society]] |archive-url=https://web.archive.org/web/20110716083053/http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |archive-date=2011-07-16 }}</ref>
+
+<ref name="wu2014">{{cite journal |vauthors=Wu F, Yuan Y, Malysheva VF, Du P, Dai Y  |date = 2014 |title =Species clarification of the most important and cultivated ''Auricularia'' mushroom "Heimuer": evidence from morphological and molecular data |journal=Phytotaxa |volume=186 |issue = 5 |pages=241–253 |doi= 10.11646/phytotaxa.186.5.1|bibcode = 2014Phytx.186..241W }}</ref>
+
+<ref name="wu2015">{{cite journal |vauthors= Wu F, Yuan Y, He S, Bandara AR, Hyde KD, Malysheva VF, Li D, Dai Y  |date = 2015 |title =Global diversity and taxonomy of the ''Auricularia auricula-judae'' complex (Auriculariales, Basidiomycota) |journal=Mycological Progress |volume=14 |issue = 10 |page = 95 |doi= 10.1007/s11557-015-1113-4|bibcode = 2015MycPr..14...95W |s2cid = 16991202 }}</ref>
+
+<ref name="wu2021">{{cite journal |vauthors= Wu F, Tohtirjap A, Fan L, Zhou L, Alvarenga RL, Gibertoni TB, Dai Y  |date = 2021 |title =Global diversity and updated phylogeny of ''Auricularia'' (Auriculariales, Basidiomycota) |journal=Journal of Fungi |volume=7 |issue = 11 |page = 933 |doi=10.3390/jof7110933|pmid = 34829220 |pmc = 8625027 |doi-access = free }}</ref>
+
+<ref name=Linn1753>{{cite book |title=Species Plantarum |volume=2 |author=Linnaeus, Carl |year=1753 |page=1153 |publisher=Impensis Laurentii Salvii |url=https://www.biodiversitylibrary.org/page/359174}}</ref>
+
+<ref name="Lowy">{{cite journal |author= Lowy, Bernard|year= 1952|title= The genus ''Auricularia''|journal= [[Mycologia]]|volume= 44|issue= 5|pages= 656–92|doi= 10.1080/00275514.1952.12024226|issn= 0027-5514|url= http://www.cybertruffle.org.uk/cyberliber/59350/0044/005/0656.htm | jstor = 4547639 |url-access= subscription}}</ref>
+
+<ref name="IndexFungorum">{{cite web |url= http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=102281|title= ''Auricularia auricula-judae'' (Bull.) Quél., ''Enchir. fung.'' (Paris): 207 (1886)|publisher= Species Fungorum|access-date=20 July 2011}}</ref> 
+
+<ref name="Kibby">{{cite book |title= Mushrooms and Toadstools of Britain and Northern Europe|last= Kibby|first= Geoffrey|year= 2003|publisher= [[Hamlyn (publishers)|Hamlyn]]|isbn= 978-0-7537-1865-0|page= 225}}</ref>
+
+<ref name="Acton">{{cite book |title= Mushroom|year= 2001|publisher= Kyle Cathie|isbn= 978-1-85626-739-7|author1=Acton, Johnny |author2=Sandler, Nick }}</ref>
+
+<ref name="Harding">{{cite book |title= Mushroom Miscellany|last= Harding|first= Patrick|year= 2008|publisher= [[HarperCollins]]|isbn= 978-0-00-728464-1}}</ref>
+
+<ref name="OED">{{cite web |url=http://www.oed.com/view/Entry/101238?redirectedFrom=Jew's+ear& |title=Oxford English Dictionary. "Erroneous rendering of medieval Latin auricula Judae Judas' ear"}}</ref>
+
+<ref name="Barrett">{{cite journal |doi= 10.2307/3753627 |author= Barrett, Mary F.|year= 1910|title= Three common species of ''Auricularia'' |jstor= 3753627|journal= [[Mycologia]]|volume= 2|issue= 1|pages= 12–8|issn= 0027-5514|url= http://www.cybertruffle.org.uk/cyberliber/59350/0002/001/0012.htm|url-access= subscription}}</ref>
+
+<ref name="Mabey">{{cite book|author= Mabey, Richard|year=1984|title= Food for Free|publisher= [[HarperCollins]]|page= 54|isbn= 0-00-633470-9}}</ref>
+
+<ref name="Allen">{{cite book|title= Medicinal Plants in Folk Tradition: An Ethnobotany of Britain & Ireland|year= 2004|author1=Allen, David E. |author2=Hatfield, Gabrielle |publisher= Timber Press |isbn= 978-0-88192-638-5|page= [https://archive.org/details/medicinalplantsi00davi/page/50 50]|url-access= registration|url= https://archive.org/details/medicinalplantsi00davi/page/50}}</ref>
+
+<ref name="Sterry">{{cite book |title= Complete Guide to British Mushrooms & Toadstools|author1=Sterry, Paul |author2=Hughes, Barry |year= 2009|publisher= [[HarperCollins]]|isbn= 978-0-00-723224-6|page= 290}}</ref>
+
+<ref name="Reid1970">{{cite journal |vauthors= Reid DA |date = 1970 |title =New or interesting records of British hymenomycetes, IV |journal=Transactions of the British Mycological Society |volume=55 |issue=3 |pages=413–441|doi = 10.1016/S0007-1536(70)80062-6 }}</ref> 
+
+<ref name="Kout">{{cite journal |vauthors=Kout, J, Wu F |date = 2022 |title =Revealing the cryptic diversity of wood-inhabiting ''Auricularia'' (Auriculariales, Basidiomycota) in Europe |journal=Forests |volume=13 |issue = 4 |page = 532 |doi=10.3390/f13040532|doi-access = free |bibcode = 2022Fore...13..532K }}</ref>
+
+<ref name="Worrall">{{cite journal |author1=Worrall, James J. |author2=Anagnost, Susan E. |author3=Zabel, Robert A. |year= 1997|title= Comparison of wood decay among diverse lignicolous fungi|journal= [[Mycologia]]|volume= 89|issue= 2|pages= 199–219|jstor= 3761073|url=http://www.cybertruffle.org.uk/cyberliber/59350/0089/002/0199.htm |doi= 10.2307/3761073|url-access= subscription}}</ref>
+
+<ref name="Ingold">{{cite journal |last1= Ingold|first1= C. T.|year= 1985|title= Water and spore discharge in Ascomycetes and Hymenomycetes|journal= [[Transactions of the British Mycological Society]]|volume= 85|issue= 4|pages= 575–583|url= http://www.cybertruffle.org.uk/cyberliber/59351/0085/004/0578.htm|doi=10.1016/s0007-1536(85)80250-3|url-access= subscription}}</ref>
+
+<ref name="Boa">{{cite book |title= Wild Edible Fungi: A Global Overview of their Use and Importance to People|url= https://archive.org/details/bub_gb_Zd2NlcNZgvcC|author= Boa, Eric|year= 2004|publisher= Food and Agriculture Organisation|isbn= 978-92-5-105157-3}}</ref>
+
+<ref name="Conte">{{cite book |title= The Edible Mushroom Book|year= 2008|publisher= [[Dorling Kindersley]]|isbn= 978-1-4053-3213-2|page= 91|author1=Conte, Anna Del |author2=Læssøe, Thomas }}</ref>
+
+<ref name=Hobbs1995>{{cite book |author=Hobbs, Christopher. |title=Medicinal Mushrooms: An Exploration of Tradition, Healing & Culture |publisher=Culinary Arts Ltd |year=1995 |page=73 |isbn=1-884360-01-7}}</ref>
+
+<ref name=Gilbert1957>{{cite journal |doi=10.1007/BF02985303 |title=Food from fungi |journal=[[Economic Botany]] |author1=Gilbert, Frank A. |author2=Robinson, Radcliff F. |volume=11 |issue=2 |year=1957 |pages=126–45 |jstor=4287926 |bibcode=1957EcBot..11..126G |s2cid=29535891 }}</ref>
+
+<ref name="Folk">{{cite book |title= Folk-Etymology|year= 1882|publisher= Haskell House|page= 195|url= https://books.google.com/books?id=fXrlvr_kPXwC&pg=PA195}}</ref>
+
+<!-- <ref name="Qu">{{cite journal |vauthors=Qu H, Yi J, Gao X, Zhao H, Wang Z |year= 2019|title= Anti-disuse osteoporosis activity of a complex of calcium-binding peptide from ''Auricularia auricula'' protein hydrolysate|journal= Journal of Food Science |volume= 84|issue= 7|pages= 1909–1919|doi= 10.1111/1750-3841.14697|pmid= 31237973|s2cid= 195658404}}</ref>
+<ref name="Hu">{{cite journal |vauthors=Hu X, Liu C, Wang X, Jia D, Lu W, Sun X, Liu Y, Yuan L |year= 2017 |title= Hyperglycemic and anti-diabetic nephritis activities of polysaccharides separated from ''Auricularia auricular'' (sic) in diet-streptozotocin-induced diabetic rats |journal=Experimental and Therapeutic Medicine |volume= 13 |issue= 1 |pages= 352–358 |doi=10.3892/etm.2016.3943|pmid= 28123514 |pmc= 5244857 }}</ref>  -->
+
+<ref name="Marlowe">{{cite book |title= The Jew of Malta|last= Marlowe|first= Christopher|author-link= Christopher Marlowe|year= 1633|url= http://www.gutenberg.org/files/901/901-h/901-h.htm}}</ref>
+
+<ref name=Tomblin2007>{{cite book |author=Tomblin, Gill |title=How to Identify Edible Mushrooms |year=2007 |publisher=Harper Collins UK |isbn=978-0-00-725961-8|page=146}}</ref>
+
+<ref name="Phillips">{{cite book |title= Mushrooms and Other Fungi of Great Britain and Europe|author= Phillips, Roger|year= 1981|publisher= [[Pan Books]]|isbn= 0-330-26441-9|page=262}}</ref>
+}}
+
+{{Good article}}
+{{Taxonbar|from=Q321342}}
+{{Authority control}}
+
+{{DEFAULTSORT:Auricularia Auricula-Judae}}
+[[Category:Auriculariales]]
+[[Category:Fungi described in 1789]]
+[[Category:Fungi of Europe]]
+[[Category:Medicinal fungi]]
+[[Category:Judas Iscariot]]
+[[Category:Fungus species]]

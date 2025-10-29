@@ -1,0 +1,22 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Hygrophorus penarius.JPG
+| genus = Hygrophorus
+| species = penarius
+| authority = Fr. 
+}}
+
+'''''Hygrophorus penarius''''' is a species of [[fungus]] belonging to the family [[Hygrophoraceae]].<ref name="GBIF">{{cite web |title=Hygrophorus penarius Fr. |url=https://www.gbif.org/species/2538718 |website=www.gbif.org |access-date=11 February 2021 |language=en}}</ref>
+
+It is native to Europe, Northern America, and Japan.<ref name="GBIF" />
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q3787843}}
+
+[[Category:Hygrophorus|penarius]]
+[[Category:Fungus species]]
+
+
+{{hygrophoraceae-stub}}

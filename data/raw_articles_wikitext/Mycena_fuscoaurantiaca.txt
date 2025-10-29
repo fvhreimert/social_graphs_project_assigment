@@ -1,0 +1,61 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{Speciesbox
+| image =
+| image_caption =
+| genus = Mycena
+| species = fuscoaurantiaca
+| authority = Har.Takah. (2007)
+| range_map = Map of Japan with highlight on 14 Kanagawa prefecture.svg
+| range_map_caption = Known only from [[Kanagawa]], Japan
+}}
+{{mycomorphbox
+| name = ''Mycena fuscoaurantiaca''
+| hymeniumType=gills
+| capShape = conical
+| whichGills = adnexed
+| stipeCharacter=bare
+| sporePrintColor=white
+| ecologicalType=saprotrophic
+| howEdible=unknown
+}}
+{{stack end}}
+
+'''''Mycena fuscoaurantiaca''''' is a species of [[mushroom]] in the family [[Mycenaceae]].<ref name=Fungorum/> First reported as a new species in 2007, the diminutive mushroom is only found in [[Kanagawa]], Japan, where it grows on dead fallen twigs in lowland forests dominated by [[Carpinus tschonoskii|hornbeam (''Carpinus'')]] and [[Quercus myrsinifolia|Chinese evergreen oak]] trees. The mushroom has a brownish-orange conical [[pileus (mycology)|cap]] that has grooves extending to the center, and reaches up to {{convert|11|mm|in|abbr=on}} in diameter. Its slender [[stipe (mycology)|stem]] is colored similarly to the cap, and long—up to {{convert|60|mm|in|abbr=on}} tall. Microscopic characteristics include the weakly [[amyloid (mycology)|amyloid]] spores (turning blue to black when [[staining|stained]] with [[Melzer's reagent]]), the smooth, swollen [[cheilocystidia]] and pleurocystidia ([[cystidia]] on the gill edges and faces, respectively) with long rounded tips, the [[diverticulum|diverticulate]] hyphae of the [[pileipellis|cap cuticle]], and the absence of [[clamp connection]]s.
+
+==Taxonomy, naming, and classification==
+The mushroom was first collected by Japanese mycologist Haruki Takahashi in 1999 and, along with seven other ''Mycena'' species, identified as a new species in a 2007 publication. The [[specific name (botany)|specific epithet]] is derived from the [[Latin]] words ''fusco-'' (meaning "dark") and ''aurantiaca'' ("orange-yellow"), and refers to the color of the fruit bodies. Its Japanese name is ''Taisha-ashinagatake'' タイシャアシナガタケ(代赭足長茸).<ref name=Takahaski2007/>
+
+Takahashi suggests that the species is best [[classification (biology)|classified]] in the [[section (botany)|section]] ''Fragilipedes'', as defined by Dutch ''Mycena'' specialist [[Rudolph Arnold Maas Geesteranus]].<ref name=MaasGeesteranus1980/> Within the section, the North American species ''[[Mycena subfusca|M.&nbsp;subfusca]]'' appears to be closely related to ''M.&nbsp;fuscoaurantiaca''. ''M.&nbsp;subfusca'' may be distinguished by its spindle- to broadly club-shaped cheilocystidia without a narrow neck, club-shaped to irregularly shaped caulocystidia, and lack of pleurocystidia.<ref name=Takahaski2007/>
+
+==Description==
+
+The [[Pileus (mycology)|cap]], which reaches {{convert|8|to|11|mm|in|abbr=on}} in diameter, is initially conical to convex to bell-shaped, but becomes flattened in age. It is radially grooved almost to the center, and somewhat [[hygrophanous]] (changing color as it loses or absorbs moisture). The cap surface is dry, minutely [[wikt:pruinose|pruinose]] initially (that is, appearing as if covered with a fine white powder), but soon becomes smooth. The cap is brown to brownish-orange when young, with a somewhat darker center, and fades to paler toward the margin with age. The [[trama (mycology)|flesh]] is white, and up to 0.5&nbsp;mm thick. It does not have any distinctive taste or odor. The [[stipe (mycology)|stem]] is {{convert|30|to|60|mm|in|abbr=on}} long by {{convert|0.5|to|0.8|mm|in|abbr=on}} thick, cylindrical, centrally attached to the cap, slender, hollow, and dry. Its color is orange to brownish-orange, and it is initially pruinose, but later becomes smooth. The base of the stem is covered with coarse, stiff white hairs. The [[Lamella (mycology)|gills]] are adnexed (narrowly attached to the stem), and distantly spaced, with between 16 and 18 gills reaching the stem. The gills are up to 1.8&nbsp;mm broad, thin, and pale brownish. The gill edges are pruinose, and the same color as the gill face.<ref name=Takahaski2007/>
+
+===Microscopic characteristics===
+The [[basidiospore]]s are [[wikt:ellipsoid|ellipsoid]] and measure 9–10.5 by 6–7&nbsp;[[micrometre|μm]]. They are smooth, thin-walled, colorless, and weakly [[amyloid (mycology)|amyloid]]. The [[basidia]] (spore-bearing cells) are 19–30 by 7–9&nbsp;μm, club-shaped, and two-spored. The cheilocystidia ([[cystidia]] on the gill edge) are thin-walled, smooth, 25–47 by 3–20&nbsp;μm, abundant, spindle-shaped with a prolonged thickened tip, smooth, and colorless or pale [[wine (color)|vinaceous]]. The pleurocystidia (cystidia on the gill face) are 27–75 by 5–20&nbsp;μm, scattered, and similar in shape and color to the cheilocystidia. The [[hymenophore|hymenophoral]] tissue (tissue of the [[hymenium]]-bearing structure) is made of thin-walled hyphae that are 10–22&nbsp;μm wide, cylindrical, often somewhat inflated, smooth, colorless, and [[dextrinoid]] (turning reddish to reddish-brown when stained with Melzer's reagent). The [[pileipellis|cap cuticle]] is made of parallel, bent-over hyphae that are 2–7&nbsp;μm wide, and cylindrical. These hyphae are smooth or covered with scattered, warty or finger-like thin-walled brownish [[diverticulum|diverticulae]]. The layer of hyphae beneath the cap cuticle is arranged in a parallel manner, [[hyaline]] (translucent), and dextrinoid, containing short and inflated cells that measure up to 34&nbsp;μm wide. The cuticle of the stem is made of parallel, bent-over hyphae that are 2–4&nbsp;μm wide, cylindrical, smooth, brownish, and thin-walled. The flesh of the stem is composed of longitudinally running, cylindrical hyphae that are 8–20&nbsp;μm wide, smooth, colorless, and dextrinoid. The [[wikt:strigose|strigose]] (stiff or bristly) hairs at the base of the stem are 2–6&nbsp;μm wide, and arise directly from the stem cuticle. They are bent-over or erect, cylindrical, with rounded tips, sometimes [[wikt:flexuous|flexuous]] (winding from side to side), smooth, colorless, and thin-walled. [[Clamp connection]]s are absent in all tissues of this species.<ref name=Takahaski2007/>
+
+==Habitat and distribution==
+''Mycena fuscoaurantiaca'' is known only from [[Kanagawa]], Japan. It is found growing solitary to scattered on dead fallen twigs in lowland forests dominated by hornbeam carpinus (''[[Carpinus tschonoskii]]'') and Chinese evergreen oak (''[[Quercus myrsinifolia]]''). Fruit bodies appear in November.<ref name=Takahaski2007/>
+
+==References==
+{{Reflist|refs=
+
+<ref name=Fungorum>{{cite web |url=http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=532056 |title=Index Fungorum – Names Record |publisher=CAB International |access-date=2010-01-01}}</ref>
+
+<ref name=MaasGeesteranus1980>{{cite journal |author=Maas Geesteranus RA. |title=Studies in Mycenas 15. A tentative subdivision of the genus ''Mycena'' in the northern Hemisphere |journal=Persoonia |volume=11 |pages=93–120}}</ref>
+
+<ref name=Takahaski2007>{{cite journal |author=Takahashi H. |year=2007 |title=Eight new species of the genus ''Mycena'' from central Honshu, Japan |journal=Mycoscience |volume=48 |issue=6 |pages=342–57 |doi=10.1007/s10267-007-0376-2|s2cid=85093542 }}</ref>
+
+}}
+
+==External links==
+*[https://web.archive.org/web/20120324052707/http://www7a.biglobe.ne.jp/~har-takah/page085.html The Agaricales in Southwestern Islands of Japan] Images of the [[holotype]] specimen
+{{Good article}}
+{{Taxonbar|from=Q5681413}}
+
+[[Category:Mycena|fuscoaurantiaca]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi described in 2007]]
+[[Category:Flora of Japan]]
+[[Category:Fungus species]]

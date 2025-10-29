@@ -1,0 +1,30 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = 2005-03-28 Strobilurus esculentus.jpg
+| image_caption = 
+| genus = Strobilurus (fungus)
+| species = esculentus
+| authority = ([[Franz Xaver von Wulfen|Wulfen]]) [[Rolf Singer|Singer]] (1962)
+| synonyms = ''Agaricus esculentus'' <small>Wulfen (1782)</small>
+}}
+
+'''''Strobilurus esculentus''''' is a very common, edible mushroom of the genus ''[[Strobilurus (fungus)|Strobilurus]]''. It can often be found in the spring on and around fallen [[spruce]] cones.
+
+==Description==
+
+The cap is convex, brownish grey, and grows 1 to 3 cm in diameter. It can also be off-white or brownish-black. The gills are crowded, white, and somewhat sinuate. The spores are white. The stem is brownish-grey with a pale apex.
+
+==References==
+*E. Garnweidner. ''Mushrooms and Toadstools of Britain and Europe''. Collins. 1994.
+
+==External links==
+{{Commons|Strobilurus_esculentus}}
+* {{Mycobank|339799}}
+* {{IndexFungorum|339799}}
+
+{{Taxonbar|from=Q1094895}}
+
+[[Category:Physalacriaceae]]
+[[Category:Fungi described in 1782]]
+[[Category:Fungi of Europe]]
+[[Category:Fungus species]]

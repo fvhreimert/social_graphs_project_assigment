@@ -1,0 +1,47 @@
+{{short description|Species of mushroom}}
+{{Speciesbox
+| image = Gymnopilus bellulus (Peck) Murrill 368594.jpg
+| image_caption = ''Gymnopilus bellulus'' in Mount Mitchell, Blue Ridge Mountains, North Carolina, US
+| taxon = Gymnopilus bellulus
+| authority = ([[Charles Horton Peck|Peck]]) [[William Alphonso Murrill|Murrill]]
+| synonyms = 
+}}
+{{mycomorphbox
+| name = ''Gymnopilus bellulus''
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+
+'''''Gymnopilus bellulus''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]].  It was given its current name by American mycologist [[William Alphonso Murrill|Murrill]] in 1917.<ref>{{cite journal |author=Murrill WA. |year=1917 |title=''Gymnopilus'' |journal=North American Flora |volume=10 |pages= 193–215}}</ref> It is odorless, bitter in taste, and regarded as inedible.<ref name="Miller 2006">{{cite book|last=Miller Jr.|first=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=294|author-link=Orson K. Miller Jr.}}</ref>
+
+==Description==
+The [[pileus (mycology)|cap]] is {{convert|1|to|2.5|cm|in|1|frac=8}} in diameter,<ref name="isbn0-945345-39-9">{{cite book |author=Hesler LR. |title=North American Species of ''Gymnopilus'' (Mycologia Memoir Series: No 3) |publisher=Lubrecht & Cramer Ltd |location=Knoxville, Tennessee |year=1969 |pages=37–38 |isbn=0-945345-39-9}}</ref> and yellow to brown in color.<ref name=":0">{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=181}}</ref> The gills are yellow and turn brownish with age.<ref name=":0" /> The stipe is red-brown.<ref name=":0" />
+
+==Habitat and distribution==
+''Gymnopilus bellulus'' has been found on [[conifer]] stumps and logs in the Northern United States, [[Tennessee]], and [[Canada]] from June to January.<ref name="isbn0-945345-39-9"/> It also occurs in Europe.<ref name=":0" />
+
+==See also==
+{{Portal|Fungi}}
+[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.indexfungorum.org/Names/SynSpecies.asp?RecordID=355881 Index Fungorum]
+
+{{Taxonbar|from=Q5624735}}
+
+{{DEFAULTSORT:Gymnopilus bellulus}}
+[[Category:Gymnopilus|bellulus]]
+[[Category:Inedible fungi]]
+[[Category:Taxa named by Charles Horton Peck]]
+[[Category:Fungus species]]
+
+{{hymenogastraceae-stub}}

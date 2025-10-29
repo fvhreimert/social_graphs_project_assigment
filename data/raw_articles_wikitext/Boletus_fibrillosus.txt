@@ -1,0 +1,54 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Boletus fibrillosus 7894.jpg
+| genus = Boletus
+| species = fibrillosus
+| authority = [[Harry D. Thiers|Thiers]] 1975<ref name=thiers75/>
+| synonyms =
+}}
+{{mycomorphbox
+| name = ''Boletus fibrillosus''
+| whichGills = adnexed
+| capShape = convex
+| hymeniumType = pores
+| stipeCharacter = bare
+| sporePrintColor = olive-brown
+| ecologicalType = mycorrhizal
+| howEdible = edible
+}}
+
+'''''Boletus fibrillosus''''', commonly known as the '''fib king''',<ref>{{Cite web |last=Initiative |first=The Global Fungal Red List |title=Boletus fibrillosus |url=https://redlist.info/iucn/species_view/309681/ |access-date=2024-02-04 |website=redlist.info |language=en}}</ref> is a [[basidiomycete]] fungus of the genus ''[[Boletus]]''. The [[holotype]] was collected in [[Mendocino County, California]].<ref name=thiers75/><ref name=bess00/> [[Phylogenetic]] analysis has shown it to be a member of a [[clade]] (closely related group) with ''[[Boletus pinophilus|B.&nbsp;pinophilus]]'', ''[[Boletus regineus|B.&nbsp;regineus]]'', ''[[Boletus rex-veris|B.&nbsp;rex-veris]]'', ''[[Boletus subcaerulescens|B.&nbsp;subcaerulescens]]'', and ''[[Gastroboletus subalpinus]]''.<ref name="dent10" />
+
+The [[pileus (mycology)|cap]] is up to {{Convert|17|cm|frac=2}} wide and buff to brown to dark brown, with a wrinkled to finely fibrous texture.<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/523/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=523 |orig-date=1979}}</ref> The tubes are yellow, while the flesh is white to buff and does not stain when cut.<ref name="Arora1986" /> The [[stipe (mycology)|stem]] is up to 16&nbsp;cm long,<ref name="Arora1986" /> yellowish at the top, brown otherwise, with a reticulate texture,<ref name="thiers75" /><ref name="bess00" /> and [[mycelium]] enshrouding the bottom.<ref name=":0" />
+
+The species has only been found in western North America.<ref name="Arora1986" /> The [[basidiocarp|fruiting bodies]] are found in mixed coastal forests in the fall, usually singly or in small groups.<ref name=":0">{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=217}}</ref> It is [[Edible mushroom|edible]], but considered to have inferior taste to other edible boletes such as ''[[Boletus edulis|B.&nbsp;edulis]]'', which it is often confused with.<ref>{{Cite book|last=Trudell|first=Steve|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|location=Portland, Oregon|pages=217}}</ref>
+
+==See also==
+* [[List of Boletus species|List of ''Boletus'' species]]
+*[[List of North American boletes]]
+
+==References==
+{{Reflist|refs=
+
+<ref name=thiers75>{{cite book| last=Thiers| first=Harry D.| authorlink=Harry D. Thiers| year=1975| title=California Mushrooms: A Field Guide to the Boletes| publisher=Hafner Press| location=New York, NY| page=45| url=http://www.mykoweb.com/boletes/index.html}}</ref>
+
+<ref name=bess00>{{cite book| title=North American boletes: a color guide to the fleshy pored mushrooms| first=Alan| last=Bessette| first2=William C.| last2=Roody| first3=Arleen Rainis| last3=Bessette| publisher=Syracuse University Press| year=2000| pages=110–111| isbn=978-0-8156-0588-1}}</ref>
+
+<ref name=dent10>{{cite journal| author=Dentinger, Bryn T.M. |display-authors=et al | title=Molecular phylogenetics of porcini mushrooms (''Boletus'' section ''Boletus'')| journal=Molecular Phylogenetics and Evolution| volume=57| year=2010| pages=1276–1292| url=http://static.msi.umn.edu/rreports/2010/211.pdf| doi=10.1016/j.ympev.2010.10.004| issue=3| pmid=20970511| url-status=dead| archiveurl=https://web.archive.org/web/20130523094609/http://static.msi.umn.edu/rreports/2010/211.pdf| archivedate=2013-05-23}}</ref>
+
+}}
+
+==External links==
+*{{Commons category-inline|Boletus fibrillosus|italic=on}}
+*{{IndexFungorum|309681}}
+*{{MycoBank|309681}}
+
+{{Taxonbar|from=Q2909349}}
+
+[[Category:Boletus|fibrillosus]]
+[[Category:Edible fungi]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1975]]
+[[Category:Fungus species]]
+
+{{Boletales-stub}}

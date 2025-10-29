@@ -1,0 +1,54 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Stropharia.aeruginosa.-.lindsey.jpg
+| image_caption =
+| genus = Stropharia
+| species = aeruginosa
+| authority = ([[William Curtis|Curtis]]) [[Lucien Quélet|Quel.]]
+| synonyms = 
+}}
+{{mycomorphbox 
+| name = ''Stropharia aeruginosa''
+| whichGills = adnate
+| capShape = convex
+| hymeniumType = gills
+| stipeCharacter = bare
+| sporePrintColor = purple-brown
+| howEdible=caution
+| capShape2 = conical
+}}
+
+'''''Stropharia aeruginosa''''', commonly known as the '''blue-green stropharia''',<ref name=Arora1986>{{Cite book |last=Arora |first=David |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/380/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |year=1986 |orig-date=1979 |edition=2nd |pages=380}}</ref> or '''verdigris agaric''', is a medium-sized green, slimy [[woodland]] mushroom, found on lawns, mulch and woodland from spring to autumn. The edibility of this mushroom is controversial; some sources claim that it is [[edible mushroom|edible]], while others claim it to be [[Mushroom poisoning|poisonous]], although effects are little known and its toxic constituents undescribed.
+
+==Taxonomy==
+The French mycologist [[Lucien Quélet]] gave the species its current [[binomial name]] in 1872, after it was initially described as ''Agaricus aeruginosus'' by William Curtis in 1784. The Dutch mycologist [[Machiel Noordeloos]] placed it in the genus ''[[Psilocybe]]'' in 1995. The [[specific name (botany)|specific epithet]] ''aerūgǐnōsa'' is [[Latin]] for "covered in [[verdigris]]".<ref name=Haas69>{{cite book | last = Haas |first=Hans | year = 1969 | title = The Young Specialist looks at Fungi |page= 215| publisher = Burke | isbn= 0-222-79409-7|quote=L. ''aeruginosus'' 'covered in copper-rust'}}</ref>
+
+==Description==
+The [[pileus (mycology)|cap]] is convex, broadening, and becoming [[umbonate]] with age. It is {{Convert|2–8|cm|frac=4}} wide. At first it is a vivid blue/green, and very glutinous (slimy), with a sprinkling of white [[Universal veil|veil]] remnants<ref name=":0">{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=209-210}}</ref> around the edge. The colour in the gluten fades, or is washed off as it matures, and it becomes yellow ocher,<ref name=":0" /> sometimes in patches, but mostly at the centre. Finally, it will lose the blue-green coloration completely. The white [[stipe (mycology)|stem]]<ref name=":0" /> is quite long and of uniform thickness. It has a fragile brown/black [[annulus (mycology)|ring]], and below this the stem is covered in fine white scales, or flakes. The [[Lamella (mycology)|gills]] are initially white, then clay-brown, and sometimes have a white edge. The [[spore print]] is brownish-purple, and the oval [[basidiospore|spores]] 7–10 x 5&nbsp;[[μm]].<ref name=Phillips06>{{cite book | author = Roger Phillips | year = 2006  | title = Mushrooms | publisher = Pan MacMillan |page= 248| isbn = 0-330-44237-6}}</ref>
+
+===Similar species===
+*''[[Stropharia caerulea]]''<ref name=":0" /> Kreisel – a dowdier cousin.
+*''[[Stropharia pseudocyanea]]'' (Desm.) Morgan –  a smaller; slighter, but strikingly similar grassland species, with a very fleeting ring.
+''[[Psilocybe]]'' species stain blue and lack fluffy stems.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=685}}</ref>
+
+==Distribution and habitat==
+
+
+This mushroom is common in grassy woods, and on roadside verges in [[Great Britain|Britain]], [[Europe]], Asia (Iran)<ref name=Asef2010>{{cite book |title=قارچهای سمی ایران (Qarch-ha-ye Sammi-ye Iran) |trans-title=Poisonous mushrooms of Iran |year=2010 |author=Asef Shayan, M.R. |publisher=Iran shenasi |page=214 |isbn=978-964-2725-29-8 |language=Persian}}</ref> and parts of [[North America]], growing on rotting wood. It particularly favours wood-chip mulches in gardens, and parks.
+
+==Edibility and toxicity==
+The verdigris agaric is reported as [[mushroom poisoning|poisonous]] in many guidebooks printed in the Western Hemisphere,<ref name=Arora1986/><ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |url=https://archive.org/details/mushroomsotherfu0000phil |url-access=registration |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=[https://archive.org/details/mushroomsotherfu0000phil/page/228 228]}}</ref> but the effect of poisoning and toxic constituents are unclear.<ref>{{cite book | last = North| first = Pamela | year = 1967 | title = Poisonous Plants and Fungi in colour | publisher = Blandford Press & Pharmacological Society of Great Britain |pages= 111–12}}</ref>
+
+According to some European guidebooks the verdigris agaric is edible, but undesirable to some due to a mildly spicy taste.<ref>[http://www.toadstool.ru/spisok-rodov/stropharia/stropharia-aeruginosa/ STROPHARIA AERUGINOSA, СТРОФАРИЯ СИНЕ-ЗЕЛЕНАЯ]</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{commons category-inline|Stropharia aeruginosa}}
+{{Taxonbar|from=Q1552361}}
+
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Strophariaceae]]
+[[Category:Fungus species]]

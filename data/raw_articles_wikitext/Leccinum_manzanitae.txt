@@ -1,0 +1,106 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Leccinum manzanitae 29496 crop.jpg
+| taxon = Leccinum manzanitae
+| authority = [[Harry Delbert Thiers|Thiers]] (1971)
+}}
+{{mycomorphbox
+| name = ''Leccinum manzanitae''
+| whichGills = adnate
+| capShape = convex
+| hymeniumType = pores
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = brown
+| howEdible = edible
+}}
+
+'''''Leccinum manzanitae''''' is a species of [[bolete]] fungus in the family [[Boletaceae]]. Described as new to science in 1971, it is commonly known as the '''manzanita bolete''' for its usual [[mycorrhiza]]l association with [[manzanita]] trees.
+
+Its [[Basidiocarp|fruit bodies]] (mushrooms) have sticky reddish to brown [[pileus (mycology)|caps]] up to {{convert|20|cm|abbr=on|round=0.5}}, and its [[stipe (mycology)|stipes]] are up to {{convert|16|cm|abbr=on}} long and {{convert|3.5|cm|abbr=on}} thick. They have a whitish background color punctuated with small black scales known as ''scabers''. ''L.&nbsp;manzanitae'' can be usually distinguished from other similar bolete mushrooms by its large size, reddish cap, dark scabers on a whitish stipe, and association with manzanita and [[madrone]].
+
+Found only in the [[Pacific Northwest]] region of the United States and Canada, it is the most common ''[[Leccinum]]'' species in [[California]]. The mushroom is [[edible mushroom|edible]], although opinions vary as to its quality.
+
+==Taxonomy==
+
+''Leccinum manzanitae'' was first [[species description|described]] by the American mycologist [[Harry Delbert Thiers]] in 1971, from collections made in [[San Mateo County, California]], the previous year. In that state, it is known as the manzanita bolete because of its close association with manzanita trees. It is [[classification (biology)|classified]] in subsection ''Versicolores'' of the [[section (biology)|section]] ''Leccinum'' in the genus ''Leccinum''.<ref name="Thiers 1971"/> Closely related species in this section include ''[[Leccinum piceinum|L.&nbsp;piceinum]]'', ''[[Leccinum monticola|L.&nbsp;monticola]]'', ''[[Leccinum albostipitatum|L.&nbsp;albostipitatum]]'', and ''[[Leccinum versipelle|L.&nbsp;versipelle]]''.<ref name="Den Bakker 2007"/>
+
+==Description==
+
+
+The fruit bodies of ''Leccinum manzanitae'' are sometimes massive, occasionally reaching weights of several pounds.<ref name="Thiers 1975"/> The [[pileus (mycology)|cap]] is {{convert|7–20|cm|abbr=on}} in diameter, spherical to convex when young, and broadly convex to flattened or cushion-shaped (pulvinate).<ref name="Arora 1986"/> The surface of the cap is often shallowly to deeply pitted or reticulate, sticky, and covered with pressed-down hairs that are more conspicuous toward the edge of the cap. Its color is dark red during all stages of development. The cap's [[trama (mycology)|flesh]] is {{convert|2–4|cm|1|abbr=on}} thick, white when first exposed, but slowly and irregularly changing to dark brownish-gray with no reddish intermediate state. The change in color upon bruising or injury is often more pronounced in young specimens.<ref name="Thiers 1971"/>
+
+The tubes comprising the [[hymenophore]] are {{convert|1–2.5|cm|abbr=on|round=0.5}} long, with an [[adnation|adnate]] attachment to the stipe; their color is pale olive when young and darkens when bruised. Pores are up to 1&nbsp;mm in diameter, angular, and the same color as the tubes. The [[stipe (mycology)|stipe]] is {{convert|8–18|cm|abbr=on|round=0.5}} long,<ref name="Davis 2012"/> and {{convert|1.5–4|cm|1|abbr=on}} thick at the apex, and either club-shaped or swollen in the middle. It is solid (i.e., not hollow), with a dry surface, and covered with small, stiff, granular projections called scabers.<ref name="Thiers 1971" /> The scabers are usually whitish when young, but eventually turn dark brownish-grey with age. The stipe flesh stains a bluish color when bruised,<ref name="Davis 2012" /> although this reaction is variable and sometimes slow to occur.<ref name="Thiers 1975"/> It has no distinctive taste or odor.<ref name="Bessette 2000"/>
+
+
+
+''Leccinum manzanitae'' mushroom produce a cinnamon-brown [[spore print]]. [[Basidiospore|Spores]] are 13–17 by 4–5.5&nbsp;[[μm]], somewhat elliptical to cylindrical, and tapered on each end (fusoid); their walls are smooth and moderately thick. The spore-bearing cells, the [[basidia]], are 27–32 by 6–9&nbsp;μm, club-shaped to pear-shaped (pyriform) and four-spored. The [[cystidia]] are 23–32 by 4–6&nbsp;μm, fusoid to club-shaped with narrow, elongated apices. Caulocystidia (found on the stipe surface) are thin-walled, club-shaped to somewhat fusoid, and sometimes end in a sharp point; they measure 35–45 by 9–14&nbsp;μm. [[Clamp connection]]s are absent in the [[hypha]]e of ''Leccinum manzanitae''.<ref name="Thiers 1971"/> The hyphae of the [[cap cuticle]] are arranged in the form of a trichoderm (wherein the outermost hyphae emerge roughly parallel, perpendicular to the cap surface).<ref name="Desjardin 2014"/>
+
+Several [[Chemical tests in mushroom identification|chemical tests]] can be used to help confirm the identify of the mushroom: a drop of dilute (3–10%) [[potassium hydroxide]] (KOH) solution will turn the tubes pale red whereas [[nitric acid]] (HNO<sub>3</sub>) on the tubes produces orange-yellow; a solution of [[Iron(II) sulfate]] (FeSO<sub>4</sub>) applied to the flesh results in a pale grey color.<ref name="Thiers 1971"/>
+
+Thiers also described the [[variety (botany)|variety]] ''L.&nbsp;manzanitae'' var. ''angustisporae'' from [[Mendocino County]]. Similar to the main form in appearance and habitat, it has smaller, narrowly elongated spores, typically 3–4&nbsp;μm wide and 1–2&nbsp;μm longer.<ref name="Thiers 1971"/>
+
+===Similar species===
+{{multiple image
+| footer = ''Leccinum ponderosum'' (left) and ''L.&nbsp;scabrum'' (right) are two of several lookalike species that might be mistaken for ''L.&nbsp;manzanitae''.
+| align = right
+| image1 = Leccinum ponderosum 23793.jpg
+| width1 = {{#expr: (175 * 768 / 565) round 0}}
+| image2 = Leccinum scabrum 117467.jpg
+| width2 = {{#expr: (175 * 2233 / 2881) round 0}}
+}}
+
+In the field, ''Leccinum manzanitae'' fruit bodies can be usually distinguished from those of other similar bolete species by its large size, reddish cap, dark scabers on a whitish stipe, and association with manzanita and madrone.<ref name="Davis 2012"/> ''[[Leccinum ponderosum|L.&nbsp;ponderosum]]'' also has a dark red sticky cap, but its flesh does not darken upon exposure, and its cap is smooth when young.<ref name="Thiers 1971"/> ''[[Leccinum armeniacum|L.&nbsp;armeniacum]]'' also grows with manzanita and madrone, but its cap is more orange.<ref name="Arora 1991"/> 
+
+''[[Leccinum aeneum|L.&nbsp;aeneum]]'', known only from California, is another species that associates with manzanitae and madrone. It has an orangish cap and whitish scabers on the stipe that do not darken significantly as the mushroom matures.<ref name="Bessette 2000" /> ''[[Leccinum insigne|L.&nbsp;insigne]]'', found in coniferous forests with [[aspen]]s, has a coloration similar to ''L.&nbsp;manzanitae''.<ref name="Ammirati 2009" /> The brown-capped ''[[Leccinum scabrum|L.&nbsp;scabrum]]'' is associated with ornamental [[birch]], usually in cultivated landscapes.<ref name="Davis 2012" /> ''[[Leccinum constans|L.&nbsp;constans]]'', also found exclusively in California, is paler, and does not undergo color changes when the cut flesh is exposed to air; it is found near madrone in coastal regions.<ref name="Thiers 1975" /> The species ''[[Leccinum largentii|L.&nbsp;largentii]]'', found in northern regions of the [[West Coast of the United States|West Coast]], has a dry cap with a [[wikt:fibrillose|fibrillose]] to scaly edge, dark olive pores, and densely arranged scabers on the stipe. It associates with [[toyon]] (''Heteromeles arbutifolia'').<ref name="Desjardin 2014" />
+
+==Habitat and distribution==
+
+''Leccinum manzanitae'' is a [[mycorrhiza]]l species. Its fruit bodies grow singly to scattered in soil under [[madrone]] and [[manzanita]]. Known to occur only in North America, it is commonly found from central [[California]] to southern [[Oregon]],<ref name="Arora 1991"/> but has also been reported further north in [[Washington (state)|Washington]] and [[British Columbia]] (Canada).<ref name="E-Flora BC"/> Thiers considered it the most abundant ''Leccinum'' in California.<ref name="Thiers 1971"/> It can be found from October to February.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=346}}</ref>
+
+== Edibility ==
+''Leccinum manzanitae'' is [[edible mushroom|edible]], and its taste is sometimes rated highly,<ref name="Arora 1986" /> although others have described the flavor as bland.<ref name="Arora 1991" /> Drying the mushroom may improve the flavor.<ref name="Arora 1991" /><ref name="urlCalifornia" /> One field guide advises caution when selecting this species for the table, as there have been poisonings reported with similar-looking mushrooms found in the [[Rocky Mountains]] and [[Pacific Northwest]] region of the United States.<ref name="Ammirati 2009" />
+
+== See also ==
+*[[List of Leccinum species|List of ''Leccinum'' species]]
+*[[List of North American boletes]]
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Ammirati 2009">{{cite book |vauthors=Ammirati J, Trudell S |title=Mushrooms of the Pacific Northwest: Timber Press Field Guide (Timber Press Field Guides) |publisher=Timber Press |location=Portland, Oregon |year=2009 |page=227 |isbn=978-0-88192-935-5}}</ref>
+
+<ref name="Arora 1986">{{cite book |author=Arora D. |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/539/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, California |year=1986 |orig-date=1979 |edition=2nd |pages=539-40}}</ref>
+
+<ref name="Arora 1991">{{cite book |author=Arora D. |title=All that the Rain Promises and More: A Hip Pocket Guide to Western Mushrooms |publisher=Ten Speed Press |location=Berkeley, California |year=1991 |page=174 |isbn=0-89815-388-3 |url=https://books.google.com/books?id=87ct90d4B9gC&pg=PA174}}</ref>
+
+<ref name="Bessette 2000">{{cite book |title=North American Boletes |vauthors=Bessette AE, Roody WC, Bessette AR |year=2000 |publisher=Syracuse University Press |location=Syracuse, New York |isbn=978-0-8156-0588-1 |pages=208–9}}</ref>
+
+<ref name="Davis 2012">{{cite book |vauthors=Davis RM, Sommer R, Menge JA |title=Field Guide to Mushrooms of Western North America  |year=2012 |publisher=University of California Press |location=Berkeley, California |isbn=978-0-520-95360-4 |pages=313–4 |url=https://books.google.com/books?id=961gjLm2o9EC&pg=PA313}}</ref>
+
+<ref name="Den Bakker 2007">{{cite journal |vauthors=Den Bakker HC, Zuccarello GC, Kuyper TW, Noordeloos ME |title=Phylogeographic patterns in ''Leccinum'' sect. ''Scabra'' and the status of the arctic-alpine species ''L. rotundifoliae'' |journal=Mycological Research |year=2007 |volume=111 |issue=6 |pages=663–72 |doi=10.1016/j.mycres.2007.03.008 |pmid=17604144}}</ref>
+
+<ref name="Desjardin 2014">{{cite book |vauthors=Desjardin DE, Wood MG, Stevens FA |title=California Mushrooms: The Comprehensive Identification Guide |year=2014 |location=Portland; London |publisher=Timber Press |pages=362–3 |isbn=978-1-60469-353-9}}</ref>
+
+<ref name="E-Flora BC">{{cite web |author=Gibson I |title=''Leccinum manzanitae'' Thiers |url=http://linnet.geog.ubc.ca/Atlas/Atlas.aspx?sciname=Leccinum%20manzanitae&NoTransfer=1 |publisher=E-Flora BC. Electronic Atlas of the Plants of British Columbia |access-date=2012-10-12 |archive-date=2023-05-29 |archive-url=https://web.archive.org/web/20230529144709/http://linnet.geog.ubc.ca/Atlas/Atlas.aspx?sciname=Leccinum%20manzanitae&NoTransfer=1 |url-status=dead }}</ref>
+
+<ref name="Thiers 1971">{{cite journal |author=Thiers HD. |year=1971 |title=California Boletes. IV. The genus ''Leccinum'' |journal=Mycologia |volume=63 |issue=2 |pages=261–76 |jstor=3757759 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0063/002/0261.htm |doi=10.2307/3757759|url-access=subscription }}</ref>
+
+<ref name="Thiers 1975">{{cite book |author=Thiers HD. |title=California Mushrooms—A Field Guide to the Boletes |publisher=Hafner Press |location=New York, New York |year=1975 |url=http://www.mykoweb.com/boletes/species/Leccinum_manzanitae_var_manzanitae.html |isbn=978-0-02-853410-7}}</ref>
+
+<ref name="urlCalifornia">{{cite web |url=http://www.mykoweb.com/CAF/species/Leccinum_manzanitae.html |title=''Leccinum manzanitae'' |vauthors=Wood M, Stevens F |publisher=California Fungi. MykoWeb |access-date=2009-09-17}}</ref>
+
+}}
+
+==External links==
+*[https://mushroomobserver.org/observer/observation_search?pattern=Leccinum+manzanitae Images] @ [[Mushroom Observer]]
+
+{{good article}}
+{{Taxonbar|from=Q4042691}}
+
+[[Category:Leccinum|manzanitae]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1971]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Harry Delbert Thiers]]
+[[Category:Fungus species]]

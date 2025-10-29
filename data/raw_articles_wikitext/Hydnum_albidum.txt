@@ -1,0 +1,27 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Hydnum repandum var. albidum (Quel.) Rea 540873.jpg
+| image_caption = In [[Hocking State Forest]], Ohio
+| genus = Hydnum
+| species = albidum
+| authority = [[Charles Horton Peck|Peck]]
+}}
+
+'''''Hydnum albidum''''', commonly known as the '''white hedgehog''', is an [[Edible mushroom|edible]] species of fungus in the family [[Hydnaceae]] native to North America.<ref name=feng16/><ref name="Miller 2006">{{cite book|last=Miller Jr.|first=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuides]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=401|author-link=Orson K. Miller Jr.}}</ref>
+
+==References==
+{{Reflist|refs=
+
+<ref name=feng16>{{cite journal | title=Multilocus phylogenetic analyses reveal unexpected abundant diversity and significant disjunct distribution pattern of the Hedgehog Mushrooms (''Hydnum'' L.) | journal=Scientific Reports | volume=6 | at =25586 | vauthors=Feng B, Wang XH, Ratkowsky D, Gates G, Lee SS, Grebenc T, Yang ZL | doi=10.1038/srep25586 | year=2016 | pmid=27151256 | pmc=4858670 | bibcode=2016NatSR...625586F | doi-access=free }}</ref>
+
+}}
+
+{{Taxonbar|from=Q10716245}}
+
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1887]]
+[[Category:Fungi of North America]]
+[[Category:Hydnum|albidum]]
+[[Category:Fungus species]]
+
+{{Agaricomycetes-stub}}

@@ -1,0 +1,82 @@
+{{Short description|Genus of fungi}}
+{{stack begin}}
+{{Taxobox
+| image = Staheliomyces cinctus 121473.jpg
+| image_caption =
+| regnum = [[Fungi]]
+| divisio = [[Basidiomycota]]
+| classis = [[Agaricomycetes]]
+| ordo = [[Phallales]]
+| familia = [[Phallaceae]]
+| genus = '''''Staheliomyces'''''
+| genus_authority = [[Eduard Fischer (mycologist)|E.Fisch.]] (1921)
+| type_species = '''''Staheliomyces cinctus'''''
+| type_species_authority = E.Fisch. (1921)
+}}
+{{mycomorphbox
+| name = ''Staheliomyces cinctus''
+| hymeniumType = gleba
+| capShape = no
+| sporePrintColor = olive-brown
+| ecologicalType = saprotrophic
+| howEdible = unknown
+}}
+{{stack end}}
+
+'''''Staheliomyces''''' is a fungal [[genus]] in the [[Phallaceae|stinkhorn family]]. The genus was considered [[monotypic]] for over 100 years, containing the single [[neotropical]] species '''''Staheliomyces cinctus''''', until a 2022 study revealed four additional, cryptic species. Members are colloquially known as the '''strangled stinkhorns'''. The genus is found in Central America and northern South America.<ref name=Zeller1948/> The fruit body of the fungus is a hollow, whitish, cylindric [[stipe (mycology)|stalk]] up to {{convert|16|cm|in|abbr=on}} tall, with conspicuous pits and holes. Near the top of the stalk is a pinched-off zone covered with unpleasant-smelling slimy [[spore]] mass called [[gleba]]. The gleba attracts [[stingless bees]] that help disseminate the spores.
+
+==Taxonomy==
+The genus was first described scientifically by the German mycologist [[Eduard Fischer (mycologist)|Eduard Fischer]] in 1921. The [[specific name (botany)|specific epithet]] honors Gerold Stahel (1887 - 1955) a Swiss botanist who collected the [[type (biology)|type]] specimen in [[Suriname]].<ref name=Fischer1921/> The fungus has been called the "strangled stinkhorn".<ref name="Kibby 2015"/>
+
+==Description==
+Like all stinkhorns, the [[basidiocarp|fruit body]] begins its development as a partially submerged "egg" form attached to [[rhizomorph]]s. The egg is roughly ovoid, measuring {{convert|1.5|to|2|cm|in|1|abbr=on}} by {{convert|1.2|–|1.6|cm|in|1|abbr=on}}.<ref name="urlRogers"/> The fruit body consists of a spongy, hollow white [[stipe (mycology)|stalk]] between {{convert|12|–|16|cm|in|abbr=on}} tall,<ref name="urlMushroomExpert.Com"/> with a collar of greenish-brown [[gleba]] positioned above the center, but below the apex. The glebal band is constricted compared to the width of the remainder of the stalk, between {{convert|1|and|2|cm|in|1|abbr=on}} thick. The [[pileus (mycology)|cap]], or receptaculum, is at the top of the stalk; it is spongy, conical, and chambered, free from gleba. A [[volva (mycology)|volva]] sits at the base of the stem, and has [[rhizomorph]]s attached to it.<ref name=Miller1988/> The [[spore]]s are elliptical, [[hyaline]] (translucent), and measure 2.5–3 by 1.2–1.5 [[micrometre|μm]].<ref name=Leite2007/> The [[edible mushroom|edibility]] of the mushroom is unknown.<ref name="urlRogers"/>
+
+==Habitat and distribution==
+[[image:Irapuã_-_REFON.jpg|thumb|150px|left|''[[Trigona spinipes]]'']]
+''Staheliomyces'' is a [[saprobic]] genus, typically found in soil rich with decomposing plant remains.<ref name="urlMushroomExpert.Com"/> It is distributed from southern Mexico to southern Brazil,<ref name=Leite2007/><ref name=Saenz1982/> where it appears during [[rainy season]]s.<ref name="urlMushroomExpert.Com"/>
+
+A [[field study]] from Ecuador reported that the fruit bodies of ''Staheliomyces'' are visited by species from the [[stingless bee]] genus ''[[Trigona (genus)|Trigona]]''.<ref name="Burr1996" /> The bee visits are several minutes in duration, during which time small portions of the gleba are collected and stored in the [[pollen basket]] (corbiculae) of the hind legs. The authors determined that the corbiculae of approaching bees are always empty. Bee corbiculae are normally used to carry food and nest-building material, and the gleba of ''Staheliomyces'' may be used for one of these purposes, but the authors did not observe the bees after they had collected the gleba.<ref name=Burr1996/>
+
+== Species ==
+Source:<ref>{{Cite web |title=Species Fungorum - Staheliomyces |url=http://www.speciesfungorum.org/names/names.asp?strGenus=Staheliomyces&GSD=Yes |access-date=2022-07-10 |website=www.speciesfungorum.org}}</ref>
+{{Columns-list|
+* ''[[Staheliomyces cinctus]]''
+* ''[[Staheliomyces costariquensis]]''
+* ''[[Staheliomyces cylindricus]]''
+* ''[[Staheliomyces quadratus]]''
+* ''[[Staheliomyces candeliformis]]''}}
+
+==References==
+
+{{Reflist|colwidth=30em|refs=
+
+<ref name=Burr1996>{{cite journal |title=''Staheliomyces'' (Phallales) visited by ''Trigona'' (Apidae): melittophily in spore dispersal of an Amazonian stinkhorn? |journal=Journal of Tropical Ecology |year=1996 |vauthors=Burr B, Barthlott S, Westerkamp C |volume=12 |issue=3 |pages=441–5 |issn=0266-4674 |doi=10.1017/s0266467400009652}}</ref>
+
+<ref name=Fischer1921>{{cite journal |title=Mykologische Beiträge 18–20. ''Staheliomyces cinctus'', ein neuer Typus aus der Gruppe der Phalloideen. Über Onygena arietina Ed. Fischer. Die Heteroecie von zwei auf Polygonum alpinum wohnenden Puccinien |author=Fischer E. |journal=Mitteilungen der Naturforschung Gesellschaft in Bern |year=1920 |page=142 |language=German}}</ref>
+
+<ref name="Kibby 2015">{{cite journal |author=Kibby G. |title=The weird, wonderful and smelly world of stinkhorns and clathroid fungi |journal=Field Mycology |year=2015 |volume=16 |issue=2 |pages=58–69 |doi=10.1016/j.fldmyc.2015.04.008|doi-access=free }}</ref>
+
+<ref name=Leite2007>{{cite journal |vauthors=Leite AG, Silva BD, Araújo RS, Baseia IG |title=Espécies raras de Phallales (Agaricomycetidae, Basidiomycetes) no Nordeste do Brasil |trans-title=Rare species of Phallales (Agaricomycetidae, Basidiomycetes) in Northeast Brazil |journal=Acta Botanica Brasilica |year=2007 |volume=21 |issue=1 |pages=119–124 |doi=10.1590/S0102-33062007000100011 |language=Spanish|doi-access=free }}</ref>
+
+<ref name=Miller1988>{{cite book |vauthors=Miller HR, Miller OK |title=Gasteromycetes: Morphological and Developmental Features, with Keys to the Orders, Families, and Genera |publisher=Mad River Press |location=Eureka, California |year=1988 |pages=77–8, 87  |isbn=0-916422-74-7}}</ref>
+
+<ref name=Saenz1982>{{cite journal |title=Hongos de Costa Rica: Familias Phallaceae y Clathraceae |journal = Revista de Biología Tropical |vauthors=Saenz JA, Nassar MC |year=1982 |volume=30 |issue=1 |pages=41–52 |language=Spanish}}</ref>
+
+<ref name="urlMushroomExpert.Com">{{cite web |url=http://www.mushroomexpert.com/staheliomyces_cinctus.html |title=''Staheliomyces cinctus'' (MushroomExpert.Com) |author=Kuo M. |year=2009 |work=MushroomExpert.Com |accessdate=2010-11-20}}</ref>
+
+<ref name="urlRogers">{{cite web |url=http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~12050~gid~~source~gallerydefault.asp |title=''Staheliomyces cinctus'' |author=Phillips R |work=Rogers Mushrooms |accessdate=2010-11-20}}</ref>
+
+<ref name=Zeller1948>{{cite journal |title=Notes on certain Gasteromycetes, including two new orders |journal=Mycologia |author=Zeller SM. |volume=40 |issue=6 |year=1948 |pages=639–68 |jstor=3755316 |doi=10.2307/3755316 |pmid=18102856}}</ref>
+
+}}
+
+==External links==
+* {{IndexFungorum|19324}}
+
+{{Taxonbar|from=Q7596977}}
+
+[[Category:Phallales]]
+[[Category:Monotypic Basidiomycota genera]]
+[[Category:Fungi of Central America]]
+[[Category:Fungi of South America]]
+[[Category:Taxa described in 1921]]

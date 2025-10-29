@@ -1,0 +1,137 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{Speciesbox
+| image = Cantharellus lateritius 54894.jpg
+| image_caption = In [[Wayne National Forest]], [[Ohio]], USA
+| genus = Cantharellus
+| species = lateritius
+| authority =  ([[Miles Joseph Berkeley|Berk.]]) [[Rolf Singer|Singer]] (1951)
+| synonyms_ref = <ref name="urlMycoBank"/>
+| synonyms =
+  {{plainlist|
+*''Thelephora cantharella'' <small>[[Lewis David de Schweinitz|Schw.]] (1822)</small>
+*''Craterellus cantharellus'' <small>(Schw.) [[Elias Magnus Fries|Fr.]] (1838)</small>
+*''Craterellus lateritius'' <small>Berk. (1873)</small>
+*''Trombetta lateritia'' <small>(Berk.) [[Otto Kuntze|Kuntze]] (1891)</small>
+  }}
+}}
+{{Mycomorphbox
+| name = ''Cantharellus lateritius''
+| hymeniumType = ridges
+| capShape = infundibuliform
+| whichGills = decurrent
+| stipeCharacter = bare
+| sporePrintColor = cream
+| sporePrintColor2 = salmon
+| ecologicalType = mycorrhizal
+| howEdible = choice
+}}
+{{stack end}}
+
+'''''Cantharellus lateritius''''', commonly known as the '''smooth chanterelle''', is a species of [[edible mushroom|edible]] fungus in the [[mushroom]] family [[Cantharellaceae]]. The species has a complex [[Taxonomy (biology)|taxonomic]] history, and has undergone several name changes since its first [[species description|description]] by American mycologist [[Lewis David de Schweinitz]] in 1822. The [[basidiocarp|fruit bodies]] of the fungus are brightly colored yellow to orange, and usually highly conspicuous against the soil in which they are found. At maturity, the mushroom resembles a filled funnel with the spore-bearing surface along the sloping outer sides. The texture of the fertile undersurface ([[hymenium]]) of the [[pileus (mycology)|caps]] is a distinguishing characteristic of the species: unlike the well-known [[golden chanterelle]], the hymenium of ''C.&nbsp;lateritius'' is much smoother.
+
+[[Analytical chemistry|Chemical analysis]] has revealed the presence of several [[carotenoid]] compounds in the fruit bodies. Found in Asia, Africa, and North America, the species forms [[ectomycorrhiza]]l relationships.
+
+==Taxonomy==
+ is credited with the original authorship of the species.]]
+
+The species was first [[species description|described]] in the scientific literature as ''Thelephora cantharella'' by the American [[Lewis David de Schweinitz]] in 1822, based on specimens collected in [[Ohio]].<ref name=Schweinitz1822/> [[Elias Magnus Fries]] later transferred it to ''[[Craterellus]]'' in his 1838 ''Epicrisis Systematis Mycologici''.<ref name=Fries1838/> In 1856, [[Miles Joseph Berkeley]] and [[Moses Ashley Curtis]] mentioned the fungus in their analysis of Schweinitz's specimens, but changed the [[specific name (botany)|epithet]], calling it ''Craterellus lateritius''.<ref name=Berkeley1856/> The motivation for the name change is unclear; [[Ronald H. Petersen]], in a 1979 publication, suggests that Berkeley "was apparently reluctant to surrender his own name for the organism".<ref name=Petersen1979/> Petersen suggests that Berkeley may have foreseen the necessity to avoid giving the species a [[tautonym]] (a situation where both the generic name and specific epithet are identical). However, as Petersen indicates, a future publication renders this explanation dubious: in 1873 Berkeley again referred to the species using his chosen name ''Craterellus lateritius'', and indicated a [[Type locality (biology)|type location]] ([[Alabama]]) different than the one mentioned by Schweinitz.<ref name=Berkeley1873/> Petersen considers Berkeley's name to be a ''[[nomen novum]]'' (new name), not a new species, as Berkeley clearly indicated that he thought ''Craterellus lateritius'' was [[synonym (taxonomy)|synonymous]] with Schweinitz's ''Thelephora cantharella''. Normally in these circumstances, Schweinitz's specimen would be considered the [[type (biology)|type]], but Petersen was unable to locate Schweinitz's original specimen, and thus according to the [[International Code of Botanical Nomenclature|rules of botanical nomenclature]], Berkeley's epithet has [[Principle of Priority|precedence]] as it is the earliest published name that has an associated type specimen.<ref name=Petersen1979/>
+
+Another synonym is ''Trombetta lateritia'', used by [[Otto Kuntze]] in his 1891 ''[[Revisio Generum Plantarum]]''.<ref name=Kuntze1891/> American mycologist [[Rolf Singer]] transferred it to the genus ''Cantharellus'' in 1951.<ref name=Singer1951/> The mushroom is commonly known as the "smooth chanterelle".<ref name=Kuo2007/> The [[specific name (botany)|specific name]] ''lateritius'' means "bricklike", and refers to the smooth [[hymenium]].<ref name=Metzler1992/>
+
+==Description==
+
+
+The [[pileus (mycology)|caps]] of the ''C.&nbsp;lateritius'' [[basidiocarp|fruiting bodies]] typically range between {{convert|2|and|12|cm|abbr=on|frac=4}} in diameter,<ref name=":02">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=97}}</ref> with a flattened to somewhat funnel-shaped top surface and a wavy margin. The cap surface is dry, slightly [[wikt:tomentose|tomentose]] (covered with a layer of fine hairs), and a deep and bright orange-yellow color, with older specimens fading to more yellow in age; the distinctive margins of the cap are a paler yellow,<ref name=Bigelow1978/> and typically curve downward in young specimens.<ref name=Petersen1979/> Fruiting bodies can reach a height of {{convert|12|cm|abbr=on|frac=4}}.<ref name=Petersen1979/>
+
+The [[hymenophore]] (the spore-bearing surface) is initially smooth and without wrinkles, but gradually develops channels or ridges, and what appear to be very shallow [[lamella (mycology)|gills]] that are vein-like, and less than 1&nbsp;mm wide. The color is pale yellow, and is continuous with the surface of the stem. The [[stipe (mycology)|stem]] is rather plump and stout, {{convert|1.5|to|10|cm|abbr=on|frac=4}} long and {{convert|0.5|to|2|cm|abbr=on|frac=4}} thick, more or less cylindrical, tapering downwards towards the (sometimes white) base.<ref name=":02" /> Internally, the stems are either stuffed (filled with cotton-like [[mycelia]]) or solid. Rarely, fruiting bodies may be clumped together with stems conjoined at the base; in these cases there are usually no more than three fused stems.<ref name="Petersen1979" /> The [[trama (mycology)|flesh]] is solid to partly hollow (sometimes due to insect larvae), with a pale yellow color;<ref name="Eyssartier2009" /> it is {{convert|0.5|to|0.9|cm|abbr=on|frac=8}} thick.<ref name="Miller2006" />
+
+The [[basidiospore|spores]] are smooth, with a roughly [[wikt:ellipsoid|ellipsoid]] shape, and have typical dimensions of 7–7.5 by 4.5–5&nbsp;[[μm]].<ref>Bigelow (1978) reports more a permissive range of spore sizes: 7.5–9.5 (occasionally up to 12.5) by 4.5–6(6.5)&nbsp;μm</ref> In deposit, such as in a [[spore print]], the spores are light yellow orange,<ref name=Bigelow1978/> while under the microscope they are a very pale yellowish.<ref name="Eyssartier2009"/> The spore bearing cells—the [[basidia]]—are 75–80 by 7–9&nbsp;μm, 4-5-6-spored,<ref>Bigelow (1978) reports instead 35–72 by 5–7.5&nbsp;μm, and four spores.</ref> slightly club-shaped, and with a distinctly thickened wall at the base. [[Clamp connection]]s (short branches connecting one cell to the previous cell to allow passage of the products of [[nucleus (cell)|nuclear]] division) are present in the [[hypha]]e of all parts of the fruiting body.<ref name="Eyssartier2009"/>
+
+=== Bioactive compounds ===
+In a 1998 study, the [[carotenoid]] composition of this species was compared to several other ''[[Cantharellus]]'' species, including ''[[Cantharellus cibarius|C.&nbsp;cibarus]]'', ''C.&nbsp;cibarius'' var. ''amythysteus'', and ''[[Cantharellus tabernensis|C.&nbsp;tabernensis]]''. The carotenoid content between species was "virtually identical", comprising {{Nowrap|[[γ-carotene]]}}, {{Nowrap|[[α-carotene]]}}, and {{Nowrap|[[β-carotene]]}}. The only significant difference was that ''C.&nbsp;lateritius'' contained a significant quantity of an unidentified carotene that was thought to be a [[chemical decomposition|breakdown product]] of β-carotene.<ref name="Mui1998" />
+
+=== Similar species ===
+{{multiple image
+| footer            = Potential lookalikes include the poisonous ''[[Omphalotus olearius]]'' (left) and the exceptional edible ''[[Cantharellus cibarius]]'' (right).
+| width             = 180
+| image1            = Omphalotus olearius2.JPG
+| image2            = Chanterelle.jpg
+}}
+
+''Cantharellus lateritius'' is pinker than the golden chanterelle (''C.&nbsp;cibarius''),<ref name="Mui1998" /> and has thicker flesh in addition to the smoother hymenial surface.<ref name="Roody2003" /> ''[[Cantharellus odoratus|C.&nbsp;odoratus]]'' is also similar in appearance, and is distinguished by a thinner [[trama (mycology)|flesh]] and a hollow stem.<ref name="Bigelow1978" /> Microscopy or [[DNA analysis]] is required to distinguish ''[[Cantharellus flavolateritius|C.&nbsp;flavolateritius]]''.<ref name=":02" />
+
+The [[poisonous mushroom|poisonous]] "Jack O'Lantern" mushroom, ''[[Omphalotus olearius]]'', is roughly similar in stature and color, but can be differentiated from ''C.&nbsp;lateritius'' by its true gills with sharply defined edges, and growth on decaying wood (although the wood may be buried in the soil), usually in large overlapping clusters.<ref name="Bessette1992" /> ''[[Craterellus odoratus]]'' is also similar.<ref name=":02" /><!-- Different from Cantharellus odoratus -->
+
+One author considers ''C. lateritius'' to likely represent a [[species complex]], including "all the chanterelles with a completely smooth hymenophore, sweet smell, and clamped hyphae".<ref name="Eyssartier2009" />
+
+==Distribution and habitat==
+, Ohio]]
+
+''Cantharellus lateritius'' is distributed in North America, Africa, Malaysia,<ref name="Eyssartier2009"/> and the [[Himalayas]] (specifically, the [[Almora]] hills in [[Uttar Pradesh]]).<ref name=Dhancholia1991/> In North America, it appears from June to September,<ref name=":02" /> with its range in the United States extending northward to [[Michigan]] and [[New England]].<ref name=Petersen1979/>
+
+Typically found growing solitary, in groups or in clusters under [[hardwood]] trees, the fungus produces fruit bodies in the summer and autumn.<ref name=Miller2006/> In the [[New England]] area of the United States, mycologist Howard Bigelow has noted it to grow on road shoulders in grass near [[oak]]s;<ref name=Bigelow1978/> it also has a predilection for growing on sloping creek banks.<ref name=Metzler1992/> In Malaysia, it is found growing on the soil in forests, mostly under species of ''[[Shorea]]'' ([[rainforest]] trees in the family [[Dipterocarpaceae]]).<ref name="Eyssartier2009"/> ''C.&nbsp;lateritius'' has been reported from the [[Western Ghats]], [[Kerala]], India, forming [[ectomycorrhiza]]l association with [[endemism|endemic]] tree species like ''[[Vateria indica]]'', ''[[Hopea parviflora]]'', ''[[Diospyros malabarica]]'', and ''[[Myristica malabarica]]'' in semi-evergreen to evergreen forests.<ref name=Mohanan2011/>
+
+== Edibility ==
+Like all species in the genus ''Cantharellus'', ''C.&nbsp;lateritius'' is [[edible mushroom|edible]], and often considered choice.<ref name="Roody2003" /><ref name="McKnight1987" /><ref name="Miller2006" /> The odor resembles apricots, and the taste is mild,<ref name="Eyssartier2009" /> or "moderately to faintly acrid".<ref name="Petersen1979" /> In the opinion of McFarland and Mueller, authors of a field guide to edible fungi of [[Illinois]], compared to the well-known ''C.&nbsp;cibarius'', ''C.&nbsp;lateritius'' is "in general ... somewhat disappointing when compared with their delicious relatives".<ref name="Mueller2009" />
+
+== References ==
+
+{{Reflist|colwidth=30em|refs=
+
+<ref name=Berkeley1856>{{cite journal |title=A commentary on the Synopsis Fungorum in America Boreali media degentium, by L. D. de Schweinitz |journal=Journal of the Philadelphia Academy of Natural Sciences II |pages=205–24}}</ref>
+
+<ref name=Berkeley1873>{{cite journal |vauthors=Berkeley MJ, Curtis MA |year=1873 |title=Notices of North American fungi |journal=Grevillea |volume=1 |issue=10 |pages=147 |url=https://books.google.com/books?id=zHvvAAAAMAAJ&pg=PA147}}</ref>
+
+<ref name=Bessette1992>{{cite book |vauthors=Bessette A, Fischer DH |title=Edible Wild Mushrooms of North America: a Field-to-Kitchen Guide |publisher=University of Texas Press |location=Austin, Texas |year=1992 |page=26 |isbn=0-292-72080-7 |url=https://books.google.com/books?id=zsJN7NZutTAC&pg=PA26}}</ref>
+
+<ref name=Bigelow1978>{{cite journal |doi=10.2307/3759354 |author=Bigelow HE. |year=1978 |title=The Cantharelloid Fungi of New England and Adjacent Areas |journal=Mycologia |volume=70 |issue=4 |pages=707–56 |jstor=3759354 }}</ref>
+
+<ref name=Dhancholia1991>{{cite journal |vauthors=Dhancholia S, Bhatt JC, Pant SK |year=1991 |title=Studies of some Himalaya agarics |journal=Acta Botanica Indica |volume=19 |issue=1 |pages=104–109|issn=0379-508X}}</ref>
+
+<ref name="Eyssartier2009">{{cite journal |vauthors=Eyssartier G, Stubbe D, Walleyn R, Verbeken A |year=2009 |title=New records of ''Cantharellus'' species (Basidiomycota, Cantharellaceae) from Malaysian dipterocarp rainforest |journal=Fungal Diversity |volume=36 |pages=57–67 |url=http://www.fungaldiversity.org/fdp/sfdp/FD36-4.pdf }}</ref>
+
+<ref name=Fries1838>{{cite book |title=Epicrisis Systematis Mycologici |author=Fries EM. |year=1838 |page=534 |publisher=Typographia Academica |location=Uppsala, Sweden |url=https://books.google.com/books?id=bYdIAAAAYAAJ&pg=PA534 |language=la}}</ref>
+
+<ref name=Kuntze1891>{{cite book |title=Revisio generum plantarum |volume=2 |author=Kuntze O. |year=1891 |location=Leipzig, Germany |publisher=A. Felix |page=873 |url=https://www.biodiversitylibrary.org/page/4295}}</ref>
+
+<ref name=Kuo2007>{{cite book |title=100 Edible Mushrooms |author=Kuo M. |year=2007 |publisher=The University of Michigan Press |location=Michigan |isbn=978-0-472-03126-9 |page=[https://archive.org/details/100ediblemushroo00kuom/page/142 142] |url-access=registration |url=https://archive.org/details/100ediblemushroo00kuom/page/142 }}</ref>
+
+<ref name=McKnight1987>{{cite book |vauthors=McKnight VB, McKnight KH |title=A Field Guide to Mushrooms, North America |publisher=Houghton Mifflin |location=Boston, Massachusetts |year=1987 |page=83 |isbn=0-395-91090-0|url=https://books.google.com/books?id=kSdA3V7Z9WcC&pg=PA83}}</ref>
+
+<ref name=Metzler1992>{{cite book |vauthors=Metzler V, Metzler S |title=Texas Mushrooms: a Field Guide |publisher=University of Texas Press |location=Austin, Texas |year=1992 |page=238 |isbn=0-292-75125-7 |url=https://books.google.com/books?id=HRtfvVigMmsC&pg=PA238}}</ref>
+
+<ref name=Miller2006>{{cite book |author1=Miller OK Jr |author2=Miller HH |author-link=Orson K. Miller Jr. |title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi |publisher=[[Globe Pequot Press]] |year=2006 |series=FalconGuides |page=331 |isbn=978-0-7627-3109-1}}</ref>
+
+<ref name=Mohanan2011>{{cite book |author=Mohanan C. |title=Macrofungi of Kerala |publisher=Kerala Forest Research Institute |location=Kerala, India |year=2011 }}</ref>
+
+<ref name=Mueller2009>{{cite book |vauthors=Mueller GM, McFarland J |title=Edible Wild Mushrooms of Illinois and Surrounding States: A Field-to-Kitchen Guide |publisher=[[University of Illinois Press]] |location=Urbana, Illinois |year=2009 |page=105 |isbn=978-0-252-07643-5 |url=https://books.google.com/books?id=79oteRx6Bh4C&pg=PA105}}</ref>
+
+<ref name="Mui1998">{{cite journal |doi=10.1086/297545 |vauthors=Mui D, Feibelman T, Bennett JW |year=1998 |title=A preliminary study of the carotenoids of some North American species of ''Cantharellus'' |journal=International Journal of Plant Sciences |volume=159 |issue=2 |pages=244–48|s2cid=84249922 }}</ref>
+
+<ref name=Petersen1979>{{cite journal |author=Petersen RH. |year=1979 |title=Notes on cantharelloid fungi. X. ''Cantharellus confluens'' and ''C. lateritius'', ''Craterellus odoratus'' and ''C. aureus'' |journal=Sydowia |volume=32 |issue=1–6 |pages=198–208}}</ref>
+
+<ref name=Roody2003>{{cite book |author=Roody WC. |title=Mushrooms of West Virginia and the Central Appalachians |publisher=University Press of Kentucky |location=Lexington, Kentucky |year=2003 |pages=126–27 |isbn=0-8131-9039-8|url=https://books.google.com/books?id=5HGMPEiy4ykC&pg=PA126}}</ref>
+
+<ref name=Schweinitz1822>{{cite journal |title=Synopsis fungorum Carolinae superioris |journal=Schriften der Naturforschenden Gesellschaft in Leipzig |author=von Schweinitz LD. |volume=1 |year=1822 |page=105 |url=https://books.google.com/books?id=9XgXAAAAYAAJ&pg=PA105|language=la}}</ref>
+
+<ref name=Singer1951>{{cite journal |author=Singer R. |year=1949 |title=The Agaricales in modern taxonomy |journal=Lilloa |volume=22 |page=729}}</ref>
+
+<ref name="urlMycoBank">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=294074 |title=''Cantharellus lateritius'' (Berk.) Singer 1949 |publisher=[[MycoBank]]. International Mycological Association |access-date=2010-11-08}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|294074}}
+
+{{Good article}}
+{{Taxonbar|from=Q4263193}}
+
+[[Category:Edible fungi]]
+[[Category:Cantharellus|lateritius]]
+[[Category:Fungi described in 1822]]
+[[Category:Fungi of Africa]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Miles Joseph Berkeley]]
+[[Category:Fungus species]]

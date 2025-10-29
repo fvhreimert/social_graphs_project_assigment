@@ -1,0 +1,51 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image =
+| image_caption =
+| taxon = Gymnopilus hispidellus
+| authority = [[William Alphonso Murrill|Murrill]]
+| synonyms =
+}}
+{{mycomorphbox
+| name = Gymnopilus hispidellus
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+
+'''''Gymnopilus hispidellus''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]].
+
+==Description==
+The [[pileus (mycology)|cap]] is {{convert|2|to|4|cm|in|1}} in diameter.<ref name="isbn0-945345-39-9">{{cite book |author=Hesler LR. |title=North American Species of ''Gymnopilus'' (Mycologia Memoir Series: No 3) |publisher=Lubrecht & Cramer Ltd |location=Knoxville, Tennessee |year=1969 |page=20 |isbn=0-945345-39-9}}</ref>
+
+==Habitat and distribution==
+This species has been found growing scattered or subcespitose (with stems clumped together), on logs, in [[Cuba]] in March.<ref name="isbn0-945345-39-9"/>
+
+==Phylogeny==
+''Gymnopilus hispidellus''  is in the aeruginosus-luteofolius infrageneric grouping.<ref name=Guzman-Davalos2003>{{cite journal |vauthors=Guzman-Davalos L, Mueller G, Cifuentes J, Miller AN, Santerre A |title=Traditional infrageneric classification of ''Gymnopilus'' is not supported by ribosomal DNA sequence data |journal=Mycologia  |year=2003 |volume=95 |issue=6 |pages=1204&ndash;14|doi=10.1080/15572536.2004.11833028 |pmid=21149021 |s2cid=3293845 }}</ref>
+
+==See also==
+{{Portal|Fungi}}
+[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*''[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=226919 Gymnopilus hispidellus]'' at [[Index Fungorum]]
+
+{{Taxonbar|from=Q5624821}}
+
+{{DEFAULTSORT:Gymnopilus hispidellus}}
+[[Category:Gymnopilus|hispidellus]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by William Alphonso Murrill]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

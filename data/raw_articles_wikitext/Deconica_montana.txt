@@ -1,0 +1,96 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Psilocybe.montana.-.lindsey.jpg
+| genus = Deconica
+| species = montana
+| authority = ([[Christian Hendrik Persoon|Pers.]]) [[P.D. Orton]] (1960)
+| synonyms = ''[[Psilocybe]] montana''
+}}
+{{mycomorphbox
+| name =Deconica montana
+| whichGills =adnate
+| capShape =convex
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType= saprotrophic
+| sporePrintColor=purple-brown
+| sporePrintColor2=
+| howEdible=inedible}}
+
+'''''Deconica montana''''', commonly known as the '''moss-loving deconia'''<ref>{{Cite book |last=Siegel |first=Noah |title=Mushrooms of Cascadia: A Comprehensive Guide to Fungi of the Pacific Northwest |last2=Schwarz |first2=Christian |date=September 1, 2024 |publisher=Backcountry Press |isbn=9781941624197 |location=Humboldt County, CA |pages=105}}</ref> or '''mountain moss psilocybe''', is a common species of mushroom. Its appearance is that of a typical "[[Little Brown Mushroom#.22Little brown mushrooms.22|little brown mushroom]]" with a small, brown cap and a straight, thin stipe. It usually grows in [[moss]]y and [[montane]] regions around the world.
+
+==Taxonomy==
+
+''Psilocybe montana'' was formerly the [[type species]] of the mushroom genus ''[[Psilocybe]]''.<ref>Singer, R. (1975). ''The Agaricales in Modern Taxonomy''. J. Cramer, Vaduz. 912 p.</ref>  Because it does not contain [[hallucinogenic]] [[tryptamine]] derivatives like [[psilocybin]] or [[psilocin]],<ref name="Salazar1994">{{cite journal | last1 = Salazar | first1 = F. | last2 = Marcano | first2 = V. | last3 = Castellano | first3 = F. | last4 = Martinez | first4 = L. | last5 = Morales | first5 = A. | year = 1994 | title = Chemical and microstructural study of the genus ''Psilocybe'' (Agaricales) in the Venezuelan Andes: Part I. ''Psilocybe montana'' (Pers. ex Fr.) Kummer | journal = Ernstia | volume = 4 | issue = 1–2| pages = 11–19 }}</ref><ref name="pmid7967656">{{cite journal |author=Marcano, V. |author2=Morales Méndez, A. |author3=Castellano, F. |author4=Salazar, F. J. |author5=Martinez, L. |title=Occurrence of psilocybin and psilocin in ''Psilocybe pseudobullacea'' (Petch) Pegler from the Venezuelan Andes |journal=[[Journal of Ethnopharmacology]] |volume=43 |issue=2 |pages=157–9 |date=July 1994 |pmid=7967656 |doi= 10.1016/0378-8741(94)90013-2}}</ref> it does not stain blue when handled, unlike other typical hallucinogenic members of this genus. Molecular studies in the late 2000s revealed that the genus was [[polyphyletic]] and consisted of two distinct clades separating the blueing species from the non-blueing species.<ref name=Moncalvo2002/><ref name=Nugent2004/><ref name=Matheny2006/> Dividing the genus is problematic as the name ''Psilocybe'' was attached to ''P.&nbsp;montana'' and consequently to the non-blueing clade, leaving the hallucinogenic species without a generic name. Because the name is widely associated with the hallucinogenic species and considering the potential legal ramifications of changing their generic name, a proposal was made to conserve the name ''Psilocybe'' with [[Psilocybe semilanceata|''P.&nbsp;semilanceata'']] as the type. This left ''Deconica'' available as a name for the non-blueing species.<ref name=Redhead2005/> The proposal was unanimously accepted by the [[Nomenclature Committee for Fungi]] in 2009.<ref name=Norvell2009/>
+
+== Description ==
+
+The cap is 0.5–2&nbsp;cm in diameter, dome-shaped then convex or somewhat flat,<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=666}}</ref> sometimes with a broad [[Umbo (mycology)|umbo]]. The cap is moist, [[glabrousness (botany)|glabrous]], [[hygrophanous]], and has radial striations to the center; the color is reddish-brown<ref name=":0">{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=208}}</ref> to dark-brown. The [[lamella (mycology)|gills]] are adnate to broadly adnate or sometimes very shortly [[decurrent gills|decurrent]], and of the same color as the cap. The [[Stipe (mycology)|stipe]] is 1.5–4&nbsp;cm long, 1–2&nbsp;mm thick, smooth, the same color as the cap, and brittle. The [[Basidiospore|spores]] are typically 7.5–10 × 6–8 × 5–5.5&nbsp;μm and [[:wikt:ovate|ovate]]–[[:wikt:lentiform|lentiform]] in shape with a thickened wall.<ref name="Miller1982">{{cite journal |jstor=3792745 | last1 = Miller | first1 = O. K. Jr. | last2 = Laursen | first2 = G. A. | last3 = Farr | first3 = D. F. | year = 1982 | title = Notes on Agaricales from Arctic Tundra in Alaska | journal = [[Mycologia]] | volume = 74 | issue = 4| pages = 576–591 |doi=10.2307/3792745 }}</ref> A large spored variety (spore dimensions of 8.5–11 × 6.0–8.5 × 5.0–7.0&nbsp;μm), ''Psilocybe montana'' var. ''macrospora'' Noordel. & Verduin (1999), has also been reported from the Netherlands.<ref name="isbn90-5410-492-9">{{cite book |author=Bas, Cornelis |title=Flora agaricina Neerlandica: critical monographs on families of agarics and boleti occurring in the Netherlands |publisher=A.A. Balkema |location=Rotterdam |year=1988 |isbn=978-90-5410-492-6 }}</ref> The [[spore print]] is dark greyish brown.<ref name="isbn3-7682-5474-7">{{cite book |author=Gastón Guzmán |title=The genus Psilocybe: a systematic revision of the known species including the history, distribution and chemistry of the hallucinogenic species |publisher=J. Cramer |location=Berlin |year=1983 |isbn=978-3-7682-5474-8}}</ref>
+
+It is listed as inedible,<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |url=https://archive.org/details/mushroomsotherfu0000phil |url-access=registration |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=[https://archive.org/details/mushroomsotherfu0000phil/page/230 230]}}</ref> being too small to be of interest.<ref name=":0" />
+
+== Habitat and distribution ==
+
+The species is commonly found in exposed situations such as dune-meadows, [[Heath (habitat)|heaths]] and tree-less [[tundra]], and open ''[[Pinus]]'' forests, usually on nutrient-poor, well-drained soil.<ref>{{cite web |url=http://www.entoloma.nl/html/psmontananed.html |title=Psilocybe montana page |website=www.entoloma.nl |url-status=dead |archive-url=https://web.archive.org/web/20040530230811/http://www.entoloma.nl/html/psmontananed.html |archive-date=2004-05-30}} </ref>
+
+It has a worldwide, almost cosmopolitan distribution and has been reported from a variety of regions in a wide range of climates, including:
+* [[Great Britain|Britain]] ([[Thetford Forest]])<ref>{{cite journal | doi = 10.1111/j.1469-8137.1953.tb05206.x | last1 = Parker-Rhodes | first1 = A. F. | year = 1953 | title = The Basidiomycetes of Thetford Chase. I. Correlation with age of plantation | journal = [[New Phytologist]] | volume = 52 | issue = 1| pages = 65–70 | doi-access = free }}</ref>
+* [[California]], United States<ref>{{cite web | last1=Wood | first1=M. | last2=Stevens | first2=F. | title=California Fungi - Psilocybe | url=http://www.mykoweb.com/CAF/genera/Psilocybe.html}}</ref>
+* the [[Caribbean]]<ref>{{cite journal |jstor=3761918 | last1 = Guzmán | first1 = G. | last2 = Tapia | first2 = F. | last3 = Ramírez-Guillén | first3 = F. | last4 = Baroni | first4 = T. J. | last5 = Lodge | first5 = D. J | last6 = Cantrell | first6 = S. A. | last7 = Nieves-Rivera | first7 = A. M. | year = 2003 | title = New species of ''Psilocybe'' in the Caribbean, with an emendation of ''P. guilartensis'' | journal = [[Mycologia]] | volume = 95 | issue = 6| pages = 1171–1180 | pmid = 21149019 |doi=10.2307/3761918 }}</ref>
+* China (western [[Kunlun Mountain]]s)<ref>{{cite journal | last1 = Zang | first1 = M. | last2 = Xia | first2 = Y. | year = 1989 | title = Notes on the fungi from Western Kunlun Mountains China | url =http://en.cnki.com.cn/Article_en/CJFDTOTAL-YOKE198904001.htm | journal = [[Acta Botanica Yunnanica]] | volume = 11 | issue = 4| pages = 397–406 }}</ref>
+* [[Colombia]] (high plains of [[Guasca]])<ref>{{cite journal | last1 = Nieves-Rivera | first1 = A. M. | last2 = Flores | first2 = Santos | last3 = Betancourt | first3 = C. | year = 1997 | title = Notes on the Agaricales of the high plains of Guasca, Cundinamarca Department, Colombia | journal = [[Caldasia]] | volume = 19 | issue = 1–2| pages = 349–51 }}</ref>
+* [[Greenland]]<ref>Lange, M. (1955). Macromycetes Part II, Greenland Agaricales. Meddel. Grønland. 147:1–69.</ref>
+* Mexico<ref>{{cite journal|last1=Guzman |first1=G. |last2=Varela |first2=L. |last3=Ortiz |first3=J. P. |year=1977 |title=The known non-hallucinogenic species of ''Psilocybe'' in Mexico |url=https://www.redalyc.org/pdf/883/88302005.pdf |journal=[[Boletin de la Sociedad Mexicana de Micologia]] |volume=11 |pages=23–24 |url-status=live |archive-url=https://web.archive.org/web/20120924083332/http://redalyc.uaemex.mx/redalyc/pdf/883/88302005.pdf |archive-date=2012-09-24 }}</ref>
+* [[Nepal]]<ref>{{cite journal | last1 = Guzman | first1 = G. | last2 = Kasuya | first2 = T. | year = 2004 | title = The known species of ''Psilocybe'' (Basidiomycotina, Agaricales, Strophariaceae) in Nepal | journal = [[Mycoscience]] | volume = 45 | issue = 4| pages = 295–297 |doi=10.1007/s10267-004-0186-8| s2cid = 84817545 | doi-access = free }}</ref>
+* Norway<ref>{{cite journal | last1 = Hoiland | first1 = K. | year = 1978 | title = The genus ''Psilocybe'' in Norway | journal = [[Nordic Journal of Botany]] | volume = 25 | issue = 2| pages = 111–122}}</ref>
+* in [[alpine tundra]]<ref>Favre, J. (1955). ''Les champignons supérieurs de la zone alpine du Parc National Suisse. Vol. 5''. Druck Ludin AG. Liestal, Switzerland. pp. 1–212.</ref> as well as [[subalpine]] regions in Switzerland<ref>Favre, J. (1960). ''Catalogue descriptif des champignons supérieurs de la zone subalpine du Parc National Suisse. Vol. 6''. Druck Ludin AG. Liestal, Switzerland. pp. 323–610.</ref>
+* in the region formerly known as the [[USSR]]<ref>{{cite journal | last1 = Urbonas | first1 = V. A. | year = 1978 | title = The taxonomy and range of fungi of the family Strophariaceae in the USSR. Part 3. The genus ''Psilocybe'' | journal = Lietuvos TSR Mokslu Akademijos Darbai Serija C Biologijos Mokslai | volume = 1 | pages = 9–18 }}</ref>
+* in the [[Venezuela]]n [[Andes]]<ref name="Salazar1994"/> and <ref name="pmid7967656" />
+* in moss at high elevations in [[Idaho]] and [[Montana]]<ref name="Miller1982"/>{{rp|590}}
+* in [[Arctic]] [[tundra]].<ref name="Miller1982"/>{{rp|590}}
+
+They have also been reported growing in [[Chemnitz]], Germany, on vegetation-covered flat roofs.<ref>{{cite journal | last1 = Berthold | first1 = S. | last2 = Otto | first2 = P. | year = 2005 | title = Studies of diversity and habitat preference of fungi and lichens on vegetation-covered flat roofs in Chemnitz (Saxony) | journal = [[Boletus (journal)|Boletus]] | volume = 28 | issue = 1| pages = 37–47}}</ref>
+
+==Ecology==
+''Deconica montana'' is [[saprobic]], possibly also parasitic. It is often associated with mosses such as ''Brachythecium albicans'', ''B.&nbsp;mutabulum'', ''Campylopus introflexus'', ''[[Ceratodon purpureus]]'', ''[[Dicranum]] scoparium'', ''Eurhynchium hians'', ''E.&nbsp;praelongum'', ''E.&nbsp;speciosum'', ''Rhacomitrium canescens'', ''[[Pohlia]]'' species or ''[[Polytrichum]] piliferum''.<ref>{{cite journal |last1=Lamoure |first1=D. |year=1977 |title=Agaricales de la zone alpine. ''Psilocybe chionophila'', sp. nov |journal=Bull. Soc. Linn. Lyon |volume=46 |pages=213–217}}</ref><gallery>
+Image:Psilocybe montana.jpg|''D. montana'' on moss
+File:Psilocybe.montana2.-.lindsey.jpg|''Deconica montana''
+</gallery>
+
+==References==
+{{Reflist|30em|refs=
+
+<ref name=Matheny2006>{{cite journal |vauthors=Matheny PB, Curtis JM, Hofstetter V |title=Major clades of Agaricales: a multilocus phylogenetic overview |journal=Mycologia |volume=98 |issue=6 |pages=982–995 |year=2006 |pmid=17486974 |doi=10.3852/mycologia.98.6.982 |display-authors=etal}}</ref>
+
+<ref name=Moncalvo2002>{{cite journal |vauthors=Moncalvo JM, Vilgalys R, Redhead SA |title=One hundred and seventeen clades of euagarics |journal=Molecular Phylogenetics and Evolution |volume=23 |issue=3 |pages=357–400 |year=2002  |pmid=12099793 |doi=10.1016/S1055-7903(02)00027-1 |display-authors=etal}}</ref>
+
+<ref name=Norvell2009>{{cite journal|author=Norvell L. |year=2009 |title=Report of the Nomenclature Committee for Fungi: 15 |journal=Mycotaxon |volume=110 |pages=487–492 |url=http://www.ima-mycology.org/CFF/pdf/Fungi-15.pdf |doi=10.5248/110.487 |url-status=dead |archive-url=https://web.archive.org/web/20120331090954/http://www.ima-mycology.org/CFF/pdf/Fungi-15.pdf |archive-date=2012-03-31 }}</ref>
+
+<ref name=Redhead2005>{{cite journal |vauthors=Redhead SA, Moncalvo JM, Vilgalys R, Matheny PB, Guzmán-Dávalos L, Guzmán G |year=2005 |title=(1757) Proposal to conserve the name ''Psilocybe'' (Basidiomycota) with a conserved type |journal=Taxon |volume=56 |issue=1 |pages=255–257 |url=http://www.bio.utk.edu/matheny/Site/Publications_files/Redhead_conserve_Psilocybe_Taxon.2007.pdf }}</ref>
+
+<ref name=Nugent2004>{{cite journal |vauthors=Nugent KG, Saville BJ |title=Forensic analysis of hallucinogenic fungi: a DNA-based approach |journal=Forensic Science International |volume=140 |issue=2–3 |pages=147–157 |year=2004 |pmid=15036436 |doi=10.1016/j.forsciint.2003.11.022 }}</ref>
+}}
+
+==Further reading==
+* Stamets P. (1996). ''Psilocybin mushrooms of the world''. Ten Speed Press, Berkeley, CA, USA. 245 pp. ([https://books.google.com/books?id=3rIDqBRKv4sC&dq=%22psilocybe+montana%22&pg=PA132 p. 132])
+
+== External links ==
+* [http://www.indexfungorum.org/Names/SynSpecies.asp?RecordID=355556 Index Fungorum] synonyms
+* [https://web.archive.org/web/20081101091121/http://www.mykoweb.com/CAF/species/Psilocybe_montana.html California Fungi]
+* [https://web.archive.org/web/20061027072940/http://www.bioimages.org.uk/HTML/R155849.HTM BioImages] Photos from various angles
+* [https://mushroomobserver.org/name/show_name/3484 Mushroom Observer] Photos of various D. montana sightings
+
+{{Taxonbar|from=Q1891678}}
+
+[[Category:Strophariaceae]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of South America]]
+[[Category:Fungi of Colombia]]
+[[Category:Altiplano Cundiboyacense]]
+[[Category:Inedible fungi]]
+[[Category:Páramo fungi]]
+[[Category:Fungi described in 1871]]
+[[Category:Taxa named by Christiaan Hendrik Persoon]]
+[[Category:Fungus species]]

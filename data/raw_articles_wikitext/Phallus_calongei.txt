@@ -1,0 +1,57 @@
+{{Short description|Stinkhorn fungus from Pakistan}}
+{{Speciesbox
+| image = Phallus calongei.jpg
+| image_caption = Scale bar=1 cm
+| genus = Phallus
+| species = calongei
+| authority = G. Moreno & Khalid
+| range_map = PakistanNorthWestFrontier.png
+| range_map_caption = Known only from [[Khyber Pakhtunkhwa]]<br> (dark red), Pakistan
+}}
+
+'''''Phallus calongei''''' is a species of [[stinkhorn]] mushroom. Found in [[Pakistan]], it was described as new to science in 2009. Starting out as an "egg", the fully expanded [[basidiocarp|fruit body]] consists of a single, thick, [[stipe (mycology)|stipe]] with a [[pileus (mycology)|cap]] attached to the apex and covered with olive-green, slimy [[spore]]-containing [[gleba]]. It is distinguished from other similar ''[[Phallus (fungus)|Phallus]]'' species by a combination of features, including a pinkish, reticulated (network-like) cap, and a stipe that is tapered at both ends. The [[edible mushroom|edibility]] of the mushroom is unknown.
+
+==Systematics==
+''Phallus calongei'' was discovered on June 16, 2008, near the [[Khanspur]] stream in [[Khyber Pakhtunkhwa]] (formerly known as the North Western Frontier Province) in Pakistan. It was described as new to science in a 2009 ''[[Mycotaxon]]'' publication. The [[specific name (botany)|specific epithet]] ''calongei'' honors Spanish mycologist [[Francisco D. Calonge]] who has written extensively on the [[Gasteromycetes]],<ref name=Calonge1998/> and who has himself published or co-published three ''Phallus'' species: ''[[Phallus atrovolvatus|P.&nbsp;atrovolvatus]]'' (Kreisel & Calonge),<ref name=Calonge2005/> ''[[Phallus maderensis|P.&nbsp;maderensis]]'' (Calonge)<ref name=Calonge2008/> and ''[[Phallus minusculus|P.&nbsp;minusculus]]'' (Kreisel & Calonge).<ref name=Calonge2002/> ''P.&nbsp;calongei'' is one of four ''[[Phallus]]'' species known to exist in Pakistan, the others being ''[[Phallus celebicus|P.&nbsp;celebicus]]'', ''[[Phallus impudicus|P.&nbsp;impudicus]]'', and ''[[Phallus rubicundus|P.&nbsp;rubicundus]]''.<ref name=Moreno2009/>
+
+According to the infrageneric [[classification (biology)|classification]] scheme proposed by German mycologist [[Hanns Kreisel]] in 1996,<ref name=Kreisel1996/> ''Phallus calongei'' belongs in the [[subgenus]] ''Phallus'', [[section (biology)|section]] ''Flavophallus'' of the genus ''Phallus''. Other species in this section include ''[[Phallus flavocostatus|P.&nbsp;flavocostatus]]'', ''[[Phallus tenuis|P.&nbsp;tenuis]]'', ''[[Phallus formanosus|P.&nbsp;formanosus]]'', ''[[Phallus calichrous|P.&nbsp;calichrous]]'', ''[[Phallus multicolor|P.&nbsp;multicolor]]'', and ''[[Phallus cinnabarinus|P.&nbsp;cinnabarinus]]''. A number of features distinguish ''P.&nbsp;calongei'' from these, including: an undeveloped white volva, a stipe tapered at both ends, a deeply pitted and [[wikt:reticulate|reticulate]] cap surface with pinkish ridges, and no indusium (a lacy "skirt" hanging from the cap, present in some ''Phallus'' species).<ref name=Moreno2009/>
+
+==Description==
+As a member of the genus ''Phallus'', the shape of ''P.&nbsp;calongei'' mushrooms assume the general form of a [[phallus]] (an erect [[Penis#Humans|human penis]]) with a single elongated hollow stipe topped by a bulbous [[pileus (mycology)|cap]]-like structure at the apex.<ref name=Miller1988/> The fruit bodies of ''P.&nbsp;calongei'' start out appearing similar to whitish "eggs", with a membranous exo[[peridium]] (outer tissue layer) and gelatinous, translucent endoperidium (inner tissue layer). The exoperidium remains at the base of the fruit body as a thin, membranous, undeveloped white [[volva (mycology)|volva]].
+
+The fully expanded fruit body consists of a single, thick, stalk with a ridged and pitted cap attached to the apex; the cap is covered with olive-green, slimy gleba. The fruit body can reach up to {{convert|24|cm|abbr=off|frac=4}} tall and {{convert|3|cm|in|abbr=on|frac=8}} thick. It is whitish and hollow, slightly tapered at both ends, and has a wall that consists of layers of perforated chambers. At the apex of the stalk is the "cap", which can be up to {{convert|7|cm|abbr=on|frac=8}} high and {{convert|4|cm|abbr=on|frac=8}} thick. It is bell-shaped to conical-[[wikt:truncate|truncate]] with a pitted surface. As the [[gleba]] dissipates, the cap surface becomes strongly reticulated—forming a network of raised pinkish ridges. The tip of the cap is truncated, with a depressed and perforated surface. The gleba is olive-green, [[wikt:fetid|fetid]], and [[wikt:deliquescent|deliquescent]] (melting away gradually).
+
+The [[spore]]s are [[wikt:ellipsoid|ellipsoid]], smooth, and [[hyaline]] (translucent), measuring 3.5–4.5 by 1.5–2.0&nbsp;[[micrometre|μm]]. The [[edible mushroom|edibility]] of the mushroom has not been determined.<ref name="Moreno2009" />
+
+===Similar species===
+The only other ''Phallus'' species known with a pinkish-colored cap is ''P.&nbsp;rubicundus''; its conical cap has a surface that is wrinkled, not reticulate. Other similar species include ''[[Phallus hadriani|P.&nbsp;hadriani]]'', which has a purple volva, ''[[Phallus macrosporus|P.&nbsp;macrosporus]]'', which has a reddish volva, and ''P.&nbsp;formanosus'', which has a pale pink stipe and volva.<ref name=Moreno2009/>
+
+==Habitat and distribution==
+''P.&nbsp;calongei'' is known only from the [[Type locality (biology)|type locality]] in Pakistan, where it was found growing on the ground at {{convert|2575|m}} above sea level.<ref name="Moreno2009" /> All species of ''Phallus'' are known to be [[saprobic]], feeding off dead and decaying organic matter.<ref name="Kreisel1996" />
+
+==References==
+{{Reflist|refs=
+
+<ref name=Calonge1998>{{cite book |title=Gasteromycetes I. Lycoperdales, Nidulariales, Phallales, Sclerodermatales, Tulostomatales |year=1998 |author=Calonge FD. |series=Flora Mycologica Iberica |volume=3 |isbn=978-3-443-65008-7}}</ref>
+
+<ref name=Calonge2002>{{cite journal |title=''Phallus minusculus'' sp. nova from Tropical Africa |journal=Feddes Repertorium |year=2002 |vauthors=Calonge FD, Kreisel H |volume=113 |issue=7–8 |pages=600–2|doi=10.1002/fedr.200290007|hdl=10261/91831 |hdl-access=free }}</ref>
+
+<ref name=Calonge2005>{{cite journal |title=''Phallus atrovolvatus'', a new species from Costa Rica |journal=Boletín de la Sociedad Micológica de Madrid |vauthors=Calonge FD, Kreisel H, Mata M |year=2005 |volume=29 |pages=5–8}}</ref>
+
+<ref name=Calonge2008>{{cite journal |title=''Phallus maderensis'' sp. nov., encontrado en Madeira, Portugal |trans-title=''Phallus maderensis'' sp. nov., found in Madeira, Portugal |journal=Boletin de la Sociedad Micologica de Madrid |year=2008 |vauthors=Calonge FD, de Sequeira MM, Freitas T, Rocha E, Franquinho L |volume=32 |pages=101–4 |url=http://amigosdoparque.googlepages.com/BoletinSociedadMicologicadeMadrid322.pdf }}{{Dead link|date=August 2024 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+<ref name=Kreisel1996>{{cite journal |title=A preliminary survey of the genus ''Phallus'' sensu lato |journal=Czech Mycology |author=Kreisel H. |year=1996 |volume=48 |issue=4 |pages=273–81|doi=10.33585/cmy.48407 }}</ref>
+
+<ref name=Miller1988>{{cite book |vauthors=Miller HR, Miller OK |title=Gasteromycetes: Morphological and Developmental Features, with Keys to the Orders, Families, and Genera |publisher=Mad River Press |location=Eureka, California |year=1988 |page=78 |isbn=0-916422-74-7}}</ref>
+
+<ref name=Moreno2009>{{cite journal |title=A new species of ''Phallus'' from Pakistan |journal=Mycotaxon |year=2009 |vauthors=Moreno G, Khalid AN, Alvarado P |volume=108 |pages=457–62 |url=http://www.mycotaxon.com/vol/abstracts/108/108-457.html |format=abstract |doi=10.5248/108.457|doi-access=free }}</ref>
+
+}}
+
+{{Good article}}
+{{Taxonbar|from=Q7180334}}
+
+[[Category:Phallales]]
+[[Category:Fungi of Pakistan]]
+[[Category:Fungi described in 2009]]
+[[Category:Fungus species]]

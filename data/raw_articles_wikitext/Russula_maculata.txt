@@ -1,0 +1,38 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = 1996-02-15 Russula maculata Quél. & Roze 117.jpg
+| genus = Russula
+| species = maculata
+| authority = [[Quél.]] 1878
+}}
+
+'''''Russula maculata''''' is a species of [[mushroom]] in the genus ''[[Russula]]''.<ref name=roger>{{cite web|url=http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6029~gid~~source~gallerydefault.asp|title=''Russula maculata''|author=Rogers Plants Ltd|year=2015|accessdate=2016-01-21|url-status=dead|archiveurl=https://web.archive.org/web/20160130123747/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6029~gid~~source~gallerydefault.asp|archivedate=2016-01-30}}</ref> Its cap ranges from {{Convert|4-10|cm|frac=4}} wide, with hues varying from whitish to red.<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/100/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=100 |orig-date=1979}}</ref> It is difficult to distinguish reliably and its edibility is unknown.<ref name="Arora1986" />
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IndexFungorum|214247}}
+*{{Commons-inline}}{{Mycomorphbox
+| name = ''{{PAGENAME}}''{{italic title}}
+| hymeniumType = gills
+| capShape = convex
+| capShape2 = depressed
+| whichGills = adnexed
+| whichGills2 = free
+| stipeCharacter = bare
+| sporePrintColor = yellow
+| sporePrintColor2 = ochre
+| ecologicalType = mycorrhizal
+| howEdible = unknown
+}}
+
+{{Taxonbar|from=Q80410}}
+
+[[Category:Russula|maculata]]
+[[Category:Fungi described in 1878]]
+[[Category:Fungi of Europe]]
+[[Category:Fungus species]]
+
+
+{{Russulales-stub}}

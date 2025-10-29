@@ -1,0 +1,61 @@
+{{Short description|Species of fungus}}
+{{Speciesbox 
+| image = Mutinus ravenelii.jpg
+| genus = Mutinus
+| species = ravenelii
+| authority = ([[Miles Joseph Berkeley|Berk.]] & [[Moses Ashley Curtis|M.A.Curtis]]) [[E.Fisch.]] (1888)
+| synonyms_ref = <ref name="urlMycoBank: Mutinus ravenelii"/>
+| synonyms = ''Corynites ravenelii'' <small>Berk. & M.A.Curtis (1853)</small><br>
+''Ithyphallus ravenelii'' <small>(Berk. & M.A.Curtis) E.Fisch (1886)</small><br>
+''Dictyophora ravenelii'' <small>(Berk. & M.A.Curtis) [[Edward Angus Burt|Burt]] (1896)</small>
+}}
+{{mycomorphbox
+| name = ''Mutinus ravenelii''
+| whichGills = NA
+| capShape = NA
+| hymeniumType = smooth
+| stipeCharacter = volva
+| ecologicalType = saprotrophic
+| sporePrintColor = blackish-brown
+| sporePrintColor2 = brown
+| howEdible = edible
+| howEdible2 = caution
+}}
+
+'''''Mutinus ravenelii''''', or '''Ravenel's red stinkhorn''',<ref name=NGSWG>{{NGSWG}}</ref> is a species of [[fungus]] that is often confused with ''[[Mutinus elegans|M.&nbsp;elegans]]'' and ''[[Mutinus caninus|M.&nbsp;caninus]]''. ''M.&nbsp;ravenelii'' is a member of the [[Phallaceae]] (stinkhorn) family.
+
+==Edibility==
+
+The 'eggs' of ''Mutinus ravenelii'' are [[edible mushroom|edible]] while the adult fungus itself is not yet known to be edible.<ref name="edi">{{cite web
+|url= http://www.uoguelph.ca/~gbarron/MISCE2002/mutinus.htm
+|title= ''Mutinus ravenelii'' at University of Guelph
+|accessdate= 2008-06-15
+|last= Barron
+|first= George
+|format= Database
+|work= uoguelph.ca
+|publisher= George Barron
+|pages= 1
+|archive-url= https://web.archive.org/web/20161227205234/http://www.uoguelph.ca/~gbarron/MISCE2002/mutinus.htm
+|archive-date= 2016-12-27
+|url-status= dead
+}}</ref>
+
+==References==
+{{Reflist|refs=
+
+ <ref name="urlMycoBank: Mutinus ravenelii">{{cite web |title=''Mutinus ravenelii'' (Berk. & M.A. Curtis) E. Fisch. 1888 |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=221051 |publisher=[[MycoBank]]. International Mycological Association |accessdate=2011-10-27}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|221051}}
+
+{{Taxonbar|from=Q788213}}
+
+[[Category:Phallales]]
+[[Category:Fungi described in 1853]]
+[[Category:Fungus species]]
+
+
+{{Phallales-stub}}

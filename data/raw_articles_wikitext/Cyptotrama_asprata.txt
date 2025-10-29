@@ -1,0 +1,97 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{speciesbox
+| image = Wielangta Unidentified Fungus 5208.jpg 
+| taxon = Cyptotrama asprata
+| authority = ([[Miles Joseph Berkeley|Berk.]]) Redhead & Ginns (1980)
+| synonyms_ref = <ref name="urlFungorum synonymy: Cyptotrama asprata"/>
+| synonyms = *''Agaricus aspratus'' <small>Berk. (1847)</small>
+*''Lepiota asprata'' <small>(Berk.) [[Sacc.]] (1887)</small>
+*''Armillaria asprata'' <small>(Berk.) [[Thomas Petch|Petch]] (1910)</small>
+*''Xerula asprata'' <small>(Berk.) Aberdeen (1962)</small>
+*''Xerulina asprata'' <small>(Berk.) Pegler (1972)</small>
+}}
+{{mycomorphbox 
+| name = ''Cyptotrama asprata''
+| whichGills = adnate
+| whichGills2 = decurrent
+| capShape = convex
+| hymeniumType = gills
+| stipeCharacter = ring
+| stipeCharacter2 = bare
+| ecologicalType = saprotrophic
+| sporePrintColor = white
+| howEdible = inedible
+}}
+{{stack end}}
+
+'''''Cyptotrama asprata''''' (alternatively spelled ''aspratum''), commonly known as the '''golden-scruffy collybia'''<ref name="urlAmericanMushrooms.com: Golden-scruffy Collybia (Cyptotrama asprata)">{{cite web |url=http://www.americanmushroom.com/taxa/Cyptotrama_asprata_03.htm |title=AmericanMushrooms.com: Golden-scruffy Collybia (''Cyptotrama asprata'') |access-date=2009-04-10}}</ref> or '''spiny woodknight''' <ref>{{Cite book |last=Ridley |first=Geoff |title=A photographic guide to mushrooms and other fungi of New Zealand. |publisher=New Holland |year=2006 |isbn=9781869661342 |location=Auckland, New Zealand |pages=50 |language=en}}</ref> is a [[saprobic]] species of [[mushroom]] in the family [[Physalacriaceae]]. This fungus has had a varied [[taxonomy (biology)|taxonomical]] history, having been placed in fourteen [[genus (biology)|genera]] before finally settling in ''[[Cyptotrama]]''.
+
+It is characterized by the bright orange to yellow [[pileus (mycology)|cap]] that in young specimens is covered with tufts of [[fibril]]s resembling small spikes. This species is differentiated from several other similar members of genus by variations in cap color, and [[spore]] size and shape. It is widely distributed in [[tropical]] regions of the world.
+
+==History==
+This species was first described from [[Ceylon]] by English naturalist [[Miles Joseph Berkeley]] in 1847;<ref name="Berkeley 1847"/> soon after (1852), specimens were collected from [[South Carolina]] USA.<ref name="Ravenel 1852"/> Later, the fungus was described under a variety of names: ''Lentinus chrysopeplus'' from [[Cuba]];<ref name="Berkeley 1869"/> ''Agaricus sabriusculus'' and ''Agaricus lacunosa'' from New York;<ref name="Peck 1872"/><ref name="Peck 1873"/> ''Collybia lacunosa'' from Michigan;<ref name="Kauffman 1906"/> and ''Omphalia scabriuscula'' in Connecticut.<ref name="White 1910"/> As Canadian mycologists Redhead and Ginns explain in a 1980 article on the species, since its original 1847 description, ''C.&nbsp;asprata'' has been given 28 names, and placed in 14 different [[genera]].<ref name="Redhead 1980"/>
+
+==Description==
+The [[pileus (mycology)|cap]] is {{convert|0.6 to 2.7|cm|4=1}} in diameter, convex to cushion-shaped. The cap surface is dry, and younger specimens are covered with characteristic spikes; as the spikes break up with age, they tend to look more hairy or woolly. Older specimens typically have the surface features worn off. The cap margin tends to be rolled inwards when young, gradually becoming straight with maturity. The color of the cap is bright or pale yellow, increasing in intensity towards the center of the cap. ''C.&nbsp;asprata'' has a web-like ring that soon disappears.
+
+The [[lamella (mycology)|gills]], pale yellow to white in color, are distantly spaced and have an adnate (squarely attached) or short decurrent (running down the length) attachment to the stem; they feel greasy when dried and crushed. The [[stipe (mycology)|stem]] is {{convert|1 to 6.7|cm|4=1|abbr=on}} long by {{convert|0.2 to 0.4|cm|4=1|abbr=on}} thick at the stem apex; the stem is slightly thicker towards the base, and may be covered with [[hyphae]] that appear woolly (flocculose) or hairy (fibrillose). The surface of the stem may also be scaly – especially towards the base – or it may be covered with very small particles (granular). The [[trama (mycology)|flesh]] of this mushroom is white or pale yellow, with no distinctive taste or odor.<ref name="Redhead 1980"/> The [[spore print]] is white. It is considered inedible.<ref name="Miller 2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=157|author-link=Orson K. Miller Jr.}}</ref>
+
+=== Similar species ===
+Many other members of genus ''[[Cyptotrama]]'' are similar in appearance and differ from ''C.&nbsp;asprata'' by only one or two readily observable features. For example, ''C.&nbsp;granulosa'' is bright yellowish-brown (rather than bright or pale yellow in ''C.&nbsp;asprata''); ''C.&nbsp;lachnocephala'' is [[ochre]]-colored; ''C.&nbsp;deseynesiana'' is cream-colored with brown scales; ''C.&nbsp;verruculosa'' has a "copper-rust-brown" cap; ''C.&nbsp;costesii'' has olive-colored pigments. Species may also be distinguished by differences in spore size and shape, although a considerable size range has been noted for ''C.&nbsp;asprata'' spores.<ref name="Redhead 1980" /> ''[[Cyptotrama chrysopepla|C.&nbsp;chrysopepla]]'' and ''[[Heliocybe sulcata]]'' are also similar.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=448}}</ref>
+
+=== Microscopic features ===
+[[Spores]] are thin-walled, smooth, and [[ellipsoid]]al or oval in shape. Viewed with a [[microscope]], they appear translucent ([[hyaline]]), and stain red or blue with [[Melzer's reagent]] ([[inamyloid]]). Their dimensions are typically 7–10 by 5–7&nbsp;[[μm]]; the spores contain a single large oil droplet. The spore-bearing cells, the [[basidia]], are club-shaped, two- to four-spored, and 25–30 by 5–7&nbsp;μm.<ref name="isbn962-201-556-5" /> The presence of sterile cells called [[pleurocystidia]] (large cells found on the gill face in some mushrooms) is uncommon; specimens may contain few or abundant cheilocystidia (large sterile cells found on the gill edge) that are club-shaped, thin-walled and 39–87.5 by 8.5–16&nbsp;μm in size.<ref name="Redhead 1980" />
+
+==Habitat and distribution==
+''Cyptotrama asprata'' is a [[saprobic]] fungus, and grows on the decaying wood of [[deciduous]] and [[coniferous]] trees. Host species include white fir (''[[Abies concolor]]''), sugar maple (''[[Acer saccharum]]'') and other maple (''[[Acer (genus)|Acer]]'') species, grey alder (''[[Alnus oblongifolia]]''), beech (''[[Beech|Fagus]]'') species, spruce (''[[Picea]]'') species, ponderosa pine (''[[Pinus ponderosa]]'') and other pine (''[[Pinus]]'') species, poplar (''[[Populus]]'') and oak (''[[Quercus]]'') species. In [[temperate]] North America, specimens are typically collected between July through September.<ref name="Redhead 1980"/>
+
+The species has a [[pantropical]] distribution, and is widely distributed in tropical regions of the world.<ref name="Yang 1990"/> It has been collected from [[Australia]],<ref name="Smith 2005"/> southeastern [[Canada]],<ref name="urlCanadian Biodiversity: Species: Fungi: Golden-scruffy Collybia">{{cite web |url=http://canadianbiodiversity.mcgill.ca/english/species/fungi/shroompages/cyp_asp.htm |title=Canadian Biodiversity: Species: Fungi: Golden-scruffy Collybia |access-date=2009-04-10 |archive-url=https://web.archive.org/web/20110718220600/http://canadianbiodiversity.mcgill.ca/english/species/fungi/shroompages/cyp_asp.htm |archive-date=2011-07-18 |url-status=dead }}</ref> [[China]],<ref name="isbn962-201-556-5">{{cite book |author=Ng LF-Y.|title=The Macrofungus Flora of China's Guangdong Province (Chinese University Press) |publisher=Columbia University Press |location=New York |year=1993 |pages=292–93 |isbn=978-962-201-556-2}} [https://books.google.com/books?id=0cAered-vqYC&pg=PA292&dq=Cyptotrama+asprata&lr=#PPA293,M1 Google Books]</ref><ref name="Yang 1990"/> [[Costa Rica]],<ref name="urlINBio. Species of Costa Rica -Cyptotrama asprata">{{cite web |url=http://darnis.inbio.ac.cr/ubisen/FMPro?-DB=UBIPUB.fp3&-lay=WebAll&-error=norec.html&-Format=detail.html&-Op=eq&id=5184&-Find |title=INBio. Species of Costa Rica–''Cyptotrama asprata'' |access-date=2009-04-10 |archive-url=https://web.archive.org/web/20070810030324/http://darnis.inbio.ac.cr/ubisen/FMPro?-DB=UBIPUB.fp3&-lay=WebAll&-error=norec.html&-Format=detail.html&-Op=eq&id=5184&-Find |archive-date=2007-08-10 |url-status=dead }}</ref> [[India]],<ref name="Natarajan 1983"/> [[Hawaii]],<ref name="Hemmes 2002"/> [[New Zealand]],<ref name="urlCyptotrama asprata">{{cite web|url=http://www.kaimaibush.co.nz/Fungi/Cyptotrama.html|title=''Cyptotrama asprata''|access-date=2009-04-10|archive-url=https://web.archive.org/web/20081014141227/http://www.kaimaibush.co.nz/Fungi/Cyptotrama.html|archive-date=2008-10-14|url-status=dead}}</ref> [[Japan]],<ref name="urlCyptotrama asprata 1"/> and the [[Russian Far East]].<ref name="Bulakh 2008"/> It is absent from Europe and northwestern North America.<ref name="Redhead 1980"/>
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Berkeley 1847">{{cite journal |author=Berkeley MJ |year=1847 |title=Decades of fungi. Decades XV–XIX. Ceylon fungi |journal=London Journal of Botany |volume=6 |pages=479–514}}</ref>
+
+<ref name="Berkeley 1869">{{cite journal |vauthors=Berkeley MJ, Curtis MA |year=1869 |title=Fungi Cubensis (Hymenomycetes) |journal=Journal of the Linnean Society of London. Botany |volume=10 |pages=280–340 |issue=45  |doi=10.1111/j.1095-8339.1868.tb00529.x|doi-access= }}</ref>
+
+<ref name="Bulakh 2008">{{cite journal |author=Bulakh EM|year=2008 |title=Species of agaricoid fungi new for Russia and Russian Far East |journal=Mikologiya i Fitopatologiya |volume=42 |issue=5 |pages=417–25 |language=Russian}}</ref>
+
+<ref name="Hemmes 2002">{{cite book |vauthors=Hemmes DE, Desjardin D |title=Mushrooms of Hawaii: An Identification Guide |publisher=Ten Speed Press |location=Berkeley, California |year=2002 |page=62 |isbn=978-1-58008-339-3}}</ref>
+
+<ref name="Kauffman 1906">{{cite journal |author=Kauffman CH |year=1906 |title=Unreported fungi from Petoskey, Detroit and Ann Arbor for 1905 |journal=Annual Report of the Michigan Academy of Science |volume=8 |pages=26–37}}</ref>
+
+<ref name="Natarajan 1983">{{cite journal |vauthors=Natarajan K, Manjula B |year=1983 |title=South Indian Agaricales |journal=Indian Journal of Botany |volume=6 |issue=2 |pages=227–237}}</ref>
+
+<ref name="Peck 1872">{{cite journal |author=Peck CH |year=1872 |title=Report of the botanist |journal=Annual Report of the New York State Cabinet |volume=23 |pages=27–135}}</ref>
+
+<ref name="Peck 1873">{{cite journal |author=Peck CH |year=1873 |title=Descriptions of new species of fungi |journal=Bulletin of the Buffalo Society of Natural Sciences |volume=1 |pages=41–72}}</ref>
+
+<ref name="Ravenel 1852">{{cite journal |author=Ravenel HW |year=1852 |title=Fungi Caroliniani Exsiccati. Fungi of Carolina; illustrated by natural specimens of the species |journal=Fasciculus I |issue=1–100}}</ref>
+
+<ref name="Redhead 1980">{{cite journal |vauthors=Redhead SA, Ginns J |year=1980 |title=''Cryptotrama asprata'' (Agaricales) from North America and notes on the 5 other species of ''Cryptotrama'' sect. ''Xerulina'' |journal=Canadian Journal of Botany |volume=58 |issue=6 |pages=731–40 |doi=10.1139/b80-093}}</ref>
+
+<ref name="Smith 2005">{{cite book |author=Smith KN |title=A Field Guide To The Fungi of Australia |publisher=University of New South Wales Press |location=Sydney, Australia |year=2005 |isbn=978-0-86840-742-5}}</ref>
+
+<ref name="urlCyptotrama asprata 1">{{cite web |url=http://kinoko-ya.sakura.ne.jp/01eng/cyptotrama_asprata1.htm |title=''Cyptotrama asprata'' 1 |access-date=2009-04-10}}</ref>
+
+<ref name="urlFungorum synonymy: Cyptotrama asprata">{{cite web |title=GSD Species Synonymy: ''Cyptotrama asprata'' (Berk.) Redhead & Ginns |url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=118606 |publisher=Species Fungorum. CAB International |access-date=2015-01-02}}</ref>
+
+<ref name="White 1910">{{cite journal |author=White EA |year=1910 |title=Second report on the Hymeniales of Connecticut |journal=Connecticut State Geological and Natural History Survey Bulletin |volume=15 |pages=1–70}}</ref>
+
+<ref name="Yang 1990">{{cite journal |author=Yang ZL |year=1990 |title=Several noteworthy higher fungi from southern Yunnan, China |journal=Mycotaxon |volume=38 |pages=407–416}}</ref>
+
+}}
+
+{{good article}}
+{{Taxonbar|from=Q5200565}}
+
+[[Category:Physalacriaceae]]
+[[Category:Fungi described in 1847]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Central America]]
+[[Category:Fungi native to Australia]]
+[[Category:Fungi of New Zealand]]
+[[Category:Inedible fungi]]
+[[Category:Taxa named by Miles Joseph Berkeley]]
+[[Category:Fungus species]]

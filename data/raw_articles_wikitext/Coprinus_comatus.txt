@@ -1,0 +1,108 @@
+{{Short description|Species of fungus}}
+{{Redirect|Lawyer's wig|the head covering|court dress}}
+{{Speciesbox
+| image = Coprinus_comatus%2C_the_shaggy_ink_cap%2C_lawyer%27s_wig%2C_or_shaggy_mane_mushroom.jpg
+| image_caption = 
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=iucn>{{cite iucn |author=Dahlberg, A. |year=2019 |errata=2022 |title=''Coprinus comatus'' |volume=2019 |article-number=e.T122090475A222967238 |doi=10.2305/IUCN.UK.2019-3.RLTS.T122090475A222967238.en |access-date=1 July 2024}}</ref>
+| genus = Coprinus
+| species = comatus
+| authority = ([[Otto Friedrich Müller|O.F.Müll.]]) [[Christiaan Hendrik Persoon|Pers.]] (1797)
+| synonyms_ref = <ref name="urlMycoBank: Coprinus comatus">{{cite web |title=''Coprinus comatus'' (O.F. Müll.) Pers. 1797 |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=148667 |publisher=[[MycoBank]]. International Mycological Association |access-date=2012-03-03}}</ref>
+| synonyms = *''Agaricus cylindricus'' <small>[[Schaeff.]] (1774)</small><br />
+*''Agaricus comatus'' <small>O.F.Müll. (1780)</small>
+*''Agaricus vaillantii'' <small>[[J.F.Gmel.]] (1792)</small>
+}}
+{{Mycomorphbox 
+| name = ''Coprinus comatus''
+| whichGills = free
+| capShape =  conical
+| hymeniumType=gills
+| stipeCharacter=ring
+| ecologicalType=saprotrophic
+| sporePrintColor=black
+| howEdible=choice
+}}
+
+'''''Coprinus comatus''''', commonly known as the '''shaggy ink cap''', '''lawyer's wig''', or '''shaggy mane''', is a species of [[fungus]]. The young [[basidiocarp|fruit bodies]] first appear as white cylinders emerging from the ground, then the bell-shaped [[pileus (mycology)|caps]] open out. The white caps are covered with scales, the origin of its [[common name]]s. The [[lamella (mycology)|gill]]s beneath the cap are white, then pink, then turn black. This mushroom is unusual because it will turn black and dissolve itself in a matter of hours after being picked or depositing spores.
+
+The mushroom is often seen growing about lawns, gravel roads, and waste areas in the Northern Hemisphere and more locally in the Southern Hemisphere.<ref>Fungal Red List: [https://redlist.info/iucn/species_view/148667 ''Coprinus comatus'' (O.F. Müll.) Pers.]</ref> When young it is an excellent [[edible mushroom]] but it spoils quickly and resembles some [[Mushroom poisoning|poisonous]] species.
+
+==Taxonomy==
+The shaggy ink cap was first described by Danish naturalist [[Otto Friedrich Müller]] in 1780 as ''Agaricus comatus'', before being given its current binomial name in 1797 by [[Christiaan Hendrik Persoon]]. Its [[specific name (botany)|specific name]] derives from ''coma'', or "hair", hence ''comatus'', "hairy" or "shaggy".<ref name=Nilper>{{cite book | author = Nilson S & Persson O | year = 1977 | title = Fungi of Northern Europe 1: Larger Fungi (Excluding Gill-Fungi) | publisher = Penguin|isbn=0-14-063005-8|page=72}}</ref>  Other common names include lawyer's wig,<ref name=Nilper/> and shaggy mane.
+
+''Coprinus comatus'' is the type species for the genus ''[[Coprinus]]''. This genus was formerly considered to be a large one with well over 100 species. However, molecular analysis of DNA sequences showed that the former species belonged in two families, the [[Agaricaceae]] and the [[Psathyrellaceae]].<ref name="Red01">{{cite journal|doi=10.2307/1224525|last1=Redhead |first1=Scott A. |last2=Vilgalys |first2=Rytas |last3=Moncalvo |first3=Jean-Marc |last4=Johnson |first4=Jacqui |last5=Hopple Jr. |first5=John S |date=February 2001 |title=''Coprinus'' Pers. and the disposition of ''Coprinus'' species ''sensu lato''|jstor=1224525|journal=Taxon|volume=50|issue=1|pages=203–41}}</ref> ''Coprinus comatus'' is the best known of the true ''Coprinus''.
+
+==Description==
+The shaggy ink cap is easily recognizable from its almost cylindrical cap which initially covers most of its stem. The cap ranges from {{Cvt|4-8|cm|frac=8|abbr=}} in width and {{Cvt|6-20|cm|frac=8}} in height.<ref name=":0">{{Cite book |last1=Davis |first1=R. Michael |title=Field Guide to Mushrooms of Western North America |last2=Sommer |first2=Robert |last3=Menge |first3=John A. |publisher=[[University of California Press]] |year=2012 |isbn=978-0-520-95360-4 |location=Berkeley |pages=31, 209–210 |oclc=797915861}}</ref> It is mostly white with shaggy scales, which are more pale brown at the apex. 
+
+The free gills change rapidly from white to pink,<ref name=":0" /> then deliquesces (melts) into a black liquid filled with [[Basidiospore|spores]] (hence the "ink cap" name).<ref>{{Cite book |last=Sheldrake |first=Merlin |title=Entangled life: how fungi make our worlds, change our minds & shape our futures |date=2020 |publisher=Random House |isbn=978-0-525-51031-4 |location=New York |oclc=1127137515}}</ref> It is [[deliquescent]]. The white and fairly thick [[stipe (mycology)|stipe]]<ref name=":1">{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|page=198}}</ref> measures {{convert|6|–|40|cm|in|0|abbr=on}} high by {{convert|1|–|2.5|cm|in|frac=4|abbr=on}} in diameter and has a loose ring near the bottom.<ref name=":0" /><ref name=":1" /> Microscopically, the mushroom lacks [[pleurocystidia]]. The [[spore print]] is black-brown and the spores measure 10–13 by 6.5–8&nbsp;[[μm]]. The flesh is white and the taste mild.<ref name=Phillips06>{{cite book | last = Phillips |first=Roger | year = 2006  | title = Mushrooms | publisher = Pan MacMillan | isbn = 0-330-44237-6|page= 257}}</ref>
+
+=== Similar species ===
+The mushroom can sometimes be confused with the [[Coprinopsis picacea|magpie fungus]] which is poisonous. In America, the 'vomiter' mushroom ''[[Chlorophyllum molybdites]]'' is responsible for most cases of mushroom poisoning due to its similarity with shaggy mane and other edible mushrooms.<ref name="poisonoverview">Beug, Michael W. [http://www.cmsweb.org/articles/poisonings_in_NA.htm An Overview of Mushroom Poisonings in North America.] {{webarchive|url=https://web.archive.org/web/20100520190319/http://www.cmsweb.org/articles/poisonings_in_NA.htm|date=2010-05-20}} ''The Mycophile'', vol. 45(2):4-5, March/April 2004</ref> ''[[Coprinopsis atramentaria]]'' (the common ink cap) is similar, and contains [[coprine]] which can induce coprine poisoning, particularly when consumed with alcohol.<ref name=":0" /> ''[[Podaxis pistillaris]]'' is also similar.<ref name=":0" />
+
+==Distribution, habitat and ecology==
+It grows in groups in places which are often unexpected, such as green areas in towns. It occurs widely in grasslands and meadows in North America<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |page=561}}</ref> and Europe, from June through to November in the UK.{{Citation needed|date=March 2025}} It appears to have been introduced to Australia, New Zealand and Iceland.
+
+''Coprinus comatus'' is a [[nematophagous fungus]] capable of killing and digesting the [[nematode]] species ''[[Panagrellus redivivus]]'' and ''[[Meloidogyne arenaria]]''.<ref>{{Cite journal |first1=Hong |last1=Luo |first2=Minghe |last2=Mo |first3=Xiaowei |last3=Huang |first4=Xuan |last4=Li |first5=Keqin |last5=Zhang |date=Nov–Dec 2004 |title=''Coprinus comatus'': A basidiomycete fungus forms novel spiny structures and infects nematode |journal=Mycologia |volume=96 |number=6 |pages=1218–1224 |url=http://www.mycologia.org/cgi/content/full/96/6/1218 |doi=10.2307/3762137|jstor=3762137 |pmid=21148944 |url-access=subscription }} {{open access}}</ref><ref>{{Cite journal
+ | doi = 10.1128/AEM.02770-06 | pmid = 17449690 | title = ''Coprinus comatus'' Damages Nematode Cuticles Mechanically with Spiny Balls and Produces Potent Toxins to Immobilize Nematodes | journal = Applied and Environmental Microbiology | volume = 73 | issue = 12 | pages = 3916–23 | year = 2007 | last1 = Luo | first1 = H. | last2 = Liu | first2 = Y. | last3 = Fang | first3 = L. | last4 = Li | first4 = X. | last5 = Tang | first5 = N. | last6 = Zhang | first6 = K. | pmc=1932715| bibcode = 2007ApEnM..73.3916L }} {{open access}}</ref>
+
+==Edibility==
+It is a choice [[edible mushroom]],<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/345/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=345-46 |orig-date=1979}}</ref> especially when young, before the gills start to turn black.<ref>{{cite book |last=Meuninck |first=Jim |title=Foraging Mushrooms Oregon: Finding, Identifying, and Preparing Edible Wild Mushrooms |date=2017 |publisher=[[Falcon Guides]] |isbn=978-1-4930-2669-2 |page=84}}</ref> They should be prepared soon after being collected as the black areas quickly turn bitter.<ref name="Miller 2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|page=228|author-link=Orson K. Miller Jr.}}</ref> The taste is mild; cooking produces a large quantity of liquid. It can sometimes be used in [[mushroom soup]] with [[parasol mushroom]]. Large quantities, microwaved then frozen, can be used as the liquid component of [[risotto]], replacing the usual chicken stock.<ref>{{Cite book |last=Sisson |first=Liv |title=Fungi of Aotearoa: a curious forager's field guide |publisher=Penguin Random House New Zealand |year=2023 |isbn=978-1-76104-787-9 |location=Auckland, New Zealand |pages=120–121}}</ref>
+
+It was believed to induce mild coprine poisoning symptoms if consumed with alcohol.<ref name="Arora1986" /> Symptoms of coprine poisoning include vomiting, diarrhoea, palpitations and a metallic taste in the mouth.<ref>Collins, How to Identify Edible Mushrooms by Harding, Lyon & Tomblin</ref> But according to new data <ref>{{Cite book
+|url=https://www.sciencedirect.com/science/article/abs/pii/B9780128243152008526?via=ihub
+|title=Mushrooms, coprine
+|last=Wiegand
+|first=Timothy J.
+|last2=Peredy
+|first2=Tamas R.
+|date=2024-01-01
+|editor-last=Wexler
+|editor-first=Philip
+|series=Encyclopedia of Toxicology (Fourth Edition)
+|publisher=Academic Press
+|location=Oxford
+|pages=545–547
+|language=en
+|isbn=978-0-323-85434-4
+}}</ref> the species does not contain coprine.
+
+==In culture==
+In Australia the species is sufficiently common to have been featured on a [[postage stamp]] issued by [[Australia Post]] in 1981.<ref>[http://www.australianstamp.com/images/large/0013760.jpg AustralianStamp.com Coprinus comatus image]</ref>
+
+==Gallery==
+<gallery>
+File:Coprinus comatus G4.JPG|Young ''C. comatus''
+File:Coprinus comatus (30053094063).jpg|Cross section
+File:Tintlinge 5145.jpg|Grouping
+File:Coprinus comatus-3 hg.jpg|Late stage deliquescence
+File:Coprinus comatus spores.jpg|Spores
+File:Coprinus comatus (30661168342).jpg|Coprinus comatus)
+File:Lawyer's Wig (Coprinus comatus) Mushrooms (15050).jpg
+</gallery>
+
+==References==
+Much of the above article was translated from [[:fr:Coprin|the French page]] and Dutch pages.
+{{Reflist}}
+
+==Further reading==
+{{Commons category}}
+{{Wikispecies}}
+* Pierre Montarnal: ''Le petit guide: Champignons'' (Genève, 1964; Paris-Hachette, 1969; in French).
+* Régis Courtecuisse, Bernard Duhem: ''Guide des champignons de France et d'Europe'' (Delachaux & Niestlé, 1994–2000).  {{ISBN|978-2-603-00953-6}}
+* Roger Phillips: ''Mushrooms and other fungi of Great Britain and Europe'' (Pan Books Ltd. 1981 / Book Club Associates 1981) - for the English names.
+
+{{Taxonbar|from=Q275125}}
+
+[[Category:Agaricaceae]]
+[[Category:Fungi described in 1780]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of New Zealand]]
+[[Category:Edible fungi]]
+[[Category:Carnivorous fungi]]
+[[Category:Fungal pest control agents]]
+[[Category:Fungi of Iceland]]
+[[Category:Fungus species]]
+[[Category:Fungi used for fiber dyes]]

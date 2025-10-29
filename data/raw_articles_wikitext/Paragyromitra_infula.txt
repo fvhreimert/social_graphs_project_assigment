@@ -1,0 +1,141 @@
+{{Short description|Species of fungus}}
+{{For|other fungi with similar names|elfin saddle|false morel}}
+{{Speciesbox
+| image = Gyromitra infula Sasata.jpg
+| taxon = Paragyromitra infula 
+| authority = ([[Jacob Christian Schaeffer|Schaeff.]]) X.C. Wang & W.Y. Zhuang (2023)
+| synonyms = {{hidden begin|title = List}} 
+*''Helvella infula'' <small>Schaeff. (1774)</small>
+*''Helvella brunnea'' <small>[[J.F.Gmel.]] (1792)</small>
+*''Gyromitra infula'' <small>(Schaeff.) [[Lucien Quélet|Quél.]] (1886)</small>
+*''Physomitra infula'' <small>([[Schaeff.]]) [[Jean Louis Émile Boudier|Boud.]] (1907)</small>
+{{hidden end}}
+| synonyms_ref = <ref name="urlMycoBank: Gyromitra infula"/>
+}}
+{{mycomorphbox
+| name = ''Paragyromitra infula''
+| hymeniumType = smooth
+| capShape = convex
+| whichGills = NA
+| stipeCharacter = bare
+| sporePrintColor = yellow
+| sporePrintColor2 = buff
+| ecologicalType = saprotrophic
+| ecologicalType2 = mycorrhizal
+| howEdible = poisonous
+}}
+
+'''''Paragyromitra infula''''', [[common name|commonly]] known as the '''hooded false morel''' or the '''elfin saddle''', is a species of [[fungus]] in the family [[Discinaceae]]. The dark reddish-brown [[pileus (mycology)|caps]] of the [[sporocarp (fungus)|fruit bodies]] develop a characteristic saddle-shape in maturity, and the ends of both saddle lobes are drawn out to sharp tips that project above the level of the fruit body. The [[stipe (mycology)|stipe]] is white or flushed pale brown, smooth on the outside, but hollow with some chambers inside.
+
+''P.&nbsp;infula'' is found in the [[Northern Hemisphere]], usually in the late summer and autumn, growing on rotting wood or on hard packed ground. The species has been considered [[mushroom poisoning|poisonous]], believed to contain the toxic compound [[gyromitrin]], but a 2023 study has thrown this into doubt.
+
+==Taxonomy==
+
+The fungus was first [[species description|described]] in 1774 by the German mycologist [[Jacob Christian Schäffer]] as ''Helvella infula'' (the original genus spelling was ''Elvela'').<ref name="Schaeffer1774" /> In 1849, [[Elias Magnus Fries]] established the genus ''[[Gyromitra]]'', distinguishing it from ''[[Helvella]]'' based on a gyrose [[hymenium]] (marked with wavy lines or convolutions); the genus was based on the [[type species]] ''[[Gyromitra esculenta|G.&nbsp;esculenta]]''.<ref name="Fries1849" />  Later, in 1886, the French mycologist [[Lucien Quélet]] transferred the species to ''Gyromitra''. The next few decades witnessed some lingering confusion as to the correct [[taxonomy (biology)|taxonomical]] placement of these fungi.
+
+In 1907, [[Jean Louis Émile Boudier|Jean Boudier]] moved both ''G.&nbsp;esculenta'' and ''H.&nbsp;infula'' into a newly created genus he called ''Physomitra''; he retained the genus ''Gyromitra'' but "based it on an entirely different character so as to exclude from the genus the very species on which it was founded".<ref name="Seaver1920" /> In an attempt to reconcile the confusion surrounding the naming and identity of the two mushrooms, [[Fred J. Seaver]] proposed that both were [[synonym (biology)|synonymous]], representing variable forms of the same species.<ref name="Seaver1920" /> His suggestion was not adopted by later mycologists, who identified various differences between the two species, including fruiting time as well as macroscopic and microscopic differences.<ref name="Kanouse1948" /><ref name="Groves1953" /> The species is now classified in the newly erected genus ''[[Paragyromitra]]''.
+
+===Etymology===
+The [[specific name (botany)|specific epithet]] is from the [[Latin]] ''infǔla'', a heavy band of twisted wool worn by Roman officiants at sacrifices.<ref name="Simpson1979" /> It is known more commonly as the elfin saddle<ref name="urlGyromitra infula & Gyromitra ambigua (MushroomExpert.Com)" /> or the hooded false morel.<ref name="Evenson1997" /> Additionally, ''P.&nbsp;infula'' is a member of a group of fungi collectively known as "[[false morel]]s", so named for their resemblance to the highly regarded edible [[Morel|true morels]] of the genus ''[[Morchella]]''. This group includes species such as ''[[Gyromitra esculenta]]'' (brain mushroom), ''[[Discina caroliniana]]'' (beefsteak mushroom) and ''[[Discina  gigas]]'' (snow morel).
+
+==Description==
+
+The [[pileus (mycology)|cap]] of the fruit body (technically an [[apothecium]]) is about {{Convert|2.5-9|cm|abbr=on|frac=2}} wide and tall, reddish to orangish brown, and saddle-shaped<ref name=":0">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=32}}</ref> with 2–4 lobes. It is chambered or hollow within<ref name=":0" /> and frequently develops blackish-brown spots on the surface. During the mushroom's development, the cap's periphery grows into the [[stipe (mycology)|stipe]] below to form a hollow, roughly bell-shaped structure with the fertile spore-bearing surface (the [[hymenium]]) on the outside; as the surface growth of the hymenium continues to expand even after joining to the stipe, the hymenium can no longer follow and it arches up into folds and pads.<ref name=Gaumann1928/>
+
+The mostly hollow stipe is between {{convert|2–8|cm|1|abbr=on|frac=8}} high and {{convert|1–2.5|cm|1|abbr=on|frac=8}} thick, varying in color from reddish brown<ref name=":0" /> to whitish or even bluish, but is typically lighter than the cap.<ref name="urlCalifornia Fungi: Gyromitra infula" /> The stipe is minutely [[tomentose]] – covered with a layer of very fine hairs. The [[Trama (mycology)|context]] (flesh) is 1–2 millimetres thick, brittle,<ref name="Wells1968" /> and whitish to brownish.<ref name=":0" /> It lacks a notable odor or taste.
+
+
+
+[[Ascospore]]s are [[ellipsoid]]al in shape, [[hyaline]], smooth, thin-walled, with dimensions of 17–22 by 7–9&nbsp;[[μm]].<ref name=Tylutki1979/> They are also biguttulate, containing two large oil droplets at either end. The spore-producing cells, the [[Ascus|asci]], are roughly cylindrical, eight-spored, operculate (opening by an apical lid to discharge the spores) and have dimensions of 200–350 by 12–17&nbsp;|μm.<ref name="Wells1968" /> The diameter of the club-shaped [[paraphyses]] is 7–10&nbsp;μm at the apex.
+
+===Similar species===
+
+''Gyromitra esculenta'' has a wrinkled surface (similar to brainlike convolutions), not wavy or bumpy like ''P.&nbsp;infula''. ''[[Paragyromitra ambigua]]'' is very similar in appearance, and although it is usually not possible to discern between the two species without examining microscopic characteristics,<ref name=Kempton1973/> ''P.&nbsp;ambigua'' is said to have more pronounced purple tints in the stipe<ref name=Smith1980/> and has larger spores (about 22–30&nbsp;μm long).<ref name=Trudell2009/> ''[[Discina brunnea]]'' is more stout with a white stem, with a wrinkled cap which usually lacks points.<ref name=":0" />
+
+The saddle-shaped cap of ''P.&nbsp;infula'' might also lead to confusion with some species of the genus ''Helvella'', but these latter fungi typically have grayer colors and thinner, fluted stipes (e.g. ''[[Helvella maculata|H.&nbsp;maculata]]'' which has distinctly white flesh).<ref name=":0" />
+
+== Distribution and habitat ==
+]]
+
+''P. infula'' is widely distributed throughout [[taiga|boreal]], [[montane]] and coastal forests in North America.<ref name="Groves1954" /> The North American range extends north to Canada<ref name="Schalkwijk-Barendsen1991" /> and south to Mexico.<ref name="Medel2005" /> It has also been reported from South America,<ref name="Kew1970" /> Europe,<ref name="Harmaja1969" /> and Asia.<ref name="Korf1991" />
+
+The fungus can be found growing singly to scattered in or near [[Temperate coniferous forest|coniferous woodland]] in autumn, often on rotten wood.<ref name="Persson1978" /><ref name="Arora1986" /> It is also commonly found on packed ground, such as beside country roads, or in campgrounds.<ref name="Smith1975" /> Associated [[conifer]]s include ''[[Picea glauca]]'', ''[[Picea mariana|P.&nbsp;mariana]]'', ''[[Picea sitchensis|P.&nbsp;sitchensis]]'', ''[[Pinus contorta]]'', ''[[Pinus banksiana|P.&nbsp;banksiana]]'', ''[[Pinus monticola|P.&nbsp;monticola]]'', ''[[Abies balsamea]]'', ''[[Abies grandis|A.&nbsp;grandis]]'', ''[[Pseudotsuga menziesii]]'', ''[[Tsuga heterophylla]]'', ''[[Larix occidentalis]]'', ''[[Thuja plicata]]'', as well as the deciduous tree species ''[[Populus balsamifera]]'', ''[[Populus tremuloides|P.&nbsp;tremuloides]]'', ''[[Acer macrophyllum]]'', ''[[Alnus]]'' species, and ''[[Betula papyrifera]]''.<ref name="Abbott1992" />
+
+==Toxicity==
+This fungus has been widely regarded as poisonous, as it was long believed to contain the toxic compound [[gyromitrin]],<ref name="Tylutki1979" /> present in some species of ''Gyromitra'', which when digested is metabolized into [[monomethylhydrazine]], a major component of [[rocket fuel]].<ref name="urlwww.uaf.edu" /> However, a 2023 study found no traces of gyromitrin in ''G.&nbsp;infula'' (now called ''Paragyromitra infula'') using a new [[chromatography]] method.<ref>{{Cite journal |last1=Dirks |first1=Alden C. |last2=Mohamed |first2=Osama G. |last3=Schultz |first3=Pamela J. |last4=Miller |first4=Andrew N. |last5=Tripathi |first5=Ashootosh |last6=James |first6=Timothy Y. |date=2023-01-02 |title=Not all bad: Gyromitrin has a limited distribution in the false morels as determined by a new ultra high-performance liquid chromatography method |url=https://www.tandfonline.com/doi/full/10.1080/00275514.2022.2146473 |journal=Mycologia |language=en |volume=115 |issue=1 |pages=1–15 |doi=10.1080/00275514.2022.2146473 |pmid=36541902 |issn=0027-5514|url-access=subscription }}</ref>
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=Arora1986>{{cite book |author=Arora D. |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/803/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, California |year=1986 |orig-date=1979 |edition=2nd |pages=803}}</ref>
+
+<ref name=Abbott1992>{{cite book |title=Systematic studies of the Helvellaceae in northern and northwestern North America |author=Abbott SP.|year=1992 |publisher=M.Sc. Thesis: University of Alberta (Canada) |page=53}}</ref>
+
+<ref name=Evenson1997>{{cite book |author=Evenson VS. |title=Mushrooms of Colorado and the Southern Rocky Mountains |publisher=Westcliffe Publishers |location=Englewood, Colorado |year=1997 |page=39 |isbn=978-1-56579-192-3 |url=https://books.google.com/books?id=EAeDeyqZLq0C&pg=PA39}}</ref>
+
+<ref name=Fries1849>{{cite book |author=Fries EM. |year=1849 |title=Summa vegetabilium Scandinaviae |pages=259–572 |language=Latin}}</ref>
+
+<ref name=Gaumann1928>{{cite book |title=Comparative Morphology of the Fungi| author=Gäumann EA, Dodge CW. |year=1928 |publisher=McGraw-Hill Book Company |location=New York, New York |pages=347–48}}</ref>
+
+<ref name=Groves1953>{{cite journal |author=Groves JW, Hoare SC. |year=1953 |title=Notes on fungi from northern Canada. I. Hypocreales and Discomycetes |journal=The Canadian Field-Naturalist |volume=68 |pages=1–8|doi=10.5962/p.341510 |doi-access=free }}</ref>
+
+<ref name=Groves1954>{{cite journal |author=Groves JW, Hoare SC. |year=1954 |title=Notes on fungi from northern Canada. I. Hypocreales and Discomycetes |journal=The Canadian Field-Naturalist |volume=68 |pages=1–8|doi=10.5962/p.341510 |doi-access=free }}</ref>
+
+<ref name=Harmaja1969>{{cite journal |author=Harmaja H. |year=1969 |title=A wider and more natural concept of the genus ''Gyromitra'' Fr |journal=Karstenia |volume=9 |pages=9–12|doi=10.29203/ka.1969.53 |doi-access=free }}</ref>
+
+<ref name=Kanouse1948>{{cite journal |author=Kanouse BB. |year=1948 |title=Studies in the genus ''Otidea'' |journal=Mycologia |volume=41 |issue=6 |pages=660–77 |doi=10.2307/3755023 |jstor=3755023}}</ref>
+
+<ref name=Kempton1973>{{cite journal |author=Kempton PE, Wells VL. |year=1973 |title=Studies on the fleshy fungi of Alaska. VI. Notes on ''Gyromitra'' |journal=Mycologia |volume=65 |issue=2 |pages=396–400 |doi=10.2307/3758111 |jstor=3758111}}</ref>
+
+<ref name=Korf1991>{{cite journal |author=Korf RP, Zhuang W. |year=1991 |title=A preliminary Discomycete flora of Macaronesia: Part 13, Morchellaceae, Helvellaceae |journal=[[Mycotaxon]] |volume=40 |pages=287–94}}</ref>
+
+<ref name=Medel2005>{{cite journal |author=Medel R. |year=2005 |title=A review of the genus ''Gyromitra'' (Ascomycota, Pezizales, Discinaceae) in Mexico |journal=Mycotaxon |volume=94 |pages=103–10 |url=http://www.cybertruffle.org.uk/cyberliber/59575/0094/0103.htm}}</ref>
+
+<ref name=Smith1980>{{cite book |author=Weber NS, Smith AH. |title=The Mushroom Hunter's Field Guide |publisher=University of Michigan Press |location=Ann Arbor, Michigan |year=1980 |page=49 |isbn=978-0-472-85610-7 |url=https://books.google.com/books?id=TYI4f6fqrfkC&pg=RA1-PA49}}</ref>
+
+<ref name=Kew1970>{{cite book |author=Kew Royal Botanic Gardens |title=Fungus Flora of Venezuela and Adjacent Countries |publisher=Lubrecht & Cramer |year=1970 |isbn=978-3-7682-0692-1}}</ref>
+
+<ref name=Smith1975>{{cite book |author=Smith AH. |title=A Field Guide to Western Mushrooms |publisher=University of Michigan Press |location=Ann Arbor, Michigan |year=1975 |page=14 |isbn=978-0-472-85599-5}}</ref>
+
+<ref name=Persson1978>{{cite book |author=Persson O, Nilsson S. |title=Fungi of Northern Europe: Larger Fungi (Excluding Gill Fungi) |publisher=Penguin Books |location=New York, New York |year=1978 |pages=36–37 |isbn=978-0-14-063005-3}}</ref>
+
+<ref name=Schaeffer1774>{{cite book |author=Schaeffer JC. |year=1774 |title=Fungorum qui in Bavaria et Palatinatu Nascuntur Icones |language=Latin |volume=4 |page=105}}</ref>
+
+<ref name="Schalkwijk-Barendsen1991">{{cite book |author=Schalkwijk-Barendsen HME. |title=Mushrooms of Western Canada |publisher=Lone Pine Publishing |location=Edmonton, Canada |year=1991 |page=[https://archive.org/details/mushroomsofweste0000scha/page/382 382] |isbn=978-0-919433-47-2 |url=https://archive.org/details/mushroomsofweste0000scha/page/382 }}</ref>
+
+<ref name=Seaver1920>{{cite journal |author=Seaver FJ. |year=1920 |title=Photographs and descriptions of cup-fungi: VIII. ''Elvela infula'' and ''Gyromitra esculenta'' |journal=[[Mycologia]] |volume=12 |issue=1 |pages=1–5 |doi= 10.2307/3753481 |jstor=3753481}}</ref>
+
+<ref name=Simpson1979>{{cite book |author=Simpson DP. |title=Cassell's Latin Dictionary |publisher=Cassell |year=1979 |edition=5 |location=London |page=883 |isbn=978-0-304-52257-6}}</ref>
+
+<ref name=Trudell2009>{{cite book |author=Trudell S, Ammirati J. |title=Mushrooms of the Pacific Northwest |series=Timber Press Field Guides |publisher=Timber Press |location=Portland, Oregon |year=2009 |page=280 |isbn=978-0-88192-935-5}}</ref>
+
+<ref name=Tylutki1979>{{cite book |author=Tylutki EE. |title=Mushrooms of Idaho and the Pacific Northwest |publisher=University Press of Idaho |location=Moscow, Idaho |year=1979 |page=73 |isbn=978-0-89301-062-1}}</ref>
+
+<ref name=Wells1968>{{cite journal |author=Wells VL, Kempton PE. |year=1968 |title=Studies on the fleshy fungi of Alaska II |journal=Mycologia |volume=60 |issue=4 |pages=888–901 |doi=10.2307/3757390 |jstor=3757390}}</ref>
+
+<ref name="urlCalifornia Fungi: Gyromitra infula">{{cite web|url=http://www.mykoweb.com/CAF/species/Gyromitra_infula.html |author=Wood M, Stevens F. |title=''Gyromitra infula'' |publisher=MykoWeb |website=California Fungi |access-date=2010-09-17}}</ref>
+
+<ref name="urlGyromitra infula & Gyromitra ambigua (MushroomExpert.Com)">{{cite web |author=Kuo M |url=http://www.mushroomexpert.com/gyromitra_infula.html |title=''Gyromitra infula'' & ''Gyromitra ambigua'' |publisher=MushroomExpert.Com |access-date=2010-09-17}}</ref>
+
+<ref name="urlMycoBank: Gyromitra infula">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=119118 |title=''Gyromitra infula'' (Schaeff.) Quél. 1886 |publisher=MycoBank. International Mycological Association |access-date=2010-09-18}}</ref>
+
+<ref name="urlwww.uaf.edu">{{cite web |url=http://www.uaf.edu/snras/afes/pubs/misc/MP_05_07.pdf |title=Morels: a morsel after the fire |publisher=University of Alaska Fairbanks, School of Natural Resources and Agricultural Sciences, Agricultural and Forestry Experiment Station |archive-url=https://web.archive.org/web/20090326144133/http://www.uaf.edu/snras/afes/pubs/misc/MP_05_07.pdf |archive-date=26 March 2009 }}</ref>
+
+}}
+
+{{Commons category|Gyromitra infula}}
+==External links==
+*[https://mushroomobserver.org/observer/observation_search?pattern=Gyromitra+infula Mushroom Observer] Photographs
+
+{{Taxonbar|from=Q3495445}}
+{{good article}}
+
+[[Category:Discinaceae]]
+[[Category:Inedible fungi]]
+[[Category:Fungi described in 1774]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of South America]]
+[[Category:Fungi of Asia]]
+[[Category:Taxa named by Jacob Christian Schäffer]]
+[[Category:Fungus species]]

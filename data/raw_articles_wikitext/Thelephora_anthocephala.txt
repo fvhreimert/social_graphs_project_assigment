@@ -1,0 +1,36 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = DSCN2136 resize.JPG
+| image_caption = 
+| genus = Thelephora
+| species = anthocephala
+| authority = ([[Bull.]]) [[Elias Magnus Fries|Fr.]] (1838)
+| synonyms_ref = <ref name="urlMycoBank: Thelephora anthocephala"/>
+| synonyms = *''Clavaria anthocephala'' <small>Bull. (1786)</small>
+}}
+
+'''''Thelephora anthocephala''''' is a species of [[coral fungus]] in the family [[Thelephoraceae]]. It was originally [[species description|described]] as new to science in 1786 by French botanist [[Jean Baptiste François Pierre Bulliard]], who placed it in the genus ''[[Clavaria]]''. [[Elias Fries]] transferred it to ''[[Thelephora]]'' in his 1838 work ''Epicrisis Systematis Mycologici''.<ref name="Fries 1838"/>
+
+==References==
+{{Reflist|refs=
+
+<ref name="Fries 1838">{{cite book |author=Fries EM. |title=Epicrisis Systematis Mycologici |year=1838 |publisher=Typographia Academica |location=Uppsala, Sweden |page=535 |language=Latin |url=http://www.librifungorum.org/Image.asp?ItemID=634&ImageFileName=0535b.jpg|archive-url=https://web.archive.org/web/20150122002741/http://www.librifungorum.org/Image.asp?ItemID=634&ImageFileName=0535b.jpg|url-status=usurped|archive-date=January 22, 2015}}</ref>
+
+<ref name="urlMycoBank: Thelephora anthocephala">{{cite web |title=GSD Species Synonymy: ''Thelephora anthocephala'' (Bull.) Fr. |url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=162775 |publisher=Species Fungorum. CAB International |accessdate=2015-01-21}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|162775}}
+
+{{Taxonbar|from=Q3526291}}
+
+[[Category:Fungi described in 1786]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Thelephora|anthocephala]]
+[[Category:Fungus species]]
+
+
+{{Agaricomycetes-stub}}

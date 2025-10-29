@@ -1,0 +1,71 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Conocybe_apala_Oakland.jpg
+| image_caption = 
+| genus = Conocybe
+| species = apala
+| authority = ([[Elias Magnus Fries|Fr.]]) Arnolds (2003)
+| synonyms = ''Conocybe lactea''<br/>''Conocybe lactea var. huijsmanii''<br/>''Conocybe lateritia''<br/>''Conocybe albipes''<br/>''Bolbitius albipes''<br/>''Bolbitius tener''<br/>
+''Agaricus apalus'' <small>[[Elias Magnus Fries|Fr.]] (1818)</small><br>
+''Pluteolus apalus'' <small>[[Lucien Quélet|Quél.]] (1886)</small><br>
+''Galera apala'' <small>[[Pier Andrea Saccardo|Sacc.]] (1887)</small><br>
+''Bolbitius apalus'' <small>[[Julien Noël Costantin|Costantin]] & [[Léon Jean Marie Dufour|L.M.Dufour]]  (1891)</small><br>
+''Derminus apalus'' <small>[[Paul Christoph Hennings|Henn.]] (1898)</small>
+}}
+{{Mycomorphbox 
+| name = ''Conocybe apala'' 
+| whichGills = adnexed
+| whichGills2 = free
+| capShape = conical
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = saprotrophic
+| sporePrintColor = brown
+| sporePrintColor2 = reddish-brown 
+| howEdible = unknown
+}}
+
+'''''Conocybe apala''''' is a [[basidiomycete]] [[fungus]] belonging to the genus ''[[Conocybe]]''.
+
+The species has been taxonomically reclassified a number of times. Until recently, it was also commonly called '''''Conocybe lactea''''' or '''''Conocybe albipes''''' and is [[Colloquialism|colloquially]] known as the '''white dunce cap'''<ref>[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=438179 Index Fungorum – Names Record]</ref> or the '''milky conecap'''.<ref>{{cite web | url=https://www.inaturalist.org/taxa/117227-Conocybe-apala | title=Milky Conecap (Conocybe apala) }}</ref>
+
+It is a fairly common fungus, both in North America and Europe, found growing among short green [[grass]].
+
+== Taxonomy ==
+The basionym ''Agaricus apalus'' was described by the Swedish mycologist [[Elias Magnus Fries]] in 1818.<ref>{{Cite book |last1=Fries |first1=Elias |url=https://www.biodiversitylibrary.org/item/196553#page/158/mode/1up |title=Observationes mycologicae |date=1818 |publisher=sumptibus G. Bonnieri |volume=v.2 (1818) |location=Havniae |publication-date=1818 |pages=142–143}}</ref> It was placed in the genus ''[[Bolbitius]]'' as ''B.&nbsp;albipes'' by G.H. Otth (1871),<ref>G.H. Otth 1871.</ref> then reclassified as ''Pluteolus apalus'' by the French mycologist [[Lucien Quélet]] in 1886.<ref>{{Cite book |last1=Quélet |first1=Lucien |url=https://www.biodiversitylibrary.org/item/101574#page/112/mode/1up |title=Enchiridion fungorum in Europa media et praesertim in Gallia vigentium |last2=Quélet |first2=Lucien |date=1886 |publisher=O. Doin |location=Lutetiae |pages=105}}</ref> This was reclassified as ''Galera hapala'' (or ''Galera apala'') in 1887 by [[Pier Andrea Saccardo]],<ref>{{Cite book |last1=Saccardo |first1=P. A. |url=https://www.biodiversitylibrary.org/item/25509 |title=Sylloge fungorum omnium hucusque cognitorum |last2=Saccardo |first2=P. A. |last3=Traverso |first3=G. B. |last4=Trotter |first4=A. |date=1887 |publisher=sumptibus auctoris |volume=v.5 (1887) |location=Patavii |pages=860}}</ref> then as ''Bolbitius apalus'' in 1891 by [[Julien Noël Costantin]] and  [[Léon Jean Marie Dufour]]<ref>{{Cite book |last1=Costantin |first1=Julien Noël |url=https://www.biodiversitylibrary.org/item/299029#page/162/mode/1up |title=Nouvelle flore des champignons, pour la détermination facile de toutes les espèces de France et de la plupart des espèces européennes, avec 3842 figures |last2=Dufour |first2=Léon Jean Marie |date=1891 |publisher=Librairie classique et administrative |location=Paris |pages=116}}</ref> and finally as ''Derminus apalus'' in 1898 by [[Paul Christoph Hennings]].<ref>{{Cite book |last1=Engler, Adolf |url=https://www.biodiversitylibrary.org/item/23586#page/255/mode/1up |title=Die Natürlichen Pflanzenfamilien nebst ihren Gattungen und wichtigeren Arten, insbesondere den Nutzpflanzen, unter Mitwirkung zahlreicher hervorragender Fachgelehrten begründet |last2=Engler |first2=Adolf |last3=Krause |first3=Kurt |last4=Pilger |first4=R. |last5=Prantl |first5=Karl |date=1900 |publisher=W. Engelmann |volume=Teil 1, Abt.1** |location=Leipzig |pages=241}}</ref>
+
+It was reclassified as ''Conocybe apala'' in 2003 by Everhardus Johannes Maria Arnolds.<ref>{{Cite journal |last=Arnolds |first=EEF |date=2003 |title=Notulae Ad Floram Agaricinam Needlandicam - XL: New Combinations in Conocybe and Pholiotina |url=https://www.mykoweb.com/systematics/journals/Persoonia/Persoonia%20v18n2.pdf |journal=Persoonia |volume=18 |issue=2}}</ref>
+
+==Description==
+The [[Pileus (mycology)|cap]] ranges from {{Convert|1–3.5|cm|frac=4}} in diameter.<ref name=":0">{{Cite book |last1=Davis |first1=R. Michael |title=Field Guide to Mushrooms of Western North America |last2=Sommer |first2=Robert |last3=Menge |first3=John A. |publisher=[[University of California Press]] |year=2012 |isbn=978-0-520-95360-4 |location=Berkeley |pages=249–250 |oclc=797915861}}</ref><ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=629}}</ref> It has a pale cream to silvery-white colour and may sometimes have a darker yellow to brown coloration towards the central [[Umbo (mycology)|umbo]]. Its trademark hood-shaped conical cap expands with age and may flatten out, the surface being marked by minute radiating ridges. The stem is cap-coloured, elongated, thin, hollow and more or less equal along its length with a height up to {{Convert|11|cm|abbr=on|frac=4}} and diameter of 1–3&nbsp;mm.<ref name="mushex">{{cite web | title=''Conocybe albipes'' at Mushroom Expert | publisher=Mushroom Expert | url=http://www.mushroomexpert.com/conocybe_lactea.html | accessdate=July 16, 2009 }}</ref><ref name="jordan">{{cite book | author = M. Jordan | year = 1995 | title = The Encyclopedia of Fungi of Britain and Europe | page = 249 | publisher = David & Charles | isbn = 0-7153-0129-2}}</ref> It may bear dust and/or small hairs.<ref name="audu" />
+
+The [[Lamella (mycology)|gills]] are close and tan before darkening to brown. They are adnexed or free and produce a rusty-brown [[spore print]].<ref name="audu" /> The [[Basidiospore|spores]] are elliptical and brown to reddish-brown.
+
+Very easily missed due to their very small size, the fruit bodies are otherwise quite easy to identify. The flesh has no discernible taste or smell and is extremely fragile to the touch.<gallery>
+File:Conocybe_apala_gill_edge.jpg|Gill edge 400x
+File:Conocybe_apala_spores_1000x.jpg|Spores 1000x
+</gallery>
+
+=== Similar species ===
+Similar species include ''[[Conocybe tenera]]'',<ref name=":0" /> ''[[Conocybe deliquescens]]'', ''[[Bolbitius lacteus]]'' (which has a flatter, slippery cap), ''[[Candolleomyces candolleanus]]'' (which is sturdier),<ref name="audu" /> and ''[[Conocybe rugosa]]'' (which has a ring on the stem).<ref name=":0" />
+
+==Habitat and distribution==
+''Conocybe apala'' is a [[saprobe]] found in areas with rich soil and short grass such as [[pasture]]s, playing fields, [[lawn]]s, [[meadow]]s as well as rotting [[manure]]d [[straw]], fruiting single or sparingly few [[ephemeral]] bodies. It is commonly found fruiting during humid, rainy weather with generally overcast skies. It will appear on sunny mornings while there is [[dew]] but will not persist once it evaporates. In most cases, by midday the delicate fruiting bodies [[shrivel]], dry and bend from sight. The fruiting season begins in spring and ends in autumn.<ref name = "mushex"/> It is distributed across Europe and North America.<ref name=rogers>{{cite web | title=''Conocybe lactea'' at Rogers Mushrooms | publisher=Rogers Mushrooms | url=http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~5839.asp | accessdate=July 16, 2009 | archive-url=https://web.archive.org/web/20081118013716/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~5839.asp | archive-date=November 18, 2008 | url-status=dead }}</ref>
+
+==Edibility==
+Edibility is unknown, with one study finding [[phalloidin]] in the caps.<ref name="HallenWatling2003">{{cite journal|last1=Hallen|first1=Heather E.|last2=Watling|first2=Roy|last3=Adams|first3=Gerard C.|title=Taxonomy and toxicity of Conocybe lactea and related species|journal=Mycological Research|volume=107|issue=8|year=2003|pages=969–979|issn=0953-7562|doi=10.1017/S0953756203008190|pmid=14531619}}</ref>
+
+==References==
+{{Reflist}}
+
+== External links ==
+{{Commons}}
+* [http://www.mushroomexpert.com/conocybe_lactea.html Mushroom Expert - Conocybe albipes]
+* [http://www.mykoweb.com/CAF/species/Conocybe_lactea.html MykoWeb California Fungi - Conocybe lactea]
+{{Taxonbar|from=Q1632206}}
+
+[[Category:Bolbitiaceae]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 2003]]
+[[Category:Fungus species]]

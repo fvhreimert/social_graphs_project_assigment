@@ -1,0 +1,80 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{Speciesbox
+| image = Pholiota flammans2.JPG
+| image_caption =
+| image_alt = Fruit body of ''Pholiota flammans'' arising from a stump covered in green moss and ivy.
+| genus = Pholiota
+| species = flammans
+| authority = ([[August Batsch|Batsch]]) [[Paul Kummer|P.Kumm.]] (1871)
+| synonyms =
+  {{plainlist|
+*''Agaricus flammans'' <small> Batsch (1783)</small>
+*''Hypodendrum flammans'' <small>(Fr.) [[William Alphonso Murrill|Murrill]] (1912)</small>
+*''Pholiota kauffmaniana'' <small>[[Alexander Hanchett Smith|A.H.Smith]] (1944)</small>
+  }}
+}}
+{{mycomorphbox
+| name = ''Pholiota flammans''
+| whichGills = adnate
+| capShape = convex
+| hymeniumType = gills
+| stipeCharacter = ring
+| ecologicalType = saprotrophic
+| sporePrintColor = brown
+| sporePrintColor2 = reddish-brown
+| howEdible = unknown
+}}
+{{stack end}}
+
+'''''Pholiota flammans''''', [[common name|commonly]] known as the '''yellow pholiota''', the '''flaming Pholiota''', or the '''flame scalecap''', is a [[basidiomycete]] [[agaric]] mushroom of the genus ''[[Pholiota]]''. Its [[Sporocarp (fungi)|fruit body]] is golden-yellow in color throughout, while its [[Pileus (mycology)|cap]] and [[Stipe (mycology)|stem]] are covered in sharp scales. As it is a [[saprobic]] fungus, the fruit bodies typically appear in clusters on the [[tree stump|stump]]s of dead [[conifer]]ous trees. ''P.&nbsp;flammans'' is distributed throughout Europe, North America, and Asia in [[Taiga|boreal]] and [[temperate]] regions. Its [[edible mushroom|edibility]] has not been clarified.
+
+==Taxonomy==
+This species was first recognised in 1783 by the German, [[August Batsch]], as ''Agaricus flammans'',<ref>{{cite book|author=Batsch AJGK|title=Elenchus fungorum|year=1783|page=87|language=la}}</ref> and later [[sanctioned name|sanctioned]] by Swedish mycologist [[Elias Magnus Fries]] in his ''Systema Mycologicum''.<ref>{{cite book |title=Systema Mycologicum|author=Fries EM|year=1821|publisher=Lundae: Ex officina Berlingiana|page=244|language=la|url=http://www.cybertruffle.org.uk/cyberliber/02482/0244.htm|access-date=2009-11-01}}</ref> The [[specific name (botany)|specific epithet]] ''flammans'' is a [[Latin]] adjective meaning [[flame|flaming]].<ref>{{cite book|vauthors=Jamieson A, Ainsworth R, Morell T | title = Latin dictionary: Morell's abridgment | publisher = Moon, Boys & Graves| year = 1828|location = London|page = 210|url=https://archive.org/details/bub_gb_U3oTAAAAYAAJ|quote=latin dictionary. |access-date=2009-10-31}}</ref> In 1871, with the recognition of ''[[Pholiota]]'' as an independent [[genus]] with [[type species]] ''[[Pholiota squarrosa]]'', another German, [[Paul Kummer]] renamed the fungus ''Pholiota flammans''.<ref>{{cite book |title=Der Führer in die Pilzkunde ''[Mushroom-hunter's guide]'' |author=Kummer P|year=1871 |page=84|language=de}}</ref> [[Lucien Quélet]], a French [[mycologist]], proposed another synonym, ''Dryophila flammans'' in 1886.<ref>{{cite book |title=Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium |author= Quélet, L|year=1886|publisher= Lutetiae, Octavii Doin |page=68|language=la|url=https://books.google.com/books?id=k2EVAAAAYAAJ&q=%22Enchiridion%20Fungorum%20in%20Europa%20media%20et%20praesertim%20in%20Gallia%20Vigentium%22&pg=PA68 |access-date=2009-11-01}}</ref><ref>{{cite web | title=''Pholiota flammans'' taxon record details at Index Fungorum | publisher=CAB International | url=http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=203449 | access-date=October 31, 2009 }}</ref> American mycologist [[William Alphonso Murrill]] called the species ''Hypodendrum flammans'' in his 1912 study of [[Pacific Coast]] mushrooms, although he did not explain his rationale for transferring the species to ''Hypodendrum''.<ref>{{cite journal |author=Murrill WA |year=1912 |title=The Agaricaceae of the Pacific Coast: II |journal=Mycologia |volume=4 |issue=5 |pages=231–62 |doi=10.2307/3753448 |jstor=3753448 }}</ref>
+
+In the organization of [[Rolf Singer]], the species is placed in subgenus ''Pholiota'', section ''Adiposae'', [[wikt:stirp|stirps]] ''Subflammans''—a grouping of closely related species that also includes ''P.&nbsp;subflammans'' and ''P.&nbsp;digilioi''. The species in stirps ''Subflammans'' are characterised by having conspicuous erect tufts or scales on the cap surface that are easily sloughed off by rain and age in lieu of the gelatinous nature of the underlying cap cuticle.<ref name=Singer1986>{{cite book |author=Singer R|title=The Agaricales in Modern Taxonomy. 4th rev. ed|publisher=Koeltz Scientific Books|location=Koenigstein |year=1986|page=580|isbn=3-87429-254-1}}</ref> It is [[common name|commonly]] known as the yellow Pholiota,<ref name=Bessette1997>{{cite book |title=Mushrooms of Northeastern North America |vauthors=Bessette A, Bessette AR, Fischer DW |year= 1997|publisher=Syracuse University Press |isbn=978-0-8156-0388-7 |page=228 |url=https://books.google.com/books?id=T2uU12XcRD4C&q=Pholiota+flammans&pg=PA228 |access-date=2009-11-01}}</ref> the flaming Pholiota,<ref name=MushroomExpert>{{cite web | title=MushroomExpert: ''Pholiota flammans'' |author=Kuo M|year=2005 | publisher=MushroomExpert.com | url=http://www.mushroomexpert.com/pholiota_flammans.html | access-date=2009-11-01}}</ref> or the flame scalecap.<ref name=McKnight1987>{{cite book |vauthors=McKnight VB, McKnight KH |title=A Field Guide to Mushrooms, North America |publisher=Houghton Mifflin |location=Boston |year=1987 |page=31 |isbn=0-395-91090-0|url=https://books.google.com/books?id=kSdA3V7Z9WcC&q=Pholiota+flammans&pg=RA1-PA31-IA3|access-date=2009-11-01}}</ref>
+
+==Description==
+
+
+''Pholiota flammans'' often has a striking appearance. The [[Pileus (mycology)|cap]] is initially round, then convex and finally flattening with age. Its surface is bright yellow to orange, and covered with triangular scales ([[wiktionary:squamule|squamules]]) arranged in concentric rings. The cap surface is dry, matt and felt-like, and in wet conditions may lose scales. The cap margin remain curved slightly inwards. The yellow [[lamella (mycology)|gills]] are crowded together, attached to the stem, and have a notch where the gill attaches to the stem.<ref name=Bessette1997/> A bright yellow [[partial veil]] extending from the cap edge to the edge is present in immature species. As the cap expands and flattens with age, the partial veil tears, leaving a faint [[Annulus (mycology)|ring]] around the stem. The cylindrical straight or curved [[Stipe (mycology)|stem]] is itself covered in yellow squamules below the ring. The base of the stem, typically more orange in color than the upper portion,<ref name=Bessette1997/> is firmly attached to the dead wood from which the fungus arises. The section of stem above the ring bears little or no protuberances. The [[Trama (mycology)|flesh]] is firm, full, yellow and does not change color when bruised or injured.
+
+The dimensions of the fruit body are as follows: cap diameter up to {{convert|8|cm|1|abbr=on|frac=8}}, stem up to {{convert|12|cm|1|abbr=on|frac=8}} tall and between {{convert|0.4 to 1|cm|1|abbr=on|frac=8}} cm thick.<ref name=Jordan2004>{{cite book |author=Jordan M|title=The Encyclopedia of Fungi of Britain and Europe |publisher=Frances Lincoln |location=London |year=2004 |page=261 |isbn=0-7112-2378-5|url=https://books.google.com/books?id=bFMfytLn3bEC&q=Pholiota+flammans&pg=PA261|access-date=2009-11-01}}</ref>
+As the fruit body matures, the gills darken to cinnamon brown following [[Basidiospore|spore]] release. The [[spore print]] is brown to rust.
+
+===Microscopic features===
+Under a [[light microscope]], the spores are seen to be smooth, elliptical to oblong in shape, with dimensions of 3–5 by 2–3&nbsp;[[μm]].<ref name=Arora1986>{{Cite book |last=Arora |first=David |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/391/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |year=1986 |orig-date=1979 |edition=2nd |pages=391–92}}</ref> The [[basidia]] (the spore-bearing cells) are 4-spored, and have a narrow club-shape with dimension of 18–22 by 3.5–4.5&nbsp;μm. The gill [[cystidia]] are seen to stain blue when [[aniline blue|cotton blue]] dye and [[Lactic acid|lactate]] are applied.<ref name=Jordan2004/> The cap cuticle is made of an approximately 100&nbsp;μm thick layer of gelatinous hyphae that are about 2–4&nbsp;μm thick.<ref name=Smith1968>{{cite book | title=The North American Species of Pholiota | publisher=Hafner Publishing Company | url=http://quod.lib.umich.edu/cgi/t/text/pageviewer-idx?c=fung1tc;cc=fung1tc;sid=6bd98d17c290d2575057a9d5d63f6584;rgn=full%20text;idno=agj9559.0001.001;view=image;seq=212;page=root;size=s;frm=frameset;|location=New York, NY|year=1968|author=Smith AH|author-link=Alexander Hanchett Smith|pages=206–208 | access-date=2009-11-01}}</ref> The gelatinous hyphae are only present on the cap surface, not the surface of the stem; these local differences in cell structure explain the ease with which the scales are sloughed off the cap, but not the stems of the fruit bodies.<ref>{{cite journal |author=Sawyer WH|year=1917 |title=Development of some species of ''Pholiota'' |journal=Botanical Gazette |volume=64 |issue=3 |pages=206–29|jstor=2469479|doi=10.1086/332114|doi-access=free |url=https://www.biodiversitylibrary.org/partpdf/223919 }}</ref> The macroscopic and microscopic characteristics of the [[mycelium|mycelia]] of this species grown in [[microbiological culture|culture]] have been described in detail.<ref>{{cite journal |vauthors=Klán J, Baudišová D, Rulfová I |year=1989 |title=Cultural, enzymatic and cytological studies in the genus ''Pholiota'' |journal=Mycotaxon |volume=36 |issue=1 |pages=249–71 }}</ref>
+
+===Edibility===
+''Pholiota flammans'' fruit bodies bear no distinctive smell and taste mild to slightly bitter. While nonpoisonous,<ref name="Miller 2006">{{cite book|last=Miller Jr.|first=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=260|author-link=Orson K. Miller Jr.}}</ref> some authors regard the mushroom as inedible,<ref name=Bessette1997/><ref name=FungiOfPoland>{{cite web | title=''Pholiota flammans'' | publisher=grzyby.pl|work=Fungi of Poland | url=http://www.grzyby.pl/gatunki/Pholiota_flammans.htm | access-date=2009-11-01}}</ref><ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=201}}</ref> while others consider it [[edible mushroom|edible]]<ref name=Arora1986/><ref name=Boa2004>{{cite book |author= Boa E|title=Wild Edible Fungi: A Global Overview Of Their Use And Importance To People (Non-Wood Forest Products) |publisher=Food & Agriculture Organization of the UN|year=2004 |page=114 |isbn=92-5-105157-7|url=https://books.google.com/books?id=Zd2NlcNZgvcC&q=Pholiota+flammans&pg=PA114|access-date=2009-11-01}}</ref> or of unknown edibility.<ref name=Peterson>{{cite book |author1=V. B. McKnight |author2=R. T. Peterson |title=A Field Guide to Mushrooms: North America |publisher=Houghton Mifflin Harcourt |location=New York |year=1998 |page=272 |isbn=0-395-42101-2|url=https://books.google.com/books?id=kSdA3V7Z9WcC&q=Pholiota+flammans&pg=RA1-PA272}}</ref>
+
+===Similar species===
+
+
+Other members of the genus ''[[Pholiota]]'' can appear similar, especially ''[[Pholiota squarrosa]]'' which commonly forms large tufts at the base of [[deciduous]] as well as [[conifer]]ous trees. ''P.&nbsp;squarrosa'' tends to be a less intense yellow color than ''P.&nbsp;flammans''. ''[[Pholiota adiposa|P.&nbsp;adiposa]]'' is also similar, but prefers to grow on dead [[hardwood]]s;<ref name=Arora1986/> unlike ''P.&nbsp;flammans'', it has gelatinous scales on the stem as well as the cap.<ref name=McKnight1987/> ''[[Pholiota aurivella|P.&nbsp;aurivella]]'' is larger and less bright than ''P.&nbsp;flammans''.<ref>{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC&pg=PA175|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=175}}</ref>
+
+The North American species once described by [[Alexander Hanchett Smith|Alexander H. Smith]], ''P.&nbsp;kauffmaniana'', is closely related to ''P.&nbsp;flammans'', but differs in having a more distinctly viscid cap.<ref>{{cite journal |author=Smith AH |year=1944 |title=New North American Agarics |journal=Mycologia |volume=36 |issue=3 |pages=242–62 |doi=10.2307/3754821 |jstor=3754821 }}</ref> Smith was later to revise his opinion on the existence of ''P.&nbsp;kauffmaniana'' as a unique species—he believed that environmental variations in humidity were the cause of differences in the cap cuticle gelatinization observed in Pholiotas collected from different North American locales.<ref name=Smith1968/> ''P.&nbsp;kauffmaniana'' is now considered [[synonym (taxonomy)|synonymous]] with ''P.&nbsp;flammans''.<ref name=Bas1988>{{cite book |author=Bas C|title=Flora Agaricina Neerlandica : Critical Monographs on Families of Agarics and Boleti Occurring in the Netherlands |publisher=Taylor & Francis |year=1988 |pages=90–91 |isbn=978-90-6191-860-8|url=https://books.google.com/books?id=SLSxG_rYhPMC&q=Pholiota+flammans&pg=PA90|access-date=2009-11-01}}</ref>
+
+==Habitat and distribution==
+Being [[saprobic]], ''P. flammans'' is found exclusively on dead and decaying [[tree stump|stumps]] and [[trunk (botany)|trunks]] of coniferous trees, with fruit bodies appearing in [[Fascicle (botany)|tuft]]s or singly, from summer to autumn.<ref name=MushroomExpert/> It is a fungus with a wide geographical distribution in [[Taiga|boreal]] and [[temperate]] regions,<ref name=Bas1988/> and may be considered common<ref name=Bas1988/> to rare<ref name=Jordan2004/> depending upon the region in which it occurs. It is found throughout Europe (from the [[British Isles]] to Russia) and North America (southern Canada and the United States<ref name=Peterson/>). The species has also been collected in Asia, including India<ref>{{cite journal |vauthors=Tewari VP, Singh RN |year=1973 |title=New records of Agaricales from India |journal=Norwegian Journal of Botany |volume=20 |issue=1 |pages=21–25 |issn=0300-1156}}</ref> and China.<ref>{{cite book |title=Higher fungi of tropical China |author= Zhuang W|year=2001 |publisher=Mycotaxon Ltd |isbn=978-0-930845-13-1 |page=463}}</ref>
+
+==See also==
+*[[List of Pholiota species|List of ''Pholiota'' species]]
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==External links==
+*{{Commons-inline|Pholiota flammans}}
+*{{IndexFungorum|174969}}
+
+{{good article}}
+{{Taxonbar|from=Q1409447}}
+
+[[Category:Strophariaceae]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi described in 1783]]
+[[Category:Taxa named by August Batsch]]
+[[Category:Fungus species]]

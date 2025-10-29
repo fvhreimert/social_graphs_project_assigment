@@ -1,0 +1,54 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Amanita_farinosa.jpg
+| image_caption =
+| status = G3
+| status_system = TNC
+| status_ref = <ref name=NS>{{cite NatureServe |id=2.125794 |title=''Amanita farinosa'' |access-date=17 April 2025}}</ref>
+| genus = Amanita
+| species = farinosa
+| authority = (Schw.)
+}}
+{{Mycomorphbox
+| name = ''Amanita farinosa''
+| whichGills = free
+| capShape = flat
+| capShape2 = convex
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = white
+| howEdible = poisonous
+}}
+
+'''''Amanita farinosa''''', commonly known as the '''floury amanita''''',''<ref>Siegel, Noah; Schwarz, Christian (September 1, 2024). ''Mushrooms of Cascadia: A Comprehensive Guide to Fungi of the Pacific Northwest''. Humboldt County, CA: Backcountry Press. p. 54. {{ISBN|9781941624197}}.</ref> '''eastern American floury amanita''' or the '''American floury amanita''',<ref name=NGSWG>{{NGSWG}}</ref> is a North American [[poisonous mushroom]] of the genus ''[[Amanita]]'',<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=19}}</ref> a genus of fungi including some of the most deadly mushrooms.
+
+==Taxonomy==
+Two recent molecular studies show that ''A.&nbsp;farinosa'' is part of a subgroup within ''[[Amanita]]'' with its close relatives ''[[Amanita muscaria|A.&nbsp;muscaria]]'', ''[[Amanita gemmata|A.&nbsp;gemmata]]'' and ''[[Amanita roseotincta|A.&nbsp;roseotincta]]''.<ref>Moncalvo J-M, Drehmel D, & Vilgalys R. (2000).  Variation in modes and rates of evolution in nuclear and mitochondrial ribosomal DNA in the mushroom genus ''Amanita'' (Agaricales, Basidiomycota): phylogenetic implications.  ''Molecular Phylogenetic and Evolution'' '''16''':48-63.</ref><ref>Drehmel D, Moncalvo J-M, & Vilgalys R. (1999).  Molecular phylogeny of ''Amanita'' based on large subunit ribosomal DNA sequences: implications for taxonomy and character evolution.
+''Mycologia'' '''91''':610-618</ref>
+
+==Description==
+The cap is {{Convert|2.5–7|cm|abbr=off|frac=2}} in diameter, domed in young and flat in older specimens, with a striate margin. It is whitish grey and covered with brownish grey volval or mealy material. The [[gill (mushroom)|gill]]s are white. They may be attached to the stem or free. They are close and crowded and not bruising. The stem, or the stipe, lacks a ring and at its base a smallish bulb or [[Volva (mycology)|volva]]. It measures up to 6.5&nbsp;cm high, 1&ndash;3&nbsp;cm thick. The stem is white to tan in color.<ref name=Mushroomexpert>Kuo, M. (2008, March). Amanita farinosa. Retrieved from the MushroomExpert.Com Web site: http://www.mushroomexpert.com/amanita_farinosa.html</ref> The spores are white. They are 5.5&ndash;8 x 6&ndash;8&nbsp;[[μm]] in measurement and inamyloid. The [[Basidiospore|spores]] are smooth and round to broadly elliptical. The flesh is white in color. It does not stain on exposure.<ref name="Mushroomexpert"/> In old specimens, the smell can be strong and that of [[mink]].
+
+The [[poisonous mushroom]] resembles some other members of its genus.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=528}}</ref>
+
+==Distribution and habitat==
+An uncommon mushroom, it is found in eastern North America from summer to autumn underwood [[hardwood]] trees.<ref name="audu" />
+
+==See also==
+*[[List of Amanita species|List of ''Amanita'' species]]
+
+==Footnotes==
+{{Reflist}}
+
+{{Amanitas}}
+{{Poisonous Amanitas}}
+{{Taxonbar|from=Q1934877}}
+
+[[Category:Amanita|farinosa]]
+[[Category:Poisonous fungi]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Central America]]
+[[Category:Fungi of Mexico]]
+[[Category:Fungi described in 1822]]
+[[Category:Fungus species]]

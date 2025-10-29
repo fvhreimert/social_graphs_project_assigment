@@ -1,0 +1,145 @@
+{{short description|Species of edible fungus in the family Morchellaceae}}
+{{Featured article}}
+{{Speciesbox
+| image = Morchella rufobrunnea 154543.jpg
+| image_caption =
+| genus = Morchella
+| species = rufobrunnea
+| authority = [[Gastón Guzmán|Guzmán]] & F.Tapia (1998)
+}}
+{{mycomorphbox
+| name = ''Morchella rufobrunnea''
+| capShape = conical
+| capShape2 = ovate
+| hymeniumType = smooth
+| stipeCharacter = bare
+| ecologicalType = saprotrophic
+| sporePrintColor = cream
+| sporePrintColor2 = yellow
+| howEdible = choice
+}}
+
+'''''Morchella rufobrunnea''''', commonly known as the '''blushing morel''', is a [[species]] of [[ascomycete]] fungus in the family [[Morchellaceae]]. A choice [[edible mushroom|edible]] species, the fungus was [[species description|described]] as new to science in 1998 by mycologists [[Gastón Guzmán]] and Fidel Tapia from collections made in [[Veracruz]], Mexico. Its distribution was later revealed to be far more widespread after several [[molecular phylogenetics|DNA studies]] suggested that it is also present in the [[West Coast of the United States]], [[Israel]], [[Australia]], [[Cyprus]], [[Malta]] and [[Switzerland]].
+
+''M.&nbsp;rufobrunnea'' grows in disturbed soil or in [[woodchips]] used in landscaping as a [[saprophytic|saprotroph]]. Reports from the Mediterranean under olive trees (''[[Olea europaea]]''), however, suggest the fungus may also be able to form [[wikt:facultative|facultative]] tree associations. Young [[ascocarp|fruit bodies]] have conical [[pileus (mycology)|caps]] with pale ridges and dark grayish  pits; mature specimens are yellowish to ochraceous-buff. The surface of the fruit body often bruises brownish orange to pinkish where it has been touched or injured, a characteristic for which the fungus is named, the New Latin ''rufobrunnea'' signifying "rufus brown". Mature fruit bodies can grow to a height of {{convert|9.0|–|15.5|cm|in|abbr=on}}. ''M.&nbsp;rufobrunnea'' differs from other ''[[Morchella]]'' species by its urban or suburban habitat preferences, in the color and form of the fruit body, the lack of a [[sinus (botany)|sinus]] at the attachment of the cap with the [[stipe (mycology)|stipe]], the length of the pits on the surface, and the bruising reaction. A process to [[fungiculture|cultivate]] morels now known to be ''M.&nbsp;rufobrunnea'' was described and patented in the 1980s.
+
+==Taxonomy and phylogeny==
+The first scientifically [[species description|described]] specimens of ''Morchella rufobrunnea'' were collected in June 1996 from the Ecological Institute of Xalapa and other regions in the southern Mexican [[Municipalities of Mexico|municipality]] of [[Xalapa|Xalapa, Veracruz]], which are characterized by a [[subtropical]] climate. The [[type locality (biology)|type locality]] is a [[mesophytic]] forest containing [[oak]], [[sweetgum]], ''[[Clethra]]'' and [[alder]] at an altitude of {{convert|1350|m|abbr=on}}.<ref name="Guzmán 1998"/> In a 2008 study, Michael Kuo determined that the "winter fruiting yellow morel"—erroneously referred to as ''[[Morchella deliciosa]]''—found in landscaping sites in the western United States was the same species as ''M.&nbsp;rufobrunnea''. According to Kuo,<ref name="Kuo 2008"/> [[David Arora]] depicts this species in his popular 1986 work ''[[Mushrooms Demystified]]'', describing it as a "[[coastal California]]n form of ''Morchella deliciosa'' growing in gardens and other suburban habitats".<ref name="Arora 1986"/> Kuo suggests that ''M.&nbsp;rufobrunnea'' is the correct name for the ''M.&nbsp;deliciosa'' used by western American authors.<ref name="Kuo 2005"/> Other North American morels formerly classified as ''deliciosa'' have since been recategorized into two distinct species, ''[[Morchella diminutiva]]'' and ''[[Morchella virginiana|M.&nbsp;virginiana]]'' (=''[[Morchella sceptriformis|M.&nbsp;sceptriformis]]'').<ref name="Kuo 2012"/>
+
+[[Molecular phylogenetics|Molecular analysis]] of [[nucleic acid sequence]]s from the [[internal transcribed spacer|internal transcribed spacer (ITS)]], the [[Eukaryotic elongation factors|elongation factor]] [[EEF-1|EF-1α]], and the [[RNA polymerase II|RNA polymerase II (rpb1, rpb2)]] regions, suggests that the genus ''[[Morchella]]'' is naturally divided into three [[lineage (evolution)|lineages]]. ''Morchella rufobrunnea'' and its sister-species ''[[Morchella anatolica|M.&nbsp;anatolica]]'', both belong to an early diverging lineage  that is [[basal (phylogenetics)|basal]] to the /Esculenta clade ("yellow morels") and the /Elata clade ("black morels").<ref name="O'Donnell 2011"/><ref name="Kanwal 2011"/><ref name="Barseghyan 2012"/><ref name="Taşkın 2012"/><ref name="Loizides 2021"/> [[ancestral reconstruction|Ancestral area reconstruction]] tests indicate that the genus has existed in its current form since the late [[Jurassic]] (roughly 154 million years ago), when it is estimated to have [[evolution|evolved]] from a common ancestor.<ref name="Du 2012b"/> Although the genus was originally assumed to have emerged in [[Western United States|western North America]], updated [[ancestral reconstruction]]s inferred from an enlarged 79-taxon database, suggest that the /Rufobrunnea lineage, and thus genus ''[[Morchella]]'', originated in the [[Mediterranean region]].<ref name="Loizides 2021"/>
+
+The [[botanical name|specific epithet]] ''rufobrunnea'' derives from the [[Latin]] roots ''ruf-'' (rufuous, reddish) and ''brunne-'' (brown).<ref name="Arora 1986"/> [[Vernacular name]]s used for the fungus include "western white morel",<ref name="Jones 2013"/> "blushing morel",<ref name="Kuo 2005"/> and—accounting for the existence of subtropical species in the "blushing clade"—"red-brown blushing morel".<ref name="Pilz 2007"/>
+
+==Description==
+{{multiple image
+| align     = left
+| direction = vertical
+| width     = 200
+| image1    = Morchella rufobrunnea 183115.jpg
+| caption1  = Tiny dark granules are on the apex of the stipe.
+| image2    = Morchella rufobrunnea 11174.jpg
+| caption2  = The translucent, egg-shaped spores are up to 24&nbsp;μm long.
+}}
+
+[[Ascocarp|Fruit bodies]] of ''M.&nbsp;rufobrunnea'' can reach {{convert|6|–|21|cm|in|abbr=on}} tall, although most are typically found in a narrower range, {{convert|9|–|15.5|cm|in|abbr=on|round=0.5}}. The conical to roughly cylindrical [[hymenophore]] (cap) is typically {{convert|6|–|12|cm|in|abbr=on}} high by {{convert|2|–|6|cm|in|abbr=on}} wide.<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=392–393|oclc=797915861}}</ref> Its surface is covered with longitudinal anastomosed ridges and crosswise veins that form broad, angular, elongated pits. Young fruit bodies are typically dark grey with sharply contrasting beige or buff ridges, while mature specimens fade to ochraceous-buff. The cylindrical [[stipe (mycology)|stipe]] is often strongly wrinkled, enlarged at the base and measures {{convert|30|–|70|cm|in|abbr=on}} by {{convert|1|–|2.5|cm|in|1|abbr=on}} thick. It is typically covered with a dark brown to greyish pruinescence, often fading at maturity, a useful character to discriminate it from similar species, such as ''[[Morchella tridentina|M. tridentina]]'' (=''[[Morchella frustrata]]''), or ''M.&nbsp;sceptriformis''. The stipe and hymenophore often exhibit ochraceous, orange or reddish stains, although this feature is neither constant nor exclusive to ''M.&nbsp;rufobrunnea'' and can be seen in a number of ''Morchella'' species, such as ''[[Morchella anatolica|M.&nbsp;anatolica]]'',<ref name="Loizides 2021"/> ''[[Morchella esculenta|M.&nbsp;esculenta]]'',<ref name="Clowez 2015"/> ''[[Morchella fluvialis|M.&nbsp;fluvialis]]'',<ref name="Clowez 2014"/> ''[[Morchella guatemalensis|M.&nbsp;guatemalensis]]'',<ref name="Guzmán 1998"/> ''[[Morchella palazonii|M.&nbsp;palazonii]]'',<ref name="Clowez 2015"/> and ''[[Morchella tridentina|M.&nbsp;tridentina]]''.<ref name="Loizides 2015"/>  
+
+In [[spore print|deposit]], the spores are pale orange to yellowish orange. [[Ascospore]]s are egg-shaped, measuring 20–24 by 14–16&nbsp;[[micrometre|μm]] when mature, but smaller (14.5–19 by 9–10&nbsp;μm) in immature fruit bodies. They are thin-walled, [[hyaline]] (translucent), and [[inamyloid]]. Although in normal light microscopy they appear smooth, they are longitudinally grooved when viewed in the appropriate staining medium (like heated [[lactophenol cotton blue]]) or under a [[scanning electron microscopy|scanning electron microscope]]. The cylindrical [[ascus|asci]] (spore-bearing cells) are 300–360 by 16–20&nbsp;μm with walls up to 1.5&nbsp;μm thick. [[Paraphyses]] measure 90–184 by 10–18.5&nbsp;μm (6–9&nbsp;μm thick if immature); they are hyaline, have 1–2 (–3) [[septum|septa]] in the lower half and slightly enlarged, subcapitate tips. The [[trama (mycology)|flesh]] is made of thin-walled, hyaline [[hypha]]e measuring 3–9&nbsp;μm wide. The stipe is a textura globosa, with scattered or locally fasciculate, polymorphic terminal elements measuring 15–70 × 12–16 μm.<ref name="Guzmán 1998"/><ref name="Loizides 2015"/><ref name="Loizides 2021"/>
+
+''Morchella rubobrunnea'' is an [[edible mushroom|edible fungus]];<ref name="Davis 2012"/> it has been described variously as "one of the tastiest members of the morel family",<ref name="Jones 2013"/> and alternately as "bland in comparison to other morel species".<ref name="Bone 2011"/> Individual specimens over {{convert|1|lb|kg}} have been reported.<ref name="Jones 2013"/>
+
+===Similar species===
+''[[Morchella anatolica]]'' is the sister-species of ''M. rufobrunnea'' and rather similar in appearance, but produces smaller and slender fruit bodies with very few or no transverse interconnecting ridges. Microscopically, both species have longitudinally grooved ascospores when viewed under a scanning electron microscope or in the appropriate staining medium, but the spores of ''M. anatolica'' are generally larger on average, measuring (22.5–)24–27(–32) by (12–)13–17(–20) μm. ''M. anatolica'' also has larger and differently shaped terminal hyphae ("hairs") on the stipe, frequently exceeding 100–200 μm.<ref name="Loizides 2021"/>
+
+''[[Morchella tridentina]]'' (=''[[Morchella frustrata]]'') is also [[rufescent]] and very similar to ''M. rufobrunnea''. It is found in mountainous forests and [[Maquis shrubland|maquis]] and forms a marked sinus at the attachment of the cap with the stem, which is pure white. At maturity, it develops more or less parallel, ladderlike interconnecting ridges. Microscopically, it often has moniliform paraphyses with septa extending in the upper half and has more regularly cylindrical or clavate 'hairs' on the stem, up to 100 μm long.<ref name="Loizides 2015"/> ''[[Morchella guatemalensis|M.&nbsp;guatemalensis]]'', found in Central America, has a color ranging from yellow to yellowish-orange, but never grey, and it has a more distinct reddish to [[wine (color)|wine red]] bruising reaction. Microscopically, it has smaller paraphyses, measuring 56–103 by 6.5–13&nbsp;μm. The [[New Guinea]]n species ''[[Morchella rigidoides|M.&nbsp;rigidoides]]'' has smaller fruit bodies that are pale [[ochre]] to yellow, without any grey. Its pits are less elongated than those of ''M.&nbsp;rufobrunnea'', and it has wider paraphyses, up to 30&nbsp;μm.<ref name="Guzmán 1998"/>
+
+''[[Morchella americana]]'' (=''M. esculentoides''), is widely distributed in North America, north of Mexico and has similar colours to mature fruit bodies of ''M.&nbsp;rufobrunnea'', but lacks the bruising reaction. ''M.&nbsp;diminutiva'', found in hardwood forests of eastern North America, has a smaller fruit body than ''M.&nbsp;rufobrunnea'', up to {{convert|9.4|cm|in|abbr=on}} tall and up to {{convert|2.7|cm|in|abbr=on}} wide at its widest point. ''M.&nbsp;sceptriformis'' (=''M.&nbsp;virginiana'') is found in [[riparian zone|riparian]] and [[Upland and lowland (freshwater ecology)|upland]] ecosystems from [[Virginia]] to northern [[Mississippi]], usually in association with the [[American tulip tree]] (''Liriodendron tulipifera'').<ref name="Kuo 2012"/> ''[[Morchella elata|M. elata]]'' and ''[[Morchella semilibera|M.&nbsp;semilibera]]'' are also similar.<ref name=":0" />
+
+==Habitat and distribution==
+A predominantly [[saprophytic]] species, ''Morchella rufobrunnea'' fruit bodies grow solitary or in clusters in disturbed soil or [[woodchips]] used in landscaping. Large numbers can appear the year after wood mulch has been spread on the ground.<ref name="Davis 2012"/> Typical disturbed habitats include fire pits, near [[compost]] piles, logging roads, and dirt basements.<ref name="urlMykoWeb"/> Fruiting usually occurs in the spring, although fruit bodies can be found in these habitats most of the year. 
+
+In the American continent, ''Morchella rufobrunnea'' ranges from Mexico through [[California]] and [[Oregon]].<ref name="Kuo 2008"/> It has been hypothesised to have been introduced to central [[Michigan]] from California<ref name="Kuo 2012"/> and is one of seven ''Morchella'' species that have been recorded in Mexico.<ref name="Guzmán 1998"/> In 2009, Israeli researchers used molecular genetics to confirm the identity of the species in northern Israel, where it was found growing in gravelly disturbed soil near a newly paved path at the edge of a grove. This was the first documented appearance of the fungus outside the American continent. Unlike North American populations that typically fruit for only a few weeks in spring, the Israeli populations have a long-season [[ecotype]], fruiting from early November to late May (winter and spring). This period corresponds to the rainy season in Israel (October to May), with low to moderate temperatures ranging from {{convert|15|–|28|C|F}} during the day and {{convert|5|–|15|C|F}} at night.<ref name="Masaphy 2009"/> 
+
+In [[Cyprus]], the fungus is frequently reported from coastal, urban and suburban areas under olive trees (''[[Olea europaea]]'').<ref name="Loizides 2015"/><ref name="Loizides 2016"/> It has also been reported from the island of [[Malta]] and [[Switzerland]].<ref name="Loizides 2021"/>
+
+==Cultivation==
+
+''Morchella rufobrunnea'' is the morel that is [[Fungiculture|cultivated]] commercially per [[US patent]]s 4594809<ref name="Ower 1986"/> and 4757640.<ref name="Kuo 2012"/><ref name="Ower 1988"/> This process was developed in 1982 by Ronald Ower with what he thought was ''[[Morchella esculenta]]'';<ref name="Ower 1986"/> ''M.&nbsp;rufobrunnea'' had not yet been described. The cultivation protocol consists of preparing a [[Spawn (biology)#Fungi|spawn]] culture that is mixed with nutrient-poor soil. This mixture is laid on nutrient-rich soil and kept sufficiently moist until fruiting. In the nutrient-poor substrate, the fungus forms [[sclerotium|sclerotia]]—hardened masses of mycelia that serve as food reserves. Under appropriate environmental conditions, these sclerotia grow into morels.<ref name="Stamets 2000"/>
+
+The fruit bodies of ''Morchella rufobrunnea'' have been cultivated under controlled conditions in laboratory-scale experiments. [[Primordium|Primordia]], which are tiny nodules from which fruit bodies develop, appeared two to four weeks after the first watering of pre-grown sclerotia incubated at a temperature of {{convert|16|to|22|C|F}} and 90% [[humidity]]. Mature fruit bodies grew to {{convert|7|to|15|cm|in|0|abbr=on}} long.<ref name="Masaphy 2010"/>
+
+The early stages of fruit body development can be divided into four discrete stages. In the first, disk-shaped knots measuring {{convert|0.5|–|1.5|mm|in|2|abbr=on}} appear on the surface of the [[substrate (biology)|substrate]]. As the knot expands in size, a primordial stipe emerges from its center. The stipe lengthens, orients upward, and two types of hyphal elements develop: long, straight and smooth basal hairy hyphae and short stipe hyphae, some of which are inflated and project out of a cohesive layer of tightly packed hyphal elements. In the final stage, which occurs when the stipe is {{convert|2|–|3|mm|in|2|abbr=on}} long, immature caps appear that have ridges and pits with distinct filament-like [[paraphysis|paraphyses]]. Extracellular [[mucilage]] that covers the ridge layer imparts shape and rigidity to the tissue and probably protects it against dehydration.<ref name="Masaphy 2005"/>
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Arora 1986">{{cite book |author=Arora D. |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=Ten Speed Press |location=Berkeley, California |year=1986 |isbn=978-0-89815-169-5 |url-access=registration |url=https://archive.org/details/mushroomsdemysti00aror_0 }}</ref>
+
+<ref name="Barseghyan 2012">{{cite book |vauthors=Barseghyan GS, Kosakyan A, Isikhuemhen OS, Didukh M, Wasser SP |chapter=Phylogenetic analysis within genera ''Morchella'' (Ascomycota, Pezizales) and ''Macrolepiota'' (Basidiomycota, Agaricales) inferred from nrDNA ITS and EF-1α sequences |title=Systematics and Evolution of Fungi |veditors=Misra JK, Tewari JP, Desmukh SK |series=Progress in Mycological Research |date=10 January 2012 |publisher=Science Publishers |volume=2 |location=Boca Raton, Florida |pages=159–205 |isbn=978-1-57808-723-5}}</ref>
+
+<ref name="Bone 2011">{{cite book |author=Bone E. |title=Mycophilia: Revelations from the Weird World of Mushrooms |publisher=Rodale |year=2011 |location=New York, New York |page=137 |isbn=978-1-60961-987-9}}</ref>
+
+<ref name="Clowez 2014">{{cite journal |vauthors=Clowez P, Alvarado P, Becerra M, Bilbao T, Moreau PA |year=2014 |title=''Morchella fluvialis'' sp. nov. (Ascomycota, Pezizales): A new but widespread morel in Spain |journal=Boletín de la Sociedad Micológica de Madrid |volume=38 |issue=2 |pages=251–260}}</ref>
+
+<ref name="Clowez 2015">{{cite journal |vauthors=Clowez P, Bellanger JM, Romero L, Moreau PA |year=2015 |title=''Morchella palazonii'' sp. nov. (Ascomycota, Pezizales): une nouvelle morille méditerranéenne. Clé des Morchella sect. Morchella en Europe |journal=Documents Mycologigues |volume=XXXVI|pages= 71–84 }}</ref>
+
+<ref name="Davis 2012">{{cite book |vauthors=Davis RM, Sommer R, Menge JA |title=Field Guide to Mushrooms of Western North America |year=2012 |publisher=University of California Press |location=Berkeley, California |isbn=978-0-520-95360-4 |page=392 |url=https://books.google.com/books?id=obp7jddvjt4C&pg=PA392}}</ref>
+
+<ref name="Du 2012b">{{cite journal |vauthors=Du XH, Zhao Q, O'Donnell K, Rooney AP, Yang ZL |year=2012 |title=Multigene molecular phylogenetics reveals true morels (''Morchella'') are especially species-rich in China |journal=Fungal Genetics and Biology |doi=10.1016/j.fgb.2012.03.006 |pmid=22503770 |volume=49 |issue=6 |pages=455–469}}</ref>
+
+<ref name="Guzmán 1998">{{cite journal |vauthors=Guzmán G, Tapia F |title=The known morels in Mexico, a description of a new blushing species, ''Morchella rufobrunnea'', and new data on ''M. guatemalensis'' |journal=Mycologia |year=1998 |volume=90 |issue=4 |pages=705–14 |jstor=3761230 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0090/004/0705.htm |doi=10.2307/3761230 |access-date=2013-03-12 |archive-url=https://web.archive.org/web/20150923230042/http://www.cybertruffle.org.uk/cyberliber/59350/0090/004/0705.htm |archive-date=2015-09-23 |url-status=dead |url-access=subscription }}</ref>
+
+<ref name="Jones 2013">{{cite book |author=Jones B. |title=The Deerholme Mushroom Book: From Foraging to Feasting |url=https://books.google.com/books?id=X5BVD0F7J6MC&pg=PA19 |year=2013 |location=Victoria, British Columbia |publisher=TouchWood Editions |isbn=978-1-77151-003-5 |page=19}}</ref>
+
+<ref name="Kanwal 2011">{{cite journal |vauthors=Kanwal HK, Acharya K, Ramesh G, Reddy MS |title=Molecular characterization of ''Morchella'' species from the Western Himalayan region of India |journal=Current Microbiology |year=2011 |volume=62 |pages=1245–52 |doi=10.1007/s00284-010-9849-1 |issue=4 |pmid=21188589|s2cid=1394087 }}</ref>
+
+<ref name="Kuo 2005">{{cite book |author=Kuo M. |title=Morels |publisher=University of Michigan Press |location=Ann Arbor, Michigan |year=2005 |page=173 |isbn=978-0-472-03036-1}}</ref>
+
+<ref name="Kuo 2008">{{cite journal |author=Kuo M. |title=''Morchella tomentosa'', a new species from western North America, and notes on ''M. rufobrunnea'' |journal=Mycotaxon |year=2008 |volume=105 |pages=441–6 |url=http://www.mushroomexpert.com/Kuo_M_2008_Morchella_tomentosa.pdf }}</ref><!-- backup URL: http://www.cybertruffle.org.uk/cyberliber/59575/0105/0441.htm -->
+
+<ref name="Kuo 2012">{{cite journal |vauthors=Kuo M, Dewsbury DR, O'Donnell K, Carter MC, Rehner SA, Moore JD, Moncalvo JM, Canfield SA, Stephenson SL, Methven AS, Volk TJ |title=Taxonomic revision of true morels (''Morchella'') in Canada and the United States |journal=Mycologia |year=2012 |volume=104 |issue=5 |pages=1159–77 |doi=10.3852/11-375 |pmid=22495449 |s2cid=45219627 |url=http://thekeep.eiu.edu/cgi/viewcontent.cgi?article=1192&context=bio_fac|url-access=subscription }}</ref>
+
+<ref name="Loizides 2015">{{cite journal |vauthors=Loizides M, Alvarado P, Clowez P, Moreau PA, de la Osa LR, Palazón A |title=''Morchella tridentina'', ''M. rufobrunnea'', and ''M. kakiicolor'': a study of three poorly known Mediterranean morels, with nomenclatural updates in section ''Distantes'' |journal=Mycological Progress |year=2015 |volume=14 |issue=3 |page=1030 |article-number=13 |doi=10.1007/s11557-015-1030-6|bibcode=2015MycPr..14...13L |s2cid=16132175 }}</ref>
+
+<ref name="Loizides 2016">{{cite journal |vauthors=Loizides M, Bellanger JM, Clowez P, Richard F, ((Moreau P-A)) |title=Combined phylogenetic and morphological studies of true morels (''Pezizales'', ''Ascomycota'') in Cyprus reveal significant diversity, including ''Morchella arbutiphila'' and ''M. disparilis'' spp. nov. |journal=Mycological Progress |volume=15 |article-number=39 |year=2016 |issue=4 |doi=10.1007/s11557-016-1180-1|bibcode=2016MycPr..15...39L |s2cid=15163613 }}</ref>
+
+<ref name="Loizides 2021">{{cite journal |vauthors=Loizides M, Gonou Z, Fransuas G, Drakopoulos P, Sammut C, Martinis A, Bellanger JM|title=Extended phylogeography of the ancestral ''Morchella anatolica'' supports preglacial presence in Europe and Mediterranean origin of morels|journal=Mycologia |volume=113 |issue=3 |year=2021 |pages=559–573|doi= 10.1080/00275514.2020.1869489|pmid=33734016|s2cid=232298567 |url=https://hal.science/hal-04864354 }}</ref>
+
+<ref name="Masaphy 2005">{{cite journal |author=Masaphy S. |title=External ultrastructure of fruit body initiation in ''Morchella'' |journal=Mycological Research |year=2005 |volume=109 |issue=4 |pages=508–12 |doi=10.1017/S0953756204002126 |pmid=15912939}}</ref>
+
+<ref name="Masaphy 2009">{{cite journal |vauthors=Masaphy S, Zabari L, Goldberg D |title=New long-season ecotype of ''Morchella rufobrunnea'' from northern Israel |journal=Micologia Aplicada International |year=2009 |volume=21 |issue=2 |pages=45–55 |issn=1534-2581 |url=http://www.redalyc.org/pdf/685/68511349005.pdf }}</ref>
+
+<ref name="Masaphy 2010">{{cite journal |author=Masaphy S. |title=Biotechnology of morel mushrooms: Successful fruiting body formation and development in a soilless system |journal=Biotechnology Letters |year=2010 |volume=32 |issue=10 |pages=1523–7 |doi=10.1007/s10529-010-0328-3 |pmid=20563623|s2cid=9872942 }}</ref>
+
+<ref name="O'Donnell 2011">{{cite journal |vauthors=O'Donnell K, Rooney AP, Mills GL, Kuo M, Weber NS, Rehner SA |title=Phylogeny and historical biogeography of true morels (''Morchella'') reveals an early Cretaceous origin and high continental endemism and provincialism in the Holarctic |journal=Fungal Genetics and Biology |year=2011 |volume=48 |issue=3 |pages=252–65 |doi=10.1016/j.fgb.2010.09.006 |pmid=20888422 |url=http://www.cbs.knaw.nl/morchella/images/FGB%202011%20Morchella.pdf }}</ref>
+
+<ref name="Ower 1986">{{cite patent |invent1=Ower, Ronald D. |invent2=Mills, Gary L. |invent3=Malachowski, James A. |pubdate=17 June 1986 |fdate=29 April 1985 |title=Cultivation of ''Morchella'' |country=US |number=4594809 |status=patent |assign1=Neogen Corporation}}</ref>
+
+<ref name="Ower 1988">{{cite patent |invent1=Ower, Ronald D. |invent2=Mills, Gary L. |invent3=Malachowski, James A. |title=Cultivation of ''Morchella'' |country=US |number=4757640 |pubdate=19 July 1988 |fdate=11 June 1986 |status=patent |assign1=Neogen Corporation}}</ref>
+
+<ref name="Pilz 2007">{{cite report |vauthors=Pilz D, McLain R, Alexander S, Villarreal-Ruiz L, Berch S, Wurtz TL, Parks CG, McFarlane E, Baker B, Molina R, Smith JE |title=Ecology and Management of Morels Harvested From the Forests of Western North America. General Technical Report PNW-GTR-710 |year=2007 |publisher=United States Department of Agriculture, Forest Service, Pacific Northwest Research Station |location=Portland, Oregon |page=4 |url=http://www.fs.fed.us/pnw/publications/gtr710/pnw_gtr710a.pdf }}</ref>
+
+<ref name="Stamets 2000">{{cite book |author=Stamets P. |title=Growing Gourmet and Medicinal Mushrooms |edition=3rd |year=2000 |publisher=Ten Speed Press |location=Berkeley, California |page=421 |isbn=978-1-58008-175-7}}</ref>
+
+<ref name="Taşkın 2012">{{cite journal |vauthors=Taşkın H, Büyükalaca S, Hansen K, O'Donnell K |title=Multilocus phylogenetic analysis of true morels (''Morchella'') reveals high levels of endemics in Turkey relative to other regions of Europe |journal=Mycologia |year=2012 |volume=104 |issue=2 |pages=446–61 |doi=10.3852/11-180 |pmid=22123659|s2cid=207685509 }}</ref>
+
+<ref name="urlMykoWeb">{{cite web |vauthors=Wood M, Stevens F |title=''California Fungi—Morchella rufobrunnea'' |url=http://www.mykoweb.com/CAF/species/Morchella_rufobrunnea.html |website=MykoWeb |access-date=2014-03-29}}</ref>
+
+}}
+
+==External links==
+{{Commons category|Morchella rufobrunnea}}
+*{{IndexFungorum|445064}}
+*{{MycoBank|445064|''M.&nbsp;rufobrunnea''}}
+* [https://ascomycete.org/2000-Pezizales/Species/Morchella-rufobrunnea?mapid=340 ''Morchella rufobrunnea'' in Ascomycete.org]
+
+{{Taxonbar|from=Q3323817}}
+
+[[Category:Morchella|rufobrunnea]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1998]]
+[[Category:Fungi in cultivation]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Western Asia]]
+[[Category:Taxa named by Gastón Guzmán]]
+[[Category:Fungus species]]

@@ -1,0 +1,66 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+|image = Agaricus silvicola father and son.jpg
+|genus = Agaricus
+|species = silvicola
+|authority = ([[Carlo Vittadini|Vittad.]]) [[Charles Horton Peck|Peck]] (1872){{verify source|date=October 2022}}<!-- "Peck (1872)"? -->
+}}
+{{Mycomorphbox
+|name=''Agaricus silvicola''
+|whichGills=free
+|capShape=convex
+|capShape2=flat
+|hymeniumType=gills
+|stipeCharacter=ring
+|ecologicalType=saprotrophic
+|sporePrintColor=brown
+|howEdible=edible
+|howEdible2=allergenic
+}}
+
+'''''Agaricus silvicola''''', also known as the '''wood mushroom''' or '''woodland agaricus''',<ref name=Arora1986>{{Cite book |last=Arora |first=David |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/334/mode/2up |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |orig-date=1979 |edition=2nd |pages=334–335}}</ref> is a species of [[Agaricus]] mushroom related to the [[button mushroom]].
+
+==Taxonomy==
+
+Originally [[species description|described]] as the [[variety (botany)|variety]] ''Agaricus campestris'' var. ''silvicola'' by [[Carlo Vittadini]] in 1832, it was promoted to distinct species status by [[Charles Horton Peck]] in 1873.<ref name="urlMycoBank: Agaricus silvicola">{{cite web|url= http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=768&Fields=All|title=''Agaricus silvicola'' (Vittad.) Peck|publisher=[[MycoBank]]. International Mycological Association|accessdate=November 11, 2012}}</ref> It is a member of ''Agaricus'' section ''Arvenses'', a group of morphologically similar mushrooms.<ref>{{Cite journal |last1=Mitchell |first1=A. D. |last2=Bresinsky |first2=A. |date=1999-09-01 |title=Phylogenetic relationships of Agaricus species based on ITS-2 and 28S ribosomal DNA sequences |url=https://doi.org/10.1080/00275514.1999.12061086 |journal=Mycologia |volume=91 |issue=5 |pages=811–819 |doi=10.1080/00275514.1999.12061086 |issn=0027-5514|url-access=subscription }}</ref>
+
+Varieties with larger bases have been described as ''[[Agaricus abruptibulbus|A.&nbsp;abruptibulbus]]''.<ref name=":1">{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=191}}</ref>
+
+==Description==
+The [[pileus (mycology)|cap]] is light cream, and bruises yellow ochre when damaged. It is {{convert|5–15|cm|round=0.5|abbr=on}} in diameter, which makes it slightly smaller than its close relative ''[[Agaricus arvensis|A.&nbsp;arvensis]]''. The [[stipe (mycology)|stem]] is {{Cvt|5-15|cm|round=0.5}} long and usually bulbous at the base.<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=228|oclc=797915861}}</ref> It is much the same color as the [[pileus (mycology)|cap]], and has a fragile drooping [[annulus (mycology)|ring]]. The [[trama (mycology)|flesh]] is thin, white, and smells of [[almond]] or [[anise]].<ref name=Phillips06>{{cite book| first = Roger | last = Phillips| date = 2006 | title = Mushrooms | publisher=Pan MacMillan|isbn=0-330-44237-6}}</ref>
+
+''A.&nbsp;silvicola'', like other species in ''Agaricus'' section ''Arvenses'', exhibits a positive [[Chemical tests in mushroom identification|Schäffer's reaction]] and [[potassium hydroxide]] (KOH) reaction.<ref>{{Cite journal |last=Boniface |first=Tony |date=2020-01-01 |title=The use of odours in the identification of mushrooms and toadstools |journal=Field Mycology |language=en |volume=21 |issue=1 |pages=28–30 |doi=10.1016/j.fldmyc.2020.01.010 |s2cid=214123088 |issn=1468-1641|doi-access=free }}</ref> The [[Basidiospore|spores]] are brown, elliptical, and smooth.<ref name=":0" />
+
+=== Similar species ===
+It looks fairly similar to a young [[death cap]] (''Amanita phalloides'').<ref name="mykoweb">{{cite web |title=California Fungi: Agaricus silvicola |url=http://www.mykoweb.com/CAF/species/Agaricus_silvicola.html |website=MykoWeb |accessdate=January 18, 2008}}</ref> There are also numerous similar ''Agaricus'' species:
+*''[[Agaricus abruptibulbus]]<ref name=":1" />''
+*''[[Agaricus albolutescens]]<ref name=":1" />''
+*''[[Agaricus arvensis]]<ref name=":1" />'' – the horse mushroom
+*''[[Agaricus campestris]]'' – the field mushroom
+*''[[Agaricus hondensis]]<ref name=":0" />''
+*''[[Agaricus osecanus]]''<ref name="Phillips06" />
+*''[[Agaricus semotus]]<ref name=":0" />''
+*''[[Agaricus subrutilescens]]<ref name=":0" />''
+*''[[Agaricus xanthodermus]]'' – the yellow stainer<ref name=":0" />
+
+==Distribution and habitat==
+''Agaricus silvicola'' grows in both [[deciduous]] and [[conifer]]ous woodland in Europe (including Britain) and North America.<ref name=Arora1986/> It has also been reported in [[South Asia]], namely [[Bangladesh]]<ref>{{Cite journal |last1=Das |first1=K. |last2=Aminuzzaman |first2=F. M. |last3=Akhtar |first3=N. |date=25 February 2017 |title=Diversity of fleshy macro fungi in mangrove forest regions of Bangladesh |url=https://www.researchgate.net/publication/330535834 |journal=Journal of Biology and Nature |volume=6 |issue=4}}</ref> and [[Pakistan]].<ref>{{Cite journal |last1=Razaq |first1=A. |last2=Shahzah |first2=S. |date=2007 |title=Agaricus silvicola, a new record from Pakistan |url=http://pakbs.org/pjbot/PDFs/39(1)/PJB39(1)309.pdf |journal=Pakistan Journal of Botany |volume=39 |issue=1}}</ref> Appearing in the autumn, it is rarely seen in huge numbers, usually just a few, or solitary.<ref name=Phillips06/>
+
+==Edibility==
+It is [[edible mushroom|edible]] and popular in Europe.<ref>{{cite web|url=http://www.mtsn.tn.it/bresadola/gallery.asp?code=137&lang=eng |title=Agaricus sylvicola (Vittad.) Peck |accessdate=January 18, 2008 |url-status=dead |archiveurl=https://web.archive.org/web/20110606010226/http://www.mtsn.tn.it/bresadola/gallery.asp?code=137&lang=eng |archivedate=June 6, 2011 }}</ref><ref>{{cite web|url=http://www.grzyby.pl/gatunki/Agaricus_silvicola.htm|title=Agaricus silvicola (Vittad.) Peck (1887)|accessdate=January 18, 2008}}</ref> It is suspected to have caused occasional adverse reactions in North America.<ref name=mykoweb/>
+
+==See also==
+{{Commons category}}
+*[[List of Agaricus species|List of ''Agaricus'' species]]
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q384480}}
+
+[[Category:Agaricus|silvicola]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1832]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]

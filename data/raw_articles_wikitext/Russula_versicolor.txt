@@ -1,0 +1,31 @@
+{{Short description|Species of fungus}}
+{{More citations needed|date=October 2021}}
+{{Speciesbox
+| image = Russula.versicolor2.-.lindsey.jpg
+| image_caption = 
+| genus = Russula
+| species = versicolor
+| authority = [[Jul.Schäff.]] (1931)
+}}
+
+'''''Russula versicolor''''' is a [[mushroom]] in the genus ''[[Russula]]''. It is considered inedible.<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |orig-date=2005 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=132}}</ref>
+
+==See also==
+*[[List of Russula species|List of ''Russula'' species]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IndexFungorum|255362}}
+*{{MycoBank|255362}}
+
+{{Taxonbar|from=Q1583649}}
+
+[[Category:Russula|versicolor]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi described in 1931]]
+[[Category:Fungus species]]
+
+
+{{Russulales-stub}}

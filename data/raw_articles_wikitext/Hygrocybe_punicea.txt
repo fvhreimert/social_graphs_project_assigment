@@ -1,0 +1,96 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Crimson Waxcap. Hygrocybe punicea (49055268862).jpg
+| image_caption = ''Hygrocybe punicea'', England
+| status = VU
+| status_system = IUCN3.1
+| status_ref = <ref name="iucn2022"/>
+| genus = Hygrocybe
+| species = punicea
+| authority = ([[Elias Magnus Fries|Fr.]]) [[Paul Kummer|P. Kumm.]] (1871)
+| synonyms = *''Agaricus puniceus'' {{small|[[Elias Magnus Fries|Fr.]] (1821)}}
+*''Hygrophorus puniceus''  {{small|(Fr.) Fr. (1838)}}
+*''Godfrinia punicea''  {{small|(Fr.) Herink (1958)}}
+*''Pseudohygrocybe punicea''  {{small|(Fr.) Kovalenko (1988)}}
+}}
+{{Mycomorphbox
+| name = ''{{PAGENAME}}''{{italic title}}
+| hymeniumType = gills
+| capShape = conical
+| capShape2 = umbonate
+| whichGills = adnexed
+| whichGills2 = free
+| stipeCharacter = bare
+| sporePrintColor = white
+| howEdible = not recommended
+}}
+
+'''''Hygrocybe punicea''''' is a [[species]] of [[agaric]] (gilled mushroom) in the [[family (biology)|family]] [[Hygrophoraceae]]. It has been given the recommended English name of '''crimson waxcap'''.<ref name=BMS/>
+
+The species has a European distribution, occurring mainly in agriculturally unimproved grassland. Records from East Asia, North America, and Australia require further research to see if they represent the same species.
+
+Threats to its habitat have resulted in the species being assessed as globally "[[vulnerable species|vulnerable]]" on the [[IUCN Red List of Threatened Species]]. It is not recommended for consumption due to its accumulating [[cadmium]]. 
+
+==Taxonomy==
+The species was first [[species description|described]] in 1821 by Swedish [[mycologist]] [[Elias Magnus Fries]] as ''Agaricus puniceus'', the Latin "puniceus" meaning "blood red". German mycologist [[Paul Kummer]] transferred it to the genus ''Hygrocybe'' in 1871.
+
+Recent [[Molecular phylogenetics|molecular]] research, based on [[cladistic]] analysis of [[DNA sequences]], has confirmed that ''Hygrocybe punicea'' belongs in ''[[Hygrocybe]]'' [[sensu stricto]].<ref name="Lodge 2014"/>
+
+==Description==
+[[Basidiocarps]] are [[agaricoid]], up to {{Convert|15|cm|frac=4}} tall, the cap convex to broadly [[umbo (mycology)|umbonate]] becoming flat, up to 15&nbsp;cm across. The cap surface is smooth, greasy to viscid, dull dark red to crimson becoming pale yellow to buff in places when dry. The [[lamella (mycology)|lamellae]] (gills) are waxy, dark red to buff with purple tints and yellowish margin. The [[stipe (mycology)|stipe]] (stem) is smooth but fibrillose and streaky, yellow to orange-red, whitish towards base, lacking a [[annulus (mycology)|ring]]. The [[spore print]] is white, the spores (under a microscope) smooth, [[inamyloid]], [[ellipsoid]], measuring about 8.5 to 10 by 4.5 to 5.5&nbsp;[[μm]].<ref name=Boertmann/>
+
+===Similar species===
+The north temperate ''[[Hygrocybe coccinea|H.&nbsp;coccinea]]'' (scarlet waxcap) is also scarlet, but normally much smaller and has a non-fibrillose stipe and a cap that is finely nodulose under a lens.<ref name=Boertmann/> The European ''[[Hygrocybe splendidissima]]'' (splendid waxcap) can be almost as large, but is scarlet, has a dry cap and non-fibrillose stipe, and has a distinct honey smell when rubbed or when drying.
+==Distribution and habitat==
+s]]
+The species is widespread but generally rare throughout Europe.<ref name="iucn2022"/> Like most other European waxcaps, it occurs in old, agriculturally unimproved, [[waxcap grassland|short-sward grassland]] (pastures and lawns). 
+
+Records from East Asia, North America (called '''scarlet waxy cap''' and occurring in woodland),<ref name="arora86" /> and Australia require further research to see if they represent the same species.<ref name="iucn2022" /> 
+
+== Ecology ==
+Recent research suggests waxcaps are neither [[mycorrhiza]]l nor [[saprotrophic]] but may be associated with mosses.<ref name="Seitzman"/>
+
+==Conservation==
+''Hygrocybe punicea'' is typical of [[waxcap grassland]]s, a declining habitat due to changing agricultural practices. As a result, the species is of global conservation concern and is listed as "vulnerable" on the IUCN Red List of Threatened Species.<ref name="iucn2022"/> ''Hygrocybe punicea'' also appears on the official or provisional national [[red list]]s of threatened fungi in several European countries, including Bulgaria,<ref name=Nationalredlist/> Croatia,<ref name=Nationalredlist/> Czech Republic,<ref name=Nationalredlist/> Denmark,<ref name=Danishredlist/> Estonia,<ref name=Nationalredlist/> Germany,<ref name=Germanredlist/> and Sweden.<ref name=Nationalredlist/>
+
+==Toxicity==
+Though sometimes claimed as edible, the [[cadmium]] it accumulates causes [[Mushroom poisoning|poisoning]] if consumed.<ref name="arora86" />
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Hygrocybe species|List of ''Hygrocybe'' species]]
+*[[List of fungi by conservation status]]
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="iucn2022">{{cite iucn |publisher=[[IUCN]] |title=''Hygrocybe punicea'' |author=Mešić, A |year=2019 |volume=2019 |article-number=e.T147321720A147993340 |doi=10.2305/IUCN.UK.2019-3.RLTS.T147321720A147993340.en |url=https://www.iucnredlist.org/species/147321720/147993340}}</ref>
+
+<ref name="arora86">{{cite book |last=Arora |first=David |author-link=David Arora |year=1986 |title=Mushrooms demystified: a comprehensive guide to the fleshy fungi |edition=2nd |location=Berkeley |publisher=Ten Speed Press |isbn=0-89815-169-4 |page=[https://archive.org/details/mushroomsdemysti00aror_0/page/114 114] |url-access=registration |url=https://archive.org/details/mushroomsdemysti00aror_0/page/114 }}</ref><ref name="BMS">{{cite web |author=Holden L. |url=http://www.britmycolsoc.org.uk/library/english-names/ |title=English names for fungi 2014 |date=July 2014 |publisher=[[British Mycological Society]] |access-date=2016-02-06 |archive-date=2015-09-23 |archive-url=https://web.archive.org/web/20150923194645/http://www.britmycolsoc.org.uk/library/english-names/ }}</ref>
+
+<ref name=Boertmann>{{cite book |title=The genus ''Hygrocybe'' |edition=2nd |author=Boertmann D. |year=2010 |publisher=Danish Mycological Society |location=Copenhagen |page=200 |isbn=978-87-983581-7-6}}</ref>
+
+<ref name="Seitzman">{{cite journal |vauthors=Seitzman BH, Ouimette A, Mixon RL, Hobbie EA, Hibbett DS |year=2011 |title=Conservation of biotrophy in Hygrophoraceae inferred from combined stable isotope and phylogenetic analyses |journal=Mycologia |volume=103 |issue=2 |pages=280–290 |doi=10.3852/10-195 |pmid=21139028|s2cid=318326 }}</ref>
+
+<ref name=Danishredlist>{{cite web |title=Den danske rødliste: ''Hygrocybe punicea'' |url=https://ecos.au.dk/forskningraadgivning/temasider/redlistframe/soeg-en-art#17346 |access-date=2022-05-02 }}</ref>
+
+<ref name=Germanredlist>{{cite web |title=Red List: ''Hygrocybe punicea'' |url=https://www.rote-liste-zentrum.de/en/Detailseite.html?species_uuid=aa2a6acc-cba0-4289-91e5-9ad4c3b797cb&species_organismGroup=Gro%C3%9Fpilze&q=hygrocybe%20punicea |publisher=Rote Liste Zentrum |access-date=2022-05-02}}</ref>
+
+<ref name=Nationalredlist>{{cite web |title=National red Lists |url=https://www.nationalredlist.org/search2/species-search/ |access-date=2022-05-02 |archive-date=2020-09-29 |archive-url=https://web.archive.org/web/20200929042305/https://www.nationalredlist.org/search2/species-search/ }}</ref>
+
+<ref name="Lodge 2014">{{cite journal |author=Lodge DJ |title=Molecular phylogeny, morphology, pigment chemistry and ecology in Hygrophoraceae (Agaricales) |journal=Fungal Diversity |year=2014 |volume=64 |issue=1 |pages=1–99 |doi=10.1007/s13225-013-0259-0 |s2cid=220615978 |display-authors=etal|url=https://iris.unito.it/bitstream/2318/136089/1/1205754_Molecular%20phylogeny.pdf |doi-access=free }} {{open access}}</ref>
+
+}}
+
+
+==External links==
+*[http://www.mykoweb.com/CAF/species/Hygrocybe_punicea.html California Fungi page on ''Hygrocybe punicea'']
+
+{{Taxonbar|from=Q42054}}
+
+[[Category:Hygrocybe|Punicea]]
+[[Category:Fungi of Europe]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungi described in 1821]]
+[[Category:Hygrophoraceae]]
+[[Category:Fungus species]]

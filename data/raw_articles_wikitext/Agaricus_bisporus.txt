@@ -1,0 +1,172 @@
+{{short description|Species of fungus}}
+{{redirect|Champignon|the Brazilian musician|Champignon (musician)}}
+{{Use dmy dates|date=January 2020}}
+{{Speciesbox
+ | name = Button mushroom
+ | image = ChampignonMushroom.jpg
+ | status = 
+ | status_system = 
+ | taxon = Agaricus bisporus
+ | authority = ([[Jakob Emanuel Lange|J.E.Lange]]) [[Emil J. Imbach|Imbach]] (1946)<ref name=Imbach1946/>
+ | synonyms = *''Psalliota hortensis'' f. ''bispora'' <small>J.E.Lange (1926)</small>
+}}
+{{mycomorphbox
+|name = ''Agaricus bisporus''
+|whichGills = free
+|capShape = convex
+|hymeniumType = gills
+|stipeCharacter = ring
+|ecologicalType = saprotrophic
+|sporePrintColor = brown
+|howEdible = choice
+}}
+
+'''''Agaricus bisporus''''', commonly known as the '''cultivated mushroom''', is a [[basidiomycete]] mushroom native to [[grassland]]s in [[Eurasia]] and [[North America]]. It is [[fungiculture|cultivated]] in more than 70 countries and is one of the most commonly and widely [[Edible mushroom|consumed mushrooms]] in the world. It has two color states while immature – white and brown – both of which have various names, with additional names for the mature state, such as '''chestnut''', '''portobello''', '''portabellini''', '''button''', '''cremini''', and '''champignon de Paris'''.
+
+''A. bisporus'' has some [[Mushroom poisoning|poisonous]] lookalikes in the wild, such as ''[[Entoloma sinuatum]]''.
+
+==Description==
+The [[Pileus (mycology)|pileus]] or cap of the original wild species is a pale grey-brown, with broad, flat scales on a paler background and fading toward the margins. It is first hemispherical before flattening out with maturity, typically  measuring {{convert|5|–|10|cm|in|abbr=off|0}} in diameter. The narrow, crowded [[Lamella (mycology)|gills]] are free and initially pink, then red-brown, and finally a dark brown with a whitish edge from the [[cheilocystidia]]. The cylindrical [[Stipe (mycology)|stipe]] is up to {{convert|6|cm|in|frac=2|abbr=on}} tall by {{convert|1-2|cm|in|frac=4|abbr=on}} wide and bears a thick and narrow [[Annulus (mycology)|ring]], which may be streaked on the upper side. The firm flesh is white, although it stains a pale pinkish-red on bruising.<ref>{{cite book|author =Zeitlmayr L|year=1976|title=Wild Mushrooms: An Illustrated Handbook|pages=82–83|publisher=Garden City Press, Hertfordshire|isbn=0-584-10324-7}}</ref><ref name=Carluccio03>{{cite book|author =Carluccio A. |year=2003|title=The Complete Mushroom Book|publisher=Quadrille|isbn=1-84400-040-0}}</ref>
+
+The [[spore print]] is dark brown. The spores are oval to round and measure approximately 4.5–5.5&nbsp;[[μm]] × 5–7.5&nbsp;μm, and the [[basidia]] usually two-spored, although two four-spored varieties have been described from the [[Mojave Desert]] and the [[Mediterranean Sea|Mediterranean]], with predominantly [[heterothallic]] and [[homothallic]] lifestyles, respectively.<ref>{{cite journal|doi=10.2307/3760617 |vauthors=Callac P, Billette C, Imbernon M, Kerrigan RW |title=Morphological, genetic, and interfertility analyses reveal a novel, tetrasporic variety of ''Agaricus bisporus'' from the Sonoran Desert of California|jstor=3760617|journal=[[Mycologia]]|volume=85|issue=5|pages=835–851|year=1993}}</ref><ref>{{cite journal |vauthors=Callac P, Imbernon M, Guinberteau J, Pirobe L, Granit S, Olivier JM, Theochari I |title=Discovery of a wild Mediterranean population of ''Agaricus bisporus'', and its usefulness for breeding work|journal=Mushroom Science|volume=15|pages=245–252|year=2000}}</ref>
+
+{{gallery|mode=packed
+|Agaricus bisporus Zuchtchampignon2.jpg|White ''Agaricus bisporus''
+|Agaricus bisporus mushroom.jpg|''A. bisporus'' being cultivated
+|Champignonnière Jodogne grotte Heyoule Eben Bassenge 01.jpg|Brown variety grown in a quarry
+|Agaricus bisporus (Cup mushroom, doubled).jpg|Two fused brown mushrooms
+}}
+
+===Similar species===
+The common mushroom could be confused with young specimens of a group of [[Mushroom poisoning|lethal mushrooms]] in the ''[[Amanita]]'' genus referred to as [[destroying angel]]s, but the latter may be distinguished by their [[Volva (mycology)|volva]] or cup at the base of the mushroom and pure white gills (as opposed to pinkish or brown of ''A.&nbsp;bisporus'').
+
+A more common and less dangerous mistake is to confuse ''Agaricus&nbsp;bisporus'' with ''[[Agaricus xanthodermus|A.&nbsp;xanthodermus]]'', an inedible mushroom found worldwide in grassy areas. ''A.&nbsp;xanthodermus'' has an odor reminiscent of [[phenol]]; its flesh turns yellow when bruised. This fungus causes [[nausea]] and vomiting in some people.
+
+The poisonous European species ''[[Entoloma sinuatum]]'' has a passing resemblance but has yellowish gills, turning pink, and lacks a ring.
+
+==Taxonomy==
+The common mushroom has a complicated [[Taxonomy (biology)|taxonomic]] history. It was first described by English botanist [[Mordecai Cubitt Cooke]] in his 1871 ''Handbook of British Fungi'', as a [[Variety (botany)|variety]] (var. ''hortensis'') of ''[[Agaricus campestris]]''.<ref name="Cooke1871">{{cite book |author=Cooke MC |title=Handbook of British Fungi |publisher=Macmillan and Co. |year=1871 |volume=1 |location=London |page=138}}</ref><ref name="url Fungorum - Species synonymy">{{cite web |title=Species Fungorum – Species synonymy |url=http://www.indexfungorum.org/Names/SynSpecies.asp?RecordID=531546 |url-status=dead |archive-url=https://web.archive.org/web/20110610071831/http://www.indexfungorum.org/Names/SynSpecies.asp?RecordID=531546 |archive-date=10 June 2011 |access-date=21 January 2010 |work=[[Index Fungorum]] |publisher=CAB International}}</ref> [[Danish people|Danish]] [[mycologist]] [[Jakob Emanuel Lange]] later reviewed a [[cultivar]] specimen, and dubbed it ''Psalliota hortensis'' var. ''bispora'' in 1926.<ref name="Lange1926">{{cite journal |author=Lange JE |year=1926 |title=Studies in the agarics of Denmark. Part VI. ''Psalliota'', ''Russula'' |journal=Dansk Botanisk Arkiv |volume=4 |issue=12 |pages=1–52}}</ref> In 1938, it was promoted to [[species]] status and renamed ''Psalliota bispora''.<ref name="Schaffer1938">{{cite journal |vauthors=Schäffer J, Møller FH |year=1939 |title=Beitrag zur Psalliota Forschung |journal=Annales Mycologici |language=de |volume=36 |issue=1 |pages=64–82}}</ref> Emil Imbach (1897&ndash;1970) imparted the current scientific name of the species, ''Agaricus bisporus'' after the genus ''Psalliota'' was renamed to ''Agaricus'' in 1946.<ref name="Cappelli84">{{cite book |author=Cappelli A. |title=Fungi Europaei: Agaricus |publisher=Giovanna Biella |year=1984 |place=[[Saronno]], Italy |pages=123–25 |language=it}}</ref> The [[specific name (botany)|specific epithet]] ''bispora'' distinguishes the two-spored basidia from four-spored [[Variety (botany)|varieties]].
+
+
+=== Names ===
+When immature and {{em|white}}, this mushroom may be known as:
+* common mushroom
+* white mushroom<ref name="MushroomCouncil-White">{{cite web |date=n.d. |title=White Button |url=https://www.mushroomcouncil.com/varieties/white-button/ |url-status=live |archive-url=https://web.archive.org/web/20200229140942/https://www.mushroomcouncil.com/varieties/white-button/ |archive-date=29 February 2020 |access-date=29 February 2020 |work=Fresh Mushrooms |publisher=[[Mushroom Council]]}}</ref> 
+* button mushroom<ref name="MushroomCouncil-White" /> 
+* cultivated mushroom<ref>{{Cite book |last=Arora |first=David |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |date=1986 |publisher=Ten Speed Press |isbn=978-0-89815-169-5 |edition=Second |location=Berkeley}}</ref>
+* table mushroom
+* champignon ([[French language|French]] for mushroom) de Paris
+When immature and {{em|brown}}, it may be known variously as:
+* Swiss brown mushroom
+* Roman brown mushroom
+* Italian brown mushroom
+* cremini (also crimini) mushroom<ref name="MushroomCouncil-Crimini">{{cite web |date=n.d. |title=Crimini |url=https://www.mushroomcouncil.com/varieties/crimini/ |url-status=live |archive-url=https://web.archive.org/web/20220807005913/https://www.mushroomcouncil.com/varieties/crimini/ |archive-date=7 August 2022 |access-date=29 February 2020 |work=Fresh Mushrooms |publisher=[[Mushroom Council]]}}</ref><ref name="GourmetSleuth2013">{{cite web |author=GourmetSleuth |date=11 November 2013 |title=Portobello (Portobella) Mushrooms |url=https://www.gourmetsleuth.com/articles/detail/portobello-mushrooms |url-status=usurped|archive-url=https://web.archive.org/web/20190110013801/https://www.gourmetsleuth.com/articles/detail/portobello-mushrooms |archive-date=10 January 2019 |access-date=9 January 2019 |website=Gourmet Sleuth}}</ref>
+* chestnut mushroom (not to be confused with ''[[Pholiota adiposa]]'')
+* baby bella<ref name="MushroomCouncil-Crimini" />
+
+When marketed in its mature state, the mushroom is brown with a cap measuring {{convert|4-6|in|cm|order=flip|abbr=on}}.<ref name="GourmetSleuth2013" /> This form is commonly sold under the names portobello,<ref name="GourmetSleuth2013" /><ref name="Lexico">{{Cite web |title=portobello {{!}} Definition of portobello by Lexico |url=https://www.lexico.com/en/definition/portobello |url-status=dead |archive-url=https://web.archive.org/web/20190831093638/https://www.lexico.com/en/definition/portobello |archive-date=31 August 2019 |access-date=2019-08-31 |website=Lexico Dictionaries {{!}} English |language=en}}</ref> portabella,<ref name="MushroomCouncil-Portabella">{{cite web |date=n.d. |title=Portabella |url=https://www.mushroomcouncil.com/varieties/portabella/ |url-status=live |archive-url=https://web.archive.org/web/20200229140911/https://www.mushroomcouncil.com/varieties/portabella/ |archive-date=29 February 2020 |access-date=29 February 2020 |work=Fresh Mushrooms |publisher=[[Mushroom Council]]}}</ref> or portobella. The etymology is disputed.<ref name="GourmetSleuth2013" /><ref name="Lexico" />
+
+==Distribution and habitat==
+This mushroom is commonly found worldwide in fields and grassy areas following rain, from late spring to autumn, especially in association with [[manure]].{{cn|date=August 2024}}
+
+==Cultivation==
+
+{| class="wikitable" style="float:right; clear:right; width:14em; text-align:center; margin-right:1em;"
+! colspan=2|Mushroom and truffle<br> production – 2022
+|-
+!  style="background:#ddf; | Country
+!  style="background:#ddf; | Millions of<br> [[tonne]]s
+|-
+| {{CHN}} || 45.4
+|-
+| {{JAP}} || 0.47
+|-
+| {{USA}} || 0.32
+|-
+| {{POL}} || 0.26
+|-
+| {{NLD}} || 0.24
+|-
+! World || 48.3
+|-
+|colspan=2|<small>Source: [[FAOSTAT]] of the [[United Nations]]<ref name="faostat">{{cite web|url=http://www.fao.org/faostat/en/#data/QC|title=Production of mushrooms and truffles in 2022, Crops/Regions/World list/Production Quantity/Year (pick lists)|date=2024|publisher=UN Food and Agriculture Organization, Corporate Statistical Database (FAOSTAT)|access-date=25 February 2024}}</ref></small>
+|}
+===Production===
+In 2022, world production of mushrooms (including [[truffle]]s) was 48 million tonnes, led by China with 94% of the total (table). Japan and the United States were secondary producers.  
+
+===History===
+The earliest scientific description of the commercial cultivation of ''A.&nbsp;bisporus'' was made by French botanist [[Joseph Pitton de Tournefort]] in 1707.<ref name=Spencer1985>{{cite book|author =Spencer DM|chapter=The mushroom–its history and importance|veditors=Flegg PB, Spencer DM, Wood DA|title=The Biology and Technology of the Cultivated Mushroom|publisher=[[John Wiley and Sons]]|place=[[New York City|New York]]|year=1985|pages=1–8|isbn=0-471-90435-X}}</ref> French agriculturist [[Olivier de Serres]] noted that transplanting mushroom [[mycelia]] would lead to the propagation of more mushrooms.
+
+Originally, cultivation was unreliable as mushroom growers would watch for good flushes of mushrooms in fields before digging up the mycelium and replanting them in beds of composted manure or inoculating 'bricks' of compressed litter, [[loam]], and manure. Spawn collected this way contained pathogens, and crops would be infected or not grow.<ref>{{harvnb|Genders|1969|p=19}}</ref> In 1893, sterilized, or pure culture, spawn was discovered and produced by the [[Pasteur Institute]] in Paris for cultivation on composted horse manure.<ref>{{harvnb|Genders|1969|p=18}}</ref>
+
+{{nutritional value
+| name=''Agaricus bisporus'', white raw
+| water=92.45 g
+| kJ=93
+| protein=3.09 g
+| fat=0.34 g
+| carbs=3.26 g
+| fiber=1 g
+| sugars=1.98 g
+| iron_mg=0.5
+| magnesium_mg=9
+| phosphorus_mg=86
+| potassium_mg=318
+| sodium_mg=3
+| zinc_mg=0.52
+| vitC_mg=2.1
+| thiamin_mg=0.081
+| riboflavin_mg=0.402
+| niacin_mg=3.607
+| pantothenic_mg=1.497
+| vitB6_mg=0.104
+| folate_ug=17
+| vitB12_ug=0.04
+| vitD_ug=0.2
+| source_usda = 1
+| note=[https://fdc.nal.usda.gov/food-details/169251/nutrients Link to USDA Database entry]
+}}
+
+Modern commercial varieties of the common agaricus mushroom were originally light brown. The white mushroom was discovered in 1925 growing among a bed of brown mushrooms at the Keystone Mushroom Farm in [[Coatesville, Pennsylvania]]. Louis Ferdinand Lambert, the farm's owner and a mycologist by training, brought the white mushroom back to his laboratory. As with the reception of white bread, it was seen as a more attractive food item and became grown and distributed.<ref>{{harvnb|Genders|1969|p=121}}</ref> Similar to the commercial development history of the [[navel orange]] and [[Red Delicious]] apple, cultures were grown from the mutant individuals. Most cream-colored store mushrooms marketed today are products of this 1925 chance natural mutation.
+
+''A. bisporus'' is cultivated in at least seventy countries worldwide.<ref name=Cappelli84/>
+
+==Nutrition==
+''A. bisporus'' mushrooms are 92% water, 3% [[carbohydrate]]s, 3% [[protein (nutrient)|protein]], and contain negligible [[fat]].
+
+In a reference amount of {{cvt|100|g}}, raw white mushrooms provide {{convert|93|kJ|kcal|abbr=off}} of [[food energy]] and are an excellent source (20% or more of the [[Daily Value]], DV) of the [[B vitamins]] [[riboflavin]], [[Niacin (nutrient)|niacin]], and [[pantothenic acid]]. Fresh mushrooms are also a good source (10–19% DV) of the [[mineral (nutrient)|dietary minerals]] [[phosphorus in biology|phosphorus]] and [[potassium in biology|potassium]].
+
+While fresh ''A. bisporus'' only contains 0.2 micrograms (8 IU) of [[vitamin D]] per 100&nbsp;g, the [[ergocalciferol]] (D<sub>2</sub>) content increases substantially to 11.2 micrograms (446 IU)<ref name=Haytowitz-USDA>{{cite web|author=Haytowitz DB|title=Vitamin D in mushrooms|url=https://www.ars.usda.gov/ARSUserFiles/80400525/Articles/AICR09_Mushroom_VitD.pdf|publisher=Nutrient Data Laboratory, US Department of Agriculture|access-date=16 April 2018|date=2009|archive-date=1 February 2021|archive-url=https://web.archive.org/web/20210201181749/https://www.ars.usda.gov/ARSUserFiles/80400525/Articles/AICR09_Mushroom_VitD.pdf|url-status=live}}</ref> after exposure to [[UV light]].<ref>{{cite news|url=https://www.latimes.com/archives/la-xpm-2008-mar-31-he-eat31-story.html|title=Mushrooms and vitamin D|work=[[Los Angeles Times]]|access-date=23 August 2003|archive-date=4 September 2011|archive-url=https://web.archive.org/web/20110904135924/http://articles.latimes.com/2008/mar/31/health/he-eat31|url-status=live}}</ref><ref>{{cite journal|vauthors=Koyyalamudi SR, Jeong SC, Song CH, Cho KY, Pang G |title=Vitamin D2 formation and bioavailability from ''Agaricus bisporus'' button mushrooms treated with ultraviolet irradiation |journal=[[Journal of Agricultural and Food Chemistry]]|volume=57|issue=8|pages=3351–5|date=April 2009|pmid=19281276|doi=10.1021/jf803908q}}</ref>
+
+==Gallery==
+{{gallery|mode=packed|
+File:Giant mushroom underside.jpg|Ventral view of a portobello cultivar with a bisected [[Stipe (mycology)|stipe]]|
+File:2014 11 Portobello rocket feta toasted baguette.jpg|Grilled portobello, [[feta]], and [[Eruca sativa|arugula]] salad on a toasted [[baguette]]|
+File:White Mushroom soup.JPG|Portobello soup with [[capsicum]] and a sprinkle of [[black pepper]]
+}}
+
+==See also==
+*{{Portal inline|Fungi}}
+*[[List of Agaricus species|List of ''Agaricus'' species]]
+
+==References==
+{{Reflist|2|refs=<ref name=Imbach1946>{{cite journal|author =Imbach EJ|year=1946|title=Pilzflora des Kantons Luzern und der angrenzen Innerschweiz|journal=Mitteilungen der naturforschenden Gesellschaft Luzern|volume=15|pages=5–85|language=de}}</ref>}}
+
+{{Sister links|''Agaricus bisporus''|auto=1}}
+===Sources===
+*{{cite book|last=Genders|first=Roy|title=Mushroom Growing for Everyone|year=1969|publisher=Faber|place=London|isbn=0-571-08992-5}}
+
+==Further reading==
+*{{Cite book |last=Benjamin |first=Denis R. |url=https://archive.org/details/mushroomspoisons0000benj/ |title=Mushrooms: poisons and panaceas—a handbook for naturalists, mycologists and physicians |publisher=WH Freeman and Company |year=1995 |isbn=0-7167-2600-9 |location=New York}}
+
+{{Taxonbar|from=Q227690}}
+{{Authority control}}
+
+[[Category:Agaricus|bisporus]]
+[[Category:Edible fungi]]
+[[Category:Fungi in cultivation]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1926]]
+[[Category:Fungus species]]
+[[Category:Fungi of Turkey]]

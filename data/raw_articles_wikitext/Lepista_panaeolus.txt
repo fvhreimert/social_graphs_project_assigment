@@ -1,0 +1,22 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Lepista.panaeolus.-.lindsey.jpg
+| genus = Lepista
+| species = panaeolus
+| authority = (Fr.) P.Karst.
+}}
+
+'''''Lepista panaeolus''''' is a species of [[fungus]] belonging to the family [[Tricholomataceae]].<ref name="GBIF">{{cite web |title=Lepista panaeolus (Fr.) P.Karst. |url=https://www.gbif.org/species/5242063 |website=www.gbif.org |access-date=7 February 2021 |language=en}}</ref>
+
+It has [[cosmopolitan distribution]].<ref name="GBIF" />
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q10557722}}
+
+[[Category:Lepista|panaeolus]]
+[[Category:Fungus species]]
+
+
+{{tricholomataceae-stub}}

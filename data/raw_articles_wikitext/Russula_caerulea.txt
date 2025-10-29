@@ -1,0 +1,66 @@
+{{Short description|Species of mushroom-forming fungus}}
+{{Speciesbox
+| image = Russula caerulea 342205542.jpg
+| taxon = Russula caerulea
+| authority = [[Elias Magnus Fries|Fr.]] (1838)
+| synonyms_ref = <ref name="Species Fungorum synonymy"/>
+| synonyms = *''Agaricus caeruleus'' {{small|[[Pers.]] (1801)}}
+*''Russula amara''  {{small|Kučera (1927)}}
+}}
+{{mycomorphbox 
+| name = ''Russula caerulea''
+| whichGills =  adnexed
+|whichGills2= free
+| capShape = convex
+|capShape2=umbonate
+| hymeniumType=gills
+| stipeCharacter= bare
+| sporePrintColor=ochre
+| howEdible=edible
+}}
+
+'''''Russula caerulea''''', commonly known as the '''humpback brittlegill''', is a member of the genus ''[[Russula]]'', whose members are also known as brittlegills. It is a dark [[wine (color)|vinaceous]] or purple-colored [[edible mushroom|edible]] mushroom, and grows with [[coniferous]] trees in late summer and autumn. It is found in Europe and North America.
+
+==Taxonomy==
+First [[species description|described]] by mycologist [[Christian Hendrik Persoon]] in his 1801 work ''Synopsis methodica fungorum'' as ''Agaricus caeruleus'', its [[specific name (botany)|specific epithet]] is the [[Latin]] ''caeruleus'' meaning "blue".<ref>{{cite book|author = Simpson DP| title = Cassell's Latin Dictionary  | publisher = Cassell Ltd.| date = 1979|edition = 5|location = London|page = 883| isbn=0-304-52257-0}}</ref> It was transferred to the genus ''Russula'' in 1838 by the Swedish father of mycology [[Elias Magnus Fries]]. The 1927 name ''Russula amara'' by Kučera is a [[synonym (biology)|synonym]].<ref name="Species Fungorum synonymy"/>
+
+==Description==
+The [[pileus (mycology)|cap]] is {{convert|3|–|10|cm|in|round=0.5|abbr=on}} in diameter. It is dark purplish-brown, with a dark, sometimes almost black centre. At first it is convex, or even nearly bell-shaped, but later flattens. It nearly always retains a broad pointed boss (umbo) in the cap centre which is a profile that is almost unique within the [[genus]]. The cap skin peels to two-thirds, and it later has a furrowed margin. The firm, white [[stipe (mycology)|stipe]] is {{convert|4|–|9|cm|in|round=0.5|abbr=on}} high, {{convert|1|–|2|cm|in|round=0.5|abbr=on}} wide and narrowly club-shaped. The [[Lamella (mycology)|gills]] are adnexed to almost free, and are pale ochre, giving a [[spore print]] of the same colour. They are quite closely spaced initially. The flesh is white and tastes mild, but the cap skin is bitter on the tongue.<ref name=Phillips06>{{cite book| author = Roger Phillips | year = 2006  | title = Mushrooms | publisher = Pan MacMillan | isbn = 0-330-44237-6|page = 25}}</ref>
+
+Spores are ellipsoid and ornamented. Size 8-9&nbsp;μm × 6.5-8&nbsp;μm.<ref>{{cite book |date=2012 |first=Stefan |first2=Chris |first3=Denys |isbn=978-0-00-746648-1 |last=Buczacki |last2=Shields |last3=Ovenden |location=London |publisher=HarperCollins Publ |title=Collins Fungi Guide: The most complete field guide to the mushrooms & toadstools of Britain & Ireland}}</ref> 
+
+===Similar species===
+''Russula atropurpurea'' ([[Julius Vincenz von Krombholz|Krombh.]]) Britzelm is infrequent with conifers, preferring deciduous woods, and forests. Its cap is never [[umbonate]], but usually depressed.
+
+''Russula viscida'' Kudrna has no umbo either, and is very rare. The cuticle of the cap hardly peels at all.<ref name=Phillips06/>
+
+==Distribution and habitat==
+''Russula caerulea'' appears in late summer and autumn. It is widespread in the northern [[temperate]] zones, Europe, Asia, and North America. It is probably [[mycorrhizal]] with pine trees (''[[Pinus]]''), on sandy soils.
+
+==Edibility==
+This mushroom is [[edible mushroom|edible]], but has a bitter cap skin after chewing.<ref name=Phillips06/>
+
+== Image gallery ==
+{{Gallery
+| Russula caerulea 342205538.jpg | Cap, gills and stipe
+| Russula caerulea 342205544.jpg | Spores
+}}
+
+==See also==
+*[[List of Russula species|List of ''Russula'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Species Fungorum synonymy">{{cite web |title=Synonymy: ''Russula caerulea'' Fr., Epicr. syst. mycol. (Upsaliae): 353 (1838) |url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=193054 |publisher=[[Species Fungorum]] |access-date=2 May 2021}}</ref>
+
+}}
+
+{{Taxonbar|from=Q999441}}
+
+[[Category:Russula|caerulea]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Asia]]
+[[Category:Edible fungi]]
+[[Category:Fungus species]]

@@ -1,0 +1,41 @@
+{{Short description|Species of fungus}}
+{{single source|date=October 2025}}
+{{no footnotes|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption =
+| taxon = Gymnopilus helvoliceps
+| authority = [[Miles Joseph Berkeley|Berk.]] & [[Moses Ashley Curtis|M.A. Curtis]]
+| synonyms =
+}}
+{{mycomorphbox
+| name = Gymnopilus helvoliceps
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+
+'''''Gymnopilus helvoliceps''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]].
+
+==See also==
+{{Portal|Fungi}}
+[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==External links==
+*''[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=451330 Gymnopilus helvoliceps]'' at [[Index Fungorum]]
+
+{{Taxonbar|from=Q5624819}}
+
+{{DEFAULTSORT:Gymnopilus helvoliceps}}
+[[Category:Gymnopilus|helvoliceps]]
+[[Category:Fungus species]]
+[[Category:Taxa named by Miles Joseph Berkeley]]
+[[Category:Taxa named by Moses Ashley Curtis]]
+
+
+{{hymenogastraceae-stub}}

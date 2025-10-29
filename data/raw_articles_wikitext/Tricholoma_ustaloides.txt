@@ -1,0 +1,50 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{Speciesbox
+| image = Tricholoma ustaloides 205382.jpg
+| taxon = Tricholoma ustaloides
+| authority = [[Henri Romagnesi|Romagn.]] (1954)
+}}
+{{mycomorphbox
+| name = ''Tricholoma ustaloides''
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = white
+| howEdible = inedible
+}}
+{{stack end}}
+
+'''''Tricholoma ustaloides''''' is a [[species]] of [[mushroom]] in the large genus ''[[Tricholoma]]''. It has a widespread distribution in Europe, where it is typically found in association with [[oak]] and [[beech]] trees.  Although generally considered inedible, it is consumed by some in Mexico.
+
+==Description==
+The [[Pileus (mycology)|cap]] is red-brown or chestnut-brown with a paler margin, very sticky when moist, and has a diameter of {{convert|4|to|8|cm|in|sigfig=2|abbr=on}}.<ref name="isbn90-5410-492-9">{{cite book |author=Bas, Cornelis |title=Flora agaricina Neerlandica: critical monographs on families of agarics and boleti occurring in the Netherlands|publisher=A.A. Balkema |location=Rotterdam |year=1988 |page=127 |isbn=90-5410-492-9}}</ref> The overall shape of the cap is bell-like when young, later flattening to a more irregular convex shape in maturity, and often developing a lobed appearance. The margins of the caps are usually turned inwards. The [[Lamella (mycology)|gills]] are crowded together, [[Lamella (mycology)|adnate]] or [[Lamella (mycology)|emarginate]] in attachment to the [[stipe (mycology)|stipe]], and white or a light [[ochraceous]] yellow with dark brown stains when old or bruised. The stipe is {{convert|4|to|10|cm|in|sigfig=2|abbr=on}} long by {{convert|1|to|2|cm|in|sigfig=1|abbr=on}} thick, roughly spindle-shaped ([[wikt:fusiform|fusiform]]), with red-brown [[fibrils]] and a sharply defined zone of white color at the stalk apex, especially in more mature specimens.<ref name="isbn0-89815-169-4"/> The [[trama (mycology)|flesh]] is white or cream, smelling strongly of [[flour|meal]], with a bitter taste.<ref>[http://www.grzyby.pl/gatunki/Tricholoma_ustale.htm Gryzyby―Fungi of Poland]</ref><ref name="isbn0-7153-0129-2"/>
+
+[[Spore]]s have a roughly spherical or ellipsoid shape, are [[hyaline]], smooth, non-[[amyloid]], and have dimensions of 5.5—7.0 x 4.5—5.5 [[micrometre|μm]].<ref name="isbn90-5410-492-9"/> [[Basidia]] are 4-spored and [[cystidia]] are absent.<ref name="isbn0-7153-0129-2"/>
+
+==Habitat and distribution==
+This [[mycorrhizal]] species typically grows in small groups, and is often found near trees in the genera [[Quercus]] and [[Beech|Fagus]].<ref name="isbn90-5410-492-9"/>
+
+Although relatively rare, it has a widespread distribution in [[Europe]], limited by the presence of its preferred tree hosts. Its first recorded appearance in [[Mexico]] was 1984.<ref>Aroche RM, Cifuentes J, Lorea F, Fuentes P, Bonavides J, Galicia H, Menendez E, Aguilar O, Valenzuela V. (1984). "Toxic and edible mushrooms in a community of the Valley of Mexico 1". ''Boletin de la Sociedad Mexicana de Micologia'' '''19''': 291—318.</ref>
+
+==Edibility==
+Despite its inedible status by some sources,<ref name="isbn0-89815-169-4">{{cite book |author=Arora, David |title=Mushrooms demystified: a comprehensive guide to the fleshy fungi |publisher=Ten Speed Press |location=Berkeley, Calif |year=1986 |page=[https://archive.org/details/mushroomsdemysti00aror_0/page/185 185] |isbn=0-89815-169-4 |url-access=registration |url=https://archive.org/details/mushroomsdemysti00aror_0/page/185 }} [https://archive.org/details/mushroomsdemysti00aror_0/page/185 <!-- quote=Tricholoma ustaloides. --> Internet Archive]</ref><ref name="isbn0-7153-0129-2">{{cite book |author=Jordan, Michael |title=The encyclopedia of fungi of Britain and Europe |publisher=David & Charles |location=Newton Abbot |year=1995 |page=183 |isbn=0-7153-0129-2 }} [https://books.google.com/books?id=bFMfytLn3bEC&pg=PA183&dq=Tricholoma+ustaloides Google Books]</ref> ''Tricholoma ustaloides'' is consumed by the inhabitants of [[Ajusco]] and [[Topilejo]], communities near [[Mexico City]].<ref>Reygadas F, Zamora-Martinez M, Cifuentes J. (1995). "Knowledge on wild edible mushrooms in the Ajusco and Topilejo communities near Mexico City". ''Revista Mexicana de Micologia'' '''11'''(0): 85—108.</ref>
+
+==See also==
+*[[List of North American Tricholoma|List of North American ''Tricholoma'']]
+*[[List of Tricholoma species|List of'' Tricholoma'' species]]
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q7840814}}
+
+[[Category:Tricholoma|ustaloides]]
+[[Category:Fungi described in 1954]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of Mexico]]
+[[Category:Fungi without expected TNC conservation status]]
+[[Category:Fungus species]]

@@ -1,0 +1,63 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Cortinarius gentilis group.jpg
+| image_caption = 
+| genus = Cortinarius
+| species = gentilis
+| authority = ([[Elias Magnus Fries|Fr.]]) Fr. (1838)
+| synonyms_ref = <ref name="urlMycoBank: Cortinarius gentilis"/>
+| synonyms = 
+''Agaricus helvolus'' <small>[[Pers.]] (1796)</small><br/>
+''Agaricus gentilis'' <small>Fr. (1821)</small><br/>
+''Telamonia gentilis'' <small>(Fr.) [[Friedrich Otto Wünsche|Wünsche]] (1877)</small><br/>
+''Lepiota helvola'' <small>(Pers.) [[Samuel Frederick Gray|Gray]] (1821)</small><br/>
+''Hydrocybe helvola'' <small>([[Jean Baptiste François Pierre Bulliard|Bull.]]) [[M.M.Moser]] (1953)</small>
+}}
+{{mycomorphbox
+| name = ''Cortinarius gentilis''
+| whichGills = adnexed
+| capShape = convex
+| hymeniumType = gills
+| stipeCharacter = cortina
+| ecologicalType = mycorrhizal
+| sporePrintColor = reddish-brown
+| howEdible = unknown
+| howEdible2 = deadly
+}}
+
+'''''Cortinarius gentilis''''' is a [[fungus]] of the subgenus ''[[Cortinarius|Telamonia]]'', normally found in North America and Europe.
+
+Previously reported to be a [[Mushroom poisoning|poisonous]] species, a 2003 Finnish study tested negative for toxicity.
+
+==Description==
+The [[Pileus (mycology)|cap]] is bright tan, [[umbonate]], and {{Convert|1-5|cm|frac=4}} wide.<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/444/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=444 |orig-date=1979}}</ref> The flesh is tan, with an odour of raw potatoes.<ref name=":0">{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=153–154}}</ref> The stem is up to {{Convert|10|cm|abbr=on|frac=2}} long,<ref name="Arora1986" /> resembles a root, and has yellow [[Veil (mycology)|veil]] remnants near the bottom.<ref name=":0" /> The gills are distant, similarly coloured to the cap but sometimes reddish with age.<ref name=":0" /> The [[spore print]] is rusty-brown.<ref name="Arora1986" />
+
+==Habitat and distribution==
+It can be found growing separate or in groups in moss under [[conifer]] trees. It can be found in North America's [[Pacific Northwest]] and [[Rocky Mountains]].<ref name="Arora1986" />
+
+==Alleged toxicity==
+In the 20th century, ''C.&nbsp;gentilis'' was considered [[Mushroom poisoning|poisonous]] in Finnish mycological publications<ref>{{cite journal|last=Schumacher|first=Trond|author2=Klaus Høiland |title=Mushroom poisoning caused by species of the genus ''Cortinarius'' Fries|journal=Archives of Toxicology|date=June 1983|volume=53|issue=2|pages=87–106|doi=10.1007/BF00302720|pmid=6349583|bibcode=1983ArTox..53...87S |s2cid=29016554 |issn=1432-0738}}</ref> (and deadly by mycologist [[David Arora]]).<ref name="Arora1986" /> It was reported to belong to subgenus ''Leprocybe'' and to contain the toxin [[orellanine]], but these details have since been disputed.<ref name=":0" />
+
+The claim of toxicity primarily stemmed from a study by Möttönen et&nbsp;al. (1975) and a case study by Hulmi et&nbsp;al. (1975). When a specimen from the former study was reexamined, it turned out to be labelled as the highly toxic [[Cortinarius rubellus|''C.&nbsp;speciosissimus'']]. The authors of a 2003 study analysed 28 Finnish samples of the species. An unspecific cell culture toxicity test and a feeding test on mice revealed no signs of toxicity.<ref name="Rogers">{{cite web |author=Hintikka |first=Eeva-Liisa |date=December 9, 2003 |title=A note on the claimed toxicity of ''Cortinarius gentilis'' |url=http://www.funga.fi/Karstenia/Karstenia_43-1_2003-2.pdf |url-status=live |archive-url=https://web.archive.org/web/20180721171340/http://www.funga.fi/Karstenia/Karstenia_43-1_2003-2.pdf |archive-date=2018-07-21 |access-date=October 2, 2020 |work=Funga}}</ref>
+
+==References==
+{{Reflist|refs=
+
+<ref name="urlMycoBank: Cortinarius gentilis">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=222010 |title=''Cortinarius gentilis'' (Fr.) Fr. 1838 |publisher=International Mycological Association |work=MycoBank |access-date=2011-03-19}}</ref>
+
+}}
+
+==External links==
+*{{Wikispecies-inline|Cortinarius gentilis|''Cortinarius gentilis''}}
+
+{{Taxonbar|from=Q2614222}}
+
+[[Category:Cortinarius|gentilis]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi described in 1796]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]
+
+
+{{Cortinariaceae-stub}}

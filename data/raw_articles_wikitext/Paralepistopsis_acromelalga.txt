@@ -1,0 +1,47 @@
+{{Speciesbox
+| image = Clitocybe acromelalga 99 11 2 0002.jpg
+| synonyms = ''Clitocybe acromelalga'' <small>[[T. Ichimura|Ichimura]] (1918)</small>
+| taxon = Paralepistopsis acromelalga
+| authority = ([[T. Ichimura|Ichimura]]) [[Alfredo Vizzini|Vizzini]] (2012)
+}}
+{{mycomorphbox 
+| name = ''Paralepistopsis acromelalga''
+| whichGills = 
+| capShape = depressed 
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = saprotrophic
+| sporePrintColor = white
+| howEdible = poisonous
+}}
+
+'''''Paralepistopsis acromelalga''''' is a [[basidiomycete]] [[fungus]] in the [[Tricholomataceae]] family. It was formerly classified as ''Clitocybe'' ''acromelalga''.<ref>{{Cite web |title=Species Fungorum - Paralepistopsis acromelalga (Ichimura) Vizzini, Mycotaxon 120: 261 (2012) |url=http://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=564342 |access-date=2022-07-19 |website=www.speciesfungorum.org}}</ref>
+
+== Taxonomy ==
+It was first [[Species description|described]] in 1918 by the mycologist [[T. Ichimura]] and classified as ''Clitocybe'' ''acromelalga''.<ref>{{Cite web |title=Species Fungorum - Clitocybe acromelalga Ichimura, Bot. Gaz., Chicago 65: 110 (1918) |url=http://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=208518 |access-date=2022-07-19 |website=www.speciesfungorum.org}}</ref>
+
+The ''[[Paralepistopsis]]'' genus was created in 2012 by the Italian mycologist [[Alfredo Vizzini]] to better classify two rare toxic species formerly located in the ''[[Clitocybe]]'' genus and this species was subsequently reclassified.<ref name=":02">{{Cite journal |last1=Vizzini |first1=Alfredo |last2=Ercole |first2=Enrico |date=2012-09-28 |title=Paralepistopsis gen. nov. and Paralepista (Basidiomycota, Agaricales) |journal=Mycotaxon |volume=120 |issue=1 |pages=253–267 |doi=10.5248/120.253|doi-access=free |hdl=2318/124414 |hdl-access=free }}</ref>
+
+== Habitat and distribution ==
+It has been found in Japan, South Korea and Mexico <ref name=":02"/>
+
+== Toxicity ==
+It was discovered to be poisonous in 1918, when symptoms of [[mushroom poisoning]] occurred within three days of consumption. It had been mistaken for the edible tawny funnel cap (''[[Paralepista flaccida]]'' formerly ''Lepista flaccida'').<ref>{{cite journal |last=Ichimura  |first=J |year=1918|title=A new poisonous mushroom |journal=Bot Gaz (Tokyo) |volume=65 |pages=10911}}</ref>
+
+Consumption of a related species, ''[[Paralepistopsis amoenolens]]'', from France has resulted in the same condition.<ref>{{cite journal|vauthors=Saviuc PF, Danel VC, Moreau PA, Guez DR, Claustre AM, Carpentier PH, Mallaret MP, Ducluzeau R |year=2001|title=Erythromelalgia and mushroom poisoning |journal=J Toxicol Clin Toxicol |volume=39 |issue=4 |pages=403–07|doi=10.1081/CLT-100105162 |pmid=11527236|s2cid=32805160 }}</ref><ref>{{cite journal |last=Diaz |first=James H.|date=February 2005 |title=Syndromic diagnosis and management of confirmed mushroom poisonings
+ |journal=Critical Care Medicine |volume=33 |issue=2 |pages= 427–36|doi=10.1097/01.CCM.0000153531.69448.49 |pmid=15699849|s2cid=24492593 }}</ref>
+
+That species is commonly known as the paralysis cap and has been shown to contain acromelic acids including [[acromelic acid A]] which is a potent [[neurotoxin]] with the chemical formula of {{chem2|C13H14N2O7}} and is associated with causing paralysis and seizures<ref>{{Cite web |last=PubChem |title=Acromelic acid A |url=https://pubchem.ncbi.nlm.nih.gov/compound/108086 |access-date=2022-07-19 |website=pubchem.ncbi.nlm.nih.gov |language=en}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q164329}}
+{{Authority control}}
+
+[[Category:Tricholomataceae]]
+[[Category:Paralepistopsis]]
+[[Category:Poisonous fungi]]
+[[Category:Fungi of Asia]]
+[[Category:Fungus species]]
+[[Category:Fungi described in 1918]]

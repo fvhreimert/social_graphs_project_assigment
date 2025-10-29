@@ -1,0 +1,77 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Agaricus augustus 2011 G1.jpg
+| genus = Agaricus
+| species = augustus
+| authority = [[Elias Magnus Fries|Fr.]]
+| synonyms = ''Psalliota augusta'' <small>(Fr.) Quél.</small><br />
+''Agaricus augustus'' var. ''perrarus'' <small>(Schulzer) Bon & Cappelli</small><ref>{{cite web|url=http://www.indexfungorum.org/Names/SynSpecies.asp?RecordID=205947 |title=''Agaricus augustus'' taxon record details at Index Fungorum |access-date=2010-01-14 |publisher=Index Fungorum |url-status=dead |archive-url=https://web.archive.org/web/20110610071233/http://www.indexfungorum.org/Names/SynSpecies.asp?RecordID=205947 |archive-date=2011-06-10 }}</ref>
+}}
+{{mycomorphbox
+| name = ''Agaricus augustus''
+| whichGills = free
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=ring
+| ecologicalType=saprotrophic
+| sporePrintColor=brown
+| howEdible=choice
+}}
+
+'''''Agaricus augustus''''', known commonly as '''the prince''', is a [[basidiomycete]] fungus of the genus ''[[Agaricus]]''. It is generally [[edible mushroom|edible]], but [[bioaccumulation|bioaccumulates]] the metal [[cadmium]].
+
+==Taxonomy==
+According to Heinemann's (1978) popular division of ''Agaricus'', ''A.&nbsp;augustus'' belongs to section ''Arvenses''.<ref name=Bas1988>{{cite book |author =Noordeloos M. E. |title=Volume 5 of Flora Agaricina Neerlandica: Critical Monographs on Families of Agarics and Boleti Occurring in the Netherlands |publisher=CRC Press |year=2001 |pages=44–45 |isbn=90-5410-495-3|url=https://books.google.com/books?id=YaBiXhgkfccC&q=bibliogroup:%22Flora+Agaricina+Neerlandica:+Critical+Monographs+on+Families+of+Agarics+and+Boleti+Occurring+in+the+Netherlands%22|access-date=2010-01-13}}</ref> The system proposed by Wasser (2002) classifies ''A.&nbsp;augustus'' within subgenus ''Flavoagaricus'', section ''Majores'', subsection ''Flavescentes''.<ref name="lacheva">{{Cite journal|last=Lacheva |first=Maria |title=Genus ''Agaricus'' L. in Bulgaria–Taxonomy, Ecology, Chorology and Economic Importance (in Bulgarian) |journal=Agrarian University - Plovdiv |pages=18–19 |date=January 2006 |url=http://www.botanica.hit.bg/doc/AgaricusPhDthesis.pdf }}{{dead link|date=June 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> Moreover, there have been attempts to recognise distinct varieties, namely ''A.&nbsp;augustus'' var. ''augustus'' Fr., and ''A.&nbsp;augustus'' var. ''perrarus'' (Schulzer) Bon & Cappelli.
+
+The specific epithet ''augustus'' is a [[Latin]] adjective meaning noble.
+
+== Description ==
+''Agaricus augustus'' forms large and distinctive [[agaric]]s. The [[Pileus (mycology)|cap]] shape is hemispherical during the so-called button stage, and then expands, becoming convex and finally flat, with a diameter from {{convert|8-30|cm|abbr=on|round=0.5}}.<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=221–222|oclc=797915861}}</ref> The cap cuticle is dry, and densely covered with concentrically arranged, brown-coloured scales on a white to yellow background.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=542}}</ref>
+
+The flesh is thick, firm and white and may discolour yellow when bruised. The [[Lamella (mycology)|gills]] are crowded and pallid at first, and turn pink then dark brown with maturity. The gills are not attached to the stem; they are free. Immature specimens bear a delicate white [[partial veil]] with darker-coloured warts, extending from the stem to the cap periphery.
+
+The [[stipe (mycology)|stem]] is clavate and {{convert|7-30|cm|abbr=on|round=0.5}} tall, and {{convert|2-6|cm|abbr=on|frac=4}} thick.<ref name=":0" /> In mature specimens, the partial veil is torn and left behind as a pendulous [[Annulus (mycology)|ring]] adorning the stem. Above the ring, the stem is white to yellow and smooth. Below, it is covered with numerous small scales.<ref name=":1">{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=189}}</ref> Its flesh is thick, white and sometimes has a narrow central hollow. The stem base extends deeply into the substrate.<ref name=":1" />
+
+The mushroom's odour is strong and sweet, similar to almond extract,  [[marzipan]] or [[maraschino cherry]], due to the presence of [[benzaldehyde]] and [[benzyl alcohol]].<ref>{{cite journal |journal= Mycologia |volume=82 | year=1990 |title= The Odor of Agaricus augustus |author1=Wood W. F. |author2= Watson R. L. |author3= Largent D. L. |issue=2 | doi=10.2307/3759861 |pages=276–278 |jstor=3759861 }}</ref><ref>{{cite journal |doi=10.2307/3761770 |author =The Mycological Society of America |year=2002 |title=The anise-like odor of Clitocybe odora, Lentinellus cochleatus and Agaricus essettei |journal=Mycologia |volume=94 |issue=3 |pages=373–376|url=http://www.mycologia.org/cgi/content/full/94/3/373 |jstor=3761770 |pmid=21156507|url-access=subscription }}</ref> Its taste has been described as not distinctive. It shows a red positive [[Chemical tests in mushroom identification#Schaeffer's test|Schaeffer's test]] reaction. The cap cuticle turns yellow when a 10% [[potassium hydroxide]] (KOH) solution is applied.{{r|Bas1988}}
+
+
+
+Under a microscope, the ellipsoid-shaped [[Basidiospore|spores]] are seen characteristically large at 7–10 by 4.5–6.5&nbsp;[[μm]]. The [[basidia]] are 4-spored. The [[Spore print|spore mass]] is coloured chocolate-brown.{{r|Bas1988}}<ref name="jordan">{{cite book | author = Michael Jordan | year = 1995  | title = The Encyclopedia of Fungi of Britain and Europe | publisher = David & Charles | isbn = 0-7153-0129-2|page=221}}</ref>
+
+===Similar species===
+Toxic lookalikes include ''[[Amanitas]]'' which stain yellow when bruised or emit bad odor.<ref>{{cite book |last=Meuninck |first=Jim |title=Foraging Mushrooms Oregon: Finding, Identifying, and Preparing Edible Wild Mushrooms |date=2017 |publisher=[[Falcon Guides]] |isbn=978-1-4930-2669-2 |page=109}}</ref> Another similar-looking toxic species is ''[[Agaricus moelleri]]''.<ref name=":0" /> Several other members of the genus are similar.<ref name="audu" /> Initially reported from North America, [[Agaricus subrufescens|''A.&nbsp;subrufescens'']] produces smaller spores, sized 6–7.5 by 4–5&nbsp;μm.
+
+==Distribution and habitat==
+, Ayrshire]]
+
+''Agaricus augustus'' has a widespread distribution, occurring throughout Europe, North Africa, Asia, and North America. The mushroom is found in [[deciduous]] and [[conifer]]ous woods and in gardens and by roadside verges. The fungus is [[saprotrophic]] and terrestrial; it acquires nutrients from decaying dead organic matter and its fruiting bodies occur on humus-rich soil. The species seems adapted to thriving near human activity, as it also emerges from [[disturbed ground]].<ref name=Arora1986>{{Cite book |last=Arora |first=David |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/337/mode/2up |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |orig-date=1979 |edition=2nd |pages=337–39}}</ref> In Europe, the species fruits in late summer and autumn.<ref name=jordan/> In North America, it is found from April to December.<ref name="audu" />
+
+==Potential toxicity==
+''A.&nbsp;augustus'' has been implicated in [[bioaccumulating]] the metal [[cadmium]], with a quantity of 2.44&nbsp;mg per kilogram of fresh weight as recorded in one Swiss study.<ref>{{cite journal |last=Neukom P. |year=2005 |title=Métaux toxiques dans les champignons comestibles. Danger pour la santé des consommateurs? |journal=Bulletin Suisse de Mycologie |language=fr |volume=15 |issue=4 |pages=170–171 |issn=0373-2959}}</ref> The same phenomenon is true for other edible species of ''Agaricus'', namely ''[[Agaricus arvensis|A.&nbsp;arvensis]]'', ''[[Agaricus macrosporus|A.&nbsp;macrosporus]]'' and ''[[Agaricus silvicola|A.&nbsp;silvicola]]'', though quantities may vary greatly depending on species, which part of the fruiting body is analysed, and the level of contamination of the substrate. Specimens collected near metal smelters and urban areas have a higher cadmium content. The [[hymenium]] contains the highest concentration of metal, followed by the rest of the cap, while the lower part of the stem contains the least.<ref>{{cite journal |author1=Kalač P. |author2=Svoboda L. |author3=Havlíčková B. |year=2004 |title=Contents of cadmium and mercury in edible mushrooms |journal=Journal of Applied Biomedicine |volume=2 |pages=15–20 |doi=10.32725/jab.2004.002 |issn=1214-0287 |doi-access=free}}</ref>
+
+==Uses==
+
+This mushroom is a choice [[edible mushroom|edible]]<ref name=":0" /><ref name="comest">{{cite book|author =Boa ER.|year=2006|title="Champignons Comestibles Sauvages" [Edible Wild Mushrooms]|page=141|publisher=Food and Agriculture Organization of the United Nations|isbn=92-5-205157-0|language=fr}}</ref> for most people.<ref name=Arora1986/> It is collected widely for consumption in Eurasia, Canada, the United States, and some parts of Mexico.
+
+==See also==
+
+* [[List of Agaricus species|List of ''Agaricus'' species]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Commons-inline}}
+* [http://botit.botany.wisc.edu/toms_fungi/aug2002.html Tom Volk's fungus of the month - ''Agaricus augustus'']
+* [https://web.archive.org/web/20120223190908/http://linnet.geog.ubc.ca/Atlas/AtlasFungi.aspx?sciname=Agaricus%20augustus Electronic Atlas of the Plants of British Columbia - ''Agaricus augustus'']
+* [http://www.mykoweb.com/CAF/species/Agaricus_augustus.html Mykoweb - ''Agaricus augustus'']
+
+{{Taxonbar|from=Q267538}}
+
+[[Category:Agaricus|augustus]]
+[[Category:Edible fungi]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1838]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]

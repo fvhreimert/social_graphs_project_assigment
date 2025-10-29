@@ -1,0 +1,193 @@
+{{short description|Species of fungus in the family Geastraceaea}}
+{{Use dmy dates|date=October 2023}}
+{{stack begin}}
+{{speciesbox
+| image = Geastrum quadrifidum 89496.jpg
+| image_caption =
+| taxon = Geastrum quadrifidum
+| authority = [[Christian Hendrik Persoon|Pers.]]:Pers.
+| synonyms_ref =<ref name="urlMycoBank: Geastrum quadrifidum"/>
+| synonyms = ''Lycoperdon coronatum'' <small>[[Jacob Christian Schaeffer|Schaeff.]]</small><br/>
+''Lycoperdon coronatum'' <small>[[Giovanni Antonio Scopoli|Scop.]]</small><br/>
+''Geaster coronatus'' <small>(Schaeff.) [[Joseph Schröter|J. Schröt.]]</small><br/>
+''Geastrum quadrifidum'' var. ''minus'' <small>Pers.</small><br/>
+''Geastrum minus'' <small>(Pers.) [[G. H. Cunningham|G. Cunn.]]<ref name=Cunningham1926/> ''auct. non''</small>
+}}
+{{mycomorphbox
+| name = ''Geastrum quadrifidum''
+| capShape = no
+| hymeniumType = gleba
+| whichGills      = NA
+| stipeCharacter  = NA
+| ecologicalType = saprotrophic
+| sporePrintColor = brown
+| howEdible = inedible 
+}}
+{{stack end}}
+
+'''''Geastrum quadrifidum''''', commonly known as the '''rayed earthstar''' or '''four-footed earthstar''', is an inedible species of [[mushroom]] belonging to the genus ''[[Geastrum]]'', or earthstar fungi. First described scientifically by [[Christian Hendrik Persoon]] in 1794, ''G.&nbsp;quadrifidum'' is a [[cosmopolitan distribution|cosmopolitan]]—but not common—species of Europe, the Americas, Africa, Asia, and [[Australasia]]. The fungus is a [[saprobe]], feeding off decomposing organic matter present in the soil and [[forest floor|litter]] of [[conifer]]ous forests.
+
+The small, tough, [[Sporocarp (fungi)|fruit bodies]] are grayish-brown balls that are initially enclosed by a skin, or [[peridium]], made up of four distinct layers of tissue. The outer tissue layer splits to form star-like rays and expose a circular [[spore]] case. Inside the spore case is the [[gleba]]—fertile spore-producing tissue that is white and firm when young, but becomes brown and powdery in age. The grayish-brown spore case is set on a short, slender stalk, and has a well-defined narrow pore at the top where mature spores may escape. Fully expanded, the fruit body reaches dimensions up to {{convert|2|–|3|cm|frac=4|abbr=on}} wide and up to about {{convert|3|cm|frac=4|abbr=on}} tall. The outer skin is purplish-brown, with four or five cream or yellowish-brown colored rays that have their tips stuck in the [[substrate (biology)|substrate]]. There is a flat mat of interwoven [[mycelia]] between ray tips. The spores are spherical, warty, and have a diameter of up to 6&nbsp;[[μm]]. ''Geastrum quadrifidum'' is one of a number of earthstars whose rays arch downward as they mature, lifting the spore sac upward, high enough to catch air currents that disseminate the spores into new habitats. The species is easily confused with ''[[Geastrum fornicatum|G.&nbsp;fornicatum]]'', a larger earthstar without a well-defined pore mouth.
+
+==Taxonomy==
+The Dutch mycologist [[Christian Hendrik Persoon]] published the first official description of ''Geastrum quadrifidum'' in 1794,<ref name=Persoon1794/> and later [[sanctioned name|sanctioned]] this name in his 1801 ''Synopsis Methodica Fungorum'' (as ''Geastrum quadrifidum'' var. ''minus'', a [[variety (botany)|variety]] now considered [[synonym (taxonomy)|synonymous]] with ''G.&nbsp;quadrifidum'').<ref name=Persoon1801/> Although the species had been previously described as ''Lycoperdon coronatum'' by [[Jacob Christian Schaeffer]] (1763) and [[Giovanni Antonio Scopoli]] (1772),<ref name=Scopoli1772/> then afterward as ''Geaster coronatus'' by [[Joseph Schröter]] (1889),<ref name=Schroter1885/>{{refn|This name is not to be confused with ''[[Geastrum coronatum]]'', a valid and distinct species that is independent of ''G.&nbsp;quadrifidum''.<ref name="urlMycoBank: Geastrum coronatum"/>|group=nb}} the epithet ''coronatus'' is not to be used because of the existence of the sanctioned name.<ref name=Demoulin1984/>
+
+In Japan, ''G.&nbsp;quadrifidum'' has occasionally been called "''Geastrum minus''" (Pers.) G. Cunn. (for example, as in Imai, 1936);<ref name=Imai1936/> within taxonomical terminology, this usage is an ''auctorum non''—a misapplication or misinterpretation of the species name.<ref name=Kasuya2009/>
+
+According to Stanek's [[classification (biology)|classification]] of the genus ''Geastrum'',<ref name=Pilat1958/> (a classification later endorsed in Sunhede's 1989 [[monograph]] of European ''Geastrum'' species), ''G.&nbsp;quadrifidum'' belongs in the subsection ''Glabrostoma'' of the [[section (biology)|section]] ''Perimyceliata'', a grouping of similar ''Geastrum'' species that incorporate and encrust debris in the mycelial layer, and have an even [[peristome]] (opening) that is fibrillose (made of more or less parallel thin thread-like filaments). Several [[common name]]s for ''G.&nbsp;quadrifidum'' have been suggested, including "rayed earthstar",<ref name="urlRogers"/> "four-pointed earthstar"<ref name=Schalkwijk-Barendsen1991/> and "four-footed earthstar".<ref name=EnglishCommonNames/> [[Samuel Frederick Gray]] called it the "four-cut shell-puff" in his 1821 ''The Natural Arrangement of British Plants'',<ref name=Gray1821/> but the name was not adopted by subsequent authors. The [[specific name (botany)|specific epithet]] ''quadrifidum'' is derived from [[Latin]], and means "four-forks".<ref name=Evenson1997/>
+
+==Description==
+[[image:Geastrum quadrifidum spore sac closeup.JPG|thumb|left|Closeup of spore sac showing detail of peristome (above) and supporting stalk (below)]]
+
+As in all ''Geastrum'' fungi, the internal spore-producing [[gleba]] is enclosed in the [[peridium]], a protective structure composed of four layers of tissue: an inner endoperidium, and outer exoperidium that may further be divided into an external [[mycelial]], a tough and membranous middle fibrillose layer, and an internal fleshy layer (known as the [[pseudoparenchyma]]).<ref name=Cunningham1944/> The immature, unopened fruit body is roughly spherical to somewhat flattened or irregular in shape. It lies partly or wholly submerged, encrusted with [[forest floor|debris]]. The expanded fruit body is usually taller than it is wide, about {{convert|10|–|40|mm|abbr=on|frac=8}} high, with mycelial cup included about {{convert|15|–|55|mm|abbr=on|frac=8}}. The exoperidium (the outer tissue layer of the four-layered [[peridium]]) splits in the middle into three to six, but usually four or five rays. The exoperidium is typically [[wikt:fornicate|fornicate]]—a structural feature that arises when the mesoperidium separates from the exoperidium, adhering only at the edge. In this way, the endoperidium (the internal tissue layer that encloses the spore sac) is lifted upwards with the downward movement of the rays. In this species, the tips of the rays remain attached to the mycelial layer, which remain attached to the [[substrate (biology)|substrate]] as a cup in the ground.<ref name=Sunhede1989/>
+
+{{multiple image
+| align = right
+| direction = vertical
+| header =
+| width = 220
+| image1 = Geastrum quadrifidum 60803.jpg
+| caption1 = Fresh fruit bodies have a fleshy white to cream-colored exoperidium. This individual has a pseudoparenchymatous collar, the thickness of which hides the short stalk that supports the spore sac.
+| image2 = Geastrum quadrifidum 89500.jpg
+| caption2 = When the pseudoparenchymatous layer dries it shrinks and hardens, darkening to brown; the structure is maintained by the underlying stiff papery fibrous layer.
+}}
+Unlike those of some other ''Geastrum'' species, the rays of ''G.&nbsp;quadrifidum'' are not [[hygroscopic]]: they do not open and close in response to changes in humidity. Generally, the rays are broad, but they may seem narrow as their edges are often rolled inwards. The width of the exoperidium (when still attached to the mycelial cup) is {{convert|8|–|25|mm|abbr=on|frac=8}}, when fully expanded about {{convert|15|–|90|mm|abbr=on|frac=8}}. The pseudoparenchymatous layer when fresh is about 1–2''&nbsp;''mm thick, initially whitish, later turning beige to brownish (sometimes over reddish tints), and dark brown when old. In newly expanded specimens this layer is covered with a thin layer of crystals and [[hypha]]e, sometimes forming a pseudoparenchymatous cup or collar that often peels off in patches, when dry shrunken and hard. The fibrous layer is papery to leathery. The inner side, when free from pseudoparenchymatous remnants, is almost white, in age becoming dirty grayish-white and sometimes greenish due to [[alga]]e; the outer side is initially whitish, somewhat glossy, but in age becomes grayish-white and dull. The mycelial layer has a whitish inner side and is strongly attached to the litter on its outer side. It persists for a long time (1–2-year-old fruit bodies with intact mycelial cups have been found).<ref name=Sunhede1989/>
+
+The spore sac is variable in shape, ranging from roughly spherical to egg-shaped or irregular, but it is usually taller than it is wide. Its diameter ranges between {{convert|3.5|and|16|mm|abbr=on|frac=8}}, although it is most commonly between {{convert|5|and|10|mm|abbr=on|frac=16}}. An [[wikt:apophysis|apophysis]] (a swelling on the underside of the spore sac) is often present. The stalk is visible when the pseudoparenchymatous layer has dried up, and is short but distinct, measuring 1–2.5''&nbsp;''mm tall. The color is variable; in dry specimens it is whitish, light beige, beige gray, smoky gray or brownish-gray. The endoperidium in newly expanded fruit bodies is [[wikt:pruinose|pruinose]]: covered with a light beige to whitish powder of hyphae and crystalline matter. This powder gradually disappears as the fruit body ages. Its color is highly variable, and both light and dark endoperidia are present. The peristome (a clearly demarcated region encircling the opening of the spore sac) is distinctly delimited, with a disc-like to more or less conical shape.<ref name=Sunhede1989/> It is lighter in color than the spore sac, and up to 2''&nbsp;''mm high.<ref name=Bates2004/> In old specimens, the hyphae around the peristome sometimes stick together to develop radial grooves. The color is variable, but often of grayish or grayish-brown tints, often lighter than the endoperidium. The [[wikt:columella|columella]] (sterile tissue, usually originating in the base of the gleba, extending into or through the gleba) is rather weak, more or less columnar to club-shaped, emerging from a more or less bulge-like continuation of the stalk and intruding to about the half or more into the mature gleba. The mature gleba is dark brown.<ref name=Sunhede1989/> ''G.&nbsp;quadrifidum'' is inedible.<ref name=Evenson1997/>
+
+===Microscopic characteristics===
+The [[basidia]] of ''G.&nbsp;quadrifidum'' have a basal [[clamp connection]], or they narrow into a hyphal part that ends at a clamp. When they are young, they are more or less [[wikt:ellipsoid|ellipsoid]] to club-shaped, but in age they often become more or less bottle-shaped, [[wikt:ampullaceous|ampullaceous]] or sometimes almost [[wikt:lecythiform|lecythiform]], among other shapes; when mature they measure 14–21 x 4.5–7&nbsp;[[μm]] (excluding the hyphal part). The hyphal part is less than 1–6 x 1–2&nbsp;μm. The [[wikt:sterigmatum|sterigmata]] (thin projections of the basidia that attach to the spore) are 4–6&nbsp;μm long and mostly 1–1.5&nbsp;μm thick. The hyphae located immediately underneath the basidia are thin-walled, 1–2&nbsp;μm wide, provided with clamps and densely branched. The hyphae of the tramal plates are roughly parallel, thin-walled, 1–2&nbsp;μm wide, and provided with clamps which may be dilated.<ref name=Sunhede1989/>
+[[image:Geastrum quadrifidum spores 84344.jpg|thumb|left|Spores are roughly spherical and have ornamentations on the surface.]]
+The spores in mass are dark brown when mature. They are spherical, covered with "warts" or [[wikt:verruca|verrucae]], and measure 5–6&nbsp;μm in diameter (including ornamentation).{{refn|Bates reports a slightly larger range—5.6 to 6.4&nbsp;μm—with an average of 6.1&nbsp;μm.<ref name=Bates2004/>|group=nb}} The spores often contain a drop of oil. [[Scanning electron microscopy]] reveals the verrucae to be up to 0.8&nbsp;μm long, conical to columnar processes with rounded to almost flattened tips. The [[wikt:apiculus|apiculus]] (the part of a spore which attaches to the sterigmata at the end of a basidium) is distinct with radiating ridge-like processes. The young spore is first broadly egg-shaped before becoming roughly spherical in maturity.<ref name=Sunhede1989/>
+
+The [[capillitium]] refers to coarse, late-maturing, thick-walled cells in the gleba that develop pores or slits in their thick secondary walls. The capillitial hyphae are 1.5–9.5&nbsp;μm wide, thick-walled, often with a narrow [[lumen (anatomy)|lumen]], and with or without surface ornamentation. The columella hyphae are 1.5–14&nbsp;μm wide (occasionally wider, up to 34&nbsp;μm), thick-walled, often with narrow lumen. Single thin-walled, about 1.5&nbsp;μm wide hyphae with clamps can be observed. The endoperidial hyphae are densely interwoven, thick-walled, and about 2–6&nbsp;μm wide. The whitish powder on newly expanded specimens consists of crystalline matter and thin-walled, 1.5–4&nbsp;μm wide, branched hyphae with clamps. The peristome hyphae are thick-walled, 2–11&nbsp;μm wide. The [[pseudoparenchyma]]tous layer is built up by bladder-like, thin-walled hyphae of varying size. On the surface of newly expanded specimens crystals and thin-walled hyphae of the same kind as on the endoperidium are present.<ref name=Sunhede1989/> The crystals are [[calcium oxalate]] dihydrate that have the crystalline structure of a pyramid, and are arranged singly or in loose aggregates, 11 to 30&nbsp;μm in size.<ref name=Khan1995/> The fibrous layer has thick-walled hyphae 1.5–4&nbsp;μm wide. The mycelial layer in the inner, very thin part (seen as a glossy lining on the fibrous layer of newly expanded fruit bodies) consists of a dense web of thin-walled, 1.5–4&nbsp;μm wide, clamped hyphae. Thick-walled hyphae are also present, measuring 2–11 (sometimes up to 19)&nbsp;μm wide. The outer part (the mycelial cup) consists of thick-walled, branched and densely interwoven hyphae (often with a narrow lumen) that measure 1.5–4&nbsp;μm wide.<ref name=Sunhede1989/>
+
+=== Similar species ===
+{{multiple image
+| align = right
+| image1 = Geastrum fornicatum.jpg
+| width1 = 120
+| alt1 = 
+| caption1 = 
+| image2 = Geastrum pectinatum 47402.jpg
+| width2 = 135
+| alt2 = 
+| caption2 = 
+| footer = ''G. fornicatum'' (left) and ''G.&nbsp;pectinatum'' (right) are also fornicate earthstars.
+}}
+''Geastrum quadrifidum'' is readily confused with ''[[Geastrum fornicatum|G.&nbsp;fornicatum]]'', which is larger—up to {{convert|15|cm|abbr=on|frac=4}}—and has smaller spores (4–5&nbsp;μm in diameter).<ref>Sunhede, 1989, p. 209.</ref> ''[[Geastrum minimum]]'', although small like ''G.&nbsp;quadrifidum'', is distinguished by having more rays (usually more than seven), and it is not fornicate.<ref name=Demoulin1968/> Also, its mycelial layer is attached to the fibrous layer for a long time, without forming a mycelial cup like ''G.&nbsp;quadrifidum''.<ref name=Kasuya2009/> The Chilean species ''[[Geastrum jurei|G.&nbsp;jurei]]'' does not have a clearly demarcated peristome.<ref name=Lazo1972/>
+
+''Geastrum quadrifidum'' is also similar to ''[[Geastrum dissimile|G.&nbsp;dissimile]]'', ''[[Geastrum leptospermum|G.&nbsp;leptospermum]]'', and ''[[Geastrum welwitschii|G.&nbsp;welwitschii]]'' in its fruit body [[morphology (biology)|morphology]], especially the exoperidial rays, endoperidial body, and peristome. ''Geastrum dissimile'' differs from ''G.&nbsp;quadrifidum'' by its often [[wikt:sulcate|sulcate]] or silky [[wikt:fimbriate|fimbriate]], smooth peristome, and slightly smaller spores (4–5&nbsp;μm in diameter).<ref name=Bottomley1948/> ''Geastrum leptospermum'' can be distinguished from ''G.&nbsp;quadrifidum'' by its smaller spores (2–3&nbsp;μm in diameter),<ref name=Coker1974/> and by its preference for growing in mosses on tree trunks. ''G.&nbsp;welwitschii'' differs from ''G.&nbsp;quadrifidum'' by its [[epigeal]] mycelial cup with a felted or tufted outer surface, and indistinctly delimited peristome.<ref name=Sunhede1989/>
+
+==Distribution, habitat and ecology==
+Although ''Geastrum quadrifidum'' has a wide distribution, it is not a common species. European countries from which the fungus has been reported include Belgium,<ref name=Demoulin1968/><ref name=Pegler1995/> Denmark,<ref name="urlNERI - The Danish Red Data Book - Geastrum quadrifidum Pers.: Pers."/> France,<ref name=Anon2006/> Germany,<ref name=Winterhoff1981/> [[Montenegro]],<ref name=Peric2005/> Norway,<ref name=Hapnes1990/> Poland,<ref name=Wojewoda2000/> and Sweden.<ref name=Andersson2010/> In Asia, it has been collected in China and Japan.<ref name=Kasuya2009/> The North American distribution extends from Canada<ref name=Schalkwijk-Barendsen1991/> south to Mexico,<ref name=Esqueda2003/> and includes Hawaii.<ref name=Smith1982/> It is also found in Australia<ref name=May2003/> and New Zealand, South Africa, and South America.<ref name=PoncedeLeon1968/> Because of its rarity, it has been placed on the [[Regional Red List]]s of several European countries, including Montenegro,<ref name=Peric2005/> Denmark,<ref name="urlNERI - The Danish Red Data Book - Geastrum quadrifidum Pers.: Pers."/> Norway,<ref name="urlRED LIST NORWAY"/> and Poland.<ref name=Wojewoda2000/>
+
+Like most earthstars, ''G.&nbsp;quadrifidum'' is a [[saprobic]] fungus, and spends most of its [[biological life cycle|life cycle]] as thin strands of [[mycelium]], deriving nutrients by decomposing [[forest floor|leaf litter]] and similar [[detritus]], converting it to [[humus]] and [[mineralization (soil)|mineralizing]] organic matter in the soil.<ref name=Miller1988/> The fungal fruit bodies are generally found in [[coniferous woodland]], where they appear in summer and autumn. In Mexico, it was found in tropical [[thorn forest]] and [[Sierra Madre Oriental pine-oak forests|pine-oak forest]] in the summer.<ref name=Esqueda2003/> In Britain, all collections have been made in [[beech]] forest on [[calcareous]] soil.<ref name=Pegler1995/>
+
+==Notes==
+<references group="nb" />
+
+==References==
+{{Reflist|30em|refs=
+
+<ref name=Andersson2010>{{cite journal |author=Andersson U-B. |year=2010 |title=Jordstjärnor i Sverige 5. Fyrflikig jordstjärna, hög jordstjärna, hårig jordstjärna, sålljordstjärna |trans-title=Swedish earthstars (Geastraceae) 5 |journal=Svensk Botanisk Tidskrift |volume=104 |issue=1 |pages=39–43 |language=sv}}</ref>
+
+<ref name=Anon2006>{{cite journal |author=Anonymous. |year=2006 |title=Le dessus du panier n° 2 |trans-title=Top of the basket 2 |journal=Bulletin de la Société Linnéenne de Bordeaux |volume=34 |issue=4 |pages=307–09 |language=fr}}</ref>
+
+<ref name=Bates2004>{{Cite thesis |degree=M.Sc. |chapter=Taxonomy |title=Arizona Members of the Geastraceae and Lycoperdaceae (Basidiomycota, Fungi) |chapter-url=http://www.azfungi.org/stbates/STBThesis2.pdf |author=Bates ST. |year=2004 |publisher=Arizona State University |access-date=20 June 2010 |pages=119–22 |url-status=dead |archive-url=https://web.archive.org/web/20110725025921/http://www.azfungi.org/stbates/STBThesis2.pdf |archive-date=25 July 2011 }}</ref>
+
+<ref name=Bottomley1948>{{cite journal |author=Bottomley AM.|year=1948 |title=Gasteromycetes of South Africa |journal=Bothalia |volume=4 |issue=3 |pages=473–810|doi=10.4102/abc.v4i3.1859 |doi-access=free |bibcode=1948Botha...4..474B }}</ref>
+
+<ref name=Coker1974>{{cite book |vauthors=Johnson MM, Coker WS, Couch JN |title=The Gasteromycetes of the Eastern United States and Canada |publisher=Dover Publications |location=New York |year=1974 |orig-year=First published 1928 |pages=131–32  |isbn=0-486-23033-3}}</ref>
+
+<ref name=Cunningham1926>{{cite journal |author=Cunningham GH. |year=1926 |title=The Gasteromycetes of Australasia. IV. Species of the genus ''Geaster'' |journal=Proceedings of the Linnean Society of New South Wales |volume=51 |issue=206, part 2 |pages=72–93}}</ref>
+
+<ref name=Cunningham1944>{{cite book |title=The Gasteromycetes of Australia and New Zealand |author=Cunningham GH|year=1944 |publisher=McIndoe |location=Dunedin |pages=160–61}}</ref>
+
+<ref name=Demoulin1968>{{cite journal |author=Demoulin V. |year=1968 |title=Gastéromycètes de Belgique: Sclerodermatales, Tulostamatales, Lycoperdales |trans-title=Gasteromycetes of Belgium: Sclerodermatales, Tulostamatales, Lycoperdales|journal=Bulletin du Jardin Botanique National de Belgique |volume=38|issue=1 |pages= 1–101 |doi=10.2307/3667475 |jstor=3667475 |language=fr}}</ref>
+
+<ref name=Demoulin1984>{{cite journal |author=Demoulin V.| year=1984 |title=Typification of ''Geastrum'' Pers.: Pers. and its orthographic variant ''Geaster'' (Gasteromycetes) |journal=Taxon |volume=33 |issue=3 |pages=498–501 |doi=10.2307/1220990| jstor=1220990 }}</ref>
+
+<ref name=EnglishCommonNames>{{cite web|url=http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf|title=Recommended English Names for Fungi in the UK|publisher=[[British Mycological Society]]|access-date=20 June 2010|url-status=dead|archive-url=https://web.archive.org/web/20110716083053/http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf|archive-date=16 July 2011}}</ref>
+
+<ref name=Esqueda2003>{{cite journal |vauthors=Esqueda M, Herrera T, Perez-Siva E, Sanchez A |year=2003 |title=Distribution of ''Geastrum'' species from some priority regions for conservation of biodiversity of Sonora, Mexico |journal=Mycotaxon |volume=87 |pages=445–56 |url=http://www.cybertruffle.org.uk/cyberliber/59575/0087/0445.htm}}</ref>
+
+<ref name=Evenson1997>{{cite book |title=Mushrooms of Colorado and the Southern Rocky Mountains |author=Evenson VS. |year=1997 |publisher=Westcliffe Publishers |isbn=978-1-56579-192-3 |page=189 |url=https://books.google.com/books?id=EAeDeyqZLq0C&pg=PA189}}</ref>
+
+<ref name=Gray1821>{{cite book |title=A Natural Arrangement of British Plants |author=Gray SF. |year=1821 |publisher=Baldwin, Cradock, and Joy, Pasternoster-Row |location=London  |page=585 |url=https://books.google.com/books?id=KTc-AAAAcAAJ&pg=PA585}}</ref>
+
+<ref name=Hapnes1990>{{cite journal |vauthors=Hapnes A, Often A |year=1990 |title=''Geastrum'' on Islands in Snasa Lake Nord-Trondelag Norway |journal=Blyttia  |volume=48 |issue=4 |pages=155–56 |issn=0006-5269 |language=no}}</ref>
+
+<ref name=Imai1936>{{cite journal |author=Imai S. |year=1936 |title=Symbolae ad floram mycologicam Asiae Orientalis. I |trans-title=Contributions to the mycological flora of Eastern Asia |journal=Botanical Magazine (Tokyo) |volume=50 |issue=592 |pages=216–224 |doi=10.15281/jplantres1887.50.216 |url=https://www.jstage.jst.go.jp/article/jplantres1887/50/592/50_592_216/_pdf/-char/en |doi-access=free }}</ref>
+
+<ref name=Kasuya2009>{{cite journal |vauthors=Kasuya T, Yamamoto Y, Sakamoto H, Takehashi S, Hoshiino T, Kobayashi T |year=2009 |title=Floristic study of ''Geastrum'' in Japan: three new records for Japanese mycobiota and reexamination of the authentic specimen of ''Geastrum minus'' reported by Sanshi Imai |journal=Mycoscience |volume=50 |issue=2 |pages=84–93 |doi=10.1007/s10267-008-0461-1 |s2cid=84085901 |doi-access=free }}</ref>
+
+<ref name=Khan1995>{{cite book |author=Khan SR. |title=Calcium Oxalate in Biological Systems |publisher=CRC Press |location=Boca Raton |year=1995 |page=72 |isbn=0-8493-7673-4 |url=https://books.google.com/books?id=emTys7ccxrIC&pg=PA72}}</ref>
+
+<ref name=Lazo1972>{{cite journal |author=Lazo W. |year=1972 |title=Fungi from Chile I. Some Gasteromycetes and Agaricales |journal=Mycologia |volume=64 |issue=4 |pages=786–98 |jstor=3757933 |doi=10.2307/3757933|url=http://repositorio.uchile.cl/bitstream/2250/134349/1/fungi-from-chile-i-some-gasteromycetes-and-agaricales.pdf }}</ref>
+
+<ref name=May2003>{{cite book |title=Fungi of Australia. Basidiomycota p.p. & Myxomycota |volume=2B |vauthors=May TW, Milne J, Shingles S, Jones RH |year=2008 |publisher=CSIRO Publishing |isbn=978-0-643-06907-7  |page=117 |url=https://books.google.com/books?id=mTJsa5a3ZpcC&pg=PA117}}</ref>
+
+<ref name=Miller1988>{{cite book |vauthors=Miller HR, Miller OK |title=Gasteromycetes: Morphological and Developmental Features, with Keys to the Orders, Families, and Genera |publisher=Mad River Press |location=Eureka, California |year=1988 |pages=31, 36 |isbn=0-916422-74-7}}</ref>
+
+<ref name=Pegler1995>{{cite book |vauthors=Læssøe T, Pegler DN, Spooner B |title=British Puffballs, Earthstars and Stinkhorns: an Account of the British Gasteroid Fungi |publisher=Royal Botanic Gardens |location=Kew |year=1995 |page=98 |isbn=0-947643-81-8}}</ref>
+
+<ref name=Peric2005>{{Cite report |title=The provisory red list of endangered macromycets of Montenegro |url=http://www.wsl.ch/eccf/Montenegro05.pdf |vauthors=Peric B, Peric O |year=2005 |publisher=Eidg. Forschungsanstalt für Wald, Schnee und Landschaft WSL (Swiss Federal Institute for Forest, Snow and Landscape Research) |access-date=20 June 2010}}</ref>
+
+<ref name=Persoon1794>{{cite journal |author=Persoon CH.|year=1794|title=Dispositio methodica fungorum|trans-title=Methodical arrangement of the fungi|journal=Neues Magazin für die Botanik, Römer|volume=1|page=86|language=la}}</ref>
+
+<ref name=Persoon1801>{{cite book |author=Persoon CH. |year=1801 |title=Synopsis Methodica Fungorum |trans-title=Methodical Synopsis of the Fungi |location=Göttingen |volume=1 |page=133 |url=https://books.google.com/books?id=UugVAAAAYAAJ&pg=RA2-PA133}}</ref>
+
+<ref name=Pilat1958>Published in: {{cite book |title=Gasteromycetes, Houby-Břichatky. Flora ČSR B1 |trans-title=Gasteromycetes, Puffballs|language=cs |author=Pilát A|year=1958 |publisher=Nakladatelstvi Československé Akademie Vĕd |location=Prague, Czechoslovakia}}</ref>
+
+<ref name=PoncedeLeon1968>{{cite journal |author=Ponce de Leon P. |year=1968 |title=A revision of the family Geastraceae |journal=Fieldiana Botany  |volume=31 |pages=303–52}}</ref>
+
+<ref name=Schalkwijk-Barendsen1991>{{cite book |author=Schalkwijk-Barendsen HME. |title=Mushrooms of Western Canada |publisher=Lone Pine Publishing |location=Edmonton, Canada |year=1991 |page=[https://archive.org/details/mushroomsofweste0000scha/page/349 349] |isbn=0-919433-47-2 |url=https://archive.org/details/mushroomsofweste0000scha/page/349 }}</ref>
+
+<ref name=Schroter1885>{{cite book  |author=Schröter J. |title=Kryptogamen-Flora von Schlesien |trans-title=Cryptogamic flora of Silesia |volume=3–1(6) |year=1889 |page=702 |location=Breslau |publisher=J.U.&nbsp;Kern's Verlag |language=de}}</ref>
+
+<ref name=Scopoli1772>{{cite book |author=Scopoli JA. |title=Flora carniolica |trans-title=Carniolan flora |year=1771 |volume=2 |edition=2 |publisher=Sumptibus J.T. Trattner |location=Vienna |page=490 |url=https://books.google.com/books?id=Ud4TAAAAQAAJ&pg=PA490 |language=la}}</ref>
+
+<ref name=Smith1982>{{cite journal |vauthors=Smith CW, Ponce de Léon P |year=1982 |title=Hawaiian geastroid fungi |journal=Mycologia |volume=74 |issue=5 |pages=712–17 |doi=10.2307/3792856|jstor=3792856 }}</ref>
+
+<ref name=Sunhede1989>Sunhede, 1989, p. 338.</ref>
+
+<ref name="urlMycoBank: Geastrum quadrifidum">{{cite web |url=http://www.mycobank.org/MB/165809 |title=''Geastrum quadrifidum'' Pers. 1794 |publisher=[[MycoBank]]. International Mycological Association |access-date=15 December 2015}}</ref>
+
+<ref name="urlMycoBank: Geastrum coronatum">{{cite web |url=http://www.mycobank.org/MB/153463 |title=''Geastrum coronatum'' Pers. 1801 |publisher=MycoBank. International Mycological Association |access-date=15 December 2015}}</ref>
+
+<ref name="urlNERI - The Danish Red Data Book - Geastrum quadrifidum Pers.: Pers.">{{cite web |url=http://www2.dmu.dk/1_Om_DMU/2_Tvaer-funk/3_fdc_bio/projekter/redlist/data_en.asp?ID=6646&gruppeID=92 |title=NERI – The Danish Red Data Book – ''Geastrum quadrifidum'' Pers.: Pers. |publisher=Danmarks Miljøundersøgelser: National Environmental Research Institute, Denmark |access-date=15 December 2015 |url-status=dead |archive-url=https://web.archive.org/web/20151117140438/http://www2.dmu.dk/1_Om_DMU/2_Tvaer-funk/3_fdc_bio/projekter/redlist/data_en.asp?ID=6646&gruppeID=92 |archive-date=17 November 2015 }}</ref>
+
+<ref name="urlRED LIST NORWAY">{{cite web |url=http://www.nhm.uio.no/botanisk/sopp/redgroup.htm |title=Red List of threatened fungi in Norway|work=Norsk Rødliste 2006 |publisher=The Herbarium, The Natural History Museums and Botanical Garden, University of Oslo |access-date=15 December 2015}}</ref>
+
+<ref name="urlRogers">{{cite web|url=http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~5951~gid~~source~gallerydefault.asp |title=''Geastrum quadrifidum'' |author=Phillips R |work=Rogers Mushrooms |access-date=15 December 2015 |url-status=dead |archive-url=https://web.archive.org/web/20151222134954/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~5951~gid~~source~gallerydefault.asp |archive-date=22 December 2015 }}</ref>
+
+<ref name=Winterhoff1981>{{cite journal |author=Winterhoff W. |year=1981 |trans-title=Old and new earthstar findings in the drift sand area between Walldorf and Mainz |title=Alte und neue Erdsternfunde im Flugsandgebiet zwischen Walldorf und Mainz |journal=Hessische Floristische Briefe  |volume=30 |issue=2 |pages=18–27 |issn=0439-0687 |language=de}}</ref>
+
+<ref name=Wojewoda2000>{{cite journal |author=Wojewoda W. |year=2000 |title=New localities of rare and threatened species of ''Geastrum'' (Lycoperdales) in Poland |journal=Acta Mycologica  |volume=35 |issue=2 |pages=145–51 |doi=10.5586/am.2000.017 |issn=0001-625X|doi-access=free }}</ref>
+
+}}
+
+===Cited books===
+*{{cite book |title=Geastraceae (Basidiomycotina): Morphology, Ecology, and Systematics with Special Emphasis on the North European Species |author=Sunhede S. |year=1989 |series=Synopsis Fungorum, '''1''' |publisher=Fungiflora |location=Oslo, Norway |isbn=82-90724-05-5}}
+
+==External links==
+{{Commons category}}
+*{{IndexFungorum|165809}}
+*[https://mushroomobserver.org/observer/observation_search?pattern=Geastrum+quadrifidum Mushroom Observer] Images
+
+{{Featured article}}
+{{Taxonbar|from=Q2720070}}
+
+[[Category:Fungi of Africa]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Australia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of New Zealand]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of South America]]
+[[Category:Geastrum|quadrifidum]]
+[[Category:Inedible fungi]]
+[[Category:Fungi described in 1794]]
+[[Category:Taxa named by Christiaan Hendrik Persoon]]
+[[Category:Fungus species]]

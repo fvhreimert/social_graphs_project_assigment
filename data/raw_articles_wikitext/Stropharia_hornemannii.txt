@@ -1,0 +1,86 @@
+{{Short description|Species of fungus}}
+{{Use dmy dates|date=April 2025}}
+{{Use Oxford spelling|date=April 2025}}
+{{Speciesbox
+| image = 2012-06-24 Stropharia hornemannii (Fr.) S. Lundell & Nannf 230616.jpg
+| taxon = Stropharia hornemannii
+| authority = ([[Elias Magnus Fries|Fr.]]) [[S.Lundell]] & [[Nannf.]] (1934)
+| synonyms_ref = <ref name="urlFungorum: Stropharia hornemannii"/>
+| synonyms = {{collapsible list|bullets=on
+|''Agaricus depilatus'' {{au|[[Pers.]] (1801)}}
+|''Agaricus hornemanni'' {{au|Fr. (1818)}}
+|''Agaricus hornemannii'' var. ''depilatus'' {{au|Fr. (1821)}}
+|''Stropharia depilata'' {{au|([[Pers.]]) [[Sacc.]] (1887)}}
+|''Fungus depilatus'' {{au|(Pers.) [[Otto Kuntze|Kuntze]] (1898)}}
+|''Stropharia depilata'' var. ''microspora'' {{au|[[Albert Pilát|Pilát]] (1950)}}
+|''Naematoloma hornemannii'' {{au|(Fr.) [[Rolf Singer|Singer]] (1951)}}
+|''Geophila depilata'' {{au|(Pers.) [[Robert Kühner|Kühner]] & [[Romagn.]] (1953)}}
+|''Psilocybe hornemannii'' {{au|(Fr.) [[Noordel.]] (1995)}}
+}}
+}}
+{{Mycomorphbox
+| name = ''{{PAGENAME}}''{{italic title}}
+| hymeniumType = gills
+| capShape = convex
+| whichGills = adnate
+| whichGills2 = seceding
+| stipeCharacter = ring
+| sporePrintColor = purple-brown
+| sporePrintColor2 = purple-black
+| ecologicalType = saprotrophic
+| howEdible = inedible
+| howEdible2 = poisonous
+}}
+
+'''''Stropharia hornemannii''''', commonly known as the '''luxuriant ringstalk'''<ref name="McKnight 1998" /> or '''lacerated stropharia''',<ref name="Bessette 1997" /> is a species of [[agaric]] fungus in the family [[Strophariaceae]]. The fungus produces distinctive [[mushroom]]s with [[pileus (mycology)|caps]] up to 12&nbsp;cm wide, which range from greyish-brown with purplish tints to reddish-brown, featuring a hanging [[annulus (mycology)|ring]] on the [[stipe (mycology)|stipe]] and [[lamella (mycology)|gills]] that change from greyish-violet to dark purple-brown as they mature.
+
+== Taxonomy ==
+The [[botanical name|specific epithet]] ''hornemannii'' honours the Danish botanist [[Jens Wilken Hornemann]], who made the first scientifically documented collections of the species.<ref name="Smith 1980" />
+
+==Description==
+
+''Stropharia hornemannii'' is a distinctive [[mushroom]]-forming fungus species within the genus ''[[Stropharia]]''. The [[basidiocarp|fruiting body]] features a large [[pileus (mycology)|cap]] measuring up to {{Convert|12|cm|frac=4}} in diameter,<ref name="audu" /> initially convex with an elevated centre and inflexed margin, later becoming convex-expanded. Its colouration varies considerably between specimens, ranging from greyish-brown with purplish tints to reddish-brown at the disc with pale yellowish margins, or sometimes entirely yellowish. The cap surface appears smooth to the naked eye but reveals innate brownish-purplish fibrils under magnification. It feels moist to the touch and can become viscous, particularly in young specimens. A well-developed whitish [[partial veil]] forms a membrane in young specimens, with fragments often remaining attached to the cap edges as it expands.<ref name="Lamoure 1971"/>
+
+The [[stipe (mycology)|stipe]] is {{Convert|5-15|cm|abbr=on|frac=4}} long and {{Convert|0.5-2.5|cm|abbr=on|frac=4}} thick,<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/379/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=379-80 |orig-date=1979}}</ref> appearing slender with a yellowish-white colouration, occasionally showing brownish-yellow stains. A pendant (hanging), pleated-grooved, fragile [[annulus (mycology)|ring]] encircles the upper portion, though this may deteriorate with age. Below the ring, the stipe is covered with whitish, spreading scales that can also disappear in mature specimens, while above it displays a roughly powdered appearance. The gills [[lamella (mycology)|lamella]] are closely arranged, broadly attached to the stipe, and extend down it in a thin line. Young specimens display a greyish-violet colour with [[Lavender (color)#Amethyst|amethyst]] tints, later becoming discoloured by the [[Basidiospore|spores]]. The gill edges appear whitish and fringed under magnification.<ref name="Lamoure 1971"/>
+
+When cut, the mushroom emits a strong, unpleasant odour, though this is less noticeable externally. The taste is described as unpleasant and bitter after chewing. Microscopically, the spores measure 11.5–13 × 6–6.5&nbsp;[[μm]], are elliptical with a distinct [[germination]] pore, and are carried on four-spored [[basidia]]. The gill edges contain numerous marginal hairs ([[cheilocystidia]]) while the faces feature [[chrysocystidia]] of variable shape. The [[cap cuticle]] consists of slender, clamped [[hypha|hyphae]] with gelatinised walls, while the [[trama (mycology)|flesh]] contains oil-bearing hyphae that fragment into refractive yellow cylindrical bodies.<ref name="Lamoure 1971"/> The mushroom is inedible and may be poisonous.<ref name="Phillips 2010" />
+
+=== Similar species ===
+''Stropharia hornemannii'' is somewhat similar in appearance to [[Stropharia ambigua|''S.&nbsp;ambigua'']]<ref name="Trudell 2009" /> and ''[[Stropharia rugosoannulata|S.&nbsp;rugosoannulata]]''.<ref name="audu" />
+
+==Habitat and distribution==
+
+''Stropharia hornemannii'' is primarily a [[boreal ecosystem|boreal]] species with a distribution centred in Northern Europe. It is particularly common in [[Scandinavia]], where [[Elias Magnus Fries]] described it as "ubiquitous in our coniferous forests on the ground, rarer on trunks, throughout autumn" in his ''Monographia''. The species has been documented at various locations throughout Central Europe, with detailed occurrence records compiled by various mycologists.<ref name="Lamoure 1971"/>
+
+The first confirmed collection in France was reported in 1971 from the [[Massif Central]], representing the westernmost extension of its known range at that time. This significant finding included over 50 fruiting bodies growing in several locations near Col de la Charme at an altitude of about 1,200 metres in the [[Bois Noirs (Livradois)|Bois Noirs]] region. The species was found in a gently sloping [[Abies|fir]]-dominated forest, primarily growing on decaying wood fragments buried within [[humus]] and moss (''[[Rhytidiadelphus loreus]]''). The mushroom appears to prefer [[coniferous]] woodland habitats, particularly those dominated by fir species. While it is most frequently found terrestrially, it can occasionally be observed growing directly on decaying wood. Its fruiting period extends throughout the autumn months, with documented collections in France occurring in September and October.<ref name="Lamoure 1971"/>
+
+==References==
+{{reflist|refs=
+
+<ref name="audu">{{cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |page=688}}</ref>
+
+<ref name="Bessette 1997">{{cite book |author=Bessette A. |title=Mushrooms of Northeastern North America |url=https://books.google.com/books?id=T2uU12XcRD4C&pg=PA250 |year=1997 |publisher=Syracuse University Press |location=Syracuse, New York |isbn=978-0-8156-0388-7 |page=250}}</ref>
+
+<ref name="Lamoure 1971">{{cite journal |last=Lamoure |first=Denise |title=''Stropharia hornemannii'' (Fr.) Lund. et Nannf., espèce nouvelle pour la France |journal=Bulletin mensuel de la Société linnéenne de Lyon |volume=40 |issue=1 |year=1971 |doi=10.3406/linly.1971.2096 |pages=14–18 |url=https://www.persee.fr/doc/linly_0366-1326_1971_num_40_1_2096 |language=fr}}</ref>
+
+<ref name="McKnight 1998">{{cite book |author=McKnight KH. |title=A Field Guide to Mushrooms: North America |url=https://books.google.com/books?id=kSdA3V7Z9WcC&pg=PA208-IA64 |year=1998 |publisher=Houghton Mifflin Harcourt |isbn=978-0-395-91090-0 |page=208}}</ref>
+
+<ref name="Phillips 2010">{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=228}}</ref>
+
+<ref name="Smith 1980">{{cite book |author=Smith AH, Weber NS. |title=The Mushroom Hunter's Field Guide |url=https://books.google.com/books?id=TYI4f6fqrfkC&pg=PA226 |year=1980 |publisher=University of Michigan Press |isbn=0-472-85610-3 |page=226}}</ref>
+
+<ref name="Trudell 2009">{{cite book |last1=Trudell |first1=Steve |url=https://books.google.com/books?id=WevHvt6Tr8kC |title=Mushrooms of the Pacific Northwest |last2=Ammirati |first2=Joe |publisher=Timber Press |year=2009 |isbn=978-0-88192-935-5 |series=Timber Press Field Guides |location=Portland, OR |pages=211}}</ref>
+
+<ref name="urlFungorum: Stropharia hornemannii">{{cite web |title=GSD Species Synonymy: ''Stropharia hornemannii'' (Fr.) S. Lundell & Nannf. |url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=114458 |publisher=Species Fungorum. CAB International |access-date=2015-01-25}}</ref>
+
+}}
+
+{{Taxonbar|from=Q334957}}
+
+[[Category:Strophariaceae]]
+[[Category:Fungi described in 1818]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Inedible fungi]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]

@@ -1,0 +1,41 @@
+{{Short description|Species of fungus}}
+{{single source|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption =
+| taxon = Gymnopilus aculeatus
+| authority = ([[Giacomo Bresadola|Bres.]] & [[Roum.]]) [[Rolf Singer|Singer]] (1951)
+| synonyms = *''Pholiota aculeata'' <small>Bres. & Roum. (1890)</small>
+}}
+{{mycomorphbox
+| name = ''Gymnopilus aculeatus''
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType = gills
+| ecologicalType = saprotrophic
+}}
+
+'''''Gymnopilus aculeatus''''' is a species of [[mushroom]]-forming [[fungus]] in the family [[Hymenogastraceae]]. Originally [[species description|described]] in 1890 as a species of ''[[Pholiota]]'', it was transferred to genus ''[[Gymnopilus]]'' by mycologist [[Rolf Singer]] in 1951.<ref name="Singer 1951"/>
+
+==See also==
+{{Portal|Fungi}}
+* [[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Singer 1951">{{cite journal |last1=Singer |first1=R. |year=1951 |title=The Agaricales in modern taxonomy |journal=Lilloa |volume=22 |page=561}}</ref>
+
+}}
+
+{{Taxonbar|from=Q5624700}}
+
+[[Category:Gymnopilus|aculeatus]]
+[[Category:Fungi described in 1890]]
+[[Category:Taxa named by Casimir Roumeguère]]
+[[Category:Taxa named by Giacomo Bresadola]]
+[[Category:Fungus species]]
+
+
+{{Hymenogastraceae-stub}}

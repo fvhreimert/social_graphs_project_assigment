@@ -1,0 +1,102 @@
+{{short description|Species of agaric fungus in the family Mycenaceae}}
+{{Speciesbox
+| image = Mycena chlorophos.jpg
+| image_caption = In [[Hachijō-jima]] botanical park, Japan
+| genus = Mycena
+| species = chlorophos
+| authority = ([[Berk.]] & [[M.A.Curtis]]) [[Sacc.]] (1887)
+| synonyms_ref = <ref name="urlMycoBank: Mycena chlorophos"/><ref name="Desjardin 2010"/>
+| synonyms =
+  {{plainlist |
+*''Agaricus chlorophos'' <small>Berk. & M.A.Curtis (1860)</small>
+*''Agaricus cyanophos'' <small>Berk. & M.A. Curtis (1860)</small>
+  }}
+}}
+
+'''''Mycena chlorophos''''' is a species of [[agaric]] [[fungus]] in the family [[Mycenaceae]]. First described in 1860, the fungus is found in [[subtropical]] Asia, including [[India]], [[Japan]], [[Taiwan]], [[Polynesia]], [[Indonesia]], and [[Sri Lanka]], in [[Australia]], and [[Brazil]].  [[Basidiocarp|Fruit bodies]] (mushrooms) have pale brownish-grey sticky [[pileus (mycology)|caps]] up to {{convert|30|mm|in|abbr=on}} in diameter atop [[stipe (mycology)|stems]] {{convert|6|–|30|mm|in|1|abbr=on}} long and up to a millimeter thick. The mushrooms are [[bioluminescent]] and emit a pale green light. Fruiting occurs in forests on fallen woody debris such as dead twigs, branches, and logs. The fungus can be made to grow and fruit in laboratory conditions, and the growth conditions affecting bioluminescence have been investigated.
+
+==Taxonomy==
+The species was first [[species description|described]] scientifically by [[Miles Berkeley]] and [[Moses Ashley Curtis]] in 1860 as ''Agaricus chlorophos''.<ref name="Berkeley 1860"/> The original specimens were collected from the [[Bonin Islands]] by American botanist [[Charles Wright (botanist)|Charles Wright]] in October 1854 as part of the [[North Pacific Exploring and Surveying Expedition]] of 1853–56.<ref name="Desjardin 2010"/> [[Pier Andrea Saccardo]] transferred the species to the genus ''[[Mycena]]'' in an 1887 publication.<ref name="Saccardo 1887"/> [[Daniel Desjardin]] and colleagues redescribed the species and set a [[lectotype]] specimen in 2010.<ref name="Desjardin 2010"/>
+
+In 1860, Berkeley and Curtis described the species ''Agaricus cyanophos'' from the material also collected from the Bonin Islands. This material was found near the location that the original specimens of ''M.&nbsp;chlorophos'' were found, but a couple of weeks later. Japanese mycologists [[Seiya Ito]] and [[Sanshi Imai]] studied these collections in the late 1930s, and concluded that ''Agaricus cyanophos'' was the same species as ''M.&nbsp;chlorophos'', despite differences in cap shape, gill attachment, and the color of emitted light. Desjardin and colleagues agreed with this determination after examining the type material of both taxa. ''M.&nbsp;chlorophos'' is [[classification (biology)|classified]] in the [[section (biology)|section]] ''Exornatae'' of the genus ''Mycena''. Other luminescent species in this section are ''[[Mycena dicobasis|M.&nbsp;discobasis]]'' and ''[[Mycena marginata|M.&nbsp;marginata]]''.<ref name="Desjardin 2010"/> Some authors have considered ''[[Mycena illuminans|M.&nbsp;illuminans]]'' to be synonymous with ''M.&nbsp;chlorophos'' due to their morphological similarity, but [[molecular phylogenetics|molecular]] analysis has shown that they are distinct species.<ref name="Chew 2013"/>
+
+In Japan, the mushroom is known as ''yakoh-take'', or "night-light mushroom".<ref name="Niitsu 2000"/>  In the [[Bonin Islands]], it is called "Green Pepe".<ref name="Niitsu 2000"/>
+
+==Description==
+{{mycomorphbox
+| name = ''Mycena chlorophos''
+| hymeniumType = gills
+| capShape = conical
+| capShape2 = flat
+| whichGills = free
+| whichGills2 = adnexed
+| stipeCharacter = bare
+| sporePrintColor = white
+| ecologicalType = saprotrophic
+| howEdible = unknown
+}}
+The [[pileus (mycology)|cap]] is initially convex before flattening out (sometimes forming a central depression), and measures up to {{convert|30|mm|in|abbr=on}} in diameter. The cap has radial grooves extending to nearly the center, and sometimes develops cracks in the margin, which has small rounded teeth. Its color is pale brownish gray that fades after expansion, and it is somewhat sticky. The white [[stipe (mycology)|stem]] is {{convert|6|–|30|mm|in|abbr=on}} long by 0.3–1&nbsp;mm thick, hollow, and translucent. It has tiny hairs on the surface. The base of the stem is disc-shaped or somewhat bulbous, measuring 1–2.5&nbsp;mm wide. The thin [[lamella (mycology)|gills]] are free from attachment to the stem, or are adnexed (narrowly attached) to a slight collar encircling the stem. Initially white then grayish in color, they are somewhat crowded, with 17–32 full-length gills and 1 to 3 tiers of lamellulae (shorter gills that do not extend fully from the cap margin to the stem). The gills are 0.3–1&nbsp;mm wide with [[wikt:micaceous|micaceous]] edges. The [[trama (mycology)|flesh]] is very thin, and has a strong odor of [[ammonia]]. Both the caps and the gills are bioluminescent, while the [[mycelia]] and stems have little to no luminescence.<ref name="Corner 1954"/>
+
+The spores are white, smooth, roughly elliptical, and have dimensions of 7–8.5 by 5–6&nbsp;[[micrometre|μm]]. The [[basidia]] (spore-bearing cells) are 17–23 by 7.5–10&nbsp;μm, and four-spored with [[sterigmata]] around 3 μm long. The [[paraphyses]] are 5–8&nbsp;μm wide, shorter than the basidia, more abundant and form a somewhat gelatinous layer. The cheilocystidia ([[cystidia]] on the cap edge) are 60 by 7–21&nbsp;μm, [[hyaline]], conical or ventricose (inflated). The tips of the cheilocystidia are drawn out to a point, or have a short appendage measuring 15 by 2–3&nbsp;μm, which is sometimes branched, and is thin or slightly thick-walled. There are no cystidia on the gill face (pleurocystidia). Pileocystidia (cystidia on the surface of the cap) are club-shaped, measuring 25–60 by 13–25&nbsp;μm. They are somewhat thick-walled, and spiny on the exposed surface with short simple outgrowths extending up to 3&nbsp;μm long. The pileocystidia are joined together and form a continuous layer over the young cap, but break up as the cap expands. The caulocystidia (cystidia on the stem) are conical or lance-shaped, hyaline, and smooth, with walls that are thin or slightly thickened. They measure up to 300 by 10–25&nbsp;μm, but are shorter in the upper regions of the stem.<ref name="Corner 1954"/> [[Clamp connection]]s are present in the [[hypha]]e of all tissues.<ref name="Desjardin 2010"/>
+
+==Similar species==
+The two other luminescent species of ''Mycena'' section ''Exornatae'' are similar in appearance to ''M.&nbsp;chlorophos''. ''M.&nbsp;discobasis'' fruit bodies have paler caps; microscopically, they have larger spores measuring 9.9 by 6.7&nbsp;μm, and lack the short apical appendage found on ''M.&nbsp;chlorophos'' cheilocystidia. ''M.&nbsp;margarita'' has smaller spores averaging 6.9 by 4.4&nbsp;μm, smaller cheilocystidia, and loop-like clamp connections.<ref name="Desjardin 2010"/>
+
+==Habitat and distribution==
+Fruit bodies of ''Mycena chlorophos'' are found in forests, where they grow in groups on woody debris such as fallen twigs, branches, and bark.<ref name="Hongo 1977"/> In the Japanese [[Hachijo Island|Hachijo]] and [[Bonin Islands]], mushrooms occur predominantly on decaying [[petiole (botany)|petioles]] of the palm ''[[Phoenix roebelenii]]''. The fungus requires a proper range of humidity to form mushrooms; for example, on [[Hachijo Island]], fruiting only occurs in the rainy seasons in June/July and September/October when the [[relative humidity]] is around 88%, usually the day after rain falls.<ref name="Niitsu 2000"/><ref name="Mori 2011"/> Experimental studies have shown that mushroom [[primordia]] that are too wet become deformed, while conditions that are too dry cause the caps to warp and break because the delicate gelatinous membrane covering them is broken.<ref name="Niitsu 2000"/>
+
+In Asia, the species has been found in Japan, Taiwan, Polynesia, Java, and Sri Lanka.<ref name="Hongo 1977"/> In Japan, the fungus is becoming more scarce as its natural habits are decreasing.<ref name="Niitsu 2000"/> Several Australian [[field guide]]s have reported the species from that country. The fungus has also been recorded several times from Brazil.<ref name="Desjardin 2010"/> ''Mycena chlorophos'' was one of several fungi featured in a set of postage stamps issued in [[Samoa]] in 1985.<ref name="Moss 1986"/>
+
+==Bioluminescence studies==
+
+Since the mushroom is small, and fruits in only a limited season in a small area, researchers have investigated the conditions needed to artificially cultivate the species in laboratory conditions, in order to have more material to study the mechanism of bioluminescence, and to help preserve the species. The optimum temperature for the growth of mycelia is {{convert|27|°C|°F}}, while the optimum for the growth of primordia is {{convert|21|°C|°F}}. These temperatures are consistent with the subtropical climate in which the species is typically found. Maximum luminescence occurs at 27&nbsp;°C, and about 25–39&nbsp;hours after the primordia begin to form, when the cap has fully expanded. At 21&nbsp;°C, luminescence persists for about 3&nbsp;days, and becomes undetectable to the naked eyes about 72&nbsp;hours after primordium initiation.<ref name="Niitsu 2000b"/>
+
+==See also==
+{{Portal|Fungi}}
+*[[List of bioluminescent fungi]]
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Berkeley 1860">{{cite journal |vauthors=Berkeley MJ, Curtis MA |title=Characters of new fungi, collected in the North Pacific Exploring Expedition by Charles Wright |journal=Proceedings of the American Academy of Arts and Sciences |year=1860 |volume=4 |pages=111–30 |url=https://www.biodiversitylibrary.org/page/3064957}}</ref>
+
+<ref name="Chew 2013">{{cite journal |vauthors=Chew AL, Tan YS, Desjardin DE, Musa MY, Sabaratnam V |title=Taxonomic and phylogenetic re-evaluation of ''Mycena illuminans'' |journal=Mycologia |year=2013 |volume=105 |issue=5 |pages=1325–35 |doi=10.3852/13-009 |pmid=23709573|s2cid=22546166 }}</ref>
+
+<ref name="Corner 1954">{{cite journal |author=Corner EJH. |title=Further descriptions of luminous agarics |journal=Transactions of the British Mycological Society |year=1954 |volume=37 |issue=3 |pages=256–71 |doi=10.1016/s0007-1536(54)80009-x}}</ref>
+
+<ref name="Desjardin 2010">{{cite journal |vauthors=Desjardin DE, Lodge DJ, Stevani CV, Nagasawa E |title=Luminescent ''Mycena'': new and noteworthy species |journal=Mycologia |year=2010 |volume=102 |issue=2 |pages=459–77 |doi=10.3852/09-197 |pmid=20361513 |s2cid=25377671 |url=https://naldc-legacy.nal.usda.gov/naldc/download.xhtml?id=41883&content=PDF |access-date=2018-12-29 |archive-date=2021-06-10 |archive-url=https://web.archive.org/web/20210610155141/https://naldc-legacy.nal.usda.gov/naldc/download.xhtml?id=41883&content=PDF |url-status=dead |url-access=subscription }}</ref>
+
+<ref name="Hongo 1977">{{cite journal |author=Hongo T. |title=Higher fungi of the Bonin Islands I |journal=Memoirs of the National Science Museum (Tokyo) |year=1977 |issue=10 |pages=31–42 |url=http://ci.nii.ac.jp/els/40001376134.pdf?id=ART0006481349&type=pdf&lang=en&host=cinii&order_no=&ppv_type=0&lang_sw=&no=1341721836&cp=}}</ref>
+
+<ref name="Mori 2011">{{cite journal |vauthors=Mori K, Kojima S, Maki S, Hirano T, Niwa H |title=Bioluminescence characteristics of the fruiting body of ''Mycena chlorophos'' |journal=Luminescence |year=2011 |volume=26 |issue=6 |pages=604–10 |doi=10.1002/bio.1280|pmid=21370386 }}</ref>
+
+<ref name="Moss 1986">{{cite journal |vauthors=Moss MO, Dunkley IP |title=Fungi of stamps 1984–1985 |journal=Bulletin of the British Mycological Society |year=1986 |volume=20 |issue=1 |pages=63–8 |doi=10.1016/S0007-1528(86)80020-7}}</ref>
+
+<ref name="Niitsu 2000">{{cite journal |vauthors=Niitsu H, Hanyuda N |title=Fruit-body production of a luminous mushroom, ''Mycena chlorophos'' |journal=Mycoscience |year=2000 |volume=41 |issue=6 |pages=559–64 |doi=10.1007/BF02460921|s2cid=84489071 }}</ref>
+
+<ref name="Niitsu 2000b">{{cite journal |vauthors=Niitsu H, Hanyuda N, Sugiyama Y |title=Cultural properties of a luminous mushroom, ''Mycena chlorophos'' |journal=Mycoscience |year=2000 |volume=41 |issue=6 |pages=551–8 |doi=10.1007/BF02460920|s2cid=83627566 }}</ref>
+
+<ref name="Saccardo 1887">{{cite journal |author=Saccardo PA. |title=Sylloge Hymenomycetum, Vol. I. Agaricineae |journal=Sylloge Fungorum |year=1887 |volume=5 |page=301 |language=la }}</ref>
+
+<ref name="urlMycoBank: Mycena chlorophos">{{cite web |title=''Mycena chlorophos'' (Berk. & M.A. Curtis) Sacc. 1887 |url=http://www.mycobank.org/Biolomics.aspx?Table=Mycobank&MycoBankNr_=147895 |publisher=[[MycoBank]]. International Mycological Association |access-date=2012-09-08}}</ref>
+
+}}
+
+==External links==
+* {{Commons category-inline}}
+* {{IndexFungorum|147895}}
+
+{{Good article}}
+{{Taxonbar|from=Q985826}}
+
+[[Category:Bioluminescent fungi]]
+[[Category:Mycena|chlorophos]]
+[[Category:Fungi described in 1860]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Australia]]
+[[Category:Fungi of Oceania]]
+[[Category:Fungi of South America]]
+[[Category:Taxa named by Miles Joseph Berkeley]]
+[[Category:Taxa named by Moses Ashley Curtis]]
+[[Category:Fungi without expected TNC conservation status]]
+[[Category:Fungus species]]

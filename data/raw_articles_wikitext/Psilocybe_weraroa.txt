@@ -1,0 +1,146 @@
+{{Short description|Species of fungus}}
+{{cs1 config|name-list-style=vanc|display-authors=6}}
+{{Speciesbox
+| image = Weraroa novae zelandiae.jpg
+| image_caption =
+| genus = Psilocybe
+| species = weraroa
+| authority = Borovička, Oborník & [[Noordel.]] (2011)
+| synonyms_ref = <ref name="urlMycoBank: Psilocybe weraroa"/>
+| synonyms = ''Secotium novae-zelandiae'' <small>[[G.Cunn.]] (1924)</small><br>
+''Weraroa novae-zelandiae'' <small>(G.Cunn.) [[Rolf Singer|Singer]] (1958)</small>
+}}
+
+'''''Psilocybe weraroa''''', formerly '''''Weraroa novae-zelandiae''''', is a [[secotioid]] fungus in the family ''[[Hymenogastraceae]]''.<ref>{{Cite web|date=2011|title=Index Fungorum - Names Record|url=https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=515728|url-status=live|access-date=2 October 2021|website=Index Fungorum|archive-date=1 October 2021|archive-url=https://web.archive.org/web/20211001132817/https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=515728}}</ref> It is [[Endemism|endemic]] to New Zealand, where it grows in native forests from rotting wood and woody debris.<ref name=":0">{{Cite web|title=Psilocybe weraroa Borovička, Oborník & Noordel.|url=https://www.nzor.org.nz/names/bfbbe483-5120-4425-b8a5-a3507d26f43a|url-status=live|access-date=2 October 2021|website=NZOR|archive-date=1 October 2021|archive-url=https://web.archive.org/web/20211001131207/https://www.nzor.org.nz/names/bfbbe483-5120-4425-b8a5-a3507d26f43a}}</ref> Despite its pouch-like form this species is closely related to ''[[Psilocybe cyanescens]]'' and ''[[Psilocybe subaeruginosa]]''. <ref name="Borovicka2011" /> As a bluing member of the genus ''[[Psilocybe]]'' it contains the psychoactive compounds [[psilocin]] and [[psilocybin]].<ref name="Bridge2008" /> It has been cultivated commercially by Rua Bioscience with a view to researching potential medical applications, bringing together its traditional uses in [[Rongoā Māori]] with the recent interest in Western medicine into the medical applications of psilocin and psilocybin.<ref>[https://drugfoundation.org.nz/articles/the-tairawhiti-hapu-exploring-indigenous-psilocybin-to-treat-methamphetamine-addiction The Tairāwhiti hapū exploring indigenous psilocybin to treat methamphetamine addiction. ''New Zealand Drug Foundation'', 24 May 2023]</ref><ref>[https://mugglehead.com/maori-group-receives-first-psilocybin-cultivation-license-in-nz-to-treat-substance-use-disorders/ Dunne R. Māori group receives first psilocybin cultivation license in NZ to treat substance use disorders. ''Mugglehead Magazine'' 30 October 2023]</ref><ref>{{cite web | url = https://www.nzherald.co.nz/kahu/magic-mushroom-trialled-as-rongoa-to-treat-addiction-and-mental-health-issues/J7YVYQKFXVFZTJYPQCBRV7I7CI/ | vauthors = Hill N | title = Magic mushroom trialled as rongoa to treat addiction and mental health issues. | work = New Zealand Herald | date = 24 April 2024 }}</ref>
+
+== Taxonomy and naming ==
+The species was first described in the literature in 1924 by the New Zealand-based mycologist [[Gordon Heriot Cunningham]], under the name ''Secotium novae-zelandiae''.<ref name=Cunningham1924/> [[Rolf Singer]] transferred it to the genus ''[[Weraroa]]'' in 1958.<ref name=Singer1958/> [[Phylogenetic]] analysis by Moncalvo (2002)<ref name=Moncalvo2002/> and Bridge et al. (2008)<ref name=Bridge2008/> has demonstrated the close relationship between ''Weraroa novae-zelandiae'' and the hallucinogenic blue-staining group of ''Psilocybe'', particularly ''[[Psilocybe subaeruginosa]]''. [[molecular phylogenetics|Phylogenetic]] analysis published by Borovička and colleagues (2011) showed this species is very close to ''[[Psilocybe cyanescens]]''. Given this and the apparently distant relation with other species of ''[[Weraroa]]''  Borovička et al. (2011) suggested renaming the species ''Psilocybe weraroa''.<ref name=Borovicka2011/>
+
+{{Cladogram|cladogram={{Clade|style=font-size:85%; line-height:75%; width:25em;
+|1={{Clade
+   |1={{Clade
+      |1={{Clade
+         |1={{Clade
+              |2=''[[Psilocybe cyanescens|P. cyanescens]]'' "Wavy Caps"
+               |1=''[[Psilocybe subaeruginosa|P. subaeruginosa]]'' "Subs"
+                |4='''''P. weraroa'''''
+                |3=''[[Psilocybe allenii|P. allenii]]''
+                |5={{Clade
+                 |1=''[[Psilocybe makarorae|P. makarorae]]''
+                  }}
+
+               }}
+              |2={{Clade
+               |1=''[[Psilocybe cubensis|P.&nbsp;cubensis]]'' "Magic Mushrooms"
+               }}
+       }}
+
+            |2=''[[Psilocybe serbica|P. serbica]]''
+           }}
+
+       
+   |2={{Clade
+      |1={{Clade
+         |1={{Clade
+            |1=''[[Psilocybe medullosa|P. medullosa]]''
+            }}
+         |2={{Clade
+            |1=''[[Psilocybe zapotecorum|P. zapotecorum]]''
+            |2=''[[Psilocybe aucklandiae|P. aucklandiae]]''
+            }}
+          |3={{Clade
+            |1=''[[Psilocybe pelliculosa|P. pelliculosa]]'' "Conifer Psilocybe"
+            |2=''[[Psilocybe alutacea|P. alutacea]]''
+            |3={{Clade
+             |1=''[[Psilocybe angulospora|P. angulospora]]''
+             |2=''[[Psilocybe semilanceata|P. semilanceata]]'' "Liberty Caps"
+              }}
+           }}
+         }}
+      |2=''[[Psilocybe fuscofulva|P. fuscofulva]]''
+      }}
+   }}
+  
+}}|caption=[[Cladogram]] depicting the [[phylogeny]] of ''P. weraroa'' and related species of ''Psilocybe''. <ref name="Borovicka2011"/>|align=left}}
+
+=== Etymology ===
+The [[specific name (botany)|species epithet]] ''weraroa'' is taken from the former generic name, which refers to the [[Type locality (biology)|type locality]]. The binomial ''Psilocybe novae-zelandiae'' could not be used, as it had been applied to another species in 1978 by [[Gastón Guzmán]] and [[Egon Horak]] (now ''[[Deconica novae-zelandiae]]'').<ref name=Guzman1979/><ref name=Redhead2007/>
+
+==Description==
+{{mycomorphbox
+| name = ''Psilocybe weraroa''
+| capShape = conical 
+| capShape2 = ovate
+| hymeniumType=gleba
+| stipeCharacter=bare
+| stipeCharacter2=cortina
+| ecologicalType=saprotrophic
+| sporePrintColor=purple-brown
+| howEdible=psychoactive
+}}
+
+[[Pileus (mycology)|Pileus]] ([[Peridium]]) {{cvt|3-5|cm}} long by {{cvt|1.5-3|cm}} wide, roundish, [[Glossary of botanical terms#ovate|ovate]] (wider at the base and tapering towards the end, egg-shaped) or elongated and [[elliptic]] (tapered at the base and apex with a swollen mid-section), base [[decurrent]] (extending down the stem below the insertion) or rounded and blunt, margin folded and often torn, light brown when young, becoming french-grey or pale blue-grey, sometimes pallid green in age, longitudinally [[wikt:fibrillose|fibrillose]] causing a finely striated appearance, becoming smooth, polished, [[glabrousness (botany)|glabrous]], tacky and leathery in age, slowly bruising blue or greenish when injured, drying yellow to dingy brown. [[Stipe (mycology)|Stipe]] up to {{cvt|40|mm}} long by {{cvt|6|mm}} in diameter, slender, equal in width, whitish to french-grey, bruising blue or greenish with damage, yellowish-brown at the base, initially fibrillose but becoming smooth, polished and cartilaginous in age excluding at the base, hollow, flesh yellow-orange, thickening at the internal apex. [[Gleba]] sepia-brown to chocolate-brown, cellular, coarsely shaped, often elongated, laterally compressed, sparse, chambered and gill-like. [[Basidiospore|Spores]] 11–15(17) x 5–8 μm in size, smooth, [[sepia (color)|sepia]]-coloured to purple-brown, elliptic-ovate or elliptical in shape, rounded at one end with a thin [[epispore]].<ref name="Cunningham1924" />
+
+==Habitat and distribution==
+
+The species is endemic to New Zealand,<ref name=":0" /> and is fairly abundant in the early winter and spring months in lowland mixed rainforest near [[Wellington]] and [[Auckland]]. The mushroom can be difficult to see, often buried under leaves or eaten by slugs, and it is sometimes hard to find mature specimens that are not partially eaten.<ref name="Cunningham1924" /> The species is typically found on decaying wood buried in forest leaf litter (either solitary or crowded), often on the rotting branches of ''[[Melicytus ramiflorus]]''. It has also been found fruiting on rotted cabbage trees and associated with decaying tree-fern fronds, native to the forests of New Zealand.<ref name="Cunningham1924" />
+
+== Similar species ==
+
+
+''[[Clavogaster virescens]]'' is similar in appearance and habitat, but the gleba form a reddish brown chambered mass enclosed inside a sack-like structure within the peridium. The stem is stout, smooth and slippery rather than fibrous, off-white to yellow, enlarged at the top where it often smoothly transitions into the pouch, and tapering towards a yellower base. The fungus does not have a bluing reaction; it is naturally blue to greenish blue, and has no psychoactive properties.<ref name="Cunningham1924" />
+
+== Ecology ==
+
+A hypothesis for the species' development of pouches is that it evolved as a strategy to be eaten by the flightless extinct [[moa]], disguising the fruitbodies of the fungus as fallen berries, in order for the spores to be disbursed into new areas.<ref name="ForgottenForest">{{cite q|Q135894239|pp=31-33}}</ref>
+
+==Gallery==
+<gallery>
+W novae-zelandiae X section.jpg|A cross-section of the basidiocarp.
+Weraroa novae-zelandiae.jpg|Fruitbodies.
+Weraroa novae-zelandiae 55297.jpg|Young specimen
+Weraroa novae-zelandiae 55305.jpg|The same specimen as above after three days
+File:Psilocybe weraroa 385440970.jpg|A selection of fruiting bodies
+</gallery>
+
+==References==
+{{Reflist|refs=
+<ref name=Borovicka2011>{{cite journal |vauthors=Borovička J, Noordeloos ME, Gryndler M, Oborník M |year=2011 |title=Molecular phylogeny of ''Psilocybe cyanescens'' complex in Europe, with reference to the position of the secotioid ''Weraoa novae-zelandiae'' |journal=Mycological Progress |doi=10.1007/s11557-010-0684-3 |volume=10 |issue=2 |pages=149–55 |bibcode=2011MycPr..10..149B |s2cid=36050854 |url=http://old.paru.cas.cz/images/laboratory/5/71-2-Borovicka%20et%20al%202010.pdf |access-date=2013-03-01 |archive-date=2016-03-04 |archive-url=https://web.archive.org/web/20160304043019/http://old.paru.cas.cz/images/laboratory/5/71-2-Borovicka%20et%20al%202010.pdf |url-status=dead }}</ref>
+
+<ref name=Bridge2008>{{cite journal |vauthors=Bridge PD, Spooner BM, Beever RE, ((Park D-C)) |title=Taxonomy of the fungus commonly known as ''Stropharia aurantiacea'', with new combinations in''Leratiomyces'' |url=http://www.cybertruffle.org.uk/cyberliber/59575/0103/0109.htm |journal=Mycotaxon |year=2008 |volume=103 |pages=109–21 |access-date=2013-03-02 |archive-date=2015-09-24 |archive-url=https://web.archive.org/web/20150924003854/http://www.cybertruffle.org.uk/cyberliber/59575/0103/0109.htm |url-status=live }}</ref>
+
+<ref name=Cunningham1924>{{Cite journal | vauthors = Cunningham GH |date=1924 |title=A critical revision of the Australian and New Zealand species of the genus ''Secotium''. |url=https://BiotaNZ.landcareresearch.co.nz/references/a7ee50bc-f887-4053-84ec-bec301e7f4be |journal=Proceedings of the Linnean Society of New South Wales |volume=49 |issue=2 |pages=97–119 |access-date=2023-05-18 |via=Manaaki Whenua - Landcare Research (2004) New Zealand Fungi Names Databases}}</ref>
+
+<ref name=Guzman1979>{{cite journal |vauthors=Guzmán G, Horak E |title=New species of ''Psilocybe'' from Papua New Guinea, New Caledonia and New Zealand |journal=Sydowia |year=1978 |volume=31 |issue=1–6 |pages=44–54 |url=http://www.landesmuseum.at/pdf_frei_remote/Sydowia_31_0044-0054.pdf |access-date=2011-07-23 |archive-date=2011-09-29 |archive-url=https://web.archive.org/web/20110929214222/http://www.landesmuseum.at/pdf_frei_remote/Sydowia_31_0044-0054.pdf |url-status=live }}</ref>
+
+<ref name=Moncalvo2002>{{cite journal |vauthors=Moncalvo JM, Vilgalys R, Redhead SA, Johnson JE, James TY, Catherine Aime M, Hofstetter V, Verduin SJ, Larsson E, Baroni TJ, Greg Thorn R, Jacobsson S, Clémençon H, Miller OK |title=One hundred and seventeen clades of euagarics |journal=Molecular Phylogenetics and Evolution |volume=23 |issue=3 |pages=357–400 |year=2002 |pmid=12099793 |doi=10.1016/S1055-7903(02)00027-1|bibcode=2002MolPE..23..357M }}</ref>
+
+<ref name=Redhead2007>{{cite journal |vauthors=Redhead SA, ((Moncalvo J-M)), Vilgalys R, Matheny PB, Guzmán-Dávalos L, Guzmán G |title=(1757) Proposal to conserve the name ''Psilocybe'' (Basidiomycota) with a conserved type |journal=Taxon |year=2007 |volume=56 |issue=1 |pages=255–7 |doi=10.2307/25065762 |url=http://www.bio.utk.edu/matheny/Site/Publications_files/Redhead_conserve_Psilocybe_Taxon.2007.pdf |jstor=25065762 |bibcode=2007Taxon..56..255R |access-date=2013-03-01 |archive-date=2011-10-02 |archive-url=https://web.archive.org/web/20111002015255/http://www.bio.utk.edu/matheny/Site/Publications_files/Redhead_conserve_Psilocybe_Taxon.2007.pdf |url-status=live }}</ref>
+
+<ref name=Singer1958>{{cite journal |author=Singer R. |title=New genera of fungi, IX. The probable ancestor of the Strophariaceae: ''Weraroa'' gen. nov |journal=Lloydia |year=1958 |volume=21 |pages=45–7}}</ref>
+
+<ref name="urlMycoBank: Psilocybe weraroa">{{cite web |title=''Psilocybe weraroa'' Borovička, Oborník & Noordel. 2011 |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=515728 |publisher=[[MycoBank]]. International Mycological Association |access-date=2011-07-22}}</ref>
+
+}}
+
+== Further reading ==
+{{refbegin}}
+* {{cite web | url = https://inaturalist.nz/observations?place_id=6803&quality_grade=research&taxon_id=126163 | title = ''Psilocybe weraroa'' observations | work = [[iNaturalist]] }}
+* {{cite web | url = http://www.mykoweb.com/articles/Weraroa.html | title = Hey Man, Do they grow any Weraroa around here? | vauthors = Werner P | work = Mycena News | via =  MykoWeb | date = September 2008 }}
+* {{cite web | url = https://BiotaNZ.landcareresearch.co.nz/scientific-names/0dbef664-7de7-4177-9874-8bea4619f6cb | work = New Zealand Fungi Names Databases | title = ''Psilocybe weraroa'' Borov., Oborník & Noordel. 2011. | vauthors = Whenua N | publisher = Landcare Research | date = 2022 }}
+{{refend}}
+
+==External links==
+* {{Commons category-inline}}
+
+{{Hallucinogenic mushrooms}}
+{{Taxonbar|from=Q7255960}}
+
+[[Category:Entheogens]]
+[[Category:Psychoactive fungi]]
+[[Category:Psychedelic tryptamine carriers]]
+[[Category:Fungi described in 1924]]
+[[Category:Fungi of New Zealand]]
+[[Category:Secotioid fungi]]
+[[Category:Fungus species]]
+[[Category:Endemic biota of New Zealand]]

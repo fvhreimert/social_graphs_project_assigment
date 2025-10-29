@@ -1,0 +1,39 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Jodoform-Täubling (Russula turci).jpg
+| image_caption =
+| genus = Russula
+| species = turci
+| authority = [[Giacomo Bresadola|Bres.]] 1882 
+}}
+
+'''''Russula turci''''' is a common, edible, ''[[Russula]]'' mushroom,<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |orig-date=2005 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=132}}</ref> found under pines and spruces, on sandy soil and clay.
+
+==Description==
+The cap is flat when young, matures to be somewhat funnel shaped, dark amethyst-violet to brownish pink. The margin is paler and noticeably matt. The cap grows up to 8&nbsp;cm in diameter.
+The gills are cream to light ochre, rather crowded and connected at the base by cross veins. The spores are ochre. The stem is white and evenly thick. The flesh is white, and the base of the stem has a distinct smell of iodine.
+
+==Similar species==
+The rare ''[[Russula azurea]]'' also has a purple cap and grows beneath spruces. ''[[Russula amethystina]]'' can hardly be distinguished from this mushroom, its blue to reddish-violet cap occasionally has pale patches and also a smell of iodine in the stem base. It can be found in coniferous mountain forests, mostly under [[Abies alba|silver fir]].
+
+==See also==
+*[[List of Russula species|List of ''Russula'' species]]
+
+==References==
+{{Reflist}}
+
+===Sources===
+*E. Garnweidner. ''Mushrooms and Toadstools of Britain and Europe''. Collins. 1994.
+
+==External links==
+{{IndexFungorum|203831}}<br>
+{{MycoBank|203831}}
+{{Taxonbar|from=Q1691292}}
+
+[[Category:Russula|turci]]
+[[Category:Fungi of Europe]]
+[[Category:Edible fungi]]
+[[Category:Taxa named by Giacomo Bresadola]]
+[[Category:Fungi described in 1882]]
+[[Category:Fungus species]]
+[[Category:Fungi of Turkey]]

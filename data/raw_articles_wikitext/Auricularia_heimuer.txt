@@ -1,0 +1,82 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Wood ear mushroom farm.jpg
+| image_caption = Cultivated ''Auricularia heimuer''
+| taxon = Auricularia heimuer
+| authority = F. Wu, B.K. Cui, Y.C. Dai (2014)
+}}
+{{infobox Chinese
+|c=黑木耳
+|l="black wood ear"
+|p=hēi mù'ěr
+|mi={{IPAc-cmn|h|ei|1|-|m|u|4|.|er|3}}
+|j=hak1 muk6-ji5
+|y=hāk muhk-yíh
+|ci={{IPAc-yue|h|ak|1|-|m|uk|6|.|j|i|5}}
+}}
+'''''Auricularia heimuer''''', also known as '''heimuer''' ({{zh|s=黑木耳|p=hēimù'ěr}}) or '''black wood ear''', is a [[species]] of [[fungus]] in the [[order (biology)|order]] [[Auriculariales]]. It is commercially cultivated for food in China at a value exceeding $4 billion (USD) per year. The species was previously referred to as the European ''[[Auricularia auricula-judae]]'', but the latter is not known to occur in East Asia. ''Auricularia heimuer'' is a popular ingredient in many Chinese dishes, such as [[hot and sour soup]], and it is also used in [[traditional Chinese medicine]].
+
+==Description==
+
+[[Sporocarp (fungi)|Fruitbodies]] are gelatinous, ear-shaped, and laterally attached to wood. They are up to {{convert|12|cm|abbr=off|frac=4}} across and {{convert|1.5|mm|abbr=on|frac=16}} thick. The upper surface is finely [[tomentose]], coloured fawn to reddish brown when fresh, and coloured grey-brown when dry. The colour of cultivated specimens is often darker. The spore-producing underside is smooth to slightly veined, coloured pinkish buff when fresh, and coloured purplish grey when dry.<ref name="wu2014"/>
+
+===Microscopic features===
+The [[basidia]] are cylindrical, 40–65 x 3–6.5&nbsp;μm, with three transverse [[Septum#Fungus|septa]]. The [[basidiospores]] are allantoid (sausage shaped), 11–13 x 4–5&nbsp;μm. Hairs on the upper surface are 50–150 x 4–6,5&nbsp;μm. When cross-sectioned, a medulla (a central band of parallel [[hyphae]]) is normally present.<ref name="wu2014"/>
+
+===Similar species===
+The Asian ''[[Auricularia villosula]]'' is very similar, but distinguishable microscopically by its shorter hairs (30–70&nbsp;μm long). Some strains of heimuer cultivated in China have proved to be ''A.&nbsp;villosula''.<ref name="wu2015"/> The European ''A.&nbsp;auricula-judae'' is superficially similar, but it is not as dark as cultivated ''A.&nbsp;heimuer'' and microscopically distinguishable by its larger basidia and spores, the latter measuring 14.5–18 x 5–6&nbsp;μm. Fruitbodies of both these species lack a medulla when cross-sectioned.<ref name="wu2021"/>
+
+== Taxonomy ==
+
+''A. heimuer'' was described in 2014 as a result of [[Molecular phylogenetics|molecular]] research, based on [[cladistic]] analysis of [[DNA sequences]], into wild and cultivated species of ''[[Auricularia]]'' in China.<ref name="wu2014" /> This research revealed that the most frequently cultivated species was previously misdetermined as ''[[Auricularia auricula-judae]]'', a species confined to Europe, and was instead a separate and distinctive species restricted to east Asia. It was given the name ''Auricularia heimuer'' based on the Chinese vernacular name for the fungus: heimuer (黑木耳), which translates to black wood ear.<ref name="wu2014" />
+
+== Distribution and habitat ==
+
+''Auricularia heimuer'' is a [[Wood-decay fungus|wood-rotting species]], typically found on the dead standing or fallen wood of [[Broad-leaved tree|broadleaf trees]]. In the wild, it occurs most frequently on [[oak]] (''Quercus'') trees<ref name="wu2014"/> and less frequently on other broadleaf trees. In cultivation, it is sometimes grown on broadleaf logs, and is more commonly grown on [[Growth medium|growing media]] containing sawdust.
+
+The species occurs in temperate areas of northern China,<ref name="wu2014"/> as well as the Russian Far East,<ref name="wu2014"/> Korea,<ref name=Cho2021/> and Japan.<ref name=Kusamoto/>
+
+==Uses==
+
+In China, the use of an ''Auricularia'' species, probably ''A. heimuer'', as a food and a medicine was recorded in the 3rd-century Chinese medicinal book ''[[Shennong Ben Cao Jing]]''.<ref name="wu2015"/> Species were being cultivated in China as early as the [[Tang dynasty]] (618–907). [[Li Shizhen]], in his ''[[Bencao Gangmu|Pen Tsao Kang Mu]]'', quotes Tang Ying-chuan from that period as saying "put the steamed bran on logs, cover with straw, Wood Ear will grow".<ref name="Chang"/> The fungus is widely used as an ingredient in savoury dishes and is also cooked and served as a salad with vegetables and flavourings. A soup containing the species is used medicinally for dealing with colds and fevers in the belief that it reduces the heat of the body.<ref name="Acton"/><ref name="Harding"/> According to a 2010 publication, the annual production of ''Auricularia'' species worldwide is the fourth highest among all industrially cultivated culinary and [[medicinal mushrooms]].<ref name="Tang2010"/> The estimated annual output in China in 2013 was 4.75 billion kg in fresh weight, with a value of about four billion US dollars.<ref name="wu2015"/>
+
+In Japan, the fungus is known as ''kikurage'' (キクラゲ; {{literal translation}} "wood jellyfish") and is commonly shredded and used as a topping in [[ramen]].{{Citation needed|date=October 2025}} A 2018 Japanese study surveyed 26 local specimens originally determined as ''A.&nbsp;auricula-judae''. The molecular identification was as follows: 4 samples of ''A.&nbsp;heimuer'', 7 of ''[[Auricularia minutissima|A. minutissima]]'', 10 of ''[[Auricularia villosula|A. villosula]]'', and 5 of ''[[Auricularia thailandica|A. thailandica]]''.<ref>{{cite journal |last1=貴 |first1=白水 |last2=重樹 |first2=稲葉 |last3=秀爾 |first3=牛島 |last4=康仁 |first4=奥田 |last5=栄史 |first5=長澤 |title=日本産 "Auricularia auricula-judae " および" A. polytricha " の分子系統解析と形態比較に基づく分類学的検討 |journal=日本菌学会会報 |date=2018 |volume=59 |issue=1 |pages=jjom.H30–02 |doi=10.18962/jjom.jjom.H30-02 |url=https://www.jstage.jst.go.jp/article/jjom/59/1/59_jjom.H30-02/_article/-char/ja/ |doi-access=free}}</ref>
+
+In Korea, the mushroom is called ''heuk-mogi'' ({{korean|hangul=흑목이|hanja=黑木耳}}).  It is commercially cultivated<ref name=Cho2021/><ref>{{cite journal |last1=Pant |first1=Nitesh |last2=Noh |first2=HyeongJin |last3=Lee |first3=Won-Ho |last4=Kim |first4=Seong Hwan |title=Genetic Clarification of Auricularia heimuer Strains Bred and Cultivated in Korea Using the ITS and IGS1 rDNA Region Sequences |journal=Mycobiology |date=4 March 2023 |volume=51 |issue=2 |pages=109–113 |doi=10.1080/12298093.2023.2182024 |pmid=37122681 |pmc=10142399 }}</ref> and commonly used in [[japchae]].<ref>{{Cite web|last=Benayoun|first=Mike|date=2020-03-27|title=North Korea: Japchae|url=https://www.196flavors.com/north-korea-japchae/|access-date=2020-11-03|website=196 flavors|language=en-US}}</ref>
+
+==In popular culture==
+The Pokémon [[Toedscool]] and Toedscruel are partially based on these mushrooms.
+
+==References==
+{{Reflist|refs=
+
+<ref name="wu2014">{{cite journal |vauthors=Wu F, Yuan Y, Malysheva VF, Du P, Dai Y  |date = 2014 |title =Species clarification of the most important and cultivated ''Auricularia'' mushroom "Heimuer": evidence from morphological and molecular data |journal=Phytotaxa |volume=186 |issue = 5 |pages=241–253 |doi= 10.11646/phytotaxa.186.5.1|bibcode = 2014Phytx.186..241W }}</ref>
+
+<ref name="wu2015">{{cite journal |vauthors= Wu F, Yuan Y, He S, Bandara AR, Hyde KD, Malysheva VF, Li D, Dai Y  |date = 2015 |title =Global diversity and taxonomy of the ''Auricularia auricula-judae'' complex (Auriculariales, Basidiomycota) |journal=Mycological Progress |volume=14 |issue = 10 |article-number = 95 |doi= 10.1007/s11557-015-1113-4|bibcode = 2015MycPr..14...95W |s2cid = 16991202 }}</ref>
+
+<ref name="wu2021">{{cite journal |vauthors= Wu F, Tohtirjap A, Fan L, Zhou L, Alvarenga RL, Gibertoni TB, Dai Y  |date = 2021 |title =Global diversity and updated phylogeny of ''Auricularia'' (Auriculariales, Basidiomycota) |journal=Journal of Fungi |volume=7 |issue = 11 |page = 933 |doi=10.3390/jof7110933|pmid = 34829220 |pmc = 8625027 |doi-access = free }}</ref>
+
+<ref name=Kusamoto>{{cite journal |vauthors=Kusamoto M, Shirouzu T, Hosaka K, Hosoya T  |date = 2021 |title =Taxonomic reexamination of ''Auricularia'' specimens based on updated morphological criteria |journal=Bull Grad Sch Bioresources Mie Univ |volume=47}}</ref>
+
+<ref name=Cho2021>{{cite journal |vauthors=Cho S, Kwag Y, Lee D, Han J, Kim C  |date = 2021 |title =Current taxonomical status of Korean ''Auricularia'' species |journal=Korean J. Mycol. |volume=49 |issue=1 |pages=21–31 |doi=10.4489/KJM.20210003}}</ref>
+
+<ref name="Chang">{{cite journal |author= Chang, Shu-Ting|year= 1977|title=The origin and early development of straw mushroom cultivation|journal= Economic Botany|volume= 31|issue= 3|pages= 374–6|doi= 10.1007/BF02866890|bibcode= 1977EcBot..31..374C|s2cid= 41279892}}</ref>
+
+<ref name="Acton">{{cite book |title= Mushroom|year= 2001|publisher= Kyle Cathie|isbn= 978-1-85626-739-7|author1=Acton, Johnny |author2=Sandler, Nick }}</ref>
+
+<ref name="Harding">{{cite book |title= Mushroom Miscellany|last= Harding|first= Patrick|year= 2008|publisher= [[HarperCollins]]|isbn= 978-0-00-728464-1}}</ref>
+
+<ref name="Tang2010">{{cite journal |title=Analysis of genetic diversity among Chinese ''Auricularia auricula'' cultivars using combined ISSR and SRAP markers |journal=Current Microbiology |year=2010 |author1=Tang, Lihua |author2=Xiao, Yang |author3=Li, Li |author4=Guo, Qian |author5=Bian, Yinbing. |pages=132–40 |pmid=20127246 |volume=61 |issue=2 |doi=10.1007/s00284-010-9587-4|s2cid=13176315 }}</ref>
+
+}}
+
+{{Taxonbar|from=Q107506789}}
+
+[[Category:Chinese edible mushrooms]]
+[[Category:Auriculariales]]
+[[Category:Fungi of Asia]]
+[[Category:Medicinal fungi]]
+[[Category:Fungi in cultivation]]
+[[Category:Buddhist cuisine]]
+[[Category:Fungi described in 2014]]
+[[Category:Fungus species]]

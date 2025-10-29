@@ -1,0 +1,30 @@
+{{Short description|Species of fungus}}
+{{more citations needed|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption = 
+| taxon = Gymnopilus yangshanensis
+| authority = Z.S.Bi (1990)
+}}
+
+'''''Gymnopilus yangshanensis''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]] found in China.<ref name="Bi 1990"/>
+
+==See also==
+*[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Bi 1990">{{cite book |vauthors=Bi ZS, Zheng G, Li T |title=Macrofungus Flora of the Mountainous district of North Guangdong |year=1990 |location=Guangdong |publisher=Guangdong Science and Technology Press |page=422 |language=Chinese}}</ref>
+
+}}
+
+{{Taxonbar|from=Q5625047}}
+
+[[Category:Fungi described in 1990]]
+[[Category:Fungi of China]]
+[[Category:Gymnopilus|yangshanensis]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

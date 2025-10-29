@@ -1,0 +1,78 @@
+{{DISPLAYTITLE:''Panaeolus semiovatus'' var. ''semiovatus''}}
+{{Taxobox
+| name = ''Panaeolus semiovatus var. semiovatus''
+| image = Panaeolus semiovatus_LC0334.jpg
+| regnum = [[Fungi]]
+| divisio = [[Basidiomycota]]
+| classis = [[Agaricomycetes]]
+| ordo = [[Agaricales]]
+| familia = [[Bolbitiaceae]]
+| genus = ''[[Panaeolus]]''
+| species = ''[[Panaeolus semiovatus|P. semiovatus]]''
+| varietas = '''''P. semiovatus'' var. ''semiovatus'''''
+| trinomial = ''Panaeolus semiovatus'' var. ''semiovatus''
+| trinomial_authority = [[Elias Magnus Fries|Fr.]] (Lundell)
+| synonyms =
+* ''Agaricus ciliaris''
+* ''Agaricus semiovatus''
+* ''Agaricus separatus''
+* ''Anellaria semiovata''
+* ''Anellaria separata''
+* ''Panaeolus semiovatus''
+* ''Panaeolus separatus''}}
+{{Mycomorphbox
+| name = ''Panaeolus semiovatus'' var. ''semiovatus''
+| whichGills = adnexed
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=ring
+| ecologicalType=saprotrophic
+| sporePrintColor=black
+| howEdible=inedible}}
+
+'''''Panaeolus semiovatus'' var. ''semiovatus''''', also known as '''''P.&nbsp;semiovatus''''' and '''''Anellaria separata''''', and commonly known as the '''ringed panaeolus''',<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/355/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=355 |orig-date=1979}}</ref>{{efn|Other common names include '''shiny mottlegill''', '''common fungus of the feces variety''', and '''egghead mottlegill'''.{{citation needed|date=June 2025}}}} is a medium-sized buff-colored [[mushroom]] with black spores that [[Coprophilous fungi|grows on dung]].
+
+==Description==
+The [[Pileus (mycology)|cap]] is up to {{Convert|9|cm|frac=4}} across, light tan then buff to whitish. It is oval then conical or parabolic.<ref name="Arora1986" /> It is sticky when wet and often wrinkles when dry.  The [[Stipe (mycology)|stem]] is up to {{Convert|18|cm|abbr=on|frac=4}} long and 12&nbsp;mm thick,<ref name="Arora1986" /> solid and smooth, with an [[Annulus (mycology)|annulus]] (ring) that is white, but often blackened by falling spores. The [[Lamella (mycology)|gills]] are [[wikt:adnexed|adnexed]], being wider in the middle, and narrowing at both ends; they are brown to black. The flesh is white, or straw-colored.<ref name=Phillips06>{{Cite book | author = Roger Phillips | year = 2006  | title = Mushrooms | publisher = Pan MacMillan | isbn = 0-330-44237-6}}</ref><ref name=T.Laessoe>{{Cite book | author = Thomas Laessoe | year = 1998 | title = Mushrooms (flexi bound) | publisher = Dorling Kindersley | isbn = 0-7513-1070-0}}</ref> The [[spore print]] is black.<ref name="Arora1986" />
+
+<gallery>
+Pansemivarsemi3.jpg|  Wild ''Panaeolus semiovatus var. semiovatus''
+Pan.semi (2).jpg|  ''P. semiovatus var. semiovatus'' on horse manure
+Panaeolus semiovatus (1 of 1).jpg| Close up of cap and gills with black spores
+</gallery>
+
+=== Similar species ===
+The very similar ''[[Panaeolus semiovatus var. phalaenarum|''P. semiovatus'' var. ''phalaenarum'']] ([[Elias Magnus Fries|Fr.]]) Ew. Gerhardt. 1996 '''syn.''' ''P.&nbsp;phalaenarum'' (Bull.) Quel. is more slender (cap 2–4&nbsp;cm) and lacks the ring.<ref name="MarcelBon87">{{Cite book | author = Marcel Bon | year = 1987 | title = The Mushrooms and Toadstools of Britain and North Western Europe | publisher = Hodder and Stoughton | isbn = 0-340-39935-X}}</ref>
+
+==Habitat and distribution==
+The species grows on horse dung.<ref name="Arora1986" /> It is widely distributed and is present in many [[temperate zones]] of the world.
+
+==Edibility==
+Though nonpoisonous,<ref name="Miller 2006">{{cite book |last1=Miller Jr. |first1=Orson K. |author-link=Orson K. Miller Jr. |title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi |last2=Miller |first2=Hope H. |publisher=[[FalconGuide]] |year=2006 |isbn=978-0-7627-3109-1 |location=Guilford, CN |pages=234}}</ref> it is generally regarded as inedible and possessing a rather abysmal taste.<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |publisher=Firefly Books |year=2010 |isbn=978-1-55407-651-2 |location=Buffalo, NY |page=236}}</ref> It has been unreliably rumored to contain the [[indole alkaloid]] [[psilocybin]].<ref name="Arora1986" /> Some people experience [[gastric upset]] after consumption.{{Citation needed|date=June 2025}}
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Panaeolus species|List of ''Panaeolus'' species]]
+
+==References==
+'''Footnotes'''
+{{notelist}}
+
+'''Citations'''
+{{Reflist}}
+
+==Further reading==
+*{{Cite book | first=Paul | last=Stamets | year=1996 | title=Psilocybin Mushrooms of the World | publisher=Ten Speed Press | location=Berkeley | isbn=0-9610798-0-0}}
+
+==External links==
+{{Commons|Panaeolus semiovatus}}
+*[http://www.first-nature.com/fungi/id_guide/coprinaceae/panaeolus_semiovatus.htm First Nature - ''Panaeolus semiovatus''] {{Webarchive|url=https://web.archive.org/web/20080513082101/http://www.first-nature.com/fungi/id_guide/coprinaceae/panaeolus_semiovatus.htm |date=2008-05-13 }}
+*[http://www.mykoweb.com/CAF/species/Panaeolus_semiovatus.html Mykoweb - ''Panaeolus semiovatus'']
+*[https://web.archive.org/web/20070815131008/http://www.personal.u-net.com/~chilton/261x.htm ''Panaeolus semiovatus'' photo]
+
+{{Taxonbar|from=Q1314991}}
+
+[[Category:Panaeolus|semiovatus var. semiovatus]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Inedible fungi]]

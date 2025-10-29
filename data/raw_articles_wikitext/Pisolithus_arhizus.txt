@@ -1,0 +1,59 @@
+{{short description|Species of fungus}}
+{{Speciesbox
+| image = Pisolithus arhizus02.jpg
+| image_caption = 
+| taxon = Pisolithus arhizus
+| authority = ([[Scop.]]) Rauschert (1959)
+| synonyms_ref =
+| synonyms = *''Lycoperdon arrizon'' <small>Scop. (1786)</small>
+*''Pisolithus tinctorius'' <small>([[Pers.]]) [[William Chambers Coker|Coker]] & [[John Nathaniel Couch|Couch]] (1928)</small>
+}}
+{{Mycomorphbox
+| name = ''{{PAGENAME}}''{{italic title}}
+| hymeniumType = gleba
+| capShape = no
+| whichGills = no
+| stipeCharacter = NA
+| sporePrintColor = brown
+| ecologicalType = mycorrhizal
+| howEdible = inedible
+}}
+'''''Pisolithus arhizus''''', commonly known as the '''dead man's foot''', '''dyeball''',<ref>{{cite web |title=California Fungi: Pisolithus arhizus |url=http://www.mykoweb.com/CAF/species/Pisolithus_arhizus.html |website=MycoWeb.com |last1=Wood |first1=Michael |last2=Stevens |first2=Fred |accessdate=2017-04-06}}</ref> '''pardebal''', or '''Bohemian truffle''', is a widespread [[Sclerodermataceae|earthball]]-like fungus.
+
+== Description ==
+The [[fruiting body]] is {{Convert|5–30|cm|frac=2}} tall and {{Convert|4–20|cm|abbr=on|frac=2}} wide, with a thin yellow-brown to brown exterior layer.<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=374–375|oclc=797915861}}</ref> The [[Basidiospore|spores]] are brown.<ref name=":0" />
+
+''[[Dictyocephalos attenuatus]]'' is similar.<ref name=":0" />
+
+==Uses==
+This [[puffball]]'s black viscous gel is used as a [[natural dye]] for clothes.<ref name="Roberts 2011" /> ''Pisolithus arhizus'' is a major component in [[mycorrhiza]]l fungus mixtures that are used in gardening as powerful root stimulators.<ref name="Kuo 2010" /> It is inedible.<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |publisher=Firefly Books |year=2010 |isbn=978-1-55407-651-2 |location=Buffalo, NY |page=335}}</ref>
+
+==Culture==
+In [[South Africa]], it is known as the pardebal, and in Europe, it is known as the Bohemian truffle.
+
+==References==
+{{Reflist|refs=
+
+<ref name="Kuo 2010">{{cite book |vauthors=Kuo M, Methven A |title=100 Cool Mushrooms |url=https://books.google.com/books?id=jhll7DJcnrwC&pg=PA143 |year=2010 |publisher=University of Michigan Press |isbn=978-0-472-03417-8 |page=143}}</ref>
+
+<ref name="Roberts 2011">{{cite book |vauthors=Roberts P, Evans S |title=The Book of Fungi |year=2011 |publisher=University of Chicago Press |location=Chicago, Illinois |page=525 |isbn=978-0-226-72117-0}}</ref>
+
+<!-- <ref name="urlFungorum: Pisolithus arhizus">{{cite web |title=''Pisolithus arhizus'' (Scop.) Rauschert |url=http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=276857 |publisher=Index Fungorum. CAB International |accessdate=2015-02-04}}</ref> -->
+
+}}
+
+==External links==
+*{{Commons inline|italic=on}}
+*[http://botit.botany.wisc.edu/toms_fungi/jun2003.html ''Pisolithus tinctorius'']
+*[http://www.mushroomexpert.com/pisolithus_tinctorius.html Mushroomexpert.com]
+
+{{Taxonbar|from=Q1315936}}
+
+[[Category:Fungi described in 1786]]
+[[Category:Inedible fungi]]
+[[Category:Fungus species]]
+[[Category:Fungi used for fiber dyes]]
+[[Category:Pisolithus]]
+
+
+{{Boletales-stub}}

@@ -1,0 +1,45 @@
+{{Speciesbox
+| image = Clitocybe amoenolens (illustration by Malençon).jpg
+| taxon = Paralepistopsis amoenolens
+| authority = ([[Georges Jean Louis Malençon|Malençon]]) [[Alfredo Vizzini|Vizzini]] (2012)
+| synonyms = ''Clitocybe amoenolens'' <small>[[Georges Jean Louis Malençon|Malençon]] (1975)</small>
+}}
+{{mycomorphbox 
+| name = Paralepistopsis amoenolens
+| whichGills = 
+| capShape = depressed 
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = saprotrophic
+| sporePrintColor = white
+| howEdible = poisonous
+}}
+
+'''''Paralepistopsis amoenolens''''' is an [[agaric]] [[fungus]] in the [[Tricholomataceae]] family.<ref>{{Cite web |title=Species Fungorum - Paralepistopsis amoenolens (Malençon) Vizzini, Mycotaxon 120: 257 (2012) |url=http://www.speciesfungorum.org/Names/GSDSpecies.asp?RecordID=564341 |access-date=2022-07-19 |website=www.speciesfungorum.org}}</ref> It is commonly known as the '''paralysis funnel.'''<ref>Evans S, Kibby G. (2004). ''Pocket Nature: Fungi''. Dorling Kindersley {{ISBN|0-7513-3696-3}}</ref>
+
+== Taxonomy ==
+It was first [[Species description|described]] in 1975 by the French mycologist [[Georges Jean Louis Malençon]] from a specimen found in Morocco and classified as ''Clitocybe amoenolens.''<ref>{{Cite web |title=Species Fungorum - Clitocybe amoenolens Malençon, in Malençon & Bertault, Trav. Inst. Sci. Chérifien, Sér. Bot. Biol. Veg. 33: 141 (1975) |url=http://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=311313 |access-date=2022-07-19 |website=www.speciesfungorum.org}}</ref>
+
+In 2012, following DNA analysis, Vizzini and Ercole assigned this species to the new genus ''Paralepistopsis'', which forms a separate clade from other ''Clitocybe''s.<ref name="Vizzini">See {{cite journal |author1=Vizzini A |author2=Ercole E |year=2012 |title=Paralepistopsis gen. nov. and Paralepista (Basidiomycota, Agaricales) |journal=Mycotaxon |volume=120 |pages=253–267 |doi=10.5248/120.253 |hdl-access=free |hdl=2318/124414}}.  The authors provide a [[phylogram]] which indicates the evidence that ''Paralepistopsis'' forms a separate clade.</ref>  This change has been accepted by [[Index Fungorum]] and the [[Global Biodiversity Information Facility]] and so the correct name is currently ''Paralepistopsis amoenolens''.<ref name="GBIF">{{cite web |title=Paralepistopsis amoenolens (Malençon) Vizzini, 2012 |url=https://www.gbif.org/species/8201706 |access-date=2017-02-25 |work=Global Biodiversity Information Facility |publisher=GBIF}}</ref><ref name="SF1">{{cite web |title=''Paralepistopsis amoenolens'' page |url=http://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=564341 |access-date=2017-02-25 |work=Species Fungorum |publisher=Royal Botanic Gardens Kew}}</ref>
+
+== Toxicity ==
+It was discovered to be poisonous after several people had consumed specimens all found in the alpine [[Maurienne]] valley in the [[Savoie]] [[departments of France|department]] over three years. They had mistaken it for the edible common funnel cap (''[[Infundibulicybe]] sp.'') or ''[[Paralepista flaccida]]'' (formerly ''Lepista inversa'').<ref>{{cite journal|vauthors=Saviuc PF, Danel VC, Moreau PA, Guez DR, Claustre AM, Carpentier PH, Mallaret MP, Ducluzeau R |year=2001|title=Erythromelalgia and mushroom poisoning |journal=J Toxicol Clin Toxicol |volume=39 |issue=4 |pages=403–07|doi=10.1081/CLT-100105162|pmid=11527236|s2cid=32805160}}</ref>
+
+The resulting syndrome of fungus-induced [[erythromelalgia]] lasted from 8 days to 5 months, although one person exhibited symptoms for three years.<ref>{{cite journal |last=Diaz |first=James H. |date=February 2005 |title=Syndromic diagnosis and management of confirmed mushroom poisonings |journal=Critical Care Medicine |volume=33 |issue=2 |pages=427–36 |doi=10.1097/01.CCM.0000153531.69448.49 |pmid=15699849 |s2cid=24492593}}</ref>
+
+This species contains [[acromelic acids]] including Acromelic acid A which is a potent [[neurotoxin]] with a chemical formula of C<sub>13</sub>H<sub>14</sub>N<sub>2</sub>O<sub>7</sub> and is associated with causing paralysis and seizures<ref>{{Cite web |last=PubChem |title=Acromelic acid A |url=https://pubchem.ncbi.nlm.nih.gov/compound/108086 |access-date=2022-07-19 |website=pubchem.ncbi.nlm.nih.gov |language=en}}</ref>
+
+== Similar species ==
+''[[Paralepistopsis acromelalga]]'' is a poisonous species known from Japan, commonly called the poison dwarf bamboo mushroom. It had been discovered to be poisonous in 1918.<ref>{{cite journal |last=Ichimura  |first=J |year=1918|title=A new poisonous mushroom |journal=Bot Gaz (Tokyo) |volume=65 |pages=10911}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q1710523}}
+
+[[Category:Poisonous fungi]]
+[[Category:Tricholomataceae]]
+[[Category:Paralepistopsis]]
+[[Category:Fungi of Europe]]
+[[Category:Fungus species]]
+[[Category:Fungi described in 1975]]

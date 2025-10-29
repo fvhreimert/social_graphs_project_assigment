@@ -1,0 +1,48 @@
+{{Short description|Species of fungus}}
+{{Speciesbox 
+| image = Amanita solitaria1.jpg
+| image_alt = 
+| image_caption = 
+| taxon = Amanita strobiliformis
+| authority = (Paulet ex [[Carlo Vittadini|Vittad.]]) Bertill.
+}}{{Mycomorphbox
+| name = ''{{PAGENAME}}''{{italic title}}
+| capShape = flat
+| hymeniumType = gills
+| sporePrintColor = white
+| ecologicalType = mycorrhizal
+| howEdible = caution
+| whichGills = free
+}}
+'''''Amanita strobiliformis''''' is a [[species]] of [[mushroom]]. It is commonly referred to as '''warted amanita'''.<ref name=NGSWG>{{NGSWG}}</ref>
+
+==Description==
+The [[cap (mycology)|cap]] is {{Convert|7.5 to 25.5|cm|abbr=off|frac=2}} across, is rough with warts which sometimes fall away leaving the cap smooth, whitish, and sometimes has some brown. The [[gill (mycology)|gills]] are free and rounded behind. The  veil is large and sometimes adhere to the margin of the cap. The [[stipe (mycology)|stipe]] (stem) is {{Convert|7.5 to 20|cm|abbr=on|frac=2}} long, thick, white, bulbous, and sometimes weighs a pound. The [[spores]] are [[Ellipse|elliptical]].<ref name="Thousands">{{cite book | last = MclLVAINE | first = Charles | author2 = K. Macadam, Robert | title = One Thousand American Fungi | publisher = Dover Publications, Inc. | year = 1973 | pages = 19 }}</ref>
+
+{{gallery|mode=packed
+|AmanitaStrobiliformis5.jpg|''A. strobiliformis''
+}}
+
+==Distribution and habitat==
+In Europe, ''A. strobiliformis'' grows from the Mediterranean region to the Netherlands and England, and maybe further north.<ref name="First" />
+
+It is associated [[mycorhiza|mycorrhizal]] with deciduous trees, preferring scattered forest, or woodland borders, usually on [[alkaline soil]].<ref name="First">[https://www.first-nature.com/fungi/amanita-strobiliformis.php Amanita strobiliformis (Paulet ex Vittad.) Bertill. - Warted Amanita]</ref><ref>[http://www.amanitaceae.org/?Amanita+strobiliformis Amanita strobiliformis ]</ref> It grows singular fruits and sometimes clusters.<ref name="hand-book">{{cite book | last = Taylor | first = Thomas | title = Student's hand-book of mushrooms of America edible and poisonous, Issues 1-5 | publisher = A. R. Taylor | year = 1897 | page = 8 | url = https://books.google.com/books?id=RK4VAAAAYAAJ&q=Amanita+strobiliformis&pg=RA3-PA8}}</ref> The fungus is rare.<ref>{{cite book | last = Joseph Berkeley | first = Miles | title = Outlines of British fungology: containing characters of above a thousand species of Fungi, and a complete list of all that have been described as natives of the British Isles | publisher = L. Reeve | year = 1860 | pages = [https://archive.org/details/b21958476/page/90 90] | url = https://archive.org/details/b21958476 | quote = Amanita strobiliformis. }}</ref>
+
+==Toxicity==
+
+The edibility is unknown,{{Citation needed|date=January 2024}} but the genus ''[[Amanita]]'' contains some of the most toxic fungi known. Some amanitas are deadly in only very small doses, while others are relatively harmless and sometimes even considered fit for human consumption, whereby ''[[Amanita caesarea]]'' is considered a delicacy.
+
+==References==
+{{reflist|2}}
+
+== External links ==
+{{commonscat}}
+
+{{Amanitas}}
+{{Poisonous Amanitas}}
+{{Hallucinogenic mushrooms}}
+{{Taxonbar|from=Q1445543}}
+
+[[Category:Amanita|strobiliformis]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]

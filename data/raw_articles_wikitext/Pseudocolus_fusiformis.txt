@@ -1,0 +1,126 @@
+{{Short description|Species of fungus}}
+{{speciesbox
+| image = Pseudocolus fusiformis 423862.jpg
+| image_caption =
+| taxon = Pseudocolus fusiformis
+| authority = ([[E.Fisch.]]) [[Curtis Gates Lloyd|Lloyd]] (1909)
+}}
+{{mycomorphbox
+| name = ''Pseudocolus fusiformis''
+| hymeniumType = gleba
+| capShape = no
+| whichGills = no
+| stipeCharacter = NA
+| sporePrintColor = olive-brown
+| ecologicalType = saprotrophic
+| howEdible = inedible
+}}
+
+'''''Pseudocolus fusiformis''''' is a stinkhorn mushroom in the [[Phallaceae]], a family well known for a remarkable range of fruit body types.<ref name=Cannon2007/> It is [[common name|commonly]] known as the '''stinky squid''',<ref name="urlKuo: Pseudocolus fusiformis"/><ref>{{Cite book |last=Sisson |first=Liv |url=https://www.worldcat.org/title/on1372569849 |title=Fungi of Aotearoa: a curious forager's field guide |last2=Vigus |first2=Paula |date=2023 |publisher=Penguin Books |isbn=978-1-76104-787-9 |location=Auckland, New Zealand |pages=262 |oclc=on1372569849}}</ref> because of its fetid odor, and its three or four upright "arms" which are connected at the top. The malodorous smell comes from the dark greenish slimy [[gleba]] covering the inside faces of the arms, and attracts insects that help to disperse the [[spore]]s.
+
+It is the most widely distributed member of the genus ''[[Pseudocolus]]'' and has been found in the United States, Australia, and Asia.
+
+==Taxonomy==
+
+The first appearance of this species in the literature was in 1890, under the name ''Colus fusiformis'', when [[Eduard Fischer (mycologist)|Eduard Fischer]] wrote a description based on a painting he found in the [[Paris Museum of Natural History]].<ref name=Fischer1890/> In his 1944 [[monograph]] on the [[Gasteromycetes]] of Australia and New Zealand, [[Gordon Herriot Cunningham]] considered this naming to be a ''[[nomen nudum]]''—not published with an adequate description.<ref name=Cunningham1944/> However, it was [[valid name (botany)|valid]] under the rules of the [[ICBN|International Code of Botanical Nomenclature]]. In 1899 Penzig described the species ''Colus javanicus'' based on a single specimen found on Java,<ref name=Penzig1899/> and a year later Fischer amended the name of his original ''Colus fusiformis'' to ''Colus javanicus'', as he was not satisfied with the quality of his original description.<ref name=Fischer1900/> Despite his doubts on the validity of his description, his original naming is both legitimate and has [[Principle of Priority|priority]] over ''C.&nbsp;javanicus''.<ref name=Blanton1976/>
+
+In 1907, [[Curtis Gates Lloyd]] described the new genus ''[[Pseudocolus]]'', and reduced several species to synonyms of ''Pseudocolus fusiformis''.<ref name=Lloyd1907/> The first North American description of this species (as ''Colus schellenbergiae'') was in 1916 by [[David Ross Sumstine]];<ref name=Sumstine1916/> Johnson later (1929) transferred this to ''Pseudocollus schellenbergiae''.<ref name=Johnson1929/> Although Cunningham (1931) revised the genus ''[[Anthurus]]'' to include members of ''Pseudocolus'',<ref name=Cunningham1931/> Dring in 1973 considered the genera to be distinct.<ref name=Ainsworth1973/> Up until the appearance of an extensive study published in 1980, 13 different [[binomial name|binomials]] had been used in the literature to name the species.<ref name=Blanton1980/> [[Index Fungorum]] lists the following synonyms of ''P.&nbsp;fusiformis'':<ref name="urlFungorum synonymy: Pseudocolus fusiformis"/>
+
+*''Colus fusiformis'' E.Fisch. (1891)
+*''Colus elegans'' Welw. (1842)
+*''Anthurus rothae'' (Berk. ex E.Fisch.) E.Fisch. (1893)
+*''Colus rothae'' Berk. ex E.Fisch. (1893)
+*''Pseudocolus rothae'' (E.Fisch.) Yasuda (1916)
+*''Colus javanicus'' Penz. (1899)
+*''Pseudocolus javanicus'' (Penz.) Lloyd (1907)
+*''Anthurus javanicus'' (Penz.) G.Cunn. (1931)
+*''Pseudocolus rothae'' Lloyd (1907)
+*''Colus rothae'' (Lloyd) Sacc. & Traverso (1910)
+*''Colus schellenbergiae'' Sumst. (1916)
+*''Pseudocolus schellenbergiae'' (Sumst.) M.M.Johnson (1929)
+
+==Description==
+
+Immature [[fruiting bodies]] resemble egg- or pear-shaped [[puffballs]],  grayish-brown to pale gray in color, with dimensions of {{convert|0.5|to|2.5|cm|abbr=on|frac=8}} diameter; the top surface is broken into small regions by cracks or crevices (''[[wikt:areolate|areolate]]'').<ref name=Blanton1976/> As the fungus matures, the fruiting body cracks open and forms a stalk with tapering arms, a [[volva (mycology)|volva]], and a spore mass known as a [[gleba]]. The mature fruiting body is typically {{convert|3|to|6|cm|abbr=on|frac=4}} in height, with arms that are 2–5 times the length of the [[stipe (mycology)|stipe]]. The stipe itself does not extend past the volva, and is hollow, thin-walled, chambered, wrinkled, and flares towards the upper end. The color of the stipe is white or grayish-white; it is {{convert|1|to|3.5|cm|abbr=on|frac=4}} in height, and {{convert|0.5|to|2.5|cm|abbr=on|frac=4}} thick at the widest diameter.<ref name=Blanton1976/> The three or four arms extending from the stipe average {{convert|3.6|cm|abbr=on|frac=4}} in length (ranging from {{convert|1|to|13|cm|abbr=on|frac=2}},<ref name=Blanton1980/> and wrinkled on the side bearing the gleba. The arms, which are joined at the top, are shaped like a [[lance]] (''[[wikt:lanceolate|lanceolate]]''), pointed towards the apex; they are orange-colored. The internal structure of the arms is made of chambers; one large chamber towards the outside, and typically three smaller chambers on the inside of the arm. The gleba is commonly found on the upper two-thirds of the inside surface of the arms, and is dark green and slimy. The fetid odor of the gleba, described by one author as comparable to "fresh pig manure",<ref name=Hemmes2002/> attracts insects that help to disperse the spores.
+
+The [[spore]]s are elliptical or [[wikt:ovoid|ovoid]], smooth, translucent ([[hyaline]]), with dimensions of 4.5–5.5 by 2–2.5&nbsp;[[μm]].<ref name=Bessette1995/> The [[basidia]], the spore-bearing cells, are attached to 6–8 [[Sessility (botany)|sessile]] spores.<ref name=Blanton1976/>
+
+===Similar species===
+
+The stinkhorn species ''[[Clathrus columnatus]]'' somewhat resembles ''P.&nbsp;fusiformis'' in that it has 3 or 4 arms that extend upwards and join at the top. However, unlike ''C.&nbsp;columnatus'', the arms of ''P.&nbsp;fusiformis'' share a common stem, and the immature egg-form is gray or grayish brown, rather than white.<ref name="urlKuo: Clathrus columnatus"/>
+
+''[[Clathrus archeri]]'' has more tentacle-like arms.<ref name=":02">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=117}}</ref>
+
+==Habitat and distribution==
+
+This species grows scattered or in groups on disturbed soil in [[conifer]]ous or [[mixed forest]]s. It is also found growing on [[wood chips]] used as [[mulch]] in gardens or for landscaping;<ref name=Bessette1995/> Blanton has also reported it growing in a garden "solitary and very large".<ref name=Blanton1980/>
+
+''Pseudocolus fusiformis'' has been collected from a variety of locations worldwide, including Europe,<ref name=Cahiers_Mycologiques_Nantais/> [[Australia]], [[Japan]], [[Java]], the [[Philippines]], [[Reunion Island]], the United States,<ref name=Blanton1976/> and [[Turkey]].<ref name=Akata2011/>
+
+It is thought to have been introduced from southeast Asia to North America,<ref name="Kibby1994" /> where it can be found from May to September.<ref name=":02" /> In the [[continental United States]], it was first collected in [[Pittsburgh]] in 1915;<ref name="urlKuo: Pseudocolus fusiformis" /> since then it has been found in [[Alabama]], [[Connecticut]], [[Georgia (U.S. state)|Georgia]], [[Louisiana]], [[Florida]], [[Massachusetts]], [[Mississippi]], [[New Jersey]], [[New York (state)|New York]], [[North Carolina]], [[Rhode Island]], [[Tennessee]], and [[Virginia]]; it has also been found in [[Hawaii]].<ref name="Burk1976" />
+
+==Inedibility==
+
+Although not considered poisonous, ''P.&nbsp;fusiformis'' is not recommended for consumption.<ref name=McKnight1987/> Some related species such as ''[[Phallus impudicus]]'' or ''[[Mutinus caninus]]'' are considered to be edible (or even delicacies) in the immature egg stage;<ref name=Lucas1982/> however, the foul smell of stinkhorns at maturity would likely deter most individuals from eating them.
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=Ainsworth1973>{{cite book |veditors=Ainsworth GC, Sparrow FK, Sussman AS |author=Dring DM. |chapter=Gasteromycetes |title=The Fungi; an Advanced Treatise |volume=IVB |publisher=Academic Press |location=London, UK |year=1973 |isbn=0-12-045604-4}}</ref>
+
+<ref name=Akata2011>{{cite journal |vauthors=Akata I, Doğan HH |title=''Pseudocolus fusiformis'', an uncommon stinkhorn new to Turkish mycobiota |journal=Mycotaxon |year=2011 |volume=115 |pages=259–62 |doi=10.5248/115.259|doi-access=free }}</ref>
+
+<ref name=Bessette1995>{{cite book |author=Bessette A. |title=Mushrooms of North America in Color: a Field Guide Companion to Seldom-illustrated Fungi |publisher=Syracuse University Press |location=Syracuse, New York |year=1995 |pages=140–1 |isbn=0-8156-0323-1}}</ref>
+
+<ref name=Blanton1976>{{cite journal |author=Blanton RL. |year=1976 |title=''Pseudocolus fusiformis'', new to North Carolina |journal=[[Mycologia]] |volume=68 |issue=6 |pages=1235–9 |doi=10.2307/3758756 |jstor=3758756 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0068/006/1235.htm|url-access=subscription }}</ref>
+
+<ref name=Blanton1980>{{cite journal |vauthors=Blanton RL, Burk WR |title=Notes on ''Pseudocolus fusiformis'' |year=1980 |journal=Mycotaxon |volume=12 |issue=1 |pages=225–34 |url=http://www.cybertruffle.org.uk/cyberliber/59575/0012/001/0225.htm}}</ref>
+
+<ref name=Burk1976>{{cite journal |author=Burk WR. |year=1976 |title=''Pseudocolus javanicus'' in Connecticut and its distribution in the United States |journal=Mycotaxon |volume=3 |pages=373–6 |url=http://www.cybertruffle.org.uk/cyberliber/59575/0003/003/0373.htm}}</ref>
+
+<ref name=Cannon2007>{{cite book |vauthors=Cannon PF, Kirk PM |title=Fungal Families of the World |publisher=[[CAB International]] |location=Wallingford, UK |year=2007 |page=271 |isbn=978-0-85199-827-5}}</ref>
+
+<ref name=Cunningham1931>{{cite journal |author=Cunningham GH. |year=1931|title=The Gasteromycetes of Australia. XI. The Phallales, part II |journal=Proceedings of the Linnean Society of New South Wales |volume=56 |pages=182–200}}</ref>
+
+<ref name=Cunningham1944>{{cite book |author=Cunningham GH. |year=1944 |title=The Gasteromycetes of Australia and New Zealand |location=Dunedin, New Zealand}}</ref>
+
+<ref name=Fischer1890>{{cite journal |author=Fischer E. |year=1890 |title=Untersuchungen zur vergleichenden Entwicklungsgeschichte und Systematik der Phalloideen. I |journal=Neue Denkschriften der allgemeinen Schweizerischen Gesellschaft für die gesammten Naturwissenschaften |volume=32 |language=de |pages=1–103}}</ref>
+
+<ref name=Fischer1900>{{cite journal |author=Fischer E. |year=1900 |title=Untersuchungen zur vergleichenden Entwicklungsgeschichte und Systematik der Phalloideen. III |journal=Neue Denkschriften der allgemeinen Schweizerischen Gesellschaft für die gesammten Naturwissenschaften |volume=36 |language=de |pages=1–84}}</ref>
+
+<ref name=Hemmes2002>{{cite book |vauthors=Hemmes DE, Desjardin D |title=Mushrooms of Hawai'i: An Identification Guide |publisher=Ten Speed Press |location=Berkeley, California |year=2002 |page=40 |isbn=1-58008-339-0 |url=https://books.google.com/books?id=xbEC2PrmZZkC&pg=PA40}}</ref>
+
+<ref name=Johnson1929>{{cite journal |author=Johnson MM. |year=1929 |title=The Gasteromycetae of Ohio |journal=Ohio Biological Survey Bulletin |series=22 |volume=4 |issue=7 |pages=273–352}}</ref>
+
+<ref name=Kibby1994>{{cite book |title=An Illustrated Guide to Mushrooms and Other Fungi of North America |author=Kibby G. |year=1994 |publisher=Lubrecht & Cramer Ltd. |isbn=978-0-681-45384-5 |page=158}}</ref>
+
+<ref name=Lloyd1907>{{cite journal |author=Lloyd CG. |year=1907 |title=Concerning the phalloides |journal=Mycological Notes |volume=28 |pages=349–64}}</ref>
+
+<ref name=Lucas1982>{{cite book |author=Lucas J. |title=VNR Color Dictionary of Mushrooms |publisher=Van Nostrand Reinhold |location=New York, New York |year=1982 |pages=30–1 |isbn=0-442-21998-9}}</ref>
+
+<ref name=McKnight1987>{{cite book |vauthors=McKnight VB, McKnight KH |title=A Field Guide to Mushrooms, North America |publisher=Houghton Mifflin |location=Boston, Massachusetts |year=1987 |page=346 |isbn=0-395-91090-0 |url=https://books.google.com/books?id=kSdA3V7Z9WcC&pg=RA1-PA345}}</ref>
+
+<ref name=Penzig1899>{{cite journal |author=Penzig O. |year=1899 |title=Über javanische Phalloideen |journal=Annales du Jardin Botanique de Buitenzorg |volume=16 |pages=133–73 |language=de}}</ref>
+
+<ref name=Sumstine1916>{{cite journal |author=Sumstine DR. |year=1916 |title=A new species of ''Colus'' from Pennsylvania |journal=Mycologia |volume=8 |issue=3 |pages=183–4 |doi=10.1080/00275514.1916.12018877 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0008/003/0183.htm | jstor = 3753202|url-access=subscription }}</ref>
+
+<ref name="urlFungorum synonymy: Pseudocolus fusiformis">{{cite web |title=GSD Species Synonymy: ''Pseudocolus fusiformis'' (E. Fisch.) Lloyd |url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=297422 |publisher=Species Fungorum. CAB International |access-date=2016-02-19}}</ref>
+
+<ref name="urlKuo: Clathrus columnatus">{{cite web |url=http://www.mushroomexpert.com/clathrus_columnatus.html |title=''Clathrus columnatus'' |author=Kuo M. |work=Mushroom Expert |date=September 2006 |access-date=2011-07-11}}</ref>
+
+<ref name="urlKuo: Pseudocolus fusiformis">{{cite web|author=Meyers R. |url=http://www.mushroomexpert.com/pseudocolus_fusiformis.html |title=''Pseudocolus fusiformis'' |work=MushroomExpert.Com |date=March 2004 |access-date=2011-07-11}}</ref>
+
+<ref name=Cahiers_Mycologiques_Nantais>{{cite journal |author=Ouvrard G. |year=2016 |title=''Pseudocolus fusiformis''|journal=[[Bulletin de l'Association Mycologique de l'Ouest de la France]] |volume=28 |pages=14–27 |url=http://amo-nantes.fr/wp-content/uploads/2020/04/CAHIERS-MYCO-2016.pdf}}</ref>
+
+}}
+
+{{good article}}
+{{Taxonbar|from=Q7254684}}
+
+[[Category:Fungi described in 1890]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Australia]]
+[[Category:Inedible fungi]]
+[[Category:Phallales]]
+[[Category:Fungus species]]

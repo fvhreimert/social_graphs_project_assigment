@@ -1,0 +1,67 @@
+{{Speciesbox
+| image = Ino.geo.jpg
+| genus = Inocybe
+| species = geophylla
+| authority = ([[James Sowerby|Sowerby]]) [[Paul Kummer|P. Kumm.]]
+}}
+{{mycomorphbox
+| name = Inocybe geophylla
+| whichGills = adnexed
+| capShape = umbonate
+| capShape2 = conical
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = brown
+|howEdible=poisonous
+}}
+
+'''''Inocybe geophylla''''', commonly known as the '''little white inocybe''',<ref name="Arora2nd" /> '''white fiberhead''',<ref name=":0">{{Cite book |last=Siegel |first=Noah |title=Mushrooms of Cascadia: A Comprehensive Guide to Fungi of the Pacific Northwest |last2=Schwarz |first2=Christian |date=September 1, 2024 |publisher=Backcountry Press |isbn=9781941624197 |location=Humboldt County, CA |pages=160}}</ref> '''earthy inocybe''', '''common white inocybe''' or '''white fibercap''', is a species of fungi in the genus ''[[Inocybe]]''. It has a common [[lilac (color)|lilac]]-coloured variety, ''lilacina''.
+
+''Inocybe geophylla'' forms a small white to cream mushroom with a fibrous silky [[Shield boss|umbonate cap]] and adnexed gills. It is widespread in Europe and North America, appearing under [[conifer]] and [[deciduous]] trees in summer and autumn. The mushroom is [[Mushroom poisoning|poisonous]].
+
+== Taxonomy ==
+It was first [[species description|described]] in 1799 as ''Agaricus geophyllus'' by English naturalist [[James Sowerby]] in his work ''Coloured Figures of English Fungi or Mushrooms''.<ref name="Sowerby 1799">{{cite book |last=Sowerby |first=James |title=Coloured Figures of English Fungi |year=1799 |volume=2 |publisher=J.&nbsp;Davis |location=London, United Kingdom |url=https://www.biodiversitylibrary.org/page/5750884 |page=2, [https://www.biodiversitylibrary.org/page/5750872 plate 124]}}</ref> [[Christiaan Hendrik Persoon]] spelt it ''Agaricus geophilus'' in his 1801 work ''Synopsis methodica fungorum''.<ref name=Persoon1801>{{cite book |last=Persoon |first=Christiaan Hendrik |title=Synopsis Methodica Fungorum |year=1801 |publisher=H. Dietrich |location=Göttingen, Sweden |oclc=28329773 |page=340 |url=http://bibdigital.rjb.csic.es/ing/Libro.php?Libro=3136&Pagina=102 |language=Latin |archive-date=2017-11-13 |access-date=2017-06-04 |archive-url=https://web.archive.org/web/20171113165716/http://bibdigital.rjb.csic.es/ing/Libro.php?Libro=3136&Pagina=102 |url-status=dead }}</ref> Its specific epithet is derived from the [[Ancient Greek]] terms ''geo-'' "earth", and ''phyllon'' "leaf".<ref name="nilper">{{cite book | last1 = Nilson|first1= Sven |first2=Olle |last2=Persson | year = 1977 | title = Fungi of Northern Europe 2: Gill-Fungi | publisher = Penguin|isbn=0-14-063006-6|pages=98}}</ref>  It was given its current binomial name in 1871 by [[Paul Kummer]].<ref name="Kummer 1871">{{cite book |last=Kummer |first= Paul |title=Der Führer in die Pilzkunde |year=1871 |publisher=C.&nbsp;Luppe |location=Zerbst |page=78 |language=German |url=https://www.biodiversitylibrary.org/page/34209647}}</ref>
+
+A lilac form is known as var. ''lilacina''; it was originally described as ''Agaricus geophyllus'' var. ''lilacinus'' by American mycologist [[Charles Horton Peck]] in 1872, who came across it in [[Bethlehem, New York]].<ref>{{cite journal|last=Peck|first=Charles Horton|date=1872|title=Report of the botanist|journal=Annual Report on the New York State Museum of Natural History|volume=26|pages=35–92 [90]|url=https://www.biodiversitylibrary.org/page/35613916}}</ref> It was given its current name by [[Claude Casimir Gillet]] in 1876. It was classified as a separate species in 1918 by [[Calvin Henry Kauffman]], who felt that it was consistently different and grew in different locales.<ref>{{cite book|last=Kauffman|first=Calvin Henry|title=The Agaricaceae of Michigan|publisher=W.H. Crawford, state printers|location=Lansing, Michigan|date=1918|series=Michigan Geological and Biological Survey|pages=466|url= https://www.biodiversitylibrary.org/page/38852294}}</ref> A 2005 study of nuclear genes found that ''I.&nbsp;geophylla'' was closely related to ''[[Inocybe fuscodisca|I.&nbsp;fuscodisca]]'', while ''[[Inocybe lilacina|I.&nbsp;lilacina]]'' is more closely allied with ''[[Inocybe agglutinata|I.&nbsp;agglutinata]]'' and ''[[Inocybe pudica|I.&nbsp;pudica]]''.<ref>{{cite journal|last=Matheny|first=P. Brandon|date=2005|title=Improving phylogenetic inference of mushrooms with RPB1 and RPB2 nucleotide sequences (Inocybe; Agaricales)|journal=Molecular Phylogenetics and Evolution |volume=35|issue=1|pages=1–20|doi=10.1016/j.ympev.2004.11.014|pmid=15737578}}</ref>
+
+== Description ==
+The [[pileus (mycology)|cap]] is {{convert|1–4|cm|abbr=on}} wide and white or cream-coloured with a silky texture, at first conical before flattening out to a more convex shape with a pronounced umbo (boss). The cap margins may split with age. The thin [[stipe (mycology)|stipe]] is {{convert|1–6|cm|abbr=on}} high and 0.3–0.6&nbsp;cm thick and lacks a ring.<ref name="Phillips"/> It has a small bulb at the base,<ref name="Lamaison05">{{cite book|title=The Great Encyclopedia of Mushrooms |last=Lamaison |first=Jean-Louis |author2=Polese, Jean-Marie |year=2005 |publisher=Könemann |isbn=3-8331-1239-5|pages=83, 137}}</ref> and often does not grow straight.<ref name="Haas69"/>
+
+The crowded gills are adnexed and cream early, before darkening to a brownish colour with the developing spores. The [[spore print]] is brown. The almond-shaped spores are smooth and measure around 9&nbsp;×&nbsp;5&nbsp;[[μm]]. The faint smell has been likened to meal,<ref name="Phillips">{{cite book |title= Mushrooms and Other Fungi of Great Britain and Europe|last= Phillips|first= Roger|year= 1981|publisher= [[Pan Books]]|location= London|isbn= 0-330-26441-9|page= 220}}</ref> damp earth,<ref name="nilper" /> or even described as spermatic.<ref name="Arora2nd">{{cite book |first=David |last=Arora |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/460/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |year=1986 |orig-date=1979 |edition=2nd |pages=460–61}}</ref> The white or cream flesh has an acrid taste and does not change colour when cut or bruised.<ref name="Lamaison05" />
+
+The variety ''lilacina'' is similar in shape but tinted lilac all over, with an ochre-brown flush on the cap umbo and the base of the stem. It has a strong mealy or earthy odour.<ref name="Phillips" /> 
+
+=== Similar species ===
+It may require microscopy to distinguish the species from ''[[Inocybe umbratica|I.&nbsp;umbratica]]''.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=621}}</ref> ''[[Inocybe pudica|I.&nbsp;pudica]]'' is also similar.<ref>{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=242|oclc=797915861}}</ref>
+
+Larger mushrooms can be confused with members of the genus ''Tricholoma'' or the edible ''[[Calocybe gambosa]]'', though these have a mealy smell and gills that remain white.<ref name="Haas69"/> In Israel, it is confused with edible mushrooms of the genus ''[[Tricholoma]]'', particularly ''[[Tricholoma terreum|T.&nbsp;terreum]]'', and ''[[Suillus granulatus]]'', all of which grow in similar habitat.<ref name="Lurie09">{{cite journal|last=Lurie|first=Yael|date=2009|title=Mushroom poisoning from species of genus Inocybe (fiber head|journal=Clinical Toxicology |volume=47|issue=6|pages=562–65 | doi=10.1080/15563650903008448|pmid=19566380|s2cid=205902282}}</ref> In North America, it resembles mushrooms of the genus ''[[Camarophyllus]]''.<ref name="Arora2nd"/>
+
+The variety ''lilacina'' could be mistaken for the edible amethyst deceiver (''[[Laccaria amethystina]]''); the latter has a fibrous stipe, a fruity smell and lacks the ochre-coloured umbo.<ref name="Lamaison05"/> It is a similar coloration to the wood blewit (''[[Collybia nuda]]''), although mushrooms of that species generally grow much larger.<ref name="Arora2nd"/>
+
+== Distribution and habitat ==
+
+
+''Inocybe geophylla'' is common and widespread across Europe and North America.<ref name="Phillips" /><ref name="Arora2nd" /> In western North America it is found under live [[oak]], [[pine]] and [[Douglas-fir]].<ref name="Arora2nd"/> Both varieties are found in the Canadian Arctic regions of northern Manitoba and North West Territories, with the nominate form found in dryish tundra heath communities composed of American dwarf birch (''[[Betula glandulosa]]''), Arctic willow (''[[Salix arctica]]''), dwarf willow (''[[Salix herbacea|S.&nbsp;herbacea]]''), polar willow (''[[Salix polaris|S.&nbsp;polaris]]'' ssp. ''pseudopolaris''), snow willow (''[[Salix reticulata|S.&nbsp;reticulata]]''), bog bilberry (''[[Vaccinium uliginosum]]'' var. ''alpinum''), lingonberry (''[[Vaccinium vitis-idaea|V.&nbsp;vitis-idaea]]'' var. ''minus''), alpine bearberry (''[[Arctostaphylos alpina]]''), alpine bistort (''[[Persicaria vivipara]]''), Arctic bell-heather (''[[Cassiope tetragona]]'') and northern white mountain avens (''[[Dryas integrifolia]]'') and var. ''lilacina'' in moist mossy tundra heaths, alongside such plants as American dwarf birch, snow willow, Arctic bell-heather and northern white mountain avens.<ref>{{cite journal | title=Larger fungi of the Canadian Arctic | first1=Esteri | last1=Ohenoja | first2=Martti | last2=Ohenoja | journal=North American Fungi | date=22 December 2010 | volume=5 | issue=5 | pages=85–96 | doi=10.2509/naf2010.005.0056 | doi-broken-date=18 July 2025 | doi-access=free }}</ref> It is [[mycorrhiza]]l, the fruiting bodies are found in [[deciduous]] and [[conifer]]ous woodlands in summer and autumn. Within these locations, fruiting bodies may be found in grassy areas and near pathways,<ref name="Haas69">{{cite book | last = Haas |first=Hans | year = 1969 | title = The Young Specialist looks at Fungi |pages=122| publisher = Burke | isbn= 0-222-79409-7}}</ref> or often on rich, bare soil that has been disturbed at roadsides, and near ditches.<ref name="T.Laessoe">{{cite book | first= Thomas |last=Laessoe | year = 1998 | title = Mushrooms (flexi bound) | publisher = Dorling Kindersley | isbn = 0-7513-1070-0}}</ref>
+
+In Israel, ''I. geophylla'' grows under Palestine oak (''[[Quercus calliprinos]]'') and pines, with mushrooms still appearing in periods of little or no rain as they are mycorrhizal.<ref name="Lurie09"/>
+
+In Western Australia, Brandon Matheny and Neale Bougher cited collections of what was referred to as ''I.&nbsp;geophylla'' var. ''lilacina'' by some Australian taxonomists, as a misapplication of the name ''I.&nbsp;geophylla'' var. ''lilacina''; the specimens have been reclassified as the species [[Inocybe violaceocaulis|''I.&nbsp;violaceocaulis'']].<ref>{{cite journal | last1= Matheny |first1=P. Brandon |last2= Bougher|first2= Neale L.| year = 2004 | title = A new violet species of ''Inocybe'' ([[Agaricales]]) from Urban and Rural Landscapes in Western Australia| journal = Australasian Mycologist | volume = 24 | issue = 1 | pages = 7–12}}</ref>
+
+== Toxicity ==
+Like many fibrecaps, ''I. geophylla'' contains [[muscarine]].<ref name="Benj">{{cite book |last=Benjamin| first= Denis R. |title=Mushrooms: poisons and panaceas – a handbook for naturalists, mycologists and physicians |pages=343 |publisher=WH Freeman and Company| location=New York |year=1995| isbn=0-7167-2600-9}}</ref> The symptoms are those of muscarine poisoning, namely, greatly increased [[saliva]]tion, [[perspiration]] (sweating), and [[lacrimation]] (tear flow) within 15–30&nbsp;minutes of ingestion. With large doses, these symptoms may be followed by [[abdominal pain]], severe [[nausea]], [[diarrhea]], blurred vision, and labored breathing. Intoxication generally subsides within two hours.<ref>{{cite book | last = North| first = Pamela | year = 1967 | title = Poisonous Plants and Fungi in colour | publisher = Blandford Press & Pharmacological Society of Great Britain |page=111}}</ref> [[Delirium]] does not occur.{{Citation needed|date=June 2025}}
+
+The specific [[antidote]] is [[atropine]]. Inducing vomiting to remove mushroom contents is also prudent due to the speed of onset of symptoms.<ref>Benjamin, p. 346–49.</ref> Death has not been recorded as a result of consuming this species.{{Citation needed|date=March 2025}} It is often ignored by mushroom hunters because of its small size.<ref name="Haas69" />
+
+== References ==
+{{Reflist}}
+
+{{Taxonbar|from=Q1333853}}
+
+[[Category:Inocybe|geophylla]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Poisonous fungi]]
+[[Category:Fungi described in 1799]]
+[[Category:Taxa named by James Sowerby]]
+[[Category:Fungus species]]

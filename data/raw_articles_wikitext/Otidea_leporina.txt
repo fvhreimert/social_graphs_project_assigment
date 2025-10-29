@@ -1,0 +1,44 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Otidea leporina 391192.jpg
+| image_caption =
+| status = G4
+| status_system = TNC
+| status_ref = <ref name=NS>{{cite NatureServe |id=2.637284 |title=''Otidea leporina'' |access-date=26 May 2025}}</ref>
+| genus = Otidea
+| species = leporina
+| authority = ([[August Johann Georg Karl Batsch|Batsch]]) [[Karl Wilhelm Gottlieb Leopold Fuckel|Fuckel]] (1870)
+| synonyms_ref = <ref name="urlMycoBank: Otidea leporina"/>
+| synonyms =
+*''Helvella auricula'' <small>[[Schaeff.]] (1774)</small>
+*''Peziza leporina'' <small>Batsch (1783)</small>
+*''Scodellina leporina'' <small>(Batsch) [[Samuel Frederick Gray|Gray]] (1821)</small>
+*''Scodellina auricula'' <small>(Schaeff.) [[Fred Jay Seaver|Seaver]] (1928)</small>
+*''Helvella leporina'' <small>(Batsch) Franchi, L.Lami & M.Marchetti (1999)</small>
+}}
+
+'''''Otidea leporina''''' is a [[species]] of [[fungus]] in the family [[Pyronemataceae]]. It was given its current name by [[Karl Wilhelm Gottlieb Leopold Fuckel]] in 1870.<ref name="Fuckel 1870"/> It contains toxins which may cause serious gastric upset.<ref name="Miller 2006">{{cite book|last=Miller Jr.|first=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuides]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=532|author-link=Orson K. Miller Jr.}}</ref>
+
+==References==
+{{Reflist|refs=
+
+<ref name="Fuckel 1870">{{cite journal |title=Symbolae mycologicae. Beiträge zur Kenntnis der rheinischen Pilze |journal=Jahrbücher des Nassauischen Vereins für Naturkunde |author=Fuckel L. |year=1870 |volume=23–24 |page=329 |language=German}}</ref>
+
+<ref name="urlMycoBank: Otidea leporina">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=164037 |title=''Otidea leporina'' (Batsch) Fuckel 1870  |publisher=[[MycoBank]]. International Mycological Association |access-date=2010-12-20}}</ref>
+
+}}
+
+==External links==
+* {{Commons category-inline|Otidea leporina}}
+*{{IndexFungorum|164037}}
+
+{{Taxonbar|from=Q3913812}}
+
+[[Category:Fungi described in 1783]]
+[[Category:Poisonous fungi]]
+[[Category:Pyronemataceae]]
+[[Category:Taxa named by August Batsch]]
+[[Category:Fungus species]]
+
+
+{{Pezizomycetes-stub}}

@@ -1,0 +1,39 @@
+{{Short description|Species of fungus}}
+{{single source|date=October 2025}}
+{{no footnotes|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption =
+| taxon = Gymnopilus marticorenai
+| authority = Garrido
+| synonyms =
+}}
+{{mycomorphbox
+| name = Gymnopilus marticorenai
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+}}
+
+'''''Gymnopilus marticorenai''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]].
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==External links==
+*''[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=134843 Gymnopilus marticorenai]'' at [[Index Fungorum]]
+
+{{Taxonbar|from=Q10763391}}
+
+{{DEFAULTSORT:Gymnopilus marticorenai}}
+[[Category:Gymnopilus|marticorenai]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

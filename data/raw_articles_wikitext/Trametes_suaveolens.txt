@@ -1,0 +1,22 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Trametes.suaveolens.-.lindsey.jpg
+| genus = Trametes
+| species = suaveolens
+| image_caption = Trametes suaveolens
+| authority =  (L.) Fries, 1838
+}}
+
+'''''Trametes suaveolens''''' is a species of [[fungus]] belonging to the family [[Polyporaceae]].<ref name="Mycobank">{{cite web |title=Trametes suaveolens |url=https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/203430 |website=www.mycobank.org |access-date=13 February 2021}}</ref>
+
+Synonym:
+* ''Boletus suaveolens'' L., 1753 (= [[basionym]])<ref name="Mycobank" />
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q548690}}
+
+[[Category:Polyporaceae]]
+[[Category:Fungus species]]
+{{polyporales-stub}}

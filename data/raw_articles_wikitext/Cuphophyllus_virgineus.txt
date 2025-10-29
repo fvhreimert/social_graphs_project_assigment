@@ -1,0 +1,64 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = 2007-10-20 Cuphophyllus virgineus.jpg
+| taxon = Cuphophyllus virgineus
+| authority = ([[Franz Xaver von Wulfen|Wulfen]]) Kovalenko (1989)
+| synonyms = *''Agaricus niveus'' {{small|[[Giovanni Antonio Scopoli|Scop.]] (1772)}}
+*''Agaricus virgineus''  {{small|Wulfen (1781)}}
+*''Hygrophorus niveus'' {{small|(Scop.) [[Elias Magnus Fries|Fr.]]) (1838)}}
+*''Hygrophorus virgineus'' {{small|(Wulfen) [[Elias Magnus Fries|Fr.]]) (1838)}}
+*''Camarophyllus virgineus'' {{small|(Wulfen) [[Paul Kummer|P.Kumm.]] (1871)}}
+*''Camarophyllus virginea'' {{small|(Giovanni Antonio Scopoli|Scop.) Wünsche (1877)}}
+*''Hygrocybe nivea'' {{small|(Scop.) [[William Murrill|Murrill]] (1916)}}
+*''Hygrocybe virginea''  {{small|(Wulfen) [[P.D.Orton]] & [[Roy Watling|Watling]] (1969)}}
+*''Cuphophyllus niveus'' {{small|(Scop.) [[Marcel Bon|Bon]] (1984)}}
+}}
+
+'''''Cuphophyllus virgineus''''' is a species of [[agaric]] (gilled mushroom) in the family [[Hygrophoraceae]]. Its recommended English [[common name]] is '''snowy waxcap''' in the UK.<ref name=BMS/> The species has a largely north [[temperate]] distribution, occurring in grassland in Europe and in woodland in northern Asia and North America. It typically produces [[basidiocarps]] (fruit bodies) in the autumn.
+
+==Taxonomy==
+The species was first described in 1781 by the Austrian mycologist [[Franz Xaver von Wulfen]] as ''Agaricus virgineus''. It was subsequently combined in a number of different genera, being transferred to ''[[Hygrocybe]]'' in 1969 before being transferred to ''[[Cuphophyllus]]''. The [[specific name (botany)|specific epithet]] comes from [[Latin]] "virgineus" (= pure white).<ref name=Rea1922/> ''Hygrocybe nivea'', first described by the Italian mycologist and naturalist [[Giovanni Antonio Scopoli]] in 1772, was sometimes distinguished by producing smaller and more slender fruit bodies than ''H. virginea'', but is now regarded as a synonym.<ref name=Boertmann/>
+
+[[Molecular phylogenetics|Molecular]] research published in 2011, based on [[cladistic]] analysis of [[DNA sequences]] found that ''Hygrocybe virginea'' does not belong in ''Hygrocybe'' ''[[sensu stricto]]'' and belongs in the genus ''[[Cuphophyllus]]'' instead.<ref name=Babos2011/>
+
+==Description==
+[[Basidiocarps]] are [[agaricoid]]. The [[Pileus (mycology)|cap]] is convex at first, becoming flat or slightly depressed when expanded, up to {{Convert|7.5|cm|frac=4}} across. The cap surface is smooth, waxy when damp, [[hygrophanous]] and somewhat translucent with a striate margin, white to ivory (rarely with ochre to brownish tints). The [[lamella (mycology)|lamellae]] (gills) are waxy, cap-coloured, and [[decurrent gills|decurrent]] (widely attached to and running down the stipe). The [[stipe (mycology)|stipe]] (stem) is up to 7&nbsp;cm long,<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=393}}</ref> smooth, cylindrical or tapering to the base, cap-coloured, and waxy when damp. The [[Trama (mycology)|flesh]] is white with a mild smell and bitter to acrid flavor.<ref name="audu" /><ref>{{cite book |last1=Trudell |first1=Steve |url=https://books.google.com/books?id=WevHvt6Tr8kC |title=Mushrooms of the Pacific Northwest |last2=Ammirati |first2=Joe |publisher=Timber Press |year=2009 |isbn=978-0-88192-935-5 |series=Timber Press Field Guides |location=Portland, OR |pages=66}}</ref> The [[spore print]] is white, the spores (under a microscope) smooth, [[inamyloid]], ellipsoid, about 7.0 to 8.5 by 4.5 to 5.0&nbsp;[[μm]].<ref name=Boertmann/>
+
+The species is sometimes parasitized by the [[Mold (fungus)|mould]] ''[[Paecilomyces marquandii|Marquandomyces marquandi]]'', which colours the lamellae violet.<ref name=Boertmann/>
+
+===Similar species===
+''[[Cuphophyllus russocoriaceus]]'' is very similar in appearance, but can be distinguished in the field by its strong smell of [[sandalwood]]. [[Cuphophyllus berkeleyi|''C.&nbsp;berkeleyi'']] (sometimes considered a white form of [[Cuphophyllus pratensis|''C.&nbsp;pratensis'']]) is also similar, but its fruit bodies are typically larger and {{nowrap|non-hygrophanous}}.<ref name=Boertmann/> ''[[Cuphophyllus angustifolius|C.&nbsp;angustifolius]]'' is stockier.<ref name="audu" />
+
+==Distribution and habitat==
+The snowy waxcap is widespread throughout the [[temperateness|north temperate]] zone, occurring in Europe, northern Asia, North America, and Australia.{{Citation needed|date=March 2025}} Like other waxcaps, it grows in old, unimproved, short-sward grassland (pastures and lawns) in Europe, but in woodland elsewhere. Recent research suggests waxcaps are neither [[mycorrhiza]]l nor [[saprotrophic]], but may be associated with mosses.<ref name="Seitzman"/>
+
+==Conservation==
+In Europe, ''Cuphophyllus virgineus'' is typical of [[waxcap grassland]]s, a declining habitat due to changing agricultural practices. ''Cuphophyllus virgineus'' is one of the commonest species in the genus and is not considered to be of conservation concern (unlike most other waxcaps).<ref name=Boertmann/> In 1997, the species was featured on a postage stamp issued by the [[Faeroe Islands]].
+
+==Edibility==
+The fruit bodies are considered edible and good.<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |url=https://archive.org/details/mushroomsotherfu0000phil |url-access=registration |year=2010 |orig-year=2005 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=[https://archive.org/details/mushroomsotherfu0000phil/page/76 76]}}</ref>
+
+==References==
+{{Reflist|30em|refs=
+
+<ref name="BMS">{{cite web |author=Holden L. |url=https://www.britmycolsoc.org.uk/resources/english-names/ |title=English names for fungi 2022 |date=April 2022 |publisher=[[British Mycological Society]] |accessdate=2022-12-06}}</ref>
+
+<ref name=Rea1922>{{cite book |title=British Basidiomycetaceae: A Handbook of the Larger British Fungi |author=Rea C. |author-link=Carleton Rea |year=1922 |publisher=Cambridge University Press |location=Cambridge, UK |page=799 }}</ref>
+
+<ref name=Babos2011>{{cite journal |vauthors=Babos M, Halász K, Zagyva T, Zöld-Balogh Á, Szegő D, Bratek Z |year=2011 |title=Preliminary notes on dual relevance of ITS sequences and pigments in ''Hygrocybe'' taxonomy |journal=Persoonia |volume=26 |pages=99–107 |doi=10.3767/003158511X578349|pmid=22025807 |pmc=3160800 }}</ref>
+
+<ref name=Boertmann>{{cite book |title=The genus ''Hygrocybe'' |edition=2nd |author=Boertmann D. |year=2010 |publisher=Danish Mycological Society |location=Copenhagen |pages=200 |isbn=978-87-983581-7-6}}</ref>
+
+<ref name="Seitzman">{{cite journal |vauthors=Seitzman BH, Ouimette A, Mixon RL, Hobbie EA, Hibbett DS |year=2011 |title=Conservation of biotrophy in Hygrophoraceae inferred from combined stable isotope and phylogenetic analyses |journal=Mycologia |volume=103 |issue=2 |pages=280–290 |doi=10.3852/10-195 |pmid=21139028|s2cid=318326 }}</ref>
+}}
+
+{{Taxonbar|from1=Q84335147|from2=Q112037}}
+
+[[Category:Hygrophoraceae]]
+[[Category:Edible fungi]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Australia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1781]]
+[[Category:Fungus species]]

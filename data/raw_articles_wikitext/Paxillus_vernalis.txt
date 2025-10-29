@@ -1,0 +1,41 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = 2012-09-02 Paxillus vernalis Watling 257710.jpg
+| genus = Paxillus
+| species = vernalis
+| authority = [[Roy Watling|Watling]] (1969)
+}}
+{{mycomorphbox 
+| name = ''Paxillus vernalis''
+| whichGills = decurrent 
+| capShape = depressed 
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = brown
+| howEdible=poisonous
+}}
+
+'''''Paxillus vernalis''''' is a [[basidiomycete]] [[fungus]] found in montane forests in northern North America. It closely resembles the poisonous ''[[Paxillus involutus]]'', and is considered likely to also be poisonous.<ref name="Miller 2006">{{cite book|last=Miller Jr.|first=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=289|author-link=Orson K. Miller Jr.}}</ref> The fungus was [[species description|described]] as new to science by Scottish mycologist [[Roy Watling]] in 1969.<ref name="Watling 1969"/>
+
+==References==
+{{Reflist|refs=
+
+<ref name="Watling 1969">{{cite journal |author=Watling R. |title=New fungi from Michigan |journal=Notes from the Royal Botanical Garden Edinburgh |year=1969 |volume=29 |issue=1 |pages=59–66}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|335677}}
+* [http://www.mushroomexpert.com/paxillus_vernalis.html#involutus Mushroom Expert on the brown roll-rim]
+
+{{Taxonbar|from=Q10621929}}
+
+[[Category:Paxillaceae]]
+[[Category:Fungi described in 1969]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Roy Watling]]
+[[Category:Fungus species]]
+
+
+{{Boletales-stub}}

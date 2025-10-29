@@ -1,0 +1,63 @@
+{{Short description|Species of edible mushroom}}
+{{speciesbox
+| name = Velvet shank
+| image = Flammulina velutipes on a tree.jpg
+| image_caption = ''Flammulina velutipes'' on a tree
+| taxon = Flammulina velutipes
+| authority = ([[William Curtis|Curtis]]) [[Rolf Singer|Singer]] (1951)
+| synonyms = *''Agaricus velutipes'' <small>Curtis (1782)</small>
+}}
+{{mycomorphbox
+| name = ''Flammulina velutipes''
+| hymeniumType = gills
+| capShape = convex
+| whichGills = adnate
+| stipeCharacter = bare
+| sporePrintColor = white
+| ecologicalType = saprotrophic
+| howEdible = choice
+}}
+'''''Flammulina velutipes''''', the '''velvet foot''', '''velvet stem''', '''velvet shank''' or '''wild enoki''',<ref name="BMS" /><ref name=":0">{{Cite book |last1=Sisson |first1=Liv |url=https://www.worldcat.org/title/on1372569849 |title=Fungi of Aotearoa: a curious forager's field guide |last2=Vigus |first2=Paula |date=2023 |publisher=Penguin Books |isbn=978-1-76104-787-9 |location=Auckland, New Zealand |pages=112 |oclc=on1372569849 }}</ref><ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/220/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=220 |orig-date=1979}}</ref> is a species of gilled mushroom in the family [[Physalacriaceae]]. The species occurs in Europe and North America. 
+
+== Taxonomy ==
+The species was originally described from England by botanist [[William Curtis]] in 1782 as ''Agaricus velutipes''. It was transferred to the genus ''[[Flammulina]]'' by [[Rolf Singer]] in 1951.
+
+Until recently, ''F. velutipes'' was considered to be [[conspecific]] with the Asian'' [[Flammulina filiformis|F.&nbsp;filiformis]]'', cultivated for food as "enokitake" or "golden needle mushroom", but [[DNA sequencing]] shows that the two are distinct.<ref name="Wang" />
+
+{{Portal|Fungi}}
+
+== Description ==
+''F. velutipes'' grows up to {{Convert|10|cm|frac=4}} tall and wide.<ref name="tfb">{{Cite book |last=Francis-Baker |first=Tiffany |title=Concise Foraging Guide |date=2021 |publisher=[[Bloomsbury Publishing|Bloomsbury]] |isbn=978-1-4729-8474-6 |series=[[The Wildlife Trusts]] |location=London |pages=137}}</ref> The cap is light orange, darker toward the center.<ref name="tfb" /> The stem fades to a darker color near the base.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=449}}</ref> The flesh of the cap is yellow, while that of the stem is brown. The odour and flavour are pleasant.<ref name="tfb" /> The [[spore print]] is white.<ref name="Arora1986" />
+
+=== Similar species ===
+It may resemble ''[[Flammulina populicola|F. populicola]]'' and ''[[Flammulina lupinicola|F.&nbsp;lupinicola]]''. ''[[Marasmiellus dichrous]]'' and ''[[Xeromphalina tenuipes]]'' are also similar.<ref name="audu" />
+
+== Distribution and habitat ==
+The species occurs throughout Europe (October to February)<ref name="tfb" /> and in North America (through May in the east).<ref name="audu" />
+
+Velvet shank is [[Saprotrophic nutrition|saprotrophic]] especially on dead or dying elm, as well as ash, beech and oak.<ref>{{Cite web |title=''Flammulina velutipes'', Velvet Shank mushroom |url=https://first-nature.com/fungi/flammulina-velutipes.php |access-date=May 12, 2024 |website=first-nature.com}}</ref><ref name=":0" />
+
+==Uses==
+The fleshy caps can be sliced and cooked (ideally with the skin removed),<ref name="Arora1986" /> or dried and ground into seasoning.<ref name="tfb" />
+
+==See also==
+
+* ''[[Collybia]]''
+
+==References==
+{{Reflist|colwidth=50em|refs=
+<ref name=BMS>{{cite web |author=Holden L. |url=https://www.britmycolsoc.org.uk/field_mycology/english-names |title=English names for fungi April 2022 |date=April 2022 |publisher=[[British Mycological Society]] |access-date=June 16, 2022 |archive-date=November 3, 2022 |archive-url=https://web.archive.org/web/20221103000333/https://www.britmycolsoc.org.uk/field_mycology/english-names |url-status=dead }}</ref>
+
+<ref name="Wang">{{cite journal |last1=Wang |first1=Pan Meng |last2=Liu |first2=Xiao Bin |last3=Dai |first3=Yu Cheng |last4=Horak |first4=Egon |last5=Steffen |first5=Kari |last6=Yang |first6=Zhu L. |title=Phylogeny and species delimitation of ''Flammulina'': taxonomic status of winter mushroom in East Asia and a new European species identified using an integrated approach |journal=Mycological Progress |date=September 2018 |volume=17 |issue=9 |pages=1013–1030 |doi=10.1007/s11557-018-1409-2 |bibcode=2018MycPr..17.1013W |s2cid=49299638 |url=https://www.researchgate.net/publication/325826280 }}</ref>
+}}
+
+==External links==
+
+* {{Commons category-inline|Flammulina velutipes|''Flammulina velutipes''}}
+{{Taxonbar|from=Q372893}}
+
+[[Category:Physalacriaceae]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]
+[[Category:Fungi described in 1782]]

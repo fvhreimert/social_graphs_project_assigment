@@ -1,0 +1,45 @@
+{{short description|Species of fungus}}
+{{Speciesbox
+| image = Pluteus cyanopus 54538.jpg
+| genus = Pluteus
+| species = cyanopus
+| authority = [[Quél.]] (1883)
+| synonyms_ref = <ref name="urlMycoBank: Pluteus cyanopus"/>
+| synonyms = *''Pluteus chrysophaeus'' var. ''cyanopus'' <small>(Quél.) Quél. (1888)</small>
+*''Pluteus metrodii'' <small>Malençon & Bertault (1970)</small>
+}}
+
+'''''Pluteus cyanopus''''' is a species of [[agaric]] fungus in the family [[Pluteaceae]]. Found in Africa, Europe, and North America, its [[basidiocarp|fruit bodies]] contain the [[psychoactive]] compounds [[psilocybin]] and [[psilocin]].<ref name="Guzmán 1998"/> The species was first [[species description|described]] scientifically by French mycologist [[Lucien Quélet]] in 1883.<ref name="Quélet 1883"/>
+
+==See also==
+*[[List of Pluteus species|List of ''Pluteus'' species]]
+*[[List of Psilocybin mushrooms]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Guzmán 1998">{{cite journal |vauthors=Guzmán G, Allen JW, Gartz J |title=A worldwide geographical distribution of the neurotropic fungi, an analysis and discussion |journal=Annali del Museo Civico di Rovereto |year=1998 |volume=14 |pages=198–280 |url=http://www.magic-mushrooms.net/World_Wide_Distribution_of_Magic_Mushrooms.pdf |access-date=2012-12-21 |archive-date=2010-06-26 |archive-url=https://web.archive.org/web/20100626050845/http://www.magic-mushrooms.net/World_Wide_Distribution_of_Magic_Mushrooms.pdf |url-status=dead }}</ref>
+
+<ref name="Quélet 1883">{{cite journal |author=Quélet L. |title=Quelques especes critiques ou nouvelles de la Flore Mycologique de France |journal=Compte Rendu de l'Association Française pour l'Avancement des Sciences |year=1883 |volume=11 |pages=387–412 |language=fr}}</ref>
+
+<ref name="urlMycoBank: Pluteus cyanopus">{{cite web |title=''Pluteus cyanopus'' Quél. :391, 1883 |url=http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=122594&Fields=All |publisher=[[MycoBank]]. International Mycological Association |access-date=2012-12-21}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|240017}}
+
+{{Hallucinogenic mushrooms}}
+{{Taxonbar|from=Q76855}}
+
+[[Category:Fungi described in 1883]]
+[[Category:Fungi of Africa]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Pluteus|cyanopus]]
+[[Category:Psychoactive fungi]]
+[[Category:Psychedelic tryptamine carriers]]
+[[Category:Fungus species]]
+
+
+{{Agaricales-stub}}

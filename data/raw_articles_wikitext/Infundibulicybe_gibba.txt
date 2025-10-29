@@ -1,0 +1,111 @@
+{{Short description|Species of gilled mushroom}}
+{{Speciesbox
+| image = Clitocybe gibba 060820w.jpg
+| genus = Infundibulicybe
+| species = gibba
+| authority = ([[Christiaan Hendrik Persoon|Pers.]]) Harmaja (2003)
+| synonyms = *''Agaricus gibbus'' {{small|Pers. (1801)}}
+*''Clitocybe gibba''  {{small|([[Christiaan Hendrik Persoon|Pers.]]) [[Paul Kummer|P. Kumm.]] (1871)}}
+*''Agaricus maximus'' {{small|[[P.Gaertn.]], [[B.Mey.]] & [[Scherb.]] (1802)}}
+}}
+{{mycomorphbox
+| name = ''Infundibulicybe gibba''
+| whichGills = decurrent
+| capShape = infundibuliform
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = saprotrophic
+| sporePrintColor = white
+| howEdible = edible
+| howEdible2 = caution
+}}
+
+'''''Infundibulicybe gibba''''' (also known as '''''Clitocybe gibba'''''), and commonly known as the '''common funnel'''<ref name="firstNature" /> or '''funnel cap''',<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/157/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=157 |orig-date=1979}}</ref> is a species of [[Lamella (mycology)|gilled]] mushroom which is common in European woods.
+
+==Taxonomy==
+The epithet ''gibba'' comes from the Latin adjective "gibbus", meaning "humped" or "[[wikt:gibbous|gibbous]]".<ref name=Lewis1/>
+
+This species was originally described by the mycologist [[Christiaan Hendrik Persoon]] in 1801 as ''Agaricus gibbus'', at a time when [[Lamella (mycology)|gilled]] mushrooms were generally all assigned to genus ''Agaricus''.<ref name=SF1/> In 1871, [[Paul Kummer]] allocated the species to the genus ''[[Clitocybe]]'', which previously (according to the system of [[Elias Magnus Fries]]) had only been a [[Tribe (biology)|tribe]] within genus ''Agaricus''.<ref name=Kummer/>
+
+In 2003 Harri Harmaja created the new genus ''[[Infundibulicybe]]'' for some of the larger members of the former ''Clitocybe'' and he included ''I.&nbsp;gibba'' as the type species.<ref name=Eyssartier/><ref name=FN/><ref name=SF1/><ref name="Harmaja 2003"/>
+
+===''Clitocybe catinus''===
+
+
+''Clitocybe catinus'' is described as differing from ''C.&nbsp;gibba'' by having white cap with occasionally some pink tonality and its slight smell of flour.<ref>{{cite web|url=https://www.funghiitaliani.it/topic/15081-infundibulicybe-gibba/|title=Infundibulicybe gibba|website=Funghi in Italia - Fiori in Italia - Forum Micologia e Botanica|date=8 April 2016 |accessdate=23 October 2018}}</ref>
+
+Harmaja (2003) gave it{{What|reason=Which taxa?|date=May 2025}} a new name, ''Infundibulicybe catinus''.<ref name="Harmaja 2003"/>
+
+Vizzini et al. (2011) listed it{{What|reason=Which taxa?|date=May 2025}} a color variant of ''Infundibulicybe gibba''.<ref name="Vizzini et al 2011" />
+
+===''Clitocybe infundibuliformis''===
+The older name ''Clitocybe infundibuliformis'' is often identified as a synonym of ''I.&nbsp;gibba'',<ref name=Bon/><ref name=Courtecuisse/><ref name=FN/> but according to [[Species Fungorum]] that use was incorrect and the original ''C.&nbsp;infundibuliformis'' was a different taxon.<ref name=SF1/>
+
+===Etymology===
+The name ''infundibuliformis'' derives from the Latin "infundibulum", a funnel, with the suffix "-formis" - so it means "funnel-shaped".<ref name=Lewis2/>
+
+== Description ==
+The matt slightly felted [[Pileus (mycology)|cap]] grows from about {{Convert|3 to 9|cm|frac=4}}, and is beige to tan, also sometimes with a pink tinge.<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=153–154|oclc=797915861}}</ref> It may have a small depression in the centre and soon becomes funnel-shaped.<ref name="Arora1986" />
+
+There is no ring or other veil remnant. The stem is white or whitish and about 2–8&nbsp;cm long and 1&nbsp;cm in diameter.<ref name=":0" />
+
+The white gills are crowded and very [[decurrent]] (running down the stem).<ref name=":0" />
+
+It has a faint "cyanic" smell, like new-mown hay, and the flavour is mild, but the central European variety ''adstringens'' has an unpleasant taste.<ref name="Courtecuisse" />
+
+The tear-shaped spores are white<ref name=":0" /> and around 5.5–8&nbsp;[[μm]] by 4–5&nbsp;μm. The [[spore print]] is white.<ref name="Arora1986" />
+
+=== Similar species ===
+The species resembles ''[[Infundibulicybe squamulosa]]'', ''[[Pseudoclitocybe cyathiformis]]'',<ref name=":0" /> ''[[Bonomyces sinopicus]]'', and ''[[Singerocybe adirondackensis]]''.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=481}}</ref>
+
+== Distribution and habitat ==
+This gregarious [[saprobic]] mushroom grows on soil in deciduous or (less commonly) coniferous<ref name="Arora1986" /> woods and may be found from summer to autumn. It sometimes forms [[fairy rings]].
+
+It is very common throughout Europe, and occurs in North America and Japan.<ref name=GBIF/><ref name=Courtecuisse/>
+
+== Uses ==
+It is [[Edible mushroom|edible]] when young, but said to be of mediocre quality. It can be fried or used in risottos or soups etc. The stems are tough and may be discarded.<ref name=ElRoyo/><ref name=Bon/><ref name=firstNature/> The species resembles some which are [[Mushroom poisoning|poisonous]].<ref name=":0" />
+
+An [[extract]] of ''I. gibba'' exhibits inhibitory activity on [[thrombin]].<ref name="Doljak 2001"/>
+
+==References==
+{{Reflist|refs=
+
+<ref name=Bon>{{cite book |first=Marcel |last=Bon |author-link=Marcel Bon |title=The Mushrooms and Toadstools of Britain and North-Western Europe |publisher=Hodder & Stoughton |year=1987 |page=134 |isbn=0-340-39935-X }}</ref>
+
+<ref name=Courtecuisse>{{cite book |author1=Courtecuisse, R.  |author2=Duhem, B. |title=Champignons de France et d'Europe |language=French |publisher=Delachaux et Niestlé |year=2013 |page=212 |isbn=978-2-603-02038-8 }}  Also available in English.</ref>
+
+<ref name="Doljak 2001">{{cite journal |last1=Doljak |first1=B. |last2=Stegnar |first2=M. |last3=Urleb |first3=U. |last4=Kreft |first4=S. |last5=Umek |first5=A. |last6=Ciglarič |first6=M. |last7=Štrukelj |first7=B. |last8=Popovič |first8=T. |title=Screening for selective thrombin inhibitors in mushrooms |journal=Blood Coagulation and Fibrinolysis |volume=12 |issue=2 |pages=123–8 |year=2001 |pmid=11302474 |doi=10.1097/00001721-200103000-00006 |s2cid=28411589 }}</ref>
+
+<ref name=ElRoyo>{{cite web |url=http://www.amanitacesarea.com/clitocybe-gibba.html |title=Clitocybe gibba |work=Asociación Micológica El Royo |language=Spanish |access-date=2019-07-28 }}</ref>
+
+<ref name=Eyssartier>{{cite book |author1=Eyssartier, G.  |author2=Roux, P. |title=Le guide des champignons France et Europe |language=French |publisher=Belin |year=2013 |page=572 |isbn=978-2-7011-8289-6 }}</ref>
+
+<ref name=firstNature>{{cite web |url=https://www.first-nature.com/fungi/clitocybe-gibba.php |title=''Clitocybe gibba'' (Pers.) P. Kumm. - Common Funnel |work=First Nature |publisher=Pat O'Reilly |access-date=2019-07-28 }}</ref>
+
+<ref name=FN>{{cite book |editor-first1=H. |editor-last1=Knudsen |editor-first2=J. |editor-last2=Vesterholt |title=Funga Nordica Agaricoid, boletoid, clavarioid, cyphelloid and gasteroid genera |publisher=Nordsvamp |location=Copenhagen |year=2018 |page=469 |isbn=978-87-983961-3-0 }}</ref>
+
+<ref name=GBIF>{{cite web |url=https://www.gbif.org/species/2531144 |title=''Clitocybe gibba'' (Pers.) P. Kumm. |work=Global Biodiversity Information Facility |publisher=[[OECD]] |access-date=2019-07-28 }}</ref>
+
+<ref name="Harmaja 2003">{{cite journal |vauthors=Harmaja H |title= Notes on Clitocybe s. lato (Agaricales).|journal= Annales Botanici Fennici |year=2003 |volume=40 |issue=1 |pages=213–218}}</ref>
+
+<ref name=Kummer>{{cite book |first=Paul |last=Kummer |author-link=Paul Kummer |title=Der Führer in die Pilzkunde ... |trans-title=The Guide to Mycology ... |publisher=E. Luppe |location=Zerbst |year=1871 |language=German |page=123 |url=https://www.biodiversitylibrary.org/page/34209706#page/131/mode/1up }}</ref>
+
+<ref name=Lewis1>{{cite web |url=https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dgibbus1 |title=gibbus  |work=A Latin Dictionary |first1=Charlton T. |last1=Lewis |first2=Charles |last2=Short |publisher=Perseus Digital Library |access-date=2019-07-28}}</ref>
+
+<ref name=Lewis2>{{cite web |url=https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0059%3Aentry%3Dinfundibulum |title=infundĭbŭlum   |work=A Latin Dictionary |first1=Charlton T. |last1=Lewis |first2=Charles |last2=Short |publisher=Perseus Digital Library |access-date=2019-07-28}}</ref>
+
+<ref name=SF1>{{cite web |url=http://www.speciesfungorum.org/Names/GSDSpecies.asp?RecordID=487939 |title=''Infundibulicybe gibba'' page |work=Species Fungorum |publisher=Royal Botanic Gardens Kew |access-date=2019-07-30 }}</ref>
+
+<ref name="Vizzini et al 2011">{{cite journal | vauthors = Vizzini A, Contu M, Musumeci E, Ercole E | date = 2011 | title = A new taxon in the ''Infundibulicybe gibba'' complex (Basidiomycota, Agaricales, Tricholomataceae) from Sardinia (Italy) | journal = Mycologia | volume = 103 | issue = 1 | pages = 203–208 | doi = 10.3852/10-137| pmid = 20943527 | hdl = 2318/76272 | hdl-access = free }}</ref>
+
+}}
+
+{{Taxonbar|from=Q765631|from2=Q107800206|from3=Q46795429}}
+
+[[Category:Agaricales]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1801]]
+[[Category:Fungi of Europe]]
+[[Category:Taxa named by Christiaan Hendrik Persoon]]
+[[Category:Fungus species]]

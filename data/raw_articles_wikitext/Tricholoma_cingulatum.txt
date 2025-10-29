@@ -1,0 +1,35 @@
+{{Short description|Species of fungus}}
+{{Species box
+| image = Tricholoma cingulatum 292459.jpg
+| taxon = Tricholoma cingulatum
+| authority = (Almfelt) Jacobasch (1890)
+| synonyms_ref = <ref name="urlMycoBank: Tricholoma cingulatum"/>
+| synonyms = *''Agaricus cingulatus'' <small>Almfelt (1830)</small>
+*''Armillaria cingulata'' <small>(Almfelt) [[Quél.]] (1872)</small>
+}}
+
+'''''Tricholoma cingulatum''''' is a [[mushroom]] of the [[agaric]] genus ''[[Tricholoma]]''. First [[species description|described]] in 1830 as ''Agaricus cingulatus'' by [[Elias Magnus Fries]],<ref name="Fries 1830"/> it was transferred to the genus ''[[Tricholoma]]'' by Almfelt in 1830.
+
+==See also==
+*[[List of North American Tricholoma|List of North American ''Tricholoma'']]
+*[[List of Tricholoma species|List of ''Tricholoma'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Fries 1830">{{cite journal |author=Fries EM. |title=Eclogae fungorum, praecipue ex herbarus germanorum de scriptorum |journal=Linnaea |year=1830 |volume=5 |pages=497–553 (see p.&nbsp;507) |url= |language=Latin}}</ref>
+
+<ref name="urlMycoBank: Tricholoma cingulatum">{{cite web |title=''Tricholoma cingulatum'' (Almfelt) Jacobasch :55, 1890 |url=http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=123114&Fields=All |publisher=[[MycoBank]]. International Mycological Association |access-date=2013-03-23}}</ref>
+
+}}
+
+{{Taxonbar|from=Q9347250}}
+
+[[Category:Tricholoma|cingulatum]]
+[[Category:Fungi described in 1830]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]
+
+
+{{Tricholomataceae-stub}}

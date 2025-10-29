@@ -1,0 +1,93 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Boletus_erythropus_2010_G3.jpg
+| image_caption = ''N. luridiformis'', Ukraine
+| taxon = Neoboletus luridiformis
+| authority = ([[Rostk.]]) Gelardi, Simonini & Vizzini (2014)
+| synonyms = *''Boletus luridiformis'' <small>Rostk. (1844)</small>
+*''Suillus luridiformis'' <small>(Rostk.) [[Otto Kuntze|Kuntze]] (1898)</small>
+*''Boletus erythropus'' <small>''[[sensu#Common nqualifiers|sensu auct.]]''</small>
+}}
+{{mycomorphbox
+| name = ''Neoboletus luridiformis''
+| whichGills = adnate
+| capShape = convex
+| hymeniumType = pores
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = olive-brown
+| howEdible=edible
+| howEdible2=caution
+}}
+
+'''''Neoboletus luridiformis''''', also previously known as '''''Boletus luridiformis''''' and (invalidly) as '''''Boletus erythropus''''', is a fungus of the [[Boletaceae|bolete family]], most of which produce mushrooms with tubes and pores beneath their [[pileus (mycology)|caps]]. It is [[common name|commonly known]] as the '''scarletina bolete''', for its red pores, which are yellow when young. Other common names include the '''red foot bolete''', '''dotted stemmed bolete''', or '''dotted stem bolete'''.<ref>{{Cite web |title=Scarletina Bolete – Edibility, Distribution, Identification, plus some other colourful fungi characters – Galloway Wild Foods |url=https://gallowaywildfoods.com/scarletina-bolete-edibility-distribution-identification/ |access-date=2024-02-09 |website=gallowaywildfoods.com}}</ref>
+
+It is found in [[Northern Europe]] and North America. While [[edible mushroom|edible]] when cooked properly, it can cause vomiting and diarrhea if not. Where the two species coincide, it can be confused with species such as ''[[Rubroboletus satanas]]''.
+
+==Taxonomy==
+In 1796 [[Christian Hendrik Persoon]] described ''Boletus erythropus'', deriving its [[specific name (botany)|specific name]] from the [[Ancient Greek|Greek]] ''ερυθρος'' ("red") and ''πους'' ("foot"),<ref name=Liddell1980/> referring to its red-coloured stalk. During the next 200 years or so, this name was used extensively for the species which is the subject of this article, and which (as well as a red stalk) has red pores.<ref name=Phillips/>  Recently it was discovered however that Persoon's mushroom had orange pores, and was a different species (actually thought to be ''[[Suillellus queletii]]''),<ref name="FungaNordica"/><ref name=SF3/> so the use of this name for the red-pored mushroom was invalid.<ref name="FungaNordica"/><ref name=SF2/>
+
+In 1844 [[Friedrich Wilhelm Gottlieb Rostkovius]] independently defined the red-pored species under the name ''Boletus luridiformis''. That is now the first valid description of the taxon and is the basis of the current name (the [[basionym]]). The significance of the epithet "luridiformis" is that it is similar to the previously known fungus ''Boletus luridus'' (now ''[[Suillellus luridus]]'').<ref name=SF1/>
+
+Genetic analysis published in 2013 showed that ''B.&nbsp;luridiformis'' and many (but not all) red-pored boletes were part of a ''dupainii'' clade (named for ''[[Boletus dupainii]]''), well-removed from the core group of ''[[Boletus edulis]]'' and relatives within the Boletineae. This indicated that it needed to be placed in a new genus.<ref name="Nuhn 2013"/>  It became the [[type species]] of the new genus ''[[Neoboletus]]'' in 2014.<ref name="Vizzini 2014"/>
+
+To avoid confusion, the name ''Boletus erythropus'' should now be avoided if possible (though in theory it still has a legitimate meaning as whatever species Persoon originally intended). It is not a valid synonym of ''Neoboletus luridiformis'', and that can be indicated by using the term ''[[sensu#Common nqualifiers|sensu auct.]]'' in place of the author name (that is, ''Boletus erythropus'' ''sensu auct.'' = ''Neoboletus luridiformis'' (Rostk.) Gelardi, Simonini & Vizzini).<ref name=SF1/>
+
+==Description==
+. After cutting, the yellow interior quickly turns blue due to the oxidation of various secondary metabolites]]
+
+
+The large, solid fungus has a bay-brown hemispherical to convex [[Pileus (mycology)|cap]] that can grow up to {{convert|20|cm|0|abbr=on}} wide and is initially velvety.<ref name="Arora2nd" /> It has small orange-red pores, yellow when young and rusty with age (lending it the name 'scarletina bolete');<ref>{{Cite web |title=Neoboletus luridiformis: The Ultimate Mushroom Guide |url=https://ultimate-mushroom.com/edible/554-neoboletus-luridiformis.html |access-date=2024-02-09 |website=1102 Mushroom Identifications: The Ultimate Mushroom Library |language=en}}</ref> these bruise blue to black. The tubes are yellowish-green and become blue quickly on cutting. The fat, colourful, densely red-dotted yellow [[Stipe (mycology)|stem]] is {{convert|4-15|cm|abbr=on|frac=4}} long<ref name="Arora2nd" /> and has no network pattern (reticulation). The flesh stains dark blue when bruised; broken, or cut.<ref name=Phillips06/> There is little smell. The [[spore print]] is olive-brown.<ref name=Arora2nd/>
+
+===Similar species===
+*''[[Suillellus luridus]]'' has a network pattern on the stem, and seems to prefer chalky soil. 
+*''[[Rubroboletus satanas]]''<ref name=Arora2nd/> also has a stem network, but a very-pale whitish cap, and is moderately [[mushroom poisoning|poisonous]].
+*''[[Rubroboletus pulcherrimus]]'' has a reticulate stipe, and is larger in size.<ref name="Desjardin 2015"/>
+*''[[Rubroboletus dupainii]]'' has a reddish cap.
+*''[[Rubroboletus lupinus]]'' has a smooth stem.
+*''[[Imperator rhodopurpureus]]'' prefers neutral soil.
+
+==Distribution and habitat==
+The fungus is common in Europe, growing in [[deciduous]] or [[conifer]]ouswoodland in summer and autumn.<ref name=Phillips06/>  It is often found in the same places as ''[[Boletus edulis]]''. It is also widely distributed in [[North America]], and is especially common under [[spruce]] in its range from Northern [[California]] to [[Alaska]]. In Eastern North America it grows with both soft, and hardwood trees.<ref name=Arora2nd/> It seems to prefer [[acidic soil]].
+
+==Edibility==
+The mild-flavored species is said to be [[edible mushroom|edible]] after being well cooked, although some people are adversely affected by it. Mycologist [[David Arora]] reported that one man being poisoned after eating a [[sautéed]] specimen.<ref name=Arora2nd/> Some literature recommends cooking it for 20 minutes.{{citation needed|date=June 2025}} When raw or insufficiently cooked it can cause [[gastroenteritis]], for this same reason it is not recommended for drying. Caution is advised as it resembles other potentially hazardous blue-staining boletes and should thus be avoided by novice mushroom hunters.<ref name=Phillips/><ref name="Arora2nd"/> It is commonly collected in several European countries.
+
+==References==
+{{Reflist|refs=
+
+<ref name=Arora2nd>{{cite book |last=Arora |first=David |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/526/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |year=1986 |orig-date=1979 |edition=2nd |pages=526-27}}</ref>
+
+<ref name="Desjardin 2015">{{cite book |author=Desjarind D.E. |author2=Wood M.G. |author3=Stevens F.A. |title=California Mushrooms. The comprehensive identification guide |year=2015 |publisher=Timber Press |location=Portland, Oregon |page=354 |isbn=978-1-60469-353-9}}</ref>
+
+<ref name="FungaNordica">{{cite book |editor-first1=Thomas |editor-last1=Knudsen |editor-first2=J. |editor-last2=Vesterholt |title=Funga Nordica Agaricoid, boletoid, clavarioid, cyphelloid and gasteroid genera |publisher=Nordsvamp |location=Copenhagen |year=2018 |page=218 |isbn=978-87-983961-3-0 }}</ref>
+
+<ref name=Liddell1980>{{cite book | author = Liddell, Henry George | author-link = Henry George Liddell | author2 = Robert Scott | author2-link = Robert Scott (philologist) | name-list-style = amp | year = 1980 | title = A Greek-English Lexicon | publisher = [[Oxford University Press]] | location = United Kingdom | isbn =978-0-19-910207-5| title-link = A Greek-English Lexicon | edition = Abridged }}</ref>
+
+<ref name="Nuhn 2013">{{cite journal |vauthors=Nuhn ME, Binder M, Taylor AF, Halling RE, Hibbett DS |title=Phylogenetic overview of the Boletineae |journal=Fungal Biology |year=2013 |volume=117 |issue=7–8 |pages=479–511 |doi=10.1016/j.funbio.2013.04.008 |pmid=23931115}}</ref>
+
+<ref name=Phillips>{{cite book |author = Roger Phillips |year = 1985 |title = Mushrooms and other fungi of Great Britain and Europe |page=201 |publisher = pan Books |location=London |isbn = 978-0-330-26441-9}}</ref>
+
+<ref name=Phillips06>{{cite book | author = Roger Phillips | year = 2006 | title = Mushrooms | publisher = Pan MacMillan | isbn = 978-0-330-44237-4}}</ref>
+
+<ref name=SF1>{{cite web |url=http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=550771 |title=the ''Neoboletus luridiformis'' page |work=Species Fungorum |publisher=Royal Botanic Gardens Kew |access-date=2020-05-30 }}</ref>
+
+<ref name=SF2>{{cite web |url=http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=234336 |title=the ''Boletus erythropus'' page |work=Species Fungorum |publisher=Royal Botanic Gardens Kew |access-date=2020-05-30 }}</ref>
+
+<ref name=SF3>Species Fungorum actually has a page for an 1801 use of the name ''Boletus erythropus'' for ''Suillellus queletii'', see {{cite web |url=http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=476845 |title=''Boletus erythropus'' sensu Persoon ... |work=Species Fungorum |publisher=Royal Botanic Gardens Kew |access-date=2020-05-31 }}</ref>
+
+<ref name="Vizzini 2014">{{cite journal |vauthors=Gelardi M, Simonini G, Vizzini A |title=Nomenclatural novelties |journal=Index Fungorum |issue=192 |date=October 17, 2014 |url=http://www.indexfungorum.org/Publications/Index%20Fungorum%20no.192.pdf}}</ref>
+
+}}
+
+==External links==
+{{Commonscat}}
+* {{cite book|author=Zeitlmayr L|year=1976|title=Wild Mushrooms:An Illustrated Handbook|publisher=Garden City Press, Hertfordshire|isbn=978-0-584-10324-3}}
+
+{{Taxonbar|from=Q26203718|from2=Q728666}}
+
+[[Category:Neoboletus|luridiformis]]
+[[Category:Fungi described in 1844]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]

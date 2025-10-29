@@ -1,0 +1,85 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{Speciesbox
+| image = 2012-10-19 Cortinarius traganus (Fr.) Fr 273917.jpg
+| genus = Cortinarius
+| species = traganus
+| authority = [[Elias Magnus Fries|Fr.]] (Fr.) (1838)
+| synonyms_ref = <ref name="urlSpecies Fungorum - Species synonymy"/>
+| synonyms =''Agaricus traganus'' <small>Fr. (1818)</small><br>
+''Inoloma traganum'' <small>(Fr.) [[Friedrich Otto Wünsche|Wünsche]] (1877)</small><br>
+''Phlegmacium traganum'' <small>(Fr.) [[Meinhard Michael Moser|M.M.Moser]] (1953)</small>
+}}
+{{mycomorphbox
+| name = ''Cortinarius traganus''
+| whichGills = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter= bare
+| ecologicalType=mycorrhizal
+| sporePrintColor=
+| howEdible=inedible
+}}
+{{stack end}}
+
+'''''Cortinarius traganus''''', also known as the '''gassy webcap''' or '''lilac conifer cortinarius''',<ref name=Arora1986/> is a species of [[basidiomycete]] fungus in the genus ''[[Cortinarius]]''. The mushroom is characterized by its lilac color, rusty-brown [[lamella (mycology)|gills]] and [[spore]]s, and rusty-brown flesh in the [[stipe (mycology)|stem]]. It resembles a number of species, some of which are [[Mushroom poisoning|poisonous]].
+
+==Taxonomy==
+The species was originally named ''Agaricus traganus'' by [[Elias Magnus Fries]] in 1818.<ref name=":1">{{cite web|access-date=2024-10-15 |title=''Agaricus traganus'' Fr. |url=https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=235938 |website=Index Fungorum}}</ref> It is [[common name|commonly]] known as the "gassy webcap"<ref name=EnglishCommonNames/> the "lilac conifer Cortinarius",<ref name=Arora1986/> or the "pungent Cort".<ref name=Bessette1997/>
+
+Fries' protologue (1818) was very brief, but it mentions the main characteristics of the species now considered to be ''C. traganus'': fruity-smelling basidiomata, pileus pale lilac, stipe purplish-white and bulbous, flesh yellow. Fries also referred to an illustration by Schaefer (1774), which then became the lectotype of the species.<ref name=":1" /><ref name=":3">{{cite journal|date=2020 |doi=10.1007/s13225-020-00459-1 |first1=Kare |first2=Tuula |first3=Bálint |first4=Joseph F. |first5=Paul M. |first6=Ilkka |issn=1560-2745 |language=en |last1=Liimatainen |last2=Niskanen |last3=Dima |last4=Ammirati |last5=Kirk |last6=Kytövuori |number=1 |pages=291–331 |periodical=Fungal Diversity |title=Mission impossible completed: unlocking the nomenclature of the largest and most complicated subgenus of Cortinarius, Telamonia |volume=104 |doi-access=free |hdl=10138/326302 |hdl-access=free }}</ref> But the illustration of ''C. traganus'' was mixed, with most of the figures fitting the concept of ''C.&nbsp;traganus'', but with some illustrations indicating characteristics of other species. Therefore, Liimatainen and colleagues designated a collection by Lindström from September 13, 1988, from a dry, sandy pine forest in Myran, Sweden, as the epitype due to the ambiguity of the material.<ref name=":3" />
+
+Some authorities consider the American variant to be a distinct species, ''Cortinarius pyriodorus'', reserving the name ''C.&nbsp;traganus'' for the European version.<ref name=Arora1986/>
+
+==Description==
+The [[pileus (mycology)|cap]] is {{convert|4–13|cm|frac=4}} in diameter, initially spherical to convex, with the margin rolled inward, then flattened, sometimes with large, broad, central [[umbo (mycology)|umbo]].<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=264|oclc=797915861}}</ref> The margin often cracks star-like, particularly in dry weather. The mushroom is a pale azure violet to pale lilac color, soon bleaching and fading to tan brown or rusty brown. The cap is dry, silkily shiny or tomentose at the margin with membranaceous bronze fragments of the [[partial veil|veil]], the white fragments of which often adhere to the surface like scabs. Later the surface becomes cracked into small scales. The [[lamella (mycology)|gills]] are sub-crowded, quite thick, broadly adnate, and often slightly emarginate (notched).<ref name=":0" /> They are {{convert|7–15|mm|2|abbr=on|frac=8}} broad, slightly dirty violet when young but usually brown, with only faintly violet tint, later brown, dusted saffron ochre, and with lighter crenulate edge. The [[stipe (mycology)|stem]] is {{convert|5–12|cm|abbr=on|frac=8}} long and {{convert|1–4|cm|abbr=on|frac=8}} thick, tough and thick, bulbously at the base,<ref name=":0" /> and spongily stuffed inside. It is vivid violet for a long time in the upper part above the cortina, paler below, and covered with a tough, whitish, boot-like veil, which usually leaves upright zones on the stem. The cortina is violet. The [[trama (mycology)|flesh]] is saffron yellowish-brown to yellowish-brown from the beginning except at the tip of the stem where it is dirty violaceous,<ref name=":0" /> or, unpleasantly, goats, so much so that it may induce vomiting in more sensitive individuals.{{What|reason=wtf bro|date=April 2025}} It has a strong, bitter taste, particularly when young.<ref name=Pilat1961/> It has a somewhat fruity smell.<ref name=":3" />
+
+The [[basidia]] (the [[spore]]-bearing cells) are 30–35 by 6.5–7.5&nbsp;[[μm]]. The [[spore deposit]] is rusty brown.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=645}}</ref> The spores are [[wikt:ellipsoid|ellipsoid]], covered with fine warts or dots, and measure 8–9 by 5–5.5&nbsp;μm.<ref name=Pilat1961/>
+
+{{gallery|mode=packed
+|LilaDickfuß.JPG|Young specimens
+}}
+
+===Similar species===
+There are numerous lavender-hued species in the genus, including the pale ''[[Cortinarius alboviolaceus|C.&nbsp;alboviolaceus]]'' and the rare ''[[Cortinarius odoritraganus|C.&nbsp;odoritraganus]]''.<ref name="audu" />
+
+''[[Cortinarius camphoratus]]'' is violet but has pale violet gills which soon turn rusty, and a longer stem with paling flesh at the base. Its spores are also longer, warty, and measure 8.5–11 by 5–6&nbsp;μm.<ref name="Evenson1997" /> It has a pungent smell similar to rotting potatoes.<ref name="Trudell2009" /> ''[[Cortinarius muricinus|C.&nbsp;muricinus]]'' has a cap which is either permanently violet or becoming rust-colored from the disc outward. The gills are initially blue, dirty cinnamon when old, and the stem violet lilac, with lighter fragments of the veil later turning rust-colored. Its spores measure 13–15 by 7–8&nbsp;μm.<ref name="Pilat1961" />
+
+===Edibility===
+The mushroom has been variously reported as "mildly poisonous",<ref name=McClintock1986/> or indigestible.<ref name=Arora1986/> It should not be consumed due to its similarity to deadly [[Mushroom poisoning|poisonous]] species.<ref name=":0" />
+
+==Distribution and habitat==
+''Cortinarius traganus'' is found in [[conifer]]ous forests worldwide. It seems to prefer poorer soils, both [[siliceous]] and non-[[calcareous]]. It is widespread throughout the [[temperate]] zone of the Northern Hemisphere.<ref name=Pilat1961/> It is fairly common in North America, generally appearing from August to September, or somewhat later on the West Coast.<ref name="audu" />
+
+==See also==
+*[[List of Cortinarius species|List of ''Cortinarius'' species]]
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=Arora1986>{{cite book |author=Arora D. |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/447/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |year=1986 |orig-date=1979 |edition=2nd |pages=447}}</ref>
+
+<ref name=Bessette1997>{{cite book |title=Mushrooms of Northeastern North America |vauthors=Bessette A, Bessette AR, Fischer DW |year=1997 |publisher=Syracuse University Press |location=Syracuse, New York |isbn=978-0-8156-0388-7 |page=112 |url=https://books.google.com/books?id=T2uU12XcRD4C&pg=PA112}}</ref>
+
+<ref name=EnglishCommonNames>{{cite web |url=http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |title=Recommended English Names for Fungi in the UK |publisher=[[British Mycological Society]] |access-date=2012-04-04 |archive-url=https://web.archive.org/web/20110716083053/http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |archive-date=2011-07-16 |url-status=dead }}</ref>
+
+<ref name=Evenson1997>{{cite book  |author=Evenson VS |title=Mushrooms of Colorado and the Southern Rocky Mountains |year=1997 |publisher=Westcliffe Publishers |isbn=978-1-56579-192-3 |page=120 |url=https://books.google.com/books?id=EAeDeyqZLq0C&pg=PA120}}</ref>
+
+<ref name=McClintock1986>{{cite book |vauthors=McClintock ER, Fuller TH |title=Poisonous Plants of California |publisher=University of California Press |location=Berkeley, California |year=1986 |page=47 |isbn=0-520-05569-1 |url=https://books.google.com/books?id=0-op0XwlDmQC&pg=PA47}}</ref>
+
+<ref name=Pilat1961>{{cite book |title=Mushrooms and other Fungi |url=https://archive.org/details/mushroomsotherfu0000pila |url-access=registration |vauthors=Pilat Á, Ušák O |year=1961 |publisher=Peter Nevill |location=London, UK |page=108}}</ref>
+
+<ref name=Trudell2009>{{cite book |vauthors=Trudell S, Ammirati J |title=Mushrooms of the Pacific Northwest |series=Timber Press Field Guides |publisher=Timber Press |location=Portland, Oregon |year=2009 |pages=159–160 |isbn=978-0-88192-935-5 |url=https://books.google.com/books?id=WevHvt6Tr8kC&pg=PA159}}</ref>
+
+<ref name="urlSpecies Fungorum - Species synonymy">{{cite web |url=http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=164677 |title=''Cortinarius traganus'' (Fr.) Fr. |publisher=[[Index Fungorum]]. CAB International |access-date=2012-08-31}}</ref>
+
+}}
+
+{{Taxonbar|from=Q948871}}
+
+[[Category:Cortinarius|traganus]]
+[[Category:Fungi described in 1818]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Inedible fungi]]
+[[Category:Fungus species]]

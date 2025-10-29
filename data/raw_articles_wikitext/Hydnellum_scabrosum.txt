@@ -1,0 +1,58 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image         = Sarcodon scabrosus (9523780843).jpg
+| image_caption = 
+| genus         = Hydnellum
+| species       = scabrosum
+| authority     = (Fr.) E.Larss., K.H.Larss. & Kõljalg<ref name="Larsson 2019"/>
+| synonyms      = ''Sarcodon scabrosus'' <small>(Fr.) [[Petter Adolf Karsten|P. Karst.]]</small>
+}}
+{{Mycomorphbox
+| name            = ''Hydnellum scabrosum''
+| hymeniumType    = teeth
+| capShape        = convex
+| capShape2       = flat
+| whichGills      = subdecurrent
+| whichGills2     = adnate
+| stipeCharacter  = bare
+| sporePrintColor = brown
+| ecologicalType  = mycorrhizal
+| howEdible       = inedible
+}}
+
+'''''Hydnellum scabrosum''''', also called '''bitter tooth''' or '''bitter hedgehog''', is a species of [[tooth fungus]] in the family [[Bankeraceae]].
+
+==Taxonomy==
+It was originally [[species description|described]] by Swedish botanist [[Elias Fries]] as ''Hydnum scabrosum'' in 1836.  Finnish mycologist [[Petter Karsten]] moved it to the genus ''[[Sarcodon]]'' in 1881. This species remained as ''Sarcodon scabrosus'' until 2019, when a molecular analysis using nuclear DNA showed that this and 11 other species lay genetically within the genus ''[[Hydnellum]]'', a genus of which harder woody flesh had previously been considered a distinguishing feature from soft-fleshed ''Sarcodon''.<ref name="Larsson 2019"/>
+
+==Description==
+The fruit body (mushroom) has a convex to flattened brownish cap up to {{Cvt|12|cm|frac=8}} across that is covered with brown scales. It can be tinged with pink at the margins and darken with age. The mushroom has yellow-brown spines under the cap that are {{Cvt|5|mm|frac=8}} long and {{Cvt|0.3|mm|frac=64}} in diameter. They are decurrent to the stem. The pinkish brown stem is {{Cvt|2–12|cm|1|frac=8}} high and {{Cvt|1–6|cm|1|frac=8}} wide, and has a narrower base that is a characteristic greyish green colour. The flesh is whitish and has a bitter taste, rendering the mushroom inedible. The flesh smells farinaceous or like watermelon when cut.<ref name=":0">{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=235|language=en}}</ref><ref name="Marcotullio"/>
+
+=== Similar species ===
+Within the genus it is most closely related to ''[[Hydnellum fennicum|H.&nbsp;fennicum]]''.<ref name="Larsson 2019" />
+
+''[[Sarcodon imbricatus]]'' is similar, but the scales do not become as prominent in age.<ref name=":0" /> Other similar species include ''[[Hydnellum fennicum|S.&nbsp;fennicus]]'', ''[[Sarcodon rimosus|S.&nbsp;rimosus]]'', ''S.&nbsp;subincarnatus'', and ''[[Hydnellum underwoodii|S.&nbsp;underwoodii]]''.<ref name=":0" />
+
+== Distribution and habitat ==
+It is found in association with hardwood forests across Eurasia to Japan, as well as North America.<ref name=Endo2012/>
+
+==Biochemistry==
+The species has been investigated for bioactive agents. In 2004, Tsunashi Kamo and colleagues isolated [[diterpenoid]]s with experimental anti-inflammatory activity.<ref name=kamo2004/> Other diterpenoids were shown to stimulate [[nerve growth factor]] (NGF).<ref name=kita1998/> Yet another agent, an alpha-[[pyrone]], was shown to inhibit lettuce seedling growth.<ref name=Endo2012/>
+
+==References==
+{{Commons category|Sarcodon scabrosus|''Hydnellum scabrosum''}}
+{{Reflist|refs=
+<ref name=Endo2012>{{Cite journal |doi=10.1016/j.bse.2012.06.018 |title=A rare α-pyrone from bitter tooth mushroom, ''Sarcodon scabrosus'' (Fr.) Karst|journal=Biochemical Systematics and Ecology|volume=44|pages=286–288|year=2012 |last1=Endo |first1=Yasuhisa |last2=Minowa |first2=Akira|last3=Kanamori|first3=Ryo|last4=Araya|first4=Hiroshi}}</ref>
+<ref name=kamo2004>{{Cite journal |doi=10.1271/bbb.68.1362|pmid=15215604 |title=Anti-inflammatory Cyathane Diterpenoids from ''Sarcodon scabrosus''|journal=Bioscience, Biotechnology, and Biochemistry|volume=68|issue=6|pages=1362–1365|year=2004|last1=Kamo |first1=Tsunashi |last2=Imura |first2=Yuki |last3=Hagio |first3=Tomomi |last4=Makabe |first4=Hidefumi |last5=Shibata|first5=Hisao|last6=Hirota|first6=Mitsuru|s2cid=27553869 |doi-access=free}}</ref>
+<ref name=kita1998>{{Cite journal |doi=10.1016/S0040-4020(98)83045-7|title=Scabronines B, C, D, e and F, novel diterpenoids showing stimulating activity of nerve growth factor-synthesis, from the mushroom ''Sarcodon scabrosus''|journal=Tetrahedron|volume=54|issue=39|pages=11877–11886|year=1998|last1=Kita|first1=Takako|last2=Takaya|first2=Yoshiaki|last3=Oshima|first3=Yoshiteru|last4=Ohta|first4=Tomihisa|last5=Aizawa|first5=Koichi|last6=Hirano|first6=Takaaki|last7=Inakuma|first7=Takahiro}}</ref>
+<ref name="Larsson 2019">{{Cite journal|author1=Larsson |author2=Svantesson |author3=Miscevic |author4=Kõljalg |author5=Larsson |date=2019 |title=Reassessment of the generic limits for ''Hydnellum'' and ''Sarcodon'' (Thelephorales, Basidiomycota) |journal=MycoKeys|issue=54|pages=31–47 |doi=10.3897/mycokeys.54.35386|pmid=31231164|pmc=6579789 |doi-access=free }}</ref>
+<ref name="Marcotullio">{{cite book |last1=Marcotullio |first1=Maria Carla |title=Phytochemicals Bioactivities and Impact on Health |chapter=Sarcodon Mushrooms: Biologically Active Metabolites |editor=Iraj Rasooli |pages=84–85 |date=2011 |isbn=978-953-307-424-5}}</ref>
+}}
+
+{{Taxonbar|from1=Q67016592|from2=Q10670604}}
+
+[[Category:Hydnellum|scabrosum]]
+[[Category:Fungi of Europe]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungi described in 1836]]
+[[Category:Fungus species]]

@@ -1,0 +1,146 @@
+{{short description|Species of fungus}}
+{{stack begin}}
+{{Speciesbox
+| image = Mycena galopus 68060.jpg
+| image_caption =
+| genus = Mycena
+| species = galopus
+| authority = ([[Christian Hendrik Persoon|Pers.]]) [[Paul Kummer|P.Kumm.]] (1871)
+| synonyms_ref = <ref name="urlMycoBank: Mycena galopus"/>
+| synonyms = *''Agaricus lactescens'' <small>[[Schrad.]] (1794)</small>
+*''Agaricus galopus'' <small>Pers. (1800)</small>
+}}
+{{mycomorphbox
+| name = ''Mycena galopus''
+| hymeniumType = gills
+| capShape = conical
+| whichGills = adnate
+| stipeCharacter = bare
+| sporePrintColor = white
+| ecologicalType = saprotrophic
+| howEdible = inedible
+}}
+{{stack end}}
+
+'''''Mycena galopus''''', commonly known as the '''milky mycena''',<ref name=Arora1986>{{Cite book |last=Arora |first=David |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/232/mode/2up|date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |orig-date=1979 |edition=2nd |pages=232-233}}</ref> '''milking bonnet''' or '''milk-drop mycena''', is an inedible species of [[fungus]] in the family [[Mycenaceae]] of the order [[Agaricales]]. It produces small [[mushroom]]s that have grayish-brown, bell-shaped, radially-grooved [[pileus (mycology)|caps]] up to {{convert|2.5|cm|in|0|abbr=on}} wide. The [[lamella (mycology)|gills]] are whitish to gray, widely spaced, and [[adnation|squarely attached]] to the [[stipe (mycology)|stem]]. The slender stems are up to {{convert|8|cm|0|abbr=on}} long, and pale gray at the top, becoming almost black at the hairy base. The stem will ooze a whitish [[latex]] if it is injured or broken. The [[variety (botany)|variety]] ''nigra'' has a dark gray cap, while the variety ''candida'' is white. All varieties of the mushroom occur during summer and autumn on [[leaf litter]] in [[conifer]]ous and [[deciduous]] habitats.
+
+''Mycena galopus'' is found in North America and Europe. The [[saprobic]] fungus is an important leaf litter decomposer, and able to utilize all the major constituents of plant litter. It is especially adept at attacking [[cellulose]] and [[lignin]], the latter of which is the second most abundant [[renewable resource|renewable]] organic compound in the [[biosphere]]. The mushroom latex contains chemicals called benzoxepines, which are thought to play a role in a wound-activated chemical defense mechanism against yeasts and [[parasitic]] fungi.
+
+==Taxonomy==
+The mushroom was first described as ''Agaricus galopus'' by [[Christian Hendrik Persoon]] in 1800,<ref name=Persoon1799/> and later transferred to the genus ''[[Mycena]]'' by [[Paul Kummer]] in 1871.<ref name=Kummer1871/> An Australian taxon formerly considered a [[variety (botany)|variety]], ''Mycena galopus'' var. ''mellea'', was raised to species level and renamed ''[[Mycena thunderboltensis|M.&nbsp;thunderboltensis]]'' in 1998.<ref name=Grgurinovic1998/> The variety ''candida'' was described by [[Jakob Emanuel Lange]] in 1914 based on specimens he found in Denmark;<ref name=Lange1914/> variety ''nigra'' was named by [[Carleton Rea]] in 1922.<ref name=Rea1922/> ''Mycena galopoda'' is an [[orthographical variant]] spelling.<ref name="urlMycoBank: Mycena galopoda"/>
+
+The [[specific name (botany)|specific epithet]] ''galopus'' is derived from the Greek γαλα "milk", and πονς "foot".<ref name=Rea1922/> The mushroom is [[common name|commonly]] known as the "milking bonnet",<ref name="urlBMS common names"/> or the "milk-drop Mycena".<ref name=Mitchell2006/> The varieties ''candida'' and ''nigra'' are the white and black milking bonnets, respectively.<ref name="urlBMS common names"/>
+
+==Description==
+
+
+The [[Pileus (mycology)|cap]] of ''M.&nbsp;galopus'' is egg-shaped when young, later becoming conic to somewhat bell-shaped, and eventually reaching a diameter of {{convert|0.5 to 2.5|cm|1|abbr=on}}.<ref name=Arora1986/> In age it often has a margin curved inward, and a prominent [[umbo (mycology)|umbo]]. The cap surface has a [[wikt:hoary|hoary]] sheen (remnants of the [[universal veil]] that once covered the immature fruit body) that soon sloughs off, leaving it naked and smooth. The cap margin, which is initially pressed against the stem, is translucent when moist, so that the outline of the gills underneath the cap may be seen, and has deep narrow grooves when dry. The color is largely [[wikt:fuscous|fuscous]]-black except for the whitish margin that fades to pale gray; the umbo remains blackish or becomes dark gray, sometimes with a very pale ashy gray over all when moist, and opaque and ashy gray after drying. The [[trama (mycology)|flesh]] is thin, soft, and fragile, without any distinctive odor and taste.<ref name="Smith p.133-34"/>
+
+The [[lamellae (mycology)|gills]] are subdistantly spaced, narrow, ascending-adnate, whitish to gray, usually darker in age, with edges that are pallid or grayish. The [[stipe (mycology)|stem]] is {{convert|4 to 8|cm|abbr=on}} (rarely up to 12&nbsp;cm) long, 1–2&nbsp;mm thick, equal in length throughout, smooth, and fragile. The lower portion of the stem is dark blackish-brown to a dark ashy color. The apex of the stem is pallid, and the whitish base covered with coarse, stiff hairs. When broken it exudes a white milk-like liquid.<ref name="Smith p.133-34">Smith, 1947, pp. 133–134.</ref> The variety ''candida'' is similar in appearance to the main variety, except its fruit body is completely white. Variety ''nigra'' has a dark or blackish-gray cap, and gills that are initially whitish before turning gray.<ref name=Jordan2004/>
+
+Although not poisonous,<ref name=Mitchell2006/> ''M.&nbsp;galopus'' and the varieties ''candida'' and ''nigra'' are inedible.<ref name=Jordan2004/>
+{{multiple image
+| direction         = vertical
+| width             = 200
+| image1            = Mycena galopus var candida (White Milking Bonnet).jpg
+| caption1          = Var. ''candida'', the white milking bonnet
+| image2            = Mycena galopus nigra - lindsey.jpg
+| caption2          = Var. ''nigra'', the black milking bonnet
+}}
+
+===Microscopic characteristics===
+The [[spores]] are 9–13 by 5–6.5 [[μm]], smooth, [[wikt:ellipsoid|ellipsoid]], occasionally somewhat pear-shaped, and very weakly [[amyloid (mycology)|amyloid]]. The [[basidia]] are four-spored. The [[wikt:pleurocystidium|pleurocystidia]] and [[wikt:cheilocystidium|cheilocystidia]] are similar and very abundant, and measure 70–90 by 9–15&nbsp;μm. They are narrowly [[wikt:fusoid-ventricose|fusoid-ventricose]] and usually have abruptly pointed tips, sometimes forked or branched near the apex, [[hyaline]], and smooth. The flesh of the gill is [[wikt:homogeneous|homogeneous]], and [[staining|stains]] dark [[wine (color)|vinaceous]]-brown in iodine. The flesh of the cap has a thin but clearly differentiated [[wikt:pellicle|pellicle]], a well-developed hypoderm (the tissue layer immediately underneath the pellicle), and the remainder is filamentous. All but the pellicle stain vinaceous-brown in iodine.<ref name="Smith p.133-34"/>
+
+===Similar species===
+The "red edge bonnet", ''[[Mycena rubromarginata|M.&nbsp;rubromarginata]]'', is also grayish-brown, but it has gill edges that are red, and it does not ooze latex when broken.<ref name=Mitchell2006/> It has amyloid, pip-shaped to roughly spherical spores that measure 9.2–13.4 by 6.5–9.4&nbsp;μm.<ref name="urlAronsen:Mycena rubromarginata"/>
+
+==Ecology, habitat, and distribution==
+''Mycena galopus'' is a [[saprobic]] fungus, and plays an important role in [[forest ecology|forest ecosystems]] as a decomposer of [[plant litter|leaf litter]]. It has been estimated in the UK to account for a large portion of the decomposition of the autumn leaf litter in British woodlands.<ref name=Hering1982/> It is able to break down the [[lignin]] and [[cellulose]] components of leaf litter.<ref name=Frankland1995/><ref name=Osono2006/> Grown in [[axenic]] culture in the laboratory, the fungus mycelium has been shown to degrade (in addition to lignin and cellulose) [[hemicellulose]]s, protein, soluble carbohydrates, and purified [[xylan]] and [[pectin]] using enzymes such as [[polyphenol oxidase]]s, [[cellulase]]s, and [[catalase]]. It is particularly adept at breaking down lignin, which is the second most abundant [[renewable resource|renewable]] organic compound in the [[biosphere]], after cellulose.<ref name=Ghosh2003/> Research also suggests that the fungus weathers soil minerals, making them more available to mycorrhizal plants. [[Phosphorus]], an important [[macronutrient]] influencing plant growth, typically occurs in primary minerals like [[apatite]], or other organic [[coordination complex|complexes]], and its low [[solubility]] often results in low phosphorus availability in soil. The biological activity of ''M.&nbsp;galopus'' mycelium can increase the availability of phosphorus and other nutrients, both as a result of soil acidification due to [[cation]] uptake and via the release of weathering agents such low molecular mass [[organic acid]]s.<ref name=Roslin2006/> Studies have shown that the fungus is sensitive to low concentrations of [[sulphite]] (SO<sub>3</sub><sup>2−</sup>), a byproduct of [[sulphur dioxide]] pollution, suggesting that this pollution can be toxic to the growth of the fungus (and the subsequent decomposition of leaf litter) at environmentally relevant concentrations.<ref name=Dursun1996a/><ref name=Dursun1996b/>
+
+The fruit bodies grow in groups to scattered on [[humus]] under [[hardwood]]s or [[conifer]]s. In the United States, it is very abundant along the [[Pacific Coast]] from [[Washington (U.S. State)|Washington]] to [[California]], and also in [[Tennessee]] and [[North Carolina]];<ref name="Smith p.133-34"/> its northern distribution extends to Canada ([[Nova Scotia]]).<ref name=Hadjisterkoti1984/> In Europe, it has been collected from Britain,<ref name=Hughes1957/> Germany,<ref name=Gerhardt1990/> Ireland, and Norway.<ref name=Odegard1999/>
+
+==Chemistry==
+
+
+In 1999, Wijnberg and colleagues reported the presence of several structurally related antifungal compounds called benzoxepines in the latex.<ref name=Wijnberg1999/> One of these compounds, 6-hydroxypterulone, is a derivative of [[pterulone]], a potent antifungal [[metabolite]] first isolated from submerged [[liquid culture|cultures]] of ''[[Pterula]]'' species in 1997.<ref name=Engler1997a/> The antifungal activity of pterulone is based on selective inhibition of the [[NADH dehydrogenase]] enzyme of the [[electron transport chain]].<ref name=Engler1997b/> A 2008 publication reported that fatty acid [[ester]]s of benzoxepine serve as precursors to wound-activated chemical defense. When the fruit body is injured and the latex is exposed, an [[esterase]] enzyme (an enzyme that splits esters into an acid and an alcohol in a chemical reaction with water called [[hydrolysis]]) presumably cleaves the inactive esterified benzoxepines into their active forms, where they can help defend the mushroom against yeasts and parasitic fungi. In nature, the mushroom is rarely attacked by parasitic fungi, however, it is prone to infection by the "bonnet mold" ''[[Spinellus fusiger]]'', which is insensitive to the benzoxepines of ''M.&nbsp;galopus''.<ref name=Peters2008/> In an English field study, where ''M.&nbsp;galopus'' and ''[[Marasmius androsaceus]]'' made up over 99% of the fruit bodies in a site under [[Sitka spruce]]; the [[fungivorous]] collembolan arthropod ''[[Onychiurus latus]]'' preferred to graze on the mycelium of ''M.&nbsp;androsaceus''. This selective grazing influences the vertical distribution of the two fungi in the field.<ref name=Newell1983/>
+
+==See also==
+*[[List of bioluminescent fungi]]
+
+==Footnotes==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=Dursun1996a>{{cite journal |vauthors=Dursun S, Frankland JC, Boddy L, Ineson P |title=Sulphite and pH effects on CO<sub>2</sub> evolution by fungi growing on decomposing coniferous needles |year=1996 |journal=New Phytologist |volume=134 |issue=1 |pages=155–166 |jstor=2558524 |doi=10.1111/j.1469-8137.1996.tb01155.x|doi-access= }}</ref>
+
+<ref name=Dursun1996b>{{cite journal |vauthors=Dursun S, Ineson P, Frankland JC, Boddy L |title=Sulphur dioxide effects on fungi growing on leaf litter and agar media |journal=New Phytologist |year=1996 |volume=134 |issue=1 |pages=167–176 |jstor=2558525 |doi=10.1111/j.1469-8137.1996.tb01156.x|s2cid=86444776 |doi-access=free }}</ref>
+
+<ref name=Engler1997a>{{cite journal |vauthors=Engler M, Anke T, Sterner O, Brandt U |title=Pterulinic acid and pterulone, two novel inhibitors of NADH:ubiquinone oxidoreductase (complex I) produced by a ''Pterula'' species. I. Production, isolation and biological activities |journal=Journal of Antibiotics |volume=50 |issue=4 |pages=325–329 |year=1997 |pmid=9186558 |doi=10.7164/antibiotics.50.325|doi-access=free }}</ref>
+
+<ref name=Engler1997b>{{cite journal |vauthors=Engler M, Anke T, Sterner O |title=Pterulinic acid and pterulone, two novel inhibitors of NADH:ubiquinone oxidoreductase (complex I) produced by a ''Pterula'' species. II. Physico-chemical properties and structure elucidation |journal=Journal of Antibiotics |volume=50 |issue=4 |pages=330–333 |year=1997  |pmid=9186559 |doi=10.7164/antibiotics.50.330 |doi-access=free }}</ref>
+
+<ref name=Frankland1995>{{cite journal |vauthors=Frankland JC, Poskitt JM, Howard DM |title=Spatial development of populations of a decomposer fungus, ''Mycena galopus'' |journal=Canadian Journal of Botany |year=1995 |volume=73 |pages=S1399–S1406 |doi=10.1139/b95-403}}</ref>
+
+<ref name=Gerhardt1990>{{cite journal |author=Gerhardt E. |year=1990 |title=Checkliste der Großpilze von Berlin (West) 1970-1990 |journal=Englera |issue=13 |pages=3–5, 7–251 |jstor=3776760 |language=de|doi=10.2307/3776760 }}</ref>
+
+<ref name=Ghosh2003>{{cite journal |vauthors=Ghosh A, Frankland JC, Thurston CF, Robinson CH |title=Enzyme production by ''Mycena galopus'' mycelium in artificial media and in ''Picea sitchensis'' F<sub>1</sub> horizon needle litter |journal=Mycological Research |year=2003 |volume=107 |issue=8 |pages=996–1008 |doi=10.1017/S0953756203008177|pmid=14531622 }}</ref>
+
+<ref name=Grgurinovic1998>{{cite journal |author=Grgurinovic C. |year=1998 |title=''Mycena'' in Australia: Section Lactipedes |journal=Botanical Journal of Scotland |volume=50 |issue=2 |pages=199–208 |doi=10.1080/03746609808684917}}</ref>
+
+<ref name=Hadjisterkoti1984>{{cite journal |vauthors=Hadjisterkoti E, Grund DW |title=New and interesting taxa of Mycena Pers. occurring in Nova Scotia |journal=Proceedings of the Nova Scotian Institute of Science |year=1984 |volume=34 |issue=2 |pages=163–171 |issn=0078-2521}}</ref>
+
+<ref name=Hering1982>{{cite book |author=Hering TF |year=1982 |chapter=Decomposing activity of basidiomycetes in forest litter |title=Decomposer Basidiomycetes: their Biology and Ecology |pages=213–225 |veditors=Frankand JC, Hedger JN, Swift MJ |publisher=Cambridge University Press |location=Cambridge |isbn=978-0-521-24634-7}}</ref>
+
+<ref name=Hughes1957>{{cite journal |vauthors=Hughes CG, Phillips HH |year=1957 |title=A list of Oxfordshire fungi |journal=Kew Bulletin |volume=12 |issue=1 |pages=97–106 |jstor=4109111 |doi=10.2307/4109111}}</ref>
+
+<ref name=Jordan2004>{{cite book |author=Jordan M. |title=The Encyclopedia of Fungi of Britain and Europe |publisher=Frances Lincoln |location=London |year=2004 |page=167 |isbn=0-7112-2378-5 |url=https://books.google.com/books?id=ULhwByKCyEwC&pg=PA167}}</ref>
+
+<ref name=Kummer1871>{{cite book |author=Kummer P. |year=1871 |title=Der Führer in die Pilzkunde |edition=1st |page=108 |language=de}}</ref>
+
+<ref name=Lange1914>{{cite journal |author=Lange JE |title=Studies in the Agarics of Denmark. Part I. ''Mycena'' |year=1914 |journal=Dansk Botanisk Arkiv |volume=1 |issue=5 |pages=1–40}}</ref>
+
+<ref name=Mitchell2006>{{cite book |author=Mitchell K. |title=Field Guide to Mushrooms and Other Fungi of Britain and Europe (Field Guide) |publisher=New Holland Publishers Ltd. |year=2006 |page=84 |isbn=1-84537-474-6 |url=https://books.google.com/books?id=X96A6iQwvV4C&pg=PA84}}</ref>
+
+<ref name=Newell1983>{{cite journal |author=Newell K. |title=Interactions between two decomposer Basidiomycetes and a collembian under Sitka spruce: distribution, abundance and selective grazing |journal=Soil Biology and Biochemistry |year=1983|volume=16 |issue=3 |pages=227–233 |doi=10.1016/0038-0717(84)90006-3}}</ref>
+
+<ref name=Odegard1999>{{cite journal |vauthors=Ødegård AK, Høiland K |title=Effekt av nitrogenforbindelser på nedbrytersopper i barskog |trans-title=Effects of nitrogen compounds on saprobic basidiomycetes in Norwegian coniferous forests |journal=Blyttia |volume=557 |issue=3 |pages=123–131 |language=no |issn=0006-5269 |url=http://www.nhm.uio.no/botanisk/nbf/blyttia/blyttia_pdf/Blyttia_199903_skjermkvalitet_hele.pdf }}</ref>
+
+<ref name=Osono2006>{{cite journal |vauthors=Osono T, Takeda H |title=Fungal decomposition of ''Abies'' needle and ''Betula'' leaf litter |journal=Mycologia |year=2006 |volume=98 |issue=2 |pages=172–179 |doi=10.3852/mycologia.98.2.172|pmid=16894962 }}</ref>
+
+<ref name=Persoon1799>{{cite book |author=Persoon CH |title=Observationes Mycologicae |volume=2 |year=1799 |location=Leipzig, Germany |publisher=Gesnerus, Usterius & Wolfius |page=56 |language=la}}</ref>
+
+<ref name=Peters2008>{{cite journal  |vauthors=Peters S, Jaeger RJ, Spiteller P |title=Benzoxepine esters as precursors of the wound-activated chemical defence of ''Mycena galopus'' |journal=European Journal of Organic Chemistry |year=2008 |volume=2008 |issue=7 |pages=1187–1194 |doi=10.1002/ejoc.200700812}}</ref>
+
+<ref name=Rea1922>{{cite book |title=British Basidiomycetae: A Handbook to the Larger British Fungi |author=Rea C. |year=1922 |publisher=CUP Archive |pages=395–396 |url=https://www.biodiversitylibrary.org/page/17128230 |access-date=2010-10-04}}</ref>
+
+<ref name=Roslin2006>{{cite journal |vauthors=Rosling A, Lindahl BD, Taylor FS, Finlay RD |title=Mycelial growth and substrate acidification of ectomycorrhizal fungi in response to different minerals |journal=FEMS Microbiology Ecology |volume=47 |issue=1 |pages=31–37 |doi=10.1016/S0168-6496(03)00222-8|year=2004 |pmid=19712344 |doi-access=free }}</ref>
+
+<ref name="urlAronsen:Mycena rubromarginata">{{cite web |url=http://home.online.no/~araronse/Mycenakey/rubromarginata.htm |title=''Mycena rubromarginata'' (Fr.) P. Kumm. |author=Aronsen A |work=A key to the Mycenas of Norway |access-date=2010-10-15}}</ref>
+
+<ref name="urlBMS common names">{{cite web|url=http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf|title=Recommended English Names for Fungi in the UK|publisher=[[British Mycological Society]]|access-date=2010-09-26|url-status=dead|archive-url=https://web.archive.org/web/20110716083053/http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf|archive-date=2011-07-16}}</ref>
+
+<ref name="urlMycoBank: Mycena galopoda">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=271998 |title=''Mycena galopoda'' (Pers.) P. Kumm. 1871 |publisher=International Mycological Association |work=MycoBank |access-date=2010-10-14}}</ref>
+
+<ref name="urlMycoBank: Mycena galopus">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=120520 |title=''Mycena galopus'' (Pers.) P. Kumm. 1871 |publisher=International Mycological Association |work=MycoBank |access-date=2010-10-04}}</ref>
+
+<ref name=Wijnberg1999>{{cite journal |vauthors=((Wijnberg JBPA)), van Veldhuizen A, Swarts HJ, Frankland JC, Field JA |title=Novel monochlorinated metabolites with a 1-benzoxepin skeleton from ''Mycena galopus'' |journal=Tetrahedron Letters |year=1999 |volume=40 |issue=31 |pages=5767–5770 |doi=10.1016/S0040-4039(99)01074-6}}</ref>
+
+}}
+
+===Cited text===
+*{{cite book |title=North American Species of ''Mycena'' |author=Smith AH |author-link=Alexander H. Smith |year=1947 |location=Ann Arbor, Michigan |publisher=University of Michigan Press |url=http://quod.lib.umich.edu/f/fung1tc/AGK0806.0001.001?view=toc}}
+
+==External links==
+*{{Commons-inline|Mycena galopus}}
+*[https://web.archive.org/web/20120313162621/http://home.online.no/~araronse/Mycenakey/galopus.htm ''Mycena galopus'' photo]
+*{{Mycobank|120520}}
+
+{{Good article}}
+{{Taxonbar|from=Q1806243}}
+
+[[Category:Bioluminescent fungi]]
+[[Category:Fungi described in 1800]]
+[[Category:Mycena|galopus]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Christiaan Hendrik Persoon]]
+[[Category:Fungus species]]

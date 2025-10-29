@@ -1,0 +1,48 @@
+{{Short description|Species of fungus}}
+{{Species box
+| image = 2012-10-26 Tricholoma orirubens Quél 312760.jpg
+| taxon = Tricholoma orirubens
+| authority = [[Lucien Quélet|Quél.]] (1872)
+| synonyms = 
+}}
+{{mycomorphbox
+| name = ''Tricholoma orirubens''
+| whichGills = adnate
+| capShape = convex
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = white
+| howEdible = edible
+}}
+
+'''''Tricholoma orirubens''''', [[common name|commonly]] known as '''blushing tricholoma''', is an edible [[Agaricales|gilled mushroom]] native to Europe. The grey-capped fruit bodies are generally found singly or in small groups in deciduous and coniferous woodland in autumn.
+
+==Taxonomy==
+''Tricholoma orirubens'' was described by [[France|French]] [[mycology|mycologist]] [[Lucien Quélet]] in 1873. The [[genus|generic]] name derives from the [[Ancient Greek|Greek]] ''trichos''/τριχος 'hair' and ''loma''/λωμα 'hem', 'fringe' or 'border'.<ref name=nilper>{{cite book | last = Nilson|first= Sven |author2=Persson, Ole  | year = 1977 | title = Fungi of Northern Europe 2: Gill-Fungi | publisher = Penguin|isbn=0-14-063006-6|page= 24}}</ref> It lies within the section terrea within the subgenus Tricholoma within the genus ''[[Tricholoma]]''.<ref name=Nederlandica1999>{{cite book |author1=Noordeloos M.E. |author2=Kuyper, Th.W. |author3=Vellinga E.C. |title=Flora Agaricina Neerlandica |publisher=Taylor & Francis |year=1999 |page=133 |isbn=90-5410-493-7 |url=https://books.google.com/books?id=ablJJike0eYC&q=Tricholoma+orirubens&pg=PA133}}</ref>
+
+==Description==
+''Tricholoma orirubens'' has a dark grey or grey-brown cap up to {{convert|7.5|cm|in|abbr=on}} in diameter with darker blackish scales, and a straight or undulating margin. The cap is conical with a slight boss before opening and flattening, eventually with either a boss or central depression. The thick grey [[lamella (mycology)|gills]] are emarginate or adnate and widely spaced, and turn red when bruised. The white or pale grey ringless [[stipe (mycology)|stipe]] measures 4.5 to 8&nbsp;cm tall and 0.7 to 2.5&nbsp;cm wide, and has a distinctive blue tinged base.<ref name=Nederlandica1999/>
+
+==Distribution and habitat==
+Widespread across Europe, ''Tricholoma orirubens'' is not common. It is rare in the Netherlands. Found singly or in small groups in deciduous and coniferous woodland in autumn, it prefers clayey or chalky soils. It is [[ectomycorrhiza]]l.<ref name=Nederlandica1999/>
+
+''Tricholoma orirubens'' can also form [[fairy ring]]s. One found in Germany had a diameter of around {{convert|80|m|ft|abbr=on}} and contained an estimated 10,000 mushrooms.<ref name=Haas69>{{cite book| last = Haas |first=Hans | year = 1969 | title = The Young Specialist looks at Fungi |page=142| publisher = Burke | isbn= 0-222-79409-7}}</ref>
+
+==Edibility==
+Smelling and tasting strongly of flour, ''T. orirubens'' is one of the more appetising members of the genus. It can taste sweet as well.<ref name=Haas69/>
+
+==See also==
+*[[List of Tricholoma species|List of ''Tricholoma'' species]]
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q1897226}}
+
+[[Category:Tricholoma|orirubens]]
+[[Category:Edible fungi]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi found in fairy rings]]
+[[Category:Fungi described in 1873]]
+[[Category:Fungus species]]

@@ -1,0 +1,54 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Russula ochroleuca châtaigne.JPG
+| image_caption =
+| genus = Russula
+| species = ochroleuca
+| authority = [[Elias Magnus Fries|Fr.]] (1838)
+| synonyms = *''Agaricus ochroleucaus'' <small>[[Christian Hendrik Persoon|Pers.]] (1801)</small>
+}}
+{{mycomorphbox 
+| name = ''Russula ochroleuca''
+| whichGills = free
+| whichGills2 = adnexed
+| capShape = convex
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = white
+| howEdible = unpalatable
+}}
+
+'''''Russula ochroleuca''''' is a member of the genus ''[[Russula]]''. A group that have become known as '''brittlegills'''. It has been [[common name|commonly]] known as the '''common yellow russula''' for some years, and latterly the '''ochre brittlegill'''. It is widespread, and common in mixed woodland.
+
+==Taxonomy==
+''Russula ochroleuca'' was first noted and named as a species of ''[[Agaricus]]'' by the pioneering South African mycologist [[Christian Hendrik Persoon]] in 1801.
+
+==Description==
+The [[Pileus (mycology)|cap]] is dull yellow and {{convert|5|–|12|cm|in|round=0.5|abbr=on}} wide, initially convex, later flat, or slightly depressed. The cap margin becomes furrowed when mature, and it is two-thirds peeling. The [[Lamella (mycology)|gills]] are white to greyish white, and are adnexed.<ref name=Phillips06>{{cite book| author = Roger Phillips | year = 2006  | title = Mushrooms | publisher = Pan MacMillan | isbn = 0-330-44237-6}}</ref> The [[stipe (mycology)|stipe]] is {{convert|3|–|7|cm|in|round=0.5|abbr=on}} long, {{convert|1|–|2|cm|in|round=0.5|abbr=on}} wide, cylindrical, white or later greyish. The taste is mild to moderately hot.
+
+It could be confused with the similar-looking and much better tasting ''[[Russula claroflava]]''.
+
+==Distribution and habitat==
+'''''Russula ochroleuca''''' grows in [[deciduous forest|deciduous]] and [[coniferous forest]], where it (at least in Northwestern Europe) is very common. In the USA it is fairly common under conifers; [[birch]], and [[aspen]] in the Northern States.<ref name=Arora2nd>{{cite book |author=David Arora |year=1986 |title=Mushrooms Demystified |publisher=Ten Speed Press |isbn=0-89815-169-4 |url-access=registration |url=https://archive.org/details/mushroomsdemysti00aror_0 }}</ref>
+
+==Edibility==
+Although considered [[edible mushroom|edible]], it is not known as particularly tasty. It is mild to moderately hot.
+
+==See also==
+* [[List of Russula species|List of ''Russula'' species]]
+
+==References==
+{{Reflist}}
+
+*{{Commons-inline|Russula ochroleuca}}
+
+* "Danske storsvampe. Basidiesvampe" [a key to Danish basidiomycetes] J.H. Petersen and J. Vesterholt eds. Gyldendal. Viborg, Denmark, 1990. {{ISBN|87-01-09932-9}}
+
+{{Taxonbar|from=Q206438}}
+
+[[Category:Russula|ochroleuca]]
+[[Category:Fungi described in 1801]]
+[[Category:Fungi of Europe]]
+[[Category:Taxa named by Christiaan Hendrik Persoon]]
+[[Category:Fungus species]]

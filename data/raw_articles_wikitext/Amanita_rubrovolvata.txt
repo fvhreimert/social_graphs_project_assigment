@@ -1,0 +1,155 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{Speciesbox
+| image = Amanita rubrovolvata 97093.jpg
+| genus = Amanita
+| species = rubrovolvata
+| authority = [[Sanshi Imai|S. Imai]]
+| synonyms_ref = <ref name="urlMycoBank: Amplariella rubrovolvata"/>
+| synonyms = ''Amplariella rubrovolvata'' <small>(S. Imai) [[Jean-Edouard Gilbert|E.-J. Gilbert]]</small>
+}}
+{{mycomorphbox
+| name = ''Amanita rubrovolvata''
+| hymeniumType=gills
+| capShape = convex
+| whichGills = free
+| stipeCharacter=ring and volva
+| sporePrintColor=white
+| sporePrintColor2=cream
+| ecologicalType=mycorrhizal
+| howEdible=unknown
+}}
+{{stack end}}
+
+'''''Amanita rubrovolvata''''', commonly known as the '''red volva amanita''', is a species of fungus in the family [[Amanitaceae]]. The fungus produces small to medium-sized [[mushroom]]s, with reddish-orange [[pileus (mycology)|caps]] up to {{convert|6.5|cm|in|2|abbr=off|frac=4}} wide. The [[stipe (mycology)|stems]] are up to {{convert|10|cm|abbr=on|frac=4}} tall, [[Cream (colour)|cream]]-coloured above the [[annulus (mycology)|ring]] and cream to yellowish below it. The stem ends in a roughly spherical bulb at the base, which is covered with bright orange patches.
+
+First described scientifically by the Japanese mycologist [[Sanshi Imai]] in 1939, the fungus is widely distributed in eastern Asia. Neither its [[edible mushroom|edibility]] nor toxicity have been established, but it is suspected to be associated with neurological anomalies. Several [[molecular phylogenetics|molecular]] studies have confirmed the mushroom's [[classification (biology)|classification]] in the [[subgenus]] ''Amanita'' of the genus ''[[Amanita]]'', along with closely related species such as ''[[Amanita muscaria|A.&nbsp;muscaria]]''.
+
+==Taxonomy==
+{{cladogram|align=left|title=
+| clade=
+{{clade
+|style=font-size:75%;line-height:75%
+| label1=
+| 1={{clade
+          |1=''[[Amanita muscaria|A. muscaria]]''
+          |2={{clade
+             |1='''''A. rubrovolvata'''''
+             |2={{clade
+                |1=''[[Amanita pantherina|A. pantherina]]'' var. ''lutea''
+                |2={{clade
+                   |1=''[[Amanita gemmata|A. gemmata]]''
+                   |2={{clade
+                      |1=''[[Amanita farinosa|A. farinosa]]''
+                      |2=''[[Amanita sinensis|A. sinensis]]''
+                      }}
+                    }}
+                  }}
+                |3={{clade
+                   |1=''[[Amanita subfrostiana|A. subfrostiana]]''
+                   |2=''[[Amanita frostiana|A. frostiana]]''
+                   }}
+                |4={{clade
+                   |1=''[[Amanita pantherina|A. pantherina]]''
+                   |2=''[[Amanita subglobosa|A. subglobosa]]''
+                   }}
+                }}
+              }}
+}}
+| caption=Phylogeny of ''A.&nbsp;rubrovolvata'' and related species based on [[ribosomal DNA]] sequences.<ref name=Weiss1998/>
+}}
+The species was first [[species description|described scientifically]] by Japanese mycologist [[Sanshi Imai]] in 1939, based on various collections made in Japan during 1933–38. Imai designated the Japanese name for mushroom as ''Hime-beni-tengutake'' (ヒメベニテングタケ).<ref name="Imai1939" /> According to the online taxonomical database [[MycoBank]], the name ''Amplariella rubrovolvata'', proposed by French mycologist [[Jean-Edouard Gilbert]] in 1941,<ref name="Gilbert1941" /> is a [[synonym (taxonomy)|synonym]];<ref name="urlMycoBank: Amplariella rubrovolvata" /> the generic name ''Amplariella'' has since been [[wikt:subsume|subsumed]] into ''[[Amanita]]''.<ref name="Kirk2008" />
+
+''A. rubrovolvata'' is [[classification (biology)|classified]] in the [[subgenus]] ''Amanita'' of the genus ''Amanita'', according to the systems proposed by [[Cornelis Bas]] (1969),<ref name="Bas1969" /> and [[Rolf Singer]] (1986).<ref name="Singer1986" /> It was one of 49 ''Amanita'' species included in a 1998 [[molecular phylogenetic]] analysis intended to help clarify natural groups and [[phylogenetic]] relationships within the genus. In the [[cladogram]], ''A.&nbsp;rubrovolvata'' is on a branch next to a cluster of species including ''[[Amanita pantherina|A.&nbsp;pantherina]]'' var. ''lutea'', ''[[Amanita gemmata|A.&nbsp;gemmata]]'', ''[[Amanita farinosa|A.&nbsp;farinosa]]'', and ''[[Amanita sinensis|A.&nbsp;sinensis]]''.<ref name="Weiss1998" /> These results were comparable to those published in later phylogenetic analyses (1999, 2004, 2010) that have included ''A.&nbsp;rubrovolata'' as part of a larger dataset.<ref name="Oda1999" /><ref name="Zhang2004" /><ref name="Justo2010" />
+
+The [[specific name (botany)|specific epithet]] ''rubrovolvata'' is derived from the [[Latin]] words ''ruber'' ("red"), and the adjective ''volvatus'' ("closely sheathed").<ref name="Stearn2004" /> ''Amanita'' authority [[Rodham E. Tulloss]] has suggested "red volva Amanita" as an appropriate [[common name]].<ref name="urlAmanita rubrovolvata" />
+
+==Description==
+, China]]
+The [[pileus (mycology)|cap]] of ''A.&nbsp;rubrovolvata'' is {{convert|2.0|–|6.5|cm|abbr=off|frac=16}} wide, convex to flattened, sometimes with a slight [[umbo (mycology)|umbo]]. They are dark red to reddish-orange, becoming a paler orange to yellowish at the margin. The cap surface is densely covered with red to orange to yellow, powdery to granular remnants of the [[volva (mycology)|volva]]. The cap margin is grooved—with the grooves extending to between 30% and 60% of the radius—and does not have [[partial veil]] remnants hanging along the cap margin. The [[trama (mycology)|flesh]] of the mushroom is white to yellow, or reddish immediately beneath the [[pileipellis|cap cuticle]]. The white [[lamella (mycology)|gills]] are free from attachment to the stem and are {{convert|3|to|6|mm|in|abbr=on|frac=8}} broad. The lamellulae (short gills that do not extend fully from the cap edge to the stem) are [[wikt:truncate|truncate]], and typically range in length between 15 and 50% of the length of the gills.<ref name="urlAmanita rubrovolvata"/><ref name=Semwal2008/>
+
+The [[stipe (mycology)|stem]] is {{convert|50|–|100|mm|in|abbr=on|frac=4}} by {{convert|5|–|10|mm|abbr=on|frac=8}} thick, roughly cylindrical or slightly larger upwards, with a surface that is [[cream (color)|cream]] above the [[annulus (mycology)|ring]] and cream to yellowish below. The bulb at the base of the stem is roughly spherical, and {{convert|1|–|2|cm|abbr=on|frac=4}} wide, with its upper part covered with red, orange to yellow woolly to powdery remnants of the [[volva (mycology)|volva]]. The volva remains in mature specimens as a ring around the upper part of the stem bulb. The [[annulus (mycology)|ring]] is membranous, persistent, with an upper surface that is white and a lower surface having a yellowish tinge and an edge that is red to orange.<ref name="urlAmanita rubrovolvata"/>
+
+''A. rubrovolvata'' produces a white to [[cream (color)|cream-colored]] [[spore print]]. The [[spore]]s are spherical or nearly so, and typically measure 7.5–9.0 by 7.0–8.5&nbsp;[[micrometre|μm]].<ref name="urlAmanita rubrovolvata"/> They are [[inamyloid]], meaning that they will not absorb [[iodine]] stain from [[Melzer's reagent]]. The [[basidia]] (spore-bearing cells in the [[hymenium]]) are club-shaped, four-spored (rarely two-spored), and measure 25–44 by 10–14&nbsp;μm. The [[sterigmata]] (slender extensions at the basidial tips that attach to the spores) are 3–4&nbsp;μm long, and [[Clamp connections|clamps]] are not found on the bases of [[basidia]].<ref name=Sanmee2008/>
+
+===Similar species===
+
+Sanmee and colleagues mention that the eastern North American species ''[[Amanita frostiana|A.&nbsp;frostiana]]'' resembles ''A.&nbsp;rubrovoltata'' slightly, but the former has short grooves at the edge of a yellowish-orange cap, slightly larger spores, a yellow volva, and clamps at the basidial bases.<ref name=Sanmee2008/> [[Roger Heim]] reported ''A.&nbsp;frostiana'' as occurring in Thailand,<ref name=Heim1962/> but this was probably a misidentification of ''A.&nbsp;rubrovolvata''.<ref name=Sanmee2008/><ref name="urlAmanita frostiana Peck"/>
+
+==Distribution and habitat==
+''A. rubrovoltata'' mushrooms grow in groups on the ground. ''Amanita'' species form [[mycorrhizal]] relationships with trees. This is a mutually beneficial relationship where the hyphae of the fungus grow around the roots of trees, enabling the fungus to receive moisture, protection and nutritive byproducts of the tree, and affording the tree greater access to soil nutrients.<ref name="Jenkins1986" /> The original Japanese collections were made in forests dominated by [[Fagus crenata|Japanese beech]] (''Fagus crenata''),<ref name="Imai1939" /> but it has also been found growing near ''[[Quercus luecotrichophora]]'', ''[[Rhododendron arboreum]]'', and ''[[Myrica esculenta]]'' in India,<ref name="Semwal2008" /> in ''[[Castanopsis]]''-''[[Schima]]'' forest in Nepal,<ref name="Adhikari1994" /> and in ''[[Castanopsis indica]]'' plantations in the Himalayas.<ref name="Adhikari1994" />
+
+The species occurs in China, northern India,<ref name=Bhatt2003/> Nepal,<ref name=Adhikari1994/> Gharwal Himalaya,<ref name=Semwal2008/> South Korea,<ref name=Park1986/> and countries of Southeast Asia (for example, Thailand).<ref name=Sanmee2008/> The southern limit of the distribution extends to southern [[Malay Peninsula]].<ref name=Corner1962/>
+
+==Toxicity==
+Although the [[edible mushroom|edibility]] or toxicity of the mushroom is not known with certainty, it has been reported to cause "neurological symptoms" in mice, as well as increased levels of [[blood glucose]] and decreased [[blood urea nitrogen]].<ref name="Yamaura1988" /> Other biochemical changes reported in mice, after [[peritoneum|peritoneal]] injection of fruit body extract, include decreases in the [[enzyme activity|activity]] of the enzyme [[acetylcholinesterase]] and reduced levels of liver [[glycogen]]. In these experiments, values returned to normal six hours after initial injection, suggesting that the poisoning was not serious, and did not affect liver and kidney performance.<ref name="Yamaura1983" />
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Amanita species|List of ''Amanita'' species]]
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=Adhikari1994>{{cite journal |vauthors =Adhikari MK, Parajuli P, Durrieu G |year=1994 |title=Le genre ''Amanita'' au Nepal (II). |trans-title=The genus ''Amanita'' in Nepal (II) |journal=Bulletin Trimestriel de la Société Mycologique de France |volume=110 |issue=1 |pages=29–32 |language=fr}}</ref>
+
+<ref name=Bas1969>{{cite journal |author =Bas C. |year=1969 |title=Morphology and subdivision of ''Amanita'' and a monograph on its section ''Lepidella'' |journal=Persoonia |volume=5 |pages=285–579}}</ref>
+
+<ref name=Bhatt2003>{{cite journal |vauthors =Bhatt RP, Tulloss RE, Semwal KC, Bhatt VK, Moncalvo JM, Stephenson SL |year=2003 |title=Amanitaceae reported from India. A critically annotated checklist |journal=[[Mycotaxon]] |volume=88 |pages=249–70 }}</ref>
+
+<ref name=Corner1962>{{cite journal |title=The genus ''Amanita'' in Singapore and Malaya |journal=Persoonia |year=1962 |vauthors =Corner EJ, Bas C |volume=2 |pages=241–304}}</ref>
+
+<ref name=Gilbert1941>{{cite journal |author =Gilbert E.-J. |title=Iconographia mycologica, Amanitaceae |journal=Iconographia Mycologica |year=1941 |volume=27 |issue=Suppl. 1 |pages=203–427}}</ref>
+
+<ref name=Heim1962>{{cite journal |title=Contribution à la flore mycologique de la Thaïland |journal=Revue de Mycologie |year=1962 |volume=27 |author =Heim R. |pages=123–60 |language=fr}}</ref>
+
+<ref name=Imai1939>{{cite journal |author=Imai S. |year=1939 |title=Studia Agaricacearum Japonicarum. I |journal=Botanical Magazine Tokyo |volume=53 |issue=633 |pages=392–99 |doi=10.15281/jplantres1887.53.392 |doi-access=free }}</ref>
+
+<ref name=Jenkins1986>{{cite book |author =Jenkins D.B. |title=''Amanita'' of North America |publisher=Mad River Press |location=Eureka, CA |year=1986 |page=5 |isbn=978-0-916422-55-4}}</ref>
+
+<ref name=Justo2010>{{cite journal |title=Convergent evolution of sequestrate forms in ''Amanita'' under Mediterranean climate conditions |journal=Mycologia |year=2010 |vauthors=Justo A, Hallen-Adams HE, Hibbett DS |volume=102 |issue=3 |pages=675–88 |url=http://www.clarku.edu/faculty/dhibbett/Reprints%20PDFs/Sequestrate_Amanita.pdf |access-date=2010-10-18 |doi=10.3852/09-191 |pmid=20524599 |s2cid=9995551 |archive-url=https://web.archive.org/web/20100602110051/https://www.clarku.edu/faculty/dhibbett/Reprints%20PDFs/Sequestrate_Amanita.pdf |archive-date=2010-06-02 |url-status=dead }}</ref>
+
+<ref name=Kirk2008>{{cite book |vauthors =Kirk PM, Cannon PF, Minter DW, Stalpers JA |title=Dictionary of the Fungi |edition=10th |publisher=CABI |location=Wallingford |year=2008 |page=27 |isbn=978-0-85199-826-8}}</ref>
+
+<ref name=Oda1999>{{cite journal |title=Molecular phylogeny of Japanese ''Amanita'' species based on bucleotide sequences of the internal transcribed spacer region of nuclear ribosomal DNA |journal=Mycoscience |vauthors =Oda T, Tanaka C, Tsuda M |year=1999| volume=40 |issue=1 |pages=57–64 |doi=10.1007/BF02465674|s2cid=85024751 }}</ref>
+
+<ref name=Park1986>{{cite journal |vauthors =Park SS, Cho DH, Lee JY |year=1986 |title=The flora of higher fungi in Mount Jiri Korea areas I |journal=Korean Journal of Mycology |volume=14 |issue=4 |pages=247–52 |issn=0253-651X}}</ref>
+
+<ref name=Sanmee2008>{{cite journal |vauthors=Sanmee R, Tulloss RE, Lumyong R, Dell B, Lumyong S |year=2008 |title=Studies on ''Amanita'' (Basidiomycetes: Amanitaceae) in Northern Thailand |journal=Fungal Diversity |volume=32 |pages=97–123 |url=http://chm-thai.onep.go.th/chm/data_province/Chiangmai/DATA/PROFESSOR/Saisamorn/2008-Sanmee%20et%20al%20%20Amanita.pdf |access-date=2010-10-18 |archive-url=https://web.archive.org/web/20110813133814/http://chm-thai.onep.go.th/chm/data_province/Chiangmai/DATA/PROFESSOR/Saisamorn/2008-Sanmee%20et%20al%20%20Amanita.pdf |archive-date=2011-08-13 |url-status=dead }}</ref>
+
+<ref name=Semwal2008>{{cite journal |vauthors =Semwal KC, Tulloss RE, Bhatt RP, Stephenson SL, Upadhyay RC |title=New records of ''Amanita'' section ''Amanita'' from Garhwal Himalaya, India |journal=Mycotaxon |volume=101 |pages=331–48 |url=http://www.cybertruffle.org.uk/cyberliber/59575/0101/0331.htm |access-date=2010-10-14}}</ref>
+
+<ref name=Singer1986>{{cite book |author =Singer R. |title=The Agaricales in Modern Taxonomy |edition=4th |publisher=Koeltz Scientific Books|location=Koenigstein |year=1986 |page=441 |isbn=978-3-87429-254-2}}</ref>
+
+<ref name=Stearn2004>{{cite book |author =Stearn W.T. |title=Botanical Latin |publisher=Timber Press |location=Oregon |year=2004 |pages=485, 529 |isbn=978-0-88192-627-9}}</ref>
+
+<ref name="urlMycoBank: Amplariella rubrovolvata">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=284159 |title=''Amplariella rubrovolvata'' (S. Imai) E.-J. Gilbert 1941 |publisher=International Mycological Association |work=MycoBank |access-date=2010-08-07}}</ref>
+
+<ref name="urlAmanita rubrovolvata">{{cite web |url=http://www.amanitaceae.org/?Amanita+rubrovolvata |title=''Amanita rubrovolvata'' |author =Tulloss RE |work=Studies in the Amanitaceae |access-date=2011-02-11}}</ref>
+
+<ref name="urlAmanita frostiana Peck">{{cite web |url=http://www.amanitaceae.org/?Amanita+frostiana |title=''Amanita frostiana'' |author =Tulloss RE |work=Studies in the Amanitaceae |access-date=2011-02-11}}</ref>
+
+<ref name=Weiss1998>{{cite journal |title=Molecular phylogenetic studies in the genus ''Amanita'' |journal=Canadian Journal of Botany |vauthors =Weiß M, Yang ZL, Oberwinkler F |volume=76 |issue=7 |year=1998 |pages=1170–79 |doi=10.1139/cjb-76-7-1170}}</ref>
+
+<ref name=Yamaura1983>{{cite journal |title=Biochemical effects of ''Amanita muscaria'' extract in mice |journal=Journal of the Food Hygienic Society of Japan |year=1983 |vauthors =Yamaura Y, Komiyama S, Fukuhara M, Takabatake E, Hashimoto T |volume=24 |issue=5 |pages=459–64 |language=ja |issn=0015-6426 |doi=10.3358/shokueishi.24.459|doi-access=free }}</ref>
+
+<ref name=Yamaura1988>{{cite journal |author =Yamaura Y |title=Classification of poisonous mushrooms according to their biochemical effects in mice |journal= Nippon Eiseigaku Zasshi (Japanese Journal of Hygiene)|year=1988 |volume=43 |issue=2 |pages=669–78 |language=ja |issn=0021-5082 |pmid=3236502 |doi=10.1265/jjh.43.669|doi-access=free }}</ref>
+
+<ref name=Zhang2004>{{cite journal |title=Molecular phylogeny of eastern Asian species of ''Amanita'' (Agaricales, Basidiomycota): taxonomic and biogeographic implications |journal=Fungal Diversity |year=2004 |volume=17 |vauthors =Zhang L, Yang J, Yang Z |pages=219–38 |url=http://eticomm.net/~ret/amanita/pdfs/Zhang%20Amanita%20phylogeny.pdf |access-date=2010-10-18}}</ref>
+
+}}
+
+==External links==
+{{Commons}}
+{{Wikispecies}}
+*{{IndexFungorum|277002}}
+*[http://www.ne.jp/asahi/mushroom/tokyo/amanita/himebenitengu/himebenitengu-page.htm Image of fruit bodies and spores]
+{{Amanitas}}
+{{Taxonbar|from=Q4739887}}
+{{Good article}}
+
+[[Category:Amanita|rubrovolvata]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi described in 1939]]
+[[Category:Taxa named by Sanshi Imai]]
+[[Category:Fungus species]]

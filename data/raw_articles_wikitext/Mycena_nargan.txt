@@ -1,0 +1,76 @@
+{{Short description|Species of fungus in the family Mycenaceae}}
+{{stack begin}}
+{{Speciesbox
+| image = Unidentified Fungi 8432.jpg
+| image_caption =
+| genus = Mycena
+| species = nargan
+| authority = [[Cheryl Grgurinovic|Grgur.]] (1995)
+}}
+{{mycomorphbox
+| name = ''Mycena nargan''
+| hymeniumType=gills
+| capShape = conical
+| whichGills = adnate
+| stipeCharacter=bare
+| sporePrintColor=white
+| sporePrintColor2 = cream
+| ecologicalType=saprotrophic
+| howEdible=unknown
+}}
+{{stack end}}
+
+'''''Mycena nargan''''', commonly known as the '''Nargan's bonnet''', is a species of [[fungus]] in the family [[Mycenaceae]], and the sole member of the [[section (botany)|section]] ''Nargan'' in the genus ''[[Mycena]]''. Reported as a new species in 1995, it is known predominantly from Southern Australia. The [[saprobic]] fungus produces [[mushroom]]s that grow on well-decayed wood, often on the underside of wood lying in [[leaf litter|litter]]. The dark [[chestnut (color)|chestnut]]-coloured [[pileus (mycology)|caps]] are covered with white, easily removed scales, and reach diameters of up to {{convert|2|cm|in|1|abbr=on}} wide. The pale, slender [[stipe (mycology)|stems]] are up to {{convert|5|cm|in|abbr=on}} long and have white scales at the base. On the underside of the cap, the [[cream (color)|cream]]-coloured [[lamella (mycology)|gills]] are widely spaced and [[adnation|bluntly attached]] to the stem. The [[edible mushroom|edibility]] of the mushroom is unknown.
+
+==Taxonomy, naming, and classification==
+The species was first discovered in 1992 in [[Kuitpo Forest]], South Australia, and reported as new to science in a 1995 ''[[Australian Systematic Botany]]'' publication.<ref name=Grgurinovic1995/> The species name refers to the nargan or [[nargun]], a mythical [[Australian Aborigines|aboriginal]] being – originally the mycologists [[Tom May (mycologist)|Tom May]] and [[Bruce A. Fuhrer|Bruce Fuhrer]] had called it "nargan", as its white speckles glistened in the dark like the eyes of the nargan, and [[Cheryl Grgurinovic]] incorporated this into its [[specific name (botany)|specific epithet]].<ref name ="fungimap"/> It is [[common name|commonly]] known as "Nargan's bonnet", but has also been referred to as the "spotted pixie cap".<ref name=Bougher2007/>
+
+With respect to infrageneric [[classification (biology)|classification]] (i.e., [[Taxonomy (biology)|taxonomic]] ranking below the level of [[genus]]) in ''[[Mycena]]'', several characteristics suggest the mushroom fits best in [[Rudolph Arnold Maas Geesteranus]]' [[section (botany)|section]] ''Fragilipedes'': the ellipsoidal, [[amyloid (mycology)|amyloid]] spores; [[dextrinoid]] [[hymenophore|spore-bearing tissue]]; smooth [[cheilocystidia]]; gills with the edge the same colour as the face; and the non-slimy, distinctly coloured cap.<ref name=Grgurinovic1995/> According to the 1986 infrageneric classification proposed by [[Rolf Singer]],<ref name=Singer1986/> the mushroom would be classified in [[subgenus]] ''Mycena'', [[subsection (botany)|subsection]] ''Ciliatae'', [[wikt:stirps|stirps]] ''Alcalina'' (roughly equivalent to section ''Fragilipedes'' of Maas Geesteranus) because of the amyloid spores, smooth, elongated cheilocystidia, dull-coloured pigment, and stem without either [[latex]] or a slimy sheath. Grgurinovic erected the new section ''Nargan'' to accommodate ''M.&nbsp;nargan'', because its scales, lack of coarse fibrils at the base of the stem, and lack of [[wikt:pruinose|pruinose]] coating meant it was not a good fit for section ''Fragilipedes''.<ref name=Grgurinovic1995/>
+
+==Description==
+
+The [[pileus (mycology)|cap]]s of young mushrooms are initially egg-shaped to conical,<ref name=Grgurinovic1995/> expanding to become  bell-shaped and up to 2&nbsp;cm (0.8&nbsp;in) in diameter. Initially, the margin of the cap is rolled inwards; it typically assumes a lighter color than the centre of the cap surface. Dark brown in color, the mushroom is distinguished by the presence of white speckles or scales on the cap and [[stipe (mycology)|stem]]; these scales may disappear when they become sloughed off or washed away by rain, which can make the species hard to recognise.<ref name=Fuhrer2005/> The thick [[lamella (mycology)|gills]] have an [[adnation|adnate]] attachment to the stem (broadly attached to the stem slightly above the bottom of the gill, with most of the gill fused to the stem), and are white to light grey in colour, paler toward the edge. There are about 24–28 gills extending completely from the cap margin to the stem, and one or two tiers of lamellulae (shorter gills does do not extend fully from the margin to the stem).<ref name=Grgurinovic1995/> The thin stem is up to 4&nbsp;cm (1.6&nbsp;in) high and 0.3&nbsp;cm (0.12&nbsp;in) wide, and does not have a [[annulus (mycology)|ring]].<ref name ="fungimap"/> Young specimens will typically have whitish scales at the base; later, these will slough off and a felt-like whitish [[mycelium]] may be apparent. The mushroom have no distinctive odour.<ref name=Grgurinovic1995/> The [[spore print]] is white<ref name ="fungimap"/> or [[cream (color)|cream]].<ref name=Bougher2007/> The [[edible mushroom|edibility]] of the mushroom has not been reported.
+
+===Microscopic characteristics===
+The [[spore]]s of ''M.&nbsp;nargan'' are roughly [[ellipsoid]], smooth, [[hyaline]], and measure 7.4–10.4 by 4.8–7.1&nbsp;[[micrometre|μm]]. They have a small, oblique [[wikt:apiculus|apiculus]], and lack oil droplets. In terms of staining reactions, they are [[wikt:acyanophilous|acyanophilous]] (not absorbing [[methyl blue]] dye), and [[amyloid (mycology)|amyloid]] (turning  blue-black in [[Melzer's reagent]]). The [[basidia]] (spore-bearing cells in the [[hymenium]]) are club-shaped, have [[clamp connection]]s at their bases, and measure 29.6–36.4 by 8.2–10.7&nbsp;μm. They are four-spored, and the spores are attached to the basidia by long slender [[sterigmata]] that are up to 7.2&nbsp;μm long. The gill edge is sterile (without basidia), and has abundant [[cystidia]]. These thin-walled cheilocystidia range in shape from swollen in the middle with a beak-like point, to spindle-shaped ([[wikt:fusiform|fusiform]]) to club-shaped. They are smooth, hyaline, and inamyloid, with dimensions of 20.8–38.4 by 4.8–10.4&nbsp;μm. They have a clamp connection at base. Pleurocystidia (cystidia on the gill face) are not present in this species. The gill tissue is made of smooth, thin-walled cylindrical to egg-shaped cells, up to 30.4&nbsp;μm in diameter. The cells are dextrinoid (producing a black to blue-black positive reaction with Melzer's reagent), and reddish brown. The surface of the cap (the [[pileipellis]]) is made of a layer of bent-over filamentous hyphae measuring 1.8–4.8&nbsp;μm. These loosely arranged hyphae are slightly gelatinised, smooth, thin-walled, hyaline, inamyloid, and have clamp connections. The tissue layer directly under the pileipellis (the hypodermium) has cells containing brown [[pigment]]. The cap tissue consists of smooth, thin-walled, cylindrical to broadly cylindrical or ovoid cells, up to 37.0&nbsp;μm in diameter, with clamp connections. These cells are dextrinoid and reddish orange-brown in colour. The surface of the stem is made of filamentous hyphae, 2.2–4.0&nbsp;μm in diameter, either smooth or with sparse to moderately dense short, rod-like to cylindrical projections. The cells are thin-walled to very slightly thick-walled, hyaline, inamyloid, and have clamp connections. Caulocystidia (cystidia on the cap surface) are not present. The stem tissue consists of short, cylindrical cells, up to 28.0&nbsp;μm in diameter that are smooth, thin-walled, and with or without brown pigment in the [[cytoplasm]]. The cells contain clamp connections and are reddish orange-brown.<ref name=Grgurinovic1995/>
+
+===Similar species===
+''Mycena nargan'' has a very distinct appearance, and is unlikely to be mistaken for other Mycenas. However, one noted unintentional misidentification occurred when the ''M.&nbsp;nargan'' on the cover photograph of [[Bruce A. Fuhrer]]'s 2005 book ''A Field Guide to Australian Fungi'' was labelled as ''[[Mycena nivalis]]'', a species with a white cap.<ref name=Ratkowsky2005/>
+
+==Habitat and distribution==
+A common mushroom, ''Mycena nargan'' is found growing singly or in clusters on the underside of rotting wood in wet and shaded areas, and is especially partial to ''[[Eucalyptus]]'' and ''[[Pinus pinaster]]''. Fruit bodies usually appear from April to June.<ref name=Grgurinovic1995/> The species has been recorded from [[Tasmania]],<ref name=Gates2004/> [[Victoria (Australia)|Victoria]] and southeastern [[South Australia]]. The Australian Fungimap initiative has reported isolated collections in [[Western Australia]], South Australia, and [[New South Wales]], although the majority of sightings have been in Tasmania and Victoria.<ref name=FungiMapBulletin/> The fungus is [[saprobic]], meaning it derives nutrients from dead or dying organic matter.<ref name ="fungimap"/> A [[field study]] conducted in Tasmania showed that it is much more likely to be found in mature [[Eucalyptus|eucalypt]] forest (defined as having grown at least 70 years before the last [[wildfire]]) than young, regenerating forest that had experienced [[clearfelling]], burning, and sowing two to three years previously.<ref name=Gates2005/>
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=Bougher2007>{{cite book |title=Perth Urban Bushland Fungi Field Book |edition=3rd |vauthors=Bougher NL, Weaver JR |year=2007 |publisher=Perth Urban Bushland Fungi |url=http://www.fungiperth.org.au/index.php?option=com_docman&task=doc_download&gid=73&Itemid= |format=PDF}}</ref>
+
+<ref name=Fuhrer2005>{{cite book |title=A Field Guide to Australian Fungi |author=Fuhrer B. |year=2005 |page=139 |publisher=Bloomings Books| location=Melbourne |isbn=1-876473-51-7}}</ref>
+
+<ref name ="fungimap">{{cite book |title=Fungi Down Under:the Fungimap Guide to Australian Fungi|author=Grey P. |year=2005 |page=49 |publisher=Royal Botanic Gardens |location=Melbourne |isbn=0-646-44674-6}}</ref>
+
+<ref name=FungiMapBulletin>{{cite journal |title=The how and why of new target species |author=May T. |journal=Fungimap Bulletin |volume=1 |date=April 2010 |publisher=Royal Botanic gardens Melbourne |url=http://www.rbg.vic.gov.au/__data/assets/pdf_file/0019/9910/Fungimap_Bulletin_1.pdf |access-date=2010-12-17 |archive-url=https://web.archive.org/web/20110303180421/http://www.rbg.vic.gov.au/__data/assets/pdf_file/0019/9910/Fungimap_Bulletin_1.pdf |archive-date=2011-03-03 |url-status=dead }}</ref>
+
+<ref name=Gates2004>{{cite journal |vauthors=Gates GM, Ratkowsky DA |year=2004 |title=A preliminary census of the macrofungi of Mt Wellington, Tasmania – the non-gilled Basidiomycota |journal=Papers and Proceedings of the Royal Society of Tasmania |volume=138 |pages=53–59|doi=10.26749/rstpp.138.53 |url=http://www.utas.edu.au/docs/plant_science/tasfungi/PDF%20files/Mt_Wellington_Ascomycota.pdf }}</ref>
+
+<ref name=Gates2005>{{cite journal |title=A comparison of macrofungi in young silvicultural regeneration and mature forest at the Warra LTER Site in the southern forests of Tasmania |journal=Tasforests |year=2005 |vauthors=Gates GM, Ratkowsky DA, Grove SJ |volume=16 |pages=127–52 |url=http://www.forestrytas.com.au/assets/0000/0253/tasforests_16_10_web.pdf }}</ref>
+
+<ref name=Grgurinovic1995>{{cite journal |author=Grgurinovic CA. |year=1995 |title=''Mycena'' in Australia: ''Mycena nargan'' sp. nov. and section ''Nargan'' sect. nov. |journal=Australian Systematic Botany |volume=8 |issue=4 |pages=521–36 |doi=10.1071/SB9950531 }}</ref>
+
+<ref name=Ratkowsky2005>{{cite journal |title=Book reviews: A plethora of books on fungi? |journal=Tasmanian Naturalist |year=2005 |volume=127 |pages=91–94 |url=http://www.tasfieldnats.org.au/TasNatArticles/TasNat127/TN127-RATKOWSKY.pdf |access-date=2010-12-17 |archive-url=https://web.archive.org/web/20110217132328/http://www.tasfieldnats.org.au/TasNatArticles/TasNat127/TN127-RATKOWSKY.pdf |archive-date=2011-02-17 |url-status=dead }}</ref>
+
+<ref name=Singer1986>{{cite book |author=Singer R. |title=The Agaricales in Modern Taxonomy |edition=4th |publisher=Koeltz Scientific Books |location=Königstein im Taunus, Germany |year=1986 |isbn=3-87429-254-1}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|413509}}
+
+{{Good article}}
+{{Taxonbar|from=Q6946897}}
+
+[[Category:Mycena|nargan]]
+[[Category:Fungi native to Australia]]
+[[Category:Fungi described in 1995]]
+[[Category:Taxa named by Cheryl A. Grgurinovic]]
+[[Category:Fungus species]]

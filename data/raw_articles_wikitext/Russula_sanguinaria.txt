@@ -1,0 +1,54 @@
+{{Speciesbox
+ | image = Blut-Täubling Russula sanguinaria.JPG
+ | genus = Russula
+ | species = sanguinaria
+ | authority = ([[Heinrich Christian Friedrich Schumacher|Schumach.]]) [[Stephan Rauschert|Rauschert.]] (1989)
+ | synonyms = *''R. sanguinea'' <small>[[Jean Baptiste François Pierre Bulliard|Bull.]] [[Elias Magnus Fries|Fr.]] (1803)</small>
+}}
+{{mycomorphbox 
+| name = ''Russula sanguinaria''
+| whichGills =  adnate
+| whichGills2 = decurrent
+| capShape = convex
+| capShape2 = depressed
+| hymeniumType = gills
+| stipeCharacter = bare
+| sporePrintColor = cream
+| howEdible = inedible
+}}
+
+'''''Russula sanguinaria''''', commonly known as the '''bloody brittlegill''' or '''rosey russula''',<ref name="arora86" /> is a strikingly coloured [[mushroom]] of the genus ''[[Russula]]'', which has the [[common name]] of '''brittlegills'''. It is bright blood-red, inedible, and grows in association with [[coniferous]] trees. It was previously widely known as ''Russula sanguinea''.
+
+==Taxonomy==
+
+The bloody brittlegill was first described as ''Agaricus sanguinarius'' by [[Heinrich Christian Friedrich Schumacher]] in 1803, and redescribed under its current binomial name by mycologist Stephan Rauschert in 1989. ''Agaricus sanguinea'' was described by [[Jean Baptiste François Pierre Bulliard|Bulliard]] and renamed ''Russula sanguinea'' by [[Elias Magnus Fries]].
+
+Both the [[Species|specific epithets]] ''sanguinaria'' and ''sanguinea'' are derived from the [[Latin]] word ''sanguis'' ('blood'), a reference to the mushroom's colour.<ref name=Nilper>{{cite book | author = Nilson S & Persson O | year = 1977 | title = Fungi of Northern Europe 2: Gill-Fungi | publisher = Penguin|isbn=0-14-063006-6|page= 118}}</ref> According to [[David Arora]] in 1986, it was unclear whether this European species is the same as the American species ''Russula rosacea''.<ref name=arora86>{{cite book |last=Arora |author-link=David Arora |first=David |year=1986 |title=Mushrooms demystified: a comprehensive guide to the fleshy fungi |edition=2nd |location=Berkeley |publisher=Ten Speed Press |isbn=0-89815-169-4 |page=[https://archive.org/details/mushroomsdemysti00aror_0/page/653 653] |url-access=registration |url=https://archive.org/details/mushroomsdemysti00aror_0/page/653 }}</ref> According to a 2012 field guide, they are the same.<ref>{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=115–116|oclc=797915861}}</ref>
+
+==Description==
+The robust [[pileus (mycology)|cap]] grows up to {{convert|10|cm|in|round=0.5|abbr=on}} in diameter. At first it is convex, but later flattens, and sometimes becomes saucer-shaped when mature. It is bright blood-red, or rose coloured at first, fading slightly with age, and often having paler areas. The cap skin peels at the margin only. The [[stipe (mycology)|stem]] is firmly robust, occasionally white, but more commonly flushed with the cap colour. It is streaked vertically, and tends to turn greyish pink with age. The cream to pale ochre [[Lamella (mycology)|gills]] are adnate to slightly decurrent, narrow and forking. The spore print is also cream to pale ochre. The flesh is white, somewhat hot and peppery, and sometimes bitter on the tongue,<ref name=Phillips06>{{cite book| author = Roger Phillips | year = 2006  | title = Mushrooms | publisher = Pan MacMillan | isbn = 0-330-44237-6|page=17}}</ref> with a faint fruity smell.<ref name=Nilper/>
+
+===Similar species===
+*''Russula helodes'' is macroscopically identical, but tends to favour [[sphagnum]] moss in [[coniferous forest]]s, and is much rarer.
+*''[[Russula emetica]]'' (Schaeff.) Pers. grows in the same habitat, and has a bright red cap. It almost never has a coloured stipe, and is very crumbly and fragile.
+Most of the other common bright red ''Russula'' species grow with [[deciduous]] trees.
+
+==Distribution and habitat==
+'''''Russula sanguinaria''''' appears in summer and autumn. It is widespread in the northern [[temperate]] zones, and is [[mycorrhizal]] with softwood trees, often ''[[Pinus]]'' (pine) in [[temperate coniferous forest|coniferous woodland]], on sandy soils.<ref name=T.Laessoe>{{cite book | author = Thomas Laessoe | year = 1998 | title = Mushrooms (flexi bound) | publisher = Dorling Kindersley | isbn = 0-7513-1070-0}}</ref>
+
+==Edibility==
+This mushroom is inedible;<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=152}}</ref> it has a 'peppery' taste, and is sometimes quite bitter. Many similar-tasting Russulas are poisonous when eaten raw. The symptoms are mainly gastrointestinal in nature: [[diarrhoea]], vomiting and [[colic]]ky abdominal cramps. The active agent has not been identified but is thought to consist of [[sesquiterpene]]s, which have been isolated from ''[[Russula sardonia]]'',<ref>Andina D. ''et al.'' (1980). "Sesquiterpenes from ''Russula sardonia''." ''Phytochemistry'' '''19''': 93–97</ref> and the related genus ''[[Lactarius (fungus)|Lactarius]]''.<ref>{{cite book |last=Benjamin| first= Denis R. |title=Mushrooms: Poisons and Panaceas — a Handbook for Naturalists, Mycologists and Physicians|page=369|publisher=WH Freeman and Company| location=New York |year=1995| isbn=0-7167-2600-9}}</ref>
+
+==See also==
+*[[List of Russula species|List of ''Russula'' species]]
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q886424}}
+
+[[Category:Fungi described in 1803]]
+[[Category:Fungi of Europe]]
+[[Category:Russula|sanguinaria]]
+[[Category:Inedible fungi]]
+[[Category:Fungus species]]

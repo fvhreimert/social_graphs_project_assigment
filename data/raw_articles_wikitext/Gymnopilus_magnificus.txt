@@ -1,0 +1,42 @@
+{{Short description|Species of fungus}}
+{{more citations needed|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption =
+| taxon = Gymnopilus magnificus
+| authority = [[Laura Guzmán Dávalos|Guzm.-Dáv.]] & [[Gastón Guzmán|Guzmán]] (1986)
+}}
+{{mycomorphbox
+| name = ''Gymnopilus magnificus''
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+}}
+
+'''''Gymnopilus magnificus''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]]. It was described as new to science in 1986 by Mexican mycologists [[Gastón Guzmán]] and [[Laura Guzmán Dávalos]].<ref name=Guzman1986/>
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name=Guzman1986>{{cite journal |author=Guzmán-Dávalos L, Guzmán G. |title=Hongos de Jalisco VIII |journal=Revista Mexicana de Micología |year=1986 |volume=2 |pages=157–85 |language=Spanish}}</ref>
+
+}}
+
+{{Taxonbar|from=Q5624860}}
+
+{{DEFAULTSORT:Gymnopilus magnificus}}
+[[Category:Gymnopilus|magnificus]]
+[[Category:Fungi described in 1986]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

@@ -1,0 +1,61 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Tricholoma saponaceum.jpg
+| status = G5
+| status_system = TNC
+| status_ref = <ref name=NS>{{cite NatureServe |id=2.883704 |title=''Tricholoma saponaceum'' |access-date=24 May 2025}}</ref>
+| taxon = Tricholoma saponaceum
+| authority = ([[Elias Magnus Fries|Fr.]]) [[P.Kumm.]] (1871)
+| synonyms = *''Agaricus saponaceus'' <small>Fr. (1818)</small>
+*''Tricholoma atrovirens'' <small>([[Pers.]]) [[Sacc.]] (1887)</small>
+}}
+{{Mycomorphbox 
+| name = ''Tricholoma saponaceum''
+| hymeniumType = gills
+| capShape = convex
+| whichGills = adnexed 
+| stipeCharacter = bare
+| sporePrintColor = white
+| ecologicalType = mycorrhizal
+| howEdible = poisonous
+}}
+
+'''''Tricholoma saponaceum''''', also known as the '''soap-scented toadstool''', '''soapy tricholoma''',<ref name=arora86>{{Cite book |last=Arora |first=David |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/184/mode/2up |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |orig-date=1979 |edition=2nd |pages=184}}</ref> '''soapy knight''' or '''soap tricholoma''' is an inedible [[mushroom]] found in woodlands in Europe and North America.
+
+==Taxonomy==
+''Tricholoma saponaceum'' was first described in 1818 by seminal mycologist [[Elias Magnus Fries]] and given the name ''Agaricus saponaceus'', before being placed in the genus ''[[Tricholoma]]'' by German mycologist [[Paul Kummer]] in 1871. The [[specific name (botany)|specific epithet]] ''saponaceum'' is derived from the [[Latin]] 'of or pertaining to [[soap]]'.<ref>{{cite book|author = Simpson DP| title = Cassell's Latin Dictionary  | publisher = Cassell Ltd.| year = 1979|edition = 5|location = London| isbn=0-304-52257-0|page = 883}}</ref> Its names in other European languages, such as French ''Tricolome à odeur de savon'', and German ''Seifenritterling'' have a similar derivation to its English names-soap-scented toadstool, soapy knight or soap tricholoma—all relating to its soapy scent.<ref name="arora86"/><ref name=nilper>{{cite book | last = Nilson|first= Sven |author2=Olle Persson  | year = 1977 | title = Fungi of Northern Europe 2: Gill-Fungi | publisher = Penguin|isbn=0-14-063006-6|page=30}}</ref>
+
+''Tricholoma saponaceum'' is yet another fungus which may represent a species complex of two or more species. The variety ''ardosiacum'', described by Italian mycologist [[Giacomo Bresadola]], has a dark blue-grey cap.
+
+==Description==
+''Tricholoma saponaceum'' has a convex [[pileus (mycology)|cap]] about {{convert|4-15|cm|abbr=on}} across, with a vague [[umbo (mycology)|umbo]]<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=166–167|oclc=797915861}}</ref> which flattens with age. The colour is highly variable, with greyish, greenish, olive, yellowish and brownish shades reported. The cap is paler at the margin and fades with age. The widely spaced [[lamella (mycology)|gills]] are adnexed and whitish, although may be tinted pale green and bruise pink. The whitish [[stipe (mycology)|stipe]] (also sometimes displaying colors present in the cap) lacks a [[annulus (mycology)|ring]] and can be swollen in its midriff, and measures {{convert|4–12|cm|1|abbr=on}} tall by {{convert|1–3|cm|1|abbr=on}} wide.<ref name=":0" />
+
+The flesh can but does not always stain pink-orange, and this color may already be present in the flesh of the stipe's base.<ref>{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=106}}</ref> The [[spore print]] is white, and the oval smooth spores measure 5–6 × 3–4&nbsp;[[μm]].<ref name="arora86"/> The odour is distinctive and has been likened to newly scrubbed floors or soap.<ref name=nilper/>
+
+===Similar species===
+Its gills may lead it to being confused with ''[[Hygrophorus]]'' species.<ref name="arora86"/> It is similar in appearance to ''[[Tricholoma griseoviolaceum]]''.<ref name=":0" />
+
+==Distribution and habitat==
+''Tricholoma saponaceum'' is a terrestrial mushroom found in Europe and North America. It is abundant in the Pacific Northwest and Rocky Mountains.<ref name="arora86"/> It is found in [[conifer]]ous and [[deciduous]] woodlands (more commonly the former in North America) from late summer to late autumn. [[Spruce]], [[live oak]], [[tanoak]], and [[madrone]] are species it can be associated with in the western United States.<ref name="arora86"/> It is associated with oak in Central and southern Europe.<ref name=nilper/>
+
+==Toxicity==
+Bland or mild tasting, the fungus is usually classified as inedible or [[Mushroom poisoning|poisonous]] in guidebooks.<ref name="arora86"/><ref name=nilper/><ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=50}}</ref> It contains toxins which can cause severe gastric upset.<ref name="Miller 2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=124}}</ref>
+
+==See also==
+{{Commons|Tricholoma saponaceum}}
+*''[[Hygrocybe]]''
+*[[List of North American Tricholoma|List of North American ''Tricholoma'']]
+*[[List of Tricholoma species|List of ''Tricholoma'' species]]
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q1473080}}
+
+[[Category:Poisonous fungi]]
+[[Category:Tricholoma|saponaceum]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1818]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]

@@ -1,0 +1,32 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+ | image =  Calocybe indica 884511.jpg
+ | genus = Calocybe
+ | species = indica
+ | authority  = Purkay. & A. Chandra, 1974
+}}
+
+'''''Calocybe indica''''', commonly known as the '''milky white mushroom''', is a [[species]] of [[edible mushroom]] native to India. The sturdy all-white mushrooms appear in summer after rainfall in fields and on road verges. Traditionally eaten in West Bengal, it is being grown commercially in several Indian states and other tropical countries.
+
+==Taxonomy==
+''Calocybe indica'' was formally described in 1974, from material collected in [[Kolkata]]. The authors—botanists R.P. Purkayastha and Aindrila Chandra—had noted it to be a popular mushroom in markets in [[West Bengal]]. They placed it in the section ''Calocybe'' of the genus ''Calocybe'', noting that it appeared closely related to and was similar morphologically to ''[[Calocybe gambosa]]'', from which it differed by having slightly larger oval spores, and a stouter mushroom.<ref name=Purkayastha1974>{{cite journal | journal = Transactions of the British Mycological Society | volume = 62|issue = 2| year= 1974 |pages =415–18 | title=New species of edible mushroom from India | vauthors= Purkayastha RP, Chandra A | doi=10.1016/S0007-1536(74)80052-5}}</ref> Botanist A. S. Krishnamoorthy found it growing in [[Tamil Nadu]] in the mid 1990s, and its commercial production was overhauled and improved.<ref name=Krishnamoorthy15>{{cite journal | journal =Mycobiology | year= 2015 | volume= 43| issue=3| pages= 184–94 | doi=10.5941/MYCO.2015.43.3.184 | pmid= 26539033 | title= A Comprehensive Review of Tropical Milky White Mushroom (''Calocybe indica'' P&C)  | vauthors=Krishnamoorthy AS, Bala V| pmc=4630423}}</ref>
+
+==Description==
+The robust mushroom is all-white in colour and has a firm consistency. Its cap is {{convert|10|to|14|cm|in|frac=2}} across, convex initially before flattening out with age. The cuticle (skin) can be easily peeled off the cap. The crowded gills are white but gradually develop into brown with age, and the cylindrical stem is {{convert|10|cm|in|frac=2}} high with no ring nor volva. It has a subbulbous base, being {{convert|1.8|cm|in|frac=4}} wide at the apex (top), {{convert|3.5|cm|in|frac=4}} in the middle and {{convert|2.4|cm|in|frac=4}} wide at the base. The mushroom does not change colour on cutting or bruising, though old dried specimens have a buff colour. The flesh has a mild flavour that has been described as oily, and a faint smell reminiscent of radishes. The [[spore print]] is white, and the oval spores measure 5.9–6.8 μm long by 4.2–5.1 μm wide.<ref name=Purkayastha1974/><!-- cites para -->
+
+==Distribution, habitat and ecology==
+''Calocybe indica'' grows in grasslands, fields and road verges in Tamil Nadu and [[Rajasthan]], generally on a [[Substrate (biology)|substrate]] that is rich in organic material. The mushrooms appear between May and August after spells of rainfall. The fungus is [[saprophytic]], though it has been reported to form [[Ectomycorrhiza|ectomycorrhizal]] relationships with the roots of the coconut tree (''[[coconut|Cocos nucifera]]''), palmyra palm (''[[Borassus flabellifer]]''), tamarind (''[[tamarind|Tamarindus indica]]'') and yellow poinciana (''[[Peltophorum pterocarpum]]'').<ref name=Krishnamoorthy15/><!-- cites para -->
+
+==Cultivation==
+''Calocybe indica'' is cultivated commercially in southern India and becoming more popular in China, Malaysia, and Singapore; it can be grown in hot humid (60% to 70%) countries with a temperature range of 25 to 35&nbsp;°C year-round.<ref name=Krishnamoorthy15/>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q44140422}}
+
+[[Category:Fungi described in 1974]]
+[[Category:Fungi of India]]
+[[Category:Lyophyllaceae]]
+[[Category:Edible fungi]]
+[[Category:Fungus species]]

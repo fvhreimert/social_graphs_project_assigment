@@ -1,0 +1,53 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Conocybe tenera by Alan Rockefeller.jpg
+| taxon = Conocybe tenera
+| authority = ([[Jacob Christian Schäffer|Schaeff.]]) [[Victor Fayod|Fayod]]<ref>{{cite journal|title=Prodrome d'une histoire naturelle des agaricinés | last = Fayod | first = Victor | journal=Annales des Sciences Naturelles, Botanique | series = 7 | volume = 9 | year = 1889 | page = 357 | url = https://biodiversitylibrary.org/page/43164931}}</ref>
+}}
+{{mycomorphbox 
+| name = Conocybe tenera
+| whichGills = adnate 
+| capShape = conical
+| capShape2 = convex
+| hymeniumType= gills
+| stipeCharacter= bare
+| ecologicalType=saprotrophic
+| sporePrintColor=brown
+| howEdible=inedible}}
+
+'''''Conocybe tenera''''', commonly known as the '''brown dunce cap''' or '''common cone head''',<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/472/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=472 |orig-date=1979}}</ref> is a widely distributed member of the genus ''[[Conocybe]]'', for which it serves as the [[type species]].
+
+==Description==
+''Conocybe tenera'' is a small [[saprotrophic]] mushroom with a [[conic]] to [[wikt:convex|convex]] cap which is smooth and orangish brown. It is up to {{Convert|2.5|cm|frac=4}} wide<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=630}}</ref> and is striate almost to the center. The stem is {{Convert|3 to 9|cm|abbr=on|frac=4}} long, 1–4 &nbsp;mm thick, and is equal width for the whole length, sometimes with some swelling at the base.<ref name="Arora1986" /> It lacks an [[Annulus (mycology)|annulus]] (ring), is hollow and [[wikt:pruinose|pruinose]] near the top.
+
+The [[Lamella (mycology)|gills]] are adnexed and pale brown, darkening in age. The [[spore print]] is rusty brown.<ref name="audu" /> The [[spores]] are yellowish brown, smooth and elliptical with a [[germ pore]],<ref name="Arora1986" /> measuring 12 x 6&nbsp;[[μm]]. 
+
+=== Similar species ===
+The species requires microscopy to identify. It resembles members of ''[[Galerina]]'', ''[[Pholiotina]]'', and ''[[Psathyrella]]'', as well as ''[[Parasola conopilea]]''.<ref name="audu" /> The related ''[[Conocybe rugosa|C.&nbsp;filaris]]'' is poisonous.<ref name="Arora1986" />
+
+==Distribution and habitat==
+
+Common in [[Disturbance (ecology)|disturbed areas]] in North America,<ref name="audu" /> it is widely distributed across the world.
+
+==Edibility==
+
+The species is inedible,<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=214}}</ref> and is related to at least one species which contains the deadly [[amatoxin]].<ref name="Miller 2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|page=269|author-link=Orson K. Miller Jr.}}</ref>
+
+==References==
+{{reflist}}
+
+==Further reading==
+* {{cite journal | title = New Records in Coprinaceae and Bolbitiaceae from Mut (Mersin) District | author1 = Giyasettin Kaşik | display-authors = etal | journal = Turk J Bot | volume = 24 | year = 2004 | pages = 449–455 | url = http://journals.tubitak.gov.tr/botany/issues/bot-04-28-4/bot-28-4-9-0207-8.pdf | access-date = 2007-01-24 | archive-url = https://web.archive.org/web/20070929153843/http://journals.tubitak.gov.tr/botany/issues/bot-04-28-4/bot-28-4-9-0207-8.pdf | archive-date = 2007-09-29 }}
+* Mushroom Observer - Conocybe Tenera [https://mushroomobserver.org/409]
+* Conocybe Tenera Photos [https://www.biolib.cz/en/taxon/id133108]
+* Rogers Mushrooms - Conocybe Tenera Photos [https://web.archive.org/web/20061022134705/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~5846~gid~.asp]
+
+{{Taxonbar|from=Q1641496}}
+
+[[Category:Bolbitiaceae]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1889]]
+[[Category:Inedible fungi]]
+[[Category:Taxa named by Jacob Christian Schäffer]]
+[[Category:Fungus species]]

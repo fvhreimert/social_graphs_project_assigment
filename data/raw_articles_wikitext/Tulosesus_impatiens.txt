@@ -1,0 +1,119 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{Speciesbox
+| image = Tulosesus_impatiens.jpg
+| genus = Tulosesus
+| species = impatiens
+| authority = ([[Elias Magnus Fries|Fr.]]) [[Dieter Wächter|D. Wächt]] & [[Andreas Melzer|A. Melzer]] (2020)
+| synonyms = ''Agaricus impatiens'' <small>[[Elias Magnus Fries|Fr.]] (1821)</small><br>
+''Coprinarius impatiens'' <small>[[Lucien Quélet|Quél.]] (1886)</small><br>
+''Coprinus impatiens'' <small>[[Lucien Quélet|Quél.]] (1888)</small><br>
+''Pseudocoprinus impatiens'' <small>[[Robert Kühner|Kühner]] (1936)</small><br>
+''Psathyrella impatiens'' <small>[[Claude Casimir Gillet|Gillet]] (1936)</small><br>
+''Coprinellus impatiens'' <small>[[Jakob Emanuel Lange|J.E.Lange]] (1938)</small><br>
+|synonyms_ref = <ref name="urlSpecies Fungorum - Species synonymy"/>
+}}
+{{mycomorphbox
+| name= ''Tulosesus impatiens''
+| whichGills= adnexed
+| capShape= convex
+| capShape2= flat
+| hymeniumType= gills
+| stipeCharacter= bare
+| ecologicalType= saprotrophic
+| sporePrintColor= blackish-brown
+| howEdible= inedible
+}}
+{{stack end}}
+
+'''''Tulosesus impatiens''''' (formerly ''Coprinellus impatiens)'' is a species of [[fungus]] in the family [[Psathyrellaceae]]. First described in 1821, it has been [[classification (biology)|classified]] variously in the genera ''[[Psathyrella]]'', ''Pseudocoprinus'', ''Coprinarius'', and ''[[Coprinus]]'', before [[molecular phylogenetics]] reaffirmed it as a ''[[Coprinellus]]'' species in 2001. In 2020, German mycologists Dieter Wächter and Andreas Melzer reclassified many species of the Psathyrellaceae family based on a phylogenetic analysis and the species was renamed ''Tulosesus impatiens''.
+
+The fungus is found in North America and Europe, where the mushrooms grow on the ground in [[deciduous forest]]s. The [[basidiocarp|fruit bodies]] have [[buff (color)|buff]] [[pileus (mycology)|caps]] that are up to {{convert|4|cm|in|abbr=on}} in diameter, held by slender whitish [[stipe (mycology)|stems]] that can be up to {{convert|10|cm|in|abbr=on}} tall. Several other ''[[Coprinopsis]]'' species that resemble ''T.&nbsp;impatiens'' may be distinguished by differences in appearance, [[habit (biology)|habit]], or spore [[morphology (biology)|morphology]].
+
+==Taxonomy and phylogeny==
+The species was first described in 1821 as ''Agaricus impatiens'' by Swedish mycologist [[Elias Magnus Fries]] in his ''Systema Mycologicum''.<ref name=Fries1821/> In 1886, [[Lucien Quélet]] transferred the species to ''Coprinarius''<ref name=Quelet1886/> (a defunct genus now [[synonym (biology)|synonymous]] with ''[[Panaeolus]]''<ref name=Kirk2008/>) and then to ''[[Coprinus]]'' a couple of years later in his ''Flore Mycologique de la France''.<ref name=Quelet1888/> In 1936, [[Robert Kühner]] segregated the genus ''Pseudocoprinus'' from ''Coprinus'', including species that did not have [[wikt:deliquescent|deliquescent]] gills (that is, [[lamella (mycology)|gills]] that "melt" into liquid), and he included ''Coprinus impatiens'' in this generic transfer. He later changed his mind about the [[Taxonomy (biology)|taxonomic]] separation of ''Coprinus'' and ''Pseudocoprinus''.<ref name=Redhead2001/> [[Claude Casimir Gillet|Gillet]] transferred the species to ''[[Psathyrella]]'' in 1936.<ref name=Gillet1936/> In 1938 [[Jakob Emanuel Lange]] published the new combination ''Coprinellus impatiens''.<ref name=Lange1938/> Despite the taxonomic shuffling, the species was popularly known as ''Coprinus impatiens'' until 2001, when a large-scale [[phylogenetic]] analysis resulted in the splitting of the genus ''Coprinus'' into several smaller genera, and the authors confirmed the validity of the generic placement in ''[[Coprinellus]]''.<ref name=Redhead2001/> The [[specific name (botany)|specific epithet]] ''impatiens'' is derived from the [[Latin]] word for "impatient".<ref name=Davidson1996/>
+
+A 2005 [[phylogenetics]] study proposed that C''.&nbsp;impatiens'' was sister (closely related  on the [[phylogenetic tree]]) to a large ''Psathyrella'' [[cladistics|clade]], and that consequently, the genus ''Coprinellus'' was [[polyphyletic]].<ref name=Walther2005/> A later (2008) study suggested, however, that these results were due to an artifact of [[Maximum parsimony (phylogenetics)#Taxon sampling|taxon sampling]]—not enough species were analyzed to adequately represent the genetic variation in the genera. The 2008 study demonstrated that ''Coprinellus'', at that time including ''T.&nbsp;impatiens'', was [[monophyletic]], descended from a common ancestor. In their analysis, ''T.&nbsp;impatiens'' was most closely related to ''[[Tulosesus congregatus|T.&nbsp;congregatus]]'', [[Tulosesus bisporus|''T.&nbsp;bisporus'']], [[Tulosesus callinus|''T.&nbsp;callinus'']], and [[Tulosesus heterosetulosus|''T.&nbsp;heterosetulosus'']].<ref name=Padamsee2008/>
+
+The species was known as ''Coprinellus impatiens'' until 2020 when the German mycologists [[Dieter Wächter]] & [[Andreas Melzer (Mycologist)|Andreas Melzer]] reclassified many species in the [[Psathyrellaceae]] family based on [[Phylogenetics|phylogenetic]] analysis.<ref name=":0">{{Cite journal |last1=Wächter |first1=Dieter |last2=Melzer |first2=Andreas |date=2020-11-01 |title=Proposal for a subdivision of the family Psathyrellaceae based on a taxon-rich phylogenetic analysis with iterative multigene guide tree |url=https://doi.org/10.1007/s11557-020-01606-3 |journal=Mycological Progress |language=en |volume=19 |issue=11 |pages=1151–1265 |doi=10.1007/s11557-020-01606-3 |s2cid=228976812 |issn=1861-8952|url-access=subscription }}</ref>
+
+==Description==
+
+The [[pileus (mycology)|cap]] of the [[basidiocarp|fruit bodies]] is initially egg-shaped, then conical to convex before flattening out, reaching diameters between {{convert|1.8|to|4|cm|in|abbr=on}}. It has deep narrow grooves reaching almost as far as the center of the cap. The surface color is a pale [[buff (color)|buff]], [[tawny (color)|tawny]] or cinnamon towards the center, but the color loses intensity when the mushroom is dry. The [[trama (mycology)|flesh]] is whitish, thin, fragile and barely deliquescent (auto-digesting). The [[lamella (mycology)|gills]] are initially [[buff (color)|buff]], then turn grayish brown. They are either free from attachment to the [[stipe (mycology)|stem]], or ''adnexed'', meaning only a small portion of the gill is attached. The stem is whitish, very slender, and more or less equal in width throughout its length, or slightly thicker at the base; its dimensions are {{convert|7|to|10|cm|in|abbr=on}} by {{convert|0.2|to|0.4|cm|in|2|abbr=on}} thick. The stem surface of young specimens are ''pruinose''—appearing to be coated with a minute layer of fine white particles; this eventually is sloughed off, leaving a smooth or silky surface. The odor and taste of the fruit bodies are not distinctive. The gills of this species do not autodigest with age, or barely do so; the fruit bodies tend to become more fragile with age.<ref name=Orton1979/><ref name=Jordan2004/>
+
+The [[spore print]] is dark brown. The spores are smooth, [[wikt:ellipsoid|ellipsoid]] or almond-shaped, with a [[germ pore]]; they measure 9–12 by 5–6&nbsp;[[micrometre|μm]]. The spore-bearing cells, the [[basidia]], are four-spored and tetramorphic (the spores lie on several different levels, and mature at different times). The [[wikt:cheilocystidium|cheilocystidia]] ([[cystidia]] found on the gill edge) are roughly spherical, 20–35&nbsp;μm broad, or [[wikt:lageniform|lageniform]] (flask-shaped), 36–64 by 10–15&nbsp;μm, with the apex often rather acute, about 3–5&nbsp;μm wide. [[Pleurocystidium|Pleurocystidia]] (cystidia found on the gill face) are absent in this species.<ref name=Orton1979/>
+
+
+
+==Similar species==
+
+''[[Coprinellus disseminatus]]'' resembles ''Tulosesus&nbsp;impatiens'', but may be distinguished by its slightly larger fruit body, somewhat deliquescent gills, and tendency to fruit in smaller groups on the ground, rather than on or around rotting wood.<ref name=Arora1986/> Also, ''C.&nbsp;disseminatus'' has smaller spores than ''T.&nbsp;impatiens'', typically 6.6–9.7 by 4.1–5.8&nbsp;μm.<ref name=Burel2004/> ''Tulosesus&nbsp;eurysporus'' is similar to ''C.&nbsp;disseminatus'' but usually grows in groups on fallen branches, and has broader spores that measure 8.3–10.3 by 6.7–8.4&nbsp;μm.<ref name="urlCoprinus eurysporus ((NL: ))"/> [[Tulosesus hiascens|''T.&nbsp;hiascens'']] usually grows in small dense clumps, has narrower spores (typically 9–11 by 4.5–5.5&nbsp;μm, and produces smaller fruit bodies.<ref name=Orton1979/>
+
+==Habitat and distribution==
+''Tulosesus impatiens'' is found in North America and Europe<ref name="urlRogers"/> (including Germany,<ref name=Enderle1986/> Poland,<ref name=Sadowska1988/> and Ukraine<ref name=Prydiuk2003/>) including northern Turkey.<ref name=Turkekul2003/> In the [[Pacific Northwest]] region of the United States, it is found in [[Oregon]] and [[Idaho]].<ref name="urlwww.svims.ca"/> Fruit bodies grow solitarily, or rarely in small bundles, on [[forest floor|forest litter]] in [[deciduous forest]]s, especially ones dominated by [[beech]].<ref name="urlRogers"/><ref name=Lange1953/>
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=Arora1986>{{cite book |author=Arora D. |title=Mushrooms Demystified: a Comprehensive Guide to the Fleshy Fungi |publisher=Ten Speed Press |location=Berkeley, California |year=1986 |page=535 |isbn=978-0-89815-169-5 |url=https://books.google.com/books?id=86tM01VsFG0C&pg=PA353}}</ref>
+
+<ref name=Burel2004>{{cite journal |author=Burel J. |year=2004 |title=Nekoprofilni druhy hnojniku subsekce Setulosi |trans-title=Profiles of species from ''Coprinus'' subsection ''Setulosi'' |journal= Mykologicky Sbornik |volume=81 |issue=3 |pages=94–7 |issn=0374-9436 |language=cs}}</ref>
+
+<ref name=Davidson1996>{{cite book |vauthors=Davidson GD, Robinson M |title=Chambers 21st Century Dictionary |url=https://archive.org/details/chambers21stcent00mair |url-access=registration |publisher=Chambers |location=Edinburgh |year=1996 |page=[https://archive.org/details/chambers21stcent00mair/page/676 676] |isbn=978-0-550-10625-4}}</ref>
+
+<ref name=Enderle1986>{{cite journal |vauthors=Enderle M, Krieglsteiner GJ, Bender H |year=1986 |title=Studies in the genus ''Coprinus'' West Germany III |journal=Zeitschrift für Mykologie |volume=52 |issue=1 |pages=101–32 |language=de}}</ref>
+
+<ref name=Fries1821>{{cite book |author=Fries EM. |year=1821 |title=Systema Mycologicum |publisher=Lund: Ex Officina Berlingiana |volume= 1 |page=302 |url=https://www.biodiversitylibrary.org/item/25498#366 |language=la}}</ref>
+
+<ref name=Gillet1936>{{cite journal |author=Gillet CC.|year=1936 |journal=Bulletin Trimestriel de la Société Mycologique de France |volume=52 |page=33}}</ref>
+
+<ref name=Jordan2004>{{cite book |author=Jordan M. |title=The Encyclopedia of Fungi of Britain and Europe |publisher=Frances Lincoln |location=London |year=2004 |page=232 |isbn=978-0-7112-2378-3 |url=https://books.google.com/books?id=bFMfytLn3bEC&pg=PA232}}</ref>
+
+<ref name=Kirk2008>{{cite book |vauthors=Kirk PM, Cannon PF, Minter DW, Stalpers JA |title=Dictionary of the Fungi |edition=10th |publisher=CAB International |location=Wallingford, UK |year=2008 |page=169 |isbn=978-0-85199-826-8}}</ref>
+
+<ref name=Lange1938>{{cite journal |author=Lange JE. |year=1938 |title=Studies in the agarics of Denmark. Part XII. ''Hebeloma'', ''Naucoria'', ''Tubaria'', ''Galera'', ''Bolbitius'', ''Pluteolus'', ''Crepidotus'', ''Pseudopaxillus'', ''Paxillus'' |journal=Dansk Botanisk Arkiv |volume=9 |issue=6 |pages=1–104}}</ref>
+
+<ref name=Lange1953>{{cite journal |vauthors=Lange M, Smith AH |year=1953 |title=The ''Coprinus ephemerus'' group |journal=Mycologia |volume=45 |issue=5 |pages=747–80 |jstor=4547754|doi=10.1080/00275514.1953.12024313 }}</ref>
+
+<ref name=Orton1979>{{cite book |title=Coprinaceae: ''Coprinus''|vauthors=Orton PD, Watling R |year=1979 |publisher=Royal Botanic Garden |location=Edinburgh, Scotland |isbn=978-0-11-491565-0 |page=93}}</ref>
+
+<ref name=Padamsee2008>{{cite journal |vauthors=Padamsee M, Matheny PB, Dentinger BT, McLaughlin DJ |year=2008 |title=The mushroom family Psathyrellaceae: Evidence for large-scale polyphyly of the genus ''Psathyrella'' |journal=Molecular Phylogenetics and Evolution |pmid=18248744 |volume=46 |issue=2 |pages=415–29 |doi=10.1016/j.ympev.2007.11.004}}</ref>
+
+<ref name=Prydiuk2003>{{cite journal |author=Prydiuk MP. |year=2003 |title=Rare for the territory of Ukraine finds, of basidial macromycetes (Agaricales s. l, Lycoperdales) from Dnipropetrovsk region |journal=Ukrayins'kyi Botanichnyi Zhurnal |volume=60 |issue=2 |pages=138–45 |language=ru}}</ref>
+
+<ref name=Quelet1886>{{cite book |author=Quélet L. |year=1886 |title=Enchiridion Fungorum in Europa media et praesertim in Gallia Vigentium |publisher=O. Doin |location=Paris |page=119 |language=la |url=http://biodiversityheritagelibrary.org/page/32653155}}</ref>
+
+<ref name=Quelet1888>{{cite book |author=Quélet L.|year=1888 |title=Flore mycologique de la France et des pays limitrophes |publisher=O. Doin |location=Paris  |page=42 |url=https://books.google.com/books?id=GJg_AAAAYAAJ&pg=PA42 |language=fr}}</ref>
+
+<ref name=Redhead2001>{{cite journal |doi=10.2307/1224525 |vauthors=Redhead SA, Vilgalys R, Moncalvo JM, Johnson J, ((Hopple JS Jr)) |year=2001 |title=''Coprinus'' Pers. and the disposition of ''Coprinus'' species ''sensu lato'' |jstor=1224525 |journal=Taxon |volume=50 |issue=1 |pages=203–41}}</ref>
+
+<ref name=Sadowska1988>{{cite journal |author=Sadowska B. |year=1988 |title=Fungi of the genus ''Coprinus'' Pers. ex Fr. S.F. Gray |journal=Biuletyn Lubelskiego Towarzystwa Naukowego Biologia |volume=30 |issue=1–2 |pages=35–38 |language=pl}}</ref>
+
+<ref name=Turkekul2003>{{cite journal |author=Türkekul I. |year=2003 |title=A contribution to the fungal flora of Tokat Province |journal=Turkish Journal of Botany |volume=27 |pages=313–20 |url=http://journals.tubitak.gov.tr/botany/issues/bot-03-27-4/bot-27-4-7-0207-1.pdf |access-date=2010-08-25 |archive-url=https://web.archive.org/web/20170814124314/http://journals.tubitak.gov.tr/botany/issues/bot-03-27-4/bot-27-4-7-0207-1.pdf |archive-date=2017-08-14 |url-status=dead }}</ref>
+
+<ref name="urlRogers">{{cite web |url=http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~5852.asp |title=''Coprinus impatiens'' |author=Phillips R |work=Rogers Mushrooms |access-date=2010-08-25 |archive-url=https://web.archive.org/web/20111107022932/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~5852.asp |archive-date=2011-11-07 |url-status=dead }}</ref>
+
+<ref name="urlwww.svims.ca">{{cite web |url=http://www.svims.ca/council/distri.htm |title=Pacific Northwest Distributions for Macrofungi |publisher=South Vancouver Island Mycological Society |access-date=2010-08-25}}</ref>
+
+<ref name="urlCoprinus eurysporus ((NL: ))">{{cite web |url=http://www.grzyby.pl/coprinus-site-Kees-Uljee/species/euryspor.htm |title=''Coprinus eurysporus'' M. Lange & A.H. Smith |work=Coprinus Studies by Kees Uljé  |access-date=2010-08-25}}</ref>
+
+<ref name="urlSpecies Fungorum - Species synonymy">{{cite web |url=http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=107843 |title=''Coprinellus impatiens'' (Fr.) J.E. Lange |publisher=[[CAB International]] |work=Index Fungorum |access-date=2010-08-25}}</ref>
+
+<ref name=Walther2005>{{cite journal |vauthors=Walther G, Garnica S, Weiß M |year=2005 |title=The systematic relevance of conidiogenesis modes in the gilled Agaricales |journal=Mycological Research |volume=109 |issue=5 |pages=525–44 |doi=10.1017/S0953756205002868 |pmid=16018308}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|107843}}
+*[https://mushroomobserver.org/observer/observation_search?pattern=Coprinellus+impatiens Mushroom Observer] Images
+
+{{Good article}}
+{{Taxonbar|from=Q4355140}}
+
+[[Category:Inedible fungi]]
+[[Category:Fungi described in 1821]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Europe]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Tulosesus|impatiens]]
+[[Category:Fungus species]]

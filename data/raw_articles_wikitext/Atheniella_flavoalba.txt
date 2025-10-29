@@ -1,0 +1,99 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{Speciesbox
+| image = Mycena spec. - Lindsey 6a.jpg
+| image_caption =
+| genus = Atheniella
+| species = flavoalba
+| authority = ([[Elias Magnus Fries|Fr.]]) Redhead, Moncalvo, Vilgalys, Desjardin & B.A. Perry (2012)
+| synonyms = ''Agaricus flavoalbus'' <small>Fr.</small><br>
+''Agaricus luteoalbus'' <small>[[James Bolton|Bolton]]</small><br>
+''Hemimycena flavoalba'' <small>(Fr.) [[Rolf Singer|Singer]]</small><br>
+''Marasmiellus flavoalbus'' <small>(Fr.) Singer</small><br>
+''Mycena flavoalba'' <small>(Fr.) [[Quél.]]</small><br>
+''Mycena luteoalba'' <small>(Bolton) [[Samuel Frederick Gray|Gray]]</small>
+}}
+{{mycomorphbox
+| name = ''Atheniella flavoalba''
+| hymeniumType=gills
+| capShape = conical
+| whichGills = adnate
+| stipeCharacter=bare
+| sporePrintColor=white
+| ecologicalType=saprotrophic
+| howEdible=inedible
+}}
+{{stack end}}
+
+'''''Atheniella flavoalba''''', which has the recommended name of '''ivory bonnet''' in the UK,<ref name="BMS"/> is a species of [[agaric]] in the family [[Cyphellaceae]]. The [[Pileus (mycology)|cap]] is initially conical, before becoming convex and then flat; it may reach up to {{convert|1.5|cm|in|1|abbr=on}} across. The cap is ivory-white to yellowish white, sometimes more yellowish at the center. The tubular [[stipe (mycology)|stems]] are up to {{convert|8|cm|in|abbr=on}} long and {{convert|2.5|mm|in|2|abbr=on}} thick, and have long, coarse white hairs at their bases. ''Atheniella flavoalba'' is found in Europe, the Middle East, and North America, where it grows scattered in pastures or in dense groups under [[conifer]]s and on [[humus]] in [[oak]] woods.
+
+==Taxonomy==
+First described as ''Agaricus flavoalbus'' by Swedish mycologist [[Elias Magnus Fries]] in 1838, the species was assigned to the [[genus]] ''[[Mycena]]'' in 1872 by [[Lucien Quélet]],<ref name=Quelet1872/> though its [[inamyloid]] [[basidiospores]] and non-[[amyloid (mycology)|dextrinoid]] [[hyphae]] are anomalous for this genus. American mycologist [[Rolf Singer]] transferred the species to the genera ''[[Hemimycena]]'' and ''[[Marasmiellus]]'' in 1938<ref name=Singer1943/> and 1951,<ref name=Singer1951/> respectively.  Singer later changed his mind about these placements, and in his 1986 ''Agaricales in Modern Taxonomy'' he considered the species a ''Mycena''.<ref name=Singer1986/> In the standard 2016 European monograph, the species is noted as "not a proper ''Mycena''", but retained within the genus pending further research.<ref name=Læssøe2016/>
+
+Recent [[Molecular phylogenetics|molecular]] research, based on [[cladistic]] analysis of [[DNA sequences]], has shown that the species is not closely related to ''Mycena'' and belongs in the Cyphellaceae in the genus ''[[Atheniella]]''.<ref name="Vizzini2022"/>
+
+===Etymology===
+The [[specific name (botany)|specific epithet]] ''flavoalba'' ("yellow-white") is a compound of the [[Latin]] adjectives ''flavus'' ("yellow) and ''alba'' ("white").<ref name=Wakefield1950/> 
+
+==Description==
+
+The [[Pileus (mycology)|cap]] of ''A.&nbsp;flavoalba'' is {{convert|1|–|2|cm|in|1|abbr=on}} in diameter, conical when young, becoming somewhat bell-shaped, broadly conic or at times nearly convex. It may develop a [[wikt:papilla|papilla]] (a nipple-like structure) in its center. The cap margin is initially pressed against the stem, but in maturity either flares out or curves inward slightly. The cap surface is smooth, moist, and partially translucent, so that the outline of the gills underneath the cap may be seen. The mushroom is [[hygrophanous]] (changing color as it loses or gains moisture), being [[cream (color)|cream]]-[[buff (color)|buff]] to yellowish initially, with a paler (almost white) margin, and fading to buff in the center and yellowish-white along the margin when dry. The [[trama (mycology)|flesh]] is yellowish to white, thick under the disc but otherwise thin, moderately fragile, and without any distinctive odor and taste.<ref name="Smith p.166-68"/>
+
+The [[lamella (mycology)|gills]] are ascending and somewhat hooked or toothed, narrow at first but becoming rather broad (2.5&nbsp;mm and becoming 3–4&nbsp;mm). They are nearly equal in width throughout or slightly [[ventricose]] in age, with a spacing that is close to subdistant. About 18–24 gills reach the stem, with two tiers of lamellulae (short gills that do not extend fully from the cap margin to the stem) that may develop veins running between them. The gills are white to creamy-white with edges that are even and whitish, and waxy in appearance and consistency. The [[stipe (mycology)|stem]] is {{convert|3|–|8|cm|in|abbr=on}} long, {{convert|1|–|2.5|mm|in|2|abbr=on}} thick, equal, tubular, somewhat elastic, [[wikt:cartilaginous|cartilaginous]], and not particularly fragile. The base of the stem is either [[wikt:strigose|strigose]] (covered with sharp, straight, stiff white hairs) or surrounded with a matted white [[mycelium]]. Above the base, the stem is smooth, and [[wikt:pruinose|pruinose]] toward the apex. When moist it is translucent with slight ripples running transversely, and white to pale yellow.<ref name="Smith p.166-68"/> 
+
+===Microscopic characteristics===
+The [[spore]]s are 7–9 by 3–4.5&nbsp;[[micrometre|μm]], [[wikt:ellipsoid|ellipsoid]], and [[nonamyloid]]. The [[basidia]] (spore-bearing cells) are four-spored. The pleurocystidia and cheilocystidia ([[cystidium|cystidia]] found on the face and edge of a gill, respectively) are similar in structure and abundant, [[wikt:ventricose|ventricose]] with long, rather narrow necks, and measure 46–62 by 9–14&nbsp;μm. The neck is often encrusted with a [[wikt:mucilaginous|mucilaginous]] substance, but it is otherwise smooth and [[hyaline]]. The flesh of the gill is [[wikt:homogeneous|homogeneous]], and [[staining|stains]] pale yellow in iodine. The flesh of the cap has a thin, poorly differentiated [[wikt:pellicle|pellicle]] (a thin membrane), a somewhat differentiated hypoderm (that is most pronounced in old caps) and the remainder is made up of somewhat enlarged cells that stain pale yellow in iodine.<ref name="Smith p.166-68">Smith, p.166–68.</ref>
+
+===Similar species===
+''Atheniella flavoalba'' resembles some members of the genus ''[[Hemimycena]]'', such as ''[[Hemimycena lactea|H.&nbsp;lactea]]'' and ''[[Hemimycena delectabilis|H.&nbsp;delectabilis]]''. It can be distinguished from these species by its white to yellowish cap, and differences in the shape of both its spores and caulocystidia (cystidia on the stem).<ref name="urlAronsen"/> ''[[Hemimycena conidiogena|H.&nbsp;conidiogena]]'', a Spanish species described in 2005, is also similar in appearance, but differs in the distribution of [[pigment]] in the cap, and the differential staining in response to the dye [[cresyl blue]]—''A.&nbsp;flavoalba'' is positive, while ''H.&nbsp;conidiogena'' is negative.<ref name=Moreau2005/>
+
+==Habitat and distribution==
+The fruit bodies of ''Atheniella flavoalba'' grow scattered to densely gregarious in mossy pastures,<ref name=Læssøe2016/> [[pine needle|needle]] beds under [[conifer]]s, or on [[humus]] in [[oak]] woods during the autumn. The species is common in old grassland in Europe,<ref name=Læssøe2016/> but less common in North America though sometimes occurring in large quantities in certain localities. In the United States, it has been collected from [[Colorado]], [[Idaho]], [[Michigan]], [[North Carolina]], [[Oregon]], [[Washington (state)|Washington]], [[Wyoming]],<ref name="Smith p.166-68"/> [[Florida]],<ref name=Kimbrough2000/> and [[Kansas]].<ref name=Shaffer1952/> It is also found in Israel.<ref name=Binyamin1973/> The species is listed as "Least Concern" in the Danish [[Regional Red List|Red Data Book]].<ref name="urlNERI - The Danish Red Data Book"/> ''Atheniella flavoalba'' is considered inedible.<ref name="urlRogers: Mycena flavoalba"/>
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="BMS">{{cite web |author=Holden L. |url=https://www.britmycolsoc.org.uk/resources/english-names |title=English names for fungi 2022 |date=April 2022 |publisher=[[British Mycological Society]] |accessdate=2023-05-06}}</ref>
+
+<ref name=Læssøe2016>{{cite book |title=The genus ''Mycena'' s.l. |author=Aronsen A, Læssøe T |year=2016 |publisher=The Danish Mycological Society |isbn=978-87-983581-2-1}}</ref>
+
+<ref name=Binyamin1973>{{cite journal |author=Binyamin N. |year=1973 |title=White-spored agarics new to Israel |journal=Israel Journal of Botany |volume=22 |issue=1 |pages=38–46 |issn=0021-213X}}</ref>
+
+<ref name=Moreau2005>{{cite journal |vauthors=Moreau PA, Vila J, Pérez-de-Gregorio MA, Llistosella J, Llimona X |year=2005 |title=''Hemimycena conidiogena'', a new cistophilous basidiomycete |journal=Mycotaxon |volume=91 |pages=323–32 |url=http://botanique.univ-lille2.fr/fileadmin/user_upload/documents/pdf_pam/Moreau_Hemimyc_conidio_2005.pdf |access-date=2010-09-27}}</ref>
+
+<ref name=Kimbrough2000>{{cite book |title=Common Florida Mushrooms |author=Kimbrough JW. |year=2000 |publisher=University of Florida, Extension Institute of Food and Agricultural Sciences |isbn=978-0-916287-30-6 |pages=164–65}}</ref>
+
+<ref name=Quelet1872>{{cite journal |author=Quélet L.|year=1872 |title=Les Champignons de Jura et des Vosges |journal=Mémoires de la Société d'Émulation de Montbéliard |volume=5 |page=103 |language=fr}}</ref>
+
+<ref name=Shaffer1952>{{cite journal |doi=10.2307/3626234 |vauthors=Shaffer RL, Rogerson CT |year=1952 |title=Notes on the fleshy fungi of Kansas |journal=Transactions of the Kansas Academy of Science |volume=55 |issue=3 |pages=282–86 |jstor=3626234 }}</ref>
+
+<ref name=Singer1943>{{cite journal |author=Singer R. |year=1943 |title=Das System der Agaricales. III |journal=Annales Mycologici |volume=41 |page=123}}</ref>
+
+<ref name=Singer1951>{{cite journal |author=Singer R. |year=1949 |title=The Agaricales in modern taxonomy |journal=Liloa |volume=22 |issue=2 |page=123}}</ref>
+
+<ref name=Singer1986>{{cite book |author=Singer R. |title=The Agaricales in Modern Taxonomy |edition=4th |publisher=Koeltz Scientific Books|location=Koenigstein |year=1986 |page=413 |isbn=3-87429-254-1}}</ref>
+
+<ref name="urlAronsen">{{cite web |url=http://home.online.no/~araronse/Mycenakey/flavoalba.htm |title=Mycena flavoalba |year=2009 |format=Aronsen A |work=A key to the Mycenas of Norway |access-date=2010-09-24 |archive-url=https://web.archive.org/web/20110605022700/http://home.online.no/~araronse/Mycenakey/flavoalba.htm |archive-date=2011-06-05 |url-status=dead }}</ref>
+
+<ref name="urlNERI - The Danish Red Data Book">{{cite web |url=http://www2.dmu.dk/1_Om_DMU/2_Tvaer-funk/3_fdc_bio/projekter/redlist/data_en.asp?ID=5814&gruppeID=90 |title=NERI - The Danish Red Data Book - ''Mycena flavoalba'' (Fr.) Quél. |publisher=National Environmental Research Institute |access-date=2010-09-27}}</ref>
+
+<ref name="urlRogers: Mycena flavoalba">{{cite web |url=http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6484~gid~~source~gallerydefault.asp |title=''Mycena flavoalba'' |author=Phillips R |work=Rogers Mushrooms |access-date=2010-09-24 |archive-url=https://web.archive.org/web/20120811091729/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6484~gid~~source~gallerydefault.asp |archive-date=2012-08-11 |url-status=dead }}</ref>
+
+<ref name="Vizzini2022">{{cite journal |author=Vizzini A, Consiglio G, Marchetti M, Borovička J, Campo E, Cooper JA, Lebeuf R, Ševčíková H.  |title=New data in Porotheleaceae and Cyphellaceae: epitypification of ''Prunulus scabripes'' Murrill, the status of ''Mycopan'' Redhead, Moncalvo & Vilgalys and a new combination in ''Pleurella'' Horak emend. |journal=Mycol Progress |volume=21 |year=2022 |issue=4 |doi=10.1007/s11557-022-01795-z|doi-access=free }}</ref>
+
+<ref name=Wakefield1950>{{cite book |vauthors=Wakefield EM, Dennis RW |title=Common British fungi: a guide to the more common larger Basidiomycetes of the British Isles |year=1950 |publisher=P. R. Gawthorn |location=London }}</ref>
+
+}}
+
+===Cited text===
+*{{cite book |title=North American species of ''Mycena'' |last=Smith AH. |year=1947 |location=Ann Arbor|publisher=University of Michigan Press}}
+
+{{Good article}}
+{{Taxonbar|from=Q3914302}}
+
+
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungi described in 1838]]
+[[Category:Fungus species]]

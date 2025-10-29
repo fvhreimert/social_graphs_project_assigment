@@ -1,0 +1,159 @@
+{{Short description|Species of mushroom}}
+{{good article}}
+{{stack begin}}
+{{Speciesbox
+| image = Volvopluteus_SoCal.jpg
+| synonyms_ref = <ref name="urlMycoBank: Volvopluteus gloiocephalus"/>
+| synonyms = ''Volvariella speciosa'' <small>([[Elias Magnus Fries|Fr.]]) [[P.Kumm.]] (1871)</small><br>
+''Volvariella gloiocephala'' <small>(Fr.) [[Gillet]] (1876)</small>
+| taxon = Volvopluteus gloiocephalus
+| authority = ([[Augustin Pyramus de Candolle|DC.]]) Vizzini, Contu & Justo (2011)
+}}
+{{ mycomorphbox
+| name            = ''Volvopluteus gloiocephalus''
+| hymeniumType    = gills
+| capShape        = ovate
+| capShape2       = flat
+| whichGills      = free
+| stipeCharacter  = volva
+| sporePrintColor = pink
+| sporePrintColor2 = pinkish-brown
+| ecologicalType  = saprotrophic
+| howEdible       = edible
+| howEdible2      = caution
+}}
+{{stack end}}
+
+'''''Volvopluteus gloiocephalus''''', commonly known as the '''big sheath mushroom''', '''rose-gilled grisette''', or '''stubble rosegill''', is a species of [[mushroom]] in the family [[Pluteaceae]]. For most of the 20th century it has been known under the names ''Volvariella gloiocephala'' or ''V.&nbsp;speciosa'', but recent [[Molecular phylogenetics|molecular studies]] have placed it as the [[type species]] of the genus ''[[Volvopluteus]]'', newly created in 2011.
+
+The [[Pileus (mycology)|cap]] of the mushroom is about {{convert|5|–|15|cm|in|0|abbr=on}} in diameter, varies from white to grey or grey-brown, and is markedly sticky when fresh. The [[Lamella (mycology)|gills]] start out as white but they soon turn pink. The [[Stipe (mycology)|stipe]] is white and has a sack-like [[volva (mycology)|volva]] at the base. Microscopical features and [[Nucleic acid sequence|DNA sequence data]] are of great importance for separating ''V.&nbsp;gloiocephalus'' from related species. ''V.&nbsp;gloiocephalus'' is a [[saprotrophic]] fungus that grows on grassy fields and accumulations of organic matter like [[compost]] or [[woodchips|woodchip]] piles. It has been reported from all continents except Antarctica.
+
+== Taxonomy ==
+
+This [[taxon]] has a long and convoluted [[Botanical nomenclature|nomenclatural]] history. It was originally [[species description|described]] as ''Agaricus gloiocephalus'' by Swiss botanist [[Augustin Pyramus de Candolle]] in 1815<ref name="DeCandolle 1815"/> and later [[sanctioned name|sanctioned]] under this name by [[Elias Magnus Fries]] in 1821.<ref name="Fries 1821"/> The French mycologist [[Claude Casimir Gillet|Claude Gillet]] transferred it in 1878<ref name="Gillet 1878"/> to the genus ''Volvaria'' erected by [[Paul Kummer]] just a few years earlier in 1871.<ref name="Kummer 1871"/> The name ''Volvaria'' was already taken, as it had been coined by De Candolle for a genus of [[lichen]]s in 1805.<ref name="DeCandolle 1805"/> The generic name ''[[Volvariella]]'', proposed by the Argentinean mycologist [[Carlos Spegazzini|Carlos Luis Spegazzini]] in 1899,<ref name=Spegazzini/> would eventually be adopted for this group in 1953 after a proposal to [[conserved name|conserve]] Kummer's ''Volvaria'' against De Candolle's ''Volvaria'' was rejected by the [[Nomenclature Committee for Fungi]]<ref name="Fungi 1953"/> established under the principles of the [[International Code of Nomenclature for algae, fungi, and plants|International Code of Botanical Nomenclature]]<!-- current name dates from 2005 -->.
+{{cladogram|align=left|title=
+|clade=
+{{clade
+|style=font-size:75%;line-height:75%
+|label1=
+|1={{clade
+    |1='''''Volvopluteus gloiocephalus'''''
+    |2={{clade
+       |1=''[[Volvopluteus earlei]]''
+       |2={{clade
+          |1=''[[Volvopluteus asiaticus]]''
+          |2=''[[Volvopluteus michiganensis]]''
+          }}
+       }}
+   }}
+}}
+|caption=Phylogenetic relationships between ''Volvopluteus gloiocephalus'' and related species as inferred from [[Internal transcribed spacer|ITS]] data.<ref name="Justo 2011b"/>
+}}
+Despite the generic name ''Volvariella'' being adopted in 1953 the name ''Volvariella gloiocephala'' did not exist until 1986, when the placement of the species in that genus was formally proposed by mycologists Teun Boekhout and Manfred Enderle.<ref name="Boekhout 1986"/> The reason for this long interval is that most 20th-century mycologists working on ''Volvariella'' (e.g. [[Rolf Singer]], [[Robert L. Shaffer]], [[Robert Kühner]], [[Henri Romagnesi]]) considered the [[botanical name|epithet]] "''gloiocephalus''" to represent a [[Variety (botany)|variety]] with dark [[basidiocarps]] of another species of ''Volvariella'', viz. ''Volvariella speciosa,'' that has white basidiocarps, and therefore would use the name ''Volvariella speciosa'' var. ''gloiocephala'' to refer to this taxon. Boekhout & Enderle showed that white and dark basidiocarps can arise from the same [[mycelium]], and that the epithets "''gloiocephalus''" proposed by De Candolle in 1815 and "''speciosa''" proposed by Fries in 1818<ref name="Fries 1818"/> should be considered to represent the same species with the former having [[nomenclatural priority]].<ref name="Boekhout 1986"/> In 1996 Boekhout and Enderle designated a [[neotype]] to serve as a representative example of the species.<ref name="Boekhout 1996"/>
+
+The [[Molecular phylogenetics|phylogenetic study]] of Justo and colleagues showed that ''Volvariella gloiocephala'' and related taxa are a separate [[clade]] from the majority of the species traditionally classified in ''Volvariella'' and therefore another name change was necessary, now as the [[type species]] of the newly proposed genus ''[[Volvopluteus]]''.<ref name="Justo 2011"/>
+
+The epithet ''gloiocephalus'' comes from the [[Ancient Greek|Greek]] terms ''gloia'' (γλοία = glue or glutinous substance) and ''kephalē'' (κεφαλή = head) meaning "with a sticky head" making reference to the viscid cap surface. It is [[common name|commonly]] known as the "big sheath mushroom",<ref name="McKnight 1987"/> "rose-gilled grisette"<ref name="Burrows 2005"/> or the "stubble rosegill".<ref name="urlRecommended English Names for Fungi"/>
+
+== Description ==
+
+
+
+The [[Pileus (mycology)|cap]] of ''V.&nbsp;gloiocephalus'' is between {{convert|5|and|15|cm|in|abbr=on|round=0.5}} in diameter, more or less ovate or conical when young, then expands to convex or flat, sometimes with a slight central depression in old specimens. The surface is markedly viscid in fresh basidiocarps; the color ranges from pure white to grey or greyish brown. The [[Lamella (mycology)|gills]] are crowded, free from the stipe, [[ventricose]] (swollen in the middle), and up to {{convert|2|cm|in|1|abbr=on}} broad; they are white when young but turn pink with age. The [[Stipe (mycology)|stipe]] is {{convert|5|–|22.5|cm|in|abbr=on|round=0.5}} long and {{convert|0.7|–|2.5|cm|in|1|abbr=on}} wide, cylindrical, broadening towards the base; the surface is white, smooth or slightly [[pruinose]] (covered with fine white powdery granules). The [[volva (mycology)|volva]] is {{convert|2|–|3|cm|in|1|abbr=on}} high, [[wikt:sacciform|sacciform]] (pouch-like), white and has a smooth surface. The [[Context (mycology)|flesh]] is white on stipe and cap and it does not change when bruised or exposed to air. Smell and taste vary from indistinct to raphanoid (radish-like) or similar to raw peeled potatoes. The [[spore print]] is pinkish brown.<ref name="Justo 2011b"/><ref name="Boekhout 1990"/><ref name="Davis 2012" />
+
+The [[basidiospore]]s are [[ellipsoid]] and measure 12–16 by 8–9.5&nbsp;[[micrometre|μm]]. [[Basidia]] are 20–35 by 7–15&nbsp;μm and usually four-spored, but sometimes two-spored basidia can occur. [[Pleurocystidia]] are 60–90 by 20–50&nbsp;μm with variable morphology: club-shaped, fusiform, ovoid, and sometimes with a small apical [[Umbo (mycology)|papilla]]. [[Cheilocystidia]] are 55–100 by 15–40&nbsp;μm with similar morphology to the pleurocystidia; they completely cover the gill edge. The [[cap cuticle]] (pileipellis) is an ixocutis<ref name="Vellinga 1988"/> (parallel [[hypha]]e wide embedded in a gelatinous matrix). [[Pellis|Stipitipellis]] is a cutis<ref name="Vellinga 1988"/> (parallel hyphae not embedded in a gelatinous matrix). [[Caulocystidia]] are sometimes present, measuring 70–180 by 10–25&nbsp;μm; they are mostly cylindrical.<ref name="Justo 2011b"/><ref name="Boekhout 1990"/> [[Clamp connection]]s are absent from the hyphae.<ref name="Zhishu 1993"/>
+{| class="wikitable" style="width:640px; margin: 1em auto; text-align: center;"
+|+ style="background-color:#FFF; border:1px solid #CCC; border-bottom:none;" | Microscopy
+|-
+| 
+| 
+| 
+|-
+| Basidiospores; small divisions are 1&nbsp;μm
+| Pleurocystidia
+| Cheilocystidia
+|}
+
+=== Similar species ===
+Molecular analyses of the [[Internal transcribed spacer|internal transcribed spacer region]] clearly separate the four species currently recognized in ''Volvopluteus'', but morphological identification can be more difficult due to the sometimes overlapping morphological variation among the species. Size of the fruit bodies, color of the cap, spore size, presence or absence of cystidia and morphology of the cystidia are the most important characters for morphological species delimitation in the genus. ''[[Volvopluteus earlei|V.&nbsp;earlei]]'' has smaller fruit bodies (cap less than {{convert|5|cm|0|abbr=on}} in diameter), has no pleurocystidia (usually), and the cheilocystidia usually have a very long apical excrescence (outgrowth). In ''[[Volvopluteus asiaticus|V.&nbsp;asiaticus]]'' the majority of the pleurocystidia have an apical excrescence up to 10–15&nbsp;μm long and the cheilocystidia are predominantly lageniform (flask-shaped). ''[[Volvopluteus michiganensis|V.&nbsp;michiganensis]]'' has smaller basidiospores, on average less than 12.5&nbsp;μm long.<ref name="Justo 2011b"/> ''[[Volvariella acystidiata]]'', known from central Africa ([[Zaire]]) and Italy, can be distinguished by its smaller fruit bodies, with caps up to {{convert|3|cm|abbr=on}} in diameter, and, microscopically, by the complete absence of cheilo- and pleurocystidia.<ref name="Vizzini 2010"/> Additionally, ''[[Volvariella taylori]]'' and ''[[Volvariella volvacea]]'' are similar.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=525}}</ref>
+
+== Habitat and distribution ==
+''Volvopluteus gloiocephalus'' is a [[saprotrophic]] mushroom that grows on the ground in gardens, grassy fields, both in and outside forest areas, and on accumulations of vegetable matter like [[compost]] or [[woodchips|woodchip]] piles.<ref name="Justo 2011b"/><ref name="Boekhout 1990"/> It has also been reported fruiting in [[greenhouse]]s.<ref name="McKnight 1987"/> In China, it grows in bamboo thickets. It usually fruits in groups of several basidiocarps but it can also be found growing solitary.<ref name="Justo 2011b"/><ref name="Boekhout 1990"/> It is not unusual for a season of "spectacular" fruiting to be followed by several years with no appearance of the mushroom.<ref name="Healy 2008"/>
+
+This species has been reported from all continents except Antarctica, usually under names such as ''Volvariella gloiocephala'' or ''V.&nbsp;speciosa''. Molecular data have so far corroborated its occurrence in Europe and North America but records from other continents remain unconfirmed.<ref name="Justo 2011b"/>
+
+== Uses ==
+''Volvopluteus gloiocephalus'' is [[edible mushroom|edible]], although considered watery and poor in quality.<ref name="Davis 2012"/> It was once sold in markets in [[Perth]], Australia.<ref name="Bougher 1998"/> Mature fruit bodies, collected in sufficient quantity, can be used to prepare soup, or added to dishes where wild mushrooms are used, such as stews and casseroles. The mushrooms are best used fresh as they do not preserve well.<ref name="Burrows 2005"/> Young specimens of ''V.&nbsp;gloiocephalus'' have white gills so it is possible to mistake them for an ''[[Amanita]]'' and vice versa.<ref name="McKnight 1987"/> In the United States, there have been several cases of Asian immigrants collecting and eating death caps (''[[Amanita phalloides]]''), under the mistaken assumption that they were ''Volvariella''.<ref name="Marley 2010"/> A Greek study determined the nutritional composition of fruit bodies: [[dietary protein|protein]] 1.49 g/100 g fresh weight (fw), 18.36 g/100 g dry weight (dw); [[fat]] 0.54 g/100 g fw, 6.65 g/100g dw; [[carbohydrate]]s 5.33 g/100g fw, 65.64 g/100 g dw.<ref name="Ouzini 2007"/>
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Boekhout 1986">{{cite journal  |vauthors=Boekhout T, Enderle M |title=''Volvariella gloiocepha'' (DC.: Fr.) Boekhout & Enderle comb. nov. |journal=Beiträge zur Kenntnis der Pilze Mitteleuropas |year=1986 |volume=2 | pages=77–79}}</ref>
+
+<ref name="Boekhout 1990">{{cite book |author=Boekout T. |chapter=''Volvariella'' |editor-last=Bas |display-editors=etal |title=Flora Agaricina Neerlandica |volume=2 |edition=1st |publisher=AA Balkema |location=Rotterdam, Netherlands |year=1990 |pages=56–64 |isbn=978-90-6191-972-8}}</ref>
+
+<ref name="Boekhout 1996">{{cite journal |vauthors=Boekhout T, Enderle M |title=Typification of ''Volvariella gloiocephala'' (DC: Fr) Boekhout & Enderle |journal=Persoonia |year=1996 |volume=16 |issue=2 |pages=249–51}}</ref>
+
+<ref name="Bougher 1998">{{cite book |vauthors=Bougher NL, Syme K |title=Fungi of Southern Australia |year=1998 |publisher=University of Western Australia Press |location=Nedlands |page=226 |isbn=978-1-875560-80-6 |url=https://books.google.com/books?id=BQvjx9M-DTgC&pg=PA226}}</ref>
+
+<ref name="Burrows 2005">{{cite book |author=Burrows I. |title=Food from the Wild |url=https://archive.org/details/foodfromwild0000burr |year=2005 |publisher=New Holland Publishers |location=London |isbn=978-1-84330-891-1 |page=116 }}</ref>
+
+<ref name="Davis 2012">{{cite book |vauthors=Davis M, Sommer R, Menge JA |title=Field Guide to Mushrooms of Western North America |edition=1st |publisher=University of California Press |location=California |year=2012 |page=192 |isbn=978-0-520-27108-1}}</ref>
+
+<ref name="DeCandolle 1805">{{cite book |vauthors=((Lamarck J-B)), de Candolle AP |title=Flore française: ou, Descriptions succinctes de toutes les plantes qui croissent naturellement en France, disposées selon une novelle méthode d'analyse, et précédées par un exposé des principes élémentaires de la botanique |year=1805 |url=https://books.google.com/books?id=-BcAAAAAQAAJ&pg=PA373 |page=572 |language=fr}}</ref>
+
+<ref name="DeCandolle 1815">{{cite book |vauthors=((Lamarck J-B)), de Candolle AP |title=Flore française: ou, Descriptions succinctes de toutes les plantes qui croissent naturellement en France, disposées selon une novelle méthode d'analyse, et précédées par un exposé des principes élémentaires de la botanique |volume=6 |year=1815 |url=https://books.google.com/books?id=pYTiP3RlkToC&pg=PA52 |page=52 |language=fr}}</ref>
+
+<ref name="Fries 1818">{{cite book |author=Fries EM |title=Observationes mycologicae |volume=2 |year=1818 |location=Hafnia (Copenhagen), Denmark |publisher=sumptibus G. Bonnieri |page=1 |url=https://books.google.com/books?id=XtEVAAAAYAAJ&pg=PA1 |language=la}}</ref>
+
+<ref name="Fries 1821">{{cite book |author=Fries EM |title=Systema Mycologicum |volume=1 |year=1821 |location=Lundin, Sweden |publisher=Ex Officina Berlingiana |page=278 |url=https://www.biodiversitylibrary.org/page/4338285 |language=la}}</ref>
+
+<ref name="Fungi 1953">{{cite journal |author=Special Committee for Fungi |title=Disposition of nomina generica conservanda for Fungi |journal=Taxon |year=1953 |volume=2 |issue=2 |pages=29–32 |doi=10.1002/j.1996-8175.1953.tb01455.x |jstor=1217581}}</ref>
+
+<ref name="Gillet 1878">{{cite book  |author=Gillet CC |title=Les champignons (fungi, hyménomycètes) qui croissent en France. Description et iconographie propriétés utiles ou vénéneuses |year=1878 |location=Paris, France |publisher=J.&nbsp;B.&nbsp;Baillière |page=387 |url=https://www.biodiversitylibrary.org/page/3805546}}</ref>
+
+<ref name="Healy 2008">{{cite book |vauthors=Healy RA, Huffman DR, Tiffany LH, Knaphaus G |title=Mushrooms and Other Fungi of the Midcontinental United States |series=Bur Oak Guide |publisher=University of Iowa Press |location=Iowa City |year=2008 |page=98 |url=https://books.google.com/books?id=tl2fVAHuej4C&pg=PA98 |isbn=978-1-58729-725-0}}</ref>
+
+<ref name="Justo 2011">{{cite journal |vauthors=Justo A, Vizzini A, Minnis AM, Menolli Jr N, Capelari M, Rodríguez O, Malysheva E, Contu M, Ghignone S, Hibbett DS |title=Phylogeny of the Pluteaceae (Agaricales, Basidiomycota): Taxonomy and character evolution |journal=Fungal Biology |year=2011 |volume=115 |issue=1 |pages=1–20 |doi=10.1016/j.funbio.2010.09.012 |url=http://www.clarku.edu/faculty/dhibbett/Reprints%20PDFs/Phylogeny_Pluteaceae.pdf |pmid=21215950 |hdl=2318/74776 |hdl-access=free |access-date=2013-04-11 |archive-date=2016-03-03 |archive-url=https://web.archive.org/web/20160303212427/http://www.clarku.edu/faculty/dhibbett/Reprints%20PDFs/Phylogeny_Pluteaceae.pdf |url-status=dead }}</ref>
+
+<ref name="Justo 2011b">{{cite journal |vauthors=Justo A, Minnis AM, Ghignone S, Menolli Jr N, Capelari M, Rodríguez O, Malysheva E, Contu M, Vizzini A |title=Species recognition in ''Pluteus'' and ''Volvopluteus'' (Pluteaceae, Agaricales): Morphology, geography and phylogeny |journal=Mycological Progress |year=2011 |volume=10 |issue=4 |pages=453–79 |url=http://www.clarku.edu/faculty/dhibbett/Reprints%20PDFs/Pluteus_Volvopluteus.pdf |doi=10.1007/s11557-010-0716-z |hdl=2318/78430 |s2cid=1719751 |hdl-access=free |access-date=2013-04-11 |archive-date=2013-10-19 |archive-url=https://web.archive.org/web/20131019143520/http://www.clarku.edu/faculty/dhibbett/Reprints%20PDFs/Pluteus_Volvopluteus.pdf |url-status=dead }}</ref>
+
+<ref name="Kummer 1871">{{cite book |author=Kummer P. |title=Der Führer in die Pilzkunde : Anleitung zum methodischen, leichten und sichern Bestimmen der in Deutschland vorkommenden Pilze : mit Ausnahme der Schimmel- und allzu winzigen Schleim- und Kern-Pilzchen |year=1871|location=Zerbst, Germany |publisher=Verlag von E. Luppe's Buchhandlung |page=387 |url=https://www.biodiversitylibrary.org/page/34209668}}</ref>
+
+<ref name="Marley 2010">{{cite book |author=Marley G. |title=Chanterelle Dreams, Amanita Nightmares: The Love, Lore, and Mystique of Mushrooms |year=2010 |publisher=Chelsea Green Publishing |location=White River Junction |page=108 |isbn=978-1-60358-214-8 |url=https://books.google.com/books?id=KJybhI1yWucC&pg=PA108}}</ref>
+
+<ref name="McKnight 1987">{{cite book |vauthors=McKnight VB, McKnight KH |title=A Field Guide to Mushrooms: North America | series=Peterson Field Guides |publisher=Houghton Mifflin |location=Boston |year=1987 |pages=253–4 |isbn=978-0-395-91090-0 |url=https://books.google.com/books?id=kSdA3V7Z9WcC&pg=PA253}}</ref>
+
+<ref name="Ouzini 2007">{{cite journal |vauthors=Ouzini PK, Riganakos KA |title=Nutritional value and metal content profile of Greek wild edible fungi |journal=Acta Alimentaria |year=2007 |volume=36 |issue=1 |pages=99–110 |doi=10.1556/AAlim.36.2007.1.11}}</ref>
+
+<ref name="Spegazzini">{{cite journal |author=Spegazzini CL |title=Fungi Argentini novi vel critici |journal=Anales del Museo Nacional de Historia Natural de Buenos Aires |year=1899 |volume=6 |pages=81–365 (see p.&nbsp;119) |url=https://books.google.com/books?id=CHgVAAAAYAAJ&pg=PA119}}</ref>
+
+<ref name="urlMycoBank: Volvopluteus gloiocephalus">{{cite web |url=http://www.mycobank.org/BioloMICS.aspx?Link=T&TableKey=14682616000000067&Rec=470940&Fields=All |title=''Volvopluteus gloiocephalus'' (DC) Vizzini, Contu & Justo 2011  |publisher=[[MycoBank]]. International Mycological Association |access-date=2013-04-10}}</ref>
+
+<ref name="urlRecommended English Names for Fungi">{{cite web |author=Holden EM |url=http://www.plantlife.org.uk/uploads/documents/recommended-english-names-for-fungi.pdf |title=Recommended English Names for Fungi in the UK |year=2003 |publisher=British Mycological Society |access-date=2011-12-17 |archive-url=https://web.archive.org/web/20130302235323/http://www.plantlife.org.uk/uploads/documents/recommended-english-names-for-fungi.pdf |archive-date=2013-03-02 |url-status=dead }}</ref>
+
+<ref name="Vellinga 1988">{{cite book |author=Vellinga EC |chapter=Glossary |editor-last=Bas|display-editors=etal |title=Flora Agaricina Neerlandica |volume=1 |edition=1st |publisher=AA Balkema |location=Rotterdam, Netherlands |year=1988 |pages=54–64 |isbn=978-90-6191-859-2}}</ref>
+
+<ref name="Vizzini 2010">{{cite journal |vauthors=Vizzini A, Contu M |title=''Volvariella acystidiata'' (Agaricomycetes, Pluteaceae), an African species new to Europe, with two new combinations in ''Volvariella'' |journal=Mycotaxon |year=2010 |volume=112 |pages=25–29 |doi=10.5248/112.24|hdl=2318/77288 |s2cid=88436813 |url=https://iris.unito.it/bitstream/2318/77288/1/Volvariella%20acystidiata.pdf |hdl-access=free }}</ref>
+
+<ref name="Zhishu 1993">{{cite book |vauthors=Zhishu B, Zheng G, Taihui L |title=The Macrofungus Flora of China's Guangdong Province (Chinese University Press) |publisher=Columbia University Press |location=New York |year=1993 |page=349 |isbn=978-962-201-556-2 |url=https://books.google.com/books?id=0cAered-vqYC&pg=PA349}}</ref>
+
+}}
+
+==External links==
+*[https://mushroomobserver.org/name/show_name/25700 ''Volvopluteus gloiocephalus'' Mushroomobserver.org name]
+*[http://www.nifg.org.uk/species/atlas2.htm?item=BMSSYS0000019695 Online Atlas of Fungi in Northern Ireland] {{Webarchive|url=https://web.archive.org/web/20160304054605/http://www.nifg.org.uk/species/atlas2.htm?item=BMSSYS0000019695 |date=2016-03-04 }}
+
+{{Taxonbar|from1=Q26678484|from2=Q1548970}}
+
+[[Category:Pluteaceae]]
+[[Category:Edible fungi]]
+[[Category:Fungi of Australia]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Central America]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of South America]]
+[[Category:Fungi described in 1815]]
+[[Category:Taxa named by Augustin Pyramus de Candolle]]
+[[Category:Fungus species]]

@@ -1,0 +1,64 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Agaricus placomyces.jpg
+| image_caption =
+| taxon = Agaricus placomyces
+| authority = [[Charles Horton Peck|Peck]] (1878)
+| synonyms =
+''Agaricus praeclaresquamosus'' <small>A.E.Freeman 1979)</small><br>
+''Fungus placomyces'' <small>(Peck) [[Otto Kuntze|Kuntze]] (1898)</small><br>
+''Psalliota placomyces'' <small>(Peck) [[Curtis Gates Lloyd|Lloyd]] (1899)</small>
+}}
+{{mycomorphbox
+| name = ''Agaricus placomyces''
+| hymeniumType = gills
+| whichGills = free
+| capShape = convex
+| capShape2 = flat
+| stipeCharacter=ring
+| ecologicalType=saprotrophic
+| sporePrintColor=blackish-brown
+| howEdible=poisonous}}
+
+'''''Agaricus placomyces''''' is a toxic [[basidiomycete]] fungus of the genus ''[[Agaricus]]''. It is found in [[North America]]; the [[Eurasia]]n populations formerly known by the same scientific name are nowadays known as ''[[Agaricus moelleri|A.&nbsp;moelleri]]'', while the present species may also be referred to as ''A.&nbsp;praeclaresquamosus''.
+
+==Description==
+
+''Agaricus placomyces'' has a [[pileus (mycology)|cap]] that is {{convert|5–13|cm|frac=4}} wide and varies from convex<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=548}}</ref> to broadly convex or nearly flat in age. In addition, the surface of the cap is dry and covered with brownish [[fiber]]s and [[Scale (zoology)|scales]], especially over the center. Underneath, the cap can be whitish under normal [[Environment (biophysical)|environment]]s, or pinkish in wet weather. Covered with fine, appressed greyish-brown scales and concentrated at the disc, the cap is thick, slowly becoming [[wine (color)|vinaceous]] when injured; the odor smells of [[phenol]].<ref name="Miller 2006" /> The flesh is white, and becomes yellow when placed in [[Potassium hydroxide|KOH]].<ref>{{Cite web |last=Kuo |first=Michael |date=January 2018 |title=Agaricus placomyces (MushroomExpert.Com) |url=https://www.mushroomexpert.com/agaricus_placomyces.html |access-date=2024-11-23 |website=www.mushroomexpert.com}}</ref>
+
+The [[lamella (mycology)|gills]] of this mushroom are free from the [[stipe (mycology)|stem]], crowded, and pale grayish-pink, turning brown in age. In addition, the stem is 6–15&nbsp;cm long, 1–1.5&nbsp;cm. thick and more or less equal, with an enlarged base (unlike typically ending in a small bulb like ''[[Agaricus pocillator]]''). Also, it is fairly smooth, white and bruising yellow, especially at the base, with a persistent [[annulus (mycology)|ring]], and the [[partial veil]] when still covering the gills developing brownish to yellowish droplets.<ref>[http://www.deq.state.mi.us/documents/deq-ogs-gimdl-PU26A.PDF Breitenbach & Kränzlin (vol. 4): sp. 188] {{webarchive |url=https://web.archive.org/web/20090424073940/http://www.deq.state.mi.us/documents/deq-ogs-gimdl-PU26A.PDF |date=April 24, 2009 }}</ref><ref>Freeman, A.E.H. (1979). ''Agaricus in the southeastern United States''. ''Mycotaxon'' '''8'''(1): 50–118.</ref>
+
+At 8–15&nbsp;cm long and 2–3.5&nbsp;cm thick, the [[stipe (mycology)|stipe]] is slightly enlarged at the base; the surface is white, and smooth above and below the ring. The veil of the stipe is [[Biological membrane|membranous]], thick, white, and forms a persistent ring with a smooth upper and lower surface. The base of the stipe is typically yellow when bruised and smells of phenol.<ref>Kerrigan, Richard W. (1986). The Agaricales (Gilled Fungi) of California. 6. Agaricaceae. Mad River Press: Eureka, CA. 62 p.</ref>
+
+
+
+The [[spore]]s are 4–6.0 x 3.5–4.5&nbsp;[[μm]], smooth, and elliptical;{{Citation needed|date=March 2025}} the [[spore print]] is dark brown.<ref name="audu" />
+
+=== Similar species ===
+Several related species are difficult to distinguish.<ref name="audu" />
+
+==Habitat and distribution==
+''Agaricus placomyces'' is [[saprobic]]. In addition, it grows in groups under hardwoods and in mixed woods during summer and fall. It is generally found east of the [[Rocky Mountains]] and northern in distribution. Generally, it is solitary, living in either small groups, or clusters on [[disturbed ground]] under [[conifer]]s. Unlike many other ''Agaricus'' species, it fruits from mid to late winter rather than during the late spring, summer and early fall.<ref>Kerrigan, R.W., Callac, P., Guinberteau, J., Challen, M.P. & Parra, L. (2005). ''Agaricus'' section ''Xanthodermatei'': a phylogenetic reconstruction with commentary on taxa. ''Mycologia'' '''97''': 1292–1315.</ref><ref>''Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi'' ; By David Arora, Edition: 2, illustrated; Published by Ten Speed Press, 1986; {{ISBN|0-89815-169-4}}, {{ISBN|978-0-89815-169-5}} page 329.</ref>
+
+== Toxicity ==
+''Agaricus placomyces'' contains toxins which cause [[gastrointestinal upset]],<ref name="Miller 2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=278|author-link=Orson K. Miller Jr.}}</ref> as with other phenolic-odored ''Agaricus'' species. Some people reportedly may not be affected.<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=225}}</ref> The mushroom's taste is mild and its odor resembles phenol or coal tar.<ref name="Miller 2006" />
+
+==See also==
+* [[List of Agaricus species|List of ''Agaricus'' species]]
+
+==References==
+{{Reflist}}
+
+==Sources==
+*[http://www.mushroomexpert.com/agaricus_placomyces.html mushroomexpert]
+*[https://web.archive.org/web/20081209085944/http://www.mykoweb.com/CAF/species/Agaricus_praeclaresquamosus.html mykoweb]
+*[https://web.archive.org/web/20080510115152/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~5494.asp rogermushrooms]
+
+{{Taxonbar|from=Q2669175}}
+
+[[Category:Agaricus|placomyces]]
+[[Category:Fungi described in 1878]]
+[[Category:Fungi of North America]]
+[[Category:Poisonous fungi]]
+[[Category:Taxa named by Charles Horton Peck]]
+[[Category:Fungus species]]

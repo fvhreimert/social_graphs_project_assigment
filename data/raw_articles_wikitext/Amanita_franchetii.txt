@@ -1,0 +1,81 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Amanita franchetii (Boud.) Fayod.jpg
+| image_upright =
+| image_caption = European ''Amanita franchetii'' (Boud.) Fayod,  Craula, [[Hörselberg-Hainich]], Thüringia, Germany
+| taxon = Amanita franchetii
+| authority = ([[Jean Louis Émile Boudier|Boud.]]) [[Victor Fayod|Fayod]]
+| synonyms = ''Amanita aspera'' var. ''franchetii'' <small>Boud.</small><br>
+''Amanita queletii'' var. ''franchetii'' <small>(Boud.) Bon</small>
+| subdivision_ranks = Varieties
+| subdivision = ''A. franchetii'' <small>(Boud.) Fayod</small> var. ''franchetii''<br>''A. franchetii'' <small>sensu [[Harry D. Thiers|Thiers]]</small><br>''A. franchetii'' <small>(Boud.) Fayod</small> var. ''lactella'' <small>(E.-J. Gilbert & Kühner) Bon & Contu in Contu</small>
+}}
+{{mycomorphbox
+| name = ''Amanita franchetii''
+| whichGills = free
+| capShape = flat
+| capShape2 = convex
+| hymeniumType=gills
+| stipeCharacter=ring and volva
+| ecologicalType=mycorrhizal
+| sporePrintColor=white
+| howEdible=unknown}}
+
+'''''Amanita franchetii''''', also known as '''Franchet's amanita''',<ref name=NGSWG>{{NGSWG}}</ref> is a species of [[fungus]] in the family [[Amanitaceae]].
+
+==Taxonomy==
+It was given its current name by Swiss mycologist [[Victor Fayod]] in 1889 in honor of French botanist [[Adrien René Franchet]].<ref name="Fayod1889" />
+
+As ''A. aspera'' var. ''franchetii'', it had the name '''yellow-veiled amanita'''.<ref name="Arora1986" />
+
+There exists a [[Variety (botany)|variety]] known as ''A.&nbsp;franchetii'' var. ''lactella'' that is entirely white except for the bright yellow universal veil remnants.<ref name="lactella" />
+
+==Description==
+The [[Pileus (mycology)|cap]] is {{Convert|5–12|cm|abbr=off|frac=2}} wide, and is yellow-brown to brown in color. The flesh is white or pale yellow and has a mild odor.<ref>{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=68–69|oclc=797915861}}</ref> The closely spaced [[Lamella (mycology)|gills]] are the same color as the flesh. The [[Stipe (mycology)|stipe]] is thick and larger at the base, also white to yellowish; loose areas of yellow veil form on the base. A thick ring is left by the [[partial veil]].<ref name=":0">{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=82–83}}</ref>
+
+=== Similar species ===
+A similar fungus in western [[North America]] was also referred to as ''A.&nbsp;franchetii'', but was long suspected of being a separate, undescribed species,<ref name="Tuloss11" /> and in 2013 was formally described under the name ''[[Amanita augusta|A.&nbsp;augusta]]''.<ref>Bojantchev D, Davis RM. (2013.) [http://www.pnwfungi.org/pdf_files/manuscripts_volume_8/naf20135.pdf ''Amanita augusta'', a new species from California and the Pacific Northwest.] {{Webarchive|url=https://web.archive.org/web/20130502094440/http://www.pnwfungi.org/pdf_files/manuscripts_volume_8/naf20135.pdf|date=2013-05-02}} ''North American Fungi'' 8(5):1-11. {{doi|10.2509/naf2013.008.005}}</ref>
+
+==Distribution and habitat==
+''A. franchetii'' occurs in [[Europe]] and [[North Africa]] with oaks (''[[Quercus]]'' ssp.), chestnuts (''[[Castanea (genus)|Castanea]]'' ssp.), and pines (''[[Pinus]]'' ssp.).<ref name="Tuloss11" />
+
+''A. franchetii'' var. ''lactella'' is found in the western [[Mediterranean region]], associated with several species of oak (''[[Quercus suber]]'' and ''[[Quercus robur|Q. robur]]'') and hornbeam (''[[Carpinus betulus]]''),<ref name="lactella" /> and is also reported from [[Serbia]].<ref name="Lukic" />
+
+==Edibility==
+''A. franchetii'' is considered inedible,<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=28}}</ref><ref name=Arora1986/> and is reported as being toxic when raw or undercooked.<ref name=":0" /> Although the species was implicated in the 2005 deaths of ten people in China who displayed symptoms similar to those caused by [[alpha-Amanitin]] poisoning,<ref name=bmj/> this case report has been called into question for possible misidentification of the mushrooms involved.<ref name="PubPeer">{{cite journal| journal=PubPeer| title=''Outbreak of fatal mushroom poisoning with Amanita franchetii and Ramaria rufescens''| date=22 February 2009| url=https://www.pubpeer.com/publications/4AAFDDE2F13305160A916F89031C79| access-date=2022-07-06| last1=Huang| first1=Liang| last2=Liu| first2=Xue Lan| last3=Cao| first3=Chun Shui| last4=Ying| first4=Qing| volume=2009| pages=bcr0620080327| doi=10.1136/bcr.06.2008.0327| pmid=21686856| pmc=3029993}}</ref>
+
+==See also==
+{{portal|Fungi}}
+*[[List of Amanita species|List of ''Amanita'' species]]
+{{clear}}
+
+==References==
+{{Reflist|refs=
+
+<ref name=Arora1986>{{Cite book |last=Arora |first=David |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/278/mode/2up |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |orig-date=1979 |edition=2nd |pages=278}}</ref>
+
+<ref name=bmj>{{cite journal|last=Huang|first=L.|author2=Liu, X. L.|author3=Cao, C. S.|author4=Ying, Q.|title=Outbreak of fatal mushroom poisoning with Amanita franchetii and Ramaria rufescens|journal=BMJ Case Reports|date=22 February 2009|volume=2009|issue=feb22 1|pages=bcr0620080327|doi=10.1136/bcr.06.2008.0327|pmc=3029993|pmid=21686856}}</ref>
+
+<ref name=Fayod1889>{{cite journal |author= Fayod MV |year=1889 |title=Prodrome d'une histoire naturelle des Agaricinés |journal=Annales des Sciences Naturelles, Botanique |volume=9 |issue=VII |pages=181–411|language=fr}}</ref>
+
+<ref name=Tuloss11>{{cite web| last=Tulloss| first=R.E.| year=2011| title=''Amanita franchetii''|editor=Tulloss RE |editor2=Yang ZL| work=Amanitaceae studies| url=http://www.amanitaceae.org?Amanita+franchetii| access-date=8 November 2011}}</ref>
+
+<ref name=lactella>{{cite web| last=Tulloss| first=R.E.| year=2011| title=''Amanita franchetii'' var. ''lactella''|editor=Tulloss RE |editor2=Yang ZL| work=Amanitaceae studies| url=http://www.amanitaceae.org/?Amanita+franchetii+var.+lactella| access-date=7 January 2013}}</ref>
+
+<ref name=Lukic>{{cite journal |author=Lukić N. |year=2008 |title=The Distribution and Diversity of ''Amanita'' Genus in Central Serbia |journal=Kragujevac Journal of Science |volume=30 |pages=105–115 |url=http://www.pmf.kg.ac.rs/KJS/volumes/kjs30/kjs30lukic105.pdf |access-date=2013-01-08 |archive-date=2022-04-10 |archive-url=https://web.archive.org/web/20220410152837/http://www.pmf.kg.ac.rs/KJS/volumes/kjs30/kjs30lukic105.pdf |url-status=dead }}</ref>
+
+}}
+
+==External links==
+{{Commons category}}
+* {{IndexFungorum|355836}}
+* {{cite web| work=Mykoweb| title=''Amanita franchetii''| url=http://www.mykoweb.com/CAF/species/Amanita_franchetii.html| access-date=2011-11-08| archive-url=https://web.archive.org/web/20110805155152/http://www.mykoweb.com/CAF/species/Amanita_franchetii.html| archive-date=2011-08-05| url-status=dead}} - A description of the western North American species.
+* [http://www.aranzadi-zientziak.org/fileadmin/images/micologia/Eskaneatuak/09_digital/amanita_franchetii_v_lactella_jmm_090705_5040.jpg ''Amanita franchetii'' var. ''lactella'' photo], from Aranzadi Society of Sciences, Mycology Gallery.
+{{Amanitas}}
+{{Taxonbar|from=Q4739873}}
+
+[[Category:Amanita|franchetii]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1889]]
+[[Category:Inedible fungi]]
+[[Category:Fungus species]]

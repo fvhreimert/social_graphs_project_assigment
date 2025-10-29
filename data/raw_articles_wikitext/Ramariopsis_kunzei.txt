@@ -1,0 +1,148 @@
+{{Short description|Species of fungus}}
+{{speciesbox
+| image = Ramariopsis kunzei Kaldari 01.jpg
+| image_caption =
+| taxon = Ramariopsis kunzei
+| authority = ([[Elias Magnus Fries|Fr.]]) [[Edred John Henry Corner|Corner]] (1950)
+| synonyms_ref = <ref name="urlMycoBank:Ramariopsis kunzei"/>
+| synonyms = {{hidden begin|title=Species synonymy}}
+{{unbulleted list|''Clavaria kunzei'' <small>Fr. (1821)</small>
+|''Clavaria chionea'' <small>[[Christian Hendrik Persoon|Pers.]] (1822)</small>
+|''Clavaria subcorticalis'' <small>[[Lewis David de Schweinitz|Schwein.]] (1832)</small>
+|''Clavaria krombholzii'' <small>Fr. (1838)</small>
+|''Lachnocladium subsimile'' <small>[[Miles Joseph Berkeley|Berk.]] & [[Moses Ashley Curtis|M.A.Curtis]] (1873)</small>
+|''Ramaria kunzei'' <small>(Fr.) [[Lucien Quélet|Quél.]] (1888)</small>
+|''Clavaria velutina'' <small>[[Job Bicknell Ellis|Ellis]] & [[Benjamin Matlack Everhart|Everh.]] (1888)</small>
+|''Clavulina kunzei'' <small>(Fr.) [[Joseph Schröter|J.Schröt.]] (1888)</small>
+|''Ramaria favrei'' <small>Quél. (1894)</small>
+|''Clavaria asperula'' <small>[[George Francis Atkinson|G.F.Atk.]] (1908)</small>
+|''Clavaria asperulans'' <small>G.F.Atk. (1908)</small>
+|''Clavaria lentofragilis'' <small>G.F.Atk. (1908)</small>
+|''Clavaria elongata'' <small>[[Max Britzelmayr|Britzelm.]] (1909)</small>
+|''Clavaria favrei'' <small>(Quél.) [[Pier Andrea Saccardo|Sacc.]] & [[Giovanni Battista Traverso|Traverso]] (1912)</small>
+|''Clavaria subcaespitosa'' <small>[[Charles Horton Peck|Peck]] (1913)</small>
+|''Lachnocladium subcorticale'' <small>(Schwein.) [[Edward Angus Burt|Burt]] (1922)</small>
+|''Ramariopsis lentofragilis'' <small>(G.F.Atk.) [[Ron Petersen|R.H.Petersen]] (1969)</small>
+|''Clavulinopsis kunzei'' <small>(Fr.) Jülich (1985)</small>
+}}
+{{hidden end}}
+}}
+{{mycomorphbox 
+| name = ''Ramariopsis kunzei''
+| hymeniumType=smooth
+| capShape = no
+| whichGills = no
+| sporePrintColor=white
+| ecologicalType=mycorrhizal
+| howEdible=edible
+}}
+
+'''''Ramariopsis kunzei''''' is an [[edible mushroom|edible]] species of [[coral fungi]] in the family [[Clavariaceae]], and the [[type species]] of the genus ''[[Ramariopsis]]''. It is [[common name|commonly]] known as '''white coral''' because of the branched structure of the fruit bodies that resemble marine coral.
+
+The [[sporocarp (fungus)|fruit bodies]] are up to {{convert|5|cm|abbr=on|frac=4}} tall by {{convert|4|cm|abbr=on|frac=4}} wide, with numerous branches originating from a short rudimentary stem. The branches are one to two millimeters thick, smooth, and white, sometimes with yellowish tips in age.
+
+''Ramariopsis kunzei'' has a widespread distribution, and is found in North America, Eurasia, and Australia.
+
+==Taxonomy==
+The species was first described as ''Clavaria kunzei'' by pioneer mycologist [[Elias Magnus Fries]] in 1821.<ref name=Fries1821/> [[E.&nbsp;J.&nbsp;H. Corner]] transferred the species to ''[[Ramariopsis]]'' in 1950, and made it the [[type species]].<ref name=Corner1950/> In general, coral fungi often have extensive [[Taxonomy (biology)|taxonomic]] histories, as mycologists have not agreed on the best way to [[classification (biology)|classify]] them. In addition to ''[[Clavaria]]'' and ''[[Ramariopsis]]'', the ''R.&nbsp;kunzei'' has been placed in the genera ''[[Ramaria]]'' by [[Lucien Quélet]] in 1888, and ''[[Clavulinopsis]]'' by [[Walter Jülich]] in 1985. According to the taxonomic database [[MycoBank]],<ref name="urlMycoBank:Ramariopsis kunzei"/> the species has acquired a sizable list of [[synonym (biology)|synonyms]], listed in the taxobox. It is [[common name|commonly]] known as '''white coral''' because of the branched structure of the fruit bodies that resemble marine coral.<ref name=TyluktiVI1979/>
+
+A [[phylogenetic]] analysis of [[clavarioid fungi]] concluded that ''R.&nbsp;kunzei'' is in a phylogenetic lineage together with several ''[[Clavulinopsis]]'' species (including ''[[Clavulinopsis sulcata|C.&nbsp;sulcata]]'', ''[[Clavulinopsis helvola|C.&nbsp;helvola]]'' and ''[[Clavulinopsis fusiformis|C.&nbsp;fusiformis]]''), and that this [[cladistics|clade]] (the ''ramariopsis'' clade) is nested within a group of species representing the family [[Clavariaceae]].<ref name=Dentinger2006/>
+
+==Description==
+
+The [[sporocarp (fungi)|fruit bodies]] are white to whitish-yellow in color, and are highly branched structures resembling coral; the dimensions are typically up to {{convert|8|cm|1|abbr=on}} tall and {{convert|6|cm|1|abbr=on}} wide. Older specimens may have a pinkish tinge. The tips of the branches are blunt, not crested as in some other species of coral fungi, like ''[[Clavulina cristata]]'';<ref name=TyluktiVI1979/> branches are between 1 and 5&nbsp;millimeters thick.<ref name="MushroomExpert.Com"/> The branch tips of mature specimens may be yellow.<ref name=Hemmes2002/> A [[stipe (mycology)|stem]], if present, may be up to {{convert|1|cm|1|abbr=on}} long and scurfy—covered with small flakes or scales.<ref name="Rogers"/> The texture of the [[trama (mycology)|flesh]] may range from pliable to brittle.<ref name="MushroomExpert.Com"/> The odor and taste are not distinctive.<ref name="MushroomExpert.Com" /><ref name="Jordan2004" /> This mushroom does not change color upon bruising or injury,<ref name=Hemmes2002/> but a 10%&nbsp;solution of [[Iron(II) sulfate|FeSO<sub>4</sub>]] (a [[Chemical tests in mushroom identification|chemical test]] known as "iron salts") will turn it green.<ref name=Jordan2004/>
+
+In [[spore print|deposit]], the spores are white. Viewed with a [[light microscope]], the [[basidiospore|spores]] are [[hyaline|translucent]] and have an [[wikt:ellipsoid|ellipsoid]] to roughly spherical shape with spines on the surface, and dimensions of 3–5.5 by 2.5–4.5&nbsp;[[μm]].<ref name="Rogers"/> Spores are [[amyloid|non-amyloid]], meaning that they do not absorb [[iodine]] when stained with [[Melzer's reagent]].<ref name=Jordan2004/>  The spore-bearing cells, the [[basidia]], are usually 25–45&nbsp;μm long by 6–7&nbsp;μm wide, and 4-spored.<ref name=Ellis1990/> [[Clamp connection]]s are present in the [[hypha]]e of this species.<ref name="MushroomExpert.Com"/>
+
+===Similar species===
+'' is a lookalike species.]]
+
+The "crested coral" (''[[Clavulina cristata]]'', edible) is similar in appearance to ''R.&nbsp;kunzei'',<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=294|oclc=797915861}}</ref> but its branches have fringed, feathery tips. The "jellied false coral" (''[[Tremellodendron pallidum]]'', edible)<ref name=Bessette1997/> has whitish, tough, [[wikt:cartilaginous|cartilaginous]] branches with blunt tips.<ref name=Roody2003/> ''[[Ramariopsis lentofragilis]]'' (poisonous) is an eastern North American lookalike that causes severe abdominal pain, general weakness, and pain under the sternum.<ref name=Bessette1997/>
+
+Also similar are ''[[Artomyces pyxidatus]]'', ''[[Clavulina cinerea]]'', ''[[Clavulina rugosa]]'', and ''Clavulinopsis corniculata''.<ref name=":0" />
+
+==Habitat and distribution==
+
+The species is thought to be [[saprobic]] and is found growing on the ground, in [[forest floor|duff]], or less frequently on well-decayed wood.<ref name="MushroomExpert.Com"/> Fruit bodies may grow singly, in groups, or clustered together.<ref name=Ellis1990/> [[David Arora]] has noted a preference for growing under [[conifer]]s, as well as a prevalence in [[North Coast (California)|redwood forest]]s of North America.<ref name=Arora1986/> In contrast, an earlier author claimed this species grows "rarely in coniferous woods."<ref name=Coker1974/>
+
+In Europe, ''Ramariopsis kunzei'' has been collected in Scotland (specifically, on the islands of [[Isle of Arran|Arran]], [[Gigha]] and [[Kintyre]] peninsula),<ref name=Kirk1984/> the Netherlands,<ref name=Reijnders1979/> Norway,<ref name=Gulden1974/> former Czechoslovakia,<ref name=Pilat1959/> Germany,<ref name=Gerhardt1990/> Poland,<ref name=Kornas1981/> and Russia ([[Zhiguli Mountains]]).<ref name=Malysheva2006/> It has also been found in China,<ref name=Zhuang2001/> India,<ref name=Thind1986/> Iran,<ref name=Saber1989/> the [[Solomon Islands]],<ref name=Corner1967/> and Australia.<ref name=Petersen1978/> In North America, the distribution extends north to Canada,<ref name=Pomerleau1964/> and includes the United States (including Hawaii and Puerto Rico).<ref name=Hemmes2002/><ref name=Hughes2009/>
+
+== Edibility ==
+The species is [[edible mushroom|edible]],<ref name="TyluktiVI1979" /> but according to David Arora, "fleshless and flavorless".<ref name="Arora1986" />
+
+== References ==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=Arora1986>{{cite book |author=Arora D. |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/643/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, California |year=1986 |orig-date=1979 |edition=2nd |pages=643}}</ref>
+
+<ref name=Bessette1997>{{cite book |title=Mushrooms of Northeastern North America |vauthors=Bessette A, Bessette AR, Fischer DW |year= 1997 |publisher=Syracuse University Press |location=Syracuse, New York |isbn=978-0-8156-0388-7 |page=434 |url=https://books.google.com/books?id=T2uU12XcRD4C&pg=PA434}}</ref>
+
+<ref name=Coker1974>{{cite book |title=The Club and Coral Mushrooms (Clavarias) of the United States and Canada (Clavarias of the United States and Canada) |author=Coker WC |year=1974 |publisher=Dover Publications |isbn=978-0-486-23101-3 |page=95 |url=https://books.google.com/books?id=BLGWwBUNKSMC&pg=PA95}}</ref>
+
+<ref name=Corner1950>{{cite journal |author=Corner EJH |year=1950 |title=A monograph of ''Clavaria'' and allied genera |journal=Annals of Botany Memoirs |volume=1 |page=640}}</ref>
+
+<ref name=Corner1967>{{cite journal |author=Corner EJH |year=1967 |title=Clavarioid fungi of the Solomon Islands |journal=Proceedings of the Linnean Society of London |volume=178 |issue=2 |pages=91–106 |doi=10.1111/j.1095-8312.1967.tb00966.x}}</ref>
+
+<ref name=Dentinger2006>{{cite journal |doi=10.3852/mycologia.98.5.746 |vauthors=Dentinger BT, McLaughlin DJ |title=Reconstructing the Clavariaceae using nuclear large subunit rDNA sequences and a new genus segregated from ''Clavaria'' |journal=Mycologia |year=2006 |volume=98 |pmid=17256578 |issue=5 |pages=746–62 |jstor=20444761}}</ref>
+
+<ref name=Ellis1990>{{cite book |vauthors=Ellis JB, Ellis MB |title=Fungi without Gills (Hymenomycetes and Gasteromycetes): an Identification Handbook |publisher=Chapman and Hall |location=London, UK |year=1990 |page=170 |isbn=0-412-36970-2 |url=https://books.google.com/books?id=vowdIZ7GqD4C&pg=PA170}}</ref>
+
+<ref name=Fries1821>{{cite book |title=Systema Mycologicum |author=Fries EM |year=1821 |publisher=Ex Officina Berlingiana |location=Lundin, Sweden |page=640 |language=Latin}}</ref>
+
+<ref name=Gerhardt1990>{{cite journal |author=Gerhardt E. |year=1990 |title=Checkliste der Großpilze von Berlin (West) 1970–1990 |journal=Englera |volume=13 |issue=13 |page=206 |doi=10.2307/3776760 |language=German |jstor=3776760}}</ref>
+
+<ref name=Gulden1974>{{cite journal |author=Gulden G. |year=1974 |title=Contribution to the macromycete flora of Vestfold southeast Norway |journal=Blyttia |volume=32 |issue=1 |pages=1–10}}</ref>
+
+<ref name=Hemmes2002>{{cite book |vauthors=Hemmes DE, Desjardin D |title=Mushrooms of Hawai'i: An Identification Guide |publisher=[[Ten Speed Press]] |location=Berkeley, CA |year=2002 |page=112 |isbn=1-58008-339-0 |url=https://books.google.com/books?id=xbEC2PrmZZkC&pg=PA112}}</ref>
+
+<ref name=Hughes2009>{{cite web |author=Hughes, K. W. |author2=Peterson, R. H.|url=http://tenn.bio.utk.edu/fungus/database/fungus-database.asp?GenusID=RAMARIOPSIS&SpeciesID=KUNZEI&CountryID=USA/GSMNP |publisher=University of Tennessee - Department of Ecology & Evolutionary Biology |work=Fungal Herbarium: Collections from Great Smoky Mountain National Park |title=''Ramariopsis kunzei'' |access-date=2009-11-10}}</ref>
+
+<ref name=Jordan2004>{{cite book |author=Jordan M. |title=The Encyclopedia of Fungi of Britain and Europe |publisher=Frances Lincoln |location=London |year=2004 |page=81 |isbn=0-7112-2378-5 |url=https://books.google.com/books?id=bFMfytLn3bEC&pg=PA81}}</ref>
+
+<ref name=Kirk1984>{{cite journal |doi= 10.2307/4108573 |vauthors=Kirk PM, Sponer BM |year=1984 |title=An Account of the fungi of Arran, Gigha and Kintyre |jstor=4108573 |journal=Kew Bulletin |volume=38 |issue=4 |pages=503–97}}</ref>
+
+<ref name=Kornas1981>As the variant ''R. kunzei'' var. ''deformis''; {{cite journal |author=Kornas J. |year=1981 |title=Myco flora of the Pieniny National Park Poland 4 |journal=Zeszyty Naukowe Uniwersytetu Jagiellonskiego Prace Botaniczne |issue=9 |pages=67–82 |language=Polish}}</ref>
+
+<ref name=Malysheva2006>{{cite journal |author=Malysheva VF |year=2006 |title=[On higher Basidiomycetes of Zhiguli. III. Genus ''Ramariopsis'' (Donk) Corner] |journal=Ukrayins'kyi Botanichnyi Zhurnal |volume=63 |issue=2 |pages=177–89 |language=Russian}}</ref>
+
+<ref name="MushroomExpert.Com">{{cite web |url=http://www.mushroomexpert.com/ramariopsis_kunzei.html |title=''Ramariopsis kunzei'' |publisher=MushroomExpert.Com |author=Kuo M. |date=April 2007 |access-date=2009-09-22}}</ref>
+
+<ref name=Petersen1978>{{cite journal |author=Petersen RH |year=1978 |title=Genus ''Ramariopsis'' in southeastern Australia |journal=Australian Journal of Botany |volume=26 |issue=3 |pages=425–31 |doi=10.1071/BT9780425}}</ref>
+
+<ref name=Pilat1959>{{cite journal |author=Pilát A. |year=1959 |title=Rare species of Clavariaceae collected in Bohemia in 1958 |journal=Česká Mykologie |volume=13 |issue=2 |pages=73–85}}</ref>
+
+<ref name=Pomerleau1964>{{cite journal |vauthors=Pomerleau R, Cooke WM |year=1964 |title=IX International Botanical Congress: Field Trip No. 22: Quebec Fungi |journal=Mycologia |volume=56 |issue=4 |pages=618–26 |doi=10.2307/3756365 |jstor=3756365 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0056/004/0618.htm|url-access=subscription }}</ref>
+
+<ref name=Reijnders1979>{{cite journal |author=Reijnders J. |year=1979 |title=The years of appearance of some clavaroid fungi |journal=Coolia |volume=22 |issue=1 |pages=26–8 |language=Dutch}}</ref>
+
+<ref name="Rogers">{{cite web |url=http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6732.asp |title= ''Ramariopsis kunzei'' |publisher=Rogers Plants Ltd. |author=Phillips R |work=Rogers Mushrooms |access-date=2009-09-22}}</ref>
+
+<ref name=Roody2003>{{cite book |author=Roody WC |title=Mushrooms of West Virginia and the Central Appalachians |publisher=University Press of Kentucky |location=Lexington, KY |year=2003 |pages=425 |isbn=0-8131-9039-8 |url=https://books.google.com/books?id=5HGMPEiy4ykC&pg=PA425}}</ref>
+
+<ref name=Saber1989>{{cite journal |author=Saber M. |year=1989 |title=New records of Aphyllophorales and Gasteromycetes for Iran |journal=Iranian Journal of Plant Pathology |volume=25 |issue=1–4 |pages=21–26}}</ref>
+
+<ref name=Thind1986>{{cite journal |vauthors=Thind KS, Sharma RM |year=1986 |title=The genera ''Clavulinopsis'' and ''Ramariopsis'' in the eastern Himalayas India |journal=Kavaka |volume=14 |issue=1–2 |pages=9–16}}</ref>
+
+<ref name=TyluktiVI1979>{{cite book |author=Tylutki EE |title=Mushrooms of Idaho and the Pacific Northwest. Vol I. Discomycetes |publisher=University Press of Idaho |location=Moscow, Idaho |year=1979 |page=75 |isbn=0-89301-062-6}}</ref>
+
+<ref name="urlMycoBank:Ramariopsis kunzei">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=338194 |title=''Ramariopsis kunzei'' (Fr.) Corner 1950 |publisher=[[MycoBank]]. International Mycological Association |access-date=2010-10-06}}</ref>
+
+<ref name=Zhuang2001>{{cite book |title=Higher Fungi of Tropical China |author=Zhuang W. |year=2001 |publisher=Mycotaxon Ltd. |location=Cornell University |isbn=978-0-930845-13-1 |page=278}}</ref>
+
+}}
+
+{{Good article}}
+{{Taxonbar|from=Q7289069}}
+
+{{DEFAULTSORT:Ramariopsis Kunzei}}
+[[Category:Clavariaceae]]
+[[Category:Fungi described in 1950]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Australia]]
+[[Category:Edible fungi]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungi of Oceania]]
+[[Category:Fungi without expected TNC conservation status]]
+[[Category:Fungus species]]

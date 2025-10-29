@@ -1,0 +1,58 @@
+{{Speciesbox
+| image = Panaeolus.bispora.one.jpg
+| genus = Panaeolus
+| species = bisporus
+| authority = (Malencon and Bertault) Singer and Weeks
+| synonyms = ''Panaeolus bispora''<br/>''Copelandia bisporus''<br/>''Copelandia bispora''
+}}
+{{mycomorphbox
+| name = ''Panaeolus bisporus''
+| whichGills = adnexed
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=saprotrophic
+| sporePrintColor=black
+| howEdible=psychoactive}}
+
+'''''Panaeolus bisporus''''', also known as '''Copelandia bisporus''' is a rare and widely distributed little brown mushroom that bruises blue and contains the psychedelic compound [[psilocybin]].
+
+This mushroom is similar macroscopically to ''[[Panaeolus tropicalis]]'', ''[[Panaeolus cambodginiensis]]'' and ''[[Panaeolus cyanescens]]'', but can be differentiated using a microscope by its two spored basidia.
+
+== Description ==
+{{prosify|date=May 2024}}
+
+This is a [[little brown mushroom]] that grows on dung and has black spores.  It has been found in [[Hawaii]], [[Southern California]], [[North Africa]], [[Spain]] and [[Switzerland]].
+
+The cap is 15-30 mm tan to gray fading to black sometimes when covered with spores and with a defined ring zone somewhat globe shaped or bell shaped to convex, hardly expanding, margin often torn and pedaled, smooth not viscid, and slightly wrinkled and pitted with age. Dark grey-brown drying whitish.
+The gills are adnexed or narrowly attachedtightly packed, mottled gray to jet black, white edges.
+The stem is white, fibrous, 65-120 mm long 2-3 mm thick, hollow, translucent gray, bruising heavily blue where bruised.
+It produces spores that are jet black, elliptical, 12-14 x 8-10 x 6-7.5 μm smooth and opaque, elongated with germ pore straight off the end.
+Microscopic features are 2 [[spore]]d basidia 18 - 23 × 8-10 μm, cheilocystidia are bottle shaped and clear 20-30 μm, metuloids with yellow brown walls 40-55 × 12-15 μm some with excreted crystals.
+
+Its habitat are [[saprotrophic]] on [[grasses]].
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Panaeolus species|List of ''Panaeolus'' species]]
+
+==References==
+*{{cite book |first=Paul |last=Stamets |year=1996 |title=Psilocybin Mushrooms of the World |publisher=Ten Speed Press |location=Berkeley |isbn=0-9610798-0-0}}
+
+==External links==
+* [https://mushroomobserver.org/8220 Mushroom Observer - Panaeolus bisporus]
+* [http://www.erowid.org/plants/show_image.php?i=mushrooms/panaeolus_bispora1.jpg Panaeolus bisporus photo]
+
+{{Hallucinogenic mushrooms}}
+{{Taxonbar|from=Q7129781}}
+
+{{DEFAULTSORT:Panaeolus bisporus}}
+[[Category:Panaeolus|bisporus]]
+[[Category:Psychoactive fungi]]
+[[Category:Psychedelic tryptamine carriers]]
+[[Category:Fungi of Hawaii]]
+[[Category:Fungi of Africa]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi without expected TNC conservation status]]
+[[Category:Fungus species]]

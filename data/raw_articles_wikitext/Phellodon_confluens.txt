@@ -1,0 +1,67 @@
+{{Short description|Species of tooth fungus}}
+{{Use dmy dates|date=April 2025}}
+{{Use Oxford spelling|date=April 2025}}
+{{Speciesbox 
+| image = Fused Tooth from iNaturalist photo 13064397.jpg
+| image_caption = 
+| taxon = Phellodon confluens
+| authority = ([[Pers.]]) [[Zdenek Pouzar|Pouzar]] (1956)
+| synonyms_ref = <ref name="urlFungorum synonymy: Phellodon confluens"/>
+| synonyms = {{Collapsible list|bullets=on
+|''Hydnum confluens'' {{au|Pers. (1825)}}
+|''Hydnum amicum'' {{au|[[Quél.]] (1880)}}
+|''Calodon amicus'' {{au|(Quél.) Quél. (1884)}}
+|''Sarcodon amicus'' {{au|(Quél.) Quél. (1886)}}
+|''Phellodon amicus'' {{au|(Quél.) [[Howard James Banker|Banker]] (1913)}}
+|''Hydnellum amicum'' {{au|(Quél.) [[Magdy A. Ragab|Ragab]] (1953)}}
+|''Hydnum vellereum'' {{au|[[Charles Horton Peck|Peck]] (1898)}}
+|''Phellodon vellereus'' {{au|(Peck) Banker (1906)}}
+|''Phellodon confluens'' var. ''corrugatus'' {{au|Khara (1978)}}
+}}
+}}
+
+'''''Phellodon confluens''''', commonly known as the '''fused cork hydnum''',<ref name="McKnight 1987"/> is a species of [[tooth fungus]] in the family [[Bankeraceae]]. The fungus produces firm, corky [[basidiocarp|fruit bodies]] with [[pileus (mycology)|caps]] that are initially whitish grey before darkening to brown or black with age, and these caps often fuse together to form clusters. Its underside features small tooth-like spines rather than [[lamella (mycology)|gills]] or pores, which are white to pale grey in colour. The species has a northern hemisphere distribution, found in forested areas of Asia, Europe, and North America, typically associated with [[oak]] trees.
+
+==Taxonomy==
+
+The fungus was originally [[species description|described]] in 1825 as ''Hydnum confluens'' by [[Christiaan Hendrik Persoon]].<ref name="Persoon 1825"/> The Czech mycologist [[Zdenek Pouzar]] transferred it to the genus ''[[Phellodon]]'' in 1956.<ref name="Pouzar 1956"/>
+
+==Description==
+
+''Phellodon confluens'' produces [[basidiocarp|fruit bodies]] (or [[basidiocarp|basidiocarps]]) with a firm, corky texture. The cap (or [[pileus (mycology)|pileus]]) is round to irregular in outline and varies from 3–9&nbsp;cm in diameter, often fusing with adjacent caps to form clusters. Young caps are whitish grey and smooth (glabrous) but darken to brown or almost black as they age. The cap surface may be slightly depressed or pitted and frequently gives rise to new, smaller pilei at its margin. On the underside, the [[hymenophore]] (the fertile, spore-bearing surface) is densely "toothed" ([[tooth fungus|hydnoid]]) rather than [[lamella (mycology)|gilled]] or pored, with individual spines up to 3&nbsp;mm long that are white to pale grey. The [[trama (mycology)|flesh]] (context) is organised in two layers (duplex), especially noticeable in the stalk, and ranges from pinkish brown to dark brown. When tasted, the flesh has a faintly spicy note.<ref name="Ryvarden 2024"/>
+
+The stalk ([[stipe (mycology)|stipe]]) measures 10–40 by 10–20&nbsp;mm, is covered in a fine, woolly (tomentose) grey to dark brown surface and firmly supports the cap. Microscopically, the fungus has a monomitic [[hypha]]l system—containing only generative hyphae—that are simple-[[septum|septate]] (each cell divided by a single cross-wall), translucent ([[hyaline]]) and 3–6&nbsp;[[μm]] wide. Its [[spore]]s are roughly elliptic, 3.5–4 by 3–4&nbsp;μm in size, hyaline and adorned with minute spines.<ref name="Ryvarden 2024"/>
+
+==Habitat and distribution==
+
+The fungus has a northern hemisphere distribution and is found in Asia,<ref name="Dai 2011"/> Europe, and North America.<ref name="McKnight 1987"/> It is considered [[vulnerable species|vulnerable]] in Switzerland.<ref name="Senn-Irlet 2007"/> In northern Europe, the fungus follows the distribution of its host tree (''[[Quercus]]''), extending to central Sweden and to southern Finland.<ref name="Ryvarden 2024"/>
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Dai 2011">{{cite journal |author=Dai Y-C. |title=A revised checklist of corticioid and hydnoid fungi in China for 2010 |journal=Mycoscience |year=2011 |volume=52 |issue=1 |pages=69–79 |doi=10.1007/s10267-010-0068-1}}</ref>
+
+<ref name="McKnight 1987">{{cite book |vauthors=McKnight VB, McKnight KH |title=A Field Guide to Mushrooms: North America |series=Peterson Field Guides |publisher=Houghton Mifflin |location=Boston, Massachusetts |year=1987 |page=97 |isbn=978-0-395-91090-0 |url=https://books.google.com/books?id=kSdA3V7Z9WcC&pg=PA98}}</ref>
+
+<ref name="Persoon 1825">{{cite book |author=Persoon CH. |title=Mycologia Europaea |year=1825 |volume=2 |location=Erlangen |publisher=Palm |page=165 |language=Latin}}</ref>
+
+<ref name="Pouzar 1956">{{cite journal |author=Pouzar Z. |title=Príspevek k poznání nasich kloboukatých losáku |journal=Ceská Mykologie |year=1956 |volume=10 |issue=2 |pages=65–76 |language=Czech |url=http://www.czechmycology.org/_cm/CM102.pdf}}</ref>
+
+<ref name="Ryvarden 2024">{{cite book |last=Ryvarden |first=Leif |year=2024 |title=Hydnoid Genera – A World Synopsis |series=Synopsis Fungorum |volume=50 |publisher=Fungiflora |location=Oslo |url=https://www.fungiflora.no/synopsis-50-hydnoid-genera |page=53}}{{OA}}</ref>
+
+<ref name="Senn-Irlet 2007">{{cite report |vauthors=Senn-Irlet B, Bieri G, Egli S |title=Lista Rossa Macromiceti. Lista Rossa delle specie minacciate in Svizzera. UV-0718-I |year=2007 |location=Bern |publisher=Ufficio federale dell’ambiente |language=Italian |url=http://www.bafu.admin.ch/publikationen/publikation/00055/index.html?lang=fr&lang=it}}</ref>
+
+<ref name="urlFungorum synonymy: Phellodon confluens">{{cite web |title=GSD Species Synonymy: ''Phellodon confluens'' (Pers.) Pouzar |url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=302826 |publisher=Species Fungorum. CAB International |access-date=2015-09-09}}</ref>
+
+}}
+
+{{Taxonbar|from=Q10509873}}
+
+[[Category:Fungi described in 1825]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Inedible fungi]]
+[[Category:Phellodon|confluens]]
+[[Category:Taxa named by Christiaan Hendrik Persoon]]
+[[Category:Fungus species]]

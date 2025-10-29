@@ -1,0 +1,60 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Agaricus_californicus_BC.jpg
+| image_caption = 
+| genus = Agaricus
+| species = californicus
+| authority = [[Charles Horton Peck|Peck]] (1895)<ref name="Peck 1895">{{cite journal |author=Peck CH |year=1895 |title=New species of Fungi |journal=Bulletin of the Torrey Botanical Club |volume=22 |issue=5 |pages=198–211 |doi=10.2307/2478162|jstor=2478162 }}</ref>
+}}
+{{Mycomorphbox
+| name = ''Agaricus californicus''
+| whichGills = free
+| capShape = convex
+| hymeniumType = gills
+| stipeCharacter = ring
+| sporePrintColor = brown
+| ecologicalType = saprotrophic
+| howEdible = poisonous
+}}
+
+'''''Agaricus californicus''''', commonly known as the '''mock meadow mushroom''',<ref>{{Cite book |last=Arora |first=David |title=All That the Rain Promises and More: A Hip Pocket Guide to Western Mushrooms |date=February 1, 1991 |publisher=Ten Speed Press |isbn=9780898153880}}</ref> or '''California agaricus''', is a species of fungus in the [[section (biology)|section]] ''Xanthodermati'' of the genus ''[[Agaricus]]''.<ref name="Arora1986"/>
+
+The mushroom is mildly [[mushroom poisoning|poisonous]], often causing gastrointestinal upset.
+
+==Description==
+The caps are {{Cvt|5–12|cm}} wide, white, sometimes with a grayish-tan center, dry, and either unchanged or yellowing slightly when bruised.<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=223–224|oclc=797915861}}</ref> The stalk is {{Cvt|3-10|cm}} long and 1–2 wide, perhaps larger at the base.<ref name=":0" /> It has a persistent [[Annulus (mycology)|ring]].<ref name="Arora1986" /> The [[Basidiospore|spores]] are brown and smooth.<ref name=":0" />
+
+The species, like many members of ''Agaricus'' section ''Xanthodermati'', displays a yellowing (then darker) reaction where its [[trama (mycology)|flesh]] has been damaged, although this is not always readily apparent. The cap surface turns yellow in [[Potassium hydroxide|KOH]].<ref name="Arora1986" />
+
+===Similar species===
+''Agaricus californicus'' resembles many other ''Agaricus'' species, including [[Agaricus arvensis|''A.&nbsp;arvensis'']],<ref name=":0" /> [[Agaricus bisporus|''A.&nbsp;bisporus'']], [[Agaricus campestris|''A.&nbsp;campestris'']],<ref name=":0" /> and [[Agaricus cupreobrunneus|''A.&nbsp;cupreobrunneus'']], which are edible and thus require careful identification.
+
+The yellowing reaction to bruising is more quickly apparent in ''[[Agaricus xanthodermus|A.&nbsp;xanthodermus]]''<ref name=":0" /> (a&nbsp;relative in the section ''Xanthodermati'').
+
+==Toxicity==
+It is mildly [[mushroom poisoning|poisonous]], causing [[gastrointestinal upset]] in many individuals.<ref name="Arora1986"/> The [[etiology]] of these symptoms is unclear and some individuals can eat it without experiencing symptoms, but as there is no way to tell who can eat the mushroom safely it is generally recommended against.<ref name="Mykoweb"/>
+
+==See also==
+*[[List of Agaricus species|List of ''Agaricus'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Mykoweb">{{cite web|url=http://www.mykoweb.com/CAF/species/Agaricus_californicus.html|title=California Fungi—Agaricus californicus|accessdate=2010-07-27|publisher=MykoWeb}}</ref>
+
+<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/327/mode/2up |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |orig-date=1979 |edition=2nd |pages=327–28}}</ref>
+
+}}
+
+==External links==
+{{IndexFungorum|220273}}<br>
+{{MycoBank|MB220273}}
+
+{{Taxonbar|from=Q1615287}}
+
+[[Category:Agaricus|californicus]]
+[[Category:Fungi of California]]
+[[Category:Fungi described in 1895]]
+[[Category:Taxa named by Charles Horton Peck]]
+[[Category:Fungi without expected TNC conservation status]]
+[[Category:Fungus species]]

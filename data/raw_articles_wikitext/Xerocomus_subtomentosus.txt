@@ -1,0 +1,103 @@
+{{Speciesbox
+| image = Ziegenlippe Xerocomus subtomentosus.jpg
+| genus = Xerocomus
+| species = subtomentosus
+| authority = ([[Carl Linnaeus|L.]]) [[Quél.]] (1888)
+| synonyms = ''Boletus subtomentosus'' <small>L. (1753)</small><br>
+''Boletus crassipes'' <small>Schaeff., 1774</small><br>
+''Boletus cupreus'' <small>Schaeff.,1774</small><br>
+''Leccinum subtomentosum'' <small>(L.) Gray, 1821</small><br>
+''Boletus lanatus'' <small>Rostk., 1844</small><br>
+''Boletus pannosus'' <small>Rostk., 1844</small><br>
+''Boletus striipes'' <small>Fr., 1874</small><br>
+''Boletus leguei'' <small>Boud., 1894</small>
+}}
+{{mycomorphbox
+| name = ''Xerocomus subtomentosus''
+| capShape = convex
+| whichGills       = seceding
+| ecologicalType   = mycorrhizal
+| hymeniumType = pores
+| stipeCharacter = bare
+| sporePrintColor = olive-brown
+| howEdible = edible
+}}
+
+'''''Xerocomus subtomentosus''''', commonly known as '''suede bolete''', '''brown and yellow bolete''', '''boring brown bolete''' or '''yellow-cracked bolete''', is a species of [[bolete]] fungus in the family [[Boletaceae]]. The fungus was initially described by [[Carl Linnaeus]] in 1753 and known for many years as ''Boletus subtomentosus''.
+
+The fungus produces [[Basidiospore|spore]]-bearing [[basidiocarp|fruit bodies]]. The olive to tan fruit body cap is up to {{convert|10|cm|0|abbr=on|frac=4}} in diameter and has a distinctive velvety surface. Like other boletes, it has tubes extending downward from the underside of the cap, rather than [[lamella (mycology)|gills]]; spores escape at maturity through the tube openings, or pores. The pore surface is yellow and bruises blue. The [[Stipe (mycology)|stipe]], or stem, measures up to 8&nbsp;cm (3&nbsp;in) tall and {{convert|2|cm|1|abbr=on |frac=4}} thick.
+
+It occurs throughout Eurasia, North America and Australia and grows with a wide range of [[hardwood]] and [[conifer]] trees.  It forms [[symbiotic]] [[ectomycorrhiza]]l associations with living trees by enveloping the tree's underground roots with sheaths of fungal tissue. The species is [[edible mushroom|edible]], though not as highly regarded as other boletes.
+
+==Taxonomy==
+''Xerocomus subtomentosus'' was first described in 1753 by the father of taxonomy [[Carl Linnaeus]] as ''Boletus subtomentosus''.<ref>{{cite book | author=Linnaeus C | title=Species Plantarum| publisher=Laurentii Salvii |location=Stockholm | year=1753|chapter= Tomus&nbsp;II | volume=2| url=https://www.biodiversitylibrary.org/page/359193#page/620/mode/1up | page=1178|language=la}}</ref> The starting date of fungal [[Taxonomy (biology)|taxonomy]] had been set as January&nbsp;1, 1821, to coincide with the date of the works of the 'father of mycology', Swedish naturalist [[Elias Magnus Fries]], which meant that the name required sanction by Fries (indicated in the name by a colon) to be considered valid, as Linnaeus' work preceded this date. It was thus written ''Boletus subtomentosus'' L.:Fr. However, a 1987 revision of the [[International Code of Botanical Nomenclature]] set the starting date at May&nbsp;1, 1753, the date of publication of Linnaeus' seminal work, the ''[[Species Plantarum]]''.<ref name="Esser 1994"/> Hence the name no longer requires the ratification of Fries' authority.
+
+French mycologist [[Lucien Quélet]] had classified a number of ''[[Boletus]]'' species in the genus ''Xerocomus'', with ''Xerocomus subtomentosus'' made the [[type species]]. The genus name is derived from the [[Ancient Greek]] ''Xeros'' "dry" and ''kome'' "hair", and refers to the velvety surface of the cap.<ref name="Nilper 1977"/> This classification was disputed, with many authorities not recognising the genus and continuing to use ''Boletus subtomentosus''; however genetic analysis published in 2013 confirmed the distinctness of this species and its close relatives from the core group of fungi in the genus ''Boletus'' ([[sensu stricto]]).<ref name="Nuhn 2013"/>
+
+''Xerocomus subtomentosus'' and relatives, including ''[[Phylloporus pelletieri]]'', form a [[clade]] known informally as the "/Xerocomus Clade" within a larger group (informally called hypoboletus) in the suborder [[Boletineae]]. Other clades within the group include the ''[[Aureoboletus]]'' and ''[[Hemileccinum]]'' clades, as well as species currently designated ''Boletus'' (though they are not closely related to ''[[Boletus edulis]]'') and three species currently designated ''[[Boletellus]]'' (though they are unlikely to be close relatives of the type species, ''[[Boletellus ananas]]'').  The clade containing the hypoboletus group and the ''[[Royoungia]]'' clade is sister to the anaxoboletus group (containing the genera ''[[Tylopilus]]'' sensu stricto, ''[[Strobilomyces]]'', ''[[Xanthoconium]]'', ''[[Porphyrellus]]'', ''[[Xerocomellus]]'', ''Boletus'' sensu stricto, and species that require new generic names (e.g., ''[[Boletus badius]]'') and the leccinoid group (comprising the genera ''[[Leccinellum]]'', ''[[Leccinum]]'', ''[[Spongiforma]]'', and the species ''[[Retiboletus griseus]]'').<ref name="Nuhn 2013"/> As ''X.&nbsp;subtomentosus'' is the type species of the genus, it and close relatives remain ''Xerocomus'' as other members are placed in different genera.
+
+===Etymology===
+Its [[specific name (botany)|specific name]] ''subtomentosus'' is [[Latin]] "finely haired", referring to its cap.<ref name="Nilper 1977"/> Author [[David Arora]] nicknamed the mushroom the ''boring brown bolete'' from its lack of taste and appeal.<ref name="Arora 1986"/> Other vernacular names include "yellow-cracked bolete", "suede bolete",<ref name="Michell 2006"/> and "brown and yellow bolete".<ref name="Laursen 2010"/>
+
+==Description==
+The pale olive or tan [[Pileus (mycology)|cap]] is initially convex before flattening and measures {{convert|4 to 10|cm|1|abbr=on |frac=4}}, exceptionally up to {{convert|20|cm|1|abbr=on|frac=4}} in diameter. It has a velvety tannish surface, occasionally with slits revealing yellow flesh beneath.'''<ref name="Arora 1986" />''' The [[pileipellis|skin]] of the cap is very hard to remove. The pores underneath the cap are yellow and may bruise blue or green'''<ref name="Arora 1986" />''' before fading somewhat. The [[stipe (mycology)|stipe]] lacks a [[annulus (mycology)|ring]] and is up to {{convert|12|cm|1|abbr=on |frac=4}} long and {{convert|1–2|cm|1|abbr=on |frac=4}} wide.<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=326–327|oclc=797915861}}</ref> The [[spore print]] is olive-brown.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=369}}</ref> A drop of [[ammonium hydroxide]] on the cap instantly produces a [[mahogany red]] reaction, which distinguishes it from some other similar species of the genus. The [[trama (mycology)|flesh]] is white and has little taste or smell.<ref name="Nilper 1977"/><ref name="Arora 1986"/>
+
+===Similar species===
+The rare European species ''[[Xerocomus silwoodensis]]'', described as new to science in 2007, is similar in appearance to ''X.&nbsp;subtomentosus''. It can be distinguished from the latter in the field by the darker reddish-brown tones of the cap and its preference for associating with ''[[Populus]]'' trees.<ref name="Taylor 2007"/> It has white flesh that becomes yellow-tinged on exposure to air. [[Xerocomus chrysonemus|''X.&nbsp;chrysonemus'']] has bright yellow flesh and mycelium while ''X.&nbsp;ferrugineus'' is found only under conifers and also has yellow mycelium.<ref name="urlBoletales"/><!-- cites previous 3 sentences--> Also similar are ''[[Xerocomellus chrysenteron|X.&nbsp;chrystenteron]]'', ''[[Xerocomus mendocinensis|X.&nbsp;mendocinensis]]'', ''[[Xerocomus truncatus|X.&nbsp;truncatus]]'',<ref name="audu" /> ''[[Boletus chrysenteron]]'', ''B.&nbsp;citriniporus'', and ''B.&nbsp;edulis''.<ref name=":0" />
+
+==Distribution and habitat==
+''Xerocomus subtomentosus'' occurs in autumn in forests throughout Eurasia, North America and Australia and forming a [[mycorrhiza]]l relationship with a wide range of [[hardwood]] and [[conifer]] trees.<ref name="Nilper 1977"/><ref name="Arora 1986"/><ref name="Loizides 2019"/> It has been recorded from the vicinity of [[Tangier]] in Morocco, growing under cork oak (''[[Quercus suber]]'').<ref name="Maire 1937"/> It is associated with [[bilberry]] and other evergreen shrubs of the heath family [[Ericaceae]].<ref name="Michell 2006"/><ref name="Laursen 2010"/>
+
+''Xerocomus subtomentosus''  is found in subarctic areas of western Greenland, where it is common and grows in association with white birch (''[[Betula pubescens]]'').<ref name=Elborne1990/>
+
+==Edibility==
+''Xerocomus subtomentosus'' is [[edible mushroom|edible]],<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |url=https://archive.org/details/mushroomsotherfu0000phil |url-access=registration |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=[https://archive.org/details/mushroomsotherfu0000phil/page/254 254]}}</ref> although not highly regarded. Its mild taste makes it suitable for mixed mushroom dishes.<ref name="Nilper 1977"/> An [[elemental analysis]] of specimens collected from  western Poland determined the mushrooms to have abundant amounts of the [[electrolyte]]s [[potassium]], [[phosphorus]], and [[magnesium]],  with mean values of 46000, 8400, and 1100&nbsp;milligramme/kilogramme dry weight, respectively, in the caps. The levels of the [[toxic metal]]s [[cadmium]], [[mercury (element)|mercury]], and [[lead]] in the mushrooms "did not pose a threat to a consumer's health".<ref name="Jarzynska 2012"/>
+
+==See also==
+{{Portal|Fungi}}
+*[[List of North American boletes]]
+
+==References==
+
+{{Reflist|refs=
+
+<ref name="Arora 1986">{{cite book |author=Arora D |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/517/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, California |year=1986 |orig-date=1979 |edition=2nd |pages=517–18}}</ref>
+
+<ref name=Elborne1990>{{cite book | title=The Greenland Mountain Birch Zone, Southwest Greenland | publisher=Museum Tusculanum Press |isbn=9788763512046 |veditors=Fredskild B, Ødum S | year=1990 | chapter= Larger Fungi Associated with ''Betula pubescens'' in Greenland |vauthors=Elborne SA, Knudsen H | pages=77–80}}</ref>
+
+<ref name="Esser 1994">{{cite book |vauthors=Esser K, Lemke PA |title=The Mycota: A Comprehensive Treatise on Fungi as Experimental Systems for Basic and Applied Research |url=https://archive.org/details/mossflorabritain00libg |url-access=limited |publisher=Springer |location=Heidelberg, Germany |year=1994 |page=[https://archive.org/details/mossflorabritain00libg/page/n93 81] |isbn=3-540-66493-9}}</ref>
+
+<ref name="Jarzynska 2012">{{cite journal |vauthors=Jarzynska G, Chojnacka A, Dryzalowska A, Nnorom IC, Falandysz J |title=Concentrations and bioconcentration factors of minerals in yellow-cracking bolete (''Xerocomus subtomentosus'') mushroom collected in Notec Forest, Poland |journal=Journal of Food Science |year=2012 |volume=77 |issue=9 |pages=H202–H206 |doi=10.1111/j.1750-3841.2012.02876.x|pmid=22897470 }}</ref>
+
+<ref name="Laursen 2010">{{cite book |vauthors=Laursen GA, Seppelt RD |title=Common Interior Alaska Cryptogams: Fungi, Lichenicolous Fungi, Lichenized Fungi, Slime Molds, Mosses, and Liverworts |url=https://books.google.com/books?id=LRSJzyN_eB4C&pg=PA75 |year=2010|publisher=University of Alaska Press |isbn=978-1-60223-109-2 |page=75}}</ref>
+
+<ref name="Loizides 2019">{{cite journal |title=Present status and future of boletoid fungi (Boletaceae) on the island of Cyprus: cryptic and threatened diversity unraveled by 10-year study. |vauthors=Loizides M, Bellanger JM, Assyov B, Moreau PA, Richard F |journal=Fungal Ecology |volume=41 |issue=13 |pages=65–81 |year=2019 |doi=10.1016/j.funeco.2019.03.008 |s2cid=181958289 }}</ref>
+
+<ref name="Maire 1937">{{cite journal |author=Maire R. |title=Fungi Maroccani |journal=Mémoires de la Société des sciences naturelles du Maroc  |year=1937 |volume=45 |page=87 |url=http://bibdigital.rjb.csic.es/spa/Libro.php?Libro=3447&Pagina=91 |language=fr}}</ref>
+
+<ref name="Michell 2006">{{cite book |author=Michell K |title=Field Guide to Mushrooms and Other Fungi of Britain and Europe |publisher=New Holland Publishers |year=2006 |pages=34 |isbn=1-84537-474-6}}</ref>
+
+<ref name="Nilper 1977">{{cite book |vauthors=Nilson S, Persson O |year=1977 |title=Fungi of Northern Europe 1: Larger Fungi (Excluding Gill-Fungi) |publisher=Penguin |isbn=0-14-063005-8 |page=106}}</ref>
+
+<ref name="Nuhn 2013">{{cite journal |vauthors=Nuhn ME, Binder M, Taylor AF, Halling RE, Hibbett DS |title=Phylogenetic overview of the Boletineae |journal=Fungal Biology |year=2013 |volume=117 |issue=7–8 |pages=479–511 |doi=10.1016/j.funbio.2013.04.008 |pmid=23931115}}</ref>
+
+<ref name="Taylor 2007">{{cite journal |vauthors=Taylor AF, Hills AE, Simonini G, Muñoz JA, Eberhardt U |title=''Xerocomus silwoodensis'' sp. nov., a new species within the European ''X. subtomentosus'' complex |journal=Mycological Research |year=2007 |volume=111 |issue=4 |pages=403–08 |doi=10.1016/j.mycres.2007.01.014 |pmid=17512181}}</ref>
+
+<ref name="urlBoletales">{{cite web |url=http://boletales.com/genera/xerocomus/x-subtomentosus/ |title=''Xerocomus subtomentosus'' |author=Assyov B. |year=2013 |publisher=Boletales.com |access-date=21 October 2015}}</ref>
+
+}}
+
+==External links==
+*{{Commons category inline|italic=on}}
+*{{MycoBank|121483}}
+
+{{Taxonbar|from=Q198817}}
+
+[[Category:Edible fungi]]
+[[Category:Boletaceae]]
+[[Category:Fungi described in 1753]]
+[[Category:Fungi of Australia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungal taxa named by Carl Linnaeus]]
+[[Category:Fungus species]]

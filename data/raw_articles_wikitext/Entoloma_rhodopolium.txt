@@ -1,0 +1,52 @@
+{{Speciesbox
+| image = Entoloma rhodopolium 947421.jpg
+| genus = Entoloma
+| species = rhodopolium
+| authority = ([[Elias Magnus Fries|Fr.]]) [[P. Kumm.]]
+}}
+{{mycomorphbox 
+| name = ''Entoloma rhodopolium''
+| whichGills = adnate 
+| capShape = convex 
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=mycorrhizal
+| sporePrintColor=pink
+| howEdible=poisonous}}
+
+'''''Entoloma rhodopolium''''', commonly known as the '''wood pinkgill''', is a species of [[poisonous mushroom]] found in Eurasia and associated with specimens found in North America.
+
+== Taxonomy ==
+The taxonomy of this species is currently unclear, with forms identified in North America, which are not certainly the same species.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=514}}</ref> An alternate scientific name seen is ''Rhodophyllus rhodopolius'', from [[Lucien Quélet]]'s broader genus containing a larger subsection of pink-spored fungi, encompassing ''Entoloma'' in general. ''Entoloma nidorosum'', previously considered a separate species, is now classified as a [[Variety (botany)|variety]] of this fungus.{{Citation needed|date=March 2025}}
+
+== Description ==
+The gray to tannish [[Pileus (mycology)|cap]] is up to {{Convert|20|cm|frac=2}} wide and convex to [[umbonate]].<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/243/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=243-244 |orig-date=1979}}</ref> The gills are lighter are release a pinkish [[spore deposit]]. The whitish stem is up to 13&nbsp;cm long and 2&nbsp;cm thick. The flesh is firm and white, perhaps with a farinaceous scent.<ref name="Arora1986" />
+
+== Toxicity ==
+The species is poisonous, causing serious [[gastrointestinal upset]].<ref name="Arora1986" />
+
+Often mistaken for the edible mushroom ''[[Entoloma sarcopum|E. sarcopum]]'', ''E.&nbsp;rhodopolium'' is one of the three most commonly implicated fungi in cases of [[mushroom poisoning]] in [[Japan]]. (The other two are ''[[Omphalotus japonicus]]'' and ''[[Tricholoma ustale]]''.) [[Muscarine]], [[muscaridine]], and [[choline]] have been isolated as toxic agents.
+
+==See also==
+*[[List of Entoloma species|List of ''Entoloma'' species]]
+
+==Gallery==
+<gallery>
+File:Entoloma rhodopolium - Lindsey.jpg|Group growing
+File:Entoloma.rhodopolium2.-.lindsey.jpg|Cap underside
+</gallery>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q2422232}}
+
+[[Category:Poisonous fungi]]
+[[Category:Entolomataceae]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of Asia]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]
+
+
+{{Agaricales-stub}}

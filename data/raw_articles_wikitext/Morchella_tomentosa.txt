@@ -1,0 +1,58 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{Speciesbox
+| image = Morchella tomentosa 40375.jpg
+| genus = Morchella
+| species = tomentosa
+| authority = M.Kuo (2008)<ref name=Kuo2008/>
+| synonyms = ''Morchella atrotomentosa'' <small>McKnight (1987)</small>
+}}
+{{mycomorphbox
+| name = ''Morchella tomentosa''
+| whichGills = no
+| capShape = conical
+| capShape2 = ovate
+| hymeniumType = smooth
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| ecologicalType2 = saprotrophic
+| sporePrintColor = cream
+| sporePrintColor2 = yellow
+| howEdible = choice
+}}
+{{stack end}}
+
+'''''Morchella tomentosa''''', commonly called the '''gray''', '''fuzzy foot''', or '''black foot morel''', is a species of [[fungus]] in the family [[Morchellaceae]].<ref name=mexp/> ''M. tomentosa'' is a [[fire ecology|fire-associated]] species described from western [[North America]], formally described as new to science in 2008.<ref name=Kuo2008/>
+
+''Morchella tomentosa'' is identified by its post-fire occurrence, [[tomentose|fine hairs]] on the surface of young fruit bodies, and a thick, "double-walled" stem.<ref name=Kuo2008/><ref name=far05/> It also has unique [[sclerotium|sclerotia]]-like underground parts.<ref name=Stefani2010/>  Color can range from black and "sooty" to gray, brown, yellow, or white, although color tends to progress from darker to lighter with age of the [[ascocarp|fruiting body]].<ref name=mexp/>  Three other wildfire-adapted morels were described from western North America in 2012: ''[[Morchella capitata|M. capitata]]'', ''[[Morchella septimelata|M. septimelata]]'', and ''[[Morchella sextelata|M. sextelata]]''.  None of these three new species share the hairy surface texture of ''M. tomentosa''.<ref name=Kuo2012/>
+
+==Phylogeny==
+Based on studies of [[molecular phylogenetics|DNA]], ''M.&nbsp;tomentosa'' is clearly a distinct species apart from the yellow morels (''[[Morchella esculenta|M.&nbsp;esculenta]]'' & ssp.) and black morels (''[[Morchella elata|M.&nbsp;elata]]'' & ssp.).<ref name=Stefani2010/>  Mushroom collectors also use the common name "gray morel" for ''M.&nbsp;esculenta''-type morels in eastern North America.<ref name=mexp/>
+{{Clear}}
+
+==References==
+{{Reflist|refs=
+
+<ref name=mexp>{{cite web |url=http://www.mushroomexpert.com/morchella_tomentosa.html| title=''Morchella tomentosa'' |publisher=MushroomExpert.com |author=Kuo M. |date=November 2008 |accessdate=2011-03-20}}</ref>
+
+<ref name=Kuo2008>{{cite journal |author=Kuo M. |title=''Morchella tomentosa'', a new species from western North America, and notes on ''M. rufobrunnea'' |journal=Mycotaxon |year=2008 |volume=105 |pages=441–6| url=http://www.mushroomexpert.com/Kuo_M_2008_Morchella_tomentosa.pdf }}</ref>
+
+<ref name=far05>{{cite journal |vauthors=McFarlane EM, Pilz D, Weber NS |title=High-elevation gray morels and other ''Morchella'' species harvested as non-timber forest products in Idaho and Montana |journal=Mycologist |volume=19| issue=2 |year=2005 |pages=62–8 |doi=10.1017/S0269915X0500203X |url=http://www.fsl.orst.edu/mycology/PilzPage_files/McFarlandEtal05GrayMorels.pdf }}</ref>
+
+<ref name=Stefani2010>{{cite journal |vauthors=Stefani FO, Sokolski S, Wurtz TL, Piché Y, Hamelin RC, Fortin JA, Bérubé JA |journal=Mycologia |volume=102 |issue=5 |year=2010 |pages=1082–8 |doi=10.3852/09-294 |title=''Morchella tomentosa'': a unique belowground structure and a new clade of morels |url=http://www.lter.uaf.edu/pdf/1515_Stefani_Sokolski_2010.pdf |pmid=20943507 |s2cid=6103729 |access-date=2011-03-20 |archive-url=https://web.archive.org/web/20110720062326/http://www.lter.uaf.edu/pdf/1515_Stefani_Sokolski_2010.pdf |archive-date=2011-07-20 |url-status=dead }}</ref>
+
+<ref name=Kuo2012>{{cite journal |vauthors=Kuo M, Dewsbury DR, O'Donnell K, Carter MC, Rehner SA, Moore JD, Moncalvo JM, Canfield SA, Stephenson SL, Methven AS, Volk TJ |title=Taxonomic revision of true morels (''Morchella'') in Canada and the United States |journal=Mycologia |date=11 April 2012 |doi=10.3852/11-375 |pmid=22495449 |volume=104 |issue=5 |pages=1159–77|s2cid=45219627 |url=http://thekeep.eiu.edu/cgi/viewcontent.cgi?article=1192&context=bio_fac |url-access=subscription }}</ref>
+
+}}
+
+==External links==
+*{{Commons category-inline|Morchella tomentosa}}
+*{{IndexFungorum|11840}}
+{{Morchellaceae}}
+{{Taxonbar|from=Q3323823}}
+
+[[Category:Morchella|tomentosa]]
+[[Category:Edible fungi]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 2008]]
+[[Category:Fungus species]]

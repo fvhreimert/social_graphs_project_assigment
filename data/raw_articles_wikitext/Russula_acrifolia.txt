@@ -1,0 +1,44 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Russula acrifolia 82608.jpg
+| image_caption = From Atamanovo, [[Krasnoyarsk Krai]], Russia
+| genus = Russula
+| species = acrifolia
+| authority = [[Henri Romagnesi|Romagn.]] (1997)<ref name="Romagnesi 1997"/>
+| synonyms_ref = <ref name="urlFungorum synonymy: Russula acrifolia"/>
+| synonyms = *''Russula acrifolia'' <small>Romagn. (1962)<ref name="Romagnesi 1962"/></small>
+}}
+
+'''''Russula acrifolia''''' is a species of [[mushroom]]. Its [[pileus (mycology)|cap]] is coloured grey to blackish-grey; the cap becomes red when it is injured, but then turns blackish-gray. It is [[edible mushroom|edible]] and described as having an acrid taste. It grows on rich soils.<ref name="mtsn"/>
+
+==Distribution==
+''Russula acrifolia'' is a [[holarctic]] species that needs a [[temperate climate]]. The species is spread in the [[Caucasus]], [[Siberia]], [[Korea]] and [[Japan]], [[Northern America]], [[Northern Africa]] and [[Europe]].<ref name="mtsn"/>
+
+==Ecological properties==
+''Russula acrifolia'' is a [[mycorrhiza]]l mushroom for different trees. Its favourite symbionic partners are ''[[Fagus sylvatica]]'' and [[spruces|spruce]]. If those are not available, it can also form symbiotic partnerships with [[larix]], [[pine]]s, [[betula]], [[oak]]s and [[tilia]].<ref name="mtsn"/>
+
+==See also==
+*[[List of Russula species|List of ''Russula'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="mtsn">{{cite web |title=''Russula acrifolia'' Romagn. |url=http://www2.muse.it/russulales-news/tx_card.asp?index=5006 |publisher=Russulales News |access-date=2016-02-12 |archive-date=2016-02-16 |archive-url=https://web.archive.org/web/20160216055132/http://www2.muse.it/russulales-news/tx_card.asp?index=5006 |url-status=dead }}</ref>
+
+<ref name="Romagnesi 1962">{{cite journal |author=Romagnesi H. |title=Taxa nova ex genere Russula |journal=Bulletin Mensuel de la Société Linnéenne de Lyon |year=1962 |volume= 31 |issue=1 |pages=172–177 |doi=10.3406/linly.1962.7058 |language=French}}</ref>
+
+<ref name="Romagnesi 1997">{{cite journal |author=Romagnesi H. |title=Validation de ''Russula acrifolia'' |year=1997 |volume=26 |issue=104 |page=32 |language=French}}</ref>
+
+<ref name="urlFungorum synonymy: Russula acrifolia">{{cite web |title=GSD Species Synonymy: ''Russula acrifolia'' Romagn. |url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=442321 |publisher=Species Fungorum. CAB International |access-date=2016-02-11}}</ref>
+
+}}
+
+{{Taxonbar|from=Q2097372}}
+
+[[Category:Russula|acrifolia]]
+[[Category:Fungi described in 1962]]
+[[Category:Fungi of Europe]]
+[[Category:Fungus species]]
+
+
+{{Russulales-stub}}

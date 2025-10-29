@@ -1,0 +1,64 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{Speciesbox
+| image = Cystodermella cinnabarina.JPG
+| taxon = Cystodermella cinnabarina
+| authority = ([[Johannes Baptista von Albertini|Alb.]] & [[Lewis David de Schweinitz|Schwein.]]) [[Harri Harmaja|Harmaja]]
+| synonyms = ''Agaricus granulosus'' var. ''cinnabarinus''<br>
+''Agaricus terreyi''<br>
+''Armillaria cinnabarina''<br>
+''Cystoderma cinnabarinum''<br>
+''Cystoderma terreyi''<br>
+''Lepiota cinnabarina''<br>
+''Lepiota terreyi''<ref>{{cite web | title=''Cystodermella cinnabarina'' taxon record details at Index Fungorum | publisher=CAB International | url=http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=372397 | access-date=December 13, 2009 }}</ref>
+}}
+{{mycomorphbox
+| name = ''Cystodermella cinnabarina''
+| whichGills = emarginate
+| whichGills2 = adnate
+| capShape = convex
+| capShape2 = flat
+| hymeniumType = gills
+| stipeCharacter = ring
+| ecologicalType = saprotrophic
+| sporePrintColor = white
+| howEdible = caution
+}}
+{{stack end}}
+
+'''''Cystodermella cinnabarina''''' is a [[Basidiomycota|basidiomycete]] fungus of the genus ''[[Cystodermella]]''. Its [[Sporocarp (fungi)|fruiting body]] is a small [[agaric]] bearing a distinctive reddish-coloured grainy [[pileus (mycology)|cap]]. It occurs in [[coniferous forest|coniferous]] and [[deciduous forest]]s throughout the world. Prior to 2002, this species belonged to genus ''[[Cystoderma]]'', subsection Cinnabarina, under the name '''''Cystoderma cinnabarinum''''' which is still sometimes applied. Another often used synonym is '''''Cystoderma terreyi'''''.
+
+==Taxonomy==
+The species was first described as ''Agaricus granulosus'' var. ''cinnabarinus'' by German botanist [[Johannes Baptista von Albertini]] and the American [[Lewis David de Schweinitz]] in 1805.<ref>{{cite book |title=Conspectus fungorum in Lusatiae Superioris agro Niskiensi crescentium|vauthors=Albertini JB, von Schweinitz LD |year=1805 |publisher=Lipsiae, Sumtibus Kummerianis |page=147 |url=https://archive.org/stream/conspectusfungor00albe#page/146/mode/2up |access-date=2009-12-17 |language=la}}</ref> The species has also been known variously as ''Agaricus terreyi'' ([[Miles Joseph Berkeley|Berkeley]] and [[Christopher Edmund Broome|Broome]], 1870),<ref>{{cite journal |vauthors=Berkeley MJ, Broome CE |year=1870 |title=Notices of British fungi (1182–1262) |journal=Annals and Magazine of Natural History |volume=6 |series=IV |pages=461–69|doi=10.1080/00222937008696294 |url=https://zenodo.org/record/2181337 }}</ref> ''Armillaria cinnabarina'' ([[Calvin Henry Kauffman|Kauffman]], 1922),<ref>{{cite journal |author=Kauffmann CH. |year=1922 |title=The genus ''Armillaria'' in the United States and its relationships |journal=Papers of the Michigan Academy of Sciences |volume=2 |pages=53–67}}</ref> ''Lepiota cinnabarina'' ([[Petter Karsten|Karsten]], 1914),<ref>{{cite book |title=Die Blätterpilze |author=Karsten P. |year=1914 |publisher=T. O. Weigel |location=Leipzig |page=327 |url=http://caliban.mpiz-koeln.mpg.de/ricken/tafeln_screen/IMG_2720.jpg |access-date=2009-12-17 |language=de |archive-date=2016-03-03 |archive-url=https://web.archive.org/web/20160303192828/http://caliban.mpiz-koeln.mpg.de/ricken/tafeln_screen/IMG_2720.jpg |url-status=dead }}</ref> and ''Cystoderma terreyi'' ([[Harri Harmaja|Harmaja]], 1978).<ref>{{cite journal |author=Harmaja H. |year=1978 |title=New species and combinations in the pale-spored Agaricales |journal=Karstenia |volume=18 |pages=29–30|doi=10.29203/ka.1978.134 |doi-access=free }}</ref>
+
+== Description ==
+
+The [[Pileus (mycology)|cap]] is hemispherical in shape at first, becoming convex and finally flat with maturity, and up to {{convert|5.5|cm|in|1|abbr=on}} wide.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=372}}</ref> The cap [[pileipellis|cuticle]] is [[cinnabar]], brick-red or rusty orange and densely covered with fine granules. The [[Trama (mycology)|flesh]] is white to pallid, with a mild to sweet taste and mild to mealy smell.<ref name="audu" /> The [[Lamella (mycology)|gills]] are white to cream, dense and emarginate or adnate. A finely cottony [[partial veil]] covers the gills in immature specimens, tearing away to leave behind a delicate [[Annulus (mycology)|ring]]. The [[Stipe (mycology)|stem]] is white above the ring, and scaly below, with dark orange squamules. The stem is up to {{convert|6|cm|in|1|abbr=on}} tall<ref name="audu" /> and {{convert|1.5|cm|in|1|abbr=on}} in diameter, sometimes bulbous in the base and hollow.
+
+=== Microscopic characteristics ===
+The [[basidiospore]]s are oval, [[hyaline]], and [[Amyloid (mycology)|non-amyloid]], with dimensions of 3.5–5 by 2.5–3.5&nbsp;[[μm]]. The [[spore print]] is white.<ref name="hinkova">{{cite book | author=Ts. Hinkova | year=1986 | title=Нашите Гъби (Our Mushrooms) | page=95 | publisher=Zemizdat (Bulgaria) }}</ref><ref name="sesli">{{cite journal | author=Sesli E. | year=2005 | title=''Cystoderma cinnabarinum'' (Alb. & Schwein.) Fayod, a New Turkish Mycota Record |journal=Turkish Journal of Botany | issue=6 | volume=29 | pages=463–466 }}</ref> The [[basidia]] ([[spore]]-producing cells) are club-shaped, and 17–24 by 4–5&nbsp;μm. ''C.&nbsp;cinnabarina'' always has cells called cheilocystidia—[[cystidia]] that are present on the edges of gills, which in this species are spear-shaped. This microscopic feature may be used to help distinguish it from the similar-coloured ''[[Cystodermella adnatifolia|C.&nbsp;adnatifolia]]''<ref name=Sarr2003>{{cite journal |author=Saar I. |year=2003 |title=The genera ''Cystoderma'' and ''Cystodermella'' (Tricholomataceae) in temperate Eurasia|journal=Mycotaxon|volume=86 |pages=455–73}}</ref> and ''[[Cystodermella granulosa|C. granulosa]]'', which also bear non-amyloid spores, but lack cystidia.<ref name=sesli/>
+
+Species of ''[[Cystoderma]]'' (including orange-capped species such as ''[[Cystoderma amianthinum]]'') have amyloid spores, in comparison to non-amyloid spores in ''C.&nbsp;cinnabarina'' and species of ''[[Cystodermella]]'' in general. This is determined by staining tissue with chemicals in the [[amyloid reaction]]—all ''[[Cystodermella]]'' species show a negative reaction (spores remaining colourless).<ref name="phylotaxo">{{cite journal |vauthors=Saar I, Põldmaa K, Kõljalg U |year=2009 |title=The phylogeny and taxonomy of genera ''Cystoderma'' and ''Cystodermella'' (Agaricales) based on nuclear ITS and LSU sequences|journal=Mycological Progress|volume=8 |pages=59–73 |doi=10.1007/s11557-008-0578-9|s2cid=31184798 }}</ref>
+
+==Habitat and distribution==
+''Cystodermella cinnabarina'' is found fruiting in [[coniferous]] and [[deciduous]] forests,<ref name="mushroomexpert">{{cite web | title=''Cystoderma cinnabarinum'' at Mushroom Expert | publisher=Kuo M | url=http://www.mushroomexpert.com/cystoderma_cinnabarinum.html | access-date=December 13, 2009 }}</ref> on ground among moss, grass and [[Plant litter|litter]]. Being a [[saprotroph]]ic fungus, it decays dead organic matter. It has been recorded under [[Pinus|pine]] (''[[Pinus nigra]]'', ''[[Pinus pinea]]''), [[Quercus|oak]], [[Picea|spruce]] (''[[Picea orientalis]]''), [[Abies|fir]] (''[[Abies cephalonica]]'') and [[chestnut]] (''[[Castanea sativa]]'') in [[Greece]] and [[Turkey]].<ref name=sesli/><ref name="dimou">{{cite journal | author=Dimou D. M. | author2=Zervakis G. I. | author3=Polemis E. | year=2008 | title=Mycodiversity studies in selected ecosystems of Greece:IV. Macrofungi from ''Abies cephalonica'' forests and other intermixed tree species (Oxya Mt., central Greece) |journal=Mycotaxon | volume=104 | pages=39–42 }}</ref> Fruiting bodies appear solitary or in small groups, during the summer and autumn.<ref name=hinkova/> It is widely distributed around the world on continents including Asia, Africa, Europe and North America, though in many places it is uncommon.<ref name=sesli/><ref name="rogers">{{cite web|title=''Cystoderma cinnabarinum'' at Rogers Mushrooms |publisher=Rogers Plants Ltd. |url=http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~5891.asp |access-date=December 13, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20080706060647/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~5891.asp |archive-date=July 6, 2008 }}</ref> The preliminary [[Regional Red List|red data list]] of threatened British fungi lists ''Cystodermella cinnabarinum'' under the [[IUCN]] "[[Near Threatened]]" status.<ref name="shelleyevans">{{cite web | title=The Red Data List of Threatened British Fungi | publisher=British Mycological Society | url=http://www.britmycolsoc.org.uk/files/RDL_of_Threatened_British_Fungi_Version_1.0.pdf | access-date=December 13, 2009 }} {{Dead link|date=October 2010|bot=H3llBot}}</ref>
+
+==Edibility==
+''Cystodermella cinnabarina'' has been variously described as inedible,<ref name=mushroomexpert/><ref name=rogers/> though harmless,<ref name="fungipedia">{{cite web|title=''Cystoderma cinnabarinum'' at Fungipedia.es |publisher=Javier Perez Calvo |url=http://www.fungipedia.es/clasificacion-orden/basidiomycota/36-tricholomatales/244-cystoderma-cinnabarinum.html |language=es |access-date=December 13, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20091219031705/http://fungipedia.es/clasificacion-orden/basidiomycota/36-tricholomatales/244-cystoderma-cinnabarinum.html |archive-date=December 19, 2009 }}</ref> and even edible<ref name=hinkova/><ref name="comest">{{cite book|author=Boa E. R.|year=2006|title="Champignons Comestibles Sauvages" (Edible Wild Mushrooms)|page=144|publisher=Food and Agriculture Organization of the United Nations|isbn=92-5-205157-0|language=fr}}</ref> regionally, for example, in Hong Kong.
+
+==References==
+{{Reflist|2}}
+
+{{Taxonbar|from=Q3915588}}
+
+[[Category:Agaricaceae]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Africa]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Inedible fungi]]
+[[Category:Edible fungi]]
+[[Category:Taxa named by Lewis David de Schweinitz]]
+[[Category:Taxa named by Johannes Baptista von Albertini]]
+[[Category:Fungi described in 1805]]
+[[Category:Fungus species]]

@@ -1,0 +1,54 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Boring White Russula (981157019).jpg
+| genus = Russula
+| species = albidula
+| authority = [[Charles Horton Peck|Peck]]
+| synonyms=
+}}
+{{mycomorphbox
+| name = ''Russula albidula''
+| whichGills = adnate
+| whichGills2 = decurrent
+| capShape = convex
+| hymeniumType = gills
+| stipeCharacter = bare
+| sporePrintColor = yellow
+| howEdible = unknown
+}}
+
+'''''Russula albidula''''' is a species of fungus in the genus ''[[Russula]]''. It is [[common name|commonly]] known as the '''boring white russula''' or the '''whitish brittlegill'''. It produces a fairly small whitish mushroom with a highly acrid taste, which renders it inedible. It is found in the woods of eastern North America.
+
+==Taxonomy==
+The species was first described by the American mycologist [[Charles Horton Peck]] in 1898. Mycologist [[David Arora]], describing the fruit bodies as "plain, unprepossessing, [and] profoundly forgettable", calls the species the "boring white Russula".<ref name=Arora1986>{{cite book |author=Arora D. |title=Mushrooms Demystified: a Comprehensive Guide to the Fleshy Fungi |publisher=Ten Speed Press |location=Berkeley, Calif |year=1986 |page=96 |isbn=0-89815-169-4|url=https://books.google.com/books?id=86tM01VsFG0C&q=Russula+albidula&pg=PA96|access-date=2009-10-26}}</ref> Another [[common name]] is the "whitish brittlegill".<ref name=McKnight1987>{{cite book |vauthors=McKnight VB, McKnight KH |title=A Field Guide to Mushrooms, North America |publisher=Houghton Mifflin |location=Boston |year=1987 |page=317 |isbn=0-395-91090-0|url=https://books.google.com/books?id=kSdA3V7Z9WcC&q=Russula+albidula&pg=RA1-PA317|access-date=2009-10-25}}</ref>
+
+==Description==
+The [[pileus (mycology)|cap]] of the [[basidiocarp|fruit body]] is convex to almost flat, {{convert|2.5|to|10|cm|in|abbr=on|1}} broad, with a white surface that becomes yellowish when dry. The cap surface is viscid when moist, and have a [[pileipellis|cuticle]] that can be peeled off. The [[Lamella (mycology)|gills]] are white, equal, sometimes forking next to the stipe, and have an [[Adnation|adnate]] or slightly [[decurrent]] attachment to the stem. The [[stipe (mycology)|stipe]] is white, smooth, {{convert|2.5|to|6|cm|in|abbr=on|1}} long and {{convert|0.8|to|2|cm|in|abbr=on|1}} wide. The [[trama (mycology)|flesh]], which is fragile and white,<ref name=Miller2006/> has a very bitter taste.<ref name=Beardslee1914>{{cite journal |doi=10.2307/3753637 |author=Beardslee HC. |year=1914 |title=Notes on a few Asheville fungi |jstor=3753637 |journal=Mycologia |volume=6 |issue=3 |pages=88–92}}</ref> Specimens found in the field are typically dirty and dingy.<ref name=Arora1986/>
+
+In [[spore print|deposit]], the [[basidiospore|spores]] are pale yellow. Viewed microscopically, they are roughly spherical, thin-walled, and have dimensions of 6–7.5 by 7.5–10&nbsp;[[micrometre|μm]].<ref>{{cite book |author = Murrill WA. | year =1910 | title = North American Flora. Vol. 9| publisher =New York Botanical Press|page= 216}}</ref> The surface of the spores is marked by broken [[wikt:reticulate|reticulations]].<ref name=Beardslee1914/>
+
+===Edibility===
+The highly acrid taste of ''Russula albidula'' is a deterrent to consumption,<ref name=Arora1986/> although it is not considered poisonous.<ref name=Miller2006>{{cite book|last=Miller Jr.|first=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=77}}</ref>
+
+===Similar species===
+Other ''Russula'' species that bear a resemblance to ''R.&nbsp;albidula'' include ''[[Russula albella|R.&nbsp;albella]]'', ''[[Russula albida|R.&nbsp;albida]]'', ''[[Russula anomala|R.&nbsp;anomala]]'', and ''[[Russula subalbidula|R.&nbsp;subalbidula]]''.<ref name=Arora1986/> It may also be confused with white waxycaps (genus ''[[Hygrophorus]]'') or ''[[Tricholoma]]'' species.<ref name=McKnight1987/>
+
+==Habitat and distribution==
+The fruit bodies can be found growing solitary or grouped together on the ground in woods (both [[mixed forest|mixed]] and [[coniferous forest|coniferous]]) or the edges of woods; specimens are often found near [[oak]] trees.<ref name=Miller2006/> The species has a penchant for appearing in poor soil like that found on roadsides and along trails.<ref name=Arora1986/> It is distributed in eastern North America.<ref name=Miller2006/>
+
+==See also==
+*[[List of Russula species|List of ''Russula'' species]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*''[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=163047 R. albidula]'' at [[Index Fungorum]]
+*[http://mushroomhobby.com/Gallery/Russula/Russula%20albidula/ Mushroom Hobby] Several photos, including spores
+
+{{Taxonbar|from=Q7382364}}
+
+[[Category:Russula|albida]]
+[[Category:Fungi of North America]]
+[[Category:Taxa named by Charles Horton Peck]]
+[[Category:Fungus species]]

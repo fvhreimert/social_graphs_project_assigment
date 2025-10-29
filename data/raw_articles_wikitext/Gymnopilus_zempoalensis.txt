@@ -1,0 +1,31 @@
+{{Short description|Species of fungus}}
+{{more citations needed|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption = 
+| taxon = Gymnopilus zempoalensis
+| authority = [[Gaston Guzman|Guzmán]] & V.Mora (1984)
+}}
+
+'''''Gymnopilus zempoalensis''''' is a [[mushroom]] in the family [[Hymenogastraceae]]. Found in Mexico, it was [[species description|described]] as a species new to science in 1984.<ref name="Mora 1983"/>
+
+==See also==
+*[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Mora 1983">{{cite journal |author=Mora VM, Guzmán G. |title=Agaricales poco conocidos en el Estado de Morelos |journal=Boletín de la Sociedad Mexicana de Micología |year=1983 |volume=18 |pages=115–1389 |language=Spanish |issn=0085-6223}}</ref>
+
+}}
+
+{{Taxonbar|from=Q5625048}}
+
+[[Category:Fungi described in 1984]]
+[[Category:Fungi of Mexico]]
+[[Category:Gymnopilus|zempoalensis]]
+[[Category:Fungi without expected TNC conservation status]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

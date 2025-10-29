@@ -1,0 +1,59 @@
+{{Short description|Species of agaric fungus in the family Hymenogastraceae}}
+'''''Gymnopilus purpuratus''''' is a species of [[agaric]] fungus in the family [[Hymenogastraceae]].<ref>{{Cite web |title=Index Fungorum - ''Gymnopilus purpuratus'' (Cooke & Massee) Singer 1955 |url=https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=298051 |access-date=27 May 2023 |website=Index Fungorum}}</ref> It grows in clusters on dead wood, tree stumps and wood chip mulch. It is widely distributed and has been recorded in Argentina, Australia, Chile, New Zealand,<ref>{{Cite web |title=Biota of New Zealand - Maanaki Whenua Landcare Research - ''Gymnopilus purpuratus'' (Cooke & Massee) Singer 1955 |url=https://biotanz.landcareresearch.co.nz/scientific-names/1c674090-524f-4baa-b2a7-8e5fc4b98e70 |access-date=27 May 2023 |website=Biota.of New Zealand}}</ref> the UK and Germany. It has a broadly convex [[pileus (mycology)|cap]] covered in small dry reddish-brown scales, a stout yellow [[stipe (mycology)|stem]] beneath reddish brown, wine-red to purple vertical fibres, and a thick rusty orange [[spore print]]. {{cn|date=May 2023}}
+
+The fruitbodies can stain greenish, blue and purple when damaged, and the species is [[psychoactive]]. A [http://www.tacethno.com/info/psilocybe/gartz1.txt chemical analysis] carried out by [[Jochen Gartz]] in 1993 found that this species contains 0.34% [[psilocybin]], 0.29% [[psilocin]] and 0.05% [[baeocystin]]. {{cn|date=May 2023}}
+
+{{Speciesbox
+| image = Gymnopilus purpuratus (Cooke & Massee) Singer 414307.jpg
+| image_caption = 
+| taxon = Gymnopilus purpuratus
+| authority = ([[Mordecai Cubitt Cooke|Cooke]] & [[George Edward Massee|Massee]]) [[Rolf Singer|Singer]] (1955)
+| synonyms = *''Agaricus purpuratus'' {{small|Cooke & Massee (1890){{cn|date=May 2023}} }}
+}}
+
+==Description==
+{{mycomorphbox
+| name = Gymnopilus purpuratus
+| whichGills = adnate
+| whichGills2=adnexed
+| capShape = convex
+| capShape2 = umbonate
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=saprotrophic
+| sporePrintColor=yellow-orange
+| howEdible=psychoactive
+}}
+
+
+The cap ranges from 1.5 to 6&nbsp;cm across, is convex to obtuse, and is reddish brown with a dry scaly surface which is sometimes cracked in age.  The stem is brown-red and covered by fibers and has blue-green spots where the stem is damaged.  The [[lamella (mycology)|gills]] are crowded, yellow to orange, and [[wikt:adnexed|adnexed]].  The stem is dusted with rusty orange spores and has a cottony scanty partial veil.{{cn|date=May 2023}}
+
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+*[[List of psilocybin mushroom species|List of psilocybin mushrooms]]
+
+==References==
+{{Reflist}}
+<ref name="Guzmán-Dávalos et al. 2003">{{cite journal |last1=Guzmán-Dávalos |first1=Laura |last2=Mueller |first2=Gregory M. |last3=Cifuentes | first3=Joaquín |last4=Miller | first4=Andrew N. |last5=Santerre |first5=Anne |title=Traditional infrageneric classification of ''Gymnopilus'' is not supported by ribosomal DNA sequence data |journal=Mycologia |volume=95 |issue=6 |year=2003 |doi=10.1080/15572536.2004.11833028 |pages=1204–1214|pmid=21149021 |s2cid=3293845 }}</ref>
+* [https://mushroomobserver.org/name/show_name/6240 Mushroom Observer: Name: Gymnopilus purpuratus (Cooke & Massee) Singer]
+* Hesler, L. R. (1969). North American species of ''Gymnopilus''. New York: Hafner. 117 pp.
+
+==External links==
+{{Commons category-inline}}
+* [http://www.tacethno.com/info/psilocybe/gartz1.txt ''Gymnopilus purpuratus'' chemical analysis]
+* [https://www.biodiversitylibrary.org/page/23314364 Painting of Cooke's type specimen, ''Agaricus purpuratus'', collected in Kew Gardens]; in his ''Illustrations of British Fungi (Hymenomycetes), to serve as an atlas to the "Handbook of British Fungi"'', vol. 8 - Biodiversity Heritage Library
+
+{{Hallucinogenic mushrooms}}
+{{Taxonbar|from=Q5624954}}
+
+[[Category:Gymnopilus|purpuratus]]
+[[Category:Psychoactive fungi]]
+[[Category:Psychedelic tryptamine carriers]]
+[[Category:Fungi of Australia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of South America]]
+[[Category:Fungi of New Zealand]]
+[[Category:Fungi described in 1890]]
+[[Category:Fungus species]]

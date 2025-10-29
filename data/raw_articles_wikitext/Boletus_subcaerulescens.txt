@@ -1,0 +1,57 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Boletus subcaerulescens 35861.jpg
+| genus = Boletus
+| species = subcaerulescens
+| authority = (E.A. Dick & [[Walter Henry Snell|Snell]]) Both, Bessette, & A.R. Bessette 2000<ref name=bess00/>
+| synonyms =''[[Boletus edulis]]'' subsp. ''subcaerulescens'' <small>E.A. Dick & Snell 1965</small><br>
+''Boletus edulis'' f. ''subcaerulescens'' <small>(E.A. Dick & Snell) Vassilkov 1966</small><br>
+''Boletus separans'' var. ''subcaerulescens'' <small>(E.A. Dick & Snell) [[Alexander Hanchett Smith|A.H.Sm.]] & [[Harry D. Thiers|Thiers]] 1971</small>
+}}
+{{mycomorphbox
+|name=''Boletus subcaerulescens''
+|whichGills=adnexed
+|capShape=convex
+|hymeniumType=pores
+|stipeCharacter=bare
+|sporePrintColor=olive-brown
+|ecologicalType=mycorrhizal
+|howEdible=unknown
+}}
+
+'''''Boletus subcaerulescens''''' is a [[basidiomycota|basidiomycete]] [[fungus]] of the [[genus]] ''[[Boletus]]'' found in northeastern [[North America]]. The [[basidiocarp|fruiting bodies]] are found associated with [[pine]] and [[spruce]].  The [[pileus (mycology)|cap]] is up to 18&nbsp;cm wide, convex to flat, and brown in color.  The tubes are yellow and stain blue (later becoming brown) when bruised, while the flesh is white to buff and does not stain when cut.  The [[stipe (mycology)|stem]] is brown like the cap and has a light-colored reticulate texture.<ref name=bess00/><ref name=smith71/>
+
+The [[specific name (botany)|specific epithet]] is from [[Latin]]: ''[[wikt:sub-|sub-]]'' + ''[[wikt:caeruleus|caeruleus]]'' + ''[[wikt:-escent|-escens]]'', literally "becoming dark blue beneath".
+
+[[Phylogenetics|Phylogenetic]] analysis has shown ''B. subcaerulescens'' as a member of a [[clade]], or closely related group, with ''[[Boletus pinophilus|B. pinophilus]]'', ''[[Boletus regineus|B. regineus]]'', ''[[Boletus rex-veris|B. rex-veris]]'', ''[[Boletus fibrillosus|B. fibrillosus]]'', and ''[[Gastroboletus subalpinus]]''.<ref name=dent10/>
+
+==See also==
+*[[List of Boletus species|List of ''Boletus'' species]]
+*[[List of North American boletes]]
+
+==References==
+{{Reflist|refs=
+
+<ref name=smith71>{{cite book| title=The boletes of Michigan| first=Alexander H.| last=Smith| authorlink=Alexander Hanchett Smith| first2=Harry D.| last2=Thiers| authorlink2=Harry D. Thiers| location=Ann Arbor| publisher=University of Michigan Press| year=1971| url=https://archive.org/details/boletesofmichiga0000smit/page/365| page=[https://archive.org/details/boletesofmichiga0000smit/page/365 365]| isbn=0-472-85590-5}}</ref>
+
+<ref name=bess00>{{cite book| title=North American boletes: a color guide to the fleshy pored mushrooms| first=Alan| last=Bessette| first2=William C.| last2=Roody| first3=Arleen Rainis| last3=Bessette| publisher=Syracuse University Press| year=2000| pages=161–2| isbn=978-0-8156-0588-1}}</ref>
+
+<ref name=dent10>{{cite journal| author=Dentinger, Bryn T.M. |display-authors=et al | title=Molecular phylogenetics of porcini mushrooms (''Boletus'' section ''Boletus'')| journal=Molecular Phylogenetics and Evolution| volume=57| year=2010|issue=3 | pages=1276–1292| url=http://static.msi.umn.edu/rreports/2010/211.pdf| doi=10.1016/j.ympev.2010.10.004| pmid=20970511| url-status=dead| archiveurl=https://web.archive.org/web/20130523094609/http://static.msi.umn.edu/rreports/2010/211.pdf| archivedate=2013-05-23}}</ref>
+
+}}
+
+==External links==
+*{{Commons category-inline|Boletus subcaerulescens}}
+*{{IndexFungorum|460877}}
+*{{MycoBank|460877}}
+*{{cite web| url=http://www.tc.umn.edu/~dent0015/subcaerulescens.html| title=''Boletus subcaerulescens''| author=Dentinger, Bryn T.M.| work=Porcini Mushrooms of the World| accessdate=2011-04-10| archive-url=https://web.archive.org/web/20120916115859/http://www.tc.umn.edu/~dent0015/subcaerulescens.html#| archive-date=2012-09-16| url-status=dead}}
+
+{{Taxonbar|from=Q2909374}}
+
+[[Category:Boletus|subcaerulescens]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1965]]
+[[Category:Fungus species]]
+
+
+{{Boletales-stub}}

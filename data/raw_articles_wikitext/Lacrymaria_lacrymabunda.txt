@@ -1,0 +1,56 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Lacrymaria lacrymabunda (Bull.) Pat 173183 crop.jpg
+| image_caption = 
+| genus = Lacrymaria (fungus)
+| species = lacrymabunda
+| authority = ([[Bull.]]) [[Pat.]] (1887)
+| synonyms_ref = <ref name="urlFungorum synonymy: Lacrymaria lacrymabunda"/>
+| synonyms =
+*''Agaricus lacrymabundus'' <small>Bull. (1785)</small>
+*''Lacrymaria velutina'' <small>(Pers.) Konrad & [[Maubl.]] (1925)</small>
+*''Psathyrella velutina'' <small> (Pers.) [[Rolf Singer|Singer]] (1949)</small>
+}}
+{{ mycomorphbox
+| name            = ''Lacrymaria lacrymabunda''
+| hymeniumType    = gills
+| capShape        = campanulate
+| whichGills      = adnate
+| stipeCharacter  = bare
+| sporePrintColor = black
+| ecologicalType  = saprotrophic
+| howEdible = caution
+}}
+
+'''''Lacrymaria lacrymabunda''''', commonly known as the '''weeping widow mushroom''',<ref>{{Cite web |title=Lacrymaria lacrymabunda, Weeping Widow mushroom |url=https://first-nature.com/fungi/lacrymaria-lacrymabunda.php |access-date=2023-10-20 |website=first-nature.com}}</ref> is a [[species]] of [[fungus]] in the family [[Psathyrellaceae]].
+
+The yellowish to grayish cap is up to {{Convert|8|cm|frac=4}} wide, and sometimes orangish in the center. The [[Lamella (mycology)|gills]] are adnate but may appear adnexed. The stem is up to {{Convert|13|cm|abbr=on|frac=4}} long and {{Conv|1.5|cm|abbr=on|frac=4}} wide.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=603}}</ref> The [[spore print]] is blackish-brown.<ref name="audu" />
+
+It is found in North America, Central America, Europe, northern Asia, and New Zealand, where it grows on [[disturbed ground]] in woodland, gardens, and parks. Although it is sometimes listed as an [[edible mushroom|edible]] species, some individuals report developing stomach upset after eating it.<ref name="Roberts 2011" />
+
+==References==
+{{Reflist|refs=
+
+<ref name="Roberts 2011">{{cite book |author=Roberts P, Evans S. |title=The Book of Fungi |year=2011 |publisher=University of Chicago Press |location=Chicago, Illinois |page=181 |isbn=978-0-226-72117-0}}</ref>
+
+<ref name="urlFungorum synonymy: Lacrymaria lacrymabunda">{{cite web |title=Synonymy: ''Lacrymaria'' Pat. |url=http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=355615 |publisher=Species Fungorum. CAB International |accessdate=2014-07-13}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|355615}}
+
+{{Taxonbar|from=Q1423840}}
+
+[[Category:Fungi described in 1785]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Central America]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of New Zealand]]
+[[Category:Psathyrellaceae]]
+[[Category:Taxa named by Jean Baptiste François Pierre Bulliard]]
+[[Category:Fungus species]]
+
+
+{{Psathyrellaceae-stub}}

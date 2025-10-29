@@ -1,0 +1,72 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Hydnellum caeruleum 93507.jpg
+| genus = Hydnellum
+| species = caeruleum
+| authority = [[Petter Karsten|Karsten]]
+}}
+{{Mycomorphbox
+| name = ''{{PAGENAME}}''{{italic title}}
+| hymeniumType = teeth
+| capShape = flat
+| whichGills = decurrent
+| stipeCharacter = bare
+| sporePrintColor = brown
+| ecologicalType = mycorrhizal
+| howEdible = inedible
+}}
+'''''Hydnellum caeruleum''''', commonly known as the '''blue-gray hydnellum''',<ref name=Arora1986>{{Cite book |last=Arora |first=David |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/625/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, California |year=1986 |orig-date=1979 |edition=2nd |pages=625}}</ref> '''blue-green hydnellum''', '''blue spine''', '''blue tooth''', or '''bluish tooth''',<ref>{{cite web |title=Burke Herbarium Image Collection |url=http://biology.burke.washington.edu/herbarium/imagecollection/taxon.php?Taxon=Hydnellum%20caeruleum |website=biology.burke.washington.edu}}</ref> is an inedible [[fungus]] found in North America,<ref name="Miller 2006">{{cite book|last1=Miller Jr.|first1=Orson K.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuides]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=406|author-link=Orson K. Miller Jr.}}</ref> Europe, and temperate areas of Asia.<ref name=":0">{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=232|language=en}}</ref>
+
+The young caps have shades of blue, gray and brown, with light blue near the margin. The stem is orange to brown. The flesh is blue to black in the cap, and red to brownish in the stem. The blue hues tend to fade with age.<ref name=":0" />
+
+''[[Hydnellum aurantiacum]]'' is very similar to mature specimens but differs in color. ''[[Hydnellum suaveolens|H.&nbsp;suaveolens]]'' is similar, with mostly blue flesh and odour of anise.<ref name=":0" />
+
+== Taxonomy ==
+''Hydnellum caeruleum'' (Hornem.) P. Karst was first discovered by [[Jens Wilken Hornemann]] under the Swedish mycologist [[Elias Magnus Fries]] in 1825 and later added to the genus Hydnellum in 1879 by Finnish mycologist [[Petter Adolf Karsten]].<ref name=":1">{{Cite journal |last1=Baird |first1=Richard E. |last2=Khan |first2=Saeed R. |date=1986-04-01 |title=The stipitate hydnums (Thelephoraceae) of Florida |url=https://doi.org/10.2307/2807273 |journal=Brittonia |language=en |volume=38 |issue=2 |pages=171–184 |doi=10.2307/2807273 |jstor=2807273 |bibcode=1986Britt..38..171B |s2cid=85360191 |issn=1938-436X|url-access=subscription }}</ref>
+
+Some past synonyms for the species include ''Hydnum cyaneotinctum'' (found in Orris Island, ME, 1903) and ''Hydnellum/Hydnum/Sarcodon alachuanum'' (found in Alachua, FL, 1940).<ref name=":1" /> 
+
+== Description ==
+
+''H. caeruleum'' belongs to a historic group of [[stipitate hydnoid fungi]] or 'stalked-tooth fungi' due to its morphological appearance with a cap, woody stipe, and distinct toothed hymenium. The fruiting body can be single or fuse with other bodies (called “confluence”) into gregarious or concrescent [[Sporocarp (fungus)|sporocarps]]. Due to this growth pattern, twigs and leaves can sometimes become engulfed into the flesh.<ref name=":1" />
+
+The species has a whitish-blue cap, or [[Pileus (mycology)|pileus]], which can be convex to planar in shape and is around 8 cm broad. The cap is tomentose, meaning that small dense hairs can make it feel velvety to the touch. The fungus is zonate, with concentric bands of color sometimes apparent on its cap, ranging from white, to grayish violet, to pastel blue zones.<ref name=":1" /> When bruised, flesh stains dark inky blue. Similarly, the inner flesh of the fungus appears blue when cut and dulls into a dark gray-blue when dry.
+
+Pale white or gray spines (3-6mm in length) cover the decurrent toothed [[hymenium]] on the stipe and underside of the cap. Older samples may have teeth that have turned brown to dark brown.<ref name=":2">{{Cite journal |last1=Mu |first1=Yan-Hong |last2=Yu |first2=Jia-Rui |last3=Cao |first3=Ting |last4=Wang |first4=Xiang-Hua |last5=Yuan |first5=Hai-Sheng |date=2021 |title=Multi-Gene Phylogeny and Taxonomy of Hydnellum (Bankeraceae, Basidiomycota) from China |journal=Journal of Fungi |language=en |volume=7 |issue=10 |pages=818 |doi=10.3390/jof7100818 |doi-access=free |issn=2309-608X |pmc=8540476 |pmid=34682238}}</ref> Stipe is central and terete in shape, meaning that it is cylindrical and tapers in width. The base of the stipe is more bulbous and sometimes has an orange coloration.<ref name=":1" />
+
+Climate effects can impact the coloration and defining characteristics of this fungus. During periods of high humidity, ''H. caeruleum'' can develop yellow liquid drops on actively growing pilei. Additionally, cool late-September temperatures can lead the fungus to develop deeper blue colors during this time.<ref>{{Cite book |last1=Harrison |first1=Kenneth A. |url=https://www.biodiversitylibrary.org/bibliography/58911 |title=The stipitate hydnums of Nova Scotia |last2=Harrison |first2=Kenneth A. |last3=Canada |date=1961 |publisher=Research Branch, Canada Dept. of Agriculture |location=Ottawa, Ont |doi=10.5962/bhl.title.58911}}</ref>
+
+=== Microscopic features ===
+''H. caeruleum'' produces brownish [[basidiospore]]s which are subglobose, or not quite spherical. The basidiospores are 5–6.2 x 4.5–5.5&nbsp;[[μm]] in size with tuberculate ornamentation.<ref name=":1" /> Small spore sizes in this genera mean that the tubercles can only be investigated under electron microscopy. ''H.&nbsp;caeruleum'' spores investigated by Grand & Van Dyke <ref>{{Cite journal |last1=Grand |first1=L. F. |last2=Van Dyke |first2=C. G. |date=1976 |title=Scanning Electron Microscopy of Basidiospores of Species of Hydnellum, Hydnum, Phellodon, and Bankera (Hydnaceae) |url=https://www.jstor.org/stable/24334551 |journal=Journal of the Elisha Mitchell Scientific Society |volume=92 |issue=3 |pages=114–123 |jstor=24334551 |issn=0013-6220}}</ref> had a high tendency of dichotomously branched tubercles, or two tubercles that arose from the same area.
+
+The species has a [[monomitic]] hyphal system. Simple-septa generative hyphae makes up the tissues and is rarely found with [[Clamp connection|clamp connections]]. Basidia are clavate with four sterigmata.<ref name=":2" />
+
+=== Similar species ===
+''H. caeruleum'' can be discerned from the macroscopically similar ''[[Hydnellum suaveolens|H.&nbsp;suaveolens]]'' species based on microscopic features, though their odors are a useful way to identify the species in the field. ''H.&nbsp;caeruleum'' has a farinaceous, starchy odor, while ''H.&nbsp;suaveolens'' has a minty, fragrant odor.<ref>{{Cite journal |last1=Hall |first1=D. |last2=Stuntz |first2=D. E. |date=1972 |title=Pileate Hydnaceae of the Puget Sound Area III. Brown-Spored Genus: Hydnellum |url=https://www.tandfonline.com/doi/full/10.1080/00275514.1972.12019301 |journal=Mycologia |language=en |volume=64 |issue=3 |pages=560–590 |doi=10.1080/00275514.1972.12019301 |issn=0027-5514|url-access=subscription }}</ref>
+
+==Ecology==
+''Hydnellum caeruleum'' is [[mycorrhiza]]l and often found in the [[humus]] beneath [[conifer]] trees.<ref name=":3">{{cite book |last1=Sturgeon |first1=Walt |title=Appalachian mushrooms : a field guide |date=2018 |isbn=978-0-8214-2325-7 |location=Athens, Ohio |pages=394}}</ref>
+
+''H. caeruleum'' is an [[Ectomycorrhiza|ectomycorrhizal fungus]] native to temperate regions of Asia, Europe, and North America. The species is commonly found in pine and spruce ecosystems due to its [[Mycorrhiza|mycorrhizal]] relationships with coniferous trees.<ref name=":3" /> In these relationships, the fungus receives nutrients from the tree and in turn assists the plant in water and mineral uptake. Therefore, it is speculated that this fungus holds important impacts for the field of forestry. 
+
+A study from 2012 suggests that stipitate hydnoid fungi such as ''H.&nbsp;caeruleum'' can remain in soils 1-4 years after their sporocarps are gon due to persistent below-ground mycelium. This persistence of vegetal mycelium was more important for the survival of the species than the production of sporocarps for sexual reproduction, suggesting that sporocarps may only form under specific advantageous conditions.<ref>{{Cite journal |last1=van der Linde |first1=Sietse |last2=Holden |first2=Elizabeth |last3=Parkin |first3=Pamela I. |last4=Alexander |first4=Ian J. |last5=Anderson |first5=Ian C. |date=2012-10-01 |title=Now you see it, now you don't: The challenge of detecting, monitoring and conserving ectomycorrhizal fungi |url=https://www.sciencedirect.com/science/article/pii/S1754504812000463 |journal=Fungal Ecology |volume=5 |issue=5 |pages=633–640 |doi=10.1016/j.funeco.2012.04.002 |issn=1754-5048|url-access=subscription }}</ref>
+
+A study on stipitate hydnoid fungi in Scottish coniferous forests, which focused on the conservation status and distribution of fungi in these habitats, discovered ''H.&nbsp;caeruleum'' making an interesting ectomycorrhizal association. ''H.&nbsp;caeruleum'' made an association with an heather shrub (''[[Arctostaphylos uva-ursi]])'' in a treeless site, indicating that the fungus may be able to switch hosts from coniferous trees to shrub species. The study suggested that this finding is important for the field of fungi and tree conservation, as ''H.&nbsp;caeruleum'' could survive even after a deforestation event and assist in the eventual reforestation of its habitat.<ref>{{Cite journal |last1=Newton |first1=A. C. |last2=Holden |first2=E. |last3=Davy |first3=L. M. |last4=Ward |first4=S. D. |last5=Fleming |first5=L. V. |last6=Watling |first6=R. |date=2002-10-01 |title=Status and distribution of stipitate hydnoid fungi in Scottish coniferous forests |url=https://www.sciencedirect.com/science/article/pii/S0006320702000605 |journal=Biological Conservation |volume=107 |issue=2 |pages=181–192 |doi=10.1016/S0006-3207(02)00060-5 |bibcode=2002BCons.107..181N |issn=0006-3207|url-access=subscription }}</ref>
+
+== Relevance to humans ==
+While the fungus is not edible for humans, ''H.&nbsp;caeruleum''’s unique coloration makes it a prized species for [[mushroom dye]]rs. The fungus can create blue, green, and brown dyes depending on the [[mordant]] that is used.<ref>{{Cite web |last=Beeler |first=J. |title=Hydnellum caeruleum |url=https://mushroomcoloratlas.com/mushroom/hydnellum_caeruleum/ |access-date=4 February 2024 |website=Mushroom Color Atlas}}</ref> Additionally, some bioactive compounds have been isolated from the species including the p-terphenyl compound Aurantiacin<ref>{{Cite journal |last1=Montfort |first1=M.L. |last2=Tyler |first2=V.E. |last3=Brady |first3=L.R. |date=1966 |title=Isolation of Aurantiacin from Hydnellum caeruleum |url=https://doi.org/10.1002/jps.2600551127 |journal=Journal of Pharmaceutical Sciences |volume=55 |issue=11 |pages=1300–1302 |doi=10.1002/jps.2600551127 |issn=0022-3549|url-access=subscription }}</ref> and six p-terphenyl derivatives named thelephantins I–N with a known compound, dihydroaurantiacin dibenzoate.<ref>{{Cite journal |last1=Quang |first1=Dang Ngoc |last2=Hashimoto |first2=Toshihiro |last3=Hitaka |first3=Yuki |last4=Tanaka |first4=Masami |last5=Nukada |first5=Makiko |last6=Yamamoto |first6=Isao |last7=Asakawa |first7=Yoshinori |date=2004-04-01 |title=Thelephantins I–N: p-terphenyl derivatives from the inedible mushroom Hydnellum caeruleum |url=https://www.sciencedirect.com/science/article/pii/S0031942204000846 |journal=Phytochemistry |volume=65 |issue=8 |pages=1179–1184 |doi=10.1016/j.phytochem.2004.02.018 |bibcode=2004PChem..65.1179Q |issn=0031-9422|url-access=subscription }}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.indexfungorum.org/Names/SynSpecies.asp?RecordID=102122 Index Fungorum] synonyms
+*[http://botit.botany.wisc.edu/toms_fungi/aug2003.html Tom Volk's Fungus of the Month] pictures and more information
+*[http://healing-mushrooms.net/archives/hydnellum-caeruleum.html healing-Mushrooms.net] description, bioactive compounds and medicinal properties
+
+{{Taxonbar|from=Q3915187}}
+
+[[Category:Inedible fungi]]
+[[Category:Hydnellum|caeruleum]]
+[[Category:Fungi of Europe]]
+[[Category:Fungus species]]

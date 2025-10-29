@@ -1,0 +1,76 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Bondarzewia berkeleyi.jpg
+| image_caption = 
+| genus = Bondarzewia
+| species = berkeleyi
+| authority = ([[Elias Magnus Fries|Fr.]]) Bondartsev & [[Rolf Singer|Singer]] (1941)
+| synonyms_ref = 
+| synonyms = *''Polyporus berkeleyi'' <small>Fr. (1851)</small>
+}}
+
+'''''Bondarzewia berkeleyi''''', commonly known as '''Berkeley's polypore''',<ref name="Bessette 2007"/> or '''stump blossoms''',<ref name=Roody2003/> is a species of [[polypore]] fungus in the family [[Russulaceae]]. It is a [[parasitism|parasitic]] species that causes [[butt rot]] in [[oak]]s and other hardwood trees. A widespread fungus, it is found in the Old World and North America.
+
+== Taxonomy ==
+[[Elias Magnus Fries]] described the species as ''Polyporus berkeleyi'' in 1851. It was moved to the genus ''[[Bondarzewia]]'' in 1941.<ref name="Bondartsev 1941" />
+
+== Description ==
+The fan- or shelf-shaped caps grow in overlapping clumps from the bases of trees, each growing to {{Convert|20-50|cm|frac=2}} diameter.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=164}}</ref> They are zoned in various shades of white to pale grey, cream, beige or yellow.<ref name="audu" /> The pore surface is white, as is the [[spore print]]. The round spores are 7–9 by 6–8&nbsp;[[μm]] and have marked amyloid ridges. The tough white flesh can be up to {{Convert|3|cm|abbr=on|frac=4}} thick and has a mild taste, becoming bitter with age.<ref name="audu" /> The outer edges that cut easily with a knife are quite tender.
+
+=== Similar species ===
+Potential lookalikes include ''[[Bondarzewia occidentalis|B. occidentalis]]'', ''[[Grifola frondosa]]'', ''[[Meripilus sumstinei]]'', and ''[[Vanderbylia]]'' spp.<ref name="audu" />
+
+== Distribution and habitat ==
+The distribution of ''B. berkeleyi'' is widespread, occurring in Europe, Asia, Africa, and North America east of the [[Great Plains]] (June–October).<ref name="Zhishu 1993" /><ref name=":0">{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |publisher=Firefly Books |year=2010 |isbn=978-1-55407-651-2 |location=Buffalo, NY |page=297}}</ref><ref name="audu" /> While its primary host is [[oak]], it has also been observed on other hardwood species such as [[maple]].<ref>{{Cite journal |last=Gramss |first=G. |date=January 1987 |title=R. L. Gilbertson and L. Ryvarden, North American Polypores. Volume 1: Abortiporus — Lindtneria. 433 S., 209 Abb. Oslo 1986. Fungiflora A/S |url=https://onlinelibrary.wiley.com/doi/10.1002/jobm.3620270513 |journal=Journal of Basic Microbiology |volume=27 |issue=5 |pages=282 |doi=10.1002/jobm.3620270513 |issn=0233-111X|url-access=subscription }}</ref>
+
+In China it has been recorded from Guangdong and Hunan provinces.<ref name="Zhishu 1993"/><ref name="Dai 2003"/> The fruit bodies appear over July to October in the United States.<ref name="Bessette 2007"/> A survey of host trees in North Carolina found that it almost always grew on oaks, being recorded from the white oak (''[[Quercus alba]]''),  scarlet oak (''[[Quercus coccinea|Q. coccinea]]''),  southern red oak (''[[Quercus falcata|Q. falcata]]''),  chestnut oak (''[[Quercus prinus|Q. prinus]]'') and eastern black oak (''[[Quercus velutina|Q. velutina]]''), as well as bird cherry (''[[Prunus pensylvanica]]'').<ref name="Grand 2007"/>
+
+== Ecology ==
+''Bondarzewia berkeleyi'' is a [[parasitic]] fungus causing [[butt rot]] in oaks and other hardwood trees.<ref name="Kuo 2010" /> It causes a white stringy rot in the roots and heartwood of the lower trunk, typically not extending more than {{Convert|0.9-1.5|m|ft|abbr=on|frac=2}} upwards. The decay is mainly restricted to the heartwood, and external symptoms might include excessive tapering or flaring at the base of the trunk, cracks, seams, and sap flow. The fungus is known for its rapid growth rate compared to other wood-rotting fungi common on oaks.<ref>{{Cite web |last=nbrazee |date=2020-01-22 |title=Root and Butt Rot caused by Bondarzewia berkeleyi (Berkeley's Polypore) |url=https://ag.umass.edu/landscape/fact-sheets/root-butt-rot-caused-by-bondarzewia-berkeleyi-berkeleys-polypore |access-date=2024-05-20 |website=Center for Agriculture, Food, and the Environment }}</ref>
+
+While primarily a parasite, ''B. berkeleyi'' can also act as a [[saprophyte]], thriving on dead hardwood trees or stumps. The fruiting bodies typically appear on infected trees in summer and fall.<ref name="Kuo 2010" />
+
+== Edibility ==
+''B. berkeleyi'' is typically considered [[Edible mushroom|edible]] when young, tender and well cooked, the palatability decreases with age as the flesh becomes tough and bitter.<ref name=":0" /> Some sources compare the texture to shoe leather when older,<ref name="Kuo 2010" /> while others suggest that the softer outer edges of older specimens can be consumed.<ref>{{Cite web |title=Berkeley's Polypore |url=https://mdc.mo.gov/discover-nature/field-guide/berkeleys-polypore |access-date=2024-05-20 |website=Missouri Department of Conservation }}</ref> Some field guides list the species as inedible or warn that it may cause [[gastrointestinal upset]] or [[allergic reactions]] in some individuals.<ref>{{Cite book |last=Arora |first=David |title=Mushrooms demystified: a comprehensive guide to the fleshy fungi |date=1986 |publisher=Ten Speed Press |isbn=978-0-89815-170-1 |edition=Second |location=Berkeley}}</ref><ref name="Miller 2006">{{cite book |last1=Miller Jr. |first1=Orson K. |author-link=Orson K. Miller Jr. |title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi |last2=Miller |first2=Hope H. |publisher=[[FalconGuides]] |year=2006 |isbn=978-0-7627-3109-1 |location=Guilford, CN |pages=420}}</ref>
+
+It may be able to be used to strengthen other flavors in dishes, much like [[tofu]]. It can also reportedly be used as a [[meat substitute]].<ref name="vegan" /> Preparation methods often involve parboiling or blanching to remove bitterness, followed by slicing and incorporating into stir-fries or other dishes.
+
+==See also==
+*[[Largest fungal fruit bodies]]
+
+==References==
+{{Reflist|30em|refs=
+
+<ref name="Bessette 2007">{{cite book |author=Bessette A. |title=Mushrooms of the Southeastern United States |url=https://books.google.com/books?id=IB1Gv3jZMmAC&pg=PA250 |year=2007 |publisher=Syracuse University Press |isbn=978-0-8156-3112-5 |page=250}}</ref>
+
+<ref name="Bondartsev 1941">{{cite journal |vauthors=Bondartsev A, Singer R |year= 1941|title= Zur Systematik der Polyporaceae|journal= Annales Mycologici |volume=39 |issue=1 |pages=43–65}}</ref>
+
+<ref name="Dai 2003">{{cite journal |vauthors=Dai YC, Härkönen M, Niemelä T |title= Wood-inhabiting fungi in southern China 1. Polypores from Hunan Province | journal=Annales Botanici Fennici |year=2003 |pages= 81–93 |url=http://www.annbot.net/PDF/anbf40/anbf40-381.pdf}}</ref>
+
+<ref name="Grand 2007">{{cite journal |vauthors=Grand LF, Vernia CS | url=http://mycotaxon.com/resources/checklists/grand-v99-checklist.pdf | date=2007|title=Biogeography and hosts of period wood decay fungi in North Carolina: Species of ''Abortiporus'', ''Bondarzewia'', ''Grifola'', ''Heterobasidion'', ''Laetiporus'', and ''Meripilus''|journal=Mycotaxon|volume=99|pages=99–102}}</ref>
+
+<ref name="Kuo 2010">{{cite book |vauthors=Kuo M, Methven A |title=100 Cool Mushrooms |publisher=University of Michigan Press |location=Ann Arbor, Michigan |year=2010 |page=33 |isbn=978-0-472-03417-8}}</ref>
+
+<ref name=Roody2003>{{cite book |author=Roody WC |title=Mushrooms of West Virginia and the Central Appalachians |publisher=University Press of Kentucky |location=Lexington, Kentucky |year=2003 |page=348 |isbn=0-8131-9039-8 |url=https://books.google.com/books?id=5HGMPEiy4ykC&pg=PA348}}</ref>
+
+<ref name=vegan>{{cite book |title=The Wild Vegan Cookbook: A Forager's Culinary Guide (in the Field Or in the Supermarket) to Preparing and Savoring Wild (and Not So Wild) Natural Foods |author=Brill S. | publisher=Houghton Mifflin Harcourt |year=2010 |isbn=9781558327214 |page=199}}</ref>
+
+<ref name="Zhishu 1993">{{cite book |vauthors=Zhishu B, Zheng G, Taihui L |title=The Macrofungus Flora of China's Guangdong Province |publisher=Columbia University Press |location=New York, New York |year=1993 |page=153 }}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|293765}}
+*{{Commons category-inline|Bondarzewia berkeleyi|''Bondarzewia berkeleyi''}}
+
+{{Taxonbar|from=Q10432823}}
+{{Authority control}}
+
+[[Category:Fungi described in 1851]]
+[[Category:Fungi of Africa]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Russulales]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]

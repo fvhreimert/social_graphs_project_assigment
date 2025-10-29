@@ -1,0 +1,23 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Marasmiellus ramealis 2 - Lindsey.jpg
+| image_caption =
+| genus = Marasmiellus
+| species = ramealis
+| authority = ([[Bull.]]) [[Rolf Singer|Singer]] (1948)
+| synonyms = *''Agaricus ramealis'' <small>Bull. (1788)</small> 
+}}
+
+'''''Marasmiellus ramealis''''' is a species of [[mushroom]]-forming [[fungus]] of the family [[Marasmiaceae]].
+
+==External links==
+*{{IndexFungorum|287907}}
+
+{{Taxonbar|from=Q670544}}
+
+[[Category:Fungi described in 1788]]
+[[Category:Marasmiaceae]]
+[[Category:Fungus species]]
+
+
+{{Marasmiaceae-stub}}

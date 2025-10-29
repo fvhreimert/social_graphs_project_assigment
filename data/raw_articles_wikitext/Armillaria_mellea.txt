@@ -1,0 +1,265 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Armillaria mellea, Honey Fungus, UK 1.jpg
+| genus = Armillaria
+| species = mellea
+| authority = ([[Martin Vahl|Vahl]]) [[Paul Kummer|P.Kumm.]] (1871)
+| synonyms_ref = <ref name="urlMycoBank: Armillaria mellea"/>
+| synonyms = {{plainlist|
+* ''Agaricus melleus'' <small>Vahl (1790)</small>
+* ''Agaricus sulphureus'' <small>[[Weinm.]]</small>
+* ''Armillaria mellea'' var. ''glabra'' <small>[[Claude-Casimir Gillet|Gillet]] (1874)</small>
+* ''Armillaria mellea'' var. ''maxima'' <small>[[Jean-Baptiste Barla|Barla]] (1887)</small>
+* ''Armillaria mellea'' var. ''minor'' <small>Barla (1887)</small>
+* ''Armillaria mellea'' var. ''sulphurea'' <small>(Weinm.) [[Elias Magnus Fries|Fr.]] (1879)</small>
+* ''Armillariella mellea'' <small>(Vahl) [[P.Karst.]] (1881)</small>
+* ''Clitocybe mellea'' <small>(Vahl) [[Adalbert Ricken|Ricken]] (1915)</small>
+* ''Lepiota mellea'' <small>(Vahl) [[J.E.Lange]] (1915)</small>
+  }}
+}}
+{{Mycomorphbox
+| name = ''Armillaria mellea''
+| whichGills = adnate
+| whichGills2 = subdecurrent
+| capShape = convex
+| capShape2 = flat
+| hymeniumType = gills
+| stipeCharacter = ring
+| ecologicalType = parasitic
+| sporePrintColor = white
+| howEdible = edible
+| howEdible2 = allergenic
+}}
+'''''Armillaria mellea''''', commonly known as '''honey fungus''', is an edible [[basidiomycete]] fungus in the genus ''[[Armillaria]]''. It is a [[plant pathogen]] and part of a [[cryptic species complex]] of closely related and [[Morphology (biology)|morphologically]] similar species. It causes [[Armillaria root rot]] in many plant species and produces mushrooms around the base of trees it has infected. The symptoms of infection appear in the crowns of infected trees as discoloured foliage, reduced growth, [[Forest dieback|dieback]] of the branches and death. The [[mycelium]] is capable of producing light via [[bioluminescence]].
+
+The mushroom is widely distributed in [[temperate]] regions of the Northern Hemisphere. It typically grows on hardwoods but may be found around and on other living and dead wood or in open areas.
+
+==Taxonomy==
+The species was originally named ''Agaricus melleus'' by Danish-Norwegian botanist [[Martin Vahl]] in 1790; it was transferred to the genus ''[[Armillaria]]'' in 1871 by [[Paul Kummer]].<ref name="urlMycoBank: Armillaria mellea"/> Numerous [[Taxon|subtaxa]] have been described:
+{| class="wikitable sortable plainrowheaders" border="1"
+|+Still-current subtaxa under ''A. mellea'' per MycoBank<ref name=mycosearch>Based on MycoBank search results for "Armillaria mellea", which should list all taxa containing this string in the name. The search results also list a "current name", which reflects MycoBank's current taxonomic opinion (last accessed May 5, 2025). The search function may be accessed via https://www.mycobank.org/Simple%20names%20search.</ref>
+|-
+!scope="col"|Name
+!scope="col"|Authority
+!scope="col"|&nbsp;Year
+|-
+! scope="row"|var. ''camerunensis''
+| [[Henn.]]<ref name="Hennings 1895"/>
+| style="text-align:center;"| 1895
+|-
+! scope="row"|var. ''flava''
+| [[Charles Horton Peck|Peck]]<ref name="Peck 1897"/>
+| style="text-align:center;"| 1897
+|-
+! scope="row"|var. ''glabra''
+| [[Claude-Casimir Gillet|Gillet]]<ref name="Gillet 1874"/>
+| style="text-align:center;"| 1874
+|-
+! scope="row"|var. ''javanica''
+| [[Henn.]]<ref name="Hennings 1900"/>
+| style="text-align:center;"| 1900
+|-
+! scope="row"|var. ''maxima''
+| [[Jean-Baptiste Barla|Barla]]<ref name="Barla 1887"/>
+| style="text-align:center;"| 1887
+|-
+! scope="row"|var. ''radicata''
+| [[Charles Horton Peck|Peck]]<ref name="Peck 1891"/>
+| style="text-align:center;"| 1891
+|-
+! scope="row"| var. ''viridiflava''
+| [[Jean-Baptiste Barla|Barla]]<ref name="Barla 1887"/>
+| style="text-align:center;"| 1887
+|-
+! scope="row"|subsp. ''nipponica''
+| J.Y.Cha & Igarashi<ref name="Cha 1995"/>
+| style="text-align:center;"|1995
+|-
+! scope="row"|f. ''rosea''
+|Calonge & M.Seq.<ref name="Calonge 2003"/>
+| style="text-align:center;"|2003
+|-
+! scope=row |f. ''sabulicola''
+|A. Ortega & G. Moreno<ref>MycoBank #584201</ref>
+| style="text-align:center;"| 2010
+|}
+
+MycoBank also lists f. ''mellea'', subsp. ''mellea'', and var. ''mellea'' as current with a "(?)".<ref name=mycosearch/>
+
+=== Reclassified species ===
+''Armillaria mellea'' once included a range of species with similar features that have since been reclassified. The following are reassigned subtaxa, mostly variety-level entries from the 19th century:<ref name="Ross-Davis 2012"/>
+
+{| class="wikitable sortable plainrowheaders" border="1"
+|+Reassigned subtaxa of ''A. mellea''<ref name=mycosearch/>
+|-
+!scope="col"|Name
+!scope="col"|Authority
+!scope="col"|&nbsp;Year
+!scope="col"|Current name
+|-
+! scope="row"|var. ''minor''
+| [[Jean-Baptiste Barla|Barla]]<ref name="Barla 1887"/>
+| style="text-align:center;"| 1887
+| '''''A. mellea''''' (variety simply discarded)
+|-
+! scope="row"|var. ''bulbosa''
+| [[Jean-Baptiste Barla|Barla]]<ref name="Barla 1887"/>
+| style="text-align:center;"| 1887
+| ''[[Armillaria lutea|A. lutea]]''
+|-
+! scope="row"|var. ''exannulata''
+| [[Charles Horton Peck|Peck]]<ref name="Peck 1893"/>
+| style="text-align:center;"| 1893
+| ''[[Desarmillaria tabescens]]''
+|-
+! scope="row"|var. ''laricina''
+| ([[James Bolton|Bolton]]) Barla<ref name="Barla 1887"/>
+| style="text-align:center;"| 1887
+| ''[[Armillaria laricina|A. laricina]]''
+|-
+! scope="row"|var. ''obscura''
+| [[Claude Casimir Gillet|Gillet]]<ref name="Gillet 1874"/>
+| style="text-align:center;"| 1874
+| ''[[Armillaria ostoyae|A. ostoyae]]''
+|-
+! scope="row"|var. ''sulphurea''
+| ([[Weinm.]]) [[Elias Magnus Fries|Fr.]]<ref name="Karsten 1879"/>
+| style="text-align:center;"|1879
+| ''Agaricus sulphureus'' Weinm. (?)<ref>Question mark from MycoBank. Not to be confused with ''Agaricus sulphureus'' Bull,. which is a synonym for ''[[Tricholoma sulphureum]]''. Some sources instead just assign to ''A. mellea'', discarding the variety part.</ref>
+|-
+! scope="row"|var. ''tabescens''
+|([[Scop.]]) [[Carleton Rea|Rea]] & [[Ramsb.]]
+| style="text-align:center;"|1917
+| ''[[Desarmillaria tabescens]]''
+|-
+! scope="row"|var. ''versicolor''
+| ([[With.]]) [[W.G.Sm.]]<ref name="Smith 1908"/>
+| style="text-align:center;"|1908
+| ''[[Agaricus versicolor|A. versicolor]]'' Withering 1801
+|}
+
+=== Common names ===
+It is commonly known as honey fungus, stump mushroom, stumpie, honey mushroom, pipinky or pinky,{{Citation needed|date=May 2025}}
+
+==Description==
+'s ''Coloured Figures of English Fungi or Mushrooms'']]
+]]
+The [[basidiocarp]] of each has a smooth cap {{convert|3|to|15|cm|0|abbr=on}} in diameter,<ref name=":5" /> convex at first but becoming flattened with age often with a central raised umbo, later becoming somewhat dish-shaped. The margins of the cap are often arched at maturity and the surface is sticky when wet. Though typically honey-coloured, this fungus is rather variable in appearance and sometimes has a few dark, hairy scales near the centre somewhat radially arranged. The [[lamella (mycology)|gills]] are white at first, sometimes becoming pinkish-yellow or discoloured with age, broad and fairly distant, attached to the [[stipe (mycology)|stipe]] at right angles or are slightly [[decurrent]]. The [[trama (mycology)|flesh]] of the cap is whitish and has a sweetish odour and flavour with a tinge of bitterness.
+
+The stipe is of variable length, up to about {{convert|20|cm|in|0|abbr=on}} long and {{convert|3.5|cm|in|frac=4|abbr=on}} in diameter. It is fibrillose and of a firm spongy consistency at first but later becomes hollow. It is cylindrical and tapers to a point at its base where it is fused to the stipes of other mushrooms in the clump. It is whitish at the upper end and brownish-yellow below, often with a very dark-coloured base. There is a broad persistent skin-like [[annulus (mycology)|ring]] attached to the upper part of the stipe. This has a velvety margin and yellowish fluff underneath and extends outwards as a white [[partial veil]] protecting the gills when young.
+
+Under the microscope, the [[spore]]s are approximately elliptical, 7–9 by 6–7&nbsp;[[μm]], [[inamyloid]] with prominent apiculi (short, pointed projections) at the base. The [[spore print]] is white. The [[basidia]] (spore-producing structures) lack basal clamps.<ref>{{cite book |title=Mushrooms and Toadstools in Colour |last1=Hvass |first1=Else |last2=Hvass |first2=Hans |year=1961 |publisher=Blandford Press |isbn=9780713701463 |page=110 }}</ref><ref name="Kuo">{{cite web |url=https://www.mushroomexpert.com/armillaria_mellea.html |title=''Armillaria mellea'': The Honey Mushroom |author=Kuo, Michael |date=2004-10-01 |work=MushroomExpert.Com |access-date=2013-10-18}}</ref>
+
+The main part of the fungus is underground where a mat of [[mycelial]] threads may extend for great distances. They are bundled together in [[rhizomorph]]s that are black in this species.<ref name="Kuo" /> The fungal body is not [[bioluminescent]] but its mycelia are luminous when in active growth.<ref name="Desjardin 2008" />
+
+=== Similar species ===
+In addition to a number of [[#Reclassified species|reclassified species]], ''[[Armillaria gemina]]'' lacks the yellow cap background and [[Armillaria nabsnona|''A.&nbsp;nabsnona'']] has a darker hue.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=446}}</ref>
+
+== Distribution and habitat ==
+''Armillaria mellea'' is widespread in northern [[temperate]] zones. It has been found throughout North America,<ref name="audu" /> and in Europe and northern Asia. It has been [[introduced species|introduced]] to South Africa. It grows [[parasitically]] on a large number of broadleaf trees.  It fruits in dense clusters at the base of trunks or stumps.<ref name="Roberts 2011" />
+
+== Ecology ==
+''Armillaria mellea'' prefers moist soil and lower soil temperatures<ref name=":1">{{Cite web |title=Armillaria Root Rot Management Guidelines--UC IPM |url=https://ipm.ucanr.edu/PMG/PESTNOTES/pn74171.html |access-date=2020-12-10 |website=ipm.ucanr.edu |language=en-us}}</ref> but it can also withstand extreme temperatures, such as forest fires, due to the protection of the soil.<ref name=":0">{{Cite web |title=Armillaria {{!}} Description, Species, Size, & Facts |url=https://www.britannica.com/science/Armillaria |access-date=2020-12-10 |website=Encyclopedia Britannica |language=en}}</ref> It is found in many kinds of landscapes, including gardens, parks, vineyards, tree production areas, and natural landscapes.<ref name=":1" />
+
+''Armillaria mellea'' typically is symbiotic with hardwood trees and [[conifers]],<ref name=":0" /> including orchards, planted forests, vineyards,<ref>{{Cite web |title=Armillaria root disease, shoestring root rot |url=https://www.apsnet.org/edcenter/disandpath/fungalbasidio/pdlessons/Pages/Armillaria.aspx |access-date=2024-04-29 |website=Armillaria root disease, shoestring root rot |language=en-US}}</ref> and a few herbaceous plants.<ref name=":1" /> It infects new hosts through rhizomorphs<ref name=":2" /><ref name=":3" /> and basidiospores.<ref>{{Cite web |title=2011 Meeting {{!}} Clonal and sexual dispersal of Armillaria mellea in an ornamental landscape |url=https://www.apsnet.org/meetings/Documents/2011_Meeting_Abstracts/a11ma1044.htm |access-date=2020-12-10 |website=www.apsnet.org}}</ref> It is rare for basidiospores to be successful in infecting new hosts and often colonize woody debris instead,<ref name=":1" /> but rhizomorphs, however, can grow up to ten feet long in order to find a new host.<ref name=":3" />
+
+There are few signs, and they are often difficult to observe. The most prominent sign is honey-coloured mushrooms at the base of the infected plant.<ref name=":2">{{Cite web|title=Armillaria Root Disease|url=https://hort.extension.wisc.edu/articles/armillaria-root-disease/|access-date=2020-12-10|website=Wisconsin Horticulture}}</ref> Additional signs include white, fan-shaped mycelia and black rhizomorphs with diameters between {{Convert|1/32 and 1/8|in|4=1}}.<ref name=":1" /> These usually are not as noticeable because they occur beneath the bark and in the soil, respectively.<ref name=":1" /> The symptoms are much more numerous, including slower growth, dieback of branches, yellowing foliage,<ref name=":2" /> rotted wood at base and/or roots, external cankers, cracking bark, bleeding stem, leaf wilting, defoliation, and rapid death.<ref name=":1" /> Leaf wilting, defoliation, and dieback occur after the destruction of the cambium.<ref name=":1" />
+
+It is one of the most common causes of death in trees and shrubs in both natural and cultivated habitats, and cause steady and substantial losses.
+
+=== Disease cycle ===
+''Armillaria mellea'' infects both through basidiospore<ref name=":3">{{Cite web|title=2011 Meeting {{!}} Clonal and sexual dispersal of Armillaria mellea in an ornamental landscape|url=https://www.apsnet.org/meetings/Documents/2011_Meeting_Abstracts/a11ma1044.htm|access-date=2020-12-10|website=www.apsnet.org}}</ref> and penetration of host species by rhizomorphs<ref name=":2" /> which can grow up to {{convert|1|m|in|0|sp=us}} long per year<ref>{{Cite journal |last=Redfern |first=D.B. |date=December 1973 |title=Growth and behaviour of Armillaria mellea rhizomorphs in soil |url=https://www.sciencedirect.com/science/article/pii/S0007153673801263 |journal=Transactions of the British Mycological Society|volume=61 |issue=3 |pages=569–IN16 |doi=10.1016/S0007-1536(73)80126-3 |url-access=subscription }}</ref> to find new, living tissue to infect.<ref name=":3" /> However, infection of living host tissue through basidiospores is quite rare.<ref name=":1" /> Two basidiospores must germinate and fuse to be viable and produce mycelium.<ref name=":1" /> In the late summer and autumn, ''Armillaria mellea'' produces mushrooms with notched gills, a ring near the cap base, and a white to golden color.<ref name=":0" /> They do not always appear,<ref name=":1" /> but when they do they can be found on both living and dead trees near the ground.<ref name=":1" /> These mushrooms produce and release the sexually created basidiospore which is dispersed by the wind.<ref name=":1" /> This is the only spore-bearing phase. The fungus overwinters as either rhizomorphs or vegetative mycelium.<ref>{{Cite web|title=Welcome|url=https://id.elsevier.com/as/authorization.oauth2?platSite=SD%2Fscience&scope=openid%20email%20profile%20els_auth_info%20els_idp_info%20urn%3Acom%3Aelsevier%3Aidp%3Apolicy%3Aproduct%3Aindv_identity&response_type=code&redirect_uri=https%3A%2F%2Fwww.sciencedirect.com%2Fuser%2Fidentity%2Flanding&authType=SINGLE_SIGN_IN&prompt=login&client_id=SDFE-v3&state=retryCounter%3D0%26csrfToken%3D675556d1-2195-4a3b-8df4-e62361425a1c%26idpPolicy%3Durn%253Acom%253Aelsevier%253Aidp%253Apolicy%253Aproduct%253Aindv_identity%26returnUrl%3D%252Ftopics%252Fagricultural-and-biological-sciences%252Farmillaria-mellea%252Fpdf%26prompt%3Dlogin%26cid%3Datp-b1d220f4-0562-4994-a083-1bf9f8c9ef37|access-date=2020-12-10|website=id.elsevier.com}}</ref> Infected wood is weakened through decay in roots and tree base after destruction of the [[vascular cambium]] and underlying wood.<ref name=":1" />
+
+Trees become infected when rhizomorphs growing through the soil encounter uninfected roots. Alternatively, when infected roots come into contact with uninfected ones the fungal mycelium may grow across. The rhizomorphs invade the trunk, growing between the bark and the wood and causing wood decay, growth reduction and mortality. Trees that are already under stress are more likely to be attacked but healthy trees may also be parasitized. The foliage becomes sparse and discoloured, twig growth slows down and branches may die back. When they are attacked, the [[Douglas-fir]], [[western larch]] and some other conifers often produce an extra large crop of cones shortly before dying. Coniferous trees also tend to ooze resin from infected areas whereas broad-leaved trees sometimes develop sunken [[canker]]s. A growth of fruiting bodies near the base of the trunk confirms the suspicion of Armillaria root rot.<ref>{{cite web |url=http://www.na.fs.fed.us/spfo/pubs/fidls/armillaria/armillaria.htm |title=Armillaria Root Disease |author1=Williams, RE |author2=Shaw, CG |author3=Wargo, PM |author4=Sites, WH |date=1989-04-01 |work=Forest Insect & Disease Leaflet 78 |publisher=US Department of Agriculture Forest Service |access-date=2013-10-17}}</ref>
+
+In 1893, the American mycologist [[Charles Horton Peck]] reported finding ''Armillaria'' fruiting bodies that were "aborted", in a similar way to specimens of ''[[Entoloma abortivum]]''. It was not until 1974 that [[Roy Watling]] showed that the aborted specimens included cells of both ''Armillaria mellea'' and ''Entoloma abortivum''. He thought that the ''Armillaria'' was parasitizing the ''Entoloma'', a plausible hypothesis given its [[pathogen]]ic behaviour.<ref>{{cite web |url=https://www.mushroomexpert.com/entoloma_abortivum.html |title=''Entoloma abortivum'' |author=Kuo, Michael |date=2004-10-01 |work=MushroomExpert.Com  |access-date=2013-10-19}}</ref> However, a 2001 study by Czederpiltz, Volk and Burdsall showed that the ''Entoloma'' was in fact the microparasite. The whitish-grey malformed fruit bodies known as carpophoroids were the result of ''E.&nbsp;abortivum'' [[hypha]]e penetrating the ''Armillaria'' and disrupting its normal development.<ref name="Czederpiltz 2001"/>
+
+The main part of the fungus is underground where a mat of mycelial threads may extend for great distances. The rhizomorphs of are initiated from mycelium into multicellular apices of rhizomorphs, which are multicellular vegetative organs that exclude soil from the interior of the rhizomorph tissues. The rhizomorphs spread through far greater distances through the ground than the mycelium. The rhizomorphs are black in this species.<ref name=Kuo/> The fungal body is not [[Bioluminescence|bioluminescent]] but its mycelia and rhizomorphs are luminous when in active growth.<ref name="Desjardin 2008"/> ''A.&nbsp;mellea'' producing rhizomorphs is parasitic on woody plants of many species, including especially shrubs, hardwood and evergreen trees. In one example, ''A.&nbsp;mellea'' spread by rhizomorphs from an initially infected tree killed 600 trees in a prune orchard in 6 years. Each infected tree was immediately adjacent to an already infected one, the spread by rhizomorphs through the tree roots and soil.<ref>(Piper and Fletcher, 1903, Wash. Age. Exp. Sat. But., 59: 1–14); cited in Rhizomorph Development in A. mellea, Ph.D. thesis, by Philip Snider(1957), Farlow Herbarium Library Harvard Univ., 20 Divinity Ave., Cambridge, Mass.</ref>
+
+=== Management ===
+There are fungicides or management practices that will kill ''A.&nbsp;mellea'' after infection without damaging the infected plant, but these practicies are still being studied.<ref>{{Cite journal |last1=Aguín |first1=Olga |last2=Mansilla |first2=J Pedro |last3=Sainz |first3=María J |date=March 2006 |title=In vitro selection of an effective fungicide against Armillaria mellea and control of white root rot of grapevine in the field |url=https://onlinelibrary.wiley.com/doi/10.1002/ps.1149 |journal=Pest Management Science |language=en |volume=62 |issue=3 |pages=223–228 |doi=10.1002/ps.1149 |pmid=16475239 |issn=1526-498X|url-access=subscription }}</ref> There are practices that can extend the life of the plant and prevent further spreading. The best way to extend the plant life is to improve the host condition through supplemental watering and fertilization.<ref name=":2" /> To prevent further spread, it is recommended to regulate irrigation to avoid water stress, keep the root collar dry, control defoliating pathogens, remove stumps, fertilize adequately, avoid physical root damage and soil compaction, and to not plant trees that are especially susceptible to the disease in places where ''A.&nbsp;mellea'' has been recorded.<ref name=":1" /> There is also some evidence that biological control using the fungus genus ''[[Trichoderma]]'' may help. ''Trichoderma'' is a predator of ''A.&nbsp;mellea'' and is often found in woodchips.<ref name=":1" /> Therefore, chipping or grinding dead and infected roots will give ''Trichoderma'' its preferred habitat and help it proliferate. Solarization will also create an ideal habitat as dry soil and higher soil temperatures are preferable for ''Trichoderma'' but poor conditions for ''A.&nbsp;mellea.''<ref name=":1" />
+
+==Edibility==
+
+''Armillaria mellea'' mushroom are considered good edibles, though not preferred by some, and the tough stalks are usually excluded.<ref name=":5">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=134–135|oclc=797915861}}</ref> They are best collected when young and thoroughly cooked.<ref name="tfb">{{Cite book |last=Francis-Baker |first=Tiffany |title=Concise Foraging Guide |date=2021 |publisher=[[Bloomsbury Publishing|Bloomsbury]] |isbn=978-1-4729-8474-6 |series=[[The Wildlife Trusts]] |location=London |pages=131}}</ref> Some individuals have reported "allergic" reactions that result in stomach upsets. Some authors suggest not collecting mushrooms from the wood of various trees, including [[tsuga|hemlock]], [[Aesculus|buckeye]], [[eucalyptus]], and [[locust tree|locust]].{{citation needed|date=December 2020}} They may have been used medicinally by indigenous peoples as a [[laxative]].<ref>{{Cite book |last=Holzer |first=Sepp |title=Sepp Holzer's permaculture : a practical guide to small-scale, integrative farming and gardening |date=2010 |publisher=Chelsea Green Pub |others=Anna Sapsford-Francis |isbn=978-1-60358-370-1 |edition=1st English language |location=White River Junction, VT |oclc=694395083}}</ref>
+
+The mushrooms have a taste that has been described as slightly sweet and nutty, with a texture ranging from chewy to crunchy, depending on the method of preparation. [[Parboiling]] mushrooms before consuming removes the bitter taste present in some specimens, and may reduce the amount of gastrointestinal irritants.<ref>{{Cite book | language = it   | publisher =  Ministero della Salute and Regione Lombardia | year  = 2012 | author  = AA.VV. | editor = Francesca Assisi| url = http://www.salute.gov.it/imgs/C_17_opuscoliPoster_149_allegato.pdf | access-date = 13 November 2018 | page  = 21 | chapter  = Informazioni utili   | title = I funghi: guida alla prevenzione delle intossicazioni }}</ref> According to one guide, they must be cooked before eating.<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |url=https://archive.org/details/mushroomsotherfu0000phil |url-access=registration |year=2010 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=[https://archive.org/details/mushroomsotherfu0000phil/page/42 42]}}</ref> Drying the mushrooms preserves and intensifies their flavour, although reconstituted mushrooms tend to be tough to eat.<ref name="Kuo 2007" /> The mushrooms can also be [[pickling|pickled]] and [[roast]]ed.
+
+== Cultivation ==
+Cultivation of ''A. mellea'' started with cultivation of its mycellia, which is used to support the cultivation of ''[[Gastrodia elata]]'', a non-photosynthetic plant used in [[traditional Chinese medicine]]. This kind of cultivation has been present since 1994 and uses pieces of wood inoculated with the fungus.<ref>{{cite web |title=天麻栽培方法 |url=https://patents.google.com/patent/CN1059306C/zh |website=Google Patent |language=zh |date=January 20, 1994 |trans-title=Method for cultivating Gastrodia elata}}</ref> In 2017, farmers from [[Heilongjiang]] succeeded in producing fruiting bodies (mushrooms) through cultivation.<ref>{{cite web |author1=哈尔滨新闻 网 [Harbin News Web] |title=我省菇农首次种植榛蘑成功 |url=https://www.sohu.com/a/148713848_349336 |website=www.sohu.com |date=2017-06-14|trans-title=Mushroom farmer from our province report success in planting Zhen-mo mushrooms|language=zh}}</ref> By 2019, the spent myceliated wood from ''Gastrodia'' cultivation is routinely used to seed new wood for mushroom production.<ref>{{cite web |author1=吉林乡村广播 [Jilin Countryside Radio] |trans-title=How to plant Zhen-mo artificially? Expert gives you the best answer... |title=榛蘑人工栽培如何做才可行呢？专家给你最好的答案...... |url=https://www.sohu.com/a/355920923_784014 |website=www.sohu.com |date=2019-11-25|language=zh}}</ref>
+
+==Chemistry==
+Several bioactive compounds have been isolated and identified from the fruit bodies. The [[triterpene]]s 3β-hydroxyglutin-5-ene,  friedelane-2α,3β-diol, and [[friedelin]] were reported in 2011.<ref name="Guo 2011"/> [[Indole]] compounds include [[tryptamine]], {{Nowrap|L-[[tryptophan]]}} and [[serotonin]].<ref name="Muszynska 2011"/>
+
+The fungus produces [[cytotoxic]] compounds known as melleolides. Melleolides are made from orsellinic acid and protoilludane sesquiterpene alcohols via esterification. A polyketide synthase gene, termed ''ArmB'', was identified in the genome of the fungus, which was found expressed during melleolide production. The gene shares c. 42% similarity with the orsellinic acid synthase gene (''OrsA'') in ''Aspergillus nidulans''. Characterization of the gene proved it to catalyze orsillinic acid in vitro. It is a non-reducing iterative type-1 polyketide synthase. Co-incubation of free orsellinic acid with alcohols and ArmB showed cross-coupling activity. Therefore, the enzyme has transesterification activity. Also, there are other auxiliary factors suspected to control substrate specificity.<ref>Lackner et al., 2013</ref> Additionally, halogen modifications have been observed. Overexpression of annotated halogenases (termed ''ArmH1-5'') and characterization of the subsequent enzymes revealed in all five enzymes the chlorination of mellolide&nbsp;F. In vitro reactions of free standing substrates showed that the enzymes do not require auxiliary carrier proteins for substrate delivery.<ref>Wick et al., 2015</ref>
+
+==See also==
+{{Commons category|Armillaria mellea}}
+* [[Forest pathology]]
+* [[List of Armillaria species|List of ''Armillaria'' species]]
+* [[List of bioluminescent fungi]]
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Barla 1887">{{cite journal |author=Barla JB. |title=Liste des champignons nouvellement observés dans le département des Alpes-Maritimes |journal=Bulletin de la Société Mycologique de France |year=1887 |volume=3 |issue=2 |pages=138–44 |language=fr}}</ref>
+
+<ref name="Calonge 2003">{{cite journal |vauthors=Calonge FD, Menezes de Sequeira M |title=Contribución al catálogo de los hongos de Madeira (Portugal) |journal=Boletín de la Sociedad Micológica de Madrid |year=2003 |volume=27 |pages=277–308 |language=es}}</ref>
+
+<ref name="Cha 1995">{{cite journal |vauthors=Cha JY, Igarashi T |title=A note on ''Armillaria mellea'' subsp. ''nipponica'' subsp. nov. in Japan |journal=Mycoscience |year=1995 |volume=36 |issue=2 |pages=143–6 |doi=10.1007/BF02268548|s2cid=84793024 }}</ref>
+
+<ref name="Czederpiltz 2001">{{cite journal |vauthors=Czederpiltz DL, Volk TJ, Burdsall HH Jr |year=2001 |title=Field observations and inoculation experiments to determine the nature of the carpophoroids associated with ''Entoloma abortivum'' and ''Armillaria'' |journal=Mycologia |volume=93 |issue=5 |pages= 841–51 |jstor= 3761750 |doi=10.2307/3761750 }}</ref>
+
+<ref name="Desjardin 2008">{{cite journal |vauthors=Desjardin DE, Oliveira AG, Stevani CV |year=2008 |title=Fungi bioluminescence revisited |journal=Photochemical & Photobiological Sciences |volume=7 |issue=2 |pages=170–82 |doi=10.1039/b713328f |pmid=18264584|bibcode=2008PhPhS...7..170D |citeseerx=10.1.1.1033.2156 |s2cid=10637645 }}</ref>
+
+<ref name="Gillet 1874">{{cite book |author=Gillet CC. |title=Les Hyménomycètes ou Description de tous les Champignons qui Croissent en France |year=1874 |volume=1 |publisher=Ch. Thomas |location=Alençon |language=fr |page=84}}</ref>
+
+<ref name="Guo 2011">{{cite journal |vauthors=Guo WJ, Guo SX |title=Triterpene from ''Armillaria mellea'' |journal=Chemistry of Natural Compounds |year=2011 |volume=46 |issue=6 |pages=995–6 |doi=10.1007/s10600-011-9809-4|bibcode=2011CNatC..46..995J |s2cid=189785379 }}</ref>
+
+<ref name="Hennings 1895">{{cite journal |author=Hennings P. |title=Fungi camerunenses I |journal=Botanische Jahrbücher für Systematik, Pflanzengeschichte und Pflanzengeographie |year=1895 |volume=22 |pages=72–111 (see p.&nbsp;107) |language=de}}</ref>
+
+<ref name="Hennings 1900">{{cite journal |author=Hennings P. |title=Fungi monsunenses |journal=Monsunia |year=1900 |volume=1 |pages=1–38}}</ref>
+
+<ref name="Karsten 1879">{{cite journal |author=Karsten PA. |title=Rysslands, Finlands och den Skandinaviska halföns Hattsvampar. Förra Delen: Skifsvampar |journal=Bidrag till Kännedom av Finlands Natur och Folk |year=1879 |volume=32 |page=22 |language=de}}</ref>
+
+<ref name="Kuo 2007">{{cite book |author=Kuo M. |title=100 Edible Mushrooms |publisher=The University of Michigan Press |location=Ann Arbor, Michigan |year=2007 |pages=[https://archive.org/details/100ediblemushroo00kuom/page/244 244–6] |isbn=978-0-472-03126-9 |url-access=registration |url=https://archive.org/details/100ediblemushroo00kuom/page/244 }}</ref>
+
+<ref name="Muszynska 2011">{{cite journal |vauthors=Muszynska B, Maslanka A, Ekiert H, Sulkowska-Ziaja K |title=Analysis of indole compounds in ''Armillaria mellea'' fruiting bodies |journal=Acta Poloniae Pharmaceutica |year=2011 |volume=68 |issue=1 |pages=93–7 |pmid=21485706}}</ref>
+
+<ref name="Peck 1891">{{cite journal |author=Peck CH. |title=Report of the Botanist (1890) |journal=Annual Report on the New York State Museum of Natural History |year=1891 |volume=44 |pages=117–87 (see p.&nbsp;150)}}</ref>
+
+<ref name="Peck 1893">{{cite journal |author=Peck CH. |title=Report of the Botanist (1892) |journal=Annual Report on the New York State Museum of Natural History |year=1893 |volume=46 |pages=85–149 (see p.&nbsp;134) }}</ref>
+
+<ref name="Peck 1897">{{cite journal |author=Peck CH. |title=Report of the Botanist (1894) |journal=Annual Report on the New York State Museum of Natural History |year=1896 |volume=48 |pages=103–337 (see p.&nbsp;265)}}</ref>
+
+<ref name="Roberts 2011">{{cite book |vauthors=Roberts P, Evans S |title=The Book of Fungi |year=2011 |publisher=University of Chicago Press |location=Chicago, Illinois |page=63 |isbn=978-0-226-72117-0}}</ref>
+
+<ref name="Ross-Davis 2012">{{cite journal |vauthors=Ross-Davis AL, Hanna JW, Kim MS, Klopfenstein NB |title=Advances toward DNA-based identification and phylogeny of North American Armillariaspecies using elongation factor-1 alpha gene |journal=Mycoscience |year=2012 |volume=53 |issue=2 |pages=161–5 |doi=10.1007/s10267-011-0148-x|s2cid=83996766 |doi-access=free }}</ref>
+
+<ref name="Smith 1908">{{cite book |author=Smith WG. |title=Synopsis of the British Basidiomycetes: A descriptive catalogue of the drawings and specimens in the department of Botany British Museum |year=1908 |publisher=The Trustees of the British Museum, London |location=London, UK |page=[https://archive.org/details/synopsisofbritis00smit/page/30 30]|url=https://archive.org/details/synopsisofbritis00smit}}</ref>
+
+<ref name="urlMycoBank: Armillaria mellea">{{cite web |title=''Armillaria mellea'' (Vahl) P. Kumm., Der Führer in die Pilzkunde: 134, 1871 |url=http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=1620&Fields=All |publisher=[[MycoBank]]. International Mycological Association |access-date=2013-10-19}}</ref>
+
+Lackner et al. (2013) Assembly of Melleolide Antibiotics Involves a Polyketide Synthase with Cross-Coupling Activity. Chemistry & Biology. Volume 20, Issue 9, 19 September 2013, Pages 1101-1106.
+
+Wick et al. (2015) A Fivefold Parallelized Biosynthetic Process Secures Chlorination of Armillaria mellea (Honey Mushroom) Toxins. Appl. Environ. Microbiol. February 2016 vol. 82 no. 4 1196-1204
+
+}}
+
+{{Taxonbar|from=Q473745}}
+{{Authority control}}
+
+[[Category:Bioluminescent fungi]]
+[[Category:Armillaria|mellea]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1790]]
+[[Category:Fungi of Africa]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Parasitic fungi]]
+[[Category:Fungal grape diseases]]
+[[Category:Fungal tree pathogens and diseases]]
+[[Category:Taxa named by Martin Vahl]]
+[[Category:Fungus species]]
+[[Category:Fungi in cultivation]]

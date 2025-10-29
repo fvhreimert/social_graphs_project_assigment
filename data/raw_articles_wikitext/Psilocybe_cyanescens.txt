@@ -1,0 +1,107 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+ | image             = 2012-12-05_Psilocybe_cyanescens_Wakef_290262.jpg
+ | genus             = Psilocybe
+ | species           = cyanescens
+ | authority         = [[Elsie Maud Wakefield|Wakefield]]<ref name="wakefield"/>
+}}
+{{mycomorphbox
+| name = ''Psilocybe cyanescens''
+| whichGills = adnate
+| whichGills2= subdecurrent
+| capShape = umbonate
+| hymeniumType=gills
+| stipeCharacter=bare
+| ecologicalType=saprotrophic
+| sporePrintColor=blackish-brown
+| sporePrintColor2=purple
+| howEdible=psychoactive
+}}
+
+'''''Psilocybe cyanescens''''', commonly known as the '''wavy cap''' or '''potent psilocybe''',<ref name="MD" /> is a species of potent [[psychedelic mushroom]]. The main compounds responsible for its psychedelic effects are [[psilocybin]] and [[psilocin]]. It belongs to the family [[Hymenogastraceae]]. A formal description of the species was published by [[Elsie Wakefield]] in 1946 in the ''[[Transactions of the British Mycological Society]]'', based on a specimen she had recently collected at [[Kew Gardens]].<ref name="wakefield">{{Cite journal |last=Dennis |first=RWG |last2=Wakefield |first2=EM |date=1946 |title=New or interesting British fungi |url=http://www.cybertruffle.org.uk/cyberliber/index.htm |journal=Transactions of the British Mycological Society |language=en |volume=29 |issue=3 |pages=141–166 [141–142] |doi=10.1016/S0007-1536(46)80038-X |doi-access=}}</ref> She had begun collecting the species as early as 1910.<ref name="fieldmyco" /><ref name="duffy">{{cite web|last=Duffy|first=Thomas|title=Toxic Fungi of Western North America|url=http://www.mykoweb.com/TFWNA/P-49.html|work=Myokoweb|access-date=31 August 2011}}</ref> <!--Although not a print source, Duffy is a former president of the MSSF and recognized expert.  --> The mushroom is not generally regarded as being physically dangerous to adults.<ref name="GGMM">{{cite book |title=Growing Gourmet and Medicinal Mushrooms |year=2000 |author=Paul Stamets |publisher=Ten Speed Press |page=329 |isbn=978-1-58008-175-7 }}</ref><ref name="Gartz1">{{cite journal|last=Gartz|first=Jochen|title=Observations on the ''Psilocybe cyanescens'' complex of Europe and America|journal=Ann. Mus. Civ Rovereto|year=1998|volume=12}}</ref> 
+
+''Psilocybe cyanescens'' can sometimes fruit in colossal quantities; more than 100,000 individual mushrooms were found growing in a single patch at a racetrack in England.<ref name=guardian/>
+
+==Description==
+]]
+
+''Psilocybe cyanescens'' has a [[hygrophanous]] [[pileus (mycology)|pileus]] (cap) that is caramel to chestnut-brown when moist, fading to pale buff or slightly yellowish when dried. Caps generally measure from {{convert|1.5-5|cm|frac=2|abbr=on}} across, and are normally distinctly wavy in maturity.<ref name=MD/>  The color of the pileus is rarely seen in mushrooms outside of the ''P.&nbsp;cyanescens'' species complex. Most parts of the mushroom, including the cap and [[Lamella (mycology)|Lamellae]] (gills, underneath the cap) can stain blue when touched or otherwise disturbed, probably due to the oxidation of psilocin.<ref name=Gartz1/><ref name=MP>{{cite book|editor1-last=Spoerke|editor1-first=David G.|title=Handbook of mushroom poisoning: diagnosis and treatment|year=1994|publisher=CRC Press|location=Boca Raton|isbn=978-0-8493-0194-0|editor2-last=Rumack|editor2-first=Barry H.}}</ref> The lamellae are adnate, and light brown to dark purple brown in maturity, with lighter gill edges. There is no distinct [[annulus (mycology)|annulus]], but immature ''P.&nbsp;cyanescens'' specimens do have a cobwebby veil which may leave an annular zone in maturity.<ref name=MD/> Both the odor and taste are [[farinaceous]].
+
+''P. cyanescens'' has elliptical spores which measure 9–12 x 5–8&nbsp;μm.<ref name=PMW>{{cite book | first=Paul | last=Stamets | year=1996 | title=Psilocybin Mushrooms of the World | url=https://archive.org/details/psilocybinmushro00stam | url-access=limited | publisher=Ten Speed Press | location=Berkeley | isbn=0-9610798-0-0| page=[https://archive.org/details/psilocybinmushro00stam/page/n61 111]}}</ref> According to some authors, the [[holotype]] collection of the species from [[Kew Gardens]] featured no pleurocystidia, but North American collections are characterized by common clavate-mucronate pleurocystidia.<ref name=GGMM/><ref name=Gartz1/> However, pleurocystidia are present in the holotype collection (but not easily to observe since hymenium is collapsed). In European collections of ''P.&nbsp;cyanescens'', pleurocystidia are common and their shape is identical to those known from the United States.<ref name=wakefield/><ref name=JB2008>{{cite journal|last=Borovička|first=Jan|title=The wood-rotting bluing ''Psilocybe'' species in central Europe - an identification key|journal=Czech Mycology|year=2008|volume=60|issue=2|pages=173–192|doi=10.33585/cmy.60202}}</ref> In 2012, an [[epitype]] from Hamburg, Germany was designated.<ref name="Borovička 2012">{{cite journal |vauthors=Borovička J, Rockefeller A, Werner PG |title=''Psilocybe allenii'' – a new bluing species from the west coast, USA |journal=Czech Mycology |year=2012 |pages=181–95 |volume=64 |issue=2 |doi=10.33585/cmy.64207 |url=http://czechmycology.org/_cmo/CM64207.pdf <!-- alternate URL: https://www.researchgate.net/publication/233864673_Psilocybe_allenii__a_new_bluing_species_from_the_Pacific_Coast_USA/file/d912f50c63f6f8c95c.pdf --> |format=PDF|url-access=subscription }}</ref>
+
+Fresh sporocarps and mycelia of ''P.&nbsp;cyanescens'' generally bruise blueish or blue-green where damaged, and the staining remains visible after drying. This staining is most noticeable on the stem (which is white when undisturbed) but can also occur on other parts of the mushroom, including the gills, cap,<ref name=MD/> and mycelium.<ref name=GGMM/>  This staining is due primarily to the oxidation of psilocin. (Psilocybin cannot be oxidized directly, but is quickly converted via enzymatic action to psilocin at injury sites which can then be oxidized, so even specimens with little psilocin still generally stain blue.)<ref name=Gartz1/><ref name=MP/>
+
+===Related species===
+
+Other related species may include ''[[Psilocybe weraroa|P.&nbsp;weraroa]]'', and these relatives are collectively referred to as the "''Psilocybe cyanescens'' complex" or as the "caramel-capped psilocybe complex," due to their extremely similar appearance and habit.<ref name=GGMM/>  There is phylogenetic evidence that there are two distinct clades in the complex, one consisting of ''P.&nbsp;cyanescens'' and ''P.&nbsp;azurescens'' and allies, and the other consisting of ''P.&nbsp;serbica'' and allies (European taxa).<ref name=seco>{{cite journal|last=Borovička|first=Jan|author2=Noordeloos, Machiel E. |author3=Gryndler, Milan |author4=Oborník, Miroslav |title=Molecular phylogeny of ''Psilocybe cyanescens'' complex in Europe, with reference to the position of the secotioid Weraroa novae-zelandiae|journal=Mycological Progress|volume=10|issue=2|pages=149–155|doi=10.1007/s11557-010-0684-3|year=2010|bibcode=2011MycPr..10..149B |s2cid=36050854}}</ref> It has also been shown that ''[[Psilocybe weraroa]]'' (previously known as ''Weraroa novae-zelandiae'') is very closely related to ''P.&nbsp;cyanescens'' despite its vastly dissimilar appearance.<ref name=seco/>
+
+A very close relative of ''P. cyanescens'' is ''[[Psilocybe allenii]]'' (described in 2012), formerly known informally as ''Psilocybe'' "cyanofriscosa" ([[nom. inval.]]), a mushroom found in [[California]] and [[Washington (state)|Washington]]<ref name=beugmag>{{cite journal|last=Beug|first=Michael|title=The Genus ''Psilocybe'' of North America|journal=Fungi Magazine|year=2011|volume=4|issue=3}}</ref><ref name="Borovička 2012"/> It can be distinguished by macromorphological features and/or sequencing of rDNA ITS molecular marker.
+
+It is often difficult or impossible to distinguish between members of the ''P.&nbsp;cyanescens'' complex except by range without resorting to microscopic or molecular characters.<ref name=GGMM/>
+
+Although not closely related, ''P.&nbsp;cyanescens'' has been at least occasionally confused with ''[[Galerina marginata]]'' with fatal results.{{Citation needed|reason=Need a source for claims of actual fatalities related to mistaken ID.|date=September 2018}} The two mushrooms have generally similar habits and appearances, and bear a superficial resemblance to each other such that inexperienced mushroom-seekers may confuse the two.<ref name=MD/> The two species can grow side-by-side, which may add to the chance of confusion.<ref name=beug2>{{cite web|last=Beug|first=Michael|title=POISONOUS AND HALLUCINOGENIC MUSHROOMS|url=http://academic.evergreen.edu/projects/mushrooms/phm/s8.htm|work=Evergreen State College|access-date=31 August 2011|archive-date=24 October 2017|archive-url=https://web.archive.org/web/20171024161140/http://academic.evergreen.edu/projects/mushrooms/phm/s8.htm|url-status=dead}}</ref> <!-- this is not a published/peer-reviewed work but Beug is a recognized expert making a simple observation within his own field--> The two mushrooms have different colored spores, making a spore print essential to proper identification.
+
+==Habitat and distribution==
+
+
+''Psilocybe cyanescens'' grows today primarily on wood chips, especially in and along the perimeter of mulched plant beds in urban areas,<ref name=fieldmyco/> but can also grow on other lignin-rich substrates.<ref name=GGMM/> ''P.&nbsp;cyanescens'' does not grow on substrate that is not lignin-rich.<ref name=MD/><ref name= GGMM/> Fruitings have been reported in natural settings previously (although most appear to be migrations from mulched plant beds.)<ref name=GGMM/><ref name=guardian/>  The species does not typically grow on mulch that is made from bark.<ref>{{cite book|last=Stamets|first=Paul|title=Mycelium running : how mushrooms can help save the world|year=2005|publisher=Ten Speed Press|location=Berkeley, Calif.|isbn=978-1-58008-579-3|url=https://archive.org/details/myceliumrunningh00stam_0}}</ref>
+
+In the United States, ''P. cyanescens'' occurs mainly in the [[Pacific Northwest]], stretching south to the [[San Francisco Bay Area]]. It can also be found in areas such as New Zealand,<ref>{{Cite web|title=Wavy Cap (Psilocybe cyanescens)|url=https://inaturalist.nz/observations/58012685|access-date=2021-02-21|website=iNaturalist NZ|date=August 2020|language=en}}</ref> [[Western Europe]], [[Central Europe]], and parts of west Asia (Iran).<ref name=Asef2010>{{cite book |title=قارچهای سمی ایران (Qarch-ha-ye Sammi-ye Iran) |trans-title=Poisonous mushrooms of Iran |year=2010 |author=Asef Shayan MR. |publisher=Iran shenasi |page=214 |isbn=978-964-2725-29-8 |language=fa}}</ref> The range in which ''P.&nbsp;cyanescens'' occurs is rapidly expanding, especially in areas where it is not native as the use of mulch to control weeds has been popularized.<ref name=guardian>{{cite news|last=Brown|first=Paul|title=Magic mushrooms thrive as weeds wane|url=https://www.theguardian.com/environment/2001/jan/03/uknews|access-date=28 August 2011|newspaper=The Guardian|date=January 3, 2011}}</ref>  This rapid expansion of range may be due in part to the simple expedient of ''P.&nbsp;cyanescens'' mycelium having colonized the distribution network of woodchip suppliers and thus being distributed on a large scale with commercial mulch.<ref name=fieldmyco/> It has been documented to fruit in Spring on the East Coast of the United States.<ref>{{Cite web|url=http://www.limyco.org/|title=Long Island Mycological Club|website=www.limyco.org|access-date=2018-09-03}}</ref>
+
+Although it has been speculated that ''P.&nbsp;cyanescens''' native habitat is the coniferous woodlands of the north-western United States<ref name=fieldmyco/><ref name=GGMM/> or coastal dunes in the PNW, and the type specimen was described from mulch beds in Kew Gardens, the natural distribution of ''P.&nbsp;cyanescens'' in the wild remains unknown.<ref name=fieldmyco>{{cite journal|last=Shaw|first=Peter J.A.|author2=Geoffrey Kibby|title=Aliens in the Flowerbeds: The fungal biodiversity of ornamental woodchips|journal=Field Mycology|date=January 2001|volume=2|issue=1|doi=10.1016/s1468-1641(10)60081-3|pages=6–11|doi-access=free}}</ref>
+
+Fruiting is dependent on a drop in temperature.<ref name=GGMM/> In the San Francisco Bay Area, this means that fruiting typically occurs between late October and February,<ref name=MD>{{Cite book |last=Arora |first=David |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/371/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |year=1986 |orig-date=1979 |edition=2nd |pages=371}}</ref> and fruiting in other areas generally occurs in fall, when temperatures are between {{convert|10-18|C|F}}.<ref name=GGMM/>
+
+''Psilocybe cyanescens'' often fruits gregariously or in cespitose clusters, sometimes in great numbers. 100,000 ''P.&nbsp;cyanescens'' fruits were once found growing on a racetrack in the south of England.<ref name=guardian/> Solitary fruits are sometimes also found.<ref name=GGMM/>
+
+==Indole content==
+The fruits of ''P. cyanescens'' have been shown to contain many different [[indole alkaloid]]s including [[psilocybin]], [[psilocin]], and [[baeocystin]].<ref name=GGMM/><ref name=Gartz1/> It has also been shown that ''P.&nbsp;cyanescens'' mycelium will contain detectable levels of psilocin and psilocybin, but only after the formation of [[primordia]].<ref name=fbi>{{cite journal|last=Gross|first=Susan|title=Detecting psychoactive drugs in the developmental stages of mushrooms|journal=Journal of Forensic Sciences|date=May 2000|volume=45|issue=3 |pages=527–537 |pmid=10855955 |url=http://www.fanaticus.com/forensic.htm <!-- alternate URL: http://www.seanet.com/~rwmcpherson/forensic.htm --> |doi=10.1520/JFS14725J|url-access=subscription}}</ref>
+
+Indole content has been shown to be higher in North American specimens of ''P.&nbsp;cyanescens'' than in European ones.<ref name=Gartz1/>  This was, however, caused by the fact that Gartz did not analyze the genuine ''P.&nbsp;cyanescens'' but ''P.&nbsp;serbica''.{{Citation needed|date=July 2020}}
+
+North American fruiting bodies of ''P.&nbsp;cyanescens'' have been shown to have between 0.66% and 1.96% total indole content by dry weight.<ref name=beug>{{cite journal|last=BEUG|first=M|author2=BIGWOOD, J |title=Psilocybin and psilocin levels in twenty species from seven genera of wild mushrooms in the Pacific Northwest, U.S.A|journal=Journal of Ethnopharmacology|date=1 May 1982|volume=5|issue=3|pages=271–285|doi=10.1016/0378-8741(82)90013-7|pmid=7201053}}</ref>  European fruiting bodies have been shown to have between 0.39% and 0.75% total indole content by dry weight.<ref name=Gartz1/>
+
+North American specimens of ''P. cyanescens'' are among the most potent of psychedelic mushrooms.<ref name=MD/><ref name=GGMM/>  Its potency means that it is widely sought after by users of [[recreational drugs]] in those areas where it grows naturally.<ref name=GGMM/>
+
+==Cultivation==
+Fruiting begins with simulation of a fall environment at temperatures between {{convert|10-18|°C|°F}}.{{citation needed|date=December 2022}}
+
+''Psilocybe cyanescens'', like many other psilocybin containing mushrooms, is sometimes cultivated.<ref name="GGMM" /> Due to the fruiting requirements of the species, it is challenging but possible to get ''P.&nbsp;cyanescens'' to produce fruits indoors.<ref name=GGMM/> Outdoor cultivation in an appropriate climate is relatively easy.<ref name=GGMM/> Yield per pound of substrate is low when compared to other psilocybin containing mushrooms for both indoor and outdoor cultivation.<ref name=GGMM/>  The combination of poor yield and difficulty may explain why ''P.&nbsp;cyanescens'' is grown less frequently than some other psilocybin containing mushrooms.<ref name=GGMM/>
+
+''Psilocybe cyanescens'' mycelium is easier to grow than actual fruits are, can be grown indoors,<ref name=GGMM/> and is robust enough that it can be transplanted in order to start new patches.<ref name=MD/> Mycelium can also be propagated via stem butt transplantation.<ref name=GGMM/> Many of the cultivation techniques used with other members of the genus ''Psilocybe'' can be used to grow ''P.&nbsp;cyanescens'' as well.<ref name=Gartz1/> Cultivated ''P.&nbsp;cyanescens'' contain approximately the same concentration of psilocin and psilocybin as natural examples do.<ref name=Gartz1/>
+
+
+
+==Legal status==
+{{main|Legal status of psilocybin mushrooms}}
+
+''Psilocybe cyanescens'' specimens do not fall under the [[Convention on Psychotropic Substances]] because the convention does not cover naturally occurring plants or fungi that incidentally contain a scheduled drug.<ref name=UN>{{cite book|last=Lande|first=Adolf|title=Commentary on the Convention on Psychotropic Substances|year=1976|publisher=United Nations|location=New York|page=385}}</ref>  However, many countries choose to prohibit possession of psilocybin containing mushrooms, including ''P.&nbsp;cyanescens'', under their domestic laws.<ref name=erowid/><!-- 'plants' here is not used only for kingdom plantae. this use is consistent with how such documents use it-->
+
+Countries that have banned or severely regulated the possession of ''P.&nbsp;cyanescens'' include the United States, Germany, New Zealand, and many others. Although this is difficult to enforce since no species of Psilocybe mushroom has spores containing psilocybin or psilocin.<ref name=erowid/> Because of this, ''P.&nbsp;cyanescens'' spores are not illegal to possess in many US states.  (It is illegal to possess spores in Georgia and Idaho, and illegal to possess them with the intent to produce mushrooms in California.)<ref name=erowid>{{Cite web|url=http://www.erowid.org/plants/mushrooms/mushrooms_law8.shtml|title = Erowid Psilocybin Mushroom Vault : Law : Legality of Psilocybin Mushroom Spores}}</ref>
+
+==Gallery==
+<gallery>
+File:Psilocybe_cyanescens_Alan.jpg
+File:2012-12-05 Psilocybe cyanescens Wakef 290259.jpg
+File:Psilocybe cyanescens Blauender Kahlkopf 01.jpg
+File:2012-12-05 Psilocybe cyanescens Wakef 290269.jpg
+File:Psilocybe.cyanescens.1000x.dic.JPG
+</gallery>
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* [http://www.mykoweb.com/CAF/species/Psilocybe_cyanescens.html ''Psilocybe cyanescens''] at MykoWeb
+
+{{Hallucinogenic mushrooms}}
+{{Psychedelics}}
+{{Taxonbar|from=Q882592}}
+
+[[Category:Entheogens]]
+[[Category:Psychoactive fungi]]
+[[Category:Psilocybe|cyanescens]]
+[[Category:Psychedelic tryptamine carriers]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungus species]]

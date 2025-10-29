@@ -1,0 +1,97 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Omphalotus guepiniformis Berk Neda 02.jpg
+| genus = Omphalotus
+| species = japonicus
+| authority =  ([[Seiichi Kawamura|Kawam.]]) [[Kirchm.]] & [[Orson K. Miller, Jr.|O.K.Mill.]] (2002)
+| synonyms_ref = <ref name="urlMycoBank: Omphalotus japonicus"/><ref name="Neda 2004"/><ref name="Redhead 2006"/>
+| synonyms =
+  {{plainlist|
+*''Pleurotus harmandii'' <small>[[Har.]] & [[Pat.]] (1902)</small>
+*''Pleurotus japonicus'' <small>Kawam. (1915)</small>
+*''Armillaria japonica'' <small>(Kawam.) [[S.Imai]] (1938)</small>
+*''Lampteromyces japonicus'' <small>(Kawam.) [[Rolf Singer|Singer]] (1947)</small>
+*''Omphalotus guepiniformis'' <small>([[Berk.]]) Neda (2004)</small>
+  }}
+}}
+{{mycomorphbox 
+| name = ''Omphalotus japonicus''
+| whichGills = decurrent 
+| capShape = infundibuliform 
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = saprotrophic
+| sporePrintColor = yellow
+| howEdible = poisonous
+}}
+
+'''''Omphalotus japonicus''''', commonly known as the '''tsukiyotake''' {{nihongo||月夜茸|}}, is an orange to brown-colored gilled [[mushroom]] native to Japan and Eastern Asia. It is a member of the [[wikt:cosmopolitan|cosmopolitan]] genus ''[[Omphalotus]]'', the members of which have [[bioluminescence|bioluminescent]] fruit bodies which glow in darkness. A 2004 [[molecular phylogenetics|molecular]] study shows it to be most closely related to a [[clade]] composed of ''[[Omphalotus nidiformis]]'' of [[Australia]], ''[[Omphalotus olivascens]]'' of Western [[North America]] and ''[[Omphalotus olearius]]'' of [[Europe]].<ref name="Kirchmair 2004"/>
+
+''Omphalotus japonicus'' is poisonous. Its consumption results in acute nausea and vomiting for several hours. It is often confused with edible fungi and mistakenly consumed in Japan.
+
+==Taxonomy==
+Inoko first described this fungus as ''Pleurotus noctilucens'' in 1889, however the name proved invalid as the binomial had already been used for another species.<ref name="Neda 2004"/> Given the name ''Pleurotus japonicus'' by [[Seiichi Kawamura]] in 1915, it was given the name ''Lampteromyces japonicus'' by [[Rolf Singer]] in 1947,<ref name="urlMycoBank: Omphalotus japonicus"/> until the genus ''Lampteromyces'' was sunk into ''[[Omphalotus]]'' in 2004.<ref name="Kirchmair 2004"/>  Hitoshi Neda has proposed this fungus is the same as one described by [[Miles Joseph Berkeley]] as ''Agaricus guepiniformis'' in 1878, as the [[type specimen]] fits the description of ''O. japonicus'' and hence, based on the [[Correct name (botany)|principle of priority]], the name should be ''Omphalotus guepiniformis'' (Berk.) Neda.<ref name="Neda 2004"/> A proposal was submitted in 2006 to [[conserved name|conserve]] the epithet ''japonicus'' against ''guepiniformis'' and another [[synonym (biology)|synonym]], ''Pleurotus harmandii''.<ref name="Redhead 2006"/> The proposal was accepted by the [[Nomenclature Committee for Fungi]] in 2008.<ref name="Norvell 2008"/>
+
+The little-known ''Lampteromyces luminescens'', described in 1979 in China by M. Zang, is similar genetically and may be a synonym, however the taxon is insufficiently known to confirm this.<ref name="Yang  2013"/>
+
+The species is mentioned in ''[[Konjaku Monogatarishū]]'', an anthology of Japanese folk tales dating from the 12th century.<ref name="Redhead 2006"/> The Japanese name ''tsukiyotake'' translates as "moon-night mushroom".<ref name="Kawamura 1915"/>
+
+==Description==
+The fleshy [[basidiocarp|fruit bodies]] have an eccentric [[stipe (mycology)|stem]] rendering the cap kidney- or half-moon-shaped and only round when young. The [[pileus (mycology)|cap]] is light brown when young and darkens with age, with yellow or pinkish tinges. The [[trama (mycology)|flesh]] is white and up to 2&nbsp;cm (0.8&nbsp;in) thick in the cap. The thick white [[lamella (mycology)|gills]] are [[decurrent]] and can yellow with age. The stem is thick and fleshy and can be up to 2&nbsp;cm (0.8&nbsp;in) thick and 5&nbsp;cm (2&nbsp;in) long. The gills glow with a whitish light. Kawamura reported that the fungi can be seen from 30&nbsp;m (100&nbsp;ft) away at night, and that 100 square centimetres of glowing mushrooms allowed him to read Roman characters of 8&nbsp;mm size by their light.<ref name="Kawamura 1915"/><!-- cites para -->
+
+This fungus is mistaken for the commonly eaten oyster mushroom (''[[Pleurotus ostreatus]]''), Shiitake (''[[Lentinula edodes]]''), and Mukitake (''[[Sarcomixa serotina]]''), but is poisonous. ''O.&nbsp;japonicus'' was responsible for 31.6% of mushroom poisoning cases in Japan between 1996 and 2005—more than any other mushroom.<ref name="Tsurida 2012"/> Symptoms of ''O.&nbsp;japonicus'' poisoning are nausea, vomiting and diarrhea.<ref name="Kawamura 1915"/> The most common treatment is [[intravenous therapy|fluid therapy]].<ref name="Hayashida 2011"/>
+
+==Habitat and distribution==
+The fungus grows on dead [[beech]] trees, and is found in mountainous regions of Japan, the fruit bodies appearing in September and October.<ref name="Kawamura 1915"/> One of the most common mushrooms growing on decaying beech wood in that country, it is classified as "[[Vulnerable species|Vulnerable]]" because beech forests are being depleted.<ref name="Fukasawa 2010"/> It is also found in Korea,<ref name="Ka 2010"/> China, and far eastern Russia.<ref name="Redhead 2006"/>
+
+==Bioactive compounds==
+Fruit bodies contain the [[sesquiterpene]] compounds [[illudin]] S and illudin M.<ref name="Tanaka 1990"/><ref name="Tanaka 1992"/><ref name="Tanaka 1996a"/><ref name="Tanaka 1996b"/>
+
+==See also==
+*[[List of bioluminescent fungi]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Fukasawa 2010">{{cite journal |author1=Fukasawa, Yu |author2=Osono, Takashi |author3=Takeda, Hiroshi |title=Beech log decomposition by wood-inhabiting fungi in a cool temperate forest floor: a quantitative analysis focused on the decay activity of a dominant basidiomycete ''Omphalotus guepiniformis'' |journal=Ecological Research |year=2010 |volume=25 |issue=5 |pages=959–66 |doi=10.1007/s11284-010-0720-4|s2cid=35149597 }}</ref>
+
+<ref name="Hayashida 2011">{{cite journal |author1=Hayashida, Akiko |author2=Seino, Keiko |author3=Iseki, Ken |title=Treatment of mushroom poisoning by ''Lampteromyces japonicus''; four case reports and review of the literature |journal=Yamagata Medical Journal |year=2011 |volume=29 |issue=2 |pages=57–62 |issn=0288-030X |language=ja}}</ref>
+
+<ref name="Kirchmair 2004">{{cite journal |vauthors=Kirchmair M, Morandell S, Stolz D, Pöder R, Sturmbauer C |year=2004 |title=Phylogeny of the genus ''Omphalotus'' based on nuclear ribosomal DNA-sequences |journal=Mycologia |volume=96 |issue=6 |pages=1253–60 |pmid=21148949 |jstor=3762142 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0096/006/1253.htm |doi=10.2307/3762142|url-access=subscription }}</ref>
+
+<ref name="Ka 2010">{{cite journal |author1=Ka, K.H. |author2=Park, H. |author3=Hur, T.C. |author4=BAc, W.C. |title=Formation of fruiting body of ''Omphalotus japonicus'' by sawdust cultivation |journal=The Korean Journal of Mycology |year=2010 |volume=38 |issue=1 |pages=80–82 |issn=0253-651X |doi=10.4489/kjm.2010.38.1.080|doi-access=free }}</ref>
+
+<ref name="Kawamura 1915">{{cite journal |author=Kawamura, Seiichi |title=Studies on the luminous fungus, ''Pleurotus japonicus'', sp. nov. |journal=Journal of the College of Science, Imperial University of Tokyo |year=1915 |volume=35 |pages=1–29 |url=http://repository.dl.itc.u-tokyo.ac.jp/dspace/bitstream/2261/32970/1/jcs035003.pdf |access-date=2012-11-23 |archive-url=https://web.archive.org/web/20121216094437/http://repository.dl.itc.u-tokyo.ac.jp/dspace/bitstream/2261/32970/1/jcs035003.pdf |archive-date=2012-12-16 |url-status=dead }}</ref>
+
+<ref name="Neda 2004">{{cite journal |author=Neda, Hitoshi |year=2004|title=Type studies of ''Pleurotus'' reported from Japan |journal=Mycoscience |volume=45 |issue= 3|pages=181–87 |doi=10.1007/s10267-003-0172-6|s2cid=85242428|doi-access=free }}</ref>
+
+<ref name="Norvell 2008">{{cite journal |author=Norvell, Lorelei L. |title=Report of the Nomenclature Committee for Fungi: 14 |journal=Taxon |year=2008 |volume=57 |issue=2 |pages=637–39 |jstor=25066033}}</ref>
+
+<ref name="Redhead 2006">{{cite journal |author1=Redhead, Scott A. |author2=Neda, Hitoshi |title=(1741) Proposal to Conserve the Name ''Pleurotus japonicus'' against ''Agaricus guepiniformis'' and ''Pleurotus harmandii'' (Basidiomycota) |journal=Taxon |year=2006 |volume=55 |issue=4 |pages=1032–33 |jstor=25065705|doi=10.2307/25065705 }}</ref>
+
+<ref name="Tanaka 1990">{{cite journal |author1=Tanaka, K. |author2=Inoue, T. |author3=Kadota, S. |author4=Kikuchi, T. | title = Metabolism of illudin S, a toxic principle of ''Lampteromyces japonicus'', by rat liver. I. Isolation and identification of cyclopropane ring-cleavage metabolites |journal=Xenobiotica |year=1990 |volume=20 |issue=7 |pages=671–81|doi=10.3109/00498259009046883 |pmid=2238702 }}</ref>
+
+<ref name="Tanaka 1992">{{cite journal |author1=Tanaka, K. |author2=Inoue, T. |author3=Kadota, S. |author4=Kikuchi, T. | title = Metabolism by rat liver cytosol of illudin S, a toxic substance of ''Lampteromyces japonicus''. II. Characterization of illudin S-metabolizing enzyme |journal=Xenobiotica |year=1992 |volume=22 |issue=1 |pages=33–39 |doi = 10.3109/00498259209053100 |pmid=1377439 }}</ref>
+
+<ref name="Tanaka 1996a">{{cite journal |author1=Tanaka, K. |author2=Inoue, T. |author3=Tezuka, Y. |author4=Kikuchi, T. |title=Metabolism of illudin S, a toxic substance of ''Lampteromyces japonicus'': urinary excretion of mercapturic acids in rat |journal=Xenobiotica |year=1996 |volume=26 |issue=3 |pages=347–54 |doi=10.3109/00498259609046713 |pmid=8730925}}</ref>
+
+<ref name="Tanaka 1996b">{{cite journal |author1=Tanaka, K. |author2=Inoue, T. |author3=Tezuka, Y. |author4=Kikuchi, T. |title=Michael-type addition of illudin S, a toxic substance from ''Lampteromyces japonicus'', with cysteine and cysteine-containing peptides ''in vitro'' |journal= Chemical & Pharmaceutical Bulletin|year=1996 |volume=44 |issue=2 |pages=273–79 |doi=10.1248/cpb.44.273|pmid=8998835 |doi-access=free }}</ref>
+
+<ref name="Tsurida 2012">{{cite journal |author1=Tsurida, Sayuri |author2=Akai, Kouichi |author3=Hiwaki, Hiroshi |author4=Suzuki, Akira |author5=Akiyama, Hiroshi |title=Multiplex real-time PCR assay for simultaneous detection of ''Omphalotus guepiniformis'' and ''Lentinula edodes'' |journal=Bioscience, Biotechnology, and Biochemistry |year=2012 |volume=76 |issue=7 |pages=1343–49 |doi=10.1271/bbb.120090 |pmid=22785476 |s2cid=36097687 |url=https://www.jstage.jst.go.jp/article/bbb/76/7/76_120090/_pdf |format=PDF|doi-access=free }}</ref>
+
+<ref name="urlMycoBank: Omphalotus japonicus">{{cite web |title=''Omphalotus japonicus'' (Kawam.) Kirchm. & O.K. Mill. |url=http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=411196&Fields=All |publisher=[[MycoBank]]. International Mycological Association |access-date=2012-11-21}}</ref>
+
+<ref name="Yang  2013">{{cite journal |vauthors=Yang ZL, Feng B |title=The genus ''Omphalotus'' (Omphalotaceae) in China |journal=Mycosystema | year=2013 | volume= 32|issue=3 |pages= 545–56 | issn=1672-6472 |url=http://groups.kib.cas.cn/klpb/yzl/tnh_fblw/201311/P020140126481156955463.pdf}}</ref>
+
+}}
+
+==External links==
+* {{IndexFungorum|376318}}
+{{Taxonbar|from=Q7090731}}
+
+[[Category:Bioluminescent fungi]]
+[[Category:Omphalotus|japonicus]]
+[[Category:Poisonous fungi]]
+[[Category:Fungi described in 1915]]
+[[Category:Fungi of Asia]]
+[[Category:Fungus species]]

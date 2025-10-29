@@ -1,0 +1,53 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image =Gymnopilus crociphyllus (Cooke & Massee) Pegler 415904.jpg
+| image_caption =
+| taxon = Gymnopilus crociphyllus
+| authority = ([[Mordecai Cubitt Cooke|Cooke]] & [[George Edward Massee|Massee]]) [[David Pegler|Pegler]]
+| synonyms = {{specieslist
+|Agaricus crociphyllus |Cooke & Massee 
+|Agaricus xanthophyllus |Cooke & Massee
+|Flammula crociphylla |Sacc.
+|Flammula xanthophylla |McAlpine 
+|Gymnopilus crocophyllus |(Sacc.) Pegler 
+}}
+| synonyms_ref = <ref name=cat>{{Catalogue of Life 
+     |id=3HTBP
+     |title=Gymnopilus crociphyllus (Sacc.) Pegler
+     |option=
+     |access-date= 2 February 2023
+}}</ref><ref>{{cite web|title=Gymnopilus crocophyllus (Sacc.) Pegler|website=Index Fungorum|url=http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=506981}}</ref>
+
+}}
+{{mycomorphbox
+| name = Gymnopilus crociphyllus
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+
+'''''Gymnopilus crociphyllus''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]].
+
+==See also==
+{{Portal|Fungi}}
+[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+==References==
+{{reflist}}
+
+==External links==
+*''[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=331589 Gymnopilus crociphyllus]'' at [[Index Fungorum]]
+
+{{Taxonbar|from=Q5224390}}
+
+{{DEFAULTSORT:Gymnopilus crociphyllus}}
+[[Category:Gymnopilus|crociphyllus]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

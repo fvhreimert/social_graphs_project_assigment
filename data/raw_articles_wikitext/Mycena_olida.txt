@@ -1,0 +1,36 @@
+{{Short description|Species of fungus}}
+{{Speciesbox 
+| image = Mycena olida - Lindsey.jpg
+| image_caption =
+| genus = Mycena
+| species = olida
+| authority = [[Giacomo Bresadola|Bres.]] (1887)
+| synonyms = ''Hemimycena olida'' <small>(Bres.) [[Rolf Singer|Singer]]</small><br>
+''Marasmiellus olidus'' <small>(Bres.) Singer (1951)</small>
+}}
+{{mycomorphbox 
+| name = ''Mycena olida''
+| hymeniumType=gills
+| capShape = conical
+| whichGills = adnate
+| stipeCharacter=bare
+| sporePrintColor=white
+| ecologicalType=saprotrophic
+| howEdible=unknown
+}}
+
+'''''Mycena olida''''', commonly known as the '''rancid bonnet''',<ref name=BMS>{{cite web |url=http://www.britmycolsoc.org.uk/library/english-names/ |title=English Names for fungi |work=British Mycological Society website |publisher=British Mycological Society}}</ref> is a species of [[mushroom]] in the family [[Mycenaceae]]. It was first described in 1887 by Italian mycologist [[Giacomo Bresadola]].<ref>{{cite journal |last= Bresadola G. |year= 1887|title=Fungi tridentini |journal=Fungi Tridentini |volume=1 |issue=6–7 |page=73}}</ref>
+
+==Description==
+The [[pileus (mycology)|cap]], initially conical to convex in shape, flattens out with age and typically reaches diameters of up to {{convert|1.5|cm|in|1|abbr=on}}.<ref name="urlMycena olida">{{cite web |url=http://home.online.no/~araronse/Mycenakey/olida.htm |title=''Mycena olida'' |work=Key to the Mycenas of Norway |access-date=2009-09-26 |url-status=dead |archive-url=https://web.archive.org/web/20100525123625/http://home.online.no/~araronse/Mycenakey/olida.htm |archive-date=2010-05-25 }}</ref>
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q6946904}}
+
+[[Category:Mycena|olida]]
+[[Category:Fungi described in 1887]]
+[[Category:Fungi of Europe]]
+[[Category:Taxa named by Giacomo Bresadola]]
+[[Category:Fungus species]]

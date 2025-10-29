@@ -1,0 +1,56 @@
+{{Short description|Species of fungus}}
+{{Use dmy dates|date=April 2025}}
+{{Use Oxford spelling|date=April 2025}}
+{{Speciesbox
+| image = 2009-10-01 Sarcodon fuligineo-violaceus 1 26366.jpg
+| image_caption =
+| taxon = Hydnellum fuligineoviolaceum
+| authority = ([[Kalchbr.]]) E.Larss., K.H.Larss. & Kõljalg (2019)<ref name="Larsson et al. 2019"/>
+| synonyms_ref = <ref name="urlFungorum synonymy: Sarcodon fuligineoviolaceus"/>
+| synonyms = 
+*''Hydnum fuligineoviolaceum'' {{au|Kalchbr. (1874)}}
+*''Sarcodon talpa'' {{au|[[Maas Geest.]] (1967)}}
+*''Sarcodon fuligineoviolaceus'' {{au|(Kalchbr.) [[Pat.]]}}
+}}
+
+'''''Hydnellum fuligineoviolaceum''''' is a species of [[tooth fungus]] in the family [[Bankeraceae]]. Found in northern Europe, it grows in association with [[coniferous]] trees, particularly [[Scots pine]], and forms fruiting bodies that emerge from dry, chalky soils in mature forests. The species is classified by the [[IUCN]] as [[vulnerable species|vulnerable]] due to [[habitat loss]].
+
+==Taxonomy==
+
+''Hydnellum fuligineoviolaceum'' was first [[species description|described]] in 1874 by the Hungarian mycologist [[Károly Kalchbrenner]] as ''Hydnum fuligineoviolaceum'' in [[Elias Fries]]'s ''Hymenomycetes europaei''.<ref name="Fries 1874"/> In 1900, [[Narcisse Théophile Patouillard]] transferred the species to the genus ''[[Sarcodon]]''.<ref name="Patouillard 1900"/> Later, in 1967, [[Rudolph Arnold Maas Geesteranus]] published ''Sarcodon talpa'', now recognised as a [[synonym (taxonomy)|synonym]] of this taxon.<ref name="Maas Geesteranus 1967"/><ref name="urlFungorum synonymy: Sarcodon fuligineoviolaceus"/> [[molecular phylogenetics|Molecular]] studies have reinstated the species in the genus ''[[Hydnellum]]'', reflecting a narrower generic concept supported by DNA analyses; as of 2024, no genetic sequences of this species are known from outside northern Europe, and specimens assigned to ''H.&nbsp;fuligineoviolaceum'' elsewhere almost certainly represent distinct taxa rather than true conspecifics.<ref name="GFRLI"/>
+
+==Habitat and distribution==
+
+''Hydnellum fuligineoviolaceum'' forms [[ectomycorrhiza]]l associations primarily with members of the [[Pinaceae]], most frequently with [[Scots pine]] (''Pinus sylvestris''), but also occasionally with firs such as [[silver fir]] (''Abies alba'') and [[Greek fir]] (''A.&nbsp;cephalonica''), and possibly [[Norway spruce]] (''Picea abies''). It specialises on nutrient‑poor, dry [[calcareous]] soils, typically those with an acidic [[plant litter|litter]] layer and minimal [[humus]]. In [[Mediterranean climate|Mediterranean]] and [[temperate]] regions, it inhabits mature pine forests, whereas in [[Alpine climate|alpine]] zones it can occur under [[fir]], and in northern Europe it favours older, open [[pine]] stands. Its largest subpopulations occur in Norway, Spain, and Sweden.<ref name="GFRLI"/>
+
+==Conservation status==
+
+In 2004, ''H.&nbsp;fuligineoviolaceum'' was among 33 fungal species proposed for legal protection under the [[Berne Convention on the Conservation of European Wildlife and Natural Habitats|Bern Convention]] by the European Council for Conservation of Fungi, signalling early concern for its preservation across Europe.<ref name="Dahlberg 2006"/> Subsequently, the species was assessed by the [[IUCN]]'s Global Fungal Red List Initiative and officially listed as [[vulnerable species|Vulnerable]], reflecting an estimated decline in habitat quality and area exceeding 30&nbsp;% percent over the past 50 years and continuing losses of [[old-growth forest|old‑growth]] calcareous coniferous woodland. Although the total number of mature individuals probably exceeds 5000, populations are small, fragmented and confined to scattered localities—with especially significant subpopulations in Sweden, Norway and Spain—and the rate of ongoing decline justifies its threatened status.<ref name="GFRLI"/>
+
+Ongoing threats stem largely from [[forest management]] practices, notably [[clearcutting]] of ancient calcareous pine stands, which destroys both fruiting bodies and the mycelial networks on which the fungus depends. Conservation measures recommended include formal protection of known localities, incorporation of its ecological requirements into sustainable harvesting guidelines, and wider dissemination of information on its biology and conservation importance. Priority research needs focus on detailed population biology and long‑term monitoring to better understand trends and inform management.<ref name="GFRLI"/>
+
+==References==
+{{Reflist|refs=
+
+<ref name="Dahlberg 2006">{{cite book |last1=Dahlberg |first1=A. |last2=Croneborg |first2=H. |title=The 33 Threatened Fungi in Europe (Nature and Environment) |publisher=Council of Europe |location=Strasbourg, France |year=2006 |page=100 |isbn=978-9-28715-928-1 |url=https://books.google.com/books?id=6mAfxSiGB9MC&pg=PA88}}</ref>
+
+<ref name="Fries 1874">{{cite book |last=Fries |first=Elias M. |title=Hymenomycetes europaei |year=1874 |location=Uppsala, Sweden |publisher=Berling |page=602 |language=la |url=http://bibdigital.rjb.csic.es/ing/Libro.php?Libro=1959&Pagina=606}}</ref>
+
+<ref name="GFRLI">{{cite web |last=Kautmanova |first=Ivona |title=''Sarcodon fuligineoviolaceus'' |website=The Global Fungal Red List Initiative |date=4 April 2014 |url=https://redlist.info/iucn/species_view/450960 |access-date=20 April 2025}}</ref>
+
+<ref name="Larsson et al. 2019">{{cite journal |last1=Larsson |first1=Karl-Henrik |last2=Svantesson |first2=Sten |last3=Miscevic |first3=Diana |last4=Kõljalg |first4=Urmas |last5=Larsson |first5=Ellen |title=Reassessment of the generic limits for ''Hydnellum'' and ''Sarcodon'' (Thelephorales, Basidiomycota) |journal=MycoKeys |issue=54 |year=2019 |pmid=31231164 |pmc=6579789 |doi=10.3897/mycokeys.54.35386 |doi-access=free |pages=31–47}}</ref>
+
+<ref name="Maas Geesteranus 1967">{{cite journal |last=Maas Geesteranus |first=R.A. |title=Notes on hydnums – VII |journal=Persoonia |year=1967 |volume=5 |issue=1 |pages=1–13 |url=http://www.cybertruffle.org.uk/cyberliber/61056/0005/001/0001.htm}}</ref>
+
+<ref name="Patouillard 1900">{{cite book |last=Patouillard |first=N.C. |title=Essai taxonomique sur les familles et les genres des Hyménomycètes |year=1900 |publisher=Lucien Declume |location=Lons-Le-Saunier |page=118 |language=fr |url=https://www.biodiversitylibrary.org/page/28232932}}</ref>
+
+<ref name="urlFungorum synonymy: Sarcodon fuligineoviolaceus">{{cite web |title=GSD Species Synonymy: ''Sarcodon fuligineoviolaceus'' (Kalchbr.) Pat. |url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=450960 |publisher=Species Fungorum. CAB International |access-date=2016-02-09}}</ref>
+
+}}
+
+{{Taxonbar|from=Q10561631}}
+
+[[Category:Hydnellum|fuligineoviolaceum]]
+[[Category:Fungi described in 1874]]
+[[Category:Fungi of Europe]]
+[[Category:Fungus species]]

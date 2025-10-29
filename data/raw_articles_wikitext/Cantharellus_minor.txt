@@ -1,0 +1,63 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Cantharellus minor 544.jpg
+| genus = Cantharellus
+| species = minor
+| authority = [[Charles Horton Peck|Peck]] (1872)
+| synonyms = ''[[Merulius]] minor'' <small>(Peck) [[Otto Kuntze|Kuntze]] (1891)</small>
+}}
+{{mycomorphbox 
+| name = ''Cantharellus minor''
+| whichGills = decurrent 
+| capShape = convex
+| hymeniumType = ridges
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = yellow
+| howEdible = edible
+}}
+
+'''''Cantharellus minor''''' is a [[fungus]] native to eastern North America. It is one of the smallest of the genus ''[[Cantharellus]]'', which includes other edible [[chanterelle]]s.<ref name="mexp" />
+
+== Description ==
+''Cantharellus minor'' is colored bright yellow to yellowish-orange.<ref name=":02">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=98}}</ref> The [[pileus (mycology)|cap]] ranges from {{convert|0.5|to|3|cm|frac=4}} wide and is convex and [[umbo (mycology)|umbonate]], often shallowly depressed, becoming funnel-shaped in some. The yellowish [[lamella (mycology)|gills]] are [[decurrent]], fade to yellowish white in maturity,<ref name="Mohanan2011" /> and may seem large in proportion to the small fruiting body.<ref name=":02" /> The [[stipe (mycology)|stipe]] is {{convert|2-5|cm|abbr=on|frac=4}} tall and {{Convert|3-6|mm|frac=8}} thick.<ref name=":02" />
+
+=== Similar species ===
+Lookalikes include the [[Gulf Coast]]'s ''[[Cantharellus tabernensis|C. tabernensis]]'' which has a darker center, ''[[Craterellus ignicolor]]'' which has shallower ridges and usually a depression in the cap, and ''[[Gloioxanthomyces nitidus]]'' which has a very circular margin, fairly straight stem and non-forking gills.<ref name=":02" />
+
+== Distribution and habitat ==
+Native to eastern North America,<ref name="mexp" /> the fungi fruits from June to September.<ref name=":02" /><ref name="mill06" />
+
+It is suspected of being [[mycorrhiza]]l, found in association with [[oak]]s and [[moss]].<ref name="mexp" />  Recently, ''C.&nbsp;minor'' has been reported from semi-evergreen to evergreen forests in the [[Western Ghats]], [[Kerala]], India forming [[ectomycorrhiza]]l associations with tree species like ''[[Vateria indica]]'', ''[[Diospyros malabarica]]'', ''[[Hopea parviflora]]'', and ''[[Myristica]]'' species.<ref name="Mohanan2011" />
+
+== Uses ==
+Although insubstantial, the mushrooms are [[edible mushroom|edible]].<ref name="rogers" />
+
+==References==
+{{Reflist|refs=
+
+<ref name=Mohanan2011>{{cite book |author=Mohanan C. |title=Macrofungi of Kerala |publisher=Kerala Forest Research Institute |location=Kerala, India |year=2011 |isbn=978-81-85041-73-5}}</ref>
+
+<ref name=mexp>{{cite web |author=Kuo, M. |date=February 2006 |title=''Cantharellus minor'' |publisher=MushroomExpert.Com |url=http://www.mushroomexpert.com/cantharellus_minor.html |accessdate=2011-03-24}}</ref>
+
+<ref name=rogers>{{cite web|publisher=Rogers Plants |title=''Cantharellus minor'' |url=http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~5719.asp |accessdate=2011-05-08 |url-status=dead |archiveurl=https://web.archive.org/web/20111107013142/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~5719.asp |archivedate=2011-11-07 }}</ref>
+
+<ref name=mill06>{{cite book |author=Miller Jr OK. |authorlink =Orson K. Miller, Jr. |author2=Miller HH. |title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi |publisher=[[Globe Pequot Press]] |year=2006 |series=FalconGuides |location=Guilford, CN |page=334 |isbn=978-0-7627-3109-1}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|179458}}
+
+{{Taxonbar|from=Q1942854}}
+
+[[Category:Cantharellus|minor]]
+[[Category:Fungi described in 1872]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of North America]]
+[[Category:Edible fungi]]
+[[Category:Taxa named by Charles Horton Peck]]
+[[Category:Fungus species]]
+
+
+{{Agaricomycetes-stub}}

@@ -1,0 +1,217 @@
+{{Short description|Species of fungus}}
+{{Featured article}}
+{{Speciesbox
+| image = Marasmius rotula 148433.jpg
+| image_caption = 
+| taxon = Marasmius rotula
+| authority = ([[Giovanni Antonio Scopoli|Scop.]]) [[Elias Magnus Fries|Fr.]] (1838)
+| synonyms_ref = <ref name="urlSpecies Fungorum Synonymy: Marasmius rotula"/>
+| synonyms =
+* ''Agaricus rotula'' {{au|Scop. (1772)}}
+* ''Merulius collariatus'' {{au|[[William Withering|With.]] (1796)}}
+* ''Micromphale collariatum'' {{au|(With.) [[Samuel Frederick Gray|Gray]] (1821)}}<ref name="Gray 1821"/>
+* ''Androsaceus rotula'' {{au|(Scop.) [[Narcisse Théophile Patouillard|Pat.]] (1887)}}
+* ''Chamaeceras rotula'' {{au|(Scop.) [[Otto Kuntze|Kuntze]] (1898)}}<ref name="Kuntze 1898"/>
+}}
+{{mycomorphbox
+| name = ''Marasmius rotula''
+| whichGills = free
+| capShape = convex
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = saprotrophic
+| sporePrintColor = white
+| howEdible = inedible
+}}
+
+'''''Marasmius rotula''''' is a common [[species]] of [[agaric]] fungus in the family [[Marasmiaceae]]. Widespread in the Northern Hemisphere, it is [[common name|commonly known]] variously as the '''pinwheel mushroom''', the '''pinwheel marasmius''', the '''little wheel''', the '''collared parachute''', or the '''horse hair fungus'''. The [[type species]] of the genus ''[[Marasmius]]'', ''M.&nbsp;rotula'' was first [[species description|described]] scientifically in 1772 by mycologist [[Giovanni Antonio Scopoli]] and assigned its current name in 1838 by [[Elias Fries]].
+
+The [[fruit bodies]], or [[mushroom]]s, of ''M.&nbsp;rotula'' are characterized by their whitish, thin, and membranous [[pileus (mycology)|caps]] up to {{convert|2|cm|1|abbr=on|frac=4}} wide that are sunken in the center, and pleated with scalloped margins. The slender and wiry black hollow [[stipe (mycology)|stems]] measure up to {{convert|8|cm|abbr=on|frac=2}} long by {{convert|1.5|mm|4=2|abbr=on|frac=16}} thick. On the underside of the caps are widely spaced white [[lamella (mycology)|gills]] that are attached to a collar encircling the stem. The mushrooms grow in groups or clusters on decaying wood such as fallen twigs and sticks, moss-covered logs, and stumps.
+
+Although many mushrooms release their [[spore]]s in response to a [[circadian rhythm]], spore release in ''M.&nbsp;rotula'' is dependent upon sufficient moisture. Dried mushrooms may revive after rehydrating and continue to release spores for up to three weeks—a sustained spore production of markedly longer duration than other typical agarics. There are several species of ''Marasmius'' with which ''M.&nbsp;rotula'' might be confused due to somewhat similar overall appearances, but differences in size, gill arrangement, and [[substrate (biology)|substrate]] are usually sufficient field characteristics to distinguish them. ''M.&nbsp;rotula'' mushrooms are not generally considered [[edible mushroom|edible]]. They produce a unique [[peroxidase]] enzyme that is attracting research interest for possible use in [[bioengineering]] applications.
+
+==Taxonomy==
+
+The species was first described by Italian mycologist [[Giovanni Antonio Scopoli]] as ''Agaricus rotula'' in 1772.<ref name="Scopoli 1772"/> In 1821 [[Elias Magnus Fries]] redescribed the mushroom in ''[[Systema Mycologicum]]'',<ref name="Fries 1821"/> and later transferred it to ''[[Marasmius]]'' in his 1838 ''Epicrisis Systematis Mycologici''.<ref name="Fries 1838"/> [[Synonym (biology)|Synonyms]] include names derived from generic transfers to ''Androsaceus'' by [[Narcisse Théophile Patouillard]] in 1887,<ref name="Patouillard 1887"/> and to ''Chamaeceras'' by [[Otto Kuntze]] in 1898;<ref name="Kuntze 1898"/> both of these genera are now obsolete and have since been sunk back into ''Marasmius''.<ref name="Kirk 2008"/>
+
+In his 1821 ''A Natural Arrangement of British Plants'', [[Samuel Frederick Gray]] introduced the generic name ''Micromphale'', including the species ''Micromphale collariatum'',<ref name="Gray 1821"/> which was based on [[William Withering]]'s 1796 ''Merulius collariatus''.<ref name="Withering 1796"/> In 1946 [[Alexander H. Smith]] and [[Rolf Singer]] proposed to [[conserved name|conserve]] the name ''Marasmius'' over ''Micromphale''; the latter had nomenclatorial [[Principle of Priority|priority]] as it was published first.<ref name="Singer 1946"/> The generic name ''Marasmius'', with ''M.&nbsp;rotula'' as the [[lectotype]] species, was later conserved at the 1954 Paris [[International Botanical Congress|Congress on Botanical Nomenclature]].<ref name="Taxon 1953"/><ref name="Taxon 1954"/> ''M.&nbsp;rotula'' is also the type species of [[section (botany)|section]] ''Marasmius'' within the genus. This grouping of species is characterized by [[inamyloid]] flesh, a [[cap cuticle]] with broom cells (finger-like projections common to ''Marasmius'' species) ornamented with numerous warts, gills usually attached to a collar surrounding the stem, and the presence of black [[rhizomorph]]s on the stem.<ref name="Gilliam 1976 p112"/>
+
+Several [[variety (botany)|varieties]] of ''M.&nbsp;rotula'' have been described. [[Miles Berkeley]] and [[Moses Ashley Curtis]] named var. ''fuscus'' in 1869 for its brown cap.<ref name="Berkeley 1869"/> In 1887 [[Pier Andrea Saccardo]] described var. ''microcephalus'' from Italy, with caps half the normal size.<ref name="Saccardo 1887"/> It is now understood that fruit body [[morphology (biology)|morphology]] is variable and dependent upon environmental conditions. [[Joseph Schröter]] described var. ''phyllophyla'' in 1889,<ref name="Schröter 1885"/> but that taxon is now treated as ''[[Marasmius bulliardii]]''.<ref name="urlMycoBank: Marasmius rotula var. phyllophila"/>
+
+''Marasmius rotula'' is [[common name|commonly]] known as the "pinwheel mushroom", the "pinwheel Marasmius",<ref name="Roody 2003"/> the "collared parachute",<ref name="BMS"/> or the "horse hair fungus".<ref name="Miller 2006"/> This latter name is shared with other ''Marasmius'' species, including ''[[Marasmius androsaceus|M.&nbsp;androsaceus]]''<ref name="Arora 1986"/> and ''[[M.&nbsp;crinis-equi]]''.<ref name="Smith 2005"/> Gray called it the "collared dimple-stool".<ref name="Gray 1821"/> The name "little wheel fungus" is suggestive of the collar to which the gills are attached like the spokes of a wheel,<ref name="Orr 1979"/> like the [[specific name (botany)|specific epithet]], which is a diminutive of ''rota'', the [[Latin]] word for "wheel".<ref name="Roody 2003"/>
+
+==Description==
+
+The [[Pileus (mycology)|cap]] of the [[fruit body]] is thin and membranous, measuring {{convert|3|to|20|mm|abbr=on|frac=8}} in diameter.<ref name="Bessette 1997"/> It has a convex shape slightly depressed in the center, conspicuous furrows in an outline of the gills, and scalloped edges. Young, unexpanded caps are yellowish brown; as the cap expands, the color lightens to whitish or light pinkish-white,<ref name="McKnight 1987"/> often with a darker, sometimes brown center.<ref name="Jordan 2004"/> The variety ''fusca'' has brown caps.<ref name="Berkeley 1869"/><!-- but it has been scarcely reported in the literature since its original 1869 description.--> The white or slightly yellowish [[trama (mycology)|flesh]] is very thin, reaching about 0.25–1.5&nbsp;mm thick in the central part of the cap, and even thinner at the margin.<ref name="Gilliam 1976 pp122–7"/>
+
+[[lamella (mycology)|Gills]] are attached to a collar, never to the stem, although some specimens have the collar pressed close enough to it that this characteristic may be less obvious.<ref name="Roody 2003"/> Widely spaced, they have the same whitish to pale yellow color as the flesh, and typically number between 16 and 22.<ref name="Jordan 2004"/> They are initially narrow, but thicken downward to about 1–3&nbsp;mm at the exposed edge.<ref name="Gilliam 1976 pp122–7"/> The [[stipe (mycology)|stem]] is {{convert|1.2|to|8|cm|abbr=on|frac=2}} long and up to {{convert|0.15|cm|in|2|abbr=on}} thick, with a smooth, sometimes shiny surface.<ref name="Miller 2006"/> It is tough, hollow, and either straight or with some curving. The color is blackish-brown up to a lighter, almost translucent apex. The base of the stem may be connected to dark brown or black root-like rhizomorphs 0.1–0.3&nbsp;mm thick.<ref name="Gilliam 1976 pp122–7"/> Mature specimens display no [[partial veil|veil]].<ref name="Miller 2006"/>
+{{quote box
+| align = right
+| width = 25em
+| quote = Note particularly the manner in which the hair-like stem is set into the tiny socket, the sparsity of the gill development, and the fine furrows and scallopings of the margin of the cap. A Swiss watchmaker could not excel such workmanship.|salign=right|source=Louis C.C. Krieger<ref name="Krieger 1920"/>
+| bgcolor = #c6dbf7
+}}
+Details of the fruit bodies' appearance, color in particular, are somewhat variable and dependent on growing conditions. For example, specimens growing on logs in [[oak]] and [[hickory]] forests in the spring tend to have more yellowish-white, depressed caps than those found in the same location in autumn, which are light yellow brown and more convex in shape.<ref name="Gilliam 1976 pp122–7"/> The fruit body [[ontogeny|development]] of ''M.&nbsp;rotula'' is hemiangiocarpous, with an [[hymenium]] that is only partially enclosed by basidiocarp tissues. [[Robert Kühner]] showed that a [[wikt:cortina|cortina]]-like tissue covers the young gills before the expanding cap breaks away from the stem. In unfavorable weather conditions, the mushrooms may fail to develop normally and instead produce semi-[[gasteroid fungi|gasteroid]] basidiocarps.<ref name="Gilliam 1976 p3"/>
+
+===Microscopic characteristics===
+Viewed in deposit, such as with a [[spore print]], the [[basidiospore|spores]] of ''Marasmius rotula'' appear white or pale yellow.<ref name="McKnight 1987"/> Under an [[optical microscope]], they are [[hyaline]] (translucent), teardrop- or pip-shaped, and have dimensions of 7–10 by 3–5&nbsp;[[μm]].<ref name="Miller 2006"/> The [[basidia]] (spore-producing cells) are four-spored, club-shaped or nearly so, and 21–21 by 4–17&nbsp;μm. Along the edge of the gill, interspersed among the basidia, are non-reproductive cells, the [[cheilocystidia]]; these are club-shaped with rough wart-like protuberances on the surface.<ref name="Jordan 2004"/> The gill edges further feature broom cells, which are variably shaped, thin-walled, and measure 7–32 by 2.5–20&nbsp;μm. Their apical surfaces are covered with yellowish, blunt, and conical warts or incrustations 0.2–1.5 by 0.1–1&nbsp;μm.<ref name="Gilliam 1976 pp122–7"/>
+
+==Similar species==
+{{multiple image
+| direction = vertical
+| width = 200
+| image1 = Marasmius capillaris 59405.jpg
+| caption1 = ''[[Marasmius capillaris]]'' grows on oak leaves.
+| image2 = Tetrapyrgos nigripes 53251.jpg
+| caption2 = The stem of ''Tetrapyrgos nigripes'' appears to have a powdery bloom.
+}}
+There are several less-common species of ''Marasmius'' with which ''M.&nbsp;rotula'' might be confused due to somewhat similar overall appearances, but differences in size, gill arrangement, and [[substrate (biology)|substrate]] are usually sufficient field characteristics to distinguish between them. For example, ''[[Marasmius capillaris]]'' has a pale tan cap with a white center, and grows on oak leaves without forming clusters.<ref name="Bessette 1997"/> Furthermore, its cap is evenly rounded, unlike the pleated and furrowed cap of ''M.&nbsp;rotula'',<ref name="urlMarasmius rotula (MushroomExpert.Com)"/> and its stem is somewhat thinner (usually less than 0.3&nbsp;mm) and slightly darker in color.<ref name="Gilliam 1976 p121"/>
+
+''M.&nbsp;rotula'' is distinguished from ''[[Marasmius bulliardii|M.&nbsp;bulliardii]]'' by its larger size, and greater number of gills.<ref name="Jordan 2004"/> ''[[Marasmius limosus|M.&nbsp;limosus]]'' is found in [[marsh]]es, where it fruits on the dead stems of [[reed (plant)|reeds]] and [[Juncaceae|rushes]].<ref name="Roberts 2011"/> ''[[Tetrapyrgos nigripes]]'' (formerly treated in ''Marasmius'') has white caps that are {{convert|5|to|10|mm|abbr=on|frac=16}} in diameter, attached gills that are sometimes slightly [[decurrent]], a dark stem covered with tiny white hairs that give it a powdered appearance, and triangular to star-shaped spores.<ref name="Healy 2008"/> ''[[Marasmius neorotula|M.&nbsp;neorotula]]'', described from Brazil, was considered by its discoverer Rolf Singer to be closely related to ''M.&nbsp;rotula''. In addition to its tropical distribution, it can be distinguished from ''M.&nbsp;rotula'' by its smaller size and more widely spaced gills.<ref name="Singer 1989"/> ''[[Marasmius rotuloides|M.&nbsp;rotuloides]]'', known only from [[montane forest]]s of [[Trinidad]], can only be reliably distinguished from ''M.&nbsp;rotula'' by microscopic characteristics: it has smaller, ovoid spores measuring 5 by 2.5&nbsp;μm.<ref name="Dennis 1951"/>
+
+Other ''Marasmius'' species with a pinwheel arrangement of gills are readily distinguished from ''M.&nbsp;rotula'' by differences in color, including the orange ''[[Marasmius siccus|M.&nbsp;siccus]]'', the pink ''[[Marasmius pulcherripes|M.&nbsp;pulcherripes]]'', and the rust ''[[Marasmius fulvoferrugineus|M.&nbsp;fulvoferrugineus]]''.<ref name="urlMarasmius rotula (MushroomExpert.Com)"/> ''[[Mycena corticola]]'' is smaller than ''Marasmius rotula'', has a pale pink-brown cap, and is usually found growing singly or in small groups on bark near the base of living trees.<ref name="Roody 2003"/>
+
+==Habitat and distribution==
+''Marasmius rotula'' grows in [[deciduous forest]]s and fruits in groups or clusters on dead wood (especially [[beech]]), woody debris such as twigs or sticks, and occasionally on rotting leaves.<ref name="Orr 1979"/> The fruit bodies, which are easily overlooked because of their diminutive size,<ref name="Orr 1979"/> are often present in abundance after rains.<ref name="Kauffman 1918"/>
+
+The fungus is widespread and common in its preferred habitats in North America, Europe, and northern Asia.<ref name="Roberts 2011"/> Although far less common in southerly locations, isolated collections have been reported from Africa ([[Congo (area)|Congo]],<ref name="Beeli 1928"/> [[Nigeria]],<ref name="Idu 2008"/> [[Sierra Leone]],<ref name="Beeli 1938"/> and [[Tanzania]])<ref name="Vězda 1975"/> and South Asia (India).<ref name="Das 2005"/> In North America ''M.&nbsp;rotula'' is most common in the eastern part of the continent.<ref name="Miller 2006"/>
+
+==Ecology==
+''Marasmius rotula'' is a [[saprobic]] species<ref name="urlMarasmius rotula (MushroomExpert.Com)"/> and as such obtains nutrients by decomposing dead organic matter.<ref name="Orr 1979"/> The species is relatively intolerant of low [[water potential]]s, and will grow poorly or not at all under [[moisture stress|water stress]] conditions.<ref name="Dix 1984"/><ref name="Koske 1986"/> It is unable to degrade leaf litter until it becomes more fragmented and more compacted so that the water-holding capacity increases in the deeper layers of the soil.<ref name="Dix 1984"/> The [[magnolia warbler]] has been noted to line its nests with the fruit bodies' stems.<ref name="Schorger 1946"/>
+
+In 1975 the American mycologist Martina S. Gilliam investigated the periodicity of spore release in ''M.&nbsp;rotula'' and concluded that spore discharge did not follow a regular [[circadian rhythm]], as is typical of [[agaric]] and [[bolete]] mushrooms,<ref name="Roenneberg 2001"/> but rather was dependent on rain. A threshold of rainfall is required to elicit a spore discharge response and the duration of peak spore discharge correlates with the amount of rainfall, rather than its duration. Furthermore, Gilliam noted that spore prints were more readily obtained if the stem ends were placed in water, suggesting that water must enter through the fruit body for discharge to occur.<ref name="Gilliam 1975"/>
+
+Like those of many other species of ''Marasmius'', the fruit bodies of ''M.&nbsp;rotula'' can desiccate and shrivel in dry periods, then revive when sufficient moisture is available again in the form of rain or high [[humidity]]. Gilliam's study demonstrated that revived fruit bodies were capable of discharging spores over a period of at least three weeks, whereas previous studies using similar methods with other [[Agaricomycetes]] showed spore discharge occurred over a shorter period of up to six days after revival. The potential for sustained spore production and discharge may be due to the growth of new basidioles (immature basidia) during periods of growth, which then complete maturation when the mushroom revives. This may also explain why the gills become thicker as the mushroom matures.<ref name="Gilliam 1975"/>
+
+== Uses ==
+''Marasmius rotula'' is generally considered inedible,<ref name="Roody 2003"/> but is not [[poisonous mushroom|poisonous]]. The mushroom has no distinguishable odor, and its flavor varies from bland to bitter.<ref name="Miller 2006"/> Louis Krieger, writing in ''[[National Geographic (magazine)|National Geographic]]'' in the 1920s, noted that the mushroom was used as an addition to gravies and, when used to garnish [[venison]], "adds the appropriate touch of the wild woodlands".<ref name="Krieger 1920"/> The fruit bodies will [[bioaccumulate]] [[cadmium]]: a study of the metal concentration of 15 wild mushroom species of India showed that ''M.&nbsp;rotula'' accumulated the highest concentration of that metal.<ref name="Das 2005"/>
+
+A [[peroxidase]] enzyme known as ''Mro''APO (''Marasmius rotula'' [[aromatic peroxygenase]]) is attracting research interest for possible applications in [[biocatalysis]]. In general, enzymes that catalyze oxygen-transfer reactions are of great utility in [[chemical synthesis]] since they work [[Chemoselectivity|selectively]] and under ambient conditions. Fungal peroxidases can catalyze oxidations that are difficult for the organic chemist, including those involving [[aromaticity|aromatic]] substrates such as [[aniline]], {{Nowrap|[[4-aminophenol]]}}, [[hydroquinone]], [[resorcinol]], [[catechol]], and [[paracetamol]].<ref name="Yarman 2012"/> The ''M.&nbsp;rotula'' enzyme is the first fungal peroxygenase that can be produced in high yields. It is highly stable over a wide [[pH]] range, and in a variety of [[organic solvent]]s.<ref name="Gröbe 2011"/> The enzyme has other potential for use as a [[biosensor]] for aromatic substances in [[environmental analysis]] and [[Therapeutic drug monitoring|drug monitoring]].<ref name="Yarman 2012"/>
+
+==See also==
+*[[List of Marasmius species|List of ''Marasmius'' species]]
+
+==References==
+
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Arora 1986">{{cite book |author=Arora D. |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=Ten Speed Press |location=Berkeley, California |year=1986 |page=[https://archive.org/details/mushroomsdemysti00aror_0/page/208 208] |isbn=978-0-89815-169-5 |url-access=registration |url=https://archive.org/details/mushroomsdemysti00aror_0/page/208 }}</ref>
+
+<ref name="Beeli 1928">{{cite journal |vauthors=Beeli M, Goossens M |title=Contribution a l'étude de la Flore mycologique du Congo. Champignons: Fungi Goossensiani: V |journal=Bulletin de la Société Royale de Botanique de Belgique |year=1928 |volume=60 |issue=2 |pages=153–74 |jstor=20791530 |language=French}}</ref>
+
+<ref name="Beeli 1938">{{cite journal |author=Beeli M. |title=Étude de la Flore Mycologique africaine Note sur des Basidiomycètes récoltés a Sierra Leone par F. C Deighton |journal=Bulletin du Jardin Botanique de l'État à Bruxelles |year=1938 |volume=15 |issue=1 |pages=25–53 |doi=10.2307/3666575 |jstor=3666575 |language=French}}</ref>
+
+<ref name="Berkeley 1869">{{cite journal |vauthors=Berkeley MJ, Curtis MA |title=Fungi Cubenses (Hymenomycetes) |journal=Botanical Journal of the Linnean Society |year=1869 |volume=10 |issue=45 |pages=280–392 (see p. 297) |url=https://www.biodiversitylibrary.org/page/225788 |doi=10.1111/j.1095-8339.1868.tb00529.x|doi-access= }}</ref>
+
+<ref name="Bessette 1997">{{cite book |vauthors=Bessette A, Bessette AR, Fischer DW |title=Mushrooms of Northeastern North America |year=1997 |publisher=Syracuse University Press |location=Syracuse, New York |isbn=978-0-8156-0388-7 |pages=201–2 |url=https://books.google.com/books?id=T2uU12XcRD4C&pg=PA201}}</ref>
+
+<ref name="BMS">{{cite web |url=http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |title=Recommended English Names for Fungi in the UK |publisher=[[British Mycological Society]] |url-status=dead |archive-url=https://web.archive.org/web/20110716083053/http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf |archive-date=2011-07-16 }}</ref>
+
+<ref name="Das 2005">{{cite journal |author=Das N. |year=2005 |title=Determination of lead, arsenic, cadmium, iron, copper and nickel in wild mushroom samples from South West Bengal |journal=Mushroom Research |volume=14 |issue=2 |pages=80–3}}</ref>
+
+<ref name="Dennis 1951">{{cite journal |author=Dennis RWG. |title=Some Agaricaceae of Trinidad and Venezuela. Leucosporae: Part 1 |journal=Transactions of the British Mycological Society |year=1951 |volume=34 |issue=4 |pages=411–80 (see p. 415) |url=http://www.cybertruffle.org.uk/cyberliber/59351/0034/004/0415.htm |doi=10.1016/S0007-1536(51)80030-5 |access-date=2012-06-25 |archive-url=https://web.archive.org/web/20150923230844/http://www.cybertruffle.org.uk/cyberliber/59351/0034/004/0415.htm |archive-date=2015-09-23 |url-status=dead |url-access=subscription }}</ref>
+
+<ref name="Dix 1984">{{cite journal |author=Dix NJ. |title=Minimum water potentials for growth of some litter-decomposing agarics and other Basidiomycetes |journal=Transactions of the British Mycological Society |year=1984 |volume=83 |issue=1 |pages=152–3 |doi=10.1016/S0007-1536(84)80257-0 }}</ref>
+
+<ref name="Fries 1821">{{cite book |author=Fries EM. |title=Systema Mycologicum |volume=1 |year=1821 |publisher=ex officina Berlingiana |location=Lundin, Sweden |page=136 |url=https://www.biodiversitylibrary.org/page/4338211 |language=Latin}}</ref>
+
+<ref name="Fries 1838">{{cite book |author=Fries EM. |title=Epicrisis Systematis Mycologici |year=1838 |publisher=Typographia Academica |location=Uppsala, Sweden |page=385 |url=https://books.google.com/books?id=sLQTAAAAQAAJ&pg=RA1-PA385 |language=Latin}}</ref>
+
+<ref name="Gilliam 1975">{{cite journal |author=Gilliam MS. |year=1975 |title=Periodicity of spore release in ''Marasmius rotula'' |journal=Michigan Botanist |volume=14 |issue=2 |pages=83–90 |issn=0026-203X}}</ref>
+
+<ref name="Gilliam 1976 p3">
+{{harvnb|Gilliam|1976|p=[http://www.cybertruffle.org.uk/cyberliber/59575/0004/001/0003.htm 3]}}
+</ref>
+
+<ref name="Gilliam 1976 p112">
+{{harvnb|Gilliam|1976|p=[http://www.cybertruffle.org.uk/cyberliber/59575/0004/001/0112.htm 112]}}
+</ref>
+
+<ref name="Gilliam 1976 p121">
+{{harvnb|Gilliam|1976|p=[http://www.cybertruffle.org.uk/cyberliber/59575/0004/001/0121.htm 121]}}
+</ref>
+
+<ref name="Gilliam 1976 pp122–7">
+{{harvnb|Gilliam|1976|pp=[http://www.cybertruffle.org.uk/cyberliber/59575/0004/001/0122.htm 122–7]}}
+</ref>
+
+<ref name="Gray 1821">{{cite book |author=Gray SF. |title=A Natural Arrangement of British Plants |year=1821 |volume=1 |page=622 |url=https://www.biodiversitylibrary.org/page/30087324 |publisher=Baldwin, Cradock, and Joy |location=London, UK}}</ref>
+
+<ref name="Gröbe 2011">{{cite journal |vauthors=Gröbe G, Ullrich R, Pecyna MJ, Kapturska D, Friedrich S, Hofrichter M, Scheibner K |title=High-yield production of aromatic peroxygenase by the agaric fungus ''Marasmius rotula'' |journal=AMB Express |year=2011 |volume=1 |issue=1 |page=31 |pmid=21988939 |doi=10.1186/2191-0855-1-31 |pmc=3214178 |doi-access=free }}{{open access}}</ref>
+
+<ref name="Healy 2008">{{cite book |vauthors=Healy RA, Huffman DR, Tiffany LH, Knaphaus G |title=Mushrooms and Other Fungi of the Midcontinental United States |series=Bur Oak Guide |publisher=University of Iowa Press |location=Iowa City, Iowa |year=2008 |page=143 |isbn=978-1-58729-627-7 |url=https://books.google.com/books?id=tl2fVAHuej4C&pg=PT124}}</ref>
+
+<ref name="Idu 2008">{{cite journal |vauthors=Idu M, Osemwegie OO, Onyibe HI |year=2008 |title=Checklist of flora in Edo State, Nigeria |journal=Plant Archives |volume=8 |issue=2 |pages=539–49}}</ref>
+
+<ref name="Jordan 2004">{{cite book |author=Jordan M. |title=The Encyclopedia of Fungi of Britain and Europe |publisher=Frances Lincoln |location=London, UK |year=2004 |page=191 |isbn=978-0-7112-2378-3 |url=https://books.google.com/books?id=ULhwByKCyEwC&pg=PA191}}</ref>
+
+<ref name="Kauffman 1918">{{cite book |author=Kauffman CH. |year=1918 |title=The Agaricaceae of Michigan |volume=1 |publisher=Wynkoop Hallenbeck Crawford Co., State Printers |location=Lansing, Michigan |page=78 |url=https://www.biodiversitylibrary.org/page/2996352}}</ref>
+
+<ref name="Kirk 2008">{{cite book |vauthors=Kirk PM, Cannon PF, Minter DW, Stalpers JA |title=Dictionary of the Fungi |edition=10th |publisher=CAB International |location=Wallingford, UK |year=2008 |pages=8, 134 |isbn=978-0-85199-826-8}}</ref>
+
+<ref name="Koske 1986">{{cite journal |vauthors=Koske RE, Tessier B |title=Growth of some wood and litter-decay Basidiomycetes at reduced water potential |journal=Transactions of the British Mycological Society |year=1986 |volume=86 |issue=1 |pages=156–7 |doi=10.1016/S0007-1536(86)80129-2 |url=https://digitalcommons.uri.edu/bio_facpubs/449 }}</ref>
+
+<ref name="Krieger 1920">{{cite journal |author=Krieger LCC. |title=Common mushrooms of the United States |journal=National Geographic |year=1920 |volume=37 |issue=5 |page=413 |url=https://www.biodiversitylibrary.org/page/20471852}}</ref>
+
+<ref name="Kuntze 1898">{{cite journal |author=Kuntze O. |title=Chamaeceras|journal=Revisio Generum Plantarum |volume=3 |year=1898 |location=Leipzig, Germany |publisher=A.&nbsp;Felix |page=455 |url=https://www.biodiversitylibrary.org/page/3673 |language=German |doi=10.5962/bhl.title.327|doi-access=free }}</ref>
+
+<ref name="McKnight 1987">{{cite book |vauthors=McKnight VB, McKnight KH |title=A Field Guide to Mushrooms, North America |publisher=Houghton Mifflin |location=Boston, Massachusetts |year=1987 |page=167 |isbn=978-0-395-91090-0 |url=https://books.google.com/books?id=kSdA3V7Z9WcC&pg=PA167}}</ref>
+
+<ref name="Miller 2006">{{cite book|last1=Miller Jr.|first1=Orson K.|author-link=Orson K. Miller Jr.|title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi|last2=Miller|first2=Hope H.|publisher=[[FalconGuide]]|year=2006|isbn=978-0-7627-3109-1|location=Guilford, CN|pages=196}}</ref>
+
+<ref name="Orr 1979">{{cite book |vauthors=Orr DB, Orr RT |title=Mushrooms of Western North America |publisher=University of California Press |location=Berkeley, California |year=1979 |page=240 |isbn=978-0-520-03656-7}}</ref>
+
+<ref name="Patouillard 1887">{{cite book |author=Patouillard N. |title=Les Hyménomycètes d'Europe |year=1887 |location=Paris, France |publisher=Paul Klincksieck |page=105 |language=French |url=https://archive.org/stream/leshymnomyctesd00patogoog#page/n124/mode/2up}}</ref>
+
+<ref name="Roberts 2011">{{cite book |vauthors=Roberts P, Evans S |title=The Book of Fungi |year=2011 |publisher=University of Chicago Press |location=Chicago, Illinois |page=231 |isbn=978-0-226-72117-0}}</ref>
+
+<ref name="Roenneberg 2001">{{cite journal |vauthors=Roenneber T, Merrow M |title=Seasonality and photoperiodism in fungi |journal=Journal of Biological Rhythms |year=2001 |volume=16 |issue=4 |pages=403–14 |doi=10.1177/074873001129001999 |pmid=11506384 |url=https://pure.rug.nl/ws/files/14697432/2001JBiolRhythmsRoenneberg.pdf}}</ref>
+
+<ref name="Roody 2003">{{cite book |author=Roody WC. |title=Mushrooms of West Virginia and the Central Appalachians |publisher=University Press of Kentucky |location=Lexington, Kentucky |year=2003 |isbn=978-0-8131-9039-6 |url=https://books.google.com/books?id=5HGMPEiy4ykC&pg=PA158}}</ref>
+
+<ref name="Saccardo 1887">{{cite book |author=Saccardo PA. |title=Sylloge Fungorum |year=1887 |location=Padova, Italy |publisher=Sumptibus Auctoris |volume=5 |page=541 |language=Latin |url=https://www.biodiversitylibrary.org/page/4341215}}</ref>
+
+<ref name="Schröter 1885">{{cite book |author=Schröter J. |title=Kryptogamen-Flora von Schlesien |year=1885 |volume=3–1(1) |location=Lehre, Germany |publisher=Cramer |page=558 |language=German}}</ref>
+
+<ref name="Scopoli 1772">{{cite book |author=Scopoli JA. |title=Flora Carniolica |year=1772 |volume=2 |edition=2nd |publisher=J.P. Krauss |location=Vienna, Austria |page=456 |language=Latin |url=https://books.google.com/books?id=rq18L9V6hg8C&pg=PA456}}</ref>
+
+<ref name="Schorger 1946">{{cite journal |author=Schorger AW. |title=Nest of the Magnolia Warbler at Trout Lake, Wisconsin |journal=The Wilson Bulletin |year=1946 |volume=58 |issue=3 |page=186 |jstor=4157507}}</ref>
+
+<ref name="Singer 1946">{{cite journal |vauthors=Singer R, Smith AH |year=1946 |title=Proposals concerning the nomenclature of the gill fungi, including a list of proposed lectotypes and genera conservation |journal=Mycologia |volume=38 |issue=3 |pages=240–99 (see p. 295) |doi=10.2307/3755094 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0038/003/0240.htm |jstor=3755094 |access-date=2012-07-04 |archive-url=https://web.archive.org/web/20150923223003/http://www.cybertruffle.org.uk/cyberliber/59350/0038/003/0240.htm |archive-date=2015-09-23 |url-status=dead |url-access=subscription }}</ref>
+
+<ref name="Singer 1989">{{cite journal |author=Singer R. |title=New taxa and new combinations of Agaricales (diagnoses fungorum novorum agaricalium IV) |journal=Fieldiana Botany |year=1989 |issue=21 |language=Latin, English |page=51 |url=https://www.biodiversitylibrary.org/page/2638939}}</ref>
+
+<ref name="Smith 2005">{{cite book |author=Smith KN. |title=A Field Guide to the Fungi of Australia |publisher=UNSW Press |location=Sydney, Australia |year=2005 |page=155 |isbn=978-0-86840-742-5 |url=https://books.google.com/books?id=ysgx509xB-AC&pg=PA155}}</ref>
+
+<ref name="Taxon 1953">{{cite journal |author=Anon |year=1953 |title=Disposition of nomina generica conservanda for Fungi |journal=Taxon |volume=2 |issue=2 |pages=29–32 |doi=10.1002/j.1996-8175.1953.tb01455.x |jstor=1217581 |bibcode=1953Taxon...2...29R }}</ref>
+
+<ref name="Taxon 1954">{{cite journal |author=Anon |year=1954 |title=Nomina generica conservanda |journal=Taxon |volume=3 |issue=8 |page=233 |doi=10.2307/1216603|jstor=1216603 |bibcode=1954Taxon...3..233. }}</ref>
+
+<ref name="urlMarasmius rotula (MushroomExpert.Com)">{{cite web |url=http://www.mushroomexpert.com/marasmius_rotula.html |title=''Marasmius rotula'' |author=Kuo M. |publisher=MushroomExpert.com |date=November 2004 |access-date=2012-05-15}}</ref>
+
+<ref name="urlMycoBank: Marasmius rotula var. phyllophila">{{cite web |title=''Marasmius rotula'' var. ''phyllophila'' J. Schröt. 1889 |url=http://www.mycobank.org/BioloMICS.aspx?Table=Mycobank&Rec=424633&Fields=All |publisher=MycoBank. International Mycological Association |access-date=2012-06-18}}</ref>
+
+<ref name="urlSpecies Fungorum Synonymy: Marasmius rotula">{{cite web |title=Synonymy: ''Marasmius rotula'' (Scop.) Fr. |url=http://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=156778 |publisher=[[Index Fungorum]]. [[CAB International]] |access-date=2012-06-14}}</ref>
+
+<ref name="Vězda 1975">{{cite journal |author=Vězda A. |title=Foliikole Flechten aus Tanzania (Ost-Afrika) |journal=Folia Geobotanica & Phytotaxonomica |year=1975 |volume=10 |issue=4 |pages=383–432 (see p. 391) |doi=10.1007/BF02854975 |jstor=4179892 |language=German}}</ref>
+
+<ref name="Withering 1796">{{cite book |author=Withering W. |title=An Arrangement of British Plants |year=1796 |volume=4 |edition=3rd |location=Birmingham, UK |publisher=M. Swinney |page=148 |url=https://books.google.com/books?id=xvsnAAAAYAAJ&pg=PA148}}</ref>
+
+<ref name="Yarman 2012">{{cite journal |vauthors=Yarman A, Gröbe G, Neumann B, Kinne M, Gajovic-Eichelmann N, Wollenberger U, Hofrichter M, Ullrich R, Scheibner K, Scheller FW |title=The aromatic peroxygenase from ''Marasmius rotula''—a new enzyme for biosensor applications |journal=Analytical and Bioanalytical Chemistry |year=2012 |volume=402 |issue=1 |pages=405–12 |pmid=22038589 |doi=10.1007/s00216-011-5497-y}}</ref>
+
+}}
+
+===Cited literature===
+*{{cite journal |last=Gilliam |first=M. S. |year=1976 |title=The genus ''Marasmius'' in the northeastern United States and adjacent Canada |journal=Mycotaxon |volume=4 |issue=1 |pages=1–144 |doi=10.5962/p.417747 |issn=0093-4666 |url=http://www.cybertruffle.org.uk/cyberliber/59575/0004/001/0001.htm |access-date=2012-06-25 |archive-url=https://web.archive.org/web/20150923231001/http://www.cybertruffle.org.uk/cyberliber/59575/0004/001/0001.htm |archive-date=2015-09-23 |url-status=dead |doi-access=free }}
+
+{{Taxonbar|from=Q1572207}}
+
+[[Category:Fungi described in 1772]]
+[[Category:Fungi of Africa]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Inedible fungi]]
+[[Category:Marasmius|rotula]]
+[[Category:Taxa named by Giovanni Antonio Scopoli]]
+[[Category:Fungus species]]

@@ -1,0 +1,38 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Lactarius lignyotus 41556 crop.jpg
+| genus = Lactarius
+| species = lignyotus
+| authority = [[Elias Magnus Fries|Fr.]] (1855)
+| synonyms_ref = <ref name="urlMycoBank: Lactarius lignyotus"/>
+| synonyms = ''Lactariella lignyota'' <small>(Fr.) [[J.Schröt.]] (1889)</small><br>
+''Lactifluus lignyotus'' <small>(Fr.) [[Otto Kuntze|Kuntze]] (1891)</small>
+}}
+
+'''''Lactarius lignyotus''''' ('''chocolate milky''')<ref name=falc /> is a member of the large milk-cap genus ''[[Lactarius (fungus)|Lactarius]]'' in the order [[Russulales]]. It was first [[species description|described]] scientifically by [[Elias Magnus Fries]] in 1855.
+
+The cap is up to {{Convert|4|in|cm|order=flip}} wide and brown. The stalk is brown and white at the base. The flesh oozes a milky latex when split. It has a yellow or ochre [[spore print]].<ref name=falc>{{Cite book |last=Telander |first=Todd |title=Mushrooms |date=2023 |publisher=Falcon Guides |isbn=978-1-4930-6558-5 |edition=2nd |series=A Falcon Field Guide |location=Essex, CT |pages=1}}</ref>
+
+It can be found in [[conifer]]ous woodland in eastern North America.<ref name=falc />
+It is considered edible, but of little interest.<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |url=https://archive.org/details/mushroomsotherfu0000phil |url-access=registration |year=2010 |orig-year=2005 |publisher=Firefly Books |location=Buffalo, NY |isbn=978-1-55407-651-2 |page=[https://archive.org/details/mushroomsotherfu0000phil/page/104 104]}}</ref>
+
+==See also==
+*[[List of Lactarius species|List of ''Lactarius'' species]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="urlMycoBank: Lactarius lignyotus">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=165811 |title=''Lactarius lignyotus'' Fr. 1855  |publisher=International Mycological Association |work=MycoBank |access-date=2010-11-15}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|165811}}
+
+{{Taxonbar|from=Q80740}}
+
+[[Category:Lactarius|lignyotus]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi described in 1855]]
+[[Category:Taxa named by Elias Magnus Fries]]
+[[Category:Fungus species]]

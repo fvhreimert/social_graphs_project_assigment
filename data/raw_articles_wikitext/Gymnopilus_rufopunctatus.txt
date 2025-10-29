@@ -1,0 +1,36 @@
+{{Short description|Species of fungus}}
+{{unreferenced|date=October 2025}}
+{{Speciesbox
+| image =
+| image_caption =
+| taxon = Gymnopilus rufopunctatus
+| authority = ([[Narcisse Théophile Patouillard|Pat.]] & [[Albert Gaillard|Gaillard]]) [[Richard William George Dennis|Dennis]] (1970)
+| synonyms = *''Pholiota rufopunctata'' {{small|Pat. & Gaillard (1888)}}
+}}
+{{mycomorphbox
+| name = ''Gymnopilus rufopunctatus''
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+
+'''''Gymnopilus rufopunctatus''''' is a species of [[mushroom]]-forming [[fungus]] in the family [[Hymenogastraceae]].
+
+==See also==
+{{Portal|Fungi}}
+*[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+{{Taxonbar|from=Q5624968}}
+
+[[Category:Gymnopilus|rufopunctatus]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi described in 1888]]
+[[Category:Fungus species]]
+
+
+{{Hymenogastraceae-stub}}

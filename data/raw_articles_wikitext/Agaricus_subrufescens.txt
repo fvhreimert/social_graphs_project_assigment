@@ -1,0 +1,84 @@
+{{Short description|Species of fungus}}
+{{Use dmy dates|date=September 2023}}
+{{Stack |
+{{Speciesbox
+| image = Agaricus_subrufescens.jpg
+| image_alt = Agaricus subrufescens
+| image_caption = ''Agaricus subrufescens''
+| image2 = 2012-10-29 Agaricus subrufescens Peck 276634.jpg
+| taxon= Agaricus subrufescens
+| authority = [[Charles Horton Peck|Peck]] (1893)
+| synonyms = *''Agaricus rufotegulis'' <small>[[Nauta]] (1999)</small>
+*''Agaricus brasiliensis'' <small>[[Solomon P. Wasser|Wasser]], [[M. Didukh]], [[M. A. L. Amazonas|Amazonas]] & [[Paul Stamets|Stamets]] (2002) [''[[nom. illegit.]]'', non ''A. brasiliensis'' [[Elias Magnus Fries|Fr.]] (1830)]</small>
+*''Agaricus blazei'' <small>auct. non [[William Murrill|Murrill]] (1945)</small>
+}}
+{{mycomorphbox
+| name = ''Agaricus subrufescens''
+| whichGills = free
+| capShape = convex
+| hymeniumType = gills
+| stipeCharacter = ring
+| ecologicalType = saprotrophic
+| sporePrintColor = brown
+| howEdible = choice
+| howEdible2 = allergenic}}
+}}
+
+'''''Agaricus subrufescens''''' ([[Synonym (biology)|syn.]] '''''Agaricus blazei'', ''A.&nbsp;brasiliensis''''' or '''''A.&nbsp;rufotegulis''''') is a species of fungus, commonly known as the '''almond mushroom'''.<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/336/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=336-337 |orig-date=1979}}</ref><ref>Other names include '''almond agaricus''', '''mushroom of the sun''', '''God's mushroom''', '''mushroom of life''', '''royal sun agaricus''', '''''jisongrong''''', or '''''himematsutake''''' (Chinese: {{lang|zh|姬松茸}}, Japanese: {{lang|ja|姫まつたけ}}, "'''princess [[matsutake]]'''").</ref> It is [[edible mushroom|edible]] for most people, with a somewhat sweet taste and a fragrance of [[almond]]s.
+
+==Taxonomy==
+''Agaricus subrufescens'' was first described by the American botanist [[Charles Horton Peck]] in 1893.<ref>{{Cite journal |author=Peck CH |year=1893 |title=Report of the Botanist (1892) |journal=Annual Report on the New York State Museum of Natural History |volume=46 |pages=85–149}}</ref> During the late 19th and early 20th centuries, it was cultivated for the table in the eastern United States.<ref name="pmid16389952">{{Cite journal |last1=Kerrigan |first1=RW |year=2005 |title=Agaricus subrufescens, a cultivated edible and medicinal mushroom, and its synonyms |journal=Mycologia |volume=97 |issue=1 |pages=12–24 |doi=10.3852/mycologia.97.1.12 |pmid=16389952}}</ref> It was discovered again in Brazil during the 1970s, and misidentified as ''Agaricus blazei'' Murrill, a species originally described from Florida. It was soon marketed for its purported medicinal properties under various names, including ABM (for ''Agaricus blazei'' Murrill), ''cogumelo do sol'' (mushroom of the sun), ''cogumelo de Deus'' (mushroom of God), ''cogumelo de vida'' (mushroom of life), ''himematsutake'', royal sun agaricus, ''Mandelpilz'', and almond mushroom.
+
+In 2002, Didukh and Wasser correctly rejected the name ''A.&nbsp;blazei'' for this species, but called the Brazilian fungus ''A.&nbsp;brasiliensis'',<ref name="didukh_2002">{{Cite journal |last1=Wasser |first1=Solomon P. |last2=Didukh |first2=Marina Ya. |last3=de Amazonas |first3=Maria Angela L. |last4=Nevo |first4=Eviatar |last5=Stamets |first5=Paul |last6=da Eira |first6=Augusto F. |year=2002 |title=Is a Widely Cultivated Culinary-Medicinal Royal Sun Agaricus (the Himematsutake Mushroom) Indeed ''Agaricus blazei'' Murrill? |journal=International Journal of Medicinal Mushrooms |volume=4 |issue=4 |pages=267–290 |doi=10.1615/intjmedmushr.v4.i4.10 |oclc=39977461}}</ref> a name that had already been used for a different species, ''[[Agaricus brasiliensis]]'' Fr. (1830). Richard Kerrigan undertook genetic and interfertility testing on several fungal strains,<ref name="pmid16389952" /> and showed that samples of the Brazilian strains called ''A.&nbsp;blazei'' and ''A.&nbsp;brasiliensis'' were genetically similar to, and interfertile with, North American populations of ''Agaricus subrufescens''. These tests also found European samples called ''A.&nbsp;rufotegulis'' to be of the same species. Because ''A.&nbsp;subrufescens'' is the oldest name, it has [[Taxonomy (biology)|taxonomical]] priority.
+
+==Description==
+
+
+The [[pileus (mycology)|cap]] is initially hemispherical, later becoming convex, with a diameter of {{convert|5 to 25|cm|frac=2|abbr=off}}.<ref name="Arora1986" /><ref name=Murrill1922>{{Cite journal|doi=10.2307/3753642 |journal=Mycologia |year=1922 |volume=14 |issue=4 |title=Dark-Spored Agarics: III. Agaricus |last=Murrill |first=W. A. |pages=200–221 |jstor=3753642}}</ref> The color of the cap may range from white to grayish or dull reddish brown; it stains yellow in [[Potassium hydroxide|KOH]].<ref name="Arora1986" /> Its surface is covered with silk-like fibers, although in maturity it develops small scales (squamulose). The cap margin typically splits with age. The [[trama (mycology)|flesh]] is white, and has the taste of "green nuts", with the odor of almonds.<ref name=Murrill1922 /> The [[lamella (mycology)|gills]] are not attached to the stalk (free), narrow, and crowded closely together. They start out whitish in color, then later pinkish, and finally black-brown as the spores mature. The spore print is brown.<ref name="Arora1986" /> The [[Basidiospore|spores]] are ellipsoid, smooth, dark purplish-brown when viewed microscopically, with dimensions of 5.5–7 by 4–5&nbsp;[[μm]].<ref name="Arora1986" />
+
+The [[stipe (mycology)|stipe]] is {{convert|6 to 15|cm|frac=2|abbr=on}} long and {{convert|1 to 4|cm|frac=4|abbr=on}} thick, and sometimes bulbous at the base.<ref name="Arora1986" /> Initially solid, the stipe becomes hollow with age; it is cottony (floccose) to scaly toward the base.<ref name="Murrill1922" /> The [[Annulus (mycology)|annulus]]<ref name="Arora1986" /> is abundant and double-layered; it is bent downward toward the stem, smooth and whitish on the upper side, and covered with cottony scales on the lower side.
+
+A type of [[ergostane]]-type compounds called blazeispirols have been isolated from ''A.&nbsp;subrufescens''.<ref>{{cite journal |last1=Hirotani |first1=M |last2=Sai |first2=K |last3=Hirotani |first3=S |last4=Yoshikawa |first4=T |year=2002 |title=Blazeispirols B, C, E and F, des-A-ergostane-type compounds, from the cultured mycelia of the fungus Agaricus blazei |journal=Phytochemistry |volume=59 |issue=5 |pages=571–7 |bibcode=2002PChem..59..571H |doi=10.1016/s0031-9422(01)00445-9 |pmid=11853754}}</ref>
+
+===Similar species===
+It resembles some related species, including ''[[Agaricus hondensis|A.&nbsp;hondensis]]''.<ref name="Arora1986" />
+
+==Distribution and habitat==
+''A. subrufescens'' forms fruit bodies singly or in clusters in [[leaf litter]] in rich soil, often in domestic habitats.<ref name="isbn0-472-85599-9">{{Cite book|author=Smith, Alexander Hanchett |title=A Field Guide to Western Mushrooms |publisher=University of Michigan Press |location=Ann Arbor, Mich |year=1975 |page=228 |isbn=978-0-472-85599-5}}{{Page needed|date=August 2010}}</ref> Originally described from the northeastern U.S. and Canada, it has been found growing in California, Hawaii, Great Britain, the Netherlands, Taiwan, Japan,<ref>{{Cite journal |last=Kerrigan |first=R. W. |date=2005-01-01 |title=Agaricus subrufescens, a cultivated edible and medicinal mushroom, and its synonyms |url=http://www.mycologia.org/cgi/doi/10.3852/mycologia.97.1.12 |journal=Mycologia |language=en |volume=97 |issue=1 |pages=12–24 |doi=10.3852/mycologia.97.1.12 |pmid=16389952 |issn=0027-5514}}</ref> Philippines, Iran,<ref name="Asef 2020">{{cite book |author=Asef M.R. |title=Field guide of Mushrooms of Iran |publisher=Iran-Shanasi Press |location=Tehran|year=2020|page=360 |isbn=978-600-8351-42-9}}</ref> Australia, Brazil,<ref name="pmid16389952" /> and Uruguay.<ref>Sequeira, Alejandro. ''Hongos''.</ref>
+
+==Toxicity==
+Preliminary research indicates ''Agaricus'' products may have [[toxicity|toxic]] effects on [[liver]] function marked by increased serum level of liver enzymes, especially in people with [[ovarian cancer]],<ref name="mskcc" /><ref name="sweet">{{cite journal |last1=Sweet |first1=E. S. |last2=Standish |first2=L. J. |last3=Goff |first3=B. |last4=Andersen |first4=M. R. |year=2013 |title=Adverse events associated with complementary and alternative medicine use in ovarian cancer patients |journal=Integrative Cancer Therapies |volume=12 |issue=6 |pages=508–516 |doi=10.1177/1534735413485815 |pmc=4613776 |pmid=23625025}}</ref> and may cause [[allergic reaction]]s.<ref name="mskcc" /> 
+
+Contrary to concerns about possible hepatotoxicity, multiple peer-reviewed studies suggest that ''A.&nbsp;subrufescens'' (''A.&nbsp;blazei'' Murill) exhibits [[hepatoprotective]] effects rather than toxicity in both human and animal models.
+
+* Clinical Study in [[Hepatitis B]] Patients: A 12-month open-label clinical study observed that 1,500 mg/day of ''A.&nbsp;blazei'' extract significantly reduced serum liver enzyme levels (ALT and AST) in chronic hepatitis B patients, indicating improved liver function without any adverse effects. No liver toxicity or renal abnormalities were reported in the patients throughout the study period.<ref>{{Cite journal |last1=Hsu |first1=Chung-Hua |last2=Hwang |first2=Kung-Chang |last3=Chiang |first3=Yi-Hsiung |last4=Chou |first4=Pesus |date=April 2008 |title=The Mushroom Agaricus blazei Murill Extract Normalizes Liver Function in Patients with Chronic Hepatitis B |url=https://www.liebertpub.com/doi/10.1089/acm.2006.6344 |journal=The Journal of Alternative and Complementary Medicine |volume=14 |issue=3 |pages=299–301 |doi=10.1089/acm.2006.6344 |pmid=18370584 |issn=1075-5535|url-access=subscription }}</ref>
+* Animal Studies on Alcohol and [[CCl4]]-Induced Liver Injury: Experimental models in rats demonstrated that ABM extract has protective and antioxidant effects against liver injury caused by alcohol and carbon tetrachloride (CCl4). These studies reported normalization of liver enzymes, increased antioxidant levels (GSH, vitamins C and E), and reduced lipid peroxidation, without evidence of liver toxicity.<ref>{{Cite journal |last1=Al-Dbass |first1=Abeer M. |last2=Al- Daihan |first2=Sooad K. |last3=Bhat |first3=Ramesa Shafi |date=2012-07-01 |title=Agaricus blazei Murill as an efficient hepatoprotective and antioxidant agent against CCl4-induced liver injury in rats |journal=Saudi Journal of Biological Sciences |volume=19 |issue=3 |pages=303–309 |doi=10.1016/j.sjbs.2012.03.004 |issn=1319-562X |pmc=3730730 |pmid=23961190}}</ref><ref>{{Cite journal |last1=Wang |first1=Hang |last2=Li |first2=Gang |last3=Zhang |first3=Wenyu |last4=Han |first4=Chunchao |last5=Xu |first5=Xin |last6=Li |first6=Yong-Ping |date=2014 |title=The Protective Effect of Agaricus blazei Murrill, Submerged Culture Using the Optimized Medium Composition, on Alcohol-Induced Liver Injury |journal=BioMed Research International |language=en |volume=2014 |issue=1 |article-number=573978 |doi=10.1155/2014/573978 |doi-access=free |issn=2314-6141 |pmc=4119911 |pmid=25114908}}</ref>
+
+The U.S. [[Food and Drug Administration]] has issued [[FDA warning letter|warning letters]] to companies marketing ''Agaricus'' supplement products with unproven [[health claim]]s of suggesting disease treatment or prevention, but these actions were based on regulatory compliance and not on evidence of toxicity.<ref>{{cite web |author1=Ronald Pace |date=15 July 2014 |title=Warning letter: C P Health Products Inc |url=https://www.fda.gov/ICECI/EnforcementActions/WarningLetters/2014/ucm405674.htm |archive-url=https://web.archive.org/web/20140725191739/http://www.fda.gov/ICECI/EnforcementActions/WarningLetters/2014/ucm405674.htm |archive-date=25 July 2014 |access-date=21 November 2018 |publisher=Inspections, Compliance, Enforcement, and Criminal Investigations, US Food and Drug Administration}}</ref><ref>{{cite web |author1=LaTonya M. Mitchell |date=8 August 2014 |title=Warning letter: EnerHealth Botanicals, LLC |url=https://www.fda.gov/ICECI/EnforcementActions/WarningLetters/ucm410131 |access-date=21 November 2018 |publisher=Inspections, Compliance, Enforcement, and Criminal Investigations, US Food and Drug Administration}}{{dead link|date=May 2025|bot=medic}}{{cbignore|bot=medic}}</ref>
+
+, [[Hong Kong]]]]
+==Uses==
+
+The mushroom is [[Edible mushroom|edible]] for most people,<ref name="Arora1986" /> with a somewhat sweet taste and an [[almond]] [[aroma]] resulting from [[benzaldehyde]], [[benzyl alcohol]], [[benzonitrile]], and [[methyl benzoate]].<ref name="Chen_1984">{{Cite journal |last1=Chen |first1=CHU-CHIN |last2=Wu |first2=Chung-MAY |year=1984 |title=Volatile Components of Mushroom (Agaricus subrufecens) |journal=Journal of Food Science |volume=49 |issue=4 |pages=1208–1209 |doi=10.1111/j.1365-2621.1984.tb10433.x}}</ref>
+
+Used in [[traditional medicine|traditional]] and [[alternative medicine]] for its supposed [[anti-cancer]] effects, ''Agaricus'' mushrooms have not been assessed by sufficient high-quality [[clinical research]] to define safety and biological properties upon consumption as a food, [[dietary supplement]], or [[Medicinal fungi|drug]].<ref name="mskcc">{{cite web |title=Agaricus |url=https://www.mskcc.org/cancer-care/integrative-medicine/herbs/agaricus#msk_professional |publisher=Memorial Sloan Kettering Cancer Center |access-date=21 November 2018 |date=2018}}</ref>
+
+==See also==
+{{Portal|Fungi}}
+* [[List of Agaricus species|List of ''Agaricus'' species]]
+
+==References==
+{{Reflist}}
+
+{{Medicinal herbs & fungi}}
+{{Taxonbar|from=Q764068}}
+
+[[Category:Agaricus|subrufescens]]
+[[Category:Edible fungi]]
+[[Category:Medicinal fungi]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Brazil]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1893]]
+[[Category:Taxa named by Charles Horton Peck]]
+[[Category:Fungus species]]

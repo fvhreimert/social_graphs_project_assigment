@@ -1,0 +1,253 @@
+{{Short description|Species of fungus}}
+{{Featured article}}
+{{Speciesbox
+| image = Sarcoscypha coccinea 74716.jpg
+| taxon = Sarcoscypha coccinea
+| authority = ([[Scop.]]) [[Jean Baptiste Émil Lambotte|Lambotte]] (1889)
+| synonyms_ref = <ref name="urlMycoBank:Sarcoscypha coccinea"/>
+| synonyms =
+{{hidden begin|title=List}}
+*''Helvella coccinea'' <small>[[Schaeff.]] (1772)</small>
+*''Peziza coccinea'' <small>[[Jacq.]] (1774)</small>
+*''Peziza cochleata'' <small>[[August Johann Georg Karl Batsch|Batsch]] (1783)</small>
+*''Peziza dichroa'' <small>[[Holmsk.]] (1799)</small>
+*''Peziza coccinea'' <small>Jacq. (1800)</small>
+*''Peziza aurantia'' <small>[[Schumach.]] (1803)</small>
+*''Macroscyphus coccineus'' <small>(Scop.) [[Samuel Frederick Gray|Gray]] (1821)</small>
+*''Peziza aurantiaca'' <small>[[Pers.]] (1822)</small>
+*''Lachnea coccinea'' <small>(Jacq.) [[Claude Casimir Gillet|Gillet]] (1887)</small>
+*''Lachnea coccinea'' <small>(Jacq.) [[W.Phillips]] (1887)</small>
+*''Geopyxis coccinea'' <small>(Scop.) [[George Edward Massee|Massee]] (1895)</small>
+*''Sarcoscypha coccinea'' <small>(Scop.) [[Sacc.]] ex [[Elias Judah Durand|Durand]] (1900)</small>
+*''Plectania coccinea'' <small>(Scop.) [[Karl Wilhelm Gottlieb Leopold Fuckel|Fuckel]] ex [[Fred Jay Seaver|Seaver]] (1928)</small>
+{{hidden end}}
+}}
+{{Mycomorphbox
+| name = ''Sarcoscypha coccinea''
+| whichGills = no
+| capShape =no
+| hymeniumType=smooth
+| stipeCharacter=NA
+| ecologicalType=saprotrophic
+| howEdible=edible
+}}
+
+'''''Sarcoscypha coccinea''''', commonly known as the '''scarlet elf cup''', or the '''scarlet cup''', is a species of [[fungus]] in the family [[Sarcoscyphaceae]] of the order [[Pezizales]]. The [[type species]] of the genus ''[[Sarcoscypha]]'', ''S.&nbsp;coccinea'' has been known by many names since its first appearance in the scientific literature in 1772. [[Phylogenetic]] analysis shows the species to be most closely related to other ''Sarcoscypha'' species that contain numerous small oil droplets in their [[spore]]s, such as the North Atlantic island species ''[[Sarcoscypha macaronesica|S.&nbsp;macaronesica]]''. Due to similar physical appearances and sometimes overlapping distributions, ''S.&nbsp;coccinea'' has often been confused with ''[[Sarcoscypha occidentalis|S.&nbsp;occidentalis]]'', ''[[Sarcoscypha austriaca|S.&nbsp;austriaca]]'', and ''[[Sarcoscypha dudleyi|S.&nbsp;dudleyi]]''. The brilliant red interior of the cups—from which both the [[common name|common]] and scientific names are derived—contrasts with the lighter-colored exterior. ''Molliardiomyces eucoccinea'' is the name given to the [[fungi imperfecti|imperfect]] form of the fungus that lacks a [[Sexual reproduction|sexually reproductive]] stage in its [[Biological life cycle|life cycle]].
+
+The [[saprobic]] fungus grows on decaying sticks and branches in damp spots on forest floors, generally buried under [[leaf litter]] or in the soil. The cup-shaped [[Ascocarp|fruit bodies]] are usually produced during the cooler months of winter and early spring. It is widely distributed in the [[Northern Hemisphere]] and has been found in Africa, Eurasia, the Americas, and Australia. The [[edible mushroom|edibility]] of the fruit bodies is well established, but its small size, small abundance, tough texture, and insubstantial fruitings would dissuade most people from collecting for the table. The fungus has been used medicinally by the [[Oneida people|Oneida]] Native Americans, and also as a colorful component of table decorations in England. In the northern part of Russia, where fruitings are more frequent, it is consumed in salads, fried with smetana, or just used as colored dressing for meals.
+
+==Taxonomy==
+]]
+
+The species was originally named ''Helvella coccinea'' by the Italian naturalist [[Giovanni Antonio Scopoli]] in 1772.<ref name=Scopoli1772/> Other early names include ''Peziza coccinea'' ([[Nikolaus Joseph von Jacquin]], 1774)<ref name=Jacquin1774/> and ''Peziza dichroa'' ([[Johan Theodor Holmskjold|Theodor Holmskjold]], 1799).<ref name=Holmskjold1799/> Although some authors in older literature have applied the generic name ''[[Plectania]]'' to the taxon following [[Karl Wilhelm Gottlieb Leopold Fuckel|Karl Fuckel]]'s 1870 name change<ref name=Fuckel1870/> (e.g. Seaver, 1928;<ref name=Seaver1928/> Kanouse, 1948;<ref name=Kanouse1948/> Nannfeldt, 1949;<ref name=Nannfeldt1949/> Le Gal, 1953<ref name=LeGal1953/>), that name is now used for a fungus with brownish-black fruit bodies.<ref name=Korf1990/> ''Sarcoscypha coccinea'' was given its current name by [[Jean Baptiste Émil Lambotte]] in 1889.<ref name="urlMycoBank:Sarcoscypha coccinea"/>
+
+Obligate [[Synonym (taxonomy)|synonyms]] (different names for the same species based on one [[type (biology)|type]]) include ''Lachnea coccinea'' [[Claude Casimir Gillet|Gillet]] (1880),<ref name="urlMycoBank:Lachnea coccinea"/> ''Macroscyphus coccineus'' [[Samuel Frederick Gray|Gray]] (1821),<ref name="urlMycoBank:Macroscyphus coccineus"/> and ''Peziza dichroa'' [[Johan Theodor Holmskjold|Holmskjold]] (1799). [[Taxonomy (biology)|Taxonomic]] synonyms (different names for the same species, based on different types) include ''Peziza aurantia'' [[Heinrich Christian Friedrich Schumacher|Schumacher]] (1803), ''Peziza aurantiaca'' [[Christiaan Hendrik Persoon|Persoon]] (1822), ''Peziza coccinea'' [[Nikolaus Joseph von Jacquin|Jacquin]] (1774), ''Helvella coccinea'' [[Jacob Christian Schäffer|Schaeffer]] (1774), ''Lachnea coccinea'' [[William Phillips (botanist)|Phillips]] (1887), ''Geopyxis coccinea'' [[George Edward Massee|Massee]] (1895), ''Sarcoscypha coccinea'' [[Pier Andrea Saccardo|Saccardo]] ex [[Elias Judah Durand|Durand]] (1900), ''Plectania coccinea'' ([[Karl Wilhelm Gottlieb Leopold Fuckel|Fuckel]] ex [[Fred Jay Seaver|Seaver]]), and ''Peziza cochleata'' [[August Batsch|Batsch]] (1783).<ref name="urlMycoBank:Peziza dichroa"/>
+
+''Sarcoscypha coccinea'' is the [[type species]] of the genus ''Sarcoscypha'', having been first explicitly designated as such in 1931 by [[Frederick Clements]] and [[Cornelius Lott Shear]].<ref>Korf and Harrington (1990), citing {{cite book |title=The Genera of Fungi |author1=Clements FE |author2=Shear CL. |year=1931 |location=New York, NY}}</ref> A 1990 publication revealed that the genus name ''Sarcoscypha'' had been used previously  by [[Carl Friedrich Philipp von Martius|Carl F. P. von Martius]] as the name of a [[tribe (biology)|tribe]] in the genus ''[[Peziza]]'';<ref name=Martius1817/> according to the rules of [[International Code of Botanical Nomenclature|Botanical Nomenclature]], this meant that the generic name ''Peziza'' had priority over ''Sarcoscypha''. To address the [[Taxonomy (biology)|taxonomical]] dilemma, the genus name ''Sarcoscypha'' was [[conserved name|conserved]] against ''Peziza'', with ''S.&nbsp;coccinea'' as the type species, to "avoid the creation of a new generic name for the scarlet cups and also to avoid the disadvantageous loss of a generic name widely used in the popular and scientific literature".<ref name=Korf1990/> The [[specific name (botany)|specific epithet]] ''coccinea'' is derived from the [[Latin]] word meaning "deep red". The species is [[common name|commonly]] known as the "scarlet elf cup",<ref name="McKnight1987"/> the "scarlet elf cap",<ref name="Burrows 2005"/> or the "scarlet cup fungus".<ref name="Arora1986"/>
+
+''S.&nbsp;coccinea'' var. ''jurana'' was described by [[Jean Louis Émile Boudier|Jean Boudier]] (1903) as a [[variety (botany)|variety]] of the species having a brighter and more orange-colored fruit body, and with flattened or blunt-ended ascospores.<ref name=Boudier1903/> Today it is known as the distinct species ''[[Sarcoscypha jurana|S.&nbsp;jurana]]''.<ref name="urlSpecies Fungorum - Species synonymy"/> ''S.&nbsp;coccinea'' var. ''albida'', named by [[George Edward Massee]] in 1903 (as ''Geopyxis coccinea'' var. ''albida''), has a cream-colored rather than red interior surface, but is otherwise identical to the typical variety.<ref name=Massee1903/>
+
+{{cladogram
+| clade=
+{{clade
+|style=font-size:75%;line-height:75%
+| label1=
+| 1={{clade
+    |1={{clade
+        |1={{clade
+           |1={{clade
+              |1={{clade
+                 |1='''''S. coccinea'''''
+                 |2=''[[Sarcoscypha macaronesica|S. macaronesica]]''
+                 }}
+              |2=''[[Sarcoscypha austriaca|S. austriaca]]''
+              |3=''[[Sarcoscypha humberiana|S. humberiana]]''
+              }}
+         |2=''[[Sarcoscypha knixoniana|S. knixoniana]]''
+         }}
+     |2=Other ''Sarcoscypha'' spp.
+     }}
+}}}}
+| caption=Phylogeny and relationships of ''S.&nbsp;coccinea'' and related species based on [[internal transcribed spacer|ITS]] sequences and [[morphology (biology)|morphological]] characteristics.<ref name=Harrington1998/>
+}}
+Within the large area that includes the [[temperate climate|temperate]] to [[alpine climate|alpine]]-[[boreal ecosystem|boreal]] zone of the [[Northern Hemisphere]] (Europe and North America), only ''S.&nbsp;coccinea'' had been recognized until the 1980s. However, it had been known since the early 1900s that there existed several macroscopically indistinguishable [[taxon|taxa]] with various microscopic differences: the distribution and number of oil droplets in fresh spores; [[germination]] behavior; and spore shape. Detailed analysis and comparison of fresh specimens revealed that what had been collectively called "''S.&nbsp;coccinea''" actually consisted of four distinct species: ''S.&nbsp;austriaca'', ''S.&nbsp;coccinea'', ''S.&nbsp;dudleyi'', and ''S.&nbsp;jurana''.<ref name="Baral1984" />
+
+The [[phylogenetic]] relationships in the genus ''Sarcoscypha'' were analyzed by Francis Harrington in the late 1990s.<ref name=Harrington1998/><ref name=Harrington1997/> Her [[cladistic]] analysis combined comparisons of the [[Nucleic acid sequence|sequences]] of the [[internal transcribed spacer]] in the non-functional [[RNA]] with fifteen traditional [[morphology (biology)|morphological]] characteristics, such as spore features, fruit body shape, and degree of curliness of the "hairs" that form the [[wikt:tomentum|tomentum]]. Based on her analysis, ''S.&nbsp;coccinea'' is part of a [[clade]] that includes the species ''S.&nbsp;austriaca'', ''S.&nbsp;macaronesica'', ''S.&nbsp;knixoniana'' and ''S.&nbsp;humberiana''.<ref name=Harrington1998/> All of these ''Sarcoscypha'' species have numerous, small oil droplets in their spores. Its closest relative, ''S.&nbsp;macaronesica'', is found on the [[Canary Islands]] and [[Madeira]]; Harrington hypothesized that the [[most recent common ancestor]] of the two species originated in Europe and was later dispersed to the [[Macaronesia]]n islands.<ref name=Harrington1997/>
+
+==Description==
+Initially spherical, the [[ascocarp|fruit bodies]] are later shallowly saucer- or cup-shaped with rolled-in rims, and measure {{convert|2–6|cm|1|abbr=on}} in diameter.<ref name="Arora1986"/><ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=386–387|oclc=797915861}}</ref> The inner surface of the cup is deep red (fading to orange when dry) and smooth, while the outer surface is whitish and covered with a dense matted layer of tiny hairs (a [[wikt:tomentum|tomentum]]). The [[stipe (mycology)|stipe]], when present, is stout and up to {{convert|4|cm|abbr=on}} long (if deeply buried) by {{convert|0.3–0.7|cm|1|abbr=on}} thick, and whitish, with a tomentum.<ref name="Arora1986"/> Color variants of the fungus exist that have reduced or absent pigmentation; these forms may be orange, yellow, or even white (as in the variety ''albida''). In the Netherlands, white fruit bodies have been found growing in the [[polder]]s.<ref name=VanDuuren2005/>
+
+
+
+''Sarcoscypha coccinea'' is one of several fungi whose fruit bodies have been noted to make a "puffing" sound—an audible manifestation of spore-discharge where thousands of asci simultaneously explode to release a cloud of spores.<ref>Buller, 1958, [https://www.biodiversitylibrary.org/page/3641221 pp. 329–31.] Retrieved 2010-08-22.</ref>
+
+The [[spore]]s are 26–40 by 10–12&nbsp;[[μm]], elliptical, smooth, colorless, [[hyaline]] (translucent), and have small [[lipid]] droplets concentrated at either end.<ref name="Orr1980"/><ref name=":0" /> The droplets are refractive to light and visible with [[light microscopy]]. In older, dried specimens (such as [[herbarium]] material), the droplets may [[Coalescence (chemistry)|coalesce]] and hinder the identification of species. Depending on their geographical origin, the spores may have a delicate [[mucilage|mucilaginous]] sheath or "envelope"; European specimens are devoid of an envelope while specimens from North America invariably have one.<ref name=Harrington1990/>
+
+The [[ascus|asci]] are long and cylindrical, and taper into a short stem-like base; they measure 300–375 by 14–16&nbsp;μm.<ref name=Kanouse1948/> Although in most [[Pezizales]] all of the ascospores are formed simultaneously through delimitation by an inner and outer membrane, in ''S.&nbsp;coccinea'' the ascospores located in the basal parts of the ascus develop faster.<ref name=Merkus1976/> The [[paraphyses]] (sterile filamentous hyphae present in the [[hymenium]]) are about 3&nbsp;μm wide (and only slightly thickened at the apex), and contain red pigment [[granule (cell biology)|granules]].<ref name=Hanlin1990/>
+
+===Anamorph form===
+Anamorphic or [[imperfect fungi]] are those that seem to lack a sexual stage in their [[biological life cycle|life cycle]], and typically reproduce by the process of [[mitosis]] in structures called [[conidium|conidia]]. In some cases, the sexual stage—or [[teleomorph, anamorph and holomorph|teleomorph]] stage—is later identified, and a teleomorph-anamorph relationship is established between the species. The [[International Code of Nomenclature for algae, fungi, and plants]] permits the recognition of two (or more) names for one and the same organism, one based on the teleomorph, the other(s) restricted to the anamorph. The name of the anamorphic state of ''S.&nbsp;coccinea'' is ''Molliardiomyces eucoccinea'', first described by [[Marin Molliard]] in 1904. Molliard found the growth of the conidia to resemble those of the genera ''[[Coryne (fungus)|Coryne]]'' and ''[[Chlorosplenium]]'' rather than the [[Pezizaceae]], and he considered that this suggested an affinity between ''Sarcoscypha'' and the family [[Helvellaceae]].<ref name=Molliard1904/> In 1972, [[John W. Paden]] again described the anamorph,<ref name=Paden1972/> but like Molliard, failed to give a complete description of the species. In 1984, Paden created a new genus he named ''Molliardiomyces'' to contain the anamorphic forms of several ''Sarcoscypha'' species, and set ''Molliardiomyces eucoccinea'' as the type species. This form produces colorless [[conidiophore]]s (specialized stalks that bear [[conidia]]) that are usually irregularly branched, measuring 30–110 by 3.2–4.7&nbsp;μm. The conidia are [[ellipsoid]]al to egg-shaped, smooth, translucent ([[hyaline]]), and 4.8–16.0 by 2.3–5.8&nbsp;μm; they tend to accumulate in "mucilaginous masses".<ref name=Paden1984/>
+
+===Similar species===
+{{multiple image
+| align = right
+| caption_align = center
+| image1 = Sarcoscypha austriaca 81949.jpg
+| width1 = 200
+| alt1 = 
+| caption1 = ''Sarcoscypha austriaca''
+| image2 = Sarcoscypha dudleyi 74724.jpg
+| width2 = 150
+| alt2 = 
+| caption2 = ''Sarcoscypha dudleyi''
+| footer = 
+}}
+Similar species include ''[[Sarcoscypha dudleyi|S.&nbsp;dudleyi]]'' and ''[[Sarcoscypha austriaca|S.&nbsp;austriaca]]'', and in the literature, confusion amongst the three is common.<ref name=Harrington1990/> Examination of microscopic features is often required to definitively differentiate between the species. ''[[Sarcoscypha occidentalis]]'' has smaller cups (0.5–2.0&nbsp;cm wide), a more pronounced stalk that is 1–3&nbsp;cm long, and a smooth exterior surface.<ref name=Miller2006/> Unlike ''S.&nbsp;coccinea'', it is only found in the New World and in east and midwest North America, but not in the far west. It also occurs in Central America and the Caribbean.<ref name=Denison1972/> In North America, ''S.&nbsp;austriaca'' and ''S.&nbsp;dudleyi'' are found in eastern regions of the continent. ''S.&nbsp;dudleyi'' has elliptical spores with rounded ends that are 25–33 by 12–14&nbsp;μm and completely sheathed when fresh. ''S.&nbsp;austriaca'' has elliptical spores that are 29–36 by 12–15&nbsp;μm that are not completely sheathed when fresh, but have small polar caps on either end.<ref name="urlSarcoscypha dudleyi & Sarcoscypha austriaca (MushroomExpert.Com)"/> The [[Macaronesia]]n species ''[[Sarcoscypha macaronesica|S.&nbsp;macaronesica]]'', frequently misidentified as ''S.&nbsp;coccinea'', has smaller spores, typically measuring 20.5–28 by 7.3–11&nbsp;μm and smaller fruit bodies—up to {{convert|2|cm|1|abbr=on}} wide.<ref name=Korf1991/>
+
+Other similar species include ''Plectania melastoma'', ''[[Plectania nannfeldtii]]'', and ''[[Scutellinia scutellata]]''.<ref name=":0" />
+
+==Ecology, habitat and distribution==
+A [[saprobic]] species,<ref name="urlSarcoscypha coccinea (MushroomExpert.Com)"/> ''S. coccinea'' grows on decaying woody material from various plants: the [[Rosaceae|rose family]], [[beech]], [[hazel]], [[willow]], [[elm]], and, in the Mediterranean, [[oak]].<ref name="urlThe European and N-American species of Sarcoscypha"/> The fruit bodies of ''S.&nbsp;coccinea'' are often found growing singly or clustered in groups on buried or partly buried sticks in [[deciduous forest]]s,<ref name="McKnight1987"/> growing from January to April.<ref name="tfb">{{Cite book |last=Francis-Baker |first=Tiffany |title=Concise Foraging Guide |date=2021 |publisher=[[Bloomsbury Publishing|Bloomsbury]] |isbn=978-1-4729-8474-6 |series=[[The Wildlife Trusts]] |location=London |pages=105}}</ref> A Hungarian study noted that the fungus was found mainly on twigs of [[European hornbeam]] (''Carpinus betulus'') that were typically less than {{convert|5|cm|abbr=on}} long.<ref name=Bratek2003/> Fruit bodies growing on sticks above the ground tend to be smaller than those on buried wood. Mushrooms that are sheltered from wind also grow larger than their more exposed counterparts.<ref name=Brown1980/> The fruit bodies are persistent and may last for several weeks if the weather is cool.<ref name=Smith1980/> The time required for the development of fruit bodies has been estimated to be about 24 weeks, although it was noted that "the maximum life span may well be more than 24 weeks because the decline of the colonies seemed to be associated more with sunny, windy weather rather than with old age."<ref name=Brown1980/> One [[field guide]] calls the fungus "a welcome sight after a long, desperate winter and ... the harbinger of a new year of mushrooming".<ref name=Abel1993/>
+
+Common over much of the Northern Hemisphere, ''S.&nbsp;coccinea'' occurs in the [[Midwestern United States|Midwest]], in the valleys between the Pacific coast, the [[Sierra Nevada]], and the [[Cascade Range]]. Its North American distribution extends north to various locations in Canada<ref name=Harrington1990/> and south to the Mexican state [[Jalisco]].<ref name=TellezBanuelos1988/> The fungus has also been collected from Chile in South America.<ref name=Tortella2008/> It is also found in the [[Old World]]—Europe, Africa, Asia, Australia, and India.<ref name=Denison1972/><ref name=Zhishu1993/> Specimens collected from the Macaronesian islands that once thought to be ''S.&nbsp;coccinea'' were later determined to be the distinct species ''S.&nbsp;macaronesica''.<ref name=Baral1984/> A 1995 study of the occurrence of British ''Sarcoscypha'' (including ''S.&nbsp;coccinea'' and ''S.&nbsp;austriaca'') concluded that ''S.&nbsp;coccinea'' was becoming very rare in Great Britain.<ref name=Butterfill1995/> All species of ''Sarcoscypha'', including ''S.&nbsp;coccinea'', are [[IUCN Red List|Red-Listed]] in Europe.<ref name="url Ecology III"/> In Turkey, it is considered [[critically endangered]].<ref name="Çinar 2014"/>
+
+The fruit bodies have been noted to be a source of food for rodents in the winter and for slugs in the summer.<ref name="Brown1980" />
+
+==Chemistry==
+, [[North Wales]]]]
+
+The red color of the fruit bodies is caused by five types of [[carotenoid]] pigments, including [[plectaniaxanthin]] and {{nowrap|[[β-carotene]]}}. Carotenoids are lipid-soluble and are stored within granules in the paraphyses.<ref name=Arpin1968/> British-Canadian mycologist [[Arthur Henry Reginald Buller]] suggested that pigments in fruit bodies exposed to the Sun absorb some of the Sun's rays, raising the temperature of the hymenium—hastening the development of the ascus and subsequent spore discharge.<ref>Buller, 1958, [https://www.biodiversitylibrary.org/page/3641193 p. 301.] Retrieved 2010-08-22.</ref>
+
+[[Lectin]]s are sugar-binding [[protein]]s that are used in [[blood typing]], biochemical studies and medical research. A lectin has been purified and characterized from ''S.&nbsp;coccinea'' fruit bodies that can bind selectively to several specific [[carbohydrate]] molecules, including  [[lactose]].<ref name="Antoniuk2005"/>
+
+==Uses==
+''Sarcoscypha coccinea'' was used as a medicinal fungus by the [[Oneida people]] and possibly by other tribes of the [[Iroquois]] Six Nations. The fungus, after being dried and ground up into a powder, was applied as a [[styptic]], particularly to the navels of newborn children that were not healing properly after the [[umbilical cord]] had been severed. Pulverized fruit bodies were also kept under bandages made of soft-tanned deerskin.<ref name=Seaver1928/> In [[Scarborough, North Yorkshire|Scarborough, England]], the fruit bodies used to be arranged with moss and leaves and sold as a table decoration.<ref name=Dickinson1982/>
+
+The species is said to be [[edible mushroom|edible]]<ref name="Arora1986"/><ref name=":0" /> (perhaps best dried),<ref name="tfb" /> inedible,<ref name=Baker2006/> or "not recommended",<ref name=Smith1980/> depending on the author. Although its insubstantial fruit body and low numbers do not make it particularly suitable for the table, one source claims that "children in [[Jura Mountains|the Jura]] are said to eat it raw on bread and butter; and one French author suggests adding the cups, with a little [[Kirsch]], to a fresh fruit salad."<ref>{{Cite web|url=https://www.supertoinette.com/fiche-cuisine/1394/pezize.html|title=Pezize (in French, original recipe on Kirsch liquor and Grand Marnier blend with S. coccinea).|website=Supertoinette|access-date=2017-05-02}}</ref><ref name=Davidson2006/>
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=Abel1993>{{cite book |author1=Abel D |author2=Horn B |author3=Kay R |title=A Guide to Kansas Mushrooms |publisher=University Press of Kansas |location=Lawrence, Kansas |year=1993 |page=238 |isbn=978-0-7006-0571-2}}</ref>
+
+<ref name="Antoniuk2005">{{cite journal|author=Antoniuk VO. |title=[Purification and study of carbohydrate specificity of lectin from ''Sarcoscypha coccinea'' (Fr.) Lambette] |language=uk |journal=Ukrainskii Biokhimicheskii Zhurnal |volume=77 |issue=3 |pages=96–103 |year=2005 |pmid=16566135 |url=http://ubj.biochemistry.org.ua/index.php?getpdf&id=378 |format=PDF |url-status=bot: unknown |archive-url=https://web.archive.org/web/20110831181655/http://ubj.biochemistry.org.ua/index.php?getpdf&id=378 |archive-date=2011-08-31 }}</ref>
+
+<ref name="Arora1986">{{cite book |author=Arora D. |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/836/mode/2up |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, California |year=1986 |orig-date=1979 |edition=2nd |pages=836}}</ref>
+
+<ref name=Arpin1968>{{cite journal |author=Arpin N. |year=1968 |title=Les caroténoïdes des Discomycètes: essai chimiotaxinomique |trans-title=Carotenoids of the Discomycetes: chemotaxonomic analysis |journal=Bulletin Mensuel de la Société Linnéenne de Lyon |volume=28 |issue=Suppl |pages=1–169 |language=fr}}</ref>
+
+<ref name=Baker2006>{{cite book |author=Baker N. |title=Nick Baker's British Wildlife |publisher=New Holland Publishers |year=2006 |page=155 |isbn=978-1-84537-271-2 |url=https://books.google.com/books?id=h4MgQBaFeyEC&pg=PA155}}</ref>
+
+<ref name=Baral1984>{{cite journal |author=Baral HO. |year=1984 |title=Taxonomische und ökologische Studien über ''Sarcoscypha coccinea'' agg., Zinnoberrote Kelchbecherlinge. (Kurzfassung) |trans-title=Taxonomic and economic study on ''Sarcoscypha coccinea'' |journal=Zeitschrift für Mykologie |volume=50 |issue=1 |pages=117–46 |language=de}}</ref>
+
+<ref name=Boudier1903>{{cite journal |author=Boudier E. |year=1903 |title=Note sur quelques ascomycètes du Jura |journal=Bulletin de la Société Zoologique de France |trans-title=Notes on some ascomycetes of Jura |volume=19 |pages=193–9 |language=fr}}</ref>
+
+<ref name=Bratek2003>{{cite journal |author1=Bratek Z |author2=Balazs T |author3=Halasz K |author4=Zld-Balogh A. |year=2003 |title=Adatok a ''Sarcoscypha'' es ''Microstoma'' Nemzetsegek fajainak karpat-medencei elterjedese ismeretehez |trans-title=Data on the genera ''Sarcoscypha'' and ''Microstoma'' in the Carpathian basin |journal=Mikologiai Kozlemenyek |volume=42 |issue=3 |pages=3–16 |issn=0133-9095 |language=hu}}</ref>
+
+<ref name=Brown1980>{{cite journal |author=Brown RP. |year=1980 |title=Observations on ''Sarcoscypha coccinea'' and ''Disciotis venosa'' in North Wales during 1978–1979 |journal=Bulletin of the British Mycological Society |volume=14 |issue=2 |pages=130–5 |doi=10.1016/S0007-1528(80)80008-3}}</ref>
+
+<ref name="Burrows 2005">{{cite book |author=Burrows I. |title=Food from the Wild |year=2005 |publisher=New Holland Publishers |location=London, UK |isbn=978-1-84330-891-1 |page=91 |url=https://books.google.com/books?id=j470CrsOuPQC&pg=PA91}}</ref>
+
+<ref name=Butterfill1995>{{cite journal |author1=Butterfill GB |author2=Spooner BM. |year=1995 |title=''Sarcoscypha'' (Pezizales) in Britain |journal=Mycologist |volume=9 |issue=1 |pages=20–6 |doi=10.1016/S0269-915X(09)80243-7}}</ref>
+
+<ref name="Çinar 2014">{{cite journal |author1=Çinar H |author2=Sermenli HB |author3=Işiloğlu M. |title=Some critically endangered species From Turkey |journal=Fungal Conservation |year=2014 |issue=4 |pages=26–28 |url=http://www.fungal-conservation.org/newsletter/issue_4_2014_02_28_low_resolution.pdf}}</ref>
+
+<ref name=Davidson2006>{{cite book |author1=Davidson JL |author2=Davidson A |author3=Saberi H |author4=Jaine T. |title=The Oxford Companion to Food |publisher=Oxford University Press |location=Oxford [Oxfordshire] |year=2006 |page=234 |isbn=978-0-19-280681-9 |url=https://books.google.com/books?id=JTr-ouCbL2AC&pg=PA234}}</ref>
+
+<ref name=Denison1972>{{cite journal |author=Denison WC. |year=1972 |title=Central American Pezizales. IV. The genera ''Sarcoscypha'', ''Pithya'', and ''Nanoscypha'' |journal=Mycologia |volume=64 |issue=3 |pages=609–23 |doi=10.2307/3757876 |jstor=3757876}}</ref>
+
+<ref name=Dickinson1982>{{cite book |title=VNR Color Dictionary of Mushrooms |author1=Dickinson C |author2=Lucas J. |year=1982 |publisher=Van Nostrand Reinhold |isbn=978-0-442-21998-7 |pages=20–1}}</ref>
+
+<ref name=Fuckel1870>{{cite journal |author=Fuckel L.|year=1870 |title=Symbolae mycologicae. Beiträge zur Kenntnis der rheinischen Pilze |journal=Jahrbücher des Nassauischen Vereins für Naturkunde |trans-title=Contributions to the knowledge of mushrooms of the Rhein |volume=23–24 |page=324 |language=de}}</ref>
+
+<ref name=Hanlin1990>{{cite book |author=Hanlin RT. |title=Illustrated Genera of Ascomycetes |publisher=American Phytopathological Society |location=St. Paul, Minnesota |year=1990 |pages=54–5 |isbn=978-0-89054-107-4}}</ref>
+
+<ref name=Harrington1990>{{cite journal |author=Harrington FA. |year=1990 |title=''Sarcoscypha'' in North America (Pezizales, Sarcoscyphaceae) |journal=Mycotaxon |volume=38 |pages=417–58 |url=http://www.cybertruffle.org.uk/cyberliber/59575/0038/0417.htm}}</ref>
+
+<ref name=Harrington1997>{{cite journal |author1=Harrington FA |author2=Potter D. |year=1997 |title=Phylogenetic relationships within ''Sarcoscypha'' based upon nucleotide sequences of the internal transcribed spacer of nuclear ribosomal DNA |journal=Mycologia |volume=89 |issue=2 |pages=258–67 |jstor=3761080 |doi=10.2307/3761080}}</ref>
+
+<ref name=Harrington1998>{{cite journal |author=Harrington FA. |year=1998 |title=Relationships among ''Sarcoscypha'' species: evidence from molecular and morphological characters |journal=Mycologia |volume=90 |issue=2 |pages=235–43 |jstor=3761299 |doi=10.2307/3761299}}</ref>
+
+<ref name=Holmskjold1799>{{cite book |title=Beata ruris otia fungis danicis |volume=2 |author=Holmskjold T. |year=1799 |page=20 |language=la}}</ref>
+
+<ref name=Jacquin1774>{{cite book |title=Flora Austriaca |volume=2 |author=Jacquin NJ.|year=1774  |location=Vienna, Austria |page=40}}</ref>
+
+<ref name=Kanouse1948>{{cite journal |author=Kanouse BC. |year=1948 |title= The genus ''Plectania'' and its segregates in North America |journal=Mycologia |volume=40 |issue=4 |pages=482–97 |jstor=3755155 |doi=10.2307/3755155}}</ref>
+
+<ref name=Korf1990>{{cite journal |author1=Korf RP |author2=Harrington FA. |year=1990 |title=Proposal to conserve a type for ''Sarcoscypha'' (Fries) Boudier, ''S. coccinea'' (Jacq.) Lambotte (Fungi) |journal=Taxon |volume=39 |issue=2 |pages=342–3 |jstor=1223069 |doi=10.2307/1223069 |bibcode=1990Taxon..39..342K }}</ref>
+
+<ref name=Korf1991>{{cite journal |author1=Korf RP |author2=Zhuang W-Y. |title=A preliminary Discomycete flora of Macaronesia: part 11, Sarcoscyphineae |journal=Mycotaxon |year=1991 |volume=40 |pages=1–11 |url=http://www.cybertruffle.org.uk/cyberliber/59575/0040/0001.htm}}</ref>
+
+<ref name=LeGal1953>{{cite journal |author=Le Gal M. |year=1953 |title=Les Discomycètes de Madagascar |trans-title=The Discomycetes of Madagascar |journal=Prodrome à Flore Mycologique de Madagascar et Dépendanes |publisher=Muséum National d’Histoire Naturelle |location=Paris, France |volume=4 |pages=1–465 |language=fr}}</ref>
+
+<ref name=Martius1817>{{cite book |title=Flora Cryptogamica Erlangensis |author=von Martius CFP. |year=1817 |publisher=J.L.&nbsp;Schrag |location=Nuremberg, Germany |page=469 |url=https://books.google.com/books?id=G0E-AAAAcAAJ&pg=PA469 |language=la}}</ref>
+
+<ref name=Massee1903>{{cite book |title=British Fungus-Flora. A Classified Text-Book of Mycology |volume=4 |author=Massee G. |year=1892 |publisher=George Bell & Sons |location=London, UK |page=378 |url=https://www.biodiversitylibrary.org/item/22704#390}}</ref>
+
+<ref name="McKnight1987">{{cite book |author1=McKnight VB |author2=McKnight KH. |title=A Field Guide to Mushrooms, North America |publisher=Houghton Mifflin |location=Boston, Massachusetts |year=1987 |page=33 |isbn=978-0-395-91090-0 |url=https://books.google.com/books?id=kSdA3V7Z9WcC&pg=PA33}}</ref>
+
+<ref name=Merkus1976>{{cite journal |author=Merkus E. |year=1976 |title=Ultrastructure of the ascospore wall in Pezizales (Ascomycetes)—IV. Morchellaceae, Helvellaceae, Rhizinaceae, Thelebolaceae, and Sarcoscyphaceae. General discussion |journal=Persoonia |volume=9 |pages=1–38 |url=http://www.cybertruffle.org.uk/cyberliber/61056/0009/001/0001.htm}}</ref>
+
+<ref name=Miller2006>{{cite book |author1=Miller HR |author2=Miller OK. |title=North American Mushrooms: A Field Guide to Edible and Inedible Fungi |publisher=Falcon Guide |location=Guilford, Connecticut |year=2006 |page=536 |isbn=978-0-7627-3109-1 |url=https://books.google.com/books?id=zjvXkLpqsEgC&pg=PA536}}</ref>
+
+<ref name=Molliard1904>{{cite journal |author=Molliard M. |year=1904 |title=Forme conidienne de ''Sarcoscypha coccinea'' (Jacq.) Cooke. Bull |trans-title=Condidial form of ''Sarcoscypha coccinea'' (Jacq.) Cooke. Bull |journal=Bulletin Trimestriel de la Société Mycologique de France |volume=20 |pages=138–41 |language=fr}}</ref>
+
+<ref name=Nannfeldt1949>{{cite journal |author=Nannfeldt JA. |year=1949 |title=Contributions to the microflora of Sweden. 7. A new winter Discomycete, ''Urnula hiemalis'' Nannf. n. sp., and a short account of the Swedish species of Sarcoscyphaceae |journal=Svensk Botanisk Tidskrift |volume=43 |pages=468–84}}</ref>
+
+<ref name="Orr1980">{{cite book |author1=Orr DB |author2=Orr RT. |title=Mushrooms of Western North America |series=California Natural History Guides |publisher=University of California Press |location=Berkeley, California |year=1980 |pages=24–5 |isbn=978-0-520-03660-4}}</ref>
+
+<ref name=Paden1972>{{cite journal |author=Paden JW. |year=1972 |title=Imperfect states and the taxonomy of the Pezizales |journal=Persoonia |volume=6 |pages=405–14 |url=http://www.cybertruffle.org.uk/cyberliber/61056/0006/004/0405.htm}}</ref>
+
+<ref name=Paden1984>{{cite journal |author=Paden JW. |year=1984 |title=A new genus of Hyphomycetes with teleomorphs in the Sarcoscyphaceae (Pezizales, Sarcoscyphineae) |journal=Canadian Journal of Botany |volume=62 |issue=2 |pages=211–8 |doi=10.1139/b84-035 |bibcode=1984CaJB...62..211P }}</ref>
+
+<ref name=Scopoli1772>{{cite book |title=Flora carniolica |volume=2 |edition=2 |author=Scopoli JA. |year=1772 |location=Vienna, Austria |publisher=Sumptibus J.T. Trattner |page=479 |url=https://books.google.com/books?id=Ud4TAAAAQAAJ&pg=PA479 |language=la}}</ref>
+
+<ref name=Seaver1928>{{cite book |title=The North American Cup-Fungi (Operculates) |author=Seaver FJ. |year=1928 |publisher=Self published |location=New York, New York |pages=191–2}}</ref>
+
+<ref name=Smith1980>{{cite book |author1=Smith AH |author2=Weber NS. |title=The Mushroom Hunter's Field Guide |publisher=University of Michigan Press |location=Ann Arbor, Michigan |year=1980 |page=28 |isbn=978-0-472-85610-7 |url=https://books.google.com/books?id=TYI4f6fqrfkC&pg=RA1-PA28}}</ref>
+
+<ref name=TellezBanuelos1988>{{cite journal |author1=Téllez-Bañuelos C |author2=Guzmán-Dávalos L |author3=Guzmán G. |year=1988 |title=Contribucion al conocimiento de los hongos de le reserva de la biosfera de la Sierra de Manantlan, Jalisco |trans-title=Contribution to the knowledge of the fungi from the biosphere reserve of Sierra de Manantlan state of Jalisco Mexico |journal=Revista Mexicana de Micologia |volume=4 |pages=123–30 |issn=0187-3180 |language=es}}</ref>
+
+<ref name=Tortella2008>{{cite journal |author1=Tortella GR |author2=Rubilar O |author3=Gianfreda L |author4=Valenzuela E |author5=Diez MC. |year=2008 |title=Enzymatic characterization of Chilean native wood-rotting fungi for potential use in the bioremediation of polluted environments with chlorophenols |journal=World Journal of Microbiology and Biotechnology |volume=24 |issue=12 |pages=2805–18 |doi=10.1007/s11274-008-9810-7|hdl=10533/142003 |s2cid=85152759 |hdl-access=free }}</ref>
+
+<ref name="url Ecology III">{{cite web |url=http://www.gbif-mycology.de/HostedSites/Baral/Sarcoscypha_geography.htm |title=Geographical Distribution |author=Baral HO. |year=2004 |work=The European and North-American species of Sarcoscypha |access-date=2016-03-22}}</ref>
+
+<ref name="urlMycoBank:Macroscyphus coccineus">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=534224 |title=''Macroscyphus coccineus'' (Scop.) Gray 1821 |publisher=[[MycoBank]]. International Mycological Association |access-date=2010-08-21}}</ref>
+
+<ref name="urlMycoBank:Lachnea coccinea">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=462684 |title=''Lachnea coccinea'' (Jacq.) Gillet 1880 |publisher=MycoBank. International Mycological Association |access-date=2010-08-21}}</ref>
+
+<ref name="urlMycoBank:Peziza dichroa">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=217719 |title=''Peziza dichroa'' Holmsk. 1799  |publisher=MycoBank. International Mycological Association |access-date=2010-08-21}}</ref>
+
+<ref name="urlMycoBank:Sarcoscypha coccinea">{{cite web |url=http://www.mycobank.org/MycoTaxo.aspx?Link=T&Rec=245138 |title=''Sarcoscypha coccinea'' (Scop.) Lambotte 1889  |publisher=MycoBank. International Mycological Association |access-date=2010-08-21}}</ref>
+
+<ref name="urlThe European and N-American species of Sarcoscypha">{{cite web |url=http://www.gbif-mycology.de/HostedSites/Baral/Sarcoscypha.htm |title=Host specificity, plant communities |author=Baral HO. |work=The European and North-American species of Sarcoscypha |year=2004 |access-date=2010-08-22}}</ref>
+
+<ref name="urlSarcoscypha coccinea (MushroomExpert.Com)">{{cite web |url=http://www.mushroomexpert.com/sarcoscypha_coccinea.html |title=''Sarcoscypha coccinea''|author=Kuo M. |year=2006 |work=MushroomExpert.com |access-date=2016-03-22}}</ref>
+
+<ref name="urlSpecies Fungorum - Species synonymy">{{cite web |url=http://www.indexfungorum.org/Names/SynSpecies.asp?RecordID=107275 |title=Species synonymy: ''Sarcoscypha jurana'' (Boud.) Baral |publisher=[[Index Fungorum]]. CAB International |access-date=2010-08-22 |url-status=dead |archive-url=https://web.archive.org/web/20110610071813/http://www.indexfungorum.org/Names/SynSpecies.asp?RecordID=107275 |archive-date=2011-06-10 }}</ref>
+
+<ref name="urlSarcoscypha dudleyi & Sarcoscypha austriaca (MushroomExpert.Com)">{{cite web |url=http://www.mushroomexpert.com/sarcoscypha_dudleyi.html |title=''Sarcoscypha dudleyi'' & ''Sarcoscypha austriaca'' |author=Kuo M. |year=2012 |work=MushroomExpert.Com |access-date=2016-03-22}}</ref>
+
+<ref name=VanDuuren2005>{{cite journal |author1=Van Duuren Y |author2=Van Duuren G. |year=2005 |title=Witte Rode kelkzwammen en op excursie met Hans-Otto Baral |trans-title=White ''Sarcoscypha coccinea'' fruitbodies and a foray with Hans-Otto Baral |journal=Coolia |volume=48 |issue=3 |pages=169–70 |url=http://www.mycologen.nl/Coolia/PDF-files/Coolia_48(3).pdf }}</ref>
+
+<ref name=Zhishu1993>{{cite book |author1=Zhishu B |author2=Zheng G |author3=Taihui L. |title=The Macrofungus Flora of China's Guangdong Province (Chinese University Press) |publisher=Columbia University Press |location=New York, NY |year=1993 |page=37 |isbn=962-201-556-5 |url=https://books.google.com/books?id=0cAered-vqYC&pg=PA37}}</ref>
+
+}}
+
+===Cited books===
+{{Commons}}
+*{{cite book |title=Researches on Fungi |volume=6 |author=Buller AHR. |year=1958 |publisher=Hafner Publishing |location=New York, New York}}
+
+{{Taxonbar|from=Q937345}}
+
+[[Category:Fungi described in 1772]]
+[[Category:Edible fungi]]
+[[Category:Fungi of Africa]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Australia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of South America]]
+[[Category:Fungi of Western Asia]]
+[[Category:Sarcoscyphaceae]]
+[[Category:Fungus species]]

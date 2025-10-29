@@ -1,0 +1,66 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = 2011-05-19 Stropharia rugosoannulata Farl. ex Murrill 183478.jpg
+| genus = Stropharia
+| species = rugosoannulata
+| authority = [[William Gibson Farlow|Farlow]] ex [[William Alphonso Murrill|Murrill]] (1922)
+| synonyms_ref = <ref name="urlMycoBank: Stropharia rugosoannulata">{{cite web |title=''Stropharia rugosoannulata'' Farl. ex Murrill 1922 |url=https://www.mycobank.org/page/Name%20details%20page/26574 |publisher=[[MycoBank]]. International Mycological Association |access-date=2011-09-11}}</ref>
+| synonyms = ''Geophila rugosoannulata'' <small>(Farl. ex Murrill) [[Robert Kühner|Kühner]] & [[Romagn.]] (1953)</small><br/>
+''Naematoloma rugosoannulatum'' <small>(Farl. ex Murrill) S.Ito (1959)</small><br/>
+''Psilocybe rugosoannulata'' <small>(Farl. ex Murrill) [[Noordel.]] (1995)</small>
+}}
+{{mycomorphbox 
+| name = ''Stropharia rugosoannulata''
+| whichGills = adnate 
+| capShape = convex
+| capShape2 = flat 
+| hymeniumType = gills
+| stipeCharacter = ring
+| ecologicalType = saprotrophic
+| sporePrintColor = purple-brown
+| howEdible = choice
+}}
+
+'''''Stropharia rugosoannulata''''', commonly known as the '''wine cap''',<ref>{{Cite book |last=Siegel |first=Noah |title=Mushrooms of Cascadia: A Comprehensive Guide to Fungi of the Pacific Northwest |last2=Schwarz |first2=Christian |date=September 1, 2024 |publisher=Backcountry Press |isbn=9781941624197 |location=Humboldt County, CA |publication-date=September 1, 2024 |pages=117}}</ref> '''wine-red stropharia''',<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/378/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, CA |pages=378-79 |orig-date=1979}}</ref> '''wine cap stropharia''', '''garden giant''', '''burgundy mushroom''', or '''king stropharia''', is a species of [[agaric]] mushroom in the family [[Strophariaceae]] native to Europe and North America. It is regarded as a choice [[edible mushroom|edible]].
+
+== Etymology ==
+The [[specific name (botany)|specific epithet]], which means "wrinkled-ringed", is a reference to the wrinkled [[Annulus (mycology)|annulus]] of the fruiting body.<ref name=":0">{{cite book |author=Pacioni G |title=Simon & Schusters Guide to Mushrooms |publisher=Simon & Schuster |year=1981 |isbn=0-671-42849-7}}</ref>
+
+== Description ==
+The mushroom can grow to {{Convert|20|cm|abbr=off|frac=2}} high with a reddish-brown convex to flattening cap up to {{Convert|30|cm|abbr=on|frac=2}} across,<ref>{{Cite book |last=Sisson |first=Liv |url=https://www.worldcat.org/title/on1372569849 |title=Fungi of Aotearoa: a curious forager's field guide |last2=Vigus |first2=Paula |date=2023 |publisher=Penguin Books |isbn=978-1-76104-787-9 |location=Auckland, New Zealand |pages=138 |oclc=on1372569849}}</ref> the size leading to another colloquial name '''godzilla mushroom'''.<ref name="Carluccio03">{{cite book | author = Carluccio A | author-link = Antonio Carluccio | year = 2003 | title = The Complete Mushroom Book | publisher = Quadrille | isbn = 1-84400-040-0}}</ref> The [[lamella (mycology)|gills]] are typically adnate, initially pale, then grey and finally dark purple-brown in colour. The [[spore print]] is dark purple-brown to black.<ref name="Arora1986" />
+
+The firm [[trama (mycology)|flesh]] is white, as is the tall [[stipe (mycology)|stem]], which bears a wrinkled ring.<ref name=":0" />
+
+=== Similar species ===
+It can resemble some members of its genus, such as ''[[Stropharia hornemannii|S.&nbsp;hornemannii]]'', as well as ''[[Agaricus]]'' (the gills of which are usually more pink).<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=688-689}}</ref><ref name="Arora1986" />
+
+== Distribution and habitat ==
+The species is found on wood chips across North America in summer and autumn.<ref name="audu" /> It is also found in Europe, and has been introduced to Australia and New Zealand. 
+
+== Ecology ==
+[[Paul Stamets]]'s book ''[[Mycelium Running]]'' cites a study by Christiane Pischl showing that the species makes an excellent garden companion to [[corn]]. The fungus also has a history of being grown with corn in Europe.{{Citation needed|date=June 2025}}
+
+A 2006 study, published in the journal ''Applied and Environmental Microbiology'', found the species to have [[Nematophagous fungus|the ability]] to attack the [[nematode]] ''[[Panagrellus redivivus]]''; the fungus produces unique spiny cells called [[Acanthocyte (mycology)|acanthocyte]]s, which are able to immobilise and digest the nematodes.<ref>{{cite journal |author1=Hong Luo |author2=Xuan Li |author3=Guohong Li |author4=Yanbo Pan |author5=Keqin Zhang |name-list-style=amp |year=2006 |title=Acanthocytes of Stropharia rugosoannulata Function as a Nematode-Attacking Device |journal=Appl. Environ. Microbiol. |volume=72 |issue=4 |pages=2982–7 |bibcode=2006ApEnM..72.2982L |doi=10.1128/AEM.72.4.2982-2987.2006 |pmc=1449000 |pmid=16598005}}
+</ref>
+
+== Uses ==
+Described as a very tasty [[edible mushroom]] by some authors,<ref name="Arora1986" /><ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |publisher=Firefly Books |year=2010 |isbn=978-1-55407-651-2 |location=Buffalo, NY |page=229}}</ref> it is easily [[fungiculture|cultivated]] on a medium similar to that on which it grows naturally. [[Antonio Carluccio]] recommends sautéeing them in butter or grilling them.<ref name="Carluccio03" />
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* Zadrazil, Frantisek and Joachim Schliemann: "Ein Beitrag zur Ökologie und Anbautechnik von Stropharia rugosoannulata (Farlow ex Murr.)" in: Der Champignon Nr.163, March 1975
+
+{{Taxonbar|from=Q1236980}}
+
+[[Category:Strophariaceae]]
+[[Category:Carnivorous fungi]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1922]]
+[[Category:Fungi of New Zealand]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi in cultivation]]
+[[Category:Fungal pest control agents]]
+[[Category:Fungus species]]

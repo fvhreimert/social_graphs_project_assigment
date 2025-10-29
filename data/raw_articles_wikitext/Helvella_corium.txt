@@ -1,0 +1,72 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Helvella_corium.jpg
+| image_caption = 
+| genus = Helvella
+| species = corium
+| authority = ([[Otto Weberbauer|O.Weberb.]]) [[George Edward Massee|Massee]] (1895)
+| synonyms = *''Peziza corium'' <small>O.Weberb. (1873)</small>
+*''Scypharia corium'' <small>(O.Weberb.) [[Quél.]] (1886)</small>
+*''Cyathipodia corium'' <small>(O.Weberd.) [[Boud.]] (1907)</small>
+*''Helvella corium'' var. ''macrosperma'' <small>(J.Favre) Bizio, Franchi & M.Marchetti (1998)</small>
+}}
+{{mycomorphbox
+| name = ''Helvella corium''
+| whichGills = NA
+| capShape = infundibuliform
+| hymeniumType = smooth
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = 
+| howEdible = unknown 
+}}
+
+'''''Helvella corium''''' is a species of [[fungus]] in the family [[Helvellaceae]] of the order [[Pezizales]]. This inedible cup-shaped fungus is black, and grows on the ground often near [[willow]]s in [[deciduous forest|deciduous]] or [[mixed forest]]s.
+
+==Description==
+The black [[ascocarp|fruit body]] (technically called an [[apothecium]]) is cup-shaped, covered with either scales or small silk-like surface fibrils (''fibrillose''), and up to {{convert|5|cm|in|1|abbr=off|frac=2}} in diameter. The upper margin of the fruit body cup may be rounded with scalloped or lobed edges (''crenate''). The short, slender [[stipe (mycology)|stipe]] (typically {{convert|0.6|to|1.8|cm|abbr=on|frac=4|6=1}} tall)<ref name="Jordan 2004"/> is black on the upper part, but gray at the base; it is cylindrical and tapering (''terete'') with rounded ribs at its base.<ref name="Tylukti 1979"/> The odor and taste are not distinctive.<ref name="Jordan 2004"/>
+
+The [[Basidiospore|spores]] are [[ellipsoid]] in shape, and measure 17–21 by 10–12&nbsp;[[micrometre|μm]]. They are [[hyaline]] (translucent), and contain a single central oil drop (''guttulate'').<ref name="Tylukti 1979"/> The spore-bearing cells, the [[ascus|asci]], are 225–250 by 12–17&nbsp;μm.<ref name="Abbott 1997"/>
+
+=== Similar species ===
+''[[Plectania nannfeldtii]]'' is a similar-looking fungus with a black-colored stalked cup, but this species has a longer stipe, up to {{convert|5|cm|in|1}}; microscopically, it has larger spores (typically 23–28 by 11–14&nbsp;μm).<ref name="Evenson 1997" />
+
+==Distribution and habitat==
+''Helvella corium'' has been collected from Asia,<ref name="Liu 1985"/> Europe,<ref name="Dissing 1966"/> and North America.<ref name="Abbott 1997"/><ref name="Dissing 1967"/> It is uncommon despite the scope of its distribution.<ref name="Abbott 1997" /> Fruit bodies grow solitary, scattered, or clustered in groups. It is often found in association with the trees ''[[Populus tremuloides]]'' or ''[[Thuja plicata]]'', or with shrubs from genus ''[[Salix]]'' (such as ''[[Salix herbacea]]'' and ''[[Salix glauca]]''), ''[[Shepherdia canadensis]]'' or shrubs from the genus ''[[Dryas (plant)|Dryas]]''.<ref name="Abbott 1997"/> Jordan notes a preference for growing on sandy soils or in dunes.<ref name="Jordan 2004"/>
+
+This mushroom appears to have a high tolerance for otherwise inhospitable growing conditions, as it has been found growing on [[Corrosive substance|caustic]] spoil mounds (the end-product of many [[mining]] and [[manufacturing]] operations) of a [[sodium hydroxide|alkali]] factory in [[Kraków]], Poland,<ref name="Turnau 1991"/> as well as on abandoned [[uranium tailings]] in [[Ontario]], Canada.<ref name="Kalin 1980"/>
+
+== Potential toxicity ==
+The edibility of the species is unknown, and its consumption is not recommended as similar species in the family [[Helvellaceae]] contain the toxin [[gyromitrin]].{{cn|date=October 2022}}
+
+== References ==
+{{Reflist|refs=
+
+<ref name="Abbott 1997">{{cite journal |vauthors=Abbott SP, Currah RS |year=1997 |title=The Helvellaceae: Systematic revision and occurrence in northern and northwestern North America |journal=Mycotaxon |volume=62 |pages=1–125}}</ref>
+
+<ref name="Dissing 1966">{{cite journal |author=Dissing H. |author-link=Henry Dissing |year=1966 |title=The genus ''Helvella'' in Europe with special emphasis on the species found in Norden |journal=[[Dansk Botanisk Arkiv]] |volume=25 |pages=1–172}}</ref>
+
+<ref name="Dissing 1967">{{cite journal |doi=10.2307/3756809 |last1= Dissing | first1= H. |author-link1=Henry Dissing | last2=Lange | first2= M. |author-link2= Morten Lange |year=1967 |title=Notes on the genus ''Helvella'' in North America |jstor=3756809  |journal=[[Mycologia]] |volume=59 |issue=2 |pages=349–60}}</ref>
+
+<ref name="Evenson 1997">{{cite book |author=Evenson VS. |title=Mushrooms of Colorado and the Southern Rocky Mountains |publisher=Westcliffe Publishers |location=Englewood, Colorado |year=1997 |page=51 |isbn=1-56579-192-4 |url=https://books.google.com/books?id=EAeDeyqZLq0C&pg=PA206}}</ref>
+
+<ref name="Jordan 2004">{{cite book |author=Jordan M. |title=The Encyclopedia of Fungi of Britain and Europe |publisher=Frances Lincoln |location=London, UK |year=2004 |page=52 |isbn=0-7112-2379-3 |url=https://books.google.com/books?id=ULhwByKCyEwC&pg=PA52}}</ref>
+
+<ref name="Kalin 1980">{{cite journal |doi=10.1016/0048-9697(81)90120-0 |vauthors=Kalin M, Stokes PM |year=1980 |title=Macrofungi on uranium mill tailings — associations and metal content |journal=The Science of the Total Environment |volume=19 |issue=1 |pages=83–94}}</ref>
+
+<ref name="Liu 1985">{{cite journal |vauthors=Liu B, Du F, Cao J |year=1985 |title=New species and new combination of the genus ''Helvella'' |journal=Acta Mycologia Sinica |volume=4 |pages=208–17 |language=zh}}</ref>
+
+<ref name="Turnau 1991">{{cite journal |vauthors=Turnau K, Kropieniewicz B, Pawlowska T |year=1991 |title=Ascomycetes on spoil mounds of the Cracow Soda Factory |journal=Zeszyty Naukowe Uniwersytetu Jagiellonskiego Prace Botaniczne |volume=22 |pages=145–54 |language=pl}}</ref>
+
+<ref name="Tylukti 1979">{{cite book |author=Tylutki EE. |title=Mushrooms of Idaho and the Pacific Northwest |publisher=University Press of Idaho |location=Moscow, Idaho |year=1979 |page=64 |isbn=0-89301-062-6}}</ref>
+
+}}
+
+{{Taxonbar|from=Q3913782}}
+
+[[Category:Helvella|corium]]
+[[Category:Fungi described in 1873]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Asia]]
+[[Category:Fungus species]]

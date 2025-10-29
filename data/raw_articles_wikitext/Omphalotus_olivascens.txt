@@ -1,0 +1,85 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Omphalotus olivascens 125218.jpg
+| genus = Omphalotus
+| species = olivascens
+| authority = [[Howard E. Bigelow|H.E.Bigelow]], [[Orson K. Miller Jr.|O.K.Mill.]] & [[Harry D. Thiers|Thiers]] (1976)
+}}
+{{mycomorphbox 
+| name = ''Omphalotus olivascens''
+| whichGills = decurrent 
+| capShape = infundibuliform 
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = saprotrophic
+| sporePrintColor = yellow
+| howEdible = poisonous
+}}
+
+'''''Omphalotus olivascens''''', commonly known as the '''western jack-o'-lantern mushroom''',<ref name=Arora1986/> is an orange to brown-colored gilled [[poisonous mushroom]] endemic to the North American west coast. It has several lookalikes including ''[[Cantharellus cibarius]]''.
+
+==Taxonomy==
+The fungus was [[species description|described]] as new to science in 1976 by American mycologists [[Howard E. Bigelow]], [[Orson K. Miller Jr.]], and [[Harry D. Thiers]].<ref name="Bigelow 1976"/> A subspecies with blue [[trama (mycology)|flesh]], ''O.&nbsp;olivascens'' var. ''indigo'', was described growing on [[Quercus agrifolia|live oak]] in [[Baja California]], Mexico.<ref name="Moreno 1993"/>
+
+==Description==
+The cap is {{Cvt|4-18|cm}} wide. The stalks are {{Cvt|4-15|cm}} long and {{Cvt|1-4|cm}} wide. The spores are white to pale yellow.<ref name=":0">{{Cite book |last1=Davis |first1=R. Michael |title=Field Guide to Mushrooms of Western North America |last2=Sommer |first2=Robert |last3=Menge |first3=John A. |publisher=[[University of California Press]] |year=2012 |isbn=978-0-520-95360-4 |location=Berkeley |pages=143–144 |oclc=797915861}}</ref>
+
+=== Similar species ===
+To an untrained eye, ''O.&nbsp;olivascens'' appears similar to ''[[Cantharellus cibarius]]'',<ref name=Arora1986>{{Cite book |last=Arora |first=David |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/147/mode/2up |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |orig-date=1979 |edition=2nd |pages=147}}</ref> but the jack-o'-lantern mushroom has true, blade-like<ref>{{cite book |last1=Meuninck |first1=Jim |title=Foraging Mushrooms Oregon: Finding, Identifying, and Preparing Edible Wild Mushrooms |date=2017 |publisher=[[Falcon Guides]] |isbn=978-1-4930-2669-2 |page=4}}</ref> [[Lamella (mycology)|gills]] (rather than ridges) and it can have olive coloration that chanterelles lack; also, ''Omphalotus'' species are [[saprotrophic]], grow directly on wood, and are [[bioluminescent]].<ref name="myko" />
+
+Several ''Omphalotus'' species with similar bioluminescent properties occur worldwide, all of which are presumed [[Mushroom poisoning|poisonous]]. The best known are the North American jack o'lantern mushroom (''[[Omphalotus olearius|O.&nbsp;olearius]]'') and the ''tsukiyotake'' (''[[Omphalotus japonicus|O.&nbsp;japonicus]]'' (Kawam.) Kirchm. & O.K. Mill. (formerly known as ''Lampteromyces japonicus'' (Kawam.) Sing.), found in Japan and eastern Asia. [[molecular phylogenetics|Molecular]] analysis shows the jack-o'-lantern to be most closely related to the ghost fungus [[Omphalotus nidiformis|''O.&nbsp;nidiformis'']],<ref name="Kirchmair 2004" /> the colours and shades of which most closely resemble ''O.&nbsp;olivascens''.<ref name="Miller 1994" /> Additionally, ''[[Omphalotus illudens|O.&nbsp;illudens]]'' is similar.<ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |pages=476–477}}</ref>
+
+''[[Gymnopilus junonius]]'' is another similar-looking species.<ref name=":0" />
+
+==Distribution and habitat==
+It is endemic to the  North American west coast,<ref name=Arora1986/> namely the [[California Floristic Province]].{{citation needed|date=May 2025}}
+
+==Ecology==
+A saprobe or [[parasite]], ''O.&nbsp;olivascens'' is usually found on [[oak]] or ''[[Eucalyptus]]'',<ref name="audu" /> rarely on other [[host (biology)|hosts]].
+
+''Omphalotus'' species cause a [[Wood-decay fungus#White rot|white rot]] by breaking down [[lignin]] in their tree hosts.<ref name="Kirchmair 2004"/>
+
+==Toxicity==
+The jack o'lantern mushroom is poisonous; while not lethal, consuming this mushroom leads to very severe [[cramp]]s, [[vomiting]], and [[diarrhea]].<ref name=myko/>
+
+The toxic ingredient of many species of ''Omphalotus'' is a [[sesquiterpene]] compound known as [[illudin]]&nbsp;S.<ref name="Benjamin 1995"/> This, along with illudin&nbsp;M, have been identified in ''O.&nbsp;nidiformis''. The two illudins are common to the genus ''Omphalotus'' and not found in any other [[basidiomycete]] mushroom.<ref name="Kirchmair 1999"/>
+
+==See also==
+*[[List of bioluminescent fungi]]
+
+==References==
+{{Reflist|refs=
+
+<ref name="Benjamin 1995">{{cite book |author=Benjamin DR |title=Mushrooms: Poisons and Panaceas&nbsp;— A Handbook for Naturalists, Mycologists and Physicians |publisher=WH Freeman and Company |location=New York |year=1995 |isbn=0-7167-2600-9 |pages=366–67}}</ref>
+
+<ref name="Bigelow 1976">{{cite journal |vauthors=Bigelow HE, Miller OK Jr, Thiers HD |title=A new species of ''Omphalotus'' |journal=Mycotaxon |year=1976 |volume=3 |issue=3 |pages=363–372 |url=http://www.cybertruffle.org.uk/cyberliber/59575/0003/003/0363.htm}}</ref>
+
+<ref name="Kirchmair 1999">{{cite journal |author=Kirchmair, Martin |title=Identification of illudins in ''Omphalotus nidiformis'' and ''Omphalotus olivascens'' var. ''indigo'' by column liquid chromatography–atmospheric pressure chemical ionization tandem mass spectrometry |journal=Journal of Chromatography A |year=1999 |volume=832 |issue=1–2| pages=247–52 |issn=0021-9673 |doi=10.1016/s0021-9673(98)00892-9|pmid=10070774 }}</ref>
+
+<ref name="Kirchmair 2004">{{cite journal |vauthors=Kirchmair M, Morandell S, Stolz D, Pöder R |year=2004 |title=Phylogeny of the genus ''Omphalotus'' based on nuclear ribosomal DNA-sequences |journal=Mycologia |volume=96 |issue=6 |pages=1253–1260 |url=http://www.cybertruffle.org.uk/cyberliber/59350/0096/006/1253.htm |doi=10.2307/3762142 |jstor=3762142 |pmid=21148949|url-access=subscription }}</ref>
+
+<ref name=myko>{{cite web| publisher=California Fungi| title=''Omphalotus olivascens''|author1=Wood, Michael  |author2=Stevens, Fred |name-list-style=amp | url=http://www.mykoweb.com/CAF/species/Omphalotus_olivascens.html| access-date=2011-03-25}}</ref>
+
+<ref name="Miller 1994">{{cite journal |author=Miller OK. Jr. |title=Observations on the genus ''Omphalotus'' in Australia |journal=Mycologia Helvetica |year=1994 |volume=6 |issue=2 |pages=91–100}}</ref>
+
+<ref name="Moreno 1993">{{cite journal |vauthors=Moreno G, Esteve-Raventós F, Pöder R, Ayala N |title=''Omphalotus olivascens'' var. ''indigo'', var. nov. from Baja California (Mexico) |journal=Mycotaxon |year=1993 |volume=48 |pages=217–22 |url=http://www.cybertruffle.org.uk/cyberliber/59575/0048/0217.htm}}</ref>
+
+}}
+
+==External links==
+*{{Commons category-inline}}
+*{{IndexFungorum|318991}}
+*{{MycoBank|318991}}
+
+{{Taxonbar|from=Q7090734}}
+
+[[Category:Bioluminescent fungi]]
+[[Category:Omphalotus|olivascens]]
+[[Category:Poisonous fungi]]
+[[Category:Fungi described in 1976]]
+[[Category:Fungi of North America]]
+[[Category:Fungi of Mexico]]
+[[Category:Fungi without expected TNC conservation status]]
+[[Category:Fungi of California]]
+[[Category:Fungus species]]
+[[Category:Fungi used for fiber dyes]]

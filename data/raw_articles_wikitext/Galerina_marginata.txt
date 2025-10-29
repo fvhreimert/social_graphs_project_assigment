@@ -1,0 +1,221 @@
+{{Short description|Poisonous fungus in the family Hymenogastraceae}}
+{{pp-move}}
+{{Speciesbox
+| image = Galerina_marginata_Point_Reyes.jpg
+| image_alt = A group of about a dozen reddish-brown mushrooms clustered together and growing out of a decaying piece of wood covered with moss. The gills on the underside of the caps can be seen, as well as a small ring of tissue on the upper half to third of the whitish-brown stems. Visible amongst the larger mushrooms are about a dozen miniature versions of the larger mushrooms, with hemispherical caps that do not have the gills exposed.
+| image_caption = 
+| taxon = Galerina marginata
+| authority = ([[August Johann Georg Karl Batsch|Batsch]]) [[Robert Kühner|Kühner]] (1935)
+| synonyms = 
+''[[Agaricus]] marginatus'' {{small|Batsch (1789)}}<br/>
+''Agaricus unicolor''  {{small|[[Martin Vahl|Vahl]] (1792)}}<br/>
+''Agaricus autumnalis''  {{small|[[Charles Horton Peck|Peck]] (1872)}}<br/>
+''[[Pholiota]] marginata''  {{small|(Batsch) [[Quél.]] (1872)}}<br/>
+''Pholiota discolor''  {{small|Peck (1873)}}<br/>
+''Galerina unicolor''  {{small|(Vahl) Singer (1936)}}<br/>
+''Galerina venenata''  {{small|(Vahl) Singer (1953)}}<br/>
+''Galerina autumnalis''  {{small|(Peck) [[Alexander H. Smith|A.H.Sm.]] & [[Rolf Singer|Singer]] (1964)}}<br/>
+''Galerina oregonensis''  {{small|A.H.Sm. (1964)}}
+| synonyms_ref = 
+}}
+{{mycomorphbox 
+| name = ''Galerina marginata''
+| whichGills = adnexed 
+| whichGills2 = adnate
+| capShape = convex 
+| hymeniumType=gills
+| stipeCharacter=ring
+| stipeCharacter2=bare
+| ecologicalType=saprotrophic
+| sporePrintColor=brown
+| howEdible=deadly
+}}
+
+'''''Galerina marginata''''', known colloquially as '''funeral bell''', '''deadly skullcap''', '''autumn skullcap''' or '''deadly galerina''', is a species of extremely poisonous [[mushroom]]-forming [[fungus]] in the family [[Hymenogastraceae]] of the order [[Agaricales]]. Before 2001, the species '''''G.&nbsp;autumnalis''''', '''''G.&nbsp;oregonensis''''', '''''G.&nbsp;unicolor''''', and '''''G.&nbsp;venenata''''' were thought to be distinct from ''G.&nbsp;marginata'' due to differences in habitat and the [[wikt:viscidity|viscidity]] of their caps, but [[phylogenetic]] analysis showed that they are all the same species.
+
+The [[basidiocarp|fruit bodies]] of the mushroom have brown to yellow-brown [[pileus (mycology)|caps]] that fade in color when drying. The [[lamella (mycology)|gills]] are brownish and give a rusty [[spore print]]. A well-defined membranous [[annulus (mycology)|ring]] is typically seen on the [[stipe (mycology)|stems]] of young specimens but often disappears with age. In older fruit bodies, the caps are flatter and the gills and stems browner. The species is a classic "[[Mushroom hunting#Little brown mushrooms|little brown mushroom]]" – a catchall category that includes all small to medium-sized, indistinguishable brownish mushrooms – and thus can easily be misidentified.
+
+''G.&nbsp;marginata'' is a [[wood-rotting fungus]] that grows predominantly on decaying [[conifer]] wood. It is widespread in the [[Northern Hemisphere]], including Eurasia and North America, and has also been found in Australia. It contains the same deadly [[amatoxin]]s found in the death cap (''[[Amanita phalloides]]''). Ingestion in toxic amounts causes severe [[liver damage]] with vomiting, diarrhea, [[hypothermia]], and eventual death if not treated rapidly. About ten poisonings have been attributed to the species during the 20th century.
+
+==Taxonomy==
+
+What is now recognized as a single [[morphology (biology)|morphologically]] variable [[taxon]] named ''Galerina marginata'' was once split into five distinct species. Norwegian mycologist [[Gro Gulden]] and colleagues concluded that all five represented the same species after comparing the DNA sequences of the [[internal transcribed spacer]] region of [[ribosomal DNA]] for various North American and European specimens in ''[[Galerina]]'' section ''Naucoriopsis''. The results showed no genetic differences between ''G.&nbsp;marginata'' and ''G.&nbsp;autumnalis'', ''G.&nbsp;oregonensis'', ''G.&nbsp;unicolor'', and ''G.&nbsp;venenata'', thus reducing all these names to [[synonym (taxonomy)|synonymy]].<ref name=Gulden2001/> The oldest of these names are ''Agaricus marginatus'', described by [[August Batsch]] in 1789,<ref name=Batsch1789/> and ''Agaricus unicolor'', described by [[Martin Vahl]] in 1792.<ref name=Vahl1792/> ''Agaricus autumnalis'' was described by [[Charles Horton Peck]] in 1873, and later moved to ''Galerina'' by [[Alexander Hanchett Smith|A.&nbsp;H.&nbsp;Smith]] and [[Rolf Singer]] in their 1962 worldwide [[monograph]] on that genus. In the same publication they also introduced the ''G.&nbsp;autumnalis'' [[variety (botany)|varieties]] ''robusta'' and ''angusticystis''.<ref name=Smith-Autumnalis/> Another of the synonymous species, ''G.&nbsp;oregonensis'', was first described in that monograph. ''Galerina venenata'' was first identified as a species by Smith in 1953.<ref name=Smith1953/> Since ''Agaricus marginatus'' is the oldest validly published name, it has [[priority (nomenclature)|priority]] according to the [[International Code of Botanical Nomenclature|rules of botanical nomenclature]].<ref name="url MushroomExpert.Com"/>
+
+ are characteristic of ''Galerina'' species in the section ''Naucoriopsis''.|alt=A translucent, pointed cell with a rounded tip extending upwards into a clear area. Its base is embedded amongst a layer of poorly-resolved smaller cells most of which are attached to up to four smaller oval brownish cells.]]
+
+{{Anchor|Galerina pseudomycenopsis}}
+Another species analysed in Gulden's 2001 study, '''Galerina pseudomycenopsis''', also could not be distinguished from ''G.&nbsp;marginata'' based on ribosomal DNA sequences and [[restriction fragment length polymorphism]] analyses. Because of differences in ecology, fruit body color and spore size combined with inadequate sampling, the authors preferred to maintain ''G.&nbsp;pseudomycenopsis'' as a distinct species.<ref name=Gulden2001/> A 2005 study again failed to separate the two species using molecular methods, but reported that the incompatibility demonstrated in [[mating in fungi|mating]] experiments suggests that the species are distinct.<ref name=Gulden2005/>
+
+In the fourth edition (1986) of Singer's comprehensive [[classification (biology)|classification]] of the [[Agaricales]], ''G.&nbsp;marginata'' is the [[type species]] of ''Galerina'' section ''Naucoriopsis'', a subdivision first defined by French mycologist [[Robert Kühner]] in 1935.<ref name=Kuhner1935/> It includes small brown-spored mushrooms characterized by cap edges initially curved inwards, fruit bodies resembling ''[[Pholiota]]'' or ''[[Naucoria]]''<ref>Smith and Singer, 1964, p. 235.</ref> and thin-walled, obtuse or acute-ended pleurocystidia that are not rounded at the top. Within this section, ''G.&nbsp;autumnalis'' and ''G.&nbsp;oregonensis'' are in [[wikt:stirps|stirps]] ''Autumnalis'', while ''G.&nbsp;unicolor'', ''G.&nbsp;marginata'', and ''G.&nbsp;venenata'' are in stirps ''Marginata''. ''Autumnalis'' species are characterized by having a viscid to lubricous cap surface while ''Marginata'' species lack a gelatinous cap—the surface is moist, "fatty-shining", or matte when wet.<ref name="Singer1986"/> However, as Gulden explains, this characteristic is highly variable: "Viscidity is a notoriously difficult character to assess because it varies with the age of the fruitbody<!--[sic]--> and the weather conditions during its development. Varying degrees of viscidity tend to be described differently and applied inconsistently by different persons applying terms such as lubricous, fatty, fatty-shiny, sticky, viscid, glutinous, or (somewhat) slimy."<ref name=Gulden2001/>
+
+The [[specific name (botany)|specific epithet]] ''marginata'' is derived from the [[Latin]] word for "margin" or "edge",<ref name=Neill2005/> while ''autumnalis'' means "of the autumn".<ref>Evenson, 1997, [https://books.google.com/books?id=EAeDeyqZLq0C&dq=Galerina+autumnalis&pg=PA124 p. 124.] Retrieved 2010-03-04.</ref> [[Common name]]s of the species include the "marginate Pholiota" (resulting from its synonymy with ''Pholiota marginata''),<ref name=Bresinsky1989/> "funeral bell",<ref name=Mitchell2006/> "deadly skullcap", and "deadly Galerina". ''G.&nbsp;autumnalis'' was known as the "fall Galerina" or the "autumnal Galerina", while ''G.&nbsp;venenata'' was the "deadly lawn Galerina".<ref name="Schalkwijk-Barendsen1991"/><ref name=Ammirati1987/>
+
+==Description==
+
+
+The [[Pileus (mycology)|cap]] ranges from {{convert|1 to 6|cm|frac=4}} in diameter.<ref name=":0">{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=247–248|oclc=797915861}}</ref><ref name="audu">{{Cite book |last=[[Audubon]] |title=Mushrooms of North America |publisher=[[Knopf]] |year=2023 |isbn=978-0-593-31998-7 |page=649}}</ref> It starts convex, sometimes broadly conical, and has edges (margins) that are curved in against the [[Lamellae (mycology)|gills]]. As the cap grows and expands, it becomes broadly convex and then flattened,<ref name=":0" /> sometimes developing a central elevation, or [[umbo (mycology)|umbo]], which may project prominently from the cap surface.<ref name=Bresinsky1989/>
+
+Based on the collective descriptions of the five taxa now considered to be ''G.&nbsp;marginata'', the texture of the surface shows significant variation. Smith and Singer give the following descriptions of surface texture: from "viscid" (''G.&nbsp;autumnalis''),<ref name=Smith-Autumnalis/> to "shining and viscid to lubricous when moist" (''G.&nbsp;oregonensis''),<ref name=Smith-Oregonensis/> to "shining, lubricous to subviscid (particles of dirt adhere to surface) or merely moist, with a fatty appearance although not distinctly viscid",<ref name=Smith-Unicolor/> to "moist but not viscid" (''G.&nbsp;marginata'').<ref name=Smith-Marginata/> The cap surface remains smooth and changes colors with humidity ([[hygrophanous]]), pale to dark [[ochre|ochraceous]] [[tawny (color)|tawny]] over the disc and yellow-ochraceous on the margin (at least when young), but fading to dull tan or darker when dry. When moist, the cap is somewhat transparent so that the outlines of the gills may be seen as striations. The [[trama (mycology)|flesh]] is pale brownish ochraceous to nearly white, thin and pliant, with an odor and taste varying from very slightly to strongly like flour ([[wikt:farinaceous|farinaceous]]).<ref name=Smith-Marginata/>
+
+
+
+The gills are typically narrow and crowded together, with a broadly [[adnation|adnate]] to nearly [[decurrent]] attachment to the stem and convex edges. They are a pallid brown when young, becoming tawny at maturity. Some short gills, called lamellulae, do not extend entirely from the cap edge to the stem, and are intercalated among the longer gills. The [[Stipe (mycology)|stem]] ranges from {{convert|2 to 8|cm|abbr=on|frac=8}} long,<ref name=":0" /> 3–9&nbsp;mm thick at the apex, and stays equal in width throughout or is slightly enlarged downward. Initially solid, it becomes hollow from the bottom up as it matures. The membranous [[annulus (mycology)|ring]] is located on the upper half of the stem near the cap, but may be sloughed off and missing in older specimens. Its color is initially whitish or light brown, but usually appears a darker rusty-brown in mature specimens that have dropped spores on it. Above the level of the ring, the stem surface has a very fine whitish powder and is paler than the cap; below the ring it is brown down to the reddish-brown to [[bistre]] base. The lower portion of the stem has a thin coating of pallid [[wikt:fibril|fibrils]] which eventually disappear and do not leave any scales. The [[spore print]] is rusty-brown.<ref name=Smith-Marginata/>
+
+===Microscopic characteristics===
+
+
+The spores measure 8–10 by 5–6&nbsp;[[μm]], and are slightly [[wikt:inequilateral|inequilateral]] in profile view, and egg-shaped in face view. Like all ''Galerina'' species, the spores have a [[plage (mycology)|plage]], which has been described as resembling "a slightly wrinkled plastic shrink-wrap covering over the distal end of the spore".<ref name="url Tom Volk 2003"/> The spore surface is warty and full of wrinkles, with a smooth depression where the spore was once attached via the [[wikt:sterigmatum|sterigmatum]] to the [[basidium]] (the spore-bearing cell). When in [[potassium hydroxide]] (KOH) solution, the spores appear tawny or darker rusty-brown, with an apical callus. The basidia are four-spored (rarely with a very few two-spored ones), roughly cylindrical when producing spores, but with a slightly tapered base, and measure 21–29 by 5–8.4&nbsp;μm.<ref name=Smith-Marginata/>
+
+[[Cystidia]] are cells of the fertile [[hymenium]] that do not produce spores. These sterile cells, which are structurally distinct from the basidia, are further classified according to their position. In ''G.&nbsp;marginata'', the pleurocystidia (cystidia from the gill sides) are 46–60 by 9–12&nbsp;μm, thin-walled, and [[hyaline]] in KOH, [[wikt:fusoid|fusoid]] to [[ventricose]] in shape with wavy necks and blunt to [[wikt:subacute|subacute]] apices (3–6&nbsp;μm diameter near apex). The cheilocystidia (cystidia on the gill edges) are similar in shape but often smaller than the pleurocystidia, abundant, with no club-shaped or abruptly tapering ([[wikt:mucronate|mucronate]]) cells present. [[Clamp connection]]s are present in the [[hyphae]].<ref name=Smith-Marginata/>
+
+===Similar species===
+'' is one of several edible lookalike species.|alt=About two dozen brownish-orange mushrooms clustered together and growing on a piece of wood that is itself covered with green moss. In the center of each of the mushroom caps is a distinct circular region that is a slightly different color (both darker and lighter) that the rest of the cap.]]
+
+The deadly ''G. marginata'' may be mistaken for a few [[edible mushroom]] species such as ''[[Armillaria mellea]]'' and ''[[Kuehneromyces mutabilis]]''.<ref name=Enjalbert2004/> ''K.&nbsp;mutabilis'' (syn. ''Pholiota mutabilis'') produces fruit bodies roughly similar in appearance and also grows on wood, but may be distinguished by its stems bearing scales up to the level of the ring, and from growing in large clusters. However, the possibility of confusion is such that ''K.&nbsp;mutabilis'' is not recommended for consumption without expert and extremely certain identification.<ref name="Smith1975"/><ref name="Bresinsky1989" /> Microscopic examination shows smooth spores in ''Pholiota''.<ref name="Orr1979"/> ''K.&nbsp;mutabilis'' may be distinguished by the presence of scales on the stem below the ring, the larger cap, which may reach a diameter of {{convert|6|cm|1|abbr=on|frac=8}}, and spicy or aromatic odor of the flesh. The related ''[[Kuehneromyces vernalis|K.&nbsp;vernalis]]'' is a rare species and even more similar in appearance to ''G.&nbsp;marginata''. Examination of microscopic characteristics is typically required to reliably distinguish between the two, revealing smooth spores with a [[germ pore]].<ref name=Bresinsky1989/>
+
+Another potential edible lookalike is the "velvet shank", ''[[Flammulina velutipes]]''. This species has gills that are white to pale yellow, a white spore print, and spores that are elliptical, smooth, and measure 6.5–9 by 2.5–4&nbsp;μm.<ref name=Abel1993/> A rough resemblance has also been noted with the edible ''[[Hypholoma capnoides]]'',<ref name=Bresinsky1989/> the 'magic' mushroom ''[[Psilocybe subaeruginosa]]'', as well as ''[[Conocybe filaris]]'', another poisonous amatoxin-containing species.<ref name=Evenson1997/>
+
+==Habitat and distribution==
+
+
+''Galerina marginata'' is a [[saprobic]] fungus,<ref name="url MushroomExpert.Com"/> obtaining nutrients by breaking down organic matter. It is known to have most of the major classes of secreted [[enzyme]]s that dissolve plant [[cell wall]] [[polysaccharide]]s, and has been used as a model saprobe in recent studies of [[mycorrhiza|ectomycorrhizal]] fungi.<ref name=Nagendran2009/><ref name=Baldrian2009/> Because of its variety of enzymes capable of breaking down wood and other lignocellulosic materials, the Department of Energy Joint Genome Institute (JGI) is currently sequencing its genome. The fungus is typically reported to grow on or near the wood of [[conifer]]s, although it has been observed to grow on hardwoods as well.<ref name=Enjalbert2004/><ref name=Gulden2001/> Fruit bodies may grow solitarily, but more typically in groups or small clusters, and appear in the summer to autumn. Sometimes, they may grow on buried wood and thus appear to be growing on soil.<ref name=Ammirati1987/>
+
+''Galerina marginata'' is widely distributed throughout the Northern Hemisphere, found in North America, Europe, Japan, Iran,<ref name=Asef2010/> continental Asia, and the [[Caucasus]].<ref name=Smith-Marginata/><ref name=Gulden1999/><ref name=Imazeki1987/> In North America, it has been collected as far north as the [[boreal forest of Canada]]<ref name=Bossenmaier1997/> and [[subarctic]] and [[arctic]] habitats in [[Labrador]],<ref name=Noordeloos1992/> and south to [[Jalisco, Mexico]].<ref name=Vargas1993/> It is also found in Australia,<ref name=Midgley2007/> and in [[Antarctica]].<ref>{{Cite journal |date=2024-01-01 |title=Expanding geographic distribution knowledge of Galerina marginata (Batsch) Kühner (Agaricales, Hymenogastraceae) with a novel Antarctic record |journal=Biodiversity Data Journal |language=en-US |volume=12 |doi=10.3897/BDJ.12.e125727 |doi-access=free |issn=1314-2836 |last1=Bertazzo-Silva |first1=Fernando Augusto |last2=Putzke |first2=Jair |last3=Furlan-Lopes |first3=Cassiane |last4=d'Ávila |first4=Maricia |last5=Costa |first5=Alice |last6=Carvalho |first6=Evelise |last7=Zorzi |first7=Ana |last8=Schaefer |first8=Carlos |article-number=e125727 |pmid=38948134 |pmc=11214013 }}</ref>
+
+==Toxicity==
+{{Multiple image|direction=vertical|align=right|image1=Galerina autumnalis 47575.jpg|image2=Alpha-amanitin_structure.png|width=250|caption1=''Galerina marginata'' contains deadly amounts of amatoxins.|caption2=Alpha-amanitin chemical structure}}
+The toxins found in ''Galerina marginata'' are known as [[amatoxin]]s. Amatoxins belong to a family of bicyclic octapeptide derivatives composed of an [[amino acid]] ring bridged by a [[sulfur]] atom and characterized by differences in their [[substituent|side groups]]; these compounds are responsible for more than 90% of fatal [[mushroom poisoning]]s in humans. The amatoxins inhibit the [[enzyme]] [[RNA polymerase II]], which copies the [[genetic code]] of DNA into [[messenger RNA]] molecules. The toxin naturally accumulates in [[hepatocyte|liver cells]], and the ensuing disruption of metabolism accounts for the severe liver dysfunction cause by amatoxins. Amatoxins also lead to [[kidney failure]] because, as the kidneys attempt to filter out poison, it damages the [[Kidney tubule#Renal tubule|convoluted tubules]] and reenters the blood to recirculate and cause more damage. Initial [[symptoms]] after ingestion include severe [[abdominal pain]], [[vomiting]], and [[diarrhea]] which may last for six to nine hours. Beyond these symptoms, toxins severely affect the liver which results in [[gastrointestinal bleeding]], a [[coma]], kidney failure, or even death, usually within seven days of consumption.<ref name="North"/>
+
+''Galerina marginata'' was shown in various studies to contain the amatoxins [[alpha-amanitin|α-amanitin]] and [[gamma-amanitin|γ-amanitin]], first as ''G.&nbsp;venenata'',<ref name=Tyler1963/> then as ''G.&nbsp;marginata'' and ''G.&nbsp;autumnalis''.<ref name=Tyler1963b/> The ability of the fungus to produce these toxins was confirmed by growing the [[mycelium]] as a [[microbiological culture|liquid culture]] (only trace amounts of [[beta-amanitin|β-amanitin]] were found).<ref name=Benedict1966/> ''G.&nbsp;marginata'' is thought to be the only species of the amatoxin-producing genera that will produce the toxins while growing in culture.<ref name=Benedict1967/> Both amanitins were quantified in ''G.&nbsp;autumnalis'' (1.5&nbsp;mg/g [[dry matter|dry weight]])<ref name=Johnson1976/> and ''G.&nbsp;marginata'' (1.1&nbsp;mg/g dry weight).<ref name=Andary1979/> Later experiments confirmed the occurrence of γ-amanitin and β-amanitin in German specimens of ''G.&nbsp;autumnalis'' and ''G.&nbsp;marginata'' and revealed the presence of the three amanitins in the fruit bodies of ''G.&nbsp;unicolor''.<ref name=Besl1984/> Although some mushroom [[field guide]]s claim that the species (as ''G.&nbsp;autumnalis'') also contains [[phallotoxin]]s (however phallotoxins cannot be absorbed by humans),<ref name="Schalkwijk-Barendsen1991"/><ref name="Miller2006"/> scientific evidence does not support this contention.<ref name=Enjalbert2004/> A 2004 study determined that the amatoxin content of ''G.&nbsp;marginata'' varied from 78.17 to 243.61&nbsp;μg/g of fresh weight. In this study, the amanitin amounts from certain ''Galerina'' specimens were higher than those from some ''[[Amanita phalloides]]'', a European fungus generally considered as the richest in amanitins. The authors suggest that "other parameters such as extrinsic factors (environmental conditions) and intrinsic factors (genetic properties) could contribute to the significant variance in amatoxin contents from different specimens."<ref name=Enjalbert2004/> The lethal dose of amatoxins has been estimated to be about 0.1&nbsp;mg/kg human body weight, or even lower.<ref name=Wieland1986/> Based on this value, the ingestion of 10 ''G.&nbsp;marginata'' fruit bodies containing about 250&nbsp;μg of amanitins per gram of fresh tissue could poison a child weighing approximately {{convert|20|kg|lb}}. However, a 20-year retrospective study of more than 2100 cases of amatoxin poisonings from North American and Europe showed that few cases were due to ingestion of ''Galerina'' species. This low frequency may be attributed to the mushroom's nondescript appearance as a "[[little brown mushroom]]" leading to it being overlooked by collectors, and by the fact that 21% of amatoxin poisonings were caused by unidentified species.<ref name=Enjalbert2004/>
+
+The toxicity of certain ''Galerina'' species has been known for a century. In 1912, Charles Horton Peck reported a human poisoning case due to ''G.&nbsp;autumnalis''.<ref name=Peck1912/> In 1954, a poisoning was caused by ''G.&nbsp;venenata''.<ref name=Grossman1954/> Between 1978 and 1995, ten cases caused by amatoxin-containing Galerinas were reported in the literature. Three European cases, two from Finland<ref name=Elonen1978/> and one from France<ref name=Bauchet1983/> were attributed to ''G.&nbsp;marginata'' and ''G.&nbsp;unicolor'', respectively. Seven North American exposures included two fatalities from Washington due to ''G.&nbsp;venenata'',<ref name=Ammirati1987/> with five cases reacting positively to treatment; four poisonings were caused by ''G.&nbsp;autumnalis'' from Michigan and Kansas,<ref name=Trestrail1991/><ref name=Trestrail1994/> in addition to poisoning caused by an unidentified ''Galerina'' species from Ohio.<ref name=Trestrail1992/> Several poisonings have been attributed to collectors consuming the mushrooms after mistaking them for the hallucinogenic ''[[Psilocybe stuntzii]]''.<ref name="urlCalifornia Fungi"/><ref name=Stamets1996/>
+
+==See also==
+*[[List of deadly fungi]]
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name=Abel1993>{{cite book |vauthors=Abel D, Horn B, Kay R |title=A Guide to Kansas Mushrooms |publisher=University Press of Kansas |location=Lawrence, Kansas |year=1993 |page=130 |isbn=0-7006-0571-1}}</ref>
+
+<ref name=Ammirati1987>{{cite book |vauthors=Ammirati JF, McKenny M, Stuntz DE |title=The New Savory Wild Mushroom |publisher=University of Washington Press |location=Seattle, Washington |year=1987 |pages=122, 128–9 |isbn=0-295-96480-4}}</ref>
+
+<ref name=Andary1979>{{cite journal |vauthors=Andary C, Privat G, Enjalbert F, Mandrou B |year=1979 |title=Teneur comparative en amanitines de différentes Agaricales toxiques d'Europe |trans-title=Comparative content in amanitins of different European toxic Agaricales |journal=Documents Mycologiques |volume=10 |issue=37–38 |pages=61–8 |language=fr}}</ref>
+
+<ref name=Asef2010>{{cite book |title=قارچهای سمی ایران (Qarch-ha-ye Sammi-ye Iran) |trans-title=Poisonous mushrooms of Iran |year=2010 |author=Asef Shayan MR. |publisher=Iran shenasi |page=214 |isbn=978-964-2725-29-8 |language=fa}}</ref>
+
+<ref name=Baldrian2009>{{cite journal |author=Baldrian P. |year=2009 |title=Ectomycorrhizal fungi and their enzymes in soils: is there enough evidence for their role as facultative soil saprotrophs? |journal=Oecologia |location=Berlin |volume=161 |issue=4 |pages=657–60 |doi=10.1007/s00442-009-1433-7 |pmid=19685081|bibcode=2009Oecol.161..657B |s2cid=5806797 }}</ref>
+
+<ref name=Batsch1789>{{cite book |title=Elenchus fungorum. Continuatio secunda |trans-title=Record of Fungi |edition=Second |author=Batsch AJGK |year=1789 |location=Halle |page=65 |language=la, de |url=http://caliban.mpiz-koeln.mpg.de/~stueber/batsch/elenchus3/batsch_elenchus_3.pdf }}{{Dead link|date=May 2024 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+<ref name=Bauchet1983>{{cite journal |author=Bauchet JM |year=1983 |title=Poisoning said due to ''Galera unicolor'' |journal=Bulletin of the British Mycological Society |volume=17 |issue=1 |page=51 |doi=10.1016/s0007-1528(83)80011-x}}</ref>
+
+<ref name=Benedict1966>{{cite journal |vauthors=Benedict RG, Tyler VE, Brady LR, Weber LJ |year=1966 |title=Fermentative production of ''Amanita'' toxins by a strain of ''Galerina marginata'' |journal=Journal of Bacteriology |volume=91 |issue=3 |pages=1380–1 |doi=10.1128/JB.91.3.1380-1381.1966 |pmc=316043 |pmid=5929764}}</ref>
+
+<ref name=Benedict1967>{{cite journal |vauthors=Benedict RG, Brady LR |year=1967 |title=Further studies on fermentative production of toxic cyclopeptides by ''Galerina Marginata'' (Fr. Kühn) |journal=Lloydia |volume=30 |pages=372–8}}</ref>
+
+<ref name=Besl1984>{{cite journal |vauthors=Besl H, Mack P, Schmid-Heckel H |year=1984 |title=Giftpilze in den Gattungen ''Galerina'' und ''Lepiota'' |trans-title=Poisonous mushrooms in the genera ''Galerina'' and ''Lepiota'' |journal=Zeitschrift für Mykologie |volume=50|pages=183–93 |language=de}}</ref>
+
+<ref name=Bossenmaier1997>{{cite book |author=Bossenmaier EF |title=Mushrooms of the Boreal Forest |publisher=University Extension Press, University of Saskatchewan |location=Saskatoon, Canada |year=1997 |page=12 |isbn=0-88880-355-9}}</ref>
+
+<ref name=Bresinsky1989>{{cite book |vauthors=Bresinsky A, Besl H |title=A Colour Atlas of Poisonous Fungi: a Handbook for Pharmacists, Doctors, and Biologists |publisher=Manson Publishing Ltd. |location=London, UK |year=1989 |pages=37–9 |isbn=0-7234-1576-5 |url=https://books.google.com/books?id=EIcQGsZ2kksC&pg=PA37}}</ref>
+
+<ref name=Elonen1978>{{cite journal |vauthors=Elonen E, Härkönen M |year=1978 |title=Myrkkynaapikan (''Galerina marginata'') aiheuttama myrkytys |trans-title=''Galerina marginata'' poisoning |journal=Duodecim |volume=94 |issue=17 |pages=1050–3 |pmid=688942 |language=fi}}</ref>
+
+<ref name=Enjalbert2004>{{cite journal |vauthors=Enjalbert F, Cassacas G, Rapior S, Renault C, Chaumont JP |year=2004 |title=Amatoxins in wood-rotting ''Galerina marginata'' |journal=Mycologia |volume=96 |issue=4 |pages=720–9 |url=http://www.mycologia.org/cgi/content/full/96/4/720 |doi=10.2307/3762106 |jstor=3762106 |pmid=21148893|url-access=subscription }}</ref>
+
+<ref name=Evenson1997>Evenson, 1997, [https://books.google.com/books?id=EAeDeyqZLq0C&pg=PA25 pp. 25–26.] Retrieved 2010-03-03.</ref>
+
+<ref name=Grossman1954>{{cite journal |vauthors=Grossman CM, Malbin B |year=1954 |title=Mushroom poisoning: a review of the literature and report of two cases caused by a previously undescribed species |journal=Annals of Internal Medicine |volume=40 |issue=2 |pages=249–59 |pmid=13125209 |doi=10.7326/0003-4819-40-2-249}}</ref>
+
+<ref name=Gulden1999>{{cite journal |vauthors=Gulden G, Vesterholt J |year=1999 |title=The genera ''Galerina'' and ''Phaeogalera'' (Basidiomycetes, Agaricales) on the Faroe Islands |journal=Nordic Journal of Botany |volume=19 |issue=6 |pages=685–706 |doi=10.1111/j.1756-1051.1999.tb00679.x |bibcode=1999NorJB..19..685G }}</ref>
+
+<ref name=Gulden2001>{{cite journal |vauthors=Gulden G, Dunham S, Stockman J |year=2001 |title=DNA studies in the ''Galerina marginata'' complex |journal=Mycological Research |volume=105 |issue=4 |pages=432–40 |doi=10.1017/S0953756201003707}}</ref>
+
+<ref name=Gulden2005>{{cite journal |vauthors=Gulden G, Stensrud Ø, Shalchian-Tabrizi K, Kauserud H  |s2cid=25887159 |year=2005 |title=''Galerina'' Earle: a polyphyletic genus in the consortium of dark-spored agarics |journal=Mycologia |volume=97 |issue=4 |pages=823–37 |doi=10.3852/mycologia.97.4.823 |pmid=16457352}}</ref>
+
+<ref name=Imazeki1987>{{cite book |title=日本のきのこ |trans-title=Nihon no kinoko / Fungi of Japan |vauthors=Imazeki R, Otani Y, Hongo T |year=1987 |publisher=Yamakey |location=Tokyo, Japan |isbn=4-635-09020-5}}</ref>
+
+<ref name=Johnson1976>{{cite journal |vauthors=Johnson BE, Preston JF, Kimbrough JW |year=1976 |title=Quantitation of amanitins in ''Galerina autumnalis'' |jstor=3758759 |journal=Mycologia |volume=68 |issue=6 |pages=1248–53 |pmid=796725 |doi=10.2307/3758759}}</ref>
+
+<ref name=Kuhner1935>{{cite journal |author=Kühner R. |year=1935 |title=Le Genre ''Galera'' (Fr.) Quélet |trans-title=The Genus ''Galera'' (Fr.) Quélet  |journal=Encyclopédie Mycologique |volume=7 |pages=1–240 |language=fr}}</ref>
+
+<ref name=Midgley2007>{{cite journal |vauthors=Midgley DJ, Saleeba JA, Stewart MI, Simpson AE, McGee PA |year=2007 |title=Molecular diversity of soil basidiomycete communities in northern-central New South Wales, Australia |journal=Mycological Research |pmid=17360169 |volume=111 |issue=3 |pages=370–8 |doi=10.1016/j.mycres.2007.01.011 }}</ref>
+
+<ref name="Miller2006">{{cite book |vauthors=Miller HR, Miller OK |title=North American Mushrooms: a Field Guide to Edible and Inedible Fungi |publisher=Falcon Guide |location=Guilford, Connecticut |year=2006 |page=298 |isbn=0-7627-3109-5 |url=https://books.google.com/books?id=zjvXkLpqsEgC&pg=PA298}}</ref>
+
+<ref name=Mitchell2006>{{cite book |author=Mitchell K. |title=Field Guide to Mushrooms and Other Fungi of Britain and Europe (Field Guide) |publisher=New Holland Publishers Ltd. |year=2006 |page=54 |isbn=1-84537-474-6 |url=https://books.google.com/books?id=X96A6iQwvV4C&pg=PA54}}</ref>
+
+<ref name=Nagendran2009>{{cite journal |vauthors=Nagendran S, Hallen-Adams HE, Paper JM, Aslam N, Walton JD |year=2009 |title=Reduced genomic potential for secreted plant cell-wall-degrading enzymes in the ectomycorrhizal fungus ''Amanita bisporigera'', based on the secretome of ''Trichoderma reesei'' |journal=Fungal Genetics and Biology |volume=46 |issue=5 |pages=427–35 |doi=10.1016/j.fgb.2009.02.001 |pmid=19373972|s2cid=969884 |url=http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1001&context=gfihallenadams |url-access=subscription }}</ref>
+
+<ref name=Neill2005>{{cite book |vauthors=Neill A, Holloway JE |title=A Dictionary of Common Wildflowers of Texas & the Southern Great Plains |publisher=TCU Press |location=Fort Worth, Texas |year=2005 |page=69 |isbn=0-87565-309-X |url=https://books.google.com/books?id=agbm4S1eCQsC&pg=PA69}}</ref>
+
+<ref name=Noordeloos1992>{{cite journal |vauthors=Noordeloos ME, Gulden G |year=1992 |title=Studies in the genus ''Galerina'' from the Shefferville area on the Quebec-Labrador peninsula, Canada |journal=Persoonia |volume=14 |issue=4 |pages=625–39}}</ref>
+
+<ref name="North">{{cite web |url=https://plants.ces.ncsu.edu/plants/all/galerina-autumnalis/ |title=''Galerina autumnalis'' |access-date=2010-02-19 |work=Poisonous Plants of North Carolina |author=Russell AB |publisher=Department of Horticultural Science, North Carolina State University }}{{Dead link|date=August 2024 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+<ref name="Orr1979">{{cite book |vauthors=Orr DB, Orr RT |title=Mushrooms of Western North America |publisher=University of California Press |location=Berkeley, California |year=1979 |pages=162–3 |isbn=0-520-03656-5}}</ref>
+
+<ref name=Peck1912>{{cite journal|author=Peck CH |year=1912 |title=Report of the State Botanist 1911 |journal=New York State Museum Bulletin |volume=157 |pages=1–139 |url=http://nysl.nysed.gov/uhtbin/hyperion/museum_bulletin_157 |archive-url=http://webarchive.loc.gov/all/20100311223320/http://nysl.nysed.gov/uhtbin/hyperion/museum_bulletin_157 |archive-date=2010-03-11 }} Mention of poisoning by ''Pholiota autumnalis'' is on p. 9.</ref>
+
+<ref name="Schalkwijk-Barendsen1991">{{cite book |author=Schalkwijk-Barendsen HME. |title=Mushrooms of Western Canada |publisher=Lone Pine Publishing |location=Edmonton, Canada |year=1991 |page=[https://archive.org/details/mushroomsofweste0000scha/page/300 300] |isbn=0-919433-47-2 |url=https://archive.org/details/mushroomsofweste0000scha/page/300 }}</ref>
+
+<ref name="Singer1986">{{cite book |author=Singer R. |title=The Agaricales in Modern Taxonomy |edition=4th |publisher=Koeltz Scientific Books |location=Königstein im Taunus, Germany |year=1986 |pages=673–4 |isbn=3-87429-254-1}}</ref>
+
+<ref name=Smith1953>{{cite journal |author=Smith AH |year=1953 |title=New species of ''Galerina'' from North America |journal=Mycologia |volume=45 |issue=6 |pages=892–925 |jstor=4547771|doi=10.1080/00275514.1953.12024323 }}</ref>
+
+<ref name=Smith-Autumnalis>Smith and Singer, 1964, pp.&nbsp;246–50.</ref>
+
+<ref name=Smith-Oregonensis>Smith and Singer, 1964, pp.&nbsp;250–1.</ref>
+
+<ref name=Smith-Unicolor>Smith and Singer, 1964, pp.&nbsp;256–9.</ref>
+
+<ref name=Smith-Marginata>Smith and Singer, 1964, pp.&nbsp;259–62.</ref>
+
+<ref name="Smith1975">{{cite book |author=Smith AH |title=A Field Guide to Western Mushrooms |publisher=University of Michigan Press |location=Ann Arbor, Michigan |year=1975 |page=160 |isbn=0-472-85599-9}}</ref>
+
+<ref name=Stamets1996>{{cite book |author=Stamets P. |title=Psilocybin Mushrooms of the World: An Identification Guide |publisher=Ten Speed Press |location=Berkeley, California |year=1996 |page=195 |isbn=0-89815-839-7 |url=https://books.google.com/books?id=3u-DyDXgQiEC&pg=PA195}}</ref>
+
+<ref name=Trestrail1991>{{cite journal |author=Trestrail JH |year=1991 |title=Mushroom poisoning case registry. North American Mycological Association Report 1989–1990 |journal=McIlvainea |volume=10 |issue=1 |pages=36–44}}</ref>
+
+<ref name=Trestrail1992>{{cite journal |author=Trestrail JH |year=1992 |title=Mushroom poisoning case registry. North American Mycological Association Report 1991 |journal=McIlvainea |volume=10 |issue=2 |pages=51–9}}</ref>
+
+<ref name=Trestrail1994>{{cite journal |author=Trestrail JH |year=1994 |title=Mushroom poisoning case registry. North American Mycological Association Report 1993 |journal=McIlvainea |volume=11 |issue=2 |pages=87–95}}</ref>
+
+<ref name=Tyler1963>{{cite journal |vauthors=Tyler VE, Smith AH |year=1963 |title=Chromatographic detection of ''Amanita'' toxins in ''Galerina venenata'' |jstor=3756526 |journal=Mycologia |volume=55 |issue= 3|pages=358–9 |doi=10.2307/3756526}}</ref>
+
+<ref name=Tyler1963b>{{cite journal |vauthors=Tyler VE, Malone MH, Brady LR, Khanna JM, Benedict RG |year=1963 |title=Chromatographic and pharmacologic evaluation of some toxic ''Galerina'' species |journal=Lloydia |volume=26 |issue=3 |pages=154–7}}</ref>
+
+<ref name="urlCalifornia Fungi">{{cite web |url=http://www.mykoweb.com/CAF/species/Galerina_autumnalis.html |title=''Galerina autumnalis'' |vauthors=Wood M, Stevens F |publisher=MykoWeb |work=California Fungi |access-date=2010-03-01}}</ref>
+
+<ref name="url MushroomExpert.Com">{{cite web |url=http://www.mushroomexpert.com/galerina_marginata.html |title=''Galerina marginata'' ("''Galerina autumnalis''") |work=MushroomExpert.Com |author=Kuo M |date=August 2004 |access-date=2010-03-01}}</ref>
+
+<ref name="url Tom Volk 2003">{{cite web |url=http://botit.botany.wisc.edu/toms_fungi/may2003.html |title=''Galerina autumnalis'', the deadly Galerina |year=2003 |author=Volk T. |publisher=Department of Biology, University of Wisconsin-La Crosse |work=Tom Volk's Fungus of the Month |access-date=2010-03-01}}</ref>
+
+<ref name=Vahl1792>{{cite book |author=Vahl M. |year=1792 |title=Flora Danica |volume=6 |page=7|title-link=Flora Danica }}</ref>
+
+<ref name=Vargas1993>{{cite journal |author=Vargas O. |year=1993 |title=Observations on some little known macrofungi from Jalisco (Mexico) |journal=Mycotaxon |volume=49 |pages=437–47 |url=http://www.cybertruffle.org.uk/cyberliber/59575/0049/0437.htm}}</ref>
+
+<ref name=Wieland1986>{{cite book |author=Wieland T. |title=Peptides of Poisonous ''Amanita'' Mushrooms |publisher=Springer-Verlag |location=Berlin, Germany |year=1986 |isbn=0-387-16641-6}}</ref>
+
+}}
+
+===Cited books===
+*{{cite book |title=Mushrooms of Colorado and the Southern Rocky Mountains |author=Evenson VS |year=1997 |publisher=Westcliffe Publishers |isbn=978-1-56579-192-3 |pages=25–6}}
+*{{cite book |title=A Monograph of the Genus ''Galerina'' |vauthors=Smith AH, Singer R |year=1964 |publisher=Hafner Publishing Co |location=New York, New York |url=http://name.umdl.umich.edu/AGK0805.0001.001}}
+
+==External links==
+* {{Commons category-inline|Galerina marginata}}
+
+{{Featured article}}
+{{Taxonbar|from=Q248829}}
+
+[[Category:Hymenogastraceae]]
+[[Category:Deadly fungi]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Australia]]
+[[Category:Fungi of North America]]
+[[Category:Fungi described in 1789]]
+[[Category:Taxa named by August Batsch]]
+[[Category:Fungi of Europe]]
+[[Category:Fungus species]]

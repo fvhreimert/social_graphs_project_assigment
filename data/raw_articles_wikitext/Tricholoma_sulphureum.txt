@@ -1,0 +1,58 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image =Tricholoma sulphureum 031123w.jpg
+| image_caption = ''Tricholoma sulphureum''<br />in woodland, France
+| taxon = Tricholoma sulphureum
+| authority = ([[Jean Baptiste François Pierre Bulliard|Bull.]] ex [[Elias Magnus Fries|Fr.]]) [[P.Kumm.]] (1871)
+}}
+{{Mycomorphbox
+| name = ''Tricholoma sulphureum''
+| hymeniumType = gills
+| capShape = convex
+| whichGills = adnexed
+| stipeCharacter = bare
+| sporePrintColor = white
+| ecologicalType = mycorrhizal
+| howEdible = poisonous
+}}
+
+'''''Tricholoma sulphureum''''', also known as the '''stinker''',<ref name=Arora1986>{{Cite book |last=Arora |first=David |author-link=David Arora |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/179/mode/2up |date=1986 |publisher=[[Ten Speed Press]] |isbn=978-0-89815-170-1 |location=Berkeley, CA |orig-date=1979 |edition=2nd |pages=179}}</ref> '''sulphur knight''' or '''gas agaric''', is a species of fungus. The mushroom has a distinctive bright yellow colour and an unusual smell likened to coal gas. It occurs in deciduous woodlands in Europe from spring to autumn. It is inedible or mildly poisonous.
+
+==Taxonomy==
+''Tricholoma sulphureum'' was first [[species description|described]] in 1784 by the French botanist [[Jean Baptiste François Pierre Bulliard|Pierre Bulliard]] and given the name ''Agaricus sulphureus'', before being placed in the genus ''[[Tricholoma]]'' by German mycologist [[Paul Kummer]] in 1871. The specific epithet ''sulfǔrěus'' derived from the [[Latin]] 'of or pertaining to [[sulfur]]'.<ref>{{cite book|author = Simpson DP| title = Cassell's Latin Dictionary  | publisher = Cassell Ltd.| year = 1979|edition = 5th|location = London| isbn=0-304-52257-0|page = 883}}</ref> It belongs to a complex of similar foul-smelling species such as the very similar ''[[Tricholoma inamoenum|T.&nbsp;inamoenum]]''.<ref name=":0">{{cite book|last1=Trudell|first1=Steve|url=https://books.google.com/books?id=WevHvt6Tr8kC|title=Mushrooms of the Pacific Northwest|last2=Ammirati|first2=Joe|publisher=Timber Press|year=2009|isbn=978-0-88192-935-5|series=Timber Press Field Guides|location=Portland, OR|pages=103–104}}</ref> Another related species, ''T.&nbsp;bufonium'', may be an [[intraspecific]] variant.
+
+==Description==
+The mushroom is sulphur yellow in colour. It has a convex [[pileus (mycology)|cap]], sometimes brownish near the center with a vague [[umbo (mycology)|umbo]] up to {{convert|8|cm|0|abbr=on}} across.<ref name=Arora1986/> The [[lamella (mycology)|gills]] are adnexed or notched, thick and spaced. The stem is up to 10&nbsp;cmlong. The [[spore print]] is white.<ref name=Arora1986/> The [[trama (mycology)|flesh]] is thin and has a poor odour.<ref name=Arora1986/>
+
+The smell, caused by the chemical [[skatole]], is enough to distinguish it from other yellow fungi. [[John Ramsbottom (mycologist)|John Ramsbottom]] reports that it has a complex smell that has been likened variously to [[Jasmine]], ''[[Narcissus (genus)|Narcissus]]'', [[Hyacinth (plant)|Hyacinth]], ''[[Hemerocallis flava]]'', [[Lilac]], ''[[Tagetes]]'', decayed [[hemp]] or [[coal gas]], as well as described as nauseating or foetid.<ref>*{{cite book | author = Ramsbottom J | year = 1953 | title = Mushrooms & Toadstools | publisher = Collins | id = ISBN }}</ref> The taste is bitter.
+
+===Similar species===
+It could be confused with the darker ''[[Tricholoma equestre|T.&nbsp;equestre]]'', which has a sticky cap, white flesh, thin crowded gills, and a mealy smell.<ref name=Haas69/>
+
+==Distribution and habitat==
+''Tricholoma sulphureum'' is found in [[deciduous]] woods, particularly [[beech]], and can occur anytime from spring until autumn.<ref name=Haas69>{{cite book | author = Haas H | year = 1969 | title = The Young Specialist looks at Fungi| publisher = Burke | isbn = 0-222-79409-7 |page=148}}</ref> It is found across Europe and has been confirmed as far east as China.<ref>{{cite journal|vauthors=Deng H, Yao YJ |year=2005 |title=Revision of three species of ''Tricholoma'' reported from China|journal=Mycotaxon|volume=92|pages=77–84 |issn=0093-4666}}</ref> It is also distributed in North America,<ref>{{citation|vauthors=Bessette AE, Bessette AR, Roody WC, Trudell SA |year=2012 |title=Tricholomas of North America}}</ref> where it grows also with [[conifer]]s. It is commonly known as the "Stinker" or "Sulfur Trich". In Turkey, it is considered [[critically endangered]].<ref name="Çinar 2014"/>
+
+==Toxicity==
+The fungus is usually classified as inedible and is suspected of being [[Mushroom poisoning|poisonous]].<ref name=Arora1986/> Reported symptoms are mostly gastrointestinal, some neurological.<ref>{{cite journal |vauthors=Veselský J, Dvorák J |year=1981|title=Über den Verlauf einer Vergiftung durch den Schwefelgelben Ritterling - ''Tricholoma sulphureum'' (Bull. ex Fr.) Kumm. |journal=Cĕská Mykologie |volume=35 |pages=114–15|language=de}}</ref>
+
+==See also==
+*[[List of North American Tricholoma|List of North American ''Tricholoma'']]
+*[[List of Tricholoma species|List of ''Tricholoma'' species]]
+
+==References==
+{{Commons|Tricholoma sulphureum}}
+{{Reflist|refs=
+
+<ref name="Çinar 2014">{{cite journal |vauthors=Çinar H, Sermenli HB, Işiloğlu M |title=Some critically endangered species From Turkey |journal=Fungal Conservation |year=2014 |issue=4 |pages=26–28 |url=http://www.fungal-conservation.org/newsletter/issue_4_2014_02_28_low_resolution.pdf}}</ref>
+
+}}
+
+{{Taxonbar|from=Q583388}}
+
+[[Category:Tricholoma|sulphureum]]
+[[Category:Poisonous fungi]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Fungi of Western Asia]]
+[[Category:Fungi described in 1784]]
+[[Category:Fungus species]]

@@ -1,0 +1,40 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image =
+| image_caption =
+| taxon = Gymnopilus flavifolius
+| authority = [[William Alphonso Murrill|Murrill]]
+| synonyms =
+}}
+{{mycomorphbox
+| name = Gymnopilus flavifolius
+| whichGills = adnexed
+| whichGills2 = adnate
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=
+| ecologicalType=saprotrophic
+| sporePrintColor=
+| howEdible=
+}}
+'''''Gymnopilus flavifolius''''' is a species of [[mushroom]] in the family [[Hymenogastraceae]].<ref>{{Cite journal |last=Murrill |first=William A. |date=1949 |title=Terrestrial Basidiomycete Fungi of Florida High-Pine Woods |url=https://www.jstor.org/stable/1932619 |journal=Ecology |volume=30 |issue=3 |pages=377–382 |doi=10.2307/1932619 |issn=0012-9658|url-access=subscription }}</ref>
+
+==See also==
+{{Portal|Fungi}}
+[[List of Gymnopilus species|List of ''Gymnopilus'' species]]
+
+== References ==
+{{Reflist}}
+
+==External links==
+*''[http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=286782 Gymnopilus flavifolius]'' at [[Index Fungorum]]
+
+{{Taxonbar|from=Q5624797}}
+
+{{DEFAULTSORT:Gymnopilus flavifolius}}
+[[Category:Gymnopilus|flavifolius]]
+[[Category:Taxa named by William Alphonso Murrill]]
+[[Category:Fungus species]]
+
+
+{{hymenogastraceae-stub}}

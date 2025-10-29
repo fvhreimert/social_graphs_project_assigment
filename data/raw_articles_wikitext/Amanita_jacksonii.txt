@@ -1,0 +1,63 @@
+{{Short description|Species of fungus}}
+{{stack begin}}
+{{Speciesbox
+| image = Amanita jacksonii Maine USA.jpg
+| image_caption = ''A. Jacksonii'' in Maine, USA, July 2021.
+| genus = Amanita
+| species = jacksoni
+| authority = [[René Pomerleau|Pomerl.]]
+| synonyms_ref = <ref>{{cite web|url=http://www.amanitaceae.org/?Amanita+jacksonii|title=Amanita jacksonii - Amanitaceae.org - Taxonomy and Morphology of Amanita and Limacella|website=www.amanitaceae.org|access-date=21 September 2017}}</ref>
+| synonyms = ''Amanita umbonata'' <small>Pomerl.</small><br />
+''Amanita tullossii'' <small>[[Gastón Guzmán|Guzmán]] & Ramírez-Guillén</small>
+}}
+{{Mycomorphbox
+| name = ''Amanita jacksonii''
+| whichGills = free
+| capShape = convex
+| hymeniumType=gills
+| stipeCharacter=ring and volva
+| ecologicalType=mycorrhizal
+| sporePrintColor=white
+|howEdible = choice
+|howEdible2 =caution
+}}
+{{stack end}}
+
+
+'''''Amanita jacksonii''''', also known as '''Jackson's slender amanita''',<ref name=NGSWG>{{NGSWG}}</ref> '''American Slender Caesar''', and '''Eastern Caesar's Amanita''',<ref>https://plants.ces.ncsu.edu/plants/amanita-jacksonii/ accessed Aug. 2021</ref> is a North American species of [[fungus]] in the family [[Amanitaceae]]. It is a reddish-orange colored mushroom species which can be identified by its yellow gills, large, white, sacklike [[volva (mycology)|volva]].<ref>Kuo, M. (2008, March). Amanita jacksonii. Retrieved from the MushroomExpert.Com Web site: http://www.mushroomexpert.com/amanita_jacksonii.html</ref>
+
+==Taxonomy==
+It was given its current name in 1984 by Canadian mycologist [[René Pomerleau]].<ref>{{cite journal |author=Pomerleau R. |year=1984 |title=A propos du nom scientifique de l'oronge américaine |journal=Naturaliste Canadien |language=fr |volume=111 |issue=3 |pages=329–30}}</ref>
+
+==Description==
+The [[Pileus (mycology)|cap]] of the mushroom is {{Convert|8–12|cm|abbr=off|frac=2}} wide; oval at first, becoming convex, typically with a central bump; sticky; brilliant red or orange, fading to yellow on the margin; typically without warts or patches; the margin lined for about 40–50% of the cap's radius. The red pigment fades from margin toward the center with age.<ref>http://www.eticomm.net/~ret/amanita/species/jacksoni.html {{Webarchive|url=https://web.archive.org/web/20110716104341/http://www.eticomm.net/~ret/amanita/species/jacksoni.html |date=2011-07-16 }}  By R. E. Tulloss.</ref> Gills are moderately crowded to crowded, orange-yellow to yellow-orange to yellow. They are free from the stem or slightly attached to it; yellow to orange-yellow; crowded; not bruising. The short gills are subtruncate to truncate. Its [[Stipe (mycology)|stipe]] measures {{Convert|90–140 × 9–16|mm|abbr=out|frac=4}}, is yellow and decorated with orange fibrils and patches that are the remnants of a felted extension of the limbus internus of the otherwise white volva. The [[Basidiospore|spores]] measure (7.0-) 7.8–9.8 (-12.1) × (5.2-) 5.8–7.5 (-8.7) μm and are broadly ellipsoid to ellipsoid (rarely subglobose or elongate) and inamyloid.  Clamps are common at bases of [[basidia]].<ref>http://www.amanitaceae.org/index.php?Amanita%20jacksonii Amanita jacksonii-www.amanitaceae.org</ref> The flesh looks whitish to pale yellow, and does not stain on exposure.
+
+=== Similar species ===
+''A. jacksonii'' looks similar to ''[[Amanita caesarea|A. caesarea]]'' (Caesar's mushroom), which is found in Europe and North Africa, as well as [[Mushroom poisoning|poisonous]] species of ''[[Amanita]]''.
+
+== Distribution and habitat ==
+Its range extends from the [[Province of Quebec]], [[Canada]], to at least the State of [[Hidalgo (state)|Hidalgo]], [[Mexico]].<ref>Mushroom Observer-Amanita jacksonii Pomerleau https://mushroomobserver.org/name/show_name?_js=on&_new=true&id=1067</ref> It has been observed as far south as [[Cayo District]], [[Belize]].
+
+== Uses ==
+The mushroom is considered a choice [[Edible mushroom|edible]], although it can be misidentified with toxic species such as ''[[Amanita muscaria|A. muscaria]]'' and ''[[A. phalloides]]''.<ref>{{Cite book|last1=Davis|first1=R. Michael|title=Field Guide to Mushrooms of Western North America|last2=Sommer|first2=Robert|last3=Menge|first3=John A.|publisher=[[University of California Press]]|year=2012|isbn=978-0-520-95360-4|location=Berkeley|pages=70–71|oclc=797915861}}</ref>
+
+==See also==
+*[[List of Amanita species|List of ''Amanita'' species]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IndexFungorum|124588}}
+
+{{Amanitas}}
+{{Taxonbar|from=Q1943897}}
+
+[[Category:Amanita|jacksonii]]
+[[Category:Edible fungi]]
+[[Category:Fungi of Canada]]
+[[Category:Fungi of Mexico]]
+[[Category:Fungi of the United States]]
+[[Category:Fungi described in 1984]]
+[[Category:Fungi without expected TNC conservation status]]
+[[Category:Fungus species]]

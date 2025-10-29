@@ -1,0 +1,87 @@
+{{Short description|Species of fungus}}
+{{Good article}}
+{{stack begin}}
+{{Speciesbox
+| image = Boletus rubroflammeus 96300.jpg
+| image_caption =
+| genus = Boletus
+| species = rubroflammeus
+| authority = [[A.H.Sm.]] & [[Harry D. Thiers|Thiers]] (1971)
+}}
+{{Mycomorphbox
+| name = ''Boletus rubroflammeus''
+| whichGills = adnate
+| capShape = convex
+| hymeniumType = pores
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| sporePrintColor = olive-brown
+| howEdible = poisonous
+}}
+{{stack end}}
+
+'''''Boletus rubroflammeus''''' is a species of [[bolete]] fungus in the family [[Boletaceae]]. First described from [[Michigan]] in 1971, it is found in the eastern United States and Mexico, where it grows in a [[mycorrhiza]]l association with [[hardwood]] trees. The [[basidiocarp|fruit bodies]] (mushrooms) of the fungus have [[pileus (mycology)|caps]] that are deep red to purplish red, and dark red pores. The [[stipe (mycology)|stem]] has coarse, dark red reticulations (raised, net-like ridges) and a narrow yellow area at the top. All parts of the mushroom quickly stain blue when injured or cut. Lookalikes include ''[[Boletus flammans]]'', a lighter-colored species that grows with [[conifer]]s. Other similar species can be distinguished by differences in distribution, [[morphology (biology)|morphology]], staining reaction, and microscopic characteristics. ''Boletus rubroflammeus'' mushrooms are [[poisonous mushroom|poisonous]], and can cause gastrointestinal distress if consumed.
+
+==Taxonomy==
+The species was first [[species description|described]] by American mycologists [[Alexander H. Smith]] and [[Harry D. Thiers]] in their 1978 [[monograph]] on the [[bolete]]s of [[Michigan]]. The [[type (biology)|type]] collection was made by Smith near [[Ann Arbor]],<ref name="Smith 1971"/> and is stored at the [[University of Michigan Herbarium]].<ref name="UMichHerbarium"/> The [[botanical name|specific epithet]] ''rubroflammeus'' derives from the [[Latin]] words ''ruber'' ("red") and ''flammeus'' ("flaming").<ref name="Arora 1986"/>
+
+==Description==
+
+The shape of the [[pileus (mycology)|cap]] of ''B.&nbsp;rubroflammeus'' is convex to broadly convex, and reaches a diameter of {{convert|6|–|12|cm|in|abbr=on}}. The margin of the cap extends slightly beyond the tubes. The cap surface is dry and initially appears appressed-fibrillose (with fibrils pressed down flat against the surface) or has a matted grayish [[Trichome#Plant trichomes|tomentum]], but later the hairs slough off and the matted tomentum is present only along the cap margin. In maturity, the center of the caps develop slight cracks. The cap is a deep [[wine (color)|vinaceous]]-red color that remains constant throughout the life of the fruit bodies. The [[trama (mycology)|flesh]] is thick, soft, and yellow. Its taste is mild, and it has no distinct odor. On the underside of the cap, the spore-bearing surface comprises vertically arranged minute tubes with pore-like openings. The tubes are yellow, {{convert|1|–|2|cm|in|1|abbr=on}} deep, initially [[adnation|adnate]] (fused) to the [[stipe (mycology)|stem]], but later becoming free from attachment (or nearly so). Individual pores are round and small (about 2 per mm), while the overall pore surface is uneven or pitted. Its color is initially deep red, but fades slightly in maturity; the pore surface quickly turns blue with injury. The stem is {{convert|6|–|8|cm|in|abbr=on}} long, {{convert|1|–|2|cm|in|1|abbr=on}} thick, solid (i.e., not hollow), and equal in width throughout to club-shaped. Inside, it is yellowish with reddish streaks. Most of the stem surface is covered with coarse dark red reticulations, although near the top the color is yellow beneath the reticulations. All parts of the mushroom will quickly stain blue when cut, bruised, or otherwise injured.<ref name="Smith 1971"/> The mushroom is [[poisonous mushroom|poisonous]], and if consumed can cause gastrointestinal distress; typical symptoms include cramping, nausea, bloating, vomiting, and diarrhea.<ref name="Bessett 2000"/>
+
+''Boletus rubroflammeus'' produces an olive-brown [[spore print]].<ref name="Bessett 2000"/> The [[spore]]s are smooth, roughly oblong to slightly [[wikt:ventricose|ventricose]] (swollen) in face view, in profile view inequilateral, and have dimensions of 10–14 by 4–5&nbsp;[[micrometre|μm]]. Spores have a broad and shallow [[hilum (biology)|suprahilar]] depression (a depressed area on the dorsal side of the spore that was once attached to the [[sterigma]]). They are yellowish [[hyaline]] (translucent) in [[Melzer's reagent]], and pale yellow-orange when mounted in a solution of [[potassium hydroxide]] (KOH). The [[basidia]] (spore-bearing cells) are club-shaped with a long pedicel (stalk), four-spored, and measure 30–40 by 8–9&nbsp;μm. Pleurocystidia ([[cystidia]] on the tube faces) are rare to scattered, 28–37 by 9–15&nbsp;μm, fusoid (somewhat spindle-shaped) to ventricose, and have a somewhat sharp tip. Cheilocystidia (cystidia on gill edges) are abundant, 18–35 by 5–9&nbsp;μm, and roughly similar in shape to the pleurocystidia. When mounted in KOH, the cheilocystidia have a dingy orange-yellow color, and walls that are smooth and thin. The tissue of the tubes is bilateral, meaning that they have a central strand of roughly parallel [[hypha]]e from which other hyphae diverge. The central strand comprises interwoven hyphae that are [[wikt:floccose|floccose]] and orange-yellow  in KOH; the diverging hyphae continue into the [[hymenium]] to form a subhymenium that contain smooth hyphae measuring 4–6&nbsp;μm wide. The cap has a [[cap cuticle|cuticle]] consisting of tightly interwoven pressed-down hyphae that are usually 3–5&nbsp;μm wide. The hyphae in the epicuticular zone (a waxy layer on the surface of the cuticle) often have fine [[granule (cell biology)|granular]] incrustations that can be seen in both KOH and Melzer's reagent. [[Clamp connection]]s are absent from the hyphae of ''B.&nbsp;rubroflammeus''.<ref name="Smith 1971"/>
+
+===Similar species===
+{{multiple image
+| header = Lookalikes
+| align = right
+| image1 = Boletus_rhodoxanthus.JPG
+| width1 = {{#expr: (150 * 1600 / 1200) round 0}}
+| caption1 = ''Boletus rhodoxanthus''
+| image2 = Boletus flammans 135083.jpg
+| width2 = {{#expr: (150 * 2147 / 1582) round 0}}
+| caption2 = ''Boletus flammans''
+}}
+Distinctive field characteristics used to distinguish ''Boletus rubroflammeus'' from similar boletes include the deep purple-red cap and the reticulated stem.<ref name="Smith 1971"/> ''[[Boletus flammans|B.&nbsp;flammans]]'' is similar in appearance, but has a more variable cap color, ranging from dark red to brick-red or reddish-brown, a yellow stem base and less prominently reticulate stem, and it grows under conifers. ''[[Rubroboletus rhodosanguineus]]'' is also very similar but has more variable cap color with brown to olive tones and its cut flesh has an odor of overripe fruit that intensifies when dry.<ref name="Bessett 2000"/> The European species ''[[Rubroboletus rhodoxanthus|R.&nbsp;rhodoxanthus]]'' has a paler overall color.<ref name="Smith 1971"/> Another European species, ''[[Boletus permagnificus|B.&nbsp;permagnificus]]'', has larger spores (13–16 by 5–6.5&nbsp;μm), weakly [[decurrent]] pores, and only associates with [[oak]] trees.<ref name="Pöder 1981"/>
+
+In addition to its geographic location, the Colombian species ''[[Boletus pyrrhosceles|B.&nbsp;pyrrhosceles]]'' can be distinguished from ''B.&nbsp;rubroflammeus'' by its reddish-brown cap (fading to brownish orange in maturity), a brownish-red to deep red stem that is reticulated only at the top, and shallower tubes—up to {{convert|5|mm|in|1|abbr=on}}.<ref name="Halling 1992"/> ''[[Boletus rhodocarpus|B.&nbsp;rhodocarpus]]'', known only from Japan where it grows in [[deciduous forest]]s, differs primarily in having brownish scales on the cap.<ref name="Takahashi 2001"/>
+
+==Habitat and distribution==
+''Boletus rubroflammeus'' is a [[mycorrhiza]]l species, and its fruit bodies grow scattered or in groups on the ground under [[hardwood]] trees. The fungus fruits in summer and autumn months, and tends to appear after hot weather and heavy rains.<ref name="Smith 1971"/> Known only from North America, its [[species distribution|range]] extends from [[New England]] south to [[Tennessee]], and west to [[Michigan]].<ref name="Bessett 2000"/> It has also been recorded from Mexico.<ref name="Jiménez 2001"/>
+
+==See also==
+*[[List of North American boletes]]
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+<ref name="Arora 1986">{{cite book |author=Arora D. |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=Ten Speed Press |location=Berkeley, California |year=1986 |pages=[https://archive.org/details/mushroomsdemysti00aror_0/page/906 906, 910] |isbn=0-89815-169-4 |url-access=registration |url=https://archive.org/details/mushroomsdemysti00aror_0/page/906 }}</ref>
+
+<ref name="Bessett 2000">{{cite book |vauthors=Bessette AR, Bessette A, Roody WC |title=North American Boletes: A Color Guide to the Fleshy Pored Mushrooms |publisher=Syracuse University Press |location=Syracuse |year=2000 |page=154 |isbn=0-8156-0588-9 }}</ref>
+
+<ref name="Halling 1992">{{cite journal |author=Halling RE. |title=A new species of ''Luridi'' from Colombia |journal=Brittonia |year=1992 |volume=44 |issue=3 |pages=322–5 |jstor=2806931 | doi = 10.2307/2806931 |s2cid=39688067 }}</ref>
+
+<ref name="Jiménez 2001">{{cite journal |vauthors=Jiménez JG, Ocañas FG |title=Conocimiento de los hongos de la familia Boletaceae de México |trans-title=Knowledge of the fungi family Boletaceae of Mexico |journal=Ciencia UANL |year=2001 |volume=4 |issue=3 |pages=336–44 |language=es |url=http://eprints.uanl.mx/411/1/conocim_hongos.pdf |issn=1405-9177 }}{{dead link|date=July 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+<ref name="Pöder 1981">{{cite journal |author=Pöder R. |year=1981 |title=''Boletus permagnificus'' spec. nov. – ein auffallender Röhrling der Sektion ''Luridi'' Fr. assoziiert mit Eichen |trans-title=''Boletus permagnificus'' new species – a striking bolete of the section ''Luridi'' associated with oak |journal=Sydowia |volume=34 |pages=149–56 |issn=0082-0598 |language=de |url=http://www.landesmuseum.at/pdf_frei_remote/Sydowia_34_0149-0156.pdf }}</ref>
+
+<ref name="Smith 1971">{{cite book |vauthors=Smith AH, Thiers HD |year=1971 |title=The Boletes of Michigan |location=Ann Arbor, Michigan |publisher=University of Michigan Press |page=344 |url=http://quod.lib.umich.edu/f/fung1tc/agk0838.0001.001/352?view=image&size=200}}</ref>
+
+<ref name="Takahashi 2001">{{cite journal |author=Takahashi H. |title=Notes on new Agaricales of Japan 2 |journal=Mycoscience |year=2001 |volume=42 |issue=4 |pages=347–53 |doi=10.1007/BF02461217|s2cid=195242689 |doi-access=free }}</ref>
+
+<ref name="UMichHerbarium">{{cite web |title=Fungus Image Database: ''Boletus rubroflammeus'' |url=http://quod.lib.umich.edu/f/fung2ic/x-agk0838.0001.001.p354.tif/p354 |publisher=University of Michigan |access-date=2012-09-19}}</ref>
+
+}}
+
+==External links==
+*{{IndexFungorum|309808}}
+
+{{Taxonbar|from=Q4035285}}
+
+[[Category:Boletus|rubroflammeus]]
+[[Category:Fungi described in 1971]]
+[[Category:Fungi of North America]]
+[[Category:Poisonous fungi]]
+[[Category:Fungus species]]
+[[Category:Taxa named by Alexander H. Smith]]
+[[Category:Taxa named by Harry Delbert Thiers]]

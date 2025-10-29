@@ -1,0 +1,22 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Lepista nuda 041022.jpg
+| genus = Lepista
+| species = glaucocana
+| authority = (Bres.) Singer
+}}
+
+'''''Lepista glaucocana''''' is a species of [[fungus]] belonging to the family [[Tricholomataceae]].<ref name="GBIF">{{cite web |title=Lepista glaucocana (Bres.) Singer |url=https://www.gbif.org/species/5242033 |website=www.gbif.org |access-date=7 February 2021 |language=en}}</ref>
+
+It is native to Europe and Northern America.<ref name="GBIF" />
+
+==References==
+{{Reflist}}
+
+{{Taxonbar|from=Q3830742}}
+
+[[Category:Lepista|glaucocana]]
+[[Category:Fungus species]]
+
+
+{{tricholomataceae-stub}}

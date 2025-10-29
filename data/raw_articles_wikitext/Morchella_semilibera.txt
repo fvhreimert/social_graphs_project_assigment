@@ -1,0 +1,77 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Mitrophora semilibera.jpg
+| image_caption = ''Morchella semilibera''
+| genus = Morchella
+| species = semilibera
+| authority = [[Augustin Pyramus de Candolle|DC.]] (1805)
+| synonyms = ''Mitrophora semilibera'' <small>(DC.) Lév (1846)</small><br>
+''Morchella patula'' var. ''semilibera'' <small>(DC.) [[S.Imai]] (1954)</small>
+}}
+{{mycomorphbox
+| name = ''Morchella semilibera''
+| whichGills = no
+| capShape = conical
+| capShape2 = ovate
+| hymeniumType = smooth
+| stipeCharacter = bare
+| ecologicalType = mycorrhizal
+| ecologicalType2 = saprotrophic
+| sporePrintColor = cream
+| sporePrintColor2 = yellow
+| howEdible       = choice
+| howEdible2      = allergenic
+}}
+
+'''''Morchella semilibera''''', commonly called the '''half-free morel''',<ref name="Arora1986">{{Cite book |last=Arora |first=David |author-link=David Arora |url=https://archive.org/details/arora-david-mushrooms-demystified-a-comprehensive-guide-to-the-fleshy-fungi-ten-speed-press-1986/page/791/mode/2up |title=Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi |publisher=[[Ten Speed Press]] |year=1986 |isbn=978-0-89815-170-1 |edition=2nd |location=Berkeley, California |pages=791-92 |orig-date=1979}}</ref> is a species of [[fungus]] in the family [[Morchellaceae]]. It is native to Eurasia and is [[Edible mushroom|edible]].
+
+== Taxonomy ==
+[[Molecular phylogenetics|DNA analysis]] has shown that the half-free morels, which appear nearly identical on a [[macroscopic scale]], are a [[cryptic species complex]], consisting of at least three [[allopatric speciation|geographically isolated]] species.<ref name=odon11/>  Because [[Augustin Pyramus de Candolle|de Candolle]] originally described the species based on specimens from Europe, the [[binomial nomenclature|scientific name]] ''M.&nbsp;semilibera'' should be restricted to the European species.<ref name=mexp/>  In 2012, ''[[Morchella populiphila]]'' was described from western North America, while [[Charles Horton Peck|Peck]]'s 1903 species name ''[[Morchella punctipes]]'' was reaffirmed for eastern North American half-free morels.<ref name=Kuo2012/>  ''M.&nbsp;semilibera'' and the other half-free morels are closely related to the black morels (''[[Morchella elata|M.&nbsp;elata]]'' and others).<ref name=odon11/>
+
+A proposal has been made to [[conserved name|conserve]] the name ''Morchella semilibera'' against several earlier [[synonym (biology)|synonyms]], including ''Phallus crassipes'', ''P.&nbsp;gigas'' and ''P.&nbsp;undosus''. These names, [[sanctioned name|sanctioned]] by [[Elias Magnus Fries]], have since been shown to be the same species as ''M.&nbsp;semilibera''.<ref name="Moreau 2014"/>
+
+==Description==
+The cap grows up to {{Convert|5|cm|frac=4}} tall and wide, round at first and then conical. The ridges are vertical and slightly darker than the pits, blackish when dry.<ref name="Arora1986" /> The underside is whitish and the flesh thin. The buff stalk is up to 10&nbsp;cm long and 2.5&nbsp;cm thick.<ref name="Arora1986" />
+
+The spores are elliptical and smooth.<ref name="Arora1986" />
+
+In age, when the head is smaller compared to the stalk, it can resemble ''[[Verpa]]'' species.<ref name="Arora1986" />
+
+==Distribution and habitat==
+The species is native to Europe and Asia.<ref name="mexp" /><ref name="pnwkc" /><ref name="Kuo2012" /> It grows individually or in groups in wooded areas.<ref name="Arora1986" />
+
+==Uses==
+The species is [[Edible mushroom|edible]],<ref>{{cite book |last=Phillips |first=Roger |title=Mushrooms and Other Fungi of North America |publisher=Firefly Books |year=2010 |isbn=978-1-55407-651-2 |location=Buffalo, NY |page=364}}</ref> but is fragile and not very flavorful.<ref name="Arora1986" />
+
+==References==
+{{Reflist|refs=
+
+<ref name=mexp>{{cite web |url=http://www.mushroomexpert.com/morchella_half-free.html| title=Half-free morels (''Morchella'' species)| publisher=MushroomExpert.com |author=Kuo M. |date=April 2006 |accessdate=2011-04-18}}</ref>
+
+<ref name=pnwkc>{{cite web| title=Morels & False Morels of the Pacific Northwest: An Introduction| first=Ian| last=Gibson| publisher=Pacific Northwest Key Council| year=2009| url=http://www.svims.ca/council/Morels.htm| accessdate=2011-04-18}}</ref>
+
+<ref name=odon11>{{cite journal| journal=Fungal Genetics and Biology| date=Mar 2011| volume=48| number=3| pages=252–265| title=Phylogeny and historical biogeography of true morels (''Morchella'') reveals an early Cretaceous origin and high continental endemism and provincialism in the Holarctic| vauthors=O'Donnell K, Rooney AP, Mills GL, Kuo M, Weber NS, Rehner SA| pmid=20888422| doi=10.1016/j.fgb.2010.09.006| url=https://naldc-legacy.nal.usda.gov/naldc/download.xhtml?id=49542&content=PDF| access-date=2018-12-29| archive-date=2021-01-31| archive-url=https://web.archive.org/web/20210131051423/https://naldc-legacy.nal.usda.gov/naldc/download.xhtml?id=49542&content=PDF| url-status=dead| url-access=subscription}}</ref>
+
+<ref name=Kuo2012>{{cite journal |vauthors=Kuo M, Dewsbury DR, O'Donnell K, Carter MC, Rehner SA, Moore JD, Moncalvo JM, Canfield SA, Stephenson SL, Methven AS, Volk TJ |title=Taxonomic revision of true morels (''Morchella'') in Canada and the United States |journal=Mycologia |date=11 April 2012 |doi=10.3852/11-375 |pmid=22495449 |volume=104 |issue=5 |pages=1159–77|s2cid=45219627 |url=http://thekeep.eiu.edu/cgi/viewcontent.cgi?article=1192&context=bio_fac |url-access=subscription }}</ref>
+
+<ref name="Moreau 2014">{{cite journal |vauthors=Moreau PA, Bellanger JM, Clowez P, Courtecuisse R, Hansen K, Knudsen H, O'Donnell K, Richard F |title=Proposal to conserve the name ''Morchella semilibera'' against ''Phallus crassipes'', ''P. gigas'' and ''P. undosus'' |journal=Taxon |year=2014 |volume=63 |issue=3 |pages=677–8 |doi=10.12705/633.20 |url=http://ascofrance.com/uploads/forum_file/Moreau-et-al-2014-proposal-Morchella-semilibera-Taxon-677-678-0001.pdf }}</ref>
+
+}}
+
+==External links==
+*{{Commons category-inline|italic=on}}
+*{{IndexFungorum|163198}}
+*{{Mycobank|163198}}
+{{Morchellaceae}}
+{{Taxonbar|from=Q1795398}}
+
+[[Category:Morchella|semilibera]]
+[[Category:Edible fungi]]
+[[Category:Fungi described in 1805]]
+[[Category:Fungi of Asia]]
+[[Category:Fungi of Europe]]
+[[Category:Taxa named by Augustin Pyramus de Candolle]]
+[[Category:Fungus species]]
+
+
+{{Pezizomycetes-stub}}

@@ -1,0 +1,57 @@
+{{Speciesbox 
+| image = Cystolepiota bucknallii 396866.jpg
+| genus = Cystolepiota
+| species = bucknallii
+| authority = ([[Miles Joseph Berkeley|Berk.]] & [[Christopher Edmund Broome|Broome]]) [[Rolf Singer|Singer]] & [[Heinz Clémençon|Clémençon]] (1972)
+| synonyms_ref = <ref name="urlFungorum synonymy: Cystolepiota bucknallii"/>
+| synonyms = *''Agaricus bucknallii'' Berk. & Broome (1881)
+*''Lepiota bucknallii'' <small>(Berk. & Broome) [[Sacc.]] (1887) </small>
+*''Lepiota seminuda'' var. ''lilacina'' <small>[[Quél.]] (1877)</small>
+*''Lepiota lilacina'' <small>([[Quél.]]) Mussat (1900)</small> 
+*''Cystoderma bucknallii'' <small>(Berk. & Broome) Singer (1939)</small>
+*''Cystolepiota bucknallii'' var. ''lilacina'' <small>(Quél.) [[Marcel Bon|Bon]] (1993)</small> 
+}}
+{{mycomorphbox
+| name = ''Cystolepiota bucknallii''
+| whichGills = free
+| capShape = convex
+| hymeniumType = gills
+| stipeCharacter = bare
+| ecologicalType = saprotrophic
+| sporePrintColor = white
+| howEdible = inedible
+}}
+
+'''''Cystolepiota bucknallii''''' is a species of [[Basidiomycota|basidiomycete]] [[fungus]] of the genus ''[[Cystolepiota]]''. Found throughout Europe, it is a rare fungus occurring in deciduous forests. The small fruit bodies bear a distinctive smell of [[coal gas]] and appear in autumn on damp ground. It is not an [[edible mushroom]].
+
+==Description==
+The [[Basidiocarp|fruit body]] of ''Cystolepiota bucknallii'' is a relatively small, thin-fleshed [[agaric]]. The [[Pileus (mycology)|cap]] is at first hemispherical and becomes convex with maturity. It bears a broad central [[wikt:umbonate|umbo]] and reaches 5&nbsp;cm in diameter. The [[cap cuticle]] is white with a lilac or violet tinge. The [[Lamella (mycology)|gills]] are crowded and not attached to the stipe. Their colour is cream to pale yellow. The [[stipe (mycology)|stipe]] is comparatively long (up to 6&nbsp;cm), slender and bare, tinged lilac or violet except for the uppermost section where it is pallid. Both cap and stipe are covered with a mealy powder which is easily rubbed off. All parts are fragile. The [[trama (mycology)|flesh]] is white, thin and does not bear a distinctive taste.<ref name=rogersmushrooms>{{cite web | title=''Cystolepiota bucknallii'' at Rogers Mushrooms | publisher=Rogers Plants Ltd | url=http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6294~gid~.asp | access-date=December 13, 2009 | archive-url=https://web.archive.org/web/20080708205312/http://www.rogersmushrooms.com/gallery/DisplayBlock~bid~6294~gid~.asp | archive-date=July 8, 2008 | url-status=dead }}</ref><ref name=Jordan>{{cite book |author=Jordan M. |title=The Encyclopedia of Fungi of Britain and Europe |publisher=David & Charles |location=London |year=1995 |page=215 |isbn=0-7153-0129-2}}</ref>
+
+The [[Spore print|spore mass]] is white. With the aid of a light microscope, the [[basidiospore|spores]] are seen ellipsoid, smooth and colourless. When [[Melzer's reagent]] is applied, the spore walls barely stain; hence, the spores are weakly [[dextrinoid]]. Their dimensions are 7.5–10&nbsp;[[micrometre|μm]] by 1–3.5&nbsp;μm.<ref name=rogersmushrooms/><ref name=Jordan/>
+
+''Cystolepiota bucknallii'' has a characteristically pungent odour, reminiscent of [[coal gas]] or [[sulphur]]. [[Indole]] is present in this as well as in other similar-scented fungi: ''[[Tricholoma inamoenum]]'', ''[[Tricholoma lascivum]]'', ''[[Tricholoma sulphureum]]'' and others.<ref name="phylotaxo">{{cite journal |doi=10.2307/3762008 |author1=Wood W. |author2=Smith J. |author3=Wayman K. |author4=Largent D. |year=2003 |title=Indole and 3-chloroindole: The source of the disagreeable odor of ''Hygrophorus paupertinus'' |jstor=3762008|journal=Mycologia|volume=95 |issue=5 |pages=807–08|pmid=21148987 }}</ref>
+
+While its edibility is not known, there exists speculation about possible toxicity.<ref name=rogersmushrooms/><ref name=Jordan/>
+
+==Habitat==
+''C. bucknallii'' has been recorded in various countries in central and northern Europe including France, [[Belgium]], Switzerland, Austria, Germany, Denmark, Norway, Sweden and Russia.<ref>{{cite web| url = http://data.gbif.org/species/14373174 | title = ''Cystolepiota bucknallii'' - GBIF Portal| access-date = 2 February 2010| publisher = GBIF }}</ref> It is a terrestrial [[decomposer]] which occurs in [[deciduous forest]]s with moist, [[calcareous]] soils rich in nutrients and especially [[nitrogen]]. Fruit bodies appear in autumn.<ref name=Jordan/> Moreover, ''C. bucknallii'' is an uncommon or rare fungus whose populations are found in [[Community (ecology)|communities]] harbouring a diversity of other rare species. A population may serve as an indicator for rich, [[Habitat conservation|conservable]] [[biotope]]s.<ref>{{cite web |title=Factsheet: ''Cystolepiota bucknallii'' – violettfotad puderskivling |language=Swedish |publisher=ArtDatabanken |url=http://www.artfakta.se/artfaktablad/Cystolepiota_Bucknallii_506.pdf }}</ref>
+
+==References==
+{{Reflist|refs=
+
+<ref name="urlFungorum synonymy: Cystolepiota bucknallii">{{cite web |title=GSD Species Synonymy:''Cystolepiota bucknallii'' (Berk. & Broome) Singer & Clémençon |publisher=Species Fungorum. CAB International | url=http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=312540 |access-date=2014-11-16}}</ref>
+
+}}
+
+==External links==
+{{IndexFungorum|312540}}
+*[http://www.bioimages.org.uk/html/r42782.htm Images of ''C. bucknallii'' at BioImages (UK)]
+
+{{Taxonbar|from=Q5201276}}
+
+[[Category:Agaricaceae]]
+[[Category:Fungi described in 1881]]
+[[Category:Fungi of Europe]]
+[[Category:Inedible fungi]]
+[[Category:Taxa named by Miles Joseph Berkeley]]
+[[Category:Fungus species]]

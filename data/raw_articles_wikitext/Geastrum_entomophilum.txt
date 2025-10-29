@@ -1,0 +1,36 @@
+{{Speciesbox
+| image = 
+| image_caption =
+| genus = Geastrum
+| species = entomophilum
+| authority = Fazolino, Calonge & Baseia (2008)
+| synonyms = 
+}}
+{{mycomorphbox 
+| name = ''Geastrum entomophilum''
+| capShape = no 
+| hymeniumType = gleba 
+| ecologicalType = saprotrophic 
+| sporePrintColor = brown 
+| howEdible = inedible 
+}}
+
+'''''Geastrum entomophilum''''' is an inedible species of [[mushroom]] belonging to the genus ''[[Geastrum]]'', or earthstar fungi. Found in northeast Brazil in 2008, the species was found with beetles inhabiting the spore sac, likely contributing to spore dissemination.<ref name="Fazolino 2008"/>
+
+==References==
+{{Reflist|refs=
+
+<ref name="Fazolino 2008">{{cite journal |vauthors=Fazolino EP, Calonge FD, Baseia IG |year=2008 |title=''Geastrum entomophilum'', a new earthstar with an unusual spore dispersal strategy |journal=Mycotaxon |volume=104 |pages=449–453}}</ref>
+
+}}
+
+{{Taxonbar|from=Q5529517}}
+
+[[Category:Fungi described in 2008]]
+[[Category:Fungi of Brazil]]
+[[Category:Geastrum|entomophilum]]
+[[Category:Inedible fungi]]
+[[Category:Fungus species]]
+
+
+{{Geastrales-stub}}

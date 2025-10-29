@@ -1,0 +1,30 @@
+{{Short description|Species of fungus}}
+{{Speciesbox
+| image = Ellipsoid_hedgehog_iNaturalist.jpg
+| genus = Hydnum
+| species = ellipsosporum
+| image_caption = Hydnum ellipsosporum
+| authority = Ostrow & Beenken, 2004
+}}
+
+'''''Hydnum ellipsosporum''''' is a species of fungus in the family [[Hydnaceae]] that was described from Germany in 2004. It differs from ''[[Hydnum repandum|H.&nbsp;repandum]]'' by the shape and length of its spores, which are [[ellipsoid]] and measure 9–11 by 6–7.5&nbsp;μm. Compared to ''H.&nbsp;repandum'', it has smaller fruit bodies, with cap diameters ranging from {{convert|3|to|5|cm|in|abbr=on}} wide.<ref name="Ostrow 2004"/>
+
+== References ==
+{{Reflist|refs=
+
+<ref name="Ostrow 2004">{{cite journal |author=Ostrow H, Beenkin L. |title=''Hydnum ellipsosporum'' spec. nov. (Basidiomycetes, Cantharellales) – ein Doppelganger von ''Hydnum rufescens'' Fr. |trans-title=''Hydnum ellipsosporum'' spec. nov (Basidiomycetes, Cantharellales) – a double of ''Hydnum rufescens'' Fr. |journal=Zeitschrift für Mykologie |year=2004 |volume=70 |issue=2 |pages=137–56 |url=http://www.dgfm-ev.de/sites/default/files/ZM702137Ostrow.pdf |language=German |access-date=2015-10-07 |archive-date=2016-07-01 |archive-url=https://web.archive.org/web/20160701205035/http://www.dgfm-ev.de/sites/default/files/ZM702137Ostrow.pdf |url-status=dead }}</ref>
+
+}}
+
+== External links ==
+* {{IndexFungorum|367367}}
+
+{{Taxonbar|from=Q10528024}}
+
+[[Category:Fungi described in 2004]]
+[[Category:Fungi of Europe]]
+[[Category:Hydnum|ellipsosporum]]
+[[Category:Fungus species]]
+
+
+{{Agaricomycetes-stub}}
