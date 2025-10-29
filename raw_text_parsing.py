@@ -10,10 +10,46 @@ LINK_PATTERN = re.compile(r"\[\[([^\]|#]+)(?:\|[^\]]+)?\]\]")   # [[Target|Label
 CATEGORY_PATTERN = re.compile(r"\[\[Category:([^\]|#]+)")       # [[Category:Something]]
 SECTION_PATTERN = re.compile(r"^==+\s*(.*?)\s*==+", re.MULTILINE)
 
+# --- Template patterns ---
+SPECIESBOX_PATTERN = re.compile(r"\{\{[Ss]peciesbox\s*(.*?)\n\}\}", re.DOTALL)
+MYCOMORPHBOX_PATTERN = re.compile(r"\{\{[Mm]ycomorphbox\s*(.*?)\n\}\}", re.DOTALL)
+BOX_PARAM_PATTERN = re.compile(r"\|\s*([^=]+?)\s*=\s*(.+)")
+
+def clean_wikimarkup(value):
+    """Remove wiki markup, references, and other clutter."""
+    # Remove [[links]] but keep display text
+    value = re.sub(r"\[\[(?:[^\]|]+\|)?([^\]]+)\]\]", r"\1", value)
+    # Remove <ref> tags and their contents
+    value = re.sub(r"<ref[^>]*>.*?</ref>", "", value)
+    # Remove HTML comments
+    value = re.sub(r"<!--.*?-->", "", value)
+    # Remove small/bold/italic markup
+    value = re.sub(r"''+([^']+)''+", r"\1", value)
+    value = re.sub(r"<small>(.*?)</small>", r"\1", value, flags=re.IGNORECASE)
+    # Strip extra whitespace
+    return value.strip()
+
+def parse_template_block(pattern, text):
+    """Extract key-value pairs from a given template pattern."""
+    match = pattern.search(text)
+    if not match:
+        return None
+
+    content = match.group(1)
+    data = {}
+    for line in content.split("\n"):
+        param_match = BOX_PARAM_PATTERN.match(line)
+        if param_match:
+            key = param_match.group(1).strip()
+            value = param_match.group(2).strip()
+            value = clean_wikimarkup(value)
+            data[key] = value
+    return data if data else None
+
 def parse_wikitext(title, text):
     """
     Parse a single wikitext article into structured fields:
-    links, categories, section titles, full text.
+    links, categories, section titles, full text, speciesbox, mycomorphbox.
     """
 
     # --- Extract categories ---
@@ -21,7 +57,6 @@ def parse_wikitext(title, text):
 
     # --- Extract links ---
     links = LINK_PATTERN.findall(text)
-    # Remove duplicates, ignore File/Image prefixes
     links = list({
         link.strip()
         for link in links
@@ -30,6 +65,10 @@ def parse_wikitext(title, text):
 
     # --- Extract section titles ---
     sections = SECTION_PATTERN.findall(text)
+
+    # --- Extract species and mycomorph boxes ---
+    speciesbox = parse_template_block(SPECIESBOX_PATTERN, text)
+    mycomorphbox = parse_template_block(MYCOMORPHBOX_PATTERN, text)
 
     # --- Clean categories and sections ---
     categories = [c.strip() for c in categories if c.strip()]
@@ -40,9 +79,10 @@ def parse_wikitext(title, text):
         "links": links,
         "categories": categories,
         "sections": sections,
-        "text": text.strip()
+        "text": text.strip(),
+        "speciesbox": speciesbox,
+        "mycomorphbox": mycomorphbox
     }
-
 
 def main():
     parsed_data = []
@@ -71,4 +111,5 @@ def main():
     print(f"\n✅ Done. Saved parsed data to: {OUTPUT_PATH}")
     print(f"Entries parsed: {len(parsed_data)}")
 
-main()
+if __name__ == "__main__":
+    main()
